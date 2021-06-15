@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165154">
+  <titre>Charlotte brésilienne d'Elodie</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150g de langues de chat</p>
+    <p>20g de beurre</p>
+    <p>Pour la mousse au chocolat noir :</p>
+    <p>150g de chocolat noir amer</p>
+    <p>50g de beurre</p>
+    <p>2cuil a soupe de sucre en poudre</p>
+    <p>2 oeufs extra-frais</p>
+    <p>Pour la mousse au café :</p>
+    <p>4 petits suisses</p>
+    <p>4cuil a soupe de crème épaisse</p>
+    <p>3cuil a soupe de sucre en poudre</p>
+    <p>2 oeufs extra-frais</p>
+    <p>1cuil a soupe d'extrait de café</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la mousse au chocolat:
+    Casser le chocolat en morceaux, couper le beurre en dés. Les faire fondre ensemble au bain-marie avec 2 cuil a soupe d'eau. Lorsque la pâte est lisse et brillante, remuer et laisser tiédir.
+    Casser les oeufs pour séparer les blancs des jaunes. Battre les blancs en neige, en incorporant le sucre petit à petit.
+    Ajouter les jaunes d'oeufs au chocolat fondu lorsqu'il est devenu tiède. Remuer énergiquement, puis melanger délicatement avec la neige. Réserver au frais.
+    Préparer la mousse au café:
+    Casser les oeufs et séparer les blancs des jaunes. Travailler énergiquement les petits-suisses, la crème, l'extrait de café, le sucre ainsi que les jaunes d'oeufs. Battre les blancs en neige et mélanger délicatement les deux préparations. Beurrer un moule a manqué. Etaler la mousse de café au fond, couvrer d'une couche de langue de chat, puis verser la mousse au chocolat. Mettre 24h au frais. Pour servir, démouler sur un plat et coller les langues de chat taillés à la hauteur adéquate, partie ronde vers le haut. Décorer le dessus de la charlotte de la même façon et server frais. Vous pouvez ajouter du coco rapé pour une note exotique.Si vous avez des difficultés pour extraire la charlotte, plongez la très rapidement dans un récipient d'eau tiède ou encore passez une lame de couteau sur son pourtour. La charlotte doit alors se démouler sans problème. Champagne
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Préparer</OPER> la mousse au chocolat : <OPER id="o_2">Casser</OPER> le <INGRED id="4">chocolat</INGRED> en <INGRED id="1">morceaux</INGRED>, <OPER id="o_3">couper</OPER> le <INGRED id="5">beurre</INGRED> en <INGRED id="4">dés</INGRED>. Les <INGRED id="10">faire</INGRED> <OPER id="o_4">fondre</OPER> ensemble au bain - marie avec 2 cuil a <INGRED id="9">soupe</INGRED> d'<INGRED id="4">eau</INGRED>. Lorsque la <INGRED id="1">pâte</INGRED> est lisse et brillante, <OPER id="o_5">remuer</OPER> et laisser <OPER id="o_6">tiédir</OPER>. <OPER id="o_7">Casser</OPER> les <INGRED id="5">oeufs</INGRED> pour séparer les <INGRED id="7">blancs</INGRED> des jaunes. <OPER id="o_8">Battre</OPER> les <INGRED id="7">blancs</INGRED> en neige, en incorporant le sucre petit à petit. <OPER id="o_9">Ajouter</OPER> les jaunes d'oeufs au <INGRED id="7">chocolat</INGRED> fondu lorsqu'il est devenu tiède. <OPER id="o_10">Remuer</OPER> énergiquement, puis <OPER id="o_11">melanger</OPER> délicatement avec la neige. Réserver au frais. <OPER id="o_12">Préparer</OPER> la mousse au <INGRED id="7">café</INGRED> : <OPER id="o_13">Casser</OPER> les <INGRED id="10">oeufs</INGRED> et <OPER id="o_14">séparer</OPER> les <INGRED id="7">blancs</INGRED> des jaunes. <OPER id="o_15">Travailler</OPER> énergiquement les petits-suisses, la crème, l'extrait de <INGRED id="3">café</INGRED>, le <INGRED id="9">sucre</INGRED> ainsi que les jaunes d'oeufs. <OPER id="o_16">Battre</OPER> les <INGRED id="7">blancs</INGRED> en neige et <OPER id="o_17">mélanger</OPER> délicatement les deux préparations. <OPER id="o_18">Beurrer</OPER> un moule a manqué. <OPER id="o_19">Etaler</OPER> la mousse de <INGRED id="3">café</INGRED> au <INGRED id="4">fond</INGRED>, <OPER id="o_20">couvrer</OPER> d'une couche de langue de chat, puis <OPER id="o_21">verser</OPER> la mousse au <INGRED id="4">chocolat</INGRED>. <OPER id="o_22">Mettre</OPER> 24h au frais. Pour servir, <OPER id="o_23">démouler</OPER> sur un plat et <OPER id="o_24">coller</OPER> les <INGRED id="1">langues de chat</INGRED> taillés à la hauteur adéquate, partie ronde vers le haut. <OPER id="o_25">Décorer</OPER> le dessus de la charlotte de la même façon et <OPER id="o_26">server</OPER> frais. Vous pouvez <OPER id="o_27">ajouter</OPER> du coco rapé pour une note exotique. Si vous avez des difficultés pour extraire la charlotte, <OPER id="o_28">plongez</OPER> la très rapidement dans un récipient d'<INGRED id="1">eau</INGRED> tiède ou encore passez une lame de couteau sur son pourtour. La charlotte doit alors se <OPER id="o_29">démouler</OPER> sans problème. Champagne
+  </annotation>
+  <annotation methode="crf">
+  Préparer la mousse au <INGRED>chocolat</INGRED> <INGRED>:</INGRED> Casser le <INGRED>chocolat</INGRED> en <INGRED>morceaux</INGRED> <INGRED>,</INGRED> couper le <INGRED>beurre</INGRED> en dés <INGRED>.</INGRED> Les faire fondre ensemble au bain - marie avec 2 <INGRED>cuil</INGRED> <INGRED>a</INGRED> soupe d'<INGRED>eau</INGRED> <INGRED>.</INGRED> Lorsque la <INGRED>pâte</INGRED> est lisse et brillante <INGRED>,</INGRED> remuer et laisser tiédir. Casser les <INGRED>oeufs</INGRED> pour séparer les <INGRED>blancs</INGRED> des <INGRED>jaunes</INGRED> <INGRED>.</INGRED> Battre les <INGRED>blancs</INGRED> en neige <INGRED>,</INGRED> en incorporant le <INGRED>sucre</INGRED> <INGRED>petit</INGRED> à <INGRED>petit</INGRED> <INGRED>.</INGRED> Ajouter les <INGRED>jaunes d'oeufs</INGRED> au <INGRED>chocolat</INGRED> fondu lorsqu'il est devenu tiède. Remuer énergiquement <INGRED>,</INGRED> puis melanger délicatement avec la neige <INGRED>.</INGRED> Réserver au <INGRED>frais</INGRED> <INGRED>.</INGRED> Préparer la mousse au <INGRED>café</INGRED> <INGRED>:</INGRED> Casser les <INGRED>oeufs</INGRED> et séparer les <INGRED>blancs</INGRED> des <INGRED>jaunes</INGRED> <INGRED>.</INGRED> Travailler énergiquement les petits-suisses <INGRED>,</INGRED> la <INGRED>crème</INGRED> <INGRED>,</INGRED> l'<INGRED>extrait de café</INGRED> <INGRED>,</INGRED> le <INGRED>sucre</INGRED> ainsi que les <INGRED>jaunes d'oeufs</INGRED> <INGRED>.</INGRED> Battre les <INGRED>blancs</INGRED> en neige et mélanger délicatement les <INGRED>deux</INGRED> préparations. Beurrer un moule <INGRED>a</INGRED> manqué <INGRED>.</INGRED> Etaler la mousse de <INGRED>café</INGRED> au <INGRED>fond</INGRED> <INGRED>,</INGRED> couvrer d'une couche de langue de chat <INGRED>,</INGRED> puis verser la mousse au <INGRED>chocolat</INGRED> <INGRED>.</INGRED> Mettre 24h au <INGRED>frais</INGRED> <INGRED>.</INGRED> Pour servir <INGRED>,</INGRED> démouler sur un plat et coller les <INGRED>langues</INGRED> de chat taillés à la hauteur adéquate <INGRED>,</INGRED> partie ronde vers le haut. Décorer le dessus de la charlotte de la même façon et server <INGRED>frais</INGRED> <INGRED>.</INGRED> Vous pouvez ajouter du coco rapé pour une note exotique. Si vous avez des difficultés pour extraire la charlotte <INGRED>,</INGRED> plongez la très rapidement dans un récipient d'<INGRED>eau</INGRED> tiède ou encore passez une lame de couteau sur son pourtour <INGRED>.</INGRED> La charlotte doit alors se démouler sans problème. Champagne
+  </annotation>
+  <complexite>
+    <temps>f(X) = 25.3636363636364*X + 5.63636363636364</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 18*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['langues de chat', 'langues']	 id:1	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:2	 quantité:20	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['chocolat noir amer', 'chocolat']	 id:3	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:4	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['cuil a soupe de sucre en poudre', 'cuil']	 id:5	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['oeufs extra-frais', 'oeufs']	 id:6	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['suisses']	 id:7	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['cuil a soupe de crème épaisse', 'cuil']	 id:8	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['cuil a soupe de sucre en poudre', 'cuil']	 id:9	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['oeufs extra-frais', 'oeufs']	 id:10	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:["cuil a soupe d'extrait de café", 'cuil']	 id:11	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préparer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:casser	 id:o_2	 ingrédients_ralatifs:['4', '1', '5', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_3	 ingrédients_ralatifs:['5', '4']	 nombre_opération_atomique:2*X+1	 temps:2*X*1+1*X*1	 recipient:1
+operation:fondre	 id:o_4	 ingrédients_ralatifs:['4', '1', '5', '4', '10', '9', '4']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:remuer	 id:o_5	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tiédir	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:casser	 id:o_7	 ingrédients_ralatifs:['5', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_8	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:melanger	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparer	 id:o_12	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:casser	 id:o_13	 ingrédients_ralatifs:['10', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:séparer	 id:o_14	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:travailler	 id:o_15	 ingrédients_ralatifs:['3', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_16	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:beurrer	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:etaler	 id:o_19	 ingrédients_ralatifs:['3', '4', '4']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:couvrer	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_21	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:démouler	 id:o_23	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:coller	 id:o_24	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:décorer	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:server	 id:o_26	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_27	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:plonger	 id:o_28	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:démouler	 id:o_29	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

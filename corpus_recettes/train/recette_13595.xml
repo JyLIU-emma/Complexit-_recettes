@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13595">
+  <titre>Beurek au fromage (Arménie)</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 tasses et demi de farine</p>
+    <p>1/2 tasse de lait</p>
+    <p>1/2 tasse de beurre fondu</p>
+    <p>2 œufs</p>
+    <p>sel</p>
+    <p>1/2 cuillère à café de sucre</p>
+    <p>1 morceau de levure du boulanger</p>
+    <p>St Marcellin avec du persil, ou fromage arménien</p>
+    <p>huile pour les mains</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger tous les ingrédients.Étaler des petits ronds de pâte. La farcir de St Marcellin avec du persil, ou de fromage arménien.
+    Replier la pâte en deux (cela doit ressembler a des petits chaussons).Faire frire à la poêle. Areni (vin arménien)
+  ]]>
+  </preparation>
+</recette>

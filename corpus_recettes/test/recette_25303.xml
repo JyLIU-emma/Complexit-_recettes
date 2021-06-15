@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25303">
+  <titre>Cheese cake aux abricots</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de fromage type Saint Moret</p>
+    <p>400 g de fromage blanc</p>
+    <p>150 g de sucre en poudre</p>
+    <p>1 jus de citron</p>
+    <p>1 cuillère à café de gingembre en poudre</p>
+    <p>3 oeufs</p>
+    <p>3/4 d'un paquet de biscuits secs type petits-beurre</p>
+    <p>170 g d'abricots en conserve</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four Th 6. 
+    Réserver 3 oreillons d'abricots et couper les autres en petits dés. 
+    Réduire les biscuits en fine poudre : les placer dans un poche et les écraser au rouleau à pâtisserie ou les passer au robot mixer. 
+    Beurrer un moule à manqué de 20 cm et le tapisser (fond et parois) avec les biscuits écrasés en pressant bien avec les doigts pour faire adhérer. Réserver 2 à 3 cuillères à soupe de poudre pour le décor. 
+    Mélanger avec un fouet le fromage, fromage blanc, jus de citron, gingembre et le sucre. Ajouter les oeufs battus en omelette. Mélanger jusqu'à obtenir une pâte onctueuse. 
+    Ajouter les dés d'abricots et bien mélanger. Verser dans le moule. 
+    Faire cuire à four chaud 1 h. Ce temps passé, laisser la porte du four entrouverte et le gâteau reposer 30 mn. 
+    Sortir le cheese cake, le laisser refroidir et mettre au frigo au moins 2 heures. 
+    Au moment de servir décorer avec les 3 abricots et la poudre de biscuit restante. 
+    Servir bien froid.
+    Peut se préparer la veille.
+  ]]>
+  </preparation>
+</recette>

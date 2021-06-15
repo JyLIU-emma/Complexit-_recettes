@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17746">
+  <titre>Pimientos del pequillo (Pays basque)</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de pimientos del piquillo</p>
+    <p>romarin frais</p>
+    <p>2 gousses d'ail</p>
+    <p>huile d'olive</p>
+    <p>300 g de morue séchée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille, faire tremper la morue pour dessaler.
+    Le jour même, nettoyer la morue et la faire pocher 5mn dans l'eau frémissante, l'égouter et l'effeuiller. La faire revenir dans une sauteuse avec de l'huile d'olive, avec les gousses d'ail pelées et écrasées pendant 30 mn en remuant et en rajoutant de l'huile si nécessaire.
+    Retirer du feu, poivrer et garnir chaque pimiento. Mettre au frais.
+    Avant de servir, saupoudrer de romarin.
+  ]]>
+  </preparation>
+</recette>

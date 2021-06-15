@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23089">
+  <titre>Le brésilien</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de sucre</p>
+    <p>200 g de farine</p>
+    <p>200 g de beurre</p>
+    <p>150 g d'amandes en poudre</p>
+    <p>5 oeufs</p>
+    <p>1 paquet de levure</p>
+    <p>1 cuillère à soupe de café soluble</p>
+    <p>1 cuillère à soupe de rhum</p>
+    <p>1 cuillère à soupe d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 180°C (thermostat 6).
+    Tamiser le paquet de levure avec la farine et les verser dans un saladier.
+    Dans une casserole, faire chauffer un tout petit peu d'eau et y incorporer le café soluble avec le rhum.
+    Incorporer au mélange de farine, ajouter la poudre d'amandes et le sucre puis faire une fontaine au milieu.
+    Faire fondre le beurre. Casser les oeufs au centre de la fontaine, y ajouter le beurre fondu, puis le mélange eau/rhum/café. Bien mélanger le tout jusqu'à l'obtention d'une pâte bien lisse.
+    Verser ensuite cette pâte dans le moule à manqué et enfourner à four chaud pour 45 min en s'assurant que le gâteau est bien placé au centre du four pour une cuisson homogène.
+    Vérifier la cuisson à l'aide de la pointe d'un couteau, celle-ci doit en sortir sèche si le gâteau est cuit.
+    Démouler le gâteau sur un plat et le laisser refroidir.
+    Servir le gâteau avec une crème au café ou le fourrer d'une crème au beurre au café ou le saupoudrer d'amandes grillées.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25800">
+  <titre>Congolais</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de noix de coco râpée</p>
+    <p>200 g de sucre en poudre</p>
+    <p>2 oeufs </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 160° (thermostat 5-6).
+    Mélanger les jaunes d'oeufs avec le sucre dans un saladier. 
+    Monter les blancs d'oeufs en neige et les incorporer à la préparation. Ajouter la noix de coco.
+    Disposer des noix de pâte sur une plaque de four recouverte de papier sulfurisé et enfourner pendant 15 min à 160° (thermostat 5-6).
+  ]]>
+  </preparation>
+</recette>

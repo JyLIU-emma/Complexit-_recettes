@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16128">
+  <titre>Pain de viande provençal</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 tranches de pain rassis</p>
+    <p>500 g de boeuf haché</p>
+    <p>6 gousses d'ail</p>
+    <p>400 g de purée de tomate</p>
+    <p>persil, basilic, 2 cuillères à soupe d'origan</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 220°C (thermostat 7). 
+    Mixez le pain émietté avec l'ail, le persil et le basilic. 
+    Ajoutez ce hachis à la purée de tomate, incorporez l'huile, les épices, le sel et le poivre. 
+    Ajoutez le boeuf haché et pétrissez jusqu'à ce que l'ensemble soit homogène.
+    Versez le mélange dans un moule à cake huilé, bien tassé. Faites cuire 1 h.
+    Servez tiède ou froid avec un coulis de tomate et une salade aux croûtons frottés à l'ail.
+  ]]>
+  </preparation>
+</recette>

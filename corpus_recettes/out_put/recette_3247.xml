@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="3247">
+  <titre>Carré à l'orange et à la cannelle</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 Carrés Frais</p>
+    <p>1 orange</p>
+    <p>2 cuillères à café de miel</p>
+    <p>une pointe de couteau de cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Disposer 2 Carrés Frais dans une assiette.
+    Ajouter la moité du jus d'1 orange, 1 cuillère de miel, et un peu de cannelle.
+    Un dessert bien frais et équilibré... Bon appétit!
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Disposer</OPER> 2 <INGRED id="1">Carrés Frais</INGRED> dans une assiette. <OPER id="o_2">Ajouter</OPER> la moité du jus d'1 <INGRED id="2">orange</INGRED>, 1 cuillère de <INGRED id="4">miel</INGRED>, et un peu de cannelle. Un dessert bien frais et équilibré... Bon appétit !
+  </annotation>
+  <annotation methode="crf">
+  Disposer 2 <INGRED>Carrés Frais</INGRED> dans une assiette <INGRED>.</INGRED> Ajouter la moité du <INGRED>jus</INGRED> d'1 orange <INGRED>,</INGRED> 1 cuillère de <INGRED>miel</INGRED> <INGRED>,</INGRED> et un peu de <INGRED>cannelle</INGRED> <INGRED>.</INGRED> Un dessert bien <INGRED>frais</INGRED> et équilibré... Bon appétit !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 1.75*X + 0.25</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 7*X + 2</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['Carrés Frais', 'Carrés']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['orange']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['miel']	 id:3	 quantité:2	 unité:cuillères à café de	 denombrable:True	 recipient:2*X
+ingredient:['cannelle']	 id:4	 quantité:non_precis	 unité:pointe de couteau de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:disposer	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

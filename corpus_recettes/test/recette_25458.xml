@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25458">
+  <titre>Curry de crevettes épicées</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de crevettes fraîches</p>
+    <p>2 oignons</p>
+    <p>2 gousses d'ail</p>
+    <p>2 cuillères à soupe de curry en poudre</p>
+    <p>2 verres de vin blanc sec</p>
+    <p>3 cuillères à soupe de crème fraîche épaisse</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>Tabasco</p>
+    <p>sel, poivre</p>
+    <p>herbes de Provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez les crevettes. 
+    Emincez les oignons, l'ail et faites-les revenir dans l'huile. 
+    Ajoutez les crevettes et laissez dorer 3 mn environ. 
+    Saupoudrez de curry et laissez prendre encore quelques instants. 
+    Mouillez ensuite avec le vin blanc. 
+    Laissez mijoter 5 bonnes minutes. 
+    Salez, poivrez, ajoutez quelques gouttes de Tabasco et les herbes de Provence. 
+    Avant de servir ajoutez la crème fraîche, remuez pour donner au plat la couleur du curry.
+    Attention de ne exagérer sur le Tabasco, le plat ne doit pas piquer mais laisser un petit gout légèrement relevé dans la bouche.
+    Des crevettes fraîches sont indispensables. Vin blanc sec
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16870">
+  <titre>Gâteau d'anniversaire</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de farine</p>
+    <p>300 g de sucre</p>
+    <p>4 gros oeufs (blancs en neige)</p>
+    <p>1 ou 2 paquets de sucre vanillé</p>
+    <p>1 paquet de levure chimique</p>
+    <p>1 verre de lait</p>
+    <p>1 verre d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les jaunes d'oeuf et le sucre 
+    pour obtenir un mélange blanc.
+    Ajouter peu à peu le verre de lait, le verre d'huile, la levure, puis la farine.
+    Monter les blancs en neige très ferme, puis les incorporer délicatement.
+    Beurrer et fariner légèrement un grand moule à
+    manqué, puis cuire 60 mn à thermostat 3 ou 4 (120°C), en enfournant à four froid.
+    Excellente base comme gateau à fourrer pour un anniversaire, coupé en deux et fourré d'une crème patissière avec des fraises ou des poires.
+  ]]>
+  </preparation>
+</recette>

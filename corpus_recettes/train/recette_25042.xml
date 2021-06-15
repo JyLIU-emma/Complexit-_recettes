@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25042">
+  <titre>Crème aux oeufs au caramel</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p> 75 cl de lait</p>
+    <p>100 g de sucre</p>
+    <p>5 jaunes d’œuf</p>
+    <p>Pour le caramel :</p>
+    <p>150 g de sucre</p>
+    <p>eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Porter le lait à ébullition avec le sucre et réserver au chaud.
+    Préparer ensuite le caramel avec le sucre et l’eau dans grande une casserole.
+    Dès coloration du caramel, verser le lait chaud avec précaution et bien mélanger avec une cuillère en bois.
+    Dans un saladier, battre les jaunes d’œuf et les verser dans la casserole de lait.
+    Faire épaissir à feu très doux sans en continuant de remuer sans porter à ébullition.
+    Une fois la préparation épaissie, la passer au chinois et laisser refroidir.
+    Réserver au frais et servir.
+  ]]>
+  </preparation>
+</recette>

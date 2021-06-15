@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16188">
+  <titre>Plum cake</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de beurre</p>
+    <p>200 g de sucre</p>
+    <p>1 paquet de sucre vanillé (7,5 g)</p>
+    <p>4 oeufs</p>
+    <p>1 petit verre de rhum brun (20 cl)</p>
+    <p>1 pincée de sel</p>
+    <p>500 g de farine</p>
+    <p>1 paquet de levure chimique (11 g)</p>
+    <p>12,5 cl de lait froid</p>
+    <p>300 g de fruits confits</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Travaillez le beurre en mousse. Ajoutez peu à peu le sucre, le sucre vanillé, les oeufs, le rhum et le sel.
+    Incorporez par petites quantités le mélange tamisé farine levure chimique en alternant avec le lait. La pâte est à point quand elle se détache de la spatule.
+    Ajoutez les fruits confits coupés en cubes. Répartissez la préparation dans un grand moule à cake beurré et fariné.
+    Faites cuire pendant 90 mn (180-200°C). Laissez tiédir avant de démouler.
+  ]]>
+  </preparation>
+</recette>

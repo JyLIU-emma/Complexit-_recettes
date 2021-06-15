@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17989">
+  <titre>Terrine de lapin</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 G de lapin</p>
+    <p>1 Kg de Porc (un peu gras)</p>
+    <p>un peu de barde de lard</p>
+    <p>4 gousses d'ail</p>
+    <p>4 beaux oignons</p>
+    <p>3 oeufs</p>
+    <p>12,5 cl de lait</p>
+    <p>25 g de sel</p>
+    <p>1 cuillère à soupe de poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Désosser le lapin totalement (garder les abats).
+    Couper le porc en lanière.
+    Hacher le lapin (pas trop finement), puis réserver.
+    Hacher le porc (pas trop finement), puis réserver.
+    Battre les oeufs, puis mélanger avec l'ail et les oignons hachés.
+    Ajouter le lait, le sel et le poivre.
+    Mélanger l'ensemble avec la viande puis hacher le tout plus finement (pas trop).
+    Barder la terrine ovale puis la remplir du mélange.
+    Mettre au four au bain-marie à 180°C (th 6) pendant 1h45.
+    Laisser reposer 2 jours après cuisson, au réfrigérateur.
+  ]]>
+  </preparation>
+</recette>

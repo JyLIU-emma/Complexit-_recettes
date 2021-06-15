@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15090">
+  <titre>Coulemelles au gril</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de coulemelles (lépiotes élevées) fraîchement récoltées</p>
+    <p>huile d'olive</p>
+    <p>herbes de Provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Enlever le pied des champignons.
+    Badigeonner l'intérieur du chapeau d'huile d'olive et saupoudrer d'herbes de Provence.
+    Passer sous le gril, puis servir aussitôt.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14697">
+  <titre>Crème à la lavande</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>50 g de fleurs de lavande</p>
+    <p>50 cl de lait</p>
+    <p>100 g de sucre</p>
+    <p>3 jaunes d'oeufs</p>
+    <p>1 blanc d'oeuf</p>
+    <p>miel d'acacia</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les fleurs de lavande et le sucre dans le lait.
+    Faire bouillir puis laisser refroidir.
+    Filtrer ensuite le lait pour enlever les fleurs de lavande.
+    Battre ensuite les jaunes d'oeufs et le blanc et verser le tout dans le lait refroidi.
+    Remplir de petits ramequins et faire prendre au bain-marie : four thermostat 6 pendant 45 min.
+    Servir froid avec un nappage de miel d'acacia.
+  ]]>
+  </preparation>
+</recette>

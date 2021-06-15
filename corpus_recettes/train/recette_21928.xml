@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21928">
+  <titre>Poulet des Calanques</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poulet</p>
+    <p>300 g de citrons confits</p>
+    <p>100 g d'olives noires</p>
+    <p>100 g d'olives vertes</p>
+    <p>3 oignons</p>
+    <p>1 botte de persil</p>
+    <p>10 gousses d'ail</p>
+    <p>30 g de gingembre</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Matériel : une cocotte
+    Dans la cocotte, faire dorer le poulet dans l'huile d'olive, de tous côtés. 
+    Hacher l'ail, les oignons, le persil, le gingembre, Versez-les dans la cocotte avec les olives et le poivre (ne pas saler!). 
+    Recouvrir d'eau froide, et cuire environ 1h. Retirer le poulet de la cocotte, réservez-le au chaud. Ajoutez les citrons et faire réduire la sauce. Servir avec du riz.ne pas utiliser de citrons non-confits (trop amers!). Un plat parfait pour 12-15 personnes en doublant les proportions côtes du rhône
+  ]]>
+  </preparation>
+</recette>

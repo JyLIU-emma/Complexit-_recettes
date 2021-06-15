@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17927">
+  <titre>Crème de moules au curry</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,5 kg de moules</p>
+    <p>3 échalotes</p>
+    <p>1 bouquet garni</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>50 cl de fumet de poisson</p>
+    <p>1 cuillère à soupe de curry</p>
+    <p>30 g de beurre</p>
+    <p>20 cl de crème fraîche</p>
+    <p>2 jaunes d'oeufs </p>
+    <p>cerfeuil</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Gratter et laver les moules. Dans une sauteuse, les faire ouvrir sur feu vif à couvert avec les échalotes hachées, le bouquet garni et le vin. 
+    Oter les moules, les décoquiller les réserver. 
+    Filtrer leur jus au-desus d'une casserole, ajouter le fumet, faire mijoter 15 mn. 
+    Dans une petite casserole, faire revenir le curry 1 mn dans le beurre, ajouter en fouettant les deux tiers de la crème, l'incorporer au fumet. 
+    Fouetter les jaunes d'oeufs, le reste de crème et un peu de velouté, puis mélanger le tout, ajouter les moules, saler, poivrer et laisser épaissir 2 mn sans bouillir. 
+    Servir chaud en décorant de cerfeuil.Accompagnez de petits croûtons grillés. 
+  ]]>
+  </preparation>
+</recette>

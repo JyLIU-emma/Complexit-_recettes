@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25784">
+  <titre>Lotte aux tomates, pignons et amandes</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,5 kg de lotte en morceaux </p>
+    <p>100 g de pignons de pin</p>
+    <p>50 g d'amandes en poudre</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>4 oignons</p>
+    <p>3 têtes d'ail</p>
+    <p>2 tomates</p>
+    <p>1 poivron rouge </p>
+    <p>7 ou 8 brins de persil plat</p>
+    <p>50 cl de fumet de poisson</p>
+    <p>4 cuillères à soupe d'huile d'olive</p>
+    <p>2 pincée de poivre de Cayenne</p>
+    <p>sel </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire une fondue d'oignon dans une poêle à feu doux pendant 20 min avec 2 cuillères à soupe d'huile. Assaisonner. 
+    Verser le fumet de poisson et le vin blanc dans une sauteuse. Y faire pocher le poisson 15 min. 
+    Découper le poivron rouge en morceaux et monder les tomates. Les mixer avec le persil, les pignons, la poudre d'amandes, le poivre de Cayenne et l'huile. Verser dans la fondue d'oignon.
+    Égoutter le poisson et tamiser le bouillon. Verser les 2/3 de celui-ci dans la poêle et laisser mijoter pendant 2 min. Y placer la lotte quelques instants pour la réchauffer.
+  ]]>
+  </preparation>
+</recette>

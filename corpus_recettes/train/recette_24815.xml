@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24815">
+  <titre>Crêpes aux diots et au gruyère</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 crêpes ou galettes de blé noir</p>
+    <p>4 diots de Savoie (ou saucisses à cuire)</p>
+    <p>60 g de gruyère râpé</p>
+    <p>2 cuillères à soupe de moutarde</p>
+    <p>30 g de beurre</p>
+    <p>15 cl de vin blanc</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les diots (préalablement piqués) dans une casserole avec 15 g de beurre et le vin blanc. Laissez cuire 20 à 25 minutes environ.
+    Réchauffez les crêpes. Badigeonnez une crêpe de moutarde, posez une saucisse dessus et enroulez la crêpe autour. Répétez l'opération et disposez les crêpes garnies dans un plat beurré.
+    Saupoudrez de fromage et faîtes gratiner 5 minutes sous le grill.
+    Servez avec une salade verte assaisonnée.
+  ]]>
+  </preparation>
+</recette>

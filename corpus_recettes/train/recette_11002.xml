@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11002">
+  <titre>Charlotte salée à la coriandre et carrés frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 paquets de carrés frais (400g en tout)</p>
+    <p>200 g de crème fraîche épaisse</p>
+    <p>3 sachets de gélatine en poudre</p>
+    <p>3 poivrons (rouges ou jaunes)</p>
+    <p>50 g de tomates séchées</p>
+    <p>1 botte de coriandre fraîche</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire griller les poivrons soit sur un feu, soit au four, en les tournant pour qu'ils soient bien grillés sur toutes les faces.
+    Pendant ce temps, mélanger au mixeur, la coriandre, le fromage et la crème fraîche, saler et poivrer. Faire gonfler la gélatine dans 2 cuillères à soupe d'eau froide (5 min) et la faire fondre doucement à feu doux. L'ajouter à la préparation de fromage et bien mélanger.
+    Quand les poivrons sont grillés, les plonger dans l'eau froide. Les éplucher et les égoutter sur du papier absorbant. 
+    Dans le moule à cake, recouvrir le fond et les parois de morceaux de poivrons et de tomates séchées en alternant. Verser la préparation au fromage. Mettre au réfrigérateur au moins 6 heures avant de servir.
+    Démouler en plongeant le moule 1 minute dans un fond d'eau chaude (dans l'évier un peu rempli par exemple). Poser un plat de service dessus et retourner le tout.
+    Couper une tranche épaisse par personne.
+    Servir avec du pain grillé et une larme d'huile d'olive.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10529">
+  <titre>Terrine de foie de porc</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 grammes de foie de porc </p>
+    <p>200 grammes de lard gras </p>
+    <p>2 échalotes </p>
+    <p>1 gousse d'ail </p>
+    <p>1 oeuf </p>
+    <p>3 cuillères à soupe de lait </p>
+    <p>1 noix de muscade </p>
+    <p>2 feuilles de laurier </p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - hacher (pas trop fin) le foie, le lard, les échalotes et l'ail à l'aide d'un robot 
+    ajouter l'oeuf, le lait, 3/4 d'une cuillère à soupe de sel, raper un peu de noix muscade et bien mélanger 
+    disposer les feuilles de laurier au fond d'une terrine (une vraie en terre !) 
+    verser le mélange pas-dessus sans remplir entièrement la terrine et luter (c'est à dire étanchéïfier) le couvercle de la terrine avec une pâte farine + eau 
+    cuire à four moyen (thermostat 5-6) pendant 1 h 30 à 1 h 45 
+    laisser refroidir doucement  Un rouge bien charpenté : Madiran, cahors, Hermitage, Cornas ....
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  - <OPER id="o_1">hacher</OPER> ( pas trop fin ) le <INGRED id="1">foie</INGRED>, le <INGRED id="2">lard</INGRED>, les <INGRED id="3">échalotes</INGRED> et l'<INGRED id="4">ail</INGRED> à l'aide d'un robot <OPER id="o_2">ajouter</OPER> l'<INGRED id="5">oeuf</INGRED>, le <INGRED id="3">lait</INGRED>, 3/4 d'une cuillère à soupe de <INGRED id="9">sel</INGRED>, <OPER id="o_3">raper</OPER> un peu de <INGRED id="7">noix</INGRED> muscade et bien <OPER id="o_4">mélanger</OPER> <OPER id="o_5">disposer</OPER> les feuilles de <INGRED id="8">laurier</INGRED> au fond d'une terrine ( une vraie en terre ! ) <OPER id="o_6">verser</OPER> le mélange pas - dessus sans <OPER id="o_7">remplir</OPER> entièrement la terrine et <OPER id="o_8">luter</OPER> ( c'est à dire <OPER id="o_9">étanchéïfier</OPER> ) le couvercle de la terrine avec une pâte farine + eau <OPER id="o_10">cuire</OPER> à four moyen ( thermostat 5 - 6 ) pendant 1 h 30 à 1 h 45 laisser <OPER id="o_11">refroidir</OPER> doucement Un rouge bien charpenté : Madiran, cahors, Hermitage, Cornas....
+  </annotation>
+  <annotation methode="crf">
+  - hacher ( pas trop fin ) le <INGRED>foie</INGRED> <INGRED>,</INGRED> le <INGRED>lard</INGRED> <INGRED>,</INGRED> les <INGRED>échalotes</INGRED> et l'<INGRED>ail</INGRED> à l'aide d'un robot ajouter l'<INGRED>oeuf</INGRED> <INGRED>,</INGRED> le <INGRED>lait</INGRED> <INGRED>,</INGRED> 3/4 d'une cuillère à soupe de <INGRED>sel</INGRED> <INGRED>,</INGRED> raper un peu de <INGRED>noix muscade</INGRED> et bien mélanger disposer les feuilles de <INGRED>laurier</INGRED> au <INGRED>fond</INGRED> d'une terrine ( une vraie en terre ! ) verser le <INGRED>mélange</INGRED> pas - dessus sans remplir entièrement la terrine et luter ( c'est à dire étanchéïfier ) le couvercle de la terrine avec une <INGRED>pâte</INGRED> <INGRED>farine</INGRED> + <INGRED>eau</INGRED> cuire à four moyen ( thermostat 5 - 6 ) pendant 1 <INGRED>h</INGRED> 30 à 1 <INGRED>h</INGRED> 45 laisser refroidir doucement Un rouge bien charpenté <INGRED>:</INGRED> Madiran <INGRED>,</INGRED> cahors <INGRED>,</INGRED> Hermitage <INGRED>,</INGRED> Cornas....
+  </annotation>
+  <complexite>
+    <temps>f(X) = 617.97385620915*X + 2.02614379084967</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 610*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['foie de porc', 'foie']	 id:1	 quantité:400	 unité:grammes de	 denombrable:True	 recipient:400*X
+ingredient:['lard gras', 'lard']	 id:2	 quantité:200	 unité:grammes de	 denombrable:True	 recipient:200*X
+ingredient:['échalotes']	 id:3	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['ail']	 id:4	 quantité:1	 unité:gousse d'	 denombrable:True	 recipient:1*X
+ingredient:['oeuf']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['lait']	 id:6	 quantité:3	 unité:cuillères à soupe de	 denombrable:True	 recipient:3*X
+ingredient:['noix de muscade', 'noix']	 id:7	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['laurier']	 id:8	 quantité:2	 unité:feuilles de	 denombrable:True	 recipient:2*X
+ingredient:['sel']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:hacher	 id:o_1	 ingrédients_ralatifs:['1', '2', '3', '4', '5', '3', '9', '7', '8']	 nombre_opération_atomique:400*X+200*X+2*X+1*X+1*X+2*X+1+1*X+2*X	 temps:400*X*5+200*X*5+2*X*5+1*X*5+1*X*5+2*X*5+1*X*5+1*X*5+2*X*5	 recipient:1
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['5', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:raper	 id:o_3	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:disposer	 id:o_5	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:verser	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remplir	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:luter	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étanchéïfier	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:refroidir	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+]]>
+</operation_trouve>
+</recette>

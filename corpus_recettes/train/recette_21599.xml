@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21599">
+  <titre>Pintade au cidre maison</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1 belle pintade détaillée en morceaux</p>
+    <p>50 cl de cidre doux</p>
+    <p>3 verres à liqueur (15 cl) de calvados</p>
+    <p>1 cuillère à soupe de sucre, préférez la cassonade pour la couleur</p>
+    <p>4 échalotes</p>
+    <p>2 cuillères à soupe de fines herbes hachées</p>
+    <p>1 petit pot de crème fraîche épaisse</p>
+    <p>du beurre pour la cuisson</p>
+    <p>2 pincées de poivre, du sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez une marinade avec le cidre, 2 verres à liqueur (10cl) de calvados, les fines herbes, le poivre; Faites y trempez les moreceaux de pintade pendant 12 heures.
+    Au bout de ce temps, sortez les morceaux de viandes et essuyez-les.
+    D'un côté, faites réduire de moitié le jus de la marinade.
+    De l'autre, faites dorer dans du beurre la viandes avec les échalotes émincées.
+    Ajoutez le jus réduit, salez, sucrez, couvrez et laissez cuire 40 min à petit feu.
+    En fin de cuisson, sortez les morceaux de pintade dans une poêle. Chauffez le calvados restant, versez-le sur la viande et flambez. 
+    Ajustez la sauce de cuisson de la pintade. Ajoutez la crème fraîche, mélangez et réservez en saucière.
+    Ce plat peut se servir avec des carottes et des marrons.
+  ]]>
+  </preparation>
+</recette>

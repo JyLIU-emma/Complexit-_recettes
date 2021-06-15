@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16982">
+  <titre>Gâteau pommes, noix et cannelle</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 oeufs</p>
+    <p>180 ml d'huile </p>
+    <p>1 cuillère à café de cannelle</p>
+    <p>7.5 g de sucre vanillé</p>
+    <p>200 g de sucre</p>
+    <p>250 g de farine</p>
+    <p>2 cuillères à café de levure chimique</p>
+    <p>4 pommes </p>
+    <p>75 g de cerneaux de noix</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez au fouet les oeufs, l'huile, la cannelle, les sucres, puis la farine tamisée avec la levure chimique. Incorporez à la pâte lisse les pommes pelées et coupées en dés et les cerneaux de noix hachés (la pâte est alors très épaisse et dure à mélanger). Versez dans un moule à cake beurré et fariné.Faites cuire au four à thermostat 6 (180°C) pendant 1 heure environ.
+  ]]>
+  </preparation>
+</recette>

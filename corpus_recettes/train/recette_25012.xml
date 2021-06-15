@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25012">
+  <titre>Fricassé de rognons au madère et ses champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 rognons de veau</p>
+    <p>60 g de beurre</p>
+    <p>125 g de champignons</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>5 cl de liqueur de madère</p>
+    <p>70 g de concentré de tomate</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer les rognons, puis les détailler en morceaux et les faire revenir dans du beurre bien chaud.
+    Une fois dorés, les sortir de la poêle, puis les réserver au chaud.
+    Nettoyer, puis détailler les champignons en lamelles, puis les faire revenir dans le beurre des rognons pendant 5 à 8 min environ, en remuant régulièrement.
+    Déglacer la poêle au madère, puis incorporer la crème fraîche pour lier.
+    Faire réduire la sauce sur feu vif en remuant à l'aide d’une cuillère en bois, puis goûter et rectifier l'assaisonnement si nécessaire.
+    Une fois la sauce réduite, remettre les rognons et les champignons dans la poêle, puis bien mélanger et servir.
+  ]]>
+  </preparation>
+</recette>

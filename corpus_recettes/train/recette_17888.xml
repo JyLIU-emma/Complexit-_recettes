@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17888">
+  <titre>Jambon bourguignon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 échalotes</p>
+    <p>vin blanc</p>
+    <p>1 pot moyen de crème fraîche</p>
+    <p>concentré de tomate</p>
+    <p>4 tranches de jambon</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les échalotes dans une poêle, mettre un verre de vin blanc sec, la crème fraîche, le concentré de tomate, sel, poivre. Bien mélanger et faire chauffer environs 5 mn. Rouler le jambon dans un plat allant au four, verser la sauce par dessus, mettre dans le four bien chaud (220°C) environs 5 mn. Servez bien chaud accompagné de frites ou de petites coquillettes.Si vous ne voulez pas garder les échalotes, vous pouvez passer la sauce dans une passoire avant de la mettre au four
+  ]]>
+  </preparation>
+</recette>

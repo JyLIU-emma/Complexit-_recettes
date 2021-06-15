@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23056">
+  <titre>Oeufs mimosa aux crevettes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 oeufs</p>
+    <p>175 g de crevettes cuites</p>
+    <p>125 g de mayonnaise</p>
+    <p>persil haché</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Plonger les œufs dans une casserole d’eau bouillante salée pendant 11 min. Ôter les coquilles et les couper en deux. Enlever les jaunes d’œufs et les émietter. Les mélanger aux crevettes décortiquées.
+    Farcir les blanc de cette farce et recouvrir de sauce mayonnaise et de persil.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="7240">
+  <titre>Charlotte de courgettes au Carré Frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 petites courgettes</p>
+    <p>400 g de Carrés Frais</p>
+    <p>4 échalotes</p>
+    <p>2 cuillères à soupe de crème fraîche épaisse</p>
+    <p>2 cuillères à soupe de ciboulette et de persil</p>
+    <p>5 cl d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher menu les échalotes, le persil, et la ciboulette.
+    Dans une jatte, mélanger le Carré Frais avec la crème fraîche.
+    Incorporer l'échalote, le persil et la ciboulette, saler, poivrer, réserver.A l'aide d'un couteau économe, couper de fines tranches de courgettes dans le sens de la longueur, puis les déposer sur du papier absorbant.
+    Dans une poêle, faire chauffer l'huile, puis faire suer les courgettes sans les faire colorer.
+    Procéder par petites quantités, puis réserver sur du papier absorbant.
+    Tapisser le fonds de 8 petits ramequins avec des lanières de courgettes, en les laissant dépasser sur les bords.
+    Garnir du mélange à base de Carré Frais, à hauteur du moule.
+    Replier les lanières de courgette sur le fromage, et couvrir de film plastique.Réfrigérer pendant 12 h.Démouler, et servir frais, accompagné d'un coulis de poivrons rouges. (2 poivrons mixés avec huile d'olive et crème).
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Hacher</OPER> menu les <INGRED id="4">échalotes</INGRED>, le <INGRED id="3">persil</INGRED>, et la <INGRED id="2">ciboulette</INGRED>. Dans une jatte, <OPER id="o_2">mélanger</OPER> le <INGRED id="2">Carré Frais</INGRED> avec la crème fraîche. <OPER id="o_3">Incorporer</OPER> l'<INGRED id="4">échalote</INGRED>, le persil et la <INGRED id="4">ciboulette</INGRED>, <OPER id="o_4">saler</OPER>, <OPER id="o_5">poivrer</OPER>, réserver. A l'aide d'un couteau économe, <OPER id="o_6">couper</OPER> de fines tranches de <INGRED id="2">courgettes</INGRED> dans le sens de la longueur, puis les <OPER id="o_7">déposer</OPER> sur du papier absorbant. Dans une poêle, faire <OPER id="o_8">chauffer</OPER> l'huile, puis faire <OPER id="o_9">suer</OPER> les <INGRED id="2">courgettes</INGRED> sans les faire <OPER id="o_10">colorer</OPER>. <OPER id="o_11">Procéder</OPER> par petites quantités, puis réserver sur du papier absorbant. <OPER id="o_12">Tapisser</OPER> le fonds de 8 petits ramequins avec des lanières de <INGRED id="2">courgettes</INGRED>, en les laissant <OPER id="o_13">dépasser</OPER> sur les bords. <OPER id="o_14">Garnir</OPER> du mélange à base de <INGRED id="2">Carré Frais</INGRED>, à hauteur du moule. <OPER id="o_15">Replier</OPER> les lanières de <INGRED id="1">courgette</INGRED> sur le <INGRED id="2">fromage</INGRED>, et <OPER id="o_16">couvrir</OPER> de film plastique. <OPER id="o_17">Réfrigérer</OPER> pendant 12 h. <OPER id="o_18">Démouler</OPER>, et servir frais, accompagné d'un coulis de poivrons rouges. ( 2 <INGRED id="2">poivrons</INGRED> mixés avec huile d'olive et crème ).
+  </annotation>
+  <annotation methode="crf">
+  Hacher menu les <INGRED>échalotes</INGRED> <INGRED>,</INGRED> le <INGRED>persil</INGRED> <INGRED>,</INGRED> et la <INGRED>ciboulette</INGRED>. Dans une jatte <INGRED>,</INGRED> mélanger le Carré Frais avec la <INGRED>crème fraîche</INGRED> <INGRED>.</INGRED> Incorporer l'<INGRED>échalote</INGRED> <INGRED>,</INGRED> le <INGRED>persil</INGRED> et la <INGRED>ciboulette</INGRED> <INGRED>,</INGRED> saler <INGRED>,</INGRED> poivrer <INGRED>,</INGRED> réserver <INGRED>.</INGRED> A l'aide d'un couteau économe <INGRED>,</INGRED> couper de fines tranches de <INGRED>courgettes</INGRED> dans le sens de la longueur <INGRED>,</INGRED> puis les déposer sur du papier absorbant. Dans une poêle <INGRED>,</INGRED> faire chauffer l'<INGRED>huile</INGRED> <INGRED>,</INGRED> puis faire suer les <INGRED>courgettes</INGRED> sans les faire colorer <INGRED>.</INGRED> Procéder par petites quantités <INGRED>,</INGRED> puis réserver sur du papier absorbant. Tapisser le fonds de 8 petits ramequins avec des lanières de <INGRED>courgettes</INGRED> <INGRED>,</INGRED> en les laissant dépasser sur les bords. Garnir du <INGRED>mélange</INGRED> à base de <INGRED>Carré</INGRED> <INGRED>Frais</INGRED> <INGRED>,</INGRED> à hauteur du <INGRED>moule</INGRED> <INGRED>.</INGRED> Replier les lanières de <INGRED>courgette</INGRED> sur le <INGRED>fromage</INGRED> <INGRED>,</INGRED> et couvrir de film plastique. Réfrigérer pendant 12 h. Démouler <INGRED>,</INGRED> et servir <INGRED>frais</INGRED> <INGRED>,</INGRED> accompagné d'un <INGRED>coulis</INGRED> de <INGRED>poivrons</INGRED> rouges <INGRED>.</INGRED> ( 2 <INGRED>poivrons</INGRED> mixés avec <INGRED>huile d'olive</INGRED> et <INGRED>crème</INGRED> ).
+  </annotation>
+  <complexite>
+    <temps>f(X) = 356.210526315789*X + 66.7894736842105</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 16*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['courgettes']	 id:1	 quantité:8	 unité:non_precis	 denombrable:True	 recipient:8*X
+ingredient:['Carrés Frais', 'Carrés']	 id:2	 quantité:400	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['échalotes']	 id:3	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['crème fraîche épaisse', 'crème']	 id:4	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['ciboulette']	 id:5	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['persil']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["huile d'olive", 'huile']	 id:7	 quantité:5	 unité:cl d'	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:hacher	 id:o_1	 ingrédients_ralatifs:['4', '3', '2']	 nombre_opération_atomique:2*X+4*X+1	 temps:2*X*5+4*X*5+1*X*5	 recipient:1
+operation:mélanger	 id:o_2	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:incorporer	 id:o_3	 ingrédients_ralatifs:['4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_4	 ingrédients_ralatifs:['4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_6	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:400*X	 temps:1*X*1	 recipient:1
+operation:déposer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:chauffer	 id:o_8	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:suer	 id:o_9	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:colorer	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:procéder	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:3	 recipient:0
+operation:tapisser	 id:o_12	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dépasser	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garnir	 id:o_14	 ingrédients_ralatifs:['2', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:replier	 id:o_15	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:réfrigérer	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:démouler	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

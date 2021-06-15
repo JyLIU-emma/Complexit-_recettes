@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24823">
+  <titre>Poulet au yaourt et paprika</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poulet</p>
+    <p>1 yaourt</p>
+    <p>4 oignons</p>
+    <p>1 gousse d'ail</p>
+    <p>1 cuillère à soupe de paprika</p>
+    <p>20 cl de bouillon de volaille</p>
+    <p>4 cuillères à soupe d'huile</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hachez les oignons.
+    Faites revenir le poulet découpé en morceaux dans une cocotte avec l'huile. Une fois les morceaux dorés, retirez-les et mettez à leur place les oignons, laissez-les fondre.
+    Hors du feu saupoudrez de paprika, salez, poivrez et versez le bouillon. Remettez sur le feu, rajoutez les morceaux de poulet et l'ail écrasé.
+    Laissez mijoter 1 h à feu doux.
+    En fin de cuisson, versez le yaourt battu, mélangez et servez.
+  ]]>
+  </preparation>
+</recette>

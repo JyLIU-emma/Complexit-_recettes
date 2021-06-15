@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13027">
+  <titre>Croustade de brick aux pommes</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>5 pommes</p>
+    <p>le jus d'un citron</p>
+    <p>2 cuillères à soupe de cognac</p>
+    <p>100 g de sucre</p>
+    <p>huile</p>
+    <p>6 feuilles de brick</p>
+    <p>50 g de poudre d'amandes</p>
+    <p>20 cl de crème fraîche</p>
+    <p>1 jaune d'oeuf</p>
+    <p>30 g de beurre</p>
+    <p>50 g de cassonade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les pommes, les couper en fines lamelles, et les faire macérer 1 heure avec le cognac et le sucre en poudre.
+    Egoutter les pommes.
+    Huiler un moule à tarte à fond amovible. Disposer en rosace 4 feuilles de brick que vous aurez huilées. Laisser les bord dépasser de 1 cm.
+    Saupoudrer de poudre d'amandes. Garnir avec les pommes égoutées.
+    Mélanger le jus de la macération avec la crème fraîche et le jaune d'oeuf, verser le tout sur les pommes.
+    Enfourner à four chaud 200°C pendant 10 mn.
+    Sortir ensuite la croustade du four, découper les deux dernières feuilles de brick en bandes de 1 cm de large, puis les froisser et en garnir le dessus des pommes.
+    Faire fondre le beurre, y ajouter la cassonade, verser le tout sur la croustade et remettre au four doux 175°C, pendant 30 mn. 
+    Servir tiède.
+  ]]>
+  </preparation>
+</recette>

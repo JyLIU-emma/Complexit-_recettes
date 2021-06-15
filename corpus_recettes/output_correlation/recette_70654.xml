@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70654">
+  <titre>Brioche mousseline</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de farine de boulanger (T55)</p>
+    <p>550 g de beurre</p>
+    <p>7 oeufs moyens</p>
+    <p>15 g de sel</p>
+    <p>50 g de sucre</p>
+    <p>25 g de levure de boulanger</p>
+    <p>10 cl de lait tiède</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire le levain, pour cela : délayer le levure dans le lait tiède (on doit pouvoir y tremper son doigt sans se brûler).
+    Prendre un quart de la farine, y faire un trou au milieu, y verser le mélange lait-levure. Bien mélanger afin d'obtenir une pâte molle, ajouter 2-3 cuillères d'eau si nécessaire. Couvrir et tenir dans un endroit et laisser jusqu'à ce qu'il double de volume.
+    Prendre le reste de farine, le sel et le sucre, les mélanger et faire un puits, y ajouter 4 oeufs. Bien mélanger, malaxer vigoureusement.
+    Ajouter les oeufs restant un à un en continuant à la travailler vigoureusement. La pâte doit être bien lisse. Etaler grossièrement la pâte et y étaler 350 g de beurre ramolli. Malaxer en pliant successivement la pâte d'un côté sur l'autre.
+    Renverser ensuite le levain qui a doublé et incorporer à la pâte comme pour le beurre.
+    Laisser reposer 2 h, couvert d'un torchon dans un endroit chaud de la cuisine. On peut laisser aussi monter la pâte à température ambiante, mais le temps sera plus long. La pâte doit tripler de volume au minimum.
+    Rompre la pâte (d'un coup de poing) et y incorporer de nouveau 180 g de beurre comme précédemment.
+    Rouler, mettre dans un moule bien beurré et fariné. La pâte doit couvrir au maximum un tiers du moule. Laisser de nouveau la pâte monter et remplir complètement le moule.
+    Préchauffer le four à 210° C(thermostat 7) et enfourner pour 35 minutes de cuisson environ.
+    Déguster avec une bonne confiture mûre ou framboise maison...
+    Beaucoup de beurre, diront certains, mais nécessaire pour obtenir une bonne finesse. un bon chocolat
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire le levain, pour cela : <OPER id="o_1">délayer</OPER> le <INGRED id="1">levure</INGRED> dans le <INGRED id="7">lait tiède</INGRED> ( on doit <OPER id="o_2">pouvoir</OPER> y <OPER id="o_3">tremper</OPER> son doigt sans se <OPER id="o_4">brûler</OPER> ). <OPER id="o_5">Prendre</OPER> un quart de la <INGRED id="3">farine</INGRED>, y faire un trou au milieu, y <OPER id="o_6">verser</OPER> le <INGRED id="7">mélange</INGRED> lait - <INGRED id="5">levure</INGRED>. Bien <OPER id="o_7">mélanger</OPER> afin d'obtenir une <INGRED id="5">pâte</INGRED> molle, <OPER id="o_8">ajouter</OPER> 2 - 3 cuillères d'<INGRED id="3">eau</INGRED> si nécessaire. <OPER id="o_9">Couvrir</OPER> et tenir dans un endroit et laisser jusqu'à ce qu'il double de volume. <OPER id="o_10">Prendre</OPER> le <INGRED id="1">reste</INGRED> de farine, le sel et le sucre, les <OPER id="o_11">mélanger</OPER> et <INGRED id="4">faire</INGRED> un puits, y <OPER id="o_12">ajouter</OPER> 4 oeufs. Bien <OPER id="o_13">mélanger</OPER>, <OPER id="o_14">malaxer</OPER> vigoureusement. <OPER id="o_15">Ajouter</OPER> les oeufs restant un à un en continuant à la <OPER id="o_16">travailler</OPER> vigoureusement. La <INGRED id="7">pâte</INGRED> doit être bien lisse. <OPER id="o_17">Etaler</OPER> grossièrement la <INGRED id="5">pâte</INGRED> et y <OPER id="o_18">étaler</OPER> 350 <INGRED id="2">g</INGRED> de <INGRED id="2">beurre ramolli</INGRED>. <OPER id="o_19">Malaxer</OPER> en pliant successivement la <INGRED id="5">pâte</INGRED> d'un côté sur l'autre. <OPER id="o_20">Renverser</OPER> ensuite le levain qui a doublé et <OPER id="o_21">incorporer</OPER> à la <INGRED id="5">pâte</INGRED> comme pour le <INGRED id="2">beurre</INGRED>. Laisser <OPER id="o_22">reposer</OPER> 2 h, couvert d'un torchon dans un endroit chaud de la cuisine. On peut laisser aussi <OPER id="o_23">monter</OPER> la <INGRED id="7">pâte</INGRED> à température ambiante, mais le temps sera plus long. La <INGRED id="7">pâte</INGRED> doit <OPER id="o_24">tripler</OPER> de volume au minimum. <OPER id="o_25">Rompre</OPER> la pâte ( d'un coup de poing ) et y <OPER id="o_26">incorporer</OPER> de nouveau 180 g de <INGRED id="6">beurre</INGRED> comme précédemment. <OPER id="o_27">Rouler</OPER>, <OPER id="o_28">mettre</OPER> dans un moule bien beurré et fariné. La pâte doit <OPER id="o_29">couvrir</OPER> au maximum un tiers du moule. Laisser de nouveau la <INGRED id="1">pâte</INGRED> <OPER id="o_30">monter</OPER> et <OPER id="o_31">remplir</OPER> complètement le moule. <OPER id="o_32">Préchauffer</OPER> le four à 210 ° C(thermostat 7 ) et <OPER id="o_33">enfourner</OPER> pour 35 minutes de cuisson <INGRED id="1">environ</INGRED>. Déguster avec une bonne <INGRED id="7">confiture</INGRED> mûre ou framboise maison... Beaucoup de beurre, diront certains, mais nécessaire pour obtenir une bonne finesse. un bon <INGRED id="5">chocolat</INGRED>
+  </annotation>
+  <annotation methode="crf">
+  Faire le levain <INGRED>,</INGRED> pour cela <INGRED>:</INGRED> délayer le <INGRED>levure</INGRED> dans le <INGRED>lait</INGRED> tiède ( on doit pouvoir y tremper son doigt sans se brûler ). Prendre un quart de la <INGRED>farine</INGRED> <INGRED>,</INGRED> y faire un trou au milieu <INGRED>,</INGRED> y verser le <INGRED>mélange</INGRED> <INGRED>lait</INGRED> - <INGRED>levure</INGRED> <INGRED>.</INGRED> Bien mélanger afin d'obtenir une <INGRED>pâte</INGRED> molle <INGRED>,</INGRED> ajouter 2 - 3 <INGRED>cuillères d'eau</INGRED> si nécessaire. Couvrir et tenir dans un endroit et laisser jusqu'à ce qu'il double de <INGRED>volume</INGRED>. Prendre le <INGRED>reste</INGRED> de <INGRED>farine</INGRED> <INGRED>,</INGRED> le <INGRED>sel</INGRED> et le <INGRED>sucre</INGRED> <INGRED>,</INGRED> les mélanger et faire un puits <INGRED>,</INGRED> y ajouter 4 <INGRED>oeufs</INGRED> <INGRED>.</INGRED> Bien mélanger <INGRED>,</INGRED> malaxer vigoureusement. Ajouter les <INGRED>oeufs</INGRED> restant un à un en continuant à la travailler vigoureusement. La <INGRED>pâte</INGRED> doit être bien lisse <INGRED>.</INGRED> Etaler grossièrement la <INGRED>pâte</INGRED> et y étaler 350 <INGRED>g</INGRED> de <INGRED>beurre ramolli</INGRED> <INGRED>.</INGRED> Malaxer en pliant successivement la <INGRED>pâte</INGRED> d'un côté sur l'autre <INGRED>.</INGRED> Renverser ensuite le levain qui <INGRED>a</INGRED> doublé et incorporer à la <INGRED>pâte</INGRED> comme pour le <INGRED>beurre</INGRED> <INGRED>.</INGRED> Laisser reposer 2 <INGRED>h</INGRED> <INGRED>,</INGRED> couvert d'un torchon dans un endroit chaud de la cuisine. On peut laisser aussi monter la <INGRED>pâte</INGRED> à température ambiante <INGRED>,</INGRED> mais le temps sera plus long. La <INGRED>pâte</INGRED> doit tripler de <INGRED>volume</INGRED> au minimum. Rompre la <INGRED>pâte</INGRED> ( d'un coup de poing ) et y incorporer de nouveau 180 <INGRED>g</INGRED> de <INGRED>beurre</INGRED> comme précédemment <INGRED>.</INGRED> Rouler <INGRED>,</INGRED> mettre dans un moule bien beurré et fariné. La <INGRED>pâte</INGRED> doit couvrir au maximum un tiers du <INGRED>moule</INGRED> <INGRED>.</INGRED> Laisser de nouveau la <INGRED>pâte</INGRED> monter et remplir complètement le <INGRED>moule</INGRED> <INGRED>.</INGRED> Préchauffer le four à 210 ° C(thermostat 7 ) et enfourner pour 35 minutes de cuisson <INGRED>environ</INGRED>. Déguster avec une bonne <INGRED>confiture</INGRED> mûre <INGRED>ou</INGRED> framboise maison... Beaucoup de <INGRED>beurre</INGRED> <INGRED>,</INGRED> diront certains <INGRED>,</INGRED> mais nécessaire pour obtenir une bonne finesse. un bon <INGRED>chocolat</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 17.7692307692308*X + 15.2307692307692</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 7*X + 14</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['farine de boulanger', 'farine']	 id:1	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:2	 quantité:550	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oeufs moyens', 'oeufs']	 id:3	 quantité:7	 unité:non_precis	 denombrable:True	 recipient:7*X
+ingredient:['sel']	 id:4	 quantité:15	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:5	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['levure de boulanger', 'levure']	 id:6	 quantité:25	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['lait tiède', 'lait']	 id:7	 quantité:10	 unité:cl de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:délayer	 id:o_1	 ingrédients_ralatifs:['1', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:pouvoir	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tremper	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:brûler	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:prendre	 id:o_5	 ingrédients_ralatifs:['3', '7', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_6	 ingrédients_ralatifs:['7', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_7	 ingrédients_ralatifs:['5', '3']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:prendre	 id:o_10	 ingrédients_ralatifs:['1', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_11	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:malaxer	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:travailler	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:etaler	 id:o_17	 ingrédients_ralatifs:['5', '2', '2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:étaler	 id:o_18	 ingrédients_ralatifs:['2', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:malaxer	 id:o_19	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:renverser	 id:o_20	 ingrédients_ralatifs:['5', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_21	 ingrédients_ralatifs:['5', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:monter	 id:o_23	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tripler	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rompre	 id:o_25	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_26	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rouler	 id:o_27	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_28	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:couvrir	 id:o_29	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:monter	 id:o_30	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remplir	 id:o_31	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:préchauffer	 id:o_32	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:enfourner	 id:o_33	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

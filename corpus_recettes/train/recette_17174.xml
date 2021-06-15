@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17174">
+  <titre>Golmottes (champignons) aux tomates et à la crème</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de golmottes (amanite rougissante) <B>ATTENTION : doivent être cuites impérativement 20 mn minimum</B></p>
+    <p>2 cuillères à soupe de tomates concassées</p>
+    <p>200 ml de crème fraîche liquide</p>
+    <p>75 g de gruyère râpé</p>
+    <p>1 échalote hachée</p>
+    <p>1 gousse d'ail écrasée</p>
+    <p>sel, poivre</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ôter la cuticule qui recouvre le chapeau (à cause de son amertume). Couper le bout sableux du pied.
+    Faire revenir la matière grasse dans une grande poêle, y ajouter les golmottes. Laisser mijoter jusqu'à évaporation du jus de cuisson.
+    Incorporer alors l'échalote, l'ail, puis les tomates concassées, le sel et le poivre. Laisser encore mijoter 5 à 10 mn en remuant souvent, puis ajouter la crème et le fromage. Bien mélanger. Servir chaud.<B>Attention: avant toute chose, il ne faut pas oublier que la golmotte doit cuire au moins 20 mn.</B> Elle contient une substance hémolytique (c'est à dire qui détruit les globules rouges du sang) qui ne disparaît qu'à la cuisson. L'amanite rougissante ou golmotte est donc toxique crue.[NDChef: plus d'infos sur la golmotte]
+  ]]>
+  </preparation>
+</recette>

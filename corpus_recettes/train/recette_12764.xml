@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12764">
+  <titre>Risotto au potiron</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>350 g de riz</p>
+    <p>500 g de potiron</p>
+    <p>1 oignon blanc</p>
+    <p>1/2 de bouillon</p>
+    <p>40 g de beurre</p>
+    <p>1 verre de lait</p>
+    <p>parmesan rapé</p>
+    <p>1 cuillère de persil haché</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez le potiron, éliminez les graines et coupez-le en tranches fines.
+    Hachez menu l'oignon et faites-le revenir dans 20 g de beurre, ajoutez le poiton, salez et laissez cuire à feu lent, en mélangeant et en versant un peu de bouillon.
+    Quand le potiron est défait, versez le riz et faites-le cuire pendant 18 minutes en rajoutant du bouillon chaud au fur et à mesure qu'il est absorbé.
+    Ajoutez le lait, mélangez à feu vif, ajouter le poivre, le persil et une bonne dose de parmesan. Mélangez rapidement avant de servir de façon que tous les ingrédients soient parfaitement amalgamés.
+    Les végétariens pourront le réaliser sans le bouillon.
+  ]]>
+  </preparation>
+</recette>

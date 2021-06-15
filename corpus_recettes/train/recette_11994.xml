@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11994">
+  <titre>Bouillon pho (Vietnam)</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>480 ml de bouillon de boeuf</p>
+    <p>1 oignon haché</p>
+    <p>1/2 cuillère à café de gingembre haché</p>
+    <p>10 grains de poivre noire</p>
+    <p>1 bâton de cannelle</p>
+    <p>1 tige de citronnelle</p>
+    <p>200 g de boeuf, émincé finement</p>
+    <p>2 cuillères à soupe de nuoc-mam</p>
+    <p>1 tomate en dés</p>
+    <p>1/4 cuillère à café de coriandre haché</p>
+    <p>100 g de fèves germées blanchies</p>
+    <p>1 échalote verte en rondelle</p>
+    <p>300 g de vermicelle de riz cuit</p>
+    <p>1 zeste de citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Porter à ébullition les 4 premiers ingrédients et laisser frémir pendant 10mn.
+    Ajouter la cannelle et la citronnelle, mijoter encore 5 mn. Passer le bouillon au tamis.
+    Remettre sur le feu, ajouter les 6 ingrédients suivants. Poursuivre la cuisson 30 sec et retirer du feu.
+    Mettre le vermicelle dans 4 bols et verser sur le bouillon. Garnir des zestes de citron.
+  ]]>
+  </preparation>
+</recette>

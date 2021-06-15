@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168940">
+  <titre>Saint Honoré</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>pour la pâte sablée:</p>
+    <p>50g de beurre doux</p>
+    <p>250g de farine</p>
+    <p>30g de sucre en poudre</p>
+    <p>20cl de crème fraiche-pour les choux:</p>
+    <p>100g de farine</p>
+    <p>75g de beurre</p>
+    <p>20cl d'eau</p>
+    <p>1/2 cuillère à café de sel </p>
+    <p>3 oeufs-pour la crème patissière:</p>
+    <p>20cl de lait</p>
+    <p>1 cuillère à café d'extrait de vanille</p>
+    <p>3 jaunes d'oeufs</p>
+    <p>40g de sucre en poudre</p>
+    <p>20 g de farine-pour la crème chantilly:</p>
+    <p>20cl de crème fraiche très froide</p>
+    <p>40g de sucre en poudre-pour le caramel:</p>
+    <p>10cl d'eau</p>
+    <p>100g de sucre en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    -La pâte sablée:Dans un saladier, mélanger la farine, le sucre, et le sel.
+    Ajouter le beurre coupé en morceaux et mélanger jusqu'à ce que la pâte forme des miettes.
+    Verser la crème et mélanger jusqu'à obtenir une boule.
+    Fariner le plan de travail et pétrir la pâte pendant 30 secondes. 
+    Abaisser la pâte en un rectangle d'1cm d'épaisseur sur une plaque à pâtisserie beurrée.
+    Faire cuire à 210° pendant 15 minutes.-Les choux:Mettre le beurre coupé en morceaux avec l'eau dans une casserole et chauffer à feux moyen. Lorsque le beurre a fondu, retirer du feu et ajouter la farine en une seule fois. Mélanger jusqu'à ce que la pâte se détache des bords de la casserole. Chauffer 30 sec à feu doux pour dessécher la pâte. Hors du feu ajouter les jaunes d'oeufs un à un et mélanger juqu'à ce que la pâte soit homogène. (Si la pâte forme des grumeaux, chauffer à feu doux en remuant).
+    A l'aide d'une poche à douille, disposer des choux de 5cm de diamètre sur une plaque beurrée. Faire cuire pendant 25 minutes à 200° puis pendant 15 minutes à 150° pour dessécher les choux et éviter qu'ils ne retombent. Dès la sortie du four, faire un trou à la base des choux pour que la vapeur s'échappe.-La crème pâtissière:Faire bouillir le lait. Dans un bol, mélanger la farine, le sucre, les jaunes d'oeufs et l'extrait de vanille et verser ce mélange dans la casserole de lait. Chauffer à feu doux en remuant jusqu'à ce que la crème épaississe. Laisser refroidir et passer un peu de beurre sur la crème pour qu'elle ne forme pas une peau.-La crème chantilly:Monter la crème chantilly en fouettant la crème dans un bol froid (s'il fait chaud dans la pièce, placer le bol dans un bol plus grand et remplit d'eau glacée). Lorsque la crème forme des crêtes, ajouter le sucre et continuer de fouetter jusqu'à ce que la crème soit ferme.-Terminer le gâteau:Garnir les choux de crème pâtissière à l'aide d'une poche à douille.
+    Préparer le caramel en faisant chauffer à feu vif le sucre et l'eau dans une petite casserole sans remuer. Lorsque le sirop bouillonne et commence à brunir, retirer du feu et attendre que le caramel soit liquide. Attention, le caramel durcit vite, il faut travailler rapidement. S'il durçit, ajouter quelques gouttes d'eau et refaire fondre.
+    Coller les choux sur la pâte sablée avec le caramel, remplir les espaces libres avec la crème chantilly et décorer avec du caramel.
+    Servir aussitôt.La préparation est longue mais il n'y a rien de difficile. Vous pouvez préparer les choux la veille et les conserver dans un récipient hermétique. Ne mettez pas trop de caramel pour préserver les choux et pouvoir couper le gâteau facilement.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  -La <INGRED id="1">pâte</INGRED> sablée : Dans un <INGRED id="1">saladier</INGRED>, <OPER id="o_1">mélanger</OPER> la <INGRED id="5">farine</INGRED>, le <INGRED id="9">sucre</INGRED>, et le <INGRED id="5">sel</INGRED>. <OPER id="o_2">Ajouter</OPER> le <INGRED id="16">beurre</INGRED> coupé en <INGRED id="1">morceaux</INGRED> et <OPER id="o_3">mélanger</OPER> jusqu'à ce que la pâte forme des miettes. <OPER id="o_4">Verser</OPER> la crème et <OPER id="o_5">mélanger</OPER> jusqu'à obtenir une <INGRED id="1">boule</INGRED>. <OPER id="o_6">Fariner</OPER> le plan de travail et <OPER id="o_7">pétrir</OPER> la pâte pendant 30 secondes. <OPER id="o_8">Abaisser</OPER> la <INGRED id="1">pâte</INGRED> en un rectangle d'1 cm d'épaisseur sur une plaque à pâtisserie beurrée. Faire <OPER id="o_9">cuire</OPER> à 210 ° pendant 15 minutes.-Les <INGRED id="14">choux</INGRED> : <OPER id="o_10">Mettre</OPER> le <INGRED id="3">beurre</INGRED> coupé en <INGRED id="1">morceaux</INGRED> avec l'<INGRED id="6">eau</INGRED> dans une casserole et <OPER id="o_11">chauffer</OPER> à feux moyen. Lorsque le <INGRED id="8">beurre</INGRED> a fondu, <OPER id="o_12">retirer</OPER> du feu et <OPER id="o_1316">ajouter</OPER> la <INGRED id="9">farine</INGRED> en une seule fois. <OPER id="o_14">Mélanger</OPER> jusqu'à ce que la <INGRED id="5">pâte</INGRED> se détache des bords de la casserole. <OPER id="o_15">Chauffer</OPER> 30 sec à feu doux pour dessécher la pâte. Hors du feu <OPER id="o_1616">ajouter</OPER> les <INGRED id="12">jaunes d'oeufs</INGRED> un à un et <OPER id="o_17">mélanger</OPER> juqu'à ce que la pâte soit homogène. ( Si la <INGRED id="5">pâte</INGRED> forme des grumeaux, <OPER id="o_18">chauffer</OPER> à feu doux en remuant ). A l'aide d'une poche à douille, <OPER id="o_19">disposer</OPER> des <INGRED id="6">choux</INGRED> de 5 cm de <INGRED id="10">diamètre</INGRED> sur une plaque beurrée. Faire <OPER id="o_20">cuire</OPER> pendant 25 minutes à 200 ° puis pendant 15 minutes à 150 ° pour dessécher les <INGRED id="14">choux</INGRED> et <OPER id="o_21">éviter</OPER> qu'ils ne retombent. Dès la sortie du four, <INGRED id="10">faire</INGRED> un trou à la base des <INGRED id="6">choux</INGRED> pour que la vapeur s'échappe.-La crème pâtissière : Faire <OPER id="o_22">bouillir</OPER> le <INGRED id="2">lait</INGRED>. Dans un bol, <OPER id="o_23">mélanger</OPER> la <INGRED id="1">farine</INGRED>, le <INGRED id="16">sucre</INGRED>, les <INGRED id="12">jaunes d'oeufs</INGRED> et l'<INGRED id="4">extrait de vanille</INGRED> et <OPER id="o_24">verser</OPER> ce <INGRED id="2">mélange</INGRED> dans la casserole de <INGRED id="4">lait</INGRED>. <OPER id="o_25">Chauffer</OPER> à feu doux en remuant jusqu'à ce que la <INGRED id="15">crème</INGRED> épaississe. Laisser <OPER id="o_26">refroidir</OPER> et <OPER id="o_27">passer</OPER> un peu de <INGRED id="3">beurre</INGRED> sur la crème pour qu'elle ne forme pas une peau.-La <INGRED id="7">crème</INGRED> chantilly : <OPER id="o_28">Monter</OPER> la crème chantilly en fouettant la <INGRED id="15">crème</INGRED> dans un bol froid ( s'il fait chaud dans la pièce, <OPER id="o_29">placer</OPER> le bol dans un bol plus grand et remplit d'<INGRED id="2">eau</INGRED> glacée ). Lorsque la crème forme des crêtes, <OPER id="o_3016">ajouter</OPER> le <INGRED id="10">sucre</INGRED> et <OPER id="o_31">continuer</OPER> de <OPER id="o_32">fouetter</OPER> jusqu'à ce que la <INGRED id="7">crème</INGRED> soit <OPER id="o_33">ferme.-Terminer</OPER> le gâteau : <OPER id="o_34">Garnir</OPER> les <INGRED id="14">choux</INGRED> de crème pâtissière à l'aide d'une poche à douille. <OPER id="o_35">Préparer</OPER> le <INGRED id="8">caramel</INGRED> en faisant <OPER id="o_36">chauffer</OPER> à feu vif le <INGRED id="5">sucre</INGRED> et l'<INGRED id="10">eau</INGRED> dans une <INGRED id="2">petite</INGRED> casserole sans <OPER id="o_37">remuer</OPER>. Lorsque le <INGRED id="4">sirop</INGRED> bouillonne et commence à <OPER id="o_38">brunir</OPER>, <OPER id="o_39">retirer</OPER> du feu et <OPER id="o_40">attendre</OPER> que le <INGRED id="8">caramel</INGRED> soit liquide. Attention, le <INGRED id="8">caramel</INGRED> durcit vite, il faut <OPER id="o_41">travailler</OPER> rapidement. S'il durçit, <OPER id="o_4216">ajouter</OPER> quelques gouttes d'<INGRED id="10">eau</INGRED> et <OPER id="o_43">refaire</OPER> <OPER id="o_44">fondre</OPER>. <OPER id="o_45">Coller</OPER> les <INGRED id="6">choux</INGRED> sur la pâte sablée avec le <INGRED id="8">caramel</INGRED>, <OPER id="o_46">remplir</OPER> les espaces libres avec la <INGRED id="15">crème</INGRED> chantilly et <OPER id="o_47">décorer</OPER> avec du <INGRED id="8">caramel</INGRED>. Servir aussitôt. La <INGRED id="4">préparation</INGRED> est longue mais il n'y a rien de difficile. Vous pouvez <OPER id="o_48">préparer</OPER> les <INGRED id="14">choux</INGRED> la veille et les conserver dans un récipient hermétique. Ne mettez pas trop de <INGRED id="8">caramel</INGRED> pour préserver les <INGRED id="14">choux</INGRED> et <OPER id="o_49">pouvoir</OPER> <OPER id="o_50">couper</OPER> le gâteau facilement.
+  </annotation>
+  <annotation methode="crf">
+  -La <INGRED>pâte</INGRED> sablée <INGRED>:</INGRED> Dans un saladier <INGRED>,</INGRED> mélanger la <INGRED>farine</INGRED> <INGRED>,</INGRED> le <INGRED>sucre</INGRED> <INGRED>,</INGRED> et le <INGRED>sel</INGRED> <INGRED>.</INGRED> Ajouter le <INGRED>beurre</INGRED> <INGRED>coupé</INGRED> en <INGRED>morceaux</INGRED> et mélanger jusqu'à ce que la <INGRED>pâte</INGRED> forme des miettes. Verser la <INGRED>crème</INGRED> et mélanger jusqu'à obtenir une <INGRED>boule</INGRED> <INGRED>.</INGRED> Fariner le plan de travail et pétrir la <INGRED>pâte</INGRED> pendant 30 secondes. Abaisser la <INGRED>pâte</INGRED> en un rectangle d'1 cm d'épaisseur sur une plaque à pâtisserie beurrée. Faire cuire à 210 ° pendant 15 minutes.-Les <INGRED>choux</INGRED> <INGRED>:</INGRED> Mettre le <INGRED>beurre</INGRED> <INGRED>coupé</INGRED> en <INGRED>morceaux</INGRED> avec l'<INGRED>eau</INGRED> dans une casserole et chauffer à feux moyen <INGRED>.</INGRED> Lorsque le <INGRED>beurre</INGRED> <INGRED>a</INGRED> fondu <INGRED>,</INGRED> retirer du feu et ajouter la <INGRED>farine</INGRED> en une seule fois. Mélanger jusqu'à ce que la <INGRED>pâte</INGRED> se détache des bords de la casserole <INGRED>.</INGRED> Chauffer 30 sec à feu doux pour dessécher la <INGRED>pâte</INGRED> <INGRED>.</INGRED> Hors du feu ajouter les <INGRED>jaunes d'oeufs</INGRED> un à un et mélanger juqu'à ce que la <INGRED>pâte</INGRED> soit homogène <INGRED>.</INGRED> ( Si la <INGRED>pâte</INGRED> forme des grumeaux <INGRED>,</INGRED> chauffer à feu doux en remuant ). A l'aide d'une <INGRED>poche</INGRED> à douille <INGRED>,</INGRED> disposer des <INGRED>choux</INGRED> de 5 <INGRED>cm</INGRED> de diamètre sur une plaque beurrée. Faire cuire pendant 25 minutes à 200 ° puis pendant 15 minutes à 150 ° pour dessécher les <INGRED>choux</INGRED> et éviter qu'ils ne retombent <INGRED>.</INGRED> Dès la sortie du four <INGRED>,</INGRED> faire un trou à la base des <INGRED>choux</INGRED> pour que la vapeur s'échappe.-La crème pâtissière <INGRED>:</INGRED> Faire bouillir le <INGRED>lait</INGRED> <INGRED>.</INGRED> Dans un bol <INGRED>,</INGRED> mélanger la <INGRED>farine</INGRED> <INGRED>,</INGRED> le <INGRED>sucre</INGRED> <INGRED>,</INGRED> les <INGRED>jaunes d'oeufs</INGRED> et l'<INGRED>extrait de vanille</INGRED> et verser ce <INGRED>mélange</INGRED> dans la casserole de <INGRED>lait</INGRED> <INGRED>.</INGRED> Chauffer à feu doux en remuant jusqu'à ce que la <INGRED>crème épaississe</INGRED> <INGRED>.</INGRED> Laisser refroidir et passer un peu de <INGRED>beurre</INGRED> sur la <INGRED>crème</INGRED> pour qu'elle ne forme pas une peau.-La crème chantilly <INGRED>:</INGRED> Monter la <INGRED>crème</INGRED> chantilly en fouettant la <INGRED>crème</INGRED> dans un bol froid ( s'il fait chaud dans la pièce <INGRED>,</INGRED> placer le bol dans un bol plus grand et remplit d'<INGRED>eau</INGRED> glacée ). Lorsque la <INGRED>crème</INGRED> forme des crêtes <INGRED>,</INGRED> ajouter le <INGRED>sucre</INGRED> et continuer de fouetter jusqu'à ce que la <INGRED>crème</INGRED> soit ferme.-Terminer le gâteau <INGRED>:</INGRED> Garnir les <INGRED>choux</INGRED> de <INGRED>crème pâtissière</INGRED> à l'aide d'une <INGRED>poche</INGRED> à douille. Préparer le <INGRED>caramel</INGRED> en faisant chauffer à feu vif le <INGRED>sucre</INGRED> et l'<INGRED>eau</INGRED> dans une <INGRED>petite</INGRED> casserole sans remuer. Lorsque le <INGRED>sirop</INGRED> bouillonne et commence à brunir <INGRED>,</INGRED> retirer du feu et attendre que le <INGRED>caramel</INGRED> soit liquide. Attention <INGRED>,</INGRED> le <INGRED>caramel</INGRED> durcit vite <INGRED>,</INGRED> il faut travailler rapidement <INGRED>.</INGRED> S'il durçit <INGRED>,</INGRED> ajouter quelques gouttes d'<INGRED>eau</INGRED> et refaire fondre <INGRED>.</INGRED> Coller les <INGRED>choux</INGRED> sur la <INGRED>pâte</INGRED> sablée avec le <INGRED>caramel</INGRED> <INGRED>,</INGRED> remplir les espaces libres avec la <INGRED>crème chantilly</INGRED> et décorer avec du <INGRED>caramel</INGRED> <INGRED>.</INGRED> Servir aussitôt. La préparation est longue mais il n'y a rien de difficile. Vous pouvez préparer les <INGRED>choux</INGRED> la veille et les conserver dans un récipient hermétique <INGRED>.</INGRED> Ne mettez pas trop de <INGRED>caramel</INGRED> pour préserver les <INGRED>choux</INGRED> et pouvoir couper le gâteau facilement <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 15.9090909090909*X + 34.0909090909091</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 7*X + 35</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['beurre doux', 'beurre']	 id:1	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:2	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre en poudre', 'sucre']	 id:3	 quantité:30	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crème fraiche-', 'crème']	 id:4	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:5	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:6	 quantité:75	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['eau']	 id:7	 quantité:20	 unité:cl d'	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:8	 quantité:1/2	 unité:cuillère à café de	 denombrable:False	 recipient:1
+ingredient:['oeufs-']	 id:9	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['lait']	 id:10	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['extrait de vanille', 'extrait']	 id:11	 quantité:1	 unité:cuillère à café d'	 denombrable:True	 recipient:1*X
+ingredient:["jaunes d'oeufs", 'jaunes']	 id:12	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['sucre en poudre', 'sucre']	 id:13	 quantité:40	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine-']	 id:14	 quantité:20	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crème fraiche très froide', 'crème']	 id:15	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['sucre en poudre-', 'sucre']	 id:16	 quantité:40	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['eau']	 id:17	 quantité:10	 unité:cl d'	 denombrable:False	 recipient:1
+ingredient:['sucre en poudre', 'sucre']	 id:18	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mélanger	 id:o_1	 ingrédients_ralatifs:['1', '5', '9', '5']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['16', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:verser	 id:o_4	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_5	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:fariner	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:pétrir	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:abaisser	 id:o_8	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_9	 ingrédients_ralatifs:['14']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:mettre	 id:o_10	 ingrédients_ralatifs:['3', '1', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:chauffer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:retirer	 id:o_12	 ingrédients_ralatifs:['8', '16', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_13	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_14	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:chauffer	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:ajouter	 id:o_16	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:chauffer	 id:o_18	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:disposer	 id:o_19	 ingrédients_ralatifs:['6', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cuire	 id:o_20	 ingrédients_ralatifs:['14']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:éviter	 id:o_21	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:bouillir	 id:o_22	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mélanger	 id:o_23	 ingrédients_ralatifs:['1', '16', '12', '4', '2', '4']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:verser	 id:o_24	 ingrédients_ralatifs:['2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_25	 ingrédients_ralatifs:['15']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:refroidir	 id:o_26	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:passer	 id:o_27	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:monter	 id:o_28	 ingrédients_ralatifs:['15']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_29	 ingrédients_ralatifs:['15', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_30	 ingrédients_ralatifs:['10', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:continuer	 id:o_31	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fouetter	 id:o_32	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ferme.-terminer	 id:o_33	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garnir	 id:o_34	 ingrédients_ralatifs:['14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparer	 id:o_35	 ingrédients_ralatifs:['8', '5', '10', '2']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:chauffer	 id:o_36	 ingrédients_ralatifs:['5', '10']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:remuer	 id:o_37	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:brunir	 id:o_38	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_39	 ingrédients_ralatifs:['4', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:attendre	 id:o_40	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:travailler	 id:o_41	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_42	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refaire	 id:o_43	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fondre	 id:o_44	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:coller	 id:o_45	 ingrédients_ralatifs:['6', '8', '15', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remplir	 id:o_46	 ingrédients_ralatifs:['15']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:décorer	 id:o_47	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparer	 id:o_48	 ingrédients_ralatifs:['14']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:pouvoir	 id:o_49	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_50	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+]]>
+</operation_trouve>
+</recette>

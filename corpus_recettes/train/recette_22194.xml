@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22194">
+  <titre>Saumon vapeur mariné aux herbes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 pavés de saumon</p>
+    <p>4 tomates bien mûres</p>
+    <p>2 oignons</p>
+    <p>1 cuillère à soupe de basilic haché</p>
+    <p>1 cuillère à soupe de persil haché</p>
+    <p>1 cuillère à café d'ail haché</p>
+    <p>4 cuillères à soupe d'huile d'olive</p>
+    <p>1/2 cuillère à soupe de gros sel</p>
+    <p>1 pincée de poivre vert</p>
+    <p>1 citron</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le gros sel avec 2 cuillerées à soupe d'huile d'olive, le poivre vert, les herbes, le jus du citron. Faire mariner les pavés de saumon dans ce mélange pendant 1 h au frais, en les retournant de temps en temps.
+    Emincer les oignons, couper les tomates en quartiers. Faire chauffer 2 cuillères d'huile, y faire suer les oignons à feu doux.
+    Remuer un peu, puis ajouter les tomates coupées en quartiers. Saler, poivrer. Laisser mijoter 15 minutes à feu doux.
+    Placer les pavés de saumon dans un cuit-vapeur et faire cuire 6 minutes. Servir avec les légumes fondus et du riz blanc nature.
+  ]]>
+  </preparation>
+</recette>

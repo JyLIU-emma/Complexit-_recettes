@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17384">
+  <titre>Cake au thon et aux olives</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de thon au naturel</p>
+    <p>100 g d'olives vertes ou noires dénoyautées</p>
+    <p>100 g d'emmental râpé</p>
+    <p>100 g de farine</p>
+    <p>1 sachet de levure</p>
+    <p>3 oeufs</p>
+    <p>10 cl de lait</p>
+    <p>10 cl d'huile</p>
+    <p>beurre</p>
+    <p>farine pour le moule</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (thermostat 6).
+    Mélanger la farine et la levure dans un saladier, faire un trou au milieu. Y casser les oeufs et mélanger peu à peu le lait et l'huile. Incorporer le thon égoutté et émietté, les olives et le fromage. 
+    Verser la préparation dans un moule à cake beurré et fariné. Faire cuire au four pendant 40 mn.
+    Pour que le résultat soit plus homogène, je hache les olives finement de façon à ce qu'elles soient mieux réparties lors de la cuisson.
+  ]]>
+  </preparation>
+</recette>

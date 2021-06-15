@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20732">
+  <titre>Spätzle maison</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de farine</p>
+    <p>3 oeufs</p>
+    <p>5 g de sel</p>
+    <p>50 g beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, mélanger la farine avec les oeufs, le sel et un peu d'eau, de manière à obtenir une pâte pas trop épaisse, légèrement "coulante". 
+    Faire bouillir un grand volume d'eau salée.
+    Etaler un peu de pâte sur une planchette, la plonger dans l'eau bouillants en détachant des petites lamelles de pâte à l'aide d'une spatule.
+    Les spätzle sont cuits lorsqu'ils remontent à la surface.
+    Les égoutter et rincer à l'eau froide.
+    Faire revenir les spätzle au beurre dans une poêle, ils seront bien meilleurs ainsi, légèrement dorés.
+  ]]>
+  </preparation>
+</recette>

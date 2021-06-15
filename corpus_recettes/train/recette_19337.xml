@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19337">
+  <titre>Risotto aux deux jambons et aux petits pois</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 verres de riz</p>
+    <p>100 g de petits pois frais</p>
+    <p>1 tranche de jambon blanc</p>
+    <p>1 tranche de jambon de Parme</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>100 g de parmesan</p>
+    <p>persil</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites chauffer l'huile dans une grande poêle, ajoutez-y le riz et faites-le revenir jusqu'à ce qu'il devienne transparent ; ajoutez deux fois son volume d'eau. 
+    Salez, poivrez et laissez cuire à feu doux jusqu'à ce que le liquide soit complètement évaporé. 
+    Pendant ce temps, coupez le jambon blanc en dés et le jambon de Parme en lanières. 
+    Dix minutes avant la fin de la cuisson du riz, ajoutez-y les petits pois et poursuivez la cuisson. 
+    Lorsque le riz est cuit, disposez-le dans un plat de service creux puis ajoutez-y les morceaux des 2 jambons. Râpez le parmesan et parsemez-le sur le risotto. 
+    Ajoutez quelques brins de persil ciselé. Servez.
+  ]]>
+  </preparation>
+</recette>

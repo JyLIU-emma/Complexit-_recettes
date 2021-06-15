@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="7629">
+  <titre>Fèves carbonara</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 sachet de fèves surgelées épluchées (ou 450 g de fèves fraîches épluchées)</p>
+    <p>150 g de dés de poitrine fumée</p>
+    <p>1 cuillère d'huile d'olive</p>
+    <p>2 Carrés Frais</p>
+    <p>1/2 verre de vin blanc</p>
+    <p>1 jaune d'oeuf</p>
+    <p>1 branche de thym frais </p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Plonger les fèves surgelées dans une casserole d'eau bouillante salée. Quand l'eau revient à ébullition, compter 1 min, puis égoutter les fèves, et les plonger dans un bain d'eau glacée.
+    Faire revenir les lardons dans l'huile. Quand ils sont blonds, ajouter les fèves et le thym. Laisser cuire 5 min.
+    Ajouter les Carrés Frais et le vin blanc, puis laisser cuire à nouveau 5 min, en remuant pour faire une sauce onctueuse.
+    Saler et poivrer.
+    Ajouter le jaune d'oeuf hors du feu, puis bien mélanger.
+    Servir aussitôt.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Plonger</OPER> les <INGRED id="1">fèves</INGRED> surgelées dans une casserole d'<INGRED id="2">eau bouillante</INGRED> salée. Quand l'<INGRED id="8">eau</INGRED> revient à ébullition, <OPER id="o_2">compter</OPER> 1 min, puis <OPER id="o_3">égoutter</OPER> les <INGRED id="1">fèves</INGRED>, et les <OPER id="o_4">plonger</OPER> dans un bain d'<INGRED id="5">eau</INGRED> glacée. Faire <OPER id="o_5">revenir</OPER> les <INGRED id="4">lardons</INGRED> dans l'<INGRED id="9">huile</INGRED>. Quand ils sont blonds, <OPER id="o_6">ajouter</OPER> les <INGRED id="1">fèves</INGRED> et le <INGRED id="7">thym</INGRED>. Laisser <OPER id="o_7">cuire</OPER> 5 min. <OPER id="o_8">Ajouter</OPER> les <INGRED id="4">Carrés Frais</INGRED> et le <INGRED id="5">vin blanc</INGRED>, puis laisser <OPER id="o_9">cuire</OPER> à nouveau 5 min, en remuant pour faire une <INGRED id="5">sauce</INGRED> onctueuse. <OPER id="o_10">Saler</OPER> et <OPER id="o_11">poivrer</OPER>. <OPER id="o_12">Ajouter</OPER> le <INGRED id="4">jaune d'oeuf</INGRED> hors du feu, puis bien <OPER id="o_13">mélanger</OPER>. Servir aussitôt.
+  </annotation>
+  <annotation methode="crf">
+  Plonger les fèves surgelées dans une casserole d'<INGRED>eau</INGRED> bouillante salée. Quand l'<INGRED>eau</INGRED> revient à ébullition <INGRED>,</INGRED> compter 1 min <INGRED>,</INGRED> puis égoutter les fèves <INGRED>,</INGRED> et les plonger dans un bain d'<INGRED>eau</INGRED> glacée <INGRED>.</INGRED> Faire revenir les <INGRED>lardons</INGRED> dans l'<INGRED>huile</INGRED>. Quand ils sont blonds <INGRED>,</INGRED> ajouter les fèves et le <INGRED>thym</INGRED>. Laisser cuire 5 min. Ajouter les <INGRED>Carrés Frais</INGRED> et le <INGRED>vin blanc</INGRED> <INGRED>,</INGRED> puis laisser cuire à nouveau 5 min <INGRED>,</INGRED> en remuant pour faire une <INGRED>sauce</INGRED> onctueuse. Saler et poivrer. Ajouter le <INGRED>jaune d'oeuf</INGRED> hors du feu <INGRED>,</INGRED> puis bien mélanger. Servir aussitôt.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 7.8*X + 5.2</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 6*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['fèves surgelées épluchées', 'fèves']	 id:1	 quantité:1	 unité:sachet de	 denombrable:True	 recipient:1*X
+ingredient:['dés de poitrine fumée', 'dés']	 id:2	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["huile d'olive", 'huile']	 id:3	 quantité:1	 unité:cuillère d'	 denombrable:True	 recipient:1*X
+ingredient:['Carrés Frais', 'Carrés']	 id:4	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['vin blanc', 'vin']	 id:5	 quantité:1/2	 unité:verre de	 denombrable:False	 recipient:1
+ingredient:["jaune d'oeuf", 'jaune']	 id:6	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['thym frais', 'thym']	 id:7	 quantité:1	 unité:branche de	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:plonger	 id:o_1	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:compter	 id:o_2	 ingrédients_ralatifs:['8', '1', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:égoutter	 id:o_3	 ingrédients_ralatifs:['1', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:plonger	 id:o_4	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:revenir	 id:o_5	 ingrédients_ralatifs:['4', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['1', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['4', '5', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:saler	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+]]>
+</operation_trouve>
+</recette>

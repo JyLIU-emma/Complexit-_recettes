@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19948">
+  <titre>Canard farci aux foies de volailles</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 canard de Barbarie de 2,5 kg</p>
+    <p>1 kg de petits navets nouveaux</p>
+    <p>24 petits oignons</p>
+    <p>30 g de sucre semoule</p>
+    <p>8 cl de porto</p>
+    <p>Pour la farce :</p>
+    <p>250 g de lard ou de poitrine fumée</p>
+    <p>2 foies de volaille</p>
+    <p>4 échalotes</p>
+    <p>2 brioches</p>
+    <p>50 g de crème fraîche</p>
+    <p>7 cl de porto</p>
+    <p>1 oeuf</p>
+    <p>persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer d'abord la farce : cuire 5 min les foies de canard et de volaille dans une poêle avec du beurre.
+    Faire blondir les échalotes dans cette même poêle. Les passer ensuite au mixeur avec le lard, le persil et les foies de volailles. Bien mélanger la farce ainsi obtenue et rectifier l'assaisonnement.
+    Dans un saladier, battre l'oeuf, la crème et le porto. Emietter les brioches et les ajouter, puis incorporer la farce aux foies de volaille. Bien mélanger la nouvelle farce, puis en garnir le canard et recoudre la peau.
+    Dans une cocotte beurrée, faire dorer le canard puis laisser mijoter pendant 1 h 30 à feu moyen, en surveillant bien la cuisson.
+    Eplucher les navets et les oignons, les faire colorer à la poêle au beurre, les saler, poivrer et saupoudrer de sucre. Couvrir et les faire cuire jusqu'à ce qu'ils soient bien tendres, puis les mouiller de bouillon.
+    Sortir le canard, le poser dans un plat creux. Déglacer la cocotte au porto et verser la sauce sur le canard.
+  ]]>
+  </preparation>
+</recette>

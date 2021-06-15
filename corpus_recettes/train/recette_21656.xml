@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21656">
+  <titre>Riz aux crevettes et oignons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de riz long grain</p>
+    <p>300 g de crevettes cuites et décortiquées</p>
+    <p>2 oignons</p>
+    <p>1 poivron</p>
+    <p>1 gousse d'ail</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epépinez et découpez le poivron en dés, pilez l'ail.
+    Hachez les oignons, faites-les suer dans l'huile chaude dans une sauteuse. Ajoutez le riz et remuez jusqu'à ce qu'il devienne transparent et légèrement coloré.
+    Mouillez avec 2 fois le volume du riz en eau (ou bouillon, ou fumet), salez, poivrez et ajoutez le poivron et l'ail. Portez à ébullition puis baissez le feu, couvrez et laissez mijoter 10 min.
+    Ajoutez les crevettes et laissez cuire encore 10 minu puis servez.
+    Vous pouvez mettre d'autres légumes, et ajoutez herbes et épices selon vos goûts.
+    Cette recette s'adaptera à vos placards !
+  ]]>
+  </preparation>
+</recette>

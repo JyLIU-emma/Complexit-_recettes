@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20862">
+  <titre>Filet de Sole et sa fricassée de Noix de Saint-Jacques au Miel.</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>6 filets de sole</p>
+    <p>400 g de noix de saint-Jacques</p>
+    <p>10 cl de Cognac</p>
+    <p>1/2 citron (pour son jus)</p>
+    <p>3 cuillères à café de miel d’acacia</p>
+    <p>25 cl de crème liquide</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Saler poivrer les filets de sole de chaque côté. 
+    Les faire cuire 3-4 mn dans du beurre à la poêle, les retourner régulièrement. 
+    Maintenez-les au chaud. Dans la poêle, mettre les noix de Saint-Jacques et mettre les Cognac, puis faites cuire pendant 5 mn en remuant régulièrement. Ajouter le jus de citron et le miel et la crème liquide, bien remuer et laisser réduire 1 mn. 
+    Mettre la fricassé de Noix de Saint-Jacques sur les filets de Sole et servir. Servir avec du riz ayant du goût (ex. : riz thaï, basmati).Ne pas hésiter saler et poivrer pour contrebalancer le goût sucré du miel.
+  ]]>
+  </preparation>
+</recette>

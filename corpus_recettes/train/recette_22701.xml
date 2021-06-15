@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22701">
+  <titre>Gratin de carottes crousti-moelleux</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g de carottes</p>
+    <p>100 g de fromage râpé</p>
+    <p>30 cl de lait </p>
+    <p>80 g de corn flakes (pétales de maïs natures)</p>
+    <p>20 g de beurre</p>
+    <p>1 oignon </p>
+    <p>3 cuillères à soupe de farine</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler, détailler les carottes en rondelles et les mettre à cuire avec un peu de beurre dans une poêle à couvert à feu moyen.
+    Surveiller la cuisson et remuer de temps en temps pour éviter que ça n’accroche au fond.
+    Peler et hacher l'oignon, le faire revenir dans une poêle beurrée, puis saupoudrer de farine, sel et poivre.
+    Ajouter le lait versé au fur et à mesure, et laisser épaissir à feu doux. Retirer du feu, puis ajouter le fromage râpé et les carottes.
+    Verser la préparation dans un plat à gratin beurré.
+    Préchauffer le four à 180°C (thermostat 6).
+    Emietter les corn-flakes, les mélanger avec 1 grosse noix de beurre puis les répartir sur le mélange. Parsemer de persil haché.
+    Enfourner à four chaud puis laisser cuire 15 min.
+  ]]>
+  </preparation>
+</recette>

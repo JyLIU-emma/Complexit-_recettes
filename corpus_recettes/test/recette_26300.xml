@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26300">
+  <titre>Salade russe (Cantons de l'Est - Belgique)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 pommes de terre farineuses (bintjes) cuites</p>
+    <p>1 bocal de filets de rollmops au vinaigre</p>
+    <p>oeufs durs</p>
+    <p>betteraves à l'aigre douce</p>
+    <p>cornichons et des petits oignons au vinaigre</p>
+    <p>2 à 3 pommes jonagold</p>
+    <p>noix</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler tous les ingrédients (froids) en petits morceaux. 
+    Mélanger le tout. Rajouter des betteraves suivant les goûts ou la couleur désirée. Se déguste froid, avec du pain gris et une sauce mayonnaise.Ce plat est servi dans les cantons de l'est les lendemains de Carnaval !
+  ]]>
+  </preparation>
+</recette>

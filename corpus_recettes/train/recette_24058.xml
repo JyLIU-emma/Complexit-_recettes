@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24058">
+  <titre>Filets de dinde sauce au poivre et à la moutarde</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de filet de dinde</p>
+    <p>300 g de champignons blancs</p>
+    <p>50 g de beurre</p>
+    <p>1 cuillère à soupe de poivre</p>
+    <p>1 cuillère à café de moutarde</p>
+    <p>sel</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer les champignons sous l'eau froide, puis les émincer finement.
+    Mettre la viande à cuire dans une sauteuse beurrée, puis y ajouter les champignons dès qu'elle commence à cuire. Parsemer le tout de grains de poivre grossièrement concassés et remuer.
+    Retourner la viande régulièrement afin que la cuisson soit homogène.
+    Ajouter ensuite la moutarde, puis la délayer en fin de cuisson avec la crème fraîche. Saler, goûter et rectifier l'assaisonnement si nécessaire.
+    Vous pouvez accompagner ce plat de pommes dauphines ou de cresson.
+  ]]>
+  </preparation>
+</recette>

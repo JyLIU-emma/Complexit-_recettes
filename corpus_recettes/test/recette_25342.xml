@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25342">
+  <titre>Pâtes farcies au jambon et au veau</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>350 g de grosses pâtes à farcir</p>
+    <p>200 g de veau haché</p>
+    <p>135 g de jambon</p>
+    <p>100 g de gruyère</p>
+    <p>35 g de parmesan</p>
+    <p>1 bouquet de persil</p>
+    <p>1 gousse d'ail</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>sel, poivre</p>
+    <p>Pour la sauce tomate :</p>
+    <p>2 grandes boîtes de tomates pelées</p>
+    <p>1 oignon</p>
+    <p>1 échalote</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>1 branche de thym</p>
+    <p>1 feuille de laurier</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6-7).
+    Cuire les pâtes "al dente". Egoutter et laisser refroidir.
+    Préparer la sauce tomate : faire revenir l'oignon et l'échalote hachés dans l'huile. Ajouter les tomates et leur jus, saler et poivrer.
+    Laisser mijoter 30 minutes à feu doux.
+    Préparer ensuite la farce : hacher le jambon, ajouter le veau et le persil haché.
+    Faire dorer dans une poêle et rectifier l'assaisonnement.
+    Garnisser les pâtes d'un peu de farce et les déposer dans un plat à gratin beurré.
+    Parsemer de gruyère et de parmesan, arroser de sauce tomate.
+    Passer au four 15 à 20 minutes.
+  ]]>
+  </preparation>
+</recette>

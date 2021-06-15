@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19300">
+  <titre>Gâteau goûté</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>200 g de beurre</p>
+    <p>150 g de sucre</p>
+    <p>3 oeufs</p>
+    <p>10 cl de lait</p>
+    <p>1 sachet de levure chimique</p>
+    <p>1 zeste d'orange non traitée</p>
+    <p>50 g de raisins secs</p>
+    <p>50 g d'écorces d'oranges confites</p>
+    <p>100 g d'amandes grossièrement hachées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre, ajouter et mélanger le sucre, faire blanchir en battant au fouet 1 à 2 mn. 
+    Incorporer les oeufs, la faine et la levure, puis le lait. 
+    Mettre à la fin le reste des ingrédients : les raisins, l'écorce d'orange, le zeste et les amandes hachées. 
+    Cuisson 45mn / 1h à thermostat 6. 
+    Contrôler la cuisson au couteau.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18371">
+  <titre>Pizza aux pommes et à la cannelle</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de farine</p>
+    <p>1 yaourt nature à 0% (ou un petit fromage blanc) </p>
+    <p>1 jaune d'œuf</p>
+    <p>3 pommes (selon la grosseur) </p>
+    <p>10 cl de crème liquide allégée</p>
+    <p>1 cuillère à café de cannelle</p>
+    <p>sucre au goût</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Travailler la farine, le yaourt et le jaune d'oeuf (rajouter une goutte d'eau si la pâte est trop friable). 
+    La laisser si possible reposer à couvert pendant 2 heures. 
+    Beurrer une feuille de papier sulfurisé et y étendre la pâte en relevant les bords. 
+    Mélanger la crème, le sucre et la cannelle et en étaler la moitié sur la pâte. 
+    Peler les pommes, les couper en tranches les plus fines possibles et en retirer le coeur. 
+    Les disposer alors sur la pâte puis verser le reste de la crème dessus. 
+    Mettre à four chaud (200/240°C) pendant environ 30 mn. 
+    Servir chaud ou froid.
+  ]]>
+  </preparation>
+</recette>

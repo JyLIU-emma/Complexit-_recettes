@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19381">
+  <titre>Salade aux poires dattes et noix</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 poires</p>
+    <p>12 dattes</p>
+    <p>50 g de noix</p>
+    <p>1 cuillère à soupe de jus de citron</p>
+    <p>1/4 de cuillère à café de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les poires et les couper en morceaux, couper les dattes en petits morceaux, passer les noix au mixer, tout mélanger dans un saladier, ajouter une cuillère à soupe de jus de citron (pas trop pour ne pas que ce soit trop acide) et ajouter un peu de sucre (selon votre goût). Servir frais. 
+  ]]>
+  </preparation>
+</recette>

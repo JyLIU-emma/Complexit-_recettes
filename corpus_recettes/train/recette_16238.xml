@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16238">
+  <titre>Bar en robe des champs</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 beaux filets de bar (ou autre poisson)</p>
+    <p>10 pommes de terre</p>
+    <p>2 échalotes</p>
+    <p>ail frais (2 ou 3 têtes)</p>
+    <p>1 poivron rouge et un poivron vert</p>
+    <p>1 jus de citron</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>papier aluminium</p>
+    <p>sel, poivre, muscade, thym</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 150°C.
+    Peler et couper les pommes de terre en dés et les faire cuire à moitié. Couper les poivrons en fines rondelles (ou dés).
+    Dans une poêle, faire suer les échalotes dans l'huile d'olive, ajouter l'ail et les poivrons, puis saler et poivrer. Laisser cuire 1 mn.
+    Former 4 'bols' avec l'aluminium (mettre une assiette creuse en-dessous), couper chaque filet de bar en deux et arroser de la moitié du jus d'un citron. Ajouter sel, poivre et muscade.
+    Garnir chaque 'bol' d'aluminium de pommes de terre, des filets, des échalotes, du jus de citron restant, d'huile d'olive, sel, poivre, muscade et thym.
+    Fermer chaque 'bol' d'aluminium et mettre au four 30 mn.
+    Ce plat, qui peut se faire avec pratiquement tous les poissons, est sain et délicieux. Personnellement, j'ajoute un piment entier dans ma part! ;)
+  ]]>
+  </preparation>
+</recette>

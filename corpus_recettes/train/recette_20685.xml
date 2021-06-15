@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20685">
+  <titre>Steaks à la pâte d'ail</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de boeuf</p>
+    <p>5 gousses d'ail</p>
+    <p>1 cuillère à soupe de vinaigre</p>
+    <p>30 g de beurre</p>
+    <p>2 cuillères à soupe d'huile  </p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez la viande en 4 steaks.
+    Ecrasez 3 gousse d'ail avec du sel et du poivre. Mouillez de vinaigre et mélangez.
+    Frottez les steaks avec cette pâte d'ail puis laissez reposer 30 minutes.
+    Faites chauffer le beurre et l'huile dans une poêle avec les 2 gousses d'ail restantes coupées en 4. Lorsque les gousses d'ail sont dorées, retirez-les et saississez les steaks.
+    Servez avec de la purée ou des frites.
+  ]]>
+  </preparation>
+</recette>

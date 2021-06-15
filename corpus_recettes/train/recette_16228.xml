@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16228">
+  <titre>Escalopes de poulet au pesto rouge</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 blancs de poulet</p>
+    <p>4 cuillères à soupe d'huile d’olive</p>
+    <p>1 boule de Mozzarella</p>
+    <p>sauce tomates</p>
+    <p>Pour le Pesto :</p>
+    <p>2 tomates séchées à l’huile</p>
+    <p>1 poivron rouge</p>
+    <p>3 cuillères à soupe d’huile d’olive</p>
+    <p>3 gousses d’aïl</p>
+    <p>4 cuillères à soupe de coulis de tomates</p>
+    <p>24 feuilles de basilic</p>
+    <p>4 cuillères à soupe de Pecorino râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire le Pesto : égoutter les tomates séchées et les hâcher. Couper le poivron en dés et le faire revenir 10 mn dans l’huile chaude.
+    Ajouter l’ail écrasé, le coulis de tomates et les tomates séchées. Saler et poivrer. Laisser mijoter 5 mn, puis laisser refroidir.
+    Verser dans le bol d’un robot ménager, ajouter le basilic, le Pecorino et mixer en une purée épaisse.
+    Faire les escalopes : beurrer un plat à gratin.
+    Inciser les blancs de poulet dans le sens de la longueur. Ecarter la chair et farcir les blancs avec le Pesto. Les placer dans le plat à gratin, les enduire d’huile d’olive. Saler et poivrer.
+    Cuire 45 mn à 200°C (dans un four non préchauffé) en recouvrant le plat de papier aluminium. 
+    Surveiller la cuisson pour que la viande ne sèche pas.
+    Détailler la mozzarella en tranches. Les répartir sur les blancs de poulet et terminer la cuisson 5 mn sous le grill du four.
+    Servir accompagné de riz et de sauce tomates à laquelle on aura ajouté quelques cuillerées de Pesto.
+    Plat un peu long à préparer, mais le Pesto peut être congelé.
+  ]]>
+  </preparation>
+</recette>

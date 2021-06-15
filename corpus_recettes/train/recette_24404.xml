@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24404">
+  <titre>Chou rouge aux marrons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 chou rouge</p>
+    <p>2 oignons</p>
+    <p>1 kg de marrons frais (1 grande boîte de marrons entiers)</p>
+    <p>1 cuillère à soupe de graisse d'oie</p>
+    <p>300 g de lard fumé</p>
+    <p>1/2 cube de bouillon</p>
+    <p>20 cl d'eau chaude</p>
+    <p>2 cuillères à soupe de vinaigre</p>
+    <p>2 clous de girofle</p>
+    <p>thym, laurier</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer, laver le chou puis le couper en fines lanières. Détailler le lard en lardons. Peler, émincer les oignons.
+    Faire revenir tous ces ingrédients dans une cocotte dans la graisse d'oie. Saler, poivrer et y ajouter les clous de girofle avec le thym et le laurier. Arroser le tout de bouillon (cube et eau) et de vinaigre, puis laisser mijoter 1 h à feu doux à couvert.
+    Pendant ce temps, préparer les marrons :
+    Les plonger dans un bain d'eau bouillante pendant 3 min environ, puis les éplucher. Les incorporer ensuite au reste de la préparation après 1 h de cuisson, et poursuivre la cuisson à feu très doux pendant 1 h environ.
+  ]]>
+  </preparation>
+</recette>

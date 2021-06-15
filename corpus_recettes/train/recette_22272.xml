@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22272">
+  <titre>Pain de veau et jambon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de jambon dégraissé découenné haché</p>
+    <p>100 g de veau haché</p>
+    <p>4 oeufs battus en omelette</p>
+    <p>1 cuiller à soupe de baies roses broyées au moulin à poivre</p>
+    <p>sel, poivre (5 baies) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mêler les baies broyées, le sel et le poivre dans les oeufs battus. Ajouter les viandes et bien mélanger. 
+    Graisser avec un papier absorbant imbibé d'une goutte d'huile un moule à cake et le fariner. Puis étaler la préparation. Mettre au four 160°c pendant une heure à 1h 15 à chaleur tournante et au bain-marie si four ordinaire.
+  ]]>
+  </preparation>
+</recette>

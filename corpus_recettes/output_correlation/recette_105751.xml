@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="105751">
+  <titre>Riz au lait sans lait</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 oeuf</p>
+    <p>3 cuillères à soupe de crème fraiche</p>
+    <p>3 cuillère à soupe de riz basmati</p>
+    <p>1 zeste de citron</p>
+    <p>3 sachets de sucre vanillé</p>
+    <p>une cuillère à soupe de sucre cristal</p>
+    <p>une tasse d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1 - Dans une petite casserole battre la crème fraiche, l'oeuf, le zeste de citron, le sucre vanillé et le sucre cristal.
+     
+    2 - Sur feu moyen rajouter l'eau et monter tout en remuant jusqu'a ébulition.
+     
+    3 - Rajouter le riz jusqu'a cuisson totale de celui-ci.
+     
+    4 - Une fois cuit, éteindre la cuisson, mettre un torchon propre sur la casserole jusqu'a absorption totale du mélange (la consistance doit être onctueuse).
+     
+    5 - servir dans des ramequins (on peut rajouter un lit de caramel dans le fond pour les gourmands =) )
+     
+    6 - à déguster tiède ou froid. Régalez-vous !!Dessert rapide, délicieux et idéal pour les ruptures de stocks du frigo !!
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  1 - Dans une <INGRED id="2">petite</INGRED> casserole <OPER id="o_1">battre</OPER> la <INGRED id="3">crème fraiche</INGRED>, l'<INGRED id="5">oeuf</INGRED>, le <INGRED id="4">zeste de citron</INGRED>, le <INGRED id="2">sucre vanillé</INGRED> et le <INGRED id="6">sucre cristal</INGRED>. 2 - Sur feu moyen <OPER id="o_2">rajouter</OPER> l'eau et <OPER id="o_3">monter</OPER> tout en remuant jusqu'a ébulition. 3 - <OPER id="o_4">Rajouter</OPER> le <INGRED id="3">riz</INGRED> jusqu'a cuisson totale de celui-ci. 4 - Une fois cuit, <OPER id="o_5">éteindre</OPER> la cuisson, <OPER id="o_6">mettre</OPER> un torchon propre sur la casserole jusqu'a absorption totale du <INGRED id="7">mélange</INGRED> ( la consistance doit être onctueuse ). 5 - servir dans des ramequins ( on peut <OPER id="o_7">rajouter</OPER> un lit de caramel dans le fond pour les gourmands =) ) 6 - à déguster tiède ou froid. <OPER id="o_8">Régalez</OPER> -vous ! ! Dessert rapide, délicieux et idéal pour les ruptures de stocks du frigo ! !
+  </annotation>
+  <annotation methode="crf">
+  1 - Dans une <INGRED>petite</INGRED> casserole battre la <INGRED>crème fraiche</INGRED> <INGRED>,</INGRED> l'<INGRED>oeuf</INGRED> <INGRED>,</INGRED> le <INGRED>zeste de citron</INGRED> <INGRED>,</INGRED> le <INGRED>sucre vanillé</INGRED> et le <INGRED>sucre</INGRED> cristal. 2 - Sur feu moyen rajouter l'<INGRED>eau</INGRED> et monter tout en remuant jusqu'<INGRED>a</INGRED> ébulition. 3 - Rajouter le <INGRED>riz</INGRED> jusqu'<INGRED>a</INGRED> cuisson totale de celui-ci. 4 - Une fois cuit <INGRED>,</INGRED> éteindre la cuisson <INGRED>,</INGRED> mettre un torchon propre sur la casserole jusqu'<INGRED>a</INGRED> absorption totale du <INGRED>mélange</INGRED> ( la consistance doit être onctueuse ). 5 - servir dans des ramequins ( on peut rajouter un lit de <INGRED>caramel</INGRED> dans le <INGRED>fond</INGRED> pour les gourmands =) ) 6 - à déguster tiède <INGRED>ou</INGRED> froid <INGRED>.</INGRED> Régalez -vous ! ! Dessert rapide <INGRED>,</INGRED> délicieux et idéal pour les ruptures de stocks du frigo ! !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 6.76923076923077*X + 1.23076923076923</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 11*X + 3</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['oeuf']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['crème fraiche', 'crème']	 id:2	 quantité:3	 unité:cuillères à soupe de	 denombrable:True	 recipient:3*X
+ingredient:['riz basmati', 'riz']	 id:3	 quantité:3	 unité:cuillère à soupe de	 denombrable:True	 recipient:3*X
+ingredient:['zeste de citron', 'zeste']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sucre vanillé', 'sucre']	 id:5	 quantité:3	 unité:sachets de	 denombrable:True	 recipient:3*X
+ingredient:['sucre cristal', 'sucre']	 id:6	 quantité:non_precis	 unité:cuillère à soupe de	 denombrable:False	 recipient:1
+ingredient:['eau']	 id:7	 quantité:non_precis	 unité:tasse d'	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:battre	 id:o_1	 ingrédients_ralatifs:['2', '3', '5', '4', '2', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rajouter	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:monter	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rajouter	 id:o_4	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:éteindre	 id:o_5	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_6	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:rajouter	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:régaler	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

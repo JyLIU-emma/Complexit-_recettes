@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27202">
+  <titre>Haddock aux choux de bruxelles</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 filets de haddock</p>
+    <p>1 kg de choux de Bruxelles</p>
+    <p>200 g de lard ou lardons fumés</p>
+    <p>une ou deux carottes</p>
+    <p>un oignon</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez les choux de bruxelles et coupez-les en deux. 
+    Faites-les cuire (la cuisson dépend de la nature initiale des choux : s'ils sont surgelés, faîtes-les cuire dans l'eau bouillante jusqu'à ce qu'ils soient tendres). 
+    Pendant ce temps, faites revenir l'oignon émincé, la carotte coupée en rondelles fines et les lardons dans le fond d'une cocotte avec l'huile d'olive. 
+    Ajoutez les choux. 
+    Laissez cuire 10 mn puis ajoutez le poisson sur le lit de choux de bruxelles. 
+    Laissez cuire à feu doux jusqu'à ce que les choux aient bien réduit et que le poisson soit cuit et tendre. 
+    Servez.
+    les choux de Bruxelles peuvent être remplacés par du chou normal, ou même par des lentilles ! côteau de glanes
+  ]]>
+  </preparation>
+</recette>

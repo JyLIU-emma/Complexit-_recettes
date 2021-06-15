@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12721">
+  <titre>Poulet à l'orange</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 blancs de poulet</p>
+    <p>1 barquette de lardons</p>
+    <p>5 champignons de paris frais</p>
+    <p>3 gros oignons</p>
+    <p>4 oranges</p>
+    <p>sel et poivre</p>
+    <p>herbes de provence</p>
+    <p>1 demi-citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire braiser le poulet dans du beurre, puis le réserver sur une assiette. Faire revenir les oignons, y ajouter les champignons puis les lardons.
+    Zester une des oranges et presser les quatre.
+    Remettre les blancs de poulet sur le lit d'oignons/lardons, arroser avec le jus d'orange et mettre les zests par dessus.
+    Saler et poivrer légèrement, puis presser le demi-citron.
+    Laisser réduire afin de aire confire les oignons.
+     
+    Servir accompagné de pommes de terre cuites au four : cuire 10 minutes les pommes de terre à l'eau, les couper en 4 dans le sens de la longeur, puis les ranger sur le dos dans le lèche frite du four en arrosant légèrement d'huile d'arachide, pour finalement les laisser cuire 20 à 25 mn.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25952">
+  <titre>Biscuit roulé à la confiture</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>50 g de sucre</p>
+    <p>50 g de farine</p>
+    <p>2 oeufs</p>
+    <p>1 cuillère à soupe de rhum ou de jus de citron</p>
+    <p>1/2 pot de confiture de framboise</p>
+    <p>100 g crème fraîche épaisse</p>
+    <p>sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 200°C (thermostat 6-7).
+    Fouettez les jaunes d'oeufs avec le sucre et le rhum jusqu'à ce que le mélange blanchisse.
+    Incorporez la moitié de la farine, un peu de blancs d'oeufs montés en neige ferme puis le reste de la farine et des blancs.
+    Versez la pâte sur une plaque à four recouverte d'un papier sulfurisé beurré. 
+    Enfournez pour 15-20 minutes de cuisson. 
+    A la sortie du four, retournez le biscuit délicatement et roulez-le immédiatement sur lui-même à l'aide du papier beurré. Laissez refroidir.
+    Mélangez la confiture et la crème.
+    Déroulez le biscuit et recouvrez-le de crème à la confiture. Roulez-le à nouveau et placez au frais. Saupoudrez de sucre glace avant de servir. 
+  ]]>
+  </preparation>
+</recette>

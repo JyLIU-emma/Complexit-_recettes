@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15146">
+  <titre>Cake chèvre, noix et raisins secs</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>175 g de farine</p>
+    <p>3 oeufs</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>5 g (1/2 sachet) de levure alsacienne</p>
+    <p>100 g de comté râpé</p>
+    <p>150 g de fromage de chèvre (type Ste Maure)</p>
+    <p>1 petit verre de lait</p>
+    <p>70 g de cerneaux de noix</p>
+    <p>50 g de raisins secs</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire gonfler les raisins 15 mn dans de l'eau tiède.
+    Mélanger dans un saladier : oeufs , farine, levure, sel et poivre. Incorporer petit à petit l'huile et le lait chaud. Ajouter le fromage râpé et bien remuer.
+    Ajouter le chèvre écrasé à la fourchette, les noix concassées grossièrement et les raisins égouttés.
+    Verser le tout dans un moule à cake beurré et enfourner à four préchauffé pour 40 mn (thermostat 6/180°C).
+  ]]>
+  </preparation>
+</recette>

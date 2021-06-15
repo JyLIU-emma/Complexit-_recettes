@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25711">
+  <titre>Gratin de tagliatelles aux épinards</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de tagliatelles</p>
+    <p>1 kg d'épinards</p>
+    <p>100  g de gruyère râpé</p>
+    <p>50 cl de lait</p>
+    <p>60 g de beurre</p>
+    <p>20 g de farine</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et hacher les épinards, puis les faire suer avec 20 g de beurre à feu doux.
+    Faire cuire les pâtes, les égoutter et mélanger avec 20 g de beurre.
+    Préparer la béchamel : faire fondre 20 g de beurre, saupoudre de farine et remuer à la cuillère en bois.
+    Ajouter le lait peu à peu, saler, poivrer et laisser épaissir à feu doux en remuant.
+    Hors feu, incorporer 50 g de fromage râpé.
+    Dans un plat à four beurré, mettre une couche de pâtes, couvrir de béchamel, puis d'épinards et de gruyère.
+    Répéter jusqu'à épuisement des ingrédients, couvrir de fromage et faire gratiner 15 min au four à 200°C (thermostat 6-7).
+  ]]>
+  </preparation>
+</recette>

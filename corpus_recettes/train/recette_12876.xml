@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12876">
+  <titre>Roulade de viande (Fleischnaka en Alsace)</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte à nouilles :</p>
+    <p>160 g de farine</p>
+    <p>2 oeufs (80 g de farine pour 1 oeuf)Pour la farce de viande :</p>
+    <p>1 oignon et une bonne touffe de persil</p>
+    <p>400 grammes de hâchis de bœuf cuit ou frais ou autres restes de viande</p>
+    <p>une bonne tranche de pain trempée dans du lait chaud</p>
+    <p>un œuf, sel, poivre, un peu de noix de muscade râpée</p>
+    <p>un peu d'huile</p>
+    <p>un bouillon gras (1/2 l d'eau et 1 bouillon cube)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer une pâte à nouilles et une farce de viande.
+    La farce de viande : hacher fin 1 oignon et une bonne touffe de persil et les faire revenir dans un peu d'huile, l'ajouter à 400 grammes de hachis de bœuf cuit ou frais ou autres restes de viande.
+    Si l'on prend du hachis frais, il faut aussi le faire revenir un peu avec l'oignon et le persil.
+    Ajouter une bonne tranche de pain trempée dans du lait chaud, égouttée et écrasée, un œuf, sel, poivre, un peu de noix de muscade râpée.
+    La pâte : mélanger 160 g de farine avec 2 œufs et travailler la pâte jusqu'à ce qu'elle soit libre. 
+    La couper en 2 parts et étaler chacune sur la planche farinée en une abaisse très fine.
+    Bien mélanger la farce et l'étaler sur toute la surface des 2 abaisses de pâtes à nouilles, les enrouler pour faire un long rouleau et couper des morceaux de 4 à 5 cm.
+    Chauffer un peu d'huile dans une cocotte large et y poser ces rouleaux pour les faire dorer de tous les côtés.
+    Mouiller les nouilles à hauteur de bouillon de pot au feu ou un bouillon gras (1/2 l d'eau et 1 bouillon cube) et les laisser cuire à couvert doucement pendant une demi-heure.
+    Goûter pour voir si la pâte est cuite, sinon rajouter un peu d'eau ou plus du bouillon.
+    Servir avec de la salade.
+  ]]>
+  </preparation>
+</recette>

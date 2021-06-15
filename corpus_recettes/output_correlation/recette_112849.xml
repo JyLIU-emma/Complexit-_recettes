@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="112849">
+  <titre>Salade d'oranges à l'auvergnate (pour Noël)</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>12 oranges non traitées après récolte</p>
+    <p>2 bouteilles de 75 cl de vin blanc sec 12° type gewurtzträminer ou sauvignon blanc ou sancerre ou riesling....</p>
+    <p>2 verres à moutarde de rhum ambré</p>
+    <p>6 sachets de sucre vanillé</p>
+    <p>sucre poudre</p>
+    <p>cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    A PREPARER 4 OU 5 JOURS A L'AVANCE SI ON PEUT CAR PLUS C'EST MACERE DANS LE JUS, MEILLEUR C'EST; MAIS SI PAS LE TEMPS AVANT,CE SERA TRES BON QUAND MEME.*Rincer les oranges après avoir enlevé le film protecteur.*Avec un couteau, couper une bonne tranche d'orange de chaque côté pour enlever l'arrondi.*Avec une mandoline (ou un couteau mais c'est plus long), couper les oranges en tranches épaisses.
+    Dans un saladier large, disposer une couche d'oranges, puis saupoudrer doucement de sucre en poudre et de cannelle, puis refaire un étage d'oranges + sucre et cannelle.*Dans une casserole, faire bouillir les 2 bouteilles de vin blans avec 6 sachets de sucre vanillé + 16 cuillères à soupe de sucre en poudre. Bien remuer.*Dans une seconde casserole; faire bouillir 2 verres à moutarde de rhum ambré, puis les flamber. Incorporer le rhum au vin blanc une fois la flamme éteinte.
+    Puis verser le liquide sur les fruits. Réserver au réfrigérateur ou dans une cave après avoir filmé le saladier avec du cellophane.*Tous les jours avant dégustation, tourner les oranges de sorte qu'elles aient toutes baigné dans le jus un peu de temps.Cette recette me vient de mon beau-père qui lui-même la tient de sa maman, c'est une recette très ancienne, mais qui est tellement délicieuse qu'elle mérite de régaler les gourmands encore très longtemps. Elle est traditionnellement servie en Auvergne pendant la période de Noël. Bon appétit !
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  A <OPER id="o_1">PREPARER</OPER> 4 OU 5 JOURS A L'AVANCE SI ON PEUT CAR PLUS C'EST MACERE DANS LE JUS, MEILLEUR C'EST ; MAIS SI PAS LE TEMPS AVANT, CE SERA TRES BON QUAND <OPER id="o_2">MEME.*Rincer</OPER> les <INGRED id="1">oranges</INGRED> après <OPER id="o_3">avoir</OPER> enlevé le film protecteur.*Avec un couteau, <OPER id="o_4">couper</OPER> une bonne tranche d'orange de chaque côté pour enlever l'arrondi.*Avec une mandoline ( ou un couteau mais c'est plus long ), <OPER id="o_5">couper</OPER> les <INGRED id="1">oranges</INGRED> en tranches épaisses. Dans un <INGRED id="1">saladier</INGRED> large, <OPER id="o_6">disposer</OPER> une couche d'<INGRED id="4">oranges</INGRED>, puis <OPER id="o_7">saupoudrer</OPER> doucement de <INGRED id="5">sucre en poudre</INGRED> et de <INGRED id="2">cannelle</INGRED>, puis <OPER id="o_8">refaire</OPER> un étage d'<INGRED id="1">oranges</INGRED> + <INGRED id="2">sucre</INGRED> et cannelle.*Dans une casserole, faire <OPER id="o_9">bouillir</OPER> les 2 bouteilles de <INGRED id="2">vin</INGRED> blans avec 6 sachets de sucre vanillé + 16 cuillères à <INGRED id="4">soupe</INGRED> de <INGRED id="4">sucre en poudre</INGRED>. Bien remuer.*Dans une seconde casserole ; faire <OPER id="o_10">bouillir</OPER> 2 verres à <INGRED id="3">moutarde de rhum ambré</INGRED>, puis les <OPER id="o_11">flamber</OPER>. <OPER id="o_12">Incorporer</OPER> le <INGRED id="6">rhum</INGRED> au <INGRED id="2">vin blanc</INGRED> une fois la flamme éteinte. Puis <OPER id="o_13">verser</OPER> le liquide sur les fruits. Réserver au réfrigérateur ou dans une cave après <OPER id="o_14">avoir</OPER> filmé le <INGRED id="1">saladier</INGRED> avec du cellophane.*Tous les jours avant dégustation, <OPER id="o_15">tourner</OPER> les <INGRED id="1">oranges</INGRED> de sorte qu'elles aient toutes baigné dans le <INGRED id="2">jus</INGRED> un peu de temps. Cette recette me vient de mon beau-père qui lui-même la tient de sa maman, c'est une recette très ancienne, mais qui est tellement délicieuse qu'elle mérite de <OPER id="o_16">régaler</OPER> les gourmands encore très longtemps. Elle est traditionnellement servie en Auvergne pendant la période de Noël. Bon appétit !
+  </annotation>
+  <annotation methode="crf">
+  A PREPARER 4 OU 5 JOURS A L'AVANCE SI ON PEUT CAR PLUS C'EST MACERE DANS LE JUS <INGRED>,</INGRED> MEILLEUR C'EST ; MAIS SI PAS LE TEMPS AVANT <INGRED>,</INGRED> CE SERA TRES BON QUAND MEME.*Rincer les <INGRED>oranges</INGRED> après avoir enlevé le film protecteur.*Avec un couteau <INGRED>,</INGRED> couper une bonne tranche d'orange de chaque côté pour enlever l'arrondi.*Avec une mandoline ( <INGRED>ou</INGRED> un couteau mais c'est plus long ) <INGRED>,</INGRED> couper les <INGRED>oranges</INGRED> en tranches épaisses. Dans un saladier large <INGRED>,</INGRED> disposer une couche d'<INGRED>oranges</INGRED> <INGRED>,</INGRED> puis saupoudrer doucement de <INGRED>sucre en poudre</INGRED> et de <INGRED>cannelle</INGRED> <INGRED>,</INGRED> puis refaire un étage d'<INGRED>oranges</INGRED> + <INGRED>sucre</INGRED> et cannelle.*Dans une casserole <INGRED>,</INGRED> faire bouillir les 2 bouteilles de <INGRED>vin</INGRED> blans avec 6 sachets de <INGRED>sucre vanillé</INGRED> + 16 <INGRED>cuillères à soupe</INGRED> de <INGRED>sucre en poudre</INGRED> <INGRED>.</INGRED> Bien remuer.*Dans une seconde casserole ; faire bouillir 2 <INGRED>verres</INGRED> à <INGRED>moutarde</INGRED> de <INGRED>rhum</INGRED> ambré <INGRED>,</INGRED> puis les flamber. Incorporer le <INGRED>rhum</INGRED> au <INGRED>vin blanc</INGRED> une fois la flamme éteinte. Puis verser le liquide sur les <INGRED>fruits</INGRED>. Réserver au réfrigérateur <INGRED>ou</INGRED> dans une cave après avoir filmé le saladier avec du cellophane.*Tous les jours avant dégustation <INGRED>,</INGRED> tourner les <INGRED>oranges</INGRED> de sorte qu'elles aient toutes baigné dans le <INGRED>jus</INGRED> un peu de temps. Cette recette me vient de mon beau-père qui lui-même la tient de sa maman <INGRED>,</INGRED> c'est une recette très ancienne <INGRED>,</INGRED> mais qui est tellement délicieuse qu'elle mérite de régaler les gourmands encore très longtemps. Elle est traditionnellement servie en Auvergne pendant la période de Noël. Bon appétit !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 33.9130434782609*X + 5.08695652173913</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 20*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['oranges non traitées après récolte', 'oranges']	 id:1	 quantité:12	 unité:non_precis	 denombrable:True	 recipient:12*X
+ingredient:['vin blanc sec 12 ° type gewurtzträminer', 'vin']	 id:2	 quantité:2	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['moutarde de rhum ambré', 'moutarde']	 id:3	 quantité:2	 unité:verres à	 denombrable:True	 recipient:2*X
+ingredient:['sucre vanillé', 'sucre']	 id:4	 quantité:6	 unité:sachets de	 denombrable:True	 recipient:6*X
+ingredient:['sucre poudre', 'sucre']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['cannelle']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:preparer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:meme.*rincer	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:avoir	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_4	 ingrédients_ralatifs:['1', '1']	 nombre_opération_atomique:12*X+12*X	 temps:12*X*1+12*X*1	 recipient:1
+operation:couper	 id:o_5	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:12*X*1	 recipient:1
+operation:disposer	 id:o_6	 ingrédients_ralatifs:['1', '4', '5', '2', '1', '2', '2', '4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:saupoudrer	 id:o_7	 ingrédients_ralatifs:['5', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refaire	 id:o_8	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:bouillir	 id:o_9	 ingrédients_ralatifs:['2', '4', '4']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:bouillir	 id:o_10	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:flamber	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_12	 ingrédients_ralatifs:['6', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:avoir	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tourner	 id:o_15	 ingrédients_ralatifs:['1', '1', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:régaler	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

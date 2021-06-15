@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14184">
+  <titre>Paté au poulet</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>1/4 de tasse (100 g) de piment vert et de piment rouge haché</p>
+    <p>1/4 tasse (100 g) de carottes en dés</p>
+    <p>1/2 tasse (200 g) d'oignon haché</p>
+    <p>1/2 tasse (200 g) de céleri haché</p>
+    <p>1/4 (100 g) de tasse de pommes de terre en dés</p>
+    <p>Sel et poivre</p>
+    <p>3 cuillères à café de beurre</p>
+    <p>3 cuillères à café de farine</p>
+    <p>1 boîte de crème de poulet (ou de champignons ou de céleri)</p>
+    <p>1 poulet cuit désossé</p>
+    <p>1 boîte de bouillon de poulet</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les légumes 5 minutes dans le bouillon de poulet.
+    Dans une autre casserole, fondre le beurre et ajouter la farine. Brasser et ajouter la crème de poulet. Cuire en brassant.
+    Mêler avec les légumes et le poulet cuit. Assaisonner.
+    Foncer un plat d'une abaisse de pâte et y déposer le mélange du poulet. Recouvrir d'une autre pâte. Badigeonner d'un oeuf battu. Cuire 20 mn à 425°F (220°C), puis 30 mn à 350°F (180°C).
+  ]]>
+  </preparation>
+</recette>

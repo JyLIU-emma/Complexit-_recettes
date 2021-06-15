@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22066">
+  <titre>Salade vigneronne</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>150 g de raisin blanc</p>
+    <p>150 g de raisin noir</p>
+    <p>2 pommes</p>
+    <p>75 g de sucre</p>
+    <p>25 cl de jus de raisin</p>
+    <p>glace à la vanille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Egrener les raisins et les nettoyer. Peler et détailler les pommes en dés.
+    Saupoudrer de sucre et arroser de jus de raisin. Laiser macérer au frais 1 h.
+    Servir dans des coupes individuelles avec une boule de glace vanille.
+  ]]>
+  </preparation>
+</recette>

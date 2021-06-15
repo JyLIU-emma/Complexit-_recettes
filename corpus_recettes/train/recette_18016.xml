@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18016">
+  <titre>Soupe de gofio (Canaries)</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 petit oignon</p>
+    <p>4 cuillères à soupe de gofio</p>
+    <p>eau, sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir l'oignon haché menu dans un peu d'huile. Ajouter quatre cuillères à soupe de gofio et mélanger pour obtenir une boule de pâte légèrement dorée.
+    Diluer lentement à l'eau tiède, en mélangeant sans cesse, jusqu'à obtenir un bouillon. Saler et laisser bouillir pour épaissir un peu.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18463">
+  <titre>Tarte au miel et amandes!</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de pâte brisée au beurre</p>
+    <p>200 g d'amandes effilées</p>
+    <p>120 g de beurre</p>
+    <p>100 g de miel</p>
+    <p>200 g de sucre</p>
+    <p>100 g de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etalez votre pâte, faire des trous à la fourchette et précuire environ 10 mn. 
+    Ensuite mélangez vos ingrédients, sucre, beurre fondu, amandes, miel, crème, et versez. 
+    Votre préparation sur la pâte!
+    Mettez au four 15 mn et grill les 5 dernières minutes !!!
+    Voilà et vous avez là un dessert à tomber par terre, parole de gourmande !!!
+  ]]>
+  </preparation>
+</recette>

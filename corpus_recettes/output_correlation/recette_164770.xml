@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164770">
+  <titre>Les grillés du matin</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 œuf</p>
+    <p>100 g de sucre</p>
+    <p>50 g de beurre</p>
+    <p>12 cuillères à soupe de lait</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 sachet de levure</p>
+    <p>250 g de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger l'œuf, le sucre, le beurre fondu, et le sucre vanillé. Ajouter le lait la levure et la farine. Bien mélanger pour obtenir une pâte fluide.
+    Verser le tout dans un moule à tarte de 24 cm de diamètre éventuellement beurré.
+    Préchauffer le four à 180°C et cuire 25 minutes.
+    Laisser tiédir et démouler. Couper le gâteau en tranches d'un à deux centimètres de large. Placer les tranches sur la plaque du four sous le grill, et laisser griller 5 à 8 minutes par face, moelleux à cœur.
+    A déguster le matin au petit déjeuner, trempé dans le café ou le chocolat.Les tranches grillées se conservent facilement dans une boite en métal.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Mélanger</OPER> l'<INGRED id="1">œuf</INGRED>, le <INGRED id="2">sucre</INGRED>, le <INGRED id="2">beurre fondu</INGRED>, et le <INGRED id="5">sucre vanillé</INGRED>. <OPER id="o_2">Ajouter</OPER> le <INGRED id="6">lait</INGRED> la <INGRED id="3">levure</INGRED> et la <INGRED id="2">farine</INGRED>. Bien <OPER id="o_3">mélanger</OPER> pour obtenir une <INGRED id="5">pâte</INGRED> fluide. <OPER id="o_4">Verser</OPER> le tout dans un moule à tarte de 24 cm de diamètre éventuellement beurré. <OPER id="o_5">Préchauffer</OPER> le four à 180 ° C et <OPER id="o_6">cuire</OPER> 25 minutes. Laisser <OPER id="o_7">tiédir</OPER> et <OPER id="o_8">démouler</OPER>. <OPER id="o_9">Couper</OPER> le gâteau en tranches d'un à deux centimètres de large. <OPER id="o_10">Placer</OPER> les tranches sur la plaque du four sous le grill, et laisser <OPER id="o_11">griller</OPER> 5 à 8 minutes par face, moelleux à cœur. A déguster le matin au petit déjeuner, trempé dans le café ou le <INGRED id="1">chocolat</INGRED>. Les tranches grillées se conservent facilement dans une <INGRED id="5">boite</INGRED> en métal.
+  </annotation>
+  <annotation methode="crf">
+  Mélanger l'<INGRED>œuf</INGRED> <INGRED>,</INGRED> le <INGRED>sucre</INGRED> <INGRED>,</INGRED> le <INGRED>beurre fondu</INGRED> <INGRED>,</INGRED> et le <INGRED>sucre vanillé</INGRED> <INGRED>.</INGRED> Ajouter le <INGRED>lait</INGRED> la <INGRED>levure</INGRED> et la <INGRED>farine</INGRED>. Bien mélanger pour obtenir une <INGRED>pâte</INGRED> fluide <INGRED>.</INGRED> Verser le tout dans un moule à tarte de 24 <INGRED>cm</INGRED> de diamètre éventuellement beurré. Préchauffer le four à 180 ° C et cuire 25 minutes. Laisser tiédir et démouler <INGRED>.</INGRED> Couper le gâteau en tranches d'un à <INGRED>deux</INGRED> centimètres de large <INGRED>.</INGRED> Placer les tranches sur la plaque du four sous le grill <INGRED>,</INGRED> et laisser griller 5 à 8 minutes par face <INGRED>,</INGRED> moelleux à cœur. A déguster le matin au <INGRED>petit</INGRED> déjeuner <INGRED>,</INGRED> trempé dans le <INGRED>café</INGRED> <INGRED>ou</INGRED> le <INGRED>chocolat</INGRED> <INGRED>.</INGRED> Les tranches grillées se conservent facilement dans une <INGRED>boite</INGRED> en métal.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 9.16666666666667*X + 1.83333333333333</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 15*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['œuf']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sucre']	 id:2	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:3	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:4	 quantité:12	 unité:cuillères à soupe de	 denombrable:True	 recipient:12*X
+ingredient:['sucre vanillé', 'sucre']	 id:5	 quantité:1	 unité:sachet de	 denombrable:True	 recipient:1*X
+ingredient:['levure']	 id:6	 quantité:1	 unité:sachet de	 denombrable:True	 recipient:1*X
+ingredient:['farine']	 id:7	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mélanger	 id:o_1	 ingrédients_ralatifs:['1', '2', '2', '5']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['6', '3', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:verser	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préchauffer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:cuire	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:tiédir	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:démouler	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:placer	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:griller	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5*X	 recipient:1
+]]>
+</operation_trouve>
+</recette>

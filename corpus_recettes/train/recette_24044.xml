@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24044">
+  <titre>Timbale milanaise</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de macaronis</p>
+    <p>10 cl de sauce tomate</p>
+    <p>75 g de gruyère râpé</p>
+    <p>75 g de beurre</p>
+    <p>50 g de parmesan râpé</p>
+    <p>sel et poivre</p>
+    <p>1 bouquet garni</p>
+    <p>Pour le roux blond :</p>
+    <p>200 g de farine</p>
+    <p>100 g de beurre fondu</p>
+    <p>Pour la garniture, à volonté : </p>
+    <p>truffes</p>
+    <p>jambon cru (ou fumé)</p>
+    <p>champignons</p>
+    <p>saucisses</p>
+    <p>chipolatas</p>
+    <p>quenelles de volaille</p>
+    <p>ris de veau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les macaronis, puis les égoutter. Y ajouter beurre et fromage, puis assaisonner.
+    D'autre part, faire bouillir dans le roux pendant 20 mn les ingrédients de garniture coupés en dés, ainsi que le bouquet garni. Assaisonner. 5 mn avant la fin de la cuisson, ajouter la sauce tomate.
+    Disposer ensuite dans une timbale des couches alternées de garniture et de macaroni.
+    Terminer en arrosant largement de sauce.
+     vin rosé ou rouge léger
+  ]]>
+  </preparation>
+</recette>

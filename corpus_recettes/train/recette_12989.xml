@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12989">
+  <titre>Tourte au roquefort</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 pâtes feuilletées pur beurre déjà étalées</p>
+    <p>200 g de roquefort</p>
+    <p>20 cl de crème fraîche</p>
+    <p>sel, poivre et muscade </p>
+    <p>1 jaune d'oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C.
+    Dérouler une des pâtes dans une tourtière.
+    Dans un plat, écraser à la fourchette le roquefort, ajouter la crème, une pincée de muscade, du sel et du poivre.
+    Fermer la tourte avec la seconde pâte en pinçant bien les bords et en les tournant.
+    Faire des dessins à la fourchette, dorer au pinceau avec le jaune d'oeuf.
+    Enfourner environ 20 mn.
+    Servir tiède avec un salade d'endives aux noix.ou pourquoi pas, en petits carrés à l'apéritif. un vin rouge un peu puissant comme les vins espagnols
+  ]]>
+  </preparation>
+</recette>

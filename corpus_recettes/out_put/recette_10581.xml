@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10581">
+  <titre>Sandwichs au fromage frais, épices et herbes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 tranches de pain de mie complet</p>
+    <p>1 ou 2 carré frais</p>
+    <p>1 pincée de quatre épices</p>
+    <p>1/2 cuillère à café de coriandre</p>
+    <p>2 pincées de piment d'espelette</p>
+    <p>1/2 cuillère à café de grains de sésame</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez 2 tranches de pain de mie en diagonale, tartinez 2 triangles généreusement avec le carré frais et mettez de côté les 2 autres triangles.
+    Mettez sur un des triangles la coriandre et les 4 épices, et sur l'autre les graines de sésames et le piment d'espelette.
+    Refermez en posant les triangles que vous aviez reservé dessus, et dégustez !
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Coupez</OPER> 2 tranches de pain de mie en diagonale, <OPER id="o_2">tartinez</OPER> 2 triangles généreusement avec le <INGRED id="2">carré frais</INGRED> et mettez de côté les 2 autres triangles. <OPER id="o_3">Mettez</OPER> sur un des triangles la <INGRED id="4">coriandre</INGRED> et les 4 <INGRED id="3">épices</INGRED>, et sur l'autre les graines de sésames et le <INGRED id="5">piment d'espelette</INGRED>. <OPER id="o_4">Refermez</OPER> en posant les triangles que vous aviez reservé dessus, et dégustez !
+  </annotation>
+  <annotation methode="crf">
+  Coupez 2 tranches de <INGRED>pain de mie</INGRED> en diagonale <INGRED>,</INGRED> tartinez 2 triangles généreusement avec le <INGRED>carré</INGRED> <INGRED>frais</INGRED> et mettez de côté les 2 autres triangles. Mettez sur un des triangles la <INGRED>coriandre</INGRED> et les 4 <INGRED>épices</INGRED> <INGRED>,</INGRED> et sur l'autre les <INGRED>graines</INGRED> de sésames et le <INGRED>piment d'espelette</INGRED> <INGRED>.</INGRED> Refermez en posant les triangles que vous aviez reservé dessus <INGRED>,</INGRED> et dégustez !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 3.0*X + 1.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 6*X + 4</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pain de mie complet', 'pain']	 id:1	 quantité:2	 unité:tranches de	 denombrable:True	 recipient:2*X
+ingredient:['carré frais', 'carré']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['quatre épices', 'épices']	 id:3	 quantité:1	 unité:pincée de	 denombrable:True	 recipient:1*X
+ingredient:['coriandre']	 id:4	 quantité:1/2	 unité:cuillère à café de	 denombrable:False	 recipient:1
+ingredient:["piment d'espelette", 'piment']	 id:5	 quantité:2	 unité:pincées de	 denombrable:True	 recipient:2*X
+ingredient:['grains de sésame', 'grains']	 id:6	 quantité:1/2	 unité:cuillère à café de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:couper	 id:o_1	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1*X*1	 recipient:1
+operation:tartiner	 id:o_2	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_3	 ingrédients_ralatifs:['4', '3', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:refermer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

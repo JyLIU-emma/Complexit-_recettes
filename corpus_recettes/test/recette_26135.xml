@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26135">
+  <titre>Pela savoyarde</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de pommes de terre</p>
+    <p>2 gros oignons</p>
+    <p>1 petit reblochon</p>
+    <p>1 noisette de beurre</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer les oignons et les pommes de terre : émincer finement les oignons, détailler les pommes de terre en petits dés.
+    Faire fondre les oignons avec le beurre pendant 15 min et réserver.
+    Essuyer les pommes de terre dans un torchon et les faire sauter dans l'huile.
+    Lorsque les dés sont presques cuits, les verser dans un plat allant au four et déposer dessus les oignons. Saler très légèrement et poivrer.
+    Enlever la croûte du roblochon, le couper en deux et le poser sur les pommes de tere.
+    Passer le plat sous le grill du four jusqu'à ce que le fromage fonde, et servir aussitôt avec une salade verte.
+  ]]>
+  </preparation>
+</recette>

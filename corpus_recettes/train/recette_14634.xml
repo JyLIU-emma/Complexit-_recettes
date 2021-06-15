@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14634">
+  <titre>Gâteau crabe et tomates</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 oeufs</p>
+    <p>2 boîtes de crabe</p>
+    <p>2 petites boîtes de tomates pelées ou 1 grosse</p>
+    <p>herbes de provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre les tomates (faire réduire jusqu'à disparition du jus).
+    Battre oeufs en omelette et y ajouter crabe + tomates.
+    Dans un moule beurré, verser la préparation .
+    Faire cuire au bain-marie à four thermostat 7.
+    Il n'est pas nécessaire de saler à cause du crabe qui l'est déjà beaucoup.
+  ]]>
+  </preparation>
+</recette>

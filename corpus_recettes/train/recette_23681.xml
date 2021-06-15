@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23681">
+  <titre>Crumble pommes et fruits rouges</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 pommes</p>
+    <p>1 kg de fruits rouges (congelés ou frais): fraises, mûres, framboises, myrtilles</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>50 g de sucre</p>
+    <p>300 g de farine</p>
+    <p>125 g de Beurre ou de margarine (sortir un peu avant pour obtenir la consistance adéquate)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les pommes, les éplucher en petits morceaux, puis beurrer le plat carré et y déposer les pommes et les fruits rouges. Saupoudrer avec le sachet de sucre vanillé et réserver. 
+    Dans un grand saladier, verser la farine et le beurre, puis commencer à les malaxer ensembles jusqu'à obtention d'un mélange sableux. Rajouter le sucre petit a petit (vous devez avoir l'impression d'avoir du sable dans les mains).
+    Une fois ce mélange obtenu, recouvrir les fruits avec toute la préparation.
+    Préchauffer le four à 180/200°C, puis enfourner pendant 35 mn.
+    Surveiller la cuisson : une fois le crumble doré, le sortir du four et le faire refroidir quelques minutes.
+    Servir avec une boule de glace ou de la crème liquide.
+  ]]>
+  </preparation>
+</recette>

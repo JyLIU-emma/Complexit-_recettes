@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22945">
+  <titre>Gratin de courgettes au riz</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,2 kg de courgettes</p>
+    <p>200 g de riz cuit</p>
+    <p>50 g de fromage râpé</p>
+    <p>4 oeufs</p>
+    <p>1 poignée de persil haché</p>
+    <p>1 oignon haché</p>
+    <p>100 g de chapelure</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les courgettes en dés.
+    Dans une poêle, faire chauffer l'huile et y faire revenir l'oignon ciselé, puis ajouter les courgettes et 1 à 2 cuillère(s) à soupe d'eau. Laisser cuire 20 min en couvrant. 
+    Incorporer le riz et le persil haché aux courgettes.
+    Battre les oeufs en omelette et les verser dans la poêle, avec le fromage râpé. Assaisonner.
+    Mettre la préparation dans un moule à manquer beurré, recouvrir de chapelure et faire cuire dans un four à 180°C (thermostat 6) pendant 45 min.
+  ]]>
+  </preparation>
+</recette>

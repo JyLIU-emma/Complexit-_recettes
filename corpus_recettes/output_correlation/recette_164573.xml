@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164573">
+  <titre>Magrets de canard sauce au miel</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 magrets</p>
+    <p>4 cuillères à soupe de miel</p>
+    <p>5 Cuillères à soupe de crème fraiche</p>
+    <p>2 cuillères à soupe de vinaigre balsamique</p>
+    <p>-sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    -Quadriller la peau des magrets jusqu'à la chair (pour permettre une cuisson homogène). Les mettre à cuire coté peau d'abord à feu moyen.
+    Après 25 à 35 min de cuisson(selon les gouts), vider toute la graisse de la poele(dans un bocal par ex). 
+    Dans la poele mettre les 4 cuillères à soupe de miel et décoller les sucs de cuisson se trouvant au fond. Ajouter ensuite la crème fraiche, et le vinaigre balsamique, laisser réduire doucement. 
+    Remettre les magrets à chauffer dans la sauce.
+    Et c'est prêt, je vous conseille quelques pommes de terre sarladaises pour accompagner ce plat.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">-Quadriller</OPER> la peau des <INGRED id="1">magrets</INGRED> jusqu'à la chair ( pour permettre une cuisson homogène ). Les <OPER id="o_2">mettre</OPER> à <OPER id="o_3">cuire</OPER> coté peau d'abord à feu moyen. Après 25 à 35 min de cuisson(selon les gouts ), <OPER id="o_4">vider</OPER> toute la graisse de la poele(dans un <INGRED id="4">bocal</INGRED> par ex ). Dans la poele <OPER id="o_5">mettre</OPER> les 4 cuillères à <INGRED id="6">soupe</INGRED> de <INGRED id="2">miel</INGRED> et <OPER id="o_6">décoller</OPER> les sucs de cuisson se trouvant au <INGRED id="4">fond</INGRED>. <OPER id="o_7">Ajouter</OPER> ensuite la <INGRED id="4">crème fraiche</INGRED>, et le vinaigre balsamique, laisser réduire doucement. <OPER id="o_8">Remettre</OPER> les <INGRED id="1">magrets</INGRED> à <OPER id="o_9">chauffer</OPER> dans la <INGRED id="5">sauce</INGRED>. Et c'est prêt, je vous conseille quelques <INGRED id="1">pommes de terre</INGRED> sarladaises pour accompagner ce plat.
+  </annotation>
+  <annotation methode="crf">
+  -Quadriller la peau des magrets jusqu'à la <INGRED>chair</INGRED> ( pour permettre une cuisson homogène ). Les mettre à cuire coté peau d'abord à feu moyen <INGRED>.</INGRED> Après 25 à 35 min de cuisson(selon les gouts ) <INGRED>,</INGRED> vider toute la <INGRED>graisse</INGRED> de la poele(dans un <INGRED>bocal</INGRED> par ex ). Dans la poele mettre les 4 <INGRED>cuillères à soupe</INGRED> de <INGRED>miel</INGRED> et décoller les sucs de cuisson se trouvant au <INGRED>fond</INGRED> <INGRED>.</INGRED> Ajouter ensuite la <INGRED>crème fraiche</INGRED> <INGRED>,</INGRED> et le <INGRED>vinaigre balsamique</INGRED> <INGRED>,</INGRED> laisser réduire doucement <INGRED>.</INGRED> Remettre les magrets à chauffer dans la <INGRED>sauce</INGRED>. Et c'est prêt <INGRED>,</INGRED> je vous conseille quelques <INGRED>pommes de terre</INGRED> sarladaises pour accompagner ce plat <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 7.94117647058824*X + 1.05882352941176</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 15*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['magrets']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['miel']	 id:2	 quantité:4	 unité:cuillères à soupe de	 denombrable:True	 recipient:4*X
+ingredient:['crème fraiche', 'crème']	 id:3	 quantité:5	 unité:Cuillères à soupe de	 denombrable:True	 recipient:5*X
+ingredient:['vinaigre balsamique', 'vinaigre']	 id:4	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['-sel']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:-quadriller	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cuire	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:vider	 id:o_4	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_5	 ingrédients_ralatifs:['6', '2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:décoller	 id:o_6	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remettre	 id:o_8	 ingrédients_ralatifs:['1', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:chauffer	 id:o_9	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20043">
+  <titre>Cailles en crapaudine</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 cailles</p>
+    <p>1 jus d'une orange</p>
+    <p>80 g de farine</p>
+    <p>80 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Désosser les cailles et détacher les cuisses. 
+    Aplatir à la main avant de fariner les cailles. 
+    Faire sauter au beurre dans une poêle pendant 10 mn. 
+    Une fois la cuisson sur le point de s'achever, retirer un peu du gras de la poêle si besoin, et déglacer avec le jus d'orange. 
+    Servez.
+    bien croustillantes, les cailles seront parfaites avec une salade d'endives aux noix!
+  ]]>
+  </preparation>
+</recette>

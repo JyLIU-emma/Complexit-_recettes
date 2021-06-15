@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20936">
+  <titre>Tagliatelles à la crème d'épinards</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de tagliatelles fraîches</p>
+    <p>500 g d'épinards</p>
+    <p>75 g de beurre</p>
+    <p>60 g de crème fraîche</p>
+    <p>20 cl de lait</p>
+    <p>1 jaune d'oeuf</p>
+    <p>100 g de parmesan râpé</p>
+    <p>1 pincée de noix muscade moulue</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Rincer les épinards. Les ébouillanter 5 min et les égoutter.
+    Hacher les épinards puis les mettre dans une casserole avec le beurre, le lait,  la crème, la moitié du parmesan. Saler, poivrer et assaisonner de muscade.
+    Pendant ce temps, faire cuire les pâtes à l'eau bouillante salée. Egoutter.
+    Mélanger les épinards avec le jaune d'oeuf hors du feu, verser sur les pâtes et servir.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21735">
+  <titre>Poulet rôti et sa ratatouille au chèvre</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poulet fermier</p>
+    <p>50 g de fromage de chèvre</p>
+    <p>3 tomates</p>
+    <p>2 courgettes</p>
+    <p>1 aubergine</p>
+    <p>3 gousses d'ail</p>
+    <p>1/2 botte d'oignons nouveaux</p>
+    <p>40 g d'olives noires</p>
+    <p>10 cl d'huile d'olive</p>
+    <p>quelques brins de romarin</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Glissez quelques branches de romarin sous la peau et dans le poulet. Massez-le à l'huile d'olive, salez et poivrez.
+    Mettez le poulet dans un plat à four avec les gousses d'ail pelées et faites cuire 1 h au four à 180°C (thermostat 6).
+    Arrosez du jus de cuissons de temps en temps.
+    Pendant la cuisson de la viande, préparer la ratatouille. Découpez l'aubergine et les courgettes en dés ; les tomates et les oignons en quartiers.
+    Faites chauffer l'huile dans une sauteuse, mettez-y les oignons puis les aubergines, les courgettes et les tomates.
+    Salez et poivrez et laissez mijoter.
+    15 min avant la fin de cuisson du poulet, ajoutez les légumes cuits et égouttés dans le plat.
+    Découpez le poulet et posez-le sur les légumes dans un plat, parsemez d'olives noires et fromage de chèvre en dés.
+    Saupoudrez de romarin effeuillé et servez.
+  ]]>
+  </preparation>
+</recette>

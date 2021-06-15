@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23192">
+  <titre>Champignons à la tomate</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de champignons de Paris</p>
+    <p>200 g de sauce tomate</p>
+    <p>3 cuillerée à café de parmesan</p>
+    <p>2 oignons</p>
+    <p>2 gousses d'ail</p>
+    <p>2 cuillerée à soupe d'huile d'olive</p>
+    <p>2 cuillerées à café d'origan séché</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) lavez et épluchez les champignons Coupez-les en quartiers Pelez et coupez les oignons en rondelles. 
+    2) Dans une sauteuse faites revenir les oignons et les gousses d'ail écrasées avec l'huile d'olive et l'origan ajoutez les champignons puis versez la sauce tomate ; salez poivrez et remuez. 
+    3) couvrez et laissez mijoter à feu doux 15 mn ; au moment de servir saupoudrez de parmesan
+    Cette entrée et très bonne, on peut aussi l'accompagner avec des petits croûtons dorés un cabernet d'anjou rosé
+  ]]>
+  </preparation>
+</recette>

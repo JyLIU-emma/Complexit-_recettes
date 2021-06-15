@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19761">
+  <titre>Pâtes au ragoût de canard</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de canard sans peau ni os</p>
+    <p>1 petit oignon haché</p>
+    <p>1 gousse d'ail hachée</p>
+    <p>persil haché</p>
+    <p>20 g de céleri haché</p>
+    <p>140 g de concentré de tomates</p>
+    <p>1 verre de vin blanc</p>
+    <p>350 g de pâtes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire un peu revenir le canard à l'huile d'olive puis hachez-le. 
+    Faire revenir oignon et céleri puis remettre le canard jusqu'à ce qu'il n'y ait plus de liquide. 
+    Mettre le vin et faire bouillir jusqu'à ce qu'il soit évaporé. 
+    Ajouter le concentré, 10 cl d'eau, l'ail, sel, poivre, un demi sucre. Faire mijoter à très petit bouillon, couvert par une assiette d'eau, jusqu'à ce qu'il n'y ait plus de liquide apparent dans la casserole. 
+    Avant de servir avec des pâtes de votre choix et du parmesan, mettre le persil.
+    Les quantités sont pour manger des pâtes à l'italienne , c'est à dire en entrée.
+    Pour les manger à la française , en plat principal , augmentez les un peu en gardant les mêmes proportions chianti
+  ]]>
+  </preparation>
+</recette>

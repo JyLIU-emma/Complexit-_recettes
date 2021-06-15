@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19840">
+  <titre>Spaghetti bolognaise</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de spaghetti</p>
+    <p>1 oignon</p>
+    <p>2 gousses d'ail</p>
+    <p>1 carotte</p>
+    <p>1 branche de céleri</p>
+    <p>850 g de tomates (fraîches ou en boîte selon la saison) </p>
+    <p>375 ml de vin rouge</p>
+    <p>500 g de boeuf haché (steack en vrac) </p>
+    <p>500 ml de bouillon Maggi</p>
+    <p>persil</p>
+    <p>1 cuillère à café de sucre</p>
+    <p>2 cuillères à soupe d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hachez l'ail, l'oignon, puis coupez la carotte et le céleri en petits dés (enlevez les principales nervures du céleri). 
+    Faites chauffer l'huile dans une casserole assez grande. Faites revenir l'ail, l'oignon, la carotte et le céleri à feu doux pendant 5 mn en remuant. Augmenter la flamme, puis rajoutez le boeuf. Faites brunir et remuez de façon à ce que la viande ne fasse pas de gros paquets. Rajoutez le bouillon, le vin rouge, les tomates préalablement coupées assez grossièrement, le sucre et le persil haché. Portez à ébullition.
+    Baisser ensuite le feu et laissez mijoter à couvert 1h à 1h30, de façon à ce que le vin s'évapore. 
+    Faites cuire les spaghetti, puis mettez-les dans un plat. Rajoutez la sauce bolognaise.
+    Pour faire le bouillon Maggi:Mettez dans une casserole 500ml d'eau. Rajoutez un cube de bouillon au boeuf. Mettez le tout sur le feu et remuez jusqu'à ce que le cube soit dissout.
+  ]]>
+  </preparation>
+</recette>

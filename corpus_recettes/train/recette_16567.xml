@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16567">
+  <titre>Consommé à l'ail doux</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 têtes d'ail</p>
+    <p>1 l de bouillon de poule</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>1/2 poivron rouge</p>
+    <p>3 brins de ciboulette</p>
+    <p>1 sachet de petits croûtons à l'ail</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez les têtes d'ail. Dégagez toutes les gousses.
+    Otez le germe des gousses d'ail.
+    Dans une casserole d'eau bouillante, plongez les gousses d'ail et laissez-les cuire 5 min.
+    Egouttez-les.
+    Blanchissez 3 min le poivron rouge et taillez-le en petite brunoise.
+    Réservez 2 ou 3 gousses d'ail que vous émincerez en fines rondelles.
+    Passez au mixer le reste de l'ail avec la crème fraîche.
+    Portez le bouillon de poule bien dégraissé à ébullition et incorporez la crème d'ail. Laissez frémir 7 min. Salez et poivrez.
+    Servez aussitôt dans des assiettes creuses.
+    Parsemez de rondelles d'ail, de poivron rouge, de ciboulette hachée, de croûtons à l'ail et dégustez de suite.
+  ]]>
+  </preparation>
+</recette>

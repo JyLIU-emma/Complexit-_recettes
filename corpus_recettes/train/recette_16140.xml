@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16140">
+  <titre>Endives aux maquereaux et à la bière</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 endives</p>
+    <p>1 oignon</p>
+    <p>6 maquereaux au poivre</p>
+    <p>25 cl de bière</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>40 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher l'oignon et le faire revenir avec la moitié du beurre sans aller jusqu'à la coloration.
+    Couper les endives en tonçons d'1,5 cm environ et les ajouter à l'oignon. Laisser mijoter 5 mn.
+    Ajouter la bière, puis le maquereau émietté grossièrement.
+    Laisser cuire à feu doux jusqu'à évaporation presque totale de la bière.
+    Faire un beurre manié avec la farine et le reste du beurre et l'incoporer en tournant à la cuillère de bois 5 mn.
+    Rectifier l'assaisonnement. Attention, le maquereau suffit généralement à apporter le sel et le poivre nécessaires.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="7657">
+  <titre>Tartine chaude au Carré Frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 Carrés frais</p>
+    <p>4 tranches de pain de campagne</p>
+    <p>2 oeufs</p>
+    <p>4 tranches de jambon de pays</p>
+    <p>emmental râpé</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, mélangez les Carrés frais, les oeufs battus en omelette, le sel et le poivre.
+    Tartinez les tranches de pain de campagne d'une couche épaisse de cette préparation. 
+    Couchez une tranche de jambon de pays sur chaque tranche de pain. Saupoudrez d'emmental râpé. 
+    Placez les 4 tartines dans un plat, et enfournez 15 min à thermostat 180°C (th 6).
+    Servez sur un lit de salade...
+  ]]>
+  </preparation>
+</recette>

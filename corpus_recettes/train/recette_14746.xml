@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14746">
+  <titre>Biscuit à l'huile d'olive</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de farine</p>
+    <p>150 g de sucre</p>
+    <p>3 oeufs</p>
+    <p>10 cl de muscat blanc (ou autre vin blanc doux)</p>
+    <p>10 cl d'huile d'olive</p>
+    <p>1 sachet de levure chimique</p>
+    <p>1 pincée de sel</p>
+    <p>beurre et farine pour le moule</p>
+    <p>pour parfumer (facultatif): 1 cuillerée d'eau de fleur d'oranger et/ou le zeste d'un demi citron et/ou un peu d'extrait</p>
+    <p>vanille ou de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un grand saladier, casser les oeufs, et rajouter le sucre. Battre au fouet jusqu'à ce que ça blanchisse.
+    Rajouter alors le muscat et l'huile d'olive. Puis incorporer en pluie la farine melangée à la levure, ainsi qu'une pincée de sel. Bien battre, pour que la pâte ait une consistance lisse.
+     
+    Préchauffer le four a 180°C (thermostat5).
+    Beurrer et fariner un moule à gâteau (à bords assez hauts, puisque le gâteau va gonfler). Faire cuire 40 mn environ, en surveillant la coloration. Le gâteau doit être doré, et une lame de couteau plongée dans le gâteau doit ressortir sèche.
+    Sortir le gâteau du four et le laisser reposer 10 mn avant de le démouler.
+    C'est meilleur servi tiède (par exemple avec du sucre glace, ou dela compte de pommes), mais ça se mange bien froid aussi. muscat blanc
+  ]]>
+  </preparation>
+</recette>

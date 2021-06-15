@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12118">
+  <titre>Bollito misto</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 Poulet</p>
+    <p>1 Langue de veau</p>
+    <p>500g de tête de veau roulée </p>
+    <p>500g de gîte ou macreuse</p>
+    <p>500g de plat de côtes(boeuf)</p>
+    <p>1 Saucisson à cuire</p>
+    <p>4 Carottes </p>
+    <p>3 Gousses d'ail</p>
+    <p>2 Oignons</p>
+    <p>6 Clous de girofle</p>
+    <p>4 Branches de céleri</p>
+    <p>1 bouquet garni (thym, laurier,persil)</p>
+    <p>10 Grains de poivre et du sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille, faire dégorger la tête et la langue dans de l'eau froide pendant 2h, puis les plonger 10mn dans de l'eau portée à ébullition.
+    Mettre dans un grand faitout les oignons pelés piqués de clous de girofle, la langue, la tête de veau et le bouquet garni. Couvrir d'eau froide et portez lentement à ébulition en écumant la mousse qui se forme en surface.
+    Ajouter le plat de côtes,le poivre,les gousses d'ail pelées. Saler,laisser mijoter 1h.
+    Ajouter les carottes,le céleri et le poulet. Poursuivre la cuisson 1h.
+    Ajouter le saucisson piqué par endroits et cuire encore 30mn. 
+    Egoutter les viandes et les légumes. Peler la langue chaude. Mettre le tout dans un plat et couvrir d'un papier film.
+    Filtrer le bouillon, laisser refroidir et réserver l'ensemble au frigo.
+    Le jour même, réchauffer lentement le bouillon dégraisseé, les viandes et les légumes.
+    Déposer la langue an tranches dans un plat. Ajouter les légumes et les viandes. Couper le polet en morceaux, trancher le saucisson. Arroser de bouillon très chaud.
+    Servir avec une sauce verte aux câpres.
+  ]]>
+  </preparation>
+</recette>

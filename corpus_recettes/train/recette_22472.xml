@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22472">
+  <titre>Veau Marengo maison</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,2 kg de viande de veau</p>
+    <p>75 g de beurre</p>
+    <p>4 échalotes</p>
+    <p>2 carottes</p>
+    <p>1 cuillère à soupe bombée de farine</p>
+    <p>50 g de concentré de tomate</p>
+    <p>30 cl de vin blanc sec</p>
+    <p>30 cl d'eau</p>
+    <p>2 gousses d'ail</p>
+    <p>125 g de champignons</p>
+    <p>1 bouquet garni</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dcouper la viande en cubes de 3 cm de côté environ.
+    Détailler la carotte en rondelles, les échalotes et l'ail en fins morceaux.
+    Laver et couper en 2 les champignons.
+    Dans une cocotte à fond épais, faire dorer la viande.
+    Ajouter alors les carottes, l'ail et les échalotes. Lorsque ces derniers sont translucides, saupoudrer de farine.
+    Lorsque la farine a blondi, ajouter le concentré de tomate, l'eau, le vin et le bouquet garni. Saler, poivrer.
+    Laisser mijoter 1h30 à couvert sur feu doux.
+    Au bout de ce temps, ajouter les champignons et laisser cuire encore 15 min.
+  ]]>
+  </preparation>
+</recette>

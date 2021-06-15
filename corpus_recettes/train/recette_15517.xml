@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15517">
+  <titre>Pain d'épice facile</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>12 cuillères à soupe de farine</p>
+    <p>6 cuillères à soupe de sucre</p>
+    <p>3 cuillères à soupe de confiture </p>
+    <p>1/2 cuillère à café de bicarbonate</p>
+    <p>1 verre de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger tous les ingrédients, et verser-les dans un petit moule à cake (si le moule est trop grand, il ne montera pas bien) beurré et passé à la chapelure (ou fariné!).
+    Enfourner environ 30 mn à 160-180°C (jusqu'à ce qu'une lame de couteau en ressorte propre).
+  ]]>
+  </preparation>
+</recette>

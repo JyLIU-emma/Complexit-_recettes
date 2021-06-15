@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24486">
+  <titre>Entrée fraîche au roquefort</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de riz cuit (restes)</p>
+    <p>200 g de roquefort (bien bleu)</p>
+    <p>10 cl de crème fraîche</p>
+    <p>1 salade (Iceberg, Laitue ou Batavia)</p>
+    <p>5 tomates</p>
+    <p>1 cuillère à soupe d'armagnac</p>
+    <p>paprika moulu</p>
+    <p>huile, vinaigre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez et essorez la salade. Emincez-la en lanières. Pelez, épépinez et concassez les tomates.
+    Travaillez le roquefort avec la crème fraîche et l'armagnac en une crème homogène. Saupoudrez de paprika.
+    Préparez une vinaigrette selon vos goûts.
+    Disposez dans les assiettes 3 petits tas de salade et tomates concassées, intercalez un dôme de riz entre chaque.
+    Déposez la crème de roquefort dessus. Versez la vinaigrette sur le tout et servez.
+  ]]>
+  </preparation>
+</recette>

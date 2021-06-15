@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24538">
+  <titre>Gâteau Opéra</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>6 oeufs + 2 blancs </p>
+    <p>310 g de sucre en poudre </p>
+    <p>160 g de poudre d'amandes </p>
+    <p>40 g de farine </p>
+    <p>150 g de beurre</p>
+    <p>1 cuillère à soupe d'extrait de café liquide</p>
+    <p>200 g de crème </p>
+    <p>200 g de chocolat noir </p>
+    <p>75 cl d'eau + 3 cuillères à soupe d'eau</p>
+    <p>5 cl de rhum + 2 cuillères à soupe de rhum </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180° (thermostat 6).
+    Battre 4 oeufs en omelette avec 160 g sucre et faire cuire 10 minutes au bain-marie.
+    Laisser refroidir et ajouter la poudre d'amandes, la farine, 50 g de beurre fondu et les blancs montés en neige. 
+    Beurrer un moule, y verser la préparation et enfourner pendant 40 minutes.
+    Démouler et laisser refroidir le biscuit. 
+    Dans une casserole, porter l'eau et 75 g de sucre.
+    Verser dans un saladier avec 2 jaunes d'oeufs battues en omelette. Ajouter le café et 100 g de beurre. Réserver la crème de café.
+    Dans une casserole, porter la crème à ébullition et y incorporer le chocolat.
+    Laisser refroidir et mouiller 2 cuillères à soupe de rhum.
+    Dans la casserole, faire un sirop avec 75 cl d'eau, 75 g de sucre et 5 cl de rhum. 
+    Découper le biscuit en 3.
+    Imbiber la première tranche de sirop et la recouvrir de crème au café, puis de la deuxième tranche. 
+    Imbiber de sirop et badigeonner de ganache, du reste de crème au café et de la dernière tranche, imbibée de sirop.
+    Recouvrir l'ensemble de ganache et saupoudrer de sucre glace.
+  ]]>
+  </preparation>
+</recette>

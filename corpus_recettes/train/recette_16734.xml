@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16734">
+  <titre>Tarte à la volaille</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de pâte brisée </p>
+    <p>350 g de chair de volaille cuite </p>
+    <p>50 g de beurre </p>
+    <p>50 g de farine </p>
+    <p>50 cl litre de lait </p>
+    <p>3 œufs </p>
+    <p>1 cuillère à soupe de crème fraîche </p>
+    <p>sel, poivre, muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Abaisser la pâte et foncer un moule à tarte beurré.
+    Piquer le fond avec une fourchette.
+    Hacher finement les restes de viande.
+    Faire fondre le beurre. Ajouter la farine. Mouiller avec le lait. Mélanger.
+    Laisser cuire à feu doux pendant 5 min. Saler, poivrer. Ajouter la muscade, puis la viande, la crème, les œufs battus en omelette et bien mélanger le tout.
+    Verser la préparation dans la tarte et faire cuire à four moyen (180-200°C thermostat 6-7) pendant 30 min environ.
+  ]]>
+  </preparation>
+</recette>

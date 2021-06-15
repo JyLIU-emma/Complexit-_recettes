@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11095">
+  <titre>Pain aux bananes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1/2 tasse de beurre</p>
+    <p>1 tasse de sucre</p>
+    <p>2 oeufs</p>
+    <p>2 tasses de farine</p>
+    <p>1/2 cuillère à café de bicarbonate</p>
+    <p>1/2 cuillère à café de levure chimique</p>
+    <p>1/2 cuillère à café de sel</p>
+    <p>3 bananes très mures (presque noires) écrasées.</p>
+    <p>1/2 tasse de noix (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre le beurre et le sucre jusqu'à obtention d'un mélange crémeux.
+    Ajouter les oeufs un par un et bien battre. Tamiser la farine avec la levure, le bicarbonate et le sel.
+    Ajouter au mélange crémeux alternativement avec la banane. Ajouter les noix.
+    Verser dans un moule rectangulaire graisse faire cuire au four à 170°C (thermostat 5-6) pendant 55 à 60 minutes.La recette que j'ai est en mesures américaines.
+    Une tasse à mesure équivaut à un verre de 25 cl.
+  ]]>
+  </preparation>
+</recette>

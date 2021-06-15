@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13167">
+  <titre>Poulet redresse-mort</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>30 g de margarine</p>
+    <p>1 poulet</p>
+    <p>1 oignon</p>
+    <p>40g de gingembre frais </p>
+    <p>30 cl d'eau</p>
+    <p>persil</p>
+    <p>Pour la sauce :</p>
+    <p>le jus d'un citron</p>
+    <p>2 cuillères à soupe de nuoc-màm</p>
+    <p>2 cuillères à soupe de sauce soja</p>
+    <p>2 cuillères à soupe de miel</p>
+    <p>2 gouttes de tabasco</p>
+    <p>cannelle et poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire dorer le poulet en morceau avec l'oignon émincé et le gingembre râpé.Ajouter tous les ingrédients de la sauce. Mélanger et démarrer 5 minutes à feu très fort.
+    Verser l'eau. Cuire 40 minutes à feu doux couvert.
+    Saupoudrez de persil et servir.En apéritif, préparer 'la charge du taureau'. Champagne ou Sauternes
+  ]]>
+  </preparation>
+</recette>

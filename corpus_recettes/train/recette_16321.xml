@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16321">
+  <titre>Gâteau à l'ananas</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de farine</p>
+    <p>50 g de fécule de pomme de terre</p>
+    <p>3 oeufs</p>
+    <p>100 g de sucre en poudre</p>
+    <p>environ 10 à 12 morceaux de sucre</p>
+    <p>1 sachet de levure chimique</p>
+    <p>100 g de beurre</p>
+    <p>1/10 de litre de lait</p>
+    <p>vanille liquide</p>
+    <p>1 boîte d'ananas en tranches entières (8 tranches)</p>
+    <p>du rhum</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la farine ,le fécule, la levure et le sucre en poudre.  
+    Incorporer les 3 oeufs battus, le lait, le beurre ramolli et l'arôme vanille.
+    Préparer dans un moule à manqué (bords hauts) un caramel roux avec les morceaux de sucre et un peu d'eau. Laisser refroidir.
+    Sur le caramel froid, disposer les tranches d'ananas en rosace. Couvrir délicatement avec la préparation précédente.
+    Cuire à 180°C pendant 30 à 40 mn (un couteau introduit dans le gâteau doit ressortir sec).
+    Démouler immédiatement à la sortie du four (avant que le caramel ne durcisse !!).
+    Vous pouvez imbiber ce gateau d'un mélange de sirop d'ananas et de rhum, ce sera encore meilleur!!!
+    C'est la recette de ma grand-mère. café
+  ]]>
+  </preparation>
+</recette>

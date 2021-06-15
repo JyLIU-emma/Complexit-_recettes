@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24095">
+  <titre>Cake de lapin aux olives</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 lapin</p>
+    <p>1 gros oignon</p>
+    <p>3 gousses d'ail</p>
+    <p>2 petits verres Armagnac ou Cognac</p>
+    <p>4 carottes</p>
+    <p>1 branche d'estragon frais</p>
+    <p>sel et poivre</p>
+    <p>3 oeufs</p>
+    <p>120 g olives vertes dénoyautées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire le lapin découpé dans de l'eau avec oignon, ail, carottes en rondelles, estragon, 1 verre Armagnac, sel et poivre pendant 20 mn. 
+    Détacher la chair du lapin et la mixer avec la moitié de l'oignon cuit, 1 gousse d'ail cuite et les carottes. 
+    Dans un saladier ajouter à la "purée" obtenue les oeufs, les olives entières, le 2ème verre d'Armagnac, du sel et du poivre. 
+    Verser dans un moule à cake beurré ou dans un moule silicone. 
+    Cuire au four Th 7 pendant 45 mn (four préchauffé 10 mn). 
+    Laisser refroidir et démouler bien frais.
+  ]]>
+  </preparation>
+</recette>

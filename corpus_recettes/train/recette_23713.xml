@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23713">
+  <titre>Cocotte de porc aux aubergines</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de porc (échine)</p>
+    <p>700 g d'aubergines</p>
+    <p>2 oignons</p>
+    <p>1 gousse d'ail</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>1 branche de thym</p>
+    <p>1 pincée de poivre de Cayenne</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découpez la viande en cubes.
+    Emincez les oignons et pilez l'ail.
+    Faites dorer la viande dans une cocotte avec l'huile chaude.
+    Rajoutez les oignons et l'ail et laissez colorer.
+    Salez, poivrez et ajoutez le thym.
+    Versez 20 cl d'eau, couvrez et laissez cuire 30 min à feu moyen.
+    Coupez les aubergines en dés, ajoutez-les dans la cocotte.
+    Couvrez et laissez cuire 30 à 40 min à feu moyen.
+    C'est prêt lorsque les aubergines sont fondantes.
+    Vous pouvez mouiller avec du vin ou du bouillon si vous préférez.
+  ]]>
+  </preparation>
+</recette>

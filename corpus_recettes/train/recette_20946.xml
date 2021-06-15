@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20946">
+  <titre>Coupes glacées aux pêches</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour le sorbet :</p>
+    <p>500 g de pêches</p>
+    <p>2 abricots bien mûrs</p>
+    <p>300 g de sucre</p>
+    <p>2 cuillerées à soupe de jus de citron</p>
+    <p>Pour les coupes :</p>
+    <p>4 pêches</p>
+    <p>150 g de sucre</p>
+    <p>4 verres à liqueur de marasquin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixer les 500 g pêches et les abricots, et ajouter 300 g de sucre, le jus de citron et de l'eau, pour obtenir 1 litre de jus.
+    Verser le tout dans la sorbetière et faire glacer pendant 6 h.
+    Plonger les 4 pêches supplémentaire dans l'eau bouillante 30 sec, rafraîchir et retirer la peau. Les couper en 4 et retirer les noyaux.
+    Faire un sirop avec le sucre et 6 cuillerées à soupe d'eau. Y pocher les quartiers de pêche : les mettre dans la casserole, porter à ébullition et retirer du feu. Laisser les fruits refroidir dans le sirop.
+    Répartir les pêches pochées dans des coupelles.
+    Faire réduire le sirop puis en napper les pêches, ajouter une cuillère de marasquin dans chaque coupelle et enfin 2 boules de sorbet.
+  ]]>
+  </preparation>
+</recette>

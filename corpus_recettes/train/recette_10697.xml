@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10697">
+  <titre>Chaussons au bœuf et champignons</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la farce : </p>
+    <p>250 g de champignons de Paris</p>
+    <p>150 g de boeuf haché</p>
+    <p>1 brin d'estragon</p>
+    <p>1 brin de persil</p>
+    <p>2 oeufs</p>
+    <p>sel, poivre</p>
+    <p>Pour la pâte : </p>
+    <p>250 g de farine</p>
+    <p>125g de beurre</p>
+    <p>1 oeuf</p>
+    <p>1/2 verre d'eau</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez une pâte brisée avec  farine, beurre, eau et sel.
+    Roulez-la jusqu'à ce qu'elle soit un peu plus mince qu'une pâte à tarte. Découpez-la en rondelles à l'aide d'un grand verre ou d'une tasse à thé dont vous suivrez les contours avec un couteau pointu.D'autre part, hachez ensemble boeuf, champignons et herbes, salez, poivrez, liez cette farce avec deux oeufs battus.
+    Sur chaque rondelle de pâte déposez un petit tas de farce.
+    Repliez la rondelle en deux.
+    Soudez les bords en appuyant fortement du bout des doigts.
+    Badigeonnez à l'oeuf battu le dessus de chaque petit chausson.
+    Mettez à four moyen, 180°C (thermostat 6), environ 15 minutes.
+  ]]>
+  </preparation>
+</recette>

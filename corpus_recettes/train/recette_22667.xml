@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22667">
+  <titre>Rôti de dindonneau aux marrons et aux truffes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 dindonneau à rôtir d'environ 1,2 kg</p>
+    <p>bardes de lard</p>
+    <p>1 kg de marrons</p>
+    <p>50 g de beurre</p>
+    <p>3 cl de cognac</p>
+    <p>15 cl de porto</p>
+    <p>2 cubes de bouillon de viande</p>
+    <p>1 l d'eau bouillante</p>
+    <p>300 g de truffes</p>
+    <p>2 carottes</p>
+    <p>2 oignons</p>
+    <p>sel, poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 220°C (thermostat 7/8).
+    Peler et émincer les oignons et les carottes, puis en tapisser le fond d'un plat à rôti. Faire fondre le beurre.
+    Envelopper le dindonneau de bardes de lard, puis le déposer sur le lit de légumes et le napper de beurre fondu. Saler et poivrer.
+    Puis enfourner à four chaud et laisser cuire 1h.
+    Pendant ce temps, nettoyer les marrons, les inciser puis les passer 10 min à four très chaud. Préparer le bouillon de viande en délayant les 2 cubes dans 1 litre d'eau portée à ébullition. Y plonger ensuite les marrons et laisser cuire 20 min environ.
+    Sortir le rôti du four, puis déglacer le plat de cuisson ou décoller les sucs avec le porto et le cognac. Filtrer cette sauce, incorporer les truffes et la faire réduire.
+    Egoutter les marrons et les déposer dans le plat de cuisson du dindonneau, puis les napper de sauce et servir.
+  ]]>
+  </preparation>
+</recette>

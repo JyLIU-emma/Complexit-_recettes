@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164965">
+  <titre>Risotto à la mode de chez nous : c'est choux!</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500G Riz pour risotto</p>
+    <p>1/3 de chou vert frisé</p>
+    <p>250 grammes de lard fumé ou pancetta ou chorizo</p>
+    <p>4 échalotes</p>
+    <p>2 verres de vin blanc</p>
+    <p>1 litre de bouillon au choix (légumes, poule, boeuf...)</p>
+    <p>200 grammes de pétales de jambon cru </p>
+    <p>un morceau de parmesan</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Emincez finement le chou vert 
+    Détaillez les échalotes en fines lamelles
+    Dans une poêle, laissez fondre les échalotes dans une noix de beurre ou de l'huile d'olive, ajouter les lardons, la pancetta en morceaux ou le chorizo. Faites revenir quelques minutes. Ajoutez le riz. Remuez jusqu'à ce que le riz devienne translucide. Ajoutez le chou vert. Mélangez et arrosez de vin blanc jusqu'à évaporation complète. Mouillez ensuite avec le bouillon jusqu'à obtention d'une texture fondante. Soyez patients!
+    Avant la fin de la cuisson, vous aurez pris soin de faire griller les pétales de jambon cru afin qu'elles deviennent croustillantes.
+    Coupez le feu. Incorporez le parmesan fraîchement râpé et une noix de beurre. Remuez.
+    Dressez les assiettes de risotto, parsemez de reste de parmesan et de croustillants de jambon.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  - <OPER id="o_1">Emincez</OPER> finement le <INGRED id="1">chou</INGRED> <INGRED id="7">vert</INGRED> <OPER id="o_2">Détaillez</OPER> les <INGRED id="4">échalotes</INGRED> en fines lamelles Dans une poêle, laissez <OPER id="o_3">fondre</OPER> les <INGRED id="2">échalotes</INGRED> dans une <INGRED id="3">noix de beurre</INGRED> ou de l'<INGRED id="8">huile d'olive</INGRED>, <OPER id="o_4">ajouter</OPER> les <INGRED id="3">lardons</INGRED>, la <INGRED id="6">pancetta</INGRED> en <INGRED id="1">morceaux</INGRED> ou le chorizo. Faites <OPER id="o_5">revenir</OPER> quelques minutes. <OPER id="o_6">Ajoutez</OPER> le riz. <OPER id="o_7">Remuez</OPER> jusqu'à ce que le <INGRED id="3">riz</INGRED> devienne translucide. <OPER id="o_8">Ajoutez</OPER> le <INGRED id="1">chou</INGRED> <INGRED id="7">vert</INGRED>. <OPER id="o_9">Mélangez</OPER> et arrosez de <INGRED id="2">vin blanc</INGRED> jusqu'à évaporation complète. <OPER id="o_10">Mouillez</OPER> ensuite avec le <INGRED id="2">bouillon</INGRED> jusqu'à obtention d'une texture fondante. Soyez patients ! Avant la fin de la cuisson, vous aurez pris soin de faire <OPER id="o_11">griller</OPER> les <INGRED id="7">pétales de jambon cru</INGRED> afin qu'elles deviennent croustillantes. <OPER id="o_12">Coupez</OPER> le feu. <OPER id="o_13">Incorporez</OPER> le <INGRED id="3">parmesan</INGRED> fraîchement râpé et une <INGRED id="3">noix de beurre</INGRED>. <OPER id="o_14">Remuez</OPER>. <OPER id="o_15">Dressez</OPER> les assiettes de risotto, <OPER id="o_16">parsemez</OPER> de <INGRED id="1">reste</INGRED> de <INGRED id="6">parmesan</INGRED> et de croustillants de jambon.
+  </annotation>
+  <annotation methode="crf">
+  - Emincez finement le <INGRED>chou vert</INGRED> Détaillez les <INGRED>échalotes</INGRED> en fines <INGRED>lamelles</INGRED> Dans une poêle <INGRED>,</INGRED> laissez fondre les <INGRED>échalotes</INGRED> dans une <INGRED>noix</INGRED> de <INGRED>beurre</INGRED> <INGRED>ou</INGRED> de l'<INGRED>huile d'olive</INGRED> <INGRED>,</INGRED> ajouter les <INGRED>lardons</INGRED> <INGRED>,</INGRED> la <INGRED>pancetta</INGRED> en <INGRED>morceaux</INGRED> <INGRED>ou</INGRED> le <INGRED>chorizo</INGRED> <INGRED>.</INGRED> Faites revenir quelques minutes. Ajoutez le <INGRED>riz</INGRED> <INGRED>.</INGRED> Remuez jusqu'à ce que le <INGRED>riz</INGRED> devienne translucide. Ajoutez le <INGRED>chou vert</INGRED> <INGRED>.</INGRED> Mélangez et arrosez de <INGRED>vin blanc</INGRED> jusqu'à évaporation complète. Mouillez ensuite avec le <INGRED>bouillon</INGRED> jusqu'à obtention d'une texture fondante. Soyez patients ! Avant la fin de la cuisson <INGRED>,</INGRED> vous aurez pris soin de faire griller les pétales de <INGRED>jambon</INGRED> cru afin qu'elles deviennent croustillantes. Coupez le feu <INGRED>.</INGRED> Incorporez le <INGRED>parmesan</INGRED> fraîchement râpé et une <INGRED>noix</INGRED> de <INGRED>beurre</INGRED> <INGRED>.</INGRED> Remuez <INGRED>.</INGRED> Dressez les assiettes de risotto, parsemez de <INGRED>reste</INGRED> de <INGRED>parmesan</INGRED> et de croustillants de <INGRED>jambon</INGRED> <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 713.507826086957*X + 1.49217391304348</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 957*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['Riz']	 id:1	 quantité:500	 unité:G	 denombrable:True	 recipient:500*X
+ingredient:['chou vert frisé', 'chou']	 id:2	 quantité:1/3	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['lard fumé', 'lard']	 id:3	 quantité:250	 unité:grammes de	 denombrable:True	 recipient:250*X
+ingredient:['échalotes']	 id:4	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['vin blanc', 'vin']	 id:5	 quantité:2	 unité:verres de	 denombrable:True	 recipient:2*X
+ingredient:['bouillon au choix', 'bouillon']	 id:6	 quantité:1	 unité:litre de	 denombrable:False	 recipient:1
+ingredient:['pétales de jambon cru', 'pétales']	 id:7	 quantité:200	 unité:grammes de	 denombrable:True	 recipient:200*X
+ingredient:['morceau de parmesan', 'morceau']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:emincer	 id:o_1	 ingrédients_ralatifs:['1', '7']	 nombre_opération_atomique:500*X+200*X	 temps:500*X*1+200*X*1	 recipient:1
+operation:détailler	 id:o_2	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fondre	 id:o_3	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:ajouter	 id:o_4	 ingrédients_ralatifs:['3', '6', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:revenir	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_7	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['1', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_9	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mouiller	 id:o_10	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:3	 recipient:0
+operation:griller	 id:o_11	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:200*X*5	 recipient:1
+operation:couper	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:incorporer	 id:o_13	 ingrédients_ralatifs:['3', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dresser	 id:o_15	 ingrédients_ralatifs:['1', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:parsemer	 id:o_16	 ingrédients_ralatifs:['1', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

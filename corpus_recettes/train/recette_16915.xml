@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16915">
+  <titre>Penne au poulet fumé</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poulet cuit, fumé</p>
+    <p>1 boite de penne</p>
+    <p>crème fraîche</p>
+    <p>pâte de curry (fort ou non, selon votre goût)</p>
+    <p>chutney de mangue (par exemple)</p>
+    <p>facultatif : oignons frais </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher le poulet et le couper en petits morceaux.
+    Faire cuire les pennes 'al dente'.
+    Faire dans le plat de service une sauce-crémeuse assez épaisse avec les ingrédients ci-dessus.
+    Rectifier l'assaisonnement.
+    Ajouter les pâtes cuites et le poulet. Prévoir suffisamment de sauce pour que ce soit moelleux.
+    Se mange chaud ou froid. C'est délicieux, très original et tellement simple!
+  ]]>
+  </preparation>
+</recette>

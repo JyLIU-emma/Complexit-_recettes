@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12257">
+  <titre>Quiche sans fond</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 oeufs</p>
+    <p>1/2 l de lait</p>
+    <p>100 g de farine</p>
+    <p>100 g de gruyère râpé ou en cubes</p>
+    <p>poitrine fumée ou du jambon en cubes</p>
+    <p>sel, poivre, épices selon les goûts (mais aussi: raisins secs, ou noix, ou pignons, fromages à pâte persillée  etc selon vos envies !!!)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger tous les ingrédients.
+    Verser dans un moule à cake.
+    Cuire 40 mn au four, à thermostat 6 ou 7 (200°C).
+    On peut la faire aux fruits de mer par exemple.
+  ]]>
+  </preparation>
+</recette>

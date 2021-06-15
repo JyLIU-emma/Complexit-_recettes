@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13985">
+  <titre>Tarte au beaufort</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>40 cl de crème fraîche</p>
+    <p>20 cl de lait</p>
+    <p>300 g de Beaufort</p>
+    <p>sel, poivre, muscade</p>
+    <p>1 pâte brisée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la pâte brisée dans votre moule.
+    Préparer l'appareil en mélangeant les 4 jaunes d'oeufs, la crème, le lait et assaisonnez.
+    Battre les blancs en neige et les incorporer délicatement dans l'appareil.
+    Couper le Beaufort en petites lamelles et le répartir uniformément dans le moule.
+    Verser l'appareil et enfourner à mi-hauteur dans un four à 180°C pendant 35 à 40 min.
+    A déguster tiède ou accompagné d'une salade verte. vin de savoie Chignin-Bergeron
+  ]]>
+  </preparation>
+</recette>

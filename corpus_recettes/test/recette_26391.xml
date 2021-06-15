@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26391">
+  <titre>Pistou noir</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de olives noires dénoyautées</p>
+    <p>50 g de pignons</p>
+    <p>3 ou 4 filets d'anchois (selon la force du goût des olives) </p>
+    <p>3 ou 4 câpres (même discours) </p>
+    <p>1 gousse d'ail</p>
+    <p>un peu de parmesan râpé</p>
+    <p>15 cl d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire griller les pignons dans une poêle sans matière grasse. 
+    Passer touts les ingrédients au mixer.
+    On peut l'utiliser avec des pâtes, en ajoutant quelques feuilles de basilic.
+  ]]>
+  </preparation>
+</recette>

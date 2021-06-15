@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18869">
+  <titre>Cuisses de lapin aux fruits</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>12 abricots secs</p>
+    <p>100 ml de Porto</p>
+    <p>500 ml de vin blanc</p>
+    <p>3 échalotes</p>
+    <p>1 cuillère à soupe de moutarde de Dijon</p>
+    <p>1 bouquet garni</p>
+    <p>2 gousses d'ail</p>
+    <p>2 cuillères à soupe de gingembre frais</p>
+    <p>75 ml de sauce soya</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>1 cuillère à soupe de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laisser tremper les abricots secs dans le Porto environ 3 heures à la température de la pièce. Faire mariner la viande dans le vin blanc avec les échalotes, la moutarde, le bouquet garni, les gousses d'ail, le gingembre et la sauce soya. Laisser mariner environ 3 heures. Retirer la viande de la marinade et la sécher. 
+    Dans une casserole à fond épais, faire revenir la viande dans le mélange huile/beurre jusqu'à ce qu'elle soit colorée sur tous les côtés. Verser le Porto de trempage des abricots dans la casserole. Laisser réduire aux trois quarts et ajouter la marinade. Porter à ébullition, réduire ensuite la chaleur, saler, poivrer, couvrir et laisser mijoter à feu doux environ 35 mn.
+     
+    Ajouter les abricots et poursuivre la cuisson environ 10 mn. 
+    Passer la sauce au chinois et la faire réduire jusqu'à bonne consistance. Servir bien chaud.
+  ]]>
+  </preparation>
+</recette>

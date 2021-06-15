@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24018">
+  <titre>Nouilles chinoises au poulet et au gingembre</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 filets de poulets émincés</p>
+    <p>250 g de nouilles chinoises aux œufs</p>
+    <p>2 carottes</p>
+    <p>1 poivron</p>
+    <p>2 échalotes</p>
+    <p>2 gousses d'ail</p>
+    <p>2 oignons</p>
+    <p>2 cuillères à soupe de gingembre râpé ou moulu</p>
+    <p>3 cuillères à soupe de sauce soja</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un wok ou à défaut une grande casserole faites revenir dans de l'huile chaude l'ail, le gingembre et les échalotes coupés en morceaux.
+    Ajoutez le poulet émincé en petits morceaux et faites revenir 5 min.
+    Ajoutez les carottes, oignons et poivrons coupés en petits morceaux. Faites revenir 5 min puis mouillez avec 1/2 verre d'eau et faites réduire. Au bout de quelques minutes ajoutez la sauce soja.
+    Entre temps faites cuire les nouilles chinoises selon les indications. 
+    Incorporez les nouilles chinoises dans le wok ou la poêle et faites revenir quelques minutes.
+    Servez.
+  ]]>
+  </preparation>
+</recette>

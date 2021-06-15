@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16909">
+  <titre>Salade de tomate et feta</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tomates en grappe</p>
+    <p>1 échalote</p>
+    <p>2 tranches de jambon (ou d'épaule)</p>
+    <p>200 g de feta</p>
+    <p>poivre</p>
+    <p>herbes de Provence</p>
+    <p>anis</p>
+    <p>huile d'olive</p>
+    <p>1 citron (jus)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les tomates en quartiers.
+    Ajouter une échalote hachée grossièrement (on peut la remplacer par un oignon coupé en lamelles, mais c'est plus fort).Découper les tranches de jambon en petits carrés.
+    Ajouter la feta en petits cubes. Saupoudrer de poivre, d'herbes de provence et d'anis.
+    Verser l'huile d'olive et le jus de citron, puis mélanger, c'est prêt!Selon les goûts, on peut aussi ajouter des olives vertes ou noires.Entrée pour 4, mais aussi plat principal pour 2 (le midi, quand il fait bien chaud).
+  ]]>
+  </preparation>
+</recette>

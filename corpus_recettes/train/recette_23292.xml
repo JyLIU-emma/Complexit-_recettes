@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23292">
+  <titre>Cake aux fraises et coulis</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de fraises sucrées</p>
+    <p>140 g de farine</p>
+    <p>100 g de sucre</p>
+    <p>3 oeufs</p>
+    <p>150 g de beurre</p>
+    <p>1 sachet de levure</p>
+    <p>extrait de vanille liquide </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et équeuter les fraises. 
+    Mixer 200 g de fraises en coulis et couper le reste des fraises en morceaux. Mélanger dans un saladier la farine, la levure, les oeufs, le sucre et le beurre fondu. 
+    Verser dans la préparation la moitié du coulis et les fraises en morceaux. Enfourner environ 45 min à 180°C (thermostat 6). Servir avec le reste de coulis, une fois le cake bien refroidi.
+  ]]>
+  </preparation>
+</recette>

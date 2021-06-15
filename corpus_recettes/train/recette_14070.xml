@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14070">
+  <titre>Tarte aux fruits rouges</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte sablée pure beurre</p>
+    <p>40 cl de crème fraîche entière</p>
+    <p>22.5 g de sucre vanillé</p>
+    <p>2 cuillères à soupe de sucre</p>
+    <p>500 g de fraise</p>
+    <p>250 g de framboises </p>
+    <p>250 g de mûres</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Étaler la pâte dans un moule à tarte et la faire cuire couverte d'un papier sulférisé sur lequel vous aurez mis du riz ou des haricots secs.
+    Une fois qu'elle est dorée, la laisser refroidir. Pendant ce temps, dans un saladier, mélanger le sucre vanillé,le sucre et la crème que vous montez en chantilly bien ferme.
+    Rincer à peine les fruits, étaler la crème chantilly sur la pâte et placer les fruits en commençant par les fraises, puis les framboises et les mûres.
+    Avec le reste des fruits rouge, faire un coulis en les plaçant dans la centrifugeuse avec 1 paquet de sucre vanillé.Servir frais avec le coulis dans une saucière pour que chacun verse ce qu'il veut sur sa part.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23461">
+  <titre>Gâteau de riz aux fruits au sirop</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>100 g de riz</p>
+    <p>10 cl d'eau</p>
+    <p>50 cl de lait</p>
+    <p>1/2 gousse de vanille</p>
+    <p>65 g de sucre</p>
+    <p>1 pincée de sel</p>
+    <p>2 oeufs</p>
+    <p>300 g de fruits au sirop</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 160°C (thermostat 5-6), beurrez et sucrez un moule à charlotte.
+    Rincez les grains de riz à l'eau courante puis faites le cuire dans 10 cl d'eau bouillante avec une pincée de sel durant 3 minutes.
+    Portez le lait à ébullition avec la vanille et le sucre. Versez-y le riz et laissez cuire sur feu doux sans remuer jusqu'à ce que le riz ait absorbé tout le liquide.
+    Hors du feu, incorporez délicatement les oeufs battus.
+    Remplissez le moule à charlotte en alternant le riz et les fruits. Enfournez au bain-marie pour 45 minutes de cuisson.
+    Démoulez lorsque le gâteau de riz est froid. Nappez du sirop des fruits et servez.
+  ]]>
+  </preparation>
+</recette>

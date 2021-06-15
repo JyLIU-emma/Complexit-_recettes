@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15224">
+  <titre>Sauté de volaille</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g d'escalopes de dinde </p>
+    <p>1 oignon</p>
+    <p>une dosette de safran (ou des épices à paella...c'est moins cher!)</p>
+    <p>2 cuillères à café de fond de volaille</p>
+    <p>2 cuillères à soupe de vinaigre (celui que vous voulez, moi j'ai une préférence pour le balsamique)</p>
+    <p>huile, sel et poivre</p>
+    <p>Pour l'accompagnement :</p>
+    <p>500 g de poireaux</p>
+    <p>100 g de riz</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les escalopes en dés. 
+    Faites-les revenir 4 mn à la poêle dans l'huile. Salez, poivrez et retirez-les de la poêle.
+    Remplacez-les par l'oignon émincé et laissez revenir 2 mn.
+    Rajoutez la viande, le vinaigre, 10 cl d'eau, le safran et le fond de veau. Remuez bien l'ensemble pour que tout prenne une belle couleur caramel.
+    Couvrez et laisser cuire 20 mn à feu très doux.
+    Pendant ce temps, lavez et émincez les poireaux (ou achetez des poireaux émincés congelés). 
+    Faites-les cuire avec le riz (dans la même casserole) 20 mn dans l'eau bouillante salée, égouttez le tout et c'est prêt!
+    Attention, ces proportions sont pour 2 personnes. Vous n'êtes pas obligés de servir la viande avec cet accompagnement.
+  ]]>
+  </preparation>
+</recette>

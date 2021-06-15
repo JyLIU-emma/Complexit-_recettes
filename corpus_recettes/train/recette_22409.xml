@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22409">
+  <titre>Tranches de courge panées au fromage</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de courge (ou potiron, potimarron)</p>
+    <p>1 oeuf</p>
+    <p>100 g de chapelure</p>
+    <p>100 g de beurre</p>
+    <p>100 de fromage râpé (gruyère, comté, emmenthal...)</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher et couper la courge en tranches assez épaisses (1 cm d'épaisseur).
+    Les tremper dans l'oeuf battu en omelette avec du sel, puis les passer dans la chapelure.
+    Réserver au frais au moins 1 h.
+    Faire dorer les tranches dans le beurre chaud, en les retournant pour bien les cuire des 2 côtés.
+    Saler, poivrer.
+    Répartir le fromage sur les tranches panées, couvrir et laisser fondre le fromage.
+    Servir aussitôt.
+    On peut aussi faire gratiner les tranches au four.
+  ]]>
+  </preparation>
+</recette>

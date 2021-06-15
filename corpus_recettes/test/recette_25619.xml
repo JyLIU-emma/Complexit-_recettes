@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25619">
+  <titre>Charlotte crémeuse aux marrons</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>25 biscuits à la cuillère</p>
+    <p>Pour le sirop :</p>
+    <p>300 g de sucre</p>
+    <p>20 cl d'eau</p>
+    <p>1 filet de whisky</p>
+    <p>Pour la garniture :</p>
+    <p>300 g de crème de marrons</p>
+    <p>2 feuilles de gélatine</p>
+    <p>100 g de miettes de marrons au naturel</p>
+    <p>1 brique de crème fleurette </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les feuilles de gélatine à tremper dans un peu d’eau froide pour les faire ramollir.
+    Préparer d’abord le sirop en mélangeant l’eau et le sucre sur feu vif sans cesser de remuer.
+    Ajouter ensuite le whisky, puis laisser épaissir jusqu’à ce que le mélange prenne la consistance d’un sirop.
+    Egoutter les feuilles de gélatines.
+    Réserver 10 cl de sirop, puis incorporer les feuilles de gélatine au reste du sirop en remuant vivement.
+    Préparer ensuite la garniture :
+    Mélanger la crème de marrons avec les miettes de marrons dans un saladier.
+    Battre la crème fleurette fraîche en chantilly bien ferme, puis l’incorporer au mélange de marrons.
+    Tremper les biscuits à la cuillère dans le sirop, puis en tapisser les bords et le fond d’un moule à charlotte recouvert de film transparent.
+    Garnir avec la crème aux marrons, puis placer au réfrigérateur et laisser prendre 12 h au frais.
+  ]]>
+  </preparation>
+</recette>

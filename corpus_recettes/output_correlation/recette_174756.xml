@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="174756">
+  <titre>Boudin blanc maison</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>750 g de porc maigre</p>
+    <p>250 g de porc gras</p>
+    <p>1 l de lait</p>
+    <p>2 carottes</p>
+    <p>2 oignons</p>
+    <p>1 bouquet garni  </p>
+    <p>3 échalotes</p>
+    <p>5 œufs entiers</p>
+    <p>40 g de fécule ou maïzena</p>
+    <p>30 g de sel</p>
+    <p>5 g de poivre blanc</p>
+    <p>2 g de quatre épices</p>
+    <p>4 g de sucre</p>
+    <p>2 g de muscade</p>
+    <p>5 cl de porto blanc</p>
+    <p>200 g de mie de pain</p>
+    <p>30 g de beurre</p>
+    <p>boyaux</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir le lait 10 minutes avec les carottes, les oignons et le bouquet garni puis laisser refroidir. Émincer les échalotes et les faire cuire dans le beurre jusqu'à transparence dans le beurre.
+    Mettre les boyaux à tremper dans de l'eau tiède et détremper la mie de pain dans le lait.
+    Hacher finement et séparément chaque ingrédient puis mélanger soigneusement le tout (on peut ajouter des petits cubes de foie gras, truffes, marrons, champignons cuits, herbes ou n'importe quelle autre petite douceur de votre envie).Avec un entonnoir ou un poussoir préparer les boudins.
+    Les plonger dans de l'eau salée de 15 à 20 minutes à 80°C (les légumes qui ont servi à infuser le lait peuvent être ajoutés au court-bouillon).REFROIDISSEMENT IMMÉDIAT à l'eau glacée pour que les boudins restent bien blancs.Cette recette est également réalisable avec du poisson mêlé a des crustacés mais avec une cuisson de seulement 5 minutes.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">bouillir</OPER> le <INGRED id="4">lait</INGRED> 10 minutes avec les <INGRED id="4">carottes</INGRED>, les oignons et le <INGRED id="9">bouquet garni</INGRED> puis <INGRED id="12">laisser</INGRED> <OPER id="o_2">refroidir</OPER>. <OPER id="o_3">Émincer</OPER> les <INGRED id="7">échalotes</INGRED> et les <INGRED id="10">faire</INGRED> <OPER id="o_4">cuire</OPER> dans le <INGRED id="8">beurre</INGRED> jusqu'à transparence dans le <INGRED id="17">beurre</INGRED>. <OPER id="o_5">Mettre</OPER> les <INGRED id="18">boyaux</INGRED> à <OPER id="o_6">tremper</OPER> dans de l'<INGRED id="17">eau</INGRED> tiède et <OPER id="o_7">détremper</OPER> la <INGRED id="16">mie de pain</INGRED> dans le <INGRED id="7">lait</INGRED>. <OPER id="o_8">Hacher</OPER> finement et séparément chaque ingrédient puis <OPER id="o_9">mélanger</OPER> soigneusement le tout ( on peut <OPER id="o_1016">ajouter</OPER> des <INGRED id="3">petits</INGRED> cubes de <INGRED id="8">foie gras</INGRED>, truffes, marrons, champignons cuits, <INGRED id="5">herbes</INGRED> ou n'importe quelle autre <INGRED id="2">petite</INGRED> douceur de votre envie).Avec un entonnoir ou un poussoir <OPER id="o_11">préparer</OPER> les boudins. Les <OPER id="o_12">plonger</OPER> dans de l'<INGRED id="2">eau</INGRED> salée de 15 à 20 minutes à 80 ° C ( les légumes qui ont servi à <OPER id="o_13">infuser</OPER> le <INGRED id="8">lait</INGRED> peuvent être ajoutés au court - bouillon).REFROIDISSEMENT IMMÉDIAT à l'<INGRED id="10">eau</INGRED> glacée pour que les boudins restent bien <INGRED id="3">blancs</INGRED>. Cette recette est également réalisable avec du poisson mêlé a des crustacés mais avec une cuisson de seulement 5 minutes.
+  </annotation>
+  <annotation methode="crf">
+  Faire bouillir le <INGRED>lait</INGRED> 10 minutes avec les <INGRED>carottes</INGRED> <INGRED>,</INGRED> les <INGRED>oignons</INGRED> et le <INGRED>bouquet garni</INGRED> puis laisser refroidir <INGRED>.</INGRED> Émincer les <INGRED>échalotes</INGRED> et les faire cuire dans le <INGRED>beurre</INGRED> jusqu'à transparence dans le <INGRED>beurre</INGRED> <INGRED>.</INGRED> Mettre les boyaux à tremper dans de l'<INGRED>eau</INGRED> tiède et détremper la mie de <INGRED>pain</INGRED> dans le <INGRED>lait</INGRED> <INGRED>.</INGRED> Hacher <INGRED>finement</INGRED> et séparément chaque ingrédient puis mélanger soigneusement le tout ( on peut ajouter des <INGRED>petits</INGRED> cubes de <INGRED>foie</INGRED> gras <INGRED>,</INGRED> truffes <INGRED>,</INGRED> marrons <INGRED>,</INGRED> <INGRED>champignons</INGRED> cuits <INGRED>,</INGRED> <INGRED>herbes</INGRED> <INGRED>ou</INGRED> n'importe quelle autre <INGRED>petite</INGRED> douceur de votre envie).Avec un entonnoir <INGRED>ou</INGRED> un poussoir préparer les <INGRED>boudins</INGRED>. Les plonger dans de l'<INGRED>eau</INGRED> salée de 15 à 20 minutes à 80 ° C ( les <INGRED>légumes</INGRED> qui ont servi à infuser le <INGRED>lait</INGRED> peuvent être ajoutés au court - bouillon).REFROIDISSEMENT IMMÉDIAT à l'<INGRED>eau</INGRED> glacée pour que les <INGRED>boudins</INGRED> restent bien <INGRED>blancs</INGRED> <INGRED>.</INGRED> Cette recette est également réalisable avec du <INGRED>poisson</INGRED> mêlé <INGRED>a</INGRED> des crustacés mais avec une cuisson de seulement 5 minutes.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 11.0*X + 11.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 13*X + 19</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['porc maigre', 'porc']	 id:1	 quantité:750	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['porc gras', 'porc']	 id:2	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:3	 quantité:1	 unité:l de	 denombrable:False	 recipient:1
+ingredient:['carottes']	 id:4	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['oignons']	 id:5	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['bouquet garni', 'bouquet']	 id:6	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['échalotes']	 id:7	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['œufs entiers', 'œufs']	 id:8	 quantité:5	 unité:non_precis	 denombrable:True	 recipient:5*X
+ingredient:['fécule']	 id:9	 quantité:40	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:10	 quantité:30	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['poivre blanc', 'poivre']	 id:11	 quantité:5	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['quatre épices', 'épices']	 id:12	 quantité:2	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:13	 quantité:4	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['muscade']	 id:14	 quantité:2	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['porto blanc', 'porto']	 id:15	 quantité:5	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['mie de pain', 'mie']	 id:16	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:17	 quantité:30	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['boyaux']	 id:18	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:bouillir	 id:o_1	 ingrédients_ralatifs:['4', '4', '9', '12']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:refroidir	 id:o_2	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:émincer	 id:o_3	 ingrédients_ralatifs:['7', '10', '8', '17']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_4	 ingrédients_ralatifs:['10', '8', '17']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:mettre	 id:o_5	 ingrédients_ralatifs:['18', '17', '16', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:tremper	 id:o_6	 ingrédients_ralatifs:['17']	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:détremper	 id:o_7	 ingrédients_ralatifs:['16', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:hacher	 id:o_8	 ingrédients_ralatifs:['16', '3', '8', '5', '2']	 nombre_opération_atomique:1+1+5*X+2*X+1	 temps:1*X*5+1*X*5+5*X*5+2*X*5+1*X*5	 recipient:1
+operation:mélanger	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:['3', '8', '5', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:plonger	 id:o_12	 ingrédients_ralatifs:['2', '8', '10', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:infuser	 id:o_13	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

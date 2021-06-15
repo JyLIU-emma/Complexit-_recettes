@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25206">
+  <titre>Pâtes aux noix et à la salade rouge de Trévise</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>10 noix</p>
+    <p>une demi-botte de salade rouge</p>
+    <p>un demi-oignon (ou deux échalotes) </p>
+    <p>un demi-pot de ricotta (ou l'équivalent en crème fraîche) </p>
+    <p>huile d'olive</p>
+    <p>Parmesan râpé</p>
+    <p>200 g de pâtes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher l'oignon et le faire étuver dans l'huile. 
+    Ajouter la salade lavée et coupée en lanières. Faire étuver. 
+    Ajouter les noix concassées. 
+    Au bout de quelques minutes, ajouter la ricotta écrasée et remuer. 
+    Quand les pâtes sont cuites, les égoutter et les mettre dans la poêle avec la sauce aux noix, pour les faire "sauter" à feux assez fort une ou deux minutes avant de les servir, parsemées de Parmesan.
+  ]]>
+  </preparation>
+</recette>

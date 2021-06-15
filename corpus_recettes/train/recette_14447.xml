@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14447">
+  <titre>Chaussons de porc aux noisettes</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>10 petites escalopes de porc coupées en dés</p>
+    <p>2 pâtes feuilletées</p>
+    <p>100 g de noisettes concassées</p>
+    <p>20 cl de crème fraîche épaisse</p>
+    <p>2 cuillères à soupe de Porto</p>
+    <p>5 pruneaux dénoyautés</p>
+    <p>sel et poivre</p>
+    <p>un jaune d’oeuf avec un peu de lait pour dorer</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir la viande dans l’huile quelques secondes de chaque coté. Réserver.
+    Pour la sauce : couper les pruneaux en petits morceaux, les chauffer pendant 5 minutes avec le Porto dans une casserole.
+    Ajouter la crème et les noisettes.
+    Laisser cuire encore 5 mn. Saler et poivrer.
+    Préchauffer le four à 200°C.
+    Pour chaque chausson : passer généreusement la viande dans la sauce. La poser sur la pâte feuilletée.
+    Découper un cercle autour de la viande de manière à pouvoir refermer le chausson.
+    Dorer au jaune d’œuf ajouté de lait.
+    Disposer les chaussons sur une plaque recouverte de papier sulfurisé. Enfourner au milieu pendant 20 mn.
+    Servir rapidement pour que les chaussons restent bien croustillants.
+  ]]>
+  </preparation>
+</recette>

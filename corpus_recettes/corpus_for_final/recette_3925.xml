@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="3925">
+  <titre>Délice de Carré Frais au foie gras</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>4 tranche de pain viennois</p>
+    <p>4 petit Carré Frais</p>
+    <p>4 tranches de foie gras de canard</p>
+    <p>4 tranches de foie d'oie</p>
+    <p>4 cuillères à café d'huile d'olive</p>
+    <p>4 cuillères à café de gros sel</p>
+    <p>8 figues confites</p>
+    <p>8 larmes d'armagnac vieux </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire griller les tranches de pains, les conserver au chaud.
+    Mélanger la moitié d'un petit Carré Frais avec l'huile d'olive.
+    Beurrer les tranches de pains avec ce mélange.
+    Déposer dessus les deux tranches de foie gras.
+    Couper en deux, la moitie du Carré Frais restant, et les déposer au millieu des tranches de foie.
+    Déposer à côté les deux figues.
+    Saupoudrer avec la cuillère de gros sel.
+    Passer à four très chaud, pendant 1 min.
+    Arroser avec la larme d'Armagnac, et servir aussitôt!
+    Servir sur un lit de salade frisée.
+  ]]>
+  </preparation>
+</recette>

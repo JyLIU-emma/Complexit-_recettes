@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11578">
+  <titre>Gibelotte de lapin</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 lapin</p>
+    <p>beurre</p>
+    <p>farine</p>
+    <p>10 cl d'eau de vie</p>
+    <p>vin blanc sec</p>
+    <p>bouillon</p>
+    <p>1 gousse d'ail</p>
+    <p>1 bouquet garni</p>
+    <p>200 g de lardons</p>
+    <p>24 petits oignons blancs</p>
+    <p>sel, poivre</p>
+    <p>croûtons</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dépouillez, videz, coupez le lapin en morceaux. Essuyez, puis salez et poivrez les morceaux.
+    Dans une cocotte, mettre moitié beurre et moitié huile, faites dorer les morceaux. Farinez légèrement et faites roussir tout en remuant à la spatule.
+    Ajoutez l'eau de vie, chauffez puis enflammez. Ensuite, mouillez à mi-hauteur de moitié vin blanc sec et moitié bouillon. Ajoutez l'ail écrasé et le bouquet garni. Portez à ébullition, couvrez et faites cuire 30 minutes sur feu doux. Ajoutez alors les lardons blanchis et les petits oignons. Faites cuire encore 30 minutes.
+    Servez avec des croûtons frits.
+  ]]>
+  </preparation>
+</recette>

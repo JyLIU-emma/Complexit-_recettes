@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18125">
+  <titre>Pâtes à la Stridulla</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500g de penne rigate</p>
+    <p>1 poivron rouge</p>
+    <p>1 poivron vert</p>
+    <p>1 oignon rouge</p>
+    <p>1 pot de crème fraîche</p>
+    <p>2 belles escalopes de poulet</p>
+    <p>basilic frais</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Passer les poivrons au four quelques minutes puis ôter la peau et détailler les poivrons en fines lamelles. 
+    Hacher l'oignon et le faire revenir dans le huile d'olive à feu doux pour qu'il ne brûle pas. 
+    Lorsque l'oignon a blondi, ajouter le poulet coupé en petits morceaux et remuer pour qu'il dore. Ajouter les poivrons et faire revenir 10 minutes. Ajouter la crème fraîche, sel, poivre et basilic frais haché. Laisser mijoter à feu très doux.
+    Faire cuire les pâtes "al dente", égoutter, verser la préparation. Servir très chaud.
+  ]]>
+  </preparation>
+</recette>

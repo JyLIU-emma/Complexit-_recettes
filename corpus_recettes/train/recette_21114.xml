@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21114">
+  <titre>Boulettes d'agneau coriandre, cumin et citron confit</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>900 g d'agneau maigre</p>
+    <p>3 oignons</p>
+    <p>3 gousses d'ail </p>
+    <p>1 cuillère à café de cumin</p>
+    <p>1/2 bouquet de coriandre fraîche</p>
+    <p>3 oeufs</p>
+    <p>6 écorces de citron confit</p>
+    <p>75 cl d'eau</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher finement les oignons et l'ail, l'agneau et mélanger le tout à la main ou à la fourchette.
+    Saler, poivrer, ajouter le cumin, la coriandre et les oeufs battus en omelette.
+    Former des boulettes, les passer dans la farine.
+    Faire revenir les boulettes dans une sauteuse avec un peu d'huile d'olive et, lorsqu'elles sont dorées, ajouter les écorces de citron confit et l'eau.
+    Laisser cuire ainsi 20 minutes à feu moyen.
+  ]]>
+  </preparation>
+</recette>

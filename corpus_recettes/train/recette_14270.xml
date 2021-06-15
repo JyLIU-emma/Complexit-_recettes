@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14270">
+  <titre>Salade de chou-fleur à l'indienne</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 chou-fleur de taille moyenne</p>
+    <p>200 g de haricots verts</p>
+    <p>1 carotte</p>
+    <p>Pour la sauce :</p>
+    <p>1 échalote</p>
+    <p>1 gousse d'ail</p>
+    <p>1 piment oiseau (ou poivre de Cayenne)</p>
+    <p>1 cuillère à café de beurre de cacahuètes</p>
+    <p>3 cuillères à soupe de lait de coco</p>
+    <p>10 cl de crème fraîche</p>
+    <p>1 cuillère à soupe rase de curry en poudre</p>
+    <p>sel et poivre</p>
+    <p>1 cuillère à soupe de vinaigre de Xérès</p>
+    <p>1 citron</p>
+    <p>1 cuillère à café d'huile de sésame</p>
+    <p>2 cuillères à soupe d'huile neutre</p>
+    <p>Pour la garniture :</p>
+    <p>2 cuillères à soupe de graines de sésame</p>
+    <p>quelques feuilles de menthe</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler le chou-fleur en bouquets.
+    Laver et éplucher la carotte, la détailler en julienne.
+    Cuire les haricots verts pendant 3 à 4 minutes dans l'eau bouillante salée, puis les plonger immédiatement dans l'eau froide pour arrêter la cuisson.
+    Cuire les bouquets du chou-fleur à l'eau bouillante salée durant 8 minutes, puis cuire quelques instants la carotte découpée en julienne.
+    Egoutter les légumes et les mélanger dans un saladier.
+    Eplucher l'ail et l'échalote. Emincer-les finement, ainsi que le piment oiseau.
+    Préparer une sauce avec le beurre de cacahuètes, le lait de coco, la crème fraîche et le curry. Saler et poivrer, ajouter le vinaigre de Xérès, le jus de citron et l'huile.
+    Verser la sauce sur les légumes, tourner la salade et laisser mariner.
+    Avant de servir, faire dorer les graines de sésame à sec. Ajouter ces graines à la salade, ainsi que quelques feuilles de menthe ciselées.
+  ]]>
+  </preparation>
+</recette>

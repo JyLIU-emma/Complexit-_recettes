@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25341">
+  <titre>Crêpes farcies et gratinées aux champignons</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de champignons</p>
+    <p>200 g de gruyère râpé</p>
+    <p>200 g de farine</p>
+    <p>100 g de beurre</p>
+    <p>20 cl de lait</p>
+    <p>2 gros oignons</p>
+    <p>2 oeufs</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>1 pincée de sel </p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, mélanger au fouet la farine et le lait. Lorsque le mélange est bien fluide, y délayer les oeufs. Ajouter l'huile et saler. Laisser reposer pendant 2 h.
+    Nettoyer les champignons et peler les oignons. Les émincer et les faire revenir dans une casserole à feu doux avec 50 g de beurre fondu, pendant 7 min, en remuant sans cesse.
+    Incorporer la moitié du gruyère et assaisonner.
+    Préparer 8 crêpes fines. Farcir les crêpes avec la préparation précédente et les rouler.
+    Les placer dans un plat à gratin beurrée et parsemer de gruyère.
+    Faire gratiner au four position grill pendant quelques minutes et servir.
+  ]]>
+  </preparation>
+</recette>

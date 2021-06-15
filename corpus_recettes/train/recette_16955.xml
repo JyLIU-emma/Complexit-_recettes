@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16955">
+  <titre>Brownies caramélisés</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 oeufs</p>
+    <p>325 g de sucre</p>
+    <p>200 g de margarine (ou de beurre)</p>
+    <p>125 g de chocolat</p>
+    <p>175 g de farine</p>
+    <p>1 sachet de levure chimique</p>
+    <p>1 sachet de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une terrine, cassez les oeufs, ajoutez le sucre et battez bien l'ensemble.
+    Cassez le chocolat en moreaux et faites-le fondre dans la margarine à feu doux. Mélangez les oeufs battus avec le chocolat fondu.
+    Mélangez la levure et le sucre vanillé avec la farine et incorporez le mélange dans la pâte avec une cuillère en bois.
+    Mettez la pâte dans un grand plat (35-40cm) et faites cuire à four moyen (thermostat 6/180°C) 15 à 20 mn.
+    vous pouvez le mettre dans des petites barquettes en allu sa fait des parts individuel
+  ]]>
+  </preparation>
+</recette>

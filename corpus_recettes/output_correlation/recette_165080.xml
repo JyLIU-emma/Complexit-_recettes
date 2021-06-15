@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165080">
+  <titre>Tartiflette camping</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 fromage a tartiflette </p>
+    <p>2 grandes boite de pomme de terre</p>
+    <p>2 paquets de lardons fumés</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>un verre de lait</p>
+    <p>un morceau de margarine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    ouvrez vos boites de pomme de terre et rincer les sous l'eau froide.
+    faite revenir les lardons dans la matière grasse. 
+    coupez les pommes de terre en rondelles sur les lardons et couper de gros morceaux de fromage à tartiflette dessus
+    ajouter sel , poivre et le lait
+    Remuer le tout
+    faites cuire doucement jusqu'a ce que le fromage est fondu
+    tourner entre deux pour ne pas faire coller le fond de la casserole
+    servir avec une bonne salade
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">ouvrez</OPER> vos <INGRED id="1">boites</INGRED> de pomme de terre et <OPER id="o_2">rincer</OPER> les sous l'<INGRED id="1">eau</INGRED> froide. faite <OPER id="o_3">revenir</OPER> les lardons dans la matière grasse. <OPER id="o_4">coupez</OPER> les <INGRED id="3">pommes de terre</INGRED> en rondelles sur les lardons et <OPER id="o_5">couper</OPER> de gros morceaux de fromage à tartiflette dessus <OPER id="o_6">ajouter</OPER> sel, poivre et le <INGRED id="6">lait</INGRED> <OPER id="o_7">Remuer</OPER> le tout faites <OPER id="o_8">cuire</OPER> doucement jusqu'a ce que le <INGRED id="4">fromage</INGRED> est fondu <OPER id="o_9">tourner</OPER> entre deux pour ne pas faire coller le fond de la casserole servir avec une bonne salade
+  </annotation>
+  <annotation methode="crf">
+  ouvrez vos boites de <INGRED>pomme de terre</INGRED> et rincer les sous l'<INGRED>eau</INGRED> froide <INGRED>.</INGRED> faite revenir les <INGRED>lardons</INGRED> dans la <INGRED>matière grasse</INGRED>. coupez les <INGRED>pommes de terre</INGRED> en rondelles sur les <INGRED>lardons</INGRED> et couper de <INGRED>gros</INGRED> <INGRED>morceaux</INGRED> de <INGRED>fromage</INGRED> à tartiflette dessus ajouter <INGRED>sel</INGRED> <INGRED>,</INGRED> <INGRED>poivre</INGRED> et le <INGRED>lait</INGRED> Remuer le tout faites cuire doucement jusqu'<INGRED>a</INGRED> ce que le <INGRED>fromage</INGRED> est fondu tourner entre <INGRED>deux</INGRED> pour ne pas faire coller le <INGRED>fond</INGRED> de la casserole servir avec une bonne salade
+  </annotation>
+  <complexite>
+    <temps>f(X) = 6.11111111111111*X + 4.88888888888889</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 5*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['fromage a tartiflette', 'fromage']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['boite de pomme de terre', 'boite']	 id:2	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['lardons fumés', 'lardons']	 id:3	 quantité:2	 unité:paquets de	 denombrable:True	 recipient:2*X
+ingredient:['sel']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:6	 quantité:non_precis	 unité:verre de	 denombrable:False	 recipient:1
+ingredient:['morceau de margarine', 'morceau']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:ouvrir	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rincer	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:revenir	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:couper	 id:o_4	 ingrédients_ralatifs:['3', '6']	 nombre_opération_atomique:2*X+1	 temps:2*X*1+1*X*1	 recipient:1
+operation:couper	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_8	 ingrédients_ralatifs:['3', '6', '4']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:tourner	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

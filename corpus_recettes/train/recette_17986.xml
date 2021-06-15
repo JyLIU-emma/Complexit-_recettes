@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17986">
+  <titre>Tarte au chocolat et aux poires</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rouleau de pâte sablée</p>
+    <p>1 boîte 4/4 de poires au sirop</p>
+    <p>3 oeufs</p>
+    <p>10 cl de crème fraîche</p>
+    <p>1 cuillère à soupe rase de farine</p>
+    <p>80 g de sucre en poudre</p>
+    <p>45 g de beurre</p>
+    <p>1/2 verre à liqueur d'alcool de poire (facultatif)</p>
+    <p>150 g de chocolat</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la pâte et garnir un moule à tarte beurré. La faire cuire à blanc pendant 10 min à 200 (Th 6-7).
+    Egoutter les poires, les mixer et verser la purée dans un saladier.
+    Ajouter la crème légèrement fouettée, la farine, le sucre et l'alcool de poire. 
+    Incorporer les oeufs un à un, puis mélanger délicatement. 
+    Verser la préparation sur le fond de tarte et enfourner pendant 25 min; laisser refroidir.
+    Faire fondre le chocolat, ajouter le beurre et napper la tarte avec le chocolat fondu.
+    Laisser prendre, et décorer avec du sucre glace et des copeaux de chocolat.
+  ]]>
+  </preparation>
+</recette>

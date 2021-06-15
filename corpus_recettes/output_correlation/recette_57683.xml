@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57683">
+  <titre>Curry de poulet au piment thailandais</titre>
+  <type>Plat principal</type>
+  <niveau>Difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 blancs de poulet coupés en dés</p>
+    <p>4 oignons coupés grossièrement</p>
+    <p>3 cm de gingembre finement haché</p>
+    <p>3 gousses d'ail écrasées</p>
+    <p>1 cuillère à café de cumin</p>
+    <p>1 cuillère à café de curcuma</p>
+    <p>1 cuillère à café de chili powder</p>
+    <p>1 cuillère à soupe de garam massala (épiceries indiennes)</p>
+    <p>1 boite de tomates pelées et coupées en dés</p>
+    <p>une petite brique de lait de coco</p>
+    <p>1, 2 ou 3 petits piments frais thailandais hachés (selon le degré de "piquant" souhaité)</p>
+    <p>coriandre fraîche hachée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte faire revenir les oignons jusqu'à transparence.
+    Ajouter le gingembre et l'ail et faire revenir 1 minute à feu vif.
+    Ajouter les 4 épices (cumin, curcuma, chili powder et garam massala) et faire revenir 1 minute à feu vif.
+    Ajouter les morceaux de poulet et les faire colorer.
+    Ajouter les piments frais finement hachés.
+    Ajouter la boite de tomates pelées et baisser le feu.
+    Laisser mijoter une bonne vingtaine de minutes.
+    Ajouter la brique de lait de coco.
+    Laisser cuire à feux doux pendant 10 minutes.
+    Parsemer le plat de coriandre fraîche et servir immédiatement.
+    Plat plus ou moins "hot" pour les amateurs. côte du Rhône
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Dans une <INGRED id="3">cocotte</INGRED> <INGRED id="4">faire</INGRED> <OPER id="o_1">revenir</OPER> les oignons jusqu'à transparence. <OPER id="o_2">Ajouter</OPER> le <INGRED id="8">gingembre</INGRED> et <INGRED id="1">l'ail</INGRED> et <INGRED id="4">faire</INGRED> <OPER id="o_3">revenir</OPER> 1 minute à feu vif. <OPER id="o_4">Ajouter</OPER> les <INGRED id="5">4 épices</INGRED> ( <INGRED id="9">cumin</INGRED>, <INGRED id="10">curcuma</INGRED>, <INGRED id="7">chili powder</INGRED> et <INGRED id="8">garam massala</INGRED> ) et <INGRED id="4">faire</INGRED> <OPER id="o_5">revenir</OPER> 1 minute à feu vif. <OPER id="o_6">Ajouter</OPER> les <INGRED id="1">morceaux</INGRED> de poulet et les <INGRED id="10">faire</INGRED> <OPER id="o_7">colorer</OPER>. <OPER id="o_8">Ajouter</OPER> les <INGRED id="4">piments</INGRED> frais finement hachés. <OPER id="o_9">Ajouter</OPER> la <INGRED id="9">boite de tomates pelées</INGRED> et <OPER id="o_10">baisser</OPER> le feu. Laisser <OPER id="o_11">mijoter</OPER> une bonne vingtaine de minutes. <OPER id="o_12">Ajouter</OPER> la <INGRED id="11">brique de lait de coco</INGRED>. Laisser <OPER id="o_13">cuire</OPER> à feux doux pendant 10 minutes. <OPER id="o_14">Parsemer</OPER> le <INGRED id="9">plat</INGRED> de <INGRED id="13">coriandre</INGRED> fraîche et servir immédiatement. Plat plus ou moins " hot " pour les amateurs. côte du Rhône
+  </annotation>
+  <annotation methode="crf">
+  Dans une cocotte faire revenir les <INGRED>oignons</INGRED> jusqu'à transparence <INGRED>.</INGRED> Ajouter le <INGRED>gingembre</INGRED> et l'<INGRED>ail</INGRED> et faire revenir 1 minute à feu vif. Ajouter les 4 <INGRED>épices</INGRED> ( <INGRED>cumin</INGRED> <INGRED>,</INGRED> <INGRED>curcuma</INGRED> <INGRED>,</INGRED> chili powder et garam massala ) et faire revenir 1 minute à feu vif. Ajouter les <INGRED>morceaux</INGRED> de <INGRED>poulet</INGRED> et les faire colorer <INGRED>.</INGRED> Ajouter les <INGRED>piments</INGRED> <INGRED>frais</INGRED> <INGRED>finement</INGRED> hachés. Ajouter la <INGRED>boite</INGRED> de <INGRED>tomates pelées</INGRED> et baisser le feu <INGRED>.</INGRED> Laisser mijoter une bonne vingtaine de minutes. Ajouter la brique de <INGRED>lait</INGRED> de coco <INGRED>.</INGRED> Laisser cuire à feux doux pendant 10 minutes. Parsemer le plat de <INGRED>coriandre fraîche</INGRED> et servir immédiatement. Plat plus <INGRED>ou</INGRED> moins " hot " pour les amateurs. côte du Rhône
+  </annotation>
+  <complexite>
+    <temps>f(X) = 11.4545454545455*X + 2.54545454545455</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 18*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['blancs de poulet coupés en dés', 'blancs']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['oignons coupés grossièrement', 'oignons']	 id:2	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['gingembre finement haché', 'gingembre']	 id:3	 quantité:3	 unité:cm de	 denombrable:False	 recipient:1
+ingredient:['ail écrasées', 'ail']	 id:4	 quantité:3	 unité:gousses d'	 denombrable:True	 recipient:3*X
+ingredient:['cumin']	 id:5	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+ingredient:['curcuma']	 id:6	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+ingredient:['chili powder', 'chili']	 id:7	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+ingredient:['garam massala', 'garam']	 id:8	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['boite de tomates pelées', 'boite']	 id:9	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['coupées en dés', 'coupées']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['brique de lait de coco', 'brique']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['piments frais thailandais hachés', 'piments']	 id:12	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['coriandre fraîche hachée', 'coriandre']	 id:13	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:revenir	 id:o_1	 ingrédients_ralatifs:['3', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['8', '1', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:revenir	 id:o_3	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_4	 ingrédients_ralatifs:['5', '9', '10', '7', '8', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:revenir	 id:o_5	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['1', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:colorer	 id:o_7	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:baisser	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:['11']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:parsemer	 id:o_14	 ingrédients_ralatifs:['9', '13']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

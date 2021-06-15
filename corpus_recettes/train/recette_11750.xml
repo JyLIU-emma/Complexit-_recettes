@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11750">
+  <titre>Poulet à la banane</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>340 g d' ananas au sirop</p>
+    <p>2 bananes</p>
+    <p>2 cuillères à soupe de pâte de curry</p>
+    <p>crème fraiche</p>
+    <p>4 blancs de poulet</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les blancs de poulet émincés dans un peu d'huile puis ajouter le jus d'ananas.
+    Ajouter l'ananas coupé en morceaux.Délayer la pâte de curry dans la crème fraiche puis verser sur le poulet en fin de cuisson.
+    Au moment de servir, ajouter des rondelles de banane crue et froide.
+    Servir avec du riz créole.mmmh, le melange froid/cru et chaud/cuit !
+  ]]>
+  </preparation>
+</recette>

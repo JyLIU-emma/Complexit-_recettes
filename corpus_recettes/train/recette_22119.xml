@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22119">
+  <titre>Gratin de blettes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 kg de bettes</p>
+    <p>50 g de beurre</p>
+    <p>40 g de farine</p>
+    <p>50 cl de lait</p>
+    <p>3 jaunes d'oeufs</p>
+    <p>75 g de fromage râpé</p>
+    <p>sel, poivre et noix de muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les blettes 20 minutes à l'eau bouillante. Les égoutter et les couper en morceaux.
+    Préchauffer le four à 210°C (thermostat 7).
+     
+    Beurrer un plat à four et y disposer les blettes. 
+    Préparer la sauce béchamel : faire blondir la farine dans 30 g de beurre fondu sur feu moyen. Ajouter le lait, laisser épaissir en remuant puis assaisonner de sel, de poivre et de noix de muscade râpée.
+    Hors du feu incorporer les jaunes d'oeufs et le gruyère.
+    Verser la sauce sur les blettes et enfourner 20 minutes environ jusqu'à ce que le dessus soit doré.
+  ]]>
+  </preparation>
+</recette>

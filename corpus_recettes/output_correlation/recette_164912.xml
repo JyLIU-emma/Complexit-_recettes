@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164912">
+  <titre>Mousse au chocolat à la vaudoise</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>160 gr de chocolat (noir ou au lait)</p>
+    <p>30 gr de beurre</p>
+    <p>50 de sucre + 1 c à s</p>
+    <p>4 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laisser fondre le chocolat et le beurre au bain marie, laisser tiedir.Séparer les blancs des jaunes d'oeufs et mettre les jaunes dans un saladier.
+    Ajouter aux jaunes la cuillére à soupe de sucre et mélanger jusqu'à ce que cela blanchisse.
+    Incorporer le chocolat/beurre tiedis et bien mélanger.
+    Fouetter les blancs en neige avec les 50 gr de sucre et les incorporer délicatement à l'appareil au chocolat.
+    Verser la mousse dans des coupes individuelles et les placer au frigo.Vous pouvez si vous le souhaitez ajouter à la fin de la recette de la créme fraiche (30 gr).La faire la veille, il faut le temps de la laisser prendre.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Laisser <OPER id="o_1">fondre</OPER> le <INGRED id="4">chocolat</INGRED> et le <INGRED id="3">beurre</INGRED> au bain marie, laisser <OPER id="o_2">tiedir</OPER>. <OPER id="o_3">Séparer</OPER> les blancs des jaunes d'oeufs et <OPER id="o_4">mettre</OPER> les jaunes dans un <INGRED id="1">saladier</INGRED>. <OPER id="o_5">Ajouter</OPER> aux jaunes la cuillére à soupe de <INGRED id="2">sucre</INGRED> et <OPER id="o_6">mélanger</OPER> jusqu'à ce que cela blanchisse. <OPER id="o_7">Incorporer</OPER> le <INGRED id="4">chocolat</INGRED> / beurre tiedis et bien <OPER id="o_8">mélanger</OPER>. <OPER id="o_9">Fouetter</OPER> les blancs en neige avec les <INGRED id="3">50</INGRED> gr de <INGRED id="4">sucre</INGRED> et les <OPER id="o_10">incorporer</OPER> délicatement à l'appareil au <INGRED id="4">chocolat</INGRED>. <OPER id="o_11">Verser</OPER> la mousse dans des coupes individuelles et les <OPER id="o_12">placer</OPER> au frigo. Vous pouvez si vous le souhaitez <OPER id="o_13">ajouter</OPER> à la fin de la recette de la créme fraiche ( 30 gr).La faire la veille, il faut le temps de la laisser <OPER id="o_14">prendre</OPER>.
+  </annotation>
+  <annotation methode="crf">
+  Laisser fondre le <INGRED>chocolat</INGRED> et le <INGRED>beurre</INGRED> au bain marie <INGRED>,</INGRED> laisser tiedir. Séparer les <INGRED>blancs</INGRED> des <INGRED>jaunes d'oeufs</INGRED> et mettre les <INGRED>jaunes</INGRED> dans un saladier <INGRED>.</INGRED> Ajouter aux <INGRED>jaunes</INGRED> la cuillére à soupe de <INGRED>sucre</INGRED> et mélanger jusqu'à ce que cela blanchisse <INGRED>.</INGRED> Incorporer le <INGRED>chocolat</INGRED> / <INGRED>beurre</INGRED> tiedis et bien mélanger. Fouetter les <INGRED>blancs</INGRED> en neige avec les 50 gr de <INGRED>sucre</INGRED> et les incorporer délicatement à l'appareil au <INGRED>chocolat</INGRED> <INGRED>.</INGRED> Verser la mousse dans des coupes individuelles et les placer au frigo <INGRED>.</INGRED> Vous pouvez si vous le souhaitez ajouter à la fin de la recette de la créme fraiche ( 30 gr).La faire la veille <INGRED>,</INGRED> il faut le temps de la laisser prendre <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 7.0*X + 7.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 4*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['chocolat']	 id:1	 quantité:160	 unité:gr de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:2	 quantité:30	 unité:gr de	 denombrable:False	 recipient:1
+ingredient:['50 de sucre', '50']	 id:3	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['s']	 id:4	 quantité:1	 unité:c à	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:5	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:fondre	 id:o_1	 ingrédients_ralatifs:['4', '3']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:tiedir	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:séparer	 id:o_3	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_4	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:incorporer	 id:o_7	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:fouetter	 id:o_9	 ingrédients_ralatifs:['3', '4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:incorporer	 id:o_10	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:prendre	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

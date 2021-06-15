@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25228">
+  <titre>Gâteau au potiron</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de potiron frais</p>
+    <p>100 g de farine</p>
+    <p>100 g de sucre</p>
+    <p>2 oeufs</p>
+    <p>50 g de beurre</p>
+    <p>1 pt de sucre vanillé</p>
+    <p>1/2 pt de levure chimique</p>
+    <p>1/2 verre de crème fraîche</p>
+    <p>100 g de noix de coco râpée </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer d'abord le potiron. Découpez-le en petits dés et faire cuire à la vapeur jusqu'à ce que cela devienne une purée de potiron. Réservez. 
+    Mélanger la farine, la moitié du sucre, la levure et le sucre vanillé. 
+    Faire fondre le beurre. 
+    Ajoutez beurre, farine, jaunes d'oeufs, crème fraîche et purée de potiron. Mélangez énergiquement. 
+    Battre les blancs en neige avec une partie du sucre en poudre et incorporez à la pâte. 
+    Incorporez avec délicatesse la noix de coco sans briser le volume avec une cuillère en acier. 
+    Versez la pâte dans un moule beurré et laissez cuire au four pendant 40 mn (Th 6)
+  ]]>
+  </preparation>
+</recette>

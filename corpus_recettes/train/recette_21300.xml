@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21300">
+  <titre>Gâteau de chou-fleur et pomme de terre</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 chou-fleur</p>
+    <p>5 pommes de terre</p>
+    <p>50 g de beurre</p>
+    <p>4 œufs</p>
+    <p>noix de muscade</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer le chou, puis le séparer en bouquets pour le faire cuire 20 minutes dans l’eau bouillante salée.
+    Peler les pommes de terre puis les mettre à cuire dans une grande casserole d’eau bouillante.
+    Préchauffer le four à 180°C (thermostat 6).
+    Egoutter le chou-fleur et les pommes de terre, puis les réduire en purée.
+    Ajouter le beurre en morceaux dans la purée avec le sel, la noix de muscade et le poivre puis bien mélanger le tout.
+    Dans un saladier, battre les œufs en omelette.
+    Les incorporer à la purée puis verser la préparation dans un moule à manqué beurré.
+    Enfourner pour 20 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

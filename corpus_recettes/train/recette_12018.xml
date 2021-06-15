@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12018">
+  <titre>Gâteau de semoule à l'abricot</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 litre de lait</p>
+    <p>25 morceaux de sucre</p>
+    <p>10 cuillères à soupe de semoule</p>
+    <p>2 oeufs</p>
+    <p>caramel</p>
+    <p>confiture d'abricot</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir le lait. Juste avant l'ébullition, ajouter la semoule en pluie, remuer et laisser cuire 5 minutes sans cesser de remuer.
+    Hors du feu, ajouter les 2 oeufs entiers et remuer.
+    Dans un moule (à flan) bien caramélisé, verser la moitié de la semoule, recouvrir d'une couche généreuse de  confiture d'abricot, et terminer par le reste de semoule.
+    Laisser refroidir dans le moule.
+    Démouler juste avant de servir.
+    Rapide (5 minutes de cuisson).Le mélange caramel et confiture d'abricot est succulent ! 
+  ]]>
+  </preparation>
+</recette>

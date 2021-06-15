@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18150">
+  <titre>Tarte aux prunes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte sablée ou brisée</p>
+    <p>800 g prunes dénoyautées (quetsches ou mirabelles)</p>
+    <p>du miel liquide</p>
+    <p>sucre vanillé</p>
+    <p>le jus d'1/2 citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Beurrer un moule à tarte. Abaisser la pâte au fond du moule.
+    Piquer le fond avec une fourchette. Recouvrir de papier sulfurisé ou aluminium et y déposer du riz ou des noyaux (pour que la pâte ne gonfle pas). Faire cuire 5 ou 10 mn (selon votre four) à four chaud (il faut que la pâte cuise mais ne brunisse pas).
+    Dénoyauter les prunes et les arroser légèrement de jus de citron.
+    Tartiner le fond de tarte de miel liquide. Déposer les prunes peau vers le bas et saupoudrez légèrement de sucre vanillé (le sucre fait dégorger les prunes de sirop et le miel est déjà très sucré).
+    Faire cuire à four chaud (180-200°C) environ 20 mn (il faut que les prunes dorent mais ne brunissent pas).
+    Dosez le miel en fonction de l'acidité de vos prunes
+    Avec les prunes du jardin et du miel régional, c'est encore meilleur.
+  ]]>
+  </preparation>
+</recette>

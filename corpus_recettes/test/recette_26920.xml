@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26920">
+  <titre>Steak haché au coulis de tomate et aux olives</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de boeuf haché</p>
+    <p>1 oeuf</p>
+    <p>2 oignons</p>
+    <p>3 tomates</p>
+    <p>4 cuillères à soupe d'huile</p>
+    <p>1 gousse d'ail</p>
+    <p>1 bouquet garni</p>
+    <p>1 poivron rouge à l'huile</p>
+    <p>50 g d'olives</p>
+    <p>1 pincée de thym</p>
+    <p>25 g de farine</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et émincer les oignons, laver et couper grossièrement les tomates et les poivrons. Enfin, blanchir les olives quelques minutes dans de l'eau bouillante. Faire fondre les oignons émincés dans 2 cuillères à soupe d'huile d'olive. Ajouter les tomates concassées, l'ail haché et le bouquet garni. Laisser mijoter 40 minutes puis incorporer les olives et le poivron.Mélanger la viande à l'oeuf entier et assaisonner de thym, de sel et de poivre. Former 4 steaks et les passer dans la farine.
+    Faire cuire les steaks dans un peu d'huile chaude jusqu'à la cuisson désirée et les servir nappés de sauce.
+  ]]>
+  </preparation>
+</recette>

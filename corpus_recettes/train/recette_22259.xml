@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22259">
+  <titre>Pizza franc-comtoise</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte à pizza</p>
+    <p>1 petit pot de crème</p>
+    <p>2 pommes de terre (cuites à la vapeur) </p>
+    <p>1 boîte de lardons</p>
+    <p>champignons frais</p>
+    <p>1 pot de cancoillotte</p>
+    <p>mozzarella à pizza</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre la crème fraîche sur la pâte. Découper les pommes de terre en rondelles. Ajouter le lard, des champignons émincés. Ajouter quatre bonnes cuillères à soupe de cancoillotte réparties sur la pizza, puis la mozzarella. 
+    Faire cuire à 200°C, 20 min.
+     vin blanc d'Alsace
+  ]]>
+  </preparation>
+</recette>

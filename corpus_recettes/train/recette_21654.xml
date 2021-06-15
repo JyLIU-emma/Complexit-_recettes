@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21654">
+  <titre>Carpaccio de dinde</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 escalopes de dinde</p>
+    <p>2 citrons</p>
+    <p>baies roses</p>
+    <p>1 cuillère à café de graines de coriandre grillées écrasées </p>
+    <p>1 cuillère à café d'huile d'olive </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire des tranches fines de viande, les disposer dans un plat à fond creux. 
+    Mélanger les jus de citron, l'huile d'olive, une pincée de sel, la coriandre, les baies. Verser le tout sur la viande (celle-ci doit être recouverte du jus). Laisser mariner au frigo jusqu'à ce que la viande soit cuite (c'est à dire qu'elle devienne blanche).
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21638">
+  <titre>Flan aux raisins parfumé au cognac</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>150 g de farine</p>
+    <p>100 g de sucre</p>
+    <p>3 oeufs</p>
+    <p>30 cl de lait</p>
+    <p>100 g de raisins secs</p>
+    <p>5 cl de cognac</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>le zeste d'un citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites macérer les raisins dans le cognac et un peu d'eau chaude au moins 20 min.
+    Tamisez la farine, mélangez-la avec les oeufs, les sucres et le zeste de citron.
+    Ajoutez le lait peu à peu en remuant bien, puis les raisins égouttés et essuyés.
+    Versez dans un moule à tarte ou rectangulaire beurré et faites cuire 25 minutes au four à 200°C (thermostat 6-7).
+  ]]>
+  </preparation>
+</recette>

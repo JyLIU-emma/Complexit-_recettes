@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26669">
+  <titre>Poulet coco ananas</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 blancs de poulet</p>
+    <p>1 oignon moyen</p>
+    <p>1 boîte de lait de coco (400 ml) </p>
+    <p>1 boîte d'ananas au sirop léger</p>
+    <p>2 cuillers à soupe de curry</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer l'oignon, le faire revenir dans de l'huile dans une grande poêle (ou wok). 
+    Ajouter l'ananas, faire un peu caraméliser, puis ajouter le lait de coco. Laisser mijoter 5 mn. 
+    Ajouter enfin le poulet émincé et le curry, laisser cuire 10 mn. Assaisonner à votre goût.
+    On peut aussi réaliser cette recette en remplacant le poulet par du porc et l'ananas par de l'aubergine.
+  ]]>
+  </preparation>
+</recette>

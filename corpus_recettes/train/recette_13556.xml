@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13556">
+  <titre>Millassine</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 oeufs</p>
+    <p>1/2 litre de lait</p>
+    <p>130 g de sucre</p>
+    <p>130 g de farine</p>
+    <p>1 pincée de sel</p>
+    <p>1 paquet de sucre vanillé</p>
+    <p>3 cuillères à soupe de rhum</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger dans un saladier la farine, le sel, les oeufs. Ajouter le sucre, le sucre vanillé, le rhum.
+    Incorporer le lait chaud.
+    Verser dans un moule beurré et cuire 30 mn à 200°C.
+    Très facile et très simple, c'est un régal.
+  ]]>
+  </preparation>
+</recette>

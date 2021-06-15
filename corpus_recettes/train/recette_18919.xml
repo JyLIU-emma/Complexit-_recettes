@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18919">
+  <titre>Tian d’aubergine et CARRÉ CUISINE</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 paquet de lamelles d'aubergines grillées surgelées (ou 2 petites aubergines fraîches)</p>
+    <p>1 fromage frais CARRÉ CUISINE</p>
+    <p>400 g de sauce tomate (1 boîte)</p>
+    <p>4 cuillères à soupe de parmesan râpé</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>1 cuillère à café de marjolaine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 200°C, thermostat 6/7.
+    Faites décongeler les lamelles sur un papier absorbant.
+    Coupez le CARRÉ CUISINE en 10 bâtonnets et enroulez-les dans une lamelle d'aubergine.
+    Disposez dans un plat préalablement huilé et recouvrez de sauce tomate.
+    Saupoudrez avec le parmesan râpé. Laissez cuire environ 20 min.
+    Pour utiliser les aubergines fraîches, arrosez les lamelles d’aubergines d’huile d’olive et grillez-les au four ou sautez-les à la poêle.
+    Variante : utilisez des lamelles de courgettes, cuites 1 minute dans de l'eau bouillante salée pour les attendrir.
+  ]]>
+  </preparation>
+</recette>

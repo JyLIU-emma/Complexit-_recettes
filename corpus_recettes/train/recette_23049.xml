@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23049">
+  <titre>Ajo blanco (Espagne)</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g amandes mondées</p>
+    <p>150 g pain de mie sans la croûte</p>
+    <p>2 gousses ail</p>
+    <p>15 cl huile olive</p>
+    <p>1 cuillère à soupe vinaigre Xéres</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre le pain de mie à tremper dans de l'eau 30 mn. Egoutter. 
+    Mixer amandes et pain de mie et sel, rajouter l'huile et le vianigre. 
+    Ajouter 1 l d'eau froide et remixer. 
+    Réfrigérer.
+  ]]>
+  </preparation>
+</recette>

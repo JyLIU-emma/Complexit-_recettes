@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="818">
+  <titre>Salade de pâtes au Carré Frais</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de pâtes papillon</p>
+    <p>1 Carré Frais (75 g)</p>
+    <p>ciboulette</p>
+    <p>vinaigre balsamique</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les pâtes, puis les égoutter.
+    Faire fondre le Carré Frais dans la casserole, à feu très doux... Puis ajouter de la ciboulette selon votre goût.
+    Ajouter les pates et mélanger.
+    Servir frais avec un trait de vinaigre balsamique.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Cuire</OPER> les <INGRED id="1">pâtes</INGRED>, puis les <OPER id="o_2">égoutter</OPER>. Faire <OPER id="o_3">fondre</OPER> le <INGRED id="3">Carré Frais</INGRED> dans la casserole, à feu très doux... Puis <OPER id="o_4">ajouter</OPER> de la <INGRED id="5">ciboulette</INGRED> selon votre goût. <OPER id="o_5">Ajouter</OPER> les pates et <OPER id="o_6">mélanger</OPER>. Servir frais avec un trait de <INGRED id="4">vinaigre balsamique</INGRED>.
+  </annotation>
+  <annotation methode="crf">
+  Cuire les <INGRED>pâtes</INGRED> <INGRED>,</INGRED> puis les égoutter <INGRED>.</INGRED> Faire fondre le <INGRED>Carré</INGRED> <INGRED>Frais</INGRED> dans la casserole <INGRED>,</INGRED> à feu très doux... Puis ajouter de la <INGRED>ciboulette</INGRED> selon votre goût <INGRED>.</INGRED> Ajouter les pates et mélanger. Servir <INGRED>frais</INGRED> avec un trait de <INGRED>vinaigre balsamique</INGRED> <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 1.0*X + 5.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pâtes papillon', 'pâtes']	 id:1	 quantité:400	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['Carré Frais', 'Carré']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['ciboulette']	 id:3	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['vinaigre balsamique', 'vinaigre']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:cuire	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:égoutter	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fondre	 id:o_3	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:ajouter	 id:o_4	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+]]>
+</operation_trouve>
+</recette>

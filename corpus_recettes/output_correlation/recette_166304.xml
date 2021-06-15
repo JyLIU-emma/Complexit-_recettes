@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166304">
+  <titre>Blanquette de saumon et moules</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>850 g de filet de saumon</p>
+    <p>800 g de moules</p>
+    <p>100 cl de court bouillon</p>
+    <p>30 g de beurre</p>
+    <p>15 cl de crème épaisse</p>
+    <p>1 jaune d'oeuf</p>
+    <p>30 g de farine</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyez les moules et faites-les ouvrir dans une marmite avec une louche de court bouillon. Reversez ensuite le jus de cuisson dans le reste de court bouillon et décortiquez les moules.
+    Détaillez le saumon en cubes et faites dorer ces derniers 3 minutes au beurre dans une sauteuse. Ensuite, farinez, mouillez avec le court bouillon et laissez mijotez 15 minutes. Retirez le poisson cuit.
+    Battez le jaune d’œuf avec la crème et 1 louche du court bouillon, puis versez le tout dans la sauteuse. Remettez le saumon, ajoutez les moules, salez, poivrez et poursuivez la cuisson 5 minutes sans bouillir.
+    Servez cette blanquette avec du riz
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Nettoyez</OPER> les <INGRED id="8">moules</INGRED> et faites - les <OPER id="o_2">ouvrir</OPER> dans une marmite avec une louche de <INGRED id="3">court bouillon</INGRED>. <OPER id="o_3">Reversez</OPER> ensuite le <INGRED id="2">jus</INGRED> de cuisson dans le <INGRED id="1">reste</INGRED> de <INGRED id="3">court bouillon</INGRED> et <OPER id="o_4">décortiquez</OPER> les moules. <OPER id="o_5">Détaillez</OPER> le saumon en cubes et faites <OPER id="o_6">dorer</OPER> ces derniers 3 minutes au <INGRED id="5">beurre</INGRED> dans une sauteuse. Ensuite, <OPER id="o_7">farinez</OPER>, mouillez avec le <INGRED id="3">court bouillon</INGRED> et laissez <OPER id="o_8">mijotez</OPER> 15 minutes. <OPER id="o_9">Retirez</OPER> le poisson cuit. <OPER id="o_10">Battez</OPER> le jaune d’ <INGRED id="5">œuf</INGRED> avec la crème et 1 louche du <INGRED id="3">court bouillon</INGRED>, puis <OPER id="o_11">versez</OPER> le tout dans la sauteuse. <OPER id="o_12">Remettez</OPER> le saumon, ajoutez les <INGRED id="2">moules</INGRED>, salez, <OPER id="o_13">poivrez</OPER> et poursuivez la cuisson 5 minutes sans <OPER id="o_14">bouillir</OPER>. Servez cette blanquette avec du <INGRED id="3">riz</INGRED>
+  </annotation>
+  <annotation methode="crf">
+  Nettoyez les <INGRED>moules</INGRED> et faites - les ouvrir dans une marmite avec une louche de court <INGRED>bouillon</INGRED> <INGRED>.</INGRED> Reversez ensuite le <INGRED>jus</INGRED> de cuisson dans le <INGRED>reste</INGRED> de court <INGRED>bouillon</INGRED> et décortiquez les <INGRED>moules</INGRED> <INGRED>.</INGRED> Détaillez le <INGRED>saumon</INGRED> en cubes et faites dorer ces derniers 3 minutes au <INGRED>beurre</INGRED> dans une sauteuse <INGRED>.</INGRED> Ensuite <INGRED>,</INGRED> farinez <INGRED>,</INGRED> mouillez avec le court <INGRED>bouillon</INGRED> et laissez mijotez 15 minutes. Retirez le <INGRED>poisson</INGRED> cuit. Battez le <INGRED>jaune</INGRED> d’ <INGRED>œuf</INGRED> avec la <INGRED>crème</INGRED> et 1 louche du court <INGRED>bouillon</INGRED> <INGRED>,</INGRED> puis versez le tout dans la sauteuse <INGRED>.</INGRED> Remettez le <INGRED>saumon</INGRED> <INGRED>,</INGRED> ajoutez les <INGRED>moules</INGRED> <INGRED>,</INGRED> salez <INGRED>,</INGRED> poivrez et poursuivez la cuisson 5 minutes sans bouillir <INGRED>.</INGRED> Servez cette blanquette avec du <INGRED>riz</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 1.55555555555556*X + 12.4444444444444</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = X + 11</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['filet de saumon', 'filet']	 id:1	 quantité:850	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['moules']	 id:2	 quantité:800	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['court bouillon', 'bouillon']	 id:3	 quantité:100	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:4	 quantité:30	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crème épaisse', 'crème']	 id:5	 quantité:15	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:["jaune d'oeuf", 'jaune']	 id:6	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['farine']	 id:7	 quantité:30	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:nettoyer	 id:o_1	 ingrédients_ralatifs:['8', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ouvrir	 id:o_2	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reverser	 id:o_3	 ingrédients_ralatifs:['2', '1', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:décortiquer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:détailler	 id:o_5	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dorer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:fariner	 id:o_7	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:retirer	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_10	 ingrédients_ralatifs:['5', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remettre	 id:o_12	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:poivrer	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:bouillir	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+]]>
+</operation_trouve>
+</recette>

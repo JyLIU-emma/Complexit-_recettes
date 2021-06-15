@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="112817">
+  <titre>Gourmandise choco/banane</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>une banane</p>
+    <p>5 cuillères à café de chocolat en poudre (ou 3 cuillères à soupe)</p>
+    <p>250 g de fromage blanc</p>
+    <p>50 g de chocolat noir pillé/râpé ou de pépites de chocolat</p>
+    <p>20 g de sucre de cassonade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Ecraser la banane et la mélanger au sucre jusqu'à obtenir un mélange homogène et souple2) Mélanger le fromage blanc et le chocolat en poudre, puis rajouter la "pâte de banane" et les pépites de chocolat3) Remuer jusqu'à ce que ce soit souple et fluidifié4) Mettre au réfrigérateur de une bonne heure avant de servir
+    Bon appétit !On peut faire "moit-moit" avec 25 g de pépites de chocolat et 25 g de copeaux de coco
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  1 ) <OPER id="o_1">Ecraser</OPER> la <INGRED id="1">banane</INGRED> et la <OPER id="o_2">mélanger</OPER> au <INGRED id="3">sucre</INGRED> jusqu'à obtenir un mélange homogène et souple2 ) <OPER id="o_3">Mélanger</OPER> le <INGRED id="3">fromage blanc</INGRED> et le <INGRED id="2">chocolat en poudre</INGRED>, puis <OPER id="o_4">rajouter</OPER> la " pâte de <INGRED id="1">banane</INGRED> " et les pépites de chocolat3 ) <OPER id="o_5">Remuer</OPER> jusqu'à ce que ce soit souple et fluidifié4 ) <OPER id="o_6">Mettre</OPER> au réfrigérateur de une bonne heure avant de servir Bon appétit ! On peut faire " moit - moit " avec 25 g de pépites de <INGRED id="4">chocolat</INGRED> et 25 g de copeaux de coco
+  </annotation>
+  <annotation methode="crf">
+  1 ) Ecraser la <INGRED>banane</INGRED> et la mélanger au <INGRED>sucre</INGRED> jusqu'à obtenir un <INGRED>mélange</INGRED> homogène et souple2 ) Mélanger le <INGRED>fromage</INGRED> <INGRED>blanc</INGRED> et le <INGRED>chocolat en poudre</INGRED> <INGRED>,</INGRED> puis rajouter la " <INGRED>pâte</INGRED> de <INGRED>banane</INGRED> " et les pépites de chocolat3 ) Remuer jusqu'à ce que ce soit souple et fluidifié4 ) Mettre au réfrigérateur de une bonne heure avant de servir Bon appétit ! On peut faire " moit - moit " avec 25 <INGRED>g</INGRED> de pépites de <INGRED>chocolat</INGRED> et 25 <INGRED>g</INGRED> de <INGRED>copeaux</INGRED> de coco
+  </annotation>
+  <complexite>
+    <temps>f(X) = 3.33333333333333*X + 2.66666666666667</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 5*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['banane']	 id:1	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['chocolat en poudre', 'chocolat']	 id:2	 quantité:5	 unité:cuillères à café de	 denombrable:True	 recipient:5*X
+ingredient:['fromage blanc', 'fromage']	 id:3	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['chocolat noir pillé-râpé', 'chocolat']	 id:4	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre de cassonade', 'sucre']	 id:5	 quantité:20	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:ecraser	 id:o_1	 ingrédients_ralatifs:['1', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_2	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:['1', '3', '3', '2', '1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:rajouter	 id:o_4	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

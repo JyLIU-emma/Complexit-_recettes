@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17327">
+  <titre>Papillotes de volaille légères au muscat</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 carottes (déjà cuites)</p>
+    <p>100 g de haricots verts (déjà cuits)</p>
+    <p>2 escalopes de dinde (ou de poulet)</p>
+    <p>2 cuillères à café de crème allégée (ou non, au choix)</p>
+    <p>2 cuillères à soupe de muscat</p>
+    <p>de la noix de muscade rapée (au goût)</p>
+    <p>persil et ciboulette hachés</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C.
+    Tartiner des deux côtés chaque escalope avec une cuillère à café de crème.
+    Déposer chacune sur une feuille de papier aluminium. Parsemer de petits morceaux de carottes et de haricots verts déjà cuits.
+    Saupoudrer avec le persil et la ciboulette hachés.
+    Ajouter la noix de muscade rapée. Saler et poivrer. Verser une cuillère à soupe de muscat par papillote.
+    Refermer les papillotes et les placer dans un plat allant au four.
+    Cuire 30 à 40 min à 200/250°C.
+    N.B:pour éviter que le plat noircisse, on peut y verser un filet d'eau.
+  ]]>
+  </preparation>
+</recette>

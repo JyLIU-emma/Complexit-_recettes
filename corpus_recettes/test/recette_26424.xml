@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26424">
+  <titre>Cocotte de chou farci aux restes de viandes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 beaux choux</p>
+    <p>4 cuillères à soupe d’huile d’olive</p>
+    <p>Pour la farce :</p>
+    <p>500 de feuilles de blettes</p>
+    <p>200 g de persil</p>
+    <p>1 gros oignon</p>
+    <p>2 gousses d’ail</p>
+    <p>300 g de reste de viande</p>
+    <p>200 g de lard de poitrine demi-sel </p>
+    <p>5 œufs</p>
+    <p>-150 g de farine</p>
+    <p>15 cl de lait</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer, effeuiller les choux et blanchir le lard en le trempant la lard de poitrine 5 min dans l’eau bouillante.
+    Préparer ensuite la farce en disposant les feuilles de blettes, le persil, l’oignon pelé, l’ail, les restes de viande et la poitrine fumée dans le mixeur.
+    Hacher le tout puis incorporer les œufs entiers, la farine et le lait.
+    Saler, poivrer et remixer la farce jusqu’à ce qu’elle soit parfaitement ferme.
+    Dans une cocotte huilée, tapisser le fond de feuilles de choux puis alterner entre la farce et le chou.
+    Laisser cuire à feu très doux pendant 30 à 40 min dans la cocotte.
+  ]]>
+  </preparation>
+</recette>

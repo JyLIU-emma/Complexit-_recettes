@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24232">
+  <titre>Fraîcheur de crevettes et poireaux à l'aneth</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de crevettes roses cuites et décortiquées</p>
+    <p>4 poireaux</p>
+    <p>6 de tomates cerises</p>
+    <p>250 g de fromage blanc</p>
+    <p>3 cuillères à soupe d'aneth ciselée</p>
+    <p>le jus d'1/2 citron</p>
+    <p>1 cuillère à soupe de moutarde</p>
+    <p>1 cuillère à café de vinaigre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et faire cuire les poireaux à la vapeur ou à l'eau bouillante salée environ 20 min. Les égoutter et couper en rondelles, laisser bien égoutter et refroidir sur un linge.
+    Préparer la sauce avec le fromage blanc, de vinaigre, de la moutarde, le jus du demi-citron, l'aneth, sel et poivre. 
+    Verser sur les morceaux de poireaux, ajouter les crevette et mélanger délicatement.
+    Répartir dans 4 bols, disposer quelques tomates cerises dessus, saupoudrer d'aneth et servir.
+    Vous pouvez préparer cette salade à l'avance et réserver au frais jusqu'au service.
+  ]]>
+  </preparation>
+</recette>

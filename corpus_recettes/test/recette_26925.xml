@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26925">
+  <titre>Daurade au vin blanc et aux raisins</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 daurade</p>
+    <p>1 jaune d'oeuf</p>
+    <p>20 cl de vin blanc moelleux</p>
+    <p>1 bouquet garni</p>
+    <p>1 poignée de raisins blancs</p>
+    <p>1 cuillère à soupe de crème fraîche épaisse</p>
+    <p>500 g de raisins secs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer et vider la daurade. La farcir de raisins pelés et assaisonner.
+    Placer la daurade dans une terrine beurrée et verser le vin blanc. Ajouter le bouquet garni et enfourner pendant 25 min à 210°C (thermostat 7) en mouillant le poisson de son jus régulièrement.
+    Réserver le poisson au chaud et filtrer la sauce. Y incorporer le jaune d'oeuf et la crème fraîche. Assaisonner et ajouter les raisins secs. Faire chauffer à feu doux et servir avec le poisson.
+  ]]>
+  </preparation>
+</recette>

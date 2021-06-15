@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22051">
+  <titre>Rouleaux de crêpes au miel et aux amandes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>18 crêpes</p>
+    <p>225 g d'amandes</p>
+    <p>miel ou sirop d'érable</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Réchauffer les crêpes dans une poêle beurrée.
+    Tartiner les crêpes de miel et les saupoudrer des amandes préalablement concassées.
+    Enrouler et servir.
+    Vous pouvez remplacer les amandes par du pralin, mélangé à 100 g de beurre et parfumé au Grand Marnier. Garnissez-en les crêpes et passez-les 30 secondes au gril du four.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20651">
+  <titre>Succès à la crème pralinée</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>100 g d'amandes en poudre</p>
+    <p>100 g de sucre glace</p>
+    <p>125 g de sucre semoule</p>
+    <p>6 blancs d'oeufs</p>
+    <p>1 pincée de sel</p>
+    <p>Pour la crème : </p>
+    <p>3 jaunes d'oeufs</p>
+    <p>100 g de sucre semoule</p>
+    <p>250 g de beurre</p>
+    <p>5 cuillères à soupe de praliné en poudre délayé dans 1 cuillère à soupe d'eau</p>
+    <p>amandes effilées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 100°C (thermostat 3-4).
+    Préparez le biscuit : montez les blancs en neige avec le sel puis ajoutez progressivement les sucres et la poudre d'amande. Mettez la préparation dans une poche à douille à bord lisse.
+    Beurrez généreusement 2 feuilles de papier sulfurisé. A l'aide de la poche à douille réalisez deux cercles de même dimension. 
+    Faites cuire ces meringues pendant 2 heures. Laissez refroidir puis décollez. 
+    Préparez la crème pralinée : fouettez les jaunes d'oeufs avec le sucre au bain-marie jusqu'à ce que le sucre soit dissous. Hors du feu ajoutez le beurre mou puis le pralin. Laissez refroidir au réfrigérateur.
+    Déposez un biscuit sur le plat de service, garnissez de crème pralinée puis posez le deuxième biscuit dessus. Décorez de sucre glace et d'amandes effilées. 
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19201">
+  <titre>Fondue bacchus</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Compter environ 250 g de viande par personne :</p>
+    <p>viande de boeuf</p>
+    <p>viande de cheval</p>
+    <p>viande d'autruche</p>
+    <p>viande de poulet</p>
+    <p>viande de dinde(Toutes les viandes seront coupées très finement)Pour un caquelon :</p>
+    <p>6 dl de vin blanc</p>
+    <p>2 dl de vin rouge</p>
+    <p>2 dl de bouillon de légumes</p>
+    <p>2 gros oignons rouges</p>
+    <p>persil ou persil plat</p>
+    <p>bolet séché</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les bolets séchés dans de l'eau environ 10 mn pour les faire gonfler. 
+    Couper les oignons en lamelles. 
+    Couper grossièrement le persil. 
+    Mettre le vin blanc, le bouillon et le vin rouge dans le caquelon. 
+    Egoutter les bolets. 
+    Ajouter les oignons coupés, les bolets et le persil. Porter le tout à ébullition. 
+    Laisser mijoter à feu doux environ 15 mn. Accompagnez de sauces similaires à la fondue chinoise. Peut être servi avec du riz ou des frites et avec une salade de carotte, de céleri ou une salade russe,Selon votre envie, vous pouvez varier la quantité d'oignon et de bolet. Vin rouge 
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21008">
+  <titre>Crêpes fourrées banane-coco</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de sucre</p>
+    <p>130 g de beurre</p>
+    <p>100 g de noix de coco râpée</p>
+    <p>100 g de crème fraîche</p>
+    <p>50 g de farine</p>
+    <p>9 oeufs</p>
+    <p>8 crêpes</p>
+    <p>4 bananes</p>
+    <p>50 cl de lait</p>
+    <p>5 cl de rhum</p>
+    <p>vanille liquide </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire infuser la noix de coco râpée dans le lait pendant 2 h et tamiser le lait.
+    Dans un saladier, blanchir 2 jaunes d'œufs avec 100 g de sucre et ajouter la farine et un oeuf. 
+    Porter le lait à ébullition avec le sel et le verser dans la préparation, tout en remuant.
+     
+    Remettre le tout dans la casserole et porter à ébullition sans cesser de remuer, jusqu’à épaississement. Parfumer de quelques gouttes de vanille et laisser refroidir. 
+    Couper les bananes dans le sens de la longueur et les faire revenir dans une poêle avec 20 g de beurre.
+    Dans un saladier, mélanger 6 jaunes d'œufs, 100 g de beurre en pommade, la crème fraîche, le reste de sucre et le rhum.  Faire cuire au bain-maie en fouettant sans cesse.
+    Beurrez un plat à four.
+    Recouvrir les crêpes de crème pâtissière et y déposer un morceaux de banane. Rouler les crêpes et les placer dans un plat beurré.
+    Napper de crème et enfourner à 210° (thermostat 7) pendant 10 min, puis 2 min position grill.
+  ]]>
+  </preparation>
+</recette>

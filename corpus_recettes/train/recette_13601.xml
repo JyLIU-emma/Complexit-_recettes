@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13601">
+  <titre>Le suisse</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,250 kg de farine</p>
+    <p>500 g de sucre poudre</p>
+    <p>200 g d'oranges confites</p>
+    <p>500 g de végétaline fondue froide</p>
+    <p>7 œufs</p>
+    <p>2 sachets de levure</p>
+    <p>1 sachet de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire la pâte la veille !Mélanger tous les ingrédients.
+    Laisser reposer une nuit à température ambiante.
+    Aplatir la pâte et former les suisses (bonhommes).Décorer avec des raisins secs, mettre au four pendant 30 mn à thermostat 5/6, puis arrêter le four et y laisser le suisse 20 mn.
+  ]]>
+  </preparation>
+</recette>

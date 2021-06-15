@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19386">
+  <titre>Tarte au fromage blanc</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1/4 de crème fraîche</p>
+    <p>1 kg de fromage blanc</p>
+    <p>2 paquets de pudding à la vanille</p>
+    <p>1 paquet de sucre vanillé</p>
+    <p>1 pincée de levure chimique</p>
+    <p>300 g de sucre en poudre</p>
+    <p>3 ou 4 oeufs (blancs en neige) </p>
+    <p>1 peu de chapelure</p>
+    <p>cannelle moulue</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez le sucre et les jaunes d'oeufs, ajoutez le sucre vanillé, le pudding et la levure. 
+    Fouettez le tout, puis ajoutez la crème, le fromage blanc et les blancs d'oeufs. 
+    Beurrez un moule à manqué, saupoudrez-le de chapelure, versez la préparation et saupoudrez de cannelle. 
+    Enfournez pendant 50 min à 180°C (thermostat 6). 
+    Laissez refroidir au four, puis démoulez 12 h après.
+  ]]>
+  </preparation>
+</recette>

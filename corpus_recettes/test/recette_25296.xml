@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25296">
+  <titre>Gâteau brioché à la crème d’amandes</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>350 g de farine</p>
+    <p>15 g de levure de boulanger fraîche (en cube)</p>
+    <p>100 g de beurre</p>
+    <p>175 g de sucre</p>
+    <p>25 cl lait</p>
+    <p>1 oeuf</p>
+    <p>125 g d'amandes entières</p>
+    <p>250 g de crème fraîche (30 cl)</p>
+    <p>1 pincée de cannelle </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparation de la pâte :
+    Faire tiédir le lait.
+    Délayer la levure dans un peu de lait.
+    Tamiser la farine dans un saladier puis ajouter la levure, l'oeuf, le reste du lait, 50 g de beurre et 50 g de sucre.
+    Pétrir la pâte à la main, mettre en boule, recouvrir d'un linge et laisser lever dans un endroit tiède (four à 30°C par exemple) jusqu'à ce qu'elle ait doublé de volume, environ 1 h.
+    Préparation de la crème d’amandes : 
+    Dans une casserole, mettre 50 g de beurre, 125 g de sucre, les amandes entières et la crème fraîche.
+    Faire épaissir le mélange à feu doux pendant 15 min.
+    Etendre la pâte qui a levé au rouleau en un rectangle sur une tôle farinée.
+    Etaler la crème sur la pâte et faire cuire le gâteau à 180°C (thermostat 6) pendant 20 à 25 min.
+  ]]>
+  </preparation>
+</recette>

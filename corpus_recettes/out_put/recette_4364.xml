@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="4364">
+  <titre>Cheesecake au Carré Frais</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6/7 palets bretons</p>
+    <p>2/3 cuillères à soupe de lait</p>
+    <p>8 Carrés Frais</p>
+    <p>1 oeuf entier</p>
+    <p>100 g de sucre</p>
+    <p>100 g de fromage blanc</p>
+    <p>1 citron pressé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Ecraser les palets bretons (à la fourchette ou au mixeur), ajouter le lait, et bien mélanger le tout. Tapisser le fond d'un moule avec cette pâte, et mettre au four 5 min.
+    Pendant ce temps, mélanger les Carrés Frais, le fromage blanc, et le sucre. Ajouter l'oeuf et le citron pressé. Bien battre l'ensemble, pour obtenir une préparation lisse.
+    Verser cette préparation sur la pâte à base de palets bretons.
+    Mettre au four 30 à 35 minutes (surveiller bien la cuisson).
+    A mettre au minimum 3 ou 4 h au frigo, avant de déguster. Mais c'est encore meilleur, préparé la veille + 1 nuit au frigo.
+    A déguster bien frais, on peut servir les parts avec un coulis de fruits rouges.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Préchauffer</OPER> le four à 180 ° C ( thermostat 6 ). <OPER id="o_2">Ecraser</OPER> les <INGRED id="1">palets bretons</INGRED> ( à la fourchette ou au mixeur ), <OPER id="o_3">ajouter</OPER> le <INGRED id="6">lait</INGRED>, et bien <OPER id="o_4">mélanger</OPER> le tout. <OPER id="o_5">Tapisser</OPER> le fond d'un moule avec cette <INGRED id="1">pâte</INGRED>, et <OPER id="o_6">mettre</OPER> au four 5 min. Pendant ce temps, <OPER id="o_7">mélanger</OPER> les <INGRED id="2">Carrés Frais</INGRED>, le <INGRED id="3">fromage blanc</INGRED>, et le <INGRED id="4">sucre</INGRED>. <OPER id="o_8">Ajouter</OPER> l'<INGRED id="4">oeuf</INGRED> et le <INGRED id="7">citron pressé</INGRED>. Bien <OPER id="o_9">battre</OPER> l'ensemble, pour obtenir une préparation lisse. <OPER id="o_10">Verser</OPER> cette préparation sur la <INGRED id="1">pâte</INGRED> à base de <INGRED id="1">palets bretons</INGRED>. <OPER id="o_11">Mettre</OPER> au four 30 à 35 minutes ( <OPER id="o_12">surveiller</OPER> bien la cuisson ). A <OPER id="o_13">mettre</OPER> au minimum 3 ou 4 h au frigo, avant de déguster. Mais c'est encore meilleur, préparé la veille + 1 nuit au frigo. A déguster bien frais, on peut servir les parts avec un coulis de fruits rouges.
+  </annotation>
+  <annotation methode="crf">
+  Préchauffer le four à 180 ° C ( thermostat 6 ). Ecraser les palets bretons ( à la fourchette <INGRED>ou</INGRED> au mixeur ) <INGRED>,</INGRED> ajouter le <INGRED>lait</INGRED> <INGRED>,</INGRED> et bien mélanger le tout <INGRED>.</INGRED> Tapisser le <INGRED>fond</INGRED> d'un moule avec cette <INGRED>pâte</INGRED> <INGRED>,</INGRED> et mettre au four 5 min. Pendant ce temps <INGRED>,</INGRED> mélanger les <INGRED>Carrés Frais</INGRED> <INGRED>,</INGRED> le <INGRED>fromage</INGRED> <INGRED>blanc</INGRED> <INGRED>,</INGRED> et le <INGRED>sucre</INGRED>. Ajouter l'<INGRED>oeuf</INGRED> et le <INGRED>citron</INGRED> pressé <INGRED>.</INGRED> Bien battre l'ensemble <INGRED>,</INGRED> pour obtenir une préparation lisse <INGRED>.</INGRED> Verser cette préparation sur la <INGRED>pâte</INGRED> à base de palets bretons. Mettre au four 30 à 35 minutes ( surveiller bien la cuisson ). A mettre au minimum 3 <INGRED>ou</INGRED> 4 <INGRED>h</INGRED> au frigo <INGRED>,</INGRED> avant de déguster <INGRED>.</INGRED> Mais c'est encore meilleur <INGRED>,</INGRED> préparé la veille + 1 nuit au frigo <INGRED>.</INGRED> A déguster bien <INGRED>frais</INGRED> <INGRED>,</INGRED> on peut servir les parts avec un <INGRED>coulis</INGRED> de <INGRED>fruits</INGRED> rouges <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 10.1855670103093*X + 2.81443298969071</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 11*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['palets bretons', 'palets']	 id:1	 quantité:6/7	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['lait']	 id:2	 quantité:2/3	 unité:cuillères à soupe de	 denombrable:False	 recipient:1
+ingredient:['Carrés Frais', 'Carrés']	 id:3	 quantité:8	 unité:non_precis	 denombrable:True	 recipient:8*X
+ingredient:['oeuf entier', 'oeuf']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sucre']	 id:5	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['fromage blanc', 'fromage']	 id:6	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['citron pressé', 'citron']	 id:7	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préchauffer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:ecraser	 id:o_2	 ingrédients_ralatifs:['1', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_3	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:tapisser	 id:o_5	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mélanger	 id:o_7	 ingrédients_ralatifs:['2', '3', '4']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['4', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_10	 ingrédients_ralatifs:['1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:surveiller	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

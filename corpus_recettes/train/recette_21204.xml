@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21204">
+  <titre>Porc au Caramel</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de palette de porc</p>
+    <p>1 oignon</p>
+    <p>6 morceaux de sucre</p>
+    <p>2 cuillers à soupe de nuoc mam</p>
+    <p>25 cl de lait de coco</p>
+    <p>200 g de pousses de bambou en lamelles</p>
+    <p>sel poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper la viande en gros dés. 
+    Hacher l'oignon. 
+    Faire revenir la viande et l'oignon. 
+    Préparer le caramel avec le sucre et de l'eau. Lorsque le caramel prend une belle couleur brune, stopper la cuisson an ajoutant de l'eau. 
+    Verser le caramel, le lait de coco, le nuoc mam et les pousses de bambous sur la viande. 
+    Laisser mijoter à feu doux 3/4 d'heure à une heure. 
+    Servir avec du riz.
+    Plat Vietnamien
+  ]]>
+  </preparation>
+</recette>

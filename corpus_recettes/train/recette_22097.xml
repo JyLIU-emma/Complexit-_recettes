@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22097">
+  <titre>Brochettes d'agneau à la menthe</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>12 noisettes d'agneau</p>
+    <p>3 cuillerées à soupe d'huile d'olive</p>
+    <p>1/2 citron</p>
+    <p>quelques feuilles de menthe fraîche</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pressez le citron, mélangez le jus avec l'huile d'olive et la menthe hachée. Laissez mariner la viande dans ce mélange environ 2 h au réfrigérateur, retournez les morceaux de temps en temps.
+    Préchauffer le four à 160°C (Thermostat 5-6).
+    Piquez les morceaux sur des brochettes et faites-les cuire au barbecue ou au four (160°C - thermostat 5-6) environ 10 min. 
+    Salez et poivrez en fin de cuisson et servez accompagné de semoule de couscous ou riz au curry.
+  ]]>
+  </preparation>
+</recette>

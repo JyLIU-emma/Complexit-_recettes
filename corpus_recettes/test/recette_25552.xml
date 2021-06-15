@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25552">
+  <titre>Tarte coings et framboises</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>pâte brisée</p>
+    <p>4-5 coings</p>
+    <p>250 g de sucre</p>
+    <p>250 ml d'eau</p>
+    <p>250 g de framboises (si congelées, les laisser décongeler sur un papier absorbant avant utilisation) </p>
+    <p>1 dl crème</p>
+    <p>1 dl lait</p>
+    <p>3 cuillères à soupe de kirsch ou mirabelle</p>
+    <p>1 gousse de vanille</p>
+    <p>3 jaunes d'oeufs + 1 oeuf entier (éventuellement 2 s'ils sont petits) </p>
+    <p>50 g de sucre brun</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher et enlever le mileu des coings, les couper en lamelles. 
+    Faire un sirop avec l'eau et le sucre, le porter à ébullition et y plonger les coings - les laisser bouillir 3-5 mn, ils doivent rester fermes - laisser les coings refroidir. 
+    Foncer un moule à tarte avec la pâte brisée et cuire à blanc à 190°C pendant 15 mn - laisser refroidir. 
+    Mélanger les grains de la vanille, le sucre brun, les oeufs, le lait et la crème et l'alcool - fouetter pour bien homogénéïser le tout. 
+    Dans le moule, répartir les framboises - disposer les coings en cercles concentriques par dessus les framboises (même système que pour une tarte aux pommes : lamelles de fruits qui se chevauchent).  
+    Recouvrir le tout du mélange liquide et enfourner à 190°C pendant environ 45 mn.
+  ]]>
+  </preparation>
+</recette>

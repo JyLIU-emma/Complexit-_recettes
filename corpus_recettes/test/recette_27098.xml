@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27098">
+  <titre>Gâteau au noix et au café</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 oeufs</p>
+    <p>120 g de farine</p>
+    <p>100 g de sucre</p>
+    <p>150 g de beurre</p>
+    <p>15 cl de café très fort</p>
+    <p>50 g de sucre glace</p>
+    <p>50 g de noix</p>
+    <p>50 g de chocolat</p>
+    <p>250 g de fondant</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 150°C (thermostat 5).
+    Dans une casserole au bain-marie, fouettez les oeufs entiers avec le sucre jusqu'à obtention d'une mousse onctueuse assez ferme.
+    Ajoutez la farine en pluie puis 50 g de beurre fondu, une pincée de sel, ainsi que 5 cl de café. Mélangez le tout et versez dans un moule beurré et fariné.
+    Enfournez pour 40 minutes environ. Démoulez et laissez refroidir.
+    Mélangez le reste du beurre réduit en crème au sucre glace en ajoutant 5 cl de café puis les noix finement hachées.
+    Coupez le gâteau en deux, répartissez la crème sur une des moitiés, puis refermez le gâteau.
+    Faites fondre 150 g de fondant puis parfumez-en le gâteau avec le reste de café, en tartinant le dessus.
+    Faites fondre le reste du fondant avec le chocolat et étalez-le sur les côtés du gâteau, tout autour.
+    Décorez de noix entières.
+  ]]>
+  </preparation>
+</recette>

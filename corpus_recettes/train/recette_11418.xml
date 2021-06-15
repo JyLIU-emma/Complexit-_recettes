@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11418">
+  <titre>Tarte aux endives</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>40 g de beurre</p>
+    <p>5 endives moyennes</p>
+    <p>1 cuillère à café de sucre</p>
+    <p>1 cuillère à café de sel, poivre</p>
+    <p>1 pâte feuilletée</p>
+    <p>1/2 camembert</p>
+    <p>3 oeufs</p>
+    <p>200 g de crème fraîche épaisse</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer les endives, les faire revenir, sur feu vif, dans une casserole contenant le beurre fondu.
+    Saupoudrer avec le sucre et le sel.
+    Garnir un moule à tarte avec la pâte. En piquer le fond avec une fourchette.
+    Y disposer les endives et répartir dessus le demi-camembert coupé en dés.
+    Battre les oeufs en omelette avec la crème fraîche, saler et poivrer. Verser ce mélange sur les endives.
+    Enfourner 40 min environ à 190-200°C.Servir tiède.Vraiment très bon ! Peut être accompagné d'une viande. beaujolais, côte du broulli
+  ]]>
+  </preparation>
+</recette>

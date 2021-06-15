@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26598">
+  <titre>Boudin en chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de boudoirs</p>
+    <p>3 oeufs</p>
+    <p>2 cuillères à soupe de rhum ou autre alcool (eau de vie, kirsch...) </p>
+    <p>125 g de beurre fondu</p>
+    <p>1 verre ou plus de cacao super poulain</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixer grossiérement les boudoirs. Faire un puits et y incorporer les 3 oeufs battus, le beurre fondu, et l'alcool. 
+     
+    Rajouter ensuite le cacao et former une boule que vous laisserez reposer au frais environ 1 h avant de la séparer en deux pour former 2 boudins. 
+    Saupoudrer de sucre glace.
+    Servir avec une crème anglaise.
+  ]]>
+  </preparation>
+</recette>

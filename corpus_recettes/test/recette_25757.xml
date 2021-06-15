@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25757">
+  <titre>Pommes au four à la crème de marrons</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 pommes</p>
+    <p>8 marrons glacés</p>
+    <p>5 cl de Grand-Marnier</p>
+    <p>300 g de crème de marrons sucrée</p>
+    <p>1 noisette de beurre</p>
+    <p>1 cuillère à soupe de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Evider les pommes à l'aide d'un vide-pommes.
+    Les garnir d'un peu de crème de marrons et d'un marron glacé.
+    Poser les pommes dans un plat dont le fond est beurré et sucré. Faire cuire au four à 200°C (thermostat 6-7) 20 min.
+    Mélanger le reste de crème de marrons avec le Grand-Marnier, en déposer un peu sur les pommes à l'aide de la douille et poser 1 marron glacé.
+    Servir sans attendre.
+  ]]>
+  </preparation>
+</recette>

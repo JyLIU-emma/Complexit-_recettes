@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10525">
+  <titre>Poulet tandoori rouge</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 escalopes de poulet</p>
+    <p>4 cuillères à soupe d'épice Tandoori</p>
+    <p>25 cl de lait (ou de yaourt grec)</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>3 cuillères à soupe de jus de citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    A préparer la veille !Mélanger l'épice Tandoori (épice indienne rouge), le lait ou de yaourt grec, l'huile et le jus de citron.Découper les escalopes de poulet en petits morceaux (enlever le gras) et les mélanger à la préparation.
+    Laisser reposer 24h au frais.
+    Faire griller les morceaux à la poêle (ou rôtir en brochettes) et servir avec une sauce à la menthe.Facile et délicieux ! Excellent aussi avec d'autres épices (Tikka par exemple). C'est une excellente entrée, ou encore un plat avec une salade, des tranches crues d'oignons doux. Vin rouge d'Australie, NZ ou Afrique du Sud
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  A <OPER id="o_1">préparer</OPER> la veille ! <OPER id="o_2">Mélanger</OPER> l'<INGRED id="2">épice Tandoori</INGRED> ( <INGRED id="2">épice</INGRED> indienne rouge ), le <INGRED id="3">lait</INGRED> ou de yaourt grec, l'<INGRED id="4">huile</INGRED> et le <INGRED id="5">jus de citron</INGRED>. <OPER id="o_3">Découper</OPER> les <INGRED id="1">escalopes de poulet</INGRED> en petits morceaux ( <OPER id="o_4">enlever</OPER> le gras ) et les <OPER id="o_5">mélanger</OPER> à la préparation. Laisser <OPER id="o_6">reposer</OPER> 24h au frais. Faire <OPER id="o_7">griller</OPER> les morceaux à la poêle ( ou rôtir en brochettes ) et servir avec une sauce à la menthe. Facile et délicieux ! Excellent aussi avec d'autres épices ( Tikka par exemple ). C'est une excellente entrée, ou encore un plat avec une salade, des tranches crues d'oignons doux. Vin rouge d'Australie, NZ ou Afrique du Sud
+  </annotation>
+  <annotation methode="crf">
+  A préparer la veille ! Mélanger l'épice Tandoori ( épice indienne rouge ) <INGRED>,</INGRED> le <INGRED>lait</INGRED> <INGRED>ou</INGRED> de <INGRED>yaourt</INGRED> grec <INGRED>,</INGRED> l'<INGRED>huile</INGRED> et le <INGRED>jus de citron</INGRED> <INGRED>.</INGRED> Découper les <INGRED>escalopes</INGRED> de <INGRED>poulet</INGRED> en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> ( enlever le gras ) et les mélanger à la préparation <INGRED>.</INGRED> Laisser reposer 24h au <INGRED>frais</INGRED> <INGRED>.</INGRED> Faire griller les <INGRED>morceaux</INGRED> à la poêle ( <INGRED>ou</INGRED> rôtir en brochettes ) et servir avec une <INGRED>sauce</INGRED> à la <INGRED>menthe</INGRED>. Facile et délicieux ! Excellent aussi avec d'autres <INGRED>épices</INGRED> ( Tikka par exemple ). C'est une excellente entrée <INGRED>,</INGRED> <INGRED>ou</INGRED> encore un plat avec une salade <INGRED>,</INGRED> des tranches crues d'<INGRED>oignons doux</INGRED> <INGRED>.</INGRED> Vin rouge d'Australie <INGRED>,</INGRED> NZ <INGRED>ou</INGRED> Afrique du Sud
+  </annotation>
+  <complexite>
+    <temps>f(X) = 6.53333333333333*X + 0.466666666666667</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 14*X + 6</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['escalopes de poulet', 'escalopes']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['épice Tandoori', 'épice']	 id:2	 quantité:4	 unité:cuillères à soupe d'	 denombrable:True	 recipient:4*X
+ingredient:['lait']	 id:3	 quantité:25	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['huile']	 id:4	 quantité:3	 unité:cuillères à soupe d'	 denombrable:True	 recipient:3*X
+ingredient:['jus de citron', 'jus']	 id:5	 quantité:3	 unité:cuillères à soupe de	 denombrable:True	 recipient:3*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préparer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:mélanger	 id:o_2	 ingrédients_ralatifs:['2', '2', '3', '4', '5']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:découper	 id:o_3	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:4*X*1	 recipient:1
+operation:enlever	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:reposer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:griller	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5*X	 recipient:1
+]]>
+</operation_trouve>
+</recette>

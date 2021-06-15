@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26726">
+  <titre>Far breton aux pruneaux</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>350 g de pruneaux dénoyautés</p>
+    <p>200 g de farine</p>
+    <p>150 g de sucre en poudre</p>
+    <p>5 oeufs</p>
+    <p>50 cl de lait entier</p>
+    <p>40 g de beurre demi-sel</p>
+    <p>2 cuillères à soupe de rhum</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C (thermostat 6).
+    Mélangez la farine et le sucre, ajoutez les oeufs un par un en mélangeant bien.
+    Délayez peu à peu avec le lait en fouettant, ajoutez le rhum.
+    Beurrez un plat allant au four, versez-y une couche de pâte.
+    Répartissez les pruneaux dessus et versez le reste de pâte. Déposez le beurre demi-sel en petits morceaux sur le tout.
+    Enfournez et faites cuire 45 min.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20800">
+  <titre>Quiche allégée</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte brisée :</p>
+    <p>100 g de farine</p>
+    <p>1 oeuf</p>
+    <p>30 g de beurre (à remplacer éventuellement par du fromage blanc) </p>
+    <p>2 cuillères à soupe d'eau</p>
+    <p>1 pincée de sel</p>
+    <p>Pour la garniture :</p>
+    <p>2 oeufs</p>
+    <p>40 cl de lait</p>
+    <p>40 g de gruyère râpé (facultatif) </p>
+    <p>2 tranches de jambon</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) pétrir les ingrédients de la pâte. 
+    2) faire revenir le jambon (dans une poêle anti-adhésive !). 
+    3) battre les oeufs, y ajouter le lait, le gruyère râpé (pour ceux qui se l'autorisent), le sel, le poivre, puis le jambon. Mélanger. 
+    4) étaler la pâte. 
+    5) verser la garniture. 
+    6) faire cuire à 220°C environ 30 min.
+  ]]>
+  </preparation>
+</recette>

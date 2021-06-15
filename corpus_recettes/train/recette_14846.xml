@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14846">
+  <titre>Salade de scampis aux lardons</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de scampis cuits</p>
+    <p>250 g de lardons émincés</p>
+    <p>salade mélangée (quantité pour 4, types de salade selon vos goûts)</p>
+    <p>pignons de pin</p>
+    <p>100 g de framboises</p>
+    <p>1 cuillère à soupe de sucre</p>
+    <p>4 cuillères à soupe d'huile d'olive</p>
+    <p>2 cuillères à soupe de vinaigre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les scampis puis les lardons dans une poêle. Mettre de coté.
+    Pendant ce temps, dresser la salade sur les assiettes et saupoudrer de pignons de pin.
+    Préparer la sauce : mixer les framboises avec le sucre, ajouter l'huile et le vinaigre, ainsi que les épices.
+    Poser les scampis et les lardons sur la salade et verser la sauce. Servir sans attendre.
+    fort apprécié par les invités et très simple à réaliser un vin blanc sec
+  ]]>
+  </preparation>
+</recette>

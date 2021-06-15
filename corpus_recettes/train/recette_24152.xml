@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24152">
+  <titre>Pizza aux oignons à l'ancienne</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte à pizza</p>
+    <p>Pour la garniture : </p>
+    <p>5 gros oignons</p>
+    <p>50 g de beurre</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>4 oeufs</p>
+    <p>2 cuillères à soupe de crème fraîche épaisse </p>
+    <p>60 g de parmesan râpé</p>
+    <p>sel et poivre</p>
+    <p>100 g d'olives noires</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 240°C (thermostat 8).
+    Etalez la pâte sur la plaque du four recouverte de papier sulfurisé. 
+    Pelez et émincez les oignons, puis faites les revenir dans le beurre chaud à feu très doux! 
+    Battez les oeufs entiers avec la crème et le fromage.
+    Disposez ensuite les oignons sur la pâte, salez et poivrez, puis versez le mélange aux oeufs dessus. 
+    Répartissez aussi les olives.
+    Laissez reposer 20 min, puis enfournez pendant 30 min.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24224">
+  <titre>Poule au blanc</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poule à bouillir</p>
+    <p>1 botte de poireaux</p>
+    <p>céleri</p>
+    <p>2 oignons</p>
+    <p>3 carottes</p>
+    <p>2 citrons</p>
+    <p>1 tablette de concentré de poule</p>
+    <p>feuille de laurier</p>
+    <p>sel, poivre</p>
+    <p>1 boîte de champignons</p>
+    <p>beurre</p>
+    <p>farine</p>
+    <p>lait</p>
+    <p>crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre la poule dans une grande casserole d'eau froide. 
+    Faire chauffer l'eau et écumer au fur et à mesure que la poule cuit. 
+    Quand plus rien de sale ne revient à la surface, ajouter tous les légumes pour faire un bouillon. 
+    Saler et poivrer. 
+    Laisser cuire une 1 h. 
+    Faire une sauce blanche avec moitié bouillon, moitié lait. 
+    Ajouter le jus d'1/2 citron, la crème fraîche et les champignons.
+    - La sauce doit être semi-liquide
+    accompagner ce plat de riz
+  ]]>
+  </preparation>
+</recette>

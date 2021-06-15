@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165045">
+  <titre>Verrine avocat crabe ultra-simple</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 avocats assez mûres</p>
+    <p>1 citron pressé</p>
+    <p>1 cuillère a soupe de crème fraiche</p>
+    <p>120 g de chair de crabe en boite</p>
+    <p>6 feuilles de menthe</p>
+    <p>6 bâtonnets de surimi</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez et découpez les avocats puis passez les au mixeur.
+    Ajoutez la crème, le citron pressé et salez et poivrez à votre convenance puis repassez la préparation au mixeur.
+    Faites une couche de crème d'avocat dans chaque verrine (essuyez les bords si vous souhaitez soigner la présentation), puis une couche de chair de crabes.
+    Déposez au centre 2 feuilles de menthe et enfoncez deux bâtonnets de surimis dans chaque verrine.
+    Servez très froidVous pouvez ajouter quelques gouttes de tabasco à votre crème d'avocat pendant l'assaisonnement pour relever un peu plus la verrine.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Pelez</OPER> et découpez les <INGRED id="1">avocats</INGRED> puis <OPER id="o_2">passez</OPER> les au mixeur. <OPER id="o_3">Ajoutez</OPER> la crème, le <INGRED id="2">citron pressé</INGRED> et <OPER id="o_4">salez</OPER> et <OPER id="o_5">poivrez</OPER> à votre convenance puis repassez la <INGRED id="4">préparation</INGRED> au mixeur. Faites une couche de crème d'avocat dans chaque verrine ( <OPER id="o_6">essuyez</OPER> les bords si vous souhaitez <OPER id="o_7">soigner</OPER> la présentation ), puis une couche de <INGRED id="4">chair</INGRED> de crabes. <OPER id="o_8">Déposez</OPER> au centre 2 <INGRED id="4">feuilles</INGRED> de <INGRED id="6">menthe</INGRED> et enfoncez deux <INGRED id="6">bâtonnets</INGRED> de surimis dans chaque verrine. Servez très froidVous pouvez <OPER id="o_9">ajouter</OPER> quelques gouttes de tabasco à votre crème d'avocat pendant l'assaisonnement pour relever un peu plus la verrine.
+  </annotation>
+  <annotation methode="crf">
+  Pelez et découpez les avocats puis passez les au mixeur. Ajoutez la <INGRED>crème</INGRED> <INGRED>,</INGRED> le <INGRED>citron</INGRED> pressé et salez et poivrez à votre convenance puis repassez la préparation au mixeur. Faites une couche de <INGRED>crème d'avocat</INGRED> dans chaque verrine ( essuyez les bords si vous souhaitez soigner la présentation ) <INGRED>,</INGRED> puis une couche de <INGRED>chair</INGRED> de crabes. Déposez au centre 2 feuilles de <INGRED>menthe</INGRED> et enfoncez <INGRED>deux</INGRED> bâtonnets de surimis dans chaque verrine. Servez très froidVous pouvez ajouter quelques gouttes de <INGRED>tabasco</INGRED> à votre <INGRED>crème d'avocat</INGRED> pendant l'assaisonnement pour relever un peu plus la verrine.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 8.47058823529412*X + 0.529411764705882</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 16*X + 2</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['avocats assez mûres', 'avocats']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['citron pressé', 'citron']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['soupe de crème fraiche', 'soupe']	 id:3	 quantité:1	 unité:cuillère a	 denombrable:True	 recipient:1*X
+ingredient:['chair de crabe en boite', 'chair']	 id:4	 quantité:120	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['menthe']	 id:5	 quantité:6	 unité:feuilles de	 denombrable:True	 recipient:6*X
+ingredient:['bâtonnets de surimi', 'bâtonnets']	 id:6	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:peler	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:2*X*1	 recipient:0
+operation:passer	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:ajouter	 id:o_3	 ingrédients_ralatifs:['2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:essuyer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:soigner	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déposer	 id:o_8	 ingrédients_ralatifs:['4', '6', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25269">
+  <titre>Biscuit finlandais aux amandes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 oeufs</p>
+    <p>160 g de sucre</p>
+    <p>100 g de beurre</p>
+    <p>180 g de farine</p>
+    <p>1 cuillère à café de sel</p>
+    <p>1 cuillère à café de levure chimique</p>
+    <p>Pour la garniture :</p>
+    <p>180 g d'amandes effilées</p>
+    <p>80 g de sucre</p>
+    <p>100 g de beurre</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>2 cuillères à soupe de crème ou de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 150°C (thermostat 5).
+    Préparez la pâte : fouettez les oeufs avec le sucre puis ajoutez-y le beurre fondu et la farine tamisée avec le sel et la levure.
+    Versez la pâte dans un moule beurré de 25 cm de diamètre et enfournez pour 20 minutes de cuisson.
+    Pendant ce temps, préparez la garniture : faites fondre le beurre puis incorporez-lui les amandes effilées, le sucre, la farine et la crème. Remuez délicatement et amenez à ébullition. Retirez du feu puis versez sur la base du biscuit (la pâte préparée précédemment et qui a été mise à cuire, au fond du moule).
+    Poursuivez la cuisson environ 15 minutes jusqu'à ce que le dessus soit bien doré.
+  ]]>
+  </preparation>
+</recette>

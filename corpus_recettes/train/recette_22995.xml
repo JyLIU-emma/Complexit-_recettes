@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22995">
+  <titre>Salade de haddock aux lentilles tièdes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de filet de haddock</p>
+    <p>200 g de lentilles</p>
+    <p>2 oignons</p>
+    <p>2 citrons</p>
+    <p>1 bouquet garni</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>2 cuillères à soupe de vinaigre de cidre </p>
+    <p>2 cuillères à café de moutarde forte </p>
+    <p>3 cuillères à soupe d'huile d'olive </p>
+    <p>3 cuillères à soupe d'huile de noisette </p>
+    <p>1 échalote </p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper le haddock en pavés et le placer dans une terrine avec le jus des citrons et l'huile d'olive. Laisser macérer pendant 1 h.
+    Placer les lentilles dans une cocotte avec les oignons émincés et le bouquet garni, et recouvrir d'eau froide. Porter à ébullition puis laisser mijoter 25 min. Assaisonner. 
+    Dans un saladier, mélanger le vinaigre, la moutarde, l'huile d'olive et l'huile de noisette. Assaisonner et ajouter l'échalote ciselée et les lentilles égouttées encore chaudes.
+    Servir le poisson accompagné de la salade de lentilles tiède.
+  ]]>
+  </preparation>
+</recette>

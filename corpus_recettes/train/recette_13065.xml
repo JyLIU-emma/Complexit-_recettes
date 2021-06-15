@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13065">
+  <titre>Civet de lapin</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 lapin coupé en 6 morceaux</p>
+    <p>1 oignon</p>
+    <p>1/2 tête d'ail</p>
+    <p>1 tranche épaisse de pancetta</p>
+    <p>persil</p>
+    <p>sel, poivre</p>
+    <p>2 grands verres de bon vin rouge</p>
+    <p>facultatif : 1 verre de sang de lapin</p>
+    <p>4 petites feuilles de laurier</p>
+    <p>1 bonne pincée de thym</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>2 cuillères à soupe de cognac</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les morceaux de lapin dans de l'huile.
+    Hâcher ensemble l'oignon, l'ail, la pancetta et le foie du lapin.
+    Quand les morceaux de lapin sont bien dorés, les faire flamber au cognac.
+    Ajouter le hachis, et faire revenir en remuant à la cuillère de bois.
+    Ajouter le vin et le sang de lapin. Laissez bouillir à couvert 10 mn.
+    Ajouter les aromates, sel et poivre, puis un grand verre d'eau chaude.
+    Mijoter à couvert 1 heure environ.
+    Le sang de lapin est facultatif, mais on en met traditionnellement dans un civet pour lier la sauce. Gigondas ou Côtes-du-Rhone
+  ]]>
+  </preparation>
+</recette>

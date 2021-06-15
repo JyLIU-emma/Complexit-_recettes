@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15612">
+  <titre>Bricelets</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de sucre</p>
+    <p>1 oeuf entier</p>
+    <p>1 cuillère à soupe de sel</p>
+    <p>1/2 écorce de citron </p>
+    <p>80 g de beurre fondu refroidi</p>
+    <p>4 cuillères à soupe de lait</p>
+    <p>250 g de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Travailler le sucre et l'oeuf pendant 25 mn. Incorporer les autres ingrédients au fur et à mesure et bien mélanger.
+    Laisser reposer une nuit. Faire des boulettes. Faire chauffer le four et mettre les boulettes pour obtenir des bricelets légèrement colorés.
+  ]]>
+  </preparation>
+</recette>

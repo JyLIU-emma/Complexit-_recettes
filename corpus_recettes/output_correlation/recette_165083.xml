@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165083">
+  <titre>Taosts de saumon fumé à l'estragon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 tranches de pain de mie complet </p>
+    <p>8 tranches de saumon fumée</p>
+    <p>3 grosses cuillérées à soupe de mayonnaise faite maison</p>
+    <p>1 grosse cuillérée à soupe d'estragon ciselé</p>
+    <p>1 grosse cuillérée à soupe de persil plat ciselé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Préparer une mayonnaise maison
+    Faire griller les tranches de pain de mie au grill pain (ou au four)
+    Bien mélanger la mayonnaise, l'estragon et le persil
+    Tartiner chaque tranche de pain de mie avec la mayonnaise aux herbes
+    et couvrir les taosts d'une (ou deux) tranche de saumon fumée
+    Servir avec une salade verte, et quelques quartiers de citron jaune.L'estragon se marie très bien avec le saumon. On peut servir ces taosts en entrée, ou bien en apéritif, coupés en 2 ou en 4.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  - <OPER id="o_1">Préparer</OPER> une <INGRED id="5">mayonnaise</INGRED> maison Faire <OPER id="o_2">griller</OPER> les tranches de <INGRED id="1">pain</INGRED> de mie au grill <INGRED id="1">pain</INGRED> ( ou au four ) Bien <OPER id="o_3">mélanger</OPER> la <INGRED id="5">mayonnaise</INGRED>, l'estragon et le <INGRED id="5">persil</INGRED> <OPER id="o_4">Tartiner</OPER> chaque tranche de <INGRED id="1">pain</INGRED> de mie avec la <INGRED id="5">mayonnaise</INGRED> aux herbes et <OPER id="o_5">couvrir</OPER> les taosts d'une ( ou deux ) tranche de <INGRED id="2">saumon fumée</INGRED> Servir avec une salade verte, et quelques quartiers de citron jaune. L'estragon se marie très bien avec le <INGRED id="2">saumon</INGRED>. On peut servir ces taosts en entrée, ou bien en apéritif, coupés en 2 ou en 4.
+  </annotation>
+  <annotation methode="crf">
+  - Préparer une mayonnaise maison Faire griller les tranches de <INGRED>pain de mie</INGRED> au grill <INGRED>pain</INGRED> ( <INGRED>ou</INGRED> au four ) Bien mélanger la <INGRED>mayonnaise</INGRED> <INGRED>,</INGRED> l'<INGRED>estragon</INGRED> et le <INGRED>persil</INGRED> Tartiner chaque tranche de <INGRED>pain de mie</INGRED> avec la <INGRED>mayonnaise</INGRED> aux <INGRED>herbes</INGRED> et couvrir les taosts d'une ( <INGRED>ou</INGRED> <INGRED>deux</INGRED> ) tranche de <INGRED>saumon fumée</INGRED> Servir avec une salade verte <INGRED>,</INGRED> et quelques quartiers de <INGRED>citron</INGRED> <INGRED>jaune</INGRED> <INGRED>.</INGRED> L'<INGRED>estragon</INGRED> se marie très bien avec le <INGRED>saumon</INGRED> <INGRED>.</INGRED> On peut servir ces taosts en entrée <INGRED>,</INGRED> <INGRED>ou</INGRED> bien en apéritif <INGRED>,</INGRED> coupés en 2 <INGRED>ou</INGRED> en 4 <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 20.0*X</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 21*X + 2</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pain de mie complet', 'pain']	 id:1	 quantité:8	 unité:tranches de	 denombrable:True	 recipient:8*X
+ingredient:['saumon fumée', 'saumon']	 id:2	 quantité:8	 unité:tranches de	 denombrable:True	 recipient:8*X
+ingredient:['cuillérées à soupe de mayonnaise faite maison', 'cuillérées']	 id:3	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:["cuillérée à soupe d'estragon ciselé", 'cuillérée']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['cuillérée à soupe de persil plat ciselé', 'cuillérée']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préparer	 id:o_1	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:griller	 id:o_2	 ingrédients_ralatifs:['1', '1']	 nombre_opération_atomique:8*X+8*X	 temps:8*X*5+8*X*5	 recipient:1
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:['5', '5', '1', '5', '2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:tartiner	 id:o_4	 ingrédients_ralatifs:['1', '5', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_5	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26872">
+  <titre>Riz au... fonds de placards</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de riz long</p>
+    <p>150 g de thon au naturel</p>
+    <p>200 g de champignons de Paris émincés (en boîte, c'est parfait !) </p>
+    <p>une sauce béchamel (la recette est sur le site !) </p>
+    <p>un peu de gruyère râpé (selon les goûts) </p>
+    <p>sel, poivre</p>
+    <p>une noix de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire le riz, comme à l'habitude. 
+    Pendant ce temps, préparez une béchamel (beurre, farine, lait, ...) dans laquelle vous ajouterez un peu de gruyère râpé. 
+    Quand le riz est cuit, bien égoutter et réserver au chaud. 
+    Dans une poêle, faire revenir avec un peu de beurre, le thon et les champignons (5 mn environ), saler, poivrer. 
+    Ensuite, mélanger le thon et les champignons avec la béchamel. 
+    Verser le tout sur le riz, mélanger de nouveau... C'EST PRÊT !!!
+    C'est pas cher, facile, et les enfants adorent ! ;)
+  ]]>
+  </preparation>
+</recette>

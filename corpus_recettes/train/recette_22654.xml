@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22654">
+  <titre>Curry de poulet aux cacahuètes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 blancs de poulet</p>
+    <p>500 g de pommes de terre à chair ferme</p>
+    <p>2 oignons</p>
+    <p>125 g de cacahuètes</p>
+    <p>1 cube bouillon de volaille</p>
+    <p>6 brins de coriandre fraîche ou persil plat</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>20 g de beurre</p>
+    <p>1 cuillère à soupe de curry</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettez les cacahuètes dans le bol d'un robot et broyez-les finement. 
+    Pelez les pommes de terre, coupez-les en gros morceaux et faites-les cuire. 
+    Dans une sauteuse, mettez les blancs de poulet coupés en gros cubes à dorer avec l'huile. Réservez-les. A la place, faites cuire les oignons émincés avec le beurre, 5 min sans trop colorer. Saupoudrez avec le curry et remuez 1 min. 
+    Lorsqu'elles sont cuites, mettre les pommes de terre dans la sauteuse avec les cubes de poulet, la poudre de cacahuètes, le cube de bouillon et 10 cl d'eau chaude. Poursuivez la cuisson 5 min.
+    Goûtez et rectifiez l'assaisonnement si nécessaire, puis incorporez la coriandre ciselée. Servez aussitôt.
+    Broyez les cacahuètes par petites impulsions brèves afin d'obtenir de la poudre grossière et non une pâte collante, difficile à récupérer.
+  ]]>
+  </preparation>
+</recette>

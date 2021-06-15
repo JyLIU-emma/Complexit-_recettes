@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24346">
+  <titre>Crème dessert light à la vanille</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 litre de lait écrémé</p>
+    <p>7 cuillères à soupe bombées d'édulcorant (l'équivalent de 120 g de sucre en poudre traditionnel) </p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>6 cuillères à soupe de fécule de pomme de terre</p>
+    <p>4 cuillères à soupe de lait écrémé froid</p>
+    <p>4 jaunes d'oeuf</p>
+    <p>8 cuillères à soupe de crème liquide allégée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites chauffer le lait avec l'édulcorant et le sucre vanillé. 
+    Dans un saladier, mélangez au fouet la fécule de pomme de terre, le lait froid et les jaunes d'oeuf. 
+    Ajoutez le lait chaud en battant bien avec le fouet. Remettez le tout dans la casserole. Faites épaissir à feu doux jusqu'aux premiers bouillons. 
+    Versez dans un grand plat à travers une passoire. Ajoutez la crème liquide et mélangez bien.
+    Servez très frais accompagné de spéculoos ou d'un cake aux épices.
+  ]]>
+  </preparation>
+</recette>

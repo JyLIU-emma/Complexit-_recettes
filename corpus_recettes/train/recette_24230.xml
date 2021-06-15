@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24230">
+  <titre>Salade d'avocats aux poivrons et aux fines herbes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 beaux avocats</p>
+    <p>1 jus de citron</p>
+    <p>1 poivron rouge</p>
+    <p>2 gousses d'ail</p>
+    <p>1 oignon</p>
+    <p>1 cuillère à café de moutarde</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>2 cuillères à soupe de fines herbes hachées</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez la chair des avocats en dés et arrosez d'un filet de citron. Emincez le poivron en fines lanières, les oignons en fines lamelles et hachez l'ail.
+    Mélangez le poivron, l'avocat, l'ail et l'oignon.
+    Emulsionnez le reste du jus de citron avec l'huile, les herbes. Mettez aussi du sel, du poivre et un peu de moutarde.
+    Arrosez la salade de cette vinaigrette, mélangez et servez.
+  ]]>
+  </preparation>
+</recette>

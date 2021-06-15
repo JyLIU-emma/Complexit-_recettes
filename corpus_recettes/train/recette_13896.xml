@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13896">
+  <titre>Potage à la laitue</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 laitue</p>
+    <p>2 oignons</p>
+    <p>3 cubes de bouillon de poule</p>
+    <p>1 litre et demi d'eau</p>
+    <p>1 petit fromage à l'ail (type Boursin)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laissez cuire 20 mn. Ajoutez le petit fromage et mixez.
+  ]]>
+  </preparation>
+</recette>

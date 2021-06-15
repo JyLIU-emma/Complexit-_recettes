@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22556">
+  <titre>Poulet sauté aux noix de cajou et au chou</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet découpé en morceaux</p>
+    <p>75 g de noix de cajou</p>
+    <p>250 g de chou</p>
+    <p>250 g de pousses de soja</p>
+    <p>1 oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>15 cl de vin</p>
+    <p>2 cuillères à soupe de sauce de soja</p>
+    <p>2 cuillères à soupe de Maïzena</p>
+    <p>2 cubes de bouillon</p>
+    <p>huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites frire la gousse d'ail dans un fond d'huile dans une cocotte.
+    Une fois dorée, retirez la gousse d'ail et mettez le poulet à dorer dans la cocotte 10 minutes.
+    Ajoutez l'oignon et le chou émincés et le soja.
+    Salez, poivrez et laissez mijotez 15 min.
+    Faites bouillir le vin avec 25 cl d'eau, les cubes de bouillon, la Maïzena et la sauce de soja. 
+    Laissez légèrement épaissir et versez la sauce sur le poulet et les légumes.
+    Parsemez de noix de cajou et servez.
+  ]]>
+  </preparation>
+</recette>

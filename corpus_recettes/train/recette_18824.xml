@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18824">
+  <titre>Courgettes à la ricotta</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 courgettes</p>
+    <p>un pot de ricotta (ou de brousse) </p>
+    <p>sel, poivre, gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détaillez les courgettes en petits morceaux, les faire revenir dans un peu d'huile d'olive (éventuellement ajouter un oignon en petits morceaux) pendant 10 mn. Ajouter sel, poivre et ricotta, bien mélanger. 
+    Mettre dans un plat à gratin, couvrir généreusement de gruyère râpé et mettre 20 mn à four chaud (200°C)
+    Ultra facile, moelleux
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27217">
+  <titre>Colombo de dorade / daurade</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 dorade</p>
+    <p>1 botte de bettes (seules les feuilles sont utilisées) </p>
+    <p>du colombo</p>
+    <p>1 oignon</p>
+    <p>1 tomate</p>
+    <p>1 citron</p>
+    <p>4 cuillères à soupe de crème fraîche</p>
+    <p>sel, poivre</p>
+    <p>fenouil</p>
+    <p>herbes de Provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre la dorade dans un plat et la recouvrir d'oignon émincé, de rondelles de tomates et de citron, de sel, poivre, fenouil, herbes de Provence. La recouvrir de papier aluminium et la faire cuire au four 40 mn environ. 
+    Juste avant de sortir la dorade, faire revenir des feuilles de bettes. 
+    Ajouter de la crème fraîche et faire juste chauffer. 
+    Saler, poivrer, mettre plein de colombo. 
+    Ajouter le jus du poisson. 
+    Servir le poisson et les bettes avec des tagliatelles.
+    On peut remplacer les bettes par des épinards.
+  ]]>
+  </preparation>
+</recette>

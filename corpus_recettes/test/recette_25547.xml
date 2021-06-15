@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25547">
+  <titre>Pudding aux cerises et gelée de groseille</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 brioche de 350 g (ou des pains au lait)</p>
+    <p>25 cl de lait</p>
+    <p>80 g de beurre</p>
+    <p>4 œufs</p>
+    <p>40 g de sucre</p>
+    <p>500 g de cerises</p>
+    <p>1 poignée d'amandes effilées</p>
+    <p>gelée de groseille</p>
+    <p>1 pincée de poudre de vanille ou quelques gouttes d'arôme vanille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 180°C (thermostat 6).
+    Dans un récipient, incorporer la brioche émiettée dans le lait et la laisser gonfler quelques minutes.
+    Laver et dénoyauter les cerises.
+    Battre les jaunes d'œufs avec le sucre, le beurre et les cerises, puis ajouter ce mélange à la brioche gonflée. Battre les blancs en neige et les incorporer délicatement à la préparation. Enfin, ajouter l'arôme à la vanille.
+    Beurrer un plat à hauts rebords, puis tapisser le fond d'amandes effilées.
+    Verser dessus la préparation, puis faire cuire 45 min à four chaud.
+    Sortir du four, laisser refroidir, puis démouler le pudding.
+    Le dresser sur un plat de service, puis le napper de gelée de groseille.
+  ]]>
+  </preparation>
+</recette>

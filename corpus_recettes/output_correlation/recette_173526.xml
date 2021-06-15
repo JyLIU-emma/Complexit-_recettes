@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173526">
+  <titre>Filets de rouget barbet au beurre d'anis</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 rougets barbet</p>
+    <p>huile d'olive</p>
+    <p>40 g de beurre</p>
+    <p>250 ml de fumet de poisson instantané</p>
+    <p>5 cl de pastis</p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Écaillez (au couteau car le rouget barbet est très fragile !) et levez les filets des rougets.
+    Avec une pince à épiler, retirez les arêtes une à une (ou demandez à votre poissonnier de le faire, mais vérifiez bien que toutes les arêtes aient été enlevées). Réservez au frais.
+    Faites réduire à feu moyen le fumet de poisson et l'apéritif anisé jusqu'à ce qu'il ne reste plus que deux ou trois cuillerées de sauce. Ajoutez le beurre, sur feu doux et remuez au fouet doucement. Salez modérément, le fumet l'étant déjà et poivrez selon votre goût.
+    Faites chauffer à feu vif un filet d'huile d'olive, et déposez les filets de rougets côté peau.
+    Cuire 1 min. Éteignez le feu et retournez-les délicatement, ils vont finir leur cuisson.
+    Dressez sur les assiettes, entourées d'un cordon de sauce, accompagnés par exemple, d'épinards revenus au beurre avec une gousse d'ail juste revenue dans la poêle.
+    Bon appétit !(Cette recette accompagne aussi très bien le bar...) Chablis
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Écaillez</OPER> ( au couteau car le rouget barbet est très fragile ! ) et <OPER id="o_2">levez</OPER> les <INGRED id="2">filets</INGRED> des <INGRED id="1">rougets</INGRED>. Avec une pince à <OPER id="o_3">épiler</OPER>, <OPER id="o_4">retirez</OPER> les arêtes une à une ( ou demandez à votre poissonnier de le faire, mais <OPER id="o_5">vérifiez</OPER> bien que toutes les arêtes aient été enlevées ). Réservez au frais. Faites réduire à feu moyen le fumet de poisson et l'apéritif anisé jusqu'à ce qu'il ne <INGRED id="1">reste</INGRED> plus que <INGRED id="6">deux</INGRED> ou trois cuillerées de sauce. <OPER id="o_6">Ajoutez</OPER> le beurre, sur feu doux et remuez au fouet doucement. <OPER id="o_7">Salez</OPER> modérément, le fumet l'étant déjà et poivrez selon votre <INGRED id="7">goût</INGRED>. Faites <OPER id="o_8">chauffer</OPER> à feu vif un <INGRED id="1">filet</INGRED> d'huile d'olive, et déposez les <INGRED id="4">filets</INGRED> de <INGRED id="1">rougets</INGRED> côté peau. <OPER id="o_9">Cuire</OPER> 1 min. <OPER id="o_10">Éteignez</OPER> le feu et retournez - les délicatement, ils vont <OPER id="o_11">finir</OPER> leur cuisson. <OPER id="o_12">Dressez</OPER> sur les assiettes, entourées d'un cordon de <INGRED id="5">sauce</INGRED>, accompagnés par exemple, d'épinards revenus au beurre avec une gousse d'<INGRED id="1">ail</INGRED> juste revenue dans la poêle. Bon appétit ! ( Cette recette accompagne aussi très bien le bar... ) Chablis
+  </annotation>
+  <annotation methode="crf">
+  Écaillez ( au couteau car le rouget barbet est très fragile ! ) et levez les <INGRED>filets</INGRED> des <INGRED>rougets</INGRED> <INGRED>.</INGRED> Avec une pince à épiler <INGRED>,</INGRED> retirez les arêtes une à une ( <INGRED>ou</INGRED> demandez à votre poissonnier de le faire <INGRED>,</INGRED> mais vérifiez bien que toutes les arêtes aient été enlevées ). Réservez au <INGRED>frais</INGRED> <INGRED>.</INGRED> Faites réduire à feu moyen le fumet de <INGRED>poisson</INGRED> et l'apéritif anisé jusqu'à ce qu'il ne reste plus que <INGRED>deux</INGRED> <INGRED>ou</INGRED> trois <INGRED>cuillerées</INGRED> de <INGRED>sauce</INGRED>. Ajoutez le <INGRED>beurre</INGRED> <INGRED>,</INGRED> sur feu doux et remuez au fouet doucement <INGRED>.</INGRED> Salez modérément <INGRED>,</INGRED> le fumet l'étant déjà et poivrez selon votre goût <INGRED>.</INGRED> Faites chauffer à feu vif un <INGRED>filet</INGRED> d'<INGRED>huile d'olive</INGRED> <INGRED>,</INGRED> et déposez les <INGRED>filets</INGRED> de rougets côté peau. Cuire 1 min. Éteignez le feu et retournez - les délicatement <INGRED>,</INGRED> ils vont finir leur cuisson. Dressez sur les assiettes <INGRED>,</INGRED> entourées d'un cordon de <INGRED>sauce</INGRED> <INGRED>,</INGRED> accompagnés par exemple <INGRED>,</INGRED> d'épinards revenus au <INGRED>beurre</INGRED> avec une gousse d'<INGRED>ail</INGRED> juste revenue dans la poêle <INGRED>.</INGRED> Bon appétit ! ( Cette recette accompagne aussi très bien le bar... ) Chablis
+  </annotation>
+  <complexite>
+    <temps>f(X) = 11.7665369649805*X + 0.233463035019455</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 252*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['rougets barbet', 'rougets']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:["huile d'olive", 'huile']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:3	 quantité:40	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['ml de fumet de poisson instantané', 'ml']	 id:4	 quantité:250	 unité:non_precis	 denombrable:True	 recipient:250*X
+ingredient:['pastis']	 id:5	 quantité:5	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:écailler	 id:o_1	 ingrédients_ralatifs:['2', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:lever	 id:o_2	 ingrédients_ralatifs:['2', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:épiler	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:vérifier	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_7	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_8	 ingrédients_ralatifs:['1', '4', '1']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:cuire	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:éteindre	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:finir	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dresser	 id:o_12	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

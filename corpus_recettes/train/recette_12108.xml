@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12108">
+  <titre>Gâteau coulant au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de chocolat noir (75%) de cacao concassé</p>
+    <p>4 œufs</p>
+    <p>25 g de cacao non sucré en poudre</p>
+    <p>25 g de beurre en morceaux</p>
+    <p>75 g de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à thermostat 8 (240°C).Faire fondre au bain marie le beurre et le chocolat. Fouetter vivement les œufs et le sucre jusqu’à blanchiment. Incorporer le cacao.Mélanger le tout.
+    Ajouter le chocolat et le beurre fondu. Verser le tout dans des moules individuels assez hauts(genre moule à cannelé).Les enfourner pour 7 min.
+    Servir dès la sortie du four.Plus le mélange sucre et œufs sera battu, plus le gâteau sera moelleux.
+  ]]>
+  </preparation>
+</recette>

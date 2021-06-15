@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10991">
+  <titre>Cornets de saumon aux oeufs de lumps</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 grandes tranches de saumon fumé</p>
+    <p>6 carrés frais</p>
+    <p>1 boîte d'oeufs de lumps noirs</p>
+    <p>crème liquide semi-épaisse</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Rouler les tranches de saumon en cornet.
+    Mélanger les carrés frais aux oeufs de lumps délicatement sans les écraser.
+    Remplir les cornets de cette préparation.
+    Laisser au réfrigérateur pendant 1 bonne heure afin que la préparation durcisse.
+    Dégustez frais avec un filet de citron et napper d'une cuillérée de crème fraîche liquide semi-épaisse.
+  ]]>
+  </preparation>
+</recette>

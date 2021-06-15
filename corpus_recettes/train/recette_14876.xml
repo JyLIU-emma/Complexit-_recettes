@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14876">
+  <titre>Gratin de penne aux légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 poivrons (rouge et jaune)</p>
+    <p>1 aubergine</p>
+    <p>1 courgette</p>
+    <p>huile d’olive</p>
+    <p>2 gousses d’ail</p>
+    <p>persil, herbes de provence</p>
+    <p>sel, poivre</p>
+    <p>250 g de penne</p>
+    <p>200 g de sauce tomate</p>
+    <p>300 g de mozzarella</p>
+    <p>basilic frais</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epépiner et couper les poivrons en morceaux. 
+    Couper l’aubergine et la courgette en morceaux.
+    Mettre l’huile dans une casserole et verser les légumes. Ajouter l’ail pressé, les fines herbes, le persil haché. Saler et poivrer.
+    Faire cuire 30 mn en remuant de temps en temps.
+    Faire cuire les penne ‘al dente’ dans de l’eau salée.
+    Mélanger les penne, les légumes et la sauce tomate.
+    Verser dans un plat allant au four, puis ajouter la mozzarella en dés sur le dessus .
+    Faire cuire 15 mn.
+    Servir chaud en parsemant de basilic.
+  ]]>
+  </preparation>
+</recette>

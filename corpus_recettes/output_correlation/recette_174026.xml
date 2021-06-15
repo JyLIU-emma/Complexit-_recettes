@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="174026">
+  <titre>Gâteau anniversaire en circuit automobile</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la réalisation du circuit, il est nécessaire de faire 3 gâteaux. Voici les ingrédients pour 1 gâteau (il faut donc 3 fois ces ingrédients pour faire 3 gâteaux identiques) :- 6 œufs</p>
+    <p>300 g de sucre</p>
+    <p>100 g de farine</p>
+    <p>200 g de chocolat noir dessert</p>
+    <p>1 sachet de levure chimique</p>
+    <p>180 g de beurre</p>
+    <p>Pour le nappage chocolat :- 200 g de chocolat dessert</p>
+    <p>10 cl de crème liquide</p>
+    <p>Pour la décoration :- des minis smarties</p>
+    <p>des carensacs blancs</p>
+    <p>des petits bâtonnets de réglisse</p>
+    <p>des frites bonbon</p>
+    <p>des pralinés en miettes (pour le sable)</p>
+    <p>quelques petites voitures miniatures</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire préchauffer le four à 200°C (thermostat 7).Dans un saladier, mélanger à l'aide d'un fouet les œufs et le sucre.
+    Ajouter la farine et la levure puis mélanger à nouveau.
+    Couper en petits dés le beurre et le chocolat, puis faire fondre au micro-onde (600 watts) pendant 2 min 30. 
+    Remuer avec une cuillère à soupe lorsque le beurre est fondu (la consistance doit être liquide et brillante).Ajouter le mélange beurre-chocolat à la préparation puis mélanger le tout au fouet.
+    Verser ce mélange dans un moule à manquer.
+    Mettre au four pendant environ 30 min (piquer le gâteau avec un couteau pour vérifier la cuisson : il doit ressortir impeccable).Laisser refroidir à la sortie du four.
+    Renouveler l'opération 3 fois afin d'obtenir les trois gâteaux.
+    Une fois les 3 gâteaux réalisés, poser 2 gâteaux l'un à côté de l'autre sur un support recouvert de papier aluminium. 
+    Couper le troisième en deux, et le disposer en biais sur les deux autres pour obtenir un pont.Réaliser le nappage chocolat : faire chauffer jusqu'à ébullition la crème liquide. Retirer du feu et verser sur le chocolat coupé en petits morceaux. Remuer.A l'aide du cuillère à soupe, recouvrir l'ensemble des gâteaux avec le nappage.
+    Pour la décoration :Décorer le tout avec les bonbons de façon à former un circuit automobile. Armez vous de patience, mais c'est assez simple à réaliser et le résultat est magique !!!
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">préchauffer</OPER> le four à 200 ° C ( thermostat 7).Dans un <INGRED id="1">saladier</INGRED>, <OPER id="o_2">mélanger</OPER> à l'aide d'un fouet les <INGRED id="7">œufs</INGRED> et le <INGRED id="9">sucre</INGRED>. <OPER id="o_3">Ajouter</OPER> la farine et la <INGRED id="4">levure</INGRED> puis <OPER id="o_4">mélanger</OPER> à nouveau. <OPER id="o_5">Couper</OPER> en <INGRED id="3">petits</INGRED> <INGRED id="4">dés</INGRED> le <INGRED id="1">beurre</INGRED> et le <INGRED id="2">chocolat</INGRED>, puis faire <OPER id="o_6">fondre</OPER> au micro-onde ( 600 watts ) pendant 2 min 30. <OPER id="o_7">Remuer</OPER> avec une cuillère à <INGRED id="4">soupe</INGRED> lorsque le <INGRED id="9">beurre</INGRED> est fondu ( la consistance doit être liquide et <OPER id="o_8">brillante).Ajouter</OPER> le <INGRED id="2">mélange</INGRED> <INGRED id="10">beurre</INGRED> - <INGRED id="2">chocolat</INGRED> à la <INGRED id="4">préparation</INGRED> puis <OPER id="o_9">mélanger</OPER> le tout au fouet. <OPER id="o_10">Verser</OPER> ce <INGRED id="2">mélange</INGRED> dans un moule à <OPER id="o_11">manquer</OPER>. <OPER id="o_12">Mettre</OPER> au four pendant <INGRED id="1">environ</INGRED> 30 min ( <OPER id="o_13">piquer</OPER> le gâteau avec un <INGRED id="8">couteau</INGRED> pour vérifier la cuisson : il doit <OPER id="o_14">ressortir</OPER> impeccable).Laisser <OPER id="o_15">refroidir</OPER> à la sortie du four. <OPER id="o_16">Renouveler</OPER> l'opération 3 fois afin d'obtenir les trois gâteaux. Une fois les 3 gâteaux réalisés, <OPER id="o_17">poser</OPER> 2 gâteaux l'un à côté de l'autre sur un support recouvert de papier aluminium. <OPER id="o_18">Couper</OPER> le troisième en <INGRED id="6">deux</INGRED>, et le <OPER id="o_19">disposer</OPER> en biais sur les <INGRED id="6">deux</INGRED> autres pour obtenir un pont. <OPER id="o_20">Réaliser</OPER> le nappage chocolat : faire <OPER id="o_21">chauffer</OPER> jusqu'à ébullition la <INGRED id="9">crème liquide</INGRED>. <OPER id="o_22">Retirer</OPER> du feu et <OPER id="o_23">verser</OPER> sur le <INGRED id="1">chocolat</INGRED> coupé en <INGRED id="3">petits</INGRED> <INGRED id="1">morceaux</INGRED>. <OPER id="o_24">Remuer</OPER>. A l'aide du cuillère à <INGRED id="9">soupe</INGRED>, <OPER id="o_25">recouvrir</OPER> l'ensemble des gâteaux avec le nappage. Pour la décoration : <OPER id="o_26">Décorer</OPER> le tout avec les bonbons de façon à former un circuit automobile. <OPER id="o_27">Armez</OPER> vous de patience, mais c'est assez simple à <OPER id="o_28">réaliser</OPER> et le résultat est magique ! ! !
+  </annotation>
+  <annotation methode="crf">
+  Faire préchauffer le four à 200 ° C ( thermostat 7).Dans un saladier <INGRED>,</INGRED> mélanger à l'aide d'un fouet les <INGRED>œufs</INGRED> et le <INGRED>sucre</INGRED>. Ajouter la <INGRED>farine</INGRED> et la <INGRED>levure</INGRED> puis mélanger à nouveau <INGRED>.</INGRED> Couper en <INGRED>petits</INGRED> dés le <INGRED>beurre</INGRED> et le <INGRED>chocolat</INGRED> <INGRED>,</INGRED> puis faire fondre au micro-onde ( 600 watts ) pendant 2 min 30. Remuer avec une cuillère à soupe lorsque le <INGRED>beurre</INGRED> est fondu ( la consistance doit être liquide et brillante).Ajouter le <INGRED>mélange</INGRED> <INGRED>beurre</INGRED> - <INGRED>chocolat</INGRED> à la préparation puis mélanger le tout au fouet. Verser ce <INGRED>mélange</INGRED> dans un moule à manquer. Mettre au four pendant <INGRED>environ</INGRED> 30 min ( piquer le gâteau avec un couteau pour vérifier la cuisson <INGRED>:</INGRED> il doit ressortir impeccable).Laisser refroidir à la sortie du four <INGRED>.</INGRED> Renouveler l'opération 3 fois afin d'obtenir les trois gâteaux. Une fois les 3 gâteaux réalisés <INGRED>,</INGRED> poser 2 gâteaux l'un à côté de l'autre sur un support recouvert de papier aluminium. Couper le troisième en <INGRED>deux</INGRED> <INGRED>,</INGRED> et le disposer en biais sur les <INGRED>deux</INGRED> autres pour obtenir un pont. Réaliser le nappage <INGRED>chocolat</INGRED> <INGRED>:</INGRED> faire chauffer jusqu'à ébullition la <INGRED>crème liquide</INGRED> <INGRED>.</INGRED> Retirer du feu et verser sur le <INGRED>chocolat</INGRED> <INGRED>coupé</INGRED> en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> <INGRED>.</INGRED> Remuer. A l'aide du cuillère à soupe <INGRED>,</INGRED> recouvrir l'ensemble des gâteaux avec le nappage <INGRED>.</INGRED> Pour la décoration <INGRED>:</INGRED> Décorer le tout avec les bonbons de façon à former un circuit automobile. Armez vous de patience <INGRED>,</INGRED> mais c'est assez simple à réaliser et le résultat est magique ! ! !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 2.90909090909091*X + 29.0909090909091</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = X + 19</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['sucre']	 id:1	 quantité:300	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:2	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['chocolat noir dessert', 'chocolat']	 id:3	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['levure chimique', 'levure']	 id:4	 quantité:1	 unité:sachet de	 denombrable:True	 recipient:1*X
+ingredient:['beurre']	 id:5	 quantité:180	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crème liquide', 'crème']	 id:6	 quantité:10	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['carensacs blancs', 'carensacs']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['bâtonnets de réglisse', 'bâtonnets']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['frites bonbon', 'frites']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['pralinés en miettes', 'pralinés']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['voitures miniatures', 'voitures']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préchauffer	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:mélanger	 id:o_2	 ingrédients_ralatifs:['1', '7', '9']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_3	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:couper	 id:o_5	 ingrédients_ralatifs:['3', '4', '1', '2']	 nombre_opération_atomique:1+1*X+1+1	 temps:1*X*1+1*X*1+1*X*1+1*X*1	 recipient:1
+operation:fondre	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:remuer	 id:o_7	 ingrédients_ralatifs:['4', '9', '2', '10', '2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:brillante).ajouter	 id:o_8	 ingrédients_ralatifs:['2', '10', '2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:verser	 id:o_10	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:manquer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_12	 ingrédients_ralatifs:['1', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:piquer	 id:o_13	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ressortir	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:renouveler	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poser	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_18	 ingrédients_ralatifs:['6', '6']	 nombre_opération_atomique:1+1	 temps:1*X*1+1*X*1	 recipient:1
+operation:disposer	 id:o_19	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:réaliser	 id:o_20	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_21	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:retirer	 id:o_22	 ingrédients_ralatifs:['1', '3', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_23	 ingrédients_ralatifs:['1', '3', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recouvrir	 id:o_25	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:décorer	 id:o_26	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:armer	 id:o_27	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:réaliser	 id:o_28	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17981">
+  <titre>Fondant à la noix de coco</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 dl de lait</p>
+    <p>1 boîte de lait concentré sucré</p>
+    <p>6 oeufs</p>
+    <p>250 g de sucre</p>
+    <p>1 gousse de vanille</p>
+    <p>150 g de noix de coco râpée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Porter le lait à ébullition et y infuser la gousse de vanille.
+    Incorporer le lait concentré.
+    Travailler ensemble les oeufs entiers avec 100 g de sucre.
+    Verser le lait puis le coco et mélanger.
+    Réaliser un caramel avec le restant de sucre et 5 cl d'eau. Ajouter en final 3 cuillerées à soupe d'eau puis verser le caramel dans le fond d'un moule à cake.
+    Laisser prendre un peu puis verser le mélange.
+    Cuire au bain-marie à four doux (200°C) 30 à 40 min.
+    Laisser refroidir et démouler sur un plat.
+    La caramel est facultatif
+  ]]>
+  </preparation>
+</recette>

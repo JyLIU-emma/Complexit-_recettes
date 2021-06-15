@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14286">
+  <titre>Bami poulet porc</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g d'échine de porc</p>
+    <p>1 petit poulet</p>
+    <p>1 paquet de vermicelles chinois</p>
+    <p>250 g d'haricots vets (frais ou surgelés)</p>
+    <p>1/2 choux ou un petit chou blanc</p>
+    <p>2 carottes</p>
+    <p>1 gros oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>1/2 verre de sauce soja</p>
+    <p>3 cuillères à soupe de sauce nuoc nam(facultatif)</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper la viande en cubes. Couper les haricots et les carottes en biseaux, le choux en lamelles d'un cm environ. Emincer l'oignon.
+    Faire revenir la viande avec l'oignon. Quand la viande est dorée, ajouter les légumes, l'ail, le poivre et les sauces (ne pas saler tout de suite car les sauces le sont déjà).
+    Laisser cuire à découvert 20 mn environ.
+    Quand le tout est cuit, ajouter les vermicelles qui auront gonflé 10 mn dans de l'eau bouillante, puis couper le feu.
+    Réchauffer 10 mn avant de servir.
+  ]]>
+  </preparation>
+</recette>

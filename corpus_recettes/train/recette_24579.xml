@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24579">
+  <titre>Soufflé glacé au citron meringué</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>165 g de sucre</p>
+    <p>2 citrons</p>
+    <p>8 meringues</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Fouetter les jaunes d'oeuf avec 100 g de sucre jusqu'à ce que le mélange blanchisse puis ajouter le jus de citron.
+    Poser le saladier au-dessus d'une casserole d'eau bouillante et fouetter le mélange vigoureusement jusqu'à ce qu'il double de volume puis laisser refroidir.
+    Monter les blancs d'oeuf en neige avec une pincée de sel et le reste du sucre.
+    Les incorporer délicatement à la crème froide puis verser la préparation dans un moule à soufflé.
+    Incorporez délicatement les blancs en neige à la crème refroidie, puis versez l’appareil dans un moule à soufflé de façon à former un dôme.
+    Placer au congélateur durant au moins 2 heures.
+    Sortir du froid au moins 15 minutes avant le service et décorer de meringues concassées.
+  ]]>
+  </preparation>
+</recette>

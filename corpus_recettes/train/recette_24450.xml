@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24450">
+  <titre>Moussaka</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 grosses aubergines</p>
+    <p>4 belles tomates bien mûres</p>
+    <p>2 gros oignons</p>
+    <p>800 g de mouton haché</p>
+    <p>2 cuillères à soupe de persil haché</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>3 gousses d'ail</p>
+    <p>30 cl de vin blanc sec</p>
+    <p>125 g de parmesan râpé</p>
+    <p>2 brins de thym</p>
+    <p>1 cuillère à café de sucre</p>
+    <p>sel et noix muscade</p>
+    <p>25 cl de béchamel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les aubergines en tranches. Laisser dégorger pendant 1 heure avec du gros sel.
+    Faire revenir les oignons hachés dans l'huile avec l'ail écrasé et le thym. Ajoutez l'agneau et cuire 10 minutes.
+    Peler les tomates, les couper en quartiers. Saupoudrer de sucre, de poivre et de persil. Les ajouter au mélange précédent. Mouiller avec le vin blanc et cuire à découvert jusqu'à ce que le liquide soit évaporé.  
+    Préchauffez le four à 200°C (thermostat 6-7).
+    Dorer les tranches d'aubergine dans un peu d'huile pendant environ 4 minutes. Dans un plat à gratin, disposer successivement les couches d'aubergines et de viande. Terminer par les aubergines. Recouvrir de béchamel et saupoudrer de parmesan.
+    Enfourner 10-15 minutes jusqu'à ce que le dessus soit bien gratiné.
+  ]]>
+  </preparation>
+</recette>

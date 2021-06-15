@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25060">
+  <titre>Velouté froid aux poireaux</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de pommes de terre</p>
+    <p>2 beaux poireaux</p>
+    <p>1 gousse d'ail</p>
+    <p>10 cl de crème fraîche</p>
+    <p>25 cl de lait</p>
+    <p>cerfeuil et persil hachés</p>
+    <p>beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez, épluchez et coupez les pommes de terre et les poireaux en petits morceaux.
+    Faites-les revenir quelques minutes dans une cocotte avec le beurre.
+    Mouillez avec 1 l d'eau, salez, poivrez et laissez mijoter 40 min.
+    Mixez la soupe en incorporant le lait et la crème.
+    Laissez bien refroidir et réservez au réfrigérateur.
+    Servez parsemé de cerfeuil et persil.
+  ]]>
+  </preparation>
+</recette>

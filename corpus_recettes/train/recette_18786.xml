@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18786">
+  <titre>Poulet exotique</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 blancs de poulet (ou crevettes + blancs de calmars) </p>
+    <p>1 oignon en tranches</p>
+    <p>1 poivron rouge en lamelles</p>
+    <p>3 carottes en lamelles</p>
+    <p>farine de manioc</p>
+    <p>1 boîte de tomates pelées en dés</p>
+    <p>1 boîte de lait de coco</p>
+    <p>1 grosse poignée de raisins secs trempés dans de l'eau tiède</p>
+    <p>poudre d'amande</p>
+    <p>sauce soja</p>
+    <p>gingembre frais en lamelles (1 cuillère à soupe) </p>
+    <p>curry</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1- Mariner les blancs de poulet coupés en morceaux avec le manioc. 
+    2- Faire revenir oignons, gingembre, poivron et carottes. Réserver. 
+    3- Faire revenir la viande avec le curry. 
+    4- Ajouter les tomates et le lait de coco. 
+    Bien remuer et ajouter les raisins secs égouttés. Ajouter les légumes. 
+    5- Assaisonner à nouveau avec curry, sauce soja. 
+    6- Laisser mijoter à feu moyen en remuant de temps en temps. 
+    7- Au moment de servir, saupoudrer de poudre d'amande.
+    Servir avec du riz.
+  ]]>
+  </preparation>
+</recette>

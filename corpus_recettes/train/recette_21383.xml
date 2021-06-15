@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21383">
+  <titre>Escalopes Jericho</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 escalopes de veau</p>
+    <p>2 oeufs</p>
+    <p>1 petite boîte de concentré de tomates</p>
+    <p>4 tranches de jambon cuit fumé</p>
+    <p>2 petites boîtes de pointes d'asperges</p>
+    <p>gruyère râpé</p>
+    <p>4 cuillères à soupe de crème fraîche</p>
+    <p>une noix de beurre</p>
+    <p>un peu de farine</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Salez, poivrez les escalopes de veau et passez à la farine, trempez-les dans les oeufs battus. 
+    Faites cuire 2 mn à la poêle au beurre. 
+    Posez vos escalopes dans un plat allant au four, mettez dessus une cuillère à café de concentré de tomates. 
+    Disposez dessus une tranche de jambon, puis des pointes d'asperges. 
+    Recouvrez de gruyère râpé et nappez d'une cuillère à soupe de crème fraîche. 
+    Passez au four à gratiner Th 8 pendant 10 mn.
+    Ce plat est excellent mais se suffit à lui-même, ne pas prévoir de légumes.
+    Vous pouvez remplacer le concentré de tomates par une sauce de viande assez corsée.
+  ]]>
+  </preparation>
+</recette>

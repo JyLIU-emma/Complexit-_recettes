@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17209">
+  <titre>TARTE CHAUDE AU CHOCOLAT</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Un rouleau de pâte brisée</p>
+    <p>200 g de chocolat noir</p>
+    <p>250 ml de crème fraîche liquide UHT</p>
+    <p>2 oeufs + 2 jaunes d'oeuf</p>
+    <p>30 g de sucre en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la pâte brisée dans un moule à tarte. 
+    Piquer le fond à la fourchette, recouvrir d'un papier sulfurisé et d'une poignée de légumes secs. 
+    Laisser cuire 15 mn au four chauffé sur Th 6/7 (200°C ) . 
+    Pendant ce temps : 
+    Faire fondre le chocolat au bain-marie. 
+    Mélanger dans une jatte les deux oeufs, les deux jaunes, la crème fraîche et le sucre. 
+    Ajouter à ce mélange le chocolat fondu, bien lisser. 
+    Verser sur le fond de tarte cuit et faire cuire 15 mn dans le four chaud Th 5/6 (160°C ) . 
+    Démouler et servir chaud ou tiède.
+    On peut accompagner la tarte d'un peu de glace à la vanille ou d'un peu de crème anglaise.
+    On peut remplacer la crème fraîche par 150 g de beurre qu'on fait fondre avec le chocolat, au bain marie.
+  ]]>
+  </preparation>
+</recette>

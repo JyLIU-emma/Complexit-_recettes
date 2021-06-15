@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14778">
+  <titre>Poulet aux corn flakes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 grands blancs de poulets (ou encore ailes ou cuisses)</p>
+    <p>des corn flakes </p>
+    <p>beurre</p>
+    <p>sel, poivre, curry (selon vos goûts)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre des corn flakes dans une assiette et les émietter grossierement.
+    Pommadez les morceaux de poulets de beurre bien ramolli. Salez, poivrez (pas trop!), puis assaisonnez de curry selon votre goût.
+    Roulez les morceaux de poulets dans les corn flakes et disposez-les dans un plat allant au four.
+    Mettre le plat dans le four prechauffé à thermostat 5 pendant environ 20 mn (le temps que la viande cuise, tout dependant de la taille des morceaux).
+    C'est très bon, croustillant et plein de saveur.
+    On peut mettre n'importe quelle épice que l'on aime (à doser selon la force de l'épice!!).
+  ]]>
+  </preparation>
+</recette>

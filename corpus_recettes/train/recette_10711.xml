@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10711">
+  <titre>Tarte courgettes Carré frais et menthe</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée toute prête</p>
+    <p>500 g de courgettes surgelées ou fraiches </p>
+    <p>2 portions de Carrés Frais de 75 g</p>
+    <p>un bouquet de menthe fraiche ou surgelée </p>
+    <p>3 oeufs</p>
+    <p>huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poèle, mettre de l'huile à chauffer.
+    Couper les courgettes en rondelles et les faire revenir dans la poêle pendant 15 min.
+    Dans une terrine, battre les oeufs avec du sel et du poivre.
+    Emincer la menthe.
+    Ecraser les Carrés frais avec la menthe, les ajouter aux oeufs et bien mélanger à nouveau.
+    Ajouter les courgettes cuites dans le mélange, et remuer.
+    Etaler la pâte brisée et y verser la préparation.
+    Mettre au four pendant 30 min à 200°C (thermostat 6-7).
+    Laisser refroidir et déguster avec une salade verte !
+  ]]>
+  </preparation>
+</recette>

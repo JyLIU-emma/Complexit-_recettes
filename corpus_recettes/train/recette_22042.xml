@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22042">
+  <titre>Salade nicole</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 avocats</p>
+    <p>4 tomates</p>
+    <p>250 g de coeurs de palmier</p>
+    <p>2 oeufs</p>
+    <p>vinaigrette</p>
+    <p>persil</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les oeufs durs,  laissez-les refroidir avant de les hacher.
+     
+    Couper les avocats et les tomates en dés, couper en tronçons les coeurs de palmier, faire 1 vinaigrette à l'huile d'olive, et y ajouter les 2 oeufs durs hachés, mélanger les légumes et la sauce, saupoudre de persil ciselé, servir frais !!C'est 1 recette que m'a donnée un collègue !!
+  ]]>
+  </preparation>
+</recette>

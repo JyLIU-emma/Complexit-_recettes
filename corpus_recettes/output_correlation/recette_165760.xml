@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165760">
+  <titre>Paupiette de dinde farcie</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 escalopes de dinde</p>
+    <p>250g de viande hachée (dinde)</p>
+    <p>1 poivron rouge</p>
+    <p>1 oignon</p>
+    <p>1 œuf</p>
+    <p>1 boite de champignons</p>
+    <p>150g de fromage râpé</p>
+    <p>2 gousses d'ail</p>
+    <p>un peu de chapelure</p>
+    <p>du beurre et de l'huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre le four  à chauffer.
+    Dans un saladier, mélanger la viande hachée avec l’oignon émincé le poivron coupé en petits morceaux, les champignons égouttés, l’ail écrasé, la chapelure, l’œuf et enfin le fromage râpé. Saler et poivrer.
+    Farcir les paupiettes avec cette préparation et à l’aide de ficelle de cuisine former un gros saucisson.(pour que la viande ne déborde pas en cuisant)
+    Faire sauter dans une cocotte allant au four avec le beurre et l’huile, enfourner en ajoutant des petits pois (à remplacer par des carottes coupés en rondelles)
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Mettre</OPER> le four à <OPER id="o_2">chauffer</OPER>. Dans un <INGRED id="1">saladier</INGRED>, <OPER id="o_3">mélanger</OPER> la viande hachée avec l’ <INGRED id="3">oignon émincé</INGRED> le <INGRED id="2">poivron</INGRED> coupé en <INGRED id="3">petits</INGRED> <INGRED id="1">morceaux</INGRED>, les <INGRED id="4">champignons</INGRED> égouttés, l’ <INGRED id="9">ail</INGRED> écrasé, la <INGRED id="4">chapelure</INGRED>, l’ <INGRED id="1">œuf</INGRED> et enfin le <INGRED id="4">fromage râpé</INGRED>. <OPER id="o_413">Saler</OPER> et <OPER id="o_5">poivrer</OPER>. <OPER id="o_6">Farcir</OPER> les paupiettes avec cette <INGRED id="4">préparation</INGRED> et à l’ aide de ficelle de cuisine former un gros saucisson.(pour que la <INGRED id="1">viande</INGRED> ne déborde pas en cuisant ) Faire <OPER id="o_7">sauter</OPER> dans une cocotte allant au four avec le <INGRED id="2">beurre</INGRED> et l’ <INGRED id="2">huile</INGRED>, <OPER id="o_8">enfourner</OPER> en ajoutant des <INGRED id="3">petits</INGRED> <INGRED id="1">pois</INGRED> ( à <OPER id="o_9">remplacer</OPER> par des <INGRED id="1">carottes</INGRED> <INGRED id="11">coupés</INGRED> en rondelles )
+  </annotation>
+  <annotation methode="crf">
+  Mettre le four à chauffer <INGRED>.</INGRED> Dans un saladier <INGRED>,</INGRED> mélanger la <INGRED>viande</INGRED> hachée avec l’ <INGRED>oignon</INGRED> émincé le <INGRED>poivron</INGRED> coupé en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> <INGRED>,</INGRED> les <INGRED>champignons</INGRED> égouttés <INGRED>,</INGRED> l’ <INGRED>ail</INGRED> écrasé <INGRED>,</INGRED> la <INGRED>chapelure</INGRED> <INGRED>,</INGRED> l’ <INGRED>œuf</INGRED> et enfin le <INGRED>fromage</INGRED> râpé. Saler et poivrer. Farcir les paupiettes avec cette préparation et à l’ aide de ficelle de cuisine former un <INGRED>gros</INGRED> saucisson.(pour que la <INGRED>viande</INGRED> ne déborde pas en cuisant ) Faire sauter dans une cocotte allant au four avec le <INGRED>beurre</INGRED> et l’ <INGRED>huile</INGRED> <INGRED>,</INGRED> enfourner en ajoutant des <INGRED>petits</INGRED> <INGRED>pois</INGRED> ( à remplacer par des <INGRED>carottes</INGRED> coupés en rondelles )
+  </annotation>
+  <complexite>
+    <temps>f(X) = 7.64705882352941*X + 5.35294117647059</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 10*X + 10</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['escalopes de dinde', 'escalopes']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['viande hachée', 'viande']	 id:2	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['poivron rouge', 'poivron']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['oignon']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['œuf']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['boite de champignons', 'boite']	 id:6	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['fromage râpé', 'fromage']	 id:7	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['ail']	 id:8	 quantité:2	 unité:gousses d'	 denombrable:True	 recipient:2*X
+ingredient:['chapelure']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['huile']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:13	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mettre	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:chauffer	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:['1', '3', '2', '3', '1', '4', '9', '4', '1', '4']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:saler	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:farcir	 id:o_6	 ingrédients_ralatifs:['4', '1']	 nombre_opération_atomique:1*X+4*X	 temps:1*X*2+4*X*2	 recipient:0
+operation:sauter	 id:o_7	 ingrédients_ralatifs:['2', '2', '3', '1', '1', '11']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfourner	 id:o_8	 ingrédients_ralatifs:['3', '1', '1', '11']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remplacer	 id:o_9	 ingrédients_ralatifs:['1', '11']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

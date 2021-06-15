@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12839">
+  <titre>Soupe à l'ail (Espagne)</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 gousses d'ail</p>
+    <p>4 tranches de pain</p>
+    <p>4 oeufs</p>
+    <p>4 tasses de bouillon</p>
+    <p>paprika (2-3 c à café)</p>
+    <p>cumin (1-2 c à café)</p>
+    <p>1 pincée de curcuma (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four sur 220°C/thermostat 7.
+    Faites revenir l’ail. Enlevez-le de la casserole.
+    Faites griller le pain. Placez-le dans la casserole. 
+    Ajoutez le paprika, faites revenir 1-2 minutes. 
+    Ajoutez l’ail frit, le cumin, le curcuma, le bouillon, du sel et du poivre.
+    Portez à ébullition.
+    Divisez la soupe dans des bols allant au four ; cassez un oeuf dans chaque.
+    Enfournez pendant 8 minutes ou jusqu’à ce que les oeufs soient pochés.
+    Généralement, je double la quantité d'ail.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10818">
+  <titre>Poulet fumé</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 l de thé fumé (Lapsang Souchong) très fort </p>
+    <p>4 gros blancs de poulet</p>
+    <p>sel, poivre</p>
+    <p>20 g de beurre</p>
+    <p>1/2 citron (zeste)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire un thé fumé très fort.
+    Mariner les blancs dans le thé chaud 5h environ.
+    Essorer les blancs, puis les faire dorer dans le beurre.
+    Dans une cocotte verser la  marinade (le thé) filtrée.
+    Ajouter les blancs, saler et poivrer, puis ajouter les zestes et un trait de jus de citron.
+    Laisser mijoter à feu doux 1h.
+    Servir avec du riz et des petits légumes passé au wok.Ce n'est pas un gag, c'est une idée qui m'est passée par la tête, j'aiessayé, c'est surprenant mais délicieux!
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23800">
+  <titre>Crèpes aux blettes et leurs tomates</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de blettes dont on ne garde que les feuilles</p>
+    <p>150 g de petit salé émincé ou de lardons fins</p>
+    <p>3 oeufs</p>
+    <p>150 g de farine</p>
+    <p>1/4 de litre de lait</p>
+    <p>un peu d'huile</p>
+    <p>sel, poivre, ciboulette et persil</p>
+    <p>Pour les tomates :</p>
+    <p>400 g de tomates (vriété à votre convenance)</p>
+    <p>1 gousse d'ail écrasée</p>
+    <p>huile, vinaigre, persil, ciboulette et aromate liquide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la pâte à crèpes en mélangeant la farine, les oeufs, le lait, une pincée de sel et de poivre.
+    Faire blanchir les feuilles de blettes coupées en lamelles 10 mn à l'eau bouillante salée. Faire revenir les lardons à la poêle.
+    Incorporer blettes, lardons, persil et ciboulette dans la pâte à crèpe et faire vos crèpes.
+    Préparer les tomates : les couper en 2 (tomates cerises) ou en rondelles (grosses tomates). Mélanger tous les ingrédients de la vinaigrette dans un saladier et y plonger les tomates.
+    Servir les tomates sur les crèpes chaudes.
+    Utiliser une crèpière-party pour 6, c'est plus sympa.
+  ]]>
+  </preparation>
+</recette>

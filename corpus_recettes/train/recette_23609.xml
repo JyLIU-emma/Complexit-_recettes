@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23609">
+  <titre>Carpaccio de bœuf, tapenade et parmesan</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de carpaccio de bœuf</p>
+    <p>4 cuillères à soupe de tapenade verte </p>
+    <p>3 cuillères à soupe de pignons de pin</p>
+    <p>100 g de parmesan</p>
+    <p>3 branches de basilic</p>
+    <p>4 cuillères à soupe d’huile d’olive</p>
+    <p>1 pincée de poivre</p>
+    <p>Facultatif, pour la couleur : tomates séchées, olives noires au naturel en boîte</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détaillez le parmesan en copeaux à l’aide d’un économe. Répartissez le carpaccio de bœuf en rosace sur 4 assiettes.
+    Nappez légèrement les tranches de bœuf de tapenade (1 cuillère à soupe par assiette). Parsemez de copeaux de parmesan, de pignons de pin et de feuilles de basilic ciselées.
+    Poivrez, arrosez d’un filet d’huile d’olive et gardez au réfrigérateur jusqu’au moment de servir.
+    On peut rajouter des tomates séchées coupées en petits morceaux et des olives noires en rondelles.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21171">
+  <titre>Salade de carottes, jambon et fromage</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de carottes</p>
+    <p>150 g de gouda</p>
+    <p>150 g de jambon cuit</p>
+    <p>Pour la sauce :</p>
+    <p>1 cuillère à soupe de vinaigre de vin</p>
+    <p>2 ou 3 cuillères à soupe d'huile</p>
+    <p>1 échalote</p>
+    <p>persil et ciboulette hachée</p>
+    <p>sel, poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et peler les carottes puis les plonger dans une casserole d'eau bouillante salée. Les laisser cuire environ 20 à 30 min. Les égoutter, les essuyer, puis les détailler en rondelles.
+    Découper le jambon et le gouda en petits dés, puis hacher l'échalote, la ciboulette et le persil.
+    Dans un saladier, mélanger l'huile, le vinaigre, le sel, le poivre, l'échalote et les herbes. Incorporer les carottes, les dés de jambon et de fromage puis bien mélanger le tout.
+    Servir la salade dans des assiettes et déguster tiède ou frais.
+  ]]>
+  </preparation>
+</recette>

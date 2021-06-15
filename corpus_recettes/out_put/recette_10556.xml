@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10556">
+  <titre>Filet mignon aux amandes</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 filet mignon de porc</p>
+    <p>1 oeuf</p>
+    <p>4 cuillères à soupe d'amandes effilées</p>
+    <p>15 cl de Madère</p>
+    <p>1 orange</p>
+    <p>sel, poivre</p>
+    <p>curry</p>
+    <p>gingembre</p>
+    <p>cannelle</p>
+    <p>20 cl de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prendre le filet mignon de porc, le badigeonner avec un blanc d'oeuf. Le recouvrir d'amandes effilées, puis le faire dorer dans une sauteuse pendant 5 mn. Réserver au chaud.Déglacer la sauteuse avec du madère (qu'on peut flamber), ajouter le jus d'une orange et laisser un peu réduire. Saler et poivrer.
+    Personnellement j'ajoute curry, gingembre et cannelle.
+    En fin de réduction ajouter de la crême fraiche sans la faire trop cuire.
+    Ajouter le filet mignon jusqu'à cuisson complète, soit 20 minutes à feu doux.J'ai accompagné ce plat de 2 manières : riz basmati ou épinards.C'est l'adaptation d'une recette trouvée dans un magazine. Le vin conseillé était différent mais la première fois je n'avais que cela sous la main. La 2ème fois, je crois que c'était un banol rouge qui est bien passé. Chateauneuf du Pape
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Prendre</OPER> le <INGRED id="1">filet mignon de porc</INGRED>, le <OPER id="o_2">badigeonner</OPER> avec un blanc d'<INGRED id="5">oeuf</INGRED>. Le <OPER id="o_3">recouvrir</OPER> d'<INGRED id="3">amandes effilées</INGRED>, puis le faire <OPER id="o_4">dorer</OPER> dans une sauteuse pendant 5 mn. Réserver au chaud. <OPER id="o_5">Déglacer</OPER> la sauteuse avec du madère ( qu'on peut <OPER id="o_6">flamber</OPER> ), <OPER id="o_7">ajouter</OPER> le <INGRED id="5">jus</INGRED> d'une <INGRED id="5">orange</INGRED> et laisser un peu réduire. <OPER id="o_8">Saler</OPER> et <OPER id="o_9">poivrer</OPER>. Personnellement j'ajoute <INGRED id="8">curry</INGRED>, <INGRED id="9">gingembre</INGRED> et <INGRED id="10">cannelle</INGRED>. En fin de réduction <OPER id="o_10">ajouter</OPER> de la crême fraiche sans la faire trop <OPER id="o_11">cuire</OPER>. <OPER id="o_12">Ajouter</OPER> le <INGRED id="1">filet</INGRED> mignon jusqu'à cuisson complète, soit 20 minutes à feu doux. J'ai accompagné ce plat de 2 manières : riz basmati ou épinards. C'est l'adaptation d'une recette trouvée dans un magazine. Le <INGRED id="4">vin</INGRED> conseillé était différent mais la première fois je n'avais que cela sous la main. La 2ème fois, je crois que c'était un banol rouge qui est bien passé. Chateauneuf du Pape
+  </annotation>
+  <annotation methode="crf">
+  Prendre le <INGRED>filet</INGRED> mignon de <INGRED>porc</INGRED> <INGRED>,</INGRED> le badigeonner avec un <INGRED>blanc d'oeuf</INGRED> <INGRED>.</INGRED> Le recouvrir d'<INGRED>amandes effilées</INGRED> <INGRED>,</INGRED> puis le faire dorer dans une sauteuse pendant 5 mn <INGRED>.</INGRED> Réserver au chaud <INGRED>.</INGRED> Déglacer la sauteuse avec du madère ( qu'on peut flamber ) <INGRED>,</INGRED> ajouter le <INGRED>jus</INGRED> d'une orange et laisser un peu réduire <INGRED>.</INGRED> Saler et poivrer. Personnellement j'ajoute curry <INGRED>,</INGRED> <INGRED>gingembre</INGRED> et <INGRED>cannelle</INGRED> <INGRED>.</INGRED> En fin de réduction ajouter de la crême fraiche sans la faire trop cuire <INGRED>.</INGRED> Ajouter le <INGRED>filet mignon</INGRED> jusqu'à cuisson complète <INGRED>,</INGRED> soit 20 minutes à feu doux. J'ai accompagné ce plat de 2 manières <INGRED>:</INGRED> riz basmati <INGRED>ou</INGRED> épinards. C'est l'adaptation d'une recette trouvée dans un magazine. Le <INGRED>vin</INGRED> conseillé était différent mais la première fois je n'avais que cela sous la main. La 2ème fois <INGRED>,</INGRED> je crois que c'était un banol rouge qui est bien passé <INGRED>. Chateauneuf</INGRED> du Pape
+  </annotation>
+  <complexite>
+    <temps>f(X) = 6.0*X + 6.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 7*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['filet mignon de porc', 'filet']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['oeuf']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['amandes effilées', 'amandes']	 id:3	 quantité:4	 unité:cuillères à soupe d'	 denombrable:True	 recipient:4*X
+ingredient:['Madère']	 id:4	 quantité:15	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['orange']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['curry']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['gingembre']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['cannelle']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:11	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:prendre	 id:o_1	 ingrédients_ralatifs:['1', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:badigeonner	 id:o_2	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recouvrir	 id:o_3	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dorer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:déglacer	 id:o_5	 ingrédients_ralatifs:['5', '5']	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:flamber	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:['5', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

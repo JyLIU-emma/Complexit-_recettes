@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24122">
+  <titre>Ragoût de fruits de mer à la portugaise</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 homard de 700 g</p>
+    <p>400 g de crevettes roses décortiquées</p>
+    <p>12 grosses moules</p>
+    <p>400 g de palourdes</p>
+    <p>6 coquilles Saint-Jacques</p>
+    <p>Pour la fondue de légumes :</p>
+    <p>6 belles tomates rouges</p>
+    <p>2 oignons</p>
+    <p>2 poivrons</p>
+    <p>50 g de jambon cru haché</p>
+    <p>2 gousses d'ail</p>
+    <p>40 cl de vin blanc</p>
+    <p>4 à 5 cl d'huile d'olive</p>
+    <p>50 cl d'eau</p>
+    <p>1 feuille de laurier</p>
+    <p>1 capsule de safran</p>
+    <p>1 cuillère à soupe de persil haché</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher les poivrons finement. Peler et émincer les oignons puis les faire fondre dans une cocotte avec un peu d'huile. puis ajouter le hachis de poivron. Faire cuire doucement 5 min.
+    Laver et couper grossièrement les tomates. Ajouter le jambon, l'ail et le laurier dans la cocotte. Laisser revenir 2 min avant d'incorporer les tomates concassées.
+    Arroser le tout de vin blanc et d'eau. Cuire 15 min, puis poivrer et ajouter le safran.
+    Décoquiller les moules et les palourdes et les mettre dans la cocotte avec le homard, les crevettes et les coquilles Saint-Jacques.
+    Porter à nouveau à ébullition, rectifier l'assaisonnement si besoin.
+    Saupoudrer de persil haché avant de servir.
+  ]]>
+  </preparation>
+</recette>

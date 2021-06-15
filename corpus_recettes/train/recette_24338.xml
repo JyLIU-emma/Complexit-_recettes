@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24338">
+  <titre>Poisson au gingembre et lait de coco</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 beaux filets de poissons blanc (lotte de préférence) </p>
+    <p>2 courgettes</p>
+    <p>3 carottes</p>
+    <p>un peu de gingembre frais haché</p>
+    <p>2 boîtes de lait de coco</p>
+    <p>curry</p>
+    <p>ail, oignon</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un poêle profonde émincez l'ail et l'oigon et y faire revenir les courgettes et les carottes coupées en fines lamelles. 
+    Y ajouter le curry, le gingembre, le lait de coco, le sel et le poivre. 
+    Couvrir la poêle et laissez mijoter quelques minutes. 
+    Déposez les filets sur la préparation, couvrir la poêle et laisser cuire ainsi les filets pendant 10 mn. 
+    Servir avec du riz blanc.
+  ]]>
+  </preparation>
+</recette>

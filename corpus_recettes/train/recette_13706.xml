@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13706">
+  <titre>Potage à la citrouille</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 tasses de purée de citrouille (ce qui fait environ 1,5 kg de citrouille crue réduite en purée)</p>
+    <p>1/4 tasse de beurre (60 ml)</p>
+    <p>1 cuillère à café de sel</p>
+    <p>1 cuillère à café de sucre</p>
+    <p>1/4 cuillère à café de poivre blanc</p>
+    <p>4 tasses de lait chaud (1 litre)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez tout sauf le lait.
+    Cuisez à feu doux 10 minutes en brassant.
+    Ajoutez le lait. Chauffez 5 minutes.
+    Assaisonnez à votre goût avec de la cannelle, de la muscade,des clous de girofle ou des fines herbes selon votre choix.Super rapide, économique, inratable!
+  ]]>
+  </preparation>
+</recette>

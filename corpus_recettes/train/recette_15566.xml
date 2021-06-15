@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15566">
+  <titre>Soupe froide au concombre</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 beau concombre </p>
+    <p>50 g de raisins secs (faultatif)</p>
+    <p>1 bulbe de fenouil</p>
+    <p>ciboulette (1 petite botte)</p>
+    <p>aneth frais</p>
+    <p>4 yaourts</p>
+    <p>1 pincée de cumin en poudre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ebouillantez les raisins secs, égouttez-les
+    Pelez le concombre. Retirez-en les graines.
+    Pelez, grattez, lavez le bulbe de fenouil.
+    Lavez la ciboulette et hachez-la.
+    Mixez le concombre et le fenouil en purée fine avec les yaourts. Ajoutez la ciboulette, le cumin, le sel et le poivre, puis mélangez.
+    Au dernier moment, ajoutez les raisins secs et saupoudrez d'aneth frais.
+    Servir très frais (au besoin, ajoutez des glaçons).
+    On peut compléter avec quelques cubes de chèvre frais, de brousse ou de feta.
+    recette de l'Aprifel (agence pour la recherche et l'information en fruits et légumes frais)
+  ]]>
+  </preparation>
+</recette>

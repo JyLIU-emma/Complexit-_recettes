@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165020">
+  <titre>Croquants aux noisettes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g. de farine</p>
+    <p>300 g. de sucre</p>
+    <p>3 oeufs</p>
+    <p>300 g. de noisettes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Beurrer et fariner la plaque.
+    Dans un plat, mélanger la farine et le sucre.
+    Casser les noisettes en petits morceaux.
+    Rajouter les oeufs à la farine et au sucre, puis les noisettes.
+    Bien mélanger, étaler sur la plaque.
+    Mettre au four à 170° pendant 30 minutes.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Beurrer</OPER> et <OPER id="o_2">fariner</OPER> la plaque. Dans un plat, <OPER id="o_3">mélanger</OPER> la farine et le sucre. <OPER id="o_4">Casser</OPER> les <INGRED id="3">noisettes</INGRED> en <INGRED id="3">petits</INGRED> <INGRED id="1">morceaux</INGRED>. <OPER id="o_5">Rajouter</OPER> les oeufs à la farine et au <INGRED id="1">sucre</INGRED>, puis les <INGRED id="3">noisettes</INGRED>. Bien <OPER id="o_6">mélanger</OPER>, <OPER id="o_7">étaler</OPER> sur la plaque. <OPER id="o_8">Mettre</OPER> au four à 170 ° pendant 30 minutes.
+  </annotation>
+  <annotation methode="crf">
+  Beurrer et fariner la plaque <INGRED>.</INGRED> Dans un plat <INGRED>,</INGRED> mélanger la <INGRED>farine</INGRED> et le <INGRED>sucre</INGRED>. Casser les <INGRED>noisettes</INGRED> en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> <INGRED>.</INGRED> Rajouter les <INGRED>oeufs</INGRED> à la <INGRED>farine</INGRED> et au <INGRED>sucre</INGRED> <INGRED>,</INGRED> puis les <INGRED>noisettes</INGRED> <INGRED>.</INGRED> Bien mélanger <INGRED>,</INGRED> étaler sur la plaque <INGRED>.</INGRED> Mettre au four à 170 ° pendant 30 minutes.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 8.0*X</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 903*X + 3</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['g. de farine', 'g']	 id:1	 quantité:300	 unité:non_precis	 denombrable:True	 recipient:300*X
+ingredient:['g. de sucre', 'g']	 id:2	 quantité:300	 unité:non_precis	 denombrable:True	 recipient:300*X
+ingredient:['oeufs']	 id:3	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['g. de noisettes', 'g']	 id:4	 quantité:300	 unité:non_precis	 denombrable:True	 recipient:300*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:beurrer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fariner	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:casser	 id:o_4	 ingrédients_ralatifs:['3', '3', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rajouter	 id:o_5	 ingrédients_ralatifs:['1', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:étaler	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

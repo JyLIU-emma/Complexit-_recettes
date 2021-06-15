@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16622">
+  <titre>Poulet au boursin</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 blancs de poulet</p>
+    <p>2 boursins aux fines herbes</p>
+    <p>crème fraîche</p>
+    <p>4 cuillères à soupe de chapelure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez un boursin avec la chapelure.
+    Coupez les blancs de poulets en deux et étalez la farce.
+    Roulez les blancs de poulets et maintenez-les avec un cure-dents.
+    Faite revenir du beurre dans une poêle et faite dorer les roulades, couvrez ensuite et laissez cuire 10 minutes à feu doux à couvert.
+    Retirer les roulades et ajouter la crème fraîche et le boursin au jus de cuisson, portez le tout à ébullition.
+    Ajoutez les roulades à la sauces et réchauffez quelques instant à feu doux et à couvert.
+    Servez et savourez.
+    Accompagnez de tagliatelles vertes et blanches.
+  ]]>
+  </preparation>
+</recette>

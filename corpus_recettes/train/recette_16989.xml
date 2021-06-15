@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16989">
+  <titre>Coquilles St Jacques au Beaujolais</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>20 noix de coquilles St jacques</p>
+    <p>500 g de champignons</p>
+    <p>1 échalote hachée</p>
+    <p>1/2l de crème fraiche</p>
+    <p>250 g de pâtes fraîches</p>
+    <p>10 cl de beaujolais</p>
+    <p>huile d'olive</p>
+    <p>20 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Réserver 4 têtes de champignons pour la décoration, hacher les autres, les faire suer dans le beurre avec l'échalote. Incorporer la crème et le vin, saler, poivrer et laisser épaissir légèrement.
+    Faire dorer les St Jacuqes dans un mélange huile beurre 3 mn, saler, poivrer.
+    Napper les assiettes de sauce, poser au centre les pâtes avec les champignons puis disposer les coquilles St Jacques autour de la préparation.
+  ]]>
+  </preparation>
+</recette>

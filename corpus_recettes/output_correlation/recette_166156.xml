@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166156">
+  <titre>Bottereaux de Lulu</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1kg de farine</p>
+    <p>2 paquets de levure</p>
+    <p>1 cuillère à café de sel</p>
+    <p>2 paquets de sucre vanillé</p>
+    <p>8 cuillères à soupe de sucre</p>
+    <p>2 cuillères à soupe d'eau de vie</p>
+    <p>2 cuillères à soupe de pastis sans alcool</p>
+    <p>2 cuillères à soupe de fleurs d'oranger</p>
+    <p>1/4 de litre de lait tiède(37°)dans lequel on aura fait fondre 100gr de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un grand saladier, mélanger la farine, les sucres(sucre+sucre vanillé), la levure et le sel.
+    Faire un puits au centre du plat et y casser les œufs; ajouter l'eau de vie, le pastis, la fleur d'oranger et le lait tiède avec le beurre fondu.
+    Dans le puits, battre doucement les liquides à la fourchette puis incorporer la farine. Finir le mélange en pétrissant à la main assez vite pour éviter que la pâte ne devienne trop collante.
+    Laisser reposer la pâte 3 heures dans un saladier fermé près d'une source de chaleur.
+    Quand la pâte a reposé, la sortir du plat et la déposer tel quel puis la découper en bandes. 
+    On l'étalera au rouleau sur une table peu farinée(sinon la farine formera une croûte qui empêche le bottereau de lever)
+    Faire cuire dans la végétaline (deux pains fondus)bien chaude.
+    Enfin les déposer sur un papier qui absorbera la graisse puis dans un plat avec un couvercle pour les conserver.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Dans un grand <INGRED id="1">saladier</INGRED>, <OPER id="o_1">mélanger</OPER> la <INGRED id="8">farine</INGRED>, les sucres(sucre+sucre vanillé ), la <INGRED id="1">levure</INGRED> et le sel. Faire un puits au centre du plat et y <OPER id="o_2">casser</OPER> les <INGRED id="2">œufs</INGRED> ; <OPER id="o_3">ajouter</OPER> l'<INGRED id="6">eau de vie</INGRED>, le <INGRED id="7">pastis</INGRED>, la fleur d'oranger et le <INGRED id="5">lait</INGRED> tiède avec le <INGRED id="2">beurre fondu</INGRED>. Dans le puits, <OPER id="o_4">battre</OPER> doucement les liquides à la fourchette puis <OPER id="o_5">incorporer</OPER> la <INGRED id="1">farine</INGRED>. <OPER id="o_6">Finir</OPER> le <INGRED id="2">mélange</INGRED> en pétrissant à la main assez vite pour éviter que la <INGRED id="5">pâte</INGRED> ne devienne trop collante. Laisser <OPER id="o_7">reposer</OPER> la <INGRED id="1">pâte</INGRED> 3 heures dans un <INGRED id="1">saladier</INGRED> fermé près d'une source de chaleur. Quand la <INGRED id="5">pâte</INGRED> a reposé, la <OPER id="o_8">sortir</OPER> du plat et la <OPER id="o_9">déposer</OPER> tel quel puis la <OPER id="o_10">découper</OPER> en bandes. On l'étalera au rouleau sur une table peu farinée(sinon la farine formera une croûte qui empêche le bottereau de <OPER id="o_11">lever</OPER> ) Faire <OPER id="o_12">cuire</OPER> dans la végétaline ( deux pains fondus)bien chaude. Enfin les <OPER id="o_13">déposer</OPER> sur un papier qui absorbera la graisse puis dans un plat avec un couvercle pour les conserver.
+  </annotation>
+  <annotation methode="crf">
+  Dans un grand saladier <INGRED>,</INGRED> mélanger la <INGRED>farine</INGRED> <INGRED>,</INGRED> les <INGRED>sucres(sucre+sucre vanillé</INGRED> ) <INGRED>,</INGRED> la <INGRED>levure</INGRED> et le <INGRED>sel</INGRED> <INGRED>.</INGRED> Faire un puits au centre du plat et y casser les <INGRED>œufs</INGRED> ; ajouter l'<INGRED>eau de vie</INGRED> <INGRED>,</INGRED> le <INGRED>pastis</INGRED> <INGRED>,</INGRED> la fleur d'oranger et le <INGRED>lait</INGRED> tiède avec le <INGRED>beurre fondu</INGRED>. Dans le puits <INGRED>,</INGRED> battre doucement les liquides à la fourchette puis incorporer la <INGRED>farine</INGRED>. Finir le <INGRED>mélange</INGRED> en pétrissant à la main assez vite pour éviter que la <INGRED>pâte</INGRED> ne devienne trop collante <INGRED>.</INGRED> Laisser reposer la <INGRED>pâte</INGRED> 3 heures dans un saladier fermé près d'une source de chaleur. Quand la <INGRED>pâte</INGRED> <INGRED>a</INGRED> reposé <INGRED>,</INGRED> la sortir du plat et la déposer tel quel puis la découper en bandes. On l'étalera au <INGRED>rouleau</INGRED> sur une table peu farinée(sinon la <INGRED>farine</INGRED> formera une croûte qui empêche le bottereau de lever ) Faire cuire dans la végétaline ( deux pains fondus)bien chaude <INGRED>.</INGRED> Enfin les déposer sur un papier qui absorbera la <INGRED>graisse</INGRED> puis dans un plat avec un couvercle pour les conserver <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 11.7619047619048*X + 1.23809523809524</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 19*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['farine']	 id:1	 quantité:1	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['levure']	 id:2	 quantité:2	 unité:paquets de	 denombrable:True	 recipient:2*X
+ingredient:['sel']	 id:3	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+ingredient:['sucre vanillé', 'sucre']	 id:4	 quantité:2	 unité:paquets de	 denombrable:True	 recipient:2*X
+ingredient:['sucre']	 id:5	 quantité:8	 unité:cuillères à soupe de	 denombrable:True	 recipient:8*X
+ingredient:['eau de vie', 'eau']	 id:6	 quantité:2	 unité:cuillères à soupe d'	 denombrable:True	 recipient:2*X
+ingredient:['pastis sans alcool', 'pastis']	 id:7	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:["fleurs d'oranger", 'fleurs']	 id:8	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['beurre']	 id:9	 quantité:1/4	 unité:gr de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mélanger	 id:o_1	 ingrédients_ralatifs:['1', '8', '1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:casser	 id:o_2	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_3	 ingrédients_ralatifs:['6', '7', '5', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_4	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_5	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:finir	 id:o_6	 ingrédients_ralatifs:['2', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_7	 ingrédients_ralatifs:['1', '1']	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:sortir	 id:o_8	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déposer	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:découper	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:lever	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:déposer	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

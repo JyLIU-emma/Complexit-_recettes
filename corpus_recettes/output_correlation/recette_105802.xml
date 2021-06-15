@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="105802">
+  <titre>Escalope de volaille surprise</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 escalope de dinde ou de poulet</p>
+    <p>1 oignon</p>
+    <p>2 tranches de jambon cru</p>
+    <p>bleu d auvergne ou de bresse</p>
+    <p>20 cl de creme fraiche </p>
+    <p>100 g de gruyere</p>
+    <p>4 noix de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    ouvrir les escalopes les garnir de l oignon eminces fins mettre aussi le fromage bleu en lamelles a l interieur aussi puis deposer les escalopes dans un plat allant au four 
+    posez dessus chaque escalope une demi tranche de jambon ,le beurre puis etalez la crème fraiche puis parsemez de gruyère .
+    mettre au four 25 a 30 mn.
+    servez avec du riz ou des patesNe salez pas à la cuisson car avec le jambon cru c'est souvent assez salé.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">ouvrir</OPER> les <INGRED id="4">escalopes</INGRED> les <OPER id="o_2">garnir</OPER> de l <INGRED id="4">oignon</INGRED> eminces fins <OPER id="o_3">mettre</OPER> aussi le fromage bleu en lamelles a l interieur aussi puis <OPER id="o_4">deposer</OPER> les <INGRED id="4">escalopes</INGRED> dans un plat allant au four <OPER id="o_5">posez</OPER> dessus chaque <INGRED id="1">escalope</INGRED> une <INGRED id="2">demi</INGRED> tranche de jambon, le <INGRED id="2">beurre</INGRED> puis <OPER id="o_6">etalez</OPER> la <INGRED id="4">crème fraiche</INGRED> puis <OPER id="o_7">parsemez</OPER> de <INGRED id="2">gruyère</INGRED>. <OPER id="o_8">mettre</OPER> au four 25 a 30 mn. servez avec du <INGRED id="1">riz</INGRED> ou des patesNe salez pas à la cuisson car avec le <INGRED id="3">jambon cru</INGRED> c'est souvent assez salé.
+  </annotation>
+  <annotation methode="crf">
+  ouvrir les escalopes les garnir de l <INGRED>oignon</INGRED> eminces fins mettre aussi le <INGRED>fromage</INGRED> bleu en <INGRED>lamelles</INGRED> <INGRED>a</INGRED> l interieur aussi puis deposer les <INGRED>escalopes</INGRED> dans un plat allant au four posez dessus chaque escalope une <INGRED>demi</INGRED> tranche de <INGRED>jambon</INGRED> <INGRED>,</INGRED> le <INGRED>beurre</INGRED> puis etalez la <INGRED>crème fraiche</INGRED> puis parsemez de <INGRED>gruyère</INGRED> <INGRED>.</INGRED> mettre au four 25 <INGRED>a</INGRED> 30 mn <INGRED>.</INGRED> servez avec du <INGRED>riz</INGRED> <INGRED>ou</INGRED> des patesNe salez pas à la cuisson car avec le <INGRED>jambon</INGRED> cru c'est souvent assez salé.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 6.28571428571429*X + 1.71428571428571</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 11*X + 6</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['escalope de dinde ou de poulet', 'escalope']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['oignon']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['jambon cru', 'jambon']	 id:3	 quantité:2	 unité:tranches de	 denombrable:True	 recipient:2*X
+ingredient:['auvergne ou de bresse', 'auvergne']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['creme fraiche', 'creme']	 id:5	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['gruyere']	 id:6	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['noix de beurre', 'noix']	 id:7	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:ouvrir	 id:o_1	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garnir	 id:o_2	 ingrédients_ralatifs:['4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_3	 ingrédients_ralatifs:['4', '1', '2', '2', '4', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:deposer	 id:o_4	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poser	 id:o_5	 ingrédients_ralatifs:['1', '2', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:etaler	 id:o_6	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:parsemer	 id:o_7	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

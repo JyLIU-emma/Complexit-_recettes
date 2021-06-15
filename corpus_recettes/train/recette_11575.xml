@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11575">
+  <titre>Matefaim (Haute Savoie)</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de lard</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>2 dl de lait</p>
+    <p>3 oeufs</p>
+    <p>sel et poivre</p>
+    <p>100 g de fromage (comté, gouda, gruyère)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez le lard en fin lardons et faites-les fondres à la poêle.
+    D'autre part, délayez la farine avec 3 cuillères à soupe de lait, puis ajoutez le reste. Ajoutez les oeufs, le sel et le poivre, le fromage, puis battez en omelette.
+    Versez ce mélange sur les lardons et faites cuire en remuant sans arrêt jusqu'à ce que les oeufs soient pris.
+    Servir immédiatement.  
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20338">
+  <titre>Tarte aux courgettes et au boursin</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>500 g de courgettes</p>
+    <p>4 oeufs</p>
+    <p>10 cl de lait</p>
+    <p>2 boursins </p>
+    <p>1 cuillère à soupe de ciboulette ciselée</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 210°C (thermostat 7).
+    Etalez la pâte dans un moule à tarte beurré. A l'aide d'une fourchette, piquez le fond puis enfournez à blanc pour 5 minutes de cuisson.
+    Râpez grossièrement les courgettes et faites-les revenir dans l'huile pendant 5 minutes jusqu'à ce que l'eau de végétation soit évaporée. Salez, poivrez.
+    Mélangez les courgettes avec les oeufs battus en omelette, le lait et la ciboulette. Salez, poivrez.
+    Versez cette préparation sur le fond de tarte. Disposez dessus les boursins coupés en rondelles.
+    Enfournez pour 15 minutes de cuisson et servez bien chaud.
+  ]]>
+  </preparation>
+</recette>

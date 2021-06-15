@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23837">
+  <titre>Tarte aux champignons frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de pâte brisée</p>
+    <p>650 g de champignons</p>
+    <p>1 gousse d'ail</p>
+    <p>1 cuillerée à soupe de persil haché</p>
+    <p>20 g de beurre</p>
+    <p>25 g de farine</p>
+    <p>25 cl de lait</p>
+    <p>130 g de crème fraîche</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la pâte sur un moule à tarte, puis la précuire 10 min à 210°C (thermostat 7).
+    Laver les champignons, leur ôter le pied puis les émincer.
+    Les faire ensuite revenir dans une poêle beurrée avec l’ail haché et 1 cuillère à soupe de persil haché.
+    Saler, poivrer.
+    Dans une casserole, préparer une sorte de béchamel en mélangeant le lait et la crème puis en laissant épaissir à feu doux.
+    Ajouter ensuite cette sauce aux champignons puis laisser cuire 10 min en remuant.
+    Rectifier l’assaisonnement, puis verser la préparation sur la pâte précuite.
+    Mettre la tarte à four chaud 15 min.
+    Sortir la tarte du four puis saupoudrer de persil ciselé pour décorer.
+    Déguster chaud ou tiède.
+  ]]>
+  </preparation>
+</recette>

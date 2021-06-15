@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23534">
+  <titre>Soupe surprise au pain et au fromage</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 tomates</p>
+    <p>3 belles pommes de terre</p>
+    <p>1/2 coeur de céleri</p>
+    <p>2 blancs de poireaux</p>
+    <p>8 tranches de pain de campagne rassis</p>
+    <p>150 g de fromage râpé</p>
+    <p>une poignée de basilic</p>
+    <p>3 gousses d'ail</p>
+    <p>2 branches de thym</p>
+    <p>2 feuilles de laurier</p>
+    <p>huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez, pelez et coupez les légumes en petits morceaux.
+    Faites chauffer 2 cuillères à soupe d'huile. Mettez-y les poireaux et laissez-les blondir avec 2 gousses d'ail écrasées. Versez 2 l d'eau bouillante.
+    Laissez revenir l'ébullition, puis ajoutez les tomates, les pommes de terre, le céleri, le thym et le laurier. Laissez mijoter 1 h à feu doux.
+    Déposez 2 tranches de pain frottées à l'ail par assiette, arrosez-les d'huile d'olive. Rpéartissez le fromage râpé.
+    Mixez la soupe et versez-la dans les assiettes. Saupoudrez de basilic ciselé et servez.
+  ]]>
+  </preparation>
+</recette>

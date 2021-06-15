@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24791">
+  <titre>Bananes à la vanille flambées au rhum</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 bananes mûres </p>
+    <p>50 g de sucre </p>
+    <p>50 g de beurre </p>
+    <p>1 gousse de vanille </p>
+    <p>2 cuillères à soupe d'eau</p>
+    <p>4 cuillères à soupe de rhum</p>
+    <p>50 g de sucre  </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Éplucher les bananes et les couper dans le sens de la longueur sans les séparer. Mélanger le sucre, le beurre et la pulpe de vanille grattée, et en farcir les bananes fendues.
+    Beurrer un plat et y placer les bananes. Ajouter l'eau et recouvrir de sucre.
+    Mettre le plat au four à 150°C (thermostat 5) pendant 30 min. 
+    Chauffer le rhum dans une casserole et le verser dans le plat. Flamber et servir.
+  ]]>
+  </preparation>
+</recette>

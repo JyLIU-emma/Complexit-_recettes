@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21700">
+  <titre>Saint-Jacques au whisky</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>12 coquilles St Jacques</p>
+    <p>250 g de tomates concassées</p>
+    <p>150 g d'oignons</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>20 cl de crème fraîche</p>
+    <p>50 g de beurre</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>2 cuillères à soupe de whisky</p>
+    <p>2 branches de thym</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole à fond épais, préparer une sauce tomate : faire revenir dans un peu d'huile d'olive l'oignon émincé.
+    Ajouter les tomates, le thym, le vin blanc, saler et poivrer.
+    A la reprise de l'ébulition, couvrer et laisser cuire 20 min.
+    Au bout de ce temps, poêler au beurre les noix et les coraux de Saint-Jacques.
+    Ajouter alors la sauce tomate mixée et le whisky.
+    Au bout de 10 min de cuisson, ajouter la crème fraîche et server.
+  ]]>
+  </preparation>
+</recette>

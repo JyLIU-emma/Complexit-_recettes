@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="3368">
+  <titre>Boulettes de Carré Frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Carrés Frais</p>
+    <p>panure</p>
+    <p>oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre les oeufs, avec des aromates.
+    Plonger les Carrés frais, dans les oeufs, puis dans la panure.
+    Les faire cuire de chaque côté, puis les diposer sur un lit de salade, avec une sauce échalote, vinaigre de Xérès, huile d'olive, sel et poivre. 
+    Servir chaud.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Battre</OPER> les <INGRED id="2">oeufs</INGRED>, avec des aromates. <OPER id="o_2">Plonger</OPER> les Carrés frais, dans les <INGRED id="2">oeufs</INGRED>, puis dans la <INGRED id="2">panure</INGRED>. Les faire <OPER id="o_3">cuire</OPER> de chaque côté, puis les <OPER id="o_4">diposer</OPER> sur un lit de salade, avec une sauce échalote, vinaigre de Xérès, huile d'olive, sel et poivre. Servir chaud.
+  </annotation>
+  <annotation methode="crf">
+  Battre les <INGRED>oeufs</INGRED> <INGRED>,</INGRED> avec des aromates. Plonger les <INGRED>Carrés</INGRED> <INGRED>frais</INGRED> <INGRED>,</INGRED> dans les <INGRED>oeufs</INGRED> <INGRED>,</INGRED> puis dans la <INGRED>panure</INGRED> <INGRED>.</INGRED> Les faire cuire de chaque côté <INGRED>,</INGRED> puis les diposer sur un lit de <INGRED>salade</INGRED> <INGRED>,</INGRED> avec une <INGRED>sauce</INGRED> <INGRED>échalote</INGRED> <INGRED>,</INGRED> <INGRED>vinaigre de Xérès</INGRED> <INGRED>,</INGRED> <INGRED>huile d'olive</INGRED> <INGRED>,</INGRED> <INGRED>sel</INGRED> et poivre. Servir chaud <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 4.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 4</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['Carrés Frais', 'Carrés']	 id:1	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['panure']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:3	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:battre	 id:o_1	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:plonger	 id:o_2	 ingrédients_ralatifs:['2', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:diposer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21307">
+  <titre>Gâteau aux abricots et aux pommes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>200 g de beurre</p>
+    <p>190 g de sucre (ou fructose) </p>
+    <p>300 g de farine</p>
+    <p>1 cuillerée à café de levure en poudre</p>
+    <p>1 cuillère à soupe d’extrait de vanille liquide</p>
+    <p>cannelle en poudre</p>
+    <p>2 pommes moyennes</p>
+    <p>500 g d’abricots au sirop</p>
+    <p>sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer le four à 180°C . 
+    Dans un saladier, battre au fouet le beurre très ramolli et le sucre en y ajoutant les oeufs un par un jusqu’à ce que le mélange soit homogène et mousseux. 
+    Ajouter la farine avec la levure et la vanille liquide. 
+    Verser environ 1,5 cm de pâte dans le moule, disposez dessus les pommes coupées en tranches fines saupoudrées de cannelle. 
+    Recouvrir d’une légère couche de pâte, puis garnir entièrement de demi-abricots au sirop. 
+    Couvrir du reste de pâte. 
+    Mettre au four chaud 180°C pendant 10 mn, puis à 160°C pendant 15 mn et à 140°C pendant 30 mn. 
+    A la fin de la cuisson, laisser le gâteau au four encore une dizaine de minutes. 
+    Servir froid saupoudré de sucre glace et accompagné de crème fraîche.
+    à déguster avec un verre de cidre ou de jus de pommes , un régal !!
+  ]]>
+  </preparation>
+</recette>

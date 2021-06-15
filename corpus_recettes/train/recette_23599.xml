@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23599">
+  <titre>Pavé de saumon à l'ancienne</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 pavés de saumon</p>
+    <p>moutarde à l'ancienne</p>
+    <p>huile d'olive</p>
+    <p>sel poivre</p>
+    <p>herbes de Provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Étaler sur les pavés de saumon la moutarde à l'ancienne sur toute la longueur, parsemer d'huile d'olive de sel, poivre et herbes. 
+    Mettre les pavés dans des papillotes d'aluminium et enfourner au four (180°C) pendant une vingtaine de minutes.
+    Vous pouvez varier avec des moutardes parfumées.
+  ]]>
+  </preparation>
+</recette>

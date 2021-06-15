@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26377">
+  <titre>MOUSSE DE COURGETTES</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de courgettes (petites) </p>
+    <p>2 oeufs</p>
+    <p>20 g de beurre pour moule</p>
+    <p>2 oignons</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez les courgettes, coupez-les en morceaux. Les faire cuire dans un poêlon avec très peu de matière grasse ; rajouter les oignons coupés. Salez et poivrez. Cuisson 10 mn. 
+    Les passez au moulin à légumes, grille fine, en faire une purée. 
+    Cassez les oeufs, les fouettez et les incorporez dans la purée de courgettes. Rectifiez l'assaisonnement. 
+    Beurrez des petits ramequins, et garnissez-les de purée de courgettes. 
+    Faites-les cuire au bain-marie, au four, 20 mn
+    Très fin, facile, bonne présentation avec un rôti de bœuf.
+  ]]>
+  </preparation>
+</recette>

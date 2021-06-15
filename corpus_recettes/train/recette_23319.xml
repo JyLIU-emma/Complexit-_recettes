@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23319">
+  <titre>Salade sucrée-salée au curry</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 tomates</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>1 citron jaune</p>
+    <p>2 cuillères à soupe de fines herbes hachées</p>
+    <p>50 g de raisins secs</p>
+    <p>1 pomme</p>
+    <p>20 cerneaux de noix</p>
+    <p>1 branche de céleri</p>
+    <p>1 tranche épaisse de jambon ou 1 reste de poulet</p>
+    <p>15 cl de mayonnaise au citron</p>
+    <p>1/2 cuillère à café de curry</p>
+    <p>1 laitue</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites gonflez les raisins dans un peu d'eau tiède.
+    Coupez les tomates en quartiers et laissez-les mariner 1 heure arrosées d'huile d'olive, de jus de citron, des fines herbes, de sel et de poivre.
+    Mélangez les raisins égouttés, la pomme coupée en dés, les noix concassées, le céleri émincé et le jambon détaillé en morceaux.
+    Incorporez la mayonnaise au citron parfumée avec le curry et mélangez.
+    Répartissez la préparation sur les feuilles de laitue et disposez les tomates tout autour. 
+  ]]>
+  </preparation>
+</recette>

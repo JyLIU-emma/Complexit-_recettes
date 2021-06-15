@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164894">
+  <titre>Terrine thon-tomate facile</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 grosse boîte de thon (400g ou 270g égoutté)</p>
+    <p>2 grosses tomates genre cœur de bœuf ou 3 rondes moyennes</p>
+    <p>3 œufs</p>
+    <p>1 cuillère à soupe de crème fraîche</p>
+    <p>1/2 verre de lait</p>
+    <p>3 cuillères à soupe rases de chapelure </p>
+    <p>1 cuillère à soupe de maïzena</p>
+    <p>1 échalote émincée</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>herbes de Provence, persil</p>
+    <p>Sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    -Casser les œufs dans un saladier et les battre énergiquement avec la crème fraîche
+    -Ajouter la chapelure, la maïzena et battre (au batteur) pour rendre homogène
+    -Ajouter le lait puis l'huile d'olive en mélangeant
+    -Bien égoutter et émietter le thon puis l'ajouter
+    -Peler, épépiner et couper les tomates en petits morceaux avant de les joindre au mélange
+    -Ajouter l'échalote émincée
+    -Saler, poivrer, ajouter les herbes
+    -Enfourner à four chaud 3/4 d'heure environ à180°-200° (selon la qualité de votre four)A manger froid accompagné de mayonnaise ou de salade verteLa qualité et le goût des tomates sont fondamentale pour réussir cette terrine que nous mangeons en plat principal l'été. 
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">-Casser</OPER> les <INGRED id="1">œufs</INGRED> dans un <INGRED id="1">saladier</INGRED> et les <OPER id="o_2">battre</OPER> énergiquement avec la crème fraîche <OPER id="o_3">-Ajouter</OPER> la <INGRED id="8">chapelure</INGRED>, la <INGRED id="7">maïzena</INGRED> et <OPER id="o_4">battre</OPER> ( au batteur ) pour rendre homogène <OPER id="o_5">-Ajouter</OPER> le <INGRED id="2">lait</INGRED> puis l'<INGRED id="4">huile d'olive</INGRED> en mélangeant -Bien <OPER id="o_6">égoutter</OPER> et <OPER id="o_7">émietter</OPER> le thon puis l'<OPER id="o_8">ajouter</OPER> <OPER id="o_9">-Peler</OPER>, <OPER id="o_10">épépiner</OPER> et <OPER id="o_11">couper</OPER> les tomates en <INGRED id="3">petits</INGRED> <INGRED id="1">morceaux</INGRED> avant de les <OPER id="o_12">joindre</OPER> au <INGRED id="2">mélange</INGRED> <OPER id="o_13">-Ajouter</OPER> l'<INGRED id="8">échalote émincée</INGRED> <OPER id="o_14">-Saler</OPER>, <OPER id="o_15">poivrer</OPER>, <OPER id="o_16">ajouter</OPER> les herbes <OPER id="o_17">-Enfourner</OPER> à four chaud 3/4 d'heure environ à180 ° -200 ° ( selon la qualité de votre four)A <OPER id="o_18">manger</OPER> froid accompagné de <INGRED id="5">mayonnaise</INGRED> ou de salade verteLa qualité et le <INGRED id="7">goût</INGRED> des <INGRED id="5">tomates</INGRED> sont fondamentale pour réussir cette terrine que nous mangeons en plat principal l'été.
+  </annotation>
+  <annotation methode="crf">
+  -Casser les <INGRED>œufs</INGRED> dans un saladier et les battre énergiquement avec la <INGRED>crème fraîche</INGRED> -Ajouter la <INGRED>chapelure</INGRED> <INGRED>,</INGRED> la <INGRED>maïzena</INGRED> et battre ( au batteur ) pour rendre homogène -Ajouter le <INGRED>lait</INGRED> puis l'<INGRED>huile d'olive</INGRED> en mélangeant -Bien égoutter et émietter le <INGRED>thon</INGRED> puis l'ajouter -Peler <INGRED>,</INGRED> épépiner et couper les <INGRED>tomates</INGRED> en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> avant de les joindre au <INGRED>mélange</INGRED> -Ajouter l'<INGRED>échalote</INGRED> émincée -Saler <INGRED>,</INGRED> poivrer <INGRED>,</INGRED> ajouter les <INGRED>herbes</INGRED> -Enfourner à four chaud 3/4 d'heure <INGRED>environ</INGRED> à180 ° -200 ° ( selon la qualité de votre four)A manger froid accompagné de <INGRED>mayonnaise</INGRED> <INGRED>ou</INGRED> de salade verteLa qualité et le goût des <INGRED>tomates</INGRED> sont fondamentale pour réussir cette terrine que nous mangeons en plat principal l'été.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 16.9473684210526*X + 6.05263157894737</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 14*X + 6</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['thon']	 id:1	 quantité:1	 unité:boîte de	 denombrable:True	 recipient:1*X
+ingredient:['rondes moyennes', 'rondes']	 id:2	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['œufs']	 id:3	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['crème fraîche', 'crème']	 id:4	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['lait']	 id:5	 quantité:1/2	 unité:verre de	 denombrable:False	 recipient:1
+ingredient:['chapelure']	 id:6	 quantité:3	 unité:cuillères à soupe rases de	 denombrable:True	 recipient:3*X
+ingredient:['maïzena']	 id:7	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['échalote émincée', 'échalote']	 id:8	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:["huile d'olive", 'huile']	 id:9	 quantité:2	 unité:cuillères à soupe d'	 denombrable:True	 recipient:2*X
+ingredient:['herbes de Provence', 'herbes']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['persil']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['Sel']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:13	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:-casser	 id:o_1	 ingrédients_ralatifs:['1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:-ajouter	 id:o_3	 ingrédients_ralatifs:['8', '7', '2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:-ajouter	 id:o_5	 ingrédients_ralatifs:['2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:égoutter	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:émietter	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:-peler	 id:o_9	 ingrédients_ralatifs:['3', '1', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:épépiner	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_11	 ingrédients_ralatifs:['3', '1', '2']	 nombre_opération_atomique:3*X+1*X+2*X	 temps:3*X*1+1*X*1+2*X*1	 recipient:1
+operation:joindre	 id:o_12	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:-ajouter	 id:o_13	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:-saler	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:-enfourner	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:manger	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

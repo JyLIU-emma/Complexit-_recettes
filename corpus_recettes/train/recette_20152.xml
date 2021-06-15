@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20152">
+  <titre>RIZ AU LAIT A LA CREME ET A LA CANNELLE</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de riz rond</p>
+    <p>75 cl de lait</p>
+    <p>5 cuillères à soupe de crème fraîche</p>
+    <p>120 g de sucre</p>
+    <p>le zeste d'un citron</p>
+    <p>1 bâton de cannelle</p>
+    <p>1 cuillère à soupe de cannelle en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre le riz dans une casserole et couvrir d'eau à hauteur. Laisser cuire sur feu doux jusqu'à évaporation complète de l'eau. 
+    Ajouter le lait et la crème fraîche. A partir de la reprise de l'ébullition, poursuivre la cuisson sur feu doux 20 mn. 
+    Incorporer alors le sucre, le zeste de citron et le bâton de cannelle. Laisser cuire encore 10 mn. 
+    Faire refroidir dans un plat ou dans des ramequins individuels. 
+    Au moment de servir, saupoudrer de cannelle.
+    Vous pouvez remplacer la cannelle par 2 gousses de vanille fendues en deux et grattées, et le zeste de citron par du zeste d'orange.
+  ]]>
+  </preparation>
+</recette>

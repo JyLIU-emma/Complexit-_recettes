@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26703">
+  <titre>Albondigas</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de viande hachée de boeuf (on peut aussi faire un mélange avec du boeuf, du porc et du poulet) </p>
+    <p>une grosse gousse d'ail</p>
+    <p>deux à trois oeufs</p>
+    <p>100 g de la chapelure fine</p>
+    <p>de la sauce tomate</p>
+    <p>huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, mélanger la viande hachée, l'ail qu'on aura haché, les oeufs, la chapelure, du sel et du poivre. 
+    Faire des boulettes, vous pouvez vous servir de cuillères à café mais il faut que la viande fasse une boulette bien compactée. 
+    Dans une poêle à bords hauts, mettre assez d'huile d'olive pour faire dorer les boulettes de viande. Il faut qu'elles soient dorées, pas forcément cuites à l'intérieur puisqu'elles vont mariner par la suite. 
+    Quand l'huile est bien chaude, mettre les albondigas et laisser frire pendant environ 1 mn. Les réserver et les égoutter sur du papier absorbant. 
+    Dans une casserole faire chauffer de la sauce tomate et rajouter les albondigas, vous pouvez mettre du thym et du laurier. Assaisonner : c'est prêt à être dégusté avec du riz ou des pâtes !
+  ]]>
+  </preparation>
+</recette>

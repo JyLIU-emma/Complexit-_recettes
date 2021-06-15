@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12191">
+  <titre>Rôti de boeuf en croûte</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de filet de boeuf non bardé</p>
+    <p>1 rouleau de pâte feuilletée déjà étalée (275g)</p>
+    <p>300 g de champignons de Paris</p>
+    <p>1 jaune d'oeuf</p>
+    <p>Pour la cuisson et la dorure :</p>
+    <p>1/2 citron</p>
+    <p>1/2 bouquet de persil</p>
+    <p>1 jaune d'oeuf</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>4 cuillères à soupe de lait</p>
+    <p>1 cuillère à soupe de crème fraîche</p>
+    <p>30 g de beurre </p>
+    <p>4 cuillères à soupe d'huile</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte, faites dorer le rôti à l'huile chaude sur toutes les faces. Laissez-le complétement égoutter et refroidir sur une grille. Salez et poivrez-le.
+    Entre-temps, nettoyez les champignons. Rincez-les rapidement et émincez-les. Placez-les dans une poêle. Salez et poivrez-les.
+    Ajoutez le beurre, le jus du 1/2 citron et le persil ciselé. Faites-les cuire à feu vif jusqu'à ce qu'il ne reste plus de liquide. Hachez-les grossièrement. Incorporez un jaune d'oeuf et la crème.
+    Préchauffez le four à thermostat 8 (240°C).
+    Déroulez la pâte sur la plan de travail. Etalez au centre 1/3 des champignons. Installez le rôti dessus. Tartinez-le du reste des champignons.
+    A l'aide d'un pinceau, badigeonnez de lait la pâte autour du rôti. Repliez-la afin de l'enfermer totalement et appuyez du bout des doigts pour souder les pliures.
+    Saupoudrez une plaque à pâtisserie de farine. Posez le feuilleté dessus, pliures par en-dessous.
+    Découpez des motifs dans les chutes de pâte et collez-les au jaune d'oeuf, dilué avec le reste du lait. Dorez la surface, enfournez et faites cuire 10 mn.
+    Ramenez le thermostat sur 6/7 (190°C), laissez cuire et dorer 25 mn.
+    Servez chaud avec une poêlée de champignons des bois.
+  ]]>
+  </preparation>
+</recette>

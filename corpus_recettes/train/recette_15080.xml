@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15080">
+  <titre>Tourte au munster</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 munster coupé en tranches</p>
+    <p>une laitue</p>
+    <p>2 rouleaux de pâte feuilletée</p>
+    <p>carvi</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>1 ou 2 jaunes d'oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler 1 rouleau de pâte feuilletée dans un plat à tarte. Déposez-y des tranches de munster et quelques feuilles de laitue. Salez, poivrez et parsemez de carvi.
+    Couvrez du deuxième rouleau de pâte et fermez les bords. Badigeonner de jaune d'oeuf.
+    Enfournez une trentaine de minute au four (thermostat 5/6).
+    Dégustez chaud.
+    Peut être servi comme plat principal, accompagné d'une salade verte.
+  ]]>
+  </preparation>
+</recette>

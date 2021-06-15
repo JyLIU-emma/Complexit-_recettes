@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16018">
+  <titre>Tarte au roquefort et au jambon fumé</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>200 g de roquefort</p>
+    <p>150 g de jambon fumé</p>
+    <p>4 oeufs</p>
+    <p>300 g de crème fraîche</p>
+    <p>200 g de fromage blanc</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez votre four à 210°C (thermostat 7) et faites cuire le fond de tarte à blanc pendant 10 min.
+    Hachez le jambon. Battez les oeufs et mélangez-y la crème, le fromage blanc et le roquefort puis ajouter le jambon haché. Salez légèrement et poivrez.
+    Garnissez le fond de tarte avec cette préparation.
+    Faites cuire au four 35 min.Généralement, je sers cette tarte tiède, accompagnée d'une salade avec quelques cerneaux de noix.
+  ]]>
+  </preparation>
+</recette>

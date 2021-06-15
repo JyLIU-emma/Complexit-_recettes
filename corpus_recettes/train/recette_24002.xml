@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24002">
+  <titre>Choucroute traditionnelle</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1 kg de choucroute crue</p>
+    <p>350 g d'échine de porc</p>
+    <p>200 g de poitrine de porc fraîche</p>
+    <p>100 g de tranches de lard fumé</p>
+    <p>8 saucisses de Strasbourg</p>
+    <p>1 saucisson fumé</p>
+    <p>quelques couennes de lard fumé </p>
+    <p>1/2 bouteille de vin d'Alsace</p>
+    <p>2 oignons piqués d'un clou de girofle</p>
+    <p>2 carottes</p>
+    <p>6 baies de genièvre</p>
+    <p>8 pommes de terre</p>
+    <p>1 bouquet garni</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Garnir le fond de la casserole de couennes de lard fumé.
+    Mettre la choucroute, les baies de genièvre, les oignons, les herbes et les carottes en bâtonnets épais.
+    Assaisonner et mélanger sanss déplacer les couennes.
+    Mettre ensuite l'échine et la poitrine de porc. 
+    Mouiller avec le vin et compléter à hauteur avec le bouillon. 
+    Recouvrir d'un couvercle et cuire doucement sur feu moyen. 
+    Après 1 h de cuisson, retirer l'échine et la poitrine, et laisser sur le feu pendant 1 h supplémentaire. 
+    Cuire les pommes de terre à la vapeur.
+    Pocher les saucisses et le saucisson à l'eau chaude. 
+    Remettre 15 min avant la fin de la cuisson, l'échine, la poitrine et mettre le lard fumé.
+    Retirer les herbes et les carottes avant de servir.
+    Couper la viande en tranches et accompagné de la choucroute, des saucisses, du saucisson et du lard, sans oublier les pommes de terre.
+  ]]>
+  </preparation>
+</recette>

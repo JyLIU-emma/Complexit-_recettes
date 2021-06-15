@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18983">
+  <titre>Gâteau au chocolat type 'brownie'</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de noix</p>
+    <p>4 œufs</p>
+    <p>50 g de farine</p>
+    <p>150 g de sucre</p>
+    <p>150 g de beurre</p>
+    <p>200 g de chocolat noir à croquer (1 tablette) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four 10 min à thermostat 6 (180°C).
+    Faire fondre le chocolat et le beurre dans une casserole. Quand c'est bien fondu, mettre dans un récipient, puis ajouter le sucre et la farine. Mélanger.
+    Ajouter les œufs, puis les noix. 
+    Il ne reste plus qu'à cuire au four 25 à 30 mn à 180°C (thermostat 6). 
+    Laisser refroidir et régalez vous.
+    Recette très simple, très rapide et délicieuse... pour les fans de chocolat!!!
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164754">
+  <titre>Paté de nouilles</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250g de spaghetti </p>
+    <p>lardons </p>
+    <p>3 cuilleres à soupe de creme fraiche</p>
+    <p>4 oeufs </p>
+    <p>herbes de provence, sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    faire cuire les spaghettis .
+    faire revenir les lardons sans matiere grasse puis reserver.
+    dans un recipient melanger oeufs , creme fraiche,condiments.
+    Beurrer un moule à cake y verser les spaghettis à moitié du moule puis les lardons e ensuite recourvir de spaghetti et pour finir recouvrir avec la preparation à base d'oeufs.et mettre au four 35à 40 min à 180°.
+    possibilité d emettre du gruyere dans la preparation.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  faire <OPER id="o_1">cuire</OPER> les spaghettis. faire <OPER id="o_2">revenir</OPER> les <INGRED id="5">lardons</INGRED> sans matiere grasse puis <OPER id="o_3">reserver</OPER>. dans un recipient <OPER id="o_4">melanger</OPER> <INGRED id="5">oeufs</INGRED>, <INGRED id="2">creme fraiche</INGRED>, condiments. <OPER id="o_5">Beurrer</OPER> un moule à cake y <OPER id="o_6">verser</OPER> les spaghettis à moitié du moule puis les <INGRED id="2">lardons</INGRED> e ensuite <OPER id="o_7">recourvir</OPER> de <INGRED id="1">spaghetti</INGRED> et pour <OPER id="o_8">finir</OPER> recouvrir avec la preparation à base d'oeufs.et <OPER id="o_9">mettre</OPER> au four 35à 40 min à 180 °. possibilité d <OPER id="o_10">emettre</OPER> du <INGRED id="3">gruyere</INGRED> dans la preparation.
+  </annotation>
+  <annotation methode="crf">
+  faire cuire les spaghettis <INGRED>.</INGRED> faire revenir les <INGRED>lardons</INGRED> sans matiere grasse puis reserver <INGRED>.</INGRED> dans un recipient melanger <INGRED>oeufs</INGRED> <INGRED>,</INGRED> creme fraiche <INGRED>,</INGRED> condiments. Beurrer un moule à cake y verser les spaghettis à moitié du moule puis les <INGRED>lardons</INGRED> e ensuite recourvir de <INGRED>spaghetti</INGRED> et pour finir recouvrir avec la preparation à base d'oeufs.et mettre au four 35à 40 min à 180 °. possibilité d emettre du gruyere dans la preparation.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 5.83333333333333*X + 4.16666666666667</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 7*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['spaghetti']	 id:1	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['lardons']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['cuilleres à soupe de creme fraiche', 'cuilleres']	 id:3	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['oeufs']	 id:4	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['herbes de provence', 'herbes']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:cuire	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:revenir	 id:o_2	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:reserver	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:melanger	 id:o_4	 ingrédients_ralatifs:['5', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:beurrer	 id:o_5	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_6	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recourvir	 id:o_7	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:finir	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:emettre	 id:o_10	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

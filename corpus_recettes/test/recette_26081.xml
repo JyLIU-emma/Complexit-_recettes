@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26081">
+  <titre>Salade de pommes de terre épicée</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de pommes de terre roseval</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>jus d'1/2 citron</p>
+    <p>3 cuillères à soupe de graines de sésame</p>
+    <p>1 cuillère café de paprika</p>
+    <p>1 cuillère café de cumin</p>
+    <p>1 cuillère café de coriandre moulue</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Débiter les pommes de terre préalablement cuites à l'eau en petits cubes. 
+    Mélanger toutes les épices avec l'huile d'olive et le jus du citron et y verser les pommes de terre. Bien remuer et laisser un peu reposer. 
+    Faire griller à sec les graines de sésames (attention, ça va très vite !). 
+    Mélanger à la salade, puis servir.
+    Peut se manger froide en entrée, ou légèrement tiède, en accompagnement.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25464">
+  <titre>Gnocchis aux légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de gnocchis</p>
+    <p>300 g de haricots verts</p>
+    <p>3 oignons</p>
+    <p>5 tomates pelées et concassées</p>
+    <p>3 cuillères d'huile</p>
+    <p>3 petites pommes de terre </p>
+    <p>100 g d'olives noires dénoyautées</p>
+    <p>origan, safran, sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les légumes (haricots verts et pommes de terre) 10 min à la vapeur. 
+    Couper les oignons en petits dés et les faire revenir dans l'huile. 
+    Ajouter les haricots verts et les pommes de terre pelées et coupées en 2, puis faire revenir le tout 5 min. 
+    Ecraser ensemble les olives, les tomates, et l'origan jusqu'à l'obtention d'une sauce onctueuse; assaisonner. 
+    Faire cuire les gnocchis selon le temps indiqué sur le paquet, dans de l'eau bouillante salée et safranée; égoutter les pâtes.
+    Mélanger ensemble les légumes et les gnocchis, puis napper de sauce.
+  ]]>
+  </preparation>
+</recette>

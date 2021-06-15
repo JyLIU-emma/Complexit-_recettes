@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24067">
+  <titre>Tagliatelles aux champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>300 g de pâtes type tagliatelles ou linguines</p>
+    <p>2600 g de champignons : cèpes, trompettes, girolles</p>
+    <p>30 g de beurre</p>
+    <p>1 cuillère d'huile d'olive</p>
+    <p>2 cl de crème fraîche</p>
+    <p>6 brins de persil ciselés</p>
+    <p>2 gousses d'ail</p>
+    <p>30 g de parmesan râpé</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eminicer les champignons lavées et séchés.
+    Mettre le beurre fondu avec l'huile d'olive pour faire revenir les champignons pendant 10 min à feu doux.
+    En fin de cuisson, mettre l'ail écrasé et coupé, la crème fraîche et le parmesan, sans oublier d'assaisonner.
+    Faire cuire les pâtes en attendant dans de l'eau bouillante salée.
+    Rajouter les pâtes égouttées dans la crème aux champignons.
+    Laisser bien aborber la sauce en remuant.
+    Présenter dans un plat chaud et saupoudré de persil.
+  ]]>
+  </preparation>
+</recette>

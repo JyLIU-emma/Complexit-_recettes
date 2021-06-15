@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10702">
+  <titre>Côtelettes d'agneau sauce espagnole</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>12 côtelettes d'agneau</p>
+    <p>40g de beurre</p>
+    <p>1 carotte</p>
+    <p>1 oignon</p>
+    <p>1 branche de céleri</p>
+    <p>1 tranche de lard</p>
+    <p>1/2 l de fond de boeuf</p>
+    <p>1 cuillères à soupe de concentré de tomates</p>
+    <p>50 g de champignons</p>
+    <p>1 feuille de laurier</p>
+    <p>3 branches de persil</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la sauce : éplucher et hacher la carotte et l'oignon.  Nettoyer et hacher le céleri.  Oter la couenne du lard et couper celui-ci en petits morceaux.
+    Faire fondre 10g de beurre dans une casserole et y faire revenir carotte, oignon, céleri, lard et champignons. Arroser de fond de boeuf, ajouter le concentré de tomate et laisser mijoter pendant 15 min.
+    Ajouter 30 g de beurre, mélanger. Passer ensuite au mixer. Reverser dans la casserole et laisser mijoter jusqu'à épaississement.
+    Faire revenir les côtelettes dans un peu de beurre pendant quelques minutes, saler et poivrer.
+    Dresser 3 côtelettes en forme de couronne sur chaque assiette.  Napper celles-ci de sauce et décorer avec des légumes rissolés (tranches de courgettes ou rondelles de tomates...).
+     Saint-Estèphe ou Graves
+  ]]>
+  </preparation>
+</recette>

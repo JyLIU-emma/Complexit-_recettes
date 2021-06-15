@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20485">
+  <titre>Rigatoni sauce petits pois et ricotta</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>20 cl de crème fraîche</p>
+    <p>70 g de beurre</p>
+    <p>50 g de parmesan râpé</p>
+    <p>125 g de ricotta</p>
+    <p>400 g de petits pois extra-fins en boîte</p>
+    <p>sel, poivre</p>
+    <p>noix de muscade râpée</p>
+    <p>500 g de rigatoni</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pâtes dans un grand volume d'eau bouillante salée. Pendant ce temps, faire fondre le beurre dans la crème fraîche à feu doux. 
+    Ajouter le parmesan, mélanger pour obtenir une sauce lisse, puis ajouter la ricotta et enfin les petits pois égouttés. 
+    Saler et poivrer. 
+    Ajouter la sauce aux pâtes cuites.Ce n'est pas régime, mais c'est facile et les petits pois sont surprenants. Vin blanc sec
+  ]]>
+  </preparation>
+</recette>

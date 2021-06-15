@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19099">
+  <titre>Pavé au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de chocolat patissier</p>
+    <p>125 g de sucre</p>
+    <p>125 g de beurre</p>
+    <p>50 g de farine</p>
+    <p>3 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole, faites fondre le chocolat et le beurre en morceaux.Mélangez le sucre et les oeufs entiers, ajoutez le chocolat/beurre fondu et la farine; remuez bien. Beurrez un moule carré (ou à tarte) et enfournez à 160°C (Th 5-6) pendant 15 min (pas plus!). Dès la sortie du four, découpez en petits carrés le gâteau et posez-les sur un plat. 
+    Laissez refroidir, c'est prêt !Idéal autour du café ou du thé!
+  ]]>
+  </preparation>
+</recette>

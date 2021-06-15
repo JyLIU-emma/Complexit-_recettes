@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15022">
+  <titre>Tarte au citron au lait concentré</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>1 boîte de 400 g de lait concentré sucré</p>
+    <p>4 citrons ou 12,5cl de jus</p>
+    <p>2 cuillère à café de zeste râpé de citron</p>
+    <p>2 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Garnir le moule à tarte avec la pâte.
+    Au fouet, mélangez le lait,le jus de citron,le zeste et les jaunes d' oeufs. A part, montez les blancs en neige et mélangez avec la crème au citron. Versez sur la pâte.
+    Enfournez 20 mn au four préchauffé à 150°C. Laissez refroidir.
+    On peut employer des citrons verts et servir avec de la crème fouettée.
+  ]]>
+  </preparation>
+</recette>

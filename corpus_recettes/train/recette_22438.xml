@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22438">
+  <titre>Ris de veau aux truffes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de ris de veau</p>
+    <p>300 g de champignons émincés</p>
+    <p>50 g de beurre</p>
+    <p>2 oignons</p>
+    <p>2 carottes</p>
+    <p>10 cl de crème</p>
+    <p>1 pâte feuilletée</p>
+    <p>1 petite boîte de truffes</p>
+    <p>20 cl de cognac</p>
+    <p>20 cl de porto</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>laurier</p>
+    <p>thym</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire tremper le ris de veau toute une journée dans un bol d'eau salée. Puis l'égoutter toute une nuit en le mettant dans un plat, couvert, avec un poids dessus.
+    Préparer les fleurons : étaler la pâte feuilletée, y découper des petits croissants.
+    Les badigeonner de jaune d'oeuf et les faire cuire au four à 210°C (thermostat 7) pendant 15 min.
+    Faire revenir dans une poêle les oignons et les carottes émincés avec du beurre. Déposer le veau dans la poêle, l’arroser de vin blanc et saupoudrer de thym et de laurier. Assaisonner et laisser mijoter à feu doux.
+    Réserver le veau dans un plat au chaud.
+    Passer le jus de cuisson au chinois et y incorporer es champignons. Faire revenir quelques minutes et arroser de cognac et de porto. Incorporer la crème et verser le tout sur le ris de veau.
+    Garnir de truffes et de fleurons, et servir.
+  ]]>
+  </preparation>
+</recette>

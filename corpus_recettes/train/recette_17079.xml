@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17079">
+  <titre>Pain de viande aux champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de viande de boeuf maigre</p>
+    <p>400 g de veau maigre</p>
+    <p>2 oeufs</p>
+    <p>1 oignon</p>
+    <p>2 gousses d'ail</p>
+    <p>150 g de champignons</p>
+    <p>sel, poivre</p>
+    <p>thym, romarin, persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher la viande de boeuf et de veau. Incorporer les oeufs, l'oignon émincé, l'ail pilé. Saler et poivrer. Ajouter les herbes. Bien malaxer afin d'obtenir un mélange homogène.
+    Dans une casserole, faire suer les champignons émincés et les ajouter à la préparation.
+    Mettre le tout dans un moule à cake, puis cuire à four chaud (thermostat 8) pendant 45 à 50 mn.
+    Ce pain se mange aussi bien chaud que froid.
+    Recette dukanienne.
+  ]]>
+  </preparation>
+</recette>

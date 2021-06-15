@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23008">
+  <titre>Cheesecake au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour le fond :</p>
+    <p>150 g de petits beurre</p>
+    <p>2 cuillères à soupe de cacao sucré</p>
+    <p>6 cuillères à soupe de beurre fondu</p>
+    <p>Pour la garniture</p>
+    <p>500 g de fromage blanc maigre égoutté</p>
+    <p>une barquette de fromage type St Moret</p>
+    <p>180 g sucre en poudre</p>
+    <p>1 cuillère à café d'extrait de vanille</p>
+    <p>4 oeufs jaunes et blancs séparés</p>
+    <p>80 g de chocolat noir à 70 %</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C. 
+    Pour la pâte : 
+    Émiettez les biscuits et mélangez-les avec le cacao et le beurre fondu, puis tassez-les dans le fond d'un moule à manqué tapissé de papier sulfurisé en une couche homogène. 
+    Pour la garniture : 
+    Mélangez les deux fromages, le sucre, la vanille et les jaunes d'oeufs. 
+    Battez les blancs en neige et incorporez-les délicatement. 
+    Versez ce mélange sur la pâte et cassez le chocolat en morceaux sur le dessus. 
+    Faites cuire environ une heure au four à 180C° et laissez refroidir complètement avant de déguster.
+    C'est encore meilleur si vous le réfrigérez quelques heures avant de le servir. Champagne, cidre
+  ]]>
+  </preparation>
+</recette>

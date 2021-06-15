@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16234">
+  <titre>Pâté de chevreuil</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de chevreuil (épaule-cou)</p>
+    <p>1 kg de gorge de porc </p>
+    <p>500 g de foie de chevreuil </p>
+    <p>100 g d'oignons </p>
+    <p>400 g de chevreuil maigre détaillé en dés</p>
+    <p>20 g d'ail</p>
+    <p>60 g de sel</p>
+    <p>10 g de poivre</p>
+    <p>3 oeufs</p>
+    <p>1 pointe de thym et laurier </p>
+    <p>1/2 bouteille de vin rouge corsé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Passer au moulin à viande (grille moyenne) les viandes à l'exception des 400g en dés et les oignons. Ajouter alors les épices, le vin et les oeufs jusqu'à obtention d'une pâte homogène. Mettre ce mélange dans une terrine préalablement graissée au saindoux.
+    Couvrir d'une feuille d'aluminium et cuire ce pâté au four à 200°C pendant 1 à 2 heures, selon la grandeur de la terrine. Une terrine de 800 à 1kg exige environ 1h30 de cuisson.
+    Prendre soin de glisser de l'eau dans une grande plaque en dessous de la terrine, qui va saturer l'air du four.Cette recette provient du restaurant 'Sanglier des Ardennes'.
+  ]]>
+  </preparation>
+</recette>

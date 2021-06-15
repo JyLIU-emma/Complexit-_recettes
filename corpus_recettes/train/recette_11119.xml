@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11119">
+  <titre>Salade César à la Brutus</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 romaines lavées, essorées et déchiquetées</p>
+    <p>100 g de parmesan</p>
+    <p>60 g de bacon cuit haché</p>
+    <p>8 anchois (facultatif)</p>
+    <p>100 g de croûtons</p>
+    <p>Pour la vinaigrette :</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>1 cuillère à café de sel</p>
+    <p>2 gousses d'ail hachées finement</p>
+    <p>2 cuillères à soupe de vin rouge sec</p>
+    <p>1 cuillère à café de sucre</p>
+    <p>1 cuillère à soupe de moutarde de Dijon</p>
+    <p>1 cuillère à soupe de jus de citron</p>
+    <p>25 cl d'huile d'olive</p>
+    <p>1 pincée de poivre</p>
+    <p>1 goutte de sauce Worcestershire</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Salade:Déposer la laitue dans un grand bol et juste avant de servir, ajouter la vinaigrette et bien mélanger. Ajouter le parmesan, les croûtons, les anchois ou le bacon et mélanger.
+    Vinaigrette:Avec une fourchette, mélanger tous les ingrédients, sauf l'huile. Incorporer l'huile en filet et mélanger à haute vitesse avec un mixer pour obtenir une sauce crémeuse. Servir.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43584">
+  <titre>Chapon farci de Noel</titre>
+  <type>Plat principal</type>
+  <niveau>Difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1 chapon d'environ 3 kg</p>
+    <p>1 botte de persil</p>
+    <p>1 échalote</p>
+    <p>1 gousse d'ail</p>
+    <p>1 grosse poignée de mie de pain</p>
+    <p>un bol de lait</p>
+    <p>200 g d'épinards frais</p>
+    <p>50 à 70 g de foie gras mi-cuit</p>
+    <p>1 œuf entier ou 2 petits</p>
+    <p>le foie du chapon ou 100 g de foie de lapin (ou de volailles)</p>
+    <p>sel, poivre du moulin</p>
+    <p>huile, beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prévoir du papier alu, de la ficelle, et une grosse aiguille (style aiguille à canevas)!
+    Ôter les éventuelles plumes restant sur le chapon.
+    Hacher le persil, la gousse d'ail, et l'échalote finement.
+    Pocher les épinards 8 min dans de l'eau bouillante salée, et bien les essorer sur du papier absorbant.
+    Tremper rapidement la mie de pain dans le lait, et l'émietter grossièrement. 
+    Hacher le foie du chapon, couper le foie gras en petits morceaux.
+    Mettre tous les ingrédients dans un grand saladier, y compris l’œuf, saler et poivrer à votre convenance.
+    Bien mélanger, mais surtout ne pas utiliser de mixer, tout doit être haché grossièrement.
+    Farcir le chapon et le coudre. Penser à trouver une âme charitable pour vous aider!
+    Huiler la bête avec un pinceau (ou amoureusement avec les mains); le déposer dans un plat en déposant sur le dessus de fines lamelles de beurre (pas trop, c'est déjà assez gras comme viande).
+    Couvrir avec de l'alu, et enfourner à 180°C (thermostat 6).
+    Compter une première heure de cuisson, en l'arrosant régulièrement et en remettant bien l'alu à chaque fois.
+    Bien passer votre main sous l'eau froide, et mettre un bandage (bah oui, là vous vous êtes déjà brûlé 3 fois normalement!).
+    Au bout d'une heure, ôter l'alu, et faire dorer le chapon sous toutes les coutures en le retournant et l'arrosant tous les 1/4 pendant encore 1 h... Ça fait 2 heures en tout, vous suivez toujours?
+    Vérifier que le chapon est bien cuit partout, et servir sans attendre accompagné de fagots de haricots verts et d'une cuillerée de farce par personne; et éventuellement de pommes duchesse pour faire joli.
+    Enlever votre bandage de la main, faites vous belle (ou beau), et allez festoyer avec vos invités! Bon appétit!
+    Merci à mon joli-papa pour sa recette, j'espère qu'elle vous enchantera ! Nous, ça fait déjà plusieurs Noëls qu'on se régale... miam !NDLR : Une idée pour votre recette de Noel.
+    Photo de Manina Hatzimichali Un Bourgueil 
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Prévoir</OPER> du papier alu, de la ficelle, et une grosse aiguille ( style aiguille à canevas ) ! <OPER id="o_2">Ôter</OPER> les éventuelles plumes restant sur le chapon. <OPER id="o_3">Hacher</OPER> le <INGRED id="9">persil</INGRED>, la gousse d'ail, et l'<INGRED id="8">échalote</INGRED> finement. <OPER id="o_4">Pocher</OPER> les épinards 8 min dans de l'<INGRED id="2">eau</INGRED> bouillante salée, et bien les <OPER id="o_5">essorer</OPER> sur du papier absorbant. <OPER id="o_6">Tremper</OPER> rapidement la mie de pain dans le <INGRED id="8">lait</INGRED>, et l'<OPER id="o_7">émietter</OPER> grossièrement. <OPER id="o_8">Hacher</OPER> le <INGRED id="10">foie</INGRED> du chapon, <OPER id="o_9">couper</OPER> le <INGRED id="8">foie gras</INGRED> en <INGRED id="9">petits</INGRED> <INGRED id="1">morceaux</INGRED>. <OPER id="o_10">Mettre</OPER> tous les ingrédients dans un grand <INGRED id="1">saladier</INGRED>, y compris l’ <INGRED id="3">œuf</INGRED>, <OPER id="o_11">saler</OPER> et <OPER id="o_12">poivrer</OPER> à votre convenance. Bien <OPER id="o_13">mélanger</OPER>, mais surtout ne pas <OPER id="o_14">utiliser</OPER> de <OPER id="o_15">mixer</OPER>, tout doit être haché grossièrement. <OPER id="o_16">Farcir</OPER> le chapon et le <OPER id="o_17">coudre</OPER>. <OPER id="o_18">Penser</OPER> à <OPER id="o_19">trouver</OPER> une âme charitable pour vous aider ! <OPER id="o_20">Huiler</OPER> la bête avec un pinceau ( ou amoureusement avec les mains ) ; le <OPER id="o_21">déposer</OPER> dans un <INGRED id="9">plat</INGRED> en déposant sur le dessus de fines lamelles de beurre ( pas trop, c'est déjà assez gras comme <INGRED id="4">viande</INGRED> ). <OPER id="o_22">Couvrir</OPER> avec de l'alu, et <OPER id="o_23">enfourner</OPER> à 180 ° C ( thermostat 6 ). <OPER id="o_24">Compter</OPER> une première heure de cuisson, en l'arrosant régulièrement et en remettant bien l'alu à chaque fois. Bien <OPER id="o_25">passer</OPER> votre main sous l'<INGRED id="5">eau froide</INGRED>, et <OPER id="o_26">mettre</OPER> un bandage ( bah oui, là vous vous êtes déjà brûlé 3 fois normalement ! ). Au bout d'une heure, <OPER id="o_27">ôter</OPER> l'alu, et <INGRED id="10">faire</INGRED> <OPER id="o_28">dorer</OPER> le chapon sous toutes les coutures en le retournant et l'arrosant tous les 1/4 pendant encore 1 h... Ça fait 2 heures en tout, vous suivez toujours ? <OPER id="o_29">Vérifier</OPER> que le chapon est bien cuit partout, et servir sans <OPER id="o_30">attendre</OPER> accompagné de fagots de <INGRED id="9">haricots verts</INGRED> et d'une <INGRED id="9">cuillerée</INGRED> de farce par personne ; et éventuellement de <INGRED id="2">pommes</INGRED> duchesse pour <INGRED id="4">faire</INGRED> joli. <OPER id="o_31">Enlever</OPER> votre bandage de la main, faites vous belle ( ou beau ), et <OPER id="o_32">allez</OPER> <OPER id="o_33">festoyer</OPER> avec vos invités ! Bon appétit ! Merci à mon joli - papa pour sa recette, j'espère qu'elle vous enchantera ! Nous, ça fait déjà plusieurs Noëls qu'on se régale... miam ! NDLR : Une idée pour votre recette de Noel. Photo de Manina Hatzimichali Un Bourgueil
+  </annotation>
+  <annotation methode="crf">
+  Prévoir du papier alu <INGRED>,</INGRED> de la ficelle <INGRED>,</INGRED> et une grosse aiguille ( style aiguille à canevas ) ! Ôter les éventuelles plumes restant sur le chapon. Hacher le <INGRED>persil</INGRED> <INGRED>,</INGRED> la gousse d'<INGRED>ail</INGRED> <INGRED>,</INGRED> et l'<INGRED>échalote</INGRED> <INGRED>finement</INGRED> <INGRED>.</INGRED> Pocher les <INGRED>épinards</INGRED> 8 min dans de l'<INGRED>eau</INGRED> bouillante salée <INGRED>,</INGRED> et bien les essorer sur du papier absorbant. Tremper rapidement la mie de <INGRED>pain</INGRED> dans le <INGRED>lait</INGRED> <INGRED>,</INGRED> et l'émietter grossièrement <INGRED>.</INGRED> Hacher le <INGRED>foie</INGRED> du chapon <INGRED>,</INGRED> couper le <INGRED>foie</INGRED> gras en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> <INGRED>.</INGRED> Mettre tous les ingrédients dans un grand saladier <INGRED>,</INGRED> y compris l’ <INGRED>œuf</INGRED> <INGRED>,</INGRED> saler et poivrer à votre convenance <INGRED>.</INGRED> Bien mélanger <INGRED>,</INGRED> mais surtout ne pas utiliser de mixer <INGRED>,</INGRED> tout doit être haché grossièrement <INGRED>.</INGRED> Farcir le chapon et le coudre. Penser à trouver une âme charitable pour vous aider ! Huiler la bête avec un pinceau ( <INGRED>ou</INGRED> amoureusement avec les mains ) ; le déposer dans un plat en déposant sur le dessus de <INGRED>fines</INGRED> <INGRED>lamelles</INGRED> de <INGRED>beurre</INGRED> ( pas trop <INGRED>,</INGRED> c'est déjà assez gras comme <INGRED>viande</INGRED> ). Couvrir avec de l'alu <INGRED>,</INGRED> et enfourner à 180 ° C ( thermostat 6 ). Compter une première heure de cuisson <INGRED>,</INGRED> en l'arrosant régulièrement et en remettant bien l'alu à chaque fois. Bien passer votre main sous l'<INGRED>eau</INGRED> froide <INGRED>,</INGRED> et mettre un bandage ( bah oui <INGRED>,</INGRED> là vous vous êtes déjà brûlé 3 fois normalement ! ). Au bout d'une heure <INGRED>,</INGRED> ôter l'alu <INGRED>,</INGRED> et faire dorer le chapon sous toutes les coutures en le retournant et l'arrosant tous les <INGRED>1/4</INGRED> pendant encore 1 <INGRED>h</INGRED>... Ça fait 2 heures en tout <INGRED>,</INGRED> vous suivez toujours ? Vérifier que le chapon est bien cuit partout <INGRED>,</INGRED> et servir sans attendre accompagné de fagots de <INGRED>haricots verts</INGRED> et d'une <INGRED>cuillerée</INGRED> de farce par personne ; et éventuellement de <INGRED>pommes</INGRED> duchesse pour faire joli. Enlever votre bandage de la main <INGRED>,</INGRED> faites vous belle ( <INGRED>ou</INGRED> beau ) <INGRED>,</INGRED> et allez festoyer avec vos invités ! Bon appétit ! Merci à mon joli - papa pour sa recette <INGRED>,</INGRED> j'espère qu'elle vous enchantera ! Nous <INGRED>,</INGRED> ça fait déjà plusieurs Noëls qu'on se régale... miam ! NDLR <INGRED>:</INGRED> Une idée pour votre recette de Noel. Photo de Manina Hatzimichali Un Bourgueil
+  </annotation>
+  <complexite>
+    <temps>f(X) = 59.1428571428571*X + 78.8571428571429</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 6*X + 16</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['kg']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['botte de persil', 'botte']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['échalote']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['ail']	 id:4	 quantité:1	 unité:gousse d'	 denombrable:True	 recipient:1*X
+ingredient:['poignée de mie de pain', 'poignée']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['lait']	 id:6	 quantité:non_precis	 unité:bol de	 denombrable:False	 recipient:1
+ingredient:['épinards frais', 'épinards']	 id:7	 quantité:200	 unité:g d'	 denombrable:False	 recipient:1
+ingredient:['foie gras mi-cuit', 'foie']	 id:8	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['petits']	 id:9	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['foie de lapin', 'foie']	 id:10	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre du moulin', 'poivre']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['huile']	 id:13	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:14	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:prévoir	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ôter	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:hacher	 id:o_3	 ingrédients_ralatifs:['9', '8']	 nombre_opération_atomique:1*X+1	 temps:1*X*5+1*X*5	 recipient:1
+operation:pocher	 id:o_4	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:essorer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tremper	 id:o_6	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:émietter	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:hacher	 id:o_8	 ingrédients_ralatifs:['10', '8', '9', '1']	 nombre_opération_atomique:1+1+1*X+1*X	 temps:1*X*5+1*X*5+1*X*5+1*X*5	 recipient:1
+operation:couper	 id:o_9	 ingrédients_ralatifs:['8', '9', '1']	 nombre_opération_atomique:1+1*X+1*X	 temps:1*X*1+1*X*1+1*X*1	 recipient:1
+operation:mettre	 id:o_10	 ingrédients_ralatifs:['1', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:saler	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:utiliser	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mixer	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:farcir	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:2*X	 recipient:0
+operation:coudre	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:penser	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:trouver	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:huiler	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déposer	 id:o_21	 ingrédients_ralatifs:['9', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:couvrir	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfourner	 id:o_23	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:compter	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:passer	 id:o_25	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:mettre	 id:o_26	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ôter	 id:o_27	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dorer	 id:o_28	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:100*X	 temps:1*X*1	 recipient:0
+operation:vérifier	 id:o_29	 ingrédients_ralatifs:['9', '9', '2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:attendre	 id:o_30	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enlever	 id:o_31	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:aller	 id:o_32	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:festoyer	 id:o_33	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10560">
+  <titre>Poulet au citron (Liban)</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet</p>
+    <p>3 citrons (jus)</p>
+    <p>1 tête d'ail</p>
+    <p>1 pincée de sel</p>
+    <p>1 pincée de poivre</p>
+    <p>1 cuillère à soupe de menthe fraîche (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prendre un beau poulet jeune si possible. L'ouvrir en deux.
+    Le laisser macérer dans du jus de citron avec un belle tête d'ail écrasée pendant 12 heures (en remuant de temps en temps). Saler et poivrer, bien sûr.
+    Cuire le poulet sur un feu de braise en le retournant souvent. Attention, il cuit vite (environ 20 minutes).Il faut l'arroser durant la cuisson avec du jus de citron aillé.Servir chaud, éventuellement saupoudrer de menthe fraiche finement coupée.Recette d'origine libanaise. Rosé
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Prendre</OPER> un beau <INGRED id="1">poulet</INGRED> jeune si possible. L'<OPER id="o_2">ouvrir</OPER> en deux. Le laisser <OPER id="o_3">macérer</OPER> dans du <INGRED id="5">jus de citron</INGRED> avec un belle <INGRED id="3">tête d'ail</INGRED> écrasée pendant 12 heures ( en remuant de temps en temps ). <OPER id="o_4">Saler</OPER> et <OPER id="o_5">poivrer</OPER>, bien sûr. <OPER id="o_6">Cuire</OPER> le <INGRED id="1">poulet</INGRED> sur un feu de braise en le retournant souvent. Attention, il cuit vite ( environ 20 minutes).Il faut l'<OPER id="o_7">arroser</OPER> durant la cuisson avec du <INGRED id="5">jus de citron</INGRED> aillé. Servir chaud, éventuellement <OPER id="o_8">saupoudrer</OPER> de <INGRED id="6">menthe</INGRED> fraiche finement coupée. Recette d'origine libanaise. Rosé
+  </annotation>
+  <annotation methode="crf">
+  Prendre un beau <INGRED>poulet</INGRED> jeune si possible <INGRED>.</INGRED> L'ouvrir en <INGRED>deux</INGRED> <INGRED>.</INGRED> Le laisser macérer dans du <INGRED>jus de citron</INGRED> avec un belle tête d'ail écrasée pendant 12 heures ( en remuant de temps en temps ). Saler et poivrer <INGRED>,</INGRED> bien sûr. Cuire le <INGRED>poulet</INGRED> sur un feu de braise en le retournant souvent. Attention <INGRED>,</INGRED> il cuit vite ( <INGRED>environ</INGRED> 20 minutes).Il faut l'arroser durant la cuisson avec du <INGRED>jus de citron</INGRED> aillé <INGRED>.</INGRED> Servir chaud <INGRED>,</INGRED> éventuellement saupoudrer de menthe fraiche <INGRED>finement</INGRED> coupée <INGRED>.</INGRED> Recette d'origine libanaise. Rosé
+  </annotation>
+  <complexite>
+    <temps>f(X) = 8.0*X</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 8*X + 2</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['poulet']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['citrons']	 id:2	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:["tête d'ail", 'tête']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:4	 quantité:1	 unité:pincée de	 denombrable:True	 recipient:1*X
+ingredient:['poivre']	 id:5	 quantité:1	 unité:pincée de	 denombrable:True	 recipient:1*X
+ingredient:['menthe fraîche', 'menthe']	 id:6	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:prendre	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ouvrir	 id:o_2	 ingrédients_ralatifs:['5', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:macérer	 id:o_3	 ingrédients_ralatifs:['5', '3']	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:saler	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_6	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:arroser	 id:o_7	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saupoudrer	 id:o_8	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

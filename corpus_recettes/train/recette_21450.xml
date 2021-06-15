@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21450">
+  <titre>Boeuf Stroganov</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de filet de boeuf</p>
+    <p>4 oignons</p>
+    <p>3 échalotes</p>
+    <p>1 grosse carotte</p>
+    <p>1 feuille de laurier</p>
+    <p>1 brin de thym</p>
+    <p>1 bouteille de vin blanc</p>
+    <p>200 g de champignons de Paris</p>
+    <p>80 g de beurre</p>
+    <p>1 verre à liqueur de Cognac</p>
+    <p>1,5 dl de crème fraîche épaisse</p>
+    <p>2 cuillères à soupe de persil haché</p>
+    <p>se, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) couper le filet de boeuf en lamelles de 2,5 cm de longueur. Saler et poivrer. 
+    2) Eplucher et hacher les oignons et les échalotes, peler et couper la carotte. Mettre ces légumes dans une terrine. Ajouter les lamelles de filet, le laurier et le thym émiettés et verser le vin blanc. Laisser mariner au moins 12h au frais, à couvert, en remuant la viande de temps en temps. Eplucher et couper en lamelles les champignons. 
+    3) Egoutter et éponger la viande. Faire réduire la marinade de moitié et la passer. 
+    4) Faire dorer les champignons dans 30 g de beurre, puis les égoutter et les garder au chaud. 
+    5) Jeter le gras, essuyer la sauteuse, y chauffer les 50 g de beurre restants, ajouter la viande et la faire sauter 5 mn à feu vif en la retournant sans arrêt pour qu'elle ne brûle pas. Chauffer le Cognac, le verser dans la sauteuse et flamber. Mélanger puis, avec un écumoir sortir la viande et la disposer dans le plat de service. Garder au chaud. 
+    6) Mettre les champignons dans la sauteuse, ajouter la marinade et la crème fraîche. Remuer sur feu vif pour faire épaissir la sauce, rectifier l'assaisonnement et napper la viande. 
+    7) Parsemer de persil et servir très chaud.
+  ]]>
+  </preparation>
+</recette>

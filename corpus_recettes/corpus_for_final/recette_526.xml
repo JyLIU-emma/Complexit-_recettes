@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="526">
+  <titre>Rouleaux frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 galettes de riz</p>
+    <p>1 carré frais</p>
+    <p>1 carotte</p>
+    <p>1 tomate</p>
+    <p>1 feuille de salade</p>
+    <p>sauce soja</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Humidifier les galettes de riz de façon à ce qu'elles puissent se rouler (30 secondes de trempage dans de l'eau froide sont suffisantes sinon ça casse!!!)
+    Râper la carotte, couper la tomate et la salade en très petits morceaux. 
+    Mélanger les crudités avec sel, poivre, sauce soja.
+    Tartiner la galette de riz avec le carré frais,
+    déposer sur le fromage le mélange de crudités puis rouler la galette de riz de manière à obtenir un boudin très compact.
+    Déguster le rouleau assaisonné d'un filet de sauce soja.
+  ]]>
+  </preparation>
+</recette>

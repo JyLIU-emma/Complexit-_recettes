@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14717">
+  <titre>Gâteau a la crème de lait</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 grosses pommes</p>
+    <p>1 oeuf</p>
+    <p>8 cuillerées à café de sucre en poudre</p>
+    <p>1/2 paquet de levure</p>
+    <p>1 tasse de crème de lait</p>
+    <p>5 cuillerées à soupe de farine</p>
+    <p>1 ou 2 cuillerées à soupe de lait</p>
+    <p>1 cuillerées à soupe de rhum</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à thermostat 6.
+    Cassez l'oeuf dans un saladier, ajoutez le sucre et la tasse de crème de lait.
+    Ajoutez la farine, le rhum, la levure et le lait.
+    Coupez les pommes en lamelles et incorporez-les à la préparation.
+    Beurrez un moule à manqué. Versez-y le mélange et cuisez environ 30 mn.
+    Ideal pour utiliser les peaux de lait.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10633">
+  <titre>Poulet au thé fumé</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1l de thé fumé fort</p>
+    <p>4 blancs de poulet</p>
+    <p>1 citron</p>
+    <p>sel, poivre</p>
+    <p>beurre</p>
+    <p>1/2 citron (zestes)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire un thé fumé très fort. Mariner les blancs dans le thé chaud 5h.
+    Essorer les blancs et les débarrasser des brins de thé qui reste.
+    Dorer les blancs avec le beurre.
+    Dans une cocotte verser la marinade (thé passé).Ajouter les blancs. Saler, poivrer.
+    Ajouter les zestes et un trait de jus de citron
+    Laisser mijoter à feu doux 1h.
+    Servir avec du riz et des petits légumes passés au wok Saint-Amour
+  ]]>
+  </preparation>
+</recette>

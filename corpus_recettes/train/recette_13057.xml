@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13057">
+  <titre>Saucisses au vin et haricots rouges</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 saucisses de Morteau</p>
+    <p>300 g de haricots rouges</p>
+    <p>150 g de lardons</p>
+    <p>50 cl de vin rouge</p>
+    <p>2 oignons</p>
+    <p>herbes de provence</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre à tremper dans l'eau froide les haricots 4 heures dans une casserole, puis les faire cuire pendant 1/2 heure.
+    Pendant ce temps, faire blondir à l’huile d’olive les oignons émincés plus les lardons dans une cocotte.
+    Ajouter les haricots égouttés, le vin rouge, et les herbes de provence. Bien mélanger le tout, et mettre à cuire doucement pendant 40 mn. Même vin que celui de la préparation
+  ]]>
+  </preparation>
+</recette>

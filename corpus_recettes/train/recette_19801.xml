@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19801">
+  <titre>Crème glacée aux marrons</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>50 cl de lait</p>
+    <p>50 cl de crème liquide</p>
+    <p>150 g de sucre semoule</p>
+    <p>3 jaunes d'oeufs</p>
+    <p>200 g de brisures de marrons glacés</p>
+    <p>10 cl de liqueur de whisky</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir le lait et la crème. Verser ce mélange sur les jaunes en tournant très vivement à la spatule. 
+    Sur un feu moyen, cuire la crème en la tournant sans cesse, sans la faire bouillir, jusqu'à ce qu'elle nappe la spatule. 
+    La filtrer dans un chinois, y ajouter la liqueur et faire glacer dans une sorbetière. 
+    Lorsque la crème est prise, ajouter les brisures de marrons, mélanger et réserver au congélateur dans un bac à glace ou un pot.
+  ]]>
+  </preparation>
+</recette>

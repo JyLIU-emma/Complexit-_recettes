@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27091">
+  <titre>Tendron de veau aux tomates et aux olives</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,2 kg de tendron de veau</p>
+    <p>500 g de tomates</p>
+    <p>100 g d'olives vertes dénoyautées</p>
+    <p>40 g de beurre</p>
+    <p>1 oignon</p>
+    <p>2 gousses d'ail</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>1 bouquet garni </p>
+    <p>1 clou de girofle </p>
+    <p>persil haché </p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Plonger les olives dans une casserole d'eau froide et porter le tout à ébullition. Égoutter.
+    Monder et vider les tomates.
+    Faire revenir la viande coupée en gros morceaux et le beurre dans une cocotte. Ajouter la farine et faire revenir à feu vif.
+    Incorporer les tomates, les olives, l’oignon, le clou de girofle et le bouquet garni. Assaisonner de sel et de poivre.
+    Faire mijoter à feu doux pendant 1 h 45 min.
+    Recouvrir de persil haché et servir avec du riz ou de la purée maison.
+  ]]>
+  </preparation>
+</recette>

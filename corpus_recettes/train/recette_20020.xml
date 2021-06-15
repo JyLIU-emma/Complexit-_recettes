@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20020">
+  <titre>Papillotes de maquereaux farcis au beurre d'herbes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>12 maquereaux</p>
+    <p>1 poignée de cerfeuil frais</p>
+    <p>1 poignée de persil frais</p>
+    <p>3 branches d'estragon frais</p>
+    <p>60 g de chapelure</p>
+    <p>100 g de beurre</p>
+    <p>sel, poivre</p>
+    <p>papier aluminium </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les herbes fraîches, puis les hacher et les réserver dans un bol.
+    Y ajouter la chapelure et le beurre ramolli, puis travailler le mélange à l'aide d'une fourchette pour lier la préparation.
+    Saler, poivrer et réserver.
+    Nettoyer, vider et essuyer les maquereaux dans du papier absorbant, puis les inciser pour les farcir.
+    Les farcir du beurre aux herbes, puis les envelopper individuellement dans des feuilles de papier aluminium.
+    Bien refermer les coins afin d'éviter que la farce ne coule à la cuisson.
+    Déposer les papillotes sur la plaque de votre four et laisser cuire 12 min sur le grill.
+    Servir les papillotes à l'assiette.
+  ]]>
+  </preparation>
+</recette>

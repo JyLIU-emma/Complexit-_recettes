@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12740">
+  <titre>Pêches pochées sur coulis de chocolat chaud</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de chocolat patissier</p>
+    <p>1 bouteille de vin blanc de type Montbazillac</p>
+    <p>100 g de sucre semoule</p>
+    <p>6 pêches jaunes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez le sirop : versez le vin blanc dans une caserole, ajoutez le sucre et portez à ébullition. 
+    Pelez les pêches, coupez les en 2 et faites-les pocher dans le sirop 10 à 15 minutes selon leur maturité. Retirez-les du sirop et laissez-les refroidir au réfrigérateur pendant une heure au moins. 
+    Juste avant de servir, cassez le chocolat en morceaux et faites-le fondre avec 10 cl du sirop, au bain marie ou au micro-ondes. 
+    Servez les pêches bien fraiches sur le coulis de chocolat chaud.
+  ]]>
+  </preparation>
+</recette>

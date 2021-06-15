@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27213">
+  <titre>Pigeon rôtis et petits pois à la parisienne</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 pigeons</p>
+    <p>300 g de petits pois</p>
+    <p>100 g de lard de poitrine</p>
+    <p>1 coeur de salade</p>
+    <p>10 petits oignons blancs</p>
+    <p>2 gousses d'ail</p>
+    <p>4 feuilles d'estragon</p>
+    <p>thym, laurier</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire rôtir les pigeons au four 30 min à 210°C (thermostat 7).
+    Couper les oignons en 2 ou 4, les faire blondir à la poêle avec le lard détaillé en dés, l'estragon, une branche de thym et une feuille de laurier, le coeur de salade et les gousses d'ail entières.
+    Cuire les petits pois à l'eau bouillante, au bout de quelques minutes ajouter le contenu de la poêle dans la casserole et laisser cuire 10 min.
+    Verser le tout sur les pigeons dans leur plat et laisser cuire encore 10 min dans le four.
+  ]]>
+  </preparation>
+</recette>

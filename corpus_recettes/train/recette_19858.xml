@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19858">
+  <titre>Croque monsieur à la banane</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 paquet de pain de mie type américain</p>
+    <p>4 bananes</p>
+    <p>du beurre (pour tartiner les toasts) </p>
+    <p>du sucre en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C. 
+    Disposer les tranches de pain de mie sur une plaque pour le four. 
+    Beurrer légèrement les tranches. 
+    Couper des bananes en rondelles très fines les disposer à plat sur le pain. 
+    Saupoudrer de sucre en poudre. Recouvrir avec une tranche de pain. 
+    Beurrer à nouveau le dessus. Rajouter sur la 'tranche couvercle beurrée' un nuage de sucre en poudre. 
+    Enfourner. Selon le goût, faire plus ou moins cuire. Il faut tout de même que les bananes soient cuites.
+    C'est surtout un excellent goûter d'hiver, bienvenu après une balade au froid. Un goûter économique et surtout délicieux.
+  ]]>
+  </preparation>
+</recette>

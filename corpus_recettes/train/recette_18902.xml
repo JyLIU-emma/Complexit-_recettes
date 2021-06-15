@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18902">
+  <titre>Velouté de potiron au romarin</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 cuillère à soupe de beurre</p>
+    <p>1 oignon moyen, coupé grossièrement</p>
+    <p>1 kg de chair de potiron en morceaux</p>
+    <p>1 cuillère à café de romarin séché (ou 2/3 de brin frais) </p>
+    <p>1 L de bouillon de poulet</p>
+    <p>3 feuilles de laurier</p>
+    <p>250 ml de lait semi-écrémé en poudre</p>
+    <p>125 ml de yaourt nature</p>
+    <p>2 cuillères à soupe de graines de potiron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une grande casserole, chauffer le beurre et cuire l'oignon doucement sans le brunir, pendant 3-4 mn. 
+    Ajouter le potiron et le romarin, cuire en remuant pendant 2-3 mn. Ajouter le bouillon et le laurier. 
+    Faire bouillir. Quand le liquide bout, couvrir et laisser mijoter frémir pendant 12-15 mn (possibilité de le cuire couvert au micro-ondes pendant 8-10 mn) ou jusqu'à ce que le potiron soit tendre. Réduire la soupe en purée, par à-coups, en ajoutant le lait en poudre. Réchauffer et servir, en déposant sur le dessus de chaque assiette une cuillerée de yahourt et quelques graines de potiron.
+  ]]>
+  </preparation>
+</recette>

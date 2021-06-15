@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23109">
+  <titre>Choucroute et charcuterie en salade</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de choucroute crue</p>
+    <p>2 cervelas</p>
+    <p>400 g de saucisson</p>
+    <p>100 g de gruyère</p>
+    <p>2 oignons</p>
+    <p>2 cuillères à soupe de persil haché</p>
+    <p>Pour la sauce vinaigrette :</p>
+    <p>moutarde</p>
+    <p>vinaigre </p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Bien laver la choucroute sous l'eau froide, la presser entre vos mains pour l'essorer puis la laisser égoutter quelques minutes dans une passoire.Découper le cervelas et le saucisson en rondelles, puis en dés et les mélanger avec la choucroute dans un saladier.Détailler le fromage en morceaux, puis hacher l'oignon pelé. Les incorporer au reste de la préparation, puis les saupoudrer de persil haché.Préparer ensuite une vinaigrette avec l'huile et le vinaigre de votre choix, puis en napper la salade.
+    Bien mélanger le tout, puis réserver au frais.
+  ]]>
+  </preparation>
+</recette>

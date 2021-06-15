@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19265">
+  <titre>Pain de châtaignes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de crème de marron</p>
+    <p>50 g de farine + 10 g pour le moule</p>
+    <p>100 g de beurre mou + 10 g pour le moule</p>
+    <p>4 oeufs</p>
+    <p>60 g de marrons glacés (facultatif) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, mélangez au fouet la crème de marron et le beurre mou. 
+    Séparez les blancs des jaunes d'oeufs. Ajoutez ces derniers à la préparation avec la farine tamisée et une pincée de sel. 
+    Préchauffez le four à Th 5-6 (170°C). Beurrez et farinez un moule à cake ou utilisez simplement un moule souple anti-adhérent. 
+    Emiettez grossièrement les marrons glacés sur un papier sulfurisé (faculatif). 
+    Montez les blancs en neige ferme, puis incorporez-les à la préparation. Versez dans le moule et saupoudrez des marrons émiettés. 
+    Enfournez 1 h20 environ. 
+    Démoulez tiède, coupez le cake une fois refroidi.
+    Vous pouvez accompagner de boules de glace au chocolat et chantilly.A défaut de marrons glacés, émiettez des châtaignes préalablement cuites et saupoudrées de sucre glace.
+  ]]>
+  </preparation>
+</recette>

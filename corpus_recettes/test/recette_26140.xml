@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26140">
+  <titre>Tourte au lapin</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>deux pâtes brisées</p>
+    <p>2 kg de lapin</p>
+    <p>1 bouteille de bon vin rouge</p>
+    <p>2 gros oignons</p>
+    <p>100 g de lardons</p>
+    <p>thym</p>
+    <p>laurier</p>
+    <p>persil haché</p>
+    <p>2 gousses d'ail</p>
+    <p>sel, poivre gris</p>
+    <p>1 jaune d'oeuf</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Le matin, détailler le lapin en morceaux et le désosser, le faire mariner plusieurs heures dans le vin avec thym, laurier, poivre. 
+    La veille, au soir, hacher finement le persil, l'ail, les oignons. 
+    Faire cuire le lapin dans l'huile d'olive avec le hachis et les lardons. 
+    Rectifier l'assaisonnement en sel et poivre. 
+    Une fois cuit, mettre au frais. 
+    Le lendemain, mettre une pâte brisée au fond d'une tourtière. 
+    Étaler le lapin cuit sur la pâte en formant un monticule au milieu. 
+    Poser la deuxième pâte, souder les bords avec la première. 
+    Dorer avec le jaune d'oeuf. 
+    Décorer à la fourchette. 
+    Mettre au four à 180°C pendant 30 mn.
+  ]]>
+  </preparation>
+</recette>

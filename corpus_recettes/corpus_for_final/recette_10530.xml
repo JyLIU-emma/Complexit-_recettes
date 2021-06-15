@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10530">
+  <titre>Lapin au vin blanc (à la cocotte)</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,8 kg de lapin (7 à 8 morceaux)</p>
+    <p>1 bouteille de vin blanc (gros plant nantais ou blanc de blanc)</p>
+    <p>2 échalotes</p>
+    <p>200 g de lardons fumés</p>
+    <p>2,5 kg de pommes de terre ou moitié carottes et pommes de terre</p>
+    <p>20 cl de crème fraîche</p>
+    <p>margarine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les échalotes et les lardons dans 50 g de margarine. 
+    Ajouter les morceaux de lapin et les faire dorer.
+    Verser le vin, ajouter les pommes de terre et les carottes.
+    Fermer la cocotte et cuire 20 minutes, à feu moyen.
+    Ajouter 20 cl de crème. Réchauffer et servir.
+  ]]>
+  </preparation>
+</recette>

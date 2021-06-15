@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10750">
+  <titre>Flamiche au maroilles</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>30 g de levure de boulanger</p>
+    <p>1 pincée de sel</p>
+    <p>5 cl de lait tiède</p>
+    <p>50 g de beurre fondu</p>
+    <p>2 oeufs</p>
+    <p>1 maroilles (de bonne qualité)</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre la farine en fontaine dans une terrine. Ajouter 1 oeuf, la levure délayée dans le lait tiède et le beurre fondu.Mélanger à la spatule en bois, travailler longuement, pétrir 5 min, puis battre à même la planche farinée. Déposer la boule de pâte élastique farinée dans une terrine recouverte d’un torchon, et posée près d’une source de chaleur.
+    Garnir un moule à tarte avec la pâte et parsemer de fines lamelles de maroilles. Laisser lever 1 heure dans un endroit tiède.
+    Battre l’oeuf et la crème dans un bol et verser sur la tarte. Poivrer.
+    Cuire 10 min à four très chaud. Servir bien chaud. bière
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21810">
+  <titre>Tarte à l'oignons et lardons</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de pâte brisée</p>
+    <p>700 g d'oignons</p>
+    <p>200 g de lardons</p>
+    <p>sel et poivre</p>
+    <p>1 cuillère à café de sucre </p>
+    <p>1 verre de vin blanc</p>
+    <p>50 g de beurre</p>
+    <p>50 g de fromage râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez les oignons, émincez-les, puis faites-les revenir dans une casserole avec du beurre. 
+    Ajoutez ensuite le vin blanc et 1 verre d'eau, salez, poivrez, sucrez et laissez cuire doucement 15 min. 
+    Foncez un moule à tarte à bord haut avec la pâte, et piquez-la avec une fourchette. 
+    Disposez les lardons, puis les oignons par dessus. Et saupoudrez de fromage râpé. 
+    Enfournez à 180°C (thermostat 6) pendant 40 min.
+  ]]>
+  </preparation>
+</recette>

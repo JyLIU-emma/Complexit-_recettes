@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20195">
+  <titre>Quiche à la tomate</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>4 tomates</p>
+    <p>6 oeufs</p>
+    <p>1/4 de litre de lait</p>
+    <p>50 dl de crème fraîche</p>
+    <p>50 g de gruyère râpé</p>
+    <p>moutarde</p>
+    <p>persil</p>
+    <p>origan</p>
+    <p>basilic, sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la moutarde avec le basilic, le persil, une pincée de sel et de poivre. 
+    Mettre la pâte dans un moule à tarte et la piquer avec une fourchette. La badigeonner avec le mélange moutarde/épices. 
+    Mélanger les oeufs, la crème fraîche, et le gruyère. 
+    Couper les tomates en morceaux, en en réservant une, et les ajouter au mélange. 
+    Mettre le mélange sur la pâte. 
+    Décorer de rondelles de la tomate qu'il reste, saupoudrer d'origan. 
+    Mettre au four Th 6 jusqu'à dorure du dessus de la tarte. 
+  ]]>
+  </preparation>
+</recette>

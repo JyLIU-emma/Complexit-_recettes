@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23770">
+  <titre>Saumonette mijotée au vin blanc</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,2 kg de saumonette</p>
+    <p>1,2 kg de pommes de terre</p>
+    <p>40 cl de vin blanc</p>
+    <p>2 oignons</p>
+    <p>1 gousse d'ail</p>
+    <p>1 bouquet garni (thym, laurier)</p>
+    <p>75 g de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez et émincez les oignons. Pilez l'ail.
+    Pelez et coupez les pommes de terre en rondelles. Coupez le poisson en gros tronçons. Salez et poivrez-les.
+    Faites fondre la moitié du beurre. Faites-y dorer les oignons. Ajoutez les morceaux de saumonette, l'ail, le bouquet garni. Couvrez avec les pommes de terre, et des petits morceaux de beurre.
+    Mouillez avec le vin blanc, salez et poivrez.
+    Couvrez et laissez mijoter 45 minutes à feu doux.
+    Vous pouvez ajouter un peu de crème dans le jus de cuisson à la fin et laisser épaissir quelques minutes à feu doux.
+  ]]>
+  </preparation>
+</recette>

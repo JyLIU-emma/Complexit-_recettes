@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26740">
+  <titre>Tarte aux endives, poire et bleu</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>1 endive</p>
+    <p>1 poire</p>
+    <p>2 oignons</p>
+    <p>100 g de bleu</p>
+    <p>15 cl de crème liquide</p>
+    <p>thym</p>
+    <p>pignon de pin</p>
+    <p>sel, poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Foncer un moule à tarte avec la pâte brisée. 
+    Garnir avec les oignons que vous aurez fait revenir au préalable, puis l'endive coupée en petits morceaux (prenez soin d'ôter le coeur) et la poire coupée en fines tranches. 
+    Parsemer de morceaux de bleu. 
+    Mettre du thym, saler, poivrer et verser la crème liquide. 
+    Finir avec quelques pignons de pin. 
+    Mettre au four thermostat 6-7 pendant environ 35 mn (tout dépend comment on aime la cuisson de la pâte). 
+    Servir chaud.
+  ]]>
+  </preparation>
+</recette>

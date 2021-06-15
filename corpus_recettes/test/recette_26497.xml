@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26497">
+  <titre>Coulis de cannelle</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 jaunes d'oeuf</p>
+    <p>40 cl de lait</p>
+    <p>100 g de sucre</p>
+    <p>1 cuillerée à café d'extrait de vanille</p>
+    <p>1/2 cuillerée à café de cannelle en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Portez à ébullition le lait avec la vanille et la cannelle. 
+    Fouettez les jaunes d'oeufs avec le sucre. Le mélange blanchi, versez le lait chaud et tournez. 
+    Enfin, portez à nouveau sur le feu doux sans cesser de tourner jusqu'à ce que la crème nappe la cuillère. 
+    Otez du feu et laissez refroidir.
+     Ce coulis remplace à merveille la crème anglaise qui accompagne le gâteau au chocolat. 
+  ]]>
+  </preparation>
+</recette>

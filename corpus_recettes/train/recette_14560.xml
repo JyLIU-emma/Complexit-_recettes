@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14560">
+  <titre>Koulourakia (biscuits grecs)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,75 kg de farine </p>
+    <p>125 ml de beurre </p>
+    <p>250 ml de sucre </p>
+    <p>3 oeufs + 1 oeuf battu </p>
+    <p>125 ml de lait </p>
+    <p>1 cuillère à café de poudre à pâte </p>
+    <p>zeste de citron (ou 1 cuillère à café de vanille)</p>
+    <p>amandes mondées et effilées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Défaire le beurre en pommade avec le sucre. Ajouter le lait et la farine en alternance puis les autres ingrédients, sauf l'oeuf extra et les amandes.
+    Travailler la pâte à la main pour obtenir une texture molle et homogène.
+    Confectionner de minces lanières de 40 cm de longueur. Plier chaque lanière en deux et les tourner pour former une torsade, puis souder les bouts en les pressant avec une goutte d'eau de manière à former un anneau.Déposer les biscuits sur une plaque beurrée, dorer avec l'oeuf battu, saupoudrer d'amandes.
+    Enfourner à 180°C pour 16-18 minutes environ.
+    Retirer du four, laisser refroidir.C'est un cadeau grec traditionnel de la Pâque, au même titre que des oeufs peints.
+  ]]>
+  </preparation>
+</recette>

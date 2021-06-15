@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="105711">
+  <titre>Brioche tressée sans oeuf</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500g de farine</p>
+    <p>3 c à soupe de sucre</p>
+    <p>1 c à café de sel</p>
+    <p>90g de beurre</p>
+    <p>1/4 l de lait</p>
+    <p>1 sachet de levure de boulanger ou 1/2 cube</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1/ Mettre la farine dans un grand récipient. Y ajouter le sel, le sucre et la levure préparée selon les indications du sachet (pour le 1/2 cube, le diluer dans un peu d'eau tiède). Bien mélanger. 
+     
+    2/ Faire un puits au milieu de la farine. Y mettre le lait et le beurre ramolli. Pétrir une 10aine de minutes (la pâte ne doit être ni trop dure ni trop molle : rajouter si besoin un peu de farine ou de lait afin d' obtenir une pâte souple mais non collante).
+     
+    3/ Laisser reposer la pâte pendant environ 3h, en posant un torchon humide sur le récipient. La pâte doit avoir doublé de volume. 
+     
+    4/ Une fois la pâte levée, la partager en trois parts de longueur égale, afin de faire une tresse assez lâche à poser sur une plaque farinée.  Passer au pinceau un mélange de jaune d'œuf et d'un peu de lait. Vous pouvez aussi saupoudrer la tresse de graines de sésame ou de pavot bleu.
+     
+    5/ Laisser reposer 1/4 d'heure puis la mettre au four à 190° (therm 6) environ 35 mn.Cette brioche est idéale pour le goûter des enfants ou pour le petit déjeuner familial, accompagnée d'une bonne petite confiture "maison" !
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  1/ <OPER id="o_1">Mettre</OPER> la <INGRED id="4">farine</INGRED> dans un grand récipient. Y <OPER id="o_2">ajouter</OPER> le sel, le sucre et la levure préparée selon les indications du sachet ( pour le 1/2 cube, le <OPER id="o_3">diluer</OPER> dans un peu d'eau tiède ). Bien <OPER id="o_4">mélanger</OPER>. 2/ Faire un puits au milieu de la farine. Y <OPER id="o_5">mettre</OPER> le <INGRED id="2">lait</INGRED> et le <INGRED id="5">beurre ramolli</INGRED>. <OPER id="o_6">Pétrir</OPER> une 10aine de minutes ( la <INGRED id="1">pâte</INGRED> ne doit être ni trop dure ni trop molle : <OPER id="o_7">rajouter</OPER> si besoin un peu de <INGRED id="1">farine</INGRED> ou de <INGRED id="2">lait</INGRED> afin d 'obtenir une <INGRED id="5">pâte</INGRED> souple mais non collante ). 3/ Laisser <OPER id="o_8">reposer</OPER> la <INGRED id="1">pâte</INGRED> pendant environ 3h, en posant un torchon humide sur le récipient. La <INGRED id="5">pâte</INGRED> doit <OPER id="o_9">avoir</OPER> doublé de volume. 4/ Une fois la <INGRED id="1">pâte</INGRED> levée, la <OPER id="o_10">partager</OPER> en trois parts de longueur égale, afin de faire une tresse assez lâche à <OPER id="o_11">poser</OPER> sur une plaque farinée. <OPER id="o_12">Passer</OPER> au pinceau un mélange de jaune d'<INGRED id="1">œuf</INGRED> et d'un peu de <INGRED id="5">lait</INGRED>. Vous pouvez aussi <OPER id="o_13">saupoudrer</OPER> la tresse de graines de sésame ou de pavot bleu. 5/ Laisser <OPER id="o_14">reposer</OPER> 1/4 d'heure puis la <OPER id="o_15">mettre</OPER> au four à 190 ° ( therm 6 ) environ 35 mn. Cette brioche est idéale pour le goûter des enfants ou pour le petit déjeuner familial, accompagnée d'une bonne <INGRED id="2">petite</INGRED> <INGRED id="4">confiture</INGRED> " maison " !
+  </annotation>
+  <annotation methode="crf">
+  1/ Mettre la <INGRED>farine</INGRED> dans un grand récipient <INGRED>.</INGRED> Y ajouter le <INGRED>sel</INGRED> <INGRED>,</INGRED> le <INGRED>sucre</INGRED> et la <INGRED>levure</INGRED> préparée selon les indications du sachet ( pour le <INGRED>1/2</INGRED> cube <INGRED>,</INGRED> le diluer dans un peu d'<INGRED>eau</INGRED> tiède ). Bien mélanger. 2/ Faire un puits au milieu de la <INGRED>farine</INGRED>. Y mettre le <INGRED>lait</INGRED> et le <INGRED>beurre ramolli</INGRED> <INGRED>.</INGRED> Pétrir une 10aine de minutes ( la <INGRED>pâte</INGRED> ne doit être ni trop dure ni trop molle <INGRED>:</INGRED> rajouter si besoin un peu de <INGRED>farine</INGRED> <INGRED>ou</INGRED> de <INGRED>lait</INGRED> afin d 'obtenir une <INGRED>pâte</INGRED> souple mais non collante ). 3/ Laisser reposer la <INGRED>pâte</INGRED> pendant <INGRED>environ</INGRED> 3h <INGRED>,</INGRED> en posant un torchon humide sur le récipient <INGRED>.</INGRED> La <INGRED>pâte</INGRED> doit avoir doublé de <INGRED>volume</INGRED>. 4/ Une fois la <INGRED>pâte</INGRED> levée <INGRED>,</INGRED> la partager en trois parts de longueur égale <INGRED>,</INGRED> afin de faire une tresse assez lâche à poser sur une plaque farinée <INGRED>.</INGRED> Passer au pinceau un <INGRED>mélange</INGRED> de <INGRED>jaune d'œuf</INGRED> et d'un peu de <INGRED>lait</INGRED> <INGRED>.</INGRED> Vous pouvez aussi saupoudrer la tresse de <INGRED>graines</INGRED> de sésame <INGRED>ou</INGRED> de pavot bleu <INGRED>.</INGRED> 5/ Laisser reposer <INGRED>1/4</INGRED> d'heure puis la mettre au four à 190 ° ( therm 6 ) <INGRED>environ</INGRED> 35 mn <INGRED>.</INGRED> Cette brioche est idéale pour le goûter des enfants <INGRED>ou</INGRED> pour le <INGRED>petit</INGRED> déjeuner familial <INGRED>,</INGRED> accompagnée d'une bonne <INGRED>petite</INGRED> <INGRED>confiture</INGRED> " maison " !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 2.5*X + 12.5</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = X + 11</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['farine']	 id:1	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:2	 quantité:3	 unité:c à soupe de	 denombrable:False	 recipient:1
+ingredient:['café de sel', 'café']	 id:3	 quantité:1	 unité:c à	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:4	 quantité:90	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:5	 quantité:1/4	 unité:l de	 denombrable:False	 recipient:1
+ingredient:['de levure de boulanger']	 id:6	 quantité:1	 unité:sachet	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mettre	 id:o_1	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:diluer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mettre	 id:o_5	 ingrédients_ralatifs:['2', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:pétrir	 id:o_6	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rajouter	 id:o_7	 ingrédients_ralatifs:['1', '1', '2', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_8	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:avoir	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:partager	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poser	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:passer	 id:o_12	 ingrédients_ralatifs:['1', '5']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:saupoudrer	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:mettre	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

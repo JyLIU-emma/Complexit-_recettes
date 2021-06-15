@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22695">
+  <titre>Papillotes d'ailes de raie aux poires</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 ailes de raie (soit 300 g environ)</p>
+    <p>2 poires</p>
+    <p>1 pêche</p>
+    <p>1 citron</p>
+    <p>10 cl de lait</p>
+    <p>2 oignons</p>
+    <p>1 bâton de cannelle</p>
+    <p>1 étoile de badiane</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire pocher les deux poires et la pêche pendant 15 mn dans une casserole d'eau avec la badiane et la cannelle. 
+    Déposer les fruits pochés, préalablement tranchés finement, dans un plat allant au four, dans du papier sulfurisé. 
+    Placer les ailes de raie, puis les oignons en tranches ; arroser du jus de citron, et de lait. 
+    Saler, poivrer, puis placer au four à 200°C pendant 30 minutes.
+    Le lait n'est pas indispensable, mais il adoucit le goût du plat. vin blanc
+  ]]>
+  </preparation>
+</recette>

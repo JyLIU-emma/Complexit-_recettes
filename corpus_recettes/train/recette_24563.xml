@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24563">
+  <titre>Gratin de courgettes au jambon et au riz</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 courgettes</p>
+    <p>1 petite tasse à café de riz rond</p>
+    <p>5 tranches de jambon</p>
+    <p>chapelure</p>
+    <p>1 oeuf</p>
+    <p>sel, poivre</p>
+    <p>parmesan</p>
+    <p>du basilic</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez votre four à 180°C (th 6). 
+    Nettoyez les courgettes, coupez les extrémités. Plongez-les dans une casserole d'eau bouillante salée, et lorsqu'elles sont cuites (mais encore fermes), égouttez-les. 
+    Pendant ce temps, faites cuire le riz jusqu'à ce qu'il soit ferme. 
+    Mixez le jambon, les courgettes et le basilic. 
+    Une fois la préparation terminée, incorporez le riz, l'oeuf battu et le parmesan. 
+    Mélangez le tout, salez, poivrez, versez dans un plat à gratin, et saupoudrez de chapelure. 
+    Placez au four pendant 25 min.
+     Idéal pour les enfants qui ont du mal à manger les courgettes de façon classique. 
+  ]]>
+  </preparation>
+</recette>

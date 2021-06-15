@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15541">
+  <titre>Pelmeni (raviolis sibériens)</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de farine</p>
+    <p>2 oeufs</p>
+    <p>10 cl lait</p>
+    <p>1 pot de crème épaisse</p>
+    <p>20 cl d'eau, sel</p>
+    <p>Pour la farce :</p>
+    <p>180 g de boeuf maigre</p>
+    <p>180 g de porc maigre</p>
+    <p>120 g de mouton</p>
+    <p>50 g de beurre</p>
+    <p>3 cuillères à soupe de crème fraîche</p>
+    <p>2 oignons</p>
+    <p>noix muscade, sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la farine, les oeufs, l'eau et le lait pour obtenir une pâte qui ne colle plus aux doigts. Ajouter de la farine si besoin est, puis mettre au frais.
+    Passer les viandes au mixer avec le beurre, un oignon, sel, poivre, et muscade. Ajouter la crème et un oignon haché et mélanger.
+    Découper des rondelles de pâte avec un verre. Aplatir chaque rondelle, la garnir d'une cuillerée à café de farce. Plier, fermer les bords. Fariner et mettre à durcir au congélateur. 
+    Faire cuire à l'eau ou dans un bouillon de viande. Les pelmeni sont cuits quand ils remontent à la surface. Servir chaud avec de la crème fraîche ou du beurre.
+  ]]>
+  </preparation>
+</recette>

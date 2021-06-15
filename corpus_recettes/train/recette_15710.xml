@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15710">
+  <titre>Sopa Paraguya (Paraguay)</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 oignons</p>
+    <p>200 g de graisse de porc</p>
+    <p>4 oeufs</p>
+    <p>350 g de fromage frais </p>
+    <p>650 g de farine de maïs</p>
+    <p>1/2 tasse à café de lait</p>
+    <p>1 cuillère à soupe de crème fraîche</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire frire dans la graisse les oignons hachés et les laisser refroidir. Ajouter les oeufs en battant, puis le fromage en petits morceaux. Délayer la farine de maïs avec le lait et la crème. Mélanger le tout doucement, sans battre.
+    Mettre dans un plat à four beurré et fariné et cuire au four pendant une heure.En dépit de son nom, il ne s'agit pas d'une soupe, mais d'une tourte.
+  ]]>
+  </preparation>
+</recette>

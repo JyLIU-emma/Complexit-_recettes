@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17961">
+  <titre>Sandwich Monte Cristo</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 oeuf</p>
+    <p>45 g de lait concentré, demi écrémé, non sucré</p>
+    <p>1 cuillère à café rase de parmesan finement rapé</p>
+    <p>30 g de jambon blanc en tranche</p>
+    <p>60 g de pain de mie, en 2 tranches carrées</p>
+    <p>20 g de gruyère en tranche</p>
+    <p>1 cuillère à café rase de margarine végétale</p>
+    <p>2 feuilles de laitue</p>
+    <p>2 pincées de poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Mélanger dans une assiette creuse : l'oeuf, le lait concentré demi-écrémé, le parmesan râpé et le poivre. 
+    2) Réserver. 
+    3) Superposer : 1 tranche de pain, le jambon, le gruyère et la seconde tranche de pain. 
+    4) Tremper ce sandwich dans le mélange réservé dans l'assiette creuse. 
+    Le retourner plusieurs fois afin qu'il s'imprègne bien du liquide, tout en agissant rapidement, pour ne pas détremper le pain. 
+    Faire chauffer la margarine dans une poêle de taille moyenne, à revêtement anti-adhésif. Y cuire le sandwich, à feu assez doux, en le retournant jusqu'à ce qu'il soit doré et croustillant des 2 côtés. 
+    5) Présenter le sandwich chaud coupé en 2 dans la diagonale sur 2 feuilles de laitue. 
+    6) à déguster avec une belle salade verte.
+    Ce sont des croque-monsieurs moëlleux
+  ]]>
+  </preparation>
+</recette>

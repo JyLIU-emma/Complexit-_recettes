@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23630">
+  <titre>Champignons farcis à la grecque</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>12 gros champignons blancs de Paris</p>
+    <p>24 petits oignons grelots</p>
+    <p>2 pommes Granny Smith</p>
+    <p>1 citron vert</p>
+    <p>1 cuillère à café de curry</p>
+    <p>8 grains de coriandre</p>
+    <p>1 gousse d'ail</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>10 cl d'eau</p>
+    <p>1 brin de thym</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>sel, poivre en grains</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les oignons, le citron et les pommes, puis les détailler en petits dés.
+    Laver les champignons, leur ôter la partie terreuse, les égoutter. Garder les têtes des champignons entières et détailler les pieds en petits dés.
+    Dans une casserole huilée, faire revenir les oignons sans les colorer puis ajouter la gousse d'ail pilée et le curry. Bien mélanger à l'aide d'une cuillère en bois puis mouiller le tout avec le vin blanc et l'eau.
+    Parfumer en ajoutant sel, poivre, coriandre et thym, puis porter à ébullition. Laisser cuire 3 à 4 min à gros bouillons puis réduire le feu pendant 10 min.
+    Incorporer les dés de champignons et prolonger la cuisson de 5 min. Laisser tiédir.
+    Farcir ensuite les têtes des champignons avec cette préparation et déguster.
+  ]]>
+  </preparation>
+</recette>

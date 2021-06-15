@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26695">
+  <titre>Sandwich au thon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 petit pain complet</p>
+    <p>1 petite boîte de thon au naturel</p>
+    <p>basilic</p>
+    <p>sel, poivre</p>
+    <p>tomates séchées</p>
+    <p>Pour la sauce allégée au fromage blanc :</p>
+    <p>100 g de fromage blanc 0%</p>
+    <p>citron</p>
+    <p>sel, poivre</p>
+    <p>basilic</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la sauce au fromage blanc : battre dans un bol le fromage blanc battu à 0% avec du sel, poivre, basilic et quelques gouttes de citron. Emietter le thon, le mélanger à la sauce au fromage blanc. Saler, poivrer, re-basilic. 
+    Couper quelques tomates séchées en morceaux, et les incorporer à la préparation. Couper le petit pain sans séparer les deux parties, tartiner généreusement de la préparationPossibilité de faire le sandwich avec la sauce allégée au curry (voir sur le site), mais dans ce cas, remplacer les tomates séchées par des raisins secs.
+  ]]>
+  </preparation>
+</recette>

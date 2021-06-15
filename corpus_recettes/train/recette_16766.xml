@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16766">
+  <titre>Bar aux brocolis</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 beaux filets de bar</p>
+    <p>500 g de brocolis</p>
+    <p>4 pommes de terre moyennes</p>
+    <p>25 cl de crème liquide</p>
+    <p>2 oeufs</p>
+    <p>2 cuillères à soupe de moutarde</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les pommes de terre, les couper en tranches très fines (2 mm environ) et les ébouillanter 5 min à l'eau salée.
+    Séparer les bouquets de brocolis et les ébouillanter aussi.
+    Couper les filets en 3 ou 4 gros morceaux.
+    Etaler les rondelles de pommes de terre au fond d'un plat à gratin et disposer dessus 2 bandes de poissons et 2 de brocolis (le plat est rayé blanc-vert)  
+    Battre crème + oeufs + moutarde + sel, poivre et verser dans le plat.
+    Enfourner 20 min à 180°C (thermostat 6). Le temps de cuisson peut varier selon les fours.
+    Effet garanti des rayures blanc-vert à l'arrivée du plat sur table.
+  ]]>
+  </preparation>
+</recette>

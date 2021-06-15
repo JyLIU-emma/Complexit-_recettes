@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14695">
+  <titre>Epaule d'agneau en croûte</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 épaule d'agneau désossée</p>
+    <p>250 g de riz cuit</p>
+    <p>250 g de champignons émincés</p>
+    <p>1 petit piment doux</p>
+    <p>1 oeuf</p>
+    <p>2 cuillères à soupe de fines herbes</p>
+    <p>sel et poivre</p>
+    <p>1 petit verre de cognac</p>
+    <p>500 g de pâte feuilletée</p>
+    <p>50 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez les éléments de la farce (champignons, piment doux, oeuf et fines herbes) au riz cuit, salez, poivrez, arrosez de cognac. Fourrez l'épaule d'agneau de cette farce, ficelez soigneusement et faites cuire à four
+    chaud, dans la lèche-frite beurrée, pendant 30 min. A mi-cuisson, sortez l'épaule du four, laissez un peu refroidir, robez de pâte feuilletée et remettez au four pendant 35 min.
+  ]]>
+  </preparation>
+</recette>

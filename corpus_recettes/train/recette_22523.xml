@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22523">
+  <titre>Salade fraîche d'endives et oranges</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 endives</p>
+    <p>4 oranges</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les endives en petits morceaux (environ 1 cm de large) et les verser dans un saladier. 
+    Peler 3 oranges au dessus du saladier pour en récupérer le jus. 
+    Couper les oranges pelées en tranches fines, et les ajouter aux endives. 
+    Presser la dernière orange sur le mélange dans le saladier, ajouter l'huile d'olive, le sel et le poivre, mélanger. 
+    Laisser au frais pendant 1 heure avant de servir.
+    Recette rapide, simple, peu cher, et très fraîche. Très agréable en été. Petit Chablis, ou un autre vin blanc.
+  ]]>
+  </preparation>
+</recette>

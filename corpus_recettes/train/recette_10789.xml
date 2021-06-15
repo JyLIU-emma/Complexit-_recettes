@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10789">
+  <titre>Beignets de pommes au cédrat</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>2 oeufs</p>
+    <p>2 cuillères à soupe d'huile </p>
+    <p>sel</p>
+    <p>1 cuillère à soupe de ratafia de raisins de Muscat</p>
+    <p>500 g de pommes</p>
+    <p>cédrat</p>
+    <p>huile pour la friture</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger 250 g de farine avec 2 jaunes d'oeufs, 2 cuillerées d'huile
+    d'olive, un peu de sel et un peu de ratafia de raisins muscats.
+    Couvrir d'un linge et laisser reposer cette pâte une heure.
+    Au moment d'utiliser la pâte, ajouter 2 blancs d'oeufs en neige ferme.
+    Faire une marmelade de pommes assez sèche, la parfumer avec du cédrat
+    confit râpé.Enrober des cuillerées de marmelade de la pâte à beignets et les faire frire dans l'huile d'olive fumante.
+    Les retirer bien dorés, les égoutter et les poudrer de sucre.
+  ]]>
+  </preparation>
+</recette>

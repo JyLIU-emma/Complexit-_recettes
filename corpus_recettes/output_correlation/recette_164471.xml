@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164471">
+  <titre>Gâteau de fromages blancs façon Fleurlise</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 paquets de galettes bretonnes</p>
+    <p>75 g de beurre</p>
+    <p>1 cuillère soupe de cannelle</p>
+    <p>250 g de mascarpone</p>
+    <p>3 petits suisses 10%</p>
+    <p>1 faisselle de fromage blanc</p>
+    <p>1/2 citron le jus et le zeste</p>
+    <p>1 cuillère à soupe de vanille liquide</p>
+    <p>50 cl de crème liquide</p>
+    <p>3 oeufs</p>
+    <p>6 cuillères à soupe de sucre</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>cassonade pour la croûte</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 160 degrés
+    Un moule à manquez beurré de tous les côtés
+    Mettre le beurre dans un pot et passez au micro onde COmptez jusqu'à 20 sortir le beurre liquide (ou chauffez dans une casserole jusqu'à liquide)
+    Passez au mixer les galettes bretonnes
+    Les mettre dans un saladier
+    Ajoutez le beurre liquide et bien mélanger . Posez dans le moule à manquer tapisser avec la cuillère et mettre au frigo
+    Mettre dans un saladier le mascarpone, les petits suisses et la faisselle, ajoutez  cannelle sucre et vanille bien mélangez au fouet jusqu'à très lissée. Ajoutez les oeufs un à un bien mémanger Ajoutez le citron en zeste puis le jus et mémangez très lisse au fouet
+    Passez la préparation au fouet électrique pour faire bien mousser la préparation
+    Poser la sur la croûte sortie du frigo
+    Faites cuire 160 degrés 30 min puis 10 min à 180 degrés pour dorer
+    Sortir du four parsemez d'un peu de cassonade ! Attendre 20 minutes puis mettre au frigo Servir bien froidPour servir, nappez d'un coulis de fruits ou saupoudrez de cacao avec une passoire ou encore servir sur une compote de pommes ou de poire. Sauterne ou muscat
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Préchauffez</OPER> le four à 160 degrés Un moule à manquez beurré de tous les côtés <OPER id="o_2">Mettre</OPER> le <INGRED id="7">beurre</INGRED> dans un pot et passez au micro onde <OPER id="o_3">COmptez</OPER> jusqu'à 20 <OPER id="o_4">sortir</OPER> le <INGRED id="6">beurre</INGRED> liquide ( ou chauffez dans une casserole jusqu'à liquide ) <OPER id="o_5">Passez</OPER> au mixer les <INGRED id="1">galettes bretonnes</INGRED> Les <OPER id="o_6">mettre</OPER> dans un <INGRED id="1">saladier</INGRED> <OPER id="o_7">Ajoutez</OPER> le <INGRED id="8">beurre</INGRED> liquide et bien <OPER id="o_8">mélanger</OPER>. <OPER id="o_9">Posez</OPER> dans le moule à <OPER id="o_10">manquer</OPER> <OPER id="o_11">tapisser</OPER> avec la cuillère et <OPER id="o_12">mettre</OPER> au frigo <OPER id="o_13">Mettre</OPER> dans un <INGRED id="1">saladier</INGRED> le <INGRED id="4">mascarpone</INGRED>, les petits suisses et la <INGRED id="5">faisselle</INGRED>, <OPER id="o_14">ajoutez</OPER> <INGRED id="3">cannelle</INGRED> <INGRED id="12">sucre</INGRED> et <INGRED id="4">vanille</INGRED> bien <OPER id="o_15">mélangez</OPER> au fouet jusqu'à très lissée. <OPER id="o_16">Ajoutez</OPER> les <INGRED id="6">oeufs</INGRED> un à un bien <OPER id="o_17">mémanger</OPER> <OPER id="o_18">Ajoutez</OPER> le <INGRED id="10">citron</INGRED> en <INGRED id="7">zeste</INGRED> puis le <INGRED id="2">jus</INGRED> et <OPER id="o_19">mémangez</OPER> très lisse au fouet <OPER id="o_20">Passez</OPER> la préparation au fouet électrique pour faire bien mousser la préparation <OPER id="o_21">Poser</OPER> la sur la croûte sortie du frigo Faites <OPER id="o_22">cuire</OPER> 160 degrés 30 min puis 10 min à 180 degrés pour dorer <OPER id="o_23">Sortir</OPER> du four <OPER id="o_24">parsemez</OPER> d'un peu de <INGRED id="13">cassonade</INGRED> ! <OPER id="o_25">Attendre</OPER> 20 minutes puis <OPER id="o_26">mettre</OPER> au frigo Servir bien froidPour servir, <OPER id="o_27">nappez</OPER> d'un coulis de fruits ou saupoudrez de cacao avec une passoire ou encore servir sur une compote de <INGRED id="7">pommes</INGRED> ou de poire. Sauterne ou muscat
+  </annotation>
+  <annotation methode="crf">
+  Préchauffez le four à 160 degrés Un moule à manquez beurré de tous les côtés Mettre le <INGRED>beurre</INGRED> dans un pot et passez au micro onde COmptez jusqu'à 20 sortir le <INGRED>beurre liquide</INGRED> ( <INGRED>ou</INGRED> chauffez dans une casserole jusqu'à liquide ) Passez au mixer les <INGRED>galettes</INGRED> bretonnes Les mettre dans un saladier Ajoutez le <INGRED>beurre liquide</INGRED> et bien mélanger. Posez dans le <INGRED>moule</INGRED> à manquer tapisser avec la cuillère et mettre au frigo Mettre dans un saladier le <INGRED>mascarpone</INGRED> <INGRED>,</INGRED> les <INGRED>petits suisses</INGRED> et la faisselle <INGRED>,</INGRED> ajoutez <INGRED>cannelle sucre</INGRED> et vanille bien mélangez au fouet jusqu'à très lissée <INGRED>.</INGRED> Ajoutez les <INGRED>oeufs</INGRED> un à un bien mémanger Ajoutez le <INGRED>citron</INGRED> en <INGRED>zeste</INGRED> puis le <INGRED>jus</INGRED> et mémangez très lisse au fouet Passez la préparation au fouet électrique pour faire bien mousser la préparation Poser la sur la croûte sortie du frigo Faites cuire 160 degrés 30 min puis 10 min à 180 degrés pour dorer Sortir du four parsemez d'un peu de <INGRED>cassonade</INGRED> ! Attendre 20 minutes puis mettre au frigo Servir bien froidPour servir <INGRED>,</INGRED> nappez d'un <INGRED>coulis</INGRED> de <INGRED>fruits</INGRED> <INGRED>ou</INGRED> saupoudrez de <INGRED>cacao</INGRED> avec une passoire <INGRED>ou</INGRED> encore servir sur une <INGRED>compote</INGRED> de <INGRED>pommes</INGRED> <INGRED>ou</INGRED> de <INGRED>poire</INGRED> <INGRED>.</INGRED> Sauterne <INGRED>ou</INGRED> muscat
+  </annotation>
+  <complexite>
+    <temps>f(X) = 20.4146341463415*X + 6.58536585365854</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 16*X + 13</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['galettes bretonnes', 'galettes']	 id:1	 quantité:2	 unité:paquets de	 denombrable:True	 recipient:2*X
+ingredient:['beurre']	 id:2	 quantité:75	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['cannelle']	 id:3	 quantité:1	 unité:cuillère soupe de	 denombrable:True	 recipient:1*X
+ingredient:['mascarpone']	 id:4	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['faisselle de fromage blanc', 'faisselle']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['citron le jus', 'citron']	 id:6	 quantité:1/2	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['zeste']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['vanille liquide', 'vanille']	 id:8	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['crème liquide', 'crème']	 id:9	 quantité:50	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:10	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['sucre']	 id:11	 quantité:6	 unité:cuillères à soupe de	 denombrable:True	 recipient:6*X
+ingredient:['sucre vanillé', 'sucre']	 id:12	 quantité:1	 unité:sachet de	 denombrable:True	 recipient:1*X
+ingredient:['cassonade']	 id:13	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préchauffer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:mettre	 id:o_2	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:compter	 id:o_3	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:sortir	 id:o_4	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:passer	 id:o_5	 ingrédients_ralatifs:['1', '1']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:mettre	 id:o_6	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:poser	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:manquer	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tapisser	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_13	 ingrédients_ralatifs:['1', '4', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_14	 ingrédients_ralatifs:['1', '4', '5', '3', '12', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_16	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mémanger	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_18	 ingrédients_ralatifs:['10', '7', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mémanger	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:passer	 id:o_20	 ingrédients_ralatifs:['10', '7', '2']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:poser	 id:o_21	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:sortir	 id:o_23	 ingrédients_ralatifs:['13']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:parsemer	 id:o_24	 ingrédients_ralatifs:['13']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:attendre	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_26	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:napper	 id:o_27	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

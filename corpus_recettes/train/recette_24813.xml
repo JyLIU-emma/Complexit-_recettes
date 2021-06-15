@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24813">
+  <titre>Cake aux fruits confits sans alcool</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>125 g de beurre</p>
+    <p>200 g de fromage blanc gras</p>
+    <p>250 g de sucre</p>
+    <p>4 oeufs</p>
+    <p>250 g de farine</p>
+    <p>100 g de fruits confits</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C (thermostat 6) et beurrez un moule à cake.
+    Fouettez le beurre en crème et ajoutez-lui le fromage blanc.  Lorsque le mélange est homogène, incorporez les oeufs, le sucre puis la farine jusqu'à ce que la pâte soit lisse.
+    Ajoutez les fruits confits (hachez-les avant au besoin, s'ils sont trop gros).Versez la préparation dans le moule. Enfournez pour 45 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

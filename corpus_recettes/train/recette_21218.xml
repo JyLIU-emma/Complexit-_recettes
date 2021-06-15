@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21218">
+  <titre>Cabillaud aux tomates (et fromage)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 filets de cabillaud</p>
+    <p>2 tomates épépinées et coupées en morceaux</p>
+    <p>1-2 échalotes (selon le goût) </p>
+    <p>1-2 gousse d'ail (selon le goût) </p>
+    <p>fromage râpé (style gruyère) </p>
+    <p>aneth</p>
+    <p>sel, poivre </p>
+    <p>paprika</p>
+    <p>huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer l'échalote et la gousse d'ail et les faire rissoler dans un peu d'huile. 
+    Placer le cabillaud dans un plat allant au four à micro-ondes. 
+    Disposer les tomates sur le poisson. 
+    Assaisonnez de sel, poivre et parsemer d'aneth. 
+    Verser la préparation échalote/ail sur les tomates. 
+    Mettre au four à micro-ondes durant 8 mn à 650 W. 
+    Ensuite retirer du four, parsemer de fromage, et ajouter du paprika (suivant le goût de chacun). 
+    Remettre au four (griller éventuellement) +- 2 mn pour que le fromage fonde (ou grille). 
+    C'est prêt !
+    Recette pouvant se faire au four traditionnel.
+  ]]>
+  </preparation>
+</recette>

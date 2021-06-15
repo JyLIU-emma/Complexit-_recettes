@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10627">
+  <titre>Pâtes aux légumes et à la crème</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de pâtes (spaghetti ou tagliatelles)</p>
+    <p>2 poivrons(moyens rouge et jaune)</p>
+    <p>2 courgettes(petites)</p>
+    <p>1 boîte de champignons</p>
+    <p>1 oignon</p>
+    <p>1 bouquet de persil</p>
+    <p>25 cl de crème fraiche</p>
+    <p>3 cuillères à café de maïzena</p>
+    <p>10 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et vider les poivrons, les couper en fines lamelles. Laver et couper en fines rondelles les courgettes. Emincer l'oignon, ciseler le persil et égouttez les champignons.
+    Dans une casserole, faire fondre le beurre, ajouter tous les légumes et la maïzena. Faire revenir jusqu'à ce que ça sente bon (environ 5 min).
+    Baissez le feu et ajouter la crème. Assaisonner avec du sel, du poivre et un tout petit peu de muscade.
+    Laisser mijoter environ 10 min à couvert en remuant de temps en temps.
+    Pendant ce temps, faire cuire les pâtes.
+    Quand tout cela est prêt, mélanger la sauce au légumes avec les pâtes et servir tout de suite.
+    Pour ceux qui ne peuvent pas se passer de fromage avec les pâtes, ils peuvent en mettre, mais je trouve que ça coupe le goût de la sauce.
+    Et bon appétit!!!
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Laver</OPER> et <OPER id="o_2">vider</OPER> les <INGRED id="9">poivrons</INGRED>, les <OPER id="o_3">couper</OPER> en fines lamelles. <OPER id="o_4">Laver</OPER> et <OPER id="o_5">couper</OPER> en fines rondelles les <INGRED id="2">courgettes</INGRED>. <OPER id="o_6">Emincer</OPER> l'<INGRED id="7">oignon</INGRED>, <OPER id="o_7">ciseler</OPER> le <INGRED id="5">persil</INGRED> et égouttez les <INGRED id="4">champignons</INGRED>. Dans une casserole, faire <OPER id="o_8">fondre</OPER> le <INGRED id="5">beurre</INGRED>, <OPER id="o_9">ajouter</OPER> tous les légumes et la <INGRED id="8">maïzena</INGRED>. Faire <OPER id="o_10">revenir</OPER> jusqu'à ce que ça sente bon ( environ 5 min ). <OPER id="o_11">Baissez</OPER> le feu et <OPER id="o_12">ajouter</OPER> la <INGRED id="4">crème</INGRED>. <OPER id="o_13">Assaisonner</OPER> avec du <INGRED id="5">sel</INGRED>, du <INGRED id="8">poivre</INGRED> et un tout petit peu de muscade. Laisser <OPER id="o_14">mijoter</OPER> environ 10 min à couvert en remuant de temps en temps. Pendant ce temps, faire <OPER id="o_15">cuire</OPER> les <INGRED id="1">pâtes</INGRED>. Quand tout cela est prêt, <OPER id="o_16">mélanger</OPER> la <INGRED id="5">sauce</INGRED> au légumes avec les <INGRED id="1">pâtes</INGRED> et servir tout de suite. Pour ceux qui ne peuvent pas se <OPER id="o_17">passer</OPER> de <INGRED id="3">fromage</INGRED> avec les <INGRED id="1">pâtes</INGRED>, ils peuvent en <OPER id="o_18">mettre</OPER>, mais je trouve que ça coupe le <INGRED id="9">goût</INGRED> de la <INGRED id="5">sauce</INGRED>. Et bon appétit ! ! !
+  </annotation>
+  <annotation methode="crf">
+  Laver et vider les <INGRED>poivrons</INGRED> <INGRED>,</INGRED> les couper en fines lamelles. Laver et couper en fines rondelles les <INGRED>courgettes</INGRED> <INGRED>.</INGRED> Emincer l'<INGRED>oignon</INGRED> <INGRED>,</INGRED> ciseler le <INGRED>persil</INGRED> et égouttez les <INGRED>champignons</INGRED> <INGRED>.</INGRED> Dans une casserole <INGRED>,</INGRED> faire fondre le <INGRED>beurre</INGRED> <INGRED>,</INGRED> ajouter tous les <INGRED>légumes</INGRED> et la <INGRED>maïzena</INGRED> <INGRED>.</INGRED> Faire revenir jusqu'à ce que ça sente bon ( <INGRED>environ</INGRED> 5 min ). Baissez le feu et ajouter la <INGRED>crème</INGRED>. Assaisonner avec du <INGRED>sel</INGRED> <INGRED>,</INGRED> du <INGRED>poivre</INGRED> et un tout <INGRED>petit</INGRED> peu de <INGRED>muscade</INGRED>. Laisser mijoter <INGRED>environ</INGRED> 10 min à couvert en remuant de temps en temps. Pendant ce temps <INGRED>,</INGRED> faire cuire les <INGRED>pâtes</INGRED> <INGRED>.</INGRED> Quand tout cela est prêt <INGRED>,</INGRED> mélanger la <INGRED>sauce</INGRED> au légumes avec les <INGRED>pâtes</INGRED> et servir tout de suite <INGRED>.</INGRED> Pour ceux qui ne peuvent pas se passer de <INGRED>fromage</INGRED> avec les <INGRED>pâtes</INGRED> <INGRED>,</INGRED> ils peuvent en mettre <INGRED>,</INGRED> mais je trouve que ça coupe le goût de la <INGRED>sauce</INGRED>. Et bon appétit ! ! !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 22.3076923076923*X + 6.69230769230769</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 10*X + 12</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pâtes']	 id:1	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['poivrons']	 id:2	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['courgettes']	 id:3	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['champignons']	 id:4	 quantité:1	 unité:boîte de	 denombrable:True	 recipient:1*X
+ingredient:['oignon']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['bouquet de persil', 'bouquet']	 id:6	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['crème fraiche', 'crème']	 id:7	 quantité:25	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['maïzena']	 id:8	 quantité:3	 unité:cuillères à café de	 denombrable:True	 recipient:3*X
+ingredient:['beurre']	 id:9	 quantité:10	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:laver	 id:o_1	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:10*X	 temps:1*X*1	 recipient:0
+operation:vider	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:laver	 id:o_4	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:2*X*1	 recipient:0
+operation:couper	 id:o_5	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:2*X*1	 recipient:1
+operation:emincer	 id:o_6	 ingrédients_ralatifs:['7', '5', '4']	 nombre_opération_atomique:1+1*X+1*X	 temps:1*X*1+1*X*1+1*X*1	 recipient:1
+operation:ciseler	 id:o_7	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fondre	 id:o_8	 ingrédients_ralatifs:['5', '8']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:revenir	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:baisser	 id:o_11	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:assaisonner	 id:o_13	 ingrédients_ralatifs:['5', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:cuire	 id:o_15	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:mélanger	 id:o_16	 ingrédients_ralatifs:['5', '1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:passer	 id:o_17	 ingrédients_ralatifs:['3', '1']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:mettre	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

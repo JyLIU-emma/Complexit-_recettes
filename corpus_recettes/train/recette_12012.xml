@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12012">
+  <titre>Gâteau à la banane citronnée</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>350 g de farine </p>
+    <p>250 g de sucre</p>
+    <p>3 cuillères à café de levure chimique</p>
+    <p>1 pincée de sel</p>
+    <p>12,5 cl d'huile</p>
+    <p>6 oeufs</p>
+    <p>3 bananes mûres</p>
+    <p>4 cuillères à café de jus de citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre l'huile, les jaunes d'oeufs, les bananes écrasées à la fourchette et le jus de citron.
+    Par ailleurs, mélanger la farine, le sucre, la levure et le sel et ajouter au premier mélange. 
+    Battre les blancs en neige ferme. Les incorporer doucement à la pâte. Verser dans le moule.
+    Ce gâteau monte beaucoup, ne remplir le moule qu'au 2/3. Cuire 50 mn à four moyen / 180°C (le gâteau est cuit quand un doigt appuyé ne laisse pas de trace).
+    Laissez refroidir un peu avant de démouler. Saupoudrer de sucre glace.
+     thé ou chocolat chaud
+  ]]>
+  </preparation>
+</recette>

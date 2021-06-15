@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26518">
+  <titre>Tarte fondante à l'oignon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>8 oignons</p>
+    <p>100 g de beurre</p>
+    <p>huile</p>
+    <p>4 oeufs</p>
+    <p>80 g de gruyère</p>
+    <p>40 cl de lait</p>
+    <p>100 g de gruyère</p>
+    <p>40 cl de lait</p>
+    <p>sel, poivre, muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites précuire le fond de tarte à blanc 10 min. 
+    Emincez les oignons, puis faites-les fondre sans dans 50 g de beurre et 1 cuillère à soupe d'huile. 
+    Disposez-les sur le fond de tarte.
+    Battez les oeufs avec le fromage, le lait, sel, poivre et muscade ; versez sur les oignons. 
+    Enfournez à 200°C (thermosat 6-7) pendant 30 min environ.
+  ]]>
+  </preparation>
+</recette>

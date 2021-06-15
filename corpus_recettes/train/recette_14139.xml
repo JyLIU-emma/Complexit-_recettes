@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14139">
+  <titre>Tarte thon et tomate</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>1 briquette de crème épaisse (20 cl)</p>
+    <p>1 petite boîte de concentré de tomate</p>
+    <p>1 boîte de thon (150 g)</p>
+    <p>sel</p>
+    <p>herbes de Provence</p>
+    <p>fromage râpé</p>
+    <p>1 oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la pâte brisée et la piquer avec une fourchette. 
+    Emietter le thon sur la pâte.
+    Mélanger dans un gros bol : la crème, le concentré de tomate, l'oeuf et le sel; verser la préparation sur le thon.
+    Saupoudrer d'herbes de Provence, recouvrir de fromage râpé, puis faire cuire comme une quiche, soit 25 min (selon puissance du four) à 210°C (th 7).
+    Hyper rapide, pour ceux qui aiment bien cuisiner sans y passer beaucoup de temps. Vous pouvez remplacer la pâte brisée par de la pâte feuilletée.
+  ]]>
+  </preparation>
+</recette>

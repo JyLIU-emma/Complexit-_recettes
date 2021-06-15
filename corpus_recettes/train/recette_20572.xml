@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20572">
+  <titre>Risotto Michelangelo (aux lentilles, pommes et raisins secs)</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de riz Arborio</p>
+    <p>150 g de lentilles brunes</p>
+    <p>1/2 oignon</p>
+    <p>50 g de beurre</p>
+    <p>1/2 verre de vin blanc</p>
+    <p>1 pomme</p>
+    <p>3 cuillères à soupe de yaourt entier</p>
+    <p>2 cuillères à soupe de raisins secs</p>
+    <p>1,5 l de bouillon végétal</p>
+    <p>1 dose de safran</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les lentilles dans de l'eau bouillante et prolonger la cuisson pendant une dizaine de minutes. 
+    Hacher l'oignon et le faire revenir dans le beurre. Ajouter le riz et faire rissoler le tout pendant 2 mn, en mélangeant. 
+    Mouiller de vin blanc, après 1 mn, ajouter les lentilles. 
+    Faire cuire pendant 18 mn en ajoutant au fur et à mesure le bouillon. 
+    A 8 mn de la fin ajouter la pomme coupées en morceaux et le saffran. 
+    A 2 mn de la fin ajouter le yaourt et les raisins secs, que vous aviez mis à tremper dans de l'eau.
+    En Italie, c'est une entrée (les proportions sont en conséquences), mais c'est aussi un excellent plat principal. Parfait pour les végétariens.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26906">
+  <titre>Quiche aux champignons, crevettes et moules</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>165 g de champignons de couche</p>
+    <p>165 g de crevettes cuites et décortiquées</p>
+    <p>165 g de moules cuites et décoquillées</p>
+    <p>80 g de crème fraîche</p>
+    <p>15 g de beurre</p>
+    <p>2 oeufs</p>
+    <p>1 échalote hachée</p>
+    <p>1 cuillère à soupe de jus de citron</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6-7).
+    Faire revenir les champignons émincés dans le beurre avec l'échalote hachée.
+    Disposer la pâte dans un moule de taille moyenne et la recouvrir de champignons, de crevettes et de moules.
+    Fouetter les oeufs avec la crème, assaisonner de citron, de sel et de poivre puis verser sur la tarte.
+    Enfourner pour 30 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

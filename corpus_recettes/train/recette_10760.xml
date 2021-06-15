@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10760">
+  <titre>Pâte à pizza vite faite</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de farine de froment</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>1/2 cube de levure de boulanger</p>
+    <p>1 cuillère à café de sucre</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la farine de froment avec le sel, l'huile d'olive, la levure délayée dans 5 cl d'eau tiède sucrée.
+    Ajouter de l'eau jusqu'à que la pâte ne colle plus et fasse une boule compacte. Laisser reposer 1/2 heure, étaler dans un plat. Laisser reposer pendant que vous préparez la garniture.
+  ]]>
+  </preparation>
+</recette>

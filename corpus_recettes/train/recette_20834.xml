@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20834">
+  <titre>Agneau garam massala</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg d'agneau (épaule par exemple) </p>
+    <p>environ 1,2 kg de pulpe de tomates ou de tomates en dés</p>
+    <p>2 barres de crème de noix de coco (se trouve dans les magasins spécialisés en cuisine indienne) </p>
+    <p>1 oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>1/2 sachet de poudre garam massala (également disponible dans tout magasin d'ingrédients indiens) </p>
+    <p>1 cuiller à soupe d'huile</p>
+    <p>un peu de sel</p>
+    <p>1 poivron rouge (éventuellement) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites revenir dans l'huile l'oignon épluché et coupé en petits morceaux. 
+    Coupez la viande en dés et ajoutez-la aux oignons. Faites revenir quelques minutes en remuant. Ajoutez l'ail écrasé. 
+    Ajoutez ensuite la poudre garam massala. Mélangez bien. 
+    Ajoutez les tomates (et éventuellement le poivron coupé en dés). 
+    Couvrez, et laissez mijoter et réduire 25 mn environ. 
+    Deux minutes avant de sortir du feu, incorporez la crème de coco.
+    La crème de coco se présente sous la forme d'une barre solide. Elle fond sous l'effet de la chaleur. Elle éclaircit la teinte de la préparation, diffuse et adoucit le goût.
+  ]]>
+  </preparation>
+</recette>

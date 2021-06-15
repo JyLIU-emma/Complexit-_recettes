@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25995">
+  <titre>Banana-split</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 bananes</p>
+    <p>glace vanille, glace au chocolat, glace fraise</p>
+    <p>20 cl de chantilly</p>
+    <p>100 g de chocolat fondu</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre une banane dans chaque plat (de préférence de la même forme). 
+    Placer ensuite 3 boules de glace puis napper de chocolat. 
+    Ajouter quelques noisettes de chantilly !!!
+  ]]>
+  </preparation>
+</recette>

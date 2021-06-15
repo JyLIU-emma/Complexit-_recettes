@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24325">
+  <titre>Brioche au sucre</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la brioche :</p>
+    <p>200 g de farine</p>
+    <p>40 g de sucre en poudre</p>
+    <p>2 oeufs</p>
+    <p>40 g de beurre</p>
+    <p>10 cl de lait</p>
+    <p>12,5 g de levure</p>
+    <p>Pour la garniture :</p>
+    <p>50 g de sucre en poudre</p>
+    <p>25 g de beurre</p>
+    <p>1 oeuf</p>
+    <p>15 g de raisins secs</p>
+    <p>75 g d'amandes en poudre</p>
+    <p>Pour la décoration :</p>
+    <p>1 jaune d'oeuf</p>
+    <p>30 g de sucre perlé (en grains pour chouquettes)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour la pâte :
+    Délayer la levure dans le lait tiède. Couper le beurre en petits morceaux. Dans une terrine, mettre la farine et y jeter le sucre, le beurre, puis la levure délayée. Pétrir et former une boule de pâte homogène. Laisser reposer le pâton dans la terrine recouverte d'un linge, dans un endroit tiède pendant une heure et demie. Ce temps écoulé, battre les oeufs et les ajouter à la pâte, puis mélanger vigoureusement pendant 5 bonnes minutes. Laisser reposer à couvert (comme précédemment) pendant une heure.
+    Préparer la garniture :
+    Battre l'oeuf avec le sucre, puis ajouter le beurre ramolli, la poudre d'amande et les raisins. 
+    Pour la brioche :
+    Couper la pâte en deux boules et former deux bandes allongées. Répartir la garniture sur les deux bandes en faisant moitié-moitié, puis les rouler pour les refermer chacune sur elle-même - dans le sens de la longueur - en soudant avec les doigts (avec un peu d'eau sucrée si nécessaire). Enrouler ces deux pâtes ensemble pour former des torsades.
+    Placer dans un moule (brioche, couronne) ou sur une plaque de cuisson recouverte de papier sulfurisé. Patienter une demi-heure pour que la brioche lève encore.
+    Préchauffer le four à 180°C (thermostat 6), puis appliquer du jaune d'oeuf au pinceau sur la brioche et saupoudrer de sucre perlé.
+    Faire cuire 20 minutes environ.
+    Il est important d'avoir un endroit tiède à disposition pour les levées. De même, le récipient utilisé doit être tiède également (si besoin, utilisez votre four préchauffé et éteint).
+  ]]>
+  </preparation>
+</recette>

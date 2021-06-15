@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26138">
+  <titre>Gâteau aux épinards de Martine</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g d'épinards hachés surgelés</p>
+    <p>1 morceau de mimolette (environ 300 g) </p>
+    <p>2 pots de chavroux</p>
+    <p>2 oeufs</p>
+    <p>2 gousses d'ail hachées (ou plus, selon votre goût) </p>
+    <p>1 pincée de sel, poivre, muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C. 
+    Décongeler les épinards. Couper la mimolette en dés. Mélanger la mimolette, le chavroux, l'ail, le sel, le poivre, la muscade et les oeufs dans un saladier. 
+    Le chavroux se mélange très bien avec les épinards, un peu comme de la crème. Verser le tout dans un moule à manqué antiadhésif si possible, puis enfourner pendant 45 mn en vérifiant de temps en temps la cuisson. 
+    Il faut juste qu'il soit doré et que le mélange ait "pris".
+    Ce plat se mange aussi bien en entrée qu'en apéritif tiède ou froid, coupé en carrés.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20647">
+  <titre>Poulet sauté aux légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet découpé en morceaux</p>
+    <p>1 tomate</p>
+    <p>1 poivron vert</p>
+    <p>1 poivron rouge</p>
+    <p>2 oignons</p>
+    <p>2 échalotes</p>
+    <p>100 g de beurre</p>
+    <p>200 g de champignons</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>1 bouquet garni</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les morceaux de poulet dans du beurre avec les oignons et les échalotes ciselés. Arroser de vin blanc et laissez mijoter 10 min.
+    Ajouter le bouquet garni, les poivrons et les champignons émincés, et assaisonner. Faire cuire 30 min.
+    Ce poulet est très bon servi avec du riz.
+  ]]>
+  </preparation>
+</recette>

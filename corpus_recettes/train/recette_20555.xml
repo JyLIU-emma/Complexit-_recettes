@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20555">
+  <titre>Gigot d'agneau aux herbes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 gigot d'agneau</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>1 cuillère à soupe de thym séché</p>
+    <p>1 cuillère à soupe d'origan séché</p>
+    <p>1 cuillère à café de romarin séché</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 240°C (thermostat 8).
+    Mélangez les herbes et l'huile et en enduire les gigots avant de les disposer dans un plat allant au four.
+    Enfourner pour 15 minutes de cuisson.
+    Baisser ensuite le four à 180°C (thermostat 6) et verser 15 cl d'eau dans le plat avant de poursuivre la cuisson durant 15 minutes.
+  ]]>
+  </preparation>
+</recette>

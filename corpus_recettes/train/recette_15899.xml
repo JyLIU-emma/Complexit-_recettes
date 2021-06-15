@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15899">
+  <titre>Crêpes faciles</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de farine</p>
+    <p>1 œuf entier </p>
+    <p>20 cl de lait (environ, mais en rajouter jusqu'à obtention de la texture adéquate)</p>
+    <p>2 cuillères à soupe de rhum (brun de préférence)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la farine et l’œuf. Ajouter progressivement le lait et enfin le rhum.
+    Laisser reposer si on a le temps (mais peut être utilisée tout de suite).
+    Cette recette est multipliable à volonté: 300g de farine, 2 oeufs, 450 g farine et 3 oeufs, etc. cidre
+  ]]>
+  </preparation>
+</recette>

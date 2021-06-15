@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10958">
+  <titre>Brick au carré frais à l'orientale</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 feuilles de brick</p>
+    <p>2 carrés frais</p>
+    <p>1 tige de menthe fraîche</p>
+    <p>1 poignée de raisins secs</p>
+    <p>1 petit ramequin de beurre fondu </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un bol, mélanger les carrés frais avec les raisins secs et 4 feuilles de menthe ciselées.
+    Partager cette préparation en 8 portions.
+    Couper les feuilles de brick en 2.
+    Sur chacune des 8 demi-feuilles, déposer une portion de préparation,
+    replier le bord arrondi pour former un rectangle.
+    Replier les extrémitées de façon à faire un paquet en triangle.
+    Badigeonner chaque paquet de beurre fondu à l'aide d'un pinceau.
+    Disposer sur une plaque et faire dorer à four moyen (150°C - thermostat 5) environ 15 min.
+    Servir tiède et croustillant avec une petite salade de pousses d'épinards.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19162">
+  <titre>Tajine de pintade aux abricots secs</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pintade fermière coupée en morceaux</p>
+    <p>150 g d'abricots secs</p>
+    <p>1/2 citron non traité</p>
+    <p>2 oignons</p>
+    <p>4 cuillères à soupe d'huile d'olive</p>
+    <p>1/2 cuillère à café de gingembre</p>
+    <p>1/2 cuillère à café de cannelle (en poudre) </p>
+    <p>4 brins de coriandre</p>
+    <p>20 cl de bouillon de volaille</p>
+    <p>Sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Réhydratez les abricots secs dans un bol d'eau tiède. 
+    Dans une cocotte, faites dorer les morceaux de pintade poivrés et salés et les oignons émincés dans l'huile. 
+    Ajoutez la cannelle et le gingembre et remuz le tout pendant une minute. 
+    Ajoutez les abricots après les avoir soigneusement égouttés, ainsi que le citron finement émincé, la coriandre ciselée et le bouillon de volaille. 
+    Couvrez et laissez cuire 15 mn. 
+    Découvrez et poursuivez la cuisson pendant encore 5 mn, afin qu'il n'y ait presque plus de liquide dans le plat. 
+    Servez bien chaud.
+  ]]>
+  </preparation>
+</recette>

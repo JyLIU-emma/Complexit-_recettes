@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25226">
+  <titre>Tomates cocotte au curry</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tomates à farcir</p>
+    <p>4 oeufs</p>
+    <p>100 g de fromage</p>
+    <p>curry</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez un chapeau aux tomates. Evidez l'intérieur et saupoudrez de sel. Laissez dégorger à l'envers pendant 30 minutes.
+    Egouttez les tomates, cassez les oeufs dedans. Saupoudrez de curry, salez et poivrez. Parsemez de fromage coupé en lamelles fines.
+    Posez les tomates dans un plat huilé, faites cuire environ 15 minutes au four à 150°C (thermostat 5).
+  ]]>
+  </preparation>
+</recette>

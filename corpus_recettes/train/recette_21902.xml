@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21902">
+  <titre>Compote de potiron aux raisins secs et miel</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,5 kg de potiron</p>
+    <p>250 g de miel</p>
+    <p>100 g de raisins secs</p>
+    <p>1 orange non traitée</p>
+    <p>1 citron non traité</p>
+    <p>1 petit verre de rhum</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettez la moitié des raisins à gonfler dans le rhum.
+    Pelez et coupez la chair du potiron en gros cubes.
+    Découpez l'orange et le citron en rondelles.
+    Mettez le tout dans une casserole avec le miel et le reste des raisins.
+    Couvrez et faites cuire 30 min à feu doux.
+    Sortez les tranches d'agrumes et disposez-les au fond d'un saladier.
+    Ecrasez bien le potiron en purée et versez-le dans le saladier, rajoutez les raisins macérés au le rhum.
+    Réservez au frais jusqu'au service.
+    Cette compote peut servir de base pour garnir une tarte au potiron.
+  ]]>
+  </preparation>
+</recette>

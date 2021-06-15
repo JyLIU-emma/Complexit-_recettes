@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22221">
+  <titre>Gratin de légumes au thon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>une boîte de thon au naturel de 150 g</p>
+    <p>2 cuillères à soupe bombées de farine</p>
+    <p>20 g de beurre</p>
+    <p>1/4 de litre de lait</p>
+    <p>100 g de gruyère râpé</p>
+    <p>1 oeuf</p>
+    <p>4 tomates</p>
+    <p>2 échalotes</p>
+    <p>150 g de champignons</p>
+    <p>2 courgettes</p>
+    <p>huile d'olive</p>
+    <p>sel poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Émincer les échalotes et les faire revenir dans l'huile d'olive. Ajouter les tomates coupés en morceaux. Laisser réduire. Saler poivrer. 
+    Laver et couper les champignons et les courgettes, les faire cuire à l'eau salée. Les égoutter et réserver. 
+    Préparer une béchamel avec le beurre, la farine, le lait. Ajouter en dernier le gruyère et le jaune d'oeuf. Saler poivrer. 
+    Dans un plat à gratin, mettre en couches successives les tomates, les champignons et les courgettes. Terminer par le thon emietté grossièrement et la béchamel. Faire gratiner au four, et servir bien chaud.
+    les choix des légumes peut varier selon les saisons : poireau, brocolis, poivron.... mais toujours garder la base à la tomate.
+  ]]>
+  </preparation>
+</recette>

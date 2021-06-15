@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22851">
+  <titre>Rougail saucisse</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 saucisses fumées (genre diots de Savoie) ou 4 grosses saucisses fumées type Montbéliard</p>
+    <p>4 tomates</p>
+    <p>4 oignons</p>
+    <p>6 gousses d'ail</p>
+    <p>thym, laurier</p>
+    <p>sel, poivre</p>
+    <p>1 c à café de curcuma (safran) </p>
+    <p>1 piment oiseau (facultatif) </p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Piquez les saucisses et mettez les dans l'eau bouillante pendant 10 mn, dans la même marmite qui vous servira à la préparation du plat afin de garder les saveurs. 
+    Videz la marmite. Réservez les saucisses. Faites-y chauffer de l'huile d'olive. 
+    Faites revenir les oignons émincés et l'ail écrasé sans qu'ils soient trop colorés. 
+    Coupez les saucisses en troncons de 1,5 cm puis faites les revenir avec les oignons. Au bout de 5 mn, ajoutez les tomates coupées en petits morceaux et les aromates (le piment en morceaux). 
+    Mélangez le tout puis laisser mijoter sur feu doux en ôtant le couvercle de temps à autre pour éliminer l'excès d'eau. 
+    Servez avec du riz thai
+    Plus vous mettrez d'huile d'olive sans exagérer bien sur, plus le plat sera meilleur. C'est un plat de la Réunion que je tiens de ma belle-mère un vin rouge léger
+  ]]>
+  </preparation>
+</recette>

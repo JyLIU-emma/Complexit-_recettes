@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12788">
+  <titre>Poulet aux bananes vertes (Cameroun)</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet</p>
+    <p>1 gros oignon</p>
+    <p>1 bouquet garni</p>
+    <p>30 g de beurre</p>
+    <p>1 verre de bouillon (cube) </p>
+    <p>1 verre de vin blanc</p>
+    <p>12 bananes vertes</p>
+    <p>2 cuillerées d'huile</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>1 citron</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper le poulet cru.
+    Faire cuire les morceaux pendant 20 minutes à partir de l'ébullition dans un litre et demi d'eau avec l'oignon coupé en rondelles et le bouquet garni. Egoutter et essuyer les morceaux.
+    Faire fondre le beurre dans une cocotte et y faire dorer les morceaux de poulet. Recouvrir avec le vin blanc et le bouillon. Saler, poivrer, faire bouillir pendant deux minutes et laisser mijoter pendant 15 minutes.
+    Eplucher les bananes. Les fendre en 4 ou en 8 selon leur grosseur. Les blanchir à l'eau bouillante. Les joindre au poulet et laisser cuire pendant 30 minutes.
+    Retirer le poulet et les bananes. Faire réduire la sauce du tiers de son volume. La lier  avec les jaunes d'oeufs. Ajouter le jus de citron.
+    Servir les morceaux de poulet recouverts avec la sauce et entourés de bananes.
+    Les bananes doivent être cueillies quelques jours avant leur maturité. On peut les remplacer par du manioc, des macabos, des patates.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="105836">
+  <titre>Gâteau Chocolat Canelle</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de chocolat noir</p>
+    <p>150 g de beurre</p>
+    <p>250 g de sucre</p>
+    <p>125 g de farine</p>
+    <p>20 cl de lait</p>
+    <p>4 oeufs</p>
+    <p>2 cuillères à café de cannelle en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites chauffer le four à 150°C (thermostat 5).
+     
+    Faites chauffer le lait dans une casserole. Pendant ce temps cassez le chocolat en petits morceaux. Mettez-les dans le lait chaud et remuez bien. ajoutez 130 g de beurre, remuez encore puis incorporer le sucre, en remuant toujours. Quand tous les éléments sont fondus et le mélange bien homogène, laissez un peu refroidir.
+     
+    Cassez les oeufs en séparant le blanc des jaunes. Battez les blancs en neige bien ferme. ajoutez les jaunes dans la pâte. remuez bien. Ajoutez la farine et la cannelle. Remuez encore jusqu'à ce que le mélange soit homogène. La pâte doit être parfaitement lisse.
+     
+    Incorporez les blancs en neige très délicatement.
+     
+    Beurrez un moule à manqué et versez-y la pâte. Enfournez et laissez cuire 45 min, toujours à feu doux.
+     
+    Le gâteau est cuit  quand une lame de couteau plongée dedans ressort sèche.
+     
+    Laissez refroidir le gâteau avant de le démouler sur un plat de service.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faites <OPER id="o_1">chauffer</OPER> le four à 150 ° C ( thermostat 5 ). Faites <OPER id="o_2">chauffer</OPER> le <INGRED id="5">lait</INGRED> dans une casserole. Pendant ce temps <OPER id="o_3">cassez</OPER> le <INGRED id="1">chocolat</INGRED> en petits morceaux. <OPER id="o_4">Mettez</OPER> - les dans le <INGRED id="5">lait</INGRED> chaud et remuez bien. <OPER id="o_5">ajoutez</OPER> 130 g de <INGRED id="2">beurre</INGRED>, remuez encore puis <OPER id="o_6">incorporer</OPER> le <INGRED id="3">sucre</INGRED>, en remuant toujours. Quand tous les éléments sont fondus et le mélange bien homogène, laissez un peu <OPER id="o_7">refroidir</OPER>. <OPER id="o_8">Cassez</OPER> les <INGRED id="6">oeufs</INGRED> en séparant le blanc des jaunes. <OPER id="o_9">Battez</OPER> les blancs en neige bien ferme. <OPER id="o_10">ajoutez</OPER> les jaunes dans la pâte. <OPER id="o_11">remuez</OPER> bien. <OPER id="o_12">Ajoutez</OPER> la <INGRED id="4">farine</INGRED> et la <INGRED id="7">cannelle</INGRED>. <OPER id="o_13">Remuez</OPER> encore jusqu'à ce que le mélange soit homogène. La pâte doit être parfaitement lisse. <OPER id="o_14">Incorporez</OPER> les blancs en neige très délicatement. <OPER id="o_15">Beurrez</OPER> un moule à manqué et <OPER id="o_16">versez</OPER> - y la pâte. <OPER id="o_17">Enfournez</OPER> et laissez <OPER id="o_18">cuire</OPER> 45 min, toujours à feu doux. Le gâteau est cuit quand une lame de couteau plongée dedans ressort sèche. Laissez <OPER id="o_19">refroidir</OPER> le gâteau avant de le <OPER id="o_20">démouler</OPER> sur un plat de service.
+  </annotation>
+  <annotation methode="crf">
+  Faites chauffer le four à 150 ° C ( thermostat 5 ). Faites chauffer le <INGRED>lait</INGRED> dans une casserole <INGRED>.</INGRED> Pendant ce temps cassez le <INGRED>chocolat</INGRED> en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> <INGRED>.</INGRED> Mettez - les dans le <INGRED>lait</INGRED> chaud et remuez bien <INGRED>.</INGRED> ajoutez 130 <INGRED>g</INGRED> de <INGRED>beurre</INGRED> <INGRED>,</INGRED> remuez encore puis incorporer le <INGRED>sucre</INGRED> <INGRED>,</INGRED> en remuant toujours <INGRED>.</INGRED> Quand tous les éléments sont fondus et le <INGRED>mélange</INGRED> bien homogène <INGRED>,</INGRED> laissez un peu refroidir <INGRED>.</INGRED> Cassez les <INGRED>oeufs</INGRED> en séparant le <INGRED>blanc</INGRED> des <INGRED>jaunes</INGRED> <INGRED>.</INGRED> Battez les <INGRED>blancs</INGRED> en neige bien ferme. ajoutez les <INGRED>jaunes</INGRED> dans la <INGRED>pâte</INGRED> <INGRED>.</INGRED> remuez bien <INGRED>.</INGRED> Ajoutez la <INGRED>farine</INGRED> et la <INGRED>cannelle</INGRED> <INGRED>.</INGRED> Remuez encore jusqu'à ce que le <INGRED>mélange</INGRED> soit homogène <INGRED>.</INGRED> La <INGRED>pâte</INGRED> doit être parfaitement lisse <INGRED>.</INGRED> Incorporez les <INGRED>blancs</INGRED> en neige très délicatement. Beurrez un moule à manqué et versez - y la <INGRED>pâte</INGRED> <INGRED>.</INGRED> Enfournez et laissez cuire 45 min <INGRED>,</INGRED> toujours à feu doux. Le gâteau est cuit quand une lame de couteau plongée dedans <INGRED>ressort</INGRED> sèche. Laissez refroidir le gâteau avant de le démouler sur un plat de service <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 10.9090909090909*X + 9.09090909090909</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 6*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['chocolat noir', 'chocolat']	 id:1	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:2	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:3	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:4	 quantité:125	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:5	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:6	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['cannelle en poudre', 'cannelle']	 id:7	 quantité:2	 unité:cuillères à café de	 denombrable:True	 recipient:2*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:chauffer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:chauffer	 id:o_2	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:casser	 id:o_3	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_4	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['2', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_6	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:casser	 id:o_8	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:['4', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:beurrer	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfourner	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:refroidir	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:démouler	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

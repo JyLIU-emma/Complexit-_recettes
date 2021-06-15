@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25778">
+  <titre>Salade fraîche concombre pomme et poivron</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 gros oignon</p>
+    <p>2 pommes aigres</p>
+    <p>1 poivron rouge</p>
+    <p>1 petit concombre</p>
+    <p>1 citron</p>
+    <p>4 feuilles de menthe</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et couper les tomates, l'oignon, les pommes et le concombre en petits dés.
+    Les mettre dans un plat et assaisonner avec le jus du citron et l'huile d'olive.
+    Hacher finement la menthe et en saupoudrer la salade.
+    Laisser macérer au frais durant au moins 15 minutes avant de servir.
+  ]]>
+  </preparation>
+</recette>

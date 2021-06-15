@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11373">
+  <titre>Gâteau au vin blanc</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de farine</p>
+    <p>200 g de sucre</p>
+    <p>1 sachet levure chimique</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>3 œufs</p>
+    <p>10 cl d'huile</p>
+    <p>20 cl de vin blanc sec</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les oeufs avec le sucre, incorporer la farine, les 2 sachets puis le vin blanc et l'huile.
+    Beurrer un moule à cake. Allumer le four Th7, enfourner le tout 40/45 minutes tout en surveillant à l'aide d'une pointe de couteau la cuisson du gâteau.
+    Laisser refroidir et démouler, saupoudrer de sucre glace.
+    Accompagne très bien les crèmes anglaise ou tout simplement une bonne tasse de café (ou de thé nature). On peut également y mettre des pépites de chocolat pour changer, mais reste meilleurs telquel. 
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17024">
+  <titre>Rôtis de lotte au lard</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 queues de lotte (environ 800 g en tout)</p>
+    <p>16 fines tranches de lard fumé</p>
+    <p>1 bouquet garni</p>
+    <p>4 gousses d'ail</p>
+    <p>4 cuillères à soupe d'huile</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez votre four à thermostat 6.
+    Détaillez les gousses d'ail, faites quelques entailles dans la lotte et glissez des lamelles d'ail et des feuilles de persil dans les fentes.
+    Emballez les 2 queues de lotte dans les tranches de lard et ficelez version rôti. Huilez un plat à four et déposez-y les rôtis.
+    Parsemez d'ail, de persil, poivrez, arrosez d'huile et enfournez 30 minutes.
+  ]]>
+  </preparation>
+</recette>

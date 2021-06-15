@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26663">
+  <titre>Galette de pâtes à la sauce tomate</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g spaghetti</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>20 g de beurre</p>
+    <p>1 oignon</p>
+    <p>1/2 boîte de tomates pelées </p>
+    <p>sel, poivre</p>
+    <p>1 oeuf</p>
+    <p>parmesan râpé</p>
+    <p>sauce tomate</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les spaghetti à l'eau bouillante salée. 
+    Faire fondre l'oignon émincé dans le mélange beurre-huile, puis ajouter les tomates, saler et poivrer. 
+    Laisser cuire à feu très doux. 
+    Mélanger les spaghetti égouttés et les tomates, ajouter ensuite l'oeuf battu et 2 cuillères à soupe de parmesan. 
+    Placer le tout dans une poêle beurrée et faire cuire comme une omelette, de chaque côté en applatissant bien les spaghetti à la fourchette, jusqu'à ce qu'ils soient dorés. 
+    Servir avec une sauce tomate maison ou une sauce crème fraîche légère + pesto.
+  ]]>
+  </preparation>
+</recette>

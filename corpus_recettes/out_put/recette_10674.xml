@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10674">
+  <titre>Harengs saurs Lucifer</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 beaux harengs saurs</p>
+    <p>20 cl de lait</p>
+    <p>3 cuillères d'huile</p>
+    <p>2 cuillères de moutarde</p>
+    <p>50 g de chapelure</p>
+    <p>2 navets</p>
+    <p>sel, poivre</p>
+    <p>2 cl de vinaigre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Enlever la peau de beaux harengs saurs bien gonflés.
+    Les faire dessaler au lait, vingt-quatre heures, puis lever les filets.
+    Frotter les filets à l'huile, puis, avec de la moutarde.les tremper dans la chapelure et les faire griller.Râper 1 ou 2 navets. Egouter.
+    Ajouter du poivre et un filet de vinaigre.
+    Servir les harengs grillés sur cette purce de navets crus.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Enlever</OPER> la peau de beaux <INGRED id="1">harengs saurs</INGRED> bien gonflés. Les faire <OPER id="o_2">dessaler</OPER> au <INGRED id="1">lait</INGRED>, vingt-quatre heures, puis <OPER id="o_3">lever</OPER> les <INGRED id="1">filets</INGRED>. <OPER id="o_4">Frotter</OPER> les <INGRED id="1">filets</INGRED> à l'huile, puis, avec de la moutarde.les <OPER id="o_5">tremper</OPER> dans la <INGRED id="5">chapelure</INGRED> et les faire <OPER id="o_6">griller</OPER>. <OPER id="o_7">Râper</OPER> 1 ou 2 <INGRED id="6">navets</INGRED>. <OPER id="o_8">Egouter</OPER>. <OPER id="o_9">Ajouter</OPER> du <INGRED id="8">poivre</INGRED> et un <INGRED id="3">filet</INGRED> de vinaigre. Servir les <INGRED id="1">harengs</INGRED> grillés sur cette purce de <INGRED id="6">navets</INGRED> crus.
+  </annotation>
+  <annotation methode="crf">
+  Enlever la peau de beaux harengs saurs bien gonflés. Les faire dessaler au <INGRED>lait</INGRED> <INGRED>,</INGRED> vingt-quatre heures <INGRED>,</INGRED> puis lever les <INGRED>filets</INGRED> <INGRED>.</INGRED> Frotter les <INGRED>filets</INGRED> à l'<INGRED>huile</INGRED> <INGRED>,</INGRED> puis <INGRED>,</INGRED> avec de la moutarde.les tremper dans la <INGRED>chapelure</INGRED> et les faire griller <INGRED>.</INGRED> Râper 1 <INGRED>ou</INGRED> 2 <INGRED>navets</INGRED> <INGRED>.</INGRED> Egouter. Ajouter du <INGRED>poivre</INGRED> et un <INGRED>filet</INGRED> de <INGRED>vinaigre</INGRED>. Servir les harengs grillés sur cette purce de <INGRED>navets</INGRED> crus.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 6.1875*X + 2.8125</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 11*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['harengs saurs', 'harengs']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['lait']	 id:2	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['huile']	 id:3	 quantité:3	 unité:cuillères d'	 denombrable:True	 recipient:3*X
+ingredient:['moutarde']	 id:4	 quantité:2	 unité:cuillères de	 denombrable:True	 recipient:2*X
+ingredient:['chapelure']	 id:5	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['navets']	 id:6	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['sel']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['vinaigre']	 id:9	 quantité:2	 unité:cl de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:enlever	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dessaler	 id:o_2	 ingrédients_ralatifs:['1', '1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:lever	 id:o_3	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:frotter	 id:o_4	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tremper	 id:o_5	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:griller	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5*X	 recipient:1
+operation:râper	 id:o_7	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:egouter	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:['8', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

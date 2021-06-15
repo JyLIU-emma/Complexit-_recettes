@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17730">
+  <titre>Tarte aux poires et au caramel</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>une pâte sablée</p>
+    <p>1 grosse boîte de poires</p>
+    <p>1/2 citron</p>
+    <p>quelques copeaux de chocolat</p>
+    <p>75 g + 15 g de sucre</p>
+    <p>125 g de crème fraîche</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>25 gr de Maïzena</p>
+    <p>1/8 de l de lait (12,5 cl)</p>
+    <p>1 pincée de vanille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Disposer la pâte dans un moule et faites la précuire dans le four 15 min à 160°C (thermostat 5/6) en recouvrant le fond d'haricots secs.
+    Pendant ce temps, confectionnez le flan: chauffez la crème dans une casserole. Dans une autre, faites fondre 75 g de sucre ainsi que le jus de citron en les tournant avec une spatule. Lorsque le caramel est brun, roux incorporez par petites quantités la crème. Réservez.
+    Fouettez le reste de sucre avec les jaunes.
+    Ajoutez la Maïzena, puis le lait froid et la vanille.
+    Mélangez cet appareil avec celui du caramel. Filtrez et réservez.
+    Sortez la tarte du four. Enlevez les haricots.
+    Emincez les poires et disposez-les sur la tarte.
+    Recouvrez les du flan au caramel.
+    Mettez au four 15 mn à 160°C.
+    Laissez reposer et saupoudrez de copeaux de chocolat avant de servir.
+    Attention de ne pas trop faire cuire le sucre, sinon le caramel sera amer!
+  ]]>
+  </preparation>
+</recette>

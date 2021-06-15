@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14970">
+  <titre>Poulet au curry vert et lait de coco</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de poulet en tranches</p>
+    <p>200 cl de lait de coco</p>
+    <p>2 cuillères à café de pâte de curry vert</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer les tranches de poulet et faites les revenir avec une goutte d'huile dans une poêle.
+    Dans un bol, mélanger le lait de coco et la pâte de curry vert.
+    Lorsque le poulet est bien doré, ajouter délicatement la sauce et laisser le poulet mariner a feu doux pendant quelques minutes.
+    Servir avec du riz basmati ou des nouilles chinoises. vin blanc
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27133">
+  <titre>Fromage blanc au cumin et aux olives</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>750 g de fromage blanc</p>
+    <p>22 g de graines de cumin</p>
+    <p>6 olives</p>
+    <p>1 à 2 pincée(s) de sel</p>
+    <p>du pain de campagne en accompagnement</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Salez le fromage blanc et répartissez-le dans deux bols.
+    Parfumez le premier de graines de cumin. Garnissez le deuxième d'olives hachées.
+    Laissez reposer 2 heures avant de servir avec des tranches de pain de campagne.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12423">
+  <titre>Lapin frit au riz</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 lapin</p>
+    <p>1 tomate</p>
+    <p>du sel</p>
+    <p>150 g de riz</p>
+    <p>huile</p>
+    <p>1 poivron rouge</p>
+    <p>eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    On coupe le lapin en petit morceaux, et on le fait frire dans l´huile.
+    Après on ajoute au lapin la tomate et le poivron rouge, et on fait tout frire.
+    On verse du sel sur le lapin, puis on le fait cuire avec les autres ingrédients pendant trente minutes.
+    On trnsfère le lapin dans une grande poêle, on ajoute de l´eau (un verre d´eau par tasse de riz) et quand l´eau bout, on verse le riz.
+    Laisser cuire 20 mn, puis servir chaud.
+    Recette d´Hellin, en Espagne vin rouge d´Albatana (Albacete)
+  ]]>
+  </preparation>
+</recette>

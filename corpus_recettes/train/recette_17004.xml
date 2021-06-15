@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17004">
+  <titre>Crème catalane facile</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1l de lait</p>
+    <p>8 jaunes d'oeufs</p>
+    <p>150 g de sucre</p>
+    <p>2 cuillères à soupe de maïzena</p>
+    <p>1 citron</p>
+    <p>1 pointe de cannelle en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, battez les jaunes d'oeufs avec 30 g de sucre et la maïzena délayée dans un peu de lait. Mélangez.
+    Dans une casserole, faites chauffer le reste de lait, 60g de sucre, l'écorce du citron et une pointe de cannelle en poudre. A partir de l'ébullition, baissez le feu, versez les jaunes, remuez 5 min.
+    Versez dans des ramequins et laissez refroidir au réfrigérateur. Possibilité de finir par un caramel ou une finition crème brûlée en saupoudrant de cassonade et en durcissant au fer.
+  ]]>
+  </preparation>
+</recette>

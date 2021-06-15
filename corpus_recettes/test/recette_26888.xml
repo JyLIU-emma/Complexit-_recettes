@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26888">
+  <titre>SALADE IRINA</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 petites pommes</p>
+    <p>2 ou 3 pommes de terre</p>
+    <p>1 boîte de thon naturel</p>
+    <p>1 clémentine</p>
+    <p>des petits cornichons</p>
+    <p>quelques feuilles de salade verte</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire 3 pommes de terre 30 mn dans l'eau bouillante. 
+    Les éplucher et les couper en cubes, ainsi que les pommes. 
+    Au fond d'un saladier, disposer des feuilles de salade pour une décoration. Mélanger les dés de pommes (sucrées et salées), le thon émietté. 
+    Ajouter des rondelles de cornichon et des quartiers de clémentines dont on aura ôté la peau. 
+    Arroser d'une sauce mayonnaise ou vinaigrette et mélanger.
+  ]]>
+  </preparation>
+</recette>

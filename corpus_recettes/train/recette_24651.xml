@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24651">
+  <titre>Velouté d'oseille</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g d'oseille</p>
+    <p>500 g de pommes de terre</p>
+    <p>125 g de crème fraîche</p>
+    <p>1 oeuf</p>
+    <p>30 g de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyez l'oseille et retirez les tiges, hachez-la finement.
+    Faites fondre l'oseille hachée dans un peu de beurre à la cocotte.
+    Ajoutez les pommes de terre pelées et coupées en morceaux.
+    Couvrez avec 2 litres d'eau, salez et poivrez.
+    Laissez cuire à feu doux une heure et demie.
+    Filtrez et versez le velouté dans un plat de service.
+    Ajoutez la crème fraîche et un oeuf en fouettant et servez.
+  ]]>
+  </preparation>
+</recette>

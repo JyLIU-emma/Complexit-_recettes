@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15167">
+  <titre>Tarte aux lardons améliorée</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>1 paquet de lardons fumés</p>
+    <p>1 cuillère à café de moutarde</p>
+    <p>2 tomates</p>
+    <p>1 oignon</p>
+    <p>3 oeufs</p>
+    <p>1 bidon de crème liquide</p>
+    <p>gruyère rapé</p>
+    <p>herbes de Provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la pate feuilleté dans un moule, percer la pâte avec une fourchette et enfourner 5 mn dans le four préchauffé à 200°C.
+    Couper les tomates en rondelles (jeter une partie du jus de tomate). Faire frire les lardons avec l'oignon coupé en lamelles, puis laisser un peu refroidir.
+    Battre les oeufs, la crème fraîche et la cuillère de moutarde, puis ajouter les lardons et oignons frits, le sel (pas trop), le poivre et les herbes de Provence.
+    Verser le tout sur la pâte, décorer avec les rondelles de tomates et couvrir de gruyère (pas trop).
+    Cuire 30 à 40 mn à four moyen (180°C, thermostat 6).
+    Ce plat est plutôt riche... Il peut être servi en plat unique avec un salade verte.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21577">
+  <titre>Calamars aux épinards et aux tomates</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,2 kg de petits calamars ou encornets</p>
+    <p>2 kg de pousses d’épinards</p>
+    <p>4 tomates</p>
+    <p>2 oignons émincés</p>
+    <p>2 gousses d'ail</p>
+    <p>30 cl de vin blanc sec</p>
+    <p>1 bouquet de persil plat</p>
+    <p>huile d'olive</p>
+    <p>beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer et découper les calamars en lanières. Peler et émincer les oignons. Peler, épépiner et concasser les tomates puis hacher le persil. Ecraser les gousses d'ail.
+    Dans une cocotte chauffée avec l'huile, faire revenir l'ail et les oignons, ajouter les calamars et laisser cuire 5 min environ.
+    Incorporer ensuite les tomates, la moitié du persil et le vin blanc. Saler, poivrer.
+    Recouvrir d’un peu d’eau puis faire mijoter 30 min.
+    Faire cuire les épinards dans une poêle avec un peu de beurre, les égoutter puis les ajouter en fin de cuisson aux calamars.
+    Saupoudrer du reste de persil et servir bien chaud.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22463">
+  <titre>Moelleux de pommes aux amandes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 pommes</p>
+    <p>125 g d'amandes effilées</p>
+    <p>160 g de farine</p>
+    <p>160 g de sucre</p>
+    <p>100 g de beurre</p>
+    <p>4 cuillères à soupe de lait</p>
+    <p>1 sachet de levure</p>
+    <p>2 gros oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre dans un plat en porcelaine, le beurrer, le mettre au frigo et réserver le reste du beurre. 
+    Mélanger les oeufs, le sucre puis le beurre et le lait et ensuite la farine et 90 g d'amandes. Rajouter la levure. Mélanger. 
+    Mettre les pommes en quartier au fond du plat. 
+    Rajouter la pâte dessus et parsemer du reste d'amandes effilées. 
+    Enfournez pour 30 mn à 190°C . 
+    Servez tiède ou froid avec une boule de glace vanille ou une crème anglaise
+  ]]>
+  </preparation>
+</recette>

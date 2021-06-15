@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12032">
+  <titre>Bourride de baudroie</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1 kg de baudroie</p>
+    <p>2 beaux poireaux</p>
+    <p>200 g de vert de blettes</p>
+    <p>2 c à soupe d'huile d'olive</p>
+    <p>1 oignon</p>
+    <p>2 carottes</p>
+    <p>40 cl d'huile d'olive</p>
+    <p>12 petites pommes de terre</p>
+    <p>5 gousses d'ail</p>
+    <p>2 jaunes d'oeuf</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les poireaux en conservant 2 cm de vert, les émincer. Emincer l'oignon. Lavez puis ciseler le vert de blettes.
+    Dans une sauteuse avec 2c d'huile d'olive, sur feu moyen mettre l'oignon, le poireau, les blettes, les carottes coupées en dés. Couvrir, laisser suer 5 mn.
+    Incorporer le poisson coupé en tranches. Couvrez avec de l'eau, salez, poivrez. Faire cuire à feu vif 5 mn. Retirez le poisson, conservez au chaud. 
+    Baisser le feu, laisser cuire les légumes.
+    Faire une mayonnaise. Peler et piler l'ail en pommade, l'ajouter à la mayonnaise. Incorporez un peu de jus de cuisson jusqu'à obtenir une sauce légèrement nappante.
+    Versez la mayonnaise sur le poisson et les lègumes. Accompagner de pommes de terre vapeur et de pain grillé frotté d'ail.
+    La baudroie est le nom méridional de la lotte. Blanc, cépage Chardonnay
+  ]]>
+  </preparation>
+</recette>

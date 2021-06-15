@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20236">
+  <titre>Sauté de veau aux champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,2 kg de viande de veau en morceaux</p>
+    <p>250 g de champignons</p>
+    <p>50 g d'oignons hachés</p>
+    <p>30 g de beurre</p>
+    <p>30 g de farine</p>
+    <p>30 cl de vin blanc</p>
+    <p>1 bouquet garni</p>
+    <p>2 gousses d'ail</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>70 g de purée de tomates</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte à fond épais, faire dorer les morceaux de veau.
+    Ajouter les oignons et l'ail. Saupoudrer de farine et bien mélanger.
+    Mouiller de vin blanc, assaisonner de tomate, de sel, poivre et ajouter le bouquet garni.
+    Cuire 1 h à couvert.
+    Au bout de ce temps, ajouter les champignons et laisser mijoter encore 15 min.
+  ]]>
+  </preparation>
+</recette>

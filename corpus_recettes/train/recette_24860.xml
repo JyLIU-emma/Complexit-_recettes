@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24860">
+  <titre>Dinde rôtie au lard</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 dinde de 3 kg</p>
+    <p>6 à 8 tranches de lard</p>
+    <p>40 g de beurre</p>
+    <p>1 cube de bouillon de volaille</p>
+    <p>50 cl d'eau bouillante</p>
+    <p>sel, poivre </p>
+    <p>ficelle de cuisine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 220°C (thermostat 7-8).
+    Saler et poivrer l'intérieur de la dinde puis la rouler dans un mélange de sel et poivre afin qu'elle soit bien assaisonnée. L'envelopper ensuite de tranches de lard, puis la ficeler pour bien maintenir le tout.
+    Déposer la dinde dans un plat allant au four, l'arroser de beurre fondu, puis la laisser cuire 20 min à 220°C (thermostat 7-8) pour la faire dorer.
+    Réduire ensuite la température à 160°C (thermostat 5-6), mouiller de bouillon chaud et la laisser cuire pendant 2h30.
+    15 min avant la fin du temps de cuisson, déficeler la dinde et lui ôter sa barde de lard, puis la replacer au four pour faire dorer la peau pendant 15 min.
+    La dinde peut être dégustée immédiatement ou bien froide. Dans ce cas la couvrir de papier aluminium et la laisser refroidir dans le four éteint.
+    Filtrer le jus rendu et le servir à part, chaud.
+  ]]>
+  </preparation>
+</recette>

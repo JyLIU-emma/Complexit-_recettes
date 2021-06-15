@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="174962">
+  <titre>Tournedos façon hamburger, frites de légumes au cumin, sauce au foie gras</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>4 tournedos de cœur de filet (150 g par tournedos)</p>
+    <p>4 tranches de comté jeune</p>
+    <p>4 tranches de bacon cru</p>
+    <p>2 pâtes brisées</p>
+    <p>1 blanc de poireau</p>
+    <p>½ cuillère à café de quatre épices</p>
+    <p>1 cuillère à soupe de cumin</p>
+    <p>1 cuillère à café de miel</p>
+    <p>12,5 cl de porto</p>
+    <p>4 tranches de foie gras cuit</p>
+    <p>4 cuillères à soupe de crème fraiche</p>
+    <p>12 châtaignes</p>
+    <p>2 jaunes d’œuf</p>
+    <p>50 g de beurre clarifié</p>
+    <p>2 grosses carottes</p>
+    <p>1 gros panais</p>
+    <p>1 céleri rave</p>
+    <p>1 gousse d’ail</p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Éplucher les légumes. Les tailler en frites. Réserver dans de l’eau froide.
+    Tailler le blanc de poireau en brunoise. Réserver.
+    Cuire les châtaignes cinq minutes dans l’eau bouillante. Les éplucher pendant qu’elles sont chaudes. Les hacher grossièrement. Réserver.
+    Hamburger :A feu vif, dans une sauteuse, saisir les tournedos dans 25 g de beurre clarifié (1 min de chaque côté). Réserver.
+    Conserver la graisse dans la sauteuse. A feu moyen, faire fondre le blanc de poireau (environ 15 min).Ajouter les quatre épices et le miel. A feu vif, laisser caraméliser quelques minutes. Déglacer au porto.
+    Passer la fondue au chinois et réserver le porto dans une casserole.A l’aide d’un bol, découper huit ronds de pâte.
+    Sur quatre ronds ajouter successivement ; la fondue assaisonnée, un tournedos, une tranche de bacon, une tranche de comté, un rond de pâte. Badigeonner au jaune d’œuf.
+    Cuire au four (220°C, mi-hauteur) pendant 15 à 20 minutes (selon la cuisson voulue : saignant ou à point).Sauce :Pendant ce temps, couper le foie gras en gros morceaux.
+    Chauffer le porto à feu doux. Ajouter les morceaux de foie gras. Mélanger au fouet. Ajouter la crème fraiche et mélanger. Maintenir au chaud au bain marie.
+    Frites :Dans 25 g de beurre clarifié, faire rissoler les frites de légumes à feu vif. Ajouter l’ail émincé et le cumin. A la fin de la cuisson, les légumes doivent être encore légèrement croquants.
+    Dressage :Au moment de servir, passer la sauce au chinois. Verser la sauce dans quatre verrines. Présenter le hamburger sur assiette, accompagné de frites et d’une verrine. La verrine peut servir pour tremper les frites et/ou napper le hamburger. Bordeaux
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Éplucher</OPER> les légumes. Les <OPER id="o_2">tailler</OPER> en <INGRED id="9">frites</INGRED>. Réserver dans de l’ <INGRED id="5">eau froide</INGRED>. <OPER id="o_3">Tailler</OPER> le <INGRED id="5">blanc de poireau</INGRED> en brunoise. Réserver. <OPER id="o_4">Cuire</OPER> les <INGRED id="4">châtaignes</INGRED> cinq minutes dans l’ <INGRED id="8">eau</INGRED> bouillante. Les <OPER id="o_5">éplucher</OPER> pendant qu’ elles sont chaudes. Les <OPER id="o_6">hacher</OPER> grossièrement. Réserver. Hamburger : A feu vif, dans une sauteuse, <OPER id="o_7">saisir</OPER> les <INGRED id="1">tournedos</INGRED> dans 25 <INGRED id="1">g</INGRED> de <INGRED id="14">beurre clarifié</INGRED> ( 1 min de chaque côté ). Réserver. Conserver la graisse dans la sauteuse. A feu moyen, <INGRED id="4">faire</INGRED> <OPER id="o_8">fondre</OPER> le <INGRED id="4">blanc de poireau</INGRED> ( <INGRED id="1">environ</INGRED> 15 <OPER id="o_9">min).Ajouter</OPER> les <INGRED id="12">quatre épices</INGRED> et le <INGRED id="8">miel</INGRED>. A feu vif, <INGRED id="12">laisser</INGRED> <OPER id="o_10">caraméliser</OPER> quelques minutes. <OPER id="o_11">Déglacer</OPER> au <INGRED id="9">porto</INGRED>. <OPER id="o_12">Passer</OPER> la fondue au chinois et réserver le <INGRED id="9">porto</INGRED> dans une casserole. A l’ aide d’ un bol, <OPER id="o_13">découper</OPER> huit ronds de <INGRED id="5">pâte</INGRED>. Sur <INGRED id="1">quatre</INGRED> ronds <OPER id="o_1416">ajouter</OPER> successivement ; la fondue assaisonnée, un <INGRED id="1">tournedos</INGRED>, une tranche de bacon, une tranche de <INGRED id="2">comté</INGRED>, un rond de <INGRED id="5">pâte</INGRED>. <OPER id="o_15">Badigeonner</OPER> au <INGRED id="13">jaune</INGRED> d’ <INGRED id="5">œuf</INGRED>. <OPER id="o_16">Cuire</OPER> au four ( 220 ° C, mi-hauteur ) pendant 15 à 20 minutes ( selon la cuisson voulue : saignant ou à point).Sauce : Pendant ce temps, <OPER id="o_17">couper</OPER> le <INGRED id="8">foie gras</INGRED> en gros <INGRED id="1">morceaux</INGRED>. <OPER id="o_18">Chauffer</OPER> le <INGRED id="9">porto</INGRED> à feu doux. <OPER id="o_19">Ajouter</OPER> les <INGRED id="1">morceaux</INGRED> de <INGRED id="8">foie gras</INGRED>. <OPER id="o_20">Mélanger</OPER> au fouet. <OPER id="o_21">Ajouter</OPER> la <INGRED id="4">crème fraiche</INGRED> et <OPER id="o_22">mélanger</OPER>. <OPER id="o_23">Maintenir</OPER> au chaud au bain marie. Frites : Dans 25 <INGRED id="1">g</INGRED> de <INGRED id="14">beurre clarifié</INGRED>, <INGRED id="14">faire</INGRED> <OPER id="o_24">rissoler</OPER> les <INGRED id="9">frites</INGRED> de légumes à feu vif. <OPER id="o_25">Ajouter</OPER> l’ <INGRED id="1">ail</INGRED> émincé et le <INGRED id="9">cumin</INGRED>. A la fin de la cuisson, les légumes doivent être encore légèrement croquants. Dressage : Au moment de servir, <OPER id="o_26">passer</OPER> la <INGRED id="4">sauce</INGRED> au chinois. <OPER id="o_27">Verser</OPER> la <INGRED id="8">sauce</INGRED> dans <INGRED id="1">quatre</INGRED> verrines. <OPER id="o_28">Présenter</OPER> le hamburger sur assiette, accompagné de <INGRED id="9">frites</INGRED> et d’ une verrine. La verrine peut servir pour tremper les <INGRED id="9">frites</INGRED> et / ou <OPER id="o_29">napper</OPER> le hamburger. Bordeaux
+  </annotation>
+  <annotation methode="crf">
+  Éplucher les <INGRED>légumes</INGRED> <INGRED>.</INGRED> Les tailler en frites. Réserver dans de l’ <INGRED>eau</INGRED> froide <INGRED>.</INGRED> Tailler le <INGRED>blanc</INGRED> de <INGRED>poireau en brunoise</INGRED> <INGRED>.</INGRED> Réserver. Cuire les <INGRED>châtaignes</INGRED> cinq minutes dans l’ <INGRED>eau</INGRED> bouillante <INGRED>.</INGRED> Les éplucher pendant qu’ elles sont chaudes. Les hacher grossièrement <INGRED>.</INGRED> Réserver. Hamburger <INGRED>:</INGRED> A feu vif <INGRED>,</INGRED> dans une sauteuse <INGRED>,</INGRED> saisir les tournedos dans 25 <INGRED>g</INGRED> de <INGRED>beurre</INGRED> clarifié ( 1 min de chaque côté ). Réserver. Conserver la <INGRED>graisse</INGRED> dans la sauteuse <INGRED>.</INGRED> A feu moyen <INGRED>,</INGRED> faire fondre le <INGRED>blanc</INGRED> de <INGRED>poireau</INGRED> ( <INGRED>environ</INGRED> 15 min).Ajouter les <INGRED>quatre</INGRED> <INGRED>épices</INGRED> et le <INGRED>miel</INGRED> <INGRED>.</INGRED> A feu vif <INGRED>,</INGRED> laisser caraméliser quelques minutes. Déglacer au <INGRED>porto</INGRED> <INGRED>.</INGRED> Passer la <INGRED>fondue</INGRED> au chinois et réserver le <INGRED>porto</INGRED> dans une casserole <INGRED>.</INGRED> A l’ aide d’ un bol <INGRED>,</INGRED> découper huit ronds de <INGRED>pâte</INGRED> <INGRED>.</INGRED> Sur <INGRED>quatre</INGRED> ronds ajouter successivement ; la <INGRED>fondue</INGRED> assaisonnée <INGRED>,</INGRED> un tournedos <INGRED>,</INGRED> une tranche de <INGRED>bacon</INGRED> <INGRED>,</INGRED> une tranche de <INGRED>comté</INGRED> <INGRED>,</INGRED> un rond de <INGRED>pâte</INGRED> <INGRED>.</INGRED> Badigeonner au <INGRED>jaune</INGRED> d’ <INGRED>œuf</INGRED> <INGRED>.</INGRED> Cuire au four ( 220 ° C <INGRED>,</INGRED> mi-hauteur ) pendant 15 à 20 minutes ( selon la cuisson voulue <INGRED>:</INGRED> saignant <INGRED>ou</INGRED> à point).Sauce <INGRED>:</INGRED> Pendant ce temps <INGRED>,</INGRED> couper le <INGRED>foie</INGRED> gras en <INGRED>gros</INGRED> <INGRED>morceaux</INGRED> <INGRED>.</INGRED> Chauffer le <INGRED>porto</INGRED> à feu doux. Ajouter les <INGRED>morceaux</INGRED> de <INGRED>foie</INGRED> gras. Mélanger au fouet. Ajouter la <INGRED>crème fraiche</INGRED> et mélanger. Maintenir au chaud au bain marie <INGRED>.</INGRED> Frites <INGRED>:</INGRED> Dans 25 <INGRED>g</INGRED> de <INGRED>beurre</INGRED> clarifié <INGRED>,</INGRED> faire rissoler les <INGRED>frites</INGRED> de <INGRED>légumes</INGRED> à feu vif. Ajouter l’ <INGRED>ail émincé</INGRED> et le <INGRED>cumin</INGRED>. A la fin de la cuisson <INGRED>,</INGRED> les <INGRED>légumes</INGRED> doivent être encore légèrement croquants <INGRED>.</INGRED> Dressage <INGRED>:</INGRED> Au moment de servir <INGRED>,</INGRED> passer la <INGRED>sauce</INGRED> au chinois <INGRED>.</INGRED> Verser la <INGRED>sauce</INGRED> dans <INGRED>quatre</INGRED> <INGRED>verrines</INGRED> <INGRED>.</INGRED> Présenter le hamburger sur assiette <INGRED>,</INGRED> accompagné de <INGRED>frites</INGRED> et d’ une verrine. La verrine peut servir pour tremper les <INGRED>frites</INGRED> et / <INGRED>ou</INGRED> napper le hamburger. Bordeaux
+  </annotation>
+  <complexite>
+    <temps>f(X) = 29.6326530612245*X + 3.36734693877551</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 44*X + 14</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['tournedos de cœur de filet', 'tournedos']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['comté jeune', 'comté']	 id:2	 quantité:4	 unité:tranches de	 denombrable:True	 recipient:4*X
+ingredient:['bacon cru', 'bacon']	 id:3	 quantité:4	 unité:tranches de	 denombrable:True	 recipient:4*X
+ingredient:['pâtes brisées', 'pâtes']	 id:4	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['blanc de poireau', 'blanc']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['quatre épices', 'épices']	 id:6	 quantité:non_precis	 unité:cuillère à café de	 denombrable:False	 recipient:1
+ingredient:['cumin']	 id:7	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['miel']	 id:8	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+ingredient:['porto']	 id:9	 quantité:12,5	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['foie gras cuit', 'foie']	 id:10	 quantité:4	 unité:tranches de	 denombrable:True	 recipient:4*X
+ingredient:['crème fraiche', 'crème']	 id:11	 quantité:4	 unité:cuillères à soupe de	 denombrable:True	 recipient:4*X
+ingredient:['châtaignes']	 id:12	 quantité:12	 unité:non_precis	 denombrable:True	 recipient:12*X
+ingredient:["jaunes d'œuf", 'jaunes']	 id:13	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['beurre clarifié', 'beurre']	 id:14	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['carottes']	 id:15	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['panais']	 id:16	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['céleri rave', 'céleri']	 id:17	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['ail']	 id:18	 quantité:1	 unité:gousse d'	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:19	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:20	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:éplucher	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:tailler	 id:o_2	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tailler	 id:o_3	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_4	 ingrédients_ralatifs:['4', '8']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:éplucher	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:hacher	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5*X	 recipient:1
+operation:saisir	 id:o_7	 ingrédients_ralatifs:['1', '1', '14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fondre	 id:o_8	 ingrédients_ralatifs:['4', '4']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:min).ajouter	 id:o_9	 ingrédients_ralatifs:['1', '12', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:caraméliser	 id:o_10	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déglacer	 id:o_11	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:passer	 id:o_12	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:découper	 id:o_13	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1*X*1	 recipient:1
+operation:ajouter	 id:o_14	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:badigeonner	 id:o_15	 ingrédients_ralatifs:['13', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:couper	 id:o_17	 ingrédients_ralatifs:['8', '1']	 nombre_opération_atomique:1*X+4*X	 temps:1*X*1+4*X*1	 recipient:1
+operation:chauffer	 id:o_18	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:ajouter	 id:o_19	 ingrédients_ralatifs:['1', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_21	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:maintenir	 id:o_23	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rissoler	 id:o_24	 ingrédients_ralatifs:['1', '14', '14', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_25	 ingrédients_ralatifs:['1', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:passer	 id:o_26	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:verser	 id:o_27	 ingrédients_ralatifs:['8', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:présenter	 id:o_28	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:napper	 id:o_29	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

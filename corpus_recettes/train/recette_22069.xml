@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22069">
+  <titre>Gâteau au chocolat mi-cru mi-cuit</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>280 g de chocolat noir</p>
+    <p>200 g de sucre semoule</p>
+    <p>250 g de beurre</p>
+    <p>14 oeufs (9 jaunes et 5 blancs)</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 120°C (thermostat 4).
+    Détailler le chocolat en morceaux puis le faire fondre avec le beurre au bain-marie en remuant avec une cuillère en bois.
+    Séparer les blancs des jaunes puis les disposer dans 2 saladiers distincts.
+    Battre d'une part, les jaunes d'oeufs avec le sucre jusqu'à ce que le mélange mousse. Y incorporer le chocolat fondu et bien mélanger.
+    Dans l'autre saladier, battre les blancs en neige bien ferme avec une pincée de sel ; puis les incorporer très délicatement à la pâte chocolatée.
+    Beurrer un moule rectangulaire et le remplir de la moitié de cette préparation. Réserver l'autre moitié au frais.
+    Enfourner à mi-hauteur du four puis laisser cuire 1 h.
+    Dès la sortie du four, démouler le gâteau, puis le recouvrir de l'autre moitié de la préparation. Bien lisser le dessus, laisser refroidir et déguster frais.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24520">
+  <titre>Velouté aux huîtres poireaux et safran</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>24 huîtres</p>
+    <p>2 poireaux</p>
+    <p>30 g de beurre</p>
+    <p>30 g de farine</p>
+    <p>10 cl de crème fraîche</p>
+    <p>10 cl de vin blanc</p>
+    <p>quelques filaments de safran</p>
+    <p>gros sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et couper les poireaux en tronçons. Les faire dans 1 l d'eau bouillante salée 15 minutes.
+    Ouvrir et décoquiller les huîtres, récupérer l'eau. Les pocher dans leur eau frémissante environ 3 minutes. Egoutter.
+    Faire fondre le beurre, ajouter la farine et laisser cuire 2 minutes en remuant. Mouiller avec l'eau de cuisson des poireaux, laisser un peu épaissir en fouettant.
+    Ajouter la crème fraîche et le safran, porter à ébullition 2 minutes.
+    Rajouter les huîtres et les tronçons de poireaux, laisser réchauffer quelques minutes. Servir le velouté bien chaud.
+  ]]>
+  </preparation>
+</recette>

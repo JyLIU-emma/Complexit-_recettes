@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21595">
+  <titre>Gratin de pain</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>12 tranches de pain de mie</p>
+    <p>3 oeufs</p>
+    <p>10 cl crème liquide</p>
+    <p>200 g de jambon en dés</p>
+    <p>gruyère râpé</p>
+    <p>sel, poivre</p>
+    <p>muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les oeufs entiers et la crème liquide, ainsi que le sel, poivre, muscade. Tremper le pain de mie dans ce mélange. déposer les 6 tranches de pain de mie non imbibées dans un plat à gratin. Parsemer de dés de jambon et ensuite de gruyère râpé. Déposer dessus les 6 autres tranches de pain de mie imbibées. Finir avec le gruyère râpé. Mettre au grill environ 5 mn en surveillant.Accompagner d'une salade (feuille de chêne)
+  ]]>
+  </preparation>
+</recette>

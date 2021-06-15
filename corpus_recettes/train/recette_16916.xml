@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16916">
+  <titre>Sablés au beurre</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>50 g de farine</p>
+    <p>50 g de farine de sarrasin</p>
+    <p>60 g de beurre</p>
+    <p>30 g de sucre</p>
+    <p>1 grosse pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre. Mettre tous les autres ingrédients dans un saladier. Ajouter le beurre. 
+    Mélanger vigoureusement avec une spatule en bois. 
+    [NDChef : rajouter une cuillère à soupe d'eau pour lier, si nécessaire]
+    Un fois la pâte formée, l'étaler sommairement sur 1/2 cm d’épaisseur et découper en disques (à l’aide par exemple d’un coquetier renversé) de 5cm de diamètre.
+    Faire cuire 10 à 15 mn à 200°C sur du papier sulfurisé. Les sablés doivent avoir pris une couleur blonde.
+    Laisser refroidir avant de servir.
+    A tenter : remplacer une partie de la farine par de la poudre d'amande.[NDChef : bvous pouvez également rajouter à la pâte une cuillère à café d'essence d'amande amère] vin de paille, vins liquoreux
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16785">
+  <titre>Gâteau napolitain</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>75 g de beurre ou de margarine</p>
+    <p>1 oeuf</p>
+    <p>1 sachet de levure chimique</p>
+    <p>140 g de sucre fin</p>
+    <p>2 sachets de sucre vanillé</p>
+    <p>1 pincée de sel</p>
+    <p>1 petit pot de confiture de votre choix pour la garniture</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tamiser le mélange farine + -levure dans une terrine. Y faire une fontaine et y mettre le beurre fondu ou la margarine, l'oeuf entier, le sucre, le sucre vanillé et la pincée de sel. 
+    Pétrir bien le tout.
+    Beurrer une tourtière et la remplir avec les 3/4 de la pâte, puis recouvrir d'une épaisse couche de confiture. Abaisser le reste de pâte,
+    la couper en bandes et les disposer en quadrillage sur le gâteau.
+    Faire cuire à four moyen 30 mn environ
+    (bien surveiller).
+  ]]>
+  </preparation>
+</recette>

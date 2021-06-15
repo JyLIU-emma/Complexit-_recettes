@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26729">
+  <titre>Moules au beurre d'escargot</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 douzaines de moules</p>
+    <p>4 gousses d’ail</p>
+    <p>6 échalotes</p>
+    <p>1/2 bouquet de persil haché</p>
+    <p>30 cl de vin blanc sec</p>
+    <p>375 g de beurre mou</p>
+    <p>6 cuillères à soupe de mie de pain fraîche</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 240°C (thermostat 8).
+    Eplucher et émincer les échalotes puis piler l’ail.
+    Dans une casserole, faire cuire les échalotes avec le vin blanc, puis laisser refroidir.
+    Une fois les échalotes froides, les mélanger avec le persil haché et l’ail.
+    Ecraser le beurre à la fourchette, puis l’incorporer à la préparation précédente avec la mie de pain.
+    Saler, poivrer et bien mélanger.
+    Jeter les moules dans un plat, puis les faire ouvrir en les passant 3 minutes au four.
+    Ôter les coquilles en ne conservant que celles contenant la moule et jeter les autres.
+    Les recouvrir de noisettes de beurre à l’ail persillé, puis faire cuire au four à 180°C (thermostat 6) pendant 15 minutes environ.
+    Servir dès la sortie du four.
+  ]]>
+  </preparation>
+</recette>

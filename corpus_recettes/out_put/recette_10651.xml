@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10651">
+  <titre>Figues farcies aux carré frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>12 carrés frais</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>10 brins de ciboulette fraiche</p>
+    <p>poivre</p>
+    <p>4 figues violettes fraîches</p>
+    <p>2 cuillères à soupe de raisins secs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ecrasez à la fourchette les 12 carrés frais, rajoutez la cuillère d'huile d'olive, la ciboulette ciselée et les raisins secs. Poivrez.
+    Rincez et séchez les 4 figues et coupez-leur un chapeau. Creusez-les très légèrement et garnissez-les avec la préparation. 
+    Servez frais en entrée avec une salade ou au moment du fromage, c'est original et raffiné.  
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Ecrasez</OPER> à la fourchette les 12 <INGRED id="1">carrés frais</INGRED>, rajoutez la cuillère d'huile d'olive, la <INGRED id="6">ciboulette</INGRED> ciselée et les <INGRED id="6">raisins secs</INGRED>. <OPER id="o_2">Poivrez</OPER>. <OPER id="o_3">Rincez</OPER> et séchez les 4 <INGRED id="5">figues</INGRED> et coupez - leur un chapeau. <OPER id="o_4">Creusez</OPER> - les très légèrement et <OPER id="o_5">garnissez</OPER> - les avec la préparation. Servez frais en entrée avec une salade ou au moment du fromage, c'est original et raffiné.
+  </annotation>
+  <annotation methode="crf">
+  Ecrasez à la fourchette les 12 <INGRED>carrés</INGRED> <INGRED>frais</INGRED> <INGRED>,</INGRED> rajoutez la cuillère d'<INGRED>huile d'olive</INGRED> <INGRED>,</INGRED> la <INGRED>ciboulette</INGRED> ciselée et les <INGRED>raisins secs</INGRED> <INGRED>.</INGRED> Poivrez. Rincez et séchez les 4 <INGRED>figues</INGRED> et coupez - leur un chapeau. Creusez - les très légèrement et garnissez - les avec la préparation <INGRED>.</INGRED> Servez <INGRED>frais</INGRED> en entrée avec une salade <INGRED>ou</INGRED> au moment du <INGRED>fromage</INGRED> <INGRED>,</INGRED> c'est original et raffiné.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 4.83333333333333*X + 0.166666666666667</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 29*X + 1</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['carrés frais', 'carrés']	 id:1	 quantité:12	 unité:non_precis	 denombrable:True	 recipient:12*X
+ingredient:["huile d'olive", 'huile']	 id:2	 quantité:1	 unité:cuillère à soupe d'	 denombrable:True	 recipient:1*X
+ingredient:['ciboulette fraiche', 'ciboulette']	 id:3	 quantité:10	 unité:brins de	 denombrable:True	 recipient:10*X
+ingredient:['poivre']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['figues violettes fraîches', 'figues']	 id:5	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['raisins secs', 'raisins']	 id:6	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:ecraser	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rincer	 id:o_3	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:creuser	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garnir	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

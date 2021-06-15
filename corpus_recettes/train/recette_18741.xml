@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18741">
+  <titre>Pizza du soleil</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>une pâte à pizza rectangulaire</p>
+    <p>4 à 5 tomates</p>
+    <p>mozzarella environ 250 g </p>
+    <p>poivron rouge et jaune (1/2 ) </p>
+    <p>sel, poivre</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez votre four à 180°C.
+    Dérouler votre pâte à pizza. 
+    Couper en fine tranche la mozzarella et la déposer sur votre pâte. 
+    Couper les tomates en rondelles et les poivrons en lanières. Les déposer par dessus la mozzarella. Salez, poivrez, arrosez abondamment d'huile d'olive. 
+     
+    Mettre au four 45 mn et servir chaud. 
+    Bon appétit.
+     un petit rosé bien vrai
+  ]]>
+  </preparation>
+</recette>

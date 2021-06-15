@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25510">
+  <titre>Risotto nature</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 bel os à moelle</p>
+    <p>3 oignons</p>
+    <p>2 pincées de safran</p>
+    <p>1 bouquet garni</p>
+    <p>6 tasses de riz</p>
+    <p>15 cl de vin blanc sec</p>
+    <p>100 à 150 g de parmesan râpé</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole, porter de l'eau à ébullition et y plonger les os à moelle et le bouquet garni.
+    Lorsque les os sont cuits, les déposer dans une cocotte et réserver le jus de cuisson.
+    Émincer les oignons et les faire revenir avec la moelle. Ajouter le riz et laisser mijoter 30 min, en mouillant avec le un peu de jus de cuisson.
+    En fin de cuisson, ajouter le vin blanc sec et assaisonner. Incorporer le fromage râpé et le safran délicatement.
+    Servir chaud.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23329">
+  <titre>Crêpes gratinées aux asperges, sauce Mornay</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la pâte à crêpes :</p>
+    <p>125 g de farine</p>
+    <p>2 oeufs </p>
+    <p>50 cl de lait</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>Pour la garniture + sauce Mornay :</p>
+    <p>18 asperges (garniture)</p>
+    <p>20 g de farine</p>
+    <p>125 g de beurre </p>
+    <p>50 g de gruyère râpé</p>
+    <p>noix muscade</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour faire la pâte à crêpe, mélanger dans un saladier la farine, une pincée de sel, les oeufs, 25 cl de lait et l'huile. Laisser reposer.
+    Mettre les asperges à cuire dans de l'eau bouillante salée pendant 20 min. Égoutter.
+    Pour faire la sauce, faire dans une casserole un roux blond en mélangeant le beurre et la farine. Mouiller du reste de lait. Assaisonner et laisser épaissir pendant 15 min à feu doux en remuant sans cesse. Parsemer de gruyère.
+    Réaliser 6 crêpes : pour 1 crêpe, verser à la louche de la pâte dans une poêle, garnir d’asperges égouttées + 1 cuillère à soupe de sauce préparée. Donc, répéter l'opération pour chaque crêpe, 6 fois.
+    Les rouler et les enfourner pour 5 min à 210°C (thermostat 7).
+  ]]>
+  </preparation>
+</recette>

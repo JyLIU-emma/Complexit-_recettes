@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25078">
+  <titre>Crème au caramel sans oeufs</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de sucre en morceaux</p>
+    <p>50 cl de lait</p>
+    <p>20 g de maïzena</p>
+    <p>15 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le sucre et l'eau sur feu doux pour obtenir une couleur caramel.
+    Faire chauffer le lait et l'ajouter au caramel.
+    Verser ensuite la maïzena délayée dans le minimum d'eau froide.
+    Remuer continuellement à l'aide d'un fouet jusqu'à ce que la crème soit assez consistante. Mettre alors le beurre et mélanger.
+    Répartir dans des coupes individuelles et garder au frais avant de servir.
+  ]]>
+  </preparation>
+</recette>

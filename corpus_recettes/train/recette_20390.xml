@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20390">
+  <titre>Concombre au thon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 grands concombres</p>
+    <p>1 boîte de thon</p>
+    <p>mayonnaise</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer une mayonnaise traditionnelle que vous laisserez reposer au réfrigérateur. Ouvrir les concombres dans le sens de la longueur, ôter les pépins et épluchez-les. Sortir la mayonnaise et mélangez-la à la boîte de thon égoutté. Recouvrir les concombres de cette préparation et laissez au frais pendant une demi-heure. Bon appétit. 
+    On peut aussi remplacer le thon par du crabe en miette plus onéreux, mais plus fin.
+  ]]>
+  </preparation>
+</recette>

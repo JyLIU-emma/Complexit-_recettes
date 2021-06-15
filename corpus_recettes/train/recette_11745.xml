@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11745">
+  <titre>La coca</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 poivrons (rouges et verts)</p>
+    <p>1 oignon</p>
+    <p>1 boîte de tomates pelées</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>1 pâte feuilletée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle, faites revenir l'oignon avec l'huile d'olive à feu moyen.
+    Ajoutez les poivrons découpés en rectangles.
+    Ajoutez les tomates pelées sans leur jus.
+    Couvrez et laissez cuire 20 min à feu moyen.
+    découvrez et laissez cuire encore une vingtaine de minutes pour faire réduire et éliminer l'eau.
+    Préchauffez votre four à thermostat 7 (210°C).
+    Etalez la pâte feuilletée. Etalez le mélange sur la pâte.
+    Faites cuire 30 min au four.
+    Servir tiède ou froid.
+  ]]>
+  </preparation>
+</recette>

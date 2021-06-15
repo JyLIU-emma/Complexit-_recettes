@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23268">
+  <titre>Omelette enfantine</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>un oeuf</p>
+    <p>sucre complet en poudre</p>
+    <p>amandes moulues</p>
+    <p>cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre l'oeuf. Y ajouter une cuillère à soupe d'amandes moulues et deux cuillères à café de sucre complet. 
+    Saupoudrer la cannelle sur l'omelette durant la cuisson. 
+    Retourner l'omelette une fois.
+    Cette recette a été créée par Gaëtan, 5 ans et demi. de l'eau
+  ]]>
+  </preparation>
+</recette>

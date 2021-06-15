@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25182">
+  <titre>Flan parisien</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 fond de pâte brisée</p>
+    <p>80 g de Maïzena</p>
+    <p>100 g de sucre</p>
+    <p>2 sachets de sucre vanillé</p>
+    <p>2 œufs entiers</p>
+    <p>3/4 de l de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Étaler la pâte brisée dans un moule à tarte de 24/26 cm de diamètre. Mélanger dans une casserole la Maïzena, les sucres, les œufs ajoutés un à un avec le lait ajouté doucement. Mettre sur le feu en remuant sans arrêt. Retirer dès la première ébullition. Verser le mélange dans le fond de tarte et mettre à cuire 35 à 40 min à four préchauffé assez chaud (thermostat 6/7).
+  ]]>
+  </preparation>
+</recette>

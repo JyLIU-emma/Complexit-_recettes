@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11463">
+  <titre>Crème brûlée parfumée</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 jaunes d'oeufs</p>
+    <p>1 litre de lait</p>
+    <p>175 g de sucre</p>
+    <p>1 citron</p>
+    <p>1 bâton de vanille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir le lait avec le bâton de vanille, le zeste de citron et le sucre.
+    Après ébullition, filtrer, ajouter les jaunes d'oeufs au lait chaud, sans cesser de remuer, remettre la casserole sur le feu, continuer de remuer avec un fouet.
+    Retirer du feu juste au moment de l'ébullition, afin d'éviter la formation de grumeaux.
+    Verser la crème dans des ramequins ou coupelles, laisser refroidir complètement.
+    Saupoudrer le dessus de sucre et appliquer sur tout la surface, la pelle préalablement chauffée, pour caramélisation (ou passer rapidement sous le grill du four). RAS
+  ]]>
+  </preparation>
+</recette>

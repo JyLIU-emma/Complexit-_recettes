@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11318">
+  <titre>Aubergine à la parmesane</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 aubergine</p>
+    <p>de la sauce bolognaise</p>
+    <p>du parmesan râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les aubergines en tranches assez fines.
+    Les faire dégorger 30 min (les saupoudrer de sel).Dans une poêle, faire chauffer de l'huile d'olive et y dorer les tranches d'aubergines de chaque côté.Baisser le feu et laisser les aubergines s'attendrir.
+    Dans un plat allant au four, étaler la sauce bolognaise sur le fond, saupoudrer de parmesan et étaler une couche d'aubergine.
+    Recommencer l'opération autant de fois que nécessaire, terminer par la sauce bolognaise.
+    Recouvrir de parmesan et parsemer de beurre.
+    Mettre à four chaud pendant environ 30 min.Si on aime le fromage, on peut ajouter des tranches de mozzarella ou de filante.
+    Ce plat peut se manger en entrée avec du pain ou comme plat principal avec des pâtes comme les penne ou les rigatonni.
+  ]]>
+  </preparation>
+</recette>

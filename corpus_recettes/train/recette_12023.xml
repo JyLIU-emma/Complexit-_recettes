@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12023">
+  <titre>Tiramisu (recette originale)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 gros œufs</p>
+    <p>100 g de sucre roux</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>250 g de mascarpone</p>
+    <p>24 biscuits à la cuillère</p>
+    <p>1/2 litre de café noir non sucré</p>
+    <p>30 g de poudre de cacao amer</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Séparer les blancs des jaunes. Mélanger les jaunes + sucre + sucre vanillé. Ajouter le mascarpone au fouet.
+    Monter les blancs en neige et les incorporer délicatement à la spatule au mélange précédent.
+    Préparer du café noir.
+    Mouiller les biscuits dans le café.Tapisser le fond du moule avec les biscuits. Recouvrir d'une couche de crème, œuf, sucre, mascarpone. Alterner biscuits et crème.
+    Terminer par une couche de crème. Saupoudrer de cacao.
+    Mettre au réfrigérateur 4 heures minimum.Il existe de nombreuse recettes de Tiramisu.
+    Celle-ci est la recette originale [NDChef : ou en tous cas l'une des recettes pouvant prétendre l'être!!!].NB: il y a bien de l'alcool, mais c'est du Marsala sec (ni aux oeufs, ni à l'amande), mélangé au café très fort. le champagne se marie à merveille au Tiramisu
+  ]]>
+  </preparation>
+</recette>

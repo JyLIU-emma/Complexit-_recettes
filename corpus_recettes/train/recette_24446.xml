@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24446">
+  <titre>Tarte gingembre citron</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour le fond de pâte sablée :</p>
+    <p>250 g de farine</p>
+    <p>125 g de sucre</p>
+    <p>125 g de beurre</p>
+    <p>1 oeuf</p>
+    <p>1 ou 2 cuillères à café de gingembre en poudre</p>
+    <p>une pincée de sel</p>
+    <p>Pour la garniture :</p>
+    <p>150 g de fromage blanc</p>
+    <p>60 g de beurre ramolli</p>
+    <p>180 g de sucre en poudre</p>
+    <p>le zeste râpé d'un citron non traité (et demi...) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer le fond de tarte avec les ingrédients indiqués, et le faire cuire à blanc environ 45 mn à 180°C, couvert de papier alu et de haricots secs. 
+    Quand il est prêt et refroidi, le recouvrir de la garniture obtenue en mélangeant les ingrédients indiqués.
+  ]]>
+  </preparation>
+</recette>

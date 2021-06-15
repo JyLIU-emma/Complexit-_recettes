@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20297">
+  <titre>Paris- Brest</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>1/4 l lait</p>
+    <p>75 g beurre</p>
+    <p>150 g farine</p>
+    <p>4 oeufs</p>
+    <p>1 jaune d'oeuf</p>
+    <p>Pour la garniture :</p>
+    <p>50 cl crème pâtissière</p>
+    <p>200 g beurre</p>
+    <p>5 cuillères à soupe de praliné</p>
+    <p>30 g amandes effilées</p>
+    <p>sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Porter le lait et le beurre à ébullition. Jeter la farine d'un seul coup. Mélanger la pâte à l'aide d'une spatule en bois pour la dessécher sur le feu puis la débarrasser dans un saladier. Ajouter les oeufs un à un. Bien mélanger la pâte (c'est l'air emprisonné dedans qui la fait gonfler pendant la cuisson!).Dessiner à la poche une couronne de pâte de 25 cm de diamètre sur une tôle graissée. Dorer avec un jaune d'oeuf puis saupoudrer avec les amandes. Faire cuire 40 minutes en évitant d'ouvrir le four pendant la première demi-heure. La pâte doit ressortir cuite et sèche. Laisser refroidir. Couper en deux dans l'épaisseur.
+    Travailler le beurre en pommade, ajouter le pralin et la crème pâtissière. Mettre cette crème dans une poche à dresser munie d'une douille cannelée et remplir le bas de la couronne. Poser le couvercle dessus, saupoudrer de sucre glace, mettre 2 heures au frais avant de servir.
+  ]]>
+  </preparation>
+</recette>

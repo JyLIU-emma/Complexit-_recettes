@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19469">
+  <titre>Glace aux marrons (sans sorbetière)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 petite boîte de crème de marrons</p>
+    <p>200 g de crème fraîche</p>
+    <p>1 oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la crème de marrons, la crème fraîche et le jaune d'oeuf. Ajouter le blanc en neige ferme. 
+    On peut éventuellement ajouter un peu de rhum et/ou quelques morceaux de meringue nature. Mettre 3 h au congélateur. Bon appétit!
+  ]]>
+  </preparation>
+</recette>

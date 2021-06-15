@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13134">
+  <titre>Tajine de poisson</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 darnes de poisson au choix</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>3 oignons hachés</p>
+    <p>3 gousses d'ail écrasées</p>
+    <p>1 cuillère à soupe de gingembre frais haché</p>
+    <p>1/2 c à c de piment doux</p>
+    <p>1 petit piment vert haché</p>
+    <p>1 pincée de safran en poudre</p>
+    <p>1 pincée de noix muscade râpée</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir l'oignon, l'ail et le gingembre, à feu moyen.
+    Ajouter le piment doux, le piment haché, le safran et la noix muscade. Saler, poivrer et laisser mijoter 20 mn en ajoutant 1/2 verre d'eau.
+    Mettre le poisson sur la sauce, en la recouvrant bien. Laisser cuire 5 mn, puis retourner les darnes et faire cuire encore 5 mn.
+    Vérifier l'assaisonnement et servir très chaud.
+    Accompagner de riz pilaf ou semoule.
+  ]]>
+  </preparation>
+</recette>

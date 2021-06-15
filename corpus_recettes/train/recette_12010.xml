@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12010">
+  <titre>Tarte aux figues</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>20 figues fraîches</p>
+    <p>1 pâte brisée</p>
+    <p>150 g de sucre semoule </p>
+    <p>100 g de sucre glace </p>
+    <p>1 citron</p>
+    <p>4 cuillères à soupe de confiture (abricot, ou à défaut groseille ou rhubarbe)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Foncer un grand moule à tarte beurré et fariné de pâte brisée, piquer la pâte à la fourchette, y mettre cailloux ou noyaux, passer au four 210 °C 20 mn.
+    Garniture : presser le citron, laver les figues, les sécher, couper en deux dans le sens de la hauteur. Les mettre dans un plat creux, saupoudrer de sucre semoule, arroser de citron. Macérer 1/2 h en retournant de temps en temps.
+    Laisser tiédir la pâte précuite 10 mn. Etendre la confiture d'abricots, poser dessus les figues, face coupée dessous. Saupoudrer de sucre glace, passer au four 230 °C 7 à 8 mn pour caraméliser légèrement le dessus des figues.Servir avec de la chantilly pour les très gourmands, comme la tarte tatin. Cidre, ou eau, tout simplement
+  ]]>
+  </preparation>
+</recette>

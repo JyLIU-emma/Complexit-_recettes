@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18595">
+  <titre>Tarte au chèvre</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>1 rouleau de fromage de chèvre</p>
+    <p>2 ou 3 tomates</p>
+    <p>2 cuillères à café de moutarde</p>
+    <p>sel, poivre</p>
+    <p>basilic séché</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire précuire la pâte feuilletée préalablement piquée avec une fourchette entre 10 et 15 mn à 250°C au four. 
+    Pendant ce temps, couper les tomates en tranches que vous disposerez sur une assiette en alternance avec de l'essuie tout pour absorber l'humidité. 
+    Couper le chèvre en grosses tranches (environ 10 ). 
+    Sortir la pâte du four, et la badigeonner de moutarde. 
+    Disposer les tranches de tomates et par dessus les tranches de chèvre. 
+    Saler et poivrer, et parsemer de basilic. 
+    Remettre au four environ 10 mn que le chèvre fonde.
+    Le soir avec une salade verte pour un dîner léger.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21251">
+  <titre>Poulet d'automne savoureux</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 cuisses de poulet</p>
+    <p>1 foie ou des gésiers de poulet</p>
+    <p>200 g de lardons</p>
+    <p>4 tomates</p>
+    <p>100 g de champignons au choix</p>
+    <p>3 gros oignons</p>
+    <p>3 échalotes</p>
+    <p>30 cl de vin blanc sec</p>
+    <p>1 bouquet garni</p>
+    <p>beurre et huile</p>
+    <p>estragon frais</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir le poulet dans une cocotte avec de l'huile ou du beurre chaud, saler, poivrer et laisser cuire à couvert.
+    Emincer les champignons.
+    Hacher les échalotes et 1 oignon, les faire revenir dans une poêle huilée avec les lardons frais et les champignons.
+    Emincer les 2 oignons restants, détailler les tomates en dés et hacher le foie.
+    Faire revenir ces ingrédients à la poêle dans du beurre, ajouter du persil ou de l'estragon haché selon les goûts.
+    Laisser mijoter 15 min sans couvrir.
+    Dans la cocotte du poulet, mettre le contenu des 2 poêles, le bouquet garni et le vin blanc chauffé.
+    Couvrir et laisser cuire 1 h à feu doux.
+    En fin de cuisson, découvrir et laisser réduire le jus pendant 5-10 min.
+    Servir avec des pommes de terre en papillote, des lentilles ou de la purée de potiron.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165280">
+  <titre>Verrine au saumon et pâtes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 tranches de saumon fume</p>
+    <p>50 g de pâtes</p>
+    <p>1 tomates</p>
+    <p>10 cl de crème semi epaisse</p>
+    <p>4 mg de spigol</p>
+    <p>persil</p>
+    <p>sel et poivre</p>
+    <p>paprika</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    faire cuire les pâtes et les égouter.
+    couper la tomate en petits dés.mettre dans un robot fonction mixer mixer: pâtes, saumon.mettre le robot fonction mélangeur: ajouter tous les autres ingrédients et mélanger.gouter, mettre dans les verrines et mettre au réfrigérateur au moins 1 heures.Vous pouvez remplacer le saumon par tout autre poisson fumé, crevettes, thon ou crabe.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  faire <OPER id="o_1">cuire</OPER> les <INGRED id="2">pâtes</INGRED> et les <OPER id="o_2">égouter</OPER>. <OPER id="o_3">couper</OPER> la tomate en <INGRED id="3">petits</INGRED> dés.mettre dans un robot fonction <OPER id="o_4">mixer</OPER> <OPER id="o_5">mixer</OPER> : <INGRED id="2">pâtes</INGRED>, saumon.mettre le robot fonction mélangeur : <OPER id="o_6">ajouter</OPER> tous les autres ingrédients et <OPER id="o_7">mélanger.gouter</OPER>, <OPER id="o_8">mettre</OPER> dans les verrines et <OPER id="o_9">mettre</OPER> au réfrigérateur au moins 1 heures. Vous pouvez <OPER id="o_10">remplacer</OPER> le saumon par tout autre poisson fumé, crevettes, thon ou crabe.
+  </annotation>
+  <annotation methode="crf">
+  faire cuire les <INGRED>pâtes</INGRED> et les égouter. couper la <INGRED>tomate</INGRED> en <INGRED>petits</INGRED> dés.mettre dans un robot fonction mixer mixer <INGRED>:</INGRED> <INGRED>pâtes</INGRED> <INGRED>,</INGRED> saumon.mettre le robot fonction mélangeur <INGRED>:</INGRED> ajouter tous les autres ingrédients et mélanger.gouter <INGRED>,</INGRED> mettre dans les <INGRED>verrines</INGRED> et mettre au réfrigérateur au moins 1 heures. Vous pouvez remplacer le <INGRED>saumon</INGRED> par tout autre <INGRED>poisson</INGRED> fumé <INGRED>,</INGRED> <INGRED>crevettes</INGRED> <INGRED>,</INGRED> <INGRED>thon</INGRED> <INGRED>ou</INGRED> crabe.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 5.92307692307692*X + 5.07692307692308</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 7*X + 10</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['saumon fume', 'saumon']	 id:1	 quantité:2	 unité:tranches de	 denombrable:True	 recipient:2*X
+ingredient:['pâtes']	 id:2	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['tomates']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['crème semi epaisse', 'crème']	 id:4	 quantité:10	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['mg de spigol', 'mg']	 id:5	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['persil']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['paprika']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:cuire	 id:o_1	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:égouter	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_3	 ingrédients_ralatifs:['3', '2']	 nombre_opération_atomique:1*X+1	 temps:1*X*1+1*X*1	 recipient:1
+operation:mixer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mixer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger.gouter	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:remplacer	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

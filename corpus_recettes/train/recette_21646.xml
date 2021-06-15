@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21646">
+  <titre>Concombres à la sauce blanche et aux amandes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 gros concombre (ou + selon le nombre de personnes) </p>
+    <p>75 g d'amandes</p>
+    <p>20 cl de crème fraîche </p>
+    <p>5 cl de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler la peau du concombre. 
+    Coupez-le en fines rondelles. Mélanger de la crème avec un peu de lait pour former une sauce (vous pouvez également y ajouter un peu de persil) Mettre les rondelles de concombre dans un plat allongé et verser la sauce. Enfin dispersez les amandes sur le concombre. Mettre au frais quelques instants avant le repas.
+  ]]>
+  </preparation>
+</recette>

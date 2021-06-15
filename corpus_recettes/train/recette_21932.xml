@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21932">
+  <titre>Tarte briochée aux abricots secs</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la pâte à tarte :</p>
+    <p>250 g de farine</p>
+    <p>1 pincée de sel</p>
+    <p>80 g de beurre mou</p>
+    <p>1 oeuf</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>25 cl de lait</p>
+    <p>1 sachet de levure de boulanger</p>
+    <p>Pour la garniture :</p>
+    <p>220 g d'abricots secs</p>
+    <p>30 g de sucre</p>
+    <p>quelques noix de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Délayer la levure dans 5 cl de lait. Mélanger les autres ingrédients de la pâte et y ajouter la levure ainsi délayée.Pétrir la pâte jusqu'à ce qu'elle soit homogène et laisser lever dans un endroit tiède pendant 1 heure.
+    En parallèle, faire cuire à feu doux les abricots et le sucre avec un peu d'eau (environ 20 min). Vous pouvez parfumer la compote avec du rhum, de l'amande amère ou de la fleur d'oranger.
+    Préchauffer le four à 210°C (thermostat 7).Etaler la pâte, la placer dans un moule à tarte et placer les abricots cuits. Parsemer de petites noix de beurre, baisser le four à 180°C (thermostat 6) et enfourner pour 30 à 40 minutes.
+  ]]>
+  </preparation>
+</recette>

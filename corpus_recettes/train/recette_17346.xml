@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17346">
+  <titre>Clafoutis amandin</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de cerises</p>
+    <p>5 g de beurre pour le plat</p>
+    <p>Pour la pâte :</p>
+    <p>100 g de beurre fondu</p>
+    <p>125 g de sucre</p>
+    <p>125 g de poudre d'amandes</p>
+    <p>50 g de biscotte</p>
+    <p>15 cl de lait</p>
+    <p>3 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Allumer le four à thermostat 6.
+    Dénoyauter les cerises. Beurrer un plat à tarte. Y déposer les cerises.
+    Dans un saladier,  mélanger dans l'ordre : le beurre, le sucre, la poudre d'amande, les biscottes écrasées, le lait et les oeufs (en dernier).
+    Verser cette préparation sur les cerises. Mettre au four 40 mn environ. Se deguste tiède ou froid.
+  ]]>
+  </preparation>
+</recette>

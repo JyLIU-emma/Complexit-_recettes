@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165070">
+  <titre>Velouté brocoli boudin blanc truffé</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>un kg de brocolis surgelés ou frais</p>
+    <p>quatre boudins blancs truffés</p>
+    <p>environ 1/2 litre de lait ou mélange crème lait selon la consistance désirée</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les boudins coupés en tranches à la poêle antiadhésive ou avec un peu d'huile.
+    Faire cuire les brocolis à la vapeur (4 minutes à la cocotte minute). Egoutter
+    Mixer le tout avec le lait et/ou la crème. 
+    Saler et poivrez selon votre goût.
+    Servir chaud avec des pelures de cerfeuil ou de persil pour le décor, dans de jolis verrines ou dans des bols.
+    Si vous avez des vraies truffes, c'est encore plus raffiné...Plat complet onctueux à compléter d'un fruit au dessert pour le dîner.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">cuire</OPER> les boudins coupés en tranches à la poêle antiadhésive ou avec un peu d'huile. Faire <OPER id="o_2">cuire</OPER> les <INGRED id="1">brocolis</INGRED> à la vapeur ( 4 minutes à la cocotte minute ). <OPER id="o_3">Egoutter</OPER> <OPER id="o_4">Mixer</OPER> le tout avec le <INGRED id="5">lait</INGRED> et / ou la crème. <OPER id="o_5">Saler</OPER> et poivrez selon votre goût. Servir chaud avec des pelures de cerfeuil ou de <INGRED id="5">persil</INGRED> pour le décor, dans de jolis verrines ou dans des bols. Si vous avez des vraies truffes, c'est encore plus raffiné... Plat complet onctueux à <OPER id="o_6">compléter</OPER> d'un fruit au dessert pour le dîner.
+  </annotation>
+  <annotation methode="crf">
+  Faire cuire les <INGRED>boudins</INGRED> coupés en tranches à la poêle antiadhésive <INGRED>ou</INGRED> avec un peu d'<INGRED>huile</INGRED>. Faire cuire les <INGRED>brocolis</INGRED> à la vapeur ( 4 minutes à la cocotte minute ). Egoutter Mixer le tout avec le <INGRED>lait</INGRED> et / ou la <INGRED>crème</INGRED>. Saler et poivrez selon votre goût <INGRED>.</INGRED> Servir chaud avec des pelures de <INGRED>cerfeuil</INGRED> <INGRED>ou</INGRED> de <INGRED>persil</INGRED> pour le décor <INGRED>,</INGRED> dans de jolis verrines <INGRED>ou</INGRED> dans des bols. Si vous avez des vraies truffes <INGRED>,</INGRED> c'est encore plus raffiné... Plat complet onctueux à compléter d'un fruit au dessert pour le dîner.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 6.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['brocolis surgelés', 'brocolis']	 id:1	 quantité:non_precis	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['quatre boudins blancs truffés', 'quatre']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:3	 quantité:1/2	 unité:litre de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:cuire	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:cuire	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:egoutter	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mixer	 id:o_4	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:compléter	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

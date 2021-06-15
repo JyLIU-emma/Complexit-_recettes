@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25941">
+  <titre>Tarte à la confiture</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>175 g de beurre mou</p>
+    <p>150 g de sucre en poudre</p>
+    <p>3 oeufs (2 entiers + 1 jaune)</p>
+    <p>150 g de poudre d'amandes</p>
+    <p>75 g de cacao en poudre</p>
+    <p>300 g de farine</p>
+    <p>1 pincée de sel</p>
+    <p>1/2 sachet de levure chimique</p>
+    <p>250 g de confiture de framboises ou fraises</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C (thermostat 6).
+    Mélangez le beurre et le sucre puis ajoutez les 2 oeufs entiers, les amandes, le cacao, la farine, le sel et la cannelle. Pétrissez jusqu'à l'obtention d'une pâte homogène.
+    Beurrez un moule à charnière et le remplir avec les 3/4 de la pâte.
+    Etalez la confiture sur la pâte et décorez du reste de la pâte découpée en coeurs, en étoiles ou en croisillons. 
+    Dorez au jaune d'oeuf et faites cuire pendant 1 h.
+    Démoulez et servez de préférence tiède.
+  ]]>
+  </preparation>
+</recette>

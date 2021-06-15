@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25888">
+  <titre>Pâté de foie de lapin</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 gros foie de lapin</p>
+    <p>4 ou 5 tranches de pain trempées dans du lait</p>
+    <p>4 ou 5 oeufs (blancs en neige) </p>
+    <p>1 tranche de lard salé de 2 cm d'épaisseur</p>
+    <p>4 à 5 gousses d'ail</p>
+    <p>2 oignons</p>
+    <p>1 poignée de persil</p>
+    <p>200 g de crème fraîche épaisse</p>
+    <p>2 cuillères à soupe de fécule</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un robot ménager, hachez l'ail et l'oignon ainsi que le persil. Ajoutez le foie, le pain, les jaunes d'oeufs et le lard préalablement découpés. Mélangez le tout au robot. Ajoutez la crème fraîche, la fécule, le poivre et le sel avec parcimonie. Battre les oeufs en neige et ajoutez à la préparation. Versez dans un moule beurré et cuire 1 h30 au bain-marie, au four à une température moyenne. Bourgogne rouge
+  ]]>
+  </preparation>
+</recette>

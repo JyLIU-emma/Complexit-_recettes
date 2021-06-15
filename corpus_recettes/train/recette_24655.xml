@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24655">
+  <titre>Tourte au crabe</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 pâtes feuilletées</p>
+    <p>1 pot de crème fraîche</p>
+    <p>3 oeufs + 1 jaune d'oeuf</p>
+    <p>200 g de miettes de crabe</p>
+    <p>100 g de crevettes cuites décortiquées</p>
+    <p>100 g de gruyère</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les 3 oeufs, la crème fraîche, les miettes de crabe, les crevettes ainsi que le gruyère. 
+    Assaisonner avec un peu de poivre. 
+    Étaler la pâte feuilletée dans un moule à tarte. 
+    Piquer la pâte puis verser le mélange. 
+    Recouvrir de la 2ème pâte feuilletée. 
+    Joindre les 2 pâtes feuilletés et fermer les bords. 
+    Entailler légèrement la pâte supérieure. 
+    Battre le jaune d'oeuf et badigeonner avec un pinceau la tourte. 
+    Enfourner et laisser cuire 30 mn à 200°C.
+  ]]>
+  </preparation>
+</recette>

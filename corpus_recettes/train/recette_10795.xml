@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10795">
+  <titre>Gratin d'oignons</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 kg d'oignons blancs</p>
+    <p>200 g de crème fraîche</p>
+    <p>30 g de beurre</p>
+    <p>1 noix de muscade râpée</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Épluchez les oignons. Plongez-les dans une casserole d'eau bouillante salée. Faites-les cuire à frémissements pendant 15 min.
+    Egouttez-les en les pressant pour extraire le maximum d'eau.
+    Hachez-les grossièrement.
+    Mettez-les dans un saladier et assaisonnez-les de sel, de poivre et de
+    noix de muscade.
+    Ajoutez la crème et mélangez en remuant le tout.
+    Préchauffez le four à 160°C (th. 4).Graissez le fond et les parois d'un plat à gratin avec 10 g de beurre. Versez-y la préparation, et parsemez le dessus de quelques noisettes de
+    beurre.
+    Faites cuire pendant 15 à 20 min et terminez sous le gril pour
+    colorer le gratin.
+  ]]>
+  </preparation>
+</recette>

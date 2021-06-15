@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21553">
+  <titre>Osso Bucco à la moutarde</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 rondelles de jarret de veau</p>
+    <p>1 oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>2 cuillerées à soupe de moutarde</p>
+    <p>1 cuillerée à soupe de concentré de tomate</p>
+    <p>1 bouquet garni</p>
+    <p>50 cl de bouillon de volaille</p>
+    <p>1 à 2 cuillerées à soupe de farine</p>
+    <p>1 cuillerée à soupe d'huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Farinez légèrement les tranches de jarret sur les deux faces. Faites-les colorer de chaque côté dans une poêle avec l'huile puis posez-les dans une cocotte. 
+    Faites revenir l'oignon haché dans la poêle. Ajoutez l'ail haché, la moutarde et le concentré de tomate. Laissez cuire 30 secondes en remuant, délayez avec le bouillon. Versez dans la cocotte. Ajoutez bouquet garni, sel et poivre. 
+    Laissez mijoter à couvert 1 h10. 
+    Servez avec du riz.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19363">
+  <titre>Gâteau au fromage blanc et à l'ananas</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>5 cuillères à soupe de sucre</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>500 g de fromage blanc</p>
+    <p>5 cuillères à soupe de farine</p>
+    <p>1 cuillère à café de levure chimique</p>
+    <p>1 boîte d'ananas en tranche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 150°C ou Th 5. 
+    Mélanger avec le fouet le sucre, la farine et la levure. Puis rajouter en mélangeant bien les oeufs, le fromage blanc. Prendre un verre du jus d'ananas et le verser dans cette préparation avec 2 à 3 tranches d'ananas coupées en petits morceaux. 
+    Verser cette préparation dans un moule à manqué préalablement beurré. 
+    Faire cuire à 150°C durant 45 mn. 
+    Au milieu de la cuisson, rajouter des rondelles d'ananas sur le gâteau pour le décorer.
+  ]]>
+  </preparation>
+</recette>

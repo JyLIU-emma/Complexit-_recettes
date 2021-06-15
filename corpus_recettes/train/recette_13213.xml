@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13213">
+  <titre>Tarte du bocage normand</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>4 oeufs</p>
+    <p>150 g de poitrine de porc fumée découpée finement en lamelle</p>
+    <p>2 oignons</p>
+    <p>du cidre</p>
+    <p>3 pommes</p>
+    <p>huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les oignons et les faire revenir dans une poêle avec un peu d'huile. Lorsqu'ils sont dorés rajouter la poitrine fumée  remuer puis couvrir avec du cidre.
+    Mettre la pâte dans le plat à tarte y disposer les lamelles de pommes puis le mélange oignons-lardon en, conservant le jus de cuisson à part.
+    Battre les oeufs dans un saladier, assaisonner avec sel et poivre, puis rajouter un peu du jus de cuisson.
+    Mettre à four chaud (180°C) pendant 30 min.
+    On peut rajouter un peu de crème fraiche dans le mélange oeufs pour rendre la tarte plus savoureuse. cidre brut
+  ]]>
+  </preparation>
+</recette>

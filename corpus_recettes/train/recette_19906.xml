@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19906">
+  <titre>Lotte au rhum et à la crème</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de filets de lottes </p>
+    <p>25 cl de crème épaisse </p>
+    <p>5 cl de rhum </p>
+    <p>2 gousses d'ail </p>
+    <p>30 cl d'eau tiède</p>
+    <p>1 oignon </p>
+    <p>2 tomates </p>
+    <p>1 carotte </p>
+    <p>1 branchette de thym</p>
+    <p>2 feuilles de laurier</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle, faire revenir l'oignon et la carotte ciselés avec de l'huile d'olive, et y incorporer la farine. Arroser d'eau et porter à ébullition.
+    Ajouter les tomates coupées en morceaux, le thym, le laurier et l'ail haché. Assaisonner et laisser mijoter 10 min. Tamiser la sauce et y incorporer le rhum et la crème fraîche.
+    Placer la lotte dans une terrine beurrée et assaisonner. Recouvrir de sauce et enfourner pendant 15 min à 180° (thermostat 6).
+    Servir accompagné de riz.
+  ]]>
+  </preparation>
+</recette>

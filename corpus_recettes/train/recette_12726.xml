@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12726">
+  <titre>Petits gâteaux aux deux chocolats</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 oeufs</p>
+    <p>75 g de sucre</p>
+    <p>50 g de farine</p>
+    <p>80 g de chocolat fondu</p>
+    <p>95 g de beurre fondu </p>
+    <p>20 petits carrés de chocolat blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger tous les ingrédients.
+    Beurrer les petits ramequins (diamètre 10 cm environ) et verser la pâte pour tapisser le fond (environ un cm).
+    Poser 2 carrés de chocolat blanc au centre et remplir avec le reste de la pâte.
+    Faire cuire 7 à 8 minutes à thermostat 10.
+    Les petits gâteaux doivent être tendres au milieu. Démouler. Servir chaud.
+    En guise de ramequins, prendre d'anciens récipients de crème brulée ou de clafoutis du commerce (argentés) préalablement nettoyés.
+  ]]>
+  </preparation>
+</recette>

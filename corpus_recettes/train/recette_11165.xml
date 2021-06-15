@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11165">
+  <titre>Tourte viande et  fromage</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de pâte feuilleté</p>
+    <p>100 g de gruyère râpé</p>
+    <p>400 g de porc et boeuf haché</p>
+    <p>2 jaunes d'oeuf</p>
+    <p>1 cuillère à soupe de moutarde</p>
+    <p>sel, poivre</p>
+    <p>1 oignon</p>
+    <p>3 cuillères à soupe de persil haché</p>
+    <p>4 tomates</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la de pâte feuilletée dans un moule de diamètre 22 en laissant un bord de 3cm.
+    Piquer le fond.
+    Parsemer de gruyère râpé.Ajouter au hachis 1 jaune oeuf, du sel, du poivre, la moutarde, l'oignon haché et le persil haché.
+    Bien mélanger le hachis et le placer sur le gruyère.
+    Placer dessus des tranches de tomates en rondelles. Arroser d'huile.
+    Fermer avec la pâte restante et y faire une cheminée au milieu.
+    Rabattre les bords et dorer avec du jaune d'oeuf.
+    Placer 35 à 40 minutes au four thermostat 6.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15518">
+  <titre>Empanada au thon et aux poivrons</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rouleau de pâte feuilletée</p>
+    <p>1 poivron rouge et 1 poivron vert</p>
+    <p>1 gros oignon</p>
+    <p>1 dosette de safran</p>
+    <p>1 boîte de thon au naturel</p>
+    <p>2 oeufs</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les poivrons en deux et nettoyez-les.
+    Mettez-les sous le grill du four jusqu'à ce qu'ils noircissent.
+    Emincez l'oignon et faites-le suer dans un peu d'huile d'olive. Retirez la peau des poivrons et coupez-les en morceaux.
+    Mélangez les poivrons découpés a l'oignon. Ajoutez le thon egoutté et la dosette de safran.
+    Salez, poivrez et mélangez bien.
+    Retirez du feu et laissez refroidir pendant quelques minutes. Ajoutez un oeuf au mélange une fois que celui-ci est tiéde.
+    Dans un petit plat rond, mettez une feuille de papier sulfurisé. Déposez la pâte feuilletée dans le moule. Versez le mélange dans le moule et refermez la pâte feuilletée au dessus du mélange pour former une tourte.
+    Badigeonnez la surface avec le jaune d'oeuf. Faites cuire au four à 220°C (thermostat 7) pendant 30 à 40 mn.
+    10 mn avant la fin de la cuisson, retirez la tourte du moule a l'aide du papier sulfurisé pour laisser cuire le dessous de la pâte feuilletée.
+  ]]>
+  </preparation>
+</recette>

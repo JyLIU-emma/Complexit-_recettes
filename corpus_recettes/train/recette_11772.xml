@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11772">
+  <titre>Rougets à l'italienne</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 filets de rougets</p>
+    <p>8 tranches fines de jambon de Parme</p>
+    <p>200 g de champignon de Paris</p>
+    <p>basilic</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre sur les filets une goutte d'huile d'olive, une feuille de basilic, des champignons détailles en bâtonnets.
+    Entourer le tout de jambon de Parme.
+    Emballer dans des papillotes en papier aluminium. Mettre au four à 180°C (thermostat 6) pendant 15 min.
+    [NDChef : remplacez le papier aluminium par des feuilles de bricks légèrement badigeonnées de beurre fondu...hummm] Pouilly-fumé, bellet
+  ]]>
+  </preparation>
+</recette>

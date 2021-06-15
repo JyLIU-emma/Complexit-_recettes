@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25473">
+  <titre>Poulet aux morilles et vin blanc</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>6 morceaux de poulet (cuisses ou 1 gros poulet fermier découpé)</p>
+    <p>250 g de morilles séchées</p>
+    <p>70 g de beurre</p>
+    <p>2 échalotes</p>
+    <p>sel et poivre</p>
+    <p>5 cl de cognac</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>20 cl de crème fraîche</p>
+    <p>1 jaune d'oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les morilles à gonfler dans un bol d'eau tiède.
+    Hacher les échalotes finement et les faire fondre dans une large cocotte et 50 g de beurre.
+    Lorsque la matière grasse est parfumée, y faire dorer les morceaux de poulet.
+    Dégraisser la cocote, verser le cognac et flamber.
+    Mouiller alors avec le vin blanc, bien gratter les sucs de cuisson. Couvrer et laisser mijoter 30 min.
+    Pendant ce temps, nettoyer les morilles intimement, les équeuter et les sécher sur un torchon propre.
+    Les sauter rapidement à la poêle dans le reste de beurre. Les incorporer au poulet cuit, assaisonner de sel et de poivre. Laisser chauffer encore 5 min.
+    Au bout de ce temps, dresser le poulet et les champignons. Lier la sauce avec avec la crème fraîche mélangée au une d'oeuf et en napper le poulet.
+  ]]>
+  </preparation>
+</recette>

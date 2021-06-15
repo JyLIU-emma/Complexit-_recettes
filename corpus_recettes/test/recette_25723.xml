@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25723">
+  <titre>Côtes de veau lard, oignon et champignon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 côtes de veau</p>
+    <p>100 g de lard fumé</p>
+    <p>10 oignons grelots</p>
+    <p>100 g de champignons</p>
+    <p>50 g de farine</p>
+    <p>30 g de beurre</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>10 cl de vin blanc</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Saler, poivrer et fariner la viande. Emincer les champignons.
+    Détailler le lard en lardons et les faire revenir dans le beurre et l'huile avec les oignons.
+    Lorsqu'ils sont dorés, les retirer de la poêle et mettre les côtes de veau à la place.
+    Verser le vin, couvrir et laisser cuire 15 minutes avant d'ajouter les champignons, les lardons et les oignons.
+    Poursuivre la cuisson 15 minutes et servir bien chaud.
+  ]]>
+  </preparation>
+</recette>

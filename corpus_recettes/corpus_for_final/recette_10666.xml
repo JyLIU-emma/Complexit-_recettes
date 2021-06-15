@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10666">
+  <titre>Brochettes d'anguille</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 anguille</p>
+    <p>10 cl d'huile</p>
+    <p>sel, poivre</p>
+    <p>2 échalotes</p>
+    <p>1 feuille de laurier</p>
+    <p>6 tranches de pain de mie</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    L'anguille dépecée, parée, la découper en tronçons.
+    Faire mariner ceux-ci avec huile, sel, poivre, laurier, échalotes, quelques heures.
+    Enfiler les morceaux d'anguille sur une brochette en alternant avec des petits morceaux de mie de pain et faire rôtir au four. Servir avec une sauce poivrade.
+  ]]>
+  </preparation>
+</recette>

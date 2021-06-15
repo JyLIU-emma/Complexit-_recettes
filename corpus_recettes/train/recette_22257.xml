@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22257">
+  <titre>Beurre de sardine</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>une boîte de sardines à l'huile</p>
+    <p>une cuillère à soupe de crème fraîche</p>
+    <p>1 cuillère à café de vinaigre</p>
+    <p>1 filet de citron</p>
+    <p>quelques brins de ciboulette ciselés</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre tous les ingrédients dans le mixer. Mixer quelques secondes. 
+    Goûter et rectifier l'assaisonnement si nécessaire. 
+    Délicieux en toasts sur des tartines de pain grillé !
+     vin blanc
+  ]]>
+  </preparation>
+</recette>

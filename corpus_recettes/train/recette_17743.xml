@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17743">
+  <titre>Poireaux et ragoût de pommes de terre au Saint-Pourçain rouge</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 jeunes poireaux</p>
+    <p>200 g de pommes de terre roseval</p>
+    <p>1 bouteille de vin rouge de saint-pourçain</p>
+    <p>2 oignons émincés</p>
+    <p>1 gousse d'ail dégermée</p>
+    <p>2 branches de thym</p>
+    <p>1 noix de beurre</p>
+    <p>sel, poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez les pommes de terre, coupez-les en morceaux. Dans un faitout, faites prendre couleur aux oignons et à l'ail avec un peu de beurre.
+    Ajoutez les pommes de terre, le thym, mouillez à hauteur avec le vin. Salez, poivrez, laissez cuire doucement pendant 20 mn.
+    Pendant de temps préparez les poireaux, coupez-les en tronçons et ajoutez-les dans le faitout.
+    Versez le reste du vin au fur et à mesure de la cuisson. Laissez mijoter encore 10 mn.
+    Servez aussitôt, avec une salade croquante par exemple.Le Saint-Pourçain est un vin rouge de l'Allier.
+  ]]>
+  </preparation>
+</recette>

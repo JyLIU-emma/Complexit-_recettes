@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24990">
+  <titre>Oie farcie aux boudins blancs et pommes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>une oie de 3 kg</p>
+    <p>Pour la farce :</p>
+    <p>1 kg de pommes reinettes</p>
+    <p>10 boudins blancs de cocktail</p>
+    <p>1 oignon</p>
+    <p>4 échalotes</p>
+    <p>4 feuilles de sauge</p>
+    <p>50 g de beurre</p>
+    <p>1 petit verre de calvados</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 180°C (thermostat 6).
+    Eplucher les pommes et les couper en quartiers, puis les arroser de calvados et les laisser mariner 15 min.
+    Peler ensuite l’oignon et les échalotes, puis les hacher avec la sauge.
+    Farcir l’oie avec les pommes, les petits boudins et le hachis d’oignon/échalotes.
+    Assaisonner de sel et de poivre puis recoudre l’orifice par lequel vous aurez farci l’oie.
+    Ficeler l’oie, puis la déposer dans un plat allant au four et la faire cuire environ 2h30 (25 min par livre).
+    L’arroser régulièrement de jus de cuisson, pour éviter qu’elle ne se dessèche.
+    Une fois la volaille cuite, la sortir du four, la vider de sa farce, puis la dresser sur un plat de service chaud.
+    L’entourer de farce, puis déguster.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21060">
+  <titre>Nage de Saint-Jacques au vin blanc</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>16 noix de Saint-Jacques</p>
+    <p>30 cl de lait</p>
+    <p>30 cl de vin blanc</p>
+    <p>4 carottes</p>
+    <p>2 blancs de poireaux</p>
+    <p>2 navets</p>
+    <p>1 gros bulbe de fenouil</p>
+    <p>1/2 boule de céleri</p>
+    <p>2 oignons piqués de 2 clous de girofle</p>
+    <p>1 bouquet garni</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Versez le lait, le vin et 2 l d'eau dans une grande marmite. Jetez-y les légumes pelés et finement émincés et les oignons entiers.
+    Ajoutez le bouquet garni, salez, poivrez. Portez à ébullition et laissez bouillir 30 minutes.
+    Plongez les saint-jacques dans la marmite en ébullition, laissez cuire 5 minutes.
+    Egouttez-les et réservez au chaud. Retirez les oignons et le bouquet garni.
+    Faites réduire le bouillon de cuisson de moitié. Servez-le dans les assiettes et déposez les saint-jacques dedans.
+  ]]>
+  </preparation>
+</recette>

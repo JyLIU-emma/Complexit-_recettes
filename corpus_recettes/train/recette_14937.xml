@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14937">
+  <titre>Curry de crevettes (Sud de l'Inde)</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de crevettes cuites</p>
+    <p>20 g de beurre</p>
+    <p>1 oignon émincé</p>
+    <p>2 gousses d'ail écrasées</p>
+    <p>1 cuillère à soupe de curry</p>
+    <p>250 g de tomates fraîches coupées en morceaux</p>
+    <p>2 cuillères à soupe de jus de citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les crevettes cuites en laissant les queues. Réserver.
+    Faire fondre le beurre dans une poêle. Faire revenir l'oignon et l’ail jusqu’à ce que l’oignon devienne tendre. Ajouter la poudre de curry et faire revenir 2 min.
+    Ajouter ensuite les tomates et le jus de citron, couvrir. Donner un bouillon et faire frémir à feu doux pendant 10 min.
+    Jeter les crevettes dans la préparation et laisser sur le feu jusqu’à ce que les crevettes soient chaudes.
+    Recette proposée par l'association humanitaire KALAM : www.kalam-inde.org.
+  ]]>
+  </preparation>
+</recette>

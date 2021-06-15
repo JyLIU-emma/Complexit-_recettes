@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26602">
+  <titre>Langouste à la crème</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 petites langoustes cuites</p>
+    <p>3 cl de Xérès sec</p>
+    <p>1 cuillère à café rase de moutarde forte</p>
+    <p>1 pincée de poivre de Cayenne</p>
+    <p>1 cuillère à soupe de Worcestershire sauce</p>
+    <p>70 g de beurre</p>
+    <p>40 g de farine</p>
+    <p>50 cl de lait</p>
+    <p>5 cuillères à soupe de crème</p>
+    <p>2 pincées de paprika</p>
+    <p>2 cuillères à soupe de parmesan râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez la sauce : mélangez la farine à 40 g de beurre fondu sur feu moyen puis mouillez avec le lait.
+    Laissez épaissir sans cesser de remuer. Lorsqu'elle est bien épaisse, incorporez la crème, du sel et du poivre.
+    Parfumez avec la moutarde, le Xérès, la Worcestershire sauce, laissez cuire encore 2 min puis retirez du feu.
+    Coupez les langoustes en deux dans le sens de la longueur, ôtez la carapace puis coupez la chair en gros morceaux.
+    Conservez la carapace.
+    Déposez la langouste dans la sauce puis remplissez les carapaces de cette préparation. 
+    Saupoudrez de parmesan et de paprika. Déposez sur le dessus le reste du beurre coupé en dés et passez sous le gril du four. 
+  ]]>
+  </preparation>
+</recette>

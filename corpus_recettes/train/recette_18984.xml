@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18984">
+  <titre>Käsekuchen</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de fromage blanc</p>
+    <p>25 g de lait</p>
+    <p>de la vanille</p>
+    <p>4 oeufs</p>
+    <p>50 g fécule</p>
+    <p>1 zeste de citron</p>
+    <p>100 g de sucre</p>
+    <p>70 g de farine</p>
+    <p>1 pâte brisée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Placer la pâte dans le moule. 
+    Travailler le fromage avec les jaunes d'oeufs. 
+    Ajouter le sucre, le lait, la fécule, la farine, un peu de vanille, et le zeste de citron. 
+    Mélanger bien. 
+    Préchauffer le four à 160°C. 
+    Battre les blancs en neige. 
+    Ajouter les au mélange. 
+    Verser sur la pâte. 
+    Cuire 30 min 
+    À froid, saupoudrer de sucre glace
+    Recette récupérée sur: http://classe6.julesferry.free.fr/cuisine.html#KaSEKUCHEN
+  ]]>
+  </preparation>
+</recette>

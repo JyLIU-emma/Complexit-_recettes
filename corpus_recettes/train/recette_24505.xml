@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24505">
+  <titre>Trévise et endives au gouda et aux noisettes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 trévises rouges (variété de salade)</p>
+    <p>5 endives</p>
+    <p>150 g de gouda</p>
+    <p>100 g de noisettes</p>
+    <p>2 pommes</p>
+    <p>1 citron</p>
+    <p>3 cuillères à soupe de jus de citron</p>
+    <p>sel, poivre</p>
+    <p>6 cuillères à soupe d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer les endives et la trévise. Couper les pommes et le fromage en dés.
+    Disposer les salades, le gouda, la pomme et les noisettes dans un saladier.
+    Emulsionner l'huile avec le citron, du sel et du poivre puis en arroser la salade.
+  ]]>
+  </preparation>
+</recette>

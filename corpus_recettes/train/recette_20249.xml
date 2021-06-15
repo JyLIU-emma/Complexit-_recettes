@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20249">
+  <titre>Soupe aux lentilles rouges (spécialité kurde)</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 verre de lentilles rouges (épicerie turque)</p>
+    <p>3 verres d'eau ou 1 verre d'eau + 2 verres de bouillon de viande </p>
+    <p>1 oignon </p>
+    <p>1 carotte </p>
+    <p>1 cuillère à soupe de farine </p>
+    <p>1 cuillère à soupe de beurre </p>
+    <p>un peu d'huile </p>
+    <p>piment rouge </p>
+    <p>citron </p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir l'oignon avec le beurre jusqu'à ce qu'il soit légèrement brun puis ajouter la farine. Ajouter lentilles bien lavées, eau (et/ou bouillon), carottes coupées en rondelles et le sel. Cuire jusqu'à ce que les lentilles soient bien ramollies dans une casserole avec couvercle pas entièrement fermée (ou avec une cocotte minute en 10 min). 
+    Mixer le tout au blender et refaites cuire jusqu'à ébullition. Dans une poêle à part cuire le piment dans l'huile. L'ajouter à la soupe en fin de cuisson selon ce que vous pouvez supporter de piment. 
+    Servir chaud avec le citron coupé en quartiers servi à part pour en ajouter le jus par dessus. 
+    * Il est important que les lentilles soient rouges car j'ai essayé avec des vertes du Puy et c'est trop épais, il faut ajouter le double d'eau et une fois refroidi ça s'épaissit encore plus et enfin le goût n'est pas le même que le vrai. Bon appétit.
+  ]]>
+  </preparation>
+</recette>

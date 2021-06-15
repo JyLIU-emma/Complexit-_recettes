@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17210">
+  <titre>POMME DE TERRE AU JAMBON ET FROMAGE</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 grosses pommes de terre farineuse</p>
+    <p>8 tranches de jambon cru découenné</p>
+    <p>8 tranches de fromage à raclette</p>
+    <p>60 g de beurre</p>
+    <p>10 cl de crème épaisse</p>
+    <p>de la ciboulette et des herbes : persil, estragon ...</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les pommes de terre, les piquer et faire cuire à la cocotte-minute 15 mn. 
+    Couper les pommes de terre en deux, les évider jusqu'à un cm du bord en veillant à ne pas les percer. 
+    Écraser grossièrement la chair avec une fourchette, incorporer la crème, les herbes, le sel, le poivre. 
+    Remplir les 1/2 pommes de terre avec ce mélange. 
+    Ajouter une tranche de jambon en chiffonnade, sans qu'il dépasse, dans chaque 1/2 pomme de terre farcie. 
+    Déposer une lamelle de fromage. 
+    Glisser au four et laisser gratiner sous le grill très chaud environ 5 mn. 
+    Décorer d'un brin de ciboulette et servir chaud accompagné d'une salade verte.
+    On peut remplacer le jambon cru par du jambon aux herbes
+  ]]>
+  </preparation>
+</recette>

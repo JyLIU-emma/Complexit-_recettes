@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24069">
+  <titre>Blanquette de veau</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,2 kg de viande de veau</p>
+    <p>1 carotte</p>
+    <p>2 blancs de poireaux</p>
+    <p>2 oignon</p>
+    <p>4 gousses d'ail</p>
+    <p>1 bouquet garni</p>
+    <p>le jus d'1 citron</p>
+    <p>300 g de champignons de Paris</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>10 cl de crème fraîche</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>70 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir une grande cocotte d'eau. Y plonger la viande découpées en morceaux.
+    Au bout d'une minute, retirer du feu et jeter l'eau de cuisson.
+    Remettre la cocotte sur le feu et y metre les carottes et les poireaux en rondelles, les oignons émincés, les gousses d'ail et le bouquet garni.
+    Mouiller avec le vin, saler, poivrer, remettre la viande.
+    Ajuster le niveau du liquide en ajoutant de l'eau : les ingrédients doivent être immergés. Laisser cuire 1 h 30 min à couvert.
+    Au bout de ce temps, laver les champignons et les faire sauter à la poêle avec 30 g de beurre.
+    Faire un roux avec le beurre restant : le faire fondre dans une casserole et ajouter la farine en fouettant.
+    Sortir les légumes et la viande de la cocotte. Jeter le bouquet garni.
+    Y ajouter le roux en remuant et les champignons.
+    Remettre tous les éléments dans la cocotte et réchauffer 15 min.
+    Délayer les jaunes d'oeufs dans la crème fraîche et l'ajouter à la cocotte avant de servir.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22719">
+  <titre>Fricassée d'agneau à l'oseille</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg d'épaule agneau</p>
+    <p>200 g d'oseille</p>
+    <p>80 g de beurre</p>
+    <p>2 oignons moyens</p>
+    <p>1 jaune d'oeuf</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>20 cl de bouillon</p>
+    <p>huile</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle, faire sauter l'agneau coupé en gros dés avec l'huile et le beurre. Le laisser colorer et assaisonner.
+     
+    Réserver la viande au chaud et la remplacer par les oignons émincés et la farine. Les faire revenir jusqu'à coloration et mouiller avec le bouillon. Assaisonner et ajouter l'oseille.
+    Replacer les dés d'agneau et laisser cuire à feu doux, à couvert pendant 30 min. 
+    Au moment de servir, mettre les morceaux de viande dans le plat de service.
+    Incorporer très vite le jaune d'oeuf et napper la viande de sauce.
+  ]]>
+  </preparation>
+</recette>

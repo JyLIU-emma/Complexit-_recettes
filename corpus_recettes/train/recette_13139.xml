@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13139">
+  <titre>Pain de saumon rapide</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 boîtes de saumon de 250 gr</p>
+    <p>4 échalotes</p>
+    <p>4 oeufs durs</p>
+    <p>4 oeufs crus entiers</p>
+    <p>10 biscottes</p>
+    <p>beurre</p>
+    <p>un peu de lait</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emietter le poisson. Ajouter les oeufs durs.
+    Faire revenir les échalotes dans 20 g de beurre.
+    Faire tremper les biscottes écrasées dans un peu de lait.
+    Mixer le tout. Ajouter les oeufs crus.
+    Mettre au four 20 mn à thermostat 5 (200°C) au bain marie.
+    Servir avec une sauce rose (mayonnaise + un peu de ketchup).
+  ]]>
+  </preparation>
+</recette>

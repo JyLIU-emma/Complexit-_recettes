@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25867">
+  <titre>Fricassée de poulet pimenté</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet découpé en morceaux</p>
+    <p>1 boîte de piments doux</p>
+    <p>50 g d'olives noires</p>
+    <p>1 verre de vin blanc sec</p>
+    <p>2 cuillerées à soupe d'huile</p>
+    <p>25 g de beurre</p>
+    <p>1 cuillerée à café de grains d'anis ou de fenouil</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Egoutter les piments, les couper en morceaux.
+    Faire chauffer l'huile et le beurre dans une cocotte.
+    Y faire dorer les morceaux de poulet de toutes parts.
+    Rajouter les piments et l'anis.
+    Saler, poivrer, mouillez de vin blanc et couvrir.
+    Laisser mijoter 30 min à feu moyen.
+    Rajouter les olives, laisser chauffer 5-10 min et servir.
+    A servir accompagné de semoule au beurre ou de riz créole.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11533">
+  <titre>Gâteau à la peau de lait</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de farine</p>
+    <p>200 g de peau de lait fermier</p>
+    <p>100 g de beurre</p>
+    <p>75 g de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger, faire des petits tas et cuire à four moyen jusqu'à ce que les bords soient dorés.
+    Recette de ma grand mère. Il devient difficile d'obtenir des peaux sur le lait bouilli (utiliser du lait fermier). Cidre
+  ]]>
+  </preparation>
+</recette>

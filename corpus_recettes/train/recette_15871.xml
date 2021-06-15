@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15871">
+  <titre>Salade de pois chiches aux épices</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de pois chiches en conserve au naturel</p>
+    <p>4 cuillères à soupe d'huile d'olive extra vierge</p>
+    <p>1/2 cuillères à café de gingembre en poudre</p>
+    <p>1 gousse d'ail</p>
+    <p>1 pincée de piment moulu</p>
+    <p>1/2 cuillères à café de curcuma</p>
+    <p>1 citron</p>
+    <p>2 cuillère à café de cumin moulu</p>
+    <p>sel, poivre noir du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Recueillez le jus de citron. Rincez les pois chiches sous un jet d'eau et égoutez soigneusement.
+    Fouettez l'huile d'olive, le jus de citron, la moitié de cumin, le gingembre, le curcuma, le piment, l'ail pressé, sel, poivre.
+    Versez les pois chiches et la sauce dans un saladier. Remuez soigneusement les ingrédients et saupoudrez le tout du reste de cumin.
+    Laissez macérer 30 mn au frais.
+    Vous pouvez déguster cette entrée avec du pain découpé en petits triangles, passés quelques mn à four chaud (thermostat 6-7, 200°C).
+  ]]>
+  </preparation>
+</recette>

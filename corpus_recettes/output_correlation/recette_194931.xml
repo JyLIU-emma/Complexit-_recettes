@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="194931">
+  <titre>Ravioles Saint Jacques - Crevettes</titre>
+  <type>Entrée</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la Pâte à ravioles (nécessité d'une machine à pâtes)</p>
+    <p>400 g de farine de blé </p>
+    <p>4 œufs </p>
+    <p>1 pincée de sel</p>
+    <p>1 filet d'huile d'olive</p>
+    <p>Pour la farce :</p>
+    <p>6 noix de saint jacques </p>
+    <p>12 crevettes moyennes décortiquées</p>
+    <p>1 blanc de poireau</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>1 pincée de muscade en poudre</p>
+    <p>2 carottes moyennes</p>
+    <p>2 cuillères à café de curry</p>
+    <p>100 g de fromage ail et fines herbes</p>
+    <p>10 g de beurre</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparation de la pâte :Mettre les 400 g de farine dans un saladier assez grand, faire un puits et y incorporer les 4 œufs, ajouter le sel et le filet d'huile d'olive.
+    Malaxer à la main jusqu'à former une boule de pâte homogène. Si la pâte colle, ne pas hésiter à rajouter un peu de farine. Si la pâte est trop farineuse, ajouter un peu d'eau.
+    Réserver la pâte au réfrigérateur pendant une heure.
+    Pendant que la pâte repose, faire cuire les poireaux et les carottes. Lorsque les poireaux sont cuits, incorporer la crème et la muscade. Écraser le tout avec une fourchette tout en mélangeant afin d'obtenir une fondue assez onctueuse. Réserver.
+    Lorsque les carottes sont cuites, faire un "écrasé de carottes" avec une fourchette et y incorporer le curry. Réserver.
+    Faire cuire les noix de saint jacques 2-3 minutes de chaque côté (selon la grosseur) dans un peu de beurre additionné de deux cuillères à soupe d'huile d'olive. Sortir la pâte du réfrigérateur et l'étaler à l'aide d'un rouleau à pâtisserie ou d'une machine à pâte (que je conseille pour obtenir une pâte pas trop épaisse).Monter les ravioles :Noix de Saint Jacques avec la fondue de poireau
+    Crevettes avec l'écrasé de carottes au curry
+    Crevettes avec un morceau de fromage ail et fines herbes.
+    Une fois les ravioles montées, les cuire au "cuit vapeur" entre 10 et 12 minutes. Servir chaud.
+    Ne pas hésiter à fariner régulièrement le plan de travail, la pâte et les ravioles pour éviter que ça colle.J'ai servi ces ravioles dans des assiettes creuses avec une "bisque de homard et de queue d'écrevisses" en guise de sauce. Un vin blanc sec type Alsace
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Préparation de la <INGRED id="5">pâte</INGRED> : <OPER id="o_1">Mettre</OPER> les 400 <INGRED id="4">g</INGRED> de <INGRED id="5">farine</INGRED> dans un <INGRED id="1">saladier</INGRED> assez grand, <INGRED id="14">faire</INGRED> un puits et y <OPER id="o_2">incorporer</OPER> les 4 <INGRED id="9">œufs</INGRED>, <OPER id="o_3">ajouter</OPER> le <INGRED id="5">sel</INGRED> et le <INGRED id="4">filet d'huile d'olive</INGRED>. <OPER id="o_4">Malaxer</OPER> à la main jusqu'à former une <INGRED id="1">boule</INGRED> de <INGRED id="5">pâte</INGRED> homogène. Si la <INGRED id="7">pâte</INGRED> colle, ne pas <OPER id="o_5">hésiter</OPER> à <OPER id="o_6">rajouter</OPER> un <INGRED id="14">peu</INGRED> de <INGRED id="3">farine</INGRED>. Si la pâte est trop farineuse, <OPER id="o_7">ajouter</OPER> un <INGRED id="14">peu</INGRED> d'<INGRED id="6">eau</INGRED>. Réserver la <INGRED id="5">pâte</INGRED> au réfrigérateur pendant une heure. Pendant que la <INGRED id="7">pâte</INGRED> repose, <INGRED id="14">faire</INGRED> <OPER id="o_8">cuire</OPER> les <INGRED id="6">poireaux</INGRED> et les <INGRED id="4">carottes</INGRED>. Lorsque les <INGRED id="6">poireaux</INGRED> sont cuits, <OPER id="o_9">incorporer</OPER> la crème et la <INGRED id="14">muscade</INGRED>. <OPER id="o_10">Écraser</OPER> le tout avec une fourchette tout en mélangeant afin d'obtenir une fondue assez onctueuse. Réserver. Lorsque les <INGRED id="7">carottes</INGRED> sont cuites, <INGRED id="14">faire</INGRED> un " écrasé de <INGRED id="10">carottes</INGRED> " avec une fourchette et y <OPER id="o_11">incorporer</OPER> le curry. Réserver. Faire <OPER id="o_12">cuire</OPER> les <INGRED id="5">noix de saint jacques</INGRED> 2 - 3 minutes de chaque côté ( selon la grosseur ) dans un <INGRED id="14">peu</INGRED> de beurre additionné de <INGRED id="6">deux</INGRED> cuillères à <INGRED id="6">soupe d'huile d'olive</INGRED>. <OPER id="o_13">Sortir</OPER> la <INGRED id="15">pâte</INGRED> du réfrigérateur et l'<OPER id="o_14">étaler</OPER> à l'aide d'un rouleau à pâtisserie ou d'une machine à pâte ( que je conseille pour obtenir une <INGRED id="7">pâte</INGRED> pas trop <OPER id="o_15">épaisse).Monter</OPER> les ravioles : Noix de Saint Jacques avec la fondue de <INGRED id="2">poireau</INGRED> Crevettes avec l'écrasé de <INGRED id="9">carottes</INGRED> au curry Crevettes avec un <INGRED id="2">morceau de</INGRED> <INGRED id="12">fromage ail</INGRED> et fines <INGRED id="13">herbes</INGRED>. Une fois les ravioles montées, les <OPER id="o_16">cuire</OPER> au " cuit vapeur " entre 10 et 12 minutes. Servir chaud. Ne pas <OPER id="o_17">hésiter</OPER> à <OPER id="o_18">fariner</OPER> régulièrement le plan de travail, la <INGRED id="7">pâte</INGRED> et les ravioles pour éviter que ça colle. J'ai servi ces ravioles dans des assiettes creuses avec une " bisque de homard et de <INGRED id="1">queue</INGRED> d'écrevisses " en guise de <INGRED id="5">sauce</INGRED>. Un <INGRED id="4">vin blanc sec</INGRED> type Alsace
+  </annotation>
+  <annotation methode="crf">
+  Préparation de la <INGRED>pâte</INGRED> <INGRED>:</INGRED> Mettre les 400 <INGRED>g</INGRED> de <INGRED>farine</INGRED> dans un saladier assez grand <INGRED>,</INGRED> faire un puits et y incorporer les 4 <INGRED>œufs</INGRED> <INGRED>,</INGRED> ajouter le <INGRED>sel</INGRED> et le <INGRED>filet</INGRED> d'<INGRED>huile d'olive</INGRED> <INGRED>.</INGRED> Malaxer à la main jusqu'à former une boule de <INGRED>pâte</INGRED> homogène <INGRED>.</INGRED> Si la <INGRED>pâte</INGRED> colle <INGRED>,</INGRED> ne pas hésiter à rajouter un peu de <INGRED>farine</INGRED>. Si la <INGRED>pâte</INGRED> est trop farineuse <INGRED>,</INGRED> ajouter un peu d'<INGRED>eau</INGRED> <INGRED>.</INGRED> Réserver la <INGRED>pâte</INGRED> au réfrigérateur pendant une heure. Pendant que la <INGRED>pâte</INGRED> repose <INGRED>,</INGRED> faire cuire les <INGRED>poireaux</INGRED> et les <INGRED>carottes</INGRED>. Lorsque les <INGRED>poireaux</INGRED> sont cuits, incorporer la <INGRED>crème</INGRED> et la <INGRED>muscade</INGRED>. Écraser le tout avec une fourchette tout en mélangeant afin d'obtenir une fondue assez onctueuse. Réserver. Lorsque les <INGRED>carottes</INGRED> sont cuites <INGRED>,</INGRED> faire un " écrasé de <INGRED>carottes</INGRED> " avec une fourchette et y incorporer le <INGRED>curry</INGRED> <INGRED>.</INGRED> Réserver. Faire cuire les <INGRED>noix</INGRED> de saint jacques 2 - 3 minutes de chaque côté ( selon la grosseur ) dans un peu de <INGRED>beurre</INGRED> additionné de <INGRED>deux</INGRED> <INGRED>cuillères à soupe d'huile d'olive</INGRED> <INGRED>.</INGRED> Sortir la <INGRED>pâte</INGRED> du réfrigérateur et l'étaler à l'aide d'un <INGRED>rouleau</INGRED> à pâtisserie <INGRED>ou</INGRED> d'une machine à <INGRED>pâte</INGRED> ( que je conseille pour obtenir une <INGRED>pâte</INGRED> pas trop épaisse).Monter les ravioles <INGRED>:</INGRED> Noix de Saint Jacques avec la <INGRED>fondue</INGRED> de <INGRED>poireau</INGRED> Crevettes avec l'écrasé de <INGRED>carottes</INGRED> au <INGRED>curry</INGRED> Crevettes avec un <INGRED>morceau</INGRED> de <INGRED>fromage</INGRED> <INGRED>ail</INGRED> et <INGRED>fines</INGRED> <INGRED>herbes</INGRED> <INGRED>.</INGRED> Une fois les ravioles montées <INGRED>,</INGRED> les cuire au " cuit vapeur " entre 10 et 12 minutes. Servir chaud <INGRED>.</INGRED> Ne pas hésiter à fariner régulièrement le plan de travail <INGRED>,</INGRED> la <INGRED>pâte</INGRED> et les ravioles pour éviter que ça colle. J'ai servi ces ravioles dans des assiettes creuses avec une " <INGRED>bisque de homard</INGRED> et de queue d'écrevisses " en guise de <INGRED>sauce</INGRED>. Un <INGRED>vin blanc</INGRED> sec type Alsace
+  </annotation>
+  <complexite>
+    <temps>f(X) = 16.0540540540541*X + 1.94594594594595</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 33*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['farine de blé', 'farine']	 id:1	 quantité:400	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['œufs']	 id:2	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['sel']	 id:3	 quantité:1	 unité:pincée de	 denombrable:True	 recipient:1*X
+ingredient:["filet d'huile d'olive", 'filet']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['noix de saint jacques', 'noix']	 id:5	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['crevettes moyennes décortiquées', 'crevettes']	 id:6	 quantité:12	 unité:non_precis	 denombrable:True	 recipient:12*X
+ingredient:['blanc de poireau', 'blanc']	 id:7	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['crème fraîche', 'crème']	 id:8	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['muscade en poudre', 'muscade']	 id:9	 quantité:1	 unité:pincée de	 denombrable:True	 recipient:1*X
+ingredient:['carottes moyennes', 'carottes']	 id:10	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['curry']	 id:11	 quantité:2	 unité:cuillères à café de	 denombrable:True	 recipient:2*X
+ingredient:['fromage ail', 'fromage']	 id:12	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['herbes']	 id:13	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:14	 quantité:10	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["huile d'olive", 'huile']	 id:15	 quantité:1	 unité:cuillère à soupe d'	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mettre	 id:o_1	 ingrédients_ralatifs:['4', '5', '1', '14', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:incorporer	 id:o_2	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_3	 ingrédients_ralatifs:['4', '5', '1', '14', '9', '5', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:malaxer	 id:o_4	 ingrédients_ralatifs:['1', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:hésiter	 id:o_5	 ingrédients_ralatifs:['7', '14', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rajouter	 id:o_6	 ingrédients_ralatifs:['14', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:['14', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_8	 ingrédients_ralatifs:['7', '14']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:incorporer	 id:o_9	 ingrédients_ralatifs:['6', '14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:écraser	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_12	 ingrédients_ralatifs:['5', '14', '6', '6']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:sortir	 id:o_13	 ingrédients_ralatifs:['15', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étaler	 id:o_14	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:épaisse).monter	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:hésiter	 id:o_17	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fariner	 id:o_18	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22255">
+  <titre>La tarte au nutella</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte sucrée :</p>
+    <p>150 g de beurre</p>
+    <p>95 g de sucre glace</p>
+    <p>30 g de poudre d’amandes</p>
+    <p>1 pincée de sel</p>
+    <p>7.5 g de sucre vanillé</p>
+    <p>1 oeuf</p>
+    <p>250 g de farine</p>
+    <p>Pour la ganache :</p>
+    <p>150 g de Nutella</p>
+    <p>150 g de chocolat pâtissier</p>
+    <p>3 oeufs</p>
+    <p>20 g de sucre semoule</p>
+    <p>100 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Matériel :
+    un moule à tarte de 26 cm de diamètre
+    papier sulfurisé
+    légumes secs
+    La pâte sucrée : Faire fondre le beurre, et le laisser tiédir, le verser dans une terrine, ajouter le sucre glace, la poudre d’amandes, le sel, le sucre vanillé, incorporer l’oeuf, et la farine. A partir de ce moment, mélanger le moins possible, de façon à garder une texture de pâte très fondante et très sablée. La mettre dans un film plastique, durant 1 heure au réfrigérateur. Recouvrir la plaque de cuisson, ou le moule, de papier sulfurisé. Abaisser à la main, la pâte sucrée, en la travaillant le moins possible, dans le moule. La recouvrir de papier sulfurisé pour la précuire 10 mn au four, thermostat 4-5 (170°c). La ganache : Faire fondre le chocolat au bain-marie, dans une petite casserole, le mettre dans une terrine. Dans une autre casserole, faire fondre le beurre, le laisser tiédir. 
+    Séparer les blancs des jaunes de 2 oeufs. 
+    Mélanger au chocolat fondu, le Nutella, l’oeuf entier, les 2 jaunes, le sucre, et le beurre fondu. 
+    Dès que la ganache est bien mélangée, la répartir sur le fond de tarte. 
+    Glisser au four thermostat 6 (180°C) pendant 10 mn. La surface de la tarte à une texture de biscuit, et son coeur est fondant et moelleux.
+  ]]>
+  </preparation>
+</recette>

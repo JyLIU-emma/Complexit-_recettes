@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20220">
+  <titre>POULET EN WATERZOÏ</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 branche de céleri</p>
+    <p>200 g de blancs de poireaux</p>
+    <p>4 carottes</p>
+    <p>4 blancs de poulet</p>
+    <p>30 g de beurre</p>
+    <p>1 litre de bouillon de volaille</p>
+    <p>2 jaunes d'oeuf</p>
+    <p>10 cl de crème fraîche</p>
+    <p>1/2 citron</p>
+    <p>persil plat haché</p>
+    <p>sel et poivre</p>
+    <p>quelques graines de coriandre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver le céleri et en réserver 3 feuilles pour le décor. Laver aussi les poireaux et couper le tout en tronçons. 
+    Peler, couper les carottes en rondelles. 
+    Faire étuver le tout dans un faitout, à feu doux, pendant 5 mn avec le beurre. 
+    Ajouter les blancs de poulet, le bouillon, saler et poivrer, ajouter quelques graines de coriandre. 
+    Cuire à couvert et à feu doux, 20 mn après ébullition. 
+    Dans un bol, mélanger la crème, les jaunes d'oeufs, le jus de citron, du sel et du poivre. 
+    Prélever les légumes et le poulet, à l'écumoire, en garnir un plat creux, puis tenir au chaud. 
+    Mélanger la crème au bouillon et lier sur feu doux 2 mn sans faire bouillir. 
+    Ajouter 2 cuillères à soupe de persil haché, verser sur la viande et les légumes, décorer de céleri. 
+    Servir bien chaud.
+    servir avec des pommes de terre vapeur ou du riz.
+  ]]>
+  </preparation>
+</recette>

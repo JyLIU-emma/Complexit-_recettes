@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25364">
+  <titre>Morteau au vin blanc et pommes de terre</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 grosse saucisse de Morteau</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>20 cl de bouillon</p>
+    <p>500 g de pommes de terre</p>
+    <p>1 oignon</p>
+    <p>2 gousses d'ail</p>
+    <p>1 cuillère à soupe de concentré de tomate</p>
+    <p>1 branche de thym</p>
+    <p>1 feuille de laurier</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Posez la saucisse dans une marmite. Versez le vin et le bouillon dessus.
+    Ajoutez le thym, le laurier, le concentré de tomate délayé dans un peu d'eau. Rajoutez l'oignon émincé et les gousses d'ail hachées.
+    Pelez et coupez les pommes de terre en cubes, rajoutez-les également. Salez et poivrez.
+    Faites chauffez le tout et portez à ébullition. Couvrez, baissez le feu et laissez cuire 45 minutes.
+    Coupez la saucisse en morceaux, disposez-la dans un plat avec les pommes de terre. Faites réduire le jus de cuisson et versez-le dessus.
+  ]]>
+  </preparation>
+</recette>

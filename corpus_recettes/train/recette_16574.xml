@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16574">
+  <titre>Crumble aux fruits</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pomme</p>
+    <p>1 poire</p>
+    <p>10 fraises</p>
+    <p>10 spéculoos</p>
+    <p>150 g de sucre</p>
+    <p>110 g de beurre</p>
+    <p>150 g de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer les fruits et les faire macérer avec un peu de sucre et de l'alcool au choix si vous le désirez.
+    Broyer au maximum les spéculoos et y incorporer le sucre, la farine et ensuite le beurre ramolli. Malaxer avec vos doigts pour obtenir une pâte granuleuse.
+    Verser au dessus des fruits cette pâte et enfourner exactement 25 mn à 180°C. Se mange tiède ou froid le lendemain.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21000">
+  <titre>Papillotes de Saint-Jacques aux petits légumes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>16 noix de Saint-jacques</p>
+    <p>2 tomates allongées</p>
+    <p>6 champignons</p>
+    <p>50 g de beurre</p>
+    <p>20 cl de vin blanc</p>
+    <p>1 échalote</p>
+    <p>1 gousse d'ail</p>
+    <p>1 citron</p>
+    <p>1 pincée de safran</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincez les champignons, coupez les tomates en cubes. Hachez l'échalote. Faites revenir ces légumes dans une poêle avec un peu de beurre environ 15 minutes. Une fois qu'ils sont tendre, laissez dorer quelques instants à feu vif.
+    Pelez et coupez la gousse d'ail en 2. Frottez 4 feuilles d'aluminium avec puis beurrez-les.
+    Déposez 4 noix dans chaque feuille, puis répartissez les tomates aux champignons égouttés.
+    Salez, poivrez. Saupoudrez de safran et déposez des petits noix de beurre. Fermez les papillotes en laissant une petite ouverture.
+    Versez le vin blanc et le jus du citron dans les papillotes, fermez-les et disposez-les dans un plat allant au four.
+    Faites cuire 15 minutes à 200°C (thermostat 6-7).
+  ]]>
+  </preparation>
+</recette>

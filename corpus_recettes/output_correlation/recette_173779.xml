@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173779">
+  <titre>Risotto aux asperges et topinambours</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de riz rond (riz à risotto)</p>
+    <p>125 g d'asperges vertes</p>
+    <p>3 topinambours</p>
+    <p>2 échalotes</p>
+    <p>huile d'olive</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>15 cl de vin blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les asperges et les couper en tronçons de 2 cm. Garder les pointes entières.
+    Peler les topinambours et les couper en petits cubes puis émincer les échalotes très finement.
+    Faire bouillir 1 l d'eau et y plonger les asperges pendant 10 min (elles ne doivent pas être trop cuites). 
+    Sortir les asperges de l'eau, les égoutter et garder le bouillon.
+    Faire blondir les échalotes et les topinambours dans une poêle avec un peu d'huile d'olive à feu vif.
+    Ajouter le riz et remuer jusqu'à ce qu'il devienne translucide.
+    Mouillez avec le vin blanc et le laisser s'évaporer avant de baisser le feu.
+    Ajouter les asperges et mouiller avec le bouillon petit à petit. Attendre que le riz adsorbe le bouillon avant d'en remettre une louche. Répéter l'opération jusqu'à ce que le riz soit crémeux.
+    Enfin, saler, poivrer et servir aussitôt. Cabernet sauvigon 
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Peler</OPER> les <INGRED id="1">asperges</INGRED> et les <OPER id="o_2">couper</OPER> en tronçons de 2 cm. <OPER id="o_3">Garder</OPER> les pointes entières. <OPER id="o_4">Peler</OPER> les <INGRED id="3">topinambours</INGRED> et les <OPER id="o_5">couper</OPER> en <INGRED id="3">petits</INGRED> cubes puis <OPER id="o_6">émincer</OPER> les <INGRED id="2">échalotes</INGRED> très finement. Faire <OPER id="o_7">bouillir</OPER> 1 l d'<INGRED id="1">eau</INGRED> et y <OPER id="o_8">plonger</OPER> les asperges pendant 10 min ( elles ne doivent pas être trop cuites ). <OPER id="o_9">Sortir</OPER> les asperges de l'<INGRED id="4">eau</INGRED>, les <OPER id="o_10">égoutter</OPER> et <OPER id="o_11">garder</OPER> le bouillon. Faire <OPER id="o_12">blondir</OPER> les <INGRED id="4">échalotes</INGRED> et les <INGRED id="3">topinambours</INGRED> dans une poêle avec un peu d'huile d'olive à feu vif. <OPER id="o_13">Ajouter</OPER> le riz et <OPER id="o_14">remuer</OPER> jusqu'à ce qu'il devienne translucide. <OPER id="o_15">Mouillez</OPER> avec le <INGRED id="8">vin blanc</INGRED> et le laisser s'<OPER id="o_16">évaporer</OPER> avant de <OPER id="o_17">baisser</OPER> le feu. <OPER id="o_18">Ajouter</OPER> les <INGRED id="1">asperges</INGRED> et <OPER id="o_19">mouiller</OPER> avec le bouillon petit à petit. <OPER id="o_20">Attendre</OPER> que le riz adsorbe le bouillon avant d'en <OPER id="o_21">remettre</OPER> une louche. <OPER id="o_22">Répéter</OPER> l'opération jusqu'à ce que le riz soit crémeux. Enfin, <OPER id="o_23">saler</OPER>, <OPER id="o_24">poivrer</OPER> et servir aussitôt. Cabernet sauvigon
+  </annotation>
+  <annotation methode="crf">
+  Peler les asperges et les couper en tronçons de 2 <INGRED>cm</INGRED> <INGRED>.</INGRED> Garder les pointes entières. Peler les topinambours et les couper en <INGRED>petits</INGRED> cubes puis émincer les <INGRED>échalotes</INGRED> très <INGRED>finement</INGRED> <INGRED>.</INGRED> Faire bouillir 1 l d'<INGRED>eau</INGRED> et y plonger les asperges pendant 10 min ( elles ne doivent pas être trop cuites ). Sortir les asperges de l'<INGRED>eau</INGRED> <INGRED>,</INGRED> les égoutter et garder le <INGRED>bouillon</INGRED> <INGRED>.</INGRED> Faire blondir les <INGRED>échalotes</INGRED> et les topinambours dans une poêle avec un peu d'<INGRED>huile d'olive</INGRED> à feu vif. Ajouter le <INGRED>riz</INGRED> et remuer jusqu'à ce qu'il devienne translucide. Mouillez avec le <INGRED>vin blanc</INGRED> et le laisser s'évaporer avant de baisser le feu <INGRED>.</INGRED> Ajouter les asperges et mouiller avec le <INGRED>bouillon</INGRED> <INGRED>petit</INGRED> à <INGRED>petit</INGRED> <INGRED>.</INGRED> Attendre que le <INGRED>riz</INGRED> adsorbe le <INGRED>bouillon</INGRED> avant d'en remettre une louche. Répéter l'opération jusqu'à ce que le <INGRED>riz</INGRED> soit crémeux <INGRED>.</INGRED> Enfin <INGRED>,</INGRED> saler <INGRED>,</INGRED> poivrer et servir aussitôt. Cabernet sauvigon
+  </annotation>
+  <complexite>
+    <temps>f(X) = 126.818181818182*X + 152.181818181818</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 5*X + 11</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['riz rond', 'riz']	 id:1	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['asperges vertes', 'asperges']	 id:2	 quantité:125	 unité:g d'	 denombrable:False	 recipient:1
+ingredient:['topinambours']	 id:3	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['échalotes']	 id:4	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:["huile d'olive", 'huile']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['vin blanc', 'vin']	 id:8	 quantité:15	 unité:cl de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:peler	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:250*X	 temps:1*X*1	 recipient:0
+operation:couper	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:garder	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:peler	 id:o_4	 ingrédients_ralatifs:['3', '3', '2']	 nombre_opération_atomique:3*X+3*X+1	 temps:3*X*1+3*X*1+1*X*1	 recipient:0
+operation:couper	 id:o_5	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:3*X*1	 recipient:1
+operation:émincer	 id:o_6	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:bouillir	 id:o_7	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:plonger	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:sortir	 id:o_9	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:égoutter	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garder	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:blondir	 id:o_12	 ingrédients_ralatifs:['4', '3']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:ajouter	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mouiller	 id:o_15	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:3	 recipient:0
+operation:évaporer	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:baisser	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_18	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mouiller	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:3	 recipient:0
+operation:attendre	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remettre	 id:o_21	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:répéter	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5*X	 recipient:0
+operation:saler	 id:o_23	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

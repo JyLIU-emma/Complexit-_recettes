@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23646">
+  <titre>Gâteau moelleux à la châtaigne</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 oeufs</p>
+    <p>250 g de sucre</p>
+    <p>5 cuillères à soupe de rhum</p>
+    <p>2 pincées de sel</p>
+    <p>250 g de farine</p>
+    <p>2,5 cuillères à soupe de levure</p>
+    <p>250 g de beurre mou</p>
+    <p>500 g (eh oui !!!) de crème de marrons</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Travaillez les oeufs avec le sucre, le rhum et le sel. Ajoutez la farine et la levure. Mélangez jusqu'à ce que la pâte soit homogène.
+    Travaillez le beurre avec la crème de marrons. Lorsque le mélange est bien lisse, incorporez-le au mélange précédent.
+    Beurrez un moule à manqué. Versez la préparation et faites la cuire à four modéré environ 40 mn (jusqu'à ce que la lame d'un couteau plantée dans le gâteau ressorte sèche).
+    Servez froid!
+  ]]>
+  </preparation>
+</recette>

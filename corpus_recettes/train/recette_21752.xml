@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21752">
+  <titre>Thon épicé et fondue d'oignons aux raisins secs</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de thon frais</p>
+    <p>100 g de raisins secs</p>
+    <p>75 g de farine</p>
+    <p>2 gros oignons</p>
+    <p>1 cuillère à café de vinaigre</p>
+    <p>1 cuillère à café de miel</p>
+    <p>1/2 cuillère à café de cannelle</p>
+    <p>1/2 cuillère à café de cumin</p>
+    <p>1/2 cuillère à café de piment en poudre</p>
+    <p>4 citrons vert</p>
+    <p>3 cuillères à soupe d'huile d'olives</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites tremper les raisins secs dans de l'eau tiède.
+    Mélangez le piment en poudre et le cumin. Ajoutez le jus d'un demi-citron et faites-y macérer le thon pendant 1 heure en le retournant au bout de 30 minutes.
+    Egouttez et farinez le thon. Faites chauffer l'huile dans une grande sauteuse ou cocotte, faites-y cuire le thon 5 minutes de chaque côté.
+    Réservez au chaud.
+    Mettez les oignons coupés en rondelles dans la sauteuse, saupoudrez de cannelle et laissez suer à feu doux pendant 10 minutes.
+    Ajoutez le vinaigre, le miel et les raisins secs égouttés. Mouillez d'un peu d'eau et laissez mijoter à feu doux. Déposez le thon coupé en morceaux dans la sauce et laissez réchauffer à feu doux.
+    Servez bien chaud avec les citrons verts coupés en quartiers. Accompagnez de semoule couscous parfumée.
+  ]]>
+  </preparation>
+</recette>

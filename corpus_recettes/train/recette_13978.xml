@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13978">
+  <titre>Pieds de mouton au miel de montagne</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de pieds de mouton</p>
+    <p>3 cuillères à soupe de miel de montagne ou mille fleurs</p>
+    <p>4 échalotes</p>
+    <p>20 g de beurre </p>
+    <p>1 verre à liqueur de Porto rouge</p>
+    <p>1 pincée de sel</p>
+    <p>1 pincée de poivre noir</p>
+    <p>1 pincée de noix de muscade</p>
+    <p>1 pincée de melange 4 épices</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer et couper les pieds de mouton en morceaux, puis les faire blanchir 10 mn et bien les rincer sous l'eau froide.
+    Dans une poèle, faire revenir les échalotes dans le beurre, y ajouter les pieds de mouton, laisser dorer 5 mn, déglacer avec le porto puis assaisonner avec les épices.
+    En fin de cuisson, ajouter le miel et laisser frémir 2 à 3 minutes.
+    Servir chaud avec quelques tagliatelles fraîches.
+    Les pieds de mouton peuvent être remplacés par des girolles. vin blanc du Jura (chardonnet)
+  ]]>
+  </preparation>
+</recette>

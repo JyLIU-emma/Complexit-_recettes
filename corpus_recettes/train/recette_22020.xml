@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22020">
+  <titre>Pizza crevettes poivron</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de pâte à pizza</p>
+    <p>300 g de crevettes décortiquées</p>
+    <p>1 poivron rouge, 1 vert et 1 jaune</p>
+    <p>300 g de concentré de tomates</p>
+    <p>200 g de jambon cuit</p>
+    <p>200 g de champignons</p>
+    <p>2 gousses d'ail hachées</p>
+    <p>8 olives vertes</p>
+    <p>4 cuillères à soupe d'huile d'olive</p>
+    <p>1 branchette de thym</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer tous les poivrons en rondelles et les faire revenir avec le jambon coupé en dès et l'ail dans deux cuillères à soupe d'huile d'olive.
+    Préchauffer le four à 240°C (thermostat 8).
+    Etaler le concentré de tomate sur la pâte puis, répartir dessus les poivrons, le jambon, les champignons, les olives dénoyautées et coupées en deux et les crevettes.
+    Saler, poivrer et parsemer de thym. Ajouter 2 ou 3 filets d'huile d'olive et enfourner pour 20 min.
+  ]]>
+  </preparation>
+</recette>

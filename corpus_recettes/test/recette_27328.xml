@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27328">
+  <titre>Côtes de veau à la crème fumée</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 côtes de veau</p>
+    <p>15 g de beurre</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>1 échalote</p>
+    <p>50 g de lardons fumés</p>
+    <p>50 g de crème</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre et l'huile. Y dorer la viande et cuire 15 minutes en la retournant à mi-cuisson.
+    Lorsque les côtes sont cuites, les retirer de la poêle et mettre les lardons à la place.
+    Ajouter les échalotes hachées et verser le vin.
+    Porter sur feu vif jusqu'à ce qu'il ne reste que la moitiée du liquide. Ajouter la crème et laisser réchauffer sur feu doux.
+    Napper les côtes de veau de crème et servir.
+  ]]>
+  </preparation>
+</recette>

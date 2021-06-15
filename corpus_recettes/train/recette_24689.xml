@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24689">
+  <titre>Ris de veau au gingembre et au miel</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de ris de veau, soit 150 à 200 g par personne (peut se faire avec 100 g par personne pour une entrée) </p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>4 ciboules hachées</p>
+    <p>2 gousses d'ail écrasées</p>
+    <p>1 morceau de gingembre finement émincé</p>
+    <p>1 poivron vert finement émincé</p>
+    <p>4 cuillères à soupe de vinaigre</p>
+    <p>l cuillère à soupe de sauce soja</p>
+    <p>2 cuillères à soupe de concentré de tomate</p>
+    <p>3 cuillères à soupe de miel liquide</p>
+    <p>1 cuillère à soupe de Maïzena délayée dans 2 cuillères à soupe d'eau froide</p>
+    <p>2 cuillères à soupe d'huile de sésame</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites chauffer l'huile dans une poêle. Ajoutez la ciboule, l'ail, le gingembre et faites revenir 2 mn tout en tournant. 
+    Incorporez le reste des ingrédients, portez à ébullition et laissez cuire 2 mn. 
+    Incorporez vos ris de veau préalablement sautés 3 mn à la poêle, puis servez.
+  ]]>
+  </preparation>
+</recette>

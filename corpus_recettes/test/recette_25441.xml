@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25441">
+  <titre>Poulet aux poivrons et paprika</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 blancs de poulet</p>
+    <p>3 poivrons (jaune, vert, rouge) </p>
+    <p>1 oignon et un ail</p>
+    <p>2 cuillères à café de paprika</p>
+    <p>250 g de champignons frais</p>
+    <p>sel, poivre</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) émincer l'ail et l'oignon. 
+    2) dans un wok, les faire revenir dans un peu d'huile d'olive. 
+    3) rajouter les poivrons coupés en dés et continuer la cuisson jusqu'à ce qu'ils soient tendres (10 mn). 
+    4) rajouter les champignons coupés en lamelles et continuer la cuisson jusqu'à ce qu'ils soient cuits. 
+    5) réserver le tout. 
+    6) dans la même poêle faire cuire les blancs de poulet coupés en morceaux dans de l'huile d'olive en rajoutant le paprika. mélanger bien. 
+    7) quand les morceaux de poulet sont cuits rajouter le reste (poivrons + champignons) et saler poivrer. 
+    8) laisser mijoter le tout à feu doux jusqu'à dégustation avec du riz thaï...
+    On peut remplacer le poulet par des tranches de carpaccio de boeuf(délicieux aussi) un petit rouge....
+  ]]>
+  </preparation>
+</recette>

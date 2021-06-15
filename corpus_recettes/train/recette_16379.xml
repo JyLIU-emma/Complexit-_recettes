@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16379">
+  <titre>Aubergines au vinaigre balsamique</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 aubergines </p>
+    <p>1 poivron rouge</p>
+    <p>persil</p>
+    <p>2 gousses d'ail</p>
+    <p>7 cl de vinaigre balsamique </p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les aubergines non epluchées en tranches de 5 mn. Les faire frire. Les égoutter sur papier absorbant. Les dresser sur le plat de service.
+    Préparer la sauce : couper le poivron en très petits dés, hacher le persil et l'ail. Ajouter le vinaigre, saler et poivrer.
+    Verser la sauce sur les tranches d'aubergines encore tièdes et laisser refroidir.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26187">
+  <titre>Cuisses de grenouille sauce moutarde et estragon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>450 g de cuisses de grenouille</p>
+    <p>60 g de crème fraîche</p>
+    <p>1 citron</p>
+    <p>40 g de beurre</p>
+    <p>1 cuillère à soupe de moutarde</p>
+    <p>quelques branches d'estragon</p>
+    <p>100 g de farine</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Roulez les cuisses de grenouille dans la farine puis faites-les revenir dans le beurre chaud sur feu moyen pendant 12 minutes en dorant bien sur toutes les faces. Salez, poivrez puis réservez au chaud.
+    Déglacez la poêle avec le jus d'1/2 citron puis ajoutez la crème et la moutarde. Laissez chauffer quelques minutes puis nappez-en les cuisses de grenouille.
+    Parsemez d'estragon grossièrement hachées.
+    Décorez du reste de citron coupé en quartiers.
+  ]]>
+  </preparation>
+</recette>

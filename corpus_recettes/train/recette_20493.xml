@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20493">
+  <titre>Carottes mijotées au vin et aux raisins</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de carottes nouvelles</p>
+    <p>1 botte de petits oignons</p>
+    <p>150 g de raisins secs</p>
+    <p>25 cl de vin blanc demi-sec</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>50 g de beurre</p>
+    <p>thym, laurier</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Gratter et peler les carottes et les petits oignons.
+    Dans une cocotte, les faire revenir dans 50 g de beurre en remuant souvent pour ne pas que ça accroche au fond. Au bout de 5 à 10 min, incorporer les raisins et assaisonner avec le thym et le laurier.
+    Mouiller ensuite avec le vin blanc en continuant de mélanger, puis laisser mijoter à couvert à feu moyen pendant  30 min.
+    En fin de cuisson et hors du feu, ajouter dans la sauce 2 cuillères à soupe de crème, mélanger et déguster.
+  ]]>
+  </preparation>
+</recette>

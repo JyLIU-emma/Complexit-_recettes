@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26315">
+  <titre>Pâté macédoine - thon de cécile</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>20 cl de crème fraîche liquide</p>
+    <p>1 boîte de 280 g de thon (égoutté) </p>
+    <p>400 g de macédoine en boîte</p>
+    <p>90 g de gruyère râpé</p>
+    <p>sel et poivre</p>
+    <p>ciboulette ou persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre les oeufs et mélanger avec le reste des ingrédients. 
+    Beurrer et fariner un moule à cake. Verser le tout dedans. 
+    Cuire au four, 180°C, pendant 30 à 40 mn selon les fours. Surveiller la cuisson.
+    Cette recette qui a beaucoup de succès me vient d'une amie. Se sert en entrée avec de la mayonnaise. Bon appétit !!!
+  ]]>
+  </preparation>
+</recette>

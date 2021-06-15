@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27346">
+  <titre>Sorbet aux cerises et au kirsch</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de cerises bien mûres</p>
+    <p>125 g de sucre</p>
+    <p>12 cl d'eau</p>
+    <p>1/4 de citron</p>
+    <p>1 cuillère à soupe de kirsch</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver, dénoyauter et mixer les cerises avec le jus du citron pressé.
+    Dans une casserole, préparer le sirop en portant à ébullition l'eau et le sucre, puis laisser refroidir.
+    Mêler les cerises hachées au sirop, bien mélanger et les disposer dans une sorbetière.
+    Verser le kirsch lorsque la glace est quasiment prise.
+    Former ensuite des boules, puis servir à la coupe avec des fruits frais ou des fruits au sirop.
+  ]]>
+  </preparation>
+</recette>

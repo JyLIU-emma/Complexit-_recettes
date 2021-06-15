@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15169">
+  <titre>Gourmandise aux amandes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de poudre d'amandes</p>
+    <p>20 g de farine</p>
+    <p>100 g de sucre glace</p>
+    <p>50 g de beurre</p>
+    <p>2 oeufs</p>
+    <p>15 g de poudre de cacao </p>
+    <p>50 g d'amandes effilées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites fondre le beurre. Réservez.
+    Dans un bol, mélangez la poudre d'amandes, le sucre et les oeufs un par un. Incorporez la farine, le cacao et le beurre fondu en dernier. Laissez reposer 1/2 heures.
+    Préchauffez le four à thermostat 7 (210°C). Etalez les caissettes sur une plaque de four.
+    Remplissez-les du mélange. Parsemez d'amandes effilées. Faites cuire pendant 6 à 7 mn, puis laissez refroidir.
+  ]]>
+  </preparation>
+</recette>

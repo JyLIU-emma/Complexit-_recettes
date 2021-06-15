@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27355">
+  <titre>Cheese cake au verre</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de fromage frais (ricotta ou mascarpone) </p>
+    <p>200 g de yaourt</p>
+    <p>1 citron</p>
+    <p>40 g de sucre</p>
+    <p>Pour les fruits au choix :</p>
+    <p>framboises</p>
+    <p>fraises</p>
+    <p>groseilles</p>
+    <p>abricots... </p>
+    <p>Pour les biscuits au choix :</p>
+    <p>petits beurre</p>
+    <p>biscuits au citron</p>
+    <p>spéculoos...</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le fromage frais et le yaourt, 40 g de sucre et un peu de jus de citron.
+    Dans de beaux verres, alterner une couche de cette crème, une couche de biscuits coupés en petits morceaux et une couche de fruits.Délicieux et fait beaucoup d'effet si on soigne la présentation. Variante : réduire les biscuits en poudre et en faire des couches (crème, fruits, poudre de biscuits).
+  ]]>
+  </preparation>
+</recette>

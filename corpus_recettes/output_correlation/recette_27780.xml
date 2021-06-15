@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27780">
+  <titre>Canard laqué chinois aux 5 parfums</titre>
+  <type>Plat principal</type>
+  <niveau>Difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1 jeune canard de Barbarie</p>
+    <p>30 g de mélange aux 5 épices</p>
+    <p>1 pincée de cumin</p>
+    <p>1 oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>4 cl de sauce soja</p>
+    <p>4 cl de miel liquide</p>
+    <p>1 pincée de glutamate</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Induire le canard entièrement, à l'intérieur comme à l'extérieur du mélange aux 5 épices. Saupoudrer de sel. Puis le piquer avec une fourchette de tous côtés et le réserver.
+    Préparation de la pâte à épices pour le canard :
+    Peler et hacher finement l'oignon et l'ail, les piler jusqu'à l'obtention d'une pâte. Incorporer à cette pâte le reste du 5 épices, la sauce soja, le miel et le cumin, puis mélanger vivement pour obtenir une pâte bien homogène.
+    Badigeonner le canard avec la pâte à épices (intérieur comme extérieur), puis le laisser sécher environ 2 h.
+    Préchauffer votre four à 150°C (thermostat 5).
+    Huiler la plaque de votre four et disposer le canard dessus.
+    Enfourner à four chaud. Au bout de 45 minutes de cuisson,  rebadigeonner le canard de pâte à épices.
+    Après 1 h 30 de cuisson, il doit ressortir croustillant et bien doré (couleur caramel).
+    Détailler la chair en dés, servir avec des feuilles de menthe, des germes de soja, du riz et des rondelles de concombre.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Induire</OPER> le <INGRED id="1">canard</INGRED> entièrement, à l'intérieur comme à l'extérieur du <INGRED id="2">mélange aux 5 épices</INGRED>. <OPER id="o_2">Saupoudrer</OPER> de <INGRED id="10">sel</INGRED>. Puis le <OPER id="o_3">piquer</OPER> avec une fourchette de tous côtés et le réserver. Préparation de la <INGRED id="1">pâte</INGRED> à épices pour le <INGRED id="1">canard</INGRED> : <OPER id="o_4">Peler</OPER> et <OPER id="o_5">hacher</OPER> finement l'<INGRED id="3">oignon</INGRED> et <INGRED id="1">l'ail</INGRED>, les <OPER id="o_6">piler</OPER> jusqu'à l'obtention d'une pâte. <OPER id="o_7">Incorporer</OPER> à cette pâte le <INGRED id="1">reste</INGRED> du 5 <INGRED id="5">épices</INGRED>, la <INGRED id="8">sauce soja</INGRED>, le <INGRED id="10">miel</INGRED> et le <INGRED id="3">cumin</INGRED>, puis <OPER id="o_8">mélanger</OPER> vivement pour obtenir une <INGRED id="1">pâte</INGRED> bien homogène. <OPER id="o_9">Badigeonner</OPER> le <INGRED id="1">canard</INGRED> avec la pâte à épices ( intérieur comme extérieur ), puis le laisser <OPER id="o_10">sécher</OPER> <INGRED id="1">environ</INGRED> 2 h. <OPER id="o_11">Préchauffer</OPER> votre four à 150 ° C ( thermostat 5 ). <OPER id="o_12">Huiler</OPER> la plaque de votre four et <OPER id="o_13">disposer</OPER> le <INGRED id="1">canard</INGRED> dessus. <OPER id="o_14">Enfourner</OPER> à four chaud. Au bout de 45 minutes de cuisson, <OPER id="o_15">rebadigeonner</OPER> le <INGRED id="1">canard</INGRED> de pâte à épices. Après 1 h 30 de cuisson, il doit <OPER id="o_16">ressortir</OPER> croustillant et bien doré ( couleur <INGRED id="8">caramel</INGRED> ). <OPER id="o_17">Détailler</OPER> la <INGRED id="4">chair</INGRED> en <INGRED id="4">dés</INGRED>, servir avec des <INGRED id="4">feuilles</INGRED> de menthe, des germes de soja, du riz et des rondelles de <INGRED id="3">concombre</INGRED>.
+  </annotation>
+  <annotation methode="crf">
+  Induire le <INGRED>canard</INGRED> entièrement <INGRED>,</INGRED> à l'intérieur comme à l'extérieur du <INGRED>mélange</INGRED> aux 5 <INGRED>épices</INGRED> <INGRED>.</INGRED> Saupoudrer de <INGRED>sel</INGRED> <INGRED>.</INGRED> Puis le piquer avec une fourchette de tous côtés et le réserver <INGRED>.</INGRED> Préparation de la <INGRED>pâte à épices</INGRED> pour le <INGRED>canard</INGRED> <INGRED>:</INGRED> Peler et hacher <INGRED>finement</INGRED> l'<INGRED>oignon</INGRED> et l'<INGRED>ail</INGRED> <INGRED>,</INGRED> les piler jusqu'à l'obtention d'une <INGRED>pâte</INGRED> <INGRED>.</INGRED> Incorporer à cette <INGRED>pâte</INGRED> le <INGRED>reste</INGRED> du 5 <INGRED>épices</INGRED> <INGRED>,</INGRED> la <INGRED>sauce soja</INGRED> <INGRED>,</INGRED> le <INGRED>miel</INGRED> et le <INGRED>cumin</INGRED> <INGRED>,</INGRED> puis mélanger vivement pour obtenir une <INGRED>pâte</INGRED> bien homogène <INGRED>.</INGRED> Badigeonner le <INGRED>canard</INGRED> avec la <INGRED>pâte à épices</INGRED> ( intérieur comme extérieur ) <INGRED>,</INGRED> puis le laisser sécher <INGRED>environ</INGRED> 2 h. Préchauffer votre four à 150 ° C ( thermostat 5 ). Huiler la plaque de votre four et disposer le <INGRED>canard</INGRED> dessus. Enfourner à four chaud <INGRED>.</INGRED> Au bout de 45 minutes de cuisson <INGRED>,</INGRED> rebadigeonner le <INGRED>canard</INGRED> de <INGRED>pâte à épices</INGRED>. Après 1 <INGRED>h</INGRED> 30 de cuisson <INGRED>,</INGRED> il doit ressortir croustillant et bien doré ( couleur <INGRED>caramel</INGRED> ). Détailler la <INGRED>chair</INGRED> en dés <INGRED>,</INGRED> servir avec des feuilles de menthe, des germes de soja <INGRED>,</INGRED> du <INGRED>riz</INGRED> et des rondelles de <INGRED>concombre</INGRED>.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 9.5*X + 9.5</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 5*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['canard de Barbarie', 'canard']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['mélange aux 5 épices', 'mélange']	 id:2	 quantité:30	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['cumin']	 id:3	 quantité:1	 unité:pincée de	 denombrable:True	 recipient:1*X
+ingredient:['oignon']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['ail']	 id:5	 quantité:1	 unité:gousse d'	 denombrable:True	 recipient:1*X
+ingredient:['sauce soja', 'sauce']	 id:6	 quantité:4	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['miel liquide', 'miel']	 id:7	 quantité:4	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['glutamate']	 id:8	 quantité:1	 unité:pincée de	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:induire	 id:o_1	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saupoudrer	 id:o_2	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:piquer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:peler	 id:o_4	 ingrédients_ralatifs:['3', '1']	 nombre_opération_atomique:1*X+1*X	 temps:1*X*1+1*X*1	 recipient:0
+operation:hacher	 id:o_5	 ingrédients_ralatifs:['3', '1']	 nombre_opération_atomique:1*X+1*X	 temps:1*X*5+1*X*5	 recipient:1
+operation:piler	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_7	 ingrédients_ralatifs:['1', '5', '8', '10', '3', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_8	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:badigeonner	 id:o_9	 ingrédients_ralatifs:['1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:sécher	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préchauffer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:huiler	 id:o_12	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_13	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:enfourner	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rebadigeonner	 id:o_15	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ressortir	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:détailler	 id:o_17	 ingrédients_ralatifs:['4', '4', '4', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

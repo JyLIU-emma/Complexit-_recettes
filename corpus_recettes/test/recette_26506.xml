@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26506">
+  <titre>Crêpes farcies aux oignons fondus</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte à crêpes :</p>
+    <p>100 g de farine de sarrasin</p>
+    <p>25 cl de lait froid</p>
+    <p>2 œufs battus</p>
+    <p>une pincée de sel</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>Pour la garniture :</p>
+    <p>300 g d'oignons</p>
+    <p>1 grosse noix de beurre</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>persil haché</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer d’abord la pâte à crêpes :Dans un saladier, verser la farine de sarrasin, puis former une fontaine.
+    Battre les œufs en omelette avec une pincée de sel et une cuillère à soupe d’huile, puis les incorporer dans la fontaine et remuer à l’aide d’un fouet.
+    Verser ensuite le lait froid, puis continuer de remuer jusqu’à l’obtention d’une pâte fluide et parfaitement lisse.
+    Laisser reposer 1h.
+    Pendant ce temps, peler et hacher les oignons, puis les faire revenir sur feu très doux dans un mélange de beurre et d’huile.
+    Laisser colorer et réserver.
+    Faire cuire les crêpes de chaque côté, puis les fourrer d’oignons fondus et saupoudrer de persil haché.Saler, poivrer, replier les crêpes et déguster.Vous pouvez aussi ajouter des lardons et du fromage.
+  ]]>
+  </preparation>
+</recette>

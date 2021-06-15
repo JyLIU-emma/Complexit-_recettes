@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20629">
+  <titre>Endives à la crème</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>750 g d'endives</p>
+    <p>75 g de beurre</p>
+    <p>1 citron</p>
+    <p>150 g de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ôter les premières feuilles des endives, les émincer en fines rondelles.
+    Faire fondre les endives dans une poêle avec le beurre à feu doux. Arroser de jus de citron, saler et poivrer.
+    Laisser mijoter 20 minutes puis ajouter la crème. Laisser réchauffer sur feu doux et servir.
+  ]]>
+  </preparation>
+</recette>

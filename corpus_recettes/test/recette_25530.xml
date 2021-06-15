@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25530">
+  <titre>Omelette au vert, lardons et pommes de terre</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>12 oeufs</p>
+    <p>150 g de lardons</p>
+    <p>75 g de beurre</p>
+    <p>3 pommes de terre</p>
+    <p>1 bouquet de cerfeuil</p>
+    <p>1/2 bouquet d'oseille</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les pommes de terre en rondelles, hacher finement l'oseille et le cerfeuil.
+    Faire dorer les pommes de terre dans le beurre avec les lardons. Lorsqu'ils ont pris de la couleur, ajouter le cerfeuil et l'oseille.
+    Battre les oeufs en omelette, saler, poivrer et verser dans la poêle.
+    Servir dès que les oeufs sont pris.
+  ]]>
+  </preparation>
+</recette>

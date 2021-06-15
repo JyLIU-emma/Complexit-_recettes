@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21922">
+  <titre>Filets de cabillaud à la vanille</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de filets de cabillaud</p>
+    <p>15 cl de vin blanc</p>
+    <p>1/2 gousse de vanille (ou de l'extrait de vanille liquide)</p>
+    <p>20 cl de crème fraiche</p>
+    <p>1 sachet de court bouillon</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire le poisson au court bouillon avec du vin blanc.
+    Retirer les filets de poisson ; les mettre dans un plat.
+    Cuire, en remuant, un peu du court bouillon avec de la crème et une demi gousse de vanille.
+    Recouvrir le poisson avec la sauce et servir.la cabillaud peut être remplacé par un autre poisson à chair blanche.accompagnement : riz bien sur mais peut aussi se manger avec des frites, dans ce cas, mettre moins de crème et plus de court-bouillon.
+  ]]>
+  </preparation>
+</recette>

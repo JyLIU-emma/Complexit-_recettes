@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12871">
+  <titre>Tourte à la frangipane</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>150 g de farine</p>
+    <p>150 g de petits suisses</p>
+    <p>75 g de beurre</p>
+    <p>3 cuillères de sucre en poudre</p>
+    <p>sel Pour la garniture :</p>
+    <p>150 g de poudre d'amandes</p>
+    <p>150 g de sucre en poudre</p>
+    <p>150 g de beurre</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>2 cuillères de crème fraîche épaisse</p>
+    <p>3 cuillères d'eau de fleur d'oranger</p>
+    <p>Pour le glaçage :</p>
+    <p>125 g de sucre glace</p>
+    <p>15 g de farine</p>
+    <p>un blanc d'oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Verser la farine dans un saladier, le buerre en petits morceaux. Travailler du bout des doigts, ajoutez le sucre et le sel, faites un creux dans le mélange, ajoutez les petits-suisses.
+    Former une boule de pâte, la fariner légèrement, puis laisser au frais au moins une heure.
+    Ecraser le beurre à la fourchette, ajouter le sucre, les jaunes d'oeufs, la poudre d'amandes et l'eau de fleur d'oranger.
+    Dans un bol, préparer le glaçage en mélangeant le sucre, la farine et le blanc d'oeuf.
+    Préchauffer le four thermostat 7 (210°C). Beurrer un moule à tarte de 25 cm de diamètre.
+    Diviser la pâte en deux : 2/3 et 1/3 pour le couvercle. Etaler le plus gros morceau sur le fond du moule, en laissant dépasser 1 cm tout autour.
+    Remplir avec la garniture, puis rabattez les bords de la pâte vers l'intérieur, puis poser dessus en soudant bien les bords un disque de pâte.
+    Badigeonner la tourte avec un pinceau trempé dans le glaçage.
+    Dans les chutes de pâte, découper de fines bandes pour former des croisillons sur le glaçage.
+    Enfourner pour 40 mn, puis laisser refroidir dans le four éteint.
+  ]]>
+  </preparation>
+</recette>

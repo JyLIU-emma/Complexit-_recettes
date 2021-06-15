@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25403">
+  <titre>Tarte acidulée</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 poires fraîches</p>
+    <p>2 yaourts à la grecque</p>
+    <p>1 pâte brisée</p>
+    <p>2 oeufs entiers + 4 jaunes</p>
+    <p>le jus d'un citron jaune</p>
+    <p>4 cuillères à soupe de cassonade</p>
+    <p>2 cuillères à soupe de poudre d'amande</p>
+    <p>1 cuillère à café de cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez votre four sur 220°C (Th 7). 
+    Déroulez la pâte. 
+    Pelez les poires, coupez-les en deux, épépinez-les et citronnez-les. 
+    Disposez-les sur la pâte. 
+    Battez ensemble les oeufs et le sucre. Incorporez les yaourts ; mélangez bien. 
+    Ajoutez ensuite la poudre d'amandes et la cannelle. 
+    Versez cette préparation sur les poires et faites cuire 30 mn.
+    Vous pouvez servir cette tarte tiède ou froide.
+  ]]>
+  </preparation>
+</recette>

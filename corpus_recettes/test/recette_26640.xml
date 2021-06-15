@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26640">
+  <titre>Chou-fleur à la moutarde</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 chou-fleur</p>
+    <p>1 cuillère à soupe de moutarde</p>
+    <p>4 jaunes d'oeufs</p>
+    <p>1 citron</p>
+    <p>50 g de beurre</p>
+    <p>20 cl de crème fraîche</p>
+    <p>sel et poivre du moulin </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver puis détailler le chou-fleur en bouquets et les faire blanchir à l'eau bouillante salée durant 20 minutes. Les faire ensuite cuire 25 min dans un faitout rempli d'eau bouillante salée parfumée de 2-3 gouttes de citron.
+    Verser le jus du citron dans une casserole au bain-marie, ajouter la moutarde, les jaunes d'oeufs et fouetter l'ensemble. Incorporer petit à petit le beurre coupé en dés sans cesser de fouetter, le mélange va devenir mousseux. Saler, poivrer.
+    Lorsque tout le beurre est incorporé, ajouter la crème montée en chantilly.
+    Servir le chou-fleur égoutté avec la sauce à la moutarde.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24610">
+  <titre>Poires pochées au caramel</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 petites poires</p>
+    <p>25 cl de lait</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>80 g de sucre</p>
+    <p>30 g de farine</p>
+    <p>50 g de raisins secs de Smyrne</p>
+    <p>1 cuillère à soupe de rhum</p>
+    <p>24 morceaux de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettez les raisins à tremper dans le rhum la veille.
+    Faites bouillir 50 cl d'eau avec 8 morceaux de sucre pendant 15 min de manière à obtenir un sirop.
+    Pelez les poires et pochez-les dans le sirop environ 20 min.
+    Faites chauffer le lait avec le sucre.
+    Hors du feu, ajoutez les jaunes d'oeufs et la farine en pluie, fouettez et faites épaissir à feu doux.
+    Laissez refroidir et incorporez les raisins égouttés.
+    Faites fondre les morceaux de sucre restant avec 2 cuillère à soupe d'eau, laissez blondir le caramel.
+    Egouttez les poires, versez le caramel dessus.
+    Réservez le tout au frais. Au moment de servir, disposez les poires nappées de caramel et accompagnées de crème pâtissière rhum-raisin dans les assiettes. 
+  ]]>
+  </preparation>
+</recette>

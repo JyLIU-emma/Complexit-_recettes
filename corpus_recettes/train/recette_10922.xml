@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10922">
+  <titre>Tarte Mexicaine</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 cl d'huile </p>
+    <p>4 saucisses (selon votre goût)</p>
+    <p>100 g de haricots rouges ou blancs</p>
+    <p>150 g de maïs</p>
+    <p>50 g de poivron vert</p>
+    <p>1 pâte à tarte</p>
+    <p>2 piments rouges (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les saucisses en morceaux, les mélanger avec le maïs, le poivron vert détaillé en cubes et les haricots.
+    Si vous aimez ce qui est pimenté, ajouter quelques petits piments rouge.
+    Mettre la pâte dans le moule à tarte puis verser le mélange dessus.
+    Préchauffez votre four à 200°C (thermostat 6-7) puis laisser cuire pendant 30 min.trés rapide
+  ]]>
+  </preparation>
+</recette>

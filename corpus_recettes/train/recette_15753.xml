@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15753">
+  <titre>Spaghetti carbonara</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de spaghetti ou de capellini</p>
+    <p>300 g de lardons fumés</p>
+    <p>2 gros oignons ou 3 oignons moyens</p>
+    <p>1/2 tête d’ail (4 ou 5 gousses)</p>
+    <p>6 œufs frais</p>
+    <p>20 cl de crème légère</p>
+    <p>1 boîte de basilic frais ou surgelé (ou 1 cuillère à soupe de pesto)</p>
+    <p>huile d’olive</p>
+    <p>40 g de parmesan </p>
+    <p>40 g de grana padano</p>
+    <p>sel marin</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les oignons, les détailler, les faire blondir dans une poêle avec l’huile. Ajouter les lardons et l’ail détaillé en lamelles, laisser fristouiller doucement.
+    Mettre chauffer une grande quantité d’eau salée.
+    Dans un grand plat de service ou un saladier, battre les œufs avec la crème, saler, poivrer, ajouter les fromages râpés (parmesan + grana), puis le basilic ou le pesto.
+    Cuire les pâtes al dente, égoutter très rapidement, et verser les pâtes chaudes dans le plat contenant le mélange oeufs + crème + fromage.
+    Ajouter le contenu de la poêle (ne pas mélanger car les lardons tomberont alors dans le fond du plat) et servir très rapidement.
+    Accompagner de fromage (l’idéal est ici un mélange parmesan + grana). Un vin rouge 'de pays' (je n’ai pas dit 'de n’importe où'...) fait parfaitement l’affaire, italien de préférence mais aussi français (Sud-ouest), bulgare ou hongrois. En raison de l’utilisation généreuse d’ail et de lard, il est inutile de gaspiller un grand vin, d’autant que, ce plat étant plutôt roboratif, il ne laisse pas place à une dégustation subséquente.
+  ]]>
+  </preparation>
+</recette>

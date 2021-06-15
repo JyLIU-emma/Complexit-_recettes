@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18109">
+  <titre>Soupe de courgettes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de courgettes</p>
+    <p>2 kiris (fromage)</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les courgettes à l'économe en conservant la peau une tranche sur deux
+    Faire cuire les courgettes pendant une 1/2 heure à feu doux
+    Mixer le tout en rajoutant les deux kiris
+    Saler et poivrer
+  ]]>
+  </preparation>
+</recette>

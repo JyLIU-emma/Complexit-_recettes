@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22827">
+  <titre>Fricassée de poireaux</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 botte de poireaux</p>
+    <p>50 g de beurre</p>
+    <p>1 cuillerée à soupe de farine</p>
+    <p>le jus d'1 citron</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez les poireaux, éliminez les feuilles vertes dures.
+    Découpez les blancs en tronçons, faites-les cuire 30 minutes à l'eau bouillante salée. Egouttez sur un linge propre.
+    Faites fondre le beurre dans une cocotte, saupoudrez la farine et mouillez avec un peu d'eau et le jus du citron.
+    Faites sauter les morceaux de poireaux, salez et poivrez. 
+    Laissez mijoter 10 min à feu très doux et servez bien chaud.
+    Cette fricassée accompagne très bien le poisson ou la volaille.
+  ]]>
+  </preparation>
+</recette>

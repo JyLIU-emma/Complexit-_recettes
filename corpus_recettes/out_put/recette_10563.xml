@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10563">
+  <titre>Anneaux de concombre farcis au carrés frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 concombre</p>
+    <p>150 g de carrés frais</p>
+    <p>50 g de fromage blanc</p>
+    <p>1 gousse d'ail</p>
+    <p>5 branches de cerfeuil</p>
+    <p>ciboulette</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez et pelez le concombre en gardant une bande de peau sur deux
+    Coupez_ le en 8 trançons de 2 cm chacun. A l'aide de la pointe d'un couteau, évidez d'1 cm chaque tronçon, arrosez d'un filet d'huile d'olive. Réservez.
+    Mettez les carrés frais dans un récipient, écrasez grossièrement à l'aide d'une fourchette, ajoutez le fromage blanc, la gousse d'ail écrasée, salez, poivrez.
+    Lavez et hachez le cerfeuil et la ciboulette. Ajoutez à la préparation et mélangez.
+    Farcissez chaque tronçon de concombre de ce mélange en formant un dôme.
+    Servez avec des oeufs à la coque et quelques mouillettes.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Lavez</OPER> et <OPER id="o_2">pelez</OPER> le <INGRED id="1">concombre</INGRED> en gardant une bande de peau sur deux <OPER id="o_3">Coupez</OPER> _ le en 8 trançons de 2 cm chacun. A l'aide de la pointe d'un couteau, <OPER id="o_4">évidez</OPER> d'1 cm chaque tronçon, <OPER id="o_5">arrosez</OPER> d'un <INGRED id="1">filet</INGRED> d'<INGRED id="7">huile d'olive</INGRED>. Réservez. <OPER id="o_6">Mettez</OPER> les <INGRED id="7">carrés frais</INGRED> dans un récipient, écrasez grossièrement à l'aide d'une fourchette, <OPER id="o_7">ajoutez</OPER> le <INGRED id="3">fromage blanc</INGRED>, la gousse d'<INGRED id="4">ail</INGRED> écrasée, salez, poivrez. <OPER id="o_8">Lavez</OPER> et <OPER id="o_9">hachez</OPER> le <INGRED id="5">cerfeuil</INGRED> et la <INGRED id="6">ciboulette</INGRED>. <OPER id="o_10">Ajoutez</OPER> à la préparation et mélangez. <OPER id="o_11">Farcissez</OPER> chaque tronçon de <INGRED id="1">concombre</INGRED> de ce mélange en formant un dôme. Servez avec des <INGRED id="2">oeufs</INGRED> à la coque et quelques mouillettes.
+  </annotation>
+  <annotation methode="crf">
+  Lavez et pelez le <INGRED>concombre</INGRED> en gardant une bande de peau sur <INGRED>deux</INGRED> Coupez _ le en 8 trançons de 2 <INGRED>cm</INGRED> chacun. A l'aide de la pointe d'un couteau <INGRED>,</INGRED> évidez d'1 cm chaque tronçon <INGRED>,</INGRED> arrosez d'un <INGRED>filet</INGRED> d'<INGRED>huile d'olive</INGRED> <INGRED>.</INGRED> Réservez <INGRED>.</INGRED> Mettez les <INGRED>carrés</INGRED> <INGRED>frais</INGRED> dans un récipient <INGRED>,</INGRED> écrasez grossièrement à l'aide d'une fourchette <INGRED>,</INGRED> ajoutez le <INGRED>fromage</INGRED> <INGRED>blanc</INGRED> <INGRED>,</INGRED> la gousse d'ail écrasée <INGRED>,</INGRED> salez <INGRED>,</INGRED> poivrez. Lavez et hachez le <INGRED>cerfeuil</INGRED> et la <INGRED>ciboulette</INGRED>. Ajoutez à la préparation et mélangez <INGRED>.</INGRED> Farcissez chaque tronçon de <INGRED>concombre</INGRED> de ce <INGRED>mélange</INGRED> en formant un dôme. Servez avec des <INGRED>oeufs</INGRED> à la coque et quelques mouillettes.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 10.2857142857143*X + 5.71428571428571</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 9*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['concombre']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['carrés frais', 'carrés']	 id:2	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['fromage blanc', 'fromage']	 id:3	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['ail']	 id:4	 quantité:1	 unité:gousse d'	 denombrable:True	 recipient:1*X
+ingredient:['cerfeuil']	 id:5	 quantité:5	 unité:branches de	 denombrable:True	 recipient:5*X
+ingredient:['ciboulette']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["huile d'olive", 'huile']	 id:7	 quantité:2	 unité:cuillères à soupe d'	 denombrable:True	 recipient:2*X
+ingredient:['sel']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:laver	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1*X*1	 recipient:0
+operation:peler	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1*X*1	 recipient:0
+operation:couper	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:évider	 id:o_4	 ingrédients_ralatifs:['1', '7']	 nombre_opération_atomique:1	 temps:2	 recipient:0
+operation:arroser	 id:o_5	 ingrédients_ralatifs:['1', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_6	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:['3', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:laver	 id:o_8	 ingrédients_ralatifs:['5', '6']	 nombre_opération_atomique:5*X+1	 temps:5*X*1+1*X*1	 recipient:0
+operation:hacher	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5*X	 recipient:1
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:farcir	 id:o_11	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1*X*2	 recipient:0
+]]>
+</operation_trouve>
+</recette>

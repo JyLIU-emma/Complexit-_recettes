@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16250">
+  <titre>Tarte aux poivrons simple</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 kg de poivrons (verts et jaunes, de préférence)</p>
+    <p>2 cuillères à soupe de crème</p>
+    <p>1 fond de pâte brisée</p>
+    <p>sel, paprika</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les poivrons crus ou passer sous le grill pour en retirer la peau.Détailler les poivrons en fines lamelles, puis faire revenir dans l'huile d'olive jusqu'à ce qu'ils deviennent moelleux et qu'il ne subsiste aucun jus de cuisson. Selon la quantité de poivrons, cela peut prendre une heure.
+    Ajouter la crème et le paprika, puis saler.
+    Placer la préparation dans le fond de tarte et cuire à four chaud pendant 15 à 20 mn.On peut rajouter sur la tarte de fines lamelles de jambon fumé.
+  ]]>
+  </preparation>
+</recette>

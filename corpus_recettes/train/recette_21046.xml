@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21046">
+  <titre>Gâteau rose de Reims</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>30 biscuits roses de Reims</p>
+    <p>200 g d'amandes en poudre</p>
+    <p>125 g de beurre ramolli</p>
+    <p>80 g de sucre</p>
+    <p>4 jaunes d'oeuf</p>
+    <p>1 verre de lait</p>
+    <p>4 cl de rhum</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole, faire chauffer le lait avec le sucre et le rhum. 
+    Battre les jaunes et verser doucement le lait chaud en tournant pour obtenir une crème consistante. 
+    Faire prendre doucement sur le feu sans laisser bouillir. 
+    Laisser refroidir. Mélanger le beurre avec la poudre d'amande et incorporer petit à petit les gâteaux roses réduits en poudre. 
+    Ajouter la crème refroidie, mélanger. Mettre dans un moule et placer 12h au réfrigérateur. Servir coupé en tranches fines avec de la crème anglaiseEncore meilleur si on le prépare la veille. champagne
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18883">
+  <titre>Mousse de cabillaud</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de cabillaud (ou autre poisson selon goût) </p>
+    <p>quelques pincées de piment de Cayenne</p>
+    <p>10 cl de lait</p>
+    <p>10 cl de crème fraîche 20 % </p>
+    <p>2 oeufs entiers + 1 jaune</p>
+    <p>quelques noisettes de beurre pour les moules</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 150°C (Th 5 ). 
+    Coupez le cabillaud en petits morceaux puis mixez-le et passez-le au tamis. Incorporez-lui les oeufs entiers et le jaune puis le lait et la crème. Salez, relevez de quelques pincées de piment de Cayenne et mélangez soigneusement (la préparation obtenue doit être liquide et bien liée). 
+    Beurrez le fond et les parois de quatre moules individuels. Répartissez-y la préparation au cabillaud sans les remplir complètement. 
+    Placez les moules dans un bain-marie bouillant et faites-les cuire 30 mn au four. 
+    Servir avec un coulis de tomate.
+    Bon appétit !!!
+  ]]>
+  </preparation>
+</recette>

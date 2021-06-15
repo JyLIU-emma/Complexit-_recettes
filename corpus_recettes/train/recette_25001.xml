@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25001">
+  <titre>Calamars au curry</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de gros calamars</p>
+    <p>100 g de petits pois surgelés</p>
+    <p>15 cl de coulis de tomate</p>
+    <p>2 cuillères à soupe de curry en poudre</p>
+    <p>1 cuillère à soupe de piment doux en poudre</p>
+    <p>1 cuillère à café de cumin en poudre</p>
+    <p>1 à 2 pincée(s) de poivre de Cayenne</p>
+    <p>50 g d'oignons émincés</p>
+    <p>2 gousses d'ail</p>
+    <p>coriandre fraîche</p>
+    <p>1/2 cuillère à café de sucre semoule</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer les calamars en gardant les tentacules et couper les cornets en rondelles obliques (d'environ 0,5 cm). Les rincer, égoutter et éponger à l'aide de papier absorbant.
+    Mettre les petits pois à cuire 2 min dans de l'eau bouillante légèrement salée.
+    Peler et hacher les oignons. Inciser les gousses d'ail en 2 pour en ôter le germe.
+    Dans une poêle anti-adhésive huilée, faire cuire les calamars à feu vif en les tournant régulièrement jusqu'à évaporation complète de l'eau. Saler et poivrer. Les retirer du feu et les réserver au chaud.
+    Dans la même poêle, faire revenir les oignons avec le sucre et l'eau puis les faire blondir. Les saupoudrer de cumin, de piment doux, de curry et de poivre de Cayenne.
+    Faire mijoter 1 min en remuant régulièrement, puis incorporer les gousses d'ail pressées, le coulis de tomate et le sel. Laisser réduire, puis ajouter les calamars et les petits pois en continuant de mélanger et servir aussitôt.
+    Saupoudrer de coriandre fraîche ciselée. Accompagner de riz pilaf ou créole.
+  ]]>
+  </preparation>
+</recette>

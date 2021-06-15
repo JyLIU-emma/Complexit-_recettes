@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26908">
+  <titre>Pain de purée au jambon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de pommes de terre</p>
+    <p>4 tranches de jambon</p>
+    <p>3 cuillères à soupe de farine</p>
+    <p>50 g de beurre</p>
+    <p>3 cuillères à soupe de lait</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>30 g de gruyère râpé</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les pommes de terre à la vapeur.
+    Pelez-les et écrasez-les en purée pas trop fine avec du sel, du poivre, la farine, le beurre, le lait, les jaunes d'oeufs et le gruyère râpé.
+    Laissez reposer cette pâte 30 min au frais.
+    Etalez la pâte de purée sur une serviette farinée, déposez les tranches de jambon cuit dessus et roulez le pain sur lui-même.
+    Enfournez sur une tôle beurrée et farinée, 45 min au four à 150°C (thermostat 5).
+    Accompagnez de coulis de tomate et de salade assaisonnée.
+  ]]>
+  </preparation>
+</recette>

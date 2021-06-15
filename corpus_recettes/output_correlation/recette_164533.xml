@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164533">
+  <titre>Canard coco/mangue</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 filets de canard sans peau</p>
+    <p>4 mangues bien mûres</p>
+    <p>400ml de lait de coco</p>
+    <p>3 citrons verts (4 s'ils sont petits)</p>
+    <p>1 cuillère à café de piment d'espelette (à défaut du piment de cayenne)</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les filets de canard et les les mangues en cubes. Faire dorer les cubes de canard à feu vif avec un filet d'huile quelques minutes pour qu'ils soient grillés mais bien rosés au milieu. Saler, ajouter le piment et bien remuer pour répartir les épices.
+    Retirer les morceaux de canard et les disposer sur un papier absorbant sans les frictionner pour conserver les épices. Faire mijoter les cubes de mangue dans le jus de viande auquel vous ajouterez le jus des citrons verts en remuant régulièrement. Une fois le jus de citron quasiment exclusivement évaporé, réduire le feu et ajouter le lait de coco et les morceaux de canard. Ajuster l'assaisonnement le cas échéant et servir après 5-10 minutes, l'objectif étant que le canard réchauffe mais reste rosé.Servir avec un riz basmati ou thaï. L'effet sucré-salé n'est pas trop prononcé pour plaire à la majorité des convives, ajuster la dose de piment en fonction de sa force et des goûts de chacun.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Couper</OPER> les <INGRED id="2">filets</INGRED> de canard et les les <INGRED id="2">mangues</INGRED> en cubes. Faire <OPER id="o_2">dorer</OPER> les cubes de canard à feu vif avec un <INGRED id="1">filet</INGRED> d'huile quelques minutes pour qu'ils soient grillés mais bien rosés au milieu. <OPER id="o_3">Saler</OPER>, <OPER id="o_4">ajouter</OPER> le piment et bien <OPER id="o_5">remuer</OPER> pour répartir les <INGRED id="6">épices</INGRED>. <OPER id="o_6">Retirer</OPER> les morceaux de canard et les <OPER id="o_7">disposer</OPER> sur un papier absorbant sans les <OPER id="o_8">frictionner</OPER> pour conserver les <INGRED id="6">épices</INGRED>. Faire <OPER id="o_9">mijoter</OPER> les cubes de <INGRED id="1">mangue</INGRED> dans le jus de <INGRED id="2">viande</INGRED> auquel vous ajouterez le jus des <INGRED id="4">citrons verts</INGRED> en remuant régulièrement. Une fois le jus de citron quasiment exclusivement évaporé, réduire le feu et <OPER id="o_10">ajouter</OPER> le <INGRED id="4">lait de coco</INGRED> et les morceaux de canard. <OPER id="o_11">Ajuster</OPER> l'assaisonnement le cas échéant et servir après 5 - 10 minutes, l'objectif étant que le canard réchauffe mais <INGRED id="1">reste</INGRED> rosé. Servir avec un <INGRED id="3">riz basmati</INGRED> ou thaï. L'effet sucré - salé n'est pas trop prononcé pour plaire à la majorité des convives, <OPER id="o_12">ajuster</OPER> la dose de <INGRED id="4">piment</INGRED> en fonction de sa force et des goûts de chacun.
+  </annotation>
+  <annotation methode="crf">
+  Couper les <INGRED>filets de canard</INGRED> et les les <INGRED>mangues</INGRED> en cubes <INGRED>.</INGRED> Faire dorer les cubes de <INGRED>canard</INGRED> à feu vif avec un <INGRED>filet</INGRED> d'<INGRED>huile</INGRED> quelques minutes pour qu'ils soient grillés mais bien rosés au milieu <INGRED>.</INGRED> Saler <INGRED>,</INGRED> ajouter le <INGRED>piment</INGRED> et bien remuer pour répartir les <INGRED>épices</INGRED> <INGRED>.</INGRED> Retirer les <INGRED>morceaux</INGRED> de <INGRED>canard</INGRED> et les disposer sur un papier absorbant sans les frictionner pour conserver les <INGRED>épices</INGRED> <INGRED>.</INGRED> Faire mijoter les cubes de mangue dans le <INGRED>jus</INGRED> de <INGRED>viande</INGRED> auquel vous ajouterez le <INGRED>jus</INGRED> des <INGRED>citrons verts</INGRED> en remuant régulièrement <INGRED>.</INGRED> Une fois le <INGRED>jus de citron</INGRED> quasiment exclusivement évaporé <INGRED>,</INGRED> réduire le feu et ajouter le <INGRED>lait de coco</INGRED> et les <INGRED>morceaux</INGRED> de <INGRED>canard</INGRED> <INGRED>.</INGRED> Ajuster l'assaisonnement le cas échéant et servir après 5 - 10 minutes <INGRED>,</INGRED> l'objectif étant que le <INGRED>canard</INGRED> réchauffe mais reste rosé. Servir avec un <INGRED>riz</INGRED> basmati <INGRED>ou</INGRED> thaï <INGRED>.</INGRED> L'effet sucré - salé n'est pas trop prononcé pour plaire à la majorité des convives <INGRED>,</INGRED> ajuster la dose de <INGRED>piment</INGRED> en fonction de sa force et des goûts de chacun.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 18.953995157385*X + 0.0460048426150121</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 412*X + 4</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['filets de canard sans peau', 'filets']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['mangues bien mûres', 'mangues']	 id:2	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['ml de lait de coco', 'ml']	 id:3	 quantité:400	 unité:non_precis	 denombrable:True	 recipient:400*X
+ingredient:['citrons verts', 'citrons']	 id:4	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:["piment d'espelette", 'piment']	 id:5	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:couper	 id:o_1	 ingrédients_ralatifs:['2', '2']	 nombre_opération_atomique:4*X+4*X	 temps:4*X*1+4*X*1	 recipient:1
+operation:dorer	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:4*X*1	 recipient:0
+operation:saler	 id:o_3	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_5	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_6	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_7	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:frictionner	 id:o_8	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_9	 ingrédients_ralatifs:['1', '2', '4']	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajuster	 id:o_11	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajuster	 id:o_12	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

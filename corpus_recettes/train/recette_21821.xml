@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21821">
+  <titre>Christmas cake</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>125 g de beurre</p>
+    <p>125 g de cassonade</p>
+    <p>2 oeufs</p>
+    <p>125 g de farine</p>
+    <p>200 g de raisins de Corinthe</p>
+    <p>50 g d'écorces d'orange confites</p>
+    <p>25 g de cerises confites</p>
+    <p>25 g d'amandes effilées</p>
+    <p>1 cuillère à café de mélange aux 4 épices</p>
+    <p>1 poignée de mie de pain</p>
+    <p>3 cuillères à soupe de miel</p>
+    <p>3 cl de cognac</p>
+    <p>Pour le glaçage :</p>
+    <p>500 g de sucre glace tamisé</p>
+    <p>2 blancs d'oeuf</p>
+    <p>1/2 citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 170°C (thermostat 5-6).
+    Dans un saladier, fouetter le beurre ramolli avec le sucre, puis ajouter les oeufs entiers un à un.
+    A part dans un autre récipient, mélanger la farine, les raisins de Corinthe, les oranges et cerises confites, les amandes effilées, le miel, le 4 épices et le cognac. Bien mélanger et incorporer la préparation précédente (beurre-sucre-oeufs). Retravailler le tout pour obtenir une pâte bien homogène.
+    Beurrer un moule rond et le garnir d'une double couche de papier sulfurisé beurré. Verser la pâte dans le moule et enfourner pour 1h30 à 170°C (thermostat 5-6).
+    Préparer un glaçage : battre les blancs en neige, verser le jus de citron et incorporer délicatement le sucre glace pour obtenir une pâte lisse.
+    Lorsque le cake est refroidi, le recouvrir de glaçage sur un centimètre d'épaisseur. Lisser à la spatule et décorer le cake selon vos goûts.
+  ]]>
+  </preparation>
+</recette>

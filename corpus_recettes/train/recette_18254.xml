@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18254">
+  <titre>Pipe rigate sauce bolognaise</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500g de pâtes pipe rigate (vous savez les grosses pâtes en forme d'escargot...!!)</p>
+    <p>sauce tomate (environ 300g)</p>
+    <p>300 g de viande hachée</p>
+    <p>1 oignon</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - faites revenir un oignon dans un peu d'huile
+    rajouter la viande hachée 
+    lorsque la viande est cuite, rajouter la sauce  tomate
+    laisser le tout mijoter à feu doux, le temps de faire cuire les pâtes
+    lorsque les pâtes sont cuites versez-y la sauce
+    Vous pouvez alors agrémenter avec du fromage râpé ou du parmesan!!
+    Bon appétit!!!!
+  ]]>
+  </preparation>
+</recette>

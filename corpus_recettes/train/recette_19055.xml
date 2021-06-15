@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19055">
+  <titre>Salade p'tite moune</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 filets de poulet</p>
+    <p>1 poivron rouge et 1 vert</p>
+    <p>125 g de noix</p>
+    <p>200 g d'emmental</p>
+    <p>2 pommes (plutôt sucrées) </p>
+    <p>1 salade vertepour la sauce :</p>
+    <p>1 yaourt nature</p>
+    <p>1 cuillère à soupe de moutarde</p>
+    <p>4 cuillères à soupe d'huile</p>
+    <p>ail, oignons, </p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper le fromage, les poivrons, les pommes en dés. 
+    Réserver. 
+    Faire cuire les filets de poulet en ajoutant une gousse d'ail, 1/4 d'oignon, du sel et du poivre. 
+    Laisser refroidir. 
+    Hacher les noix et garder quelques noix entières pour la décoration. 
+    Découper le poulet en morceaux. 
+    Disposer quelques feuilles de salade dans les assiettes. 
+    Recouvrir du mélange fromage/poivrons/pommes/poulet. 
+    Dans un bol, mélanger le yaourt et les noix hachées. 
+    Ajouter l'huile et la moutarde. 
+    Assaisonner. 
+    Verser la sauce dans les assiettes et décorer de quelques noix. 
+    Bon appétit !
+    Pour alléger ce plat, on peut remplacer l'huile par de l'eau. vin Anjou rouge
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19226">
+  <titre>Gâteau aux pommes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 œufs</p>
+    <p>125 g de beurre mou</p>
+    <p>250 g de sucre fin</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>250 g de farine fine</p>
+    <p>1 sachet de levure chimique (baking powder)</p>
+    <p>1 tasse de lait parfumé au calvados</p>
+    <p>3 pommes (Jonagold/Golden/...)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre les œufs, beurre, sucres aux fouets électriques pendant 5-10 min. Incorporer la farine, le baking powder et le lait, bien battre ce mélange pour obtenir une pâte sans grumeau.
+    Verser cette pâte dans un moule à gâteau préalablement beurré et fariné. Ajouter les pommes (pelées et coupées en quartiers ou tranches épaisses). Faire cuire à four chaud (200°C ) environ 45 min. Vérifier la cuisson du gâteau en le piquant à l'aide d'une pointe en bois (la pique doit ressortir sèche). Faire refroidir ce gâteau sur une claie à tarte. 
+    Bon appétit.
+  ]]>
+  </preparation>
+</recette>

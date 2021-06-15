@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18788">
+  <titre>Radis au foie de porc salé</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g foie de porc salé</p>
+    <p>500 g radis</p>
+    <p>huile, vinaigre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les radis en fines lamelles, saler (peu), poivrer. 
+    Découper le foie en petits cubes, les faire revenir quelques instants dans une poêle avec l'huile. 
+    Lorsqu'ils sont dorés, jeter un filet de vinaigre, ajouter les radis et bien mélanger. 
+    Servir tiède.
+    Ceci est une spécialité tarnaise, que l'on retrouve beaucoup à Albi Gaillac
+  ]]>
+  </preparation>
+</recette>

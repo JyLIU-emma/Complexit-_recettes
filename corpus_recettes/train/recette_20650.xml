@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20650">
+  <titre>Mousse au chocolat sur compotée de poires</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de poires</p>
+    <p>100 g de chocolat</p>
+    <p>3 oeufs</p>
+    <p>25 g de beurre</p>
+    <p>150 g de sucre</p>
+    <p>1 sachet de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez, épépinez et coupez les poires. Faites les cuire en compote avec 10 cl d'eau, le sucre vanillé et 75 g de sucre.
+    Ecrasez bien la compote et répartissez-la dans 4 ramequins.
+    Faites fondre le chocolat avec le beurre.
+    Retirez du feu et ajoutez les jaunes d'oeuf et 75 g de sucre en remuant vivement. Incorporez ensuite les blancs battus en neige.
+    Répartissez la mousse sur la compote de poires et réservez au frais au moins 4 h avant de servir.
+  ]]>
+  </preparation>
+</recette>

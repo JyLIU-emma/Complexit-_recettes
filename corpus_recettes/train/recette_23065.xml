@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23065">
+  <titre>Poulet à la bière</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de raisins secs</p>
+    <p>5 cl de genièvre </p>
+    <p>25 cl de bière blanche</p>
+    <p>1 poulet entier coupé en morceaux</p>
+    <p>200 g de lard fumé maigre</p>
+    <p>50 g de beurre</p>
+    <p>200 g d'oignons grelots égouttés</p>
+    <p>sel, poivre noir</p>
+    <p>4 gousses d’ail</p>
+    <p>laurier, origan, branche de thym</p>
+    <p>1 à 2 cuillères de fécule de maïs</p>
+    <p>2 cuillères à café de vergeoise</p>
+    <p>1 cube de bouillon de volaille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1 ) Tremper les raisins secs avec le genièvre. 
+    2 ) Couper en lamelles le lard et faire frire le dans une poêle jusqu’à qu’elles soient croustillantes. Saupoudrez-les sur un papier absorbant. 
+    3 ) Faire fondre le beurre et faire sauter les petits oignons grelots jusqu’à ce qu’ils soient dorés. 
+    4 ) Assaisonner les morceaux de poulets et dorer dans la poêle où vous avez fait frire les oignons.  
+    5 ) Ajouter les dents d’ail triturées, un bouquet garni, la fécule de maïs et mélanger. 
+    6 ) Ajouter les raisins secs avec le genièvre, le lard et les oignons. 
+    7 ) Ajouter la bière, le sucre, le bouillon cube jusqu'à couvrir tout le poulet ; . 
+    8 ) Laisser bouillir lentement, dans la casserole sans couvrir, jusqu'à ce que le poulet soit tendre. Si le poulet est cuit, retirez-le et laisser bouillir la sauce jusqu'à ce qu’elle s’épaississe.On peut accompagner le poulet avec une purée faite avec de la crème fraîche
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10924">
+  <titre>Galette de riz au carré frais et saumon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 carré frais</p>
+    <p>6 galettes de riz</p>
+    <p>3 tranches de saumon fumé</p>
+    <p>ciboulette (fraîche ou déshydratée)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un bol, écrasez vos carrés frais et incorporez de la ciboulette.
+    Faire 3 toasts avec les galettes de riz :
+    sur une galette de riz, étalez la préparation carré frais-ciboulette et y rajoutez une tranche de saumon et recouvrir d'ne galette de riz.
+    Savourez la douceur et la fraîcheur du carré frais et le bon goût du saumon sur la galette de riz.
+  ]]>
+  </preparation>
+</recette>

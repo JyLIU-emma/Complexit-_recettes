@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26704">
+  <titre>Yaourts à la cocotte-minute</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 yaourt nature (ou du ferment lactique)</p>
+    <p>1 l de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites bouillir le lait dans une casserole puis laissez refroidir jusqu'à 50°C.
+    Pendant ce temps, mettez la cocotte-minute sur le feu avec un peu d'eau et laissez monter en pression. 
+    Mélangez soigneusement le lait au yaourt battu et remplissez les pots.
+    Ouvrez la cocotte, videz-la de son eau bouillante et placez vos pots de yaourt à l'intérieur, éventuellement les uns sur les autres. 
+    Fermez bien la cocotte. Laissez-y les pots pendant 5 heures. Ensuite, retirez-les et placez-les au frais.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20110">
+  <titre>Gratin de moules farcies au comté et à l'ail</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>24 grosses moules</p>
+    <p>150 g de comté râpé</p>
+    <p>1/2 verre de persil haché</p>
+    <p>1 échalote</p>
+    <p>1 gousse d'ail</p>
+    <p>2 tranches de pain</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four sur la position grill.
+    Nettoyer les moules en les frottant sous l'eau froide, puis les déposer dans une casserole et les faire ouvrir à sec sur feu vif.
+    Dès qu'elles sont ouvertes, les laisser refroidir un peu, puis leur ôter les coquilles en ne conservant que celles contenant les moules.
+    Filtrer le jus de cuisson et émietté le pain grillé pour obtenir une chapelure.
+    Placer les moules dans un plat allant au four, puis les poivrer légèrement et les réserver.
+    Peler l'ail et l'échalote, puis les déposer dans le bol d’un mixeur avec le persil préalablement lavé.
+    Mouiller le hachis précédent de jus de cuisson des moules, le mélanger avec la chapelure puis les garnir d’une cuillère à soupe de cette préparation
+    Les parsemer de comté râpé, puis les enfourner sur le grill et les faire gratiner 10 à 15 min.
+  ]]>
+  </preparation>
+</recette>

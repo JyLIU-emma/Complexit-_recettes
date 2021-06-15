@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24189">
+  <titre>Poulet basquaise à la cocotte</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet d'1,2 kg découpé en morceaux</p>
+    <p>700 g de tomates</p>
+    <p>700 g de poivrons (rouges et verts)</p>
+    <p>2 oignons</p>
+    <p>4 gousses d'ail</p>
+    <p>70 g d'olives noires</p>
+    <p>1 feuille de laurier</p>
+    <p>1 branche de thym</p>
+    <p>2 feuilles de sauge</p>
+    <p>2 cuillerées à soupe de paprika doux</p>
+    <p>4 cuillerées à soupe d'huile d'olive</p>
+    <p>20 g de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites chauffer le beurre et l'huile dans une cocotte.
+    Faites-y dorer les morceaux de poulet salés et poivrés.
+    Saupoudrez de paprika et ajoutez les les oignons et l'ail finement hachés.
+    Laissez blondir à feu doux.
+    Ajoutez ensuite les tomates pelées, épépinées et coupées en morceaux, et les poivrons coupés en lanières.
+    Déposez les herbes et laissez mijoter 45 minutes à feu doux.
+    Couvrez la cocotte et poursuivez la cuisson 40 min toujours à feu doux.
+    Rajoutez les olives dans la cocotte, mélangez et servez.
+    Si vous souhaitez ajoutez un accompagnement, du riz ou des pâtes fraîches feront bien l'affaire. Des pommes de terre vapeur également.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20104">
+  <titre>Cake aux herbes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1/4 baguette de pain rassis (ou 6 biscottes) </p>
+    <p>2 yaourts nature</p>
+    <p>100 g de parmesan râpé</p>
+    <p>1 bouquet de basilic</p>
+    <p>1 bouquet de persil</p>
+    <p>1 bouquet de ciboulette</p>
+    <p>1 1/2 bouquet de menthe</p>
+    <p>3 oeufs entiers</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>100 g de pignons de pin (ou noix concassées) </p>
+    <p>1 belle gousse d'ail</p>
+    <p>sel poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixer l'ensemble des herbes, la gousse d'ail ainsi que le pain (passez le au besoin au grille-pain afin qu'il se réduise bien en chapelure). 
+    Mélanger avec les yaourts, l'huile d'olive et les pignons et ajouter en dernier les 3 oeufs battus. L'ensemble ne doit pas être trop liquide (sinon ajouter un peu de pain émietté).
+     
+    Préchauffer le four thermostat 180°C et laisser cuire 45 mn. 
+    Sortez, laissez refroidir. Servez froid, voire même frais.
+    En entrée, délicieux avec un coulis de tomate. Découpé en petits cubes pour l'apéritif.
+    On peut varier les différents composants des herbes : roquette, cresson, j'ai même essayé les feuilles de capucines : petit goût poivré très agréable.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22269">
+  <titre>Pâte au basilic pour quiche</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>basilic</p>
+    <p>5 cuillères à soupe d'huile</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, mélanger la farine, deux pincées de sel, quelques feuilles de basilic ciselées et l'huile. 
+    Mettre les jaunes d'oeufs et un demi-verre d'eau froide et mélanger pour obtenir une pâte souple. 
+    Pétrissez la pâte, étalez-la et garnissez-en le moule beurré. 
+    Garnir selon vos souhaits (légumes et viandes précuits). 
+    Cuire 30 à 45 mn.
+  ]]>
+  </preparation>
+</recette>

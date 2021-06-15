@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25431">
+  <titre>Soufflé au comté</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de comté </p>
+    <p>8 oeufs </p>
+    <p>400 g de crème </p>
+    <p>40 cl de lait </p>
+    <p>4 cuillères à soupe de maïzena </p>
+    <p>beurre </p>
+    <p>muscade</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la maïzena et le lait, et porter le tout à ébullition. Ajouter le fromage et la crème. Assaisonner et incorporer un peu de muscade râpée. 
+    Préchauffer le four à 180°C (thermostat 6).
+    Incorporer les jaunes d'œufs et les blancs montés en neige. 
+    Beurrer un moule à soufflé et y verser la préparation. Enfourner pendant 35 min. 
+  ]]>
+  </preparation>
+</recette>

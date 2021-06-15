@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24703">
+  <titre>Chèvre au miel</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 petites tommes de chèvre</p>
+    <p>8 tranches de jambon cru (serrano par exemple) </p>
+    <p>miel</p>
+    <p>lavande</p>
+    <p>beurre</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre un peu de miel sur les tommes, parsemer de lavande (pas trop), emballer dans le jambon cru sans laisser d'ouverture. 
+    Rôtir dans le mélange beurre/huile d'olive, environ 4 mn de chaque côté. 
+    Accompagner de compote de poires et d'un caramel au vinaigre balsamique.
+    Accompagner de compote de poire et d'un caramel au vinaigre balsamique. gewürztraminer
+  ]]>
+  </preparation>
+</recette>

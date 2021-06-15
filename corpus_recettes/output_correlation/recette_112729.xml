@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="112729">
+  <titre>Salade en couches</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>-300 gr de maïs (grosse boite)</p>
+    <p>-400 gr d'ananas en morceau (petite boite)</p>
+    <p>-300 gr de dés de jambon ou de volaille</p>
+    <p>-3 pommes Golden coupées en fines lamelles</p>
+    <p>-400 gr de mayonnaise (gros pot ou maison)</p>
+    <p>-2 ou 3 poireaux suivant la taille coupés en fine lamelles</p>
+    <p>1/4 de mimolette rapé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un grand saladier transparent mettre les ingrédients dans l'odre énumérés:maïs,ananas,jambon,pommes,mayonnaise,poireaux et la mimolette pour finir.
+    A préparer la vieille et mettre du film transparent pour ne pas que le fromage séche ou le mettre au dernier moment au choix.Trés pratique pour les pique-nique ou buffet froid
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Dans un grand saladier transparent <OPER id="o_1">mettre</OPER> les ingrédients dans l'odre énumérés : <INGRED id="1">maïs</INGRED>, <INGRED id="2">ananas</INGRED>, <INGRED id="4">jambon</INGRED>, <INGRED id="4">pommes</INGRED>, <INGRED id="5">mayonnaise</INGRED>, <INGRED id="6">poireaux</INGRED> et la <INGRED id="7">mimolette</INGRED> pour finir. A <OPER id="o_2">préparer</OPER> la vieille et <OPER id="o_3">mettre</OPER> du film transparent pour ne pas que le fromage séche ou le mettre au dernier moment au choix. Trés pratique pour les pique-nique ou buffet froid
+  </annotation>
+  <annotation methode="crf">
+  Dans un grand saladier transparent mettre les ingrédients dans l'odre énumérés <INGRED>:</INGRED> <INGRED>maïs</INGRED> <INGRED>,</INGRED> ananas <INGRED>,</INGRED> <INGRED>jambon</INGRED> <INGRED>,</INGRED> <INGRED>pommes</INGRED> <INGRED>,</INGRED> <INGRED>mayonnaise</INGRED> <INGRED>,</INGRED> <INGRED>poireaux</INGRED> et la mimolette pour finir <INGRED>.</INGRED> A préparer la vieille et mettre du film transparent pour ne pas que le <INGRED>fromage</INGRED> séche <INGRED>ou</INGRED> le mettre au dernier moment au choix <INGRED>.</INGRED> Trés pratique pour les pique-nique <INGRED>ou</INGRED> buffet froid
+  </annotation>
+  <complexite>
+    <temps>f(X) = 1.18181818181818*X + 1.81818181818182</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 4*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['maïs']	 id:1	 quantité:non_precis	 unité:gr de	 denombrable:False	 recipient:1
+ingredient:['ananas en morceau', 'ananas']	 id:2	 quantité:non_precis	 unité:gr d'	 denombrable:False	 recipient:1
+ingredient:['dés de jambon', 'dés']	 id:3	 quantité:non_precis	 unité:gr de	 denombrable:False	 recipient:1
+ingredient:['-3 pommes Golden coupées en fines lamelles', '-3']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['mayonnaise']	 id:5	 quantité:non_precis	 unité:gr de	 denombrable:False	 recipient:1
+ingredient:['poireaux suivant la taille coupés en fine lamelles', 'poireaux']	 id:6	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['mimolette rapé', 'mimolette']	 id:7	 quantité:1/4	 unité:non_precis	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mettre	 id:o_1	 ingrédients_ralatifs:['1', '2', '4', '4', '5', '6', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:préparer	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:mettre	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

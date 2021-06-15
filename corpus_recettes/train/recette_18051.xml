@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18051">
+  <titre>Tarte au thon au poivron rouge</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>1 boîte de thon (150 g)</p>
+    <p>2 oignons</p>
+    <p>3 oeufs</p>
+    <p>20 cl de crème fraîche épaisse</p>
+    <p>1/2 poivron rouge</p>
+    <p>muscade en poudre</p>
+    <p>huile, sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four (th 6)
+    Pendant ce temps, faire revenir les oignons dans un peu d'huile jusqu'à ce qu'ils se colorent. 
+    Battre les oeufs en omelette. 
+    Mélanger les oignons, les oeufs battus, le thon émietté, la crème fraîche. 
+    Ajouter le poivron émincé très fin. 
+    Assaisonner de sel, poivre et noix de muscade. 
+    Verser sur la pâte (étalée dans un plat à tarte) et faire cuire environ 40 min, jusqu'à ce que le dessus de la pâte soit coloré.
+    A servir tiède ou froid.(Pour 4 en plat principal avec une salade - ou pour 6 en entrée) Un rosé bien frais
+  ]]>
+  </preparation>
+</recette>

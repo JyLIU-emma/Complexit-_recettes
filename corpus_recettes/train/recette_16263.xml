@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16263">
+  <titre>Gâteau à l'ananas facile</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g d'ananas en tranches, en boîte</p>
+    <p>4 oeufs</p>
+    <p>250 g de sucre en poudre</p>
+    <p>150 g de beurre</p>
+    <p>250 g de farine</p>
+    <p>3 cl de rhum</p>
+    <p>1 citron</p>
+    <p>1 sachet de levure Pour le caramel :</p>
+    <p>125 g de sucre</p>
+    <p>4 cuillères à soupe d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Egoutter les tranches d'ananas et en garder le sirop. Préparer le caramel.
+    Le verser dans un moule à manqué, bien napper le fond. Préchauffer le four à 180°C.
+    Poser sur le caramel des tranches d'ananas pour recouvrir le fond du moule. Passer le reste des tranches au mixer.
+    Fouetter les oeufs avec le sucre en un mélange mousseux, incorporer le beurre ramolli et coupé en parcelles, la farine, la moitié du rhum, le jus du citron, la levure et la purée d'ananas.
+    Bien mélanger le tout et le verser dans le moule.
+    Cuire 45 à 50 min. Laisser tiédir un peu avant de démouler et d'arroser le gâteau du reste de rhum et du sirop d'ananas.
+  ]]>
+  </preparation>
+</recette>

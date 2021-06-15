@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16730">
+  <titre>Tarte au pommes et au citron</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 pommes (Golden)</p>
+    <p>3 citrons</p>
+    <p>1 pâte feuilletée</p>
+    <p>jus d'orange</p>
+    <p>cannelle</p>
+    <p>sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire préchauffer le four (thermostat 6/7 - 200°C).
+    Déposer dans un plat la pâte feuilletée. Piquer le fond avec une fourchette.
+    Eplucher les pommes et les couper en tout petits dés. Disposer les pommes sur la pâte. Presser un citron sur les pommes (veiller à enlever les pépins!).
+    Verser 3 cuillères à soupe de jus d'orange. Nettoyer les 2 citrons restant, les couper en lamelles fines, les disposer sur les pommes.
+    Saupoudrer de sucre glace et de cannelle
+    Mettre au four 25 mn.
+    Servir tiède.
+    Vous pouvez presser à nouveau un citron une fois que la tarte est sortie du four, si vous aimez l'acidité! En cas d'urgence, utilisez de la compote de pommes.
+  ]]>
+  </preparation>
+</recette>

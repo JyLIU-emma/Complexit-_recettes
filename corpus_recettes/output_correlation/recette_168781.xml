@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168781">
+  <titre>Bouchées de crevettes (ou Shao mai)</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400g de crevettes roses cuites et décortiquées</p>
+    <p>1 c.s. d'aïl haché</p>
+    <p>1 c.s. de gingembre frais haché</p>
+    <p>environ 30 galettes à aumônières (ou à raviollis chinois)</p>
+    <p>2 c.s. d'huile de sésame (irremplaçable!!)</p>
+    <p>1 c.s. de farine de maïs (ou farine de blé)</p>
+    <p>1 c.s. de sauce soja</p>
+    <p>1 c.c de sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1 - hacher finement les crevettes décortiquées (avec un hachoir électrique c'est parfait)et les mettre dans un saladier
+    2 - ajouter aux crevettes l'aïl, le gingembre, la farine de maïs, l'huile de sésame et bien mélanger le tout
+    3 - ajouter ensuite l'oeuf battu, le sel et la sauce soja et mélanger bien en veillant à ce que le tout soit bien homogène
+    4 - découper une des feuille à raviolli en rond et déposer au centre une bonne c.c. de la préparation puis replier la feuille autour en forme d'aumônière (on doit voir la farce apparaître dessus, le tout forme une bouchée ccylindrique)
+    5 - déposer les bouchées dans un panier à vapeur en bambou sur du papier sulfurisé légèrement huilé (ou dans le panier vapeur d'une cocotte minute)et déposer le panier sur une casserole d'eau bouillante pendant 20 à 25 min...
+    6 - A servir avec de la sauce nuoc man ou bien de la sauce soja (2 c.c.)à laquelle vous ajouter une petite c.c. de purée de piment et 
+    2c.c. de jus de fruitVoilà, c'est prêt ! Avis aux amateurs de shao mai... votre traiteur Thaï n'a plus qu'à bien se tenir !!!
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  1 - <OPER id="o_1">hacher</OPER> finement les <INGRED id="4">crevettes décortiquées</INGRED> ( avec un hachoir électrique c'est parfait)et les <OPER id="o_2">mettre</OPER> dans un <INGRED id="1">saladier</INGRED> 2 - <OPER id="o_3">ajouter</OPER> aux <INGRED id="3">crevettes</INGRED> l'aïl, le <INGRED id="7">gingembre</INGRED>, la <INGRED id="4">farine</INGRED> de <INGRED id="1">maïs</INGRED>, l'<INGRED id="8">huile de sésame</INGRED> et bien <OPER id="o_4">mélanger</OPER> le tout 3 - <OPER id="o_5">ajouter</OPER> ensuite l'<INGRED id="7">oeuf</INGRED> battu, le <INGRED id="7">sel</INGRED> et la sauce soja et <OPER id="o_6">mélanger</OPER> bien en veillant à ce que le tout soit bien homogène 4 - <OPER id="o_7">découper</OPER> une des feuille à raviolli en rond et <OPER id="o_8">déposer</OPER> au centre une bonne c.c. de la <INGRED id="4">préparation</INGRED> puis <OPER id="o_9">replier</OPER> la feuille autour en forme d'aumônière ( on doit <OPER id="o_10">voir</OPER> la farce <OPER id="o_11">apparaître</OPER> dessus, le tout forme une bouchée ccylindrique ) 5 - <OPER id="o_12">déposer</OPER> les bouchées dans un panier à vapeur en bambou sur du papier sulfurisé légèrement huilé ( ou dans le panier vapeur d'une <INGRED id="3">cocotte</INGRED> minute)et <OPER id="o_13">déposer</OPER> le panier sur une casserole d'<INGRED id="8">eau</INGRED> bouillante pendant 20 à 25 min... 6 - A servir avec de la <INGRED id="5">sauce</INGRED> <INGRED id="6">nuoc man</INGRED> ou bien de la sauce soja ( 2 c.c.)à laquelle vous <OPER id="o_14">ajouter</OPER> une <INGRED id="2">petite</INGRED> c.c. de <INGRED id="5">purée</INGRED> de <INGRED id="8">piment</INGRED> et 2c.c. de <INGRED id="8">jus</INGRED> de fruitVoilà, c'est prêt ! Avis aux amateurs de shao mai... votre traiteur Thaï n'a plus qu'à bien se tenir ! ! !
+  </annotation>
+  <annotation methode="crf">
+  1 - hacher <INGRED>finement</INGRED> les <INGRED>crevettes</INGRED> décortiquées ( avec un hachoir électrique c'est parfait)et les mettre dans un saladier 2 - ajouter aux <INGRED>crevettes</INGRED> l'aïl <INGRED>,</INGRED> le <INGRED>gingembre</INGRED> <INGRED>,</INGRED> la <INGRED>farine de maïs</INGRED> <INGRED>,</INGRED> l'<INGRED>huile</INGRED> de sésame et bien mélanger le tout 3 - ajouter ensuite l'<INGRED>oeuf</INGRED> battu <INGRED>,</INGRED> le <INGRED>sel</INGRED> et la <INGRED>sauce soja</INGRED> et mélanger bien en veillant à ce que le tout soit bien homogène 4 - découper une des feuille à raviolli en rond et déposer au centre une bonne c.c. de la préparation puis replier la feuille autour en forme d'aumônière ( on doit voir la farce apparaître dessus <INGRED>,</INGRED> le tout forme une bouchée ccylindrique ) 5 - déposer les <INGRED>bouchées</INGRED> dans un panier à vapeur en bambou sur du <INGRED>papier sulfurisé</INGRED> légèrement huilé ( <INGRED>ou</INGRED> dans le panier vapeur d'une cocotte minute)et déposer le panier sur une casserole d'<INGRED>eau</INGRED> bouillante pendant 20 à 25 min... 6 - A servir avec de la <INGRED>sauce</INGRED> nuoc man <INGRED>ou</INGRED> bien de la <INGRED>sauce soja</INGRED> ( 2 c.c.)à laquelle vous ajouter une <INGRED>petite</INGRED> c.c <INGRED>.</INGRED> de <INGRED>purée</INGRED> de <INGRED>piment</INGRED> et 2c.c. de <INGRED>jus</INGRED> de fruitVoilà <INGRED>,</INGRED> c'est prêt ! Avis aux amateurs de shao mai... votre traiteur Thaï n'<INGRED>a</INGRED> plus qu'à bien se tenir ! ! !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 13.5*X + 1.5</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 36*X + 12</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['crevettes roses cuites', 'crevettes']	 id:1	 quantité:400	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['décortiquées']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["c.s . d'aïl haché", 'c.s']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['c.s . de gingembre frais haché', 'c.s']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['galettes à aumônières', 'galettes']	 id:5	 quantité:30	 unité:non_precis	 denombrable:True	 recipient:30*X
+ingredient:["c.s . d'huile de sésame", 'c.s']	 id:6	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['c.s . de farine de maïs', 'c.s']	 id:7	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['c.s . de sauce soja', 'c.s']	 id:8	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:9	 quantité:1	 unité:c de	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:hacher	 id:o_1	 ingrédients_ralatifs:['4', '1']	 nombre_opération_atomique:1*X+1	 temps:1*X*5+1*X*5	 recipient:1
+operation:mettre	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_3	 ingrédients_ralatifs:['3', '7', '4', '1', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['7', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:découper	 id:o_7	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1*X*1	 recipient:1
+operation:déposer	 id:o_8	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:replier	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:voir	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:apparaître	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déposer	 id:o_12	 ingrédients_ralatifs:['3', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:déposer	 id:o_13	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_14	 ingrédients_ralatifs:['2', '5', '8', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

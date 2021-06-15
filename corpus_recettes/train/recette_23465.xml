@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23465">
+  <titre>CHAUSSONS AUX FRUITS D’AUTOMNE</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de pâte brisée</p>
+    <p>200 g de pommes</p>
+    <p>50 g de raisins secs</p>
+    <p>6 cuillères à soupe d'eau</p>
+    <p>1 cuillère à soupe de rhum</p>
+    <p>50 g de figues séchées</p>
+    <p>50 g de dattes</p>
+    <p>1 cuillère à soupe d'amandes en poudre</p>
+    <p>60 g de sucre roux</p>
+    <p>4 noisettes de beurre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Former 4 boules avec la pâte brisée et les abaisser sur un diamètre de 15 cm.
+    Préchauffer le four à 210°C (thermostat 7).
+    Détailler les pommes en dés. Plonger les raisins secs dans un saladier avec l’eau et le rhum. 
+    Hacher les figues et les dattes. 
+    Mélanger les pommes, les raisins, les figues, les dattes, la poudre d’amande et le sucre roux dans un saladier, et déposer un peu de cette préparation au centre des disques de pâte.
+    Déposer un peu de beurre sur chaque préparation et plier le chausson. Sceller les bords avec un peu d’eau et enfourner pendant 20 min.
+  ]]>
+  </preparation>
+</recette>

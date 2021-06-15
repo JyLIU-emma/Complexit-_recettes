@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26687">
+  <titre>GLACE AUX MARRONS</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boîte de 500 g de crème de marron de la meilleure qualité </p>
+    <p>1 boîte de 410 ml de lait concentré non sucré</p>
+    <p>quelques marrons glacés en miettes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la crème de marron et le lait. 
+    Ajouter les débris de marrons glacés. 
+    Mettre la préparation dans un plat allant au congélateur et laisser prendre la glace pendant 4 ou 5 h minimum.
+    On peut ajouter à la place des marrons glacés des débris de meringue.
+  ]]>
+  </preparation>
+</recette>

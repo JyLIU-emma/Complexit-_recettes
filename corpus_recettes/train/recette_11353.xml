@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11353">
+  <titre>Lapin à l'Italienne</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 lapin coupé en morceaux</p>
+    <p>beurre et huile</p>
+    <p>sel et poivre</p>
+    <p>feuilles de basilic et de sauge</p>
+    <p>1 oignon</p>
+    <p>1 tomate pelée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer l'huile et le beurre dans une cocotte.Y faire rissoler les morceaux de lapin de tous côtés. Saler et poivrer.
+    Ajouter l'oignon coupé en quatre et les herbes.
+    Ajouter un petit verre d'eau et gratter le fond de la cocotte pour décoller les morceaux de lapin qui auraient adhéré.Laisser cuire 45 minutes en remuant de temps à autre et en ajoutant de l'eau si nécessaire.
+    Ajouter la tomate pelée et l'écraser. Laisser cuire encore 15 minutes.C'est très bon aussi avec du poulet.
+    Servir avec de la purée de pommes de terre ou des frites.
+  ]]>
+  </preparation>
+</recette>

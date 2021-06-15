@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22083">
+  <titre>Feuilleté de saumon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 tranches de saumon en conserve</p>
+    <p>1 pâte feuilletté</p>
+    <p>3 échalotes</p>
+    <p>3 oeufs</p>
+    <p>20 cl de crème fraîche</p>
+    <p>persil, sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four Th 7 (210°C). 
+    Tapiser le fond du moule à cake avec la pâte feuilletée. 
+    Mixer tout les ingrédients ensemble. 
+    Déposer le mélange sur la pâte feuilletée. 
+    Mettre au four 35 à 40 mn
+    bon appétit
+  ]]>
+  </preparation>
+</recette>

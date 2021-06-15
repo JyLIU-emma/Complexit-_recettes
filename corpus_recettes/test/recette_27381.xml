@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27381">
+  <titre>Carry de poulet facile</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 cuisses (hauts de cuisse) de poulet</p>
+    <p>1 boîte de tomates pelées</p>
+    <p>2 oignons</p>
+    <p>50 cl de lait de coco (non sucré) </p>
+    <p>1 cuillère à soupe de curry en poudre</p>
+    <p>1 fleur d'anis étoilé (ou une cuillère à café de pastis) </p>
+    <p>persil</p>
+    <p>sel, poivre</p>
+    <p>huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les oignons dans une cocotte puis faire revenir le poulet. 
+    Ajouter tous les autres ingrédients pour la sauce (lait de coco, tomates, épices, sel, poivre). 
+    Mélanger puis couvrir et laisser mijoter en remuant de temps en temps jusqu'à ce que le poulet soit bien cuit. 
+    Servir avec du riz blanc. 
+    Peut être accompagné de petites coupelles contenant par exemple: rondelles de bananes, quartiers d'orange ou de pomme, morceaux d'avocat, cacahuètes pilées...
+    La même recette peut être utilisée avec du poisson ou n'importe quels autres morceaux de poulet.
+  ]]>
+  </preparation>
+</recette>

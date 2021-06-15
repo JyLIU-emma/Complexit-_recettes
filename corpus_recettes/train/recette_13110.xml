@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13110">
+  <titre>Knedele</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de farine</p>
+    <p>1 oeuf</p>
+    <p>1 pincée de levure chimique</p>
+    <p>1 pincée de sel</p>
+    <p>1 verre de mélange eau et lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire un puit dans la farine , y mettre les oeufs , le sel, la levure, remuer pour commencer à mélanger, rajouter au fur et à mesure le liquide pour obtenir une pâte ni ferme ni coulante.
+    Prendre une petite cuillère et déposer de petites quantités dans de l'eau bouillante, cuire 8 à 10 minutes.
+    Servir avec des lardons rissolés et de la crème.
+    Spécialité lorraine.
+  ]]>
+  </preparation>
+</recette>

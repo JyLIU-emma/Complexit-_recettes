@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24193">
+  <titre>Boeuf sauté au poivre et aux oignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de boeuf (filet ou faux-filet)</p>
+    <p>2 cuillères à soupe d'oignons hachés</p>
+    <p>40 g de beurre</p>
+    <p>250 g de champignons émincés</p>
+    <p>20 cl de crème fraîche</p>
+    <p>sel</p>
+    <p>poivre noir en grains</p>
+    <p>noix de muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez la viande en tranches d'1 cm d'épaisseur. Assaisonnez de poivre grossièrement concassé, faites-le pénétrer dans la viande en aplatissant la viande au rouleau à pâtisserie.
+    Faites blondir les oignons dans la moitié du beurre. Retirez-les de la poêle et remplacez par les tranches de boeuf. Saisissez-les à feu vif sur chaque face, puis retirez-les de la poêle et gardez au chaud.
+    Rajoutez le reste du beurre dans la poêle, faites-y sauter les champignons émincés. Remettez la viande et les oignons. Salez et saupoudrez de muscade râpée.
+    Rajoutez la crème, remuez un peu laissez réchauffer quelques minutes.
+    Accompagnez de riz ou de purée de carottes.
+  ]]>
+  </preparation>
+</recette>

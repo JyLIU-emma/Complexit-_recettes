@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21406">
+  <titre>Potage de légumes aux orties</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>750 g de feuilles d'orties blanches</p>
+    <p>4 carottes</p>
+    <p>2 oignons</p>
+    <p>2 poireaux</p>
+    <p>2 pommes de terre</p>
+    <p>2 gousses d'ail</p>
+    <p>45 g de beurre</p>
+    <p>37,5 cl de lait</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher les orties, l'oignon et l'ail.
+    Emincer finement les carottes, les pommes de terre et les poireaux.
+    Faire revenir l'ensemble des légumes dans le beurre pendant 5 minutes. Saler, poivrer puis recouvrir d'eau.
+    Couvrir et cuire pendant 30 minutes.
+    Ajouter le lait et poursuivre la cuisson durant 30 minutes.
+    Mixer et servir.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19015">
+  <titre>Bûche de Noël</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour le gâteau roulé :</p>
+    <p>30 g de fécule de pomme de terre</p>
+    <p>30 g de farine</p>
+    <p>90 g de sucre en poudre</p>
+    <p>2 oeufs</p>
+    <p>Pour la crème au beurre :</p>
+    <p>1 oeuf entier</p>
+    <p>50 g de sucre</p>
+    <p>150 à 200 g de beurre frais</p>
+    <p>parfum : selon votre goût (voir commentaire sous le texte de la recette)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer le gâteau roulé :
+    Mélanger jaunes d'oeufs et sucre jusqu'à ce que le mélange blanchisse. 
+    Ajouter la farine et la fécule en pluie (plus 1 cuillère de lait si besoin). 
+    Battre les blancs en neige, les incorporer en soulevant. 
+    Beurrer un moule, y mettre un papier beurré et verser dessus la préparation.
+    Cuire à four chaud environ 10 mn. 
+    Renverser sur un torchon mouillé et/ou saupoudré de sucre. 
+    Retirer le moule et rouler le gâteau dans le torchon. 
+    Préparer la crème au beurre :
+    Battre l'oeuf en omelette avec le sucre dans un récipient sur feu doux.
+    Quand la préparation est montée, laisser un peu refroidir et ajouter le beurre ramolli en mayonnaise. Tourner vivement. 
+    Rafraîchir au réfrigérateur. 
+    Parfumer, colorer à votre goût et garnir l'intérieur du roulé et l'extérieur à l'aide d'une fourchette en dessinant des rayures.
+    Suggestions pour le parfum :
+    chocolat : 40 g fondus dans un peu d'eau
+    pistache : 1 cuillère à soupe de pâte à pistache
+    Vanille : remplacer une partie du sucre par deux sachets de sucre vanillé + 1 cuillère à café d'extrait de vanille
+    Grand Marnier : 3 ou 4 cuillères à soupe
+  ]]>
+  </preparation>
+</recette>

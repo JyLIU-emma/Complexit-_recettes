@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22951">
+  <titre>Tarte aux prunes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>500 g de reines claudes</p>
+    <p>75 g de sucre</p>
+    <p>2 oeufs</p>
+    <p>100 g de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire la pâte à blanc (en la piquant), couper les prunes en deux, mélanger les oeufs, le sucre et la crème fraîche. 
+    Verser dans le fond de tarte et disposer les reines-claudes de façon circulaire. 
+    Laisse cuire 30 mn
+  ]]>
+  </preparation>
+</recette>

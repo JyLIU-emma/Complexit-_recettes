@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23223">
+  <titre>Ratatouille</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>350 g d'aubergines</p>
+    <p>350 g de courgettes</p>
+    <p>350 g de poivrons de couleur rouge et vert</p>
+    <p>350 g d'oignons</p>
+    <p>500 g de tomates bien mûres</p>
+    <p>3 gousses d'ail</p>
+    <p>6 cuillères à soupe d'huile d'olive</p>
+    <p>1 brin de thym</p>
+    <p>1 feuille de laurier</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les tomates pelées en quartiers, les aubergines et les courgettes en rondelles. Emincez les poivrons en lamelles et l'oignon en rouelles.
+    Chauffez 2 cuillères à soupe d'huile dans une poêle et faites-y fondre les oignons et les poivrons. Lorsqu'ils sont tendres, ajoutez les tomates, l'ail haché, le thym et le laurier. 
+    Salez, poivrez et laissez mijoter doucement à couvert durant 45 minutes.
+    Pendant ce temps, préparez les aubergines et les courgettes. Faites les cuire séparemment dans l'huile d'olive pendant 15 minutes.
+    Vérifiez la cuisson des légumes pour qu'ils ne soient plus fermes. Ajoutez les alors au mélange de tomates et prolongez la cuisson sur tout petit feu pendant 10 min.
+    Salez et poivrez si besoin. 
+    Très bon chaud mais peut aussi se servir froid.
+  ]]>
+  </preparation>
+</recette>

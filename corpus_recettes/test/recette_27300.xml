@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27300">
+  <titre>Langoustines à l'estragon et au beurre citronné</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>12 langoustines</p>
+    <p>1 cuillères à soupe d'huile d'olive</p>
+    <p>1 bouquet d'estragon</p>
+    <p>7 cl de vin blanc</p>
+    <p>1 citron vert</p>
+    <p>35 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher l'estragon.
+    Décortiquer les langoustines puis les saisir dans l'huile. Saler, poivrer.
+    Verser le vin blanc et ajouter l'estragon. Laisser cuire 10 minutes.
+    Pendant ce temps, faire chauffer 3 cuillères à soupe d'eau et ajouter le beurre coupé en dés en fouettant afin d'obtenir une sauce onctueuse. Ajouter le jus de citron vert et en napper les langoustines.
+  ]]>
+  </preparation>
+</recette>

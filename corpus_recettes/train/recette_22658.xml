@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22658">
+  <titre>Crème à la fraise</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de fraises</p>
+    <p>100 g de sucre</p>
+    <p>1 citron</p>
+    <p>20 g de crème fraiche semi épaisse</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les fraises, les équeuter. En mettre de côté 5 ou 6. Mixer finement le reste des fraises avec le jus du citron et le sucre.
+    Mélanger la crème fraiche aux fraises mixées.
+    Couper les fraises mises de côté en morceaux, les ajouter au reste et mélanger.
+    Servir dans des ramequins, décoré de feuilles de menthe
+  ]]>
+  </preparation>
+</recette>

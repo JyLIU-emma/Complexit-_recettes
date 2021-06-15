@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15204">
+  <titre>Escalopes florentines</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 grandes escalopes de veau</p>
+    <p>500 g d'épinards hachés surgelés</p>
+    <p>1 pot de coulis de tomates (70 cl)</p>
+    <p>2 tranches de jambon, coupées en 2</p>
+    <p>crème fraîche (selon votre goût)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire préchauffer le four à 100°C.
+    Faire revenir les escalopes dans une poêle. Une fois qu'elles sont bien dorées, les glisser dans un plat au four.
+    Faire revenir les épinards dans un peu de beurre, puis en tartiner généreusement les escalopes.  
+    Poser sur chacune des escalopes 1/2 tranche de jambon puis remettre au four.
+    Faire chauffer le coulis de tomates, ajouter la crème, sel et poivre, donner un petit bouillon.
+    Au moment de servir, dresser une escalope sur chaque assiette et entourer de sauce.
+    Servir avec des pâtes fraîches, détendues d'un peu de crème et saupoudrées de parmesan. chianti
+  ]]>
+  </preparation>
+</recette>

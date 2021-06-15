@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18242">
+  <titre>Lemonato</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 escalopes de dinde</p>
+    <p>1 gros oignon</p>
+    <p>huile d'olive</p>
+    <p>jus d'un citron  </p>
+    <p>curry</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les escalopes en lanières et hacher l'oignon.
+    Faire chauffer 2 cuillères d'huile d'olive dans une casserole et y faire dorer l'oignon haché. Puis faire dorer les lanières de dinde dans cette préparation, ajouter du curry (selon goût) et couvrir d'eau.
+    Au bout de 2 minutes, rajouter le jus d'un citron et faire épaissir la sauce avec une cuillère à café de maizena.
+    Servir chaud.
+    Servir avec du riz blanc, c'est délicieux.
+  ]]>
+  </preparation>
+</recette>

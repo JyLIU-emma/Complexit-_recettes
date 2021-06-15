@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11595">
+  <titre>Gratin de mangue à la noix coco</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 mangues</p>
+    <p>2 oranges non traitées</p>
+    <p>60 g de sucre</p>
+    <p>40 g de noix de coco râpée</p>
+    <p>4 jaunes d'oeufs</p>
+    <p>5 cl de rhum</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez le zeste d'orange en fines lanières. Faites-les blanchir 5mn à l'eau bouillante et égouttez-les.
+    Coupez les mangues pelées en lamelles de part et d'autre du noyau, puis répartissez-les dans 4 petits plats à gratin.
+    Fouettez jaunes d'oeufs, sucre et jus d'oranges dans une terrine. Placez-la au bain-marie.
+    Continuez de fouetter jusqu'à obtenir un sabayon crèmeux. Parfumez de rhum hors du bain-marie.
+    Nappez les mangues de ce sabayon, parsemez avec la noix de coco râpée, les lanières de zeste d'oranges, faites dorer quelques instants sous le grill du four et servez aussitôt.
+  ]]>
+  </preparation>
+</recette>

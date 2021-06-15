@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27295">
+  <titre>Macaronis gratinés à la béchamel et aux oeufs</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de macaronis</p>
+    <p>4 oeufs</p>
+    <p>75 g de gruyère râpé</p>
+    <p>150 g de beurre</p>
+    <p>75 g de farine</p>
+    <p>75 cl de lait</p>
+    <p>sel, poivre</p>
+    <p>noix de muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites bouillir un grand volume d'eau salée, faites-y cuire les macaronis.
+    Egouttez-les et mélangez-les avec 75 g de beurre.
+    Faites chauffer le reste de beurre, ajoutez la farine tamisée en remuant puis progressivement le lait sans cesser de remuer. Salez, poivrez, ajoutez un peu de mucade et laissez épaissir sur feu doux pendant une dizaine de minutes en remuant.
+    Versez la sauce sur les pâtes, mélangez.
+    Fouettez les oeufs en omelette à la fourchette, salez et incorporez la moitié du fromage. 
+    Dans un plat à gratin beurré, alternez couches de pâtes et d'oeufs battus, saupoudrez le reste du fromage et faites gratiner au four à 200°C (thermostat 6-7) environ 15 min.
+  ]]>
+  </preparation>
+</recette>

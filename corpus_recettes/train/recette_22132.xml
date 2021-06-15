@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22132">
+  <titre>Fricassée de lambis</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de lambis</p>
+    <p>4 oignons pays</p>
+    <p>1 oignon</p>
+    <p>2 tomates</p>
+    <p>1 gousse d'ail</p>
+    <p>1 citron</p>
+    <p>persil</p>
+    <p>thym</p>
+    <p>piment</p>
+    <p>huile</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer les lambis : les fendre, enlever l'intérieur et les frotter soigneusement à l'eau citronnée ; puis les les battre pour les attendrir. Faire chauffer de l'huile et faire sauter les lambis coupés en morceaux. Ajouter les tomates concassées, l'oignon émincé, les oignons pays, l'ail, le thym et le persil. Poivrer et ajouter du piment. Bien mélanger, recouvrir d'eau et laisser mijoter 20 mn minimum. Au moment de servir, ajouter le jus du citron et rectifier l'assaisonnement.Servir avec le traditionnel "riz-haricots rouges" et un piment frais pour les amateurs.
+  ]]>
+  </preparation>
+</recette>

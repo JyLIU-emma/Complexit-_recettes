@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25847">
+  <titre>Soupe au chou rouge à la marmite</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1/2 petit chou rouge bien serré</p>
+    <p>200 g de poitrine de lard fumé</p>
+    <p>2 cuillères à soupe de saindoux (ou 40 g de beurre)</p>
+    <p>1 cube de bouillon</p>
+    <p>2 l d'eau chaude</p>
+    <p>1 pincée de noix de muscade râpée (ou plus)</p>
+    <p>2 cuillères à soupe de vinaigre</p>
+    <p>1 cuillère à soupe de cassonade</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer le chou, lui ôter le trognon et les grosses côtes, puis le détailler en fines lanières.
+    Dans une marmite, faire rissoler les lardons dans le saindoux. Ajouter ensuite le chou en remuant, puis couvrir et laisser étuver 8 min à feu très doux.
+    Délayer le cube de bouillon dans les 2 litres d'eau chaude, le verser dans la marmite. Assaisonner de sel, poivre et muscade râpée à votre goût.
+    Ajouter enfin le vinaigre et le sucre, puis laisser cuire à couvert encore quelques minutes en surveillant.
+    Mettre en soupière, puis ajouter la crème fraîche pour lier.
+    Servir et déguster bien chaud.
+  ]]>
+  </preparation>
+</recette>

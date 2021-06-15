@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22731">
+  <titre>Dinde farcie aux truffes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1 dinde de 2.5 kg environ (bréchet et os de poitrine retirés)</p>
+    <p>400 g de chair à saucisse</p>
+    <p>1 petite boîte de pelures de truffes</p>
+    <p>80 g d'échalotes hachées</p>
+    <p>2 oeufs</p>
+    <p>sel et poivre</p>
+    <p>3 branches de thym</p>
+    <p>2 feuilles de laurier</p>
+    <p>5 cl de crème</p>
+    <p>3 cl de cognac</p>
+    <p>20 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    A l'aide d'une fourchette, travailler la chair à saucisse avec les échalotes hachées, les oeufs entiers et les truffes ou pelures de truffes.
+    Ajouter la crème et mélanger.
+    Saler, poivrer, ajouter le thym et le laurier émiettés.
+    Parfumer avec un peu de cognac.
+    Farcir la dinde de cette préparation et la brider.
+    Déposer la dinde sur la plaque du four, la tartiner de beurre et la faire cuire au four pendant 2 h 30 en l'arrosant souvent.
+    Surveiller la cuisson, et couvrir la dinde d'une feuille de papier aluminium si elle dore trop vite.
+  ]]>
+  </preparation>
+</recette>

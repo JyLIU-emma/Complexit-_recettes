@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11985">
+  <titre>Spatzles (Alsace)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>375g de farine</p>
+    <p>2 oeufs</p>
+    <p>1/4 litre d'eau</p>
+    <p>sel</p>
+    <p>gros sel</p>
+    <p> 1 cuillère à soupe d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la farine + oeufs + sel + eau.
+    Bien mélanger jusqu'à ce que se forme des bulles. 
+    La pâte doit être ni doit trop liquide, ni trop ferme.
+    Sur une planchette, étaler des lanières de pâte et les mettre dans l'eau bouillante salée avec un couteau humide.
+    Les spatzles sont bonnes dès qu'elles remontent à la surface (les écumer).
+    Les essorer à l'eau froide.
+    On peut les passer à la poele avec des croutons frits. Servir avec de la salade verte.
+    Un plat typiquement alsacien (à manger en hiver) Vin blanc d'Alsace (tokay ou gewurtztraminer)
+  ]]>
+  </preparation>
+</recette>

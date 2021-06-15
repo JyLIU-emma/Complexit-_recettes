@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165153">
+  <titre>BOULETTE DE POULET AU CURRY</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 filet de poulet assez gros</p>
+    <p>1 oeuf</p>
+    <p>1 morceau de pain</p>
+    <p>2 verre de lait</p>
+    <p>sel et poivre</p>
+    <p>1 cuillère à café de curry</p>
+    <p>50 g de gruyère râpé</p>
+    <p>farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    la préparation est plus que facile:
+    mettre dans le robot a mixer les 2 gros filet de poulet, l'oeuf, le morceau de pain (environ 10/15CM) préalablement trempé dans le lait et pressé afin qu il ne reste qu'une pate, salé et poivré, ajouté un peu de gruyere rapé(facultatif) puis une bonne cuillère de curry (vous pouvez aussi ne pas mettre le curry et préparer une sauce au curry a part)
+    Mixer le tout. 
+    une fois mixé, formez des boulettes et passez dans la farine puis faites cuire à la poele avec un fond d'huile.
+    c'est un régal
+    accompagnement possible: riz avec sauce au curry...Accompagnement possible: riz avec sauce au curry...
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  la <INGRED id="4">préparation</INGRED> est plus que facile : <OPER id="o_1">mettre</OPER> dans le robot a <OPER id="o_2">mixer</OPER> les 2 gros <INGRED id="2">filet</INGRED> de poulet, l'<INGRED id="5">oeuf</INGRED>, le <INGRED id="3">morceau de pain</INGRED> ( <INGRED id="1">environ</INGRED> 10/15CM ) préalablement trempé dans le <INGRED id="1">lait</INGRED> et pressé afin qu il ne <INGRED id="1">reste</INGRED> qu'une <INGRED id="7">pate</INGRED>, salé et poivré, ajouté un peu de <INGRED id="3">gruyere</INGRED> rapé(facultatif ) puis une bonne cuillère de <INGRED id="9">curry</INGRED> ( vous pouvez aussi ne pas <OPER id="o_3">mettre</OPER> le curry et <OPER id="o_4">préparer</OPER> une <INGRED id="5">sauce</INGRED> au curry a part ) <OPER id="o_5">Mixer</OPER> le tout. une fois mixé, formez des boulettes et <OPER id="o_6">passez</OPER> dans la <INGRED id="1">farine</INGRED> puis faites <OPER id="o_7">cuire</OPER> à la <INGRED id="2">poele</INGRED> avec un <INGRED id="4">fond</INGRED> d'<INGRED id="5">huile</INGRED>. c'est un régal accompagnement possible : <INGRED id="3">riz</INGRED> avec <INGRED id="4">sauce</INGRED> au <INGRED id="9">curry</INGRED>... Accompagnement possible : riz avec <INGRED id="4">sauce</INGRED> au curry...
+  </annotation>
+  <annotation methode="crf">
+  la préparation est plus que facile <INGRED>:</INGRED> mettre dans le robot a mixer les 2 <INGRED>gros</INGRED> <INGRED>filet</INGRED> de <INGRED>poulet</INGRED> <INGRED>,</INGRED> l'<INGRED>oeuf</INGRED> <INGRED>,</INGRED> le <INGRED>morceau</INGRED> de <INGRED>pain</INGRED> ( <INGRED>environ</INGRED> 10/15CM ) préalablement trempé dans le <INGRED>lait</INGRED> et pressé afin qu il ne reste qu'une pate <INGRED>,</INGRED> salé et poivré <INGRED>,</INGRED> ajouté <INGRED>un</INGRED> peu de gruyere rapé(facultatif ) puis une bonne cuillère de <INGRED>curry</INGRED> ( vous pouvez aussi ne pas mettre le <INGRED>curry</INGRED> et préparer une <INGRED>sauce</INGRED> au <INGRED>curry</INGRED> <INGRED>a</INGRED> part ) Mixer le tout <INGRED>.</INGRED> une fois mixé <INGRED>,</INGRED> formez des boulettes et passez dans la <INGRED>farine</INGRED> puis faites cuire à la poele avec un <INGRED>fond</INGRED> d'<INGRED>huile</INGRED>. c'est un régal accompagnement possible <INGRED>:</INGRED> riz avec <INGRED>sauce</INGRED> au <INGRED>curry</INGRED>... Accompagnement possible <INGRED>:</INGRED> riz avec <INGRED>sauce</INGRED> au <INGRED>curry</INGRED>...
+  </annotation>
+  <complexite>
+    <temps>f(X) = 4.45454545454545*X + 2.54545454545455</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 7*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['filet de poulet assez gros', 'filet']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['oeuf']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['morceau de pain', 'morceau']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['lait']	 id:4	 quantité:2	 unité:verre de	 denombrable:True	 recipient:2*X
+ingredient:['sel']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['curry']	 id:7	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+ingredient:['gruyère râpé', 'gruyère']	 id:8	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mettre	 id:o_1	 ingrédients_ralatifs:['2', '5', '3', '1', '1', '1', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mixer	 id:o_2	 ingrédients_ralatifs:['2', '5', '3', '1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:préparer	 id:o_4	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:mixer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:passer	 id:o_6	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:cuire	 id:o_7	 ingrédients_ralatifs:['2', '4', '5']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+]]>
+</operation_trouve>
+</recette>

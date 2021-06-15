@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26819">
+  <titre>Cake aux 2 saumons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>150 g de saumon frais</p>
+    <p>150 g de saumon fumé</p>
+    <p>120 g de farine</p>
+    <p>3 oeufs</p>
+    <p>10 cl de lait</p>
+    <p>10 cl de beurre fondu</p>
+    <p>150 g de gruyère râpé</p>
+    <p>1 paquet de levure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le farine et la levure, puis ajouter les oeufs, le lait et le beurre fondu pour obtenir une pâte homogène. 
+    Couper le saumon fumé et le saumon frais en petits morceaux. 
+    Ajouter le gruyère et le saumon. 
+    Bien mélanger. 
+    Verser la préparation dans un moule à cake beurré et faire cuire 40 mn dans un four préalablement chauffé à 160°C.
+  ]]>
+  </preparation>
+</recette>

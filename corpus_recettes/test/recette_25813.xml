@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25813">
+  <titre>Daurade farcie aux herbes et au céleri</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 daurade d'1,5 kg</p>
+    <p>Pour la farce :</p>
+    <p>150 g de mie de pain</p>
+    <p>24 cl de lait</p>
+    <p>200 g de céleri en branches</p>
+    <p>2 oignons</p>
+    <p>2 échalotes</p>
+    <p>50 g de beurre</p>
+    <p>sel, poivre</p>
+    <p>Pour la cuisson :</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>le jus d'1 citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 180°C (thermostat 6).
+    Pour faire la farce :
+    Mettre la mie de pain à gonfler dans le lait.
+    Pendant ce temps, laver, peler et hacher le céleri, les oignons et les échalotes. Dans une poêle beurrée, les faire revenir à feu doux pendant  15 min. Ajouter ensuite la mie de pain, le sel et le poivre et bien mélanger le tout.
+    Tapisser le fond d'un plat à gratin beurré d'un peu de farce puis farcir la daurade.
+    La déposer dans le plat, la mouiller de vin blanc et du jus de citron puis enfourner à four chaud pendant 35 min.
+    La sortir du four puis la décorer de rondelles de citron et de quelques feuilles de céleri.
+  ]]>
+  </preparation>
+</recette>

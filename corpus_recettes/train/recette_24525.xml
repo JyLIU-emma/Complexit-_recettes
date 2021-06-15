@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24525">
+  <titre>Hachis parmentier à la grecque</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour le hachis :</p>
+    <p>huile d'olive</p>
+    <p>2 oignons hachés</p>
+    <p>2 gousses d'ail hachées</p>
+    <p>1 cuillère à café de cannelle</p>
+    <p>1 cuillère à café de muscade</p>
+    <p>900 g d'agneau haché (à défaut du boeuf) </p>
+    <p>3 grosses tomates bien mûres (pelées si vous avez le courage) coupées en dés</p>
+    <p>4 cuillères à soupe de concentré de tomates</p>
+    <p>1/4 litre de vin blanc</p>
+    <p>sel et poivre</p>
+    <p>persil hachéPour la purée : </p>
+    <p>1 kg de pommes de terre</p>
+    <p>huile d'olive</p>
+    <p>muscade</p>
+    <p>lait</p>
+    <p>sel et poivre</p>
+    <p>gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les oignons pendant 5 min dans de l'huile d'olive à feu moyen.
+    Ajouter l'ail, la cannelle et la muscade, laisser revenir 1 min en tournant avec la cuiller en bois, puis faire sauter la viande en essayant de minimiser les grumeaux.
+    Lorsque la viande est dorée, ajouter les tomates, le concentré de tomate et le vin blanc, saler et poivrer. Laisser mijoter environ 30 min, le temps que le liquide s'évapore, puis incorporer le persil.
+    Pendant ce temps, faire bouillir les pommes de terre, les réduire en purée en ajoutant de l'huile d'olive, de la muscade, du sel, du poivre et du lait chaud selon le goût.
+    Mettre la viande au fond d'un plat à gratin, recouvrir de purée et saupoudrer de gruyère râpé.Enfourner à 200°C (four préchauffé) ou sous le grill, puis laisser gratiner.Servir avec une bonne salade assaisonnée à l'huile d'olive. Régalez-vous !
+  ]]>
+  </preparation>
+</recette>

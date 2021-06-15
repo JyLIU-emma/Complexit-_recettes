@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21523">
+  <titre>Tagliatelles de la mer</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de tagliatelles</p>
+    <p>1 l ou 700 g de moules</p>
+    <p>1 l ou 500 g de coques</p>
+    <p>100 g de crevettes roses décortiquées</p>
+    <p>1 échalote</p>
+    <p>20 cl de crème fraîche</p>
+    <p>75 g de beurre</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>ciboulette hachée</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Rincez les moules et les coques à grande eau.
+    Mettez-les dans une casserole et faites-les ouvrir à feu vif. Sortez-les à l'écumoire.
+    Décoquillez les moules et les coques cuites et filtrez le jus rendu.
+    Faites cuire les pâtes à l'eau bouillante salée.
+    Hachez l'échalote, faites-la suer dans 50 g de beurre.
+    Versez le vin blanc et laissez réduire de moitié.
+    Ajoutez le jus de cuisson des coques, puis les moules et coques et les crevettes. Salez, poivrez et ajoutez la crème fraîche et la ciboulette. 
+    Egouttez les pâtes, mélangez-les avec le reste de beurre puis ajoutez la crème aux fruits de mer.
+  ]]>
+  </preparation>
+</recette>

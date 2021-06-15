@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26990">
+  <titre>Concombre au thon et au yaourt</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 gros concombre</p>
+    <p>1 grosse boîte de thon au naturel</p>
+    <p>1 yaourt nature</p>
+    <p>2 cuillères à soupe d’huile d’olive</p>
+    <p>le jus de 2 citrons verts</p>
+    <p>2 cuillères à soupe de persil haché</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver, essuyer et découper le concombre en rondelles, puis le mettre à dégorger dans du sel pendant 30 min. Rincer, égoutter et les disposer dans un saladier.
+    Egoutter ensuite le thon puis l’émietter et l’incorporer aux concombres.
+    Préparer la sauce : Battre l’huile avec le yaourt, le jus des citrons, le persil haché, le sel et le poivre.
+    Verser la sauce sur les concombres et le thon puis bien mélanger. Réserver au frais 1 h avant dégustation.
+  ]]>
+  </preparation>
+</recette>

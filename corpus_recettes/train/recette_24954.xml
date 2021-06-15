@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24954">
+  <titre>Mijotée de poulet au riz et aux légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de poulet</p>
+    <p>1 oignon</p>
+    <p>1 petit poivron</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>200 g de tomates pelées</p>
+    <p>150 g de riz</p>
+    <p>1 gousse d'ail</p>
+    <p>concentré de tomates</p>
+    <p>piment et safran (facultatif) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer 1 cuillère d'huile dans une sauteuse et y faire revenir l'oignon et le poivron émincé pendant 5 mn. 
+    Rajouter le reste d'huile et le poulet coupé en dés, le faire revenir. Verser le riz, les tomates pelées et leur jus, 1 cuillère à soupe de concentré de tomates, l'ail écrasé et le safran. sel et poivre. Mouiller d'eau jusqu'à couvrir à peine la préparation. Couvrir et laisser cuire environ 30 mn. 
+    Découvrir avant la fin si il y a trop de jus.
+    Goûter pendant la cuisson, tous les riz ne cuisant pas de la même manière.
+  ]]>
+  </preparation>
+</recette>

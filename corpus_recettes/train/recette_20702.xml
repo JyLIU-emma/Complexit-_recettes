@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20702">
+  <titre>Rôti poisson aux légumes au four</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de lieu noir ou jaune</p>
+    <p>4 belles tomates de taille moyenne</p>
+    <p>200 g de champignons de Paris</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>15 cl de vin blanc</p>
+    <p>10 oignons hachés</p>
+    <p>1 bouquet de persil haché</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 220°C (thermostat 7/8).
+    Préparer le poisson : ficeler les filets de lieu de façon à obtenir un rôti.
+    Laver et découper les tomates en 2 puis les champignons en quartiers après les avoir nettoyés dans l'eau froide vinaigrée.
+    Déposer le rôti de lieu dans un plat huilé allant au four, l'entourer de demi-tomates et de champignons. Verser le filet d'huile d'olive, le vin blanc à hauteur. Saler, poivrer.
+    Peler l'oignon, laver le bouquet de persil sous un filet d'eau froide, puis passer le tout au mixeur.
+    Enfourner à four chaud, puis laisser cuire 30 min en arrosant de temps en temps du jus de cuisson.
+    Dix minutes avant la fin du temps de cuisson conseillé, ajouter le hachis d'oignon et de persil au plat puis enfourner de nouveau pour 10 min.
+    Servir bien chaud en accompagnant de pommes de terre vapeur.
+  ]]>
+  </preparation>
+</recette>

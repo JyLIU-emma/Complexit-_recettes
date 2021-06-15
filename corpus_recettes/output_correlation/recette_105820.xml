@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="105820">
+  <titre>Pavé de saumon grillé au miel et aux baies roses</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 pavés de saumon</p>
+    <p>3 cuillères à soupe de miel</p>
+    <p>1 cuillère à soupe de baies roses concassées</p>
+    <p>2 gousses d'ail</p>
+    <p>1 oignon</p>
+    <p>1 cuillère à soupe de moutarde</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer une sauce avec le miel, la moutarde les baies roses et 3 cuillères à soupe d'huile d'olive
+    Enduire le poisson et le laisser mariner durant 1 heure
+    Peler et hacher ail et oignon.
+    Dans une sauteuse, faire chauffer 2 cuillère à soupe d'huile d'olive puis faire revenir l'ail et l'oignon pendant 5 min
+    Ajouter les pavés de saumons en commençant par le coté peau et faire cuire 10 à 15 min suivant l'épaisseur des pavés
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Préparer</OPER> une sauce avec le <INGRED id="2">miel</INGRED>, la <INGRED id="6">moutarde</INGRED> les <INGRED id="3">baies</INGRED> roses et 3 cuillères à soupe d'<INGRED id="7">huile d'olive</INGRED> <OPER id="o_2">Enduire</OPER> le poisson et le laisser <OPER id="o_3">mariner</OPER> durant 1 heure <OPER id="o_4">Peler</OPER> et <OPER id="o_5">hacher</OPER> <INGRED id="4">ail</INGRED> et <INGRED id="5">oignon</INGRED>. Dans une sauteuse, faire <OPER id="o_6">chauffer</OPER> 2 cuillère à soupe d'<INGRED id="7">huile d'olive</INGRED> puis faire <OPER id="o_7">revenir</OPER> l'<INGRED id="4">ail</INGRED> et l'<INGRED id="5">oignon</INGRED> pendant 5 min <OPER id="o_8">Ajouter</OPER> les <INGRED id="1">pavés</INGRED> de saumons en commençant par le coté peau et faire <OPER id="o_9">cuire</OPER> 10 à 15 min suivant l'épaisseur des <INGRED id="1">pavés</INGRED>
+  </annotation>
+  <annotation methode="crf">
+  Préparer une <INGRED>sauce</INGRED> avec le <INGRED>miel</INGRED> <INGRED>,</INGRED> la <INGRED>moutarde</INGRED> les <INGRED>baies roses</INGRED> et 3 <INGRED>cuillères à soupe d'huile d'olive</INGRED> Enduire le <INGRED>poisson</INGRED> et le laisser mariner durant 1 heure Peler et hacher <INGRED>ail</INGRED> et <INGRED>oignon</INGRED>. Dans une sauteuse <INGRED>,</INGRED> faire chauffer 2 cuillère à soupe d'<INGRED>huile d'olive</INGRED> puis faire revenir l'<INGRED>ail</INGRED> et l'<INGRED>oignon</INGRED> pendant 5 min Ajouter les pavés de saumons en commençant par le coté peau et faire cuire 10 à 15 min suivant l'épaisseur des pavés
+  </annotation>
+  <complexite>
+    <temps>f(X) = 8.46153846153846*X + 2.53846153846154</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 10*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pavés de saumon', 'pavés']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['miel']	 id:2	 quantité:3	 unité:cuillères à soupe de	 denombrable:True	 recipient:3*X
+ingredient:['baies roses concassées', 'baies']	 id:3	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['ail']	 id:4	 quantité:2	 unité:gousses d'	 denombrable:True	 recipient:2*X
+ingredient:['oignon']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['moutarde']	 id:6	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:["huile d'olive", 'huile']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préparer	 id:o_1	 ingrédients_ralatifs:['2', '6', '3', '7']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:enduire	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mariner	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:peler	 id:o_4	 ingrédients_ralatifs:['4', '5']	 nombre_opération_atomique:2*X+1*X	 temps:2*X*1+1*X*1	 recipient:0
+operation:hacher	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5*X	 recipient:1
+operation:chauffer	 id:o_6	 ingrédients_ralatifs:['7', '4', '5']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:revenir	 id:o_7	 ingrédients_ralatifs:['4', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+]]>
+</operation_trouve>
+</recette>

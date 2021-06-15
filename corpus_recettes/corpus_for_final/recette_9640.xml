@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="9640">
+  <titre>Cheese Cake au coulis de framboises</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la base :</p>
+    <p>1 paquet de biscuits sablés bretons ou biscuits à la cannelle type spéculoos</p>
+    <p>60 g de beurre saléPour la crème :</p>
+    <p>6 petits suisses</p>
+    <p>300 g de Carré Frais </p>
+    <p>4 oeufs</p>
+    <p>100 g de sucre</p>
+    <p>parfum (vanille ou zeste de citron)Pour le coulis :</p>
+    <p>500 g de framboises</p>
+    <p>3 cuillers à souge de sucre</p>
+    <p>1 jus de citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C.Ecraser les biscuits. Ajouter le beurre fondu. Etaler cette préparation au fond du moule recouvert de papier sulfurisé. Mettre au four le temps de préparer la crème.
+    Fouetter les oeufs avec le sucre jusqu'à ce que le mélange blanchisse. Ajouter les petits-suisse, le fromage frais et le parfum. Lisser la préparation (au batteur ou dans un robot).Verser sur le fond de biscuits et enfourner.
+    Laisser cuire environ 55 min à 1h puis laisser refroidir à l'intérieur du four, porte ouverte. Mettre ensuite au réfrigérateur au moins 10h.
+    Servir avec un coulis de framboises.
+    Mixer la moitié des framboises avec sucre et citron. Ajouter les framboises entières.
+  ]]>
+  </preparation>
+</recette>

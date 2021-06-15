@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27272">
+  <titre>Salade de fruits parfumée</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>des fruits pas trop mûrs et qui se tiennent comme des oranges des pamplemousses des poires des pommes des abricots...</p>
+    <p>de l'eau</p>
+    <p>du sucre</p>
+    <p>1 ou 2 sachets d'infusion verveine menthe ou un parfum que vous aimez et qui s'accorde avec les fruits</p>
+    <p>de la badiane</p>
+    <p>de la cannelle</p>
+    <p>un peu de gingembre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez les fruits ; pelez-les ou lavez les et coupez-les en morceaux assez gros. Mettez chauffer suffisamment d'eau mélangée à du sucre pour recouvrir la quantité de fruits que vous aurez mis dans un saladier.
+    Une fois que l'eau bout ajouter 1 étoile de badiane, un peu de gingembre et de cannelle en poudre et les sachets d'infusion. Laissez infuser environ 15 min. Retirez la badiane et les sachets et versez tiède sur les fruits.
+    Laissez mariner au frigo et sortez un peu à l'avance.
+    Servez avec des boules de glace ou avec des biscuits secs.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25984">
+  <titre>Soupe carotte-gruyère</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 grosses carottes</p>
+    <p>500 g des pommes de terre (= 4 pommes de terre moyennes) </p>
+    <p>150 g de gruyère râpé</p>
+    <p>1,5 litre d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et découper les carottes et les pommes de terre en petits morceaux. Plonger le tout dans l'eau. Faire cuire selon 40 mn (ou piquer dans les légumes pour voir si c'est cuit). 
+    Mixer le tout. Et, au dernier moment, rajouter le gruyère. Remixer un peu. 
+    C'est prêt!
+    Voici une recette que je tiens de ma maman, qui est facile à réaliser et tout simplement délicieuse !
+  ]]>
+  </preparation>
+</recette>

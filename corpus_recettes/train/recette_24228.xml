@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24228">
+  <titre>Côtelettes d'agneau aux amandes grillées</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 côtelettes d'agneau de petite taille</p>
+    <p>75 g de beurre</p>
+    <p>150 g d'amandes mondées</p>
+    <p>10 cl de madère</p>
+    <p>sel, poivre du moulin </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer 50 g de beurre dans la poêle, puis y mettre les côtelettes à cuire.
+    Assaisonner, puis retirer les côtelettes dès qu'elles sont bien dorées.
+    Les sortir de la poêle, puis les réserver au chaud le temps de préparer la sauce :Monder les amandes, puis les émincer avant de les jeter dans la poêle avec 25 g de beurre.
+    Saler, poivrer.
+    Les faire dorer en remuant régulièrement, puis déglacer la poêle avec le madère.
+    Laisser chauffer quelques instants avant de remettre les côtelettes dans la poêle avec sa sauce.
+    La laisser cuire 2 à 3 min à feu doux, le temps qu'elle s'imprègne du goût de la sauce, puis servir bien chaud.
+  ]]>
+  </preparation>
+</recette>

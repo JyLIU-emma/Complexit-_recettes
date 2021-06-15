@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26665">
+  <titre>Barbues à la tomate et aux olives</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 filets de barbue</p>
+    <p>le jus d'1 citron </p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>4 tomates</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>1 oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>2 brins de thym</p>
+    <p>1 feuille de laurier</p>
+    <p>20 olives noires</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Arroser les filets de poisson du jus de citron et de l'huile d'olive. Laisser mariner 30 minutes.
+    Préchauffer le four à 200°C (thermostat 6-7).
+    Peler les tomates et les concasser. Les faire revenir avec le vin, l'oignon et l'ail haché, le thym et le laurier jusqu'à ce que la sauce soit un peu épaissie. Assaisonner.
+    Egoutter les filets de barbue et les déposer dans un plat à four beurré. Recouvrir de sauce tomate et des olives.
+    Enfourner pour 20 minutes de cuisson.
+    On peut faire la recette avec du turbot ou du Saint Pierre.
+  ]]>
+  </preparation>
+</recette>

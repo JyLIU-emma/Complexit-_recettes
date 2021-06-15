@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27291">
+  <titre>Potage de légumes nouveaux</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de petits pois</p>
+    <p>400 g de fèves</p>
+    <p>4 petits navets</p>
+    <p>300 g de carottes</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>sel, poivre</p>
+    <p>2 cuillères à soupe de persil haché</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Portez à ébullition 2 litres d'eau salée. 
+    Jetez-y les petits pois, les fèves écossées, les navets coupés en dés et les carottes détaillées en rondelles. Versez l'huile d'olive, salez, poivrez.
+    Laissez cuire à feu doux à frémissement durant 15-20 min. Les légumes doivent être tendres.
+    Saupoudrez de persil haché et servez.
+     
+  ]]>
+  </preparation>
+</recette>

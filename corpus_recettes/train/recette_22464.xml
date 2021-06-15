@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22464">
+  <titre>Cake à la pâte d'amandes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de beurre mou</p>
+    <p>125 g de sucre</p>
+    <p>2 gros oeufs</p>
+    <p>175 g de farine</p>
+    <p>1/2 sachet de levure</p>
+    <p>50 g d'amandes en poudre</p>
+    <p>1 orange non traitée</p>
+    <p>250 g de fruits secs en mélange</p>
+    <p>125 g de pâte d'amandes taillée en cubes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 160°C. 
+    Huiler légèrement un moule à cake, le chemiser de papier sulfurisé, huiler à nouveau légèrement. 
+    Mettre dans un saladier : le beurre, le sucre, les oeufs, la farine avec la levure incorporée, la poudre d'amandes ; battre vigoureusement pendant 2 mn. 
+    Ajouter le zeste et 2 cuillères à soupe du jus de l'orange, puis les fruits secs, mélanger. 
+    Verser dans le moule, lisser la surface à la spatule. 
+    Disposer les cubes de pâte d'amandes sur le cake, puis faire cuire entre 1 heure et 1 heure 15 (la pointe d'un couteau doit sortir sèche). 
+    Laisser tiédir dans le moule, avant de démouler sur une grille.
+    c'est la recette traditionnelle du 'Simnel cake' anglais (gâteau de Pâques ou de la mi-carême)
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12803">
+  <titre>Brioches farcies</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 brioches</p>
+    <p>2 oeufs entiers</p>
+    <p>60 g gruyère râpé</p>
+    <p>50 g beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Enlever les chapeaux des brioches, les creuser à la cuillère.
+    Ecraser à la fourchette la mie préalablement retirée. La mélanger avec les 2 oeufs battus.
+    Ajouter gruyère râpé, sel et poivre.
+    Remplir les brioches de ce mélange, puis remettre le chapeau.
+    Placer les brioches dans un plat à gratin avec des petits morceaux de beurre.
+    Porter à four chaud (thermostat 6 à 7).Variante : utiliser un reste de jambon, volaille, poisson.
+  ]]>
+  </preparation>
+</recette>

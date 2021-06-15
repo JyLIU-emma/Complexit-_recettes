@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10773">
+  <titre>Galettes de viande surprise</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de veau</p>
+    <p>300 g de poulet (restes de poulet rôti éventuellement)</p>
+    <p>100 g de Comté</p>
+    <p>50 g de beurre</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>thym</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hachez ensemble le poulet et la viande de veau.Mélangez avec les petits suisses, les jaunes d'oeufs, le sel, beaucoup
+    de poivre et 1/2 cuillère à café de thym. Façonnez 4 galettes avec le mélange.Détaillez le comté en 4 lamelles. Ouvrez chaque galette en deux et introduisez-y une lamelle de comté. Puis reconstituez les galettes de manière à enfermer le fromage.
+    Faites fondre le beurre pour dorer les galettes sur chaque face et
+    laissez cuire 7 minutes de chaque côté.Servez avec du maïs en grains à la crème.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26798">
+  <titre>Côtes de porc aux olives</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 côtes de porc</p>
+    <p>100 g d'olives vertes</p>
+    <p>10 cl de vermouth (ou martini blanc)</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>1 petite boîte de sauce tomate</p>
+    <p>persil haché</p>
+    <p>sauge séchée</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dénoyauter les olives, les ébouillanter 5 min et égoutter. 
+    Saler, poivrer et saupoudrer les côtes de sauge.
+    Faire chauffer l'huile dans une poêle et y faire revenir les côtes de chaque côté.
+    Sortir les côtes et les garder au chaud.
+    Verser le vermouth et 2 cuillères à soupe d'eau chaude dans la poêle, gratter les sucs de cuisson à la spatule en bois. Ajouter la sauce tomate et les olives, goûter, saler et poivrer.
+    Remettre les côtes dans la poêle, laisser chauffer quelques minutes et servir parsemé de persil.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="112760">
+  <titre>Délices de coco à la cacahuète</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de farine de riz gluant</p>
+    <p>30 g de farine de blé</p>
+    <p>80 g de sucre</p>
+    <p>125 ml de lait de coco</p>
+    <p>1 cuillère à café levure chimique</p>
+    <p>noix de coco râpée</p>
+    <p>beurre de cacahuète</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer le lait pour y faire fondre le sucre en poudre. Quand le sucre est fondu, ajouter la farine de riz, la farine de blé, et la levure. Bien mélanger afin d'obtenir une pâte homogène.
+    Faire des noisettes de beurre de cacahuète. Aplatir le mélange de farine en épaisses mais petites galettes puis y placer la noisettes de beurre de cacahuète et refermer délicatement le mélange de farine dessus afin d'obtenir une boule régulière de 4 à 5 centimètres de diamètre. Disposer les boules ainsi faites dans le plat d'une cocotte-minute garnie de papier sulfurisé sans les coller. Les cuire 10 minutes à la vapeur.
+    Retirer ensuite une par une les boules et les rouler dans la noix de coco. Servir chaud.On peut déguster ces délices de coco avec des fruits au sirop très frais, ou des fruits simples(lichis par exemple).
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">chauffer</OPER> le <INGRED id="4">lait</INGRED> pour y faire fondre le <INGRED id="6">sucre en poudre</INGRED>. Quand le sucre est fondu, <OPER id="o_2">ajouter</OPER> la <INGRED id="4">farine</INGRED> de <INGRED id="1">riz</INGRED>, la <INGRED id="2">farine de blé</INGRED>, et la <INGRED id="4">levure</INGRED>. Bien <OPER id="o_3">mélanger</OPER> afin d'obtenir une <INGRED id="1">pâte</INGRED> homogène. Faire des <INGRED id="3">noisettes</INGRED> de <INGRED id="7">beurre de cacahuète</INGRED>. <OPER id="o_4">Aplatir</OPER> le <INGRED id="7">mélange</INGRED> de <INGRED id="7">farine</INGRED> en épaisses mais petites <INGRED id="1">galettes</INGRED> puis y <OPER id="o_5">placer</OPER> la <INGRED id="3">noisettes</INGRED> de <INGRED id="1">beurre de cacahuète</INGRED> et <OPER id="o_6">refermer</OPER> délicatement le <INGRED id="7">mélange</INGRED> de <INGRED id="5">farine</INGRED> dessus afin d'obtenir une <INGRED id="1">boule</INGRED> régulière de 4 à 5 centimètres de diamètre. <OPER id="o_7">Disposer</OPER> les <INGRED id="1">boules</INGRED> ainsi faites dans le plat d'une cocotte - minute garnie de papier sulfurisé sans les <OPER id="o_8">coller</OPER>. Les <OPER id="o_9">cuire</OPER> 10 minutes à la vapeur. <OPER id="o_10">Retirer</OPER> ensuite une par une les <INGRED id="1">boules</INGRED> et les <OPER id="o_11">rouler</OPER> dans la noix de coco. Servir chaud. On peut déguster ces délices de coco avec des fruits au sirop très frais, ou des fruits simples(lichis par exemple ).
+  </annotation>
+  <annotation methode="crf">
+  Faire chauffer le <INGRED>lait</INGRED> pour y faire fondre le <INGRED>sucre en poudre</INGRED> <INGRED>.</INGRED> Quand le <INGRED>sucre</INGRED> est fondu <INGRED>,</INGRED> ajouter la <INGRED>farine</INGRED> de <INGRED>riz</INGRED> <INGRED>,</INGRED> la <INGRED>farine de blé</INGRED> <INGRED>,</INGRED> et la <INGRED>levure</INGRED> <INGRED>.</INGRED> Bien mélanger afin d'obtenir une <INGRED>pâte</INGRED> homogène <INGRED>.</INGRED> Faire des <INGRED>noisettes</INGRED> de <INGRED>beurre</INGRED> de cacahuète. Aplatir le <INGRED>mélange</INGRED> de <INGRED>farine</INGRED> en <INGRED>épaisses</INGRED> mais petites galettes puis y placer la <INGRED>noisettes</INGRED> de <INGRED>beurre de cacahuète</INGRED> et refermer délicatement le <INGRED>mélange</INGRED> de <INGRED>farine</INGRED> dessus afin d'obtenir une boule régulière de 4 à 5 centimètres de diamètre. Disposer les <INGRED>boules</INGRED> ainsi faites dans le plat d'une cocotte - minute garnie de papier sulfurisé sans les coller <INGRED>.</INGRED> Les cuire 10 minutes à la vapeur. Retirer ensuite une par une les <INGRED>boules</INGRED> et les rouler dans la <INGRED>noix</INGRED> de coco <INGRED>.</INGRED> Servir chaud <INGRED>.</INGRED> On peut déguster ces délices de coco avec des <INGRED>fruits</INGRED> au <INGRED>sirop</INGRED> très <INGRED>frais</INGRED> <INGRED>,</INGRED> <INGRED>ou</INGRED> des <INGRED>fruits simples(lichis</INGRED> par exemple ).
+  </annotation>
+  <complexite>
+    <temps>f(X) = 10.5801526717557*X + 0.419847328244275</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 126*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['farine de riz gluant', 'farine']	 id:1	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine de blé', 'farine']	 id:2	 quantité:30	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:3	 quantité:80	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['ml de lait de coco', 'ml']	 id:4	 quantité:125	 unité:non_precis	 denombrable:True	 recipient:125*X
+ingredient:['levure chimique']	 id:5	 quantité:1	 unité:cuillère à café	 denombrable:True	 recipient:1*X
+ingredient:['noix de coco râpée', 'noix']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['beurre de cacahuète', 'beurre']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:chauffer	 id:o_1	 ingrédients_ralatifs:['4', '6']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['4', '1', '2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:aplatir	 id:o_4	 ingrédients_ralatifs:['7', '7', '1', '3', '1', '7', '5', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_5	 ingrédients_ralatifs:['3', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refermer	 id:o_6	 ingrédients_ralatifs:['7', '5', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_7	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:coller	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:retirer	 id:o_10	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rouler	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

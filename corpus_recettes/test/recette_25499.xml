@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25499">
+  <titre>Gâteau aux pommes et noix de coco</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>100 g de farine</p>
+    <p>60 g de sucre</p>
+    <p>1 paquet de levure chimique</p>
+    <p>1 pincée de sel</p>
+    <p>4 cuillères à soupe d'huile</p>
+    <p>1 oeuf</p>
+    <p>6 cuillères à soupe de lait</p>
+    <p>4 pommes</p>
+    <p>1 poire</p>
+    <p>Pour la crème :</p>
+    <p>100 g de beurre</p>
+    <p>100 g de sucre</p>
+    <p>1 oeuf</p>
+    <p>100 g de noix de coco râpée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four thermostat 7. 
+    Pelez et coupez les fruits en fines lamelles ou en petits morçeaux. 
+    Préparez la pâte en mélangeant tous les ingrédients au fur et à mesure. 
+    Mélangez la pâte et les morçeaux de fruits. 
+    Beurrez un moule en verre et versez y la préparation. 
+    Faites cuire thermostat 7 pendant 20 mn ou jusqu'à ce qu'il commence à dorer. 
+    Pendant ce temps préparez la crème qui recouvrira le gâteau : 
+    Faites fondre le beurre, ajoutez le sucre, puis un oeuf battu en omelette et enfin la noix de coco râpée. 
+    Quand le gâteau est doré, recouvrez-le avec la crème et laissez-le dorer 10 à 15 mn. 
+    Servez tiède c'est délicieux. 
+    Bon appétit!
+    Vous pouvez faire varier la noix de coco par des amandes en poudre ou des noisettes pilées ou bien encore de la poudre de noix. 
+  ]]>
+  </preparation>
+</recette>

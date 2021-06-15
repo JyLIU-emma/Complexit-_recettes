@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17439">
+  <titre>Lasagnes au tofu</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de tofu</p>
+    <p>9 feuilles de lasagnes (précuites), soit 150 g</p>
+    <p>150 g de champignons</p>
+    <p>400 g de tomates</p>
+    <p>2 oignons</p>
+    <p>1 gousse d'ail</p>
+    <p>600 g de sauce béchamel</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>50 g de parmesan</p>
+    <p>herbes de Provence</p>
+    <p>muscade</p>
+    <p>sauce de soja</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites revenir dans une poêle huilée les oignons et les champignons coupés en lamelles. Ajoutez les tomates pelées et copées en morceaux, le tofu émietté et l'ail haché.
+    Ajoutez les herbes de Provence, la muscade, la sauce de soja et le poivre. Laissez mijoter 20 minutes.
+    Préparez la sauce béchamel. Dans un plat à four rectangulaire huilé, disposez un fond de béchamel puis une couche de 3 lasages, recouvrez avec la moitié du mélange tofu + légumes et une couche de béchamel.
+    Disposez une deuxième couche de lasagnes, les reste du mélange tofu + légumes, les dernières lasagnes et recouvrir de béchamel. Parsemez de parmesan.
+    Cuisez à four chaud 30 minutes (200°C/thermostat 6-7).
+  ]]>
+  </preparation>
+</recette>

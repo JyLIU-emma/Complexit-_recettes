@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17465">
+  <titre>Cake à la feta et aux herbes fraîches</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>180 g de farine</p>
+    <p>100 g de gruyère râpé</p>
+    <p>3 oeufs</p>
+    <p>1 sachet de levure</p>
+    <p>10 cl d'huile d'olive</p>
+    <p>4 cuillères à café d'huile végétale</p>
+    <p>10 cl de lait</p>
+    <p>200 g de feta</p>
+    <p>2 à 3 poignées d'herbes fraîches (basilic, persil, ciboulette)</p>
+    <p>1 noix de beurre, sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, mélanger la farine et la levure.
+    Dans un autre récipient, battre au fouet manuel les oeufs entiers, l'huile, le lait; saler et poivrer. 
+    Verser la préparation aux oeufs sur la farine, mélanger délicatement.
+    Ajouter le gruyère râpé et incorporer la feta en cubes et les herbes fraîches ciselées.
+    Verser la préparation dans un moule à cake beurré et enfourner à 180°C (Th 6) pendant 50 min environ.
+    Avec une salade verte, succès garanti!
+  ]]>
+  </preparation>
+</recette>

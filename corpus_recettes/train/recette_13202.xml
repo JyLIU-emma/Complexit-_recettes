@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13202">
+  <titre>Far breton facile</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine fine</p>
+    <p>150 g de sucre</p>
+    <p>1 paquet de sucre vanillé</p>
+    <p>4 gros oeufs</p>
+    <p>1 litre de lait</p>
+    <p>100 g de pruneaux dénoyautés (qu'on aura fait tremper dans de l'eau avec un peu de rhum)</p>
+    <p>1 petit verre de rhum</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la farine, le sucre et les oeufs un par un. Ajouter le sucre vanillé et le lait peu à peu. Ajouter le rhum.
+    Verser cette pâte dans un plat bien beurré, y placer les pruneaux et cuire à four chaud (thermostat 6/7, soit 200°C environ). Surveiller la cuisson à partir de 35 mn.
+    On peut remplacer les pruneaux par des raisins trempés dans le rhum. Attention: le vrai far breton ne contient ni raisins ni pruneaux!
+  ]]>
+  </preparation>
+</recette>

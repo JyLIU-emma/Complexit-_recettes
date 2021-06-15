@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23307">
+  <titre>Crème d'asperges glacée</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 bottes d'asperges vertes</p>
+    <p>1 pomme de terre cuite</p>
+    <p>15 cl de bouillon de volaille</p>
+    <p>10 cl de crème fraîche</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les asperges dans le bouillon pendant 5 minutes. Couper les pointes et en réserver quelques-unes pour la décoration.
+    Mixer les asperges et la pomme de terre avec le bouillon. Passer à la passoire fine, ajouter la crème fraîche et assaisonner.
+    Laisser refroidir puis placer au réfrigérateur pendant au moins 1 heure.
+    Servir dans des verres et décorer avec des pointes d'asperges.
+  ]]>
+  </preparation>
+</recette>

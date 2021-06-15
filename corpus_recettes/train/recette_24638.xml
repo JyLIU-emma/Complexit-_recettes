@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24638">
+  <titre>Gâteau de semoule caramélisé</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>50 cl de lait</p>
+    <p>40 g de sucre semoule</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 cuillère à soupe de rhum</p>
+    <p>70 g de semoule de riz (ou de blé)</p>
+    <p>1 noisette de beurre</p>
+    <p>Pour le caramel :</p>
+    <p>10 morceaux de sucre</p>
+    <p>un peu d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Porter à ébullition le lait avec le sucre semoule, le sucre vanillé et le rhum. Y ajouter la semoule puis laisser cuire 15 à 20 min à feu doux sans cesser de remuer.
+    Retirer du feu, puis incorporer une noisette de beurre et verser le tout dans un compotier.
+    Préparer ensuite le caramel : faire fondre le sucre avec un peu d'eau et laisser cuire jusqu'à ce qu'il roussisse.
+    Verser le caramel sur la semoule et déguster tiède ou frais.
+    A déguster nature ou avec une purée d'abricots.
+  ]]>
+  </preparation>
+</recette>

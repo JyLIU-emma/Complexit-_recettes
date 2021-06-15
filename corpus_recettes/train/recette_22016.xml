@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22016">
+  <titre>Gâteau aux noix et son glaçage au café</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>180 g de noix</p>
+    <p>190 g de sucre</p>
+    <p>30 g de sucre glace</p>
+    <p>4 biscuits à la cuillère</p>
+    <p>1 cuillère de rhum</p>
+    <p>3 cuillères à soupe de crème fraîche</p>
+    <p>1 petite cuillère d'extrait de café liquide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 150°C (thermostat 5).
+    Fouetter les jaunes d'oeufs avec le sucre et le rhum jusqu'à ce que le mélange blanchisse puis ajouter les noix hachées et les biscuits émiéttés. 
+    Incorporer délicatement les blancs d'oeufs battus en neige ferme.
+    Verser la préparation dans un moule beurré et fariné puis enfourner pour 45 minutes de cuisson.
+    Démouler le gâteau sur une grille et laisser refroidir.
+    Préparer le glaçage en mélangeant le sucre glace avec l'extrait de café et la crème puis en recouvrir le gâteau.
+  ]]>
+  </preparation>
+</recette>

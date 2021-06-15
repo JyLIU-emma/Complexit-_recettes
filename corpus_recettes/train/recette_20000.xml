@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20000">
+  <titre>Tarte poire et potimaron</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>32 cl de confiture de potimarron</p>
+    <p>5 cl crème fraîche</p>
+    <p>3 poires</p>
+    <p>150 g de farine</p>
+    <p>75 g de beurre</p>
+    <p>2 oeufs</p>
+    <p>beurre demi-sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Chemiser un moule beurré de pâte brisée ; recouvrir de moitiés de poires. Dans un bol, mélanger les oeufs, 2 oeufs entiers, la confiture de potimarrons et la crème. Verser sur les poires. 
+    Cuire la tarte à 180°C (350°F)  environ 35 à 40 min ou jusqu'à ce que la tarte soit cuite - attention ! La préparation est un peu comme celle d'une quiche aussi il ne faut pas trop faire cuire pour perdre alors tout son moelleux. Vérifier la cuisson en la piquant avec la pointe d'un couteau. Un peu avant la fin de la cuisson, saupoudrer de sucre roux et faire caraméliser. Servir chaud ou froid.C'est une excellente façon d'utiliser vote confiture de potimarron ou autre confiture de courge! 
+  ]]>
+  </preparation>
+</recette>

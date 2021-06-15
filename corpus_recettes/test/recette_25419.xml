@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25419">
+  <titre>Salade lyonnaise au saucisson</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 saucisson à cuire aux pistaches</p>
+    <p>une salade (chicorée frisée)</p>
+    <p>150 g de lardons fumés</p>
+    <p>50 g de cerneaux de noix</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>1 cuillère à soupe de vinaigre</p>
+    <p>1 cuillère à café de moutarde</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir un grand volume d'eau dans une casserole, y faire cuire le saucisson 30 minutes.
+    Pendant ce temps, nettoyer et éplucher la salade.
+    Faire dorer les lardons à la poêle avec un peu de matière grasse.
+    Préparer une vinaigrette à la moutarde avec la moutarde, le vinaigre et l'huile, la verser sur la salade et mélanger. 
+    Ajouter les lardons, le saucisson coupé en rondelles et parsemer de cerneaux de noix.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25142">
+  <titre>Truites au cidre</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 truites vidées</p>
+    <p>30 cl de cidre brut</p>
+    <p>5 cuillères à soupe de crème</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Disposer les truites dans un plat à four beurré et les recouvrir de cidre.
+    Enfourner pour 30 minutes de cuisson.
+    Récupérer le jus de cuisson, lui ajouter la crème et reverser sur les truites.
+    Saler, poivrer et servir.
+  ]]>
+  </preparation>
+</recette>

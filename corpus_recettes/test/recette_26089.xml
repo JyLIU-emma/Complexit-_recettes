@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26089">
+  <titre>Faux-filet sauce aux cèpes</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 tranches de faux-filet de 500 à 600 g chacune</p>
+    <p>480 g de tomates pelées (1 grosse boîte) </p>
+    <p>50 g de cèpes séchés</p>
+    <p>1 bouquet garni</p>
+    <p>4 gousses d'ail</p>
+    <p>2 échalotes</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>75 g de crème fraîche</p>
+    <p>30 g de beurre</p>
+    <p>2 cuillerées à soupe d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites parer les faux-filets par le boucher.
+    Faites tremper les cèpes 10 minutes dans de l'eau tiède.  Hachez l'ail et les échalotes.
+    Faites cuire la viande dans une poêle bien chaude avec l'huile et le beurre. Le temps de cuisson dépend de votre goût.
+    Dès que la viande est cuite, ôtez de la poêle et réservez au chaud. Faites fondre l'ail et l'échalote dans la poêle puis ajoutez les tomates égouttées, le bouquet garni, du sel et du poivre. Faites cuire à feu vif pendant 5 minutes.
+    Ajoutez le vin blanc, les cèpes égouttés et leur eau de trempage filtrée. Poursuivez la cuisson 10 minutes puis versez la crème fraîche.
+    Nappez la viande de cette sauce et servez immédiatement.
+  ]]>
+  </preparation>
+</recette>

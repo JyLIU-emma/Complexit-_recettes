@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14054">
+  <titre>Potage à l'oseille</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>40 feuilles d'oseille</p>
+    <p>1/2 l de lait</p>
+    <p>1,5 l d'eau</p>
+    <p>3 cubes de bouillon dégraissé</p>
+    <p>2 oeufs</p>
+    <p>100 g de vermicelle</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Oter les queues de l'oseille et les faire fondre doucement dans un peu d'huile d'olive.
+    Ajouter l'eau, la moitié du lait et les cubes.
+    Amener à ébullition et verser les pâtes.
+    Quand les pâtes sont presque cuites, séparer les blancs d'oeufs et les introduire directement dans le liquide bouillant en tournant légèrement.
+    Réserver les jaunes et les battre avec le reste de lait.
+    Au moment de servir, ajouter le mélange jaune d'oeufs lait en ayant pris soin de retirer la casserole du feu. Servir.
+    Recette de mon grand-père qui aurait aujourd'hui presque 100 ans.
+  ]]>
+  </preparation>
+</recette>

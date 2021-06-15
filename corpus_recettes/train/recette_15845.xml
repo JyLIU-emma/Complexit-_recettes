@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15845">
+  <titre>Court-bouillon de poisson créole</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1/2 litre d'eau</p>
+    <p>jus de 4 citrons verts</p>
+    <p>1 kg de poisson blanc</p>
+    <p>1 gros oignon émincé</p>
+    <p>1 gousse d'ail émincée</p>
+    <p>1 piment lampion entier</p>
+    <p>thym, poivre, sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver le poisson sous l'eau froide, couper en deux dans le sens de la largeur.
+    Dans un récipient, mélanger l'eau, les 3 jus de citrons verts, l'oignon et l'ail émincés, le sel et le poivre, puis ajouter le piment entier et le thym.
+    Faire mariner le poisson dans cette préparation pendant 1 heure à température ambiante. Dans une casserole, verser la marinade, puis amener à ébullition. Laisser bouillir 5 mn.
+    Ajouter le poisson. Amener l'eau à nouveau au point d'ébullition. Couvrir, baisser le feu au minimum et laisser mijoter pendant 8 à 10 mn. 
+    Retirer le poisson et le déposer dans des assiettes creuses. Ajouter au liquide de cuisson le dernier jus de citron vert, assaisonner, puis verser sur le poisson.
+    Pas de vin conseillé, ce plat est utilise en Martinique pour se remettre des soirées trop arrosées. Pour plus de goût et de 'piquant' vous pouvez légèrement inciser le piment (très relevé si complètement ouvert).
+  ]]>
+  </preparation>
+</recette>

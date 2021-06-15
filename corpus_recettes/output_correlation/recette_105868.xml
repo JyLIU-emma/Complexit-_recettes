@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="105868">
+  <titre>Coquilles saint jacques à la crème</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>18 noix de st jacques</p>
+    <p>25 cl de crème fraîche </p>
+    <p>2 échalotes hachées</p>
+    <p>2 jaunes d'œufs</p>
+    <p>60 g de beurre</p>
+    <p>60 g de farine pour la liaison de la sauce</p>
+    <p>1/2 citron</p>
+    <p>18 moules fraîches ou congelées</p>
+    <p>25 cl de vin blanc sec de bonne qualité</p>
+    <p>250 g de champignons frais, coupés en lamelles</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et gratter les moules, les mettre dans un faitout avec un verre de vin blanc, couvrir et porter à ébullition, dès qu'elles sont ouvertes les retirer et garder le jus de cuisson.
+    Mettre les noix de st jacques dans un récipient, ajouter le jus de cuisson des moules (filtré) et compléter par du vin blanc sec, sel + poivre,(toujours goûter au fur et à mesure de la péparation) elles doivent être couvertes. Porter à ébullition , cuisson 1 min, retirer les noix et réserver.
+    Ajouter les échalotes hachées au bouillon des noix, porter à ébullition et réduire de moitié.La sauce, pour 6 coquilles prévoir 1 litre de sauce :
+    Faire fondre le beurre. Dès qu'il est à ébullition (ne pas le laisser brûler) ajouter la farine et remuer tout en réduisant le feu, avec une spatule ou un fouet, laisser mijoter à feu doux tout en remuant 1 petite min. Cela doit rester bien blond.
+    Ajouter le jus d'échalotes par petites quantités tout en remuant et en dernier la crème fraiche. Rectifier l'assaisonnement et laisser mijoter 2 min à feu doux en remuant toujours, ajouter le jus de citron. Hors du feu, ajouter les jaunes d'œuf un par un en fouettant vivement.
+    Couper les noix en 2 ou 3 morceaux, placer la valeur de 3 noix dans chaque coquille ou cassolette, ajouter 3 moules cuites, et des lamelles de champignons, napper de sauce et laisser durcir et réserver au réfrigérateur.
+    Ces coquilles peuvent être préparées la veille voire 2 jours avant les fêtes (organisation), mais alors n'oubliez pas de les filmer pour éviter les mélanges d'odeur dans le frigo....Je peux vous assurer que cette recette est excellente et si vous respectez mes consignes  vous aurez droit aux félicitations, désormais je fais cette préparation et pourtant j'étais de la partie auparavant. vin blanc d'alsace 
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Laver</OPER> et <OPER id="o_2">gratter</OPER> les <INGRED id="8">moules</INGRED>, les <OPER id="o_3">mettre</OPER> dans un faitout avec un verre de <INGRED id="3">vin blanc</INGRED>, <OPER id="o_4">couvrir</OPER> et <OPER id="o_5">porter</OPER> à ébullition, dès qu'elles sont ouvertes les <OPER id="o_6">retirer</OPER> et <OPER id="o_7">garder</OPER> le <INGRED id="3">jus</INGRED> de cuisson. <OPER id="o_8">Mettre</OPER> les <INGRED id="1">noix de st jacques</INGRED> dans un récipient, <OPER id="o_9">ajouter</OPER> le <INGRED id="3">jus</INGRED> de cuisson des <INGRED id="2">moules</INGRED> ( filtré ) et <OPER id="o_10">compléter</OPER> par du <INGRED id="4">vin blanc sec</INGRED>, sel + poivre,(toujours <OPER id="o_11">goûter</OPER> au fur et à mesure de la péparation ) elles doivent être couvertes. <OPER id="o_12">Porter</OPER> à ébullition, cuisson 1 min, <OPER id="o_13">retirer</OPER> les <INGRED id="9">noix</INGRED> et réserver. <OPER id="o_14">Ajouter</OPER> les <INGRED id="3">échalotes hachées</INGRED> au <INGRED id="7">bouillon</INGRED> des noix, <OPER id="o_15">porter</OPER> à ébullition et réduire de moitié. La <INGRED id="6">sauce</INGRED>, pour 6 <INGRED id="1">coquilles</INGRED> <OPER id="o_16">prévoir</OPER> 1 <INGRED id="1">litre</INGRED> de <INGRED id="4">sauce</INGRED> : Faire <OPER id="o_17">fondre</OPER> le <INGRED id="1">beurre</INGRED>. Dès qu'il est à ébullition ( ne pas le laisser <OPER id="o_18">brûler</OPER> ) <OPER id="o_19">ajouter</OPER> la <INGRED id="8">farine</INGRED> et <OPER id="o_20">remuer</OPER> tout en réduisant le feu, avec une spatule ou un fouet, laisser <OPER id="o_21">mijoter</OPER> à feu doux tout en remuant 1 <INGRED id="2">petite</INGRED> min. Cela doit rester bien blond. <OPER id="o_22">Ajouter</OPER> le <INGRED id="9">jus</INGRED> d'<INGRED id="3">échalotes</INGRED> par petites quantités tout en remuant et en dernier la <INGRED id="4">crème fraiche</INGRED>. <OPER id="o_23">Rectifier</OPER> l'assaisonnement et laisser <OPER id="o_24">mijoter</OPER> 2 min à feu doux en remuant toujours, <OPER id="o_25">ajouter</OPER> le <INGRED id="3">jus de citron</INGRED>. Hors du feu, <OPER id="o_26">ajouter</OPER> les <INGRED id="9">jaunes</INGRED> d'<INGRED id="1">œuf</INGRED> un par un en fouettant vivement. <OPER id="o_27">Couper</OPER> les <INGRED id="6">noix</INGRED> en 2 ou 3 <INGRED id="1">morceaux</INGRED>, <OPER id="o_28">placer</OPER> la valeur de 3 <INGRED id="8">noix</INGRED> dans chaque coquille ou cassolette, <OPER id="o_29">ajouter</OPER> 3 moules cuites, et des lamelles de champignons, <OPER id="o_30">napper</OPER> de sauce et laisser <OPER id="o_31">durcir</OPER> et réserver au réfrigérateur. Ces <INGRED id="1">coquilles</INGRED> peuvent être préparées la veille voire 2 jours avant les fêtes ( organisation ), mais alors n'<OPER id="o_32">oubliez</OPER> pas de les <OPER id="o_33">filmer</OPER> pour éviter les mélanges d'odeur dans le frigo.... Je peux vous <OPER id="o_34">assurer</OPER> que cette recette est excellente et si vous respectez mes consignes vous aurez droit aux félicitations, désormais je fais cette <INGRED id="4">préparation</INGRED> et pourtant j'étais de la partie auparavant. <INGRED id="3">vin blanc</INGRED> d'alsace
+  </annotation>
+  <annotation methode="crf">
+  Laver et gratter les <INGRED>moules</INGRED> <INGRED>,</INGRED> les mettre dans un faitout avec un <INGRED>verre</INGRED> de <INGRED>vin blanc</INGRED> <INGRED>,</INGRED> couvrir et porter à ébullition <INGRED>,</INGRED> dès qu'elles sont ouvertes les retirer et garder le <INGRED>jus</INGRED> de cuisson. Mettre les <INGRED>noix</INGRED> de st jacques dans un récipient <INGRED>,</INGRED> ajouter le <INGRED>jus</INGRED> de cuisson des <INGRED>moules</INGRED> ( filtré ) et compléter par du <INGRED>vin blanc sec</INGRED> <INGRED>,</INGRED> <INGRED>sel</INGRED> + poivre,(toujours goûter au fur et à mesure de la péparation ) elles doivent être couvertes <INGRED>.</INGRED> Porter à ébullition <INGRED>,</INGRED> cuisson 1 min <INGRED>,</INGRED> retirer les <INGRED>noix</INGRED> et réserver <INGRED>.</INGRED> Ajouter les <INGRED>échalotes</INGRED> hachées au <INGRED>bouillon</INGRED> des <INGRED>noix</INGRED> <INGRED>,</INGRED> porter à ébullition et réduire de moitié <INGRED>.</INGRED> La <INGRED>sauce</INGRED> <INGRED>,</INGRED> pour 6 <INGRED>coquilles</INGRED> prévoir 1 litre de <INGRED>sauce</INGRED> <INGRED>:</INGRED> Faire fondre le <INGRED>beurre</INGRED> <INGRED>.</INGRED> Dès qu'il est à ébullition ( ne pas le laisser brûler ) ajouter la <INGRED>farine</INGRED> et remuer tout en réduisant le feu <INGRED>,</INGRED> avec une spatule <INGRED>ou</INGRED> un fouet <INGRED>,</INGRED> laisser mijoter à feu doux tout en remuant 1 <INGRED>petite</INGRED> min. Cela doit rester bien blond. Ajouter le <INGRED>jus</INGRED> d'<INGRED>échalotes</INGRED> par petites quantités tout en remuant et en dernier la <INGRED>crème fraiche</INGRED>. Rectifier l'assaisonnement et laisser mijoter 2 min à feu doux en remuant toujours <INGRED>,</INGRED> ajouter le <INGRED>jus de citron</INGRED> <INGRED>.</INGRED> Hors du feu <INGRED>,</INGRED> ajouter les <INGRED>jaunes d'œuf</INGRED> un par un en fouettant vivement. Couper les <INGRED>noix</INGRED> en 2 <INGRED>ou</INGRED> 3 <INGRED>morceaux</INGRED> <INGRED>,</INGRED> placer la valeur de 3 <INGRED>noix</INGRED> dans chaque coquille <INGRED>ou</INGRED> cassolette <INGRED>,</INGRED> ajouter 3 moules cuites <INGRED>,</INGRED> et des <INGRED>lamelles</INGRED> de <INGRED>champignons</INGRED> <INGRED>,</INGRED> napper de <INGRED>sauce</INGRED> et laisser durcir et réserver au réfrigérateur. Ces <INGRED>coquilles</INGRED> peuvent être préparées la veille voire 2 jours avant les fêtes ( organisation ) <INGRED>,</INGRED> mais alors n'oubliez pas de les filmer pour éviter les mélanges d'odeur dans le frigo.... Je peux vous assurer que cette recette est excellente et si vous respectez mes consignes vous aurez droit aux félicitations <INGRED>,</INGRED> désormais je fais cette préparation et pourtant j'étais de la partie auparavant <INGRED>.</INGRED> <INGRED>vin blanc</INGRED> d'alsace
+  </annotation>
+  <complexite>
+    <temps>f(X) = 79.258064516129*X + 11.741935483871</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 41*X + 12</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['noix de st jacques', 'noix']	 id:1	 quantité:18	 unité:non_precis	 denombrable:True	 recipient:18*X
+ingredient:['crème fraîche', 'crème']	 id:2	 quantité:25	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['échalotes hachées', 'échalotes']	 id:3	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:["jaunes d'œufs", 'jaunes']	 id:4	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['beurre']	 id:5	 quantité:60	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:6	 quantité:60	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['citron']	 id:7	 quantité:1/2	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['moules fraîches ou congelées', 'moules']	 id:8	 quantité:18	 unité:non_precis	 denombrable:True	 recipient:18*X
+ingredient:['vin blanc sec de bonne qualité', 'vin']	 id:9	 quantité:25	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['champignons frais', 'champignons']	 id:10	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['coupés en lamelles', 'coupés']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:laver	 id:o_1	 ingrédients_ralatifs:['8', '3', '3']	 nombre_opération_atomique:18*X+2*X+2*X	 temps:18*X*1+2*X*1+2*X*1	 recipient:0
+operation:gratter	 id:o_2	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_3	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:couvrir	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:porter	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_6	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garder	 id:o_7	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_8	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:['1', '3', '2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:compléter	 id:o_10	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:goûter	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:porter	 id:o_12	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_13	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_14	 ingrédients_ralatifs:['3', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:porter	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:prévoir	 id:o_16	 ingrédients_ralatifs:['1', '1', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fondre	 id:o_17	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:brûler	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_19	 ingrédients_ralatifs:['8', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_21	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:ajouter	 id:o_22	 ingrédients_ralatifs:['9', '3', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rectifier	 id:o_23	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:ajouter	 id:o_25	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_26	 ingrédients_ralatifs:['9', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_27	 ingrédients_ralatifs:['6', '1', '8']	 nombre_opération_atomique:1+18*X+18*X	 temps:1*X*1+18*X*1+18*X*1	 recipient:1
+operation:placer	 id:o_28	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_29	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:napper	 id:o_30	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:durcir	 id:o_31	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:oublier	 id:o_32	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:filmer	 id:o_33	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:assurer	 id:o_34	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24400">
+  <titre>Gateau à la vanille sans cuisson</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 petits pots de crème dessert à la vanille (type danette) </p>
+    <p>2 paquets de biscuits (type petit beurre) </p>
+    <p>du rhum ou du café</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tremper un à un les petits gâteaux dans le rhum ou le café et les disposer en couche dans le plat de service. 
+    Alterner une couche de gâteau, une couche de crème dessert. 
+    Terminer pae une couche de gâteau. 
+    Mettre au frais 2 à 3 heures avant de servir
+    On peut aussi utiliser des boudoirs trempés. On peut remplacer la crème vanille par de la créme chocolat ou caramel ou alterner les parfums selon ses goûts.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13708">
+  <titre>Gâteau a la peau de lait</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 tasse de peau de lait (1/4 de l)</p>
+    <p>200 g de farine</p>
+    <p>200 g de sucre en poudre</p>
+    <p>4 oeufs</p>
+    <p>1 sachet de levure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la peau de lait avec le sucre.
+    Quand le mélange est homogène, ajouter la farine melangée au sachet de levure.
+    Ajouter alors les jaunes d'oeufs et les blancs battus en neige (bien fermes).
+    On peut y ajouter selon les goûts des raisins secs, du sucre vanillé ou encore remplacer une tasse de farine par 1,5 tasse d'amandes en poudre.
+    Cuire à four préchauffé (200°C) pendant environ 1h : une lame plongée dans le gâteau doit ressortir sèche (ou encore un peu humide, c'est délicieux).
+    Très facile à faire, mais il est de plus en plus difficile de trouver du lait cru (indispensable pour obtenir de la peau de lait).
+  ]]>
+  </preparation>
+</recette>

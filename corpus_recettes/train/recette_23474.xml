@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23474">
+  <titre>Salade tiède de poulet et mangues marinées</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 escalopes de poulet</p>
+    <p>1 mangue</p>
+    <p>Le jus de 2 citrons verts</p>
+    <p>4 échalotes</p>
+    <p>2 cuillères à soupe de sucre</p>
+    <p>4 cuillères à soupe d'huile d'olive</p>
+    <p>2 cuillères à soupe de shoyu (sauce soja japonaise) </p>
+    <p>sel, poivre</p>
+    <p>roquette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez la marinade : dans un récipient à fond plat, mélangez huile, shoyu, échalotes émincées, jus de citron, sucre. Salez et poivrez. 
+    Allongez dans cette préparation escalopes de poulet et tranches de mangue pelée. 
+    Laissez mariner 12 h minimum.
+    Au moment du dîner, découpez le poulet en aiguillettes et faites-le revenir à la poêle, dans un fond de marinade, jusqu'à ce qu'il obtienne une belle couleur caramélisée.
+    Laissez refroidir un instant, le temps de tailler les tranches de mangues en gros cubes.
+    Disposez poulet et mangue sur un lit de roquette tapissant chaque assiette. Arrosez de marinade.
+    Servez !
+    Beaucoup de saveur pour cette salade simple et peu chère. Vous pouvez mettre à disposition des invités de la menthe fraîche ciselée qu'ils pourront ajouter ou non dans leur assiette.
+    Préparé en grande partie la veille, ce plat permettra à celui qui cuisine de profiter de ses amis sans rester prisonnier des fourneaux toute la soirée!
+  ]]>
+  </preparation>
+</recette>

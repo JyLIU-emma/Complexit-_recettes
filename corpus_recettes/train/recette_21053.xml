@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21053">
+  <titre>Hérisson en chocolat aux amandes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>5 œufs</p>
+    <p>100 g de sucre</p>
+    <p>40 g de farine</p>
+    <p>80 g de cacao en poudre</p>
+    <p>100 g d'amandes en poudre</p>
+    <p>Pour le glaçage :</p>
+    <p>150 g de chocolat fondant</p>
+    <p>2 cuillères à soupe d'eau</p>
+    <p>60 g de sucre en poudre</p>
+    <p>30 g d'amandes effilées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 180°C (thermostat 6).
+    Dans un saladier, travailler le sucre avec 4 jaunes d’œufs et 1 œuf entier en fouettant vivement.
+    Incorporer la farine, le cacao et les amandes, puis mélanger délicatement.
+    Monter les 4 blancs en neige bien ferme, puis l’incorporer au mélange précédent et verser le tout dans un moule à cake légèrement beurré.
+    Enfourner à four chaud et laisser cuire 45 min.
+    Une fois cuit, démouler le biscuit puis le laisser reposer.
+    Préparer ensuite le glaçage :
+    Dans une casserole, faire fondre le chocolat avec un filet d’eau, puis y ajouter le sucre et bien mélanger.
+    Une fois le glaçage parfaitement lisse, l’étaler sur le gâteau à l’aide d’une spatule, puis le piquer d’amandes, de façon à former les pics d’un hérisson.
+    Déguster.
+  ]]>
+  </preparation>
+</recette>

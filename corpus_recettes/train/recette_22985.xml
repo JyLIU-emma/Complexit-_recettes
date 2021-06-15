@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22985">
+  <titre>Rôti de porc à l'abricot</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>un rôti de porc de 1,2 kg environ</p>
+    <p>1 cuillère à soupe de moutarde de Dijon</p>
+    <p>un demi pot de compote d'abricot (voir moins) </p>
+    <p>1 gousse d'ail pressée</p>
+    <p>sel et poivre au goût</p>
+    <p>2 oignons coupés en rondelles</p>
+    <p>1/4 l de bouillon de volaille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger tous les ingrédients ensemble, sauf le rôti et les rondelles d'oignons. 
+    Badigeonner le rôti de cette sauce et le coucher sur les oignons. 
+    Rectifier l'assaisonnement si besoin. 
+    Ajouter le bouillon, couvrir le rôti et mettre au four à 175°C (Th 6 ) pendant environ 1 h30 . 
+    Pour vérifier la cuisson, piquer avec un cure-dent. 
+    S'il pénètre facilement, le rôti est à point.
+    Vous pouvez remplacer la compote d'abricot par de la pêche ou une auter compote a votre gout Rouge ou rosé
+  ]]>
+  </preparation>
+</recette>

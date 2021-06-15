@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26271">
+  <titre>Poulet mariné sauce satay</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la préparation :</p>
+    <p>4-5 blancs de poulet</p>
+    <p>3 cuillères à soupe d'huile d'arachide</p>
+    <p>2 cuillères à soupe de sauce soja</p>
+    <p>1 cuillère à soupe de sauce d'huîtres</p>
+    <p>1 pincée de curcuma</p>
+    <p>Pour la sauce d'accompagnement :</p>
+    <p>1 boîte de lait de coco</p>
+    <p>1 pointe de pâte de curry rouge</p>
+    <p>1 pincée de curcuma</p>
+    <p>1 cuillère à café de sucre</p>
+    <p>1 cuillère à soupe de beurre de cacahuètes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper les blancs de poulet en petits morceaux. 
+    Les mettre à mariner 20 min minimum dans la préparation. 
+    Les faire revenir ensuite 10-15 min dans une poêle. 
+    Pendant ce temps-là, préparer la sauce d'accompagnement en faisant chauffer le lait de coco à feu doux, en y ajoutant les autres ingrédients au fur et à mesure. 
+    Servir avec du riz blanc thaï ou du riz gluant.
+    Recette originale et très goûteuse bière chinoise
+  ]]>
+  </preparation>
+</recette>

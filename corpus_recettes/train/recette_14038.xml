@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14038">
+  <titre>Charlotte fondante au chocolat noir</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de chocolat noir</p>
+    <p>100 g de sucre</p>
+    <p>1/2 litre de lait</p>
+    <p>1/2 litre de crème</p>
+    <p>5 feuilles de gélatine</p>
+    <p>3 cuillères à soupe de grand marnier</p>
+    <p>1 paquet et demi de langues de chat</p>
+    <p>6 jaunes d'oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les feuilles de gélatine à ramollir dans un bol d'eau froide.
+    Raper le chocolat noir (ou plus simplement le casser en morceaux).
+    Faire bouillir le lait et la crème.
+    Fouetter les jaunes avec le sucre jusqu'à ce que le mélange blanchisse.
+    Verser le lait et la crème sur les jaunes en continuant à fouetter.
+    Reverser le tout dans la casserole et faire cuire à feu très doux.
+    Ajouter en plusieurs fois le chocolat puis la gélatine égouttée. Laisser tiédir.
+    Couvrir le fond d'un moule à manqué de 22 cm de diamètre de papier sulfurisé. Tapisser le fond et les parois de bicuits trempés légèrement dans le Grand Marnier.
+    Garnir l'intérieur avec la crème. Recouvrir de bicuits et réserver 12 heures au réfrigérateur.
+    Démouler et décorer de crème fouettée.
+  ]]>
+  </preparation>
+</recette>

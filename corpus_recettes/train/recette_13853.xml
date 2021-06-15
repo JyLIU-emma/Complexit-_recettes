@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13853">
+  <titre>Gratin lardons et oignons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 grosses pommes de terre</p>
+    <p>1 barquette de lardons</p>
+    <p>1 oignon</p>
+    <p>lait</p>
+    <p>crème fraîche</p>
+    <p>fromage râpé</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher, laver et couper les pommes de terre en rondelles fines.
+    Pendant ce temps, faire cuire les lardons et l'oignon emincé dans du beurre (pas trop, ils vont encore cuire 35 mn).
+    Dans un plat, appliquer une 1ère couche de pommes de terre, recouvrir avec les lardons / oignons, et mettre par dessus le reste des rondelles de pommes de terre.
+    A part, mélanger un peu de lait dans 2 cuillères de crème fraîche. Saler et poivrer.
+    Verser la mixture sur le gratin. Ajouter si nécessaire un peu de lait, vous devez a peine apercevoir le niveau de lait sur le côté du gratin.
+    Recouvrir de fromage râpé. Faire cuire à feu moyen / fort pendant 35 mn. Le fromage râpé doit former une croute.
+    Excellent avec une simple salade, ce plat est entre le gratin dauphinois et la tartiflette.
+  ]]>
+  </preparation>
+</recette>

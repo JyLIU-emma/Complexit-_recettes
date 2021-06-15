@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26033">
+  <titre>Emincé de porc aux bananes vertes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 tranches de filet de porc</p>
+    <p>4 échalotes</p>
+    <p>100 g de lardons non fumé</p>
+    <p>8 bananes vertes</p>
+    <p>1 noix de beurre</p>
+    <p>sel et poivre</p>
+    <p>2 pincées de curry</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher les échalotes. Peler et couper les bananes en 2
+    Faire fondre le beurre dans une casserole, y faire revenir la viande.
+    Ajoutez les échalotes et les lardons, versez 10 cl d'eau, couvrez et laissez cuire 20 min à feu doux. Ajoutez les bananes, laissez mijoter 10 minutes.
+    Salez, poivrez et saupoudrez de curry.
+    Pour servir, disposez les bananes dans un plat (sauf 4), posez les tranches de viande dessus et déposez 1/2 banane sur chaque.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17987">
+  <titre>Tarte sablée aux fruits rouges</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte sablée</p>
+    <p>1 kg de fruits rouges mélangés (frais ou surgelés)</p>
+    <p>35 cl de crème liquide</p>
+    <p>2 oeufs entiers</p>
+    <p>3 jaunes d'oeufs</p>
+    <p>100 g de sucre</p>
+    <p>1 cuillerée à café d'extrait de vanille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Egoutter les fruits. 
+    Foncer un moule à tarte beurré avec la pâte. Cuire à blanc à 180°C (th 6) 15 min. Saupoudrer le fond de tarte de sucre roux. Disposer les fruits. Saupoudrer à nouveau de sucre si les fruits sont peu sucrés. Préparer le flan en fouettant les oeufs entiers + les jaunes avec la crème, le sucre et la vanille. 
+    Verser sur les fruits. Cuire 30 à 35 min jusqu'à ce que la crème soit prise. Autre suggestion de garniture : framboises + pêches
+  ]]>
+  </preparation>
+</recette>

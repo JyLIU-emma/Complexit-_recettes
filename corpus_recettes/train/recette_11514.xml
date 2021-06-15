@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11514">
+  <titre>Matoufé (Belgique)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de lard maigre salé (non fumé) </p>
+    <p>4 cuillères à soupe de farine </p>
+    <p>25 cl de lait </p>
+    <p>25 cl d'eau </p>
+    <p>8 oeufs </p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le lard en petits lardons. Les faire rissoler dans une poêle. 
+    Pendant ce temps, délayer la farine avec le mélange lait-eau.
+    Ajouter les oeufs, assaisonner, et battre vigoureusement le mélange à la fourchette. 
+    Le verser sur les lardons, et faire cuire sans cesser de remuer, jusqu'à ce que les oeufs soient bien pris.
+    Recette que mes grands parents cuisinaient en Ardennes (Belgique)!Servir chaud, sur des tranches de pain de campagne.
+  ]]>
+  </preparation>
+</recette>

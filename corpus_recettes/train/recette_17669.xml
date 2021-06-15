@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17669">
+  <titre>Gâteau au chocolat sans farine et sans beurre</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 tablettes de chocolat à croquer</p>
+    <p>100 g de sucre</p>
+    <p>4 oeufs</p>
+    <p>100 g d'amandes en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le chocolat au bain-marie. 
+    Séparer les jaunes d'oeufs des blancs. 
+    Mélanger le sucre et les jaunes d'oeufs puis ajouter la poudre d'amande et le chocolat. 
+    Battre les blancs en neige et ajouter à la préparation (sans casser les blancs). 
+    Huiler un moule à cake, y verser la préparation et enfourner à 200 degrés pendant 45 mn /1 h
+  ]]>
+  </preparation>
+</recette>

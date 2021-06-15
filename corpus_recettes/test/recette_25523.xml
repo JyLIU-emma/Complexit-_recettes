@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25523">
+  <titre>Tarte aux champignons mijotés au vin blanc</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>400 g de champignons rosés des prés (ou de couche)</p>
+    <p>1 citron</p>
+    <p>150 g de lard fumé</p>
+    <p>1 oignon</p>
+    <p>30 g de beurre</p>
+    <p>1 bouquet garni</p>
+    <p>20 cl de vin blanc</p>
+    <p>4 œufs </p>
+    <p>200 g de crème fraîche</p>
+    <p>1 pincée de noix de muscade</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 180°C (thermostat 6) et faire cuire la pâte brisée à blanc avec des haricots secs pendant 10 min.
+    Pendant ce temps, laver, essuyer et émincer les champignons.
+    Les arroser du jus d’1 citron afin d’éviter qu’ils ne noircissent, puis détailler le lard en lardons.
+    Mettre les lardons à blanchir 2 min dans l’eau bouillante, les égoutter, les sécher et les réserver.
+    Eplucher et hacher finement l’oignon puis le faire revenir dans une poêle beurrée avec les champignons et le bouquet garni, puis laisser cuire 10 min sans cesser de remuer.
+    Mouiller le tout de vin blanc, puis laisser réduire à feu doux jusqu’à ce que les ¾ de la préparation se soient évaporés.
+    Pendant ce temps, battre les œufs avec le sel, le poivre et la crème.
+    Incorporer les lardons et la crème aux œufs avec les champignons lorsque la préparation a réduit, mélanger et laisser mijoter 3 min.
+    Verser la préparation sur la pâte précuite puis enfourner 30 min à 200°C (thermostat 6/7).
+  ]]>
+  </preparation>
+</recette>

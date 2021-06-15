@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20051">
+  <titre>Papillotes de porc aux olives et romarin</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de porc (échine)</p>
+    <p>4 brins de romarin</p>
+    <p>200 g d'olives noires</p>
+    <p>huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découpez la viande en dés.
+    Huilez 4 feuilles d'aluminium doublées et répartissez la viande et les olives dessus.
+    Salez, poivrez, déposez un brin de romarin et fermez les papillotes hermétiquement.
+    Faites cuire au four à 220°C (thermostat 7-8) environ 25 min.
+    Les petites olivez noires de Nice sont parfaites pour cette recette, mais les olives vertes conviennent également.
+    Accompagnez de riz et de ratatouille.
+  ]]>
+  </preparation>
+</recette>

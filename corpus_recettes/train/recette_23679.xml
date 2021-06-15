@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23679">
+  <titre>Gâteau caramélisé aux pruneaux</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de pruneaux</p>
+    <p>175 g de farine</p>
+    <p>225 g de sucre</p>
+    <p>145 g de beurre</p>
+    <p>12 cl de lait</p>
+    <p>2 oeufs</p>
+    <p>1 pincée de sel</p>
+    <p>1 sachet de levure chimique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faîtes gonfler les pruneaux dans de l'eau ou du thé pendant 2 à 3 h minimum.
+    Préchauffez le four à 170°C (thermostat 5-6).
+    Faites fondre 70 g de beurre et versez-le dans un moule rectangulaire. Saupoudrez de 75 g de sucre. 
+    Disposez les pruneaux égouttés dans le plat.
+    Mélangez la farine avec le reste de sucre, la levure, le sel, le reste de beurre fondu, le lait tiède et les oeufs.
+    Versez la pâte sur les pruneaux et faites cuire le gâteau 40 min au four.
+  ]]>
+  </preparation>
+</recette>

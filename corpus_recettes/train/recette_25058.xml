@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25058">
+  <titre>Cheesecake chocolaté</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de gâteaux secs (types "petit beurre") </p>
+    <p>130 g de beurre</p>
+    <p>120 g de sucre</p>
+    <p>2 cuillères à soupe de chocolat en poudre</p>
+    <p>500 g de fromage blanc à 0%</p>
+    <p>4 oeufs</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>30 g de maïzena</p>
+    <p>le jus d'un citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ecraser finement les gâteaux secs (on peut le faire au mixer). 
+    Les mélanger avec le chocolat en poudre et 70 g de beurre fondu. 
+    Etaler la pâte en tassant bien dans un moule à manqué à fond amovible. 
+    Dans un saladier, mélanger le reste du beurre fondu, le fromage blanc, le sucre, le sucre vanillé, les oeufs, la maïzena et le jus de citron. 
+    Verser ce mélange sur la pâte. 
+    Et enfourner 15 min à 200°C (th 6-7), puis 45 min à 160°C (th 5-6).
+    A déguster frais
+    Gâteau frais et consistant.
+  ]]>
+  </preparation>
+</recette>

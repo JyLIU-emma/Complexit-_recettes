@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16004">
+  <titre>Crêpes à la crème de marrons</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>120 g de farine</p>
+    <p>2 oeufs</p>
+    <p>120 g de crème de marrons</p>
+    <p>30 cl de lait</p>
+    <p>beurre </p>
+    <p>rhum ou de bière</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre la farine dans un saladier. Y creuser un gros trou. Casser les œufs au milieu. Mélanger en incorporant doucement la farine. Incorporer la crème de marrons. Mélanger.
+    Ajouter petit à petit le lait. Laisser reposer 1h à température ambiante. Ajouter le beurre fondu et le rhum ou la bière.
+    Faire cuire dans une poêle anti-adhésive. cidre
+  ]]>
+  </preparation>
+</recette>

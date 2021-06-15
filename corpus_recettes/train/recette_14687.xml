@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14687">
+  <titre>Aubergines au roquefort</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 aubergines</p>
+    <p>75 g de roquefort</p>
+    <p>50 g de beurre</p>
+    <p>2 gousses d'ail</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le roquefort au beurre en pommade, ajouter l'ail réduit en purée.
+    Couper les aubergines en deux (dans le sens de la longueur) et les strier profondément de l'intérieur, sans percer la peau. Tartiner le mélange de roquefort en le faisant pénétrer profondément dans les stries.
+    Cuire soit au barbecue (le meilleur) soit dans une poêle couverte, ou encore à four doux.
+  ]]>
+  </preparation>
+</recette>

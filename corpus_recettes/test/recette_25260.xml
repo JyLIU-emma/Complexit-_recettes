@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25260">
+  <titre>Pomme de terre aux saucisses</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 kg de pommes de terre (grosses) se gardant fermes à la cuisson.</p>
+    <p>12 saucisses knacks</p>
+    <p>1 oignon</p>
+    <p>1 boîte de concentré de tomate</p>
+    <p>1 cube de bouillon de boeuf</p>
+    <p>50 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les pommes de terre et les trouer à l'aide d'un videur de pommes. 
+    Mettre les saucisses dans le trou des pommes de terre et les couper à dimension de la pomme de terre. 
+    Éplucher l'oignon et, dans une cocotte-minute, le faire revenir dans 50 g de beurre. 
+    Ensuite mettre les pomme de terre dans la cocotte, saler, poivrer, couvrir d'eau, ajouter le cube de bouillon de boeuf et incorporer le concentré de tomate. 
+    Fermer et lorsque la soupape se met à tourner, laisser cuire 30 mn à feu vif. 
+    Laisser partir la vapeur et servir très chaud, bon appétit.
+    Plat pour personne pressée.
+  ]]>
+  </preparation>
+</recette>

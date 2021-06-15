@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="105850">
+  <titre>Fondant marbré aux deux chocolats</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de chocolat blanc</p>
+    <p>200 g de chocolat noir à 50% de cacao</p>
+    <p>10 oeufs</p>
+    <p>100 g de farine</p>
+    <p>200 g de sucre</p>
+    <p>100 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    préparer la pâte au chocolat blanc:
+    faire fondre le chocolat blanc avec 50 g de beurre. Pendant ce temps mélanger 5 oeufs avec 100 g de sucre jusqu'à ce que le mélange blanchisse. rajouter 50g  farine et le chocolat fondu. Bien mélanger jusqu'à ce que la préparation soit homogène.
+    Faire exactement la même chose pour la pâte au chocolat noir. 
+    Beurrer un moule à manqué (28/30 cm) , y verser simultanément les deux pâtes ou l'une après l'autre si vous n'avez pas d'aide (procéder comme pour un marbré classique)  
+    faire cuire à 200° 20 minutes pour avoir un gâteau encore fondantServir avec une crème anglaise. C'est divin
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">préparer</OPER> la <INGRED id="1">pâte</INGRED> au <INGRED id="1">chocolat blanc</INGRED> : faire <OPER id="o_2">fondre</OPER> le <INGRED id="1">chocolat blanc</INGRED> avec <INGRED id="3">50</INGRED> <INGRED id="1">g</INGRED> de <INGRED id="2">beurre</INGRED>. Pendant ce temps <OPER id="o_3">mélanger</OPER> 5 <INGRED id="1">oeufs</INGRED> avec 100 <INGRED id="1">g</INGRED> de <INGRED id="3">sucre</INGRED> jusqu'à ce que le mélange blanchisse. <OPER id="o_4">rajouter</OPER> <INGRED id="3">50</INGRED> <INGRED id="1">g</INGRED> <INGRED id="1">farine</INGRED> et le <INGRED id="1">chocolat</INGRED> fondu. Bien <OPER id="o_5">mélanger</OPER> jusqu'à ce que la préparation soit homogène. Faire exactement la même chose pour la <INGRED id="1">pâte</INGRED> au <INGRED id="1">chocolat noir</INGRED>. <OPER id="o_6">Beurrer</OPER> un moule à manqué ( 28/30 cm ), y <OPER id="o_7">verser</OPER> simultanément les deux <INGRED id="2">pâtes</INGRED> ou l'une après l'autre si vous n'avez pas d'aide ( <OPER id="o_8">procéder</OPER> comme pour un marbré classique ) faire <OPER id="o_9">cuire</OPER> à 200 ° 20 minutes pour avoir un gâteau encore <OPER id="o_10">fondantServir</OPER> avec une crème anglaise. C'est divin
+  </annotation>
+  <annotation methode="crf">
+  préparer la <INGRED>pâte</INGRED> au <INGRED>chocolat</INGRED> <INGRED>blanc</INGRED> <INGRED>:</INGRED> faire fondre le <INGRED>chocolat</INGRED> <INGRED>blanc</INGRED> avec 50 <INGRED>g</INGRED> de <INGRED>beurre</INGRED> <INGRED>.</INGRED> Pendant ce temps mélanger 5 <INGRED>oeufs</INGRED> avec 100 <INGRED>g</INGRED> <INGRED>de sucre</INGRED> jusqu'à ce que le <INGRED>mélange</INGRED> blanchisse <INGRED>.</INGRED> rajouter 50 <INGRED>g</INGRED> <INGRED>farine</INGRED> et le <INGRED>chocolat fondu</INGRED>. Bien mélanger jusqu'à ce que la préparation soit homogène <INGRED>.</INGRED> Faire exactement la même chose pour la <INGRED>pâte</INGRED> au <INGRED>chocolat noir</INGRED> <INGRED>.</INGRED> Beurrer un moule à manqué ( 28/30 <INGRED>cm</INGRED> ) <INGRED>,</INGRED> y verser simultanément les <INGRED>deux</INGRED> <INGRED>pâtes</INGRED> <INGRED>ou</INGRED> l'une après l'autre si vous n'avez pas d'aide ( procéder comme pour un marbré classique ) faire cuire à 200 ° 20 minutes pour avoir un gâteau encore fondantServir avec une <INGRED>crème anglaise</INGRED>. C'est divin
+  </annotation>
+  <complexite>
+    <temps>f(X) = 6.66666666666667*X + 3.33333333333333</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 10*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['chocolat blanc', 'chocolat']	 id:1	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['chocolat noir à 50 % de cacao', 'chocolat']	 id:2	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:3	 quantité:10	 unité:non_precis	 denombrable:True	 recipient:10*X
+ingredient:['farine']	 id:4	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:5	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:6	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préparer	 id:o_1	 ingrédients_ralatifs:['1', '1', '1', '3', '1', '2']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:fondre	 id:o_2	 ingrédients_ralatifs:['1', '3', '1', '2']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:['1', '1', '3']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:rajouter	 id:o_4	 ingrédients_ralatifs:['3', '1', '1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:beurrer	 id:o_6	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_7	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:procéder	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:3	 recipient:0
+operation:cuire	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:fondantservir	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

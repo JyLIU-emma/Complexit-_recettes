@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21973">
+  <titre>Moelleux à l'orange</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 oranges coupées en rondelles fines</p>
+    <p>1/4 de l d'eau</p>
+    <p>100 g de sucre</p>
+    <p>1 génoise</p>
+    <p>crème pâtissière</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les rondelles d'orange 20 mn dans l'eau. Ajouter le sucre, cuire 20 mn (ajouter de l'eau si nécessaire). 
+    Dans un moule amovible huilé disposer les rondelles d'orange, couvrir de la moitié de la génoise trempée du sirop de cuisson. Recouvrir de crème pâtissière. Terminer par la deuxième moitié de génoise imbibée du sirop de cuisson. 
+    Poser un poids dessus et tenir au frais. 
+    Démouler.
+  ]]>
+  </preparation>
+</recette>

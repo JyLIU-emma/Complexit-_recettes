@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19239">
+  <titre>SALADE AU LARD ARDENNAISE</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de lardons fumés</p>
+    <p>1 oignon</p>
+    <p>les feuilles vertes (extérieures, celles que l'on jette) de 2 salades (batavia, scarole) </p>
+    <p>6 pommes de terre de taille moyenne</p>
+    <p>10 cl de vinaigre de vin</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pommes de terre à l'eau avec leur peau. 
+    Dans un faitout, faire revenir les lardons et l'oignon émincé. 
+    Ajouter petit à petit les feuilles de salade, au fur et à mesure qu'elles ramollissent. 
+    Ajouter les pommes de terre pelées et coupées en rondelles fines, puis le vinaigre de vin. Saler, poivrer.
+    C'est un plat qui est bien meilleur lorsqu'il est réchauffé ( à préparer la veille ). Bière blanche ou blonde
+  ]]>
+  </preparation>
+</recette>

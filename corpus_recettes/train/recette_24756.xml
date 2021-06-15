@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24756">
+  <titre>Dinde en cocotte au cidre sur lit de légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 dinde de 3 kg</p>
+    <p>100 g de beurre</p>
+    <p>6 carottes</p>
+    <p>4 oignons</p>
+    <p>1 branche de céleri</p>
+    <p>3 gousses d'ail</p>
+    <p>30 cl de cidre</p>
+    <p>8 cl de Calvados</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et détailler grossièrement les carottes, le céleri et les oignons, puis les hacher.
+    Dans une grande cocotte, mettre la dinde salée et poivrée à dorer sur toutes les faces avec le beurre chaud.
+    Puis, ôter la dinde, mettre tous les légumes dans la cocotte et remettre la dinde par-dessus. Verser le cidre, fermer la cocotte et laisser cuire 3 h à feu moyen.
+    Verser ensuite le calvados et flamber aussitôt.
+    Déposer la dinde sur un plat chaud, passer la sauce au tamis et la servir à part. Il est possible également de rajouter de la crème fraîche dans la sauce et de la faire réduire un peu.
+    En accompagnement, des pommes noisettes ou de la purée au thym seront parfaits.
+  ]]>
+  </preparation>
+</recette>

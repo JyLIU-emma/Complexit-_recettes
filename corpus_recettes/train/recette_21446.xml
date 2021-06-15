@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21446">
+  <titre>Croque-monsieur au roquefort</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 tranches de pain de mie</p>
+    <p>50 g de Roquefort </p>
+    <p>20 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Malaxer du beurre et du Roquefort. Etaler ce mélange sur une tranche de pain de mie. La recouvrir d'un morceau de jambon. Refermer avec la deuxième tranche tartinée également de mélange au Roquefort. Dorer de chaque côté.
+  ]]>
+  </preparation>
+</recette>

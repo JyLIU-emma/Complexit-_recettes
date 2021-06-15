@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25251">
+  <titre>Gâteau Normand express</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 oeufs</p>
+    <p>4 cuillères à soupe de sucre</p>
+    <p>4 cuillères à soupe de farine</p>
+    <p>4 cuillères à soupe de fromage blanc</p>
+    <p>1 sachet de levure chimique</p>
+    <p>2 pommes</p>
+    <p>2 cuillères à soupe de calvados</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 220°C. 
+    Séparer les jaunes des blancs d'oeufs. 
+    Dans une terrine, mélanger les jaunes avec le sucre jusqu'à ce que le mélange soit mousseux. 
+    Ajouter ensuite la farine ainsi que la levure chimique et bien mélanger. 
+    Puis mettre le fromage blanc. 
+    Bien mélanger le tout. 
+    Aromatiser avec le calvados. 
+    Battre les blanc en neige bien ferme. 
+    Eplucher, épépiner les pommes et les couper en petit dés. 
+    Ajouter petit à petit les blanc en neige à la préparation, en mélangeant doucement. 
+    Mélanger ensuite les dés de pommes à la préparation. 
+    Verser le tout dans un moule beurré et fariné. 
+    Mettre au four environ 1/2 heure.
+    Gateau très facile et très rapide à préparer
+  ]]>
+  </preparation>
+</recette>

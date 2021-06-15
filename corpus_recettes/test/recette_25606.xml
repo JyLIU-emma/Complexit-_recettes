@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25606">
+  <titre>Flammekueche au Munster</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilleté</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>1/2 petit Munster</p>
+    <p>1/2 oignon</p>
+    <p>100 g de lardons fumés</p>
+    <p>grains de cumin, poivre, muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez l'oignon et émincez-le.
+     
+    Dans une poêle à revêtement anti-adhésif, faites revenir les petits lardons avec le demi-oignon. 
+    Pendant ce temps, étalez la pâte feuilleté sur une plaque allant au four et mettre le four à chauffer à 250°C. 
+    Etalez la crème fraîche sur la pâte. 
+    Saupoudrez de muscade, poivre et grains de cumin. 
+    Etalez uniformément la préparation lardons + oignon. 
+    Disposez les petites tranches de Munster sur le tout. 
+    Enfournez pendant 10 mn.
+    Servir chaud avec une salade verte.
+    Possibilité de rajouter des petits dés de tomates cerises. Riesling
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11425">
+  <titre>Samoussas (spécialité de l'océan indien)</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 oignon</p>
+    <p>3 gousses d'ail</p>
+    <p>1 poivron</p>
+    <p>200 g de filet de porc</p>
+    <p>1 morceau de gingembre</p>
+    <p>sel, poivre, cumin</p>
+    <p>20 feuilles de brick</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher finement tous les ingrédients et les faire revenir 10mn dans un peu d'huile d'olive. Laisser refroidir.
+    Couper les feuilles de brick en deux.
+    Dans chaque demi-feuille, déposer une cuiller à café du mélange précédent et replier la feuille de façon à faire un petit paquet. Fermer ce paquet à l'aide d'un cure-dents.
+    Badigeonner les samoussas ainsi préparés avec un peu d'huile d'olive et mettre 15-20 min au four thermostat 6-7. Mettre 1 min au gril en fin de cuisson.Les samoussas se conservent sans problème 3 à 4 jours au réfrigérateur.Réchauffer de préférence au four micro-ondes pour éviter qu'ils se dessèchent.
+  ]]>
+  </preparation>
+</recette>

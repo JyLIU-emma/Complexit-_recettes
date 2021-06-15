@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164720">
+  <titre>Soufflé de poulet au curry</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>•	1 blanc de poulet</p>
+    <p>•	100 g d’emmental râpé</p>
+    <p>•	70 g de beurre + 20 g pour les moules</p>
+    <p>•	1 c. à café de curry en poudre</p>
+    <p>•	6 œufs</p>
+    <p>•	30 cl de lait</p>
+    <p>•	70 g de farine</p>
+    <p>•	1 c. à soupe d’huile</p>
+    <p>•	Sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites chauffer l’huile dans une poêle. Faire cuire le blanc de poulet en le retournant de temps en temps pendant 20 minutes.
+    Laissez-le refroidir puis le couper en petits morceaux. Passez-le au mixeur pour les réduire en hachis.
+    Préchauffez le four Th. 7 (210°).
+    Coupez le beurre en morceaux et faites-le fondre à feu doux. Versez toute la farine et laissez cuire 2 minutes en remuant tout le long. Retirez du feu. Séparez les blancs des jaunes d’œufs. Ajoutez les jaunes, le fromage râpé et le curry au mélange beurre/farine. Salez et poivrez, mélangez. Puis versez le lait froid et remettez sur feu doux. 
+    Faites cuire en remuant sans arrêt jusqu’à épaississement. Retirez du feu. Ajoutez le hachis de poulet, mélangez bien.
+    Battre les blancs d’œufs en neige et les incorporez délicatement à la préparation.
+    Beurrez un moule à soufflé, versez la pâte dedans et enfournez. 
+    Faites cuire 30 minutes sans ouvrir la porte du four. 
+    Servez dès la sortie du four. Un Pessac-léognan
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faites <OPER id="o_1">chauffer</OPER> l’ <INGRED id="4">huile</INGRED> dans une poêle. Faire <OPER id="o_2">cuire</OPER> le <INGRED id="1">blanc de poulet</INGRED> en le retournant de temps en temps pendant 20 minutes. Laissez - le <OPER id="o_3">refroidir</OPER> puis le <OPER id="o_4">couper</OPER> en <INGRED id="3">petits</INGRED> <INGRED id="1">morceaux</INGRED>. <OPER id="o_5">Passez</OPER> - le au mixeur pour les réduire en <INGRED id="3">hachis</INGRED>. <OPER id="o_6">Préchauffez</OPER> le four Th. 7 ( 210 ° ). <OPER id="o_7">Coupez</OPER> le <INGRED id="3">beurre</INGRED> en <INGRED id="1">morceaux</INGRED> et faites - le <OPER id="o_8">fondre</OPER> à feu doux. <OPER id="o_9">Versez</OPER> toute la <INGRED id="2">farine</INGRED> et laissez <OPER id="o_10">cuire</OPER> 2 minutes en remuant tout le long. <OPER id="o_11">Retirez</OPER> du feu. <OPER id="o_12">Séparez</OPER> les blancs des jaunes d’ <INGRED id="1">œufs</INGRED>. <OPER id="o_13">Ajoutez</OPER> les jaunes, le <INGRED id="4">fromage râpé</INGRED> et le curry au <INGRED id="7">mélange</INGRED> <INGRED id="2">beurre</INGRED> / farine. <OPER id="o_14">Salez</OPER> et <OPER id="o_15">poivrez</OPER>, <OPER id="o_16">mélangez</OPER>. Puis <OPER id="o_17">versez</OPER> le <INGRED id="4">lait</INGRED> froid et remettez sur feu doux. Faites <OPER id="o_18">cuire</OPER> en remuant sans arrêt jusqu’ à épaississement. <OPER id="o_19">Retirez</OPER> du feu. <OPER id="o_20">Ajoutez</OPER> le <INGRED id="3">hachis</INGRED> de poulet, mélangez bien. <OPER id="o_21">Battre</OPER> les blancs d’ <INGRED id="6">œufs</INGRED> en neige et les incorporez délicatement à la préparation. <OPER id="o_22">Beurrez</OPER> un moule à soufflé, <OPER id="o_23">versez</OPER> la <INGRED id="5">pâte</INGRED> dedans et enfournez. Faites <OPER id="o_24">cuire</OPER> 30 minutes sans <OPER id="o_25">ouvrir</OPER> la porte du four. Servez dès la sortie du four. Un Pessac - léognan
+  </annotation>
+  <annotation methode="crf">
+  Faites chauffer l’ <INGRED>huile</INGRED> dans une poêle <INGRED>.</INGRED> Faire cuire le <INGRED>blanc de poulet</INGRED> en le retournant de temps en temps pendant 20 minutes. Laissez - le refroidir puis le couper en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> <INGRED>.</INGRED> Passez - le au mixeur pour les réduire en hachis. Préchauffez le four Th. 7 ( 210 ° ). Coupez le <INGRED>beurre</INGRED> en <INGRED>morceaux</INGRED> et faites - le fondre à feu doux. Versez toute la <INGRED>farine</INGRED> et laissez cuire 2 minutes en remuant tout le long. Retirez du feu <INGRED>.</INGRED> Séparez les <INGRED>blancs</INGRED> des <INGRED>jaunes</INGRED> d’ <INGRED>œufs</INGRED> <INGRED>.</INGRED> Ajoutez les <INGRED>jaunes</INGRED> <INGRED>,</INGRED> le <INGRED>fromage râpé</INGRED> et le <INGRED>curry</INGRED> au <INGRED>mélange</INGRED> <INGRED>beurre</INGRED> / <INGRED>farine</INGRED>. Salez et poivrez <INGRED>,</INGRED> mélangez <INGRED>.</INGRED> Puis versez le <INGRED>lait froid</INGRED> et remettez sur feu doux. Faites cuire en remuant sans arrêt jusqu’ à épaississement. Retirez du feu <INGRED>.</INGRED> Ajoutez le hachis de <INGRED>poulet</INGRED> <INGRED>,</INGRED> mélangez bien <INGRED>.</INGRED> Battre les <INGRED>blancs</INGRED> d’ <INGRED>œufs</INGRED> en neige et les incorporez délicatement à la préparation <INGRED>.</INGRED> Beurrez un moule à soufflé <INGRED>,</INGRED> versez la <INGRED>pâte</INGRED> dedans et enfournez. Faites cuire 30 minutes sans ouvrir la porte du four <INGRED>.</INGRED> Servez dès la sortie du four <INGRED>.</INGRED> Un Pessac - léognan
+  </annotation>
+  <complexite>
+    <temps>f(X) = 22.3714285714286*X + 4.62857142857143</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 29*X + 15</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['blanc de poulet', 'blanc']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['emmental râpé', 'emmental']	 id:2	 quantité:100	 unité:g d'	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:3	 quantité:70	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['g']	 id:4	 quantité:20	 unité:non_precis	 denombrable:True	 recipient:20*X
+ingredient:['c. à café de curry en poudre', 'c']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['œufs']	 id:6	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['lait']	 id:7	 quantité:30	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:8	 quantité:70	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["c. à soupe d'huile", 'c']	 id:9	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['• 	 Sel', '•']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:chauffer	 id:o_1	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:cuire	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:refroidir	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:couper	 id:o_4	 ingrédients_ralatifs:['3', '1']	 nombre_opération_atomique:1+1*X	 temps:1*X*1+1*X*1	 recipient:1
+operation:passer	 id:o_5	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:préchauffer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:couper	 id:o_7	 ingrédients_ralatifs:['3', '1']	 nombre_opération_atomique:1+1*X	 temps:1*X*1+1*X*1	 recipient:1
+operation:fondre	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:verser	 id:o_9	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:retirer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:séparer	 id:o_12	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_13	 ingrédients_ralatifs:['4', '7', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:verser	 id:o_17	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:retirer	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_20	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_21	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:beurrer	 id:o_22	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_23	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:ouvrir	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

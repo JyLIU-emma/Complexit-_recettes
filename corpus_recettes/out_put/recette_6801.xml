@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="6801">
+  <titre>Toasts surprise à ma façon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tranches de pain de mie</p>
+    <p>100 g de Carré Frais</p>
+    <p>4 tranches de jambon fumé</p>
+    <p>1 échalote</p>
+    <p>un petit bouquet de persil</p>
+    <p>2 gousses d'ail</p>
+    <p>2 kiwis</p>
+    <p>sel, poivre, paprika</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites griller légèrement les tranches de pain de mie.
+    Mélangez dans un bol le Carré frais, les gousses d'ail et l'échalote finement hâchées, le sel, le poivre, et le paprika.
+    Déposez ce mélange 1/4 h au réfrigérateur.
+    Tartinez les toasts grillés de ce mélange.
+    Garnissez avec une tranche de jambon fumé roulée, dans laquelle vous aurez "caché" des petits morceaux de kiwi.
+    Décorez avec du persil. 
+     
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faites <OPER id="o_1">griller</OPER> légèrement les tranches de <INGRED id="7">pain de mie</INGRED>. <OPER id="o_2">Mélangez</OPER> dans un bol le <INGRED id="2">Carré frais</INGRED>, les gousses d'<INGRED id="4">ail</INGRED> et l'<INGRED id="8">échalote</INGRED> finement hâchées, le sel, le <INGRED id="10">poivre</INGRED>, et le <INGRED id="10">paprika</INGRED>. <OPER id="o_3">Déposez</OPER> ce mélange 1/4 h au réfrigérateur. <OPER id="o_4">Tartinez</OPER> les toasts grillés de ce mélange. <OPER id="o_5">Garnissez</OPER> avec une tranche de <INGRED id="3">jambon fumé</INGRED> roulée, dans laquelle vous aurez " caché " des petits morceaux de kiwi. <OPER id="o_6">Décorez</OPER> avec du <INGRED id="6">persil</INGRED>.
+  </annotation>
+  <annotation methode="crf">
+  Faites griller légèrement les tranches de <INGRED>pain de mie</INGRED> <INGRED>.</INGRED> Mélangez dans un bol le Carré <INGRED>frais</INGRED> <INGRED>,</INGRED> les gousses d'<INGRED>ail</INGRED> et l'<INGRED>échalote</INGRED> <INGRED>finement</INGRED> hâchées <INGRED>,</INGRED> le <INGRED>sel</INGRED> <INGRED>,</INGRED> le <INGRED>poivre</INGRED> <INGRED>,</INGRED> et le <INGRED>paprika</INGRED> <INGRED>.</INGRED> Déposez ce <INGRED>mélange</INGRED> <INGRED>1/4</INGRED> <INGRED>h</INGRED> au réfrigérateur. Tartinez les toasts grillés de ce <INGRED>mélange</INGRED> <INGRED>.</INGRED> Garnissez avec une tranche de <INGRED>jambon fumé</INGRED> roulée <INGRED>,</INGRED> dans laquelle vous aurez " caché " des <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> de kiwi. Décorez avec du <INGRED>persil</INGRED> <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 4.33333333333333*X + 1.66666666666667</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 13*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pain de mie', 'pain']	 id:1	 quantité:4	 unité:tranches de	 denombrable:True	 recipient:4*X
+ingredient:['Carré Frais', 'Carré']	 id:2	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['jambon fumé', 'jambon']	 id:3	 quantité:4	 unité:tranches de	 denombrable:True	 recipient:4*X
+ingredient:['échalote']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['bouquet de persil', 'bouquet']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['ail']	 id:6	 quantité:2	 unité:gousses d'	 denombrable:True	 recipient:2*X
+ingredient:['kiwis']	 id:7	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['sel']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['paprika']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:griller	 id:o_1	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:2*X*5	 recipient:1
+operation:mélanger	 id:o_2	 ingrédients_ralatifs:['2', '4', '8', '10', '10']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:déposer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:tartiner	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garnir	 id:o_5	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:décorer	 id:o_6	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

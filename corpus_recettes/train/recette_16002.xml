@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16002">
+  <titre>Pancake de pain perdu</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tranches fines de pain rassis</p>
+    <p>1 oeuf</p>
+    <p>4 cuillères à soupe de lait</p>
+    <p>1 cuillère à soupe de sucre</p>
+    <p>1 cuillère à café de beurre</p>
+    <p>sirop d'érable ou confiture</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre les oeufs et ajouter le lait et le sucre. 
+    Bien faire imbiber les tranches de pain de cette préparation.
+    Faire fondre le beurre dans une poêle et y faire cuire les tranches des deux côtés jusqu'à ce qu'elles soient bien dorées.
+    Servir comme des pancakes, recouverts de sirop ou de confiture.
+    Pour le petit déjeuner c'est très rapide à faire et meilleur que du pain rassis! thé ou café
+  ]]>
+  </preparation>
+</recette>

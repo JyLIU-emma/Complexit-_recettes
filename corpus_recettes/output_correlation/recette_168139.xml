@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168139">
+  <titre>Lasagnes végétariennes aux 3 légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>100 g de semoule de blé dur (fine)</p>
+    <p>1 oeuf</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>1 pincée de sel</p>
+    <p>Pour la garniture :</p>
+    <p>500 g d'épinard frais</p>
+    <p>2 tomates</p>
+    <p>1 carotte</p>
+    <p>1 oignon (+ 1/2 pour les gourmands)</p>
+    <p>10 cl de crème fraiche liquide</p>
+    <p>2 cuillères à soupe de miel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La pâte :Dans un grand saladier, verser la semoule de blé et former un puits.
+    Ajouter une pincée de sel
+    Ajouter l'oeuf entier
+    Malaxer la pâte à la fourchette en ramenant vers le centre
+    Verser une bonne cuillerée à soupe d'huile d'olive à la préparation
+    Continuer de malaxer, mais à la main cette fois ci
+    Quand la pâte est lisse et ne colle plus, former une boule, mettre sous film alimentaire et réserver (si la pâte colle, rajouter un peu de farine) 
+    La garniture :
+    Éplucher la carotte et la découper en petit dés (pas trop petits non plus... Ils doivent garder du croquant même après cuisson). Réserver les dés
+    Couper les oignons en gros dés
+    Couper les tomates en dés
+    Retirer la queue des feuilles d'épinards
+    Rincer les épinards et égoutter (grossièrement) les feuilles 
+    Dans une poêle à feu vif, cuire les épinards pendant 3 min avec un filet d'huile d'olive
+    En fin de cuisson, ajouter la crème liquide, réduire et réserver
+    Dans une poêle à feu vif, saisir les dés de tomates avec une bonne pincée de mélange d'herbes (origan, basilic, romarin...) pendant 4 - 5 minutes, en fin de cuisson ajouter une pincée de sucre et réserver
+    Dans une poêle, saisir les dés d'oignons. Ajouter le miel après 5 min de cuisson
+    Laisser caraméliser les oignons. La pâte (suite) :Sortir votre pâte du frigoÉtaler votre pâte de façon à obtenir une épaisseur d'environ 2 mm Le montage :Dans votre (ou vos) plat(s) étaler une couche d'épinards, puis quelques dés de tomates, ensuite les carottes, puis une légère couche d'oignon et une couche de pâte
+    Créer autant d'étages que nécessaire
+    Saupoudrer de fromage râpé et d'un peu de beurre
+    Enfourner à mi-hauteur à 180° (thermostat 6) pendant 25-30 minCette recette a été réalisée afin d'être présentée dans des récipients à crème brûlée
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  La <INGRED id="1">pâte</INGRED> : Dans un grand <INGRED id="1">saladier</INGRED>, <OPER id="o_1">verser</OPER> la <INGRED id="1">semoule</INGRED> de blé et former un puits. <OPER id="o_2">Ajouter</OPER> une pincée de sel <OPER id="o_3">Ajouter</OPER> l'<INGRED id="8">oeuf entier</INGRED> <OPER id="o_4">Malaxer</OPER> la <INGRED id="5">pâte</INGRED> à la fourchette en ramenant vers le centre <OPER id="o_5">Verser</OPER> une bonne <INGRED id="4">cuillerée à soupe d'huile d'olive</INGRED> à la <INGRED id="4">préparation</INGRED> <OPER id="o_6">Continuer</OPER> de <OPER id="o_7">malaxer</OPER>, mais à la main cette fois ci Quand la <INGRED id="5">pâte</INGRED> est lisse et ne colle plus, former une <INGRED id="1">boule</INGRED>, <OPER id="o_8">mettre</OPER> sous film alimentaire et réserver ( si la pâte colle, <OPER id="o_9">rajouter</OPER> un peu de farine ) La garniture : <OPER id="o_10">Éplucher</OPER> la <INGRED id="3">carotte</INGRED> et la <OPER id="o_11">découper</OPER> en petit <INGRED id="3">dés</INGRED> ( pas trop <INGRED id="3">petits</INGRED> non plus... Ils doivent <OPER id="o_12">garder</OPER> du croquant même après cuisson ). Réserver les <INGRED id="3">dés</INGRED> <OPER id="o_13">Couper</OPER> les <INGRED id="5">oignons</INGRED> en gros <INGRED id="3">dés</INGRED> <OPER id="o_14">Couper</OPER> les <INGRED id="1">tomates</INGRED> en <INGRED id="4">dés</INGRED> <OPER id="o_15">Retirer</OPER> la <INGRED id="3">queue</INGRED> des <INGRED id="4">feuilles</INGRED> d'épinards <OPER id="o_16">Rincer</OPER> les épinards et <OPER id="o_17">égoutter</OPER> ( grossièrement ) les <INGRED id="4">feuilles</INGRED> Dans une poêle à feu vif, <OPER id="o_18">cuire</OPER> les épinards pendant 3 min avec un <INGRED id="7">filet</INGRED> d'<INGRED id="3">huile d'olive</INGRED> En fin de cuisson, <OPER id="o_19">ajouter</OPER> la <INGRED id="1">crème liquide</INGRED>, réduire et réserver Dans une poêle à feu vif, <OPER id="o_20">saisir</OPER> les <INGRED id="3">dés</INGRED> de <INGRED id="5">tomates</INGRED> avec une bonne pincée de <INGRED id="7">mélange</INGRED> d'<INGRED id="5">herbes</INGRED> ( origan, basilic, romarin... ) pendant 4 - 5 minutes, en fin de cuisson <OPER id="o_21">ajouter</OPER> une pincée de sucre et réserver Dans une poêle, <OPER id="o_22">saisir</OPER> les <INGRED id="3">dés</INGRED> d'oignons. <OPER id="o_23">Ajouter</OPER> le <INGRED id="4">miel</INGRED> après 5 min de cuisson Laisser <OPER id="o_24">caraméliser</OPER> les oignons. La pâte ( suite ) : <OPER id="o_25">Sortir</OPER> votre <INGRED id="1">pâte</INGRED> du <OPER id="o_26">frigoÉtaler</OPER> votre pâte de façon à obtenir une épaisseur d'<INGRED id="1">environ</INGRED> 2 mm Le montage : Dans votre ( ou vos ) plat(s ) <OPER id="o_27">étaler</OPER> une couche d'épinards, puis quelques <INGRED id="3">dés</INGRED> de <INGRED id="5">tomates</INGRED>, ensuite les carottes, puis une légère couche d'<INGRED id="2">oignon</INGRED> et une couche de pâte <OPER id="o_28">Créer</OPER> autant d'étages que nécessaire <OPER id="o_29">Saupoudrer</OPER> de <INGRED id="7">fromage râpé</INGRED> et d'un peu de <INGRED id="8">beurre</INGRED> <OPER id="o_30">Enfourner</OPER> à mi-hauteur à 180 ° ( thermostat 6 ) pendant 25 - 30 minCette recette a été réalisée afin d'être présentée dans des récipients à crème brûlée
+  </annotation>
+  <annotation methode="crf">
+  La <INGRED>pâte</INGRED> <INGRED>:</INGRED> Dans un grand saladier <INGRED>,</INGRED> verser la <INGRED>semoule de blé</INGRED> et former un puits. Ajouter une pincée de <INGRED>sel</INGRED> Ajouter l'<INGRED>oeuf</INGRED> entier Malaxer la <INGRED>pâte</INGRED> à la fourchette en ramenant vers le centre Verser une bonne <INGRED>cuillerée</INGRED> à soupe d'<INGRED>huile d'olive</INGRED> à la préparation Continuer de malaxer <INGRED>,</INGRED> mais à la main cette fois ci Quand la <INGRED>pâte</INGRED> est lisse et ne colle plus <INGRED>,</INGRED> former une <INGRED>boule</INGRED> <INGRED>,</INGRED> mettre sous film alimentaire et réserver ( si la <INGRED>pâte</INGRED> colle <INGRED>,</INGRED> rajouter un peu de <INGRED>farine</INGRED> ) La garniture <INGRED>:</INGRED> Éplucher la <INGRED>carotte</INGRED> et la découper en <INGRED>petit</INGRED> dés ( pas trop <INGRED>petits</INGRED> non plus... Ils doivent garder du croquant même après cuisson ). Réserver les dés Couper les <INGRED>oignons en gros</INGRED> dés Couper les <INGRED>tomates</INGRED> en dés Retirer la queue des feuilles d'<INGRED>épinards</INGRED> Rincer les <INGRED>épinards</INGRED> et égoutter ( grossièrement ) les feuilles Dans une poêle à feu vif <INGRED>,</INGRED> cuire les <INGRED>épinards</INGRED> pendant 3 min avec un <INGRED>filet</INGRED> d'<INGRED>huile d'olive</INGRED> En fin de cuisson <INGRED>,</INGRED> ajouter la <INGRED>crème liquide</INGRED> <INGRED>,</INGRED> réduire et réserver Dans une poêle à feu vif <INGRED>,</INGRED> saisir les dés de <INGRED>tomates</INGRED> avec une bonne pincée de <INGRED>mélange</INGRED> d'<INGRED>herbes</INGRED> ( <INGRED>origan</INGRED> <INGRED>,</INGRED> <INGRED>basilic</INGRED> <INGRED>,</INGRED> romarin... ) pendant 4 - 5 minutes <INGRED>,</INGRED> en fin de cuisson ajouter une pincée de <INGRED>sucre</INGRED> et réserver Dans une poêle <INGRED>,</INGRED> saisir les dés d'<INGRED>oignons</INGRED>. Ajouter le <INGRED>miel</INGRED> après 5 min de cuisson Laisser caraméliser les <INGRED>oignons</INGRED>. La <INGRED>pâte</INGRED> ( suite ) <INGRED>:</INGRED> Sortir votre <INGRED>pâte</INGRED> du frigoÉtaler votre <INGRED>pâte</INGRED> de façon à obtenir une épaisseur d'<INGRED>environ</INGRED> 2 mm Le montage <INGRED>:</INGRED> Dans votre ( <INGRED>ou</INGRED> vos ) plat(s ) étaler une couche d'<INGRED>épinards</INGRED> <INGRED>,</INGRED> puis quelques dés de <INGRED>tomates</INGRED> <INGRED>,</INGRED> ensuite les <INGRED>carottes</INGRED> <INGRED>,</INGRED> puis une légère couche d'<INGRED>oignon</INGRED> et une couche de <INGRED>pâte</INGRED> Créer autant d'étages que nécessaire Saupoudrer de <INGRED>fromage râpé</INGRED> et d'un peu de <INGRED>beurre</INGRED> Enfourner à mi-hauteur à 180 ° ( thermostat 6 ) pendant 25 - 30 minCette recette <INGRED>a</INGRED> été réalisée afin d'être présentée dans des récipients à <INGRED>crème</INGRED> brûlée
+  </annotation>
+  <complexite>
+    <temps>f(X) = 26.25*X + 8.75</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 9*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['semoule de blé dur', 'semoule']	 id:1	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oeuf']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:["huile d'olive", 'huile']	 id:3	 quantité:1	 unité:cuillère à soupe d'	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:4	 quantité:1	 unité:pincée de	 denombrable:True	 recipient:1*X
+ingredient:['épinard frais', 'épinard']	 id:5	 quantité:500	 unité:g d'	 denombrable:False	 recipient:1
+ingredient:['tomates']	 id:6	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['carotte']	 id:7	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['oignon']	 id:8	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['crème fraiche liquide', 'crème']	 id:9	 quantité:10	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['miel']	 id:10	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:verser	 id:o_1	 ingrédients_ralatifs:['1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_3	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:malaxer	 id:o_4	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_5	 ingrédients_ralatifs:['4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:continuer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:malaxer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:rajouter	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:éplucher	 id:o_10	 ingrédients_ralatifs:['3', '3', '3']	 nombre_opération_atomique:1*X+1*X+1*X	 temps:1*X*1+1*X*1+1*X*1	 recipient:0
+operation:découper	 id:o_11	 ingrédients_ralatifs:['3', '3']	 nombre_opération_atomique:1*X+1*X	 temps:1*X*1+1*X*1	 recipient:1
+operation:garder	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_13	 ingrédients_ralatifs:['5', '3']	 nombre_opération_atomique:1+1*X	 temps:1*X*1+1*X*1	 recipient:1
+operation:couper	 id:o_14	 ingrédients_ralatifs:['1', '4']	 nombre_opération_atomique:1+1*X	 temps:1*X*1+1*X*1	 recipient:1
+operation:retirer	 id:o_15	 ingrédients_ralatifs:['3', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rincer	 id:o_16	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:égoutter	 id:o_17	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_18	 ingrédients_ralatifs:['7', '3']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:ajouter	 id:o_19	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saisir	 id:o_20	 ingrédients_ralatifs:['3', '5', '7', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_21	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saisir	 id:o_22	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_23	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:caraméliser	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:sortir	 id:o_25	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:frigoétaler	 id:o_26	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étaler	 id:o_27	 ingrédients_ralatifs:['3', '5', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:créer	 id:o_28	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saupoudrer	 id:o_29	 ingrédients_ralatifs:['7', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfourner	 id:o_30	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

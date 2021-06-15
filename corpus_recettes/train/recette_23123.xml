@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23123">
+  <titre>Filets de sandre au Riesling et champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 sandre écaillé (1,5 kg environ)</p>
+    <p>150 g de champignons</p>
+    <p>15 cl de Riesling</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>10 cl de crème fraîche</p>
+    <p>1 jaune d'oeuf</p>
+    <p>2 échalotes</p>
+    <p>1 oignon</p>
+    <p>1 bouquet garni (thym, laurier, persil)</p>
+    <p>jus de citron</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites lever les filets de sandre par le poissonier, récupérez la tête et les déchets.
+    Faites bouillir 50 cl d'eau avec le vin blanc sec, la tête et les arêtes du poisson, le bouquet garni, l'oignon entier et quelques gouttes de jus de citron.
+    Laissez frémir 30 min et filtrez.
+    Hachez les échalotes, mettez-les dans un plat allant au four.
+    Posez les filets de poissons dessus et arrosez de 15 cl de fumet et du Riesling.
+    Mettez au four à 200°C (thermostat 6-7) et laissez cuire 15 à 20 min.
+    Pendant ce temps, émincez les champignons et faites-les étuver à la poêle avec du beurre.
+    Mélangez la crème et le jaune d'oeuf.
+    Sortez le plat du four, retirez le poisson et faites réduire la sauce.
+    Ajoutez-y les champignons et la crème au jaune d'oeuf.
+    Nappez les filets de poisson de sauce et faites dorer quelques minutes sous le grill du four.
+    Servez bien chaud.
+    La perche et le brochet conviennent également pour cette recette.
+  ]]>
+  </preparation>
+</recette>

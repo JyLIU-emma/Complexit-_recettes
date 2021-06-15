@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13537">
+  <titre>Crêpe gourmande économique</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 verre de farine</p>
+    <p>1 oeuf</p>
+    <p>1 verre de lait </p>
+    <p>des pommes en quartiers</p>
+    <p>beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire un revenir les pommes dans du beurre avec un peu de sucre.
+    Pendant ce temps, préparez la pâte a crêpe très épaisse.
+    Quand les pommes sont légèrement caramélisées, versez la pâte et laissez cuire doucement avec un papier aluminium au-dessus.
+     blanc doux sucré
+  ]]>
+  </preparation>
+</recette>

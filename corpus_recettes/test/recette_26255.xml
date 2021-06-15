@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26255">
+  <titre>Lieu à la tomate et aux olives</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,5 kg de filets de lieu</p>
+    <p>4 oignons</p>
+    <p>5 cuillères à soupe d'huile d'olive</p>
+    <p>750 g de tomates</p>
+    <p>300 g d'olives noires dénoyautées</p>
+    <p>1 bouquet garni (thym, laurier, persil)</p>
+    <p>15 cl de vin blanc</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les tomates : inciser la peau en croix, les ébouillanter quelques secondes puis les rafraîchir sous l'eau froide. La peau se décolle facilement. Les concasser.
+    Ebouillanter les olives pendant 2 minutes sous l'eau froide.
+    Faire fondre les oignons émincés dans l'huile puis ajouter les tomates concassées, les olives et le bouquet garni.
+    Verser le vin, couvrir et poursuivre la cuisson pendant 20 minutes.
+    Couper le poisson en morceaux, les mettre dans la sauce et cuire 10 minutes.
+    Cette recette peut également être préparée avec de la daurade, du colin, du bar ou de la baudroie.
+  ]]>
+  </preparation>
+</recette>

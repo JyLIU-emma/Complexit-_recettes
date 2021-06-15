@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23300">
+  <titre>Blanc-manger aux amandes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>50 cl de lait</p>
+    <p>30 cl de crème liquide</p>
+    <p>500 g d'amandes mondées et mixées</p>
+    <p>250 g de sucre</p>
+    <p>6 feuilles de gélatine</p>
+    <p>2 ou 3 gouttes d'extrait d'amande amère</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer le lait et la crème, sans bouillir ; ajouter les amandes, éteindre le feu et laisser infuser à couvert 10 mn. 
+    Filtrer dans une passoire tapissée d'une mousseline ; faire chauffer ce lait d'amandes sur feu doux avec le sucre, en remuant jusqu'à dissolution. Hors du feu, ajouter la gélatine ramollie dans de l'eau froide et essorée, puis l'extrait d'amande amère. Mélanger 5 mn. 
+    Verser le liquide épais dans un moule mouillé. Mettre au froid pendant au moins 6 h. 
+    Démouler, et servir avec un coulis de fruits.
+    Il existe beaucoup de variantes, notamment avec des fruits, qui sont délicieuses. Ceci n'est que la recette de base.  sauternes ou muscat bien frais
+  ]]>
+  </preparation>
+</recette>

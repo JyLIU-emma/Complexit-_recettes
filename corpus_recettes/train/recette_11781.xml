@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11781">
+  <titre>Risotto de poulet aux champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>15 ml d'huile d'olive</p>
+    <p>250 g de blancs de poulet sans peau, coupés en petits morceaux</p>
+    <p>1 oignon émincé</p>
+    <p>2 gousses d'ail écrasées</p>
+    <p>3 tiges de céleri coupées en rondelles</p>
+    <p>225 g de champignons frais</p>
+    <p>175 g de petits pois</p>
+    <p>200 g de grains de mais</p>
+    <p>225 g de riz sauvage</p>
+    <p>425 ml de bouillon de poulet</p>
+    <p>425 ml de vin blanc sec</p>
+    <p>45 ml d'herbes variées (thym, romarin, sauge, ...)</p>
+    <p>25 g de parmesan râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Chauffer l'huile dans un grande casserole. Ajouter le poulet et cuire doucement environ 5 mn en remuant fréquemment.
+    Ajouter tous les autres ingrédients, sauf les herbes et le parmesan.  Bien mélanger.
+    Amener à ébullition, réduire le feu. Cuire doucement, sans couvrir, pendant environ 35 mn en remuant occasionellement, jusqu'à ce que le riz et le poulet soient cuits et tendre et presque tout le liquide ait été absorbé.
+    Ajouter les herbes et mélanger. Parsemer de parmesan avant de servir avec une salade.
+    Le riz sauvage est une excellente source de fibres, magnésium, potassium, vitamine B et sélénium, toutes choses excellentes pour... des cheveux en bonne santé!
+  ]]>
+  </preparation>
+</recette>

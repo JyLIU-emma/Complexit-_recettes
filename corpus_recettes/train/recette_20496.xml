@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20496">
+  <titre>Crumble aux pommes, poires, raisins</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>80 g de cassonade</p>
+    <p>120 g de farine</p>
+    <p>120 g de beurre mou</p>
+    <p>400 g de pommes</p>
+    <p>400 g de poires</p>
+    <p>120 g de sucre</p>
+    <p>40 g de raisins secs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la cassonade, la farine et le beurre. Emietter le mélange du bout des doigts sur une plaque à pâtisserie et cuire au four préchauffé à 210°C (thermostat 7) pendant 15 min.
+     Peler et couper les pommes et les poires en tranches fines, les poêler dans 20 g beurre 3 à 4 min, puis les saupoudrer de sucre.
+    Les disposer dans un plat, ajouter les raisins secs préalablement gonflés dans de l'eau tiède et laisser refroidir. Parsemer la pâte à crumble et servir.
+  ]]>
+  </preparation>
+</recette>

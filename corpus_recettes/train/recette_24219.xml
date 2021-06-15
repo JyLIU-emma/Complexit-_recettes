@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24219">
+  <titre>Jarret de veau aux champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de champignons</p>
+    <p>130 g de beurre</p>
+    <p>25 cl de vin blanc</p>
+    <p>10 cl de bouillon de bœuf</p>
+    <p>4 tranches de jarret de veau</p>
+    <p>1 branche de céleri</p>
+    <p>4 gousses d'ail</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>1 cuillère à soupe de persil frais haché</p>
+    <p>1 oignon</p>
+    <p>1 carotte</p>
+    <p>le zeste d'un citron</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Saler, poivrer et fariner les jarrets.
+    Les faire revenir sur chaque face dans une cocotte avec 30 g de beurre fondu.
+    Découper l'oignon, la carotte et la branche de céleri en julienne, les jeter sur la viande avec 1 gousse d'ail pilée et arroser de vin blanc. Laisser mijoter.
+    Au bout de 5 min, verser le bouillon et continuer la cuisson encore 1 h.
+    A part, mélanger le persil, 1 gousse d’ail pilée, le zeste de citron, et verser le tout sur la viande.
+    Préparer l'accompagnement : faire revenir les champignons dans une sauteuse avec le reste de beurre et 2 gousses d'ail hachées. Assaisonner.
+    Servir la viande avec des champignons et de sa sauce. Si celle-ci est trop épaisse, ajouter un mélange de bouillon et de beurre. Si, au contraire, elle est trop claire, l'épaissir avec 15 g de beurre et une 1/2 cuillère à soupe de farine.
+  ]]>
+  </preparation>
+</recette>

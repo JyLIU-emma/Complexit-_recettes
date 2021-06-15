@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="176017">
+  <titre>Glace à la vanille aux éclats de chocolat et aux amandes</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 jaunes d'oeufs</p>
+    <p>75 g de sucre en poudre</p>
+    <p>25 cl de lait</p>
+    <p>30 cl de crème épaisse</p>
+    <p>1 gousse de vanille</p>
+    <p>440 g de sucre en poudre</p>
+    <p>200 g de chocolats noir grossièrement coupé</p>
+    <p>40 g d'amandes effilées grillées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battez les jaunes d'oeufs et le sucre jusqu'à obtention d'un mélange léger et mousseux.Mélangez le lait et la crème dans une casserole. Fendez la gousse de vanille en deux dans le sens de la longueur ; grattez les graines. Ajoutez la gousse et les graines dans la casseroles ; portez le mélange à ébullition. Retirez la casserole du feu ; ôtez la vanille. Sans cesser de fouettez, incorporez le mélange œufs-sucre.
+    Faites cuire à feu doux en remuant constamment jusqu'à ce que le mélange épaississe. Versez la préparation dans une jatte. Couvrez avec du film étirable et placez 4h au réfrigérateur, jusqu'à ce que la glace soit ferme.
+    Préparez les éclats de chocolats aux amandes : mélangez le sucre et 25 cl d'eau dans une casserole ; faites chauffez à feu doux jusqu'à dissolution du sucre. Augmentez le feu, faites bouillir sans couvrir ni remuer pendant 10 min environ, jusqu'à ce que le sirop prenne une belle couleur jaune foncé. Versez-le dans un moule rectangulaire de 3cm de profondeur ; laissez reposer 5 min. Saupoudrez de chocolat en l'étalant pour bien recouvrir le caramel. Saupoudrez d'amandes ; placez au réfrigérateur jusqu'à ce que le croquant soit ferme et brisez-le en éclats.
+    Tapissez un moule à cake de film étirable. Mixez la glace jusqu'à ce qu'elle soit lisse ; étalez-la dans le moule. Couvrez de papier d'aluminium ; placez au congélateur jusqu'à ce que la glace soit ferme. Démoulez et coupez en tranches. Servez avec des éclats de chocolat.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Battez</OPER> les <INGRED id="1">jaunes d'oeufs</INGRED> et le sucre jusqu'à obtention d'un mélange léger et mousseux. <OPER id="o_2">Mélangez</OPER> le lait et la <INGRED id="1">crème</INGRED> dans une casserole. <OPER id="o_3">Fendez</OPER> la gousse de <INGRED id="4">vanille</INGRED> en <INGRED id="6">deux</INGRED> dans le sens de la longueur ; <OPER id="o_4">grattez</OPER> les <INGRED id="3">graines</INGRED>. <OPER id="o_5">Ajoutez</OPER> la gousse et les graines dans la casseroles ; <OPER id="o_6">portez</OPER> le mélange à ébullition. <OPER id="o_7">Retirez</OPER> la casserole du feu ; <OPER id="o_8">ôtez</OPER> la vanille. Sans <OPER id="o_9">cesser</OPER> de <OPER id="o_10">fouettez</OPER>, <OPER id="o_11">incorporez</OPER> le <INGRED id="2">mélange</INGRED> œufs - sucre. Faites <OPER id="o_12">cuire</OPER> à feu doux en remuant constamment jusqu'à ce que le <INGRED id="2">mélange</INGRED> épaississe. <OPER id="o_13">Versez</OPER> la <INGRED id="4">préparation</INGRED> dans une jatte. <OPER id="o_14">Couvrez</OPER> avec du film étirable et placez 4h au réfrigérateur, jusqu'à ce que la glace soit ferme. <OPER id="o_15">Préparez</OPER> les <INGRED id="5">éclats</INGRED> de <INGRED id="7">chocolats</INGRED> aux <INGRED id="8">amandes</INGRED> : <OPER id="o_16">mélangez</OPER> le sucre et 25 <INGRED id="2">cl</INGRED> d'eau dans une casserole ; faites <OPER id="o_17">chauffez</OPER> à feu doux jusqu'à dissolution du sucre. <OPER id="o_18">Augmentez</OPER> le feu, faites <OPER id="o_19">bouillir</OPER> sans <OPER id="o_20">couvrir</OPER> ni <OPER id="o_21">remuer</OPER> pendant 10 min <INGRED id="1">environ</INGRED>, jusqu'à ce que le <INGRED id="2">sirop</INGRED> prenne une belle couleur jaune foncé. <OPER id="o_22">Versez</OPER> - le dans un moule rectangulaire de 3 cm de profondeur ; laissez <OPER id="o_23">reposer</OPER> 5 min. <OPER id="o_24">Saupoudrez</OPER> de chocolat en l'étalant pour bien recouvrir le <INGRED id="8">caramel</INGRED>. <OPER id="o_25">Saupoudrez</OPER> d'<INGRED id="8">amandes</INGRED> ; <OPER id="o_26">placez</OPER> au réfrigérateur jusqu'à ce que le croquant soit ferme et brisez - le en <INGRED id="5">éclats</INGRED>. <OPER id="o_27">Tapissez</OPER> un moule à cake de film étirable. <OPER id="o_28">Mixez</OPER> la glace jusqu'à ce qu'elle soit lisse ; <OPER id="o_29">étalez</OPER> - la dans le moule. <OPER id="o_30">Couvrez</OPER> de papier d'aluminium ; <OPER id="o_31">placez</OPER> au congélateur jusqu'à ce que la glace soit ferme. <OPER id="o_32">Démoulez</OPER> et coupez en <INGRED id="4">tranches</INGRED>. Servez avec des <INGRED id="5">éclats</INGRED> de chocolat.
+  </annotation>
+  <annotation methode="crf">
+  Battez les <INGRED>jaunes d'oeufs</INGRED> et le <INGRED>sucre</INGRED> jusqu'à obtention d'un <INGRED>mélange</INGRED> léger et mousseux. Mélangez le <INGRED>lait</INGRED> et la <INGRED>crème</INGRED> dans une casserole <INGRED>.</INGRED> Fendez la gousse de <INGRED>vanille</INGRED> en <INGRED>deux</INGRED> dans le sens de la longueur ; grattez les <INGRED>graines</INGRED>. Ajoutez la gousse et les <INGRED>graines</INGRED> dans la casseroles ; portez le <INGRED>mélange</INGRED> à ébullition <INGRED>.</INGRED> Retirez la casserole du feu ; ôtez la <INGRED>vanille</INGRED> <INGRED>.</INGRED> Sans cesser de fouettez <INGRED>,</INGRED> incorporez le <INGRED>mélange</INGRED> <INGRED>œufs</INGRED> - <INGRED>sucre</INGRED>. Faites cuire à feu doux en remuant constamment jusqu'à ce que le <INGRED>mélange</INGRED> épaississe <INGRED>.</INGRED> Versez la préparation dans une jatte. Couvrez avec du film étirable et placez 4h au réfrigérateur <INGRED>,</INGRED> jusqu'à ce que la <INGRED>glace</INGRED> soit ferme. Préparez les éclats de chocolats aux <INGRED>amandes</INGRED> <INGRED>:</INGRED> mélangez le <INGRED>sucre</INGRED> et 25 cl d'<INGRED>eau</INGRED> dans une casserole ; faites chauffez à feu doux jusqu'à dissolution du <INGRED>sucre</INGRED>. Augmentez le feu <INGRED>,</INGRED> faites bouillir sans couvrir ni remuer pendant 10 min <INGRED>environ</INGRED> <INGRED>,</INGRED> jusqu'à ce que le <INGRED>sirop</INGRED> prenne une belle couleur <INGRED>jaune</INGRED> foncé. Versez - le dans un <INGRED>moule</INGRED> rectangulaire de 3 <INGRED>cm</INGRED> de profondeur ; laissez reposer 5 min. Saupoudrez de <INGRED>chocolat</INGRED> en l'étalant pour bien recouvrir le <INGRED>caramel</INGRED> <INGRED>.</INGRED> Saupoudrez d'<INGRED>amandes</INGRED> ; placez au réfrigérateur jusqu'à ce que le croquant soit ferme et brisez - le en éclats. Tapissez un moule à cake de film étirable. Mixez la glace jusqu'à ce qu'elle soit lisse ; étalez - la dans le <INGRED>moule</INGRED> <INGRED>.</INGRED> Couvrez de papier d'aluminium ; placez au congélateur jusqu'à ce que la <INGRED>glace</INGRED> soit ferme. Démoulez et coupez en tranches. Servez avec des éclats de <INGRED>chocolat</INGRED> <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 10.6666666666667*X + 21.3333333333333</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 3*X + 13</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:["jaunes d'oeufs", 'jaunes']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['sucre en poudre', 'sucre']	 id:2	 quantité:75	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:3	 quantité:25	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['crème épaisse', 'crème']	 id:4	 quantité:30	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['vanille']	 id:5	 quantité:1	 unité:gousse de	 denombrable:True	 recipient:1*X
+ingredient:['sucre en poudre', 'sucre']	 id:6	 quantité:440	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['chocolats noir grossièrement coupé', 'chocolats']	 id:7	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['amandes effilées grillées', 'amandes']	 id:8	 quantité:40	 unité:g d'	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:battre	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:fendre	 id:o_3	 ingrédients_ralatifs:['4', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:gratter	 id:o_4	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:porter	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ôter	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cesser	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fouetter	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:incorporer	 id:o_11	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_12	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:verser	 id:o_13	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparer	 id:o_15	 ingrédients_ralatifs:['5', '7', '8']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:mélanger	 id:o_16	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:chauffer	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:augmenter	 id:o_18	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:bouillir	 id:o_19	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:couvrir	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_21	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_23	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:saupoudrer	 id:o_24	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saupoudrer	 id:o_25	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_26	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tapir	 id:o_27	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mixer	 id:o_28	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étaler	 id:o_29	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_30	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_31	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:démouler	 id:o_32	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

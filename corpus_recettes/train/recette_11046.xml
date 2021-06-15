@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11046">
+  <titre>Chili con carne</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de haricots rouges</p>
+    <p>1,6 kg de viande maigre de boeuf</p>
+    <p>10 cl d'huile</p>
+    <p>150 g d'oignons</p>
+    <p>50 g de farine</p>
+    <p>50 g de tomates concentrées</p>
+    <p>1 l de fond brun</p>
+    <p>4 gousses d'ail</p>
+    <p>1 bouquet garni</p>
+    <p>sel, poivre</p>
+    <p>paprika</p>
+    <p>1 poivron rouge</p>
+    <p>1 poivron vert</p>
+    <p>50 g de persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Il faut faire tremper les haricot 6 heures à l'eau froide.Découpez la viande de carrés de 1cm et mettez dans l'huile chaude. Dégraissez.
+    Ajoutez les oignons hachés. Versez la farine. Incorporez le fond brun et la tomate concentrée. 
+    Ajoutez l'ail écrasé puis le bouquet garnis. 
+    Assaisonnez de sel, poivre et paprika.
+    Cuire 1h 30 à couvert.
+    Enlevez la peau des poivrons, puis taillez les en lanières. Réservez les morceau aux chaud. Passez la sauce.
+    Placez les haricots dans une casserole d'eau froide salée et cuisez les environ 1 heure. Faites bouillir la sauce quelques minutes avec les haricots cuits, égouttés et les poivrons. Dressez un plat creux. Disposez les morceaux la garniture et la sauce puis le persil. Dégustez. BUZET
+  ]]>
+  </preparation>
+</recette>

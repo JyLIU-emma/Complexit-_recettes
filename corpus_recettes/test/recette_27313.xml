@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27313">
+  <titre>Ananas flambé au rhum et au miel</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 grande boîte de tranches d'ananas au sirop</p>
+    <p>2 cuillères à soupe de jus de citron</p>
+    <p>100 g de miel</p>
+    <p>un peu de cannelle ou de vanille en poudre</p>
+    <p>1 verre de rhum</p>
+    <p>20 g de raisins secs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer le gril du four.
+    Faire chauffer le rhum à feu doux avec les raisins.
+    Disposer les tranches d'ananas égouttées dans un plat allant au four.  Arroser avec le jus de citron et le miel puis saupoudrez de cannelle ou de vanille. 
+    Faire dorer sous le grill en surveillant, cela peut prendre plus ou moins de temps.
+    Lorsque le rhum est chaud, ôter les raisins. A la sortie du four, arroser l'ananas de rhum et flamber. 
+    Décorer avec les raisins et servir immédiatement.
+  ]]>
+  </preparation>
+</recette>

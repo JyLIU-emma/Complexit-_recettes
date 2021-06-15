@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26322">
+  <titre>Gâteau sucré aux courgettes et aux épices</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de courgettes</p>
+    <p>2 oeufs</p>
+    <p>200 g de sucre en poudre</p>
+    <p>20 cl d'huile</p>
+    <p>350 g de farine</p>
+    <p>125 g de noix</p>
+    <p>1 citron</p>
+    <p>1/2 cuillère à café de bicarbonate de soude</p>
+    <p>1 sachet de levure en poudre</p>
+    <p>2 cuillère à café de cannelle</p>
+    <p>1 cuillère à café de noix muscade</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C (thermostat 6), beurrez et farinez un moule à cake.
+    Râpez les courgettes.
+    Fouettez les oeufs avec le sucre jusqu'à ce que le sucre soit complètement dissous. Ajoutez les courgettes et l'huile puis incorporez progressivement la farine tamisée avec le bicarbonate et la levure.
+    Parfumez des épices et du zeste de citron finement râpé.
+    Versez la préparation dans le moule et enfournez pour 1 heure de cuisson. 
+  ]]>
+  </preparation>
+</recette>

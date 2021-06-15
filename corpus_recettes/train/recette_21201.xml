@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21201">
+  <titre>Gratin de restes de viande aux champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de champignons de Paris</p>
+    <p>3 échalotes</p>
+    <p>1 cuillère à soupe de persil haché</p>
+    <p>50 g de beurre</p>
+    <p>300 à 500 g de restes de viande</p>
+    <p>15 cl de vin blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hachez les champignons de Paris avec l'échalote et le persil. Salez, poivrez et mélangez. 
+    Préchauffez le four à 180°C (thermostat 6). Beurrez un plat à gratin.
+    Recouvrez le fond du plat de la moitié du hachis de champignons, déposez les restes de viande dessus et recouvrez du reste des champignons.
+    Arrosez de vin blanc et répartissez le beurre en noisettes sur le dessus du plat.
+    Enfournez 30 minutes.
+  ]]>
+  </preparation>
+</recette>

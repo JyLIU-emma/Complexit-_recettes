@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23052">
+  <titre>Gratin de poisson et de fruits de mer</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>100 g de filets de poisson cuits</p>
+    <p>150 g de langoustines</p>
+    <p>100 g de crevettes cuites et décortiquées</p>
+    <p>500 g de moules cuites et décoquillées</p>
+    <p>50 g de champignons</p>
+    <p>10 g de beurre</p>
+    <p>1 boîte de crabe</p>
+    <p>12 cl de sauce béchamel</p>
+    <p>50 g de crème fraîche</p>
+    <p>25 g de gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 210°C (thermostat 7).
+    Faites fondre les champignons émincés dans le beurre.
+    Détaillez le poisson en morceaux et disposez-le dans un plat à gratin huilé avec les champignons, les moules, les crevetes, les langoustines et la chair de crabe.
+    Mélangez la béchamel avec la crème et le fromage puis nappez-en le plat. 
+    Enfournez 15 minutes jusqu'à ce que le dessus soit gratiné.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25687">
+  <titre>Saumon grillé en sauce</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 darnes de saumon</p>
+    <p>2 gousses d'ail</p>
+    <p>4 tomates </p>
+    <p>5 cuillères d'huile</p>
+    <p>1 feuille de laurier</p>
+    <p>1 petit piment oiseau</p>
+    <p>1 tranche de pain</p>
+    <p>1 cuillère à soupe de vinaigre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    pocher les tmates dans l'eau bouillante 30 secondes. Les peler.
+    Dans casserole à fond épais, faire chauffer un peu d'huile d'olive. Ajouter une feuille de laumier, le petit piment, les tomtes, l'ail épluché et le pain. Laisser mijoter 15 min.
+    Pendant ce temps, poêler les darnes de saumon.
+    Mixer la sauce, la passer au tamis et la verser sur le saumon.
+  ]]>
+  </preparation>
+</recette>

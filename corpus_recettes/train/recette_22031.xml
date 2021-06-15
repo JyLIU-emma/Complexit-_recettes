@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22031">
+  <titre>Muffins light aux pommes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g farine</p>
+    <p>1/2 sachet de levure</p>
+    <p>100 g sucre ou édulcorant pour cuisson</p>
+    <p>2 petites pommes</p>
+    <p>1 œuf</p>
+    <p>100 g fromage blanc à 0 %</p>
+    <p>15 cl lait</p>
+    <p>cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C. 
+    Mélanger la farine et la levure. 
+    Ajouter le sucre, l’œuf et le fromage, mélanger. 
+    Incorporer le lait et bien mélanger. 
+    Éplucher et couper les pommes en petits dés et les mettre dans la préparation et saupoudrer de cannelle. 
+    Verser la pâte dans des moules à muffins. 
+    Cuire 20-25 min.
+    On peut varier la garniture suivant les goûts.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21437">
+  <titre>Far de Lesconil</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de farine</p>
+    <p>3/4 l de lait</p>
+    <p>150 g de sucre</p>
+    <p>20 pruneaux</p>
+    <p>4 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prechauffer le four 300°C. 
+    Mélanger la farine et le sucre. 
+    Ajouter les oeufs puis le lait froid. 
+    Mettre la pâte dans un plat allant au four et parsemer des pruneaux. 
+    Quand le four est chaud, enfourner le plat jusqu'à ébullition puis diminuer la température à 250°C . Le temps total de cuisson étant de 45 mn.
+    Je mélange toujours la farine avec le sucre avant d'ajouter les oeufs. Ca évite les grumeaux (ça marche aussi pour la pâte à crêpes)
+  ]]>
+  </preparation>
+</recette>

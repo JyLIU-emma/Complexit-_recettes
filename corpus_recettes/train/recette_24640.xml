@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24640">
+  <titre>Gâteau moka fourré à la crème de café</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour le gâteau :</p>
+    <p>200 g de farine</p>
+    <p>200 g de sucre semoule</p>
+    <p>120 g de beurre</p>
+    <p>3 oeufs</p>
+    <p>3 cuillères à soupe de lait</p>
+    <p>1 paquet de levure en poudre</p>
+    <p>Pour la crème :</p>
+    <p>3 cuillères à soupe de café soluble</p>
+    <p>4 oeufs</p>
+    <p>150 g de sucre glace</p>
+    <p>150 g de beurre</p>
+    <p>3 cl de rhum</p>
+    <p>4 boudoirs</p>
+    <p>5 cl de sirop de sucre de canne</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer le gâteau :
+    Préchauffer le four à 180°C (thermostat 6).
+    Dans un saladier, blanchir les oeufs avec le sucre semoule, puis incorporer le beurre ramolli et le lait. Ajouter petit à petit la farine et la levure chimique et bien mélanger le tout.
+    Verser la préparation dans un moule à bords hauts, beurré et faire cuire 40 minutes à 180°C (thermostat 6).
+    Dès la sortie du four, démouler le gâteau et le réserver sur un plat.
+    Préparer la crème :
+    Dans une casserole, faire fondre le café dans le sirop de sucre de canne et le rhum. Faire blanchir les oeufs avec le sucre glace, puis ajouter le beurre et la moitié du sirop de café. Laisser tiédir le tout jusqu'à l'obtention d'une crème, réserver.
+    Pour finir : couper le gâteau en 3 tranches que vous tremperez légèrement dans le reste du sirop de café.
+    Dans un mixeur ou à l'aide d'un mortier, réduire les boudoirs en poussière.
+    Badigeonner les 3 tranches de gâteau de crème au café pus le reconstituer.
+    Le napper totalement de crème au café, puis le saupoudrer de poussière de boudoirs.
+  ]]>
+  </preparation>
+</recette>

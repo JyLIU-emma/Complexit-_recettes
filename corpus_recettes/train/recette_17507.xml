@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17507">
+  <titre>Filets de rouget à l'italienne</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 filets de rouget</p>
+    <p>5 tomates</p>
+    <p>1 poivron jaune</p>
+    <p>1 citron</p>
+    <p>thym, laurier</p>
+    <p>sel, poivre</p>
+    <p>1 oignon</p>
+    <p>huile d'olive</p>
+    <p>olives noires (12) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et épépiner le poivron et les tomates, les couper en dés. 
+    Préchauffer le four à 200°C (thermostat 6-7). 
+    Dans 2 cuillères à soupe d'huile, dorer l'oignon haché, ajouter le poivron et les tomates, saler, poivrer. 
+    Laisser mijoter 10 min, et verser le tout dans un plat à four.
+    Parsemer de thym, de laurier et d'olives noires. 
+    Puis, déposer le poisson (vidé et écaillé); saler et poivrer. 
+    Couvrir de rondelles de citron, arroser d'un filet d'huile d'olive et de 10 cl de vin blanc. 
+    Enfourner 20 min. 
+    Servir chaud accompagné de pâtes
+  ]]>
+  </preparation>
+</recette>

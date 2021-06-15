@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10739">
+  <titre>Pêches en sabayon</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 boîte de pêches au sirop </p>
+    <p>150 g de sucre </p>
+    <p>30 cl de vin blanc </p>
+    <p>6 jaunes d’oeufs </p>
+    <p>1 sachet de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Egoutter les pêches et les essuyer avec un linge. Battre les jaunes et le sucre dans une terrine placée dans un bain-marie. Incorporer alors le vin blanc jusqu’à obtention d’une mousse. Verser dans des coupes individuelles et décorer avec les oreillons de pêches.  
+  ]]>
+  </preparation>
+</recette>

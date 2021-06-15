@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23385">
+  <titre>Roulés de dinde forestiers au lard</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 fines escalopes de dinde (de 125 g chacune)</p>
+    <p>4 tranches de lard pas trop fines (150 g en tout)</p>
+    <p>300 g de champignons</p>
+    <p>2 oignons</p>
+    <p>quelques brins de persil</p>
+    <p>20 g de beurre</p>
+    <p>sel et poivre</p>
+    <p>des piques en bois</p>
+    <p>Pour la sauce d'accompagnement :</p>
+    <p>20 cl crème fraîche</p>
+    <p>1 à 2 cuillère(s) à café de moutarde</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 180°C (thermostat 6).
+    Laver les champignons sous l'eau froide, puis leur couper le bout terreux. Peler et émincer les oignons et les champignons, puis les mettre à revenir dans une sauteuse beurrée. Laisser cuire jusqu'à évaporation complète de l'eau rendue. Saupoudrer de persil haché, saler et poivrer.
+    Aplatir les escalopes, puis les rouler dans un mélange de sel et poivre. Les tartiner ensuite de farce aux légumes, puis les rouler sur elles-mêmes. Les piquer avec une pique en bois pour les faire tenir, puis les envelopper de tranches de lard et les maintenir avec une autre pique en bois.
+    Déposer sur la plaque de votre four, puis laisser cuire 25 à 30 min en remuant régulièrement pour une cuisson parfaitement homogène.
+    Servir accompagné d'une crème à la moutarde chaude.
+  ]]>
+  </preparation>
+</recette>

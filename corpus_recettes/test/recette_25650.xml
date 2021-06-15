@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25650">
+  <titre>Moelleux chocolat au coeur blanc</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>100 g de chocolat noir</p>
+    <p>150 g de chocolat blanc</p>
+    <p>50 g de farine</p>
+    <p>100 g de beurre</p>
+    <p>3 oeufs</p>
+    <p>100 g de sucre</p>
+    <p>1/2 sachet de levure chimique</p>
+    <p>2 cuillères à soupe de crème fraîche liquide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire ramollir le chocolat blanc au micro-ondes ou au bain-marie avec la crème. Laisser refroidir jusqu'à obtention d'une ganache très consistante, former alors des boules de la taille d'une grosse bille et les réserver au frais. 
+    Faire fondre le chocolat noir, y ajouter le beurre et le mélanger. Ajouter les jaunes d'oeufs et le mélange farine/levure. 
+    Battre les blancs en neige, y incorporer le sucre toujours en battant. Ajouter cette meringue à la pâte. 
+    Mettre une cuiller à soupe de pâte dans chaque empreinte à muffin, y déposer une boule de chocolat blanc, recouvrir d'une autre cuiller de pâte. 
+    Enfourner à 175°C pour 15 à 20 mn (surveiller la couleur).
+    Si vous êtes certain que vos moelleux seront mangés avant d'être refroidis, vous pouvez vous passer de la préparation de la ganache et mettre directement 2 carreaux de chocolat blanc à la place des boules de ganache.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25689">
+  <titre>Poisson en papillotte (Grèce)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 filets de loup</p>
+    <p>2 échalotes hachées</p>
+    <p>1 gousse d'ail écrasée</p>
+    <p>1 cuillère à soupe de câpres</p>
+    <p>6 tomates séchées finement hachées</p>
+    <p>4 olives noires dénoyautées et coupées en morceaux</p>
+    <p>zeste et jus d'un citron</p>
+    <p>1 cuillère à café de paprika</p>
+    <p>sel et poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à thermostat 6 (180°C). 
+    Découpez 4 carrés de papier aluminium pour y envelopper chaque filet. 
+    Placez une portion de poisson au centre de chaque morceau de papier alu. 
+    Recouvrez d'échalote, de câpres, d'ail, de tomates séchées, de zeste et de jus de citron, d'olives. 
+    Assaisonnez (sel et poivre du moulin). 
+    Fermez hermétiquement le papier alu. 
+    Faites cuire au four environ 20 min.
+    Très light car sans matière grasse. vin blanc résiné
+  ]]>
+  </preparation>
+</recette>

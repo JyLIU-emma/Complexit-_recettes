@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23381">
+  <titre>Gâteau marbré maison</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>180 g de beurre</p>
+    <p>300 g de sucre</p>
+    <p>9 cuillères à soupe de lait</p>
+    <p>375 g de farine</p>
+    <p>4 oeufs</p>
+    <p>1 paquet de levure chimique</p>
+    <p>1 paquet de sucre vanillé</p>
+    <p>40 g de cacao</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four (thermostat 5-6, 165°C).
+    Réchauffer à température ambiante le beurre et le sucre. Mélanger pour obtenir une crème.
+    Mettre les jaunes d'oeufs, le lait, la farine et la levure.
+    Monter les blancs en neige et les incorporer délicatement à la pâte.
+    Partager la pâte en deux et mélanger la vanille à la moitié et le cacao à l'autre.
+    Dans un moule à cake beurré, alterner une cuillère de pâte vanillée et une cuillère de pâte chocolatée jusqu'à remplir le moule.
+    Mettre au four pendant 40 min.
+  ]]>
+  </preparation>
+</recette>

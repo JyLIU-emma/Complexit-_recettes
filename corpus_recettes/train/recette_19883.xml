@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19883">
+  <titre>Poêlée forestière à la crème persillée</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de champignons rosés des champs ou de couche</p>
+    <p>150 g de beurre</p>
+    <p>le jus d'1 citron</p>
+    <p>225 g de crème fraîche</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>persil haché</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le bout terreux des champignons puis les laver en les plongeant dans plusieurs bains d'eau vinaigrée. Les égoutter et les essuyer dans un linge propre.
+    Dans une poêle légèrement beurrée, faire étuver les champignons avec le jus de citron, le sel et le poivre pendant 20 min environ sur feu doux.
+    Pendant ce temps, battre la farine avec la crème, l'incorporer aux champignons puis laisser cuire encore 5 min.
+    Saupoudrer de persil haché pour la décoration et pour plus de goût.
+  ]]>
+  </preparation>
+</recette>

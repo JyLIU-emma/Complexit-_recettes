@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24627">
+  <titre>Muffins aux noisettes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>170 g de sucre</p>
+    <p>250 g de noisettes</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>1/2 sachet de levure chimique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les oeufs et le sucre au batteur. 
+    Ajouter la farine, la levure et les noisettes en poudre, mélanger. 
+    Verser le mélange dans un moule à muffins graissé. Cuire à 180°C pendant 20 à 25 min.
+    Refroidir et démouler.
+  ]]>
+  </preparation>
+</recette>

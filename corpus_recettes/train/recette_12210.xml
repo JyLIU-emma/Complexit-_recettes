@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12210">
+  <titre>Sablés</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125g de sucre </p>
+    <p>125g de beurre</p>
+    <p>250g de farine</p>
+    <p>1 œuf</p>
+    <p>1/4 de cuillère à café de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez le tout à la main jusqu'à obtenir une pâte qui ne colle pas.
+    Aplatir la pâte et avec un verre, faire des biscuits ronds.
+    Cuire environ 15 min à four moyen (180°C - thermostat 6). Estimer la cuisson d'après la couleur des sablés.
+  ]]>
+  </preparation>
+</recette>

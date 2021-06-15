@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164957">
+  <titre>Soupe gourmande</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de lardons fumés</p>
+    <p>200 g d'oignons</p>
+    <p>1.2 kg de pommes de terre</p>
+    <p>1 kg de courgette</p>
+    <p>20 cl de crème légère</p>
+    <p>gros sel</p>
+    <p>2.5 l d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    dans une cocotte minute faire revenir les lardons ,aprés coloration ajouter les oignons (couper en lamelle), faire cuire 3a4min environ ,il faut que les sucs commence a se coller au fond de la cocotte ensuite déglacer avec une petite partie de l'eau .mettre le restant d'eau (froide) les cougettes les pommes de terres préalablement coupé en cube et le gros sel.fermer la cocotte, aprés monter en préssion laisser cuire 20min.mixer et ajouter la crêmeVous pouvez remplacer les courgettes par du choux fleur, des petits pois, des haricots vert...
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  dans une cocotte minute faire <OPER id="o_1">revenir</OPER> les <INGRED id="4">lardons</INGRED>, aprés coloration <OPER id="o_2">ajouter</OPER> les <INGRED id="4">oignons</INGRED> ( <OPER id="o_3">couper</OPER> en lamelle ), faire <OPER id="o_4">cuire</OPER> 3a4min environ, il faut que les sucs commence a se <OPER id="o_5">coller</OPER> au fond de la cocotte ensuite <OPER id="o_6">déglacer</OPER> avec une <INGRED id="2">petite</INGRED> partie de l'<INGRED id="1">eau</INGRED>.mettre le restant d'<INGRED id="1">eau</INGRED> ( froide ) les cougettes les <INGRED id="2">pommes de terres</INGRED> préalablement coupé en cube et le gros <OPER id="o_7">sel.fermer</OPER> la cocotte, aprés <OPER id="o_8">monter</OPER> en préssion laisser <OPER id="o_9">cuire</OPER> 20min.mixer et <OPER id="o_10">ajouter</OPER> la crêmeVous pouvez <OPER id="o_11">remplacer</OPER> les <INGRED id="1">courgettes</INGRED> par du choux fleur, des <INGRED id="3">petits</INGRED> <INGRED id="3">pois</INGRED>, des <INGRED id="3">haricots</INGRED> vert...
+  </annotation>
+  <annotation methode="crf">
+  dans une cocotte minute faire revenir les <INGRED>lardons</INGRED> <INGRED>,</INGRED> aprés coloration ajouter les <INGRED>oignons</INGRED> ( couper en lamelle ) <INGRED>,</INGRED> faire cuire 3a4min <INGRED>environ</INGRED> <INGRED>,</INGRED> il faut que les sucs commence <INGRED>a</INGRED> se coller au <INGRED>fond</INGRED> de la cocotte ensuite déglacer avec une <INGRED>petite</INGRED> partie de l'<INGRED>eau</INGRED>.mettre le restant d'<INGRED>eau</INGRED> ( froide ) les cougettes les <INGRED>pommes</INGRED> de terres préalablement coupé en cube et le <INGRED>gros</INGRED> sel.fermer la cocotte <INGRED>,</INGRED> aprés monter en préssion laisser cuire 20min.mixer et ajouter la crêmeVous pouvez remplacer les <INGRED>courgettes</INGRED> par du <INGRED>choux</INGRED> fleur <INGRED>,</INGRED> des <INGRED>petits</INGRED> <INGRED>pois</INGRED> <INGRED>,</INGRED> des <INGRED>haricots</INGRED> vert...
+  </annotation>
+  <complexite>
+    <temps>f(X) = 11.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 11</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['lardons fumés', 'lardons']	 id:1	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oignons']	 id:2	 quantité:200	 unité:g d'	 denombrable:False	 recipient:1
+ingredient:['pommes de terre', 'pommes']	 id:3	 quantité:1.2	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['courgette']	 id:4	 quantité:1	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['crème légère', 'crème']	 id:5	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['eau']	 id:7	 quantité:2.5	 unité:l d'	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:revenir	 id:o_1	 ingrédients_ralatifs:['4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:cuire	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:coller	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déglacer	 id:o_6	 ingrédients_ralatifs:['2', '1']	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:sel.fermer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:monter	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remplacer	 id:o_11	 ingrédients_ralatifs:['1', '3', '3', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

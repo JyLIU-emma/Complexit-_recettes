@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21816">
+  <titre>Pizza au thon et aux anchois</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte à pizza</p>
+    <p>200 g de thon à l'huile</p>
+    <p>6 anchois à l'huile</p>
+    <p>400 g de tomates pelées</p>
+    <p>3 petits oignons hachés</p>
+    <p>100 g de parmesan</p>
+    <p>quelques olives noires</p>
+    <p>sel, poivre</p>
+    <p>sucre</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etalez la pâte et farinez-la légèrement.
+    Egouttez le thon et émiettez-le.
+    Faites suer les oignons hachés dans une casserole avec de l'huile d'olive. Ajoutez les tomates concassées, salez, poivrez et ajoutez une pincée de sucre.
+    Laissez cuire jusqu'à ce qu'il n'y ait plus de liquide.
+    Etalez ce mélange sur la pâte, répartissez le thon et les anchois dessus, les olives et enfin le parmesan en copeaux.
+    Faites cuire environ 10 à 15 minutes au four à 240°C (thermostat 8).
+  ]]>
+  </preparation>
+</recette>

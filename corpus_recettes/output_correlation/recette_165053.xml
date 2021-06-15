@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165053">
+  <titre>Champignons au curry et au miel</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de champignons en boite</p>
+    <p>1 cuillère à soupe de miel d'acacia</p>
+    <p>1 cuillère à soupe de crème fraiche épaisse</p>
+    <p>1 cuillère à soupe de curry en poudre</p>
+    <p>sel, poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Egoutter les champignons et les faire revenir à la poele avec un peu de matière grasse à feu moyennement fort.- Lorsqu'ils sont très légèrement colorés, ajouter le miel d'acacia sans cesser de mélanger jusqu'à ce qu'il devienne totalement liquide. Ceci afin d'enrober parfaitement les champignons- Mettre à feu doux et ajouter la crème fraiche épaisse et remuer jusqu'à la rendre liquide. Poivrer selon les préférences.- Saupoudrer de curry et mélanger jusqu'à absorption par la crème fraiche.- Saler selon les préférences- Servir chaudVous pouvez, bien évidemment, remplacer les champignons en boite par des frais, et le miel d'acacia par tout autre miel (mais préférez quand même le miel liquide, il se mélangera mieux à la sauce).Ce plat végétarien se marie très bien à une escalope de poulet ou de dinde coupée en dés et colorée dès le début de la recette. Un blanc fruité
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  - <OPER id="o_1">Egoutter</OPER> les champignons et les faire <OPER id="o_2">revenir</OPER> à la poele avec un peu de matière grasse à feu moyennement fort.- Lorsqu'ils sont très légèrement colorés, <OPER id="o_3">ajouter</OPER> le <INGRED id="2">miel d'acacia</INGRED> sans <OPER id="o_4">cesser</OPER> de <OPER id="o_5">mélanger</OPER> jusqu'à ce qu'il devienne totalement liquide. Ceci afin d'<OPER id="o_6">enrober</OPER> parfaitement les champignons- <OPER id="o_7">Mettre</OPER> à feu doux et <OPER id="o_8">ajouter</OPER> la <INGRED id="3">crème fraiche épaisse</INGRED> et <OPER id="o_9">remuer</OPER> jusqu'à la <OPER id="o_10">rendre</OPER> liquide. <OPER id="o_11">Poivrer</OPER> selon les préférences.- <OPER id="o_12">Saupoudrer</OPER> de curry et <OPER id="o_13">mélanger</OPER> jusqu'à absorption par la crème fraiche.- <OPER id="o_14">Saler</OPER> selon les préférences- Servir chaudVous pouvez, bien évidemment, <OPER id="o_15">remplacer</OPER> les <INGRED id="1">champignons en boite</INGRED> par des frais, et le <INGRED id="2">miel d'acacia</INGRED> par tout autre <INGRED id="3">miel</INGRED> ( mais <OPER id="o_16">préférez</OPER> quand même le <INGRED id="2">miel</INGRED> liquide, il se mélangera mieux à la sauce).Ce plat végétarien se marie très bien à une escalope de poulet ou de dinde coupée en <INGRED id="3">dés</INGRED> et colorée dès le début de la recette. Un <INGRED id="1">blanc</INGRED> fruité
+  </annotation>
+  <annotation methode="crf">
+  - Egoutter les <INGRED>champignons</INGRED> et les faire revenir à la poele avec un peu de <INGRED>matière grasse</INGRED> à feu moyennement fort.- Lorsqu'ils sont très légèrement colorés <INGRED>,</INGRED> ajouter le <INGRED>miel</INGRED> d'acacia sans cesser de mélanger jusqu'à ce qu'il devienne totalement liquide. Ceci afin d'enrober parfaitement les champignons- Mettre à feu doux et ajouter la <INGRED>crème fraiche</INGRED> épaisse et remuer jusqu'à la rendre liquide. Poivrer selon les préférences.- Saupoudrer de <INGRED>curry</INGRED> et mélanger jusqu'à absorption par la <INGRED>crème</INGRED> fraiche.- Saler selon les préférences- Servir chaudVous pouvez <INGRED>,</INGRED> bien évidemment <INGRED>,</INGRED> remplacer les <INGRED>champignons</INGRED> en <INGRED>boite</INGRED> par des <INGRED>frais</INGRED> <INGRED>,</INGRED> et le <INGRED>miel d'acacia</INGRED> par tout autre <INGRED>miel</INGRED> ( mais préférez quand même le <INGRED>miel liquide</INGRED> <INGRED>,</INGRED> il se mélangera mieux à la sauce).Ce plat végétarien se marie très bien à une escalope de <INGRED>poulet</INGRED> <INGRED>ou</INGRED> de dinde coupée en dés et colorée dès le début de la recette. Un <INGRED>blanc</INGRED> fruité
+  </annotation>
+  <complexite>
+    <temps>f(X) = 8.0*X + 8.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 3*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['champignons en boite', 'champignons']	 id:1	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["miel d'acacia", 'miel']	 id:2	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['crème fraiche épaisse', 'crème']	 id:3	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['curry en poudre', 'curry']	 id:4	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre du moulin', 'poivre']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:egoutter	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:revenir	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_3	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cesser	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:enrober	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_7	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rendre	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saupoudrer	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:saler	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remplacer	 id:o_15	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préférer	 id:o_16	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

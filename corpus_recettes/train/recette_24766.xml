@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24766">
+  <titre>Rôti de porc aux crevettes et langoustines</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de rôti de porc dans l'échine</p>
+    <p>125 g de crevettes décortiquées</p>
+    <p>500 g de langoustines cuites</p>
+    <p>3 cuillères à soupe de rhum ambré</p>
+    <p>1 oignon piqué de 2 clous de girofle</p>
+    <p>2 l de court-bouillon</p>
+    <p>1 cuillerée à soupe d'huile</p>
+    <p>30 g de farine</p>
+    <p>30 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte, faire chauffer l'huile.
+    Y faire colorer la viande avec l'oignon piqué, flamber avec 2 cuillerées à soupe de rhum. 
+    Saler et laisser cuire 1 h à feu très doux.
+    Mettre les crevettes à macérer avec le rhum restant.
+    Faire cuire les langoustines au court-bouillon, environ 10 minutes.
+    Les égoutter.
+    Travailler le beurre ramolli avec la farine en pommade pour faire un beurre manié.
+    10 min avant la fin de la cuisson du rôti, ajouter les langoustines et les crevettes avec leur marinade.
+    Réchauffer quelques minutes et ajouter le beurre manié.
+    Sortir le rôti de la cocotte, le trancher et répartir les crustacés autour.
+    Napper de sauce et servir.
+  ]]>
+  </preparation>
+</recette>

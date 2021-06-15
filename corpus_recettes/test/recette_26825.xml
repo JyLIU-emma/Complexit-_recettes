@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26825">
+  <titre>Bugnes parfumées orange-citron</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>3 oeufs</p>
+    <p>50 g de sucre en poudre</p>
+    <p>1 pincée de sel</p>
+    <p>50 g de beurre</p>
+    <p>5 cl de lait</p>
+    <p>4 zestes d'orange</p>
+    <p>3 zestes de citron</p>
+    <p>du sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole, faire bouillir de l'eau et y plonger les zestes pendant 3 min.
+    Dans un saladier, pétrir la farine, le sucre, une pincée de sel, les oeufs, le beurre fondu et les zestes hachés.
+    Laisser monter la pâte pendant 2 h au frais recouverte d'un torchon.
+    Etaler la pâte sur un plan de travail farinée. Découper des rectangles de 4 cm sur 10 cm, les fendre en leur milieu et faire un noeud souple.
+    Plonger les bugnes dans l'huile chaude de la friteuse pendant 5 min.
+    Les égoutter et les saupoudrer de sucre glace.
+  ]]>
+  </preparation>
+</recette>

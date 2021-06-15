@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19100">
+  <titre>Soupe de courge crémeuse</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,500 kg de courge muscadée</p>
+    <p>120 g de blanc de poireaux</p>
+    <p>120 g d'oignon</p>
+    <p>20 cl de crème fraîche</p>
+    <p>sel poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et couper la courge en morceaux, ainsi que le blanc de poireaux et l'oignon. 
+    Mettre le tout dans une cocotte-minute. Saler, poivrer. Recouvrir le tout d'eau. Fermer et faire cuire 10 mn. 
+    Passer le tout au mixer pour obtenir un velouté et ajouter la crème fraîche. Rectifier éventuellement l'assaisonnement. 
+    Déguster.
+    S'il me reste un peu de soupe le lendemain (3 ou 4 louches), je fais cuire la valeur de 2 poignées de pâtes à potages ou des vermicelles dans 3/4 de litre lait salé et lorsque les pâtes sont cuites, j'y rajoute mon reste de soupe. C'est délicieux !
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21126">
+  <titre>Gateau suprême chocolat amandes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour le gâteau :</p>
+    <p>100 g de chocolat fondant </p>
+    <p>75 g de beurre</p>
+    <p>100 g de farine</p>
+    <p>100 g de poudre d’amandes</p>
+    <p>100 g de sucre</p>
+    <p>4 oeufs</p>
+    <p>1 pincée de sel</p>
+    <p>Pour le glaçage :</p>
+    <p>125 g de chocolat fondant</p>
+    <p>100 g de crème fraîche</p>
+    <p>Pour décorer :</p>
+    <p>amandes effilées </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 150°C (thermostat 5).
+    Faire fondre le chocolat au bain-marie avec le beurre sans remuer.
+    Pendant ce temps, séparer les jaunes des blancs d’oeufs puis battre les jaunes avec le sucre dans un saladier jusqu’à ce que le mélange blanchisse.
+    Ajouter ensuite le chocolat fondu, le sel, la poudre d’amandes et la farine tamisée sans cesser de remuer pour obtenir une pâte lisse et homogène.
+    Battre les blancs en neige bien ferme, les incorporer délicatement à la pâte chocolat/amandes, puis verser le tout dans un moule à manqué beurré jusqu’aux 3/4.
+    Mettre à cuire 45 min à four chaud et sortir le gâteau lorsque la pointe de votre couteau en ressortira sèche.
+    Démouler le gâteau sur un plat de service puis le laisser refroidir.
+    Pendant ce temps, préparer le glaçage en faisant fondre le chocolat au bain-marie jusqu’à ce qu’il soit bien lisse.
+    Y ajouter ensuite la crème fraîche et bien mélanger.
+    Etaler le glaçage encore tiède sur le gâteau à l’aide d’une spatule et bine lisser pour que la présentation soit réussie.
+    Parsemer le dessus d’amandes effilées à volonté.
+  ]]>
+  </preparation>
+</recette>

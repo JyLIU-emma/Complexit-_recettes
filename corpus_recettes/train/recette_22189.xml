@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22189">
+  <titre>Sorbet à l'abricot</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg d'abricots bien mûrs</p>
+    <p>1 citron</p>
+    <p>100 g de sucre glace</p>
+    <p>2 cuillères à soupe de Muscat</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez et dénoyautez les abricots. Mixez finement les fruits dans le bol du robot. 
+    Ajoutez le sucre glace, le jus de citron et le muscat. Mélangez bien et versez en sorbitière. Faites prendre en glace au congélateur pendant au moins 2 heures.Pensez à mettre le congélateur sur la positin la plus froide avant de mettre la sorbetière.
+    Vous pouvez remplacez les abricots par des pêches. Un Muscat de Rivesaltes
+  ]]>
+  </preparation>
+</recette>

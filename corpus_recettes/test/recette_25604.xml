@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25604">
+  <titre>Gâteau Nantais</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 oeufs</p>
+    <p>150 g de sucre</p>
+    <p>125 g de beurre ramolli</p>
+    <p>40 g de farine</p>
+    <p>125 g amande en poudre</p>
+    <p>1/2 paquet de levure</p>
+    <p>Pour imbiber :</p>
+    <p>6 cuillerées de rhum + 2 cuillerées d’eau</p>
+    <p>Pour glacer :</p>
+    <p>2 cuillerées de rhum + 2 tasse à café de sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre les oeufs avec le sucre, jusqu’à ce que le mélange soit presque blanc. 
+    Y ajouter les autres ingrédients un par un : amande, farine et beurre. 
+    Mettre au four 25 à 30 mm Th 6, 200°C. 
+    A chaud : à la sortie du four, imbiber le gâteau avec le rhum et l’eau. 
+    A froid : glacer le dessus avec du sucre glace mélangé à du rhum. 
+    Mettre au frais avant de servir.
+    Un gâteau qui parfume la cuisine avec son odeur de rhum !
+  ]]>
+  </preparation>
+</recette>

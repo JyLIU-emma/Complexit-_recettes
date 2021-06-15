@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23438">
+  <titre>Poulet croustillant au paprika</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet découpé en morceaux</p>
+    <p>60 g de beurre</p>
+    <p>50 g de farine</p>
+    <p>1 cuillère à café de sel</p>
+    <p>1/2 cuillère à café de paprika </p>
+    <p>1/4 de cuillère de poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez la farine, le sel, le poivre et le paprika.
+    Passez les morceaux de poulet dans ce mélange pour bien les recouvrir.
+    Faites chauffer le beurre dans une cocotte.
+    Mettez-y les morceaux de poulet à dorer à feu vif, puis baissez le feu, couvrez et laissez cuire 40 minutes.
+    Retirez le couvercle et laissez dorer 5-10 min à feu vid pour que les morceaux de poulet soient bien croustillants.
+    Mettez la farine dans un sac avec les morceaux de poulet et secouez-le : vite fait, bien fait, les morceaux sont bien recouvert de panure.
+  ]]>
+  </preparation>
+</recette>

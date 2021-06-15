@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20990">
+  <titre>Compote de pommes rapide (micro-ondes)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 pommes</p>
+    <p>cannelle (quantité selon votre goût)</p>
+    <p>sucre (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les pommes et les couper en petits carrés. 
+    Les mettre dans un plat pour four à micro-ondes. Saupoudrer de cannelle et de sucre (si vous en utilisez), mélanger. Couvrir le plat d'un film étirable. 
+    Faire cuire au micro-ondes 5 à 10 mn suivant la puissance du four. Mélanger.
+    L'intérêt de cette compote est qu'elle reste en petits carrés, ce qui plait beaucoup. On peut ajouter des raisins, des amandes ... suivant son imagination.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="400">
+  <titre>Rouleaux de saumon fumé surprise</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Quelques belles feuilles de laitue lavées et essorées</p>
+    <p>500 g de tomates cerises</p>
+    <p>4 belles tranches de saumon fumé </p>
+    <p>1 grand Carré Frais</p>
+    <p>1 pot d'oeufs de lompe</p>
+    <p>1 poire jaune bien tendre</p>
+    <p>2 cuillères à soupe de crème fraîche épaisse</p>
+    <p>sel, poivre du moulin</p>
+    <p>1 jus de citron</p>
+    <p>aneth fraîche mixée </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, mélangez le carré frais Gervais avec la crème fraîche, salez, poivrez.
+    Ecrasez la poire à la fourchette et mélangez-la au mélange précédent.
+    Arrosez chaque tranche d'un peu de jus de citron.
+    Etalez sur chaque tranches de saumon 2 cuillères à soupe de la préparation.
+    Ajoutez à 2 cm d'un bord de la tranche de saumon, un petit boudin formé par 2 à 3 cuillères à café d'oeufs de lompe.
+    Roulez la tranche de saumon sur elle même en commençant après le boudin d'oeufs de lompe (qui se retrouvera donc au centre pour finir).
+    Recouvrez chaque assiette de feuilles de laitue, disposez un rouleau de saumon.
+    Entourez chaque tranches de petites tomates cerises et quelques pointes de mayonnaise à côté des tomates (une sur deux).
+    Parsemez le tout d'un peu d'aneth
+    Servez frais.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Dans un saladier, <OPER id="o_1">mélangez</OPER> le <INGRED id="4">carré frais</INGRED> Gervais avec la <INGRED id="7">crème fraîche</INGRED>, <OPER id="o_2">salez</OPER>, poivrez. <OPER id="o_3">Ecrasez</OPER> la <INGRED id="7">poire</INGRED> à la fourchette et mélangez - la au mélange précédent. <OPER id="o_4">Arrosez</OPER> chaque tranche d'un peu de <INGRED id="11">jus de citron</INGRED>. <OPER id="o_5">Etalez</OPER> sur chaque tranches de <INGRED id="1">saumon</INGRED> 2 cuillères à soupe de la préparation. <OPER id="o_6">Ajoutez</OPER> à 2 cm d'un bord de la tranche de <INGRED id="1">saumon</INGRED>, un petit boudin formé par 2 à 3 cuillères à café d'<INGRED id="6">oeufs de lompe</INGRED>. <OPER id="o_7">Roulez</OPER> la tranche de <INGRED id="2">saumon</INGRED> sur elle même en commençant après le boudin d'<INGRED id="6">oeufs de lompe</INGRED> ( qui se retrouvera donc au centre pour finir ). <OPER id="o_8">Recouvrez</OPER> chaque assiette de feuilles de <INGRED id="1">laitue</INGRED>, <OPER id="o_9">disposez</OPER> un rouleau de <INGRED id="1">saumon</INGRED>. <OPER id="o_10">Entourez</OPER> chaque tranches de petites <INGRED id="4">tomates cerises</INGRED> et quelques pointes de mayonnaise à côté des <INGRED id="2">tomates</INGRED> ( une sur deux ). <OPER id="o_11">Parsemez</OPER> le tout d'un peu d'<INGRED id="12">aneth</INGRED> Servez frais.
+  </annotation>
+  <annotation methode="crf">
+  Dans un saladier <INGRED>,</INGRED> mélangez le <INGRED>carré</INGRED> <INGRED>frais</INGRED> Gervais avec la <INGRED>crème fraîche</INGRED> <INGRED>,</INGRED> salez <INGRED>,</INGRED> poivrez. Ecrasez la <INGRED>poire</INGRED> à la fourchette et mélangez - la au <INGRED>mélange</INGRED> précédent. Arrosez chaque tranche d'un peu de <INGRED>jus de citron</INGRED> <INGRED>.</INGRED> Etalez sur chaque tranches de <INGRED>saumon</INGRED> 2 <INGRED>cuillères à soupe</INGRED> de la préparation <INGRED>.</INGRED> Ajoutez à 2 <INGRED>cm</INGRED> d'un bord de la tranche de saumon <INGRED>,</INGRED> un <INGRED>petit</INGRED> boudin formé par 2 à 3 <INGRED>cuillères à café d'oeufs de lompe</INGRED> <INGRED>.</INGRED> Roulez la tranche de <INGRED>saumon</INGRED> sur elle même en commençant après le boudin d'<INGRED>oeufs de lompe</INGRED> ( qui se retrouvera donc au centre pour finir ). Recouvrez chaque assiette de feuilles de <INGRED>laitue</INGRED> <INGRED>,</INGRED> disposez un <INGRED>rouleau</INGRED> de <INGRED>saumon</INGRED> <INGRED>.</INGRED> Entourez chaque tranches de petites <INGRED>tomates cerises</INGRED> et quelques pointes de <INGRED>mayonnaise</INGRED> à côté des <INGRED>tomates</INGRED> ( une sur <INGRED>deux</INGRED> ). Parsemez le tout d'un peu d'<INGRED>aneth</INGRED> Servez <INGRED>frais</INGRED> <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 6.875*X + 4.125</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 10*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['laitue lavées', 'laitue']	 id:1	 quantité:non_precis	 unité:feuilles de	 denombrable:False	 recipient:1
+ingredient:['essorées']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomates cerises', 'tomates']	 id:3	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['saumon fumé', 'saumon']	 id:4	 quantité:4	 unité:tranches de	 denombrable:True	 recipient:4*X
+ingredient:['Carré Frais', 'Carré']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['oeufs de lompe', 'oeufs']	 id:6	 quantité:1	 unité:pot d'	 denombrable:True	 recipient:1*X
+ingredient:['poire jaune bien tendre', 'poire']	 id:7	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['crème fraîche épaisse', 'crème']	 id:8	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['sel']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre du moulin', 'poivre']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['jus de citron', 'jus']	 id:11	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['aneth fraîche mixée', 'aneth']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mélanger	 id:o_1	 ingrédients_ralatifs:['4', '7']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:saler	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ecraser	 id:o_3	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:arroser	 id:o_4	 ingrédients_ralatifs:['11']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:etaler	 id:o_5	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['1', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rouler	 id:o_7	 ingrédients_ralatifs:['2', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recouvrir	 id:o_8	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_9	 ingrédients_ralatifs:['1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:entourer	 id:o_10	 ingrédients_ralatifs:['4', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:parsemer	 id:o_11	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

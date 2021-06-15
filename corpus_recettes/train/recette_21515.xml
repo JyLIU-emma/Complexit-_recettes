@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21515">
+  <titre>Coquelet florentin</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>un coquelet</p>
+    <p>2 petites tomates</p>
+    <p>romarin frais</p>
+    <p>un piment d'Espelette</p>
+    <p>une gousse d'ail</p>
+    <p>huile d'olive</p>
+    <p>poivre noir</p>
+    <p>sel</p>
+    <p>un cube de bouillon de volaille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper le coquelet en deux dans le sens de la longueur.
+    Mettre à mariner 10 min dans un plat allant au four avec : le piment (que vous aurez préalablement écrasé), l'ail, le romarin, de l'huile d'olive, sel et poivre.
+    Avant de mettre au four, ajouter le cube de bouillon et un verre d'eau.
+    Mettre au four bien chaud (mode grill) pendant 45 min (côté peau vers le grill).
+    15 min avant la fin de la cuisson, ajouter les tomates en dés. Pendant la cuisson, arroser régulièrement avec le jus de cuisson.
+    La tomate caramélise lors de la cuisson. Ce plat typiquement florentin s'apprécie tout particulièrement accompagné de riz sauvage... et de bonne humeur! un Bourgogne rouge
+  ]]>
+  </preparation>
+</recette>

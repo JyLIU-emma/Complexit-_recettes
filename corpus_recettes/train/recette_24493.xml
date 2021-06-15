@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24493">
+  <titre>Bavarois à la vanille et à l'ananas</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>350 g d'ananas en boîte ou 1 ananas frais</p>
+    <p>25 cl de lait</p>
+    <p>3 oeufs</p>
+    <p>100 g de sucre</p>
+    <p>1 gousse de vanille</p>
+    <p>2 feuilles de gélatine</p>
+    <p>20 cl de crème entière</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites ramollir la gélatine dans un bol d'eau froide.
+    Fouettez la crème fraîche en chantilly.
+    Dans une casserole, préparez une crème anglaise : faites chauffer le lait avec la gousse de vanille et le sucre. Retirez la vanille et versez le lait chaud sur les jaunes d'oeufs battus en remuant vigoureusement.
+    Ajoutez la gélatine essorée dans la crème chaude (on peut faire fondre la gélatine à feu doux avec un peu d'eau pour l'incorporer plus facilement). Incorporez la crème fouettée.
+    Versez le tout dans un moule à savarin (moule en couronne).
+    Une fois que le bavarois commence à prendre, piquez des morceaux d'ananas dedans.
+    Le lendemain, démoulez et servez bien frais.
+  ]]>
+  </preparation>
+</recette>

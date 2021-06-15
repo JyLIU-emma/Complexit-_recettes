@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21660">
+  <titre>Poêlée cervelaise</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de courgettes</p>
+    <p>3 ou 4 belles tomates (ou tomates pelées en conserve) </p>
+    <p>1 cervelas</p>
+    <p>2 beaux oignons</p>
+    <p>quelques gousses d'ail</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre </p>
+    <p>herbes diverses</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer une poêle sur feu vif (de préférence poêle à revêtement anti-adhésif pour éviter de mettre trop d'huile). 
+    Mettre quelques cuillerées d'huile (selon les goûts). 
+    Faire rissoler les oignons, ainsi que l'ail pendand 5 mn. 
+    Mettre les tomates coupées en morceaux grossiers et bien mélanger le tout. 
+    Ajouter ensuite les courgettes épluchées et coupées en lamelles. 
+    Laisser mijoter cette préparation environ 10 mn sur feu doux. 
+    Ajouter le cervelas coupé en morceaux. 
+    Assaisonner selon votre convenance (les herbes de Provence relèvent bien le goût). 
+    Laisser mijoter encore 10 mn (ou plus selon que les courgettes sont encore fermes ou non)
+    Plat rapide, facile et pas cher. Idéal pour étudiant fauché ou citadin stressé Un rosé de provence
+  ]]>
+  </preparation>
+</recette>

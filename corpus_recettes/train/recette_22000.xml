@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22000">
+  <titre>Riz cantonais au poulet</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de riz cuit</p>
+    <p>300 g de restes de poulet cuit</p>
+    <p>2 oeufs</p>
+    <p>150 g de petits pois cuits</p>
+    <p>50 g de pousses de bambou</p>
+    <p>2 gros champignons noirs</p>
+    <p>1 oignon</p>
+    <p>1 cuillère à soupe de sauce soja</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites tremper les champignons dans un bol d'eau chaude au moins 30 min ou passez-les 2 min au micro-onde dans un bol d'eau.
+    Hachez l'oignon, faites-le revenir dans une sauteuse avec 2 cuillères d'huile chaude.
+    Détaillez le poulet en petits morceaux et ajoutez-les, ainsi que les pousses de bambou égouttées.
+    Ajoutez aussi les champignons égouttés et émincés et les petits pois.
+    Mélangez bien le tout.
+    Ajoutez le riz, mélangez et laissez cuire à feu doux 10 min en remuant sans cesse.
+    Battez les oeufs en omelette et faites-les cuire à part avec 1 cuillère d'huile.
+    Roulez l'omelette, découpez-la en lanières et ajoutez-les dans la sauteuse. Mélangez et servez.
+  ]]>
+  </preparation>
+</recette>

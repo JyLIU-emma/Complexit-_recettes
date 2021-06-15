@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168398">
+  <titre>Petits gateaux crêmeux aux fraises</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte sablée: </p>
+    <p>80g de farine</p>
+    <p>40g de sucre</p>
+    <p>1 jaune d'œuf</p>
+    <p>30g de beurre</p>
+    <p>1 pincée de sel</p>
+    <p>Pour la Crème:</p>
+    <p>1/4l de lait</p>
+    <p>30g de farine</p>
+    <p>50g de sucre</p>
+    <p>1 jaune d'œuf</p>
+    <p>1 gousse de vanille</p>
+    <p>100g de beurre</p>
+    <p>200g de fraises</p>
+    <p>Pour la décoration:</p>
+    <p>1/2 pot de confiture</p>
+    <p>1 feuille de gélatine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1 - Fendre en 2 la gousse de vanille. Gratter les graines et mettre le tout dans le lait. Faire chauffer doucement jusqu'à ébullition. Couper le feu, couvrir et laisser infuser.
+    2 - Pendant ce temps préparer la pâte sablée. Battre le sucre avec le jaune d'œuf et la pincée de sel jusqu'à faire blanchir. Incorporer la farine et le beurre. Malaxer jusqu'à avoir une consistance homogène. Laisser reposer au frais.
+    3 - Préparer une crème pâtissière: battre jusqu'au blanchiment le sucre et le jaune d'œuf, incorporer la farine. Bien essorer la gousse de vanille pour en retire le maximum d'arôme et verser le lait doucement sur le mélange sucre, vanille et farine en mélangeant. Remettre sur le feu sans cesser de remuer jusqu'à épaississement. Mettre au frais.
+    4 - Faire des disques de 10 cm de large avec la pâte sablée ou garnir des moules à tartelette et les mettre 10 à 15 min à four moyen.
+    5 - Quand la crème pâtissière est refroidie, la mixer avec le beurre coupé en morceaux et ajouter éventuellement les blancs battus en neige.
+    6 - Mettre des moules à bavarois individuels sur les disques de pâte sablée en appuyant un peu. Les garnir de crème jusqu'à la moitié et ranger les fraises coupées en 4 dans la hauteur. Compléter avec le reste de crème. Mettre au frais.
+    7 - Faire tremper la feuille de gélatine dans de l'eau fraiche. Mixer la confiture de fraise, la mettre à chauffer dans une petite casserole, suffisamment pour pouvoir dissoudre la feuille de gélatine en remuant avec un petit fouet. Laisser refroidir avant que cela ne prenne et verser sur une épaisseur de quelques mm sur la crème.
+    8 - Réserver au frais au moins 6 heures et démouler au dernier moment avec un pistolet thermique en chauffant les moules à bavarois.On peut réaliser cette recette avec un moule à bavarois de taille normale si l'on ne dispose pas de petits. Gewurztraminer vendanges tardives
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  1 - <OPER id="o_1">Fendre</OPER> en 2 la gousse de <INGRED id="4">vanille</INGRED>. <OPER id="o_2">Gratter</OPER> les <INGRED id="3">graines</INGRED> et <OPER id="o_3">mettre</OPER> le tout dans le <INGRED id="3">lait</INGRED>. Faire <OPER id="o_4">chauffer</OPER> doucement jusqu'à ébullition. <OPER id="o_5">Couper</OPER> le feu, <OPER id="o_6">couvrir</OPER> et <INGRED id="12">laisser</INGRED> <OPER id="o_7">infuser</OPER>. 2 - Pendant ce temps <OPER id="o_8">préparer</OPER> la pâte sablée. <OPER id="o_9">Battre</OPER> le <INGRED id="8">sucre</INGRED> avec le <INGRED id="9">jaune d'œuf</INGRED> et la pincée de <INGRED id="9">sel</INGRED> jusqu'à <INGRED id="4">faire</INGRED> <OPER id="o_10">blanchir</OPER>. <OPER id="o_11">Incorporer</OPER> la <INGRED id="12">farine</INGRED> et le <INGRED id="6">beurre</INGRED>. <OPER id="o_12">Malaxer</OPER> jusqu'à <OPER id="o_13">avoir</OPER> une consistance homogène. Laisser <OPER id="o_14">reposer</OPER> au frais. 3 - <OPER id="o_15">Préparer</OPER> une crème pâtissière : <OPER id="o_16">battre</OPER> jusqu'au blanchiment le <INGRED id="3">sucre</INGRED> et le <INGRED id="3">jaune d'œuf</INGRED>, <OPER id="o_17">incorporer</OPER> la <INGRED id="5">farine</INGRED>. Bien <OPER id="o_18">essorer</OPER> la gousse de <INGRED id="4">vanille</INGRED> pour en retire le maximum d'<INGRED id="10">arôme</INGRED> et <OPER id="o_19">verser</OPER> le <INGRED id="3">lait</INGRED> doucement sur le <INGRED id="2">mélange</INGRED> <INGRED id="6">sucre</INGRED>, <INGRED id="10">vanille</INGRED> et <INGRED id="12">farine</INGRED> en mélangeant. <OPER id="o_20">Remettre</OPER> sur le feu sans <OPER id="o_21">cesser</OPER> de <OPER id="o_22">remuer</OPER> jusqu'à épaississement. <OPER id="o_23">Mettre</OPER> au frais. 4 - Faire des disques de 10 cm de large avec la <INGRED id="5">pâte</INGRED> sablée ou garnir des <INGRED id="10">moules</INGRED> à tartelette et les <OPER id="o_24">mettre</OPER> 10 à 15 min à four moyen. 5 - Quand la crème pâtissière est refroidie, la <OPER id="o_25">mixer</OPER> avec le <INGRED id="3">beurre</INGRED> coupé en <INGRED id="1">morceaux</INGRED> et <OPER id="o_26">ajouter</OPER> éventuellement les <INGRED id="7">blancs</INGRED> battus en neige. 6 - <OPER id="o_27">Mettre</OPER> des moules à bavarois individuels sur les disques de pâte sablée en appuyant un peu. Les <OPER id="o_28">garnir</OPER> de <INGRED id="14">crème</INGRED> jusqu'à la moitié et <OPER id="o_29">ranger</OPER> les <INGRED id="12">fraises</INGRED> <INGRED id="5">coupées</INGRED> en 4 dans la hauteur. <OPER id="o_30">Compléter</OPER> avec le <INGRED id="1">reste</INGRED> de crème. <OPER id="o_31">Mettre</OPER> au frais. 7 - Faire <OPER id="o_32">tremper</OPER> la feuille de <INGRED id="8">gélatine</INGRED> dans de l'<INGRED id="1">eau</INGRED> fraiche. <OPER id="o_33">Mixer</OPER> la <INGRED id="13">confiture</INGRED> de fraise, la <OPER id="o_34">mettre</OPER> à <OPER id="o_35">chauffer</OPER> dans une <INGRED id="2">petite</INGRED> casserole, suffisamment pour pouvoir <OPER id="o_36">dissoudre</OPER> la feuille de <INGRED id="6">gélatine</INGRED> en remuant avec un petit fouet. Laisser <OPER id="o_37">refroidir</OPER> avant que cela ne prenne et <OPER id="o_38">verser</OPER> sur une épaisseur de quelques mm sur la crème. 8 - Réserver au frais au moins 6 heures et <OPER id="o_39">démouler</OPER> au dernier moment avec un pistolet thermique en chauffant les <INGRED id="2">moules</INGRED> à bavarois. On peut <OPER id="o_40">réaliser</OPER> cette recette avec un moule à bavarois de taille normale si l'on ne dispose pas de <INGRED id="3">petits</INGRED>. Gewurztraminer vendanges tardives
+  </annotation>
+  <annotation methode="crf">
+  1 - Fendre en 2 la gousse de <INGRED>vanille</INGRED> <INGRED>.</INGRED> Gratter les <INGRED>graines</INGRED> et mettre le tout dans le <INGRED>lait</INGRED> <INGRED>.</INGRED> Faire chauffer doucement jusqu'à ébullition <INGRED>.</INGRED> Couper le feu <INGRED>,</INGRED> couvrir et laisser infuser <INGRED>.</INGRED> 2 - Pendant ce temps préparer la <INGRED>pâte</INGRED> sablée <INGRED>.</INGRED> Battre le <INGRED>sucre</INGRED> avec le <INGRED>jaune d'œuf</INGRED> et la pincée de <INGRED>sel</INGRED> jusqu'à faire blanchir <INGRED>.</INGRED> Incorporer la <INGRED>farine</INGRED> et le <INGRED>beurre</INGRED> <INGRED>.</INGRED> Malaxer jusqu'à avoir une consistance homogène <INGRED>.</INGRED> Laisser reposer au <INGRED>frais</INGRED> <INGRED>.</INGRED> 3 - Préparer une <INGRED>crème</INGRED> pâtissière <INGRED>:</INGRED> battre jusqu'au blanchiment le <INGRED>sucre</INGRED> et le <INGRED>jaune d'œuf</INGRED> <INGRED>,</INGRED> incorporer la <INGRED>farine</INGRED>. Bien essorer la gousse de <INGRED>vanille</INGRED> pour en retire le maximum d'arôme et verser le <INGRED>lait</INGRED> doucement sur le <INGRED>mélange sucre</INGRED> <INGRED>,</INGRED> <INGRED>vanille</INGRED> et <INGRED>farine</INGRED> en mélangeant <INGRED>.</INGRED> Remettre sur le feu sans cesser de remuer jusqu'à épaississement. Mettre au <INGRED>frais</INGRED> <INGRED>.</INGRED> 4 - Faire des disques de 10 <INGRED>cm</INGRED> de large avec la <INGRED>pâte</INGRED> sablée <INGRED>ou</INGRED> garnir des <INGRED>moules</INGRED> à tartelette et les mettre 10 à 15 min à four moyen <INGRED>.</INGRED> 5 - Quand la <INGRED>crème pâtissière</INGRED> est refroidie, la mixer avec le <INGRED>beurre</INGRED> <INGRED>coupé</INGRED> en <INGRED>morceaux</INGRED> et ajouter éventuellement les <INGRED>blancs</INGRED> battus en neige <INGRED>.</INGRED> 6 - Mettre des <INGRED>moules</INGRED> à bavarois individuels sur les disques de <INGRED>pâte</INGRED> sablée en appuyant un peu. Les garnir de <INGRED>crème</INGRED> jusqu'à la moitié et ranger les <INGRED>fraises</INGRED> <INGRED>coupées</INGRED> en 4 dans la hauteur. Compléter avec le <INGRED>reste</INGRED> de <INGRED>crème</INGRED>. Mettre au <INGRED>frais</INGRED> <INGRED>.</INGRED> 7 - Faire tremper la feuille de <INGRED>gélatine</INGRED> dans de l'<INGRED>eau fraiche</INGRED>. Mixer la <INGRED>confiture</INGRED> de fraise <INGRED>,</INGRED> la mettre à chauffer dans une <INGRED>petite</INGRED> casserole <INGRED>,</INGRED> suffisamment pour pouvoir dissoudre la feuille de <INGRED>gélatine</INGRED> en remuant avec un <INGRED>petit</INGRED> fouet. Laisser refroidir avant que cela ne prenne et verser sur une épaisseur de quelques mm sur la <INGRED>crème</INGRED>. 8 - Réserver au <INGRED>frais</INGRED> au moins 6 heures et démouler au dernier moment avec un <INGRED>pistolet</INGRED> thermique en chauffant les <INGRED>moules</INGRED> à bavarois. On peut réaliser cette recette avec un moule à bavarois de taille normale si l'on ne dispose pas de <INGRED>petits</INGRED> <INGRED>.</INGRED> Gewurztraminer vendanges tardives
+  </annotation>
+  <complexite>
+    <temps>f(X) = 85.3571428571429*X + 153.642857142857</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 5*X + 21</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['farine']	 id:1	 quantité:80	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:2	 quantité:40	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["jaune d'œuf", 'jaune']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['beurre']	 id:4	 quantité:30	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:5	 quantité:1	 unité:pincée de	 denombrable:True	 recipient:1*X
+ingredient:['lait']	 id:6	 quantité:1/4	 unité:l de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:7	 quantité:30	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:8	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["jaune d'œuf", 'jaune']	 id:9	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['vanille']	 id:10	 quantité:1	 unité:gousse de	 denombrable:True	 recipient:1*X
+ingredient:['beurre']	 id:11	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['fraises']	 id:12	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['confiture']	 id:13	 quantité:1/2	 unité:pot de	 denombrable:False	 recipient:1
+ingredient:['gélatine']	 id:14	 quantité:1	 unité:feuille de	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:fendre	 id:o_1	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:gratter	 id:o_2	 ingrédients_ralatifs:['3', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_3	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:chauffer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:couper	 id:o_5	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:200*X	 temps:1*X*1	 recipient:1
+operation:couvrir	 id:o_6	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:infuser	 id:o_7	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:battre	 id:o_9	 ingrédients_ralatifs:['8', '9', '9', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:blanchir	 id:o_10	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_11	 ingrédients_ralatifs:['12', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:malaxer	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:avoir	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:préparer	 id:o_15	 ingrédients_ralatifs:['3', '3', '5']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:battre	 id:o_16	 ingrédients_ralatifs:['3', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_17	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:essorer	 id:o_18	 ingrédients_ralatifs:['4', '10', '3', '2', '6', '10', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_19	 ingrédients_ralatifs:['3', '2', '6', '10', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remettre	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cesser	 id:o_21	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_23	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mixer	 id:o_25	 ingrédients_ralatifs:['3', '1', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_26	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_27	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:garnir	 id:o_28	 ingrédients_ralatifs:['14', '12', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ranger	 id:o_29	 ingrédients_ralatifs:['12', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:compléter	 id:o_30	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_31	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:tremper	 id:o_32	 ingrédients_ralatifs:['8', '1']	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:mixer	 id:o_33	 ingrédients_ralatifs:['13', '2', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_34	 ingrédients_ralatifs:['2', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:chauffer	 id:o_35	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:dissoudre	 id:o_36	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_37	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:verser	 id:o_38	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:démouler	 id:o_39	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:réaliser	 id:o_40	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

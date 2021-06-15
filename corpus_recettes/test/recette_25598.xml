@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25598">
+  <titre>Bretzels d'alsace</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>450 g de farine</p>
+    <p>20 g de levure de boulanger</p>
+    <p>20 cl d'eau chaude</p>
+    <p>8,5 cl de lait bouilli</p>
+    <p>1 cuillère à soupe de sucre</p>
+    <p>3 cuillères à soupe d'huile neutre</p>
+    <p>2 cuillères à café de sel</p>
+    <p>2 oeufs</p>
+    <p>gros sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emiettez la levure, délayez-la avec le sucre et un peu d'eau. 
+    Laissez mousser.
+    Faites chauffer le lait.
+    Ajoutez à la levure le reste de l'eau, le lait, l'huile, le sel et la moitié de la farine.
+    Mélangez bien puis incorporez le reste de la farine.
+    Pétrissez bien la pâte, pendant environ 10 min, jusqu'à ce qu'elle soit homogènet et élastique.
+    Laissez-la reposer et doubler de volume dans le saladier couvert environ 1h.
+    Pétrissez à nouveau 5 min.
+    Préchauffez le four à 220°C (thermostat 7-8).
+    Formez une vingtaine de boudin (ou plus) d'environ 30 cm de longueur.
+    Façonnez-les à la forme des bretzels, puis placez-les sur un papier huilé.
+    Enfournez pour 10 min dans le haut du four. 
+    Délayez les jauens d'oeufs avec un peu d'eau.
+    Sortez les breztels, badigeonnez-les de jaune d'oeufs et saupoudrez de gros sel.
+    Remettez au milieu du four et laissez cuire 25 min.
+    Les bretzels sont meilleurs chauds, et avec une bonne bière !
+  ]]>
+  </preparation>
+</recette>

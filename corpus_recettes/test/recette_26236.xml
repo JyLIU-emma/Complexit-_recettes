@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26236">
+  <titre>Petite soupe de carottes au lait de coco</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g carotte</p>
+    <p>1 gros oignon</p>
+    <p>1 m d'eau</p>
+    <p>20 cl de lait de coco</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites bouillir l'eau. 
+    Brossez les carottes, puis coupez-les en rondelle. 
+    Epluchez l'oignon et coupez-le en morceaux. 
+    Placez le tout dans l'eau bouillante et salée, et laissez cuire pendant 30 min à feu moyen. 
+    Mixez, puis versez le lait de coco. 
+    C'est prêt !
+    Surprenant. Apprécié de ceux qui d'un à priori n'aimeraient pas la noix de coco.
+  ]]>
+  </preparation>
+</recette>

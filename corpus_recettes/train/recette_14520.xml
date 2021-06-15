@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14520">
+  <titre>Gnocchi au speck et au gorgonzola</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de gnocchi</p>
+    <p>4 tranches de speck coupées en petits morceaux (épaule de porc fumée)</p>
+    <p>200 g de gorgonzola émietté</p>
+    <p>20 cl de crème fraîche</p>
+    <p>1 gousse d'ail écrasée</p>
+    <p>1 noix de beurre</p>
+    <p>parmesan râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole, faire fondre le beurre avec le speck 3 min.
+    Ajouter l'ail, la crème et le gorgonzola.
+    Faire cuire jusqu’à ce que le gorgonzola ait fondu; éteindre le feu.
+    Cuire les gnocchis selon les instructions du paquet.
+    Mélanger le tout, servir et saupoudrer chaque assiette de parmesan.
+    Puisque le gorgonzola et le speck sont des ingrédients salés, il n’est pas nécessaire de rajouter de sel pour la préparation.
+    Photo de Manina Hatzimichali
+  ]]>
+  </preparation>
+</recette>

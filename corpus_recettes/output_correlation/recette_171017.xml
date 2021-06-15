@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171017">
+  <titre>Moules sauce mayonnaise ,fine saveur</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 kg de moules</p>
+    <p>1 feuille de laurier</p>
+    <p>2 cuillères soupe rases de thym</p>
+    <p>20 cl de vin blanc</p>
+    <p>1 jaune d'œuf</p>
+    <p>1 cuillère à soupe rase de moutarde</p>
+    <p>50 cl d'huile</p>
+    <p>sel et poivre</p>
+    <p>1 cuillère à café de vinaigre balsamique</p>
+    <p>2 gousses d'ail pilées</p>
+    <p>le jus des moules (filtré)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire ouvrir les moules nettoyées dans le vin blanc chaud en y ajoutant le thym et le laurier.
+    Réserver.
+    Monter la mayonnaise avec d'abord le jaune d'œuf et la moutarde. Ajouter progressivement l'huile. Lorsque la mayonnaise est prête (environ un petit saladier) y ajouter l'ail en purée et le vinaigre. Bien émulsionner puis ajouter le jus filtré des moules jusqu'à obtention de la quantité désirées (en fonction de la quantité de moules).Mélanger la sauce obtenue aux moules et réserver au frais jusqu'au repas.Pour une entrée diviser les quantités par 2 vin blanc d'alsace
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">ouvrir</OPER> les moules nettoyées dans le <INGRED id="2">vin blanc</INGRED> chaud en y ajoutant le thym et le laurier. Réserver. <OPER id="o_2">Monter</OPER> la <INGRED id="5">mayonnaise</INGRED> avec d'abord le <INGRED id="3">jaune d'œuf</INGRED> et la moutarde. <OPER id="o_3">Ajouter</OPER> progressivement l'<INGRED id="2">huile</INGRED>. Lorsque la <INGRED id="5">mayonnaise</INGRED> est prête ( <INGRED id="1">environ</INGRED> un petit <INGRED id="1">saladier</INGRED> ) y <OPER id="o_4">ajouter</OPER> <INGRED id="1">l'ail</INGRED> en purée et le <INGRED id="4">vinaigre</INGRED>. Bien <OPER id="o_5">émulsionner</OPER> puis <OPER id="o_6">ajouter</OPER> le <INGRED id="12">jus</INGRED> filtré des <INGRED id="1">moules</INGRED> jusqu'à obtention de la quantité désirées ( en fonction de la quantité de <OPER id="o_7">moules).Mélanger</OPER> la <INGRED id="5">sauce</INGRED> obtenue aux <INGRED id="8">moules</INGRED> et réserver au frais jusqu'au repas. Pour une entrée <OPER id="o_8">diviser</OPER> les quantités par 2 <INGRED id="3">vin blanc</INGRED> d'alsace
+  </annotation>
+  <annotation methode="crf">
+  Faire ouvrir les <INGRED>moules</INGRED> nettoyées dans le <INGRED>vin blanc</INGRED> chaud en y ajoutant le <INGRED>thym</INGRED> et le <INGRED>laurier</INGRED>. Réserver. Monter la <INGRED>mayonnaise</INGRED> avec d'abord le <INGRED>jaune d'œuf</INGRED> et la <INGRED>moutarde</INGRED>. Ajouter progressivement l'<INGRED>huile</INGRED>. Lorsque la <INGRED>mayonnaise</INGRED> est prête ( <INGRED>environ</INGRED> un <INGRED>petit</INGRED> saladier ) y ajouter l'<INGRED>ail</INGRED> en <INGRED>purée</INGRED> et le <INGRED>vinaigre</INGRED>. Bien émulsionner puis ajouter le <INGRED>jus</INGRED> filtré des moules jusqu'à obtention de la quantité désirées ( en fonction de la quantité de moules).Mélanger la <INGRED>sauce</INGRED> obtenue aux <INGRED>moules</INGRED> et réserver au <INGRED>frais</INGRED> jusqu'au repas. Pour une entrée diviser les quantités par 2 <INGRED>vin blanc</INGRED> d'alsace
+  </annotation>
+  <complexite>
+    <temps>f(X) = 4.57142857142857*X + 3.42857142857143</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 8*X + 6</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['moules']	 id:1	 quantité:2	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['laurier']	 id:2	 quantité:1	 unité:feuille de	 denombrable:True	 recipient:1*X
+ingredient:['thym']	 id:3	 quantité:2	 unité:cuillères soupe rases de	 denombrable:True	 recipient:2*X
+ingredient:['vin blanc', 'vin']	 id:4	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:["jaune d'œuf", 'jaune']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['moutarde']	 id:6	 quantité:1	 unité:cuillère à soupe rase de	 denombrable:True	 recipient:1*X
+ingredient:['huile']	 id:7	 quantité:50	 unité:cl d'	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['vinaigre balsamique', 'vinaigre']	 id:10	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+ingredient:['ail pilées', 'ail']	 id:11	 quantité:2	 unité:gousses d'	 denombrable:True	 recipient:2*X
+ingredient:['jus des moules', 'jus']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:ouvrir	 id:o_1	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:monter	 id:o_2	 ingrédients_ralatifs:['5', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_3	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_4	 ingrédients_ralatifs:['1', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:émulsionner	 id:o_5	 ingrédients_ralatifs:['12', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['12', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:moules).mélanger	 id:o_7	 ingrédients_ralatifs:['5', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:diviser	 id:o_8	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

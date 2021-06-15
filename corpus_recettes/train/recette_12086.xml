@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12086">
+  <titre>Tarte au roquefort</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>1 barquette de tomates cerises</p>
+    <p>3 oeufs</p>
+    <p>20 cl de crème fraîche</p>
+    <p>150 g de roquefort</p>
+    <p>20 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Beurrez un moule à tarte, le garnir avec la pâte feuilletée et réserver.
+    Battez les oeufs en omelette, mélangez-les avec la crème fraîche et le roquefort effrité. Poivrez et salez peu.
+    Versez cette préparation sur le fond de tarte puis garnissez avec les tomates cerises.
+    Enfournez à four chaud thermostat 7 (210°C) pendant 30 mn.
+    Laissez reposer 5 mn dans le four éteint avant de démouler.
+    Dégustez chaud ou froid avec une salade de saison.
+    Tarte très facile et rapide à faire. Côtes de Buzet rouge
+  ]]>
+  </preparation>
+</recette>

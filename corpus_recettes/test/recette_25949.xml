@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25949">
+  <titre>Asperges assaisonnées d'une sauce épicée à l'avocat</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1,2 kg d'asperges blanches</p>
+    <p>1 avocat</p>
+    <p>8 grains de poivre vert</p>
+    <p>1 citron</p>
+    <p>1 jaune d'oeuf</p>
+    <p>1 cuillère à soupe de cognac ou d'armagnac</p>
+    <p>20 cl de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et lier les asperges en bottillons. Les plonger dans de l'eau bouillante salée, laisser cuire 20 min environ. Egoutter et laisser refroidir.
+    Pour préparer la sauce : évider l'avocat et mixer la chair avec le poivre et le jus de citron. Incorporer également le jaune d'oeuf, le cognac et une pincée de sel. Ensuite, fouetter légèrement la crème fraîche bien froide et l'incorporer au tout.
+    Servir les asperges et la sauce à l'avocat à part.
+  ]]>
+  </preparation>
+</recette>

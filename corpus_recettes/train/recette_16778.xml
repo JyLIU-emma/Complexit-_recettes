@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16778">
+  <titre>Gâteau marbré au yaourt facile</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pot de yaourt (125 g)</p>
+    <p>1 pot d'huile</p>
+    <p>2 pots de sucre(250 g)</p>
+    <p>3 pots de farine (375 g)</p>
+    <p>3 œufs</p>
+    <p>1 sachet de levure</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 pot de cacao (125 g, pour le marbrage)</p>
+    <p>margarine (pour le moule)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez le yaourt, le sucre (avec le sucre vanillé), l'huile, les œufs et la farine (avec la levure).Une fois la pâte assez liquide, versez dans un autre récipient 1/3 de la pâte. Ajoutez-y le cacao en poudre et mélangez.
+    Beurrez le moule. Versez une couche de pâte nature dans le fond, puis une couche de pâte chocolatée... et finissez par une couche de pâte nature.
+    Faites cuire au four (préchauffé) à 180°C (thermostat 6) pendant 35 min.
+  ]]>
+  </preparation>
+</recette>

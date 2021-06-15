@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23649">
+  <titre>Tourte au Thon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 grosses boîtes de thon</p>
+    <p>5 biscottes</p>
+    <p>4 oeufs</p>
+    <p>1 oignon</p>
+    <p>30 cl de crème fleurette</p>
+    <p>1/2 sachet de levure</p>
+    <p>1/2 verre de lait</p>
+    <p>sel, poivre, estragon</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, émietter le thon et mélanger avec l'oignon émincé.
+    Ajouter les oeufs entiers un par un. Ajouter la levure, la crème, sel, poivre et estragon. Bien mélanger l'appareil et ajouter le lait.
+    Emiettez les biscottes et les ajouter au mélange.
+    Mettre cette préparation dans un plat et cuire à four moyen (thermostat 6/180°C) 30 à 40 mn.
+    Cette tourte peut se manger aussi bien chaude avec une sauce Aurore, que froide avec une mayonnaise.
+    Ce plat est très facile à réaliser pour les enfants.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17599">
+  <titre>Coquillages gratinés au beurre anisé</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,2 kg de coquillages (moules, praires, palourdes..)</p>
+    <p>80 g de beurre</p>
+    <p>2 cuillères à soupe de chapelure fine</p>
+    <p>2 gousses d'ail</p>
+    <p>1/2 bouquet de persil</p>
+    <p>1 cuillère à soupe de pastis</p>
+    <p>1 pincée de piment de Cayenne</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyez les coquillages sous un filet d'eau froide. Egouttez-les et mettez-les dans une marmite.
+    Couvrez et faites ouvrir à feu vif 3 mn, sans les cuire complètement.
+    Laissez tiédir un peu et retirez les coquilles supérieures vides.
+    Mélangez le beurre ramolli avec la chapelure, l'ail pelé et haché, le persil ciselé, le pastis, le piment de Cayenne, du set et du poivre.
+    Garnissez chaque coquillage de beurre parfumé, rangez-les dans un grand plat à four et faites-(les gratiner quelques minutes sous le gril du four).
+    Vous pouvez ajouter 1 cuillerée à café d'aneth ciselé au beurre parfumé.
+  ]]>
+  </preparation>
+</recette>

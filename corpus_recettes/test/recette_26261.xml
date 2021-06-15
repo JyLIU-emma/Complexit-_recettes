@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26261">
+  <titre>Salade de légumes aux écrevisses et au foie gras</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>24 écrevisses</p>
+    <p>1 l de court-bouillon</p>
+    <p>250 g de haricots verts très fins</p>
+    <p>150 g de foie gras cuit en terrine</p>
+    <p>135 g de pointes d'asperges</p>
+    <p>Pour la sauce vinaigrette :</p>
+    <p>moutarde</p>
+    <p>huile</p>
+    <p>vinaigre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Jeter les écrevisses dans une casserole d'eau bouillante parfumée d'un cube de bouillon et les faire cuire pendant 5 minutes puis les décortiquer.
+    Cuire les haricots verts à l'eau bouillante salée 10-15 minutes, ils doivent être fermes. Les égoutter et les passer sous l'eau froide pour les rafraîchir.Répartir les haricots verts, les pointes d'asperges et les écrevisses sur les assiettes. Arroser de vinaigrette puis répartir dessus le foie gras détaillé en lamelles.Il est possible de varier les légumes : artichauts, champignons ou feuilles de salade se marient très bien avec le foie gras.
+  ]]>
+  </preparation>
+</recette>

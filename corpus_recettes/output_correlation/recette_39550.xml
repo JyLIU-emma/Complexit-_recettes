@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39550">
+  <titre>Petits bavarois vanille poire chicorée (27 ème rencontre)</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour le biscuit :</p>
+    <p>4 blancs d'œufs</p>
+    <p>125 g d'amandes en poudre</p>
+    <p>100 g de sucre</p>
+    <p>1 grosse cuillère à soupe de farine</p>
+    <p>2 cuillères à café de café instantanéPour les bavarois :</p>
+    <p>6 jaunes d'œufs</p>
+    <p>50 cl de lait</p>
+    <p>180 g de sucre</p>
+    <p>2 paquets de sucre vanillé</p>
+    <p>40 cl de crème liquide entière</p>
+    <p>1 grosse boîte de poires au sirop </p>
+    <p>2 cuillères à soupe de chicorée liquide</p>
+    <p>7 feuilles et demie de gélatine (15 g)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la veille, de préférence.
+    Le biscuit : Battez les blancs en neige ferme, en ajoutant le sucre à la fin. Ils doivent être brillants. Mélangez la farine, le nescafé et les amandes. Incorporer aux blancs battus. Versez dans un moule assez grand, mais n'étalez pas trop la pâte car elle a tendance à gonfler et à ensuite retomber. Cuire 45 minutes environ à 180°C (thermostat 6).
+    Laissez refroidir sur une grille.
+    Les bavarois :Faites tremper la gélatine, dans de l’eau froide. Battez les jaunes avec le sucre, pour obtenir un mélange mousseux. 
+    Faites bouillir le lait, avec le sucre vanillé. Retirez du feu. Ajoutez éventuellement une cuillère à soupe de maïzena, délayée dans très peu de lait froid. Pour éviter que la crème ne tourne, versez tout doucement le mélange sur les œufs, en mélangeant bien, au fouet. Remettez-le tout dans la casserole, faites cuire lentement, à feu doux, en mélangeant sans cesse. Quand la crème nappe la cuillère, retirez du feu, et ajoutez la gélatine égouttée. Elle fond instantanément. Laissez refroidir, en fouettant souvent.
+    Divisez la préparation en deux, en vous aidant d’un verre doseur. Dans une moitié, ajoutez des petits dés de poires, dans l’autre 2 cuillères à soupe et demie de chicorée liquide.
+    Battez la crème en chantilly, puis incorporez-en une moitié, à chaque crème gélatineuse.
+    Montage :Prendre 12 petits moules à muffins, ou des ramequins. Les tapisser de film alimentaire. Verser un peu de crème à la chicorée, dans chaque moule, puis la crème vanille poires.A l’aide d’un verre, découper des ronds de pâte. Les poser sur la crème, et appuyer légèrement. Mettre au réfrigérateur.Démouler sur chaque assiette. Mettre un peu de coulis de poires 
+    (poires mixées dans un peu de jus ), et un peu de crème de caramel au beurre salé Marmiton (mettre le pot au bain-marie pour la liquéfier). Variantes :Si vous n’avez pas le temps de faire le biscuit, mettez des spéculos mixés, mélangés avec un peu de beurre fondu, ou alors pas de fond du tout, et servez avec des pains d’amandes. Si vous choisissez de faire un grand concerto, dans un grand moule, démoulez-le et collez, tout autour, ces mêmes pains d’amandes avec le caramel. Décorez, le dessus, avec des lamelles de poires, et parsemez de miettes de spéculos.Un délicieux bavarois aux parfums de vanille, de poire et de chicorée sur un biscuit aux amandes, coulis de caramel au beurre salé.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Préparer</OPER> la veille, de préférence. Le biscuit : <OPER id="o_2">Battez</OPER> les <INGRED id="6">blancs</INGRED> en neige ferme, en ajoutant le <INGRED id="14">sucre</INGRED> à la fin. Ils doivent être brillants. <OPER id="o_3">Mélangez</OPER> la <INGRED id="3">farine</INGRED>, le nescafé et les <INGRED id="13">amandes</INGRED>. <OPER id="o_4">Incorporer</OPER> aux <INGRED id="1">blancs</INGRED> battus. <OPER id="o_5">Versez</OPER> dans un moule assez grand, mais n'étalez pas trop la <INGRED id="2">pâte</INGRED> car elle a tendance à <OPER id="o_6">gonfler</OPER> et à ensuite <OPER id="o_7">retomber</OPER>. <OPER id="o_8">Cuire</OPER> 45 minutes <INGRED id="1">environ</INGRED> à 180 ° C ( thermostat 6 ). Laissez <OPER id="o_9">refroidir</OPER> sur une grille. Les bavarois : Faites <OPER id="o_10">tremper</OPER> la <INGRED id="5">gélatine</INGRED>, dans de l’ <INGRED id="5">eau froide</INGRED>. <OPER id="o_11">Battez</OPER> les <INGRED id="3">jaunes</INGRED> avec le sucre, pour obtenir un mélange mousseux. Faites <OPER id="o_12">bouillir</OPER> le <INGRED id="1">lait</INGRED>, avec le <INGRED id="10">sucre vanillé</INGRED>. <OPER id="o_13">Retirez</OPER> du feu. <OPER id="o_14">Ajoutez</OPER> éventuellement une cuillère à <INGRED id="5">soupe</INGRED> de <INGRED id="7">maïzena</INGRED>, délayée dans très <INGRED id="10">peu de lait</INGRED> froid. Pour éviter que la crème ne tourne, <OPER id="o_15">versez</OPER> tout doucement le <INGRED id="2">mélange</INGRED> sur les <INGRED id="6">œufs</INGRED>, en mélangeant bien, au fouet. <OPER id="o_16">Remettez</OPER> - le tout dans la casserole, faites <OPER id="o_17">cuire</OPER> lentement, à feu doux, en mélangeant sans cesse. Quand la crème nappe la cuillère, <OPER id="o_18">retirez</OPER> du feu, et ajoutez la <INGRED id="14">gélatine</INGRED> égouttée. Elle <INGRED id="4">fond</INGRED> instantanément. Laissez <OPER id="o_19">refroidir</OPER>, en fouettant souvent. <OPER id="o_20">Divisez</OPER> la <INGRED id="4">préparation</INGRED> en <INGRED id="6">deux</INGRED>, en vous aidant d’ un verre <INGRED id="1">doseur</INGRED>. Dans une moitié, <OPER id="o_21">ajoutez</OPER> des <INGRED id="3">petits</INGRED> <INGRED id="4">dés</INGRED> de <INGRED id="1">poires</INGRED>, dans l’ autre 2 cuillères à <INGRED id="4">soupe</INGRED> et <INGRED id="14">demie</INGRED> de <INGRED id="12">chicorée liquide</INGRED>. <OPER id="o_22">Battez</OPER> la crème en chantilly, puis <OPER id="o_23">incorporez</OPER> -en une moitié, à chaque <INGRED id="8">crème</INGRED> gélatineuse. Montage : <OPER id="o_24">Prendre</OPER> 12 <INGRED id="3">petits</INGRED> <INGRED id="1">moules</INGRED> à muffins, ou des ramequins. Les <OPER id="o_25">tapisser</OPER> de film alimentaire. <OPER id="o_26">Verser</OPER> un <INGRED id="10">peu</INGRED> de crème à la <INGRED id="12">chicorée</INGRED>, dans chaque moule, puis la crème <INGRED id="12">vanille</INGRED> <INGRED id="1">poires</INGRED>. A l’ aide d’ un verre, <OPER id="o_27">découper</OPER> des ronds de <INGRED id="5">pâte</INGRED>. Les <OPER id="o_28">poser</OPER> sur la <INGRED id="11">crème</INGRED>, et <OPER id="o_29">appuyer</OPER> légèrement. <OPER id="o_30">Mettre</OPER> au réfrigérateur. <OPER id="o_31">Démouler</OPER> sur chaque assiette. <OPER id="o_32">Mettre</OPER> un <INGRED id="4">peu</INGRED> de coulis de <INGRED id="1">poires</INGRED> ( <INGRED id="1">poires</INGRED> mixées dans un <INGRED id="14">peu</INGRED> de <INGRED id="6">jus</INGRED> ), et un <INGRED id="14">peu</INGRED> de crème de <INGRED id="8">caramel</INGRED> au <INGRED id="9">beurre</INGRED> <INGRED id="2">salé</INGRED> Marmiton ( <OPER id="o_33">mettre</OPER> le pot au <INGRED id="8">bain</INGRED> - marie pour la liquéfier ). Variantes : Si vous n’ avez pas le temps de <INGRED id="14">faire</INGRED> le biscuit, <OPER id="o_34">mettez</OPER> des <INGRED id="4">spéculos</INGRED> mixés, mélangés avec un <INGRED id="10">peu</INGRED> de <INGRED id="3">beurre fondu</INGRED>, ou alors pas de <INGRED id="4">fond</INGRED> du tout, et servez avec des pains d’ <INGRED id="2">amandes</INGRED>. Si vous choisissez de <INGRED id="10">faire</INGRED> un grand concerto, dans un grand moule, <OPER id="o_35">démoulez</OPER> - le et collez, tout autour, ces mêmes pains d’ amandes avec le <INGRED id="8">caramel</INGRED>. <OPER id="o_36">Décorez</OPER>, le dessus, avec des lamelles de <INGRED id="1">poires</INGRED>, et parsemez de miettes de <INGRED id="4">spéculos</INGRED>. Un délicieux bavarois aux parfums de <INGRED id="7">vanille</INGRED>, de poire et de <INGRED id="12">chicorée</INGRED> sur un biscuit aux amandes, <INGRED id="1">coulis</INGRED> de <INGRED id="8">caramel</INGRED> au <INGRED id="12">beurre</INGRED> <INGRED id="2">salé</INGRED>.
+  </annotation>
+  <annotation methode="crf">
+  Préparer la veille <INGRED>,</INGRED> de préférence <INGRED>.</INGRED> Le biscuit <INGRED>:</INGRED> Battez les <INGRED>blancs</INGRED> en neige ferme <INGRED>,</INGRED> en ajoutant le <INGRED>sucre</INGRED> à la fin. Ils doivent être brillants. Mélangez la <INGRED>farine</INGRED> <INGRED>,</INGRED> le <INGRED>nescafé</INGRED> et les <INGRED>amandes</INGRED> <INGRED>.</INGRED> Incorporer aux <INGRED>blancs</INGRED> battus. Versez dans un moule assez grand <INGRED>,</INGRED> mais n'étalez pas trop la <INGRED>pâte</INGRED> car elle <INGRED>a</INGRED> tendance à gonfler et à ensuite retomber <INGRED>.</INGRED> Cuire 45 minutes <INGRED>environ</INGRED> à 180 ° C ( thermostat 6 ). Laissez refroidir sur une grille. Les bavarois <INGRED>:</INGRED> Faites tremper la <INGRED>gélatine</INGRED> <INGRED>,</INGRED> dans de l’ <INGRED>eau</INGRED> froide <INGRED>.</INGRED> Battez les <INGRED>jaunes</INGRED> avec le <INGRED>sucre</INGRED> <INGRED>,</INGRED> pour obtenir un <INGRED>mélange</INGRED> mousseux. Faites bouillir le <INGRED>lait</INGRED> <INGRED>,</INGRED> avec le <INGRED>sucre vanillé</INGRED> <INGRED>.</INGRED> Retirez du feu <INGRED>.</INGRED> Ajoutez éventuellement une cuillère à soupe de <INGRED>maïzena</INGRED> <INGRED>,</INGRED> délayée dans très peu de <INGRED>lait froid</INGRED> <INGRED>.</INGRED> Pour éviter que la <INGRED>crème</INGRED> ne tourne <INGRED>,</INGRED> versez tout doucement le <INGRED>mélange</INGRED> sur les <INGRED>œufs</INGRED> <INGRED>,</INGRED> en mélangeant bien <INGRED>,</INGRED> au fouet. Remettez - le tout dans la casserole <INGRED>,</INGRED> faites cuire lentement <INGRED>,</INGRED> à feu doux <INGRED>,</INGRED> en mélangeant sans cesse. Quand la <INGRED>crème</INGRED> nappe la cuillère <INGRED>,</INGRED> retirez du feu <INGRED>,</INGRED> et ajoutez la <INGRED>gélatine</INGRED> égouttée <INGRED>.</INGRED> Elle fond instantanément <INGRED>.</INGRED> Laissez refroidir <INGRED>,</INGRED> en fouettant souvent. Divisez la préparation en <INGRED>deux</INGRED> <INGRED>,</INGRED> en vous aidant d’ un <INGRED>verre</INGRED> doseur. Dans une moitié <INGRED>,</INGRED> ajoutez des <INGRED>petits</INGRED> dés de <INGRED>poires</INGRED> <INGRED>,</INGRED> dans l’ autre 2 <INGRED>cuillères à soupe</INGRED> et demie de chicorée liquide. Battez la <INGRED>crème</INGRED> en chantilly <INGRED>,</INGRED> puis incorporez -en une moitié <INGRED>,</INGRED> à chaque <INGRED>crème</INGRED> gélatineuse. Montage <INGRED>:</INGRED> Prendre 12 petits moules à muffins <INGRED>,</INGRED> <INGRED>ou</INGRED> des ramequins. Les tapisser de film alimentaire. Verser un peu de <INGRED>crème</INGRED> à la chicorée <INGRED>,</INGRED> dans chaque moule <INGRED>,</INGRED> puis la <INGRED>crème</INGRED> vanille poires. A l’ aide d’ un <INGRED>verre</INGRED> <INGRED>,</INGRED> découper des ronds de <INGRED>pâte</INGRED> <INGRED>.</INGRED> Les poser sur la <INGRED>crème</INGRED> <INGRED>,</INGRED> et appuyer légèrement <INGRED>.</INGRED> Mettre au réfrigérateur. Démouler sur chaque assiette <INGRED>.</INGRED> Mettre un peu de <INGRED>coulis</INGRED> de <INGRED>poires</INGRED> ( poires mixées dans un peu de <INGRED>jus</INGRED> ) <INGRED>,</INGRED> et un peu de <INGRED>crème</INGRED> de <INGRED>caramel</INGRED> au <INGRED>beurre</INGRED> salé Marmiton ( mettre le pot au bain - marie pour la liquéfier ). Variantes <INGRED>:</INGRED> Si vous n’ avez pas le temps de faire le biscuit <INGRED>,</INGRED> mettez des spéculos mixés <INGRED>,</INGRED> mélangés avec un peu de <INGRED>beurre fondu</INGRED> <INGRED>,</INGRED> <INGRED>ou</INGRED> alors pas de <INGRED>fond</INGRED> du tout <INGRED>,</INGRED> et servez avec des <INGRED>pains</INGRED> d’ <INGRED>amandes</INGRED> <INGRED>.</INGRED> Si vous choisissez de faire un grand concerto <INGRED>,</INGRED> dans un grand moule <INGRED>,</INGRED> démoulez - le et collez <INGRED>,</INGRED> tout autour <INGRED>,</INGRED> ces mêmes <INGRED>pains</INGRED> d’ <INGRED>amandes</INGRED> avec le <INGRED>caramel</INGRED> <INGRED>.</INGRED> Décorez <INGRED>,</INGRED> le dessus <INGRED>,</INGRED> avec des <INGRED>lamelles</INGRED> de <INGRED>poires</INGRED> <INGRED>,</INGRED> et parsemez de miettes de spéculos. Un délicieux bavarois aux parfums de <INGRED>vanille</INGRED> <INGRED>,</INGRED> de <INGRED>poire</INGRED> et de chicorée sur un biscuit aux <INGRED>amandes</INGRED> <INGRED>,</INGRED> <INGRED>coulis</INGRED> de <INGRED>caramel</INGRED> au <INGRED>beurre</INGRED> salé.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 29.0322580645161*X + 6.96774193548387</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 25*X + 17</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:["blancs d'œufs", 'blancs']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['amandes en poudre', 'amandes']	 id:2	 quantité:125	 unité:g d'	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:3	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:4	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['café instantanéPour les bavarois', 'café']	 id:5	 quantité:2	 unité:cuillères à café de	 denombrable:True	 recipient:2*X
+ingredient:["jaunes d'œufs", 'jaunes']	 id:6	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['lait']	 id:7	 quantité:50	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:8	 quantité:180	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre vanillé', 'sucre']	 id:9	 quantité:2	 unité:paquets de	 denombrable:True	 recipient:2*X
+ingredient:['crème liquide entière', 'crème']	 id:10	 quantité:40	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['poires au sirop', 'poires']	 id:11	 quantité:1	 unité:boîte de	 denombrable:True	 recipient:1*X
+ingredient:['chicorée liquide', 'chicorée']	 id:12	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['feuilles']	 id:13	 quantité:7	 unité:non_precis	 denombrable:True	 recipient:7*X
+ingredient:['demie de gélatine', 'demie']	 id:14	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préparer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:battre	 id:o_2	 ingrédients_ralatifs:['6', '14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:['3', '13']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:incorporer	 id:o_4	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_5	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:gonfler	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retomber	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_8	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:refroidir	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:tremper	 id:o_10	 ingrédients_ralatifs:['5', '5']	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:battre	 id:o_11	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:bouillir	 id:o_12	 ingrédients_ralatifs:['1', '10']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:retirer	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_14	 ingrédients_ralatifs:['5', '7', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_15	 ingrédients_ralatifs:['2', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remettre	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cuire	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:retirer	 id:o_18	 ingrédients_ralatifs:['14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:diviser	 id:o_20	 ingrédients_ralatifs:['4', '6', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_21	 ingrédients_ralatifs:['3', '4', '1', '4', '14', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_22	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_23	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:prendre	 id:o_24	 ingrédients_ralatifs:['3', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tapisser	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_26	 ingrédients_ralatifs:['10', '12', '12', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:découper	 id:o_27	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:2*X*1	 recipient:1
+operation:poser	 id:o_28	 ingrédients_ralatifs:['11']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:appuyer	 id:o_29	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_30	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:démouler	 id:o_31	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_32	 ingrédients_ralatifs:['4', '1', '1', '14', '6', '14', '8', '9', '2', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_33	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_34	 ingrédients_ralatifs:['14', '4', '10', '3', '4', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:démouler	 id:o_35	 ingrédients_ralatifs:['10', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:décorer	 id:o_36	 ingrédients_ralatifs:['1', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

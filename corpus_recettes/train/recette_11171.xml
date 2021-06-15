@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11171">
+  <titre>Gaufres liégeoises</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de farine</p>
+    <p>4 oeufs</p>
+    <p>20 cl d'eau</p>
+    <p>20 cl de lait</p>
+    <p>50 g de sucre</p>
+    <p>2 pincées de sel</p>
+    <p>100 g de levure</p>
+    <p>500 g de beurre</p>
+    <p>500 g de sucre perlé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Délayer la levure dans l'eau et le lait, y ajouter les oeufs et le sucre. Mélanger.
+    Creuser un puits dans la farine et y verser le tout. Travailler la pâte en y incorporant le beurre et le sel.
+    Laisser la pâte dormir 30mn et y incorporer le sucre perlé.Mettre dans le gaufrier environ 100g à la fois et dorer juste à point (environ 2 à 3 min par gaufre).Tout simplement un délice!
+  ]]>
+  </preparation>
+</recette>

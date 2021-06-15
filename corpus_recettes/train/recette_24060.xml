@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24060">
+  <titre>Cocotte de morue aux poireaux et à la tomate</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de morue sechée salée</p>
+    <p>1 kg de tomates bien mûres</p>
+    <p>1 oignon</p>
+    <p>2 gousses d'ail</p>
+    <p>thym, laurier</p>
+    <p>1 morceau de sucre</p>
+    <p>2 cuillères à soupe d'huile d’olive</p>
+    <p>500 g de poireaux</p>
+    <p>50 g de beurre</p>
+    <p>sel</p>
+    <p>poivre de cayenne</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la morue la veille :
+    Remplir un saladier d'eau froide, puis déposer la morue dans une passoire disposée au dessus du saladier.
+    La laisser dessaler pendant 12 h, sans oublier de changer l'eau au bout de 6h.
+    Nettoyer et émincer le blanc des poireaux, puis faire revenir dans une sauteuse remplie avec 15 cl d'eau et quelques noisettes de beurre.
+    Laisser mijoter 7 à 10 min sur feu doux.
+    Pendant ce temps, hacher l'ail et détailler l'oignon en lamelles, puis peler et épépiner les tomates.
+    Dans une cocotte, mettre l'huile à chauffer, puis y jeter l'ail avec les oignons, les tomates concassées, le morceau de sucre et assaisonner de sel et poivre.
+    Laisser mijoter 20 min à découvert.
+    Pendant ce temps, rincer la morue sous l'eau froide, puis la détailler en morceaux de 5 cm avant de la plonger dans une casserole remplie d'1 l d'eau froide.
+    Y incorporer la feuille de laurier et le brin de thym pour parfumer, puis porter à ébullition sur feu modéré.
+    Après ébullition, écumer et laisser cuire environ 15 min à découvert.
+    Une fois la morue cuite l'égoutter et la déposer dans la sauteuse avec les légumes.
+    Ajouter l'émincé de poireaux, puis saler et poivrer.
+    Laisser mijoter encore 5 min, puis servir bien chaud.
+  ]]>
+  </preparation>
+</recette>

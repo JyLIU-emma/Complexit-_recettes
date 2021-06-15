@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24833">
+  <titre>Canapés de sardines</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 boîtes de sardines à l'huile (120 g chaque) </p>
+    <p>une noix de beurre</p>
+    <p>1/10 de lait</p>
+    <p>100 g de gruyère râpé</p>
+    <p>4 biscottes</p>
+    <p>une tomate</p>
+    <p>un oignon</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Oter les arêtes et gratter légérement la peau des sardines. 
+    Ecrasez-les en ajoutant le lait et le beurre mou de manière à constituer une pâte homogène. Incorporer un peu de gruyère râpe, sel et poivre. 
+    Tartiner cette préparation sur les biscottes. 
+    Puis y déposer une tranche de tomate, une tranche d'oignon. Recouvrir le tout de gruyère râpé. 
+    Passer au four Th 180°C. 
+    Servir accompagné d'une salade verte.
+  ]]>
+  </preparation>
+</recette>

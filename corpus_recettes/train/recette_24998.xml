@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24998">
+  <titre>Saumonette rôtie aux champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,2 kg de saumonette</p>
+    <p>1 l de court-bouillon</p>
+    <p>600 g de champignons</p>
+    <p>6 échalotes</p>
+    <p>50 g de beurre</p>
+    <p>30 cl de vin blanc</p>
+    <p>thym, laurier</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites revenir les échalotes et champignons hachés dans une poêle avec 30 g de beurre chaud.
+    Faites dorer la saumonette sur toutes les faces dans une poêle avec le reste de beurre. Une fois dorée, retirez-la et placez-la dans un plat à four.
+    Répartissez les légumes autour du poisson, salez, poivrez. Mouillez de vin blanc et émiettez le thym et le laurier dessus. Saupoudrez de chapelure et faites cuire 10 minutes au four à 210°C (thermostat 7).
+  ]]>
+  </preparation>
+</recette>

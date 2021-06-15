@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26935">
+  <titre>Spaghetti végétal</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>une courgette 'spaghetti'</p>
+    <p>400 g de dés de lardons fumés</p>
+    <p>2 gros oignons</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire la courgette sphaghetti pendant 30 mn dans l'eau bouillante pour la rendre molle. 
+    Pendant ce temps, émincer les oignons et les faire revenir dans une poêle à feu doux, pour ne pas les caraméliser. 
+    Faire de même avec les lardons sur feu vif. 
+    Une fois la courgette spaghetti cuite, la couper en deux dans le sens de la longueur. Enlever d'abord les pépins puis ensuite à l'aide d'une cuillère à soupe, racler les parois pour en extraire les spaghettis. 
+    Pour finir, mélanger la fondue d'oignons avec les dés de lardons et les spaghettis dans une sauteuse, faire revenir une dernière fois et servir chaud.
+  ]]>
+  </preparation>
+</recette>

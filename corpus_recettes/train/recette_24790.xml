@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24790">
+  <titre>Petits pains au lait aux pépites de chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g de farine</p>
+    <p>1 sachet de levure de boulanger ou 2 sachets de levure pour brioche</p>
+    <p>150 g de beurre ramolli</p>
+    <p>55 g de sucre en poudre</p>
+    <p>25 cl de lait</p>
+    <p>10 cl de crème fraîche épaisse</p>
+    <p>1 cuillère à café de sel</p>
+    <p>1 jaune d'oeuf (pour dorer) </p>
+    <p>125 à 150 g de pépites de chocolat</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Verser dans une terrine la farine et la levure. Mélanger. 
+    Ajouter le lait tiédi, puis mélanger. 
+    Former un creux au milieu de la préparation, y déposer sucre, sel, beurre et crème. Malaxer le tout très soigneusement. 
+    Laisser reposer 2 h, dans un endroit tiède, recouvert d'un linge. 
+    Après ce temps, pétrir à nouveau la pâte et ajouter les pépites de chocolat en pétrissant. 
+    Mettre dans des moules à briochettes ou sur une plaque du four en forme allongées. Laisser monter à nouveau 2 heures. 
+    Dorer au jaune d'oeuf. Cuire à four chaud 230°C (thermostat 7/8) pendant 30 min. 
+    La cuisson de vos pains au lait dépendra de la forme donnée à ceux-ci.
+    Vous pouvez remplacer les pépites de chocolat par des raisins secs ou des fruits confits. lait, cacao, thé...
+  ]]>
+  </preparation>
+</recette>

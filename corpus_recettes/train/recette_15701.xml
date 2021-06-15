@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15701">
+  <titre>Omelette norvégienne facile</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 litre de glace (vanille ou plombière)</p>
+    <p>3 blancs d'oeuf</p>
+    <p>150 g de sucre glace</p>
+    <p>6-8 biscuits à la cuillère</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à la température maximum.
+    Battre les blancs d'oeuf en neige très fermes et ajouter le sucre glace tout en continuant à battre.
+    Démouler la glace sur les biscuits à la cuillère. Verser la préparation blancs d'oeuf + sucre sur le glace.
+    Passer 5 minutes à four très chaud.
+    Effet assuré !
+  ]]>
+  </preparation>
+</recette>

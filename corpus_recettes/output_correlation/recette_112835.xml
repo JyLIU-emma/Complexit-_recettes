@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="112835">
+  <titre>Tartare de jambon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 tranches épaisses de jambon blanc</p>
+    <p>2 tranches épaisses de jambon de pays</p>
+    <p>2 tranches épaisses de jambon blanc fumé</p>
+    <p>1 bocal de tomates confites (à l'huile)</p>
+    <p>4 petits oignons blancs</p>
+    <p>1 bouquet de ciboulette</p>
+    <p>12 cornichons</p>
+    <p>2 cuillères à café de moutarde</p>
+    <p>2 cuillères à soupe d'huile d'olive.</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Taillez les tranches de jambon en tout petit dés.
+    Epluchez et hachez les oignons.
+    Hachez également les cornichons.
+    Détaillez les tomates en petits dés.
+    Lavez, séchez, et ciselez la ciboulette.
+    Mélangez les ingrédients, et rajoutez l'huile d'olive et la moutarde.
+    Moulez avec un emporte pièce, couvrez et placez au frais au moins 20 minutes.
+    Petit plus : Gardez l'huile des tomates confites, mélangez la avec un vinaigre de noix. 
+    Posez le tartare moulé sur un mélange de salade croquante et arrosez le tout avec la vinaigrette.N'hésitez pas à laissez plus longtemps le mélange au frigo, ainsi les saveurs se mélangeront mieux.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  - <OPER id="o_1">Taillez</OPER> les tranches de <INGRED id="2">jambon</INGRED> en tout petit <INGRED id="3">dés</INGRED>. <OPER id="o_2">Epluchez</OPER> et hachez les <INGRED id="5">oignons</INGRED>. <OPER id="o_3">Hachez</OPER> également les <INGRED id="7">cornichons</INGRED>. <OPER id="o_4">Détaillez</OPER> les tomates en petits <INGRED id="3">dés</INGRED>. <OPER id="o_5">Lavez</OPER>, séchez, et ciselez la ciboulette. <OPER id="o_6">Mélangez</OPER> les ingrédients, et rajoutez l'<INGRED id="8">huile d'olive</INGRED> et la <INGRED id="6">moutarde</INGRED>. <OPER id="o_7">Moulez</OPER> avec un emporte pièce, couvrez et placez au frais au moins 20 minutes. Petit plus : <OPER id="o_8">Gardez</OPER> l'<INGRED id="7">huile</INGRED> des tomates confites, <OPER id="o_9">mélangez</OPER> la avec un vinaigre de noix. <OPER id="o_10">Posez</OPER> le tartare moulé sur un mélange de salade croquante et arrosez le tout avec la vinaigrette. N'hésitez pas à laissez plus longtemps le mélange au frigo, ainsi les saveurs se mélangeront mieux.
+  </annotation>
+  <annotation methode="crf">
+  - Taillez les tranches de <INGRED>jambon</INGRED> en tout <INGRED>petit</INGRED> dés <INGRED>.</INGRED> Epluchez et hachez les <INGRED>oignons</INGRED>. Hachez également les <INGRED>cornichons</INGRED> <INGRED>.</INGRED> Détaillez les <INGRED>tomates</INGRED> en <INGRED>petits</INGRED> dés <INGRED>.</INGRED> Lavez <INGRED>,</INGRED> séchez <INGRED>,</INGRED> et ciselez la <INGRED>ciboulette</INGRED>. Mélangez les ingrédients <INGRED>,</INGRED> et rajoutez l'<INGRED>huile d'olive</INGRED> et la <INGRED>moutarde</INGRED>. Moulez avec un emporte pièce <INGRED>,</INGRED> couvrez et placez au <INGRED>frais</INGRED> au moins 20 minutes. Petit plus <INGRED>:</INGRED> Gardez l'<INGRED>huile</INGRED> des <INGRED>tomates</INGRED> confites <INGRED>,</INGRED> mélangez la avec un <INGRED>vinaigre de noix</INGRED>. Posez le tartare moulé sur un <INGRED>mélange</INGRED> de salade croquante et arrosez le tout avec la <INGRED>vinaigrette</INGRED>. N'hésitez pas à laissez plus longtemps le <INGRED>mélange</INGRED> au frigo <INGRED>,</INGRED> ainsi les saveurs se mélangeront mieux <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 10.0*X</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 28*X + 3</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['jambon blanc', 'jambon']	 id:1	 quantité:2	 unité:tranches épaisses de	 denombrable:True	 recipient:2*X
+ingredient:['jambon de pays', 'jambon']	 id:2	 quantité:2	 unité:tranches épaisses de	 denombrable:True	 recipient:2*X
+ingredient:['jambon blanc fumé', 'jambon']	 id:3	 quantité:2	 unité:tranches épaisses de	 denombrable:True	 recipient:2*X
+ingredient:['bocal de tomates confites', 'bocal']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['oignons blancs', 'oignons']	 id:5	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['bouquet de ciboulette', 'bouquet']	 id:6	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['cornichons']	 id:7	 quantité:12	 unité:non_precis	 denombrable:True	 recipient:12*X
+ingredient:['moutarde']	 id:8	 quantité:2	 unité:cuillères à café de	 denombrable:True	 recipient:2*X
+ingredient:["huile d'olive", 'huile']	 id:9	 quantité:2	 unité:cuillères à soupe d'	 denombrable:True	 recipient:2*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:tailler	 id:o_1	 ingrédients_ralatifs:['2', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:eplucher	 id:o_2	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:hacher	 id:o_3	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:12*X*5	 recipient:1
+operation:détailler	 id:o_4	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:laver	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:mélanger	 id:o_6	 ingrédients_ralatifs:['8', '6']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:moudre	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garder	 id:o_8	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:poser	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

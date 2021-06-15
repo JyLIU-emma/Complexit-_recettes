@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21170">
+  <titre>Boulettes de viande à la sauce tomate</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de viande de rôti de boeuf cuit haché</p>
+    <p>1 jaune d'oeuf</p>
+    <p>1 cuillère à soupe de paprika</p>
+    <p>3 oignons</p>
+    <p>1/2 bouquet de persil</p>
+    <p>1 brin de thym</p>
+    <p>240 g de tomates pelées (1 petite boîte)</p>
+    <p>1 beau poivron</p>
+    <p>1 courgette</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hachez l'oignon et faites-le dorer dans une poêle huilée, avec la moitié du persil. Saupoudrez de paprika.
+    Malaxez la viande avec l'oignon cuit et le jaune d'oeuf. 
+    Façonnez des boulettes et faites-les cuire dans l'huile chaude pendant une dizaine de minutes.
+    Préparez la sauce : faites fondre les 2 autres oignons hachés dans l'huile avec le thym, du sel et du poivre. Ajoutez les tomates et laissez mijoter 15 minutes.
+    Emincez le poivron en lanières et découpez la courgette en cubes. Cuisez-les 5 minutes dans l'eau bouillante, égouttez et versez-les dans la sauce. Ajoutez les boulettes et poursuivez la cuisson 5 minutes.
+    Parsemez de persil haché. 
+  ]]>
+  </preparation>
+</recette>

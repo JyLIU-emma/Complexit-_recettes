@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24329">
+  <titre>Soupe aux tomates et parmesan</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 tomates bien mûres</p>
+    <p>2 gousses d'ail</p>
+    <p>2 oignons</p>
+    <p>100 g de parmesan râpé</p>
+    <p>3 brins de thym frais</p>
+    <p>1 feuille de laurier</p>
+    <p>1 branche de céleri</p>
+    <p>2 cuillerées à soupe d'huile d'olive</p>
+    <p>1/2 bouquet de basilic</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Inciser la base des tomates, puis les ébouillanter 30 secondes. Peler et épépiner les tomates.
+    Emincer les oignons et piler l'ail. Couper le céleri en dés.
+    Faire chauffer l'huile dans une cocotte, y faire suer les oignons avec le céleri et l'ail. Laisser dorer puis ajouter les tomates, le thym, le laurier.
+    Laisser revenir 10 min en remuant, puis couvrir d'eau. Porter à ébullition, saler, poivrer. Laisser mijoter 10 min.
+    Servir la soupe saupoudrée de parmesan et de basilic ciselé.
+  ]]>
+  </preparation>
+</recette>

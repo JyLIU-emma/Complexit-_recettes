@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164979">
+  <titre>Délicieuse tarte pommes bananes et sa crème patissière</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte brisée :</p>
+    <p>300g de farine</p>
+    <p>150g de beurre mou</p>
+    <p>3 cuillères à soupe (CS) de sucre</p>
+    <p>8 cl de lait</p>
+    <p>une pincée de sel</p>
+    <p>Pour la crème pâtissière :</p>
+    <p>1 CS de Maïzena</p>
+    <p>1 oeuf</p>
+    <p>30cl de lait</p>
+    <p>25g de sucre</p>
+    <p>1 CS d'arôme vanille</p>
+    <p>30g de noix de coco en copeaux- 2 bananes</p>
+    <p>2 pommes</p>
+    <p>1 sachet de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour la pâte, mélanger dans un saladier la farine, le sel et le sucre.
+    Ajouter le beurre pour obtenir une texture sablée. Incorporer ensuite le lait. 
+    Étaler votre pâte dans le moule.
+    Faite votre crème pâtissière dans une casserole. 
+    Sur feu doux, mélanger les 30cl de lait, la Maïzena, le sucre, le jaune d'œuf et la vanille. Fouetter énergiquement. Ajouter la noix de coco. Retirer du feu quand la texture devient assez épaisse.
+    A part, battre le blanc d'œuf en neige et incorporer le au mélange une fois qu'il a froidi.
+    Étaler la crème sur la pâte.Éplucher vos pommes, coupez les en cubes, et faites des rondelles de vos bananes.
+    Dispersez vos cubes de pommes, puis vos rondelles de bananes, et saupoudrez le tout d'un sachet de sucre vanillé.N'hésitez pas à décorer votre tarte par des amandes, des pépites de chocolat ou encore du cacao en poudre ! Bonne appétit ! Cidre
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Pour la <INGRED id="1">pâte</INGRED>, <OPER id="o_1">mélanger</OPER> dans un <INGRED id="1">saladier</INGRED> la <INGRED id="1">farine</INGRED>, le <INGRED id="8">sel</INGRED> et le <INGRED id="12">sucre</INGRED>. <OPER id="o_2">Ajouter</OPER> le <INGRED id="2">beurre</INGRED> pour obtenir une texture sablée. <OPER id="o_3">Incorporer</OPER> ensuite le <INGRED id="8">lait</INGRED>. <OPER id="o_4">Étaler</OPER> votre <INGRED id="1">pâte</INGRED> dans le moule. Faite votre crème pâtissière dans une casserole. Sur feu doux, <OPER id="o_5">mélanger</OPER> les 30cl de <INGRED id="4">lait</INGRED>, la <INGRED id="6">Maïzena</INGRED>, le <INGRED id="3">sucre</INGRED>, le jaune d'<INGRED id="1">œuf</INGRED> et la <INGRED id="8">vanille</INGRED>. <OPER id="o_6">Fouetter</OPER> énergiquement. <OPER id="o_7">Ajouter</OPER> la noix de coco. <OPER id="o_8">Retirer</OPER> du feu quand la texture devient assez épaisse. A part, <OPER id="o_9">battre</OPER> le <INGRED id="1">blanc d'œuf</INGRED> en neige et <OPER id="o_10">incorporer</OPER> le au mélange une fois qu'il a froidi. <OPER id="o_11">Étaler</OPER> la <INGRED id="4">crème</INGRED> sur la <INGRED id="5">pâte</INGRED>. <OPER id="o_12">Éplucher</OPER> vos <INGRED id="1">pommes</INGRED>, <OPER id="o_13">coupez</OPER> les en cubes, et faites des rondelles de vos <INGRED id="3">bananes</INGRED>. <OPER id="o_14">Dispersez</OPER> vos cubes de <INGRED id="1">pommes</INGRED>, puis vos rondelles de <INGRED id="3">bananes</INGRED>, et <OPER id="o_15">saupoudrez</OPER> le tout d'un sachet de <INGRED id="5">sucre vanillé</INGRED>. N'hésitez pas à <OPER id="o_16">décorer</OPER> votre tarte par des amandes, des <INGRED id="9">pépites</INGRED> de <INGRED id="1">chocolat</INGRED> ou encore du cacao en <INGRED id="3">poudre</INGRED> ! Bonne appétit ! Cidre
+  </annotation>
+  <annotation methode="crf">
+  Pour la <INGRED>pâte</INGRED> <INGRED>,</INGRED> mélanger dans un saladier la <INGRED>farine</INGRED> <INGRED>,</INGRED> le <INGRED>sel</INGRED> et le <INGRED>sucre</INGRED>. Ajouter le <INGRED>beurre</INGRED> pour obtenir une texture sablée <INGRED>.</INGRED> Incorporer ensuite le <INGRED>lait</INGRED> <INGRED>.</INGRED> Étaler votre <INGRED>pâte</INGRED> dans le <INGRED>moule</INGRED> <INGRED>.</INGRED> Faite votre <INGRED>crème pâtissière</INGRED> dans une casserole <INGRED>.</INGRED> Sur feu doux <INGRED>,</INGRED> mélanger les 30cl de <INGRED>lait</INGRED> <INGRED>,</INGRED> la Maïzena <INGRED>,</INGRED> le <INGRED>sucre</INGRED> <INGRED>,</INGRED> le <INGRED>jaune d'œuf</INGRED> et la <INGRED>vanille</INGRED> <INGRED>.</INGRED> Fouetter énergiquement. Ajouter la <INGRED>noix</INGRED> de coco <INGRED>.</INGRED> Retirer du feu quand la texture devient assez épaisse <INGRED>.</INGRED> A part <INGRED>,</INGRED> battre le <INGRED>blanc d'œuf</INGRED> en neige et incorporer le au <INGRED>mélange</INGRED> une fois qu'il <INGRED>a</INGRED> froidi. Étaler la <INGRED>crème</INGRED> sur la <INGRED>pâte</INGRED> <INGRED>.</INGRED> Éplucher vos <INGRED>pommes</INGRED> <INGRED>,</INGRED> coupez les en cubes <INGRED>,</INGRED> et faites des rondelles de vos <INGRED>bananes</INGRED>. Dispersez vos cubes de <INGRED>pommes</INGRED> <INGRED>,</INGRED> puis vos rondelles de <INGRED>bananes</INGRED> <INGRED>,</INGRED> et saupoudrez le tout d'un sachet <INGRED>de sucre vanillé</INGRED> <INGRED>.</INGRED> N'hésitez pas à décorer votre tarte par des <INGRED>amandes</INGRED> <INGRED>,</INGRED> des pépites de <INGRED>chocolat</INGRED> <INGRED>ou</INGRED> encore du <INGRED>cacao en poudre</INGRED> ! Bonne appétit ! Cidre
+  </annotation>
+  <complexite>
+    <temps>f(X) = 178.875*X + 139.125</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 9*X + 11</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['farine']	 id:1	 quantité:300	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre mou', 'beurre']	 id:2	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:3	 quantité:3	 unité:cuillères à soupe  de	 denombrable:True	 recipient:3*X
+ingredient:['lait']	 id:4	 quantité:8	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:5	 quantité:non_precis	 unité:pincée de	 denombrable:False	 recipient:1
+ingredient:['Maïzena']	 id:6	 quantité:1	 unité:CS de	 denombrable:True	 recipient:1*X
+ingredient:['oeuf']	 id:7	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['lait']	 id:8	 quantité:30	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:9	 quantité:25	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['arôme vanille', 'arôme']	 id:10	 quantité:1	 unité:CS d'	 denombrable:True	 recipient:1*X
+ingredient:['noix de coco en copeaux- 2 bananes', 'noix']	 id:11	 quantité:30	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['pommes']	 id:12	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['sucre vanillé', 'sucre']	 id:13	 quantité:1	 unité:sachet de	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mélanger	 id:o_1	 ingrédients_ralatifs:['1', '1', '1', '8', '12']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_3	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étaler	 id:o_4	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_5	 ingrédients_ralatifs:['4', '6', '3', '1', '8']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:fouetter	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_9	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étaler	 id:o_11	 ingrédients_ralatifs:['4', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:éplucher	 id:o_12	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:300*X	 temps:1*X*1	 recipient:0
+operation:couper	 id:o_13	 ingrédients_ralatifs:['1', '3']	 nombre_opération_atomique:1+3*X	 temps:1*X*1+3*X*1	 recipient:1
+operation:disperser	 id:o_14	 ingrédients_ralatifs:['1', '3', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saupoudrer	 id:o_15	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:décorer	 id:o_16	 ingrédients_ralatifs:['9', '1', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

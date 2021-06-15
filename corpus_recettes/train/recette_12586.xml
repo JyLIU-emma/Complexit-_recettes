@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12586">
+  <titre>Poulet massalé</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet</p>
+    <p>500 g d'oignons</p>
+    <p>500 g de tomates</p>
+    <p>4 cuillères à soupe de massalé</p>
+    <p>1 cuillère à soupe de cumin</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>2 gousses d'ail</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire dorer les oignons émincés dans l'huile d'olive. Saupoudrer avec le massalé et le cumin. Ajouter le poulet coupé en morceaux.
+    Saler, poivrer et ajouter l'ail pilé. Retirer le poulet quand il est doré et le remplaver par les tomates coupées en quartiers.
+    Laisser cuire 10 à 15 minutes. Disposer le poulet dans un plat allant au four et couvrir de la sauce. Terminer la cuisson.
+    On peut faire dorer les oignons avec des lardons, ajouter un ou deux morceaux de sucre et faire caraméliser au four.
+  ]]>
+  </preparation>
+</recette>

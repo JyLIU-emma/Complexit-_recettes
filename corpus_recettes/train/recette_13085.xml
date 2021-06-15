@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13085">
+  <titre>Brioche perdue au caramel</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tranches de brioche sucrée</p>
+    <p>2 oeufs</p>
+    <p>1/2 litre de lait</p>
+    <p>60 g de sucre en poudre</p>
+    <p>4 boules de glace au caramel salé (ou caramel, voire vanille, à défaut)</p>
+    <p>une briquette de crème épaisse (20 cl)</p>
+    <p>caramel liquide</p>
+    <p>25 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre dans une poêle.
+    Mélanger les oeufs, le lait et le sucre. Tremper la brioche dans ce mélange et les faire revenir dans le beurre.
+    Faire chauffer doucement la crème et ajouter le caramel. Laisser épaissir.
+    Dresser la tranche de brioche dans une assiette avec une boule de glace et la sauce au caramel.
+    Photo de Manina Hatzimichali
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20825">
+  <titre>Escalopes de dinde à la crème de whisky</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 escalopes de dinde</p>
+    <p>40 g de beurre</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>40 g de farine</p>
+    <p>2 cuillères à soupe de whisky</p>
+    <p>20 cl de crème fraîche</p>
+    <p>sel et poivre</p>
+    <p>Pour la décoration :</p>
+    <p>1 citron coupé en rondelles</p>
+    <p>quelques brins de persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une assiette, verser la farine avec du sel et du poivre et mélanger avec une fourchette.
+    Rouler les escalopes dans ce mélange puis les faire revenir dans une poêle huilée et beurrée. Les faire dorer 5 min de chaque côté jusqu'à ce qu'elles soient bien colorées et les réserver au chaud.
+    Jeter le jus de cuisson, puis déglacer la poêle avec le whisky. Incorporer la crème, bien ménager et faire réduire la sauce jusqu'à ce qu'elle s'épaississe.
+    Déposer les escalopes dorées sur un plat de service. Pour la décoration, les saupoudrer de persil haché et les entourer de rondelles de citron.
+    Napper la viande de sauce chaude et servir immédiatement.
+  ]]>
+  </preparation>
+</recette>

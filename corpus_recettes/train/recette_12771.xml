@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12771">
+  <titre>Gâteau aux noix</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>125 g de beurre</p>
+    <p>300 g de sucre</p>
+    <p>5 oeufs</p>
+    <p>250 g de noix émondées et réduites en poudre</p>
+    <p>80 g de farine tamisée</p>
+    <p>12 cl de Kirsch</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Fondre à moitié le beurre dans une terrine, y mélanger le sucre en poudre.
+    Travailler cet appareil pour le rendre en crème et, tout en le travaillant, y incorporer 5 oeufs.
+    Ajouter les noix émondées et réduites en poudre. Parfumer d'un petit verre de kirsch et mélanger en dernier lieu la farine.
+    Verser cette pâte dans un moule rond et plat beurré dont le fond sera garni d'une rondelle de papier.
+    Cuire à four moyen (180°C).Laisser refroidir le gâteau avant de le démouler. Côtes de Provence ou rosé d'Anjou
+  ]]>
+  </preparation>
+</recette>

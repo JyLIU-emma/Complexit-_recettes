@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10531">
+  <titre>Escalopes lucullus à la cocotte</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 escalopes</p>
+    <p>4 tranches de bacon</p>
+    <p>4 tranches de gruyère (ou du gruyère râpé)</p>
+    <p>2 tomates (de saison, pour le goût)</p>
+    <p>1 oignon</p>
+    <p>herbes de Provence</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez l'oignon en petits morceaux, faites revenir les petits morceaux d'oignon avec le beurre dans la cocotte, déposez les escalopes dans la cocotte, faites-les dorer sur les 2 côtés.
+    Placez ensuite une tranche de bacon et le gruyère sur chaque escalope, recouvrez le tout de morceaux de tomates avec leur jus sans peau, ajoutez enfin herbes de Provence, sel et poivre, fermez la cocotte et laissez mijoter à feu doux une vingtaine de minutes.
+    Evacuez la vapeur, ouvrez, dégustez accompagné de riz
+    sur lequel vous mettrez la sauce de la cocotte. un Bordeaux rouge
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Coupez</OPER> l'<INGRED id="5">oignon</INGRED> en petits morceaux, faites <OPER id="o_2">revenir</OPER> les petits morceaux d'<INGRED id="5">oignon</INGRED> avec le beurre dans la cocotte, <OPER id="o_3">déposez</OPER> les <INGRED id="1">escalopes</INGRED> dans la cocotte, faites - les <OPER id="o_4">dorer</OPER> sur les 2 côtés. <OPER id="o_5">Placez</OPER> ensuite une tranche de <INGRED id="2">bacon</INGRED> et le <INGRED id="3">gruyère</INGRED> sur chaque escalope, <OPER id="o_6">recouvrez</OPER> le tout de morceaux de <INGRED id="1">tomates</INGRED> avec leur <INGRED id="5">jus</INGRED> sans peau, ajoutez enfin <INGRED id="6">herbes de Provence</INGRED>, sel et poivre, <OPER id="o_7">fermez</OPER> la cocotte et laissez <OPER id="o_8">mijoter</OPER> à feu doux une vingtaine de minutes. <OPER id="o_9">Evacuez</OPER> la vapeur, ouvrez, dégustez accompagné de riz sur lequel vous mettrez la sauce de la cocotte. un Bordeaux rouge
+  </annotation>
+  <annotation methode="crf">
+  Coupez l'<INGRED>oignon</INGRED> en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> <INGRED>,</INGRED> faites revenir les <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> d'<INGRED>oignon</INGRED> avec le <INGRED>beurre</INGRED> dans la cocotte <INGRED>,</INGRED> déposez les <INGRED>escalopes</INGRED> dans la cocotte <INGRED>,</INGRED> faites - les dorer sur les 2 côtés. Placez ensuite une tranche de <INGRED>bacon</INGRED> et le <INGRED>gruyère</INGRED> sur chaque escalope <INGRED>,</INGRED> recouvrez le tout de <INGRED>morceaux</INGRED> de <INGRED>tomates</INGRED> avec leur <INGRED>jus</INGRED> sans peau <INGRED>,</INGRED> ajoutez enfin <INGRED>herbes de Provence</INGRED> <INGRED>,</INGRED> <INGRED>sel</INGRED> et <INGRED>poivre</INGRED> <INGRED>,</INGRED> fermez la cocotte et laissez mijoter à feu doux une vingtaine de minutes. Evacuez la vapeur <INGRED>,</INGRED> ouvrez <INGRED>,</INGRED> dégustez accompagné de <INGRED>riz</INGRED> sur lequel vous mettrez la <INGRED>sauce</INGRED> de la cocotte. un Bordeaux rouge
+  </annotation>
+  <complexite>
+    <temps>f(X) = 8.33333333333333*X + 1.66666666666667</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 15*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['escalopes']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['bacon']	 id:2	 quantité:4	 unité:tranches de	 denombrable:True	 recipient:4*X
+ingredient:['gruyère']	 id:3	 quantité:4	 unité:tranches de	 denombrable:True	 recipient:4*X
+ingredient:['tomates']	 id:4	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['oignon']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['herbes de Provence', 'herbes']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:couper	 id:o_1	 ingrédients_ralatifs:['5', '5']	 nombre_opération_atomique:1*X+1*X	 temps:1*X*1+1*X*1	 recipient:1
+operation:revenir	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:déposer	 id:o_3	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:dorer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:placer	 id:o_5	 ingrédients_ralatifs:['2', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recouvrir	 id:o_6	 ingrédients_ralatifs:['1', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fermer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:mijoter	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:evacuer	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

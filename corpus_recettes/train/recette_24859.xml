@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24859">
+  <titre>Torta Frita</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>240 g de farine </p>
+    <p>1 petite cuillère de levure</p>
+    <p>1 petite cuillère de sel</p>
+    <p>50 g de graisse ou de beurre</p>
+    <p>1 oeuf</p>
+    <p>1/3 tasse d’eau froide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tamisez la farine et la levure ensemble avec le sel. 
+    Ajoutez la graisse (ou le beurre) et écrasez-la avec une fourchette. 
+    Ajoutez l’oeuf et l’eau et pétrissez la pâte jusqu’à ce qu’elle soit bien lisse. 
+    Étendez la pâte au rouleau sur environ 1/2 cm d’épaisseur et coupez la pâte en cercles. 
+    Faites frire les cercles dans une casserole avec beaucoup de graisse, égouttez-les et saupoudrez avec du sucre.
+    Les Argentins consomment surtout ces "tortas fritas" pour le goûter avec du maté. mate (boisson nationale argentine, qui est une infusion de maté)
+  ]]>
+  </preparation>
+</recette>

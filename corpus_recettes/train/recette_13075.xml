@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13075">
+  <titre>Cook suisses</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 bol de lait tiède</p>
+    <p>1 carré de levure de boulanger</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>4 cuillères à soupe de sucre en poudre</p>
+    <p>1 pincée de sel</p>
+    <p>3 oeufs entiers</p>
+    <p>600 g de farine</p>
+    <p>100 g de beurre</p>
+    <p>1 crème pâtissière</p>
+    <p>quelques raisins secs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un grand saladier, mélanger tous les ingrédients sauf la farine (les
+    oeufs, le lait, le sucre, l'huile, le sel et la levure). Mélanger à la main.
+    Ajouter 300 g de farine et bien remuer, puis ajouter le reste de la
+    farine (300 g).
+    Laisser monter la pâte une petite heure.
+    Pendant ce temps, préparer la crème pâtissière.
+    Une fois la pâte montée,
+    y ajouter 100 g de beurre et bien mélanger.
+    Mettre un peu d'huile sur une feuille à pâtisserie ou sur le plan de
+    travail. Couper la pâte en deux et en travailler une à la fois.
+    Bien étaler la pâte sur le plan
+    de travail et mettre la crème pâtissière dessus. Ajouter les raisins secs.
+    Enrouler et couper des tronçons.
+    Mettre sur une plaque et faire cuire à four chaud 1/4 d'heure environ.
+     café
+  ]]>
+  </preparation>
+</recette>

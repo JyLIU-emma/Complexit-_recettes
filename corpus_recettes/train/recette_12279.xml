@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12279">
+  <titre>Morue à la crème.</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de morue séchée</p>
+    <p>1 dl de crème entière</p>
+    <p>50 g de beurre</p>
+    <p>50 g de farine</p>
+    <p>chapelure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre la morue à dessaler le matin et changer l'eau au milieu de la journée.
+    Mettre le poisson dans une casserole d'eau froide et faire démarrer à feu très vif. Dès que les bulles se forment au bord, retirer du feu, la morue ne doit pas bouillir. La laisser pocher une dizaine de minutes à l'écart. L'égoutter et l'écraser à la fourchette.
+    Faire fondre le beurre dans la casserole, mélanger avec la farine, remettre la morue écrasée et bien mélanger le tout rectifier l'assaisonnement avec sel et poivre.
+    Remplir un plat à gratin avec la masse, saupoudrer de chapelure, disposer quelques flocons de beurre et faire gratiner à four moyen une demi heure environ.
+  ]]>
+  </preparation>
+</recette>

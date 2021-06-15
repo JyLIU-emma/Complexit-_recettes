@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165763">
+  <titre>Aumônière de crêpe aux pommes et clémentines</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 crêpes à la bière</p>
+    <p>3 pommes Royal Gala</p>
+    <p>4 clémentines de Corse</p>
+    <p>1 verre d'eau</p>
+    <p>50 g de beurre</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>2 càs de sirop d'érable</p>
+    <p>2 càs de sucre roux en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1. Peler les pommes et les découper en quartiers puis les couper encore en deux.2. Eplucher les clémentines et séparer les quartiers.3. Sortir 2 casseroles. Dans chacune, faire fondre 25 g de beurre. Lorsque le beurre est fondu, verser dans l'une les pommes et dans l'autre les clémentines. Laisser cuire à feu moyen 5 minutes en remuant régulièrement à l'aide d'une cuillère en bois.4. Ajouter 1/2 verre d'eau et 1/2 sachet de sucre vanillé aux et aux clémentines Verser 2 cuillerées à soupe de sirop d'érable sur les pommes. Couvrir les deux casseroles et laisser mijoter 15 minutes à feu doux. Pour les clémentines, ajouter le sucre roux en poudre, mélanger, laisser mijoter 5 minutes seulement et réserver. En fin de cuisson des pommes, verser les clémentines sur les pommes et mélanger.5. Sortir une crêpière, la huiler à l'aide d'une feuille de papier absorbant imbibée d'huile. Lorsque la crêpière est bien chaude, réaliser 4 crêpes. Réserver.6. Disposer chaque crêpe sur une assiette à dessert. Déposer au centre deux cuillerées à soupe du mélange pommes-clémentines. Refermer chaque crêpe en ramenant les bords vers le centre pour former une aumônière. Afin qu'elle tienne, y piquer 2 petites piques en bois (cure-dent) en croix.7. Afin de servir vos aumônières bien chaudes, les passer 1 minute au four à micro-ondes.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  1. <OPER id="o_1">Peler</OPER> les pommes et les <OPER id="o_2">découper</OPER> en quartiers puis les <OPER id="o_3">couper</OPER> encore en deux.2. <OPER id="o_4">Eplucher</OPER> les <INGRED id="3">clémentines</INGRED> et <OPER id="o_5">séparer</OPER> les quartiers.3. <OPER id="o_6">Sortir</OPER> 2 casseroles. Dans chacune, faire <OPER id="o_7">fondre</OPER> 25 g de beurre. Lorsque le <INGRED id="4">beurre</INGRED> est fondu, <OPER id="o_8">verser</OPER> dans l'une les <INGRED id="3">pommes</INGRED> et dans l'autre les <INGRED id="3">clémentines</INGRED>. Laisser <OPER id="o_9">cuire</OPER> à feu moyen 5 minutes en remuant régulièrement à l'aide d'une cuillère en bois.4. <OPER id="o_10">Ajouter</OPER> 1/2 verre d'<INGRED id="7">eau</INGRED> et 1/2 sachet de sucre vanillé aux et aux <INGRED id="3">clémentines</INGRED> <OPER id="o_11">Verser</OPER> 2 cuillerées à soupe de <INGRED id="4">sirop</INGRED> d'<INGRED id="4">érable</INGRED> sur les pommes. <OPER id="o_12">Couvrir</OPER> les deux casseroles et laisser <OPER id="o_13">mijoter</OPER> 15 minutes à feu doux. Pour les <INGRED id="3">clémentines</INGRED>, <OPER id="o_14">ajouter</OPER> le <INGRED id="5">sucre roux en poudre</INGRED>, <OPER id="o_15">mélanger</OPER>, laisser <OPER id="o_16">mijoter</OPER> 5 minutes seulement et réserver. En fin de cuisson des <INGRED id="2">pommes</INGRED>, <OPER id="o_17">verser</OPER> les <INGRED id="3">clémentines</INGRED> sur les <INGRED id="4">pommes</INGRED> et mélanger.5. <OPER id="o_18">Sortir</OPER> une crêpière, la <OPER id="o_19">huiler</OPER> à l'aide d'une feuille de papier absorbant imbibée d'huile. Lorsque la crêpière est bien chaude, <OPER id="o_20">réaliser</OPER> 4 <INGRED id="6">crêpes</INGRED>. Réserver.6. <OPER id="o_21">Disposer</OPER> chaque crêpe sur une assiette à dessert. <OPER id="o_22">Déposer</OPER> au centre deux cuillerées à soupe du <INGRED id="2">mélange</INGRED> <INGRED id="5">pommes</INGRED> - <INGRED id="3">clémentines</INGRED>. <OPER id="o_23">Refermer</OPER> chaque crêpe en ramenant les bords vers le centre pour former une aumônière. Afin qu'elle tienne, y <OPER id="o_24">piquer</OPER> 2 petites piques en bois ( cure - dent ) en croix.7. Afin de servir vos aumônières bien chaudes, les <OPER id="o_25">passer</OPER> 1 minute au four à micro-ondes.
+  </annotation>
+  <annotation methode="crf">
+  1 <INGRED>.</INGRED> Peler les <INGRED>pommes</INGRED> et les découper en quartiers puis les couper encore en deux.2 <INGRED>.</INGRED> Eplucher les <INGRED>clémentines</INGRED> et séparer les quartiers.3. Sortir 2 casseroles. Dans chacune <INGRED>,</INGRED> faire fondre 25 <INGRED>g</INGRED> de <INGRED>beurre</INGRED> <INGRED>.</INGRED> Lorsque le <INGRED>beurre</INGRED> est fondu <INGRED>,</INGRED> verser dans l'une les <INGRED>pommes</INGRED> et dans l'autre les <INGRED>clémentines</INGRED> <INGRED>.</INGRED> Laisser cuire à feu moyen 5 minutes en remuant régulièrement à l'aide d'une cuillère en bois.4 <INGRED>.</INGRED> Ajouter <INGRED>1/2</INGRED> <INGRED>verre</INGRED> d'<INGRED>eau</INGRED> et <INGRED>1/2</INGRED> sachet <INGRED>de sucre vanillé</INGRED> aux et aux <INGRED>clémentines</INGRED> Verser 2 <INGRED>cuillerées</INGRED> à soupe de <INGRED>sirop</INGRED> d'érable sur les <INGRED>pommes</INGRED> <INGRED>.</INGRED> Couvrir les <INGRED>deux</INGRED> casseroles et laisser mijoter 15 minutes à feu doux. Pour les <INGRED>clémentines</INGRED> <INGRED>,</INGRED> ajouter le <INGRED>sucre roux</INGRED> en <INGRED>poudre</INGRED> <INGRED>,</INGRED> mélanger <INGRED>,</INGRED> laisser mijoter 5 minutes seulement et réserver <INGRED>.</INGRED> En fin de cuisson des <INGRED>pommes</INGRED> <INGRED>,</INGRED> verser les <INGRED>clémentines</INGRED> sur les <INGRED>pommes</INGRED> et mélanger.5 <INGRED>.</INGRED> Sortir une crêpière <INGRED>,</INGRED> la huiler à l'aide d'une feuille de <INGRED>papier</INGRED> absorbant imbibée d'<INGRED>huile</INGRED>. Lorsque la crêpière est bien chaude <INGRED>,</INGRED> réaliser 4 crêpes. Réserver.6. Disposer chaque crêpe sur une assiette à dessert. Déposer au centre <INGRED>deux</INGRED> <INGRED>cuillerées à soupe</INGRED> du <INGRED>mélange</INGRED> <INGRED>pommes</INGRED> - clémentines. Refermer chaque crêpe en ramenant les bords vers le centre pour former une aumônière. Afin qu'elle tienne <INGRED>,</INGRED> y piquer 2 petites piques en bois ( <INGRED>cure</INGRED> - dent ) en croix.7 <INGRED>.</INGRED> Afin de servir vos aumônières bien chaudes <INGRED>,</INGRED> les passer 1 minute au four à micro-ondes.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 23.6111111111111*X + 1.38888888888889</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 17*X + 10</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['crêpes à la bière', 'crêpes']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['pommes Royal Gala', 'pommes']	 id:2	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['clémentines de Corse', 'clémentines']	 id:3	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['eau']	 id:4	 quantité:1	 unité:verre d'	 denombrable:True	 recipient:1*X
+ingredient:['beurre']	 id:5	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre vanillé', 'sucre']	 id:6	 quantité:1	 unité:sachet de	 denombrable:True	 recipient:1*X
+ingredient:["càs de sirop d'érable", 'càs']	 id:7	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['càs de sucre roux en poudre', 'càs']	 id:8	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:peler	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:découper	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:couper	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:eplucher	 id:o_4	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:séparer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:sortir	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fondre	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:verser	 id:o_8	 ingrédients_ralatifs:['4', '3', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:['7', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_11	 ingrédients_ralatifs:['4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:ajouter	 id:o_14	 ingrédients_ralatifs:['3', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mijoter	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:verser	 id:o_17	 ingrédients_ralatifs:['2', '3', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:sortir	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:huiler	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:réaliser	 id:o_20	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_21	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:déposer	 id:o_22	 ingrédients_ralatifs:['2', '5', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:refermer	 id:o_23	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:piquer	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:passer	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+]]>
+</operation_trouve>
+</recette>

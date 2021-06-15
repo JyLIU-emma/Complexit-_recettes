@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10541">
+  <titre>Coq au Vin facile</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>10 blancs de volailles</p>
+    <p>200 gr de lardons sans couennes</p>
+    <p>500 g de champignons de Paris</p>
+    <p>75 cl de vin rouge</p>
+    <p>2 cubes dégraissés de bouillon de volaille</p>
+    <p>sel, poivre </p>
+    <p>herbes de provence</p>
+    <p>10 cl de cognac</p>
+    <p>10 cl de Porto</p>
+    <p>1 morceau de sucre</p>
+    <p>2 cuillères à soupe de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire dorer les blancs de volaille dans le beurre bien chaud.
+    Ajouter le verre de Cognac. Flamber (facultatif)
+    Ajouter les lardons, sel, poivre, cubes de bouillon, herbes, porto, et la bouteille de vin.
+    Laisser mijoter 40 minutes (pas plus, sinon la viande se défait).Laver les champignons, les couper en 2  ou en 4. Les faire dorer dans 1 cas de beurre.
+    Pour lier la sauce, faire un beurre manié, c'est à dire même quantité de beurre que de farine... Le beurre doit être bien mou pour cela.
+    Bien mélanger avec une fourchette dans un bol.
+    Mettre la viande, les champignons et les lardons dans un plat de service.
+    Faire réchauffer la sauce. Y ajouter le beurre manié. Bien fouetter.
+    Se sert avec des mini-croquettes de pommes de terre ou de la purée. Saint Emilion
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">dorer</OPER> les <INGRED id="1">blancs</INGRED> de volaille dans le <INGRED id="12">beurre</INGRED> bien chaud. <OPER id="o_2">Ajouter</OPER> le verre de Cognac. <OPER id="o_3">Flamber</OPER> ( facultatif ) <OPER id="o_4">Ajouter</OPER> les <INGRED id="2">lardons</INGRED>, <INGRED id="5">sel</INGRED>, <INGRED id="10">poivre</INGRED>, cubes de <INGRED id="5">bouillon</INGRED>, <INGRED id="8">herbes</INGRED>, porto, et la bouteille de <INGRED id="2">vin</INGRED>. Laisser <OPER id="o_5">mijoter</OPER> 40 minutes ( pas plus, sinon la viande se <OPER id="o_6">défait).Laver</OPER> les <INGRED id="3">champignons</INGRED>, les <OPER id="o_7">couper</OPER> en 2 ou en 4. Les faire <OPER id="o_8">dorer</OPER> dans 1 cas de <INGRED id="12">beurre</INGRED>. Pour lier la sauce, faire un <INGRED id="12">beurre</INGRED> manié, c'est à dire même quantité de <INGRED id="12">beurre</INGRED> que de farine... Le <INGRED id="12">beurre</INGRED> doit être bien mou pour cela. Bien <OPER id="o_9">mélanger</OPER> avec une fourchette dans un bol. <OPER id="o_10">Mettre</OPER> la viande, les <INGRED id="3">champignons</INGRED> et les <INGRED id="2">lardons</INGRED> dans un plat de service. Faire <OPER id="o_11">réchauffer</OPER> la sauce. Y <OPER id="o_12">ajouter</OPER> le <INGRED id="12">beurre</INGRED> manié. Bien <OPER id="o_13">fouetter</OPER>. Se sert avec des mini-croquettes de <INGRED id="6">pommes de terre</INGRED> ou de la purée. Saint Emilion
+  </annotation>
+  <annotation methode="crf">
+  Faire dorer les <INGRED>blancs de volaille</INGRED> dans le <INGRED>beurre</INGRED> bien chaud <INGRED>.</INGRED> Ajouter le <INGRED>verre</INGRED> de Cognac. Flamber ( facultatif ) Ajouter les <INGRED>lardons</INGRED> <INGRED>,</INGRED> <INGRED>sel</INGRED> <INGRED>,</INGRED> <INGRED>poivre</INGRED> <INGRED>,</INGRED> cubes de <INGRED>bouillon</INGRED> <INGRED>,</INGRED> <INGRED>herbes</INGRED> <INGRED>,</INGRED> <INGRED>porto</INGRED> <INGRED>,</INGRED> et la bouteille de <INGRED>vin</INGRED>. Laisser mijoter 40 minutes ( pas plus <INGRED>,</INGRED> sinon la <INGRED>viande</INGRED> se défait).Laver les <INGRED>champignons</INGRED> <INGRED>,</INGRED> les couper en 2 <INGRED>ou</INGRED> en 4 <INGRED>.</INGRED> Les faire dorer dans 1 cas de <INGRED>beurre</INGRED> <INGRED>.</INGRED> Pour lier la <INGRED>sauce</INGRED> <INGRED>,</INGRED> faire un <INGRED>beurre</INGRED> manié <INGRED>,</INGRED> c'est à dire même quantité de <INGRED>beurre</INGRED> que de <INGRED>farine</INGRED>... Le <INGRED>beurre</INGRED> doit être bien mou pour cela. Bien mélanger avec une fourchette dans un bol <INGRED>.</INGRED> Mettre la <INGRED>viande</INGRED> <INGRED>,</INGRED> les <INGRED>champignons</INGRED> et les <INGRED>lardons</INGRED> dans un plat de service <INGRED>.</INGRED> Faire réchauffer la <INGRED>sauce</INGRED>. Y ajouter le <INGRED>beurre</INGRED> manié <INGRED>.</INGRED> Bien fouetter <INGRED>.</INGRED> Se sert avec des mini-croquettes de <INGRED>pommes de terre</INGRED> <INGRED>ou</INGRED> de la <INGRED>purée</INGRED> <INGRED>.</INGRED> Saint Emilion
+  </annotation>
+  <complexite>
+    <temps>f(X) = 16.9565217391304*X + 9.04347826086956</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 15*X + 14</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['blancs de volailles', 'blancs']	 id:1	 quantité:10	 unité:non_precis	 denombrable:True	 recipient:10*X
+ingredient:['lardons sans couennes', 'lardons']	 id:2	 quantité:200	 unité:gr de	 denombrable:False	 recipient:1
+ingredient:['champignons de Paris', 'champignons']	 id:3	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['vin rouge', 'vin']	 id:4	 quantité:75	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['bouillon de volaille', 'bouillon']	 id:5	 quantité:2	 unité:cubes dégraissés de	 denombrable:True	 recipient:2*X
+ingredient:['sel']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['herbes de provence', 'herbes']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['cognac']	 id:9	 quantité:10	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['Porto']	 id:10	 quantité:10	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['morceau de sucre', 'morceau']	 id:11	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['beurre']	 id:12	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:dorer	 id:o_1	 ingrédients_ralatifs:['1', '12']	 nombre_opération_atomique:10*X+2*X	 temps:10*X*1+2*X*1	 recipient:0
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:flamber	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_4	 ingrédients_ralatifs:['2', '5', '10', '5', '8', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:défait).laver	 id:o_6	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:dorer	 id:o_8	 ingrédients_ralatifs:['3', '12']	 nombre_opération_atomique:1+2*X	 temps:1*X*1+2*X*1	 recipient:0
+operation:mélanger	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mettre	 id:o_10	 ingrédients_ralatifs:['3', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:réchauffer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fouetter	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

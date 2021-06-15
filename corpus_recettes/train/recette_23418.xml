@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23418">
+  <titre>Tarte aux brocolis et à la poudre d'amandes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de pâte brisée</p>
+    <p>500 g de brocolis</p>
+    <p>150 g de crème</p>
+    <p>2 oeufs</p>
+    <p>30 g de poudre d'amandes</p>
+    <p>30 g de beurre</p>
+    <p>sel, poivre, muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°c (thermostat 6).
+    Pochez les bouquets de brocolis 2 minutes dans l'eau bouillante puis égouttez.
+    Etalez la pâte dans un moule à tarte beurré. Disposez les bouquets de brocolis dessus.
+    Mélangez les oeufs, la crème et la poudre d'amandes. Assaisonnez de sel, de poivre et d'une pincée de muscade. Versez sur les brocolis et parsemez de noisettes de beurre.
+    Enfournez pour 50 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

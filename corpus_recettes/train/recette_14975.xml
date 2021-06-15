@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14975">
+  <titre>Soupe de poisson bretonne</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>poissons : 6 chinchards (20 frs / kg)</p>
+    <p>3 grondins rouges (30 frs)</p>
+    <p>1 grosse vieille (50 frs)</p>
+    <p>3 gros tacauds (40 frs)</p>
+    <p>facultatif : 2 ou 3 crabes verts ou des étrilles</p>
+    <p>3 oignons rouges</p>
+    <p>4 carottes</p>
+    <p>4 poireaux</p>
+    <p>sel, poivre, persil, ciboulette, une pincée de pistils de safran</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre, durant une dizaine de minutes, les oignons puis les carottes et le vert tendre des poireaux dans un mélange d'huile et de beurre. Réserver.
+    Faire revenir à feu vif dans un mélange d'huile et de beurre les crabes puis les poissons en tronçons, sans oublier les têtes.
+    Couvrir d'eau, saler, poivrer, ajouter safran et herbes.
+    Laisser cuire 30 mn en écrasant au pilon les morceaux. Quand tout est facilement écrasable, passer au mixeur plongeur puis filtrer.
+    Dans le jus obtenu, réchauffer les légumes cuits à part. Mixer le tout. Rectifier l'assaisonnement.
+    Servir avec un peu de crème fraîche (ou une rouille pour un 'accent marseillais'), petits croûtons à l'ail, du fromage râpé passé au mixeur pour obtenir une poudre de fromage.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21208">
+  <titre>Mandarines caramélisées sur toasts</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 biscottes</p>
+    <p>4 mandarines</p>
+    <p>4 cuillères à soupe de sucre cristallisé</p>
+    <p>quelques amandes effilées </p>
+    <p>papier aluminium</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 180°C (thermostat 6).
+    Tartiner les tranches de pain de beurre de chaque côté, puis les disposer sur des feuilles de papier aluminium huilées.
+    Eplucher les clémentines et peler les quartiers à vif, puis les disposer sur les tranches de pain.
+    Les saupoudrer de sucre cristallisé entre les fruits, puis les parsemer d'amandes effilées.
+    Enfourner à four chaud et laisser cuire 20 min jusqu'à ce que les toasts soient grillés et les fruits caramélisés.
+  ]]>
+  </preparation>
+</recette>

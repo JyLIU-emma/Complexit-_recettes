@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24526">
+  <titre>Poitrine de veau aux légumes nouveaux</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de poitrine de veau </p>
+    <p>600 g de petits pois</p>
+    <p>600 g de carottes</p>
+    <p>600 g de navets</p>
+    <p>500 g d'oignons blancs</p>
+    <p>200 g de beurre</p>
+    <p>50 cl d'eau</p>
+    <p>1 tête d'ail</p>
+    <p>1 fleur de thym </p>
+    <p>1 cuillère à café de sucre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (thermostat 7).
+    Mettre 100 g beurre à fondre dans une cocotte et y faire revenir la poitrine de veau découpé en morceaux avec l’ail ciselé et la fleur de thym. Assaisonner et faire cuire à feu vif  pendant 3 à 4 min.
+    Enfourner la cocotte pendant 20 min. 
+    Porter le reste de beurre, l’eau et le sucre à ébullition dans une grande casserole, et assaisonner. Ajouter les carottes, les oignons et les petits pois, et continuer la cuisson pendant 5 min. Plonger les navets dans la préparation et terminer la cuisson pendant 20 min. 
+    Incorporer la viande à la préparation et réchauffer le tout avant de servir.
+  ]]>
+  </preparation>
+</recette>

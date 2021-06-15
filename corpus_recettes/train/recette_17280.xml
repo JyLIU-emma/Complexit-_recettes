@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17280">
+  <titre>Pâtes au jambon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 talons de jambon</p>
+    <p>1 boîte de coquillettes</p>
+    <p>1 boîte de coulis de tomates</p>
+    <p>1 gousse d'ail</p>
+    <p>1 oignon</p>
+    <p>1/2 boîte de champignons</p>
+    <p>gruyère</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Moulinez les talons de jambon avec la gousse d'ail et l'oignon. Il ne doit plus y avoir de morceaux mais çà ne doit pas être de la purée de jambon. 
+    Chauffer un peu d'huile d'olive et verser le jambon dans la poêle puis ajouter le coulis et les champignons, poivrez légèrement et mettez un demi sucre si nécessaire. Ne pas saler pour le moment. Cuire doucement 15 mn. 
+    Cuire les pâtes dans l'eau salée et les égouttez. 
+    Dans un plat haut allant au four mettre une couche de coquillettes, le jambon et son jus, une autre couche de coquillettes et finir pas le gruyère. Vous pouvez même mettre quelques parcelles de beurre. 
+    Griller dans le four 5 mn. 
+    Votre plat est prêt lorsque votre gruyère est bien doré. 
+    Bon appétit.
+    C'est un plat très économique qui fait l'unanimité chez les enfants même quand ils sont grands (très grands !)
+  ]]>
+  </preparation>
+</recette>

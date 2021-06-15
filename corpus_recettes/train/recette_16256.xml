@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16256">
+  <titre>Poulet provençal</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 belles poitrines de poulet</p>
+    <p>3 tomates </p>
+    <p>1 poivron rouge</p>
+    <p>25 cl de creme fraîche</p>
+    <p>un cube de bouillon de poule (knor)</p>
+    <p>une noix de beurre</p>
+    <p>un petit bouquet d'estragon frais</p>
+    <p>2 échalotes</p>
+    <p>paprika, sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Assaisonnez les poitrines de poulet de chaque côté avec le sel, le poivre et le paprika.
+    Faites-les dorer sur le beurre dans une casserole à fond épais. Quand les poitrines sont bien dorées, ajouter les tomates et le poivron coupés en gros dés, les échalotes finement hachées et le cube de bouillon de poule.
+    Mouillez le tout avec 1 dl d'eau. Ajoutez l'estragon finement haché et laissez mijoter pendant 15 mn.
+    Retirez les morceaux de poulet que vous conservez au chaud. Ajoutez la crème fraîche dans la casserole et faites bouillir jusqu'à obtenir une sauce bien liée.
+    Remettez le poulet a mijoter pendant 2-3 mn.
+    Servez cette préparation avec des tagliatelles.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41550">
+  <titre>Petites charlottes au fromage blanc parsemées de fruits rouges</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la mousse : </p>
+    <p>200 g de fromage blanc </p>
+    <p>250 g de crème liquide entière </p>
+    <p>1 à 2 cuillères à soupe de jus de citron </p>
+    <p>2 à 3 cuillères à soupe de sucre </p>
+    <p>2 feuilles de gélatine</p>
+    <p>Pour le montage des charlottes : </p>
+    <p>1 paquet de biscuits à la cuillère (pas trop gros!)</p>
+    <p>1 petit verre d'eau </p>
+    <p>1 cuillère à soupe de sucre</p>
+    <p>1 giclée de rhum ou d'alcool de fraise</p>
+    <p>Pour la salade de fruits frais : </p>
+    <p>50 g de myrtilles </p>
+    <p>50 g de framboises </p>
+    <p>50 g de groseilles rouges et jaunes </p>
+    <p>50 g de fraises (ou de mûres) </p>
+    <p>1 cuillère à soupe de jus de citron </p>
+    <p>1 cuillère à soupe de miel clair</p>
+    <p>1/2 cuillère à soupe de sucre vanillé bourbon </p>
+    <p>1 pincée de cannelle moulue </p>
+    <p>1 cuillère à soupe de jus d'orange</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Matériel nécessaire : 4 petits cercles à pâtisserie individuels, de 8 cm de diamètre (ou à défaut, des cercles effectués à l'aide de plastique fort).
+    Préparer la mousse : 
+    Faire ramollir les feuilles de gélatine, dans de l'eau froide. 
+    Mélanger le fromage blanc et le sucre. 
+    Quand la gélatine est bien ramollie, la mettre dans une petite casserole, et la faire fondre, à feu doux, avec le jus de citron. 
+    Retirer du feu, dès qu'elle est fondue, et la mélanger rapidement au fromage blanc. 
+    Monter la crème liquide en chantilly, et l'incorporer délicatement à la préparation.
+    Monter les charlottes : 
+    Faire bouillir, l'eau et le sucre. Ajouter l'alcool et laisser refroidir. 
+    Poser, un cercle individuel à pâtisserie, dans chaque assiette.
+    Tremper rapidement, les biscuits à la cuillère, dans le mélange eau/sucre/alcool, et les disposer au fond du cercle (en les ayant préalablement taillés, si nécessaire). 
+    Répartir la mousse au fromage blanc, dans chaque cercle, et placer au frigo, pendant au moins 6 h.
+    Préparer la salade de fruits : mélanger le jus de citron, le miel, le sucre vanillé, la cannelle et le jus d'orange. 
+    Ajouter les fruits et mélanger délicatement. 
+    Laisser en attente au frigo (si vous faites les charlottes la veille, préparez la salade de fruits le jour-même, mais elle peut attendre quelques heures, au frigo).
+    Au moment de servir, enlever les cercles des charlottes, et disposer délicatement un peu de fruits, sur chacune d'elles. 
+    Présenter le reste de fruits à part, et servir immédiatement.
+    Dessert raffiné, original et très frais. Régalez-vous!
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Matériel nécessaire : 4 <INGRED id="3">petits</INGRED> cercles à pâtisserie individuels, de 8 cm de <INGRED id="10">diamètre</INGRED> ( ou à défaut, des cercles effectués à l'aide de plastique fort ). <OPER id="o_1">Préparer</OPER> la mousse : Faire <OPER id="o_2">ramollir</OPER> les <INGRED id="13">feuilles</INGRED> de <INGRED id="12">gélatine</INGRED>, dans de l'<INGRED id="5">eau froide</INGRED>. <OPER id="o_3">Mélanger</OPER> le <INGRED id="1">fromage blanc</INGRED> et le <INGRED id="16">sucre</INGRED>. Quand la <INGRED id="3">gélatine</INGRED> est bien ramollie, la <OPER id="o_4">mettre</OPER> dans une <INGRED id="2">petite</INGRED> casserole, et la <INGRED id="14">faire</INGRED> <OPER id="o_5">fondre</OPER>, à feu doux, avec le <INGRED id="4">jus de citron</INGRED>. <OPER id="o_6">Retirer</OPER> du feu, dès qu'elle est fondue, et la <OPER id="o_7">mélanger</OPER> rapidement au <INGRED id="1">fromage blanc</INGRED>. <OPER id="o_8">Monter</OPER> la <INGRED id="6">crème liquide</INGRED> en chantilly, et l'<OPER id="o_9">incorporer</OPER> délicatement à la <INGRED id="4">préparation</INGRED>. <OPER id="o_10">Monter</OPER> les charlottes : Faire <OPER id="o_11">bouillir</OPER>, l'<INGRED id="1">eau</INGRED> et le <INGRED id="6">sucre</INGRED>. <OPER id="o_12">Ajouter</OPER> l'alcool et <INGRED id="12">laisser</INGRED> <OPER id="o_13">refroidir</OPER>. <OPER id="o_14">Poser</OPER>, un cercle individuel à pâtisserie, dans chaque assiette. <OPER id="o_15">Tremper</OPER> rapidement, les <INGRED id="5">biscuits</INGRED> à la cuillère, dans le <INGRED id="16">mélange</INGRED> <INGRED id="6">eau</INGRED> / <INGRED id="3">sucre</INGRED> / alcool, et les <OPER id="o_16">disposer</OPER> au <INGRED id="14">fond</INGRED> du cercle ( en les ayant préalablement taillés, si nécessaire ). <OPER id="o_17">Répartir</OPER> la mousse au <INGRED id="3">fromage blanc</INGRED>, dans chaque cercle, et <OPER id="o_18">placer</OPER> au frigo, pendant au moins 6 h. <OPER id="o_19">Préparer</OPER> la salade de <INGRED id="3">fruits</INGRED> : <OPER id="o_20">mélanger</OPER> le <INGRED id="15">jus de citron</INGRED>, le <INGRED id="8">miel</INGRED>, le <INGRED id="3">sucre vanillé</INGRED>, la cannelle et le <INGRED id="19">jus d'orange</INGRED>. <OPER id="o_21">Ajouter</OPER> les <INGRED id="2">fruits</INGRED> et <OPER id="o_22">mélanger</OPER> délicatement. Laisser en attente au frigo ( si vous faites les charlottes la veille, <OPER id="o_23">préparez</OPER> la salade de fruits le jour - même, mais elle peut <OPER id="o_24">attendre</OPER> quelques heures, au frigo ). Au moment de servir, <OPER id="o_25">enlever</OPER> les cercles des charlottes, et <OPER id="o_26">disposer</OPER> délicatement un <INGRED id="14">peu</INGRED> de <INGRED id="9">fruits</INGRED>, sur chacune d'elles. <OPER id="o_27">Présenter</OPER> le <INGRED id="1">reste</INGRED> de fruits à part, et servir immédiatement. Dessert raffiné, original et très frais. <OPER id="o_28">Régalez</OPER> -vous !
+  </annotation>
+  <annotation methode="crf">
+  Matériel nécessaire <INGRED>:</INGRED> 4 <INGRED>petits</INGRED> cercles à pâtisserie individuels <INGRED>,</INGRED> de 8 <INGRED>cm</INGRED> de diamètre ( <INGRED>ou</INGRED> à défaut <INGRED>,</INGRED> des cercles effectués à l'aide de plastique fort ). Préparer la mousse <INGRED>:</INGRED> Faire ramollir les feuilles de <INGRED>gélatine</INGRED> <INGRED>,</INGRED> dans de l'<INGRED>eau</INGRED> froide <INGRED>.</INGRED> Mélanger le <INGRED>fromage</INGRED> <INGRED>blanc</INGRED> et le <INGRED>sucre</INGRED>. Quand la gélatine est bien ramollie <INGRED>,</INGRED> la mettre dans une <INGRED>petite</INGRED> casserole <INGRED>,</INGRED> et la faire fondre <INGRED>,</INGRED> à feu doux <INGRED>,</INGRED> avec le <INGRED>jus de citron</INGRED> <INGRED>.</INGRED> Retirer du feu <INGRED>,</INGRED> dès qu'elle est fondue <INGRED>,</INGRED> et la mélanger rapidement au <INGRED>fromage</INGRED> <INGRED>blanc</INGRED> <INGRED>.</INGRED> Monter la <INGRED>crème liquide en chantilly</INGRED> <INGRED>,</INGRED> et l'incorporer délicatement à la préparation <INGRED>.</INGRED> Monter les charlottes <INGRED>:</INGRED> Faire bouillir <INGRED>,</INGRED> l'<INGRED>eau</INGRED> et le <INGRED>sucre</INGRED>. Ajouter l'<INGRED>alcool</INGRED> et laisser refroidir <INGRED>.</INGRED> Poser <INGRED>,</INGRED> un cercle individuel à pâtisserie <INGRED>,</INGRED> dans chaque assiette <INGRED>.</INGRED> Tremper rapidement <INGRED>,</INGRED> les <INGRED>biscuits</INGRED> à la cuillère <INGRED>,</INGRED> dans le <INGRED>mélange</INGRED> <INGRED>eau</INGRED> / <INGRED>sucre</INGRED> / <INGRED>alcool</INGRED> <INGRED>,</INGRED> et les disposer au <INGRED>fond</INGRED> du cercle ( en les ayant préalablement taillés <INGRED>,</INGRED> si nécessaire ). Répartir la mousse au <INGRED>fromage</INGRED> <INGRED>blanc</INGRED> <INGRED>,</INGRED> dans chaque cercle <INGRED>,</INGRED> et placer au frigo <INGRED>,</INGRED> pendant au moins 6 h. Préparer la salade de <INGRED>fruits</INGRED> <INGRED>:</INGRED> mélanger le <INGRED>jus de citron</INGRED> <INGRED>,</INGRED> le <INGRED>miel</INGRED> <INGRED>,</INGRED> le <INGRED>sucre vanillé</INGRED> <INGRED>,</INGRED> la <INGRED>cannelle</INGRED> et le <INGRED>jus d'orange</INGRED> <INGRED>.</INGRED> Ajouter les <INGRED>fruits</INGRED> et mélanger délicatement. Laisser en attente au frigo ( si vous faites les charlottes la veille <INGRED>,</INGRED> préparez la salade de <INGRED>fruits</INGRED> le jour - même <INGRED>,</INGRED> mais elle peut attendre quelques heures <INGRED>,</INGRED> au frigo ). Au moment de servir <INGRED>,</INGRED> enlever les cercles des charlottes <INGRED>,</INGRED> et disposer délicatement un peu de <INGRED>fruits</INGRED> <INGRED>,</INGRED> sur chacune d'elles. Présenter le <INGRED>reste</INGRED> de <INGRED>fruits</INGRED> à part <INGRED>,</INGRED> et servir immédiatement. Dessert raffiné <INGRED>,</INGRED> original et très <INGRED>frais</INGRED> <INGRED>.</INGRED> Régalez -vous !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 17.3333333333333*X + 10.6666666666667</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 13*X + 18</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['fromage blanc', 'fromage']	 id:1	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crème liquide entière', 'crème']	 id:2	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['jus de citron', 'jus']	 id:3	 quantité:1	 unité:cuillères à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['sucre']	 id:4	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['gélatine']	 id:5	 quantité:2	 unité:feuilles de	 denombrable:True	 recipient:2*X
+ingredient:['de biscuits à la cuillère']	 id:6	 quantité:1	 unité:paquet	 denombrable:True	 recipient:1*X
+ingredient:['eau']	 id:7	 quantité:1	 unité:verre d'	 denombrable:True	 recipient:1*X
+ingredient:['sucre']	 id:8	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:["giclée de rhum ou d'alcool de fraise", 'giclée']	 id:9	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['myrtilles']	 id:10	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['framboises']	 id:11	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['groseilles rouges', 'groseilles']	 id:12	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['jaunes']	 id:13	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fraises']	 id:14	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['jus de citron', 'jus']	 id:15	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['miel clair', 'miel']	 id:16	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['sucre vanillé bourbon', 'sucre']	 id:17	 quantité:1/2	 unité:cuillère à soupe de	 denombrable:False	 recipient:1
+ingredient:['cannelle moulue', 'cannelle']	 id:18	 quantité:1	 unité:pincée de	 denombrable:True	 recipient:1*X
+ingredient:["jus d'orange", 'jus']	 id:19	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préparer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:ramollir	 id:o_2	 ingrédients_ralatifs:['13', '12', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:['1', '16']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mettre	 id:o_4	 ingrédients_ralatifs:['3', '2', '14', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:fondre	 id:o_5	 ingrédients_ralatifs:['14', '4']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:retirer	 id:o_6	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_7	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:monter	 id:o_8	 ingrédients_ralatifs:['6', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_9	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:monter	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:bouillir	 id:o_11	 ingrédients_ralatifs:['1', '6']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:poser	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tremper	 id:o_15	 ingrédients_ralatifs:['5', '16', '6', '3', '14']	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:disposer	 id:o_16	 ingrédients_ralatifs:['14']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:répartir	 id:o_17	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparer	 id:o_19	 ingrédients_ralatifs:['3', '15', '8', '3', '19']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:mélanger	 id:o_20	 ingrédients_ralatifs:['15', '8', '3', '19']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_21	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:préparer	 id:o_23	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:attendre	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enlever	 id:o_25	 ingrédients_ralatifs:['14', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_26	 ingrédients_ralatifs:['14', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:présenter	 id:o_27	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:régaler	 id:o_28	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

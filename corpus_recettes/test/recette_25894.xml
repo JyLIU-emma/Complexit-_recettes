@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25894">
+  <titre>Tendron de veau à la crème et au citron</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de tendron de veau</p>
+    <p>100 g de champignons</p>
+    <p>30 g de beurre</p>
+    <p>25 cl de bouillon de volaille</p>
+    <p>10 cl de crème fraîche</p>
+    <p>1 carotte</p>
+    <p>1 oignon</p>
+    <p>1 jaune d'oeuf</p>
+    <p>3 citrons</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>persil</p>
+    <p>thym</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper la carotte, l'oignon et les champignons en julienne. Les faire revenir dans une cocotte avec du beurre.
+    Faire dorer les morceaux de tendrons sur chaque côté dans une poêle avec de l'huile. Assaisonner, saupoudrer de farine et arroser de bouillon.
+    Déposer la viande et son jus dans la cocotte avec les légumes, et incorporer le thym. Laisser mijoter pendant 1 h.
+    Râper le zeste des citrons et l'incorporer à la préparation. Continuer la cuisson pendant 10 min.
+    Dans un bol, mélanger la crème fraîche, le jaune d'oeuf et le jus des citrons, puis verser le tout dans le jus de cuisson tamisé.
+    Servir la viande arrosée de sauce et accompagnée de pâtes fraîches ou de haricots verts.
+  ]]>
+  </preparation>
+</recette>

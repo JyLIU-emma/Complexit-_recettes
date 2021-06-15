@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26756">
+  <titre>Salade fruits à la Sandrine</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kiwi</p>
+    <p>1 mangue</p>
+    <p>1 pamplemousse rose</p>
+    <p>1 conserve de lait de coco (+/ 30 ml) </p>
+    <p>un yaourt maigre</p>
+    <p>quelques amandes effilées</p>
+    <p>du sucre vanille</p>
+    <p>du sucre semoule</p>
+    <p>un petit beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les fruits et les découper en petits dés puis les répartir dans 2 petits bols. 
+    Saupoudrer de sucre vanille. 
+    Verser le lait de coco par-dessus. 
+    Déposer les amandes. 
+    Mélanger le yaourt maigre au sucre. 
+    Recouvrir du yaourt préparé. 
+    Broyer le petit beurre au pilon et saupoudrer la préparation puis servir.
+  ]]>
+  </preparation>
+</recette>

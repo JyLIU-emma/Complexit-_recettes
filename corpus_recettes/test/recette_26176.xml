@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26176">
+  <titre>Côtes de veau marinées aux fines herbes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 côtes de veau</p>
+    <p>15 cl d'huile</p>
+    <p>2 cuillères à soupe de jus de citron</p>
+    <p>2 gousses d'ail</p>
+    <p>3 échalotes</p>
+    <p>4 branches d'estragon</p>
+    <p>1/2 bouquet de persil</p>
+    <p>1/2 bouquet de ciboulette</p>
+    <p>30 g de beurre</p>
+    <p>1 cuillère à café de farine</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher finement les herbes, l'ail et l'échalote et les arroser d'huile d'olive et de jus de citron. Saler, poivrer.
+    Recouvrir les côtes de veau de cette marinade.
+    Laisser mariner durant 12 heures.
+    Faire cuire les côtes dans le beurre 8 minutes de chaque côté environ.
+    Servir bien chaud avec une cuillère de marinade sur chaque côte.
+  ]]>
+  </preparation>
+</recette>

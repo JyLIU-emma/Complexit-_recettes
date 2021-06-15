@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25172">
+  <titre>CRÊPES GRATINÉES AUX POIRES</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>18 à 20 crêpes</p>
+    <p>1 kg de poires</p>
+    <p>250 g de sucre en poudre</p>
+    <p>50 g de beurre</p>
+    <p>1 sachet de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole, faire un sirop en portant à ébullition 200 g de sucre, le sucre vanillé et 4 cuillères à soupe d'eau à feu doux. 
+    Peler et découper les poires en lamelles, et les plonger dans le sirop. Laisser mijoter 15 min à feu doux.
+    Recouvrir les crêpes de 2 cuillères à soupe de poires et les rouler. Disposer les crêpes dans un plat beurré, badigeonner de beurre et recouvrir de sucre. 
+    Enfourner position grill pendant 5 à 10 min, jusqu’à ce que les crêpes soient bien dorées.
+    Servir immédiatement.
+  ]]>
+  </preparation>
+</recette>

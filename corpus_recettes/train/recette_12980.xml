@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12980">
+  <titre>Tarte au  roquefort et aux amandes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de pâte feuilletée ou brisée</p>
+    <p>150 g de roquefort</p>
+    <p>4 oeufs</p>
+    <p>150 g d'amandes effilées</p>
+    <p>70 g de gruyère râpé</p>
+    <p>épices (herbes, ciboulette, basilic)</p>
+    <p>40 cl de crème fraîche semi-épaisse</p>
+    <p>20 cl de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C.
+    Etalez la pâte dans plat à tarte. Emiettez le roquefort en petits cubes réguliers.
+    Mettre dans un saladier les oeufs, la crème, le lait les épices. Bien mélanger le tout afin d'obtenir un liquide homogène et semi-épais.
+    Répartir le fromage sur la pâte, puis verser le mélange dessus. Parsemez les amandes sur le tout puis terminez par le fromage.
+    Enfournez le tout au four (200°C pendant 30 à 40 mn).
+    Surveillez la cuisson : le dessus doit être doré comme une quiche. On peut rajouter dans la préparation du jambon de Bayonne en petits morceaux.
+    Plat complet avec une salade verte. vin rosé
+  ]]>
+  </preparation>
+</recette>

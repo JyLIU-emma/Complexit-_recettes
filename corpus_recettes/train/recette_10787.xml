@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10787">
+  <titre>Langue de veau aux champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>700 g de langue de veau</p>
+    <p>1 kg de champignons de Paris ou 1 boîte 4/4</p>
+    <p>6 échalotes</p>
+    <p>4 tomates</p>
+    <p>sel, poivre, thym, ail</p>
+    <p>2 cuillères à soupe de persil haché</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites dorer les échalotes entières à la poêle dans de l'huile.
+    Placez dans une cocotte les échalotes à moitié cuites et la langue de
+    veau.
+    Faites rôtir en ajoutant un peu d'eau, sel, poivre et thym.
+    Laissez cuire 40 min à feux doux
+    Placez les champignons lavés et citronnés dans le jus de cuisson des
+    échalotes.
+    Laissez-les rendre leur eau et légèrement dorer. Salez, poivrez.
+    Dans une autre poêle, faites cuire, dans un peu d'huile, les tomates
+    coupées en deux.
+    Saupoudrez les champignons et les tomates de persil et d'ail hachés.
+    Servez la viande accompagnée de tous ces légumes.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13121">
+  <titre>Oeufs à la pizzaiola</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>2 tranches de jambon ou d'épaule</p>
+    <p>1 boite de sauce tomate fraiche</p>
+    <p>1 boule de mozzarella</p>
+    <p>gruyère râpé</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un plat à gratin, placer la sauce tomate salée et poivrée.
+    Casser les 4 oeufs sur ce nid de sauce en évitant  que le jaune de l'oeuf ne 'craque'.
+    Saler et poivrer, puis mettre par-dessus du jambon découpé à la main en morceaux.
+    Finir en recouvrant de morceaux de mozzarella et soupoudrer d'un peu de gruyère râpé.
+    Mettre au four à 180°C pendant environ 20 mn et déguster très chaud.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26071">
+  <titre>Pâté de porc aux foies de volaille</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de chair à saucisse de porc</p>
+    <p>3 foies de poulet</p>
+    <p>1 gros foie de lapin</p>
+    <p>1 petit verre de cognac</p>
+    <p>1 oeuf</p>
+    <p>1 échalotes</p>
+    <p>1/4 bouquet de persil</p>
+    <p>1 tranche de pain de mie</p>
+    <p>lait</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire mariner la viande et les foies hachés 12 h avec le cognac.
+    Le lendemain, égoutter et mélanger la viande et les foies avec l'oeuf, le persil et l'échalote hachés, le pain trempé dans du lait et essoré, la farine, du sel et du poivre.
+    Ajouter le cognac de la marinade et verser dans une terrine beurrée.
+    Faire cuire 30 minutes au four à 200°C (thermostat 6-7).
+  ]]>
+  </preparation>
+</recette>

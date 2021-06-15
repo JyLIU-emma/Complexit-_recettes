@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18102">
+  <titre>Pizza à la feta</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de feta</p>
+    <p>1 pâte à pizza</p>
+    <p>50 cl de purée de tomates</p>
+    <p>15 cl de crème fraîche liquide</p>
+    <p>100 g de gruyère râpé</p>
+    <p>olives noires</p>
+    <p>Huile d'olive</p>
+    <p>basilic</p>
+    <p>herbes de Provence</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez votre four 10 mn à 210°C.
+    Découpez la feta en petits cubes. Graissez votre plat, puis étalez votre pâte. Versez dessus la purée de tomates, ensuite les cubes de Feta, la crème fraîche et le gruyère.
+    Parsemez le basilic, les herbes de Provence, salez, poivrez. Décorez la pizza avec des olives noires, versez un filet d'huile.
+    Mettez votre préparation 15 mn au four.
+    On peut remplacer le Gruyère par du Beaufort pour avoir une pizza plus goûteuse.
+    Entrée originale pour vos dîners entre amis.
+  ]]>
+  </preparation>
+</recette>

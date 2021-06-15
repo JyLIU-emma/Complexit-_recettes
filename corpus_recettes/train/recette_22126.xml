@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22126">
+  <titre>Fricassée de poulet marengo</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet</p>
+    <p>4 tomates</p>
+    <p>1 oignon</p>
+    <p>2 cuillères à soupe de purée de tomates</p>
+    <p>1 cuillère à café d'extrait de viande</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>1 branche de thym</p>
+    <p>1 feuille de laurier</p>
+    <p>accompagnement : 200 g de riz</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites chuaffer l'huile dans une cocotte, faites-y dorer les morceaux de poulet.
+    Rajoutez ensuite l'oignon pelé et coupé en 8, le thym, le laurier et les tomates grossièrement hachées.
+    Laissez mijoter 5 min puis rajoutez la purée de tomates. 
+    Remuez le tout, et versez l'extrait de viande, le vin et 2 verres d'eau. Laissez mijoter 30 min à feu doux.
+    Faites cuire le riz à l'eau bouillante salée pendant ce temps.
+    Egouttez-le et disposez-le dans le plat.
+    Déposez les morceaux de poulet dessus, versez la sauce sur le tout et servez.
+  ]]>
+  </preparation>
+</recette>

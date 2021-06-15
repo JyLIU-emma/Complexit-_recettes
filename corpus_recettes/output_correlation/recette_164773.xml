@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164773">
+  <titre>Tarte tomates et canard confit</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>3 cuillères à café de moutarde</p>
+    <p>3 grosses tomates (ou 4 petites)</p>
+    <p>2 cuisses de canard confit (en conserve)</p>
+    <p>50g d'emmental rapé</p>
+    <p>sel, poivre, basilic</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Voici une variante de la tarte tomates, thon et moutarde :Préchauffer le four à 180°C.Déposer la pâte feuilletée dans un plat à tarte (sur du papier cuisson) et la piquer avec une fourchette.
+    Etaler la moutarde en fine couche.
+    Décortiquer les cuisses de canard afin d'obtenir de petits morceaux de viande. 
+    Faire chauffer une poële sans matière grasse et y faire dorer le canard 10 minutes environ, l'assaisonner de sel, poivre et basilic.
+    Pendant ce temps, laver et découper les tomates en fines tranches.
+    Sur la moutarde, déposer le canard en morceaux puis les tomates. 
+    Recouvrir d'une couche d'emmental et mettre au four 15/20 minutes.Déguster avec une salade.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Voici une variante de la tarte <INGRED id="3">tomates</INGRED>, thon et <INGRED id="2">moutarde</INGRED> : <OPER id="o_1">Préchauffer</OPER> le four à 180 ° <OPER id="o_2">C.Déposer</OPER> la <INGRED id="1">pâte feuilletée</INGRED> dans un plat à tarte ( sur du papier cuisson ) et la <OPER id="o_3">piquer</OPER> avec une fourchette. <OPER id="o_4">Etaler</OPER> la <INGRED id="8">moutarde</INGRED> en fine couche. <OPER id="o_5">Décortiquer</OPER> les <INGRED id="4">cuisses</INGRED> de canard afin d'obtenir de <INGRED id="3">petits</INGRED> morceaux de <INGRED id="1">viande</INGRED>. Faire <OPER id="o_6">chauffer</OPER> une poële sans matière grasse et y faire <OPER id="o_7">dorer</OPER> le canard 10 minutes environ, l'<OPER id="o_8">assaisonner</OPER> de <INGRED id="7">sel</INGRED>, <INGRED id="8">poivre</INGRED> et <INGRED id="8">basilic</INGRED>. Pendant ce temps, <OPER id="o_9">laver</OPER> et <OPER id="o_10">découper</OPER> les <INGRED id="3">tomates</INGRED> en fines tranches. Sur la <INGRED id="2">moutarde</INGRED>, <OPER id="o_11">déposer</OPER> le canard en morceaux puis les <INGRED id="3">tomates</INGRED>. <OPER id="o_12">Recouvrir</OPER> d'une couche d'<INGRED id="5">emmental</INGRED> et <OPER id="o_13">mettre</OPER> au four 15/20 minutes. Déguster avec une salade.
+  </annotation>
+  <annotation methode="crf">
+  Voici une variante de la tarte <INGRED>tomates</INGRED> <INGRED>,</INGRED> <INGRED>thon</INGRED> et <INGRED>moutarde</INGRED> <INGRED>:</INGRED> Préchauffer le four à 180 ° C.Déposer la <INGRED>pâte feuilletée</INGRED> dans un plat à tarte ( sur du papier cuisson ) et la piquer avec une fourchette <INGRED>.</INGRED> Etaler la <INGRED>moutarde</INGRED> en fine couche. Décortiquer les <INGRED>cuisses</INGRED> de <INGRED>canard</INGRED> afin d'obtenir de <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> de <INGRED>viande</INGRED> <INGRED>.</INGRED> Faire chauffer une poële sans <INGRED>matière grasse</INGRED> et y faire dorer le <INGRED>canard</INGRED> 10 minutes <INGRED>environ</INGRED> <INGRED>,</INGRED> l'assaisonner de <INGRED>sel</INGRED> <INGRED>,</INGRED> <INGRED>poivre</INGRED> et <INGRED>basilic</INGRED> <INGRED>.</INGRED> Pendant ce temps <INGRED>,</INGRED> laver et découper les <INGRED>tomates</INGRED> en fines tranches. Sur la <INGRED>moutarde</INGRED> <INGRED>,</INGRED> déposer le <INGRED>canard</INGRED> en <INGRED>morceaux</INGRED> puis les <INGRED>tomates</INGRED> <INGRED>.</INGRED> Recouvrir d'une couche d'emmental et mettre au four 15/20 minutes. Déguster avec une salade <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 9.0*X + 4.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 9*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pâte feuilletée', 'pâte']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['moutarde']	 id:2	 quantité:3	 unité:cuillères à café de	 denombrable:True	 recipient:3*X
+ingredient:['tomates']	 id:3	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['cuisses de canard confit', 'cuisses']	 id:4	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['emmental rapé', 'emmental']	 id:5	 quantité:50	 unité:g d'	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['basilic']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préchauffer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:c.déposer	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:piquer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:etaler	 id:o_4	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:décortiquer	 id:o_5	 ingrédients_ralatifs:['4', '3', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_6	 ingrédients_ralatifs:['7', '8', '8']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:dorer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:assaisonner	 id:o_8	 ingrédients_ralatifs:['7', '8', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:laver	 id:o_9	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:3*X*1	 recipient:0
+operation:découper	 id:o_10	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:3*X*1	 recipient:1
+operation:déposer	 id:o_11	 ingrédients_ralatifs:['2', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:recouvrir	 id:o_12	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22274">
+  <titre>Foie de veau sauce piquante</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tranches de foie de veau</p>
+    <p>6 échalotes</p>
+    <p>1 verre de vin rouge</p>
+    <p>1 cuillère à soupe de vinaigre de vin</p>
+    <p>beurre ou margarine</p>
+    <p>sel et poivre</p>
+    <p>chapelure facultative</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir dans le beurre ou margarine les 4 tranches de foie de veau. 
+    Hacher menu les échalotes, les rajouter à la préparation. 
+    Laisser revenir quelques minutes. 
+    Ajouter le verre de vin rouge. 
+    Saler et poivrer. 
+    Laisser mijoter doucement jusqu'à ce que la viande soit tendre, rajouter éventuellement de la chapelure pour lier la sauce.
+    Peut aussi se prévoir avec du coeur de boeuf ou du foie de boeuf, prévoir un temps de cuisson plus long.
+  ]]>
+  </preparation>
+</recette>

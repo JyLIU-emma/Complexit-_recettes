@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23489">
+  <titre>Clafoutis au jambon cru et mozzarella</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de jambon cru</p>
+    <p>200 g de billes de mozzarella</p>
+    <p>40 g de parmesan râpé</p>
+    <p>6 oeufs</p>
+    <p>25 cl de lait</p>
+    <p>25 cl de crème fleurette</p>
+    <p>40 g de beurre</p>
+    <p>3 cuillères à soupe rase de Maïzena</p>
+    <p>6 feuilles de basilic</p>
+    <p>muscade râpée</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Faites chauffer le four Th 6 (180°C). Dans une jatte, battez les oeufs avec deux pincées de muscade, du sel et du poivre. Incorporez 20 cl de lait, la crème, le parmesan et la Maïzena délayée avec le reste de lait. 
+    2) Beurrez six grands ramequins, versez-y la pâte sur un tiers. Couvrez avec le jambon cru coupé en fines lanières, les feuilles de basilic ciselée, la mozzarella et le reste de pâte. Faites cuire 25 à 30 mn.
+  ]]>
+  </preparation>
+</recette>

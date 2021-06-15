@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26843">
+  <titre>Tarte aux pruneaux et raisins</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de pruneaux</p>
+    <p>100 g de raisins secs</p>
+    <p>80 g de sucre, quelques zestes d'orange</p>
+    <p>15 cl de vin rouge</p>
+    <p>Pour la pâte brisée sucrée:</p>
+    <p>300 g de farine</p>
+    <p>150 g de beurre mou</p>
+    <p>50 g de sucre</p>
+    <p>1 œuf</p>
+    <p>5 g de sel</p>
+    <p>10 cl d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les pruneaux et les raisins à gonfler dans l'eau pendant au moins 6h. Préparer la pâte brisée en mélangeant les ingrédients dans l'ordre. Rouler en boule et réserver au frais.
+    Mettre le vin dans une casserole, avec les pruneaux dénoyautés, les raisins, le sucre, les zestes d'orange et faire cuire 10 minutes sur feu doux.
+    Egoutter.Etaler la pâte dans un moule beurré, piquer à la fourchette puis répartir dessus les pruneaux et raisins.
+    Faire cuire au four à 210°C (thermostat 7) pendant 25 minutes.
+    Pendant ce temps, faire réduire le jus de cuisson des pruneaux et des raisins jusqu'à l'obtention d'un sirop épais.
+    Verser sur la tarte cuite et servir tiède de préférence.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15287">
+  <titre>Salade d'endives aux mandarines</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>endives</p>
+    <p>mandarines</p>
+    <p>noix</p>
+    <p>emmental</p>
+    <p>sel,poivre</p>
+    <p>vinaigrette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Enlever le trognons des endives. Couper les endives en trois tronçons.
+    Couper l'emmental en pêtit dés. Peler les mandarines et les lever les quartiers.
+    Faire la vinaigrette. Mélanger tous les éléments et servir.
+  ]]>
+  </preparation>
+</recette>

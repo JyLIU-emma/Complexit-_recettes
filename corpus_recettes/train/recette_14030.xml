@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14030">
+  <titre>Curry d'agneau facile</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 épaule d'agneau désossée</p>
+    <p>2 tomates</p>
+    <p>1 oignon</p>
+    <p>1 pomme</p>
+    <p>1 bol de lait</p>
+    <p>1 cuillère à soupe de curry</p>
+    <p>1 cuillère à café de gingembre</p>
+    <p>1 dosette de safran</p>
+    <p>1 cuillère à café de curcuma</p>
+    <p>1 cuillère à soupe d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les épices dans un bol.
+    Couper la viande en morceaux et la faire revenir quelques minutes dans de l'huile. La réserver.
+    Faire revenir 3 min à petit feu l'oignon émincé et la pomme épluchée et finement hachée. Ajouter les tomates en petits morceaux pelées et épépinées.
+    Rajouter le bol d'épices, le bol de lait et la viande. Saler. Laisser mijoter 45 min à petit feu.
+    Servir avec du riz.
+     Côtes du Rhône ou Bourgogne
+  ]]>
+  </preparation>
+</recette>

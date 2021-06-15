@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22643">
+  <titre>Tarte aux fraises</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte sablée</p>
+    <p>500 g de fraises</p>
+    <p>1 citron</p>
+    <p>200 g de gelée de groseilles ou de framboises</p>
+    <p>2 cuillères à soupe rases de sucre semoule</p>
+    <p>4 cuillères à soupe d’eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire à blanc la pâte sablée recouverte de haricots secs (20 mn à 180°C). 
+    Dans une casserole, mettez la gelée et l’eau. 
+    Posez sur un feu doux. 
+    Laissez mijoter 10 mn pour en faire un sirop onctueux. 
+    Equeutez les fraises. Lavez-les rapidement, séchez-les. 
+    Disposez-les sur la pâte sablée cuite et saupoudrée du sucre semoule mélangé avec le zeste de la moitié du citron. 
+    Dès que le sirop est froid, nappez-en les fraises.
+    Si la tarte doit attendre plusieurs heures, nappez de sirop au moment de servir afin qu’il ne ramollisse pas la pâte.
+    On peut soit acheter une pâte sablée toute faite, soit en faire une maison. aucun
+  ]]>
+  </preparation>
+</recette>

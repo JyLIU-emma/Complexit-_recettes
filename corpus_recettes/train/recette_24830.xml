@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24830">
+  <titre>Hachis parmentier de boeuf aux tomates séchées</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de pommes de terre</p>
+    <p>environ 700 g de boeuf haché</p>
+    <p>environ 8 tomates séchées à l'huile</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>1 poignée de pignons de pin</p>
+    <p>1 poignée de basilic haché</p>
+    <p>1 gousse d'ail</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire une purée avec les pommes de terre. Pendant ce temps faire revenir 5 mn la viande dans une sauteuse avec l'huile d'olive. Egoutter les tomates séchées et les couper en morceaux. 
+    Hors du feu, ajouter les tomates à la viande avec les pignons, le basilic, la gousse d'ail écrasée, le sel et le poivre. Dans un plat beurré alterner purée et hachis. 
+    Enfourner 30 mn à thermostat 6/180°C.
+  ]]>
+  </preparation>
+</recette>

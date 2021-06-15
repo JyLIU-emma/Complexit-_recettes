@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20511">
+  <titre>Pizza tomates anchois</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>450 g de tomates concassées</p>
+    <p>1 oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>sel et poivre</p>
+    <p>1 cuillère à café d'origan</p>
+    <p>50 g de filets d'anchois</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>300 g de mozzarella</p>
+    <p>Pour la pâte à pizza :</p>
+    <p>20 g de levure fraîche du boulanger</p>
+    <p>20 cl d'eau tiède</p>
+    <p>250 g de farine</p>
+    <p>10 cl d'huile</p>
+    <p>1 cuillère à café de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la pâte à pizza : délayer la levure dans l'eau. Verser sur la farine, ajouter le sel et l'huile.
+    Bien mélanger tous les ingrédients, les incorporer en malaxant. Puis travailler la pâte en rabattant un bout de pâte vers le centre de la boule et en le poussant devant vous avec la paume de la main. Faire tourner la pâte d'un quart de tour et recommencer l'opération.
+    Lorsque la pâte est homogène, la rouler en boule et la laisser doubler de volume dans un endroit chaud pendant 1 à 2 h.
+    Préchauffer le four à 210°C (thermostat 7).
+    Au bout de ce temps, l'étaler dans un moule ou sur une plaque du four.
+    Préparer le coulis de tomates mettant dans une casserole à fond plat les tomates, l'oignon émincé et l'ail haché. Saler, poivrer et laisser fondre 15 min.
+    Etaler ensuite le coulis sur la pâte à pizza, garnisser de tranches de mozzarella, de filets d'anchois et saupoudrer d'origan.
+    Arroser d'un filet d'huile d'olive et laisser reposer encore 30 min.
+    Enfourner pendant 30 minutes.
+  ]]>
+  </preparation>
+</recette>

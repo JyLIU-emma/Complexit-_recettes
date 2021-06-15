@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164928">
+  <titre>Cheesecake faisselle speculoos</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte:</p>
+    <p>60 g de beurre</p>
+    <p>250 g de Speculoos</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 noisette de beurre pour le moule</p>
+    <p>Pour la garniture:</p>
+    <p>500 g de faisselle</p>
+    <p>100 g de crème fraîche</p>
+    <p>3 oeufs</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>80 g de sucre blanc</p>
+    <p>1 sachet de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre au micro-ondes dans un saladier
+    Casser les Speculoos grossièrement puis les passer au mixeur.
+    Ajouter dans le saladier, les Speculoos, le sachet de sucre vannille avec beurre fondu et mélanger le tout.
+    Beurrer le fond d'un moule à manqué démontable puis déposez cette pâte au fond.
+    Tassez le tout.
+    Mettre au freezer ou au congélateur le temps de préparer la garniture.
+    Préchauffez le four thermostat 5 (150°C).Mélanger la faisselle avec la crème fraîche
+    puis ajouter le sucre blanc, le sachet de sucre vanillé, les jaunes d'oeufs et la farine.
+    Mélanger jusqu'à obtenir une préparation homogène.
+    Monter les blancs en neige bien ferme et les incorporer délicatement à la préparation.
+    Versez sur le lit de Speculoos.
+    Faites cuire au four 50 min jusqu'à ce que ce soit ferme au toucher.
+    Laissez refroidir au frigo, démoulez et servez frais. Gewurztraminer
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">fondre</OPER> le <INGRED id="4">beurre</INGRED> au micro-ondes dans un <INGRED id="1">saladier</INGRED> <OPER id="o_2">Casser</OPER> les <INGRED id="2">Speculoos</INGRED> grossièrement puis les <OPER id="o_3">passer</OPER> au mixeur. <OPER id="o_4">Ajouter</OPER> dans le <INGRED id="1">saladier</INGRED>, les <INGRED id="2">Speculoos</INGRED>, le sachet de <INGRED id="9">sucre</INGRED> vannille avec <INGRED id="2">beurre fondu</INGRED> et <OPER id="o_5">mélanger</OPER> le tout. <OPER id="o_6">Beurrer</OPER> le <INGRED id="4">fond</INGRED> d'un moule à manqué démontable puis <OPER id="o_7">déposez</OPER> cette <INGRED id="5">pâte</INGRED> au <INGRED id="4">fond</INGRED>. <OPER id="o_8">Tassez</OPER> le tout. <OPER id="o_9">Mettre</OPER> au freezer ou au congélateur le temps de <OPER id="o_10">préparer</OPER> la garniture. <OPER id="o_11">Préchauffez</OPER> le four thermostat 5 ( 150 ° <OPER id="o_12">C).Mélanger</OPER> la <INGRED id="5">faisselle</INGRED> avec la crème fraîche puis <OPER id="o_13">ajouter</OPER> le <INGRED id="9">sucre blanc</INGRED>, le sachet de sucre vanillé, les jaunes d'oeufs et la <INGRED id="10">farine</INGRED>. <OPER id="o_14">Mélanger</OPER> jusqu'à obtenir une <INGRED id="4">préparation</INGRED> homogène. <OPER id="o_15">Monter</OPER> les <INGRED id="7">blancs</INGRED> en neige bien ferme et les <OPER id="o_16">incorporer</OPER> délicatement à la <INGRED id="4">préparation</INGRED>. <OPER id="o_17">Versez</OPER> sur le lit de <INGRED id="2">Speculoos</INGRED>. Faites <OPER id="o_18">cuire</OPER> au four <INGRED id="3">50</INGRED> min jusqu'à ce que ce soit ferme au toucher. Laissez <OPER id="o_19">refroidir</OPER> au frigo, <OPER id="o_20">démoulez</OPER> et servez frais. Gewurztraminer
+  </annotation>
+  <annotation methode="crf">
+  Faire fondre le <INGRED>beurre</INGRED> au micro-ondes dans un saladier Casser les Speculoos grossièrement puis les passer au mixeur. Ajouter dans le saladier <INGRED>,</INGRED> les Speculoos <INGRED>,</INGRED> le sachet de <INGRED>sucre</INGRED> vannille avec <INGRED>beurre fondu</INGRED> et mélanger le tout <INGRED>.</INGRED> Beurrer le <INGRED>fond</INGRED> d'un moule à manqué démontable puis déposez cette <INGRED>pâte</INGRED> au <INGRED>fond</INGRED> <INGRED>.</INGRED> Tassez le tout <INGRED>.</INGRED> Mettre au freezer <INGRED>ou</INGRED> au congélateur le temps de préparer la garniture. Préchauffez le four thermostat 5 ( 150 ° C).Mélanger la faisselle avec la <INGRED>crème fraîche</INGRED> puis ajouter le <INGRED>sucre blanc</INGRED> <INGRED>,</INGRED> le sachet <INGRED>de sucre vanillé</INGRED> <INGRED>,</INGRED> les <INGRED>jaunes d'oeufs</INGRED> et la <INGRED>farine</INGRED>. Mélanger jusqu'à obtenir une préparation homogène <INGRED>.</INGRED> Monter les <INGRED>blancs</INGRED> en neige bien ferme et les incorporer délicatement à la préparation <INGRED>.</INGRED> Versez sur le lit de Speculoos. Faites cuire au four 50 min jusqu'à ce que ce soit ferme au toucher <INGRED>.</INGRED> Laissez refroidir au frigo <INGRED>,</INGRED> démoulez et servez <INGRED>frais</INGRED> <INGRED>.</INGRED> Gewurztraminer
+  </annotation>
+  <complexite>
+    <temps>f(X) = 12.3076923076923*X + 7.69230769230769</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 8*X + 11</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['beurre']	 id:1	 quantité:60	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['Speculoos']	 id:2	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre vanillé', 'sucre']	 id:3	 quantité:1	 unité:sachet de	 denombrable:True	 recipient:1*X
+ingredient:['noisette de beurre', 'noisette']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['faisselle']	 id:5	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:6	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:7	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['farine']	 id:8	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['sucre blanc', 'sucre']	 id:9	 quantité:80	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre vanillé', 'sucre']	 id:10	 quantité:1	 unité:sachet de	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:fondre	 id:o_1	 ingrédients_ralatifs:['4', '1']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:casser	 id:o_2	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:passer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:ajouter	 id:o_4	 ingrédients_ralatifs:['1', '2', '9', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:beurrer	 id:o_6	 ingrédients_ralatifs:['4', '5', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déposer	 id:o_7	 ingrédients_ralatifs:['5', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:tasser	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:préparer	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:préchauffer	 id:o_11	 ingrédients_ralatifs:['5', '9', '10']	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:c).mélanger	 id:o_12	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_13	 ingrédients_ralatifs:['9', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_14	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:monter	 id:o_15	 ingrédients_ralatifs:['7', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_16	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_17	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_18	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:refroidir	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:démouler	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

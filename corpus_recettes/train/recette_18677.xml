@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18677">
+  <titre>Quiche au thon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>une pâte feuilletée</p>
+    <p>une boîte de miettes de thon</p>
+    <p>2 tomates</p>
+    <p>gruyère (quantité selon vos goûts) </p>
+    <p>4 œufs</p>
+    <p>1/2 pot de crème fraîche et un peu de lait</p>
+    <p>moutarde</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Placer la pâte dans un moule et la piquer avec une fourchette. 
+    Badigeonner le fond avec de la moutarde. 
+    Écraser le thon puis le placer sur la pâte. 
+    Couper les tomates en tranches et les placer sur le thon. 
+    Mélanger les œufs, la crème et le lait (et du gruyère selon les goûts), avec sel et poivre, puis verser sur la pâte (ça doit recouvrir le thon et les tomates). 
+    Recouvrir le tout de gruyère.... 
+    Cuire au four à 200°C pendant 20 à 25 min.
+     rosé
+  ]]>
+  </preparation>
+</recette>

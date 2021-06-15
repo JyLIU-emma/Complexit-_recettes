@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24047">
+  <titre>Pain de saumon au coulis de poireau</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour le pain de saumon :</p>
+    <p>200 g de saumon (en boîte ou frais)</p>
+    <p>20 cl de crème fraîche</p>
+    <p>4 oeufs</p>
+    <p>sel, poivre et ciboulette</p>
+    <p>Pour le coulis :</p>
+    <p>4 blancs de poireaux</p>
+    <p>20 cl de crème fraîche</p>
+    <p>50 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer le pain de saumon: égoutter le contenu de la boîte de saumon et en réduire la moitié en purée au mixer ou à la fourchette (si saumon frais, le cuire à l'eau, à la vapeur ou au micro-ondes).
+    Dans une terrine, battre les oeufs en omelette, puis ajouter sel, poivre, 2 cuillères à soupe de ciboulette hachée et le reste du saumon émietté.
+    Ajouter la purée de saumon (première préparation) à laquelle on aura préalablement mélangé la crème fraîche, puis battre le tout jusqu'à obtenir un mélange homogène.
+    Beurrer un moule, y verser la préparation  et cuire au bain-marie chaud dans un four préchauffé à 200°C (thermostat 7) pendant 35 à 45 mn.
+    Pour le coulis, laver les poireaux, les émincer finement et les faire étuver à feu doux 20 mn environ dans du beurre, du sel et du poivre. Remuer et rajouter éventuellement un peu d'eau chaude si nécessaire.
+    Réduire cet émincé en purée au mixer, puis ajouter la crème fraîche au mélange et mixer à nouveau.
+    Réchauffer doucement ce coulis (sans faire bouillir) et le servir avec le pain démoulé sur le plat de service.
+  ]]>
+  </preparation>
+</recette>

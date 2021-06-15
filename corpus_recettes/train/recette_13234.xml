@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13234">
+  <titre>Muffins aux myrtilles fraîches</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>60 g de farine complète</p>
+    <p>140 g de farine blanche</p>
+    <p>70 g de flocons d'avoine</p>
+    <p>11 g de levure</p>
+    <p>1/2 cuillère à café de bicarbonate de soude</p>
+    <p>2 oeufs</p>
+    <p>140 g de sucre brun</p>
+    <p>7.5 g de sucre vanillée</p>
+    <p>125 g de beurre </p>
+    <p>300 g de crème fraîche fluide</p>
+    <p>200 g de myrtilles (fraîches ou congelées, mais ne pas dégeler)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Graisser le moule à muffins avec du beurre et le fariner.
+    Préchauffer le four à 180°C.Mélanger tout les ingrédients secs, farine, flocons d'avoine, levure et bicarbonate.
+    Dans un bol a part, mélanger les oeufs, le sucre, le sucre vanillé, le beurre et la crème acidulée.
+    Ajouter maintenant le mélange sec au mélange mouillé tout doucement, il faut juste mouiller les ingrédients sec et, à la fin, ajouter les myrtilles.
+    Remplir les moules à muffins aux trois quarts et cuire à four moyen-chaud (thermostat 6-7/200°C) environ 25 mn.C'est un délice !
+  ]]>
+  </preparation>
+</recette>

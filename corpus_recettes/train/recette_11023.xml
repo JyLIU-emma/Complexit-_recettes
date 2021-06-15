@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11023">
+  <titre>Risotto aux calamars</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de riz rond</p>
+    <p>400 g de calamars</p>
+    <p>6 cuillères à soupe d'huile d'olive</p>
+    <p>2 gousses d'ail</p>
+    <p>60 g de beurre</p>
+    <p>1 kg de tomates concassées</p>
+    <p>1 litre de bouillon de poisson ou d'eau</p>
+    <p>persil haché</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver soigneusement les calamars, coupez-les en lanières de 1 cm.  Laisser les têtes entières.
+    Dans une poêle, faire blondir l'ail dans un mélange d'huile et de beurre.  Ajouter après les calamars, salez, poivrez.  Faire cuire à feux doux +/- 20 minutes (les calamars doivent être presque cuits).  Ajouter alors la tomate et faites bien revenir.
+    Ajouter le riz (que vous aurez au préalable rincez à l'eau clair), faites le revenir jusqu'à ce qu'il soit translucide.
+    Recouvrir avec le bouillon de poisson (en cubes éventuellement).Mélanger et au besoin en cours de cuisson, allonger avec un supplément de bouillon. Rectifier l'assaisonnement, nappez d'un filet d'huile d'olive cru, saupoudrer de persil haché et servir.
+  ]]>
+  </preparation>
+</recette>

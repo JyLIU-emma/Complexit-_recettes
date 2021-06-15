@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18363">
+  <titre>Bricks au thon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boîte de thon, moyenne (130g)</p>
+    <p>2 pommes de terres</p>
+    <p>la moitié d'un oignon</p>
+    <p>un jaune d'oeuf</p>
+    <p>feuilles de bricks</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pommes de terre à l'eau.
+    Pendant ce temps hacher finement l'oignon et le cuire à l'huile d'olive.
+    Une fois les pomme de terre cuites les réduire en purée, ajouter cette purée au thon égoutté, aux oignons, mélanger et ajouter enfin le jaune d'oeuf.
+    Saler, poivrer et mette environ une grosse cuillère à soupe dans une feuille de brick, que l'on pliera comme des samosas.
+    Faire dorer 2 mn chaque face dans une poele avec de l'huile d'olive.
+    Peut trés bien être un repas rapide avec de la salade.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24489">
+  <titre>Moussaka acidulée</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>5 petites aubergines</p>
+    <p>400 g de mouton</p>
+    <p>huile d'olive</p>
+    <p>3 oignons</p>
+    <p>1 gousse d'ail</p>
+    <p>1 feuille de laurier</p>
+    <p>1 cuillère à café de thym</p>
+    <p>1 pincée de sarriette (facultatif)</p>
+    <p>1 pincée de coriandre en poudre (facultatif)</p>
+    <p>2 cuillères à soupe de purée de tomate</p>
+    <p>3 jaunes d'oeufs</p>
+    <p>le jus d'1 citron</p>
+    <p>gros sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les aubergines en tranches épaisses. Saupoudrez-les de gros sel et laissez-les 30 minutes en attente. Jetez leur excès d'eau et épongez-les à l'aide d'un torchon. Faites-les rapidement dorer dans l'huile d'olive. Réservez sur un papier absorbant.
+    Dans la même poêle, vidée de son trop plein d'huile, faites fondre les oignons hachés avec le laurier, le thym, la sarriette et la coriandre.
+    Lorsque les oignons sont translucides, ajoutez l'ail écrasé et le mouton haché. Faites revenir le tout très doucement sans brunir. Ajoutez la purée de tomate, rectifiez l'assaisonnement. 
+    Préchauffez le four à 200°C (thermostat 6-7).
+    Dans un plat à gratin, alternez des couches les aubergines et le hachis en terminant par les aubergines. Enfournez pour 35-40 minutes.
+    Battez les 3 jaunes d'oeuf avec le jus de citron et verser sur le plat lorsque le dessus commence à faire des bulles. Secouez le plat pour faire pénétrer et maintenez dans le four éteint et fermé pendant 5 minutes.
+  ]]>
+  </preparation>
+</recette>

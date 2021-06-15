@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22047">
+  <titre>Tourte aux poireaux, lardons et reblochon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 pâtes brisées  </p>
+    <p>1 reblochon </p>
+    <p>3 poireaux </p>
+    <p>8 tranches de lard fumé </p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6-7).
+    Découper les poireaux et les faire revenir dans une poêle. Assaisonner.
+    Remplacer les poireaux par les tranches de lard fumé dans la poêle. 
+    Ôter la croûte du reblochon. 
+    Disposer une pâte dans un plat à tourte beurré, verser la préparation et recouvrir de la 2ème pâte.
+    Enfourner pour 25 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

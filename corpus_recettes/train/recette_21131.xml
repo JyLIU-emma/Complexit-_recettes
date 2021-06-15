@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21131">
+  <titre>Soupe glacée au concombre</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de fromage blanc à 0 %</p>
+    <p>50 ml de lait écrémé</p>
+    <p>500 g de concombre</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>quelques feuilles de menthe</p>
+    <p>1 pincée de sel</p>
+    <p>1 pincée de paprika</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez le concombre, épépinez-le et découpez-le en fines lamelles. 
+    Dans une passoire, déposez le concombre et ajoutez 1 cuillère à soupe de gros sel; mélangez et laissez dégorger une heure. 
+    Dans le bol du mixeur, mélangez le lait écrémé, le fromage blanc, l'huile d'olive, la menthe, le paprika, et le sel. 
+    Pressez le concombre avec les mains pour retirer toute l'eau, et ajoutez-le dans le bol du mixeur; mixez le tout et réservez au froid. 
+    Présentez dans des assiettes creuses, décorées de feuilles de menthe fraîche.
+  ]]>
+  </preparation>
+</recette>

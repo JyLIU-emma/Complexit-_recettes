@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27039">
+  <titre>Poulet coco tout simple</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet découpé en morceaux</p>
+    <p>30 cl de lait de coco</p>
+    <p>beurre</p>
+    <p>1/2 de cuillère à café de cannelle moulue</p>
+    <p>1/2 de cuillère à café de coriandre moulue</p>
+    <p>1 pincée de safran</p>
+    <p>1 pincée de piment en poudre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les morceaux de poulet salés et poivrés dans du beurre.
+    Jeter le gras de cuisson et ajouter le lait de coco et les épices.
+    Couvrir et laisser mijoter 30 min à feu doux, jusqu'à ce que le poulet y soit tendre.
+    En accompagnement, selon vos goûts... : riz, pommes poêlées, bananes plantain frites, patates douces à la vapeur, semoule aux raisins et poivrons...
+  ]]>
+  </preparation>
+</recette>

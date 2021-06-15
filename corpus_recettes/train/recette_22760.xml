@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22760">
+  <titre>Soupe de pommes de terre au cerfeuil</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de cerfeuil </p>
+    <p>1 laitue</p>
+    <p>750 g de pommes de terre</p>
+    <p>30 g de beurre</p>
+    <p>2,5 l d'eau</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pommes de terre en morceaux dans l'eau. Porter à ébullition, avec les feuilles de salade, le cerfeuil et du sel. Mettre de côté un peu de cerfeuil.
+    Laisser cuire 45 min puis mouliner.
+    Rectifier l'assaisonnement et remettre sur le feu jusqu'au premier bouillon.
+    Ajouter le beurre et le cerfeuil haché. 
+    Cette soupe peut également être préparée avec du persil.
+  ]]>
+  </preparation>
+</recette>

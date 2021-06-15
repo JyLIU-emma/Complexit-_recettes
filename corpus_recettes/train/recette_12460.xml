@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12460">
+  <titre>Pommes boulangères</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de pommes de terres</p>
+    <p>100 g de lardons </p>
+    <p>5 oignons</p>
+    <p>fond de volaille (ou cube de bouillon)</p>
+    <p>herbes de Provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les pommes de terres et les couper en rondelles.
+    Faire revenir à la poêle dans un peu d'huile les oignons émincés et les lardons. Lorsqu'ils sont bien dorés, arrêter la cuisson.
+    Mettre quelque gouttes d'huile au fond d'un plat à gratin. Disposer une couche de rondelles de pomme de terre, saler, poivrer.
+    Diposer par dessus des oignons et lardons, ensuite quelques herbes de Provence. Remettre des pommes de terres et continuer jusqu'à arriver en haut du plat, en terminant par des pommes de terre.
+    Verser dessus le fond de volaille chaud de façon à recouvrir les pommes de terre.
+    Cuire à four chaud (thermostat 7/210°C) pendant environ 40 mn.
+    Pour être sûr de la cuisson, les pommes de terre doivent avoir absorbé un maximum de fond devolaille et être très moelleuses.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11235">
+  <titre>Röstis</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 Kg de pommes de terre cuites en robe des champs (pas trop cuites)</p>
+    <p>4 cuillères à soupe de beurre</p>
+    <p>sel, poivre</p>
+    <p>500 g de poireaux coupés en rondelles et cuits à l'étuvée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger tous les ingrédients jusqu'à obtention d'une purée.
+    Confectionner des galettes avec cette purée, et les faire frire dans un peu de beurre.C'est une recette simple qui accompagne très bien la viande (bifteacks, steaks, etc...)Les enfants apprécient, et cela change des frites ! un Bordeaux rouge
+  ]]>
+  </preparation>
+</recette>

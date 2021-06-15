@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26501">
+  <titre>Foie de veau poêlé</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 tranches de foie de veau</p>
+    <p>40 g de farine</p>
+    <p>40 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Assaisonner les tranches de foie de veau et les fariner.
+    Les déposer dans le reste du beurre fondu et les faire cuire quelques minutes de chaque côté en fonction de la cuisson désirée.
+    Servir bien chaud.
+  ]]>
+  </preparation>
+</recette>

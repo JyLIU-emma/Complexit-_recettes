@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26389">
+  <titre>Papillote de truite au beurre d'herbes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 truites</p>
+    <p>300 g de beurre mou</p>
+    <p>1/2 bouquet de persil</p>
+    <p>3 branches d'estragon</p>
+    <p>3 échalotes</p>
+    <p>30 cl de vin blanc sec</p>
+    <p>sel, poivre du moulin</p>
+    <p>huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).Hacher le persil, l'estragon et les échalotes puis incorporer au beurre ramolli.
+    Farcir les truites de beurre aux herbes.Déposer les truites dans des papillotes de papier sulfurisé avec le reste du beurre et le vin blanc.
+    Enfourner pour 10 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

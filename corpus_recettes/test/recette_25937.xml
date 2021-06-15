@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25937">
+  <titre>Ris de veau aux olives et quenelles</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 ris de veau</p>
+    <p>100 g de champignons</p>
+    <p>100 g d'olives vertes</p>
+    <p>50 g de farine</p>
+    <p>400 g de quenelles de veau</p>
+    <p>10 g de pelures de truffes</p>
+    <p>1 carotte</p>
+    <p>1 oignon</p>
+    <p>50 cl de bouillon</p>
+    <p>20 cl de vin blanc</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Plonger le ris de veau dans une casserole d'eau froide salée, porter le tout à ébullition et laisser cuire pendant 5 min. Égoutter la viande et la passer sous l’eau froide.
+    L’envelopper dans un linge et poser un poids dessus afin de l’écraser, jusqu’à ce qu’elle refroidisse.
+    Dans une poêle, mettre la carotte et l’oignon émincés à dorer avec la moitié du beurre. Ajouter une cuillère à café de farine et déposer la viande et les pelures de truffes sur la préparation. Arroser de vin blanc, assaisonner et laisser mijoter à feu doux pendant 30 en incorporant un peu de bouillon  chaud en cours de cuisson si besoin.
+    Dans une petite casserole, délayer la farine avec le reste de beurre. Incorporer le reste de bouillon et assaisonner. 
+    Plonger les quenelles, les olives et les champignons dans cette sauce.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21334">
+  <titre>Tarte au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>160 g de chocolat noir</p>
+    <p>160 g de beurre</p>
+    <p>160 g de sucre</p>
+    <p>40 g de farine</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C . Séparer les jaunes et les blancs d'oeufs. 
+    Mélanger le sucre et les jaunes d'oeufs, puis battre. Faire fondre à bain-marie le beurre et le chocolat, puis l'ajouter aux jaunes d'oeuf, ainsi que la farine tamisée. 
+    Battre les blancs en neige, ajouter la pincée de sel et mélanger avec les jaunes. Verser le tout dans un moule à gâteau graissé et fariné, puis enfourner au four pendant 35 mn.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18061">
+  <titre>Roulé au Chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la génoise :</p>
+    <p>6 oeufs</p>
+    <p>110g de sucre</p>
+    <p>70g de farine</p>
+    <p>1 c à café de bicarbonate de sodium</p>
+    <p>Pour le fourrage :</p>
+    <p>200g de chocolat dessert</p>
+    <p>5 cl de crème liquide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Séparer les jaunes des blancs.
+    Mélanger les jaunes avec le sucre jusqu'à ce qu'ils soient blancs.
+    Ajouter la farine.
+    Monter les blancs en neige avec le bicarbonate. Ajouter les blancs en neige à la préparation.
+    Tapisser le lèchefrite de papier sulfurisé, badigeonner d'un filet d'huile pour faciliter le démoulage. Etaler la pâte et enfourner pour 10-15mn th-6.
+    Retourner la génoise sur un torchon propre, ôter le papier sulfurisé et rouler aussitôt. Pendant 5 mn le temps de préparer le fourrage. 
+    Fourrage
+    Faites fondre le chocolat et ajouter la crème liquide.
+    Dérouler la génoise. Fourrer avec les 3/4 du chocolat. Rouler votre génoise et napper avec le 1/4 restant.A servir plutôt tiède pour que le chocolat reste un peu liquide.
+  ]]>
+  </preparation>
+</recette>

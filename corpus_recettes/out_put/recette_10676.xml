@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10676">
+  <titre>Trompettes de la mort en salade</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Trompettes de la mort</p>
+    <p>sel, poivre</p>
+    <p>huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    On les appelle les craterelles et elles sont très communes dans le
+    Jura.On les fait déssecher au-dessus de la cheminée, et l'hiver on les laisse
+    deux heures à l'eau chaude.
+    Les égoutter, les presser dans un linge et les assaisonner de sel,
+    poivre, huile.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  On les appelle les craterelles et elles sont très communes dans le Jura. On les fait <OPER id="o_1">déssecher</OPER> au-dessus de la cheminée, et l'hiver on les laisse deux heures à l'eau chaude. Les <OPER id="o_2">égoutter</OPER>, les <OPER id="o_3">presser</OPER> dans un linge et les <OPER id="o_4">assaisonner</OPER> de <INGRED id="4">sel</INGRED>, <INGRED id="3">poivre</INGRED>, huile.
+  </annotation>
+  <annotation methode="crf">
+  On les appelle les craterelles et elles sont très <INGRED>communes</INGRED> dans le Jura. On les fait déssecher au-dessus de la cheminée <INGRED>,</INGRED> et l'hiver on les laisse <INGRED>deux</INGRED> heures à l'<INGRED>eau</INGRED> chaude <INGRED>.</INGRED> Les égoutter <INGRED>,</INGRED> les presser dans un linge et les assaisonner de <INGRED>sel</INGRED> <INGRED>,</INGRED> <INGRED>poivre</INGRED> <INGRED>,</INGRED> <INGRED>huile</INGRED>.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 4.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 4</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['Trompettes de la mort', 'Trompettes']	 id:1	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:3	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['huile']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:déssecher	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:égoutter	 id:o_2	 ingrédients_ralatifs:['4', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:presser	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:assaisonner	 id:o_4	 ingrédients_ralatifs:['4', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

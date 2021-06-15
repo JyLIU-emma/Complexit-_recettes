@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23337">
+  <titre>Pain de poulet</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de filet de poulet</p>
+    <p>2 oignons</p>
+    <p>6 cornichons</p>
+    <p>100 g de yaourt blanc à 0 %</p>
+    <p>muscade</p>
+    <p>sel, poivre</p>
+    <p>Tabasco et/ou piment</p>
+    <p>ciboulette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les filets de poulet en lamelles et faites-les dorer environ 10 mn. 
+    Les mettre dans le robot avec tous les autres ingrédients. 
+    Déposer la pâte homogène dans une terrine. 
+    Laisser au frigo au minimum 2 H. 
+    A déguster avec une sauce de votre choix : coulis de tomates, sauce aux herbes, mayonnaise...
+  ]]>
+  </preparation>
+</recette>

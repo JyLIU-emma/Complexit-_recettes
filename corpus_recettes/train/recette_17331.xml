@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17331">
+  <titre>Quiche à la saucisse turque</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 petites saucisses turques (Sucuk) </p>
+    <p>5 oeufs entiers</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>1 petit verre de lait demi écrémé</p>
+    <p>100 g de fromage râpé</p>
+    <p>sel, poivre, basilic, cumin</p>
+    <p>1 pâte feuilletée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier battre les oeufs entiers, ajouter la crème fraîche et le petit verre de lait. 
+    Découper les saucisses en petits morceaux, les ajouter au mélange avec le fromage râpé. Ajouter du basilic et une petite cuillère à soupe de cumin pour relever le goût. 
+    Saler, poivrer. 
+    Beurrer une tôle à tarte, y placer la pâte feuilletée et faire précuire 10 mn au four recouvert d'un papier d'aluminium. 
+    Verser ensuite le mélange sur la pâte précuite en faisant attention à ce que les morceaux de saucisses soient bien disposés un peu partout et que le mélange ne déborde pas de la tôle. 
+    Mettre au four thermostat 210°C pendant 30 mn (à surveiller).
+    On peut trouver de la saucisse turque dans les boucheries musulmanes.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13590">
+  <titre>Poulet Tandoori</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 cuisses de poulet</p>
+    <p>1 pincée de poudre Tandoori (se trouve en supermarché, rayon produits étrangers ou exotiques</p>
+    <p>1 yaourt nature</p>
+    <p>4 cuillères de vinaigre</p>
+    <p>4 cuillères d'huile</p>
+    <p>1 citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille : enlever la peau des cuisses de poulet.
+    Faire de grandes entailles (assez profondes) dans la chair.
+    Faire la marinade en mélangeant la poudre Tandoori, le yaourt, le vinaigre, l'huile et le citron.
+    Placer les cuisses dans le plat qui servira à la cuisson. Les tartiner généreusement avec la marinade.
+    Placer au réfrigérateur.
+    Le jour même : sortir les cuisses quelques minutes avant de les faire cuire.
+    Placer sous le gril du four pendant 30 à 40 min en prenant le soin de les retourner 3 à 4 fois durant la cuisson.
+    Servir avec un riz blanc.
+  ]]>
+  </preparation>
+</recette>

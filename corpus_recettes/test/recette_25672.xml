@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25672">
+  <titre>Délices au citron</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de beurre</p>
+    <p>125 g de sucre</p>
+    <p>1 jaune d’oeuf</p>
+    <p>1 citron</p>
+    <p>1 pincée de sel</p>
+    <p>1 sachet de levure chimique</p>
+    <p>150 g de farine</p>
+    <p>Pour le fourrage :</p>
+    <p>75 g de beurre </p>
+    <p>1 orange ou 1 citron </p>
+    <p>100 g de sucre glace </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Travaillez en mousse le beurre et le sucre. Ajoutez le jaune d’oeuf, le zeste râpé de citron et le sel. 
+    Incorporez le mélange farine levure et pétrir. 
+    Prélevez de petites portions de pâtes en formez des boules de 3 cm de diamètre et les poser sur une plaque beurrée. 
+    Faire cuire four doux, à 160°C, pendant 15 mn. Laissez refroidir. 
+    Fourrage :
+    Travaillez en mousse le sucre glace et le beurre. Parfumez avec le zeste d’orange ou de citron râpé et de 2 cuillères à café de jus de citron. 
+    Enduire la face plane des biscuits et les accoler deux par deux.
+  ]]>
+  </preparation>
+</recette>

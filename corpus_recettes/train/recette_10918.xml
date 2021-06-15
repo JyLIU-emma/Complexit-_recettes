@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10918">
+  <titre>Cake au café</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 oeufs</p>
+    <p>150 g à 200 g de sucre</p>
+    <p>170 g de farine</p>
+    <p>1 cuillère à café de levure</p>
+    <p>25 cl de café très fort </p>
+    <p>150 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les oeufs et le sucre, ajouter la farine et la levure.
+    Faire fondre le beurre puis l'incorporer au mélange, ainsi que le café.Faire cuire 45 minutes environ à 220°C.
+  ]]>
+  </preparation>
+</recette>

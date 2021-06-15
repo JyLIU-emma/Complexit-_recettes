@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10627">
+  <titre>Pâtes aux légumes et à la crème</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de pâtes (spaghetti ou tagliatelles)</p>
+    <p>2 poivrons(moyens rouge et jaune)</p>
+    <p>2 courgettes(petites)</p>
+    <p>1 boîte de champignons</p>
+    <p>1 oignon</p>
+    <p>1 bouquet de persil</p>
+    <p>25 cl de crème fraiche</p>
+    <p>3 cuillères à café de maïzena</p>
+    <p>10 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et vider les poivrons, les couper en fines lamelles. Laver et couper en fines rondelles les courgettes. Emincer l'oignon, ciseler le persil et égouttez les champignons.
+    Dans une casserole, faire fondre le beurre, ajouter tous les légumes et la maïzena. Faire revenir jusqu'à ce que ça sente bon (environ 5 min).
+    Baissez le feu et ajouter la crème. Assaisonner avec du sel, du poivre et un tout petit peu de muscade.
+    Laisser mijoter environ 10 min à couvert en remuant de temps en temps.
+    Pendant ce temps, faire cuire les pâtes.
+    Quand tout cela est prêt, mélanger la sauce au légumes avec les pâtes et servir tout de suite.
+    Pour ceux qui ne peuvent pas se passer de fromage avec les pâtes, ils peuvent en mettre, mais je trouve que ça coupe le goût de la sauce.
+    Et bon appétit!!!
+  ]]>
+  </preparation>
+</recette>

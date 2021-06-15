@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19635">
+  <titre>Oeufs pochés au jambon de Bayonne</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>4 tranches de jambon de Bayonne</p>
+    <p>2 cuillères à soupe de mayonnaise</p>
+    <p>4 tranches de cheddar ou autre fromage à fondre (par exemple fromage pour hamburger)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites chauffer de l'eau en ajoutant une cuillère de vinaigre. 
+    Une fois l'eau arrivée à ébullition, casser les 4 oeufs et les mettre dans l'eau, laisser cuire 3 mn. Pendant ce temps, tartinez de mayonnaise (en tube ou faite maison) les tranches de jambon. Une fois les oeufs cuits, récupérez-les doucement et enrobez de fromage. Roulez le tout dans une tranche de jambon.
+  ]]>
+  </preparation>
+</recette>

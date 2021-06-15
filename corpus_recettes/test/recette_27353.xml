@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27353">
+  <titre>Lait emprésuré au chocolat (dit yaourt au chocolat)</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 litre de lait</p>
+    <p>4 cuillères de cacao non sucré</p>
+    <p>4 cuillères de sucre</p>
+    <p>1/2 cuillère de présure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Le lait doit être chaud mais pas bouillant. On le mélange avec les autres ingrédients et on remue bien. 
+    On verse la préparation dans des pots de yaourts et on les mets dans l'autocuiseur où on à préalablement fait bouillir de l'eau (vider la cocotte avant de mettre les pots). 
+    Fermer la cocotte et laisser 5 heures, puis comme pour des yaourts classiques, mettre au frais. 
+    Se conserve quelques jours au réfrigérateur.
+    On peut aussi parfumer au café ou au caramel.
+  ]]>
+  </preparation>
+</recette>

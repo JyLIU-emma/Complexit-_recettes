@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25560">
+  <titre>Barquettes de pommes de terre aux épinards</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 grosses pommes de terre</p>
+    <p>500 g d'épinards</p>
+    <p>100 g de gruyère (ou comté)</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>beurre</p>
+    <p>noix de muscade</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les pommes de terre enveloppées de papier aluminium, 45 min au four à 200°C (thermostat 6-7).
+    Rincez les épinards et faites-les cuire 5 min à l'eau bouillante salée.
+    Egouttez-les, pressez bien et hachez-les.
+    Faites-les revenir à la poêle avec du beurre, sel, poivre et un trait de noix de muscade.
+    Préchauffer le four à 180°C (thermostat 6).
+    Rajoutez la crème fraîche et mélangez.
+    Ouvrez les pommes de terre, coupez-les en deux.
+    Creusez-les et garnissez-les de farce aux épinards.
+    Déposez des lamelles de fromage et faites gratiner quelques minutes au four à 240°C (thermostat 8).
+  ]]>
+  </preparation>
+</recette>

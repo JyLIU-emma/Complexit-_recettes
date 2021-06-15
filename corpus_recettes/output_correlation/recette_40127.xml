@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40127">
+  <titre>Paëlla traditionnelle au feu de bois</titre>
+  <type>Plat principal</type>
+  <niveau>Difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>600 g de riz</p>
+    <p>400 g de calamars </p>
+    <p>750 g de fruits de mer nettoyés (moules, palourdes, praires)</p>
+    <p>1 langoustine ou 1 grosse crevette par personne</p>
+    <p>2 poivrons rouge</p>
+    <p>prévoir un morceau de viande par personne (pour contenter tout le monde, j’ai pris l’habitude de mettre des cuisses de poulet et des blancs plutôt que de mettre des poulets entiers découpés) </p>
+    <p>1 poivron vert</p>
+    <p>2 à 3 tomates</p>
+    <p>400 g de haricots verts (surgelés ou frais)</p>
+    <p>300 g de petits pois écossés (surgelés)</p>
+    <p>3 gousses d'ail</p>
+    <p>huile d’olive (20 cl environ)</p>
+    <p>eau de cuisson des coquillages et crevettes</p>
+    <p>sel</p>
+    <p>safran</p>
+    <p>vin blanc (25 cl)</p>
+    <p>cognac (5 cl)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Il faut une poêle traditionnelle que vous poserez de préférence sur un trépied et vous aurez à gérer le feu de bois puisque vous devrez augmenter ou ralentir par moments.
+    Dans le cadre de la préparation, vous commencez par faire cuire les coquillages dans une casserole et les crevettes dans une autre, dans de l’eau salée dans laquelle vous aurez rajouté quelques grains de poivre, une demi feuille de laurier et une branche de thym. 
+    Quand ils sont ouverts, laissez-les dans l’eau et ne surtout pas jeter l’eau qui servira ensuite à la cuisson du riz. 
+    Ne cherchez pas à les cuire complètement puisqu’ils seront rajoutés en fin de cuisson dans la paëlla.
+    Préparer dans un mortier (de préférence) le mélange ail, safran, sel. 
+    Les tomates sont à éplucher et à couper en petits morceaux, les poivrons sont coupés en lanières.
+    Faire chauffer l’huile. Quand elle est chaude vous mettrez les ingrédients successivement en fonction du temps de cuisson de chacun. 
+    Chaque ingrédient s’ajoute au précédent. A chaque fois que l’on met un ingrédient, on sale. On remue en permanence avec une cuillère en bois de préférence avec un manche assez long.
+    L’ordre dans lequel je procède : viande, calmar, poivrons, haricots verts. 
+    Faire rissoler jusqu’à que tout soit bien doré. Le feu ne doit pas être trop vif, sinon ça brûle et le fonds de la poêle attachera plus tard. 
+    Rajouter les tomates et les faire cuire en remuant avec une cuillère en bois, ce qui permet de déglacer la poêle.
+    Rajouter le riz, et le faire rissoler aussi, quand il est doré, rajouter les petits pois, puis le mélange, ail-safran auquel vous aurez rajouté le cognac. 
+    Rajouter le vin blanc et l’eau de cuisson des coquillages et des crevettes, l’eau doit couvrir les ingrédients, sans plus, le riz doit absorber l’eau. 
+    Gardez vers vous le restant d’eau, si toutefois vous aviez besoin d’en rajouter. 
+    Répartir les ingrédients dans la poêle et laisser cuire à feu plutôt doux. Goûtez pour voir le niveau de cuisson du riz.
+    Lorsque le riz est pratiquement cuit, incorporer les coquillages (sans coquille) et décorer en posant sur le dessus les crevettes cuites.
+    Quand cela sera cuit, enlever la poêle du feu et laisser reposer un petit quart d’heure. 
+    Servez dans la même poêle.
+    Bon appétit.
+     Un rosé de provence 
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Il faut une poêle traditionnelle que vous poserez de préférence sur un trépied et vous aurez à <OPER id="o_1">gérer</OPER> le feu de bois puisque vous devrez <OPER id="o_2">augmenter</OPER> ou ralentir par moments. Dans le cadre de la <INGRED id="4">préparation</INGRED>, vous commencez par <INGRED id="4">faire</INGRED> <OPER id="o_3">cuire</OPER> les coquillages dans une casserole et les <INGRED id="3">crevettes</INGRED> dans une autre, dans de l’ <INGRED id="10">eau</INGRED> salée dans laquelle vous aurez rajouté quelques <INGRED id="5">grains de poivre</INGRED>, une <INGRED id="2">demi</INGRED> feuille de <INGRED id="12">laurier</INGRED> et une branche de thym. Quand ils sont ouverts, laissez - les dans l’ <INGRED id="10">eau</INGRED> et ne surtout pas <OPER id="o_4">jeter</OPER> l’ <INGRED id="3">eau</INGRED> qui servira ensuite à la cuisson du <INGRED id="3">riz</INGRED>. Ne <OPER id="o_5">cherchez</OPER> pas à les <OPER id="o_6">cuire</OPER> complètement puisqu’ ils seront rajoutés en fin de cuisson dans la paëlla. <OPER id="o_7">Préparer</OPER> dans un mortier ( de préférence ) le <INGRED id="7">mélange</INGRED> <INGRED id="3">ail</INGRED>, <INGRED id="16">safran</INGRED>, <INGRED id="17">sel</INGRED>. Les <INGRED id="2">tomates</INGRED> sont à <OPER id="o_8">éplucher</OPER> et à <OPER id="o_9">couper</OPER> en <INGRED id="3">petits</INGRED> <INGRED id="1">morceaux</INGRED>, les <INGRED id="3">poivrons</INGRED> sont <INGRED id="11">coupés</INGRED> en lanières. Faire <OPER id="o_10">chauffer</OPER> l’ <INGRED id="5">huile</INGRED>. Quand elle est chaude vous mettrez les ingrédients successivement en fonction du temps de cuisson de chacun. Chaque ingrédient s’ ajoute au précédent. A chaque fois que l’ on met un ingrédient, on sale. On remue en permanence avec une cuillère en bois de préférence avec un manche assez long. L’ ordre dans lequel je procède : <INGRED id="3">viande</INGRED>, calmar, <INGRED id="4">poivrons</INGRED>, <INGRED id="9">haricots verts</INGRED>. Faire <OPER id="o_11">rissoler</OPER> jusqu’ à que tout soit bien doré. Le feu ne doit pas être trop vif, sinon ça brûle et le <INGRED id="2">fonds</INGRED> de la poêle attachera plus tard. <OPER id="o_12">Rajouter</OPER> les <INGRED id="8">tomates</INGRED> et les <INGRED id="10">faire</INGRED> <OPER id="o_13">cuire</OPER> en remuant avec une cuillère en bois, ce qui permet de <OPER id="o_14">déglacer</OPER> la poêle. <OPER id="o_15">Rajouter</OPER> le <INGRED id="7">riz</INGRED>, et le <INGRED id="14">faire</INGRED> <OPER id="o_16">rissoler</OPER> aussi, quand il est doré, <OPER id="o_17">rajouter</OPER> les <INGRED id="3">petits</INGRED> <INGRED id="1">pois</INGRED>, puis le <INGRED id="2">mélange</INGRED>, <INGRED id="12">ail</INGRED> - <INGRED id="16">safran</INGRED> auquel vous aurez rajouté le <INGRED id="5">cognac</INGRED>. <OPER id="o_18">Rajouter</OPER> le <INGRED id="3">vin blanc</INGRED> et l’ <INGRED id="13">eau de cuisson des coquillages</INGRED> et des <INGRED id="6">crevettes</INGRED>, l’ <INGRED id="2">eau</INGRED> doit <OPER id="o_19">couvrir</OPER> les ingrédients, sans plus, le <INGRED id="7">riz</INGRED> doit <OPER id="o_20">absorber</OPER> l’ <INGRED id="14">eau</INGRED>. <OPER id="o_21">Gardez</OPER> vers vous le restant d’ <INGRED id="5">eau</INGRED>, si toutefois vous aviez besoin d’ en <OPER id="o_22">rajouter</OPER>. <OPER id="o_23">Répartir</OPER> les ingrédients dans la poêle et <INGRED id="12">laisser</INGRED> <OPER id="o_24">cuire</OPER> à feu plutôt doux. <OPER id="o_25">Goûtez</OPER> pour voir le niveau de cuisson du <INGRED id="12">riz</INGRED>. Lorsque le <INGRED id="12">riz</INGRED> est pratiquement cuit, <OPER id="o_26">incorporer</OPER> les coquillages ( sans coquille ) et <OPER id="o_27">décorer</OPER> en posant sur le dessus les crevettes cuites. Quand cela sera cuit, <OPER id="o_28">enlever</OPER> la poêle du feu et <INGRED id="12">laisser</INGRED> <OPER id="o_29">reposer</OPER> un petit <INGRED id="10">quart</INGRED> d’ heure. Servez dans la même poêle. Bon appétit. Un rosé de provence
+  </annotation>
+  <annotation methode="crf">
+  Il faut une poêle traditionnelle que vous poserez de préférence sur un trépied et vous aurez à gérer le feu de bois puisque vous devrez augmenter <INGRED>ou</INGRED> ralentir par moments. Dans le cadre de la préparation <INGRED>,</INGRED> vous commencez par faire cuire les coquillages dans une casserole et les <INGRED>crevettes</INGRED> dans une autre <INGRED>,</INGRED> dans de l’ <INGRED>eau</INGRED> salée dans laquelle vous aurez rajouté quelques grains de <INGRED>poivre</INGRED> <INGRED>,</INGRED> une <INGRED>demi</INGRED> feuille de <INGRED>laurier</INGRED> et une branche de <INGRED>thym</INGRED>. Quand ils sont ouverts <INGRED>,</INGRED> laissez - les dans l’ <INGRED>eau</INGRED> et ne surtout pas jeter l’ <INGRED>eau</INGRED> qui servira ensuite à la cuisson du <INGRED>riz</INGRED> <INGRED>.</INGRED> Ne cherchez pas à les cuire complètement puisqu’ ils seront rajoutés en fin de cuisson dans la paëlla. Préparer dans un mortier ( de préférence ) le <INGRED>mélange</INGRED> <INGRED>ail</INGRED> <INGRED>,</INGRED> <INGRED>safran</INGRED> <INGRED>,</INGRED> <INGRED>sel</INGRED> <INGRED>.</INGRED> Les <INGRED>tomates</INGRED> sont à éplucher et à couper en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> <INGRED>,</INGRED> les <INGRED>poivrons</INGRED> sont coupés en lanières <INGRED>.</INGRED> Faire chauffer l’ <INGRED>huile</INGRED>. Quand elle est chaude vous mettrez les ingrédients successivement en fonction du temps de cuisson de chacun. Chaque ingrédient s’ ajoute au précédent <INGRED>.</INGRED> A chaque fois que l’ on met un ingrédient <INGRED>,</INGRED> on sale. On remue en permanence avec une cuillère en bois de préférence avec un manche assez long. L’ ordre dans lequel je procède <INGRED>:</INGRED> <INGRED>viande</INGRED> <INGRED>,</INGRED> calmar <INGRED>,</INGRED> <INGRED>poivrons</INGRED> <INGRED>,</INGRED> <INGRED>haricots verts</INGRED>. Faire rissoler jusqu’ à que tout soit bien doré. Le feu ne doit pas être trop vif <INGRED>,</INGRED> sinon ça brûle et le fonds de la poêle attachera plus tard. Rajouter les <INGRED>tomates</INGRED> et les faire cuire en remuant avec une cuillère en bois <INGRED>,</INGRED> ce qui permet de déglacer la poêle <INGRED>.</INGRED> Rajouter le <INGRED>riz</INGRED> <INGRED>,</INGRED> et le faire rissoler aussi <INGRED>,</INGRED> quand il est doré <INGRED>,</INGRED> rajouter les <INGRED>petits</INGRED> <INGRED>pois</INGRED> <INGRED>,</INGRED> puis le <INGRED>mélange</INGRED> <INGRED>,</INGRED> <INGRED>ail</INGRED> - safran auquel vous aurez rajouté le <INGRED>cognac</INGRED> <INGRED>.</INGRED> Rajouter le <INGRED>vin blanc</INGRED> et l’ <INGRED>eau</INGRED> de cuisson des coquillages et des <INGRED>crevettes</INGRED> <INGRED>,</INGRED> l’ <INGRED>eau</INGRED> doit couvrir les ingrédients <INGRED>,</INGRED> sans plus <INGRED>,</INGRED> le <INGRED>riz</INGRED> doit absorber l’ <INGRED>eau</INGRED> <INGRED>.</INGRED> Gardez vers vous le restant d’ <INGRED>eau</INGRED> <INGRED>,</INGRED> si toutefois vous aviez besoin d’ en rajouter. Répartir les ingrédients dans la poêle et laisser cuire à feu plutôt doux. Goûtez pour voir le niveau de cuisson du <INGRED>riz</INGRED> <INGRED>.</INGRED> Lorsque le <INGRED>riz</INGRED> est pratiquement cuit, incorporer les coquillages ( sans coquille ) et décorer en posant sur le dessus les <INGRED>crevettes</INGRED> cuites <INGRED>.</INGRED> Quand cela sera cuit <INGRED>,</INGRED> enlever la poêle du feu et laisser reposer un <INGRED>petit</INGRED> quart d’ heure. Servez dans la même poêle <INGRED>.</INGRED> Bon appétit. Un rosé de provence
+  </annotation>
+  <complexite>
+    <temps>f(X) = 12.6818181818182*X + 18.3181818181818</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 9*X + 20</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['riz']	 id:1	 quantité:600	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['calamars']	 id:2	 quantité:400	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['fruits de mer nettoyés', 'fruits']	 id:3	 quantité:750	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crevette par personne', 'crevette']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['poivrons rouge', 'poivrons']	 id:5	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['prévoir un morceau de viande par personne', 'prévoir']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivron vert', 'poivron']	 id:7	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['tomates']	 id:8	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['haricots verts', 'haricots']	 id:9	 quantité:400	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['petits pois écossés', 'pois']	 id:10	 quantité:300	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['ail']	 id:11	 quantité:3	 unité:gousses d'	 denombrable:True	 recipient:3*X
+ingredient:["huile d'olive", 'huile']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['eau de cuisson des coquillages', 'eau']	 id:13	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crevettes']	 id:14	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:15	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['safran']	 id:16	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['vin blanc', 'vin']	 id:17	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['cognac']	 id:18	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:gérer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:augmenter	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_3	 ingrédients_ralatifs:['4', '3', '10', '5', '2', '12']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:jeter	 id:o_4	 ingrédients_ralatifs:['3', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chercher	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:préparer	 id:o_7	 ingrédients_ralatifs:['7', '3', '16', '17']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:éplucher	 id:o_8	 ingrédients_ralatifs:['3', '1']	 nombre_opération_atomique:1+1	 temps:1*X*1+1*X*1	 recipient:0
+operation:couper	 id:o_9	 ingrédients_ralatifs:['3', '1']	 nombre_opération_atomique:1+1	 temps:1*X*1+1*X*1	 recipient:1
+operation:chauffer	 id:o_10	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:rissoler	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rajouter	 id:o_12	 ingrédients_ralatifs:['8', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_13	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:déglacer	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:rajouter	 id:o_15	 ingrédients_ralatifs:['7', '14', '3', '1', '2', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rissoler	 id:o_16	 ingrédients_ralatifs:['14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rajouter	 id:o_17	 ingrédients_ralatifs:['3', '1', '2', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rajouter	 id:o_18	 ingrédients_ralatifs:['3', '13', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:absorber	 id:o_20	 ingrédients_ralatifs:['14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garder	 id:o_21	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rajouter	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:répartir	 id:o_23	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_24	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:goûter	 id:o_25	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_26	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:décorer	 id:o_27	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enlever	 id:o_28	 ingrédients_ralatifs:['12', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_29	 ingrédients_ralatifs:['12', '10']	 nombre_opération_atomique:1	 temps:30	 recipient:1
+]]>
+</operation_trouve>
+</recette>

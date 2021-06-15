@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23742">
+  <titre>Crumble aux cerises</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>350 g de cerises dénoyautées</p>
+    <p>50 g de cassonade ou sucre brun </p>
+    <p>50 g de sucre semoule </p>
+    <p>100 g de farine sans grumeaux </p>
+    <p>100 g de beurre froid</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Répartissez les cerises dans un moule à tarte beurré. 
+    Mélangez la cassonade ou sucre brun, le sucre semoule, la farine et le beurre coupé en morceaux du bout des doigts --> jusqu'à ce que vous obteniez une pâte émiettée : un peu comme du sable.. 
+    Répartissez celle-ci sur les cerises.
+    Enfournez le crumble 30 minutes au four préchauffé à 190°C et laissez refroidir avant de servir.
+    Essayez avec de la pêche, des abricots, des fruits rouges, etc.
+  ]]>
+  </preparation>
+</recette>

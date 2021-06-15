@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10592">
+  <titre>Galette au Goumeau de Saint-Amour</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>80 g de beurre</p>
+    <p>20 g de saindoux (ou 100 g de beurre si vous n'avez pas de saindoux)</p>
+    <p>2 oeufs</p>
+    <p>10 cl de crème épaisse</p>
+    <p>farine</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettez dans un saladier beurre et saindoux avec deux ou trois cuillerées d'eau bouillante.
+    Salez, ajoutez  un oeuf entier, mélanger bien le tout et, en y incorporant de la farine ordinaire, faites en une pâte assez ferme.
+    Etendez là au rouleau, dressez-la sur une tôle en lui laissant un ourlet de un ou deux centimètre de hauteur.
+    Versez enfin dessus un goumeau composé d'un oeuf entier et d'un demi verre de crème fraîche et épaisse additionnée de sel et d'une pointe de poivre.
+    Faire cuire pendant 20 min environ dans un four très chaud 210°C (thermostat 7).Recette Franc-Comtoise d'avant 1927. C'est presque une recette bressane elle a une une certaine parenté avec la quiche comtoise. Le saindoux permet d'obtenir une pâte bien croustillante.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Mettez</OPER> dans un saladier <INGRED id="4">beurre</INGRED> et <INGRED id="2">saindoux</INGRED> avec deux ou trois cuillerées d'<INGRED id="2">eau bouillante</INGRED>. <OPER id="o_2">Salez</OPER>, <OPER id="o_3">ajoutez</OPER> un <INGRED id="2">oeuf</INGRED> entier, <OPER id="o_4">mélanger</OPER> bien le tout et, en y incorporant de la <INGRED id="4">farine</INGRED> ordinaire, faites en une <INGRED id="5">pâte</INGRED> assez ferme. <OPER id="o_5">Etendez</OPER> là au rouleau, <OPER id="o_6">dressez</OPER> - la sur une tôle en lui laissant un ourlet de un ou deux centimètre de hauteur. <OPER id="o_7">Versez</OPER> enfin dessus un goumeau composé d'un <INGRED id="5">oeuf</INGRED> entier et d'un demi verre de <INGRED id="3">crème fraîche</INGRED> et épaisse additionnée de sel et d'une pointe de poivre. Faire <OPER id="o_8">cuire</OPER> pendant 20 min environ dans un four très chaud 210 ° C ( thermostat 7).Recette Franc-Comtoise d'avant 1927. C'est presque une recette bressane elle a une une certaine parenté avec la quiche comtoise. Le <INGRED id="2">saindoux</INGRED> permet d'obtenir une <INGRED id="1">pâte</INGRED> bien croustillante.
+  </annotation>
+  <annotation methode="crf">
+  Mettez dans un saladier <INGRED>beurre</INGRED> et <INGRED>saindoux</INGRED> avec <INGRED>deux</INGRED> <INGRED>ou</INGRED> trois <INGRED>cuillerées</INGRED> d'<INGRED>eau</INGRED> bouillante <INGRED>.</INGRED> Salez <INGRED>,</INGRED> ajoutez un <INGRED>oeuf</INGRED> entier <INGRED>,</INGRED> mélanger bien le tout et <INGRED>,</INGRED> en y incorporant de la <INGRED>farine</INGRED> ordinaire <INGRED>,</INGRED> faites en une <INGRED>pâte</INGRED> assez ferme. Etendez là au <INGRED>rouleau</INGRED> <INGRED>,</INGRED> dressez - la sur une tôle en lui laissant un <INGRED>ourlet</INGRED> de un <INGRED>ou</INGRED> <INGRED>deux</INGRED> centimètre de hauteur. Versez enfin dessus un goumeau composé d'un <INGRED>oeuf</INGRED> entier et d'un <INGRED>demi</INGRED> <INGRED>verre</INGRED> de <INGRED>crème fraîche</INGRED> et épaisse additionnée de <INGRED>sel</INGRED> et d'une <INGRED>pointe de poivre</INGRED>. Faire cuire pendant 20 min <INGRED>environ</INGRED> dans un four très chaud 210 ° C ( thermostat 7).Recette Franc-Comtoise d'avant 1927. C'est presque une recette bressane elle <INGRED>a</INGRED> une une certaine parenté avec la quiche comtoise. Le <INGRED>saindoux</INGRED> permet d'obtenir une <INGRED>pâte</INGRED> bien croustillante.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 2.0*X + 6.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 2*X + 10</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['beurre']	 id:1	 quantité:80	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['saindoux']	 id:2	 quantité:20	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:3	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['crème épaisse', 'crème']	 id:4	 quantité:10	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mettre	 id:o_1	 ingrédients_ralatifs:['4', '2', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:saler	 id:o_2	 ingrédients_ralatifs:['2', '4', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_3	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_4	 ingrédients_ralatifs:['4', '5']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:etender	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:dresser	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_7	 ingrédients_ralatifs:['5', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+]]>
+</operation_trouve>
+</recette>

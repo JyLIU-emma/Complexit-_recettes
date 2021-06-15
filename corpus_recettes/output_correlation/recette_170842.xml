@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170842">
+  <titre>Gâteau aux trois chocolats</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 oeuf</p>
+    <p>30 g de sucre</p>
+    <p>20 g de poudre de noisette</p>
+    <p>1 cuillère à soupe rase de farine</p>
+    <p>15 g de beurre fondu</p>
+    <p>1/2 cuillère à café de levure chimique </p>
+    <p>100 g de pralinoise</p>
+    <p>5 petite crêpes "gavottes"</p>
+    <p>20 g de pralin</p>
+    <p>50 g de chocolat noir</p>
+    <p>50 g de chocolat au lait</p>
+    <p>50 g de chocolat blanc</p>
+    <p>30 cl de crème fraîche</p>
+    <p>1 sachet de "fixe chantilly" (6,5 g)</p>
+    <p>20 g de cacao en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Première couche du gâteau :Mélanger oeuf et sucre jusqu'à ce que le mélange blanchisse. Puis ajouter farine, levure, poudre de noisette et beurre fondu. Mélanger.
+    Etaler cette pâte dans un cercle en inox sur du papier sulfurisé graissé. Cuire environ 12 min à 180° (thermostat 6). Laisser reposer 10 min.
+    Deuxième couche du gâteau :Faire fondre la pralinoise au bain-marie puis ajouter les crêpes en petit morceaux et le pralin.
+    Mettre sur la première couche et poser au réfrigérateur 30 min.
+    Troisième couche du gâteau :Battre la crème en chantilly au fouet électrique.Réserver 1/3 de la chantilly dans un autre saladier et ajouter le sachet de "fixe chantilly". Mélanger, puis tous mettre au réfrigérateur.
+    Faire fondre au bain-marie le chocolat noir. Une fois fondu, ajouter la moitié de la chantilly sans "fixe chantilly".Déposer cette couche sur le gâteau et ranger au frais.
+    Quatrième couche :Faire fondre au bain-marie le chocolat au lait. Une fois fondue, ajouter le reste de chantilly sans "fixe". Faire une quatrième couche sur le gâteau, puis remettre au réfrigérateur.
+    Cinquième couche :Faire fondre au bain marie le chocolat blanc. Une fois fondu, ajouter la chantilly contenant le "fixe". Etaler la cinquième couche sur le gâteau.
+    Placer le tout au congélateur 3 heure minimum.
+    Puis, le jour de la dégustation, saupoudrer le chocolat en poudre sur le dessus.
+    Puis enlever le cercle. Décorer selon votre imagination et déguster.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Première couche du gâteau : <OPER id="o_1">Mélanger</OPER> <INGRED id="1">oeuf</INGRED> et <INGRED id="12">sucre</INGRED> jusqu'à ce que le <INGRED id="2">mélange</INGRED> blanchisse. Puis <OPER id="o_2">ajouter</OPER> <INGRED id="2">farine</INGRED>, <INGRED id="4">levure</INGRED>, <INGRED id="3">poudre de noisette</INGRED> et <INGRED id="5">beurre fondu</INGRED>. <OPER id="o_3">Mélanger</OPER>. <OPER id="o_4">Etaler</OPER> cette <INGRED id="1">pâte</INGRED> dans un cercle en inox sur du papier sulfurisé graissé. <OPER id="o_5">Cuire</OPER> <INGRED id="1">environ</INGRED> 12 min à 180 ° ( thermostat 6 ). Laisser <OPER id="o_6">reposer</OPER> 10 min. Deuxième couche du gâteau : Faire <OPER id="o_7">fondre</OPER> la <INGRED id="6">pralinoise</INGRED> au bain - marie puis <OPER id="o_8">ajouter</OPER> les <INGRED id="6">crêpes</INGRED> en petit <INGRED id="1">morceaux</INGRED> et le <INGRED id="8">pralin</INGRED>. <OPER id="o_9">Mettre</OPER> sur la première couche et <OPER id="o_10">poser</OPER> au réfrigérateur 30 min. Troisième couche du gâteau : <OPER id="o_11">Battre</OPER> la crème en chantilly au fouet électrique. Réserver 1/3 de la chantilly dans un autre <INGRED id="1">saladier</INGRED> et <OPER id="o_12">ajouter</OPER> le sachet de <INGRED id="14">" fixe chantilly "</INGRED>. <OPER id="o_13">Mélanger</OPER>, puis tous <OPER id="o_14">mettre</OPER> au réfrigérateur. Faire <OPER id="o_15">fondre</OPER> au bain - marie le <INGRED id="5">chocolat noir</INGRED>. Une fois fondu, <OPER id="o_16">ajouter</OPER> la moitié de la chantilly sans " <INGRED id="14">fixe</INGRED> chantilly". <OPER id="o_17">Déposer</OPER> cette couche sur le gâteau et <OPER id="o_18">ranger</OPER> au frais. Quatrième couche : Faire <OPER id="o_19">fondre</OPER> au bain - marie le <INGRED id="11">chocolat au lait</INGRED>. Une fois fondue, <OPER id="o_20">ajouter</OPER> le <INGRED id="1">reste</INGRED> de chantilly sans " <INGRED id="14">fixe</INGRED> ". Faire une quatrième couche sur le gâteau, puis <OPER id="o_21">remettre</OPER> au réfrigérateur. Cinquième couche : Faire <OPER id="o_22">fondre</OPER> au bain marie le <INGRED id="1">chocolat blanc</INGRED>. Une fois fondu, <OPER id="o_23">ajouter</OPER> la chantilly contenant le " <INGRED id="14">fixe</INGRED> ". <OPER id="o_24">Etaler</OPER> la cinquième couche sur le gâteau. <OPER id="o_25">Placer</OPER> le tout au congélateur 3 heure minimum. Puis, le jour de la dégustation, <OPER id="o_26">saupoudrer</OPER> le <INGRED id="2">chocolat en poudre</INGRED> sur le dessus. Puis <OPER id="o_27">enlever</OPER> le cercle. <OPER id="o_28">Décorer</OPER> selon votre imagination et déguster.
+  </annotation>
+  <annotation methode="crf">
+  Première couche du gâteau <INGRED>:</INGRED> Mélanger <INGRED>oeuf</INGRED> et <INGRED>sucre</INGRED> jusqu'à ce que le <INGRED>mélange</INGRED> blanchisse <INGRED>.</INGRED> Puis ajouter <INGRED>farine</INGRED> <INGRED>,</INGRED> <INGRED>levure</INGRED> <INGRED>,</INGRED> <INGRED>poudre de noisette</INGRED> et <INGRED>beurre fondu</INGRED>. Mélanger. Etaler cette <INGRED>pâte</INGRED> dans un cercle en inox sur du papier sulfurisé graissé <INGRED>.</INGRED> Cuire <INGRED>environ</INGRED> 12 min à 180 ° ( thermostat 6 ). Laisser reposer 10 min. Deuxième couche du gâteau <INGRED>:</INGRED> Faire fondre la pralinoise au bain - marie puis ajouter les crêpes en <INGRED>petit</INGRED> <INGRED>morceaux</INGRED> et le <INGRED>pralin</INGRED> <INGRED>.</INGRED> Mettre sur la première couche et poser au réfrigérateur 30 min. Troisième couche du gâteau <INGRED>:</INGRED> Battre la <INGRED>crème</INGRED> en chantilly au fouet électrique. Réserver 1/3 de la chantilly dans un autre saladier et ajouter le sachet de " fixe chantilly ". Mélanger <INGRED>,</INGRED> puis tous mettre au réfrigérateur. Faire fondre au bain - marie le <INGRED>chocolat noir</INGRED> <INGRED>.</INGRED> Une fois fondu <INGRED>,</INGRED> ajouter la moitié de la chantilly sans " fixe chantilly". Déposer cette couche sur le gâteau et ranger au <INGRED>frais</INGRED> <INGRED>.</INGRED> Quatrième couche <INGRED>:</INGRED> Faire fondre au bain - marie le <INGRED>chocolat</INGRED> au <INGRED>lait</INGRED> <INGRED>.</INGRED> Une fois fondue <INGRED>,</INGRED> ajouter le <INGRED>reste</INGRED> de chantilly sans " fixe ". Faire une quatrième couche sur le gâteau <INGRED>,</INGRED> puis remettre au réfrigérateur. Cinquième couche <INGRED>:</INGRED> Faire fondre au bain marie le <INGRED>chocolat</INGRED> <INGRED>blanc</INGRED> <INGRED>.</INGRED> Une fois fondu <INGRED>,</INGRED> ajouter la chantilly contenant le " fixe ". Etaler la cinquième couche sur le gâteau. Placer le tout au congélateur 3 heure minimum. Puis <INGRED>,</INGRED> le jour de la dégustation <INGRED>,</INGRED> saupoudrer le <INGRED>chocolat en poudre</INGRED> sur le dessus. Puis enlever le cercle. Décorer selon votre imagination et déguster <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 11.7894736842105*X + 16.2105263157895</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 8*X + 26</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['oeuf']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sucre']	 id:2	 quantité:30	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['poudre de noisette', 'poudre']	 id:3	 quantité:20	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:4	 quantité:1	 unité:cuillère à soupe rase de	 denombrable:True	 recipient:1*X
+ingredient:['beurre fondu', 'beurre']	 id:5	 quantité:15	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['levure chimique', 'levure']	 id:6	 quantité:1/2	 unité:cuillère à café de	 denombrable:False	 recipient:1
+ingredient:['pralinoise']	 id:7	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crêpes " gavottes "', 'crêpes']	 id:8	 quantité:5	 unité:non_precis	 denombrable:True	 recipient:5*X
+ingredient:['pralin']	 id:9	 quantité:20	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['chocolat noir', 'chocolat']	 id:10	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['chocolat au lait', 'chocolat']	 id:11	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['chocolat blanc', 'chocolat']	 id:12	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:13	 quantité:30	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['" fixe chantilly "', 'fixe']	 id:14	 quantité:1	 unité:sachet de	 denombrable:True	 recipient:1*X
+ingredient:['cacao en poudre', 'cacao']	 id:15	 quantité:20	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mélanger	 id:o_1	 ingrédients_ralatifs:['1', '12', '2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['2', '4', '3', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:etaler	 id:o_4	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:cuire	 id:o_5	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:reposer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:fondre	 id:o_7	 ingrédients_ralatifs:['6', '6', '1', '8']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['6', '1', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:poser	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:['14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mettre	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:fondre	 id:o_15	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:ajouter	 id:o_16	 ingrédients_ralatifs:['14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déposer	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ranger	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fondre	 id:o_19	 ingrédients_ralatifs:['11']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:ajouter	 id:o_20	 ingrédients_ralatifs:['1', '14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remettre	 id:o_21	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:fondre	 id:o_22	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:ajouter	 id:o_23	 ingrédients_ralatifs:['14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:etaler	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:placer	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saupoudrer	 id:o_26	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enlever	 id:o_27	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:décorer	 id:o_28	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

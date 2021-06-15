@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22676">
+  <titre>Crépée de pomme de terre</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de pommes de terre</p>
+    <p>3 ou 4 oeufs (selon la grosseur) </p>
+    <p>2 gros oignons bien frais (durs) </p>
+    <p>du persil</p>
+    <p>sel, poivre</p>
+    <p>noix de muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les pommes de terre et les râper finement, ainsi que les oignons. 
+    Mélanger en ajoutant les oeufs, le persil haché, le sel, le poivre et la noix de muscade. 
+    Faire chauffer de l'huile à feu vif dans une poêle. 
+    Avec une grosse cuillère, mettre dans l'huile bouillante la préparation en faisant des galettes plates. 
+    Faire frire des 2 côtés environ 4 à 5 mn. Mettre sur du papier absorbant. 
+    Manger chaud ou tiède. 
+    NB. A la place des oignons, certains mettent du poireau haché menu.
+    C'est une recette typiquement lorraine, qui peut devenir un  plat principal accompagné d'une salade.
+  ]]>
+  </preparation>
+</recette>

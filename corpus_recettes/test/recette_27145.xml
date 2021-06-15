@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27145">
+  <titre>Oeufs au vin et aux oignons frits</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 oeufs pochés</p>
+    <p>4 tranches de pain de mie</p>
+    <p>4 oignons</p>
+    <p>1 gousse d'ail</p>
+    <p>100 g de lardons</p>
+    <p>20 g de beurre</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>75 cl de vin rouge</p>
+    <p>1 pointe de muscade</p>
+    <p>1 bouquet garni</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les lardons jusqu'à ce qu'ils soient dorés.
+    Dans une cocotte, faire une fondue avec les oignons coupés en rondelles, l’ail ciselé et les lardons. Arroser de vin et assaisonner. Saupoudrer de muscade et ajouter le bouquet garni. Faire mijoter 30 minutes.
+    Faire frire les oignons l'huile.
+    Mélanger le beurre avec la farine et verser dans le jus de cuisson. Bien mélanger et porter la sauce à ébullition.
+    Faire dorer les tranches de pain dans un grille-pain. Y déposer les oignons frits, les oeufs pochés et la sauce.
+  ]]>
+  </preparation>
+</recette>

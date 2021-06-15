@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24622">
+  <titre>Fraises à l'huile d'olive</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 ravier de fraises (500 g) </p>
+    <p>4 cuillères à soupe d'huile d'olive (vierge extra, 1 ère pression à froid) </p>
+    <p>le jus de 2 citrons</p>
+    <p>de la menthe fraîche ciselée</p>
+    <p>du sucre cristallisé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les fraises en morceaux. 
+    Les mettre dans un saladier et les faire pleurer au frigidaire (minimum 30 mn) avec le sucre et le jus de citron. 
+    Servir dans des assiettes avec le jus. 
+    Ajouter 1 cuillère à soupe d'huile d'olive par assiette. 
+    Ajouter la menthe ciselée
+  ]]>
+  </preparation>
+</recette>

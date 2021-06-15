@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21745">
+  <titre>Choux à la chantilly nappés de chocolat chaud</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la pâte à choux :</p>
+    <p>6 cl d’eau</p>
+    <p>25 g de beurre</p>
+    <p>35 g de farine</p>
+    <p>1 œufs</p>
+    <p>1 pincée de sel</p>
+    <p>Pour la garniture :</p>
+    <p>125 g de crème fraîche</p>
+    <p>1 sachet de sucre vanilléPour le nappage de chocolat :</p>
+    <p>100 g de chocolat fondant</p>
+    <p>5 cl de lait  </p>
+    <p>15 g de beurre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 200°C (thermostat 6/7).
+    Préparer d’abord la pâte à choux :
+    Mettre l’eau à bouillir dans une casserole avec le beurre et le sel.
+    Incorporer la farine d’un seul coup sans cesser de remuer et à feu doux.
+    Une fois la pâte desséchée, ajouter les œufs entiers un à un et battre jusqu’à ce que la pâte soit homogène.
+    Verser la pâte dans une poche à douille à embout large, puis faire des petits tas sur la plaque du four beurrée en les espaçant suffisamment pour qu’ils puissent gonfler sans se toucher.
+    Enfourner pour 20 minutes de cuisson en surveillant.
+    Les laisser reposer un peu dans le four éteint, la porte ouverte.
+    Les sortir puis les laisser refroidir à température ambiante.
+    Pendant ce temps, battre la crème fraîche en chantilly avec le sucre pour fourrer les choux.
+    Les couper en 2 à l’aide d’une paire de ciseaux, puis les fourrer de chantilly à l'aide d'une cuillère.
+    Une fois les choux farcis, préparer enfin le nappage de chocolat chaud :
+    Dans une casserole, faire chauffer à feu doux le lait avec le chocolat et le beurre sans cesser de remuer jusqu’à ce qu’il soit bien fondant.
+    Lorsqu’il est liquide, napper les choux farcis de chantilly et servir à l’assiette.
+  ]]>
+  </preparation>
+</recette>

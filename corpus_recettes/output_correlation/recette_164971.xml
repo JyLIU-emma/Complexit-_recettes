@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164971">
+  <titre>Lasagnes épinards, chèvre, lardons, jambon cru</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>-Plaques de lasagne (précuites)</p>
+    <p>530 g. d'épinards en branches (poids  en boite, net égoutés)</p>
+    <p>2 crottins de chèvres</p>
+    <p>1 boite de lardons allumettes</p>
+    <p>2 tranches de jambon cru</p>
+    <p>1 oignon</p>
+    <p>Pour la béchamel:</p>
+    <p> </p>
+    <p>500 ml de lait 1/2 écrémé</p>
+    <p>2 c. à soupe de farine</p>
+    <p>30 g. de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Faire revenir les lardons dans une poêle sans matière grasse, puis ajouter l'oignon émincé dans leur gras. En fin de cuisson, quand les lardons et l'oignon sont dorés, mettre le jambon cru, coupé en morceaux.   RESERVER
+     
+    2) Faire la béchamel : d'abord le beurre et la farine pour faire un roux; mettre le lait d'un seul coup. Saler, Poivrer.
+    Faire épaissir à votre convenance, mais il ne faut pas qu'elle soit trop épaisse pour permettre la cuisson des lasagnes par la suite !
+     
+    3) Incorporer un des deux crottins, préalablement coupé en morceaux, à la béchamel.
+     
+    4) Quand le chèvre est fondu, ajouter les épinards au mélange.
+     
+    5) Dans un moule à lasagnes (moule à cake pour moi!), mettre une plaque de lasagne au fond puis:
+                                             - une couche du mélange épinard,
+                                             - quelques lardons/jambon/oignon
+                                             - 3 petites tranches espacées du   2ème crottin
+     
+    Et ainsi de suite jusqu'en haut, en terminant par une couche de garniture (épinards/ lardons/tranches de chèvre restantes)
+    Enfin, saupoudrer de gruyère rapé selon votre goût.
+     
+    Enfourner pendant 40 minutes environs, à Thermostat 7
+     
+    Déguster avec une petite salade de mâche, ou simple salade verte... c'est un régal!Ne pas égoutter complètement les épinards afin que l'eau qu'ils rendront permette aux plaques de lasagnes d'être plus moelleuses !
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  1 ) Faire <OPER id="o_1">revenir</OPER> les <INGRED id="1">lardons</INGRED> dans une poêle sans matière grasse, puis <OPER id="o_2">ajouter</OPER> l'<INGRED id="3">oignon émincé</INGRED> dans leur gras. En fin de cuisson, quand les lardons et l'<INGRED id="4">oignon</INGRED> sont dorés, <OPER id="o_3">mettre</OPER> le <INGRED id="3">jambon cru</INGRED>, coupé en <INGRED id="1">morceaux</INGRED>. <OPER id="o_4">RESERVER</OPER> 2 ) Faire la béchamel : d'abord le <INGRED id="7">beurre</INGRED> et la <INGRED id="4">farine</INGRED> pour faire un roux ; <OPER id="o_5">mettre</OPER> le <INGRED id="4">lait</INGRED> d'un seul coup. <OPER id="o_6">Saler</OPER>, <OPER id="o_7">Poivrer</OPER>. Faire <OPER id="o_8">épaissir</OPER> à votre convenance, mais il ne faut pas qu'elle soit trop épaisse pour permettre la cuisson des <INGRED id="8">lasagnes</INGRED> par la suite ! 3 ) <OPER id="o_9">Incorporer</OPER> un des deux <INGRED id="3">crottins</INGRED>, préalablement coupé en <INGRED id="1">morceaux</INGRED>, à la béchamel. 4 ) Quand le chèvre est fondu, <OPER id="o_10">ajouter</OPER> les épinards au <INGRED id="2">mélange</INGRED>. 5 ) Dans un moule à <INGRED id="8">lasagnes</INGRED> ( moule à cake pour moi ! ), <OPER id="o_11">mettre</OPER> une plaque de lasagne au <INGRED id="4">fond</INGRED> puis : - une couche du <INGRED id="7">mélange</INGRED> épinard, - quelques lardons / jambon / <INGRED id="2">oignon</INGRED> - 3 petites <INGRED id="4">tranches</INGRED> espacées du 2ème crottin Et ainsi de suite jusqu'en haut, en terminant par une couche de garniture ( épinards/ <INGRED id="5">lardons</INGRED> / <INGRED id="4">tranches</INGRED> de chèvre restantes ) Enfin, <OPER id="o_12">saupoudrer</OPER> de <INGRED id="3">gruyère rapé</INGRED> selon votre <INGRED id="7">goût</INGRED>. <OPER id="o_13">Enfourner</OPER> pendant 40 minutes environs, à Thermostat 7 Déguster avec une <INGRED id="2">petite</INGRED> salade de mâche, ou simple salade verte... c'est un régal!Ne pas <OPER id="o_14">égoutter</OPER> complètement les épinards afin que l'<INGRED id="8">eau</INGRED> qu'ils rendront permette aux plaques de <INGRED id="8">lasagnes</INGRED> d'être plus moelleuses !
+  </annotation>
+  <annotation methode="crf">
+  1 ) Faire revenir les <INGRED>lardons</INGRED> dans une poêle sans <INGRED>matière grasse</INGRED> <INGRED>,</INGRED> puis ajouter l'<INGRED>oignon émincé</INGRED> dans leur gras. En fin de cuisson <INGRED>,</INGRED> quand les <INGRED>lardons</INGRED> et l'<INGRED>oignon</INGRED> sont dorés <INGRED>,</INGRED> mettre le <INGRED>jambon</INGRED> cru <INGRED>,</INGRED> <INGRED>coupé</INGRED> en <INGRED>morceaux</INGRED> <INGRED>.</INGRED> RESERVER 2 ) Faire la béchamel <INGRED>:</INGRED> d'abord le <INGRED>beurre</INGRED> et la <INGRED>farine</INGRED> pour faire un roux ; mettre le <INGRED>lait</INGRED> d'un seul coup. Saler <INGRED>,</INGRED> Poivrer. Faire épaissir à votre convenance <INGRED>,</INGRED> mais il ne faut pas qu'elle soit trop épaisse pour permettre la cuisson des lasagnes par la suite ! 3 ) Incorporer un des <INGRED>deux</INGRED> crottins <INGRED>,</INGRED> préalablement coupé en <INGRED>morceaux</INGRED> <INGRED>,</INGRED> à la <INGRED>béchamel</INGRED> <INGRED>.</INGRED> 4 ) Quand le <INGRED>chèvre</INGRED> est fondu <INGRED>,</INGRED> ajouter les <INGRED>épinards</INGRED> au <INGRED>mélange</INGRED> <INGRED>.</INGRED> 5 ) Dans un moule à lasagnes ( moule à cake pour moi ! ) <INGRED>,</INGRED> mettre une plaque de lasagne au <INGRED>fond</INGRED> puis <INGRED>:</INGRED> - une couche du <INGRED>mélange</INGRED> <INGRED>épinard</INGRED> <INGRED>,</INGRED> - quelques <INGRED>lardons</INGRED> / <INGRED>jambon</INGRED> / <INGRED>oignon</INGRED> - 3 petites tranches espacées du 2ème crottin Et ainsi de suite jusqu'en haut <INGRED>,</INGRED> en terminant par une couche de garniture ( épinards/ <INGRED>lardons</INGRED> / tranches de <INGRED>chèvre</INGRED> restantes ) Enfin <INGRED>,</INGRED> saupoudrer de <INGRED>gruyère rapé</INGRED> selon votre goût <INGRED>.</INGRED> Enfourner pendant 40 minutes environs <INGRED>,</INGRED> à Thermostat 7 Déguster avec une petite salade de mâche <INGRED>,</INGRED> <INGRED>ou</INGRED> simple salade verte... c'est un régal!Ne pas égoutter complètement les épinards afin que l'<INGRED>eau</INGRED> qu'ils rendront permette aux plaques de lasagnes d'être plus moelleuses !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 13.9869036482694*X + 0.0130963517305893</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 1068*X + 5</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['-Plaques de lasagne', '-Plaques']	 id:1	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["g. d'épinards en branches", 'g']	 id:2	 quantité:530	 unité:non_precis	 denombrable:True	 recipient:530*X
+ingredient:['crottins de chèvres', 'crottins']	 id:3	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['boite de lardons allumettes', 'boite']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['jambon cru', 'jambon']	 id:5	 quantité:2	 unité:tranches de	 denombrable:True	 recipient:2*X
+ingredient:['oignon']	 id:6	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['écrémé']	 id:7	 quantité:500	 unité:non_precis	 denombrable:True	 recipient:500*X
+ingredient:['c. à soupe de farine', 'c']	 id:8	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['g. de beurre', 'g']	 id:9	 quantité:30	 unité:non_precis	 denombrable:True	 recipient:30*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:revenir	 id:o_1	 ingrédients_ralatifs:['1', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_3	 ingrédients_ralatifs:['3', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:reserver	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_5	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:saler	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:épaissir	 id:o_8	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_9	 ingrédients_ralatifs:['3', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_11	 ingrédients_ralatifs:['8', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:saupoudrer	 id:o_12	 ingrédients_ralatifs:['3', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfourner	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:égoutter	 id:o_14	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

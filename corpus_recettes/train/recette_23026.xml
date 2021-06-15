@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23026">
+  <titre>Feuilles d'automne</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Carpaccio de boeuf à en couvrir la plaque du four (400/500 g environ) </p>
+    <p>1 salade rouge de Trévise</p>
+    <p>Parmesan en copeaux</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Placer le carpaccio sur la plaque du four. 
+    Le couvrir avec la salade séparée en petites feuilles
+    Parsemer de copeaux de Parmesan. 
+    Y verser un filet d'huile. 
+    Saler, poivrer et passer au four sous le grill, à 200°C, 5 mn maximum.
+  ]]>
+  </preparation>
+</recette>

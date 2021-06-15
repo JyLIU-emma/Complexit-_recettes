@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16973">
+  <titre>Gigot de lotte aux gousses d'ail</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 queue de lotte</p>
+    <p>2 têtes d'ail</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>1 branche de thym et de romarin</p>
+    <p>2 feuilles de laurier</p>
+    <p>Pour la garniture:</p>
+    <p>1 kg de pommes de terre</p>
+    <p>30 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites retirer la peau de la lotte. Lavez, épongez et faites colorer le poisson à feu vif à la poêle dans 2 cuillères à soupe d'huile.
+    Séparez les gousses d'ail. Epluchez, lavez et essuyez les pommes de terre. Préchauffez le four thermostat 7.
+    Portez une grande casserole d'eau salée à ébullition, faites-y blanchir les pommes de terre et les gousses d'ail pendant 5 mn. Egouttez.
+    Dans un plat huilé, disposez la lotte, entourez-la des pommes de terre et des gousses d'ail. Répartissez les herbes sur le dessus, arrosez avec les 30 g de beurre fondu, salez, poivrez. 
+    Enfournez 30 mn puis laissez reposer 5 mn four éteint.
+  ]]>
+  </preparation>
+</recette>

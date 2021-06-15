@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23727">
+  <titre>Fajitas de boeuf faciles</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de steak de boeuf peu gras</p>
+    <p>8 tortillas</p>
+    <p>2 poivrons</p>
+    <p>2 oignons</p>
+    <p>1 sachet d'épices pour fajitas (fajita seasoning mix, rayon exotique des grandes surfaces)</p>
+    <p>1 petite bouteille de bière blonde (25 cl)</p>
+    <p>le jus d'1 citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un bol, délayer le contenu du sachet d'épices dans la bière et le jus de citron.
+    Mettre le boeuf à mariner dans ce mélange. Le mieux : mettre la viande et la marinade dans un sac congélation que l'on ferme en chassant l'air, ainsi la viande reste en contact permanent avec la marinade.
+    Laisser mariner au réfrigérateur entre 8 et 12 h (10 h en moyenne).
+    Egoutter la viande et la couper en bouchées.
+    Emincer les poivrons et les oignons, les faire revenir ensemble dans un peu d'huile d'olive avec un tout petit peu de sel.
+    Lorsque les légumes sont cuits (plus ou moins fondus selon les goûts), ajouter la viande et faire revenir peu de temps, 1 à 2 min (les bouchées ne doivent pas être trop cuites à coeur). Ne pas saler la viande.
+    Faire chauffer les tortillas 1 min au micro-ondes (dans un torchon humide, pour qu'elles ne sèchent pas).
+    A table, garnir les tortillas avec la préparation.
+    Bien que les fajitas se confectionnent traditionellement avec des tortillas de blé, je recommande celles de maïs, plus parfumées.
+    Je rajoute toujours du guacamole, de la crème fraîche et du fromage râpé avant de fermer les tortillas. un vin rouge capiteux (un vin marocain, par exemple)
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34762">
+  <titre>Gâteau à la mousse au chocolat framboisée</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la génoise :</p>
+    <p>6 œufs</p>
+    <p>200 g de farine</p>
+    <p>200 g de sucre</p>
+    <p>30 g de cacao non sucréPour la mousse au chocolat :</p>
+    <p>250 g de chocolat noir</p>
+    <p>10 cl de crème fraîche</p>
+    <p>3 jaunes d'oeuf</p>
+    <p>6 blancs d'oeuf</p>
+    <p>200 g de framboises </p>
+    <p>sucre</p>
+    <p>Pour la déco :</p>
+    <p>20 cl de crème fraîche</p>
+    <p>12 framboises</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille :Préparer la mousse au chocolat : Faites fondre le chocolat dans la crème fraîche. Une fois le chocolat fondu, ajouter les framboises. Mélanger et écraser les framboises (un peu, pas de la purée quand même ; il doit rester des morceaux). Ensuite, ajouter un à un les trois jaunes d'oeuf. Battre les blancs en neige très ferme (le plus qu'il soit possible) et les mélanger au mélange choco-framboise refroidi. Mettre au frigo pour 24 h. Préparer la génoise : Prenez soin de tamiser votre farine au moins 2 fois en y ajoutant le cacao (ça vous évitera une mauvaise surprise une fois le ruban terminé). 
+    Préparer également votre moule (moule à manqué de 22 cm pas plus). 
+    Beurrez et farinez-le. Surtout, ne mettez pas vos doigts dedans. Il parait que cela peut empêcher la génoise de monter ! Mettez préchauffer le four sur 180°C. Ensuite, occupez-vous de votre génoise. Mélanger les œufs et le sucre dans un saladier profond. 
+    Une fois le mélange mousseux, mettez-le au bain-marie pas trop chaud (max 50°C) . 
+    Attention, c'est un bain ok, mais la plat ne doit pas flotter dans le bain. Juste toucher l'eau. A partir de ce moment, battre sans vous arrêter jusqu'à obtenir un mélange mousseux ayant doublé (au moins) de volume et formant un ruban. 
+    Retirer le plat du bain, et continuer à battre jusqu'au refroidissement complet du plat. Ensuite, ajouter petit à petit la farine (au moins en 3 fois). Pour chaque ajout, soyez très délicat. Soulevez bien de bas en haut avec le moins de geste possible mais quand même pour que la farine soit uniformément intégrée. Une fois que tout est uniformément intégré arrêter de suite de mélanger et verser le contenu dans le moule. ATTENTION A VOS DOIGTS ! Mettez le moule dans attendre dans le four. La génoise doit gonfler et doubler de volume. 
+    Elle est cuite lorsque vous piquez une aiguille et qu'elle en ressort complètement sèche. Laissez la un peu se refroidir. Normalement, elle va se rétracter un peu du moule. Démoulez et laissez-la refroidir tranquillement. * Le lendemain :Monter le gâteau.
+    Couper la génoise en trois morceaux. 
+    Alterner : pâte - mousse - pâte - mousse - pâte - mousse. Servez-vous du reste de la mousse pour cacher le contour. Lissez le dessus. 
+    Garnissez de crème chantilly et de quelques framboises avant de servir.Ce dessert doit aussi être très bon à mon avis avec un moelleux au chocolat en base.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  La veille : <OPER id="o_1">Préparer</OPER> la mousse au <INGRED id="12">chocolat</INGRED> : Faites <OPER id="o_2">fondre</OPER> le <INGRED id="10">chocolat</INGRED> dans la crème fraîche. Une fois le chocolat fondu, <OPER id="o_3">ajouter</OPER> les <INGRED id="9">framboises</INGRED>. <OPER id="o_4">Mélanger</OPER> et <OPER id="o_5">écraser</OPER> les <INGRED id="3">framboises</INGRED> ( un peu, pas de la <INGRED id="5">purée</INGRED> quand même ; il doit rester des <INGRED id="1">morceaux</INGRED> ). Ensuite, <OPER id="o_6">ajouter</OPER> un à un les trois <INGRED id="1">jaunes d'oeuf</INGRED>. <OPER id="o_7">Battre</OPER> les <INGRED id="3">blancs</INGRED> en neige très ferme ( le plus qu'il soit possible ) et les <OPER id="o_8">mélanger</OPER> au mélange choco - framboise refroidi. <OPER id="o_9">Mettre</OPER> au frigo pour 24 h. <OPER id="o_10">Préparer</OPER> la génoise : <OPER id="o_11">Prenez</OPER> soin de <OPER id="o_12">tamiser</OPER> votre <INGRED id="6">farine</INGRED> au moins 2 fois en y ajoutant le <INGRED id="4">cacao</INGRED> ( ça vous évitera une mauvaise surprise une fois le ruban terminé ). <OPER id="o_13">Préparer</OPER> également votre moule ( moule à manqué de 22 cm pas plus ). <OPER id="o_14">Beurrez</OPER> et farinez - le. Surtout, ne mettez pas vos doigts dedans. Il parait que cela peut <OPER id="o_15">empêcher</OPER> la génoise de <OPER id="o_16">monter</OPER> ! <OPER id="o_17">Mettez</OPER> <OPER id="o_18">préchauffer</OPER> le four sur 180 ° C. Ensuite, <OPER id="o_19">occupez</OPER> -vous de votre génoise. <OPER id="o_20">Mélanger</OPER> les <INGRED id="5">œufs</INGRED> et le <INGRED id="3">sucre</INGRED> dans un <INGRED id="1">saladier</INGRED> profond. Une fois le <INGRED id="7">mélange</INGRED> mousseux, <OPER id="o_21">mettez</OPER> - le au <INGRED id="8">bain</INGRED> - marie pas trop chaud ( max <INGRED id="3">50</INGRED> ° C ). Attention, c'est un <INGRED id="8">bain</INGRED> ok, mais la <INGRED id="9">plat</INGRED> ne doit pas <OPER id="o_22">flotter</OPER> dans le <INGRED id="8">bain</INGRED>. Juste <OPER id="o_23">toucher</OPER> l'<INGRED id="6">eau</INGRED>. A <OPER id="o_24">partir</OPER> de ce moment, <OPER id="o_25">battre</OPER> sans vous <OPER id="o_26">arrêter</OPER> jusqu'à obtenir un <INGRED id="2">mélange</INGRED> mousseux ayant doublé ( au moins ) de volume et formant un ruban. <OPER id="o_27">Retirer</OPER> le <INGRED id="9">plat</INGRED> du <INGRED id="8">bain</INGRED>, et <OPER id="o_28">continuer</OPER> à <OPER id="o_29">battre</OPER> jusqu'au refroidissement complet du <INGRED id="9">plat</INGRED>. Ensuite, <OPER id="o_30">ajouter</OPER> petit à petit la <INGRED id="10">farine</INGRED> ( au moins en 3 fois ). Pour chaque ajout, soyez très délicat. <OPER id="o_31">Soulevez</OPER> bien de bas en haut avec le moins de geste possible mais quand même pour que la <INGRED id="8">farine</INGRED> soit uniformément intégrée. Une fois que tout est uniformément intégré <OPER id="o_32">arrêter</OPER> de suite de <OPER id="o_33">mélanger</OPER> et <OPER id="o_34">verser</OPER> le contenu dans le moule. ATTENTION A VOS DOIGTS ! <OPER id="o_35">Mettez</OPER> le moule dans <OPER id="o_36">attendre</OPER> dans le four. La génoise doit <OPER id="o_37">gonfler</OPER> et <OPER id="o_38">doubler</OPER> de volume. Elle est cuite lorsque vous piquez une aiguille et qu'elle en ressort complètement sèche. Laissez la un <INGRED id="4">peu</INGRED> se <OPER id="o_39">refroidir</OPER>. Normalement, elle va se <OPER id="o_40">rétracter</OPER> un <INGRED id="4">peu</INGRED> du moule. <OPER id="o_41">Démoulez</OPER> et laissez - la <OPER id="o_42">refroidir</OPER> tranquillement. * Le lendemain : <OPER id="o_43">Monter</OPER> le gâteau. <OPER id="o_44">Couper</OPER> la génoise en trois <INGRED id="1">morceaux</INGRED>. <OPER id="o_45">Alterner</OPER> : <INGRED id="5">pâte</INGRED> - mousse - <INGRED id="9">pâte</INGRED> - mousse - <INGRED id="2">pâte</INGRED> - mousse. Servez -vous du <INGRED id="1">reste</INGRED> de la mousse pour cacher le contour. <OPER id="o_46">Lissez</OPER> le dessus. <OPER id="o_47">Garnissez</OPER> de crème chantilly et de quelques <INGRED id="6">framboises</INGRED> avant de servir. Ce dessert doit aussi être très bon à mon avis avec un moelleux au <INGRED id="6">chocolat</INGRED> en base.
+  </annotation>
+  <annotation methode="crf">
+  La veille <INGRED>:</INGRED> Préparer la mousse au <INGRED>chocolat</INGRED> <INGRED>:</INGRED> Faites fondre le <INGRED>chocolat</INGRED> dans la <INGRED>crème fraîche</INGRED> <INGRED>.</INGRED> Une fois le <INGRED>chocolat fondu</INGRED> <INGRED>,</INGRED> ajouter les <INGRED>framboises</INGRED> <INGRED>.</INGRED> Mélanger et écraser les <INGRED>framboises</INGRED> ( un peu <INGRED>,</INGRED> pas de la purée quand même ; il doit rester des <INGRED>morceaux</INGRED> ). Ensuite <INGRED>,</INGRED> ajouter un à un les trois <INGRED>jaunes d'oeuf</INGRED> <INGRED>.</INGRED> Battre les <INGRED>blancs</INGRED> en neige très ferme ( le plus qu'il soit possible ) et les mélanger au <INGRED>mélange</INGRED> choco - framboise refroidi <INGRED>.</INGRED> Mettre au frigo pour 24 h. Préparer la génoise <INGRED>:</INGRED> Prenez soin de tamiser votre <INGRED>farine</INGRED> au moins 2 fois en y ajoutant le <INGRED>cacao</INGRED> ( ça vous évitera une mauvaise surprise une fois le ruban terminé ). Préparer également votre moule ( moule à manqué de 22 <INGRED>cm</INGRED> pas plus ). Beurrez et farinez - le <INGRED>.</INGRED> Surtout <INGRED>,</INGRED> ne mettez pas vos doigts dedans <INGRED>.</INGRED> Il parait que cela peut empêcher la génoise de monter ! Mettez préchauffer le four sur 180 ° C <INGRED>.</INGRED> Ensuite <INGRED>,</INGRED> occupez -vous de votre génoise. Mélanger les <INGRED>œufs</INGRED> et le <INGRED>sucre</INGRED> dans un saladier profond. Une fois le <INGRED>mélange</INGRED> mousseux <INGRED>,</INGRED> mettez - le au bain - marie pas trop chaud ( max 50 ° C ). Attention <INGRED>,</INGRED> c'est un bain ok <INGRED>,</INGRED> mais la plat ne doit pas flotter dans le bain. Juste toucher l'<INGRED>eau</INGRED> <INGRED>.</INGRED> A partir de ce moment <INGRED>,</INGRED> battre sans vous arrêter jusqu'à obtenir un <INGRED>mélange</INGRED> mousseux ayant doublé ( au moins ) de <INGRED>volume</INGRED> et formant un ruban. Retirer le plat du bain <INGRED>,</INGRED> et continuer à battre jusqu'au refroidissement complet du plat <INGRED>.</INGRED> Ensuite <INGRED>,</INGRED> ajouter <INGRED>petit</INGRED> à <INGRED>petit</INGRED> la <INGRED>farine</INGRED> ( au moins en 3 fois ). Pour chaque ajout <INGRED>,</INGRED> soyez très délicat. Soulevez bien de bas en haut avec le moins de geste possible mais quand même pour que la <INGRED>farine</INGRED> soit uniformément intégrée <INGRED>.</INGRED> Une fois que tout est uniformément intégré arrêter de suite de mélanger et verser le contenu dans le <INGRED>moule</INGRED> <INGRED>.</INGRED> ATTENTION A VOS DOIGTS ! Mettez le <INGRED>moule</INGRED> dans attendre dans le four <INGRED>.</INGRED> La génoise doit gonfler et doubler de <INGRED>volume</INGRED>. Elle est cuite lorsque vous piquez une aiguille et qu'elle en ressort complètement sèche. Laissez la un peu se refroidir <INGRED>.</INGRED> Normalement <INGRED>,</INGRED> elle va se rétracter un peu du <INGRED>moule</INGRED> <INGRED>.</INGRED> Démoulez et laissez - la refroidir tranquillement <INGRED>.</INGRED> * Le lendemain <INGRED>:</INGRED> Monter le gâteau. Couper la génoise en trois <INGRED>morceaux</INGRED> <INGRED>.</INGRED> Alterner <INGRED>:</INGRED> <INGRED>pâte</INGRED> - mousse - <INGRED>pâte</INGRED> - mousse - <INGRED>pâte</INGRED> - mousse. Servez -vous du <INGRED>reste</INGRED> de la mousse pour cacher le contour. Lissez le dessus. Garnissez de <INGRED>crème chantilly</INGRED> et de quelques <INGRED>framboises</INGRED> avant de servir <INGRED>.</INGRED> Ce dessert doit aussi être très bon à mon avis avec un moelleux au <INGRED>chocolat</INGRED> en base.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 36.2571428571429*X + 10.7428571428571</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 27*X + 18</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['œufs']	 id:1	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['farine']	 id:2	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:3	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['cacao non sucréPour la mousse au chocolat', 'cacao']	 id:4	 quantité:30	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['chocolat noir', 'chocolat']	 id:5	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:6	 quantité:10	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:["jaunes d'oeuf", 'jaunes']	 id:7	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:["blancs d'oeuf", 'blancs']	 id:8	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['framboises']	 id:9	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:11	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['framboises']	 id:12	 quantité:12	 unité:non_precis	 denombrable:True	 recipient:12*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préparer	 id:o_1	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:fondre	 id:o_2	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:ajouter	 id:o_3	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_4	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:écraser	 id:o_5	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_7	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mettre	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:préparer	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:prendre	 id:o_11	 ingrédients_ralatifs:['6', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tamiser	 id:o_12	 ingrédients_ralatifs:['6', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparer	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:beurrer	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:empêcher	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:monter	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:préchauffer	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:occuper	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_20	 ingrédients_ralatifs:['5', '3', '1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mettre	 id:o_21	 ingrédients_ralatifs:['7', '8', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:flotter	 id:o_22	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:toucher	 id:o_23	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:partir	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_25	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:arrêter	 id:o_26	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_27	 ingrédients_ralatifs:['9', '8', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:continuer	 id:o_28	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_29	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_30	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:soulever	 id:o_31	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:arrêter	 id:o_32	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_33	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:verser	 id:o_34	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_35	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:attendre	 id:o_36	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:gonfler	 id:o_37	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:doubler	 id:o_38	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_39	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:rétracter	 id:o_40	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:démouler	 id:o_41	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_42	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:monter	 id:o_43	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_44	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:6*X*1	 recipient:1
+operation:alterner	 id:o_45	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:lisser	 id:o_46	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garnir	 id:o_47	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

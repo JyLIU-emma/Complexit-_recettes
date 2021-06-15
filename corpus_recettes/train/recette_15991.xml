@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15991">
+  <titre>Kruszanek (Pologne)</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de farine (ordinaire)</p>
+    <p>200 g de margarine</p>
+    <p>200 g de sucre</p>
+    <p>3 oeufs entier</p>
+    <p>1/2 litre de confiture (groseille)</p>
+    <p>2 paquets de levure</p>
+    <p>1 pincée de sel</p>
+    <p>3/4 de cuillère (a café) d'extrait d'amande amère</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre la farine dans une terrine, mélanger la levure et le sel. Y faire un trou et y verser le sucre.
+    Après avoir versé l'extrait d'amande amère, mélanger le tout en incorporant les oeufs et la margarine.
+    Pétrir le tout (avec les mains), graisser un moule, le fariner légèrement, mettre une couche de pâte, et mettre la confiture avant de recouvrir avec le reste de la pâte.
+    Faire cuire pendant 45 mn au four (thermostat 6 ou 7, température 180°C).
+    Rajouter un gobelet d'eau pour faire monter le gâteau.
+  ]]>
+  </preparation>
+</recette>

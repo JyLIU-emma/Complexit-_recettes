@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23397">
+  <titre>Filets de carrelets au céleri</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 filets de carrelet</p>
+    <p>200 g de céleri en branches</p>
+    <p>1 oeuf</p>
+    <p>1 citron</p>
+    <p>10 cl de vin blanc</p>
+    <p>50 g de beurre</p>
+    <p>1 sachet de court-bouillon</p>
+    <p>1 cuillère à soupe de crème fraîche</p>
+    <p>1 cuillère à soupe de vinaigre</p>
+    <p>1 cuillère à café de sucre</p>
+    <p>persil</p>
+    <p>noix de muscade râpée</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher et couper les céleri en petits dés.
+    Faire chauffer 1,5 litre d'eau avec le vin blanc, le vinaigre et le sachet de court-bouillon. 
+    Y pocher les filets 5 min. Egoutter et réserver au chaud. 
+    Jeter le céleri dans le court-bouillon, rajouter le sucre et 2 pincées de muscade râpée.
+    Couvrir et laisser cuire 10 min. 
+    Retirer le céleri à l'écumoire et réserver au chaud.
+    Délayer le jaune d'oeuf, la crème fraîche et le jus du citron. Saler et chauffer à feu doux, ajouter un peu de court-bouillon filtré puis incorporer le beurre coupé en petits morceaux en fouettant.
+    Disposer le céleri dans un plat chaud, déposer les filets dessus et couvrir de sauce.
+    Parsemer de persil et servir.
+  ]]>
+  </preparation>
+</recette>

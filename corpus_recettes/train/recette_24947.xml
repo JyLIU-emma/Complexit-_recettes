@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24947">
+  <titre>Crumble poires - chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 poires</p>
+    <p>125 g de chocolat noir</p>
+    <p>120 g de farine</p>
+    <p>50 g de cassonade</p>
+    <p>100 g de beurre 1/2 sel + 10 g pour beurrer le moule</p>
+    <p>15 g de poudre d'amandes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger, la farine, le beurre, la cassonade et la poudre d'amandes jusqu'à obtention d'une pâte sableuse. Mettre au frais pendant 30 mn. 
+    Beurrer un plat à four et y déposer les carrés de chocolat. 
+    Ebouillanter les poires 20 secondes, les peler et les couper en quartiers. 
+    Les placer sur les carrés de chocolat. 
+    Sortir la pâte du réfrigérateur et la répartir sur les poires et le chocolat. 
+    Mettre au four à th°C 6-7 pendant 30 mn. 
+    Servir tiède.
+  ]]>
+  </preparation>
+</recette>

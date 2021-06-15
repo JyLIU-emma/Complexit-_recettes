@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37288">
+  <titre>Oranges de riz a la viande ( Sicile )</titre>
+  <type>Entrée</type>
+  <niveau>Difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1 kg de riz (special arancini)</p>
+    <p>2 cubes de bouillon (pour le riz)</p>
+    <p>400 g de viande de porc et veau hachée (non assaisonnée)</p>
+    <p>4 fines carottes fraîches</p>
+    <p>4 gousses d'ail</p>
+    <p>3 branches de céleri blanc</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>200 g de margarine</p>
+    <p>70 g de concentré de tomate</p>
+    <p>1 oignon</p>
+    <p>33 cl de vin blanc sec</p>
+    <p>50 g de farine (sans levure incorporée)</p>
+    <p>2 oeufs</p>
+    <p>2 feuilles de laurier</p>
+    <p>100 g de chapelure</p>
+    <p>2l d'huile pour friture</p>
+    <p>3 feuilles de basilic </p>
+    <p>400 g de pois extra fins (1 boîte)</p>
+    <p>2 capsules de safran</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans le bol du robot, mettez : ail épluché, céleri, oignon, carotte, basilic et les trois cuilleres à soupe d'huile d'olive. 
+    Mixez le tout jusqu'a otention d'une farce. 
+    Dans une casserole, faites colorer votre viande hachée, puis ajoutez la farce, le concentré de tomate, les petits pois, les feuilles de laurier et le verre de vin blanc. Salez et poivrez 
+    Laissez mijoter le tout environ 1 heure en rajoutant un peu de vin blanc si nécessaire.
+    La cuisson est terminée lorsque les pois sont bien cuits. 
+    Ne pas oublier de rectifier l'assaisonnement pendant la cuisson si nécessaire.
+    Laissez refroidir et mettez votre préparation 24 heures au réfrigérateur. 
+    Dans une grande casserole, versez 2 litres d'eau, les deux cubes bouillon, les 200 gr de margarine, les deux capsules de safran, puis salez et poivrez moderement. 
+    Versez le kilo de riz avant ébullition et tournez sans interruption. 
+    Lorsque l'eau est à ébullition, diminuez de 2/3 la puissance du feu tout en continuant à tourner.
+    Vérifiez l'assaisonnement et si nécessaire, rectifiez-le modérement. 
+    Lorsque le riz vous semble bien compact et qu'il a absorbé toute l'eau, déversez-le sur la table et étalez-le avec une spatule. 
+    Lorsqu'il est bien froid, mettez-le dans un saladier recouvert de cellophane et laissez-le 24 heures au réfrigérateur.
+    Confection des boules : le lendemain, reprenez le tout et disposez-le correctement sur le plan de travail afin de faciliter la manoeuvre. 
+    Prenez une poignée de riz dans une main et, avec le poing, donnez lui une forme concave. Mettez de la viandé hachée dans le creux et ensuite refermez le tout en essayant de donner 
+    a la boule une belle forme sphérique (la boule doit être bien compacte).
+    Lorsque toutes les boules sont prêtes, versez dans un saladier 1 à 2 litres d'eau, versez la farine et les deux oeufs, puis mixez le tout. 
+    Ensuite, reprenez chaque boule, recompactez-la à nouveau et trempez les boules ainsi obtenurs dans le liquide.
+    Egouttez-les, puis passez-les dans la chapelure (passez une seule boule à la fois dans le liquide!). 
+    Chauffez l'huile dans un recipient de votre choix et cuisez les boules de riz. Lorsque les boules sont bien colorées, ne pas hésiter ) les laisser une minute de plus, afin que le coeur des boules soit bien chaud.
+     Saint-Emilion
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Dans le bol du robot, <OPER id="o_1">mettez</OPER> : <INGRED id="12">ail</INGRED> épluché, <INGRED id="6">céleri</INGRED>, <INGRED id="2">oignon</INGRED>, <INGRED id="4">carotte</INGRED>, <INGRED id="18">basilic</INGRED> et les trois <INGRED id="3">cuilleres</INGRED> à <INGRED id="6">soupe d'huile d'olive</INGRED>. <OPER id="o_2">Mixez</OPER> le tout jusqu'a otention d'une farce. Dans une casserole, faites <OPER id="o_3">colorer</OPER> votre <INGRED id="2">viande hachée</INGRED>, puis <OPER id="o_4">ajoutez</OPER> la farce, le <INGRED id="7">concentré de tomate</INGRED>, les <INGRED id="3">petits</INGRED> <INGRED id="19">pois</INGRED>, les <INGRED id="4">feuilles</INGRED> de <INGRED id="12">laurier</INGRED> et le verre de <INGRED id="3">vin blanc</INGRED>. <OPER id="o_5">Salez</OPER> et <OPER id="o_6">poivrez</OPER> Laissez <OPER id="o_7">mijoter</OPER> le tout <INGRED id="1">environ</INGRED> 1 heure en rajoutant un <INGRED id="14">peu</INGRED> de <INGRED id="4">vin blanc</INGRED> si nécessaire. La cuisson est terminée lorsque les <INGRED id="1">pois</INGRED> sont bien cuits. Ne pas <OPER id="o_8">oublier</OPER> de <OPER id="o_9">rectifier</OPER> l'assaisonnement pendant la cuisson si nécessaire. Laissez <OPER id="o_10">refroidir</OPER> et mettez votre <INGRED id="4">préparation</INGRED> 24 heures au réfrigérateur. Dans une grande casserole, <OPER id="o_11">versez</OPER> 2 litres d'<INGRED id="14">eau</INGRED>, les <INGRED id="6">deux</INGRED> cubes <INGRED id="2">bouillon</INGRED>, les 200 <INGRED id="5">gr</INGRED> de <INGRED id="15">margarine</INGRED>, les <INGRED id="6">deux</INGRED> <INGRED id="20">capsules de safran</INGRED>, puis <OPER id="o_12">salez</OPER> et poivrez moderement. <OPER id="o_13">Versez</OPER> le kilo de <INGRED id="1">riz</INGRED> avant ébullition et tournez sans interruption. Lorsque l'<INGRED id="2">eau</INGRED> est à ébullition, <OPER id="o_14">diminuez</OPER> de 2/3 la puissance du feu tout en continuant à <OPER id="o_15">tourner</OPER>. <OPER id="o_16">Vérifiez</OPER> l'assaisonnement et si nécessaire, <OPER id="o_17">rectifiez</OPER> - le modérement. Lorsque le <INGRED id="3">riz</INGRED> vous semble bien compact et qu'il a absorbé toute l'<INGRED id="17">eau</INGRED>, <OPER id="o_18">déversez</OPER> - le sur la table et étalez - le avec une spatule. Lorsqu'il est bien froid, <OPER id="o_19">mettez</OPER> - le dans un <INGRED id="1">saladier</INGRED> recouvert de cellophane et laissez - le 24 heures au réfrigérateur. Confection des <INGRED id="1">boules</INGRED> : le lendemain, <OPER id="o_20">reprenez</OPER> le tout et <OPER id="o_21">disposez</OPER> - le correctement sur le plan de travail afin de <OPER id="o_22">faciliter</OPER> la manoeuvre. <OPER id="o_23">Prenez</OPER> une <INGRED id="5">poignée</INGRED> de <INGRED id="12">riz</INGRED> dans une main et, avec le poing, donnez lui une forme concave. <OPER id="o_24">Mettez</OPER> de la viandé hachée dans le creux et ensuite <OPER id="o_25">refermez</OPER> le tout en essayant de donner a la <INGRED id="1">boule</INGRED> une belle forme sphérique ( la <INGRED id="5">boule</INGRED> doit être bien compacte ). Lorsque toutes les <INGRED id="4">boules</INGRED> sont prêtes, <OPER id="o_26">versez</OPER> dans un <INGRED id="1">saladier</INGRED> 1 à 2 litres d'<INGRED id="14">eau</INGRED>, versez la <INGRED id="10">farine</INGRED> et les <INGRED id="6">deux</INGRED> <INGRED id="5">oeufs</INGRED>, puis mixez le tout. Ensuite, <OPER id="o_27">reprenez</OPER> chaque <INGRED id="5">boule</INGRED>, <OPER id="o_28">recompactez</OPER> - la à nouveau et trempez les <INGRED id="1">boules</INGRED> ainsi obtenurs dans le liquide. <OPER id="o_29">Egouttez</OPER> - les, puis <OPER id="o_30">passez</OPER> - les dans la <INGRED id="9">chapelure</INGRED> ( <OPER id="o_31">passez</OPER> une seule <INGRED id="1">boule</INGRED> à la fois dans le liquide ! ). <OPER id="o_32">Chauffez</OPER> l'<INGRED id="10">huile</INGRED> dans un recipient de votre choix et cuisez les <INGRED id="1">boules</INGRED> de <INGRED id="12">riz</INGRED>. Lorsque les <INGRED id="1">boules</INGRED> sont bien colorées, ne pas <OPER id="o_33">hésiter</OPER> ) les <INGRED id="12">laisser</INGRED> une minute de plus, afin que le coeur des <INGRED id="5">boules</INGRED> soit bien chaud. Saint-Emilion
+  </annotation>
+  <annotation methode="crf">
+  Dans le bol du robot <INGRED>,</INGRED> mettez <INGRED>:</INGRED> <INGRED>ail</INGRED> épluché <INGRED>,</INGRED> <INGRED>céleri</INGRED> <INGRED>,</INGRED> <INGRED>oignon</INGRED> <INGRED>,</INGRED> carotte <INGRED>,</INGRED> <INGRED>basilic</INGRED> et les trois cuilleres à soupe d'<INGRED>huile d'olive</INGRED> <INGRED>.</INGRED> Mixez le tout jusqu'<INGRED>a</INGRED> otention d'une farce <INGRED>.</INGRED> Dans une casserole <INGRED>,</INGRED> faites colorer votre <INGRED>viande</INGRED> hachée <INGRED>,</INGRED> puis ajoutez la farce <INGRED>,</INGRED> le <INGRED>concentré de tomate</INGRED> <INGRED>,</INGRED> les <INGRED>petits</INGRED> <INGRED>pois</INGRED> <INGRED>,</INGRED> les feuilles de <INGRED>laurier</INGRED> et le <INGRED>verre</INGRED> de <INGRED>vin blanc</INGRED>. Salez et poivrez Laissez mijoter le tout <INGRED>environ</INGRED> 1 heure en rajoutant un peu de <INGRED>vin blanc</INGRED> si nécessaire. La cuisson est terminée lorsque les <INGRED>pois</INGRED> sont bien cuits. Ne pas oublier de rectifier l'assaisonnement pendant la cuisson si nécessaire. Laissez refroidir et mettez votre préparation 24 heures au réfrigérateur. Dans une grande casserole <INGRED>,</INGRED> versez 2 litres d'<INGRED>eau</INGRED> <INGRED>,</INGRED> les <INGRED>deux</INGRED> cubes <INGRED>bouillon</INGRED> <INGRED>,</INGRED> les 200 gr de <INGRED>margarine</INGRED> <INGRED>,</INGRED> les <INGRED>deux</INGRED> capsules de <INGRED>safran</INGRED> <INGRED>,</INGRED> puis salez et poivrez moderement <INGRED>.</INGRED> Versez le kilo de <INGRED>riz</INGRED> avant ébullition et tournez sans interruption. Lorsque l'<INGRED>eau</INGRED> est à ébullition <INGRED>,</INGRED> diminuez de 2/3 la puissance du feu tout en continuant à tourner. Vérifiez l'assaisonnement et si nécessaire <INGRED>,</INGRED> rectifiez - le modérement. Lorsque le <INGRED>riz</INGRED> vous semble bien compact et qu'il <INGRED>a</INGRED> absorbé toute l'<INGRED>eau</INGRED> <INGRED>,</INGRED> déversez - le sur la table et étalez - le avec une spatule <INGRED>.</INGRED> Lorsqu'il est bien froid <INGRED>,</INGRED> mettez - le dans un saladier recouvert de cellophane et laissez - le 24 heures au réfrigérateur. Confection des <INGRED>boules</INGRED> <INGRED>:</INGRED> le lendemain <INGRED>,</INGRED> reprenez le tout et disposez - le correctement sur le plan de travail afin de faciliter la <INGRED>manoeuvre</INGRED> <INGRED>.</INGRED> Prenez une poignée de <INGRED>riz</INGRED> dans une main et <INGRED>,</INGRED> avec le poing <INGRED>,</INGRED> donnez lui une forme concave. Mettez de la viandé hachée dans le creux et ensuite refermez le tout en essayant de donner <INGRED>a</INGRED> la boule une belle forme sphérique ( la <INGRED>boule</INGRED> doit être bien compacte ). Lorsque toutes les <INGRED>boules</INGRED> sont prêtes <INGRED>,</INGRED> versez dans un saladier 1 à 2 litres d'<INGRED>eau</INGRED> <INGRED>,</INGRED> versez la <INGRED>farine</INGRED> et les <INGRED>deux</INGRED> <INGRED>oeufs</INGRED> <INGRED>,</INGRED> puis mixez le tout <INGRED>.</INGRED> Ensuite <INGRED>,</INGRED> reprenez chaque <INGRED>boule</INGRED> <INGRED>,</INGRED> recompactez - la à nouveau et trempez les <INGRED>boules</INGRED> ainsi obtenurs dans le liquide. Egouttez - les <INGRED>,</INGRED> puis passez - les dans la <INGRED>chapelure</INGRED> ( passez une seule boule à la fois dans le liquide ! ). Chauffez l'<INGRED>huile</INGRED> dans un recipient de votre choix et cuisez les <INGRED>boules</INGRED> de <INGRED>riz</INGRED> <INGRED>.</INGRED> Lorsque les <INGRED>boules</INGRED> sont bien colorées <INGRED>,</INGRED> ne pas hésiter ) les laisser une minute de plus <INGRED>,</INGRED> afin que le coeur des <INGRED>boules</INGRED> soit bien chaud <INGRED>.</INGRED> Saint-Emilion
+  </annotation>
+  <complexite>
+    <temps>f(X) = 23.8333333333333*X + 9.16666666666667</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 26*X + 16</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['riz']	 id:1	 quantité:1	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['bouillon']	 id:2	 quantité:2	 unité:cubes de	 denombrable:True	 recipient:2*X
+ingredient:['viande de porc', 'viande']	 id:3	 quantité:400	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['veau hachée', 'veau']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['carottes fraîches', 'carottes']	 id:5	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['ail']	 id:6	 quantité:4	 unité:gousses d'	 denombrable:True	 recipient:4*X
+ingredient:['céleri blanc', 'céleri']	 id:7	 quantité:3	 unité:branches de	 denombrable:True	 recipient:3*X
+ingredient:["huile d'olive", 'huile']	 id:8	 quantité:3	 unité:cuillères à soupe d'	 denombrable:True	 recipient:3*X
+ingredient:['margarine']	 id:9	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['concentré de tomate', 'concentré']	 id:10	 quantité:70	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oignon']	 id:11	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['vin blanc sec', 'vin']	 id:12	 quantité:33	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:13	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:14	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['laurier']	 id:15	 quantité:2	 unité:feuilles de	 denombrable:True	 recipient:2*X
+ingredient:['chapelure']	 id:16	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['huile']	 id:17	 quantité:2	 unité:l d'	 denombrable:False	 recipient:1
+ingredient:['basilic']	 id:18	 quantité:3	 unité:feuilles de	 denombrable:True	 recipient:3*X
+ingredient:['pois extra fins', 'pois']	 id:19	 quantité:400	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['capsules de safran', 'capsules']	 id:20	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mettre	 id:o_1	 ingrédients_ralatifs:['12', '6', '2', '4', '18', '3', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mixer	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:colorer	 id:o_3	 ingrédients_ralatifs:['2', '7', '3', '19', '4', '12', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_4	 ingrédients_ralatifs:['7', '3', '19', '4', '12', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_7	 ingrédients_ralatifs:['1', '14', '4']	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:oublier	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rectifier	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:verser	 id:o_11	 ingrédients_ralatifs:['14', '6', '2', '5', '15', '6', '20']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_13	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:diminuer	 id:o_14	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tourner	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:vérifier	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rectifier	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déverser	 id:o_18	 ingrédients_ralatifs:['3', '17']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_19	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:reprendre	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_21	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:faciliter	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:prendre	 id:o_23	 ingrédients_ralatifs:['5', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_24	 ingrédients_ralatifs:['1', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:refermer	 id:o_25	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_26	 ingrédients_ralatifs:['4', '1', '14', '10', '6', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reprendre	 id:o_27	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recompacter	 id:o_28	 ingrédients_ralatifs:['5', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:egoutter	 id:o_29	 ingrédients_ralatifs:['9', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:passer	 id:o_30	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:passer	 id:o_31	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:chauffer	 id:o_32	 ingrédients_ralatifs:['10', '1', '12']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:hésiter	 id:o_33	 ingrédients_ralatifs:['1', '12', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

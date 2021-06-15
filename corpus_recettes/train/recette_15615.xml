@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15615">
+  <titre>Tourte feuilletée aux champignons de Paris</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 grande pâte feuilletée ronde (et un moule de diamètre bien inférieur)</p>
+    <p>environ 500 g de champignons de Paris en morceaux (frais ou surgelés)</p>
+    <p>1 grand verre de vin blanc</p>
+    <p>1/2 cube de bouillon de volaille</p>
+    <p>2 oeufs</p>
+    <p>10 cl de crème fraîche épaisse</p>
+    <p>un peu de jus de citron</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>facultatif (pour dorer la pâte):  1 jaune d'oeuf ou un peu de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Chauffer doucement l'huile dans une sauteuse, puis y faire suer les champignons une dizaine de minutes.
+    Une fois que les champignons ont rendu leur eau, les réserver en conservant le jus dans la sauteuse.
+    Ajouter le vin blanc et le bouillon au jus, puis faire réduire à feu vif. Une fois le liquide réduit, ajouter la crème et le jus de citron, baisser le feu et laisser épaissir quelques minutes (sans bouillir). Ajouter enfin les champignons et les réchauffer quelques instants.
+    Etaler la pâte dans le moule (elle doit largement dépasser des bords). Verser sur la pâte la préparation aux champignons, creuser légèrement la préparation à deux endroits puis y casser les deux oeufs.
+    Refermer la tourte en rassemblant l'excédent de pâte d'une main en un mouvement tournant, comme on rassemble des cheveux pour en faire un chignon (Messieurs, demandez qu'on vous montre!). Dorer éventuellement la pâte au jaune d'oeuf ou au lait.
+    Faire cuire à four moyen (200°C) environ 1/2 heure, jusqu'à ce que la pâte soit bien dorée. 
+    Servir chaud, accompagné d'une salade verte.
+    Une idée de plat complet pour le soir. Les champignons surgelés se prêtent bien à la préparation. Un bon blanc léger
+  ]]>
+  </preparation>
+</recette>

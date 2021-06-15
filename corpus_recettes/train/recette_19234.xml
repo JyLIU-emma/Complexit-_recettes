@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19234">
+  <titre>Carpaccio de betteraves parfumé à l'orange</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 petites betteraves rouges cuites</p>
+    <p>2 oranges</p>
+    <p>2 brins de persil plat</p>
+    <p>1 cuillère à café rase de graines de cumin</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Versez les graines de cumin dans une poêle antiadhésive, faites griller légèrement. 
+    Dès qu'elles sont dorées, arrosez-les d'huile, puis laissez 5 min sur feu doux. 
+    Epluchez les oranges à vif en recueillant le jus dans un bol.
+     
+    Pelez les betteraves, puis coupez-les en tranches minces. 
+    Posez-les en rosaces sur les assiettes, en intercalant des quartiers d'orange. 
+    Mélangez 2 cuillerées à soupe de jus d'orange avec du sel et du poivre, versez l'huile au cumin en émulsionnant à la fourchette. 
+    Versez cette sauce sur les betteraves et décorez de feuilles de persil. 
+    Servir frais, accompagné de pain.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17290">
+  <titre>Meringue ultra-facile</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 blancs d’œufs</p>
+    <p>400 g de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à thermostat 3 (température inférieure 
+    à 80°C).Monter les blancs en neige et incorporer le sucre.
+    Disposer sur une plaque de cuisson et mettre au four thermostat 3 pendant 1 heure. Mais attention, le temps de cuisson dépend de la grosseur des meringues ET du four!
+  ]]>
+  </preparation>
+</recette>

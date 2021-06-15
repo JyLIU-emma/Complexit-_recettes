@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23779">
+  <titre>Gâteau rapide aux poires et au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de farine</p>
+    <p>125 g de beurre</p>
+    <p>150 g de sucre</p>
+    <p>4 œufs</p>
+    <p>100 g de pépites de chocolat</p>
+    <p>100 g de poudre d’amande ou noisettes (les amandes, c’est meilleur, mais les noisettes, c’est moins cher!)</p>
+    <p>1/2 paquet de levure chimique (1 paquet = 11 g)</p>
+    <p>1 grosse boîte de poires au sirop</p>
+    <p>cannelle en poudre (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ouvrir la boîte de poires et retirer le sirop. Couper les poires en dés moyens dans un assiette creuse et saupoudrer de cannelle (facultatif).
+    Dans un saladier, mélanger ensemble farine + sucre + beurre fondu + oeufs + levure + poudre d’amandes.
+    Quand c’est bien bien mélangé, ajouter les poires et pépites de chocolat. Mélanger délicatement pour ne pas broyer les poires.
+    Verser dans un moule à manqué (25 cm de diamètre environ), ou un moule à cake, ou en turban, peu importe. Si vous avez l’habitude de le beurrer, alors beurrez-le.
+    Mettre au four préchauffé, à hauteur moyenne: faire cuire 10 minutes à 160°C, puis 30 minutes à 180°C.
+    Servir tiède (alors, là, c’est génial, parce que les pépites sont encore fondues!), ou alors, laisser refroidir et décorer (en général, je le glace au chocolat, et je mets des amandes effilées sur le côté, et puis des petits grains de toutes les couleurs au sucre sur le dessus, etc…).
+  ]]>
+  </preparation>
+</recette>

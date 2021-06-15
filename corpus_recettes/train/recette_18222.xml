@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18222">
+  <titre>Spaghettis Calmars et Courgettes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>24 Chipirons (petits calmars)</p>
+    <p>300 g de Spaghettis</p>
+    <p>2 courgettes moyennes</p>
+    <p>1 bouquet de persil plat</p>
+    <p>2/3 verres de fumet de poisson (le diluer dans de l'eau s'il est en poudre)</p>
+    <p>Huile d'olive</p>
+    <p>1 citron</p>
+    <p>Sel et Poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Tout d'abord, nettoyer les chipirons (les vider de leurs entrailles, des parties dures et de leur encre)
+    Conserver la tête+tentacules et le corps coupé en 4 suivant la largeur.
+    couper la courgette en 4 suivant la longueur puis couper en rondelle suivant la largeur (la manip consistant à obtenir des quarts de disque).
+    hacher grossièrement le persil plat.
+    Cuisson :
+    Dans une large poêle, chauffer un bon filet d'huile d'olive à feu moyen. Y jetter les courgettes (l'huile ne doit pas être trop chaude de manière à ce que les morceaux de courgette restent croquants mais cuits).
+    Lorsque les courgettes commencent à brunir, ajouter les 
+    chipirons.
+    Remuer avec les courgettes jusqu'ils soient cuits.
+    Ajouter en fin de cuisson le filet de jus de citron (généralement, je prend un demi citron que je presse au dessus de la poêle), poivrer, et ajouter une poignée de persil plat.
+    Mélanger, et baisser à feu doux
+    Porter de l'eau salée à ébullition et y jeter les spaghettis. Cuire 8 minutes (al dente).
+    Juste après avoir jetté les spaghettis, ajouter les 2 verres de fumet de poisson. monter un poil le feu pour avoir de petites bulles et laisser mijoter pendant la cuisson des spaghettis.
+    Une fois les spaghettis cuits, les égoutter vigoureusement.
+    Ajouter le persil plat, mélanger, puis ajouter les spaghettis et mélanger sur le feu.
+    C'est prêt !
+    bon appétit!
+     Rouge
+  ]]>
+  </preparation>
+</recette>

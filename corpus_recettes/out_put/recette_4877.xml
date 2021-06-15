@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="4877">
+  <titre>Pommes de terre au four sauce fraîcheur</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 pommes de terre moyennes</p>
+    <p>2 Carrés frais gervais </p>
+    <p>crème fraîche</p>
+    <p>ail et fines herbes</p>
+    <p>sel et poivre</p>
+    <p>1 cuillère à soupe de moutarde</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites chauffer le four à 240°C (thermostat 8).
+    Découpez vos pommes de terre en deux, dans le sens de la longueur. 
+    Entaillez-les, et humidifiez-les avec un peu d'eau. Salez, et disposez-les dans la lèche-frite, préalablement huilée.
+    Dans un récipient, écrasez les Carrés frais, et délayez-les avec la crème, de façon à obtenir un préparation onctueuse. 
+    Ajoutez l'ail en semoule, le persil, la ciboulette (fraîche, de préférence), ainsi qu'1 cuillère à soupe de moutarde, sel et poivre.
+    Au moment de servir, chauffez 2 min la sauce au micro-ondes.
+    Servez les pommes de terre, avec la sauce par-dessus.
+    Accompagnez ce plat d'une viande.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faites <OPER id="o_1">chauffer</OPER> le four à 240 ° C ( thermostat 8). <OPER id="o_2">Découpez</OPER> vos <INGRED id="1">pommes de terre</INGRED> en deux, dans le sens de la longueur. <OPER id="o_3">Entaillez</OPER> - les, et humidifiez - les avec un peu d'<INGRED id="5">eau</INGRED>. <OPER id="o_4">Salez</OPER>, et disposez - les dans la lèche - frite, préalablement huilée. Dans un récipient, <OPER id="o_5">écrasez</OPER> les <INGRED id="5">Carrés frais</INGRED>, et <OPER id="o_6">délayez</OPER> - les avec la <INGRED id="4">crème</INGRED>, de façon à obtenir un préparation onctueuse. <OPER id="o_7">Ajoutez</OPER> l'ail en <INGRED id="7">semoule</INGRED>, le <INGRED id="6">persil</INGRED>, la <INGRED id="6">ciboulette</INGRED> ( fraîche, de préférence ), ainsi qu'1 cuillère à soupe de <INGRED id="4">moutarde</INGRED>, sel et <INGRED id="7">poivre</INGRED>. Au moment de servir, <OPER id="o_8">chauffez</OPER> 2 min la <INGRED id="5">sauce</INGRED> au micro-ondes. Servez les <INGRED id="5">pommes de terre</INGRED>, avec la <INGRED id="5">sauce</INGRED> par - dessus. Accompagnez ce plat d'une viande.
+  </annotation>
+  <annotation methode="crf">
+  Faites chauffer le four à 240 ° C ( thermostat 8) <INGRED>.</INGRED> Découpez vos <INGRED>pommes de terre</INGRED> en <INGRED>deux</INGRED> <INGRED>,</INGRED> dans le sens de la longueur <INGRED>.</INGRED> Entaillez - les <INGRED>,</INGRED> et humidifiez - les avec un peu d'<INGRED>eau</INGRED> <INGRED>.</INGRED> Salez <INGRED>,</INGRED> et disposez - les dans la lèche - frite <INGRED>,</INGRED> préalablement huilée <INGRED>.</INGRED> Dans un récipient <INGRED>,</INGRED> écrasez les <INGRED>Carrés</INGRED> <INGRED>frais</INGRED> <INGRED>,</INGRED> et délayez - les avec la <INGRED>crème</INGRED> <INGRED>,</INGRED> de façon à obtenir un préparation onctueuse. Ajoutez l'<INGRED>ail</INGRED> en <INGRED>semoule</INGRED> <INGRED>,</INGRED> le <INGRED>persil</INGRED> <INGRED>,</INGRED> la <INGRED>ciboulette</INGRED> ( fraîche <INGRED>,</INGRED> de préférence ) <INGRED>,</INGRED> ainsi qu'1 cuillère à soupe de <INGRED>moutarde</INGRED> <INGRED>,</INGRED> <INGRED>sel</INGRED> et poivre. Au moment de servir <INGRED>,</INGRED> chauffez 2 min la <INGRED>sauce</INGRED> au micro-ondes. Servez les <INGRED>pommes de terre</INGRED> <INGRED>,</INGRED> avec la <INGRED>sauce</INGRED> par - dessus. Accompagnez ce plat d'une <INGRED>viande</INGRED> <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 5.5*X + 2.5</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 11*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pommes de terre moyennes', 'pommes']	 id:1	 quantité:8	 unité:non_precis	 denombrable:True	 recipient:8*X
+ingredient:['Carrés frais gervais', 'Carrés']	 id:2	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['crème fraîche', 'crème']	 id:3	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['ail']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['herbes']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['moutarde']	 id:8	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:chauffer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:découper	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:8*X*1	 recipient:1
+operation:entailler	 id:o_3	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:écraser	 id:o_5	 ingrédients_ralatifs:['5', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:délayer	 id:o_6	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:['7', '6', '6', '4', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_8	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+]]>
+</operation_trouve>
+</recette>

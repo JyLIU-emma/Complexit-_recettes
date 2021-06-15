@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20389">
+  <titre>Jambon en croûte d'oeuf</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 oeufs </p>
+    <p>2 tranches de jambon</p>
+    <p>4 cuillères à soupe de mayonnaise</p>
+    <p>1 cuillère à soupe de concentré de tomates</p>
+    <p>6 filets d'anchois roulés aux câpres</p>
+    <p>1 tomate </p>
+    <p>feuilles de laitue</p>
+    <p>olives noires </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Plonger les œufs dans une casserole d’eau bouillante salée pendant 11 min. Ôter les coquilles et les couper en deux. Enlever les jaunes et les émietter.
+    Les mélanger au jambon haché, à la mayonnaise et au concentré de tomates.
+    Farcir les blancs d'œufs de cette farce et déposer un filet d'anchois roulé sur chaque.
+    Servir les œufs sur une feuille de salade et une tranche de tomate, et décoré d’olives noires.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23193">
+  <titre>Petits pois au persil et à la crème</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de petits pois en boîte</p>
+    <p>30 g de beurre</p>
+    <p>2 cuillères à soupe de persil haché</p>
+    <p>10 cl de crème fraîche</p>
+    <p>1 jaune d'oeuf</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Réchauffez les petits pois dans leur jus à la casserole.
+    Mélangez la crème fraîche, le jaune d'oeuf et le persil dans un bol, salez et poivrez.
+    Retirez la casserole du feu, versez la préparation dedans et mélangez.
+    Incorporez le beurre coupé en morceaux et servez.
+  ]]>
+  </preparation>
+</recette>

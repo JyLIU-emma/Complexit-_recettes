@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24807">
+  <titre>Huîtres gratinées aux oignons</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>24 huîtres</p>
+    <p>200 g d'oignons</p>
+    <p>50 g de beurre</p>
+    <p>3 gousses d'ail</p>
+    <p>2 cuillères à soupe de persil frais haché</p>
+    <p>150 g de mie de pain</p>
+    <p>3 jaunes d'oeufs</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hachez les oignons finement. Faîtes chauffer le beurre, faites-y fondre les oignosn à feu doux avec l'ail écrasé et le persil.
+    Emiettez le pain, mélangez-le avec les jaunes d'oeufs. AJoutez la préparation aux oignons.
+    Ouvrez-les huîtres, décoquillez-les et videz l'eau.
+    Répartissez la moitiée de la farce dans les coquilles, posez les huîtres dessus et recouvrez de farce.
+    Faîtes gratiner 3-4 minutes sous le grill en surveillant.
+  ]]>
+  </preparation>
+</recette>

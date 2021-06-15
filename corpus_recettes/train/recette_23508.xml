@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23508">
+  <titre>Poisson cru mariné aux épices</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg d'espadon</p>
+    <p>2 citrons</p>
+    <p>3 têtes d'ail</p>
+    <p>gingembre frais</p>
+    <p>1 cuillère à café de cumin</p>
+    <p>1 cuillère à café de cannelle</p>
+    <p>pâte de piment rouge (ex : piment oiseau) </p>
+    <p>2 ou 3 carottes</p>
+    <p>menthe ou coriandre fraîche</p>
+    <p>gros sel</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez la marinade : 
+    Dans un pilon faire une pâte avec l'ail, un petit morceau de gingembre et une pincée de gros sel. 
+    Pressez les citrons. 
+    Dans un saladier, mélangez la pâte d'ail, le jus et la pulpe des citrons, le cumin, la cannelle, un petit peu de pâte de piment, la coriandre (ou la menthe) et l'huile d'olive. 
+    Coupez l'espadon en petit dés et les carottes en rondelles. 
+     
+    Mettre le tout à mariner 1 heure au réfrigérateur.
+    N'hésitez pas à varier les doses d'épices selon votre goût, peut être servi en apéritif avec des piques, en entrée sur un lit de salade verte ou en plat principal accompagné de riz créole.
+  ]]>
+  </preparation>
+</recette>

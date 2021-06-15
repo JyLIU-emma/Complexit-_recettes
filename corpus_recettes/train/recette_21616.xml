@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21616">
+  <titre>Tarte aux poireaux et lardons</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de poireaux</p>
+    <p>150 g de lard fumé</p>
+    <p>250 g de gruyère râpé</p>
+    <p>3 oeufs</p>
+    <p>10 cl de lait</p>
+    <p>10 cl de crème fraîche</p>
+    <p>250 g de farine</p>
+    <p>125 g de beurre</p>
+    <p>noix de muscade</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tamisez la farine et une pincée de sel.
+    Amalgamez rapidement avec le beurre coupé en morceaux et environ 10 cl d'eau froide.
+    Roulez en boule et réservez au frais au moins 1h.
+    Détaillez le lard en lardons, ébouillantez-les 5 min et égouttez.
+    Lavez et nettoyez les poireaux, éliminez les feuilles vertes dures et émincez les blancs.
+    Faites-les cuire 20 min à l'eau bouillante salée, égouttez bien (sur un torchon propre).
+    Etalez la pâte, garnissez un moule à tarte, piquez-la à la fourchette. Faites-la cuire 10 min au four à 180°C (thermostat 6).
+    Battez les oeufs avec la crème et le lait, salez légèrement et poivrez. Répartissez les lardons et les poireaux sur le fond de tarte, couvrez de fromage.
+    Versez la préparation aux oeufs sur le tout et enfournez pour 40 min.
+  ]]>
+  </preparation>
+</recette>

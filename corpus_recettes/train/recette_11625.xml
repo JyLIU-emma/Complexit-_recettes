@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11625">
+  <titre>Steaks d'autruche aux pommes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 steaks d'autruche</p>
+    <p>1 oignon</p>
+    <p>2 dl de jus de pomme</p>
+    <p>1 citron</p>
+    <p>1 cuillère à café de curry</p>
+    <p>1 cuillère à café de sucre brun</p>
+    <p>80 g de beurre</p>
+    <p>1 cuillère à café de fécule de maïs</p>
+    <p>2 pommes</p>
+    <p>1 pincée de poudre de gingembre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le jus de pomme et de citron, curry, gingembre, sucre brun, du sel et du poivre. Arroser les steaks avec cette marinade, ajouter l'oignon émincé et laisser reposer 2 heures au frais.
+    Eponger la viande. Filtrer la marinade, récupérez les oignons et les faire revenir dans du beurre. Délayer la fécule dans la marinade et ajoutez aux oignons, faites chauffer doucement. Faites dorer les lamelles de pommes dans du beurre. Faire cuire les steaks dans une poêle contenant du beurre, les napper de la sauce et les accompagnez des lamelles de pommes.
+  ]]>
+  </preparation>
+</recette>

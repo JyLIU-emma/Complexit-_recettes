@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20772">
+  <titre>Parmentier aux brocolis</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 tête de brocolis</p>
+    <p>250 g de viande cuite (porc ou boeuf) </p>
+    <p>2 oignons</p>
+    <p>2 gousses d'ail</p>
+    <p>75 g de gruyère</p>
+    <p>crème fraîche</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les brocolis. Pendant ce temps, faire revenir à la poêle les oignons et l'ail hachés. Hacher la viande et les ajouter dans la poêle. 
+    Après cuisson des brocolis, les écraser, y mêler la viande. 
+    Ajouter du gruyère râpé, 2 cuillères à soupe de crème fraîche. Sel, poivre. Recouvrir de gruyère et faire gratiner.Ce plat est facile et permet d'utiliser des restes de viande. On peut y ajouter des pommes de terre.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14155">
+  <titre>Filet mignon en croûte rapide</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 filet mignon</p>
+    <p>1 rouleau de pâte feuilletée</p>
+    <p>moutarde</p>
+    <p>sel et poivre</p>
+    <p>1 oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dérouler votre pâte à tarte. Y mettre votre filet mignon. L'enduire de moutarde, saler un peu, poivrer. L'envelopper de la pâte.
+    Battre l'oeuf et en appliquer sur le dessus. Cuire au four préchauffé à 180°C (thermostat 6) pendant 30 min.
+  ]]>
+  </preparation>
+</recette>

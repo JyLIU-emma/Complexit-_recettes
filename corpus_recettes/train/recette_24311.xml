@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24311">
+  <titre>Risotto au poulet et tomates</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de riz long grain</p>
+    <p>300 g environ de restes de poulet cuit</p>
+    <p>300 g de concassé de tomates</p>
+    <p>50 g de parmesan râpé</p>
+    <p>50 g de lard de poitrine</p>
+    <p>1 oignon</p>
+    <p>1 carotte</p>
+    <p>1 branche de céleri</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>40 cl de bouillon de volaille</p>
+    <p>60 g de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer et hacher finement l'oignon, la carotte et le céleri avec le lard.
+    Faire chauffer la moitié du beurre dans une cocotte, y mettr ele mélange précédent et faire fondre le tout.
+    Dès que le mélange prend couleur, ajouter les reste de poulet découpés en morceaux, saler, poivrer et couvrir.
+    Laisser chauffer quelques minutes puis verser le vin blanc et laisser évaporer.
+    Ajouter les tomates concassées dans la cocotte, laisser mijoter 10 min en remuant de temps en temps.
+    Ajouter le riz et mouiller avec le bouillon.
+    Laisser cuire environ 20 min, jusqu'à ce que le riz ait absorbé le liquide.
+    Hors du  feu, ajouter le reste de beurre et le parmesan râpé.
+    Mélanger et servir bien chaud.
+  ]]>
+  </preparation>
+</recette>

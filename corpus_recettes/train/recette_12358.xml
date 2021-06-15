@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12358">
+  <titre>Mousse aux framboises</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de framboises (fraiches ou surgelées)</p>
+    <p>100 g de sucre</p>
+    <p>150 g de crème fraîche normale (c'est à dire ni liquide ni trop épaisse)</p>
+    <p>2 oeufs</p>
+    <p>2 cuillérées à soupe de lait</p>
+    <p>3 feuilles de gélatine (= 6 feuilles que l'on trouve généralement dans le commerce)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire ramollir la gélatine dans un bol d'eau froide. Réduire les framboises en purée, les mettre dans une casserole sur feu doux et ajouter le sucre.
+    Lorsque le jus de framboises est chaud, retirer la casserole du feu (ne pas le porter à ébullition).
+    Essorer la gélatine et la mettre à fondre dans le jus de framboises chaud. Laisser le mélange refroidir complètement.
+    Fouetter la crème bien froide avec le lait afin d'obtenir une consistance assez épaisse (le fouet doit laisser des sillons dans la crème). Réserver au frais.
+    Séparer les blancs des jaunes. Battre les blancs en neige ferme.
+    Verser le jus de framboises petit à petit dans la terrine contenant la crème. Incorporer les blancs en neige.
+    Laisser prendre la mousse pendant 12 heures au réfrigérateur.
+    Cette recette marche aussi avec des fraises, du cassis ou des groseilles. Il me semble cependant que la mousse est meilleure aux framboises.
+  ]]>
+  </preparation>
+</recette>

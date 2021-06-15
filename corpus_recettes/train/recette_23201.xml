@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23201">
+  <titre>Rôti de porc aux raisins</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rôti d'1,5 kg dans l'échine (ou filet mais plus sec)</p>
+    <p>100 g de lard fumé</p>
+    <p>400 g de raisin noir (muscat)</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>4 oignons</p>
+    <p>3 gousses d'ail</p>
+    <p>40 g de beurre</p>
+    <p>thym, laurier</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le lard en lardons.
+    Faire fondre le beurre dans une cocotte, y mettre le lard à rissoler.
+    Mettre le rôti et le faire colorer sur toutes ses faces.
+    Laisser cuire 15 min.
+    Emincer les oignons, haché l'ail.
+    Les ajouter dans la cocotte ainsi qu'une feuille de laurier et une branche de thym.
+    Saler, poivrer et mouiller avec le vin.
+    Couvrir et laisser cuire 1h à feu moyen.
+    Retourner la viande tous les 1/4 d'heure pour qu'elle soit bien dorée.
+    Laver et égrener le raisin, rajouter les grains dans la cocotte et laisser cuire 10 min.
+    Sortir le rôti, le trancher et servir avec les raisins autour.
+    Accompagner de pommes duchesses ou de riz.
+  ]]>
+  </preparation>
+</recette>

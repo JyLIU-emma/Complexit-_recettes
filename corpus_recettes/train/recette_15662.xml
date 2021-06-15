@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15662">
+  <titre>Moelleux aux pommes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 cuillères à soupe de farine</p>
+    <p>8 cuillères à soupe de sucre semoule</p>
+    <p>3 cuillères à soupe de lait</p>
+    <p>2 cuillères à soupe d’huile</p>
+    <p>2 paquets de sucre vanillé</p>
+    <p>1/2 paquet de levure</p>
+    <p>2 œufs</p>
+    <p>le zeste d’1 citron</p>
+    <p>50 g de beurre</p>
+    <p>6 pommes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210 °C.
+    Mélanger dans une terrine, en respectant l’ordre suivant : la farine, la moitié du sucre vanillé, un œuf, l’huile, le lait et la levure.
+    Laver et éplucher les pommes. Les couper en quatre et les épépiner, puis les disposer dans un moule beurré.
+    Répartir la pâte sur les fruits et parsemer de quelques zestes de citron hachés.
+    Faire cuire le gâteau une vingtaine de minutes environ.
+    Préparer la garniture : travailler ensemble l’œuf, le sucre semoule, le beurre fondu et le sucre vanillé.
+    Verser cette préparation sur le gâteau, puis le remettre au four et laisser dorer le tout pendant 15 mn environ.
+  ]]>
+  </preparation>
+</recette>

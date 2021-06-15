@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27408">
+  <titre>Tarte des îles à l'ananas et à la noix de coco</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de pâte sablée</p>
+    <p>5 tranches d'ananas frais</p>
+    <p>25 cl de crème fraîche fleurette</p>
+    <p>3 oeufs</p>
+    <p>100 g de noix de coco râpée</p>
+    <p>80 g de sucre</p>
+    <p>1/2 gousse de vanille fendue et grattée</p>
+    <p>1 poignée de raisins secs</p>
+    <p>1 pot de confiture d'abricots</p>
+    <p>5 cl de rhum</p>
+    <p>1 poignée d'amandes effilées ou de copeaux de noix de coco</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laisser tremper les raisins dans le rhum au moins 30 minutes. Préchauffer le four à 210°C (thermostat 7).
+    Etaler la pâte sablée dans un moule à tarte.
+    Fouetter la crème fleurette avec la pulpe de la gousse de vanille, les oeufs, la noix de coco râpée et le sucre. Ajouter les raisins secs égouttés (réserver le rhum).
+    Verser le mélange sur le fond de pâte.
+    Poser dessus l'ananas coupé en petits dés. Enfourner la tarte et laisser cuire 30 minutes.
+    Faire tiédir la confiture d'abricots avec le rhum. Dès la sortie du four, badigeonner la tarte de confiture tiède. Parsemer d'amandes ou de copeaux de noix de coco et laisser refroidir.
+  ]]>
+  </preparation>
+</recette>

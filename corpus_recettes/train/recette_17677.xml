@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17677">
+  <titre>Tarte thon et oignons</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>1 grosse boîte de thon</p>
+    <p>20 cl de crème fraîche épaisse</p>
+    <p>4 oignons moyens</p>
+    <p>1 pâte feuilletée</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire dorer les oignons dans un peu de beurre puis les laisser refroidir.
+    Mélanger les oeufs, le thon, la crème. Rajouter les oignons froids. Saler, poivrer.
+    Etaler la pâte feuilletée dans le moule. Verser le mélange sur la pâte.
+    Cuire 30 min à thermostat 7 (210°C). Bon appétit.
+    Peut se manger froid ou chaud. Recette très pratique pour un buffet. 
+  ]]>
+  </preparation>
+</recette>

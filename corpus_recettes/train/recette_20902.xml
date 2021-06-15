@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20902">
+  <titre>Gâteau meringué aux pommes fondantes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de pommes Golden</p>
+    <p>250 g de pain brioché ou pain de mie</p>
+    <p>100 g de sucre en poudre</p>
+    <p>50 g de beurre</p>
+    <p>25 cl de lait</p>
+    <p>2 oeufs + 3 blancs d'oeufs</p>
+    <p>80 g de sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez et coupez les pommes en 8, épépinez-les.
+    Faites-les revenir à feu doux avec 20 cl d'eau et le sucre en poudre.
+    Découpez le pain en tranches, beurrez-les et tapissez-en le fond et les bords d'un moule à soufflé.
+    Mettez les pommes cuites au centre.
+    Chauffez le lait, versez-le sur les oeufs battus en omelette et versez le tout sur les pommes.
+    Laissez reposer 1 h.
+    Faites cuire au four à 180°C (thermostat 6) pendant 40 min.
+    Fouettez les blancs d'oeufs et le sucre glace en neige, vous obtenez une meringue brillante.
+    Etalez-la sur le gâteau et faites dorer au four à 200°C (thermostat 6-7) quelques minutes.
+  ]]>
+  </preparation>
+</recette>

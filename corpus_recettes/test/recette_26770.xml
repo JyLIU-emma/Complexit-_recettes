@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26770">
+  <titre>Sorbet à la rhubarbe</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de rhubarbe</p>
+    <p>5 cl d'eau</p>
+    <p>300 g de sucre en poudre</p>
+    <p>des amandes effilées</p>
+    <p>des fruits rouges</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler la rhubarbe, la découper en morceaux et la mettre à cuire dans une casserole avec l’eau.
+    Récupérer le jus de cette préparation au tamis et y incorporer le sucre.
+    Faire prendre en sorbetière et servir avec des amandes effilées et des fruits rouges coupés en morceaux.
+  ]]>
+  </preparation>
+</recette>

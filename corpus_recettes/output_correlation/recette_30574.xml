@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30574">
+  <titre>Ambassadeur</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la génoise :</p>
+    <p>4 oeufs</p>
+    <p>120 g de sucre</p>
+    <p>120 g de farine</p>
+    <p>Pour la crème pâtissière :</p>
+    <p>80 g de sucre</p>
+    <p>40 g de farine</p>
+    <p>3 jaunes d'oeufs</p>
+    <p>1/4 gousse de vanille</p>
+    <p>1/2 litre de lait</p>
+    <p>Pour la garniture :</p>
+    <p>200 g de fruits confits</p>
+    <p>Kirsch</p>
+    <p>pâte d'amande</p>
+    <p>crème au beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Beurrer et fariner un moule à manqué. Le fait de beurrer et fariner le moule permet d'obtenir un démoulage facile. Réserver le moule au frais. 
+    Mélanger dans un cul-de-poule (ou un récipient métallique) les oeufs entiers avec le sucre.
+    Disposer le cul-de-poule (ou le récipient) sur un bain-marie et fouetter jusqu'à ce que le mélange blanchisse et triple de volume. 
+    Vous en avez pour 10 à 15 minutes en fouettant à la main et 5 à 10 minutes en fouettant au batteur électrique.
+    Retirer la préparation du bain-marie et continuer à battre jusqu'à complet refroidissement. La préparation obtenue s'appelle: 'au ruban'. 
+    Incorporer délicatement la farine tamisée à l'aide d'une spatule en bois en évitant de faire retomber la préparation. 
+    Verser la pâte dans le moule à manqué et cuire à four chaud (180°C/thermostat 6) pendant 15 à 20 minutes. Pour vérifier la cuisson, il suffit de planter la lame d'un couteau dans la génoise, si celle-ci en ressort sèche, c'est qu'elle est cuite.
+    Préparer la crème pâtissière : mettre le lait à bouillir avec la gousse de vanille coupée en deux dans le sens de la longueur. 
+    Blanchir les jaunes d'œuf avec le sucre. 
+    Incorporer la farine. Dès l'ébullition, verser en une seule fois le lait sur les œufs blanchis en fouettant à l'aide d'un fouet. 
+    Transvaser le tout dans la casserole du lait et cuire sur le feu pendant 4 à 5 minutes en remuant constamment en faisant attention à ce que la crème n'attache pas au fond de la casserole. 
+    Débarrasser la crème dans un récipient et couvrir d'un papier film afin d'éviter qu'une croûte se forme à sa surface. On peut également tamponner la surface de la crème avec une noix de beurre. 
+    INFO : Il est conseillé d'utiliser une casserole en inox pour la cuisson de la crème, car le frottement du fouet sur une casserole en aluminium, donne une couleur grisâtre à la crème qui la rend impropre à la consommation.
+    Faire macérer les fruits confits dans du kirsch  et réserver 
+    Couper la génoise en deux dans le sens de l'épaisseur.
+    Garnir avec de la crème pâtissière au kirsch dans laquelle on aura mélangé les fruits confits.
+    Recouvrir de la deuxième partie de génoise. Masquer le tout avec de la crème au beurre et réserver au réfrigérateur.
+    Etaler la pâte d'amande à l'aide d'un rouleau et la poser sur le gâteau. Couper ce qui dépasse avec un petit couteau pointu et décorer avec des cerises confites et réserver au réfrigérateur jusqu'au dessert.
+    Gâteau très ancien et délicat, mais délicieux pour qui sait l'apprécier... Baume de Venise ou un Monbazillac (a consomer avec modération)
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Beurrer</OPER> et <OPER id="o_2">fariner</OPER> un moule à manqué. Le fait de <OPER id="o_3">beurrer</OPER> et <OPER id="o_4">fariner</OPER> le moule permet d'obtenir un démoulage facile. Réserver le moule au frais. <OPER id="o_5">Mélanger</OPER> dans un cul-de-poule ( ou un récipient métallique ) les <INGRED id="2">oeufs entiers</INGRED> avec le <INGRED id="6">sucre</INGRED>. <OPER id="o_6">Disposer</OPER> le cul-de-poule ( ou le récipient ) sur un <INGRED id="8">bain</INGRED> - marie et <OPER id="o_7">fouetter</OPER> jusqu'à ce que le <INGRED id="2">mélange</INGRED> blanchisse et triple de volume. Vous en avez pour 10 à 15 minutes en fouettant à la main et 5 à 10 minutes en fouettant au batteur électrique. <OPER id="o_8">Retirer</OPER> la <INGRED id="4">préparation</INGRED> du <INGRED id="8">bain</INGRED> - marie et <OPER id="o_9">continuer</OPER> à <OPER id="o_10">battre</OPER> jusqu'à complet refroidissement. La <INGRED id="4">préparation</INGRED> obtenue s'appelle : 'au ruban '. <OPER id="o_11">Incorporer</OPER> délicatement la farine tamisée à l'aide d'une spatule en bois en évitant de faire <OPER id="o_12">retomber</OPER> la <INGRED id="4">préparation</INGRED>. <OPER id="o_13">Verser</OPER> la <INGRED id="5">pâte</INGRED> dans le moule à manqué et <OPER id="o_14">cuire</OPER> à four chaud ( 180 ° C / thermostat 6 ) pendant 15 à 20 minutes. Pour vérifier la cuisson, il suffit de <OPER id="o_15">planter</OPER> la lame d'un <INGRED id="8">couteau</INGRED> dans la génoise, si celle-ci en ressort sèche, c'est qu'elle est cuite. <OPER id="o_16">Préparer</OPER> la crème pâtissière : <OPER id="o_17">mettre</OPER> le <INGRED id="2">lait</INGRED> à <OPER id="o_18">bouillir</OPER> avec la gousse de <INGRED id="2">vanille</INGRED> coupée en <INGRED id="6">deux</INGRED> dans le sens de la longueur. <OPER id="o_19">Blanchir</OPER> les <INGRED id="7">jaunes d'œuf</INGRED> avec le <INGRED id="10">sucre</INGRED>. <OPER id="o_20">Incorporer</OPER> la <INGRED id="5">farine</INGRED>. Dès l'ébullition, <OPER id="o_21">verser</OPER> en une seule fois le <INGRED id="1">lait</INGRED> sur les <INGRED id="5">œufs</INGRED> blanchis en fouettant à l'aide d'un fouet. <OPER id="o_22">Transvaser</OPER> le tout dans la casserole du <INGRED id="8">lait</INGRED> et <OPER id="o_23">cuire</OPER> sur le feu pendant 4 à 5 minutes en remuant constamment en faisant attention à ce que la <INGRED id="7">crème</INGRED> n'attache pas au fond de la casserole. <OPER id="o_24">Débarrasser</OPER> la crème dans un récipient et <OPER id="o_25">couvrir</OPER> d'un papier film afin d'<OPER id="o_26">éviter</OPER> qu'une croûte se forme à sa surface. On peut également <OPER id="o_27">tamponner</OPER> la surface de la crème avec une <INGRED id="3">noix de beurre</INGRED>. INFO : Il est conseillé d'<OPER id="o_28">utiliser</OPER> une casserole en inox pour la cuisson de la crème, car le frottement du fouet sur une casserole en aluminium, donne une couleur grisâtre à la crème qui la rend impropre à la consommation. Faire <OPER id="o_29">macérer</OPER> les <INGRED id="9">fruits confits</INGRED> dans du <INGRED id="6">kirsch</INGRED> et réserver <OPER id="o_30">Couper</OPER> la génoise en <INGRED id="6">deux</INGRED> dans le sens de l'épaisseur. <OPER id="o_31">Garnir</OPER> avec de la crème pâtissière au <INGRED id="6">kirsch</INGRED> dans laquelle on aura mélangé les <INGRED id="9">fruits confits</INGRED>. <OPER id="o_32">Recouvrir</OPER> de la deuxième partie de génoise. <OPER id="o_33">Masquer</OPER> le tout avec de la <INGRED id="12">crème au beurre</INGRED> et réserver au réfrigérateur. <OPER id="o_34">Etaler</OPER> la <INGRED id="11">pâte d'amande</INGRED> à l'aide d'un <INGRED id="2">rouleau</INGRED> et la <OPER id="o_35">poser</OPER> sur le gâteau. <OPER id="o_36">Couper</OPER> ce qui dépasse avec un petit <INGRED id="8">couteau</INGRED> pointu et <OPER id="o_37">décorer</OPER> avec des cerises confites et réserver au réfrigérateur jusqu'au dessert. Gâteau très ancien et délicat, mais délicieux pour qui sait l'<OPER id="o_38">apprécier</OPER>... Baume de Venise ou un Monbazillac ( a <OPER id="o_39">consomer</OPER> avec modération )
+  </annotation>
+  <annotation methode="crf">
+  Beurrer et fariner un moule à manqué <INGRED>.</INGRED> Le fait de beurrer et fariner le <INGRED>moule</INGRED> permet d'obtenir un démoulage facile. Réserver le <INGRED>moule</INGRED> au <INGRED>frais</INGRED> <INGRED>.</INGRED> Mélanger dans un cul-de-poule ( <INGRED>ou</INGRED> un récipient métallique ) les <INGRED>oeufs entiers</INGRED> avec le <INGRED>sucre</INGRED>. Disposer le cul-de-poule ( <INGRED>ou</INGRED> le récipient ) sur un bain - marie et fouetter jusqu'à ce que le <INGRED>mélange</INGRED> blanchisse et triple de <INGRED>volume</INGRED>. Vous en avez pour 10 à 15 minutes en fouettant à la main et 5 à 10 minutes en fouettant au batteur électrique. Retirer la préparation du bain - marie et continuer à battre jusqu'à complet refroidissement. La préparation obtenue s'appelle <INGRED>:</INGRED> 'au ruban '<INGRED>.</INGRED> Incorporer délicatement la <INGRED>farine tamisée</INGRED> à l'aide d'une spatule en bois en évitant de faire retomber la préparation <INGRED>.</INGRED> Verser la <INGRED>pâte</INGRED> dans le <INGRED>moule</INGRED> à manqué et cuire à four chaud ( 180 ° C / thermostat 6 ) pendant 15 à 20 minutes. Pour vérifier la cuisson <INGRED>,</INGRED> il suffit de planter la lame d'un couteau dans la génoise <INGRED>,</INGRED> si celle-ci en ressort sèche <INGRED>,</INGRED> c'est qu'elle est cuite <INGRED>.</INGRED> Préparer la <INGRED>crème</INGRED> pâtissière <INGRED>:</INGRED> mettre le <INGRED>lait</INGRED> à bouillir avec la gousse de <INGRED>vanille</INGRED> coupée en <INGRED>deux</INGRED> dans le sens de la longueur <INGRED>.</INGRED> Blanchir les <INGRED>jaunes d'œuf</INGRED> avec le <INGRED>sucre</INGRED>. Incorporer la <INGRED>farine</INGRED>. Dès l'ébullition <INGRED>,</INGRED> verser en une seule fois le <INGRED>lait</INGRED> sur les <INGRED>œufs</INGRED> blanchis en fouettant à l'aide d'un fouet. Transvaser le tout dans la casserole du <INGRED>lait</INGRED> et cuire sur le feu pendant 4 à 5 minutes en remuant constamment en faisant attention à ce que la <INGRED>crème</INGRED> n'attache pas au <INGRED>fond</INGRED> de la casserole <INGRED>.</INGRED> Débarrasser la <INGRED>crème</INGRED> dans un récipient et couvrir d'un papier film afin d'éviter qu'une croûte se forme à sa surface <INGRED>.</INGRED> On peut également tamponner la surface de la <INGRED>crème</INGRED> avec une <INGRED>noix</INGRED> de <INGRED>beurre</INGRED> <INGRED>.</INGRED> INFO <INGRED>:</INGRED> Il est conseillé d'utiliser une casserole en inox pour la cuisson de la <INGRED>crème</INGRED> <INGRED>,</INGRED> car le frottement du fouet sur une casserole en aluminium <INGRED>,</INGRED> donne une couleur grisâtre à la <INGRED>crème</INGRED> qui la rend impropre à la consommation. Faire macérer les <INGRED>fruits</INGRED> confits dans du <INGRED>kirsch</INGRED> et réserver Couper la génoise en <INGRED>deux</INGRED> dans le sens de l'épaisseur. Garnir avec de la <INGRED>crème pâtissière</INGRED> au <INGRED>kirsch</INGRED> dans laquelle on aura mélangé les <INGRED>fruits</INGRED> confits. Recouvrir de la deuxième partie de génoise. Masquer le tout avec de la <INGRED>crème</INGRED> au <INGRED>beurre</INGRED> et réserver au réfrigérateur. Etaler la <INGRED>pâte d'amande</INGRED> à l'aide d'un <INGRED>rouleau</INGRED> et la poser sur le gâteau. Couper ce qui dépasse avec un <INGRED>petit</INGRED> couteau pointu et décorer avec des <INGRED>cerises</INGRED> confites et réserver au réfrigérateur jusqu'au dessert. Gâteau très ancien et délicat <INGRED>,</INGRED> mais délicieux pour qui sait l'apprécier... Baume de Venise <INGRED>ou</INGRED> un Monbazillac ( <INGRED>a</INGRED> consomer avec modération )
+  </annotation>
+  <complexite>
+    <temps>f(X) = 16.0588235294118*X + 22.9411764705882</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 7*X + 21</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['oeufs']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['sucre']	 id:2	 quantité:120	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:3	 quantité:120	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:4	 quantité:80	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:5	 quantité:40	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["jaunes d'oeufs", 'jaunes']	 id:6	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['vanille']	 id:7	 quantité:1/4	 unité:gousse de	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:8	 quantité:1/2	 unité:litre de	 denombrable:False	 recipient:1
+ingredient:['fruits confits', 'fruits']	 id:9	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['Kirsch']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["pâte d'amande", 'pâte']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème au beurre', 'crème']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:beurrer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fariner	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:beurrer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fariner	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_5	 ingrédients_ralatifs:['2', '6']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:disposer	 id:o_6	 ingrédients_ralatifs:['8', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:fouetter	 id:o_7	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:retirer	 id:o_8	 ingrédients_ralatifs:['4', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:continuer	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_11	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retomber	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_13	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:planter	 id:o_15	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparer	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:mettre	 id:o_17	 ingrédients_ralatifs:['2', '2', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:bouillir	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:blanchir	 id:o_19	 ingrédients_ralatifs:['7', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_20	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_21	 ingrédients_ralatifs:['1', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:transvaser	 id:o_22	 ingrédients_ralatifs:['8', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_23	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:débarrasser	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:éviter	 id:o_26	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tamponner	 id:o_27	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:utiliser	 id:o_28	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:macérer	 id:o_29	 ingrédients_ralatifs:['9', '6']	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:couper	 id:o_30	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:3*X*1	 recipient:1
+operation:garnir	 id:o_31	 ingrédients_ralatifs:['6', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recouvrir	 id:o_32	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:masquer	 id:o_33	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:etaler	 id:o_34	 ingrédients_ralatifs:['11', '2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:poser	 id:o_35	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_36	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1*X	 temps:1*X*1	 recipient:1
+operation:décorer	 id:o_37	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:apprécier	 id:o_38	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:consomer	 id:o_39	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

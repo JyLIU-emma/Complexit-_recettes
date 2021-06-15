@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21916">
+  <titre>Potage de champignons à la crème</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de champignons</p>
+    <p>1 citron</p>
+    <p>1 l de bouillon de volaille</p>
+    <p>85 g de beurre</p>
+    <p>85 g de farine</p>
+    <p>10 cl de crème</p>
+    <p>1 échalote</p>
+    <p>1 petit oignon</p>
+    <p>persil</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le pied des champignons puis les laver dans plusieurs bains d’eau légèrement vinaigrée.
+    Les napper ensuite de jus de citron, puis les hacher.
+    Peler et hacher l’échalote et l’oignon puis les mettre à cuire dans une poêle beurrée.
+    Incorporer ensuite les champignons, saler, poivrer puis les laisser cuire jusqu’à évaporation complète du jus de cuisson.
+    Dans une casserole, faire fondre le reste du beurre avec la farine et mouiller le tout de bouillon froid.
+    Verser ensuite la crème sur les champignons cuits, puis laisser cuire encore 10 min environ.
+    Ajouter la crème puis saupoudrer de persil haché et servir bien chaud dans une soupière.
+    Vous pouvez également l’agrémenter de morceaux de volaille ou bien l’utiliser comme base pour faire une poule au pot.
+  ]]>
+  </preparation>
+</recette>

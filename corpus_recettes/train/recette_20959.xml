@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20959">
+  <titre>Polenta au fromage</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de polenta</p>
+    <p>1 litre de lait</p>
+    <p>1 cuillère à café de sel</p>
+    <p>4 oeufs</p>
+    <p>100 g de parmesan</p>
+    <p>200 g de Comté coupé en petits dés</p>
+    <p>250 ml de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Chauffer le four à 180°C (thermostat 6). Porter le lait à ébullition dans une grande casserole avec le sel. 
+    Y verser la polenta en pluie. Cuire 5 min sans cesser de remuer. Laisser tiédir, ajouter le parmesan, le comté, les oeufs, bien mélanger. Beurrer un plat à gratin, verser le mélange, arroser avec la crème fraîche. Enfournez et cuire 40 min. Assaisonner selon goût et servir aussitôt.
+  ]]>
+  </preparation>
+</recette>

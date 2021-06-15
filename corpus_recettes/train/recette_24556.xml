@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24556">
+  <titre>Poulet au MARTINI</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g environ de blanc de poulet</p>
+    <p>1 grand verre de Martini rouge</p>
+    <p>20 cl de crème fleurette</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper les blancs de poulet en lanières moyennes (ou petits morceaux si c'est pour un apéritif). 
+    Faire revenir les morceaux dans une poêle légèrement huilée. 
+    Réserver les morceaux puis déglacer (décoller les sucs du poulet) avec le grand verre de Martini. 
+    Incorporer le poulet dans le Martini et ajouter la crème fraîche. 
+    Remuer et laisser réduire. 
+    Saler et bien poivrer. 
+    Servir chaud avec des pâtes fraîches
+    Coupés en petits morceaux la recette peu servir comme amuses bouches à l'apéritif. Gaillac, porto rouge, corbieres, minervois
+  ]]>
+  </preparation>
+</recette>

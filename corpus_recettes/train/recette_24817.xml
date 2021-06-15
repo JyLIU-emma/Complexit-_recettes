@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24817">
+  <titre>Soupe à la courge et aux marrons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>un morceau de courge (environ 400 g) </p>
+    <p>un blanc de poireau</p>
+    <p>1 grosse pomme de terre</p>
+    <p>100 g de marrons cuits</p>
+    <p>1 tomate</p>
+    <p>curry</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir 1 litre d'eau avec 1 cube de bouillon de légumes. 
+    Peler la courge et la pomme de terre, les débiter en petits morceaux. 
+    Emincer le blanc de poireau et couper la tomate en dés. 
+    Mettre le tout à cuire pendant une quinzaine de minutes. 
+    Ajouter les marrons et poursuivre la cuisson pendant 5 mn. 
+    Passer au mixer et assaisonner avec une bonne cuillère à café de curry et du poivre.
+    Grâce aux autres légumes, le goût de la courge est atténué. A conseiller à ceux qui ne sont pas fan de citrouille mais qui veulent faire le plein de vitamines !
+  ]]>
+  </preparation>
+</recette>

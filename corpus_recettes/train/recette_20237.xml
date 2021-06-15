@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20237">
+  <titre>Ragoût de porc aux aubergines</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>700 g d'échine de porc</p>
+    <p>3 aubergines</p>
+    <p>4 pommes de terre à chair ferme</p>
+    <p>400 g de pulpe de tomates en dés</p>
+    <p>4 gousses d'ail</p>
+    <p>2 oignons</p>
+    <p>15 cl d'eau</p>
+    <p>huile</p>
+    <p>vinaigre</p>
+    <p>persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper la viande en cubes, la mettre à mariner avec 4 cuillères à soupe de vinaigre et l'ail écrasé pendant 30 min.
+    Faire dorer les cubes de viande dans de l'huile. Ajouter les oignons émincer et faire revenir quelques instants. Ajouter la pulpe de tomates, 15 cl d'eau, le persil haché, les aubergines en gros cubes et les pommes de terre entières pelées. Saler et poivrer.
+    Laisser mijoter au moins 1h en rajoutant un peu d'eau si nécessaire.
+    C'est un plat créole, pour plus d'exotisme ajouter un peu de poudre à colombo ou des graines à roussir.
+  ]]>
+  </preparation>
+</recette>

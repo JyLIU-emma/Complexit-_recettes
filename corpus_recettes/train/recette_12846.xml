@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12846">
+  <titre>Jambon fraicheur</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tranches de jambon de Bayonne</p>
+    <p>Fromage blanc non battu</p>
+    <p>1 oignon frais</p>
+    <p>1 tomate</p>
+    <p>1/4 de concombre</p>
+    <p>1 citron (son jus)</p>
+    <p>Sel, poivre</p>
+    <p>persil </p>
+    <p>ciboulette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les tranches de jambon en 2 dans le sens de la largeur.Hâcher finement la tomate, l'oignon, le concombre et les herbes.Mélanger avec le fromage blanc et ajouter un filet de citron, sel et poivre.
+    Rouler le mélange dans les tranches de jambon.
+    Servir très frais.
+  ]]>
+  </preparation>
+</recette>

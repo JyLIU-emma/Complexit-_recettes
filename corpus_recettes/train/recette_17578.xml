@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17578">
+  <titre>Brochettes au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de chocolat noir</p>
+    <p>200 g de chocolat blanc</p>
+    <p>100 g de sucre</p>
+    <p>1 quatre-quart</p>
+    <p>oranges, pommes, poires, fraises</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1 ) Faites fondre le chocolat noir ainsi que le chocolat blanc séparément. 
+    2 ) Embrocher sur un pique en bois des morceaux de quatre quart et des morceaux de fruits de votre choix. 
+    3 ) Napper de chocolat fondu, soit noir, soit blanc. 
+    4 ) Disposer sur un plat et servir chaud, quand le chocolat n'aura pas encore durcit!. 
+    Bon appétit!
+    Délicieux, surtout l'hiver! un bon vin pétillant ou encore mieux, du champagne!
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13101">
+  <titre>Pozole (Mexique)</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de maïs </p>
+    <p>250 g d'échine de porc en morceaux </p>
+    <p>250 g de blanc de poulet</p>
+    <p>2 l d'eau </p>
+    <p>1 gousse d'ail </p>
+    <p>1 oignon </p>
+    <p>3 piments </p>
+    <p>2 cuillères à soupe d'huile </p>
+    <p>sel à volonté Pour la garniture (petits plats à part, où l'on se sert à volonté) :</p>
+    <p>1 laitue découpée </p>
+    <p>20 radis coupés en petits morceaux </p>
+    <p>4 citron </p>
+    <p>origan </p>
+    <p>oignon à volonté</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une grande casserole, faire bouillir les grains de maïs dans l'eau jusqu'à qu'ils éclatent. Ensuite, ajouter les viandes, l'ail, l'oignon et le sel. Laisser mijoter pendant 40 mn ou jusqu'à ce que la viande soit bien cuite.
+    Frire les piments et les mettre dans de l'eau chaude pendant 10 minutes, puis enlever les graines et la peau. Les moudre alors dans un mixer avec deux cuillères à soupe d'eau chaude. Les faire légèrement frire dans de l'huile et les ajouter au bouillon, qu'il faut laisser mijoter à feu doux.
+    Retirer du feu. Si vous le souhaitez, enlever l'excès de matières grasses.
+    Servir chaud à chaque invité accompagné de la garniture.Retrouvez le Mexique et ses saveurs sur le site www.mexique-fr.com.
+  ]]>
+  </preparation>
+</recette>

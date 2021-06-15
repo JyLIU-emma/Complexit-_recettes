@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22555">
+  <titre>Saint-Jacques marinées au madère</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>12 coquilles Saint-Jacques</p>
+    <p>10 cl de madère</p>
+    <p>10 cl d'huile d'olive</p>
+    <p>1 citron</p>
+    <p>1 cuillère à soupe de câpres</p>
+    <p>2 cuillères à soupe de persil, ciboulette et cerfeuil ciselés</p>
+    <p>beurre</p>
+    <p>paprika</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez le madère, l'huile, le jus du citron, le paprika, une pincée de sel et de poivre.
+    Faites mariner les Saint-Jacques dans ce mélange pendnat 3 h au frais.
+    Faites chauffer un peu de beurre et d'huile dans une poêle. Epongez les Saint-Jacques et poêlez-les 30 secondes à 1 minute sur chaque face.
+    Saupoudrez de fines herbes, ajoutez les câpres et servez.
+    Vous pouvez préparer un beurre noisette pour accompagner les Saint-Jacques.
+  ]]>
+  </preparation>
+</recette>

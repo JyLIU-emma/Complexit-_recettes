@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16740">
+  <titre>Tarte à la rhubarbe et à la vanille</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la garniture :</p>
+    <p>4 à 5 bâtons de rhubarbe</p>
+    <p>2 oeufs</p>
+    <p>20 cl de crème fraîche</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>4 cuillères à soupe de sucre de canne brun</p>
+    <p>2 cuillères à soupe de chapelure ou de petits beurres émiettés</p>
+    <p>Pour la pâte brisée :</p>
+    <p>350 g de farine</p>
+    <p>175 g de beurre mou</p>
+    <p>1 petite demi cuillerée à café de sel</p>
+    <p>3 cuillère à soupe de sucre</p>
+    <p>8 cl de lait tiède</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la pâte brisée, si possible 2 heures à l'avance.
+    Dans un plat, incorporer la farine, le sucre et le beurre ramolli, du bout des doigts, jusqu'à l'obtention d'une semoule grossière.
+    Incorporer le lait tiède en 2 fois (pas trop à la fois) jusqu'à l'obtention d'une boule de pâte assez ferme. Laisser reposer 2 heures.
+    Lors de l'utilisation de la pâte, si celle-ci est trop ferme, applatir légèrement la boule et la passer 30 s au micro-ondes, au minimum de la puissance.
+    Tarte : étaler la pâte, garnir un moule beurré, piquer le fond et recouvrir d'un papier alu percé à la fourchette.
+    Couvrir de haricots secs et cuire 10 mn au four à 180°C. Après 10 mn, enlever les haricots et l'alu, et remettre 5 mn.
+    Pendant que la tarte cuit à blanc : nettoyer la rhubarbe, couper en petits tronçons d'un cm.
+    Dans un bol, mélanger la crème, le sucre vanillé, 1 à 2 cuillères à sucre de sucre, 1 oeuf entier et un jaune.
+    Sortir la pâte du four, répartir la chapelure et 2 cuillères de sucre.
+    Disposer la rhubarbe, puis la crème. Enfourner 30 mn, en saupoudrant d'une bonne cuillère à soupe de sucre après 10 mn.On peut ajouter un oeuf à la crème si on la souhaite plus ferme après cuisson.
+  ]]>
+  </preparation>
+</recette>

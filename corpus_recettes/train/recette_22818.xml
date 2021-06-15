@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22818">
+  <titre>Salade chinoise très simple</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de vermicelles de soja</p>
+    <p>1 oignon rouge</p>
+    <p>1 oignon blanc</p>
+    <p>1 tige de citronnelle</p>
+    <p>1 poivron vert</p>
+    <p>1 piment doux</p>
+    <p>1 blanc de poulet</p>
+    <p>1 branche de basilic</p>
+    <p>1 cuillère à soupe de vinaigre blanc</p>
+    <p>3 cuillères à soupe d'huile de sésame</p>
+    <p>1 cuillère à café de sauce soja</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites bouillir de l'eau salée dans une grande casserole puis plongez-y les vermicelles de soja. Laissez cuire pendant 3 mn puis passez-les rapidement sous l'eau froide. 
+    Pelez le ou les oignon (s) et émincez-le (s). Lavez le poivron et le piment puis émincez-les. Coupez la citronnelle en fines rondelles. Emincez le poulet. 
+    Pour la sauce, mélangez le vinaigre, la sauce de soja, le sel et l'huile de sésame. 
+    Mettez le vermicelle égoutté dans un saladier et ajoutez tous les ingrédients. Arrosez cette salade de la sauce et servez.
+    Pour une saveur plus douce, vous pouvez remplacer la sauce par la "vinaigrette chinoise" présente sur ce site
+  ]]>
+  </preparation>
+</recette>

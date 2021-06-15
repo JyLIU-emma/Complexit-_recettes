@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14951">
+  <titre>Gâteau mousseline</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 oeufs</p>
+    <p>300 g de sucre</p>
+    <p>180 g de fécule de pommes de terre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Séparer les blancs des jaunes d'oeufs. Mélanger les jaunes d'oeufs avec le sucre pendant 10 mn avec une cuillère en bois (le mélange devient presque blanc).
+    Ajouter la fécule de pommes de terre et mélanger de nouveau pendant 10 mn avec la cuillère en bois.
+    Battre au fouet électrique les blancs d'oeufs vec une pointe de sel. Incorporer très délicatement les blancs d'oeufs ainsi montés en neige à la préparation.
+    Verser le tout dans un moule préalablement beurré et sucré.
+    Enfourner à four chaud pendant 45 mn à 150°C.
+    Ne pas oublier de sucrer le moule ! blanc...
+  ]]>
+  </preparation>
+</recette>

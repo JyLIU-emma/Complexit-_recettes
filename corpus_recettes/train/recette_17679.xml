@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17679">
+  <titre>Pain de carottes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de carottes râpées</p>
+    <p>1 oignon ou 2 hachés</p>
+    <p>1 ou 2 échalotes hachées</p>
+    <p>un demi sachet de poudre d'amande</p>
+    <p>4 cuillerées à soupe de crème fraîche</p>
+    <p>4 oeufs</p>
+    <p>ciboulette, basilic ou persil, ou les trois selon les goûts mais faut pas lésiner</p>
+    <p>sel, poivre</p>
+    <p>Pour la sauce d'accompagnement:</p>
+    <p>crème fraîche</p>
+    <p>jus de citron</p>
+    <p>ciboulette</p>
+    <p>échalote</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le tout dans un plat. 
+    Mettre dans moule beurré à cake. 
+    Enfourner thermostat 6 à 7, 45 mn environ (percer avec un couteau pour vérifier la cuisson, il doit être sec). 
+    Mettre au réfrigérateur une fois refroidi. 
+    Servir bien frais découpé en tranches accompagné de la sauce ciboulette, crème fraîche, échalotes.
+  ]]>
+  </preparation>
+</recette>

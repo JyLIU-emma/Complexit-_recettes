@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="221992">
+  <titre>Tarlettes vanillées aux cerises et verrines glacées aux pommes du Languedoc-Roussillon</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>Ingrédients pour les Tartelettes vanillées aux cerises :</p>
+    <p>1 rouleau de pâte brisée</p>
+    <p>300 g de Cerises en conserve du Caroux ou autre variété de cerises du Languedoc-Roussillon</p>
+    <p>2 jaunes d’Œufs produits en Languedoc-Roussillon</p>
+    <p>15 cL de lait</p>
+    <p>60 g de sucre en poudre</p>
+    <p>1 gousse de vanille</p>
+    <p>40 g d’amandes décortiquées</p>
+    <p>Ingrédients pour les Verrines glacées aux pommes :</p>
+    <p>200 g de Glace fermière au lait de brebis ou de glace fermière au lait de chèvre (parfum au choix selon vos préférences)</p>
+    <p>6 pommes Reinettes du Vigan ou de variété Pinova, Pink Gold, Reinette, Golden, Chantecler ou autre variété de pommes du Languedoc-Roussillon</p>
+    <p>120 g de Zézettes de Sète ou d’Amandier de Bouzigues ou de Pavois de Frontignan ou de Tesselles de Loupian ou d’Oreillettes du Languedoc ou de Croquant ou autres biscuits du Languedoc-Roussillon</p>
+    <p>zestes et le jus de 2 citrons</p>
+    <p>10 g de sucre en poudre</p>
+    <p>1 ou 2 pincées de cannelle en poudre</p>
+    <p>5 cl d’amaretto</p>
+    <p>thym frais</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Recette des Tartelettes vanillées aux cerises :
+    Préchauffez le four à 150°C (thermostat 5).Découpez 4 cercles d’environ 12cm de diamètre dans la pâte brisée, piquez-les à l’aide d’une fourchette et garnissez 4 moules à tartelettes avec. Faites cuire environ 10-15 minutes.
+    Pendant ce temps : portez le lait à ébullition dans une casserole avec la gousse de vanille préalablement fendue ; puis enlevez celle-ci après avoir raclé les graines restées à l’intérieur.
+    Fouettez les jaunes d’œufs avec le sucre vanillé et 40 g de sucre en poudre et versez dessus le lait chaud vanillé.Transvasez le tout dans la casserole et remettez sur feu doux pour faire épaissir cette crème vanillée, en remuant sans cesse.
+    Laissez refroidir et faites prendre 1 à 2 heures au frais.
+    Pendant ce temps : coupez les amandes en petits morceaux et faites-les dorer sur feu doux dans une casserole préalablement chauffée à sec. Ajoutez-y le reste du sucre, mélangez et retirez du feu lorsque le caramel fonce tout en restant liquide, afin d’obtenir de la nougatine.
+    Versez cette préparation en fine couche sur du papier sulfurisé et laissez durcir, puis cassez la plaque de nougatine en petites brisures.
+    Dans les fonds de tartelettes : disposez les cerises, versez la crème vanillée au centre et parsemez de brisures nougatine. Décorez les tartelettes avec des cerises entières.- Recette des Verrines glacées aux pommes :
+    Pelez et coupez les pommes en petits dés ; puis faites-les fondre dans une casserole avec le sucre, les zestes et le jus de citron ainsi que la cannelle. Une fois fondantes, écrasez le mélange pour obtenir une compotée et ajoutez l’amaretto. 
+    Dans des verrines : versez la compotée de pommes au fond, recouvrez d’une couche de biscuits émiettés, et ajoutez une petite boule de glace. Décorez les verrines avec du thym frais et de la cannelle en poudre saupoudrée.Pour plus de détails : www.manger-local.fr AOC Maury (Domaine Serre Romani)
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  - Recette des Tartelettes vanillées aux cerises : <OPER id="o_1">Préchauffez</OPER> le four à 150 ° C ( thermostat 5).Découpez 4 cercles d’ <INGRED id="1">environ</INGRED> 12 cm de <INGRED id="10">diamètre</INGRED> dans la <INGRED id="5">pâte brisée</INGRED>, piquez - les à l’ aide d’ une fourchette et garnissez 4 <INGRED id="1">moules</INGRED> à tartelettes avec. Faites <OPER id="o_2">cuire</OPER> <INGRED id="1">environ</INGRED> 10 - 15 minutes. Pendant ce temps : <OPER id="o_3">portez</OPER> le <INGRED id="16">lait</INGRED> à ébullition dans une casserole avec la gousse de <INGRED id="10">vanille</INGRED> préalablement fendue ; puis <OPER id="o_4">enlevez</OPER> celle-ci après <OPER id="o_5">avoir</OPER> raclé les <INGRED id="3">graines</INGRED> restées à l’ intérieur. <OPER id="o_6">Fouettez</OPER> les <INGRED id="3">jaunes</INGRED> d’ <INGRED id="1">œufs</INGRED> avec le <INGRED id="5">sucre vanillé</INGRED> et 40 <INGRED id="4">g</INGRED> de <INGRED id="2">sucre en poudre</INGRED> et versez dessus le <INGRED id="3">lait chaud</INGRED> vanillé. <OPER id="o_7">Transvasez</OPER> le tout dans la casserole et remettez sur feu doux pour <INGRED id="14">faire épaissir</INGRED> cette crème vanillée, en remuant sans cesse. Laissez <OPER id="o_8">refroidir</OPER> et faites <OPER id="o_9">prendre</OPER> 1 à 2 heures au frais. Pendant ce temps : <OPER id="o_10">coupez</OPER> les <INGRED id="5">amandes</INGRED> en <INGRED id="3">petits</INGRED> <INGRED id="1">morceaux</INGRED> et faites - les <OPER id="o_11">dorer</OPER> sur feu doux dans une casserole préalablement chauffée à sec. <OPER id="o_12">Ajoutez</OPER> - y le <INGRED id="1">reste</INGRED> du <INGRED id="19">sucre</INGRED>, mélangez et retirez du feu lorsque le <INGRED id="8">caramel</INGRED> fonce tout en restant liquide, afin d’ obtenir de la nougatine. <OPER id="o_13">Versez</OPER> cette <INGRED id="4">préparation</INGRED> en fine couche sur du <INGRED id="19">papier sulfurisé</INGRED> et laissez <OPER id="o_14">durcir</OPER>, puis <OPER id="o_15">cassez</OPER> la plaque de nougatine en petites <INGRED id="13">brisures</INGRED>. Dans les <INGRED id="2">fonds</INGRED> de tartelettes : <OPER id="o_16">disposez</OPER> les cerises, versez la crème vanillée au centre et <OPER id="o_17">parsemez</OPER> de <INGRED id="13">brisures</INGRED> nougatine. <OPER id="o_18">Décorez</OPER> les tartelettes avec des cerises entières.- Recette des Verrines glacées aux <INGRED id="1">pommes</INGRED> : <OPER id="o_19">Pelez</OPER> et coupez les <INGRED id="6">pommes</INGRED> en <INGRED id="3">petits</INGRED> <INGRED id="3">dés</INGRED> ; puis faites - les <OPER id="o_20">fondre</OPER> dans une casserole avec le <INGRED id="3">sucre</INGRED>, les <INGRED id="17">zestes</INGRED> et le <INGRED id="4">jus de citron</INGRED> ainsi que la <INGRED id="10">cannelle</INGRED>. Une fois fondantes, <OPER id="o_21">écrasez</OPER> le <INGRED id="2">mélange</INGRED> pour obtenir une compotée et ajoutez l’ <INGRED id="21">amaretto</INGRED>. Dans des verrines : <OPER id="o_22">versez</OPER> la compotée de <INGRED id="5">pommes</INGRED> au <INGRED id="8">fond</INGRED>, <OPER id="o_23">recouvrez</OPER> d’ une couche de <INGRED id="2">biscuits</INGRED> émiettés, et ajoutez une <INGRED id="2">petite</INGRED> <INGRED id="1">boule</INGRED> de glace. <OPER id="o_24">Décorez</OPER> les verrines avec du <INGRED id="22">thym frais</INGRED> et de la <INGRED id="20">cannelle en poudre</INGRED> saupoudrée. Pour plus de détails : www.manger-local.fr AOC Maury ( Domaine Serre Romani )
+  </annotation>
+  <annotation methode="crf">
+  - Recette des Tartelettes vanillées aux <INGRED>cerises</INGRED> <INGRED>:</INGRED> Préchauffez le four à 150 ° C ( thermostat 5).Découpez 4 cercles d’ <INGRED>environ</INGRED> 12 <INGRED>cm</INGRED> de diamètre dans la <INGRED>pâte brisée</INGRED> <INGRED>,</INGRED> piquez - les à l’ aide d’ une fourchette et garnissez 4 moules à tartelettes avec <INGRED>.</INGRED> Faites cuire <INGRED>environ</INGRED> 10 - 15 minutes. Pendant ce temps <INGRED>:</INGRED> portez le <INGRED>lait</INGRED> à ébullition dans une casserole avec la gousse de <INGRED>vanille</INGRED> préalablement fendue ; puis enlevez celle-ci après avoir raclé les <INGRED>graines</INGRED> restées à l’ intérieur <INGRED>.</INGRED> Fouettez les <INGRED>jaunes</INGRED> d’ <INGRED>œufs</INGRED> avec le <INGRED>sucre vanillé</INGRED> et 40 <INGRED>g</INGRED> de <INGRED>sucre en poudre</INGRED> et versez dessus le <INGRED>lait chaud vanillé</INGRED> <INGRED>.</INGRED> Transvasez le tout dans la casserole et remettez sur feu doux pour faire épaissir cette <INGRED>crème</INGRED> vanillée <INGRED>,</INGRED> en remuant sans cesse. Laissez refroidir et faites prendre 1 à 2 heures au <INGRED>frais</INGRED> <INGRED>.</INGRED> Pendant ce temps <INGRED>:</INGRED> coupez les <INGRED>amandes</INGRED> en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> et faites - les dorer sur feu doux dans une casserole préalablement chauffée à sec <INGRED>.</INGRED> Ajoutez - y le <INGRED>reste</INGRED> du <INGRED>sucre</INGRED> <INGRED>,</INGRED> mélangez et retirez du feu lorsque le <INGRED>caramel</INGRED> fonce tout en restant liquide <INGRED>,</INGRED> afin d’ obtenir de la nougatine. Versez cette préparation en fine couche sur du papier sulfurisé et laissez durcir <INGRED>,</INGRED> puis cassez la plaque de nougatine en petites brisures. Dans les fonds de tartelettes <INGRED>:</INGRED> disposez les <INGRED>cerises</INGRED> <INGRED>,</INGRED> versez la <INGRED>crème</INGRED> vanillée au centre et parsemez de brisures nougatine. Décorez les tartelettes avec des <INGRED>cerises</INGRED> entières.- Recette des Verrines glacées aux <INGRED>pommes</INGRED> <INGRED>:</INGRED> Pelez et coupez les <INGRED>pommes</INGRED> en <INGRED>petits</INGRED> dés ; puis faites - les fondre dans une casserole avec le <INGRED>sucre</INGRED> <INGRED>,</INGRED> les zestes et le <INGRED>jus de citron</INGRED> ainsi que la <INGRED>cannelle</INGRED> <INGRED>.</INGRED> Une fois fondantes <INGRED>,</INGRED> écrasez le <INGRED>mélange</INGRED> pour obtenir une compotée et ajoutez l’ amaretto. Dans des verrines <INGRED>:</INGRED> versez la compotée de <INGRED>pommes</INGRED> au <INGRED>fond</INGRED> <INGRED>,</INGRED> recouvrez d’ une couche de <INGRED>biscuits</INGRED> émiettés <INGRED>,</INGRED> et ajoutez une <INGRED>petite</INGRED> <INGRED>boule</INGRED> de <INGRED>glace</INGRED> <INGRED>.</INGRED> Décorez les <INGRED>verrines</INGRED> avec du <INGRED>thym</INGRED> <INGRED>frais</INGRED> et de la <INGRED>cannelle en poudre</INGRED> saupoudrée. Pour plus de détails <INGRED>:</INGRED> www.manger-local.fr AOC Maury ( Domaine Serre Romani )
+  </annotation>
+  <complexite>
+    <temps>f(X) = 27.3488372093023*X + 14.6511627906977</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 28*X + 20</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['Ingrédients']	 id:1	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['rouleau de pâte brisée', 'rouleau']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['Cerises en conserve du Caroux', 'Cerises']	 id:3	 quantité:300	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["jaunes d'Œufs produits en Languedoc-Roussillon", 'jaunes']	 id:4	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['lait']	 id:5	 quantité:15	 unité:cL de	 denombrable:True	 recipient:15*X
+ingredient:['sucre en poudre', 'sucre']	 id:6	 quantité:60	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['vanille']	 id:7	 quantité:1	 unité:gousse de	 denombrable:True	 recipient:1*X
+ingredient:['amandes décortiquées', 'amandes']	 id:8	 quantité:40	 unité:g d'	 denombrable:False	 recipient:1
+ingredient:['Ingrédients']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['Glace fermière au lait de brebis', 'Glace']	 id:10	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['pommes Reinettes du Vigan ou de variété Pinova', 'pommes']	 id:11	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['Pink Gold', 'Pink']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['Reinette']	 id:13	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['Golden']	 id:14	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['Chantecler ou autre variété de pommes du Languedoc-Roussillon', 'Chantecler']	 id:15	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['Zézettes de Sète', 'Zézettes']	 id:16	 quantité:120	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['zestes']	 id:17	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['citrons']	 id:18	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['sucre en poudre', 'sucre']	 id:19	 quantité:10	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['cannelle en poudre', 'cannelle']	 id:20	 quantité:1	 unité:pincées de	 denombrable:True	 recipient:1*X
+ingredient:['amaretto']	 id:21	 quantité:5	 unité:cl d'	 denombrable:False	 recipient:1
+ingredient:['thym frais', 'thym']	 id:22	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préchauffer	 id:o_1	 ingrédients_ralatifs:['1', '10', '5', '1']	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:cuire	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:porter	 id:o_3	 ingrédients_ralatifs:['16', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enlever	 id:o_4	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:avoir	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fouetter	 id:o_6	 ingrédients_ralatifs:['3', '1', '5', '4', '2', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:transvaser	 id:o_7	 ingrédients_ralatifs:['14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:prendre	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_10	 ingrédients_ralatifs:['5', '3', '1']	 nombre_opération_atomique:15*X+1+1	 temps:15*X*1+1*X*1+1*X*1	 recipient:1
+operation:dorer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:['1', '19', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_13	 ingrédients_ralatifs:['4', '19', '13']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:durcir	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:casser	 id:o_15	 ingrédients_ralatifs:['13']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:parsemer	 id:o_17	 ingrédients_ralatifs:['13']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:décorer	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:peler	 id:o_19	 ingrédients_ralatifs:['6', '3', '3']	 nombre_opération_atomique:1+1+1	 temps:1*X*1+1*X*1+1*X*1	 recipient:0
+operation:fondre	 id:o_20	 ingrédients_ralatifs:['3', '17', '4', '10']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:écraser	 id:o_21	 ingrédients_ralatifs:['2', '21']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_22	 ingrédients_ralatifs:['5', '8', '2', '2', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recouvrir	 id:o_23	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:décorer	 id:o_24	 ingrédients_ralatifs:['22', '20']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

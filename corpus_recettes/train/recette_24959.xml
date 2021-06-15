@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24959">
+  <titre>Veau de Bologne</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de viande de veau</p>
+    <p>125 g de champignons</p>
+    <p>75 g de beurre</p>
+    <p>50 g de parmesan râpé</p>
+    <p>3 oignons </p>
+    <p>20 cl de vin blanc</p>
+    <p>20 cl de bouillon</p>
+    <p>olives dénoyautées</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper la viande en morceaux et émincer les oignons.
+    Faire dorer la viande dans une cocotte avec du beurre, incorporer les oignons et assaisonner. Ajouter les champignons et les olives, arroser de vin blanc et de bouillon, et laisser mijoter à feu doux pendant 1 h.
+    Beurrer un plat et y verser la préparation. Recouvrir de parmesan et enfourner pendant 10 min position grill.
+  ]]>
+  </preparation>
+</recette>

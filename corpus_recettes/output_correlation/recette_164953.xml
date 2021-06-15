@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164953">
+  <titre>Poêlée de gésiers aux champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1/2 oignons</p>
+    <p>1 echalote</p>
+    <p>5/6 gousses d'ail</p>
+    <p>7 champignons forestiers</p>
+    <p>300g de gesiers de volaille</p>
+    <p>beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    coupez en petits morceaux oignons et echalote, pelez l'ailfaire fondre une noisette dans une sauteuse et faites revenir l'oignon et l'echaloteajoutez les gesiers puis les champignons coupes en lamelleenfin presser l'ail au dessuslaissez chauffer une vingtaine de minutes et c'est pret il ne vous reste plus qu'a deguster
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">coupez</OPER> en <INGRED id="3">petits</INGRED> morceaux <INGRED id="4">oignons</INGRED> et <INGRED id="2">echalote</INGRED>, <OPER id="o_2">pelez</OPER> l'<OPER id="o_3">ailfaire</OPER> <OPER id="o_4">fondre</OPER> une noisette dans une sauteuse et faites <OPER id="o_5">revenir</OPER> l'<INGRED id="4">oignon</INGRED> et l'echaloteajoutez les <INGRED id="5">gesiers</INGRED> puis les <INGRED id="4">champignons</INGRED> coupes en lamelleenfin <OPER id="o_6">presser</OPER> l'<INGRED id="5">ail</INGRED> au dessuslaissez <OPER id="o_7">chauffer</OPER> une vingtaine de minutes et c'est pret il ne vous <INGRED id="1">reste</INGRED> plus qu'a <OPER id="o_8">deguster</OPER>
+  </annotation>
+  <annotation methode="crf">
+  coupez en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> <INGRED>oignons</INGRED> et echalote <INGRED>,</INGRED> pelez l'ailfaire fondre une noisette dans une sauteuse et faites revenir l'<INGRED>oignon</INGRED> et l'echaloteajoutez les gesiers puis les <INGRED>champignons</INGRED> coupes en lamelleenfin presser l'<INGRED>ail</INGRED> au dessuslaissez chauffer une vingtaine de minutes et c'est pret il ne vous <INGRED>reste</INGRED> plus qu'<INGRED>a</INGRED> deguster
+  </annotation>
+  <complexite>
+    <temps>f(X) = 34.3695652173913*X + 12.1304347826087</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 9*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['oignons']	 id:1	 quantité:1/2	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['echalote']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['ail']	 id:3	 quantité:5/6	 unité:gousses d'	 denombrable:False	 recipient:1
+ingredient:['champignons forestiers', 'champignons']	 id:4	 quantité:7	 unité:non_precis	 denombrable:True	 recipient:7*X
+ingredient:['gesiers de volaille', 'gesiers']	 id:5	 quantité:300	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:couper	 id:o_1	 ingrédients_ralatifs:['3', '4', '2', '4', '5', '4', '5', '1']	 nombre_opération_atomique:1+7*X+1*X+7*X+1+7*X+1+1/2*X	 temps:1*X*1+7*X*1+1*X*1+7*X*1+1*X*1+7*X*1+1*X*1+1/2*X*1	 recipient:1
+operation:peler	 id:o_2	 ingrédients_ralatifs:['4', '5', '4']	 nombre_opération_atomique:7*X+1+7*X	 temps:7*X*1+1*X*1+7*X*1	 recipient:0
+operation:ailfaire	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fondre	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:revenir	 id:o_5	 ingrédients_ralatifs:['4', '5', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:presser	 id:o_6	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:deguster	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

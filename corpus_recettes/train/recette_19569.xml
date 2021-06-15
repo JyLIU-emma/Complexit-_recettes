@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19569">
+  <titre>Gratin de Saint-Jacques</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>4 boîtes de noix de Saint Jacques à la bretonne</p>
+    <p>1 morceau d'épaule</p>
+    <p>lait</p>
+    <p>farine</p>
+    <p>fromage râpé</p>
+    <p>chapelure</p>
+    <p>une noix de beurre</p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Passer le morceau d'épaule au mixer. 
+    Faire fondre une noix de beurre dans une poêle bien chaude et y faire revenir l'épaule. 
+    Ajouter alors le lait, la farine afin d'obtenir un appareil de la consistance d'une béchamel. 
+    Passer les noix de saint jacques au mixer et les mélanger à la béchamel. Saler, poivrer. 
+    Dresser dans un plat à gratin beurré, saupoudré de chapelure et passer au four Th 7-8 pendant une demi-heure
+    encore meilleure avec une pointe de noix de muscade blanc (alsace)
+  ]]>
+  </preparation>
+</recette>

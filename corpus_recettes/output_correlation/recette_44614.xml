@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44614">
+  <titre>Kueh Lapis aux épices (Indonésie)</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de beurre en conserve (dans les épiceries asiatiques) ou un mélange de 175 g de beurre mou et de 75 g de margarine</p>
+    <p>100 g de lait concentré sucré</p>
+    <p>15 jaunes d'oeuf</p>
+    <p>5 blancs d'oeuf</p>
+    <p>100 g de sucre</p>
+    <p>100 g de farine tamisée</p>
+    <p>1/2 cuillère à café de cannelle en poudre</p>
+    <p>1 cuillère à café de mélange d'épices à Kueh Lapis</p>
+    <p>Poru les épices à Kueh Lapis, mélanger ensemble :</p>
+    <p>28 g de cannelle en poudre</p>
+    <p>15 g de poudre de clous de girofle</p>
+    <p>7 g de poudre d'anis étoilé</p>
+    <p>15 g de poudre de cardamome</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1. Mélangez le beurre et le lait concentré sucré, au fouet électrique (15 à 20 min), ou mieux au robot, jusqu'à obtenir un mélange très crémeux. Réservez.2. Fouettez les jaunes d'oeufs jusqu'à l'obtention d'une masse crémeuse. La masse doit avoir doublé de volume. Environ 15 à 20 min au fouet électrique.3. Pendant que vous laissez reposer et refroidir le fouet électrique, mélangez la préparation aux jaunes d'oeufs, en l'incorporant délicatement, petit à petit, et en plusieurs étapes, à la masse crémeuse beurre-lait concentré sucré.4. Montez les blancs en neige, en ajoutant le sucre, petit à petit, jusqu'à obtention de pics bien fermes.5. Tamisez la farine et les épices ensemble. Réservez.6. Incorporez délicatement la moitié des blancs d'oeufs à la préparation, puis versez la moitie de la farine, puis le reste des blancs d'oeufs.
+    Et terminez par la farine, sinon votre pâte sera granuleuse et bulleuse.7. Préchauffez le four à 180°C (Th 6), et mettez le reste du beurre en conserve dans une casserole, pour le faire fondre. Réservez le beurre fondu.8. Placez une feuille de papier sulfurisé au fond du moule, de la dimension de la base du moule aux bords hauts.9. A l'aide d'1 cuillère à soupe, verser 5 cuillères de la pâte, en prenant soin que la couche soit bien équilibrée sur toute la surface du moule. Enfournez pendant 7 min, selon les fours, puis quelques secondes sous le grill afin d'obtenir une jolie coloration.
+    Mais surveillez bien, pour éviter que la coloration et le moelleux de la couche soient irréversibles!10. Sortez le moule du four, et badigeonnez-le généreusement
+    de beurre en conserve fondu, à l'aide d'un pinceau.11. Ajoutez 4 cuillères à soupe de pâte à Kueh Lapis, et bien égalez la couche de pâte.
+    Mettez-le au four 7 min, et quelques secondes sous le grill.12. Sortez le moule du four, et badigeonnez-le généreusement de beurre en conserve fondu à l'aide d'un pinceau. Ajouter 4 cuillères à soupe de pâte à Kueh Lapis, et bien égalez la couche de pâte.
+    Enfournez encore 7 min et quelques secondes sous le grill... Et ainsi de suite, jusqu'à épuisement de la pâte.13. Faites entre 8 et 15 couches. 
+    Terminez par le badigeonnage de beurre sur la dernière couche, et laissez refroidir dans le moule pendant au moins 1/2 h, ce qui permettra au gâteau de se détacher tout seul des bords, et facilitera le démoulage.14. Démoulez le gâteau sur une grille, et pressez-le avec une autre grille, pour faire sortir l'excèdent de beurre.15. Coupez les 4 bords du gâteau, afin que ça soit plus joli, et laissez découvrir les différentes couches.16. Dégustez en fines tranches...Mieux vaut qu'il soit moins cuit, que trop cuit, sinon il perdra un peu de son côté moelleux!
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  1. <OPER id="o_1">Mélangez</OPER> le <INGRED id="6">beurre</INGRED> et le <INGRED id="3">lait concentré sucré</INGRED>, au fouet électrique ( 15 à 20 min ), ou mieux au robot, jusqu'à obtenir un <INGRED id="7">mélange</INGRED> très crémeux. Réservez.2. <OPER id="o_2">Fouettez</OPER> les <INGRED id="1">jaunes d'oeufs</INGRED> jusqu'à l'obtention d'une masse crémeuse. La masse doit <OPER id="o_3">avoir</OPER> doublé de volume. Environ 15 à 20 min au fouet électrique.3. Pendant que vous laissez <OPER id="o_4">reposer</OPER> et <OPER id="o_5">refroidir</OPER> le fouet électrique, <OPER id="o_6">mélangez</OPER> la <INGRED id="4">préparation</INGRED> aux <INGRED id="1">jaunes d'oeufs</INGRED>, en l'incorporant délicatement, petit à petit, et en plusieurs étapes, à la masse crémeuse <INGRED id="10">beurre</INGRED> - <INGRED id="5">lait</INGRED> <INGRED id="7">concentré</INGRED> sucré.4. <OPER id="o_7">Montez</OPER> les <INGRED id="3">blancs</INGRED> en neige, en ajoutant le <INGRED id="1">sucre</INGRED>, petit à petit, jusqu'à obtention de <INGRED id="10">pics</INGRED> bien fermes.5. <OPER id="o_8">Tamisez</OPER> la <INGRED id="5">farine</INGRED> et les <INGRED id="14">épices</INGRED> ensemble. Réservez.6. <OPER id="o_9">Incorporez</OPER> délicatement la moitié des <INGRED id="1">blancs d'oeufs</INGRED> à la <INGRED id="4">préparation</INGRED>, puis versez la moitie de la <INGRED id="15">farine</INGRED>, puis le <INGRED id="1">reste</INGRED> des <INGRED id="7">blancs d'oeufs</INGRED>. Et terminez par la <INGRED id="10">farine</INGRED>, sinon votre <INGRED id="1">pâte</INGRED> sera granuleuse et bulleuse.7. <OPER id="o_10">Préchauffez</OPER> le four à 180 ° C ( Th 6 ), et <OPER id="o_11">mettez</OPER> le <INGRED id="1">reste</INGRED> du <INGRED id="10">beurre</INGRED> en conserve dans une casserole, pour le <INGRED id="4">faire</INGRED> fondre. Réservez le <INGRED id="7">beurre</INGRED> fondu.8. <OPER id="o_12">Placez</OPER> une feuille de papier sulfurisé au <INGRED id="8">fond</INGRED> du moule, de la dimension de la base du moule aux bords hauts.9. A l'aide d'1 cuillère à <INGRED id="6">soupe</INGRED>, <OPER id="o_13">verser</OPER> 5 cuillères de la <INGRED id="7">pâte</INGRED>, en prenant soin que la couche soit bien équilibrée sur toute la surface du moule. <OPER id="o_14">Enfournez</OPER> pendant 7 min, selon les fours, puis quelques secondes sous le grill afin d'obtenir une jolie coloration. Mais <OPER id="o_15">surveillez</OPER> bien, pour éviter que la coloration et le moelleux de la couche soient irréversibles!10. <OPER id="o_16">Sortez</OPER> le moule du four, et badigeonnez - le généreusement de <INGRED id="5">beurre</INGRED> en conserve fondu, à l'aide d'un pinceau.11. <OPER id="o_17">Ajoutez</OPER> 4 cuillères à <INGRED id="6">soupe</INGRED> de <INGRED id="9">pâte</INGRED> à Kueh Lapis, et bien <OPER id="o_18">égalez</OPER> la couche de <INGRED id="2">pâte</INGRED>. <OPER id="o_19">Mettez</OPER> - le au four 7 min, et quelques secondes sous le grill.12. <OPER id="o_20">Sortez</OPER> le moule du four, et badigeonnez - le généreusement de <INGRED id="14">beurre</INGRED> en conserve fondu à l'aide d'un pinceau. <OPER id="o_21">Ajouter</OPER> 4 cuillères à <INGRED id="5">soupe</INGRED> de <INGRED id="7">pâte</INGRED> à Kueh Lapis, et bien <OPER id="o_22">égalez</OPER> la couche de <INGRED id="15">pâte</INGRED>. <OPER id="o_23">Enfournez</OPER> encore 7 min et quelques secondes sous le grill... Et ainsi de suite, jusqu'à épuisement de la pâte.13. Faites entre 8 et 15 couches. Terminez par le badigeonnage de <INGRED id="3">beurre</INGRED> sur la dernière couche, et laissez <OPER id="o_24">refroidir</OPER> dans le moule pendant au moins 1/2 h, ce qui permettra au gâteau de se <OPER id="o_25">détacher</OPER> tout seul des bords, et facilitera le démoulage.14. <OPER id="o_26">Démoulez</OPER> le gâteau sur une grille, et pressez - le avec une autre grille, pour <INGRED id="10">faire</INGRED> sortir l'excèdent de beurre.15. <OPER id="o_27">Coupez</OPER> les 4 bords du gâteau, afin que ça soit plus joli, et laissez <OPER id="o_28">découvrir</OPER> les différentes couches.16. Dégustez en fines <INGRED id="4">tranches</INGRED>... Mieux vaut qu'il soit moins cuit, que trop cuit, sinon il perdra un <INGRED id="14">peu</INGRED> de son côté moelleux !
+  </annotation>
+  <annotation methode="crf">
+  1 <INGRED>.</INGRED> Mélangez le <INGRED>beurre</INGRED> et le <INGRED>lait</INGRED> <INGRED>concentré</INGRED> sucré <INGRED>,</INGRED> au fouet électrique ( 15 à 20 min ) <INGRED>,</INGRED> <INGRED>ou</INGRED> mieux au robot, jusqu'à obtenir un <INGRED>mélange</INGRED> très crémeux <INGRED>.</INGRED> Réservez.2. Fouettez les <INGRED>jaunes d'oeufs</INGRED> jusqu'à l'obtention d'une masse crémeuse. La masse doit avoir doublé de <INGRED>volume</INGRED>. <INGRED>Environ</INGRED> 15 à 20 min au fouet électrique.3. Pendant que vous laissez reposer et refroidir le fouet électrique <INGRED>,</INGRED> mélangez la préparation aux <INGRED>jaunes d'oeufs</INGRED> <INGRED>,</INGRED> en l'incorporant délicatement <INGRED>,</INGRED> <INGRED>petit</INGRED> à <INGRED>petit</INGRED> <INGRED>,</INGRED> et en plusieurs étapes <INGRED>,</INGRED> à la masse crémeuse <INGRED>beurre</INGRED> - <INGRED>lait</INGRED> <INGRED>concentré sucré.4</INGRED> <INGRED>.</INGRED> Montez les <INGRED>blancs</INGRED> en neige <INGRED>,</INGRED> en ajoutant le <INGRED>sucre</INGRED> <INGRED>,</INGRED> <INGRED>petit</INGRED> à <INGRED>petit</INGRED> <INGRED>,</INGRED> jusqu'à obtention de pics bien fermes.5 <INGRED>.</INGRED> Tamisez la <INGRED>farine</INGRED> et les <INGRED>épices</INGRED> ensemble. Réservez.6. Incorporez délicatement la moitié des <INGRED>blancs d'oeufs</INGRED> à la préparation <INGRED>,</INGRED> puis versez la moitie de la <INGRED>farine</INGRED> <INGRED>,</INGRED> puis le <INGRED>reste</INGRED> des <INGRED>blancs d'oeufs</INGRED> <INGRED>.</INGRED> Et terminez par la <INGRED>farine</INGRED> <INGRED>,</INGRED> sinon votre <INGRED>pâte</INGRED> sera granuleuse et bulleuse.7 <INGRED>.</INGRED> Préchauffez le four à 180 ° C ( Th 6 ) <INGRED>,</INGRED> et mettez le <INGRED>reste</INGRED> du <INGRED>beurre</INGRED> en conserve dans une casserole <INGRED>,</INGRED> pour le faire fondre <INGRED>.</INGRED> Réservez le <INGRED>beurre</INGRED> fondu.8. Placez une feuille de papier sulfurisé au <INGRED>fond</INGRED> du <INGRED>moule</INGRED> <INGRED>,</INGRED> de la dimension de la base du moule aux bords hauts.9. A l'aide d'1 cuillère à soupe <INGRED>,</INGRED> verser 5 <INGRED>cuillères</INGRED> de la <INGRED>pâte</INGRED> <INGRED>,</INGRED> en prenant soin que la couche soit bien équilibrée sur toute la surface du <INGRED>moule</INGRED> <INGRED>.</INGRED> Enfournez pendant 7 min <INGRED>,</INGRED> selon les fours <INGRED>,</INGRED> puis quelques secondes sous le grill afin d'obtenir une jolie coloration. Mais surveillez bien <INGRED>,</INGRED> pour éviter que la coloration et le moelleux de la couche soient irréversibles!10 <INGRED>.</INGRED> Sortez le moule du four <INGRED>,</INGRED> et badigeonnez - le généreusement de <INGRED>beurre</INGRED> en conserve fondu <INGRED>,</INGRED> à l'aide d'un pinceau.11. Ajoutez 4 <INGRED>cuillères à soupe</INGRED> de <INGRED>pâte</INGRED> à Kueh Lapis <INGRED>,</INGRED> et bien égalez la couche de <INGRED>pâte</INGRED> <INGRED>.</INGRED> Mettez - le au four 7 min <INGRED>,</INGRED> et quelques secondes sous le grill.12 <INGRED>.</INGRED> Sortez le moule du four <INGRED>,</INGRED> et badigeonnez - le généreusement de <INGRED>beurre</INGRED> en conserve fondu à l'aide d'un pinceau <INGRED>.</INGRED> Ajouter 4 <INGRED>cuillères à soupe</INGRED> de <INGRED>pâte</INGRED> à Kueh Lapis <INGRED>,</INGRED> et bien égalez la couche de <INGRED>pâte</INGRED> <INGRED>.</INGRED> Enfournez encore 7 min et quelques secondes sous le grill... Et ainsi de suite <INGRED>,</INGRED> jusqu'à épuisement de la pâte.13 <INGRED>.</INGRED> Faites entre 8 et 15 couches. Terminez par le badigeonnage de <INGRED>beurre</INGRED> sur la dernière couche <INGRED>,</INGRED> et laissez refroidir dans le <INGRED>moule</INGRED> pendant au moins <INGRED>1/2</INGRED> <INGRED>h</INGRED> <INGRED>,</INGRED> ce qui permettra au gâteau de se détacher tout seul des bords <INGRED>,</INGRED> et facilitera le démoulage.14 <INGRED>.</INGRED> Démoulez le gâteau sur une grille <INGRED>,</INGRED> et pressez - le avec une autre grille <INGRED>,</INGRED> pour faire sortir l'excèdent de beurre.15. Coupez les 4 bords du gâteau <INGRED>,</INGRED> afin que ça soit plus joli <INGRED>,</INGRED> et laissez découvrir les différentes couches.16. Dégustez en fines tranches... Mieux vaut qu'il soit moins cuit <INGRED>,</INGRED> que trop cuit <INGRED>,</INGRED> sinon il perdra un peu de son côté moelleux !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 17.8181818181818*X + 10.1818181818182</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 21*X + 19</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['beurre mou', 'beurre']	 id:1	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['margarine']	 id:2	 quantité:75	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['lait concentré sucré', 'lait']	 id:3	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["jaunes d'oeuf", 'jaunes']	 id:4	 quantité:15	 unité:non_precis	 denombrable:True	 recipient:15*X
+ingredient:["blancs d'oeuf", 'blancs']	 id:5	 quantité:5	 unité:non_precis	 denombrable:True	 recipient:5*X
+ingredient:['sucre']	 id:6	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine tamisée', 'farine']	 id:7	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['cannelle en poudre', 'cannelle']	 id:8	 quantité:1/2	 unité:cuillère à café de	 denombrable:False	 recipient:1
+ingredient:["mélange d'épices à Kueh Lapis", 'mélange']	 id:9	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+ingredient:['Poru les épices à Kueh Lapis', 'Poru']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['mélanger ensemble', 'mélanger']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['cannelle en poudre', 'cannelle']	 id:12	 quantité:28	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['poudre de clous de girofle', 'poudre']	 id:13	 quantité:15	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["poudre d'anis étoilé", 'poudre']	 id:14	 quantité:7	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['poudre de cardamome', 'poudre']	 id:15	 quantité:15	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mélanger	 id:o_1	 ingrédients_ralatifs:['6', '3', '7']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:fouetter	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:avoir	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:refroidir	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:mélanger	 id:o_6	 ingrédients_ralatifs:['4', '1', '10', '5', '7', '3', '1', '10']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:monter	 id:o_7	 ingrédients_ralatifs:['3', '1', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tamiser	 id:o_8	 ingrédients_ralatifs:['5', '14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_9	 ingrédients_ralatifs:['1', '4', '15', '1', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préchauffer	 id:o_10	 ingrédients_ralatifs:['1', '10', '4']	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:mettre	 id:o_11	 ingrédients_ralatifs:['1', '10', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:placer	 id:o_12	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_13	 ingrédients_ralatifs:['6', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfourner	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:surveiller	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:sortir	 id:o_16	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_17	 ingrédients_ralatifs:['6', '9', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:égaler	 id:o_18	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:sortir	 id:o_20	 ingrédients_ralatifs:['14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_21	 ingrédients_ralatifs:['5', '7', '15']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:égaler	 id:o_22	 ingrédients_ralatifs:['15']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfourner	 id:o_23	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:détacher	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:démouler	 id:o_26	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_27	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:découvrir	 id:o_28	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

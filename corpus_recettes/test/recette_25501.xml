@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25501">
+  <titre>Citron vert en sorbet</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>12 à 15 citrons verts</p>
+    <p>75 cl d’eau</p>
+    <p>300 g de sucre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Presser les citrons jusqu’à l’obtention d’environ 35 cl de jus.
+    Récuperer le zeste de 5 citrons et les détailler en fines lamelles.
+    Faire un sirop : mettre le sucre à chauffer dans une casserole avec l’eau, porter à ébullition pendant 5 minutes sans cesser de remuer.
+    Incorporer les zestes de citron vert et laisser mariner durant 2 heures. Filtrer.
+    Mélanger ensuite le sirop avec le jus de citron vert puis verser le tout dans la sorbetière et laisser prendre.
+    Si vous n'avez pas de sorbetière, vous pouvez réaliser un granité de citron vert. Verser la préparation dans un moule assez grand et disposer au congélateur. Toutes les heures, grattez la surface à l'aide d'une fourchette pour former des paillettes de sorbet.
+  ]]>
+  </preparation>
+</recette>

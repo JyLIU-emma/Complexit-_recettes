@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25123">
+  <titre>Saint-Jacques sautées à l'ail</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>12 noix de Saint-Jacques</p>
+    <p>2 gouses d'ail</p>
+    <p>1 poignée de persil haché</p>
+    <p>50 g de beurre</p>
+    <p>5 cl de vin blanc sec</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pilez l'ail, mélangez-le avec le persil.
+    Faites fondre le beurre dans une poêle, faites-y suer l'ail et le persil. Salez, poivrez.
+    Ajoutez les Saint-Jacques, faites-les revenir 30 seondes à 1 minute sur chaque face selon l'épaisseur. Retirez-les de la poêle, réservez au chaud.
+    Déglacez la poêle avec le vin blanc, portez à ébullition en grattant les sucs de cuisson.
+    Versez la sauce sur les Saint-Jacques et servez. Accompagnez de riz ou de pommes de terre rattes rôties à la fleur de sel.
+  ]]>
+  </preparation>
+</recette>

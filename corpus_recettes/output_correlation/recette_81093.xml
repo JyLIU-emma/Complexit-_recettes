@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81093">
+  <titre>Boeuf saté sur plaque chauffante</titre>
+  <type>Plat principal</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de bœuf tendre</p>
+    <p>un bol de lait de coco (une brique de 25 cl suffira)</p>
+    <p>1 bel oignon</p>
+    <p>1 beau poivron (idéalement moitié rouge moitié vert)</p>
+    <p>2 ou 3 champignons de paris frais (ou une petite boîte de champignons en émincés) </p>
+    <p>1 carotte</p>
+    <p>pousse de bambou (facultatif, selon les goûts)</p>
+    <p>ananas (facultatif, selon les goûts)</p>
+    <p>3 à 4 cuillères à soupe de pâte de Saté (cacahuètes, ail et piment en poudre)</p>
+    <p>ail semoule</p>
+    <p>sel et poivre</p>
+    <p>2 cuillères à soupe d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le bœuf en fines lamelles en veillant à ce qu'elles ne soient pas trop épaisses. Mettre les lamelles de bœuf dans le bol de lait de coco à mariner une nuit au réfrigérateur.
+    Couper finement l'oignon, le poivron (idéalement moitié rouge moitié vert) et les champignons. Couper la carotte et éventuellement les pousses de bambou en allumettes. Faire des petits dés d'ananas. 
+    Puis mélanger le tout dans un grand bol.
+    Préchauffer 2 plaques de cuisson au moins. Dans un wok, mettre les 2 cuillères d'huile et les légumes, cuire une minute et faire sauter. 
+    Ajouter le bœuf et un peu de lait de coco de la marinade pour avoir de la sauce. Ajouter les 3 à 4 cuillères de pâte de Saté, l'ail semoule et le sel et poivre. Cuire 3 minutes.
+    Les plaques chauffantes que l'on trouve dans le commerce sont généralement constituées d'une planche de bois et d'une assiette de fonte en forme de bœuf. Faire chauffer l'assiette de fonte directement sur les plaques de cuisson.
+    Une fois l'assiette de fonte bien chaude, servir du wok dans l'assiette et placer sur la planche de bois. ATTENTION, c'est très chaud.
+    Le plat crépite, attendre qu'il se refroidisse un peu et déguster.
+    Bon appétit.
+    Il est possible de garder le plat au frais une journée. Réchauffer au micro-ondes une minute et mettre dans l'assiette en fonte.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Couper</OPER> le <INGRED id="1">bœuf</INGRED> en fines lamelles en veillant à ce qu'elles ne soient pas trop épaisses. <OPER id="o_2">Mettre</OPER> les lamelles de <INGRED id="1">bœuf</INGRED> dans le bol de <INGRED id="4">lait de coco</INGRED> à <OPER id="o_3">mariner</OPER> une nuit au réfrigérateur. <OPER id="o_4">Couper</OPER> finement l'<INGRED id="12">oignon</INGRED>, le <INGRED id="2">poivron</INGRED> ( idéalement moitié rouge moitié <INGRED id="7">vert</INGRED> ) et les <INGRED id="5">champignons</INGRED>. <OPER id="o_5">Couper</OPER> la <INGRED id="3">carotte</INGRED> et éventuellement les pousses de bambou en allumettes. Faire des <INGRED id="9">petits</INGRED> <INGRED id="4">dés</INGRED> d'<INGRED id="8">ananas</INGRED>. Puis <OPER id="o_611">mélanger</OPER> le tout dans un grand bol. <OPER id="o_7">Préchauffer</OPER> 2 plaques de cuisson au moins. Dans un <INGRED id="1">wok</INGRED>, <OPER id="o_8">mettre</OPER> les 2 cuillères d'huile et les légumes, <OPER id="o_9">cuire</OPER> une minute et faire <OPER id="o_10">sauter</OPER>. <OPER id="o_11">Ajouter</OPER> le <INGRED id="1">bœuf</INGRED> et un <INGRED id="10">peu de lait</INGRED> de coco de la marinade pour avoir de la sauce. <OPER id="o_12">Ajouter</OPER> les 3 à 4 cuillères de <INGRED id="9">pâte de Saté</INGRED>, <INGRED id="1">l'ail</INGRED> <INGRED id="1">semoule</INGRED> et le <INGRED id="8">sel</INGRED> et <INGRED id="9">poivre</INGRED>. <OPER id="o_13">Cuire</OPER> 3 minutes. Les plaques chauffantes que l'on trouve dans le commerce sont généralement constituées d'une planche de bois et d'une assiette de fonte en forme de <INGRED id="1">bœuf</INGRED>. Faire <OPER id="o_14">chauffer</OPER> l'assiette de fonte directement sur les plaques de cuisson. Une fois l'assiette de fonte bien chaude, servir du <INGRED id="1">wok</INGRED> dans l'assiette et <OPER id="o_15">placer</OPER> sur la planche de bois. ATTENTION, c'est très chaud. Le <INGRED id="9">plat</INGRED> crépite, <OPER id="o_16">attendre</OPER> qu'il se refroidisse un peu et déguster. Bon appétit. Il est possible de <OPER id="o_17">garder</OPER> le <INGRED id="9">plat</INGRED> au frais une journée. <OPER id="o_18">Réchauffer</OPER> au micro-ondes une minute et <OPER id="o_19">mettre</OPER> dans l'assiette en fonte.
+  </annotation>
+  <annotation methode="crf">
+  Couper le bœuf en fines <INGRED>lamelles</INGRED> en veillant à ce qu'elles ne soient pas trop épaisses. Mettre les <INGRED>lamelles</INGRED> de bœuf dans le bol de <INGRED>lait</INGRED> de coco à mariner une nuit au réfrigérateur. Couper <INGRED>finement</INGRED> l'<INGRED>oignon</INGRED> <INGRED>,</INGRED> le <INGRED>poivron</INGRED> ( idéalement moitié rouge moitié vert ) et les <INGRED>champignons</INGRED> <INGRED>.</INGRED> Couper la <INGRED>carotte</INGRED> et éventuellement les <INGRED>pousses de bambou</INGRED> en allumettes <INGRED>.</INGRED> Faire des <INGRED>petits</INGRED> dés d'<INGRED>ananas</INGRED>. Puis mélanger le tout dans un grand bol <INGRED>.</INGRED> Préchauffer 2 plaques de cuisson au moins. Dans un wok <INGRED>,</INGRED> mettre les 2 <INGRED>cuillères d'huile</INGRED> et les <INGRED>légumes</INGRED> <INGRED>,</INGRED> cuire une minute et faire sauter <INGRED>.</INGRED> Ajouter le bœuf et un peu de <INGRED>lait</INGRED> de coco de la marinade pour avoir de la <INGRED>sauce</INGRED>. Ajouter les 3 à 4 <INGRED>cuillères</INGRED> de <INGRED>pâte</INGRED> de Saté <INGRED>,</INGRED> l'<INGRED>ail</INGRED> semoule et le <INGRED>sel</INGRED> et <INGRED>poivre</INGRED>. Cuire 3 minutes. Les plaques chauffantes que l'on trouve dans le commerce sont généralement constituées d'une planche de bois et d'une assiette de fonte en forme de bœuf. Faire chauffer l'assiette de fonte directement sur les plaques de cuisson. Une fois l'assiette de fonte bien chaude <INGRED>,</INGRED> servir du wok dans l'assiette et placer sur la planche de bois <INGRED>.</INGRED> ATTENTION <INGRED>,</INGRED> c'est très chaud <INGRED>.</INGRED> Le plat crépite <INGRED>,</INGRED> attendre qu'il se refroidisse un peu et déguster <INGRED>.</INGRED> Bon appétit. Il est possible de garder le plat au <INGRED>frais</INGRED> une journée. Réchauffer au micro-ondes une minute et mettre dans l'assiette en fonte <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 189.411764705882*X + 132.588235294118</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 10*X + 19</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['bœuf tendre', 'bœuf']	 id:1	 quantité:300	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['lait de coco', 'lait']	 id:2	 quantité:non_precis	 unité:bol de	 denombrable:False	 recipient:1
+ingredient:['oignon']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['poivron']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['champignons de paris frais', 'champignons']	 id:5	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['carotte']	 id:6	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['pousse de bambou', 'pousse']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['ananas']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['pâte de Saté', 'pâte']	 id:9	 quantité:3	 unité:cuillères à soupe de	 denombrable:True	 recipient:3*X
+ingredient:['ail semoule', 'ail']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['huile']	 id:13	 quantité:2	 unité:cuillères à soupe d'	 denombrable:True	 recipient:2*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:couper	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:300*X	 temps:1*X*1	 recipient:1
+operation:mettre	 id:o_2	 ingrédients_ralatifs:['1', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mariner	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:couper	 id:o_4	 ingrédients_ralatifs:['12', '2', '7', '5']	 nombre_opération_atomique:1+1+1+2*X	 temps:1*X*1+1*X*1+1*X*1+2*X*1	 recipient:1
+operation:couper	 id:o_5	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1*X*1	 recipient:1
+operation:mélanger	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:préchauffer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:mettre	 id:o_8	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cuire	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:sauter	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_11	 ingrédients_ralatifs:['1', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:['9', '1', '1', '8', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:chauffer	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:placer	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:attendre	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garder	 id:o_17	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:réchauffer	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mettre	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

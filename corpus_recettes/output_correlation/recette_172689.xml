@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172689">
+  <titre>Crevettes à l'indienne maison</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1kg grosses crevettes</p>
+    <p>2 cuillères à soupe huile végétale</p>
+    <p>1 gros oignon</p>
+    <p>3 grosses poignées de coriandre fraîche (feuilles)</p>
+    <p>1 grosse poignée menthe fraîche</p>
+    <p>2 cuillères à soupe d'eau</p>
+    <p>2 cuillères à soupe d'huile de sésame</p>
+    <p>2 gousses d'ail hachées</p>
+    <p>1 cuillère à soupe gingembre frais haché</p>
+    <p>2 cuillères à soupe de vinaigre blanc</p>
+    <p>1 cuillère à café curcuma moulu</p>
+    <p>1 cuillère à café de poudre de piment</p>
+    <p>1 cuillère à café de graines de fenouil moulu</p>
+    <p>1/2 cuillère à café de cannelle moulue</p>
+    <p>1 cuillère à café de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Décortiquer les crevettes en laissant la queue intacte.
+    Emincer l'oignon.
+    Préparer la pâte Massala en mixant la coriandre avec la menthe, l'eau, l'huile de sésame, l'ail, le gingembre, le vinaigre, le curcuma, le piment, le fenouil, la cannelle et le sel.
+    Faire légèrement dorer l'oignon dans l'huile chaude, dans une grande poêle, puis verser la pâte Massala.
+    Remuer à feu vif jusqu'à ce qu'elle embaume.
+    Ajouter alors les crevettes et laisser cuire 5 min environ.Entrée très appréciée par les convives. rosé de provence
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Décortiquer</OPER> les <INGRED id="1">crevettes</INGRED> en laissant la <INGRED id="3">queue</INGRED> intacte. <OPER id="o_2">Emincer</OPER> l'<INGRED id="8">oignon</INGRED>. <OPER id="o_3">Préparer</OPER> la pâte Massala en mixant la coriandre avec la <INGRED id="6">menthe</INGRED>, l'<INGRED id="4">eau</INGRED>, l'<INGRED id="8">huile de sésame</INGRED>, <INGRED id="1">l'ail</INGRED>, le <INGRED id="9">gingembre</INGRED>, le <INGRED id="12">vinaigre</INGRED>, le <INGRED id="10">curcuma</INGRED>, le <INGRED id="14">piment</INGRED>, le <INGRED id="5">fenouil</INGRED>, la <INGRED id="10">cannelle</INGRED> et le <INGRED id="13">sel</INGRED>. Faire légèrement <OPER id="o_4">dorer</OPER> l'<INGRED id="8">oignon</INGRED> dans l'<INGRED id="9">huile</INGRED> chaude, dans une grande poêle, puis <OPER id="o_5">verser</OPER> la <INGRED id="1">pâte</INGRED> Massala. <OPER id="o_6">Remuer</OPER> à feu vif jusqu'à ce qu'elle embaume. <OPER id="o_7">Ajouter</OPER> alors les <INGRED id="12">crevettes</INGRED> et <INGRED id="12">laisser</INGRED> <OPER id="o_8">cuire</OPER> 5 min <INGRED id="1">environ</INGRED>. Entrée très appréciée par les convives. rosé de provence
+  </annotation>
+  <annotation methode="crf">
+  Décortiquer les <INGRED>crevettes</INGRED> en laissant la queue intacte. Emincer l'<INGRED>oignon</INGRED>. Préparer la <INGRED>pâte</INGRED> Massala en mixant la <INGRED>coriandre</INGRED> avec la <INGRED>menthe</INGRED> <INGRED>,</INGRED> l'<INGRED>eau</INGRED> <INGRED>,</INGRED> l'<INGRED>huile</INGRED> de sésame <INGRED>,</INGRED> l'<INGRED>ail</INGRED> <INGRED>,</INGRED> le <INGRED>gingembre</INGRED> <INGRED>,</INGRED> le <INGRED>vinaigre</INGRED> <INGRED>,</INGRED> le <INGRED>curcuma</INGRED> <INGRED>,</INGRED> le <INGRED>piment</INGRED> <INGRED>,</INGRED> le <INGRED>fenouil</INGRED> <INGRED>,</INGRED> la <INGRED>cannelle</INGRED> et le <INGRED>sel</INGRED> <INGRED>.</INGRED> Faire légèrement dorer l'<INGRED>oignon</INGRED> dans l'<INGRED>huile</INGRED> chaude <INGRED>,</INGRED> dans une grande poêle <INGRED>,</INGRED> puis verser la <INGRED>pâte</INGRED> Massala. Remuer à feu vif jusqu'à ce qu'elle embaume. Ajouter alors les <INGRED>crevettes</INGRED> et laisser cuire 5 min <INGRED>environ</INGRED>. Entrée très appréciée par les convives. rosé de provence
+  </annotation>
+  <complexite>
+    <temps>f(X) = 10.0*X + 1.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 20*X + 4</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['grosses crevettes']	 id:1	 quantité:1	 unité:kg	 denombrable:False	 recipient:1
+ingredient:['huile végétale']	 id:2	 quantité:2	 unité:cuillères à soupe	 denombrable:True	 recipient:2*X
+ingredient:['oignon']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['poignées de coriandre fraîche', 'poignées']	 id:4	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['poignée menthe fraîche', 'poignée']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['eau']	 id:6	 quantité:2	 unité:cuillères à soupe d'	 denombrable:True	 recipient:2*X
+ingredient:['huile de sésame', 'huile']	 id:7	 quantité:2	 unité:cuillères à soupe d'	 denombrable:True	 recipient:2*X
+ingredient:['ail hachées', 'ail']	 id:8	 quantité:2	 unité:gousses d'	 denombrable:True	 recipient:2*X
+ingredient:['gingembre frais haché']	 id:9	 quantité:1	 unité:cuillère à soupe	 denombrable:True	 recipient:1*X
+ingredient:['vinaigre blanc', 'vinaigre']	 id:10	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['curcuma moulu']	 id:11	 quantité:1	 unité:cuillère à café	 denombrable:True	 recipient:1*X
+ingredient:['poudre de piment', 'poudre']	 id:12	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+ingredient:['graines de fenouil moulu', 'graines']	 id:13	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+ingredient:['cannelle moulue', 'cannelle']	 id:14	 quantité:1/2	 unité:cuillère à café de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:15	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:décortiquer	 id:o_1	 ingrédients_ralatifs:['1', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:emincer	 id:o_2	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:2*X*1	 recipient:1
+operation:préparer	 id:o_3	 ingrédients_ralatifs:['6', '4', '8', '1', '9', '12', '10', '14', '5', '10', '13']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:dorer	 id:o_4	 ingrédients_ralatifs:['8', '9', '1']	 nombre_opération_atomique:2*X+1*X+1	 temps:2*X*1+1*X*1+1*X*1	 recipient:0
+operation:verser	 id:o_5	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:['12', '12', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_8	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+]]>
+</operation_trouve>
+</recette>

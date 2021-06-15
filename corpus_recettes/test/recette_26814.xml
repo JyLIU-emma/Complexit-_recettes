@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26814">
+  <titre>Filets de julienne aux amandes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 filets de Julienne</p>
+    <p>60 g d'amandes effilées</p>
+    <p>beurre</p>
+    <p>farine</p>
+    <p>lait</p>
+    <p>persil</p>
+    <p>citron</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Passez les filets de poisson dans du lait puis roulez-les dans la farine.
+    Faites chauffer du beurre dans une poêle et faites-les revenir dedans 10-15 min.
+    Faites griller les amandes effilées à sec quelques minutes dans une poêle.
+    Servez les filets grillé parsemés d'amandes.
+    Saupoudrez de persil et accompagnez de citron.
+    Vous pouvez adapter la recette à d'autres filets de poissons bien sûr.
+  ]]>
+  </preparation>
+</recette>

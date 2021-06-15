@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18655">
+  <titre>Blanc de poulet, sauce à l'ananas</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>beurre pour le plat</p>
+    <p>1 boîte de cube d'ananas</p>
+    <p>2 cuillères à café de coriandre moulue</p>
+    <p>1 pincée de piment moulu</p>
+    <p>4 blanc de poulet</p>
+    <p>200 g de riz basmati</p>
+    <p>1 cube de bouillon</p>
+    <p>1 banane</p>
+    <p>coriandre pour la déco</p>
+    <p>sel poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 200°C, beurrez un plat à gratin. 
+    Versez les cubes d'ananas dans le bol du robot ménager avec le coriandre et le piment, mixez. 
+    Fendez les blancs de poulet dans leur épaisseur et salez poivrez à l'intérieur et extérieur. Farcissez de purée d'ananas. 
+    Posez-les dans le plat, nappez du reste de purée, faites cuire 20 mn à four chaud. 
+    Faites cuire le riz à l'eau bouillante salée et aditionnée du cube de bouillon. Egouttez le. 
+    Pelez et coupez la banane en rondelles. Mélangez-les au riz. 
+    Déposez un blanc de poulet par assiette, nappez le de la sauce, répartissez le riz et garnissez de brin de coriandre.
+  ]]>
+  </preparation>
+</recette>

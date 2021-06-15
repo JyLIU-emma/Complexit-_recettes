@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18488">
+  <titre>Glace vanille</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>180 g de sucre</p>
+    <p>1 cuillère à café d'essence de vanille</p>
+    <p>100 ml de lait </p>
+    <p>6 oeufs</p>
+    <p>50 cl crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre le sucre et les jaune d'oeuf dans un plat. Battre (pas trop pour qu'elle reste jaune). Ajouter la cuillère à café d'essence de vanille, ajouter le lait, mélanger ensuite la crème fraîche. Quand le tout est mélangé, ajouter les blancs battu en neige. Quand le mélange est prêt, verser dans une sorbetière et laisser tourner.
+  ]]>
+  </preparation>
+</recette>

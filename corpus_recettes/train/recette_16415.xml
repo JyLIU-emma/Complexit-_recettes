@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16415">
+  <titre>Salade vietnamienne</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1/2 chou blanc</p>
+    <p>3 ou 4 carottes</p>
+    <p>1 poivron</p>
+    <p>branches de céleri</p>
+    <p>cébettes (ou petits oignons frais)Pour la sauce :</p>
+    <p>3 cuillères à soupe de sucre en poudre</p>
+    <p>2 cuillères à soupe d'eau</p>
+    <p>2 cuillères à soupe de sauce poisson (Nuoc-nam)</p>
+    <p>2 cuillères à soupe de vinaigre blanc</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>1 cuillère à café d'ail écrasé</p>
+    <p>1 petit piment rouge émincé</p>
+    <p>2 cuillères à soupe de cacahuètes pilées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer tous les légumes.
+    Préparez la sauce en mélangeant les ingrédients.
+    Verser sur les légumes au dernier moment, juste avant de servir.
+    Vous pouvez egalement ajouter des champignons de paris eminces et surtout des feuilles de coriandre fraiche.
+  ]]>
+  </preparation>
+</recette>

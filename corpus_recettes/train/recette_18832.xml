@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18832">
+  <titre>Tarte aux fromages</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de fromages variés</p>
+    <p>25 cl de crème</p>
+    <p>4 oeufs</p>
+    <p>sel, poivre, noix de muscade</p>
+    <p>pâte brisée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixer les fromages ensemble et ajouter tous les ingrédients. 
+    Déposer dans le fond de tarte. 
+    Mettre au four pour 30 mn Th 6 (180°C)
+    On peut récupérer les restes de fromage et les congeler en attendant d'en avoir suffisamment.
+  ]]>
+  </preparation>
+</recette>

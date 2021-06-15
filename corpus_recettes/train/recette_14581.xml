@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14581">
+  <titre>Courgettes farcies à la ricotta</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 courgettes rondes </p>
+    <p>250 g de ricotta </p>
+    <p>3 oignons nouveaux </p>
+    <p>2 oeufs </p>
+    <p>30 g de parmesan râpé </p>
+    <p>1 cuillère à café de thym effeuillé </p>
+    <p>20 feuilles de menthe </p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les courgettes et les étêter. A l'aide d'un couteau, creuser la chair pour qu'il n'en reste qu'1/2 centimètre sur le pourtour de la peau.
+    Hacher la chair prélevée et la mélanger avec les oignons hachés, la ricotta, les œufs, le parmesan, le thym.
+    Ajouter 1/3 de l'huile d'olive, la menthe ciselée, le sel et le poivre.
+    Remplir les courgettes de la préparation, les arroser d'un filet d'huile d'olive et les faire cuire au four préchauffé à thermostat 7
+    (210°C) pendant 30 mn.
+    Servir tiède ou froid.
+  ]]>
+  </preparation>
+</recette>

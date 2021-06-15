@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24457">
+  <titre>Brochette de dinde</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 cuillère à soupe de sauce soja</p>
+    <p>2 cuillères à café de moutarde</p>
+    <p>2 cuillères à soupe de vin blanc</p>
+    <p>1 cuillère à soupe de ciboulette hachée</p>
+    <p>1 cuillère à café d'huile</p>
+    <p>1 gousse d'ail écrasée</p>
+    <p>1 cuillère à café de gingembre râpé</p>
+    <p>4 filets de dinde coupés en gros cubes</p>
+    <p>12 tomates cerises</p>
+    <p>1 oignon coupé en 8 lamelles</p>
+    <p>1 poivron vert coupé en lamelles</p>
+    <p>3 tranches d'ananas coupés en morceaux</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la sauce soja, le vin, la moutarde, l'huile, l'ail, le gingembre, salez et poivrez. 
+    Ajoutez les cubes de dinde, laissez mariner 30 mn au frais, en retournant fréquemment les morceaux. 
+    Enfiler les cubes de dinde sur des bâtons à brochettes en alternance avec des tomates cerises, ananas, poivrons et oignons. 
+    Passez les brochettes au four à 200°C ou au barbecue (voir même au wok... oubliez les pics à brochettes dans ce cas de figure). 
+    Badigeonnez de marinade.... 
+    Accompagnez de riz tricolore, riz basmati, blé ....
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16761">
+  <titre>Pieds de couteaux</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>couteaux (1 paquet vendu chez le poissonnier)</p>
+    <p>persil</p>
+    <p>2 échalotes</p>
+    <p>1 gousse d'ail</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ouvrir les couteaux, les passer sous l'eau, les tronçonner.
+    Les mettre à revenir dans une poêle avec du beurre et un peu d'huile. Ajouter les échalotes hachées ainsi que l'ail.
+    Au bout de 15 mn, ajouter le persil haché et éventuellement une pincée de piment de cayenne. Saler et poivrer.
+    Servir tel quel. On peut rajouter de la crème et les servir avec du riz.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23536">
+  <titre>Tarte briochée à la rhubarbe</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>250 g de farine</p>
+    <p>125 g de beurre</p>
+    <p>1 jaune d'oeuf</p>
+    <p>5 cl d'eau</p>
+    <p>sel</p>
+    <p>Pour la garniture :</p>
+    <p>500 g de rhubarbe</p>
+    <p>200 g de brioche</p>
+    <p>30 g de beurre</p>
+    <p>150 g de sucre en poudre</p>
+    <p>gelée de groseilles ou de mûres</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez la farine, le beurre ramolli et le sel. Ajoutez le jaune d'oeuf et l'eau, travaillez du bout des doigts pour incorporer le tout. Formez un boule avec la pâte, laissez-la reposer 1 h au frais emballée dans du film alimentaire.
+    Etalez la pâte et garnissez un moule à tarte beurré.
+    Découpez la brioche en tranches fines et disposez-les sur le fond de tarte, parsemez noix de beurre, saupoudrez avec la moitié du sucre. 
+    Disposez dessus la rhubarbe, épluchée et coupée en cubes, saupoudrez du reste de sucre.
+    Faites cuire 35 min au four à 220°C (thermostat 7-8).Faites fondre la gelée à feu doux, versez-la sur la tarte à la sortie de four (étalez au pinceau de cuisine) et laissez refroidir.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22202">
+  <titre>Croques aux foies de volaille</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 tranches de pain de mie</p>
+    <p>4 foies de poulet</p>
+    <p>120 g de jambon cuit</p>
+    <p>200 g de champignons</p>
+    <p>2-3 échalotes</p>
+    <p>10 cl de crème fraîche</p>
+    <p>1 jaune d'oeuf</p>
+    <p>beurre</p>
+    <p>persil frais</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hachez bien les foies de volaille, le jambon, les échalotes, le persil et les champignons.
+    Faites revenir le tout à la poêle dans du beurre.
+    Salez et poivrez.
+    Ajoutez la crème et le jaune d'oeuf en remuant bien pour former une pâte épaisse et retirez du feu.
+    Beurrez les tranches de pain sur une face.
+    Garnissez 4 tranches de pain, sur la face non beurrée, avec la préparation aux foies.
+    Posez dessus les 4 autres tranches, face beurrée vers vous.
+    Faites cuire les croque-monsieurs à la poêle ou dans un appareil à croque-monsieurs et servez-les bien chauds.
+    Avec une bonne salade assaisonnée et quelques frites, le repas est complet !
+  ]]>
+  </preparation>
+</recette>

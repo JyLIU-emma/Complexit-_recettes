@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26090">
+  <titre>Pois chiches au chorizo et tomates</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de pois chiches cuits</p>
+    <p>200 g de chorizo</p>
+    <p>1 grosse boîte de tomates pelées</p>
+    <p>1 gousse d'ail</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>persil, romarin</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher l'ail et le faire revenir dans l'huile chaude à la cocotte.
+    Rajouter le chorizo coupé en rondelles, saupoudrer de romarin et de persil haché.
+    Ajouter les tomates égouttées et coupées en morceaux et laisser cuire 10 min.
+    Rajouter les pois chiches laisser cuire 15 min.
+    Saler et poivrer au goût et servir.
+  ]]>
+  </preparation>
+</recette>

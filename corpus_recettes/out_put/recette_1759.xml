@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="1759">
+  <titre>Citrons farcis</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 citrons jaunes</p>
+    <p>8 tranches de saumon fumé</p>
+    <p>6 Carrés Frais</p>
+    <p>ciboulette</p>
+    <p>persil</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le haut des citrons, afin d'obtenir des chapeaux.
+    Evider les citrons, mettre la pulpe dans un saladier, et retirer les pépins.
+    Couper finement le saumon fumé, hacher grossièrement le citron, et écraser les Carrés Frais... Mélanger ces 3 ingrédients, de façon à  obtenir une pâte homogène.
+    Incorporer le persil et la ciboulette finement ciselés.
+    Ensuite, remplir les citrons copieusement, disposer les chapeaux par dessus, et mettre au frais avant de servir.
+    Servir avec du pain de campagne grillé, accompagné d'un vin blanc.
+    Recette très fraîche l'été, de par son petit côté acidulé...
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Couper</OPER> le haut des <INGRED id="2">citrons</INGRED>, afin d'obtenir des chapeaux. <OPER id="o_2">Evider</OPER> les <INGRED id="1">citrons</INGRED>, <OPER id="o_3">mettre</OPER> la pulpe dans un saladier, et <OPER id="o_4">retirer</OPER> les pépins. <OPER id="o_5">Couper</OPER> finement le <INGRED id="2">saumon fumé</INGRED>, <OPER id="o_6">hacher</OPER> grossièrement le <INGRED id="2">citron</INGRED>, et <OPER id="o_7">écraser</OPER> les <INGRED id="3">Carrés Frais</INGRED>... <OPER id="o_8">Mélanger</OPER> ces 3 ingrédients, de façon à obtenir une <INGRED id="1">pâte</INGRED> homogène. <OPER id="o_9">Incorporer</OPER> le <INGRED id="5">persil</INGRED> et la ciboulette finement ciselés. Ensuite, <OPER id="o_10">remplir</OPER> les <INGRED id="1">citrons</INGRED> copieusement, <OPER id="o_11">disposer</OPER> les chapeaux par dessus, et <OPER id="o_12">mettre</OPER> au frais avant de servir. Servir avec du pain de campagne grillé, accompagné d'un vin blanc. Recette très fraîche l'été, de par son petit côté acidulé...
+  </annotation>
+  <annotation methode="crf">
+  Couper le haut des <INGRED>citrons</INGRED> <INGRED>,</INGRED> afin d'obtenir des chapeaux <INGRED>.</INGRED> Evider les <INGRED>citrons</INGRED> <INGRED>,</INGRED> mettre la pulpe dans un saladier <INGRED>,</INGRED> et retirer les pépins <INGRED>.</INGRED> Couper <INGRED>finement</INGRED> le <INGRED>saumon fumé</INGRED> <INGRED>,</INGRED> hacher grossièrement le <INGRED>citron</INGRED> <INGRED>,</INGRED> et écraser les <INGRED>Carrés Frais</INGRED>... Mélanger ces 3 ingrédients <INGRED>,</INGRED> de façon à obtenir une <INGRED>pâte</INGRED> homogène <INGRED>.</INGRED> Incorporer le <INGRED>persil</INGRED> et la <INGRED>ciboulette</INGRED> finement ciselés. Ensuite <INGRED>,</INGRED> remplir les <INGRED>citrons</INGRED> copieusement <INGRED>,</INGRED> disposer les chapeaux par dessus <INGRED>,</INGRED> et mettre au <INGRED>frais</INGRED> avant de servir <INGRED>.</INGRED> Servir avec du <INGRED>pain</INGRED> de campagne grillé <INGRED>,</INGRED> accompagné d'un <INGRED>vin blanc</INGRED> <INGRED>.</INGRED> Recette très fraîche l'été <INGRED>,</INGRED> de par son <INGRED>petit</INGRED> côté acidulé...
+  </annotation>
+  <complexite>
+    <temps>f(X) = 39.4285714285714*X + 6.57142857142857</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 18*X + 11</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['citrons jaunes', 'citrons']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['saumon fumé', 'saumon']	 id:2	 quantité:8	 unité:tranches de	 denombrable:True	 recipient:8*X
+ingredient:['Carrés Frais', 'Carrés']	 id:3	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['ciboulette']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['persil']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:couper	 id:o_1	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:8*X*1	 recipient:1
+operation:evider	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:retirer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_5	 ingrédients_ralatifs:['2', '2', '3']	 nombre_opération_atomique:8*X+8*X+6*X	 temps:8*X*1+8*X*1+6*X*1	 recipient:1
+operation:hacher	 id:o_6	 ingrédients_ralatifs:['2', '3']	 nombre_opération_atomique:8*X+6*X	 temps:8*X*5+6*X*5	 recipient:1
+operation:écraser	 id:o_7	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_8	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:incorporer	 id:o_9	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remplir	 id:o_10	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:disposer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

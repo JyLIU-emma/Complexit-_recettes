@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166699">
+  <titre>Carpaccio de thon jaune</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour faire un carpaccio de thon jaune (ou autre: rouge...)il vous faut:</p>
+    <p>quatre grosses tomates rouges</p>
+    <p>des câpres</p>
+    <p>du thon jaune</p>
+    <p>du sel et du poivre</p>
+    <p>de l'huile d'olive </p>
+    <p>oignons </p>
+    <p>un couteau</p>
+    <p>un grand plat</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour commencer, couper le thon jaune frias en FINES tranches, d'un centimètre de largeur environ, puis mettez-les dans le palt. Ensuite, versez l'huile d'olive en grande quantité. Melangez, puis coupez les tomates en rondelles fines et ajoutez-les à votre carpaccio. Enfin, mettez (la dose que vous voulez) des câpres. Puis mettre du sel puis du poivre, mélangez de façons à avoir le thon et les tomates dessus, puis mettez le plat dans le frigidaire pendant au moins 1h15. A faire à l'avance!Très long à faire, mais bon pour la santé (grâce au poisson). Bon appétit !  Blanc ou rouge
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Pour commencer, <OPER id="o_1">couper</OPER> le <INGRED id="3">thon jaune</INGRED> frias en FINES <INGRED id="4">tranches</INGRED>, d'un centimètre de largeur <INGRED id="1">environ</INGRED>, puis <OPER id="o_2">mettez</OPER> - les dans le palt. Ensuite, <OPER id="o_3">versez</OPER> l'<INGRED id="9">huile d'olive</INGRED> en grande quantité. <OPER id="o_4">Melangez</OPER>, puis coupez les tomates en rondelles fines et <OPER id="o_5">ajoutez</OPER> - les à votre carpaccio. Enfin, <OPER id="o_6">mettez</OPER> ( la dose que vous voulez ) des câpres. Puis <OPER id="o_7">mettre</OPER> du sel puis du <INGRED id="8">poivre</INGRED>, <OPER id="o_8">mélangez</OPER> de façons à <OPER id="o_9">avoir</OPER> le thon et les <INGRED id="2">tomates</INGRED> dessus, puis <OPER id="o_10">mettez</OPER> le <INGRED id="9">plat</INGRED> dans le frigidaire pendant au moins 1h15. A faire à l'avance!Très long à faire, mais bon pour la santé ( grâce au poisson ). Bon appétit ! Blanc ou rouge
+  </annotation>
+  <annotation methode="crf">
+  Pour commencer <INGRED>,</INGRED> couper le <INGRED>thon</INGRED> <INGRED>jaune</INGRED> frias en FINES tranches <INGRED>,</INGRED> d'un centimètre de largeur <INGRED>environ</INGRED> <INGRED>,</INGRED> puis mettez - les dans le palt. Ensuite <INGRED>,</INGRED> versez l'<INGRED>huile d'olive</INGRED> en grande quantité. Melangez <INGRED>,</INGRED> puis coupez les <INGRED>tomates</INGRED> en rondelles fines et ajoutez - les à votre carpaccio <INGRED>.</INGRED> Enfin <INGRED>,</INGRED> mettez ( la dose que vous voulez ) des <INGRED>câpres</INGRED> <INGRED>.</INGRED> Puis mettre du <INGRED>sel</INGRED> puis du <INGRED>poivre</INGRED> <INGRED>,</INGRED> mélangez de façons à avoir le <INGRED>thon</INGRED> et les <INGRED>tomates</INGRED> dessus <INGRED>,</INGRED> puis mettez le plat dans le frigidaire pendant au moins 1h15. A faire à l'avance!Très long à faire <INGRED>,</INGRED> mais bon pour la santé ( grâce au poisson ). Bon appétit ! <INGRED>Blanc</INGRED> <INGRED>ou</INGRED> rouge
+  </annotation>
+  <complexite>
+    <temps>f(X) = 12.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 15</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['quatre grosses tomates rouges', 'quatre']	 id:1	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['câpres']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['thon jaune', 'thon']	 id:3	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["huile d'olive", 'huile']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['oignons']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['couteau']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['plat']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:couper	 id:o_1	 ingrédients_ralatifs:['3', '4', '1']	 nombre_opération_atomique:1+1+1	 temps:1*X*1+1*X*1+1*X*1	 recipient:1
+operation:mettre	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:verser	 id:o_3	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:melanger	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_7	 ingrédients_ralatifs:['8', '2', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mélanger	 id:o_8	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:avoir	 id:o_9	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_10	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

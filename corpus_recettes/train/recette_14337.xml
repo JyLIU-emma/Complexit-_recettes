@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14337">
+  <titre>Charlotte aux fruits vite faite</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3/4 sachet de 10 boudoirs</p>
+    <p>1 boîte de fruits au sirop (pêches / abricots..)</p>
+    <p>1 petite brique de crème fraîche</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 pincée de sel</p>
+    <p>1 cuillère à soupe de Rhum</p>
+    <p>1 glaçon ou glace pilée (selon batteur employé)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le sirop de la boîte de fruit avec le Rhum. Imbiber les boudoirs et les répartir dans un moule à charlotte (bords et fond).
+    Battre la crème fraîche (que vous aurez laissé 15 mn au freezer au préalable) avec la glace, le sel et le sucre vanillé pour obtenir une chantilly.
+    Alterner couches de chantilly, de fruits et de boudoirs imbibés. Finir par une couche de biscuits et mettre la charlotte au frigo en posant un plat dessus pour la comprimer légèrement.
+    Laisser ainsi plusieurs heures.
+    Démouler avant de servir et décorer avec les fruits restant. Peut être accompagnée des restes de crème chantilly.
+  ]]>
+  </preparation>
+</recette>

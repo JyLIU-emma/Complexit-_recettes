@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23916">
+  <titre>Epinards sautés à l'ail et au sésame</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,2 kg d'épinards</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>6 ciboules hachées</p>
+    <p>2 cuillères à café de sauce soja</p>
+    <p>2 pincées de sucre</p>
+    <p>2 pincées de sel</p>
+    <p>3 gousses d'ail écrasées</p>
+    <p>2 cuillères à café de graines de sésame grillées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez les épinards et ôtez les queues. Mettre de l'huile à chauffer dans un grand wok ou une sauteuse, faites-y revenir les ciboules pendant 30 secondes avant d'y jeter les épinards. Laissez les épinards fondre pendant 2 minutes en remuant sans arrêt.
+    Ajoutez la sauce soja, le sucre, le sel, l'ail et poursuivez la cuisson 3 minutes en remuant. Ôtez le jus de cuisson superflu.
+    Disposez dans un plat chaud et parsemez de graines de sésame.  
+  ]]>
+  </preparation>
+</recette>

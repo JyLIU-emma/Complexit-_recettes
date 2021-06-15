@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23304">
+  <titre>Tajine de poulet au potiron</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 gros poulet fermier</p>
+    <p>3 oignons</p>
+    <p>1 gousse d'ail</p>
+    <p>1 kg de potiron</p>
+    <p>50 g de beurre</p>
+    <p>sel, poivre</p>
+    <p>une cuillerée à café de safran</p>
+    <p>2 cuilleres à soupe d'huile d'olive</p>
+    <p>50 g de raisins secs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le poulet en morceaux et les faire dorer dans l'huile dans une cocotte. Ajouter les oignons émincés, l'ail pilé et les raisins secs.
+    Quand les morceaux de poulet sont dorés, verser un verre d'eau, du sel et le safran, puis laisser cuire jusqu'à ce que la chair se détache des os (environ 1h).
+    Pendant ce temps, éplucher le potiron, le couper en petits cubes. Dans une autre cocotte, faire dorer les cubes de potiron dans le beurre. 
+    Quand ils sont bien dorés, saler légèrement et ajouter une cuillère à soupe de sucre. Laisser caraméliser légèrement, puis couvrir pour achever la cuisson, jusqu'à ce que toute l'eau soit évaporée. 
+    Rajouter le potiron dans la sauce du poulet, mélanger doucement et laisser cuire 5 minutes.
+    Servir chaud.
+  ]]>
+  </preparation>
+</recette>

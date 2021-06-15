@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15261">
+  <titre>Cake à la banane et pépites de chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>110 g de sucre</p>
+    <p>2 œufs</p>
+    <p>120 g de beurre</p>
+    <p>100 g de fromage blanc</p>
+    <p>150 g de farine</p>
+    <p>3 bananes</p>
+    <p>1 sachet de pépites de chocolat</p>
+    <p>1 sachet de levure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le sucre, le beurre, les œufs, la farine et la levure dans un saladier.Écraser les bananes dans une assiette creuse, y ajouter le fromage blanc et mélanger. Verser dans le saladier et ajouter les pépites de chocolat. Bien mélanger.
+    Verser dans un moule à cake beurré et faire cuire 30 à 40 min à 180°C.
+  ]]>
+  </preparation>
+</recette>

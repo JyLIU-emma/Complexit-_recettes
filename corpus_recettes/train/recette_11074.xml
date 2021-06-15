@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11074">
+  <titre>Ananas givré</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 ananas</p>
+    <p>450 g de sucre gélifiant</p>
+    <p>1 citron</p>
+    <p>75 cl d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez le haut du fruit en préservant le panache de feuilles.Détachez la pulpe à l'aide d'un couteau assez long, mince et pointu, en suivant l'intérieur de la peau.
+    Passez la pulpe au mixer. Faites un sirop avec 450 g de sucre, l'eau et le jus de citron.
+    Quand tout cela est fini versez le sirop sur la pulpe. placez le tout et la peau d'ananas dans le congélateur.
+    Après 12h, remplir l'ananas du sirop puis le remettre dans le congélateur jusqu'à l'heure de servir. Mousseux
+  ]]>
+  </preparation>
+</recette>

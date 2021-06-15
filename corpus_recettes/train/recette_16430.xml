@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16430">
+  <titre>Flamusse</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 pommes reinettes</p>
+    <p>1/4 de litre de lait</p>
+    <p>5 oeufs</p>
+    <p>50 g de beurre</p>
+    <p>50 g de sucre</p>
+    <p>cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les 6 pommes, les évider, puis les couper en quartiers. Les faire revenir au beurre pendant 5 mn.
+    Mélanger directement dans un moule a manqué les oeufs, le lait, le sucre et les quartiers de pommes.
+    Saupoudrer de cannelle et enfourner à 220°C pendant 20 mn.
+    J'ai donné cette recette à une copine , et elle y a ajouté de bananes en rondelles .. elle m'a dit que c'était super bon!!
+  ]]>
+  </preparation>
+</recette>

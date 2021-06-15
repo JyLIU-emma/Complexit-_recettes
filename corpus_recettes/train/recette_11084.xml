@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11084">
+  <titre>Croissants fourrés à la crème frangipane</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 croissants</p>
+    <p>Pour la crème frangipane :</p>
+    <p>100 g de sucre semoule</p>
+    <p>100 g de beurre</p>
+    <p>2 oeufs entiers</p>
+    <p>100 g de poudre d'amandes</p>
+    <p>25 g de farine</p>
+    <p>2 gouttes d'essence d'amande amère (facultatif, mais excellent)</p>
+    <p>1 poignée d'amandes effilées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le beurre ramolli avec le sucre (blanchir), ajouter les oeufs un par un, puis la poudre d'amande, la farine et l'essence d'amande amère.
+    Couper les croissants en deux, les garnir avec la frangipane, en badigeonner le dessus.
+    Parsemer d'amandes effilées.
+    Cuire sur une plaque beurrée ou sur papier cuisson (four préchauffé 10 min à 200°c).Cuire jusqu'à ce qu'ils soient bien dorés.
+  ]]>
+  </preparation>
+</recette>

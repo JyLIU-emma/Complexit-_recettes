@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="7159">
+  <titre>Cake courgettes et Carrés frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 courgette</p>
+    <p>3 oeufs</p>
+    <p>1 sachet de levure chimique</p>
+    <p>180 g de farine</p>
+    <p>200 g de Carrés frais</p>
+    <p>10 cl de lait</p>
+    <p>50 g de pignons de pins ou de noisettes</p>
+    <p>1 cuillère à soupe de basilic ciselé</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>poivre</p>
+    <p>10 g de beurre et farine (pour le moule)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1/ Préchauffez le four à thermostat 6 (180°C). 
+    Coupez les extrémités de la courgette, lavez-la, coupez-la en rondelles fines, et faites colorer à l'huile d'olive à feu très vif. Salez et poivrez.
+    2/ Faites dorer les pignons de pin dans une poêle, ou cassez les noisettes en petits morceaux (sans matière grasse, préférez une poêle anti adhésive).
+    3/ Mélangez la farine, la levure et les oeufs, ajoutez peu à peu le lait chaud. 
+    Ajoutez les rondelles de courgette, les carrés frais coupés en dés, les pignons, le basilic ciselé et un peu de poivre.
+    4/ Faites cuire pendant 45 min au four dans un moule à cake beurré et fariné.
+    Aussi bon foid que tiède, vous pouvez le déguster en entrée, pique-nique, ou en plat principal.
+    Servi avec une salade ou une ratatouille, il n'en sera que meilleur!
+    Il est idéal pour les végétariens.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  1/ <OPER id="o_1">Préchauffez</OPER> le four à thermostat 6 ( 180 ° C ). <OPER id="o_2">Coupez</OPER> les extrémités de la <INGRED id="1">courgette</INGRED>, lavez - la, coupez - la en rondelles fines, et faites <OPER id="o_3">colorer</OPER> à l'<INGRED id="12">huile d'olive</INGRED> à feu très vif. <OPER id="o_4">Salez</OPER> et poivrez. 2/ Faites <OPER id="o_5">dorer</OPER> les <INGRED id="7">pignons</INGRED> de pin dans une poêle, ou cassez les <INGRED id="5">noisettes</INGRED> en petits morceaux ( sans matière grasse, <OPER id="o_6">préférez</OPER> une poêle anti adhésive ). 3/ <OPER id="o_7">Mélangez</OPER> la <INGRED id="7">farine</INGRED>, la <INGRED id="3">levure</INGRED> et les <INGRED id="6">oeufs</INGRED>, ajoutez peu à peu le <INGRED id="9">lait</INGRED> chaud. <OPER id="o_8">Ajoutez</OPER> les rondelles de <INGRED id="1">courgette</INGRED>, les <INGRED id="2">carrés frais</INGRED> coupés en <INGRED id="6">dés</INGRED>, les <INGRED id="7">pignons</INGRED>, le <INGRED id="8">basilic ciselé</INGRED> et un peu de <INGRED id="6">poivre</INGRED>. 4/ Faites <OPER id="o_9">cuire</OPER> pendant 45 min au four dans un moule à cake beurré et fariné. Aussi bon foid que tiède, vous pouvez le déguster en entrée, pique-nique, ou en plat principal. Servi avec une <INGRED id="4">salade</INGRED> ou une ratatouille, il n'en sera que meilleur ! Il est idéal pour les végétariens.
+  </annotation>
+  <annotation methode="crf">
+  1/ Préchauffez le four à thermostat 6 ( 180 ° C ). Coupez les extrémités de la <INGRED>courgette</INGRED> <INGRED>,</INGRED> lavez - la <INGRED>,</INGRED> coupez - la en rondelles fines <INGRED>,</INGRED> et faites colorer à l'<INGRED>huile d'olive</INGRED> à feu très vif. Salez et poivrez <INGRED>.</INGRED> 2/ Faites dorer les <INGRED>pignons</INGRED> de pin dans une poêle <INGRED>,</INGRED> <INGRED>ou</INGRED> cassez les <INGRED>noisettes</INGRED> en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> ( sans <INGRED>matière grasse</INGRED> <INGRED>,</INGRED> préférez une poêle anti adhésive ). 3/ Mélangez la <INGRED>farine</INGRED> <INGRED>,</INGRED> la <INGRED>levure</INGRED> et les <INGRED>oeufs</INGRED> <INGRED>,</INGRED> ajoutez peu à peu le <INGRED>lait</INGRED> chaud <INGRED>.</INGRED> Ajoutez les rondelles de <INGRED>courgette</INGRED> <INGRED>,</INGRED> les <INGRED>carrés</INGRED> <INGRED>frais</INGRED> coupés en dés <INGRED>,</INGRED> les <INGRED>pignons</INGRED> <INGRED>,</INGRED> le <INGRED>basilic</INGRED> ciselé et un peu de <INGRED>poivre</INGRED>. 4/ Faites cuire pendant 45 min au four dans un moule à cake beurré et fariné. Aussi bon foid que tiède <INGRED>,</INGRED> vous pouvez le déguster en entrée <INGRED>,</INGRED> pique-nique <INGRED>,</INGRED> <INGRED>ou</INGRED> en plat principal <INGRED>.</INGRED> Servi avec une salade <INGRED>ou</INGRED> une ratatouille <INGRED>,</INGRED> il n'en sera que meilleur ! Il est idéal pour les végétariens.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 5.86666666666667*X + 5.13333333333333</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 8*X + 10</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['courgette']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['oeufs']	 id:2	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['levure chimique', 'levure']	 id:3	 quantité:1	 unité:sachet de	 denombrable:True	 recipient:1*X
+ingredient:['farine']	 id:4	 quantité:180	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['Carrés frais', 'Carrés']	 id:5	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:6	 quantité:10	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['pignons de pins', 'pignons']	 id:7	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['basilic ciselé', 'basilic']	 id:8	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:["huile d'olive", 'huile']	 id:9	 quantité:2	 unité:cuillères à soupe d'	 denombrable:True	 recipient:2*X
+ingredient:['poivre']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:11	 quantité:10	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préchauffer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:couper	 id:o_2	 ingrédients_ralatifs:['1', '12']	 nombre_opération_atomique:1*X+1	 temps:1*X*1+1*X*1	 recipient:1
+operation:colorer	 id:o_3	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dorer	 id:o_5	 ingrédients_ralatifs:['7', '5']	 nombre_opération_atomique:1+1	 temps:1*X*1+1*X*1	 recipient:0
+operation:préférer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_7	 ingrédients_ralatifs:['7', '3', '6']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['1', '2', '6', '7', '8', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+]]>
+</operation_trouve>
+</recette>

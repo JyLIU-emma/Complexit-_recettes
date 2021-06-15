@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15911">
+  <titre>Soupe au riz</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 gros oignon</p>
+    <p>1 branche de thym,</p>
+    <p>1 feuille de laurier</p>
+    <p>1 tasse de riz blanc</p>
+    <p>1 cuillère à soupe de beurre</p>
+    <p>sel, poivre</p>
+    <p>1 petite boîte de concentré de tomates</p>
+    <p>1 l de bouillon de volaille</p>
+    <p>persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper l'oignon en morceaux, le faire revenir dans le beurre fondu.
+    Lorsqu'il commence à devenir transparent, ajouter le riz. Bien mélanger.
+    Ajouter le bouillon, le thym, le laurier. poivrer.
+    Diluer le concentré de tomates et laisser cuire une vingtaine de minutes. Saler.
+    Garnir les bols de pluches de persil.C'est une soupe que me faisait ma grand-mère. Nourrissante en hiver et peu onéreuse.
+  ]]>
+  </preparation>
+</recette>

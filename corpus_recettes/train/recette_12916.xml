@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12916">
+  <titre>Soupe de courgettes au bleu d'auvergne</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 grosse courgette</p>
+    <p>125 g de bleu d'Auvergne </p>
+    <p>1 litre 1/2 d'eau</p>
+    <p>2 bouillons cube</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et éplucher (ou non, selon les goûts) la courgette et la couper en dés.
+    Mettre tous les ingrédients dans la marmite.
+    Laisser cuire le tout pendant 30 mn minimum.
+    Passer la soupe à la moulinette ou au robot.
+    Pour les petits gourmands: rajouter de la crème fraîche (1 ou 2 cuillères à soupe).
+    Photo : Manina Hatzimichali
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26321">
+  <titre>Salade de fusilli crevettes et avocats</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de pâtes</p>
+    <p>150 g de crevettes cocktail cuites décortiquées, décongelées et égouttées</p>
+    <p>2 avocats</p>
+    <p>1 citron</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>du basilic (facultatif) </p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les pâtes 'al dente' dans 1 litre d'eau salée. 
+    Les passer sous l'eau froide pour les refroidir, égoutter, réserver. 
+    Dans un bol, couper les 2 avocats en morceau et les mélanger immédiatement au jus du citron (quantité selon votre goût). Ajouter les crevettes, l'huile d'olive, le sel, le poivre, le basilic coupé en morceau et les pâtes. 
+    Bien mélanger et servir frais !
+    Pour la sauce vous pouvez mettre un peu de vinaigre balsamique et le jus d'un demi-citron si vous n'aimez pas trop l'acidité.Bon aussi avec des tomates cerises.
+  ]]>
+  </preparation>
+</recette>

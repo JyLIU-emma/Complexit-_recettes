@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="112722">
+  <titre>Bûche de noël à la mangue</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 mangues bien mûres</p>
+    <p>1 citron</p>
+    <p>3 oeufs</p>
+    <p>30 g de beurre</p>
+    <p>3 cuillères à soupe de lait</p>
+    <p>15 cl de crème liquide</p>
+    <p>200 g de chocolat blanc</p>
+    <p>40 g de noix de coco râpée</p>
+    <p>75 g de sucre</p>
+    <p>2 sachets de sucre vanillé</p>
+    <p>1 cuillère à café de levure</p>
+    <p>75 g de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez les mangues et enlevez les noyaux. Faire cuire la chaire découpée en cube avec le sucre vanillé et le beurre durant 20 min.
+    Allumez le four th.7 , préparez une plaque et posez du papier cuisson beurré.
+    Séparez les blancs des jaunes. Mélangez les jaunes avec le sucre et le zeste du citron. Ajoutez la farine la levure et le lait froid. battre les blancs en neige et les incorporer à la préparation. Mettre la pâte sur la plaque beurré et l'enfourner pendant 10 min. Préparez un torchon humide et étendez le sur une table. Démoulez le biscuit sur le torchon , roulez le et laissez refroidir. Déroulez le biscuit et étalez la compote de mangue puis roulez le biscuit à nouveau.
+    Cassez le chocolat en morceaux et mettez le dans un récipient. Ajoutez la crème bouillante dessus et mélangez 30g de coco râpé. Mélangez et étalez sur le biscuit. Mettre les 10g de coco restant sur le glaçage pour la décoration.
+    Mettre au frais durant 6 heures.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Pelez</OPER> les <INGRED id="1">mangues</INGRED> et enlevez les noyaux. Faire <OPER id="o_2">cuire</OPER> la chaire découpée en cube avec le <INGRED id="8">sucre vanillé</INGRED> et le <INGRED id="4">beurre</INGRED> durant 20 min. <OPER id="o_3">Allumez</OPER> le four th.7, préparez une plaque et posez du papier cuisson beurré. <OPER id="o_4">Séparez</OPER> les blancs des jaunes. <OPER id="o_5">Mélangez</OPER> les jaunes avec le <INGRED id="10">sucre</INGRED> et le <INGRED id="7">zeste</INGRED> du <INGRED id="2">citron</INGRED>. <OPER id="o_6">Ajoutez</OPER> la <INGRED id="12">farine</INGRED> la <INGRED id="4">levure</INGRED> et le <INGRED id="4">lait</INGRED> froid. <OPER id="o_7">battre</OPER> les blancs en neige et les <OPER id="o_8">incorporer</OPER> à la préparation. <OPER id="o_9">Mettre</OPER> la <INGRED id="5">pâte</INGRED> sur la plaque beurré et l'<OPER id="o_10">enfourner</OPER> pendant 10 min. <OPER id="o_11">Préparez</OPER> un torchon humide et étendez le sur une table. <OPER id="o_12">Démoulez</OPER> le biscuit sur le torchon, roulez le et laissez <OPER id="o_13">refroidir</OPER>. <OPER id="o_14">Déroulez</OPER> le biscuit et étalez la <INGRED id="4">compote</INGRED> de <INGRED id="1">mangue</INGRED> puis roulez le biscuit à nouveau. <OPER id="o_15">Cassez</OPER> le chocolat en morceaux et <OPER id="o_16">mettez</OPER> le dans un récipient. <OPER id="o_17">Ajoutez</OPER> la <INGRED id="9">crème</INGRED> bouillante dessus et mélangez 30 <INGRED id="2">g</INGRED> de coco râpé. <OPER id="o_18">Mélangez</OPER> et étalez sur le biscuit. <OPER id="o_19">Mettre</OPER> les 10 <INGRED id="1">g</INGRED> de coco restant sur le glaçage pour la décoration. <OPER id="o_20">Mettre</OPER> au frais durant 6 heures.
+  </annotation>
+  <annotation methode="crf">
+  Pelez les <INGRED>mangues</INGRED> et enlevez les <INGRED>noyaux</INGRED> <INGRED>.</INGRED> Faire cuire la chaire découpée en cube avec le <INGRED>sucre vanillé</INGRED> et le <INGRED>beurre</INGRED> durant 20 min. Allumez le four th.7 <INGRED>,</INGRED> préparez une plaque et posez du papier cuisson beurré. Séparez les <INGRED>blancs</INGRED> des <INGRED>jaunes</INGRED> <INGRED>.</INGRED> Mélangez les <INGRED>jaunes</INGRED> avec le <INGRED>sucre</INGRED> et le <INGRED>zeste</INGRED> du <INGRED>citron</INGRED> <INGRED>.</INGRED> Ajoutez la <INGRED>farine</INGRED> la <INGRED>levure</INGRED> et le <INGRED>lait froid</INGRED> <INGRED>.</INGRED> battre les <INGRED>blancs</INGRED> en neige et les incorporer à la préparation <INGRED>.</INGRED> Mettre la <INGRED>pâte</INGRED> sur la plaque beurré et l'enfourner pendant 10 min. Préparez un torchon humide et étendez le sur une table <INGRED>.</INGRED> Démoulez le biscuit sur le torchon <INGRED>,</INGRED> roulez le et laissez refroidir <INGRED>.</INGRED> Déroulez le biscuit et étalez la <INGRED>compote</INGRED> de mangue puis roulez le biscuit à nouveau <INGRED>.</INGRED> Cassez le <INGRED>chocolat</INGRED> en <INGRED>morceaux</INGRED> et mettez le dans un récipient <INGRED>.</INGRED> Ajoutez la <INGRED>crème</INGRED> bouillante dessus et mélangez 30 <INGRED>g</INGRED> de coco râpé. Mélangez et étalez sur le biscuit. Mettre les 10 <INGRED>g</INGRED> de coco restant sur le glaçage pour la décoration <INGRED>.</INGRED> Mettre au <INGRED>frais</INGRED> durant 6 heures.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 13.3333333333333*X + 6.66666666666667</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 12*X + 13</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['mangues bien mûres', 'mangues']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['citron']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['oeufs']	 id:3	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['beurre']	 id:4	 quantité:30	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:5	 quantité:3	 unité:cuillères à soupe de	 denombrable:True	 recipient:3*X
+ingredient:['crème liquide', 'crème']	 id:6	 quantité:15	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['chocolat blanc', 'chocolat']	 id:7	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['noix de coco râpée', 'noix']	 id:8	 quantité:40	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:9	 quantité:75	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre vanillé', 'sucre']	 id:10	 quantité:2	 unité:sachets de	 denombrable:True	 recipient:2*X
+ingredient:['levure']	 id:11	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+ingredient:['farine']	 id:12	 quantité:75	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:peler	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:2*X*1	 recipient:0
+operation:cuire	 id:o_2	 ingrédients_ralatifs:['8', '4']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:allumer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:séparer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_5	 ingrédients_ralatifs:['10', '7', '2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['12', '4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_9	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:enfourner	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:démouler	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:dérouler	 id:o_14	 ingrédients_ralatifs:['4', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:casser	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_17	 ingrédients_ralatifs:['9', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mettre	 id:o_19	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

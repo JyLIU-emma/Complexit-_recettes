@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15307">
+  <titre>Brochette de viande au fromage</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 tranches de filets de boeuf très fines</p>
+    <p>fromage de type cheddar blanc</p>
+    <p>piques en bois</p>
+    <p>sel, poivre et sauce terryiaki</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le fromage en bâtonnets. La longueur doit correspondre à la largeur des tranches de viande.
+    Saler, poivrer la viande et la passer rapidement dans la sauce terryaiki.
+    Piquer le fromage sur les piques, enrouler la viande autour.
+    Cuire au barbecue ou à la poêle à feu vif.
+     Bière
+  ]]>
+  </preparation>
+</recette>

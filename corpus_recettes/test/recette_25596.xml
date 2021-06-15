@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25596">
+  <titre>Pâte sablée</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>160 g de farine</p>
+    <p>130 g de beurre</p>
+    <p>2 jaunes d'œuf</p>
+    <p>50 g de sucre en poudre</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Disposer la farine en fontaine sur le plan de travail. Placer les jaunes d’œufs au milieu et le beurre, le sucre et le sel autour.
+    Bien pétrir et former une boule.
+    Laisser reposer pendant 2 h dans un endroit frais.
+    Abaisser la pâte sur 4 mm d'épaisseur.
+  ]]>
+  </preparation>
+</recette>

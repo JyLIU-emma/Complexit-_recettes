@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23481">
+  <titre>Spaghetti sauce à cru</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de spaghetti</p>
+    <p>2 tomates</p>
+    <p>1 cuillère à café de câpres</p>
+    <p>10 olives noires (cuites au four, grecque, etc)</p>
+    <p>4 cuillères à soupe d'huile d'olive</p>
+    <p>5 à 6 feuilles de basilic</p>
+    <p>1 gousse d'ail (facultatif) </p>
+    <p>parmesan</p>
+    <p>citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre l'eau à bouillir. 
+    Coupez en tout petits carrés les tomates, ajoutez les câpres, les olives coupées en petits morceaux, le basilic émincé, l'huile d'olive. Pour ceux qui aiment l'ail presser une gousse. Laissez reposer (ne pas cuire). 
+    Quand l'eau bout, jetez les spaghettis et les faire cuire 'al dente'. 
+    Egouttez-les et jetez les dans la sauce. 
+    Parsemez de parmesan, et pour ceux qui aiment d'un bon jus de citron.
+    Un plat très rafraîchissant durant les chaleurs d'été.
+  ]]>
+  </preparation>
+</recette>

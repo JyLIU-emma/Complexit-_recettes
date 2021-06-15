@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25291">
+  <titre>Quenelles de farine( mehl knedl )</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>750 g de farine</p>
+    <p>3 oeufs</p>
+    <p>1 demi-paquet de levure chimique</p>
+    <p>1 demi-cuillère à café de sel</p>
+    <p>1 demi litre de lait (plus ou moins) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger farine + le sel+ les oeufs, ajouter le lait jusqu'à obtention d'une pâte pas trop épaisse mais qui ne coule pas. Laisser reposer pendant 1 heure.
+    Faire bouillir 2 litre d'eau salée. Avec 1 cuillère à soupe, prendre des quantités de pâte que vous déposer dans l'eau bouillante, si la pâte s'effrite ajouter de la farine. 
+    Laisser cuire à feu doux jusqu'à ce que les quenelles remontent à la surface, les sortir et les mettre dans un plat.
+    Servir avec des croûtons et arrosées de crème chaude ou avec des lardons et des oignons frits. Servir avec de la salade.
+  ]]>
+  </preparation>
+</recette>

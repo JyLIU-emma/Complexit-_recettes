@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11233">
+  <titre>Tarte au riz</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>200 g de riz à grains ronds</p>
+    <p>1 litre de lait</p>
+    <p>2 cuillères à café de vanille liquide</p>
+    <p>4 oeufs</p>
+    <p>150 g de sucre en poudre</p>
+    <p>1 citron (zeste)</p>
+    <p>sel</p>
+    <p>10 cl de caramel liquide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver le riz à grande eau, l'égoutter et le faire cuire 20 min environ avec le lait et la vanille. 
+    Hors du feu, ajouter sucre, jaunes d'oeufs et zeste de citron. Bien mélanger. Monter les blancs en neige avec une pincée de sel et les incorporer au riz.
+    Etaler la pâte dans un moule beurré, la piquer à la fourchette et verser le riz en égalisant sur toute la pâte.
+    Cuire à four chaud 200°C (thermostat 6-7) 45 min.
+    Servir les parts nappées de caramel.
+  ]]>
+  </preparation>
+</recette>

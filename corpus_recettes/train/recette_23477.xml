@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23477">
+  <titre>Soupe de poisson marseillaise</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de rougets-barbets vidés et écaillés</p>
+    <p>12 petits crabes (appelés crabes verts)</p>
+    <p>5 tomates bien mûres</p>
+    <p>3 oignons</p>
+    <p>1 petite branche de céleri</p>
+    <p>2 blancs de poireaux</p>
+    <p>2 gousses d'ail</p>
+    <p>1 brin de thym</p>
+    <p>3-4 tiges de persil</p>
+    <p>1 feuille de laurier</p>
+    <p>1 branche de romarin</p>
+    <p>1 tige de fenouil séchée</p>
+    <p>1 étoile de badiane</p>
+    <p>1 dose de safran</p>
+    <p>1 cuillère à café de pastis</p>
+    <p>10 cl d'huile d'olive</p>
+    <p>2 l de court-bouillon</p>
+    <p>1 tasse d'aïoli</p>
+    <p>1 tasse de sauce rouille</p>
+    <p>6 tranches de pain rassis</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Rincez les rougets et les crabes.
+    Pelez et coupez finement les oignons, les poireaux et le céleri. Pelez et pilez les gousses d'ail.
+    Pelez et épépinez les tomates, hachez-les grossièrement.
+    Attachez les herbes avec une ficelle de cuisine pour former un bouquet garni.
+    Faites chauffer une grande cocotte avec un fond d'huile. Faites-y revenir 5 à 10 minutes les oignons, le céleri, les poireaux, le bouquet garni et l'étoile de badiane.
+    Laissez blondir en remuant, puis ajoutez les crabes. Laissez-les rougir 5 minutes.
+    Ajoutez l'ail pilé et les tomates. Laissez cuire à feu vif en remuant à la cuillère en bois. Versez le court-bouillon chaud et portez à ébullition.
+    Ajoutez les poissons dans la marmite. Salez, poivrez. Ajoutez le safran et le pastis. Laissez cuire encore 10 à 15 minutes à feu vif, les rougets doivent être cuits mais légèrement fermes.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25200">
+  <titre>Spaghetti aux courgettes et aux carottes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 courgettes</p>
+    <p>4 carottes</p>
+    <p>1 oignon</p>
+    <p>500 g de spaghetti</p>
+    <p>10 cl de crème liquide</p>
+    <p>1 tablette de bouillon de volaille</p>
+    <p>huile</p>
+    <p>1 pincée de curcuma</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher l'oignon et le faire revenir dans l'huile. 
+    Râper les courgettes et les carottes et les ajouter aux oignons. Ajouter la tablette de bouillon délayée dans 15 cl d'eau chaude, et faire cuire le tout à feu moyen 15 mn en remuant de temps en temps. 
+    Ajouter finalement la crème liquide, le curcuma, saler, poivrer, et réserver à feu doux. 
+    Faire cuire les spaghetti. Servir la sauce à part avec du parmesan et du gruyère râpé.
+  ]]>
+  </preparation>
+</recette>

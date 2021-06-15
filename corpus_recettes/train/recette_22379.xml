@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22379">
+  <titre>Sauce de thon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de thon au naturel</p>
+    <p>2 tomates</p>
+    <p>1 oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>1 bout de gingembre</p>
+    <p>piment selon goût</p>
+    <p>2 branches de thym</p>
+    <p>1/2 cuillère à café de curcuma</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer oignons et tomates. Ecraser ensemble l'ail haché, le gingembre haché, le piment haché et une pincée de sel. 
+    Dans un marmite, mettre un peu d'huile et y faire revenir les oignons, 3 mn. Ajouter le mélangé écrasé (ail, gingembre, etc). 
+    Ajouter les tomates, le thym, bien mélanger. Ajouter une bonne tasse d'eau et laisser à feu moyen pendant 5 mn. 
+    Ajouter les morceaux de thon, remuer. Couvrir et laisser réduire la sauce pendant 15 mn. Rajouter un peu de sel, selon goût. Accompagner de riz.
+    C'est une recette de mon île de la Réunion.
+  ]]>
+  </preparation>
+</recette>

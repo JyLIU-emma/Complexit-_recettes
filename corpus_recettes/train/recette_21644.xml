@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21644">
+  <titre>Oeufs cocotte à la tomate et aux crevettes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>25 g de beurre</p>
+    <p>4 cuillères à soupe de crème fraîche</p>
+    <p>4 cuillères à soupe de coulis de tomate</p>
+    <p>100 g de crevettes cuites et décortiquées</p>
+    <p>sel et poivre</p>
+    <p>persil, ciboulette, basilic...</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6-7).
+    Beurrer 4 ramequins allant au four. Déposer 1 cuillère à soupe de crème fraîche et 1 cuillère à soupe de coulis de tomate dans chaque.
+    Ajouter les crevettes, saler, poivrer et casser 1 oeuf dans chaque ramequin.
+    Saupoudrer d'herbes, saler et poivrer.
+    Placer au bain-marie et faire cuire au four à 200°C (thermostat 6-7) pendant 10 min.
+  ]]>
+  </preparation>
+</recette>

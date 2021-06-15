@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13965">
+  <titre>Gâteau chocolat et figues</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g de chocolat noir</p>
+    <p>350 g de figues</p>
+    <p>350 g de beurre + 20 g pour le moule</p>
+    <p>6 oeufs</p>
+    <p>150 g de sucre glace</p>
+    <p>100 g de farine</p>
+    <p>1 sachet de levure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Allumez le four a thermostat 6 (180°C). Faites fondre le beurre et le chocolat coupés en morceaux au bain-marie ou au micro-ondes.
+    Cassez les oeufs en séparant les jaunes des blancs. Mélangez les jaunes au chocolat fondu avec le sucre glace, la farine et la levure. 
+    Battez les blancs en neige ferme et
+    incorporez-les délicatement au mélange précédent. 
+    Tapissez un moule à manqué ou rectangulaire de papier sulfurisé beurré.
+    Versez la moitié de la préparation dedans, ajoutez les figues coupées en deux au chocolat et couvrez avec le reste de la préparation.
+    Enfournez pour 40 mn en baissant le thermostat à 5 (150°C) à mi-cuisson.
+    Servez bien froid.
+  ]]>
+  </preparation>
+</recette>

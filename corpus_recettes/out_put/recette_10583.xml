@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10583">
+  <titre>Spaghetti à l'ail</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de spaghettis</p>
+    <p>1 tête d'ail </p>
+    <p>1 filet d'huile d'olive</p>
+    <p>1 cuillère à soupe de parmesan</p>
+    <p>1 pincée de poivre</p>
+    <p>1 goutte de tabasco (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Passer la tête d'ail au presse-ail. Faire blondir l'ail sur feu très doux. Cuire les pâtes en même temps.
+    Quand les spaghetti sont cuits, les égoutter et les mettre dans la poêle qui contient l'ail blond. Faire prendre goût quelques minutes sur feu doux en remuant pour bien imprégner les pâtes. Poivrer. Ajouter le tabasco pour les amateurs uniquement.
+    Saupoudrer de parmesan. Mélanger toujours sur feu doux. Servir.Cette recette est très simple et très rapide à réaliser, mais elle est surtout délicieuse. C'est un classique peu connu de la Provence et de sa soeur l'Italie du Nord.
+    La réussite de la recette dépend de la qualité de l'ail utilisé.C'est le fait de faire revenir doucement les pâtes dans l'ail qui lie les goûts. En italien, le verbe qui correspond à cette action est INSAPPORIRE, "faire prendre saveur"... C'est tout dire ! Bergerac rouge
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Passer</OPER> la <INGRED id="2">tête d'ail</INGRED> au presse - ail. Faire <OPER id="o_2">blondir</OPER> l'ail sur feu très doux. <OPER id="o_3">Cuire</OPER> les pâtes en même temps. Quand les spaghetti sont cuits, les <OPER id="o_4">égoutter</OPER> et les <OPER id="o_5">mettre</OPER> dans la poêle qui contient l'ail blond. Faire <OPER id="o_6">prendre</OPER> goût quelques minutes sur feu doux en remuant pour bien imprégner les pâtes. <OPER id="o_7">Poivrer</OPER>. <OPER id="o_8">Ajouter</OPER> le <INGRED id="6">tabasco</INGRED> pour les amateurs uniquement. <OPER id="o_9">Saupoudrer</OPER> de <INGRED id="6">parmesan</INGRED>. <OPER id="o_10">Mélanger</OPER> toujours sur feu doux. Servir. Cette recette est très simple et très rapide à <OPER id="o_11">réaliser</OPER>, mais elle est surtout délicieuse. C'est un classique peu connu de la Provence et de sa soeur l'Italie du Nord. La réussite de la recette dépend de la qualité de l'ail utilisé. C'est le fait de faire <OPER id="o_12">revenir</OPER> doucement les pâtes dans l'<INGRED id="4">ail</INGRED> qui lie les goûts. En italien, le verbe qui correspond à cette action est INSAPPORIRE, " faire <OPER id="o_13">prendre</OPER> saveur "... C'est tout dire ! Bergerac rouge
+  </annotation>
+  <annotation methode="crf">
+  Passer la tête d'<INGRED>ail</INGRED> au presse - <INGRED>ail</INGRED>. Faire blondir l'<INGRED>ail</INGRED> sur feu très doux. Cuire les <INGRED>pâtes</INGRED> en même temps. Quand les <INGRED>spaghetti</INGRED> sont cuits, les égoutter et les mettre dans la poêle qui contient l'<INGRED>ail</INGRED> blond. Faire prendre goût quelques minutes sur feu doux en remuant pour bien imprégner les <INGRED>pâtes</INGRED> <INGRED>.</INGRED> Poivrer. Ajouter le <INGRED>tabasco</INGRED> pour les amateurs uniquement <INGRED>.</INGRED> Saupoudrer de <INGRED>parmesan</INGRED>. Mélanger toujours sur feu doux. Servir <INGRED>.</INGRED> Cette recette est très simple et très rapide à réaliser <INGRED>,</INGRED> mais elle est surtout délicieuse. C'est un classique peu connu de la Provence et de sa soeur l'Italie du Nord. La réussite de la recette dépend de la qualité de l'<INGRED>ail</INGRED> utilisé <INGRED>.</INGRED> C'est le fait de faire revenir doucement les <INGRED>pâtes</INGRED> dans l'<INGRED>ail</INGRED> qui lie les goûts <INGRED>.</INGRED> En italien <INGRED>,</INGRED> le verbe qui correspond à cette action est INSAPPORIRE <INGRED>,</INGRED> " faire prendre saveur "... C'est tout dire ! Bergerac rouge
+  </annotation>
+  <complexite>
+    <temps>f(X) = 10.8333333333333*X + 2.16666666666667</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 5*X + 6</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['spaghettis']	 id:1	 quantité:400	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["tête d'ail", 'tête']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:["filet d'huile d'olive", 'filet']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['parmesan']	 id:4	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['poivre']	 id:5	 quantité:1	 unité:pincée de	 denombrable:True	 recipient:1*X
+ingredient:['tabasco']	 id:6	 quantité:1	 unité:goutte de	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:passer	 id:o_1	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:blondir	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:cuire	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:égoutter	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:prendre	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saupoudrer	 id:o_9	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:réaliser	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:revenir	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:prendre	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

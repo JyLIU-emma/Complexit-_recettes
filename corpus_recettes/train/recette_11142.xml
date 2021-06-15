@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11142">
+  <titre>Tendre plaisir lardé</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 Carré Frais</p>
+    <p>ail</p>
+    <p>persil</p>
+    <p>fines herbes</p>
+    <p>mélange 5 baies</p>
+    <p>fines tranches de lard fumé</p>
+    <p>1 salade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les Carrés Frais avec de l'ail haché + le persil + le mélange 5 baies + les fines herbes.
+    Faire de petits tas, les enrouler avec le lard fumé.
+    Faire frire 2 minutes de chaque côté et servir avec une salade à l'huile de noix.
+  ]]>
+  </preparation>
+</recette>

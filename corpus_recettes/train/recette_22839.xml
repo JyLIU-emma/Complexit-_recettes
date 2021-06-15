@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22839">
+  <titre>Cuisses de poulet au rhum et aux champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poulet découpé en morceaux ou 4 belles cuisses</p>
+    <p>1 verre de rhum</p>
+    <p>100 g de champignons de Paris</p>
+    <p>4 tomates</p>
+    <p>10 cl de crème</p>
+    <p>40 cl de bouillon de volaille</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Grattez et coupez les champignons en 4.
+    Faites dorer les morceaux de poulet à la cocotte avec du beurre.
+    Ajoutez les champignons, remuez et flambez avec le rhum. Ajoutez le bouillon, salez, poivrez et laissez mijoter 30 minutes à feu moyen.
+    Pelez et coupez les tomates en dés. Faites-les sauter à la poêle avec du beurre, salez et poivrez.
+    Mélangez les jaunes d'oeufs et la crème fraîche, versez dans la cocotte et laissez à feu doux 1 minute. Servez avec les tomates.
+  ]]>
+  </preparation>
+</recette>

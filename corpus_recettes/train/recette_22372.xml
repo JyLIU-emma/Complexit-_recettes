@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22372">
+  <titre>Filet de cabillaud aux asperges</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de filet de cabillaud</p>
+    <p>12 asperges</p>
+    <p>3 oeufs</p>
+    <p>6 coques (ou moules) </p>
+    <p>1 demi-botte de persil</p>
+    <p>60 g d'amandes salées (à apéritif) </p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Piler les amandes, hacher finement le persil et mélanger le tout avec 2 cuillères à soupe d'huile. 
+    Faire cuire les oeufs durs. 
+    Couper les filets de cabillaud en 12 morceaux, les passer dans la farine. 
+    Chauffer le reste d'huile dans une poêle, y mettre les morceaux de poisson à cuire 10 mn environ à feu vif, en les retournant. Saler, poivrer, retirer du feu. 
+    Couper les oeufs en quartiers. 
+    Mettre le poisson dans un plat à four beurré, disposer dessus les asperges, les quartiers d'oeufs, et arroser le tout de la sauce amandes-persil. 
+    Mettre à réchauffer 5 mn au four et servir décoré de coques ou de moules.
+      Oeil-de-Perdrix rosé bien frais (vin suisse)
+  ]]>
+  </preparation>
+</recette>

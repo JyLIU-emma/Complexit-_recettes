@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26859">
+  <titre>Raviolis chinois frits</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 paquet de feuillets à raviolis (en vente dans les magasins asiatiques) </p>
+    <p>300 g de viande hachée (porc ou boeuf)</p>
+    <p>1 oignon haché</p>
+    <p>2 cuillères à soupe de champignons noirs réhydratés et hachés</p>
+    <p>gingembre</p>
+    <p>Facultatif : on peut rajouter des crevettes (alors diminuer la quantité de viande) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger tous les ingrédients dans un saladier (sauf les feuillets à raviolis, bien sur). 
+    Prendre un feuillet (attention ils sont très fins) et mettre environ 1 cuillère à café de préparation dessus (au milieu du feuillet, refermer en tournant le haut du ravilis comme les extrémités d'un bonbon. 
+    Faire de même pour tous les raviolis (ne pas mettre trop de farce sinon le feuillet se déchire). 
+    Les faire frire par 3 ou 4 dans un bain d'huile et les passer sur un papier absorbant.
+  ]]>
+  </preparation>
+</recette>

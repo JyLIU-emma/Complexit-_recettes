@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20980">
+  <titre>Tarte au potiron et champignons</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>1 kg de potiron</p>
+    <p>400 g de champignons de Paris</p>
+    <p>50 g d'olives noires dénoyautées</p>
+    <p>1/2 cuillère à café de noix de muscade râpée</p>
+    <p>150 g de gruyère râpé</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler le potiron en cubes et le faire cuire 20 min dans une casserole avec un fond d'eau.
+    Egoutter.
+    Rincer et émincer les champignons, les faire sauter 10 minutes à la poêle dans un peu de beurre.
+    Etaler la pâte dans un moule à tarte, piquer le fond à la fourchette et la faire cuire à blanc 15 min, au four à 180°C (thermostat 6).
+    Mélanger le potiron, les champignons, les olives, le fromage et parfumer de noix de muscade, bien saler et poivrer.
+    Verser le tout sur la pâte et remettre au four 15 min.
+    On peut réduire le potiron et les champignons en purée et ajouter de la crème et des oeufs.
+  ]]>
+  </preparation>
+</recette>

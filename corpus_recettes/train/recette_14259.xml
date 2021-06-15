@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14259">
+  <titre>Poulet aux mangues</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>un poulet de 1,5 kg</p>
+    <p>3 grosses mangues bien mûres</p>
+    <p>un pot de miel liquide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Enlever la peau des mangues et coupez-les en morceaux pas trop gros (grosseur d'un abricot environ).
+    Mettez les morceaux à même le plat.
+    Déposez dessus le poulet (vous pouvez ou non enlever la peau, selon votre goût).
+    Enduisez le poulet de miel et mettez au four à 150°C.
+    Tournez le poulet et enduisez-le à nouveau de miel tous les quarts d'heure.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21868">
+  <titre>Gratin de pommes de terre aux oignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 pommes de terre</p>
+    <p>4 tomates</p>
+    <p>4 oignons</p>
+    <p>3 cuillères à café d'herbes hâchées (laurier et thym)</p>
+    <p>25 cl de bouillon de volaille</p>
+    <p>un peu d'huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez les légumes et détaillez-les en rondelles. Vous n'êtes obligés d'éplucher la tomate.
+    Alternez des couches de rondelles de pommes de terre, de tomates et d'oignons dans un plat huilé allant au four.
+    Salez, poivrez et parsemez d'herbes hachées entre chaque couche.
+    Versez le bouillon à hauteur, agrémentez d'un trait d'huile d'olive et couvrez de papier aluminium.
+    Faites cuire 1 h au four à 210°C (thermostat 7), en retirant le papier aluminimum au bout de 30 min pour faire gratiner.
+  ]]>
+  </preparation>
+</recette>

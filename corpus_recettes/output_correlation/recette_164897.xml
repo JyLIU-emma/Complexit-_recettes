@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164897">
+  <titre>Fleischsnack (escargots de viande)</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la farce :</p>
+    <p>200 g de collet de veau</p>
+    <p>200 g de collet de porc</p>
+    <p>100 g de foie de volaille</p>
+    <p>300 g de champignons de Paris (ou cèpes, morilles,...)</p>
+    <p>100 g de pain sec</p>
+    <p>10 cl de lait</p>
+    <p>1 oignon</p>
+    <p>Persil (un bouquet)</p>
+    <p>Sel, poivre</p>
+    <p>1 cube de bouillon de volaille délayé dans un bol d'eau chaude</p>
+    <p>Pour la pâte à nouilles :</p>
+    <p>250 g de farine</p>
+    <p>8 jaunes d'oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Couper les champignons en petits cubes.
+    Couper l'oignon en petits cubes. Faire suer dans le beurre. Y ajouter les champignons. Réduire. Laisser refroidir.
+    Hacher le persil.
+    Faire tremper le pain sec dans le lait. Egoutter avant de l'ajouter à la viande hachée. Ajouter du sel et du poivre (à convenance).- Dans un autre saladier, battre les jaunes d'oeufs avant de les ajouter à la farine. Mixer.
+    Mettre la pâte en boule. Laisser reposer 2 heures.- Mélanger les champignons avec la viande et le persil.
+    Etaler finement la pâte.
+    Etaler la farce sur la pâte. Rouler.
+    Mettre dans un film transparent.
+    Serrer. On obtient une sorte de saucisson.
+    Couper en tranches. Enlever le film.
+    Faire cuire des 2 côtés dans une poêle beurrée. Saler. Poivrer. Mouiller avec le bouillon de volaille. Cuisson 5 min.Servir avec une salade et du bouillon de volaille.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  - <OPER id="o_1">Couper</OPER> les <INGRED id="4">champignons</INGRED> en <INGRED id="3">petits</INGRED> cubes. <OPER id="o_2">Couper</OPER> l'<INGRED id="1">oignon</INGRED> en <INGRED id="3">petits</INGRED> cubes. Faire <OPER id="o_3">suer</OPER> dans le <INGRED id="2">beurre</INGRED>. Y <OPER id="o_4">ajouter</OPER> les champignons. Réduire. Laisser <OPER id="o_5">refroidir</OPER>. <OPER id="o_6">Hacher</OPER> le <INGRED id="12">persil</INGRED>. Faire <OPER id="o_7">tremper</OPER> le <INGRED id="5">pain sec</INGRED> dans le <INGRED id="2">lait</INGRED>. <OPER id="o_8">Egoutter</OPER> avant de l'<OPER id="o_9">ajouter</OPER> à la viande hachée. <OPER id="o_10">Ajouter</OPER> du <INGRED id="8">sel</INGRED> et du <INGRED id="13">poivre</INGRED> ( à convenance).- Dans un autre <INGRED id="1">saladier</INGRED>, <OPER id="o_11">battre</OPER> les <INGRED id="13">jaunes d'oeufs</INGRED> avant de les <OPER id="o_12">ajouter</OPER> à la <INGRED id="2">farine</INGRED>. <OPER id="o_13">Mixer</OPER>. <OPER id="o_14">Mettre</OPER> la <INGRED id="5">pâte</INGRED> en <INGRED id="1">boule</INGRED>. Laisser <OPER id="o_15">reposer</OPER> 2 heures.- <OPER id="o_16">Mélanger</OPER> les <INGRED id="4">champignons</INGRED> avec la viande et le <INGRED id="6">persil</INGRED>. <OPER id="o_17">Etaler</OPER> finement la <INGRED id="5">pâte</INGRED>. <OPER id="o_18">Etaler</OPER> la farce sur la <INGRED id="5">pâte</INGRED>. <OPER id="o_19">Rouler</OPER>. <OPER id="o_20">Mettre</OPER> dans un film transparent. <OPER id="o_21">Serrer</OPER>. On obtient une sorte de <INGRED id="3">saucisson</INGRED>. <OPER id="o_22">Couper</OPER> en <INGRED id="4">tranches</INGRED>. <OPER id="o_23">Enlever</OPER> le film. Faire <OPER id="o_24">cuire</OPER> des 2 côtés dans une poêle beurrée. <OPER id="o_2513">Saler</OPER>. <OPER id="o_26">Poivrer</OPER>. <OPER id="o_27">Mouiller</OPER> avec le <INGRED id="11">bouillon de volaille</INGRED>. Cuisson 5 min. Servir avec une salade et du <INGRED id="11">bouillon de volaille</INGRED>.
+  </annotation>
+  <annotation methode="crf">
+  - Couper les <INGRED>champignons</INGRED> en <INGRED>petits</INGRED> cubes <INGRED>.</INGRED> Couper l'<INGRED>oignon</INGRED> en <INGRED>petits</INGRED> cubes <INGRED>.</INGRED> Faire suer dans le <INGRED>beurre</INGRED> <INGRED>.</INGRED> Y ajouter les <INGRED>champignons</INGRED> <INGRED>.</INGRED> Réduire <INGRED>.</INGRED> Laisser refroidir <INGRED>.</INGRED> Hacher le <INGRED>persil</INGRED> <INGRED>.</INGRED> Faire tremper le <INGRED>pain sec</INGRED> dans le <INGRED>lait</INGRED> <INGRED>.</INGRED> Egoutter avant de l'ajouter à la <INGRED>viande</INGRED> hachée. Ajouter du <INGRED>sel</INGRED> et du <INGRED>poivre</INGRED> ( à convenance).- Dans un autre saladier <INGRED>,</INGRED> battre les <INGRED>jaunes d'oeufs</INGRED> avant de les ajouter à la <INGRED>farine</INGRED>. Mixer <INGRED>.</INGRED> Mettre la <INGRED>pâte</INGRED> en <INGRED>boule</INGRED> <INGRED>.</INGRED> Laisser reposer 2 heures.- Mélanger les <INGRED>champignons</INGRED> avec la <INGRED>viande</INGRED> et le <INGRED>persil</INGRED> <INGRED>.</INGRED> Etaler finement la <INGRED>pâte</INGRED> <INGRED>.</INGRED> Etaler la farce sur la <INGRED>pâte</INGRED> <INGRED>.</INGRED> Rouler. Mettre dans un film transparent. Serrer. On obtient une sorte de saucisson. Couper en tranches. Enlever le film. Faire cuire des 2 côtés dans une poêle beurrée. Saler <INGRED>.</INGRED> Poivrer. Mouiller avec le <INGRED>bouillon de volaille</INGRED> <INGRED>.</INGRED> Cuisson 5 min. Servir avec une salade et du <INGRED>bouillon de volaille</INGRED> <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 288.5*X + 288.5</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 10*X + 22</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['collet de veau', 'collet']	 id:1	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['collet de porc', 'collet']	 id:2	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['foie de volaille', 'foie']	 id:3	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['champignons de Paris', 'champignons']	 id:4	 quantité:300	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['pain sec', 'pain']	 id:5	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:6	 quantité:10	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['oignon']	 id:7	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['Persil']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['Sel']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['eau chaude', 'eau']	 id:11	 quantité:1	 unité:bol d'	 denombrable:True	 recipient:1*X
+ingredient:['farine']	 id:12	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["jaunes d'oeufs", 'jaunes']	 id:13	 quantité:8	 unité:non_precis	 denombrable:True	 recipient:8*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:couper	 id:o_1	 ingrédients_ralatifs:['4', '3']	 nombre_opération_atomique:1+1	 temps:1*X*1+1*X*1	 recipient:1
+operation:couper	 id:o_2	 ingrédients_ralatifs:['1', '3']	 nombre_opération_atomique:1+1	 temps:1*X*1+1*X*1	 recipient:1
+operation:suer	 id:o_3	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:hacher	 id:o_6	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:250*X	 temps:1*X*5	 recipient:1
+operation:tremper	 id:o_7	 ingrédients_ralatifs:['5', '2']	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:egoutter	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:['8', '13']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_11	 ingrédients_ralatifs:['1', '13', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mixer	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_14	 ingrédients_ralatifs:['5', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:reposer	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:mélanger	 id:o_16	 ingrédients_ralatifs:['4', '6']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:etaler	 id:o_17	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:etaler	 id:o_18	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:rouler	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:serrer	 id:o_21	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_22	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:300*X	 temps:1*X*1	 recipient:1
+operation:enlever	 id:o_23	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:saler	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_26	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mouiller	 id:o_27	 ingrédients_ralatifs:['11']	 nombre_opération_atomique:1	 temps:3	 recipient:0
+]]>
+</operation_trouve>
+</recette>

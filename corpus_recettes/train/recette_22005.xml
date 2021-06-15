@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22005">
+  <titre>Ragoût de lapin aux carottes et au chou</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 lapin</p>
+    <p>2 blancs de poulet</p>
+    <p>1 chou</p>
+    <p>4 carottes</p>
+    <p>200 g de lardons</p>
+    <p>1 kg de champignons</p>
+    <p>20 cl de vin (type vin d'Alsace)</p>
+    <p>40 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuisez les carottes coupées en bâtonnets et le chou émincé en fines lamelles à l'eau bouillante salée durant 15-20 min.
+    Désossez le lapin et coupez-le en lanières ainsi que le poulet.
+    Faites revenir les viandes dans le beurre chaud puis ajoutez les lardons préalablement salés et poivrés. Lorsque la viande est dorée, ajoutez les champignons émincés. 
+    Laissez cuire 30 min puis ajoutez les carottes et le chou.
+    Faites chauffez le vin d'Alsace, flambez-le puis versez-le sur le lapin.
+    Poursuivez la cuisson 20 min.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15777">
+  <titre>Gâteau d'Eve</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 pommes</p>
+    <p>60 g de farine</p>
+    <p>175 g de sucre</p>
+    <p>60 ml de lait</p>
+    <p>45 ml d'huile</p>
+    <p>2 œufs</p>
+    <p>50 ml de crème fraîche</p>
+    <p>1 paquet de levure</p>
+    <p>1 poignée d'amandes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Beurrez un plat et garnissez de quartiers de pommes. Versez la pâte : farine, sucre, lait, huile, levure et un œuf.
+    Glissez au four pendant 20 min à 180°C (thermostat 6).Pendant ce temps, faire un gratin : 50 ml de crème fraîche, 75 g de sucre, 1 œuf.
+    Ajoutez le gratin, parsemez d'amandes et remettez le gâteau 15 min au four.
+  ]]>
+  </preparation>
+</recette>

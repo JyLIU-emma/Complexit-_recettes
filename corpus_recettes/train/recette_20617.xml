@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20617">
+  <titre>Pavés fourrés à la crème de citron</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>4 oeufs</p>
+    <p>240 g de Maïzena</p>
+    <p>240 g de beurre</p>
+    <p>1,5 cuillère à café de levure chimique</p>
+    <p>Pour la crème :</p>
+    <p>40 g de maïzena</p>
+    <p>2 citrons</p>
+    <p>30 cl d’eau</p>
+    <p>200 g de sucre semoule</p>
+    <p>2 jaunes d’oeuf</p>
+    <p>2 sachets de sucre vanilléPour la glaçage :</p>
+    <p>125 g de sucre glace</p>
+    <p>3 cuillères à soupe de jus de citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Préparer d’abord la pâte :
+    Réduire le beurre en pommade puis le travailler avec le sucre, les oeufs, la maïzena et la levure.
+    Une fois la pâte parfaitement homogène, la verser dans un moule à manqué carré ou rectangle, préalablement beurré et fariné.
+    Enfourner pour 35 minutes de cuisson.
+    Pendant ce temps, préparer la crème :
+    Mélanger le sucre semoule avec le sucre vanillé et la maïzena dans une casserole.
+    Incorporer le jaune d’œuf en fouettant, puis arroser de jus de citron et d’eau sans cesser de remuer.
+    Faire chauffer jusqu’à ce que la préparation prenne la consistance d’une crème, en remuant sans cesse pour que la crème soit parfaitement fluide.
+    Une fois la crème épaissie, la laisser refroidir un peu à température ambiante, puis la réserver au réfrigérateur.
+    Préparer enfin le glaçage :
+    Mélanger le sucre glace tamisé avec le jus de citron jusqu’à obtention d’une sorte de pâte lisse collante.
+    Sortir le gâteau du four, le démouler, puis le détailler en carré de 3 cm de côté.
+    Découper ensuite chaque carré de pavé au citron en 2, fourrer de crème, reformer les pavés et recouvrir de glaçage.
+    Servir frais.
+  ]]>
+  </preparation>
+</recette>

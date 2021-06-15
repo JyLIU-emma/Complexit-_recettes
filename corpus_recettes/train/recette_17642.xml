@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17642">
+  <titre>Macarons rapides</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>160 g d'amandes mondées moulues</p>
+    <p>125 g de sucre semoule</p>
+    <p>2 blancs d'oeufs</p>
+    <p>20 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battez les blancs d'oeufs en neige. 
+    Mélangez les amandes en poudre et le sucre. Ajoutez les ensuite progressivement aux blanc d'oeufs pour former une pâte. 
+    Faites fondre le beurre et badigeonnez au pinceau une feuille de papier sulfurisé posée sur une tôle à patisserie. 
+    A l'aide de 2 cuillères à café, déposez dessus des petits tas de pâte peu espacés. 
+    Trempez un pinceau dans de l'eau et mouillez légèrement vos petits tas de pâte. 
+    Mettez à cuire au four, Th 6, 10 mn.
+  ]]>
+  </preparation>
+</recette>

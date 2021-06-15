@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22777">
+  <titre>Lait à la cannelle</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 litre de lait entier</p>
+    <p>150 g de sucre</p>
+    <p>1 zeste de citron</p>
+    <p>1 bâtonnet de cannelle</p>
+    <p>cannelle en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre tous les ingrédients à bouillir, à feu moyen, pendant 5 mn minimum, en remuant avec une cuillère en bois. 
+    Laisser refroidir, enlever le zeste et mettre le lait au congélateur 1 heure environ. 
+    Servir en verres individuels saupoudrés de cannelle.
+    -On peut ajouter 2 blancs d´oeufs en neige lorsque le lait est déjà au congélateur.
+    Très apprécié des enfants.
+    Faites attention à ne pas brûler le lait (au fond du pot). Sinon, on peut essayer le four à micro-ondes...
+  ]]>
+  </preparation>
+</recette>

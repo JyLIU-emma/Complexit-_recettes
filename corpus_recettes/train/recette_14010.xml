@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14010">
+  <titre>Frangipane</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>150 g d'amandes râpées</p>
+    <p>150 g de sucre semoule</p>
+    <p>150 g de beurre</p>
+    <p>2 cuillères à soupe de farine fermentante</p>
+    <p>3 œufs</p>
+    <p>5 gouttes essence d'amandes </p>
+    <p>1 pâte feuilletée prête à l'emploi</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tourner le beurre en crème. Mélanger sucre et poudre d'amandes.
+    Incorporer ce mélange petit à petit au beurre + essence d'amandes (facultatif).Ajouter ensuite les œufs 1 par1, puis la farine fermentante. Bien mélanger.Étaler la pâte dans une platine et remplir avec le mélange 'frangipane'.Garnir avec des rubans de pâte (reste du pourtour)et cuire à four chaud 200°C environ 30 min.Vérifier la coloration en cours de cuisson et couvrir d'un aluminium si nécessaire.Ce gâteau peut servir de galette des rois.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22218">
+  <titre>Quenelles de purée aux tomates et basilic</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 sachet de purée en flocons (125 g)</p>
+    <p>2 tomates pelées, épépinées et concassées</p>
+    <p>1 gousse d'ail hachée</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>farine</p>
+    <p>huile</p>
+    <p>basilic</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer 40 cl d'eau salée (ou eau et lait en quantités égales). Hors du feu, verser la purée en sachet et remuer.
+    Ajouter les dés de tomates et l'ail, ainsi que les jaunes d'oeufs. Poivrer et ajouter un peu de basilic haché.
+    Façonner des petites quenelles, les passer dans la farine.
+    Faire revenir les quenelles dans une poêle avec de l'huile et servir.
+  ]]>
+  </preparation>
+</recette>

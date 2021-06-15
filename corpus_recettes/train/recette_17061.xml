@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17061">
+  <titre>Gâteau chocolat et coco</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de chocolat noir</p>
+    <p>100 g de crème fraîche épaisse</p>
+    <p>4 oeufs</p>
+    <p>100 g de sucre brun</p>
+    <p>80 g de farine type 55 (car plus épaisse que type 45)</p>
+    <p>100 g de noix de coco râpée</p>
+    <p>1 sachet de levure chimique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre à feu doux le chocolat noir avec la crème fraîche épaisse. Réserver.
+    Au fouet électrique, mélanger les jaunes d'oeufs avec le sucre roux. Ajouter la farine et le sachet de levure chimique. Incorporer le mélange chocolat-crème puis la noix de coco rapée.
+    Ajouter délicatement les blancs d'oeufs battus en neige.
+    Faire cuire 30 mn environ à 190°C.
+    La farine type 55 est vendue dans toutes les grandes surfaces. Il s'agit de la farine premier prix dont on se sert généralement pour la fabrication du pain.
+  ]]>
+  </preparation>
+</recette>

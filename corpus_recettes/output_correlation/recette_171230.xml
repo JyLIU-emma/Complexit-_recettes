@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171230">
+  <titre>Agneau aux pruneaux et figues fraîches ( L'ham Lahlou de ma maman)</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de viande d’agneau en morceaux</p>
+    <p>1 kg de pruneaux d'Agen</p>
+    <p>500 g de figues fraîches et fermes</p>
+    <p>125 g de beurre</p>
+    <p>200 g de sucre</p>
+    <p>1 bâton de cannelle</p>
+    <p>1 cuillère à café de cannelle en poudre</p>
+    <p>10 clous de girofle</p>
+    <p>4 ou 5 grains de poivre noir</p>
+    <p>quelques amandes effilées légèrement dorées (pour décorer)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un grand fait-tout à fond large, poser la viande en morceaux, le morceau de beurre, les épices, et couvrir de deux litres d’eau froide (eh non, on ne fait pas revenir la viande pour cette recette !). Laisser cuire à feu moyen, pendant une heure. Piquer la viande, elle doit être tendre. Réduire l’eau dans la marmite si celle-ci est trop abondante. Poser alors les figues lavées, entières dans la marmite. Laisser cuire doucement.
+    Après cuisson des figues (environ 15 min), ajouter 500 g de pruneaux préalablement gonflés dans l’eau chaude. Réduire le feu au minimum, et ajouter 200 g de sucre. Laisser frémir jusqu’à obtention d’une sauce sirupeuse. (Bien surveiller donc, sous peine de caraméliser la préparation).Servir dans des assiettes, parsemées d’amandes effilées légèrement grillés.Cette recette est réservée aux becs sucrés. L'originale est préparée avec des pruneaux et un peu de raisins secs. Celle-ci est une variante. On peut également remplacer les figues par des pommes ou des poires en saison. Bonne appétit.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Dans un grand fait - tout à <INGRED id="4">fond</INGRED> large, <OPER id="o_1">poser</OPER> la <INGRED id="1">viande</INGRED> en <INGRED id="1">morceaux</INGRED>, le <INGRED id="2">morceau de</INGRED> <INGRED id="2">beurre</INGRED>, les <INGRED id="7">épices</INGRED>, et <OPER id="o_2">couvrir</OPER> de <INGRED id="6">deux</INGRED> litres d’ <INGRED id="5">eau froide</INGRED> ( eh non, on ne fait pas <OPER id="o_3">revenir</OPER> la <INGRED id="2">viande</INGRED> pour cette recette ! ). Laisser <OPER id="o_4">cuire</OPER> à feu moyen, pendant une heure. <OPER id="o_5">Piquer</OPER> la <INGRED id="1">viande</INGRED>, elle doit être tendre. Réduire l’ <INGRED id="8">eau</INGRED> dans la marmite si celle-ci est trop abondante. <OPER id="o_6">Poser</OPER> alors les <INGRED id="3">figues</INGRED> lavées, entières dans la marmite. Laisser <OPER id="o_7">cuire</OPER> doucement. Après cuisson des <INGRED id="3">figues</INGRED> ( <INGRED id="1">environ</INGRED> 15 min ), <OPER id="o_8">ajouter</OPER> 500 <INGRED id="4">g</INGRED> de pruneaux préalablement gonflés dans l’ <INGRED id="11">eau chaude</INGRED>. Réduire le feu au minimum, et <OPER id="o_9">ajouter</OPER> 200 <INGRED id="1">g</INGRED> de <INGRED id="4">sucre</INGRED>. Laisser <OPER id="o_10">frémir</OPER> jusqu’ à obtention d’ une sauce sirupeuse. ( Bien <OPER id="o_11">surveiller</OPER> donc, sous peine de <OPER id="o_12">caraméliser</OPER> la <OPER id="o_13">préparation).Servir</OPER> dans des assiettes, parsemées d’ amandes effilées légèrement grillés. Cette recette est réservée aux becs sucrés. L'originale est préparée avec des <INGRED id="2">pruneaux</INGRED> et un peu de <INGRED id="8">raisins secs</INGRED>. Celle - ci est une variante. On peut également <OPER id="o_14">remplacer</OPER> les <INGRED id="3">figues</INGRED> par des <INGRED id="10">pommes</INGRED> ou des <INGRED id="1">poires</INGRED> en saison. Bonne appétit.
+  </annotation>
+  <annotation methode="crf">
+  Dans un grand fait - tout à <INGRED>fond</INGRED> large <INGRED>,</INGRED> poser la <INGRED>viande</INGRED> en <INGRED>morceaux</INGRED> <INGRED>,</INGRED> le <INGRED>morceau</INGRED> de <INGRED>beurre</INGRED> <INGRED>,</INGRED> les <INGRED>épices</INGRED> <INGRED>,</INGRED> et couvrir de <INGRED>deux</INGRED> litres d’ <INGRED>eau</INGRED> froide ( eh non <INGRED>,</INGRED> on ne fait pas revenir la <INGRED>viande</INGRED> pour cette recette ! ). Laisser cuire à feu moyen <INGRED>,</INGRED> pendant une heure. Piquer la <INGRED>viande</INGRED> <INGRED>,</INGRED> elle doit être tendre <INGRED>.</INGRED> Réduire l’ <INGRED>eau</INGRED> dans la marmite si celle-ci est trop abondante. Poser alors les <INGRED>figues</INGRED> lavées <INGRED>,</INGRED> entières dans la marmite. Laisser cuire doucement <INGRED>.</INGRED> Après cuisson des <INGRED>figues</INGRED> ( <INGRED>environ</INGRED> 15 min ) <INGRED>,</INGRED> ajouter 500 <INGRED>g</INGRED> de <INGRED>pruneaux</INGRED> préalablement gonflés dans l’ <INGRED>eau</INGRED> chaude <INGRED>.</INGRED> Réduire le feu au minimum <INGRED>,</INGRED> et ajouter 200 <INGRED>g</INGRED> de <INGRED>sucre</INGRED>. Laisser frémir jusqu’ à obtention d’ une <INGRED>sauce</INGRED> sirupeuse. ( Bien surveiller donc <INGRED>,</INGRED> sous peine de caraméliser la préparation).Servir dans des assiettes <INGRED>,</INGRED> parsemées d’ <INGRED>amandes effilées</INGRED> légèrement grillés <INGRED>.</INGRED> Cette recette est réservée aux becs sucrés. L'originale est préparée avec des <INGRED>pruneaux</INGRED> et un peu de <INGRED>raisins secs</INGRED> <INGRED>.</INGRED> Celle - ci est une variante. On peut également remplacer les <INGRED>figues</INGRED> par des <INGRED>pommes</INGRED> <INGRED>ou</INGRED> des <INGRED>poires</INGRED> en saison <INGRED>.</INGRED> Bonne appétit.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 9.73913043478261*X + 4.26086956521739</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 16*X + 10</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:["viande d'agneau en morceaux", 'viande']	 id:1	 quantité:1	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:["pruneaux d'Agen", 'pruneaux']	 id:2	 quantité:1	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['figues fraîches', 'figues']	 id:3	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['fermes']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:5	 quantité:125	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:6	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['bâton de cannelle', 'bâton']	 id:7	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['cannelle en poudre', 'cannelle']	 id:8	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+ingredient:['clous de girofle', 'clous']	 id:9	 quantité:10	 unité:non_precis	 denombrable:True	 recipient:10*X
+ingredient:['grains de poivre noir', 'grains']	 id:10	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['amandes effilées légèrement dorées', 'amandes']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:poser	 id:o_1	 ingrédients_ralatifs:['4', '1', '1', '2', '2', '7', '6', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_2	 ingrédients_ralatifs:['6', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:revenir	 id:o_3	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cuire	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:piquer	 id:o_5	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poser	 id:o_6	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['3', '1', '4', '11']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:['1', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:frémir	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:surveiller	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:caraméliser	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparation).servir	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remplacer	 id:o_14	 ingrédients_ralatifs:['3', '10', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

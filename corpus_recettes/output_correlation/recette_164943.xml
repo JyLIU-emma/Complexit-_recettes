@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164943">
+  <titre>Guiness beef stew</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de paleron de boeuf</p>
+    <p>2 oignons</p>
+    <p>2 gousses d'ail</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>250 ml de bouillon</p>
+    <p>250 ml de bière Guiness</p>
+    <p>4 carottes</p>
+    <p>pruneaux</p>
+    <p>laurier</p>
+    <p>thym</p>
+    <p>persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher les oignons et l'ail et mettre à rissoler.
+    Découper les carottes en rondelles.
+    Détailler la viande en morceaux.
+    Retirer les oignons et l'ail et réserver.
+    Faire dorer les morceaux de viande de tous les côtés.
+    Ajouter la farine.
+    Ajouter le bouillon.
+    Laisser cuire doucement pour faire épaissir la sauce et ajouter la bière.
+    Laisser mijoter 5 min à couvert.
+    Ajouter les oignons, l'ail, les carottes, les herbes, saler et poivrer.
+    Laisser cuire à feu doux sans couvrir pendant 1h30.
+    Ajouter de l'eau si besoin, mélanger.
+    Ajouter les pruneaux 30 minutes avant la fin.Servir accompagné de tagliatelle par exemple
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Hacher</OPER> les oignons et l'<INGRED id="2">ail</INGRED> et <OPER id="o_2">mettre</OPER> à <OPER id="o_3">rissoler</OPER>. <OPER id="o_4">Découper</OPER> les <INGRED id="1">carottes</INGRED> en rondelles. <OPER id="o_5">Détailler</OPER> la <INGRED id="2">viande</INGRED> en <INGRED id="1">morceaux</INGRED>. <OPER id="o_6">Retirer</OPER> les <INGRED id="9">oignons</INGRED> et l'<INGRED id="3">ail</INGRED> et réserver. Faire <OPER id="o_7">dorer</OPER> les <INGRED id="1">morceaux</INGRED> de viande de tous les côtés. <OPER id="o_8">Ajouter</OPER> la farine. <OPER id="o_9">Ajouter</OPER> le <INGRED id="2">bouillon</INGRED>. Laisser <OPER id="o_10">cuire</OPER> doucement pour faire épaissir la <INGRED id="4">sauce</INGRED> et <OPER id="o_11">ajouter</OPER> la <INGRED id="2">bière</INGRED>. Laisser <OPER id="o_12">mijoter</OPER> 5 min à couvert. <OPER id="o_13">Ajouter</OPER> les <INGRED id="5">oignons</INGRED>, l'<INGRED id="5">ail</INGRED>, les <INGRED id="2">carottes</INGRED>, les <INGRED id="5">herbes</INGRED>, <OPER id="o_14">saler</OPER> et <OPER id="o_15">poivrer</OPER>. Laisser <OPER id="o_16">cuire</OPER> à feu doux sans <OPER id="o_17">couvrir</OPER> pendant 1h30. <OPER id="o_18">Ajouter</OPER> de l'<INGRED id="1">eau</INGRED> si besoin, <OPER id="o_19">mélanger</OPER>. <OPER id="o_20">Ajouter</OPER> les pruneaux 30 minutes avant la fin. Servir accompagné de tagliatelle par exemple
+  </annotation>
+  <annotation methode="crf">
+  Hacher les <INGRED>oignons</INGRED> et l'<INGRED>ail</INGRED> et mettre à rissoler. Découper les <INGRED>carottes</INGRED> en rondelles. Détailler la <INGRED>viande</INGRED> en <INGRED>morceaux</INGRED> <INGRED>.</INGRED> Retirer les <INGRED>oignons</INGRED> et l'<INGRED>ail</INGRED> et réserver <INGRED>.</INGRED> Faire dorer les <INGRED>morceaux</INGRED> de <INGRED>viande</INGRED> de tous les côtés. Ajouter la <INGRED>farine</INGRED>. Ajouter le <INGRED>bouillon</INGRED> <INGRED>.</INGRED> Laisser cuire doucement pour faire épaissir la <INGRED>sauce</INGRED> et ajouter la <INGRED>bière</INGRED>. Laisser mijoter 5 min à couvert. Ajouter les <INGRED>oignons,</INGRED> l'<INGRED>ail</INGRED> <INGRED>,</INGRED> les <INGRED>carottes</INGRED> <INGRED>,</INGRED> les <INGRED>herbes</INGRED> <INGRED>,</INGRED> saler et poivrer. Laisser cuire à feu doux sans couvrir pendant 1h30. Ajouter de l'<INGRED>eau</INGRED> si besoin <INGRED>,</INGRED> mélanger. Ajouter les <INGRED>pruneaux</INGRED> 30 minutes avant la fin. Servir accompagné de tagliatelle par exemple
+  </annotation>
+  <complexite>
+    <temps>f(X) = 19.8054474708171*X + 0.194552529182879</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 509*X + 12</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['paleron de boeuf', 'paleron']	 id:1	 quantité:1	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['oignons']	 id:2	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['ail']	 id:3	 quantité:2	 unité:gousses d'	 denombrable:True	 recipient:2*X
+ingredient:['farine']	 id:4	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['ml de bouillon', 'ml']	 id:5	 quantité:250	 unité:non_precis	 denombrable:True	 recipient:250*X
+ingredient:['ml de bière Guiness', 'ml']	 id:6	 quantité:250	 unité:non_precis	 denombrable:True	 recipient:250*X
+ingredient:['carottes']	 id:7	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['pruneaux']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['laurier']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['thym']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['persil']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:hacher	 id:o_1	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:2*X*5	 recipient:1
+operation:mettre	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:rissoler	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:découper	 id:o_4	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1*X	 temps:1*X*1	 recipient:1
+operation:détailler	 id:o_5	 ingrédients_ralatifs:['2', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_6	 ingrédients_ralatifs:['9', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dorer	 id:o_7	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1*X	 temps:1*X*1	 recipient:0
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_10	 ingrédients_ralatifs:['4', '2']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:ajouter	 id:o_11	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:ajouter	 id:o_13	 ingrédients_ralatifs:['5', '5', '2', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:couvrir	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_18	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24842">
+  <titre>Tarte tatin de tomates au chèvre</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>15 tomates (allongées de préférence) </p>
+    <p>250 g de fromage de chèvre</p>
+    <p>1 rouleau de pâte feuilletée</p>
+    <p>du basilic (quantité fonction du goût !) </p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les tomates en les passant quelques secondes dans l'eau bouillante. Les couper en deux et les épépiner. 
+    Bien huiler une plaque passant au four. Disposer les tomates dessus, saler légèrement. Faire confire au four (thermostat 7-8 ) pendant 10-15 mn. 
+    Huiler un moule à manqué. Disposer dans le fond les tomates. Recouvrir de basilic. 
+    Disposer sur les tomates le fromage de chèvre coupé en tranche, puis la pâte feuilleté, en fronçant les bords comme dans une tarte tatin. 
+    Cuire 45 mn à thermostat 7-8 . 
+    Démouler et servir chaud comme une tarte tatin.
+  ]]>
+  </preparation>
+</recette>

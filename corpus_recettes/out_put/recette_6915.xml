@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="6915">
+  <titre>Douceur sucrée sur un lit d'épinard</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>épinards en salade </p>
+    <p>vinaigrette </p>
+    <p>1 boîte de Carrés Frais</p>
+    <p>raisins secs jaunes</p>
+    <p>figues fraîches ou surgelées (environ 12)</p>
+    <p>sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Déposer dans chaque assiette, une bonne poignée d'épinards en salade.
+    Dans un bol, préparer une vinaigrette avec 2 cuillères à soupe d'huile de colza, 1 cuillère à soupe de vinaigne balsamique, et 1 petite cuillère à café de moutarde. 
+    Verser 1 cuillère à soupe de vinaigrette sur la salade.
+    Mélanger dans un bol 6 Carrés Frais, avec une pincée de raisins.
+    Façonner des petites boules dans vos mains. Les déposer dans les assiettes.
+    Dans une poêle, déposer une noisette de margarine, et une dizaine de figues (sans la peau), dans la poêle. 
+    Laisser cuire doucement, à feu doux pendant 5 min, et ajouter en fin de cuisson le sucre vanillé.
+    Ajouter cette compotée de figues à côté de la boule de Carré Frais dans l'assiette, et décorer avec les figues restances, coupées en lamelles, avec la peau.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Déposer</OPER> dans chaque assiette, une bonne poignée d'<INGRED id="1">épinards en salade</INGRED>. Dans un bol, <OPER id="o_2">préparer</OPER> une <INGRED id="2">vinaigrette</INGRED> avec 2 cuillères à soupe d'<INGRED id="5">huile</INGRED> de colza, 1 cuillère à soupe de vinaigne balsamique, et 1 petite cuillère à café de <INGRED id="4">moutarde</INGRED>. <OPER id="o_3">Verser</OPER> 1 cuillère à soupe de <INGRED id="2">vinaigrette</INGRED> sur la <INGRED id="4">salade</INGRED>. <OPER id="o_4">Mélanger</OPER> dans un bol 6 <INGRED id="2">Carrés Frais</INGRED>, avec une pincée de <INGRED id="2">raisins</INGRED>. <OPER id="o_5">Façonner</OPER> des petites boules dans vos mains. Les <OPER id="o_6">déposer</OPER> dans les assiettes. Dans une poêle, <OPER id="o_7">déposer</OPER> une noisette de margarine, et une dizaine de figues ( sans la peau ), dans la poêle. Laisser <OPER id="o_8">cuire</OPER> doucement, à feu doux pendant 5 min, et <OPER id="o_9">ajouter</OPER> en fin de cuisson le sucre vanillé. <OPER id="o_10">Ajouter</OPER> cette compotée de figues à côté de la boule de <INGRED id="5">Carré Frais</INGRED> dans l'assiette, et <OPER id="o_11">décorer</OPER> avec les figues restances, coupées en <INGRED id="2">lamelles</INGRED>, avec la peau.
+  </annotation>
+  <annotation methode="crf">
+  Déposer dans chaque assiette <INGRED>,</INGRED> une bonne poignée d'<INGRED>épinards</INGRED> en salade <INGRED>.</INGRED> Dans un bol <INGRED>,</INGRED> préparer une <INGRED>vinaigrette</INGRED> avec 2 <INGRED>cuillères à soupe</INGRED> d'<INGRED>huile</INGRED> de colza <INGRED>,</INGRED> 1 cuillère à soupe de vinaigne balsamique <INGRED>,</INGRED> et 1 petite cuillère à <INGRED>café</INGRED> de <INGRED>moutarde</INGRED>. Verser 1 cuillère à soupe de <INGRED>vinaigrette</INGRED> sur la <INGRED>salade</INGRED> <INGRED>.</INGRED> Mélanger dans un bol 6 <INGRED>Carrés Frais</INGRED> <INGRED>,</INGRED> avec une pincée de <INGRED>raisins</INGRED> <INGRED>.</INGRED> Façonner des petites <INGRED>boules</INGRED> dans vos mains. Les déposer dans les assiettes. Dans une poêle <INGRED>,</INGRED> déposer une noisette de <INGRED>margarine</INGRED> <INGRED>,</INGRED> et une dizaine de <INGRED>figues</INGRED> ( sans la peau ) <INGRED>,</INGRED> dans la poêle <INGRED>.</INGRED> Laisser cuire doucement <INGRED>,</INGRED> à feu doux pendant 5 min <INGRED>,</INGRED> et ajouter en fin de cuisson le <INGRED>sucre vanillé</INGRED> <INGRED>.</INGRED> Ajouter cette compotée de <INGRED>figues</INGRED> à côté de la <INGRED>boule</INGRED> de <INGRED>Carré</INGRED> <INGRED>Frais</INGRED> dans l'assiette <INGRED>,</INGRED> et décorer avec les <INGRED>figues</INGRED> restances <INGRED>,</INGRED> <INGRED>coupées</INGRED> en <INGRED>lamelles</INGRED> <INGRED>,</INGRED> avec la peau.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 1.83333333333333*X + 9.16666666666667</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = X + 10</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['épinards en salade', 'épinards']	 id:1	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['vinaigrette']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['Carrés Frais', 'Carrés']	 id:3	 quantité:1	 unité:boîte de	 denombrable:True	 recipient:1*X
+ingredient:['raisins secs jaunes', 'raisins']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['figues fraîches ou surgelées', 'figues']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sucre vanillé', 'sucre']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:déposer	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:préparer	 id:o_2	 ingrédients_ralatifs:['2', '5', '4']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:verser	 id:o_3	 ingrédients_ralatifs:['2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_4	 ingrédients_ralatifs:['2', '2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:façonner	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déposer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:déposer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cuire	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:['5', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:décorer	 id:o_11	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

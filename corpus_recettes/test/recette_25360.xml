@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25360">
+  <titre>Riz au chou et à la coriandre</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de riz</p>
+    <p>1 kg de chou vert</p>
+    <p>2 gros oignons</p>
+    <p>20 grains de coriandre</p>
+    <p>2 pincée de gingembre en poudre</p>
+    <p>huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher finement le chou et les oignons.
+    Mettre les oignons dans une cocotte avec un fond d'eau, faire cuire quelques minutes, puis rajouter le chou, un peu d'eau et les grains de coriandre.
+    Laisser cuire environ 20 min à feu très doux.
+    Faire cuire le riz à l'eau bouillante salée (2 fois le volume de riz en eau, soit environ 50 cl), environ 20 min à feu doux.
+    Le riz doit avoir absorbé toute l'eau.
+    Mélanger le riz avec le chou cuit, saupoudrer de gingembre et arroser d'un trait d'huile d'olive.
+    Saler, poivrer et servir.
+  ]]>
+  </preparation>
+</recette>

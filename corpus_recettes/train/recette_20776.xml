@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20776">
+  <titre>Gâteau au vin</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>200 g de margarine</p>
+    <p>200 g de sucre fin</p>
+    <p>4 oeufs</p>
+    <p>1 paquet de sucre vanillé</p>
+    <p>2 cuillerées à café de cacao</p>
+    <p>2 cuillerées à café de cannelle</p>
+    <p>100 g de pépites de chocolat</p>
+    <p>1/8 l de vin rouge</p>
+    <p>1 paquet de levure chimique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire blanchir le sucre et la margarine, ajouter alors tous les ingrédients. 
+    Faire cuire au four à 175°C pendant 45 à 50 mn.
+  ]]>
+  </preparation>
+</recette>

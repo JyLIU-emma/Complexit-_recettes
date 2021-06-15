@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10972">
+  <titre>Focaccia au romarin</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de farine</p>
+    <p>2 cuillères à café de sel</p>
+    <p>25 cl de lait</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>5 brindilles de romarin</p>
+    <p>Pour le levain : </p>
+    <p>20 g de levure</p>
+    <p>200 g de farine blanche</p>
+    <p>5 cl de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La focaccia au romarin est un pain italien 
+    qui peut se servir en apéritif ou en accompagnement de charcuteries.
+    Préparer un levain en délayant la levure et
+    la farine blanche dans le lait tiède.
+    Couvrir et laisser reposer 1/2 heure.Mélanger la farine, le sel, le lait, l'huile d'olive. Ajouter le levain et pétrir jusqu'à élasticité. Laisser lever durant 1 heure 1/2.Abaisser la pâte en une couche de 2 cm de hauteur
+    sur plaque huilée, et entailler en diagonale
+    à l'aide d'un couteau, pour former des croisillons
+    de 2cm environ.
+    Huiler la surface à l'huile d'olive, parsemer de brindilles de romarin.
+    Laisser lever 1/4 heure, et cuire à 220 degrés
+    durant 20-30 minutes. Servir tiède. Vin blanc italien, Mâcon blanc
+  ]]>
+  </preparation>
+</recette>

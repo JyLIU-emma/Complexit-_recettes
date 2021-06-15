@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20211">
+  <titre>Poulet aux écrevisses rapide</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet coupé en morceaux</p>
+    <p>16 écrevisses</p>
+    <p>1/2 verre de Cognac</p>
+    <p>1 petite boîte de concentré de tomate</p>
+    <p>1 verre de vin blanc</p>
+    <p>1 boîte de bisque de homard</p>
+    <p>bouquet garni</p>
+    <p>sel poivre</p>
+    <p>un peu d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte, faites revenir les écrevisses dans un peu d'huile. Quand elles sont rouges les retirer. 
+    Faites revenir les morceaux de poulet dans la même huile. 
+    Quand ils sont bien dorés, ajouter le Cognac et faites flamber. 
+    Ajouter le vin blanc, le concentré de tomate, la bisque de homard, bouquet garni, sel et poivre. 
+    Remettez les écrevisses par dessus et laisser mijoter 30 à 40 mn.
+    vous pouvez remplacer les écrevisses par des langoustines. La bisque de homard peut être remplacée par de la bisque d'écrevisses.
+  ]]>
+  </preparation>
+</recette>

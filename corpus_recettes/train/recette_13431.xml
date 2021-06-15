@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13431">
+  <titre>Curry de poulet coco</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet découpé en morceaux (3 ou 4 cm sur 2 ou 3)</p>
+    <p>125 ml de lait de coco</p>
+    <p>1 petite boîte de tomates épépinées et pelées</p>
+    <p>1 petite boîte de maïs</p>
+    <p>1 poivron vert coupé en dés</p>
+    <p>2 cuillères à soupe de pâte de curry</p>
+    <p>quelques pincées de curry en poudre</p>
+    <p>un peu d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre un peu d'huile dans une cocotte et faire revenir le poulet à feu moyen. Lorsqu'il commence à se colorer, ajouter 2 c à soupe de pâte de curry. Bien remuer.
+    Ajouter le lait de coco. Remuer de nouveau et ajouter le mais en boite et le poivron coupé en dés.
+    Parsemer de quelques pincées de curry en poudre. Saler. Laisser mijoter 30 mn à petits bouillons. 
+    Surveiller de temps en temps. Goûtez. Vous saurez lorsque c'est cuit.
+    Servir avec un riz basmati cuit avec 1/2 eau, 1/2 lait de coco.
+     Gewurztraminer
+  ]]>
+  </preparation>
+</recette>

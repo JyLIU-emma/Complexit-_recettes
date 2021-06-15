@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20891">
+  <titre>Moules farcies au beurre d'escargot</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de moules</p>
+    <p>250 g de beurre</p>
+    <p>1 botte de persil</p>
+    <p>ail</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver plusieurs fois les moules mais ne laisser pas tremper dans l'eau (sinon elles s'ouvrent). 
+    Laver le persil (reserver les queues). 
+    Faites sauter à feu vif les moules jusqu'à ouverture dans une casserole ou vous aurez fait revenir un oignon et les queues de persil dans un peu de beurre. 
+    Passer au mixer le persil et l'ail. 
+    Mélanger le mélange avec beurre. 
+    Remplir chaque demi coquille d'une moule recouverte de beurre à l'ail. 
+    Passer 10 mn au grill
+    ne cuisez pas trop les moules, si une reste fermée remettez la pendant 30" dans la casserole  un blanc sec
+  ]]>
+  </preparation>
+</recette>

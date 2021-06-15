@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26656">
+  <titre>Gratin de cabillaud aux épinards</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de filets de cabillaud</p>
+    <p>1 cube de bouillon pour poisson</p>
+    <p>20 g de beurre</p>
+    <p>500 g d'épinards surgelés</p>
+    <p>noix de muscade</p>
+    <p>150 g de crème fraîche</p>
+    <p>100 g de gruyère râpé</p>
+    <p>125 g de purée de pommes de terre</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Délayez un cube de bouillon pour poisson dans de l'eau et porter à ébullition. Y faire cuire les filets de cabillaud pendant 12 minutes. Egoutter et réserver.
+    Dans une poêle beurrée, faire cuire les épinards dégelés pendant environ 15 minutes à couvert. Saler, poivrer et ajouter la noix de muscade.
+    Préchauffer le four à 210°C (thermostat 7).
+    Dans un plat à gratin beurré, étaler une couche d'épinards au fond du plat, puis recouvrir des filets de poissons et d'une nouvelle couche d'épinards.
+    Faire une purée de pomme de terre et la battre avec la crème fraîche, du gruyère râpé ainsi que de la noix de muscade.
+    Terminer le gratin par une couche de purée de pommes de terre et enfourner 10 minutes à 240°C (thermostat 8).
+  ]]>
+  </preparation>
+</recette>

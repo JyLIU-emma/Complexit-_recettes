@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10786">
+  <titre>Les gaufres de Gnafron</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>4 œufs</p>
+    <p>125 g de beurre très mou + beurre pour le gaufrier</p>
+    <p>40 cl de crème fraîche liquide</p>
+    <p>100 g de sucre</p>
+    <p>2 sachets de sucre vanillé</p>
+    <p>1 cuillère à soupe d'eau de fleur d'oranger</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Travaillez le beurre avec le sucre et le sucre vanillé jusqu'à
+    l'obtention d'une masse crémeuse. Séparez les jaunes d'œufs des blancs.
+    Incorporez petit à petit lesjaunes des œufs (conservez les blancs)
+    puis la crème, la farine tamisée et l'eau de fleur d'oranger.
+    Montez les blancs d'œufs en neige avec le sel. Incorporez-les
+    délicatement à la pâte.
+    Préchauffez le gaufrier selon le mode d'emploi. Badigeonnez-le de
+    beurre, déposez 2 cuillerées à soupe de pâte au centre et faites cuire
+    jusqu'à ce que la gaufre soit dorée.
+    Servez aussitôt avec du sucre, de la cannelle, de la compote de
+    fruits rouges ou de la crème fouettée, selon votre goût.
+  ]]>
+  </preparation>
+</recette>

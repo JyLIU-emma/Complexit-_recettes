@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26172">
+  <titre>Gratin aux restes de poisson</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de restes de poisson cuit</p>
+    <p>100 g de riz cuit</p>
+    <p>1/2 boîte de champignons</p>
+    <p>20 cl de crème fraîche</p>
+    <p>20 cl de béchamel</p>
+    <p>75 g de fromage râpé</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C (thermostat 6).
+    Beurrez un plat à four, étalez-y le riz.
+    Emiettez le poisson, mélangez avec la béchamel, les champignons égouttés et la crème fraîche. Etalez ce mélange sur le riz. 
+    Parsemez de fromage, couvrez d'aluminium et enfournez 20 min.
+    Retirez l'aluminium et passez 2 min sous le grill pour faire dorer le gratin.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23787">
+  <titre>Blanquette de poulet surprise</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poulet coupé en morceaux</p>
+    <p>6 quenelles de volaille ou de veau</p>
+    <p>250 g de petits champignons de Paris</p>
+    <p>2 carottes</p>
+    <p>1 oignon</p>
+    <p>1 branche de céleri</p>
+    <p>1 bouquet garni</p>
+    <p>50 g de beurre</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites revenir les morceaux de poulet dans une grande cocotte avec du beurre.
+    Retirez-les une fois dorés et mettez l'oignon, les carottes et le céleri émincés à la place.
+    Faites-les suer quelques minutes et remettez les morceaux de poulet.
+    Mouillez d'eau bouillante à hauteur, salez, poivrez et ajoutez le bouquet garni.
+    Laissez mijoter 1 h à feu moyen. 
+    Rajoutez les champignons nettoyés dans la cocotte et laissez cuire encore 15 min.
+    Egouttez la viande et les légumes, réservez-les au chaud.
+    Retirez le bouquet garni de la cocotte et passez le bouillon au chinois.
+    Faites fondre 30 g de beurre, saupoudrez la farine et remuez à la cuillère en bois.
+    Mouillez peu à peu de bouillon de cuisson en remuant et ajoutez les quenelles coupées en 3.
+    Laissez épaissir 10 min environ, et incorporez si vous le souhaitez 1 grosse cuillère de crème fraîche.
+    Servez le poulet nappé de sauce, et accompagné de riz ou de pâtes fraîches.
+  ]]>
+  </preparation>
+</recette>

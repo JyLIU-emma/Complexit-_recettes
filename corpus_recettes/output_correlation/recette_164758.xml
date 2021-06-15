@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164758">
+  <titre>Carbonade de joue de boeuf</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de joue de boeuf</p>
+    <p>75 cl de bière brune</p>
+    <p>1 oignon émincé</p>
+    <p>1 cc de cassonade</p>
+    <p>1 carotte</p>
+    <p>1 cc de cannelle</p>
+    <p>1 clou de girofle</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    préchauffer le four à 190°C
+    faire revenir le boeuf dans une cocotte allant au four dans un peu d'huile de votre choix. Mettre les épices et remuer. Ajouter l'oignon émincé. Dès que celui-ci devient translucide, ajouter la cassonade. verser la bière, ajouter la carotte coupée en rondelles fines, le sel et le poivre.
+    Enfourner la cocotte pendant environ 2 heures. Servir avec des pommes de terre vapeur par exemple...La cassonade permet de casser l'amertume de la bière brune Une bière ambrée
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">préchauffer</OPER> le four à 190 ° C faire <OPER id="o_2">revenir</OPER> le <INGRED id="2">boeuf</INGRED> dans une cocotte allant au four dans un peu d'<INGRED id="4">huile</INGRED> de votre choix. <OPER id="o_3">Mettre</OPER> les <INGRED id="6">épices</INGRED> et <OPER id="o_4">remuer</OPER>. <OPER id="o_5">Ajouter</OPER> l'<INGRED id="3">oignon émincé</INGRED>. Dès que celui-ci devient translucide, <OPER id="o_6">ajouter</OPER> la cassonade. <OPER id="o_7">verser</OPER> la <INGRED id="2">bière</INGRED>, <OPER id="o_8">ajouter</OPER> la <INGRED id="5">carotte</INGRED> coupée en rondelles fines, le <INGRED id="3">sel</INGRED> et le poivre. <OPER id="o_9">Enfourner</OPER> la cocotte pendant environ 2 heures. Servir avec des <INGRED id="4">pommes de terre</INGRED> vapeur par exemple... La cassonade permet de <OPER id="o_10">casser</OPER> l'amertume de la <INGRED id="2">bière brune</INGRED> Une <INGRED id="2">bière</INGRED> ambrée
+  </annotation>
+  <annotation methode="crf">
+  préchauffer le four à 190 ° C faire revenir le <INGRED>boeuf</INGRED> dans une cocotte allant au four dans un peu d'<INGRED>huile</INGRED> de votre choix <INGRED>.</INGRED> Mettre les <INGRED>épices</INGRED> et remuer. Ajouter l'<INGRED>oignon émincé</INGRED> <INGRED>.</INGRED> Dès que celui-ci devient translucide <INGRED>,</INGRED> ajouter la <INGRED>cassonade</INGRED> <INGRED>.</INGRED> verser la <INGRED>bière</INGRED> <INGRED>,</INGRED> ajouter la <INGRED>carotte</INGRED> coupée en rondelles fines <INGRED>,</INGRED> le <INGRED>sel</INGRED> et le <INGRED>poivre</INGRED>. Enfourner la cocotte pendant <INGRED>environ</INGRED> 2 heures. Servir avec des <INGRED>pommes de terre</INGRED> vapeur par exemple... La <INGRED>cassonade</INGRED> permet de casser l'amertume de la <INGRED>bière</INGRED> brune Une <INGRED>bière</INGRED> ambrée
+  </annotation>
+  <complexite>
+    <temps>f(X) = 5.0*X + 5.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 5*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['joue de boeuf', 'joue']	 id:1	 quantité:1	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['bière brune', 'bière']	 id:2	 quantité:75	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['oignon émincé', 'oignon']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['cc de cassonade', 'cc']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['carotte']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['cc de cannelle', 'cc']	 id:6	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['clou de girofle', 'clou']	 id:7	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['huile']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préchauffer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:revenir	 id:o_2	 ingrédients_ralatifs:['2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_3	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:remuer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_7	 ingrédients_ralatifs:['2', '5', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['5', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfourner	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:casser	 id:o_10	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

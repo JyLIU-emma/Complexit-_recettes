@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25475">
+  <titre>GALETTE AU SUCRE ET AUX AMANDES</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>1 pincée de sel</p>
+    <p>150 g de sucre</p>
+    <p>1 paquet de levure</p>
+    <p>3 oeufs</p>
+    <p>200 g de crème</p>
+    <p>Pour la garniture :</p>
+    <p>100 g de sucre</p>
+    <p>50 g de beurre</p>
+    <p>50 g ou plus d'amandes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger 150 g de sucre battu avec les 3 oeufs puis les 200 g de crème, enfin la farine et le paquet de levure. 
+    Bien travailler la pâte. 
+    Versez dans un moule à tarte bien beurrée. 
+    Ensuite ajouter la garniture. 
+    Cuire environ 25 mn thermostat 5/6. 
+    Bon appétit
+  ]]>
+  </preparation>
+</recette>

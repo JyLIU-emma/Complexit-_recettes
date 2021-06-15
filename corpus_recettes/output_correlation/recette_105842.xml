@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="105842">
+  <titre>Spaghetti aux knack</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de spaghetti</p>
+    <p>10 knackis</p>
+    <p>1/2 ou 1 poivron selon la grosseur</p>
+    <p>1 belle tomate</p>
+    <p>3 gousses d'ail</p>
+    <p>un peu de beurre pour la cuisson</p>
+    <p>3 cuillères à soupe de concentré de tomate</p>
+    <p>sel, poivre, eau</p>
+    <p>un bouillon de volaille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les spaghetti.
+    Pendant ce temps, dans une poêle, mettre un peu de beurre, ajouter l'ail écrasé, la tomate coupée en petits cubes et le poivrons finement coupé en cube, laisser mijoter quelques instants.
+    Ajouter les knacks coupées en petits morceaux, et le concentré de tomate.
+    Ajouter un peu d'eau pour la sauce, saler, poivrer, laisser mijoter quelques minutes, retirez du feu.Mélangez le tout aux spaghettis.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">cuire</OPER> les <INGRED id="1">spaghetti</INGRED>. Pendant ce temps, dans une poêle, <OPER id="o_2">mettre</OPER> un peu de <INGRED id="2">beurre</INGRED>, <OPER id="o_3">ajouter</OPER> l'<INGRED id="4">ail</INGRED> écrasé, la <INGRED id="4">tomate</INGRED> coupée en petits cubes et le poivrons finement coupé en cube, laisser <OPER id="o_4">mijoter</OPER> quelques instants. <OPER id="o_5">Ajouter</OPER> les knacks coupées en petits morceaux, et le <INGRED id="7">concentré de tomate</INGRED>. <OPER id="o_6">Ajouter</OPER> un peu d'<INGRED id="10">eau</INGRED> pour la sauce, <OPER id="o_7">saler</OPER>, <OPER id="o_8">poivrer</OPER>, laisser <OPER id="o_9">mijoter</OPER> quelques minutes, retirez du feu. <OPER id="o_10">Mélangez</OPER> le tout aux spaghettis.
+  </annotation>
+  <annotation methode="crf">
+  Faire cuire les <INGRED>spaghetti</INGRED>. Pendant ce temps <INGRED>,</INGRED> dans une poêle <INGRED>,</INGRED> mettre un peu de <INGRED>beurre</INGRED> <INGRED>,</INGRED> ajouter l'<INGRED>ail</INGRED> écrasé <INGRED>,</INGRED> la <INGRED>tomate</INGRED> coupée en <INGRED>petits</INGRED> cubes et le <INGRED>poivrons</INGRED> <INGRED>finement</INGRED> <INGRED>coupé</INGRED> en cube <INGRED>,</INGRED> laisser mijoter quelques instants <INGRED>.</INGRED> Ajouter les <INGRED>knacks</INGRED> <INGRED>coupées</INGRED> en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> <INGRED>,</INGRED> et le <INGRED>concentré de tomate</INGRED>. Ajouter un peu d'<INGRED>eau</INGRED> pour la <INGRED>sauce</INGRED> <INGRED>,</INGRED> saler <INGRED>,</INGRED> poivrer <INGRED>,</INGRED> laisser mijoter quelques minutes <INGRED>,</INGRED> retirez du feu <INGRED>.</INGRED> Mélangez le tout aux spaghettis <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 7.4468085106383*X + 2.5531914893617</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 18*X + 11</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['spaghetti']	 id:1	 quantité:1	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['knackis']	 id:2	 quantité:10	 unité:non_precis	 denombrable:True	 recipient:10*X
+ingredient:['poivron selon la grosseur', 'poivron']	 id:3	 quantité:1/2	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['tomate']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['ail']	 id:5	 quantité:3	 unité:gousses d'	 denombrable:True	 recipient:3*X
+ingredient:['beurre']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['concentré de tomate', 'concentré']	 id:7	 quantité:3	 unité:cuillères à soupe de	 denombrable:True	 recipient:3*X
+ingredient:['sel']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['eau']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['bouillon de volaille', 'bouillon']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:cuire	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:mettre	 id:o_2	 ingrédients_ralatifs:['2', '4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_3	 ingrédients_ralatifs:['4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_7	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:mélanger	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+]]>
+</operation_trouve>
+</recette>

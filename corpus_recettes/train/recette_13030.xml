@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13030">
+  <titre>Pâte à pizza light</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de farine</p>
+    <p>1 yaourt nature à 0% de MG</p>
+    <p>1 jaune d'oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger tous les ingrédients et (facultatif) couvrir la pâte d'un film adhésif pendant 2 heures.
+  ]]>
+  </preparation>
+</recette>

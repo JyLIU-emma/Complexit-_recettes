@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="105788">
+  <titre>Cake quinoa pomme de Julia</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 œufs</p>
+    <p>150 g de beurre fondu</p>
+    <p>150 g de sucre glace</p>
+    <p>50 g de farine de quinoa</p>
+    <p>110 g de farine de blé</p>
+    <p>1 sachet de levure</p>
+    <p>4 pommes</p>
+    <p>1 pincée de cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    faire préchauffer le four à 180°
+    Mélanger les oeufs et le sucre avec le beurre fondu.
+    puis incorporer les 2 farines.
+    Enfin incorporer la levure et la canelle.
+    Préparer les pommes:
+    les éplucher et les couper en morceaux plus ou moins gros selon les goûts.
+    Beurrer un moule à cake.
+    Alterner une couche de préparation, une couche de pomme,...finir par une couche de préparation.
+    Enfourner dans le four à 180° pendant 30 à 40 mn selon les fours.
+    Surveiller bien la cuisson, c'est encore meilleur quand le centre est encore coulant.C'est un cake réalisé par ma belle sœur, et c'est vraiment un régal l'hiver avec une bonne tasse de thé ou de chocolat chaud. La farine de quinoa donne à ce cake un petit gout de noisette délicieux!
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  faire <OPER id="o_1">préchauffer</OPER> le four à 180 ° <OPER id="o_2">Mélanger</OPER> les oeufs et le <INGRED id="3">sucre</INGRED> avec le <INGRED id="2">beurre fondu</INGRED>. puis <OPER id="o_3">incorporer</OPER> les 2 farines. Enfin <OPER id="o_4">incorporer</OPER> la <INGRED id="6">levure</INGRED> et la canelle. <OPER id="o_5">Préparer</OPER> les <INGRED id="7">pommes</INGRED> : les <OPER id="o_6">éplucher</OPER> et les <OPER id="o_7">couper</OPER> en morceaux plus ou moins gros selon les goûts. <OPER id="o_8">Beurrer</OPER> un moule à cake. <OPER id="o_9">Alterner</OPER> une couche de préparation, une couche de pomme,... <OPER id="o_10">finir</OPER> par une couche de préparation. <OPER id="o_11">Enfourner</OPER> dans le four à 180 ° pendant 30 à 40 mn selon les fours. <OPER id="o_12">Surveiller</OPER> bien la cuisson, c'est encore meilleur quand le centre est encore coulant. C'est un cake réalisé par ma belle sœur, et c'est vraiment un régal l'hiver avec une bonne tasse de thé ou de chocolat chaud. La <INGRED id="4">farine de quinoa</INGRED> donne à ce cake un petit gout de noisette délicieux !
+  </annotation>
+  <annotation methode="crf">
+  faire préchauffer le four à 180 ° Mélanger les <INGRED>oeufs</INGRED> et le <INGRED>sucre</INGRED> avec le <INGRED>beurre fondu</INGRED>. puis incorporer les 2 farines. Enfin incorporer la <INGRED>levure</INGRED> et la canelle. Préparer les <INGRED>pommes</INGRED> <INGRED>:</INGRED> les éplucher et les couper en <INGRED>morceaux</INGRED> plus <INGRED>ou</INGRED> moins <INGRED>gros</INGRED> selon les goûts <INGRED>.</INGRED> Beurrer un moule à cake <INGRED>.</INGRED> Alterner une couche de préparation <INGRED>,</INGRED> une couche de pomme,... finir par une couche de préparation <INGRED>.</INGRED> Enfourner dans le four à 180 ° pendant 30 à 40 mn selon les fours. Surveiller bien la cuisson <INGRED>,</INGRED> c'est encore meilleur quand le centre est encore coulant. C'est un cake réalisé par ma belle sœur <INGRED>,</INGRED> et c'est vraiment un régal l'hiver avec une bonne <INGRED>tasse de thé</INGRED> <INGRED>ou</INGRED> de <INGRED>chocolat</INGRED> chaud <INGRED>.</INGRED> La <INGRED>farine</INGRED> de quinoa donne à ce cake un <INGRED>petit</INGRED> gout de noisette délicieux !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 8.30769230769231*X + 3.69230769230769</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 9*X + 6</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['œufs']	 id:1	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['beurre fondu', 'beurre']	 id:2	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre glace', 'sucre']	 id:3	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine de quinoa', 'farine']	 id:4	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine de blé', 'farine']	 id:5	 quantité:110	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['levure']	 id:6	 quantité:1	 unité:sachet de	 denombrable:True	 recipient:1*X
+ingredient:['pommes']	 id:7	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['cannelle']	 id:8	 quantité:1	 unité:pincée de	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préchauffer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:mélanger	 id:o_2	 ingrédients_ralatifs:['3', '2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:incorporer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_4	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparer	 id:o_5	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:éplucher	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:couper	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:beurrer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:alterner	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:finir	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfourner	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:surveiller	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24962">
+  <titre>Soupe aux champignons et fromage</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de champignons de Paris</p>
+    <p>1 l de bouillon de volaille</p>
+    <p>5 cl de porto</p>
+    <p>50 g de beurre</p>
+    <p>100 g de gruyère râpé</p>
+    <p>1 tranche épaisse de jambon</p>
+    <p>1/2 citron</p>
+    <p>4 tranches de pain rassis</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver, équeuter et essuyer les champignons à l'aide de papier absorbant. Les arroser du jus du citron, puis les faire revenir dans une poêle chaude beurrée pendant 10 min.
+    Saler, poivrer.
+    Délayer un cube de bouillon dans 1 litre d'eau. Mouiller les champignons avec le bouillon mélangé au porto, et laisser cuire 5 min après ébullition. Hacher le jambon, puis l'incorporer aux champignons.
+    Verser la soupe dans des bols résistants au four, parsemer de gruyère râpé puis laisser cuire 15 min à 210°C (thermostat 7).
+    Pendant ce temps, griller les tranches de pain.
+    Servir la soupe gratinée dès la sortie du four et la déguster accompagnée du pain grillé.
+  ]]>
+  </preparation>
+</recette>

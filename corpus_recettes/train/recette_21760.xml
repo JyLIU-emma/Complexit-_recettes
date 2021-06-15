@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21760">
+  <titre>Navets au bouillon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 bottes de navets</p>
+    <p>50 g de beurre</p>
+    <p>1 cuillère à café de sucre</p>
+    <p>2 cuillères à soupe rases de farine</p>
+    <p>20 cl de bouillon</p>
+    <p>4 cuillères à soupe de jus de viande</p>
+    <p>persil</p>
+    <p>1 brin de thym</p>
+    <p>2 ou 3 feuilles de laurier</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher eles navets, puis les blanchir 5 min dans l'eau bouillante salée et les égoutter.
+    Les faire ensuite revenir dans une sauteuse avec le beurre et saupoudrer de sucre.
+    Les laisser dorer en remuant régulièrement, puis saler et poivrer.
+    Les saupoudrer de farine, puis les arroser de bouillon avec le jus de viande sans cesser de remuer.
+    Incorporer les arômates, puis laisser mijoter 15 min et vérifier la cuisson avant de couper le feu.
+    Déguster en accompagnement d'un rôti.
+  ]]>
+  </preparation>
+</recette>

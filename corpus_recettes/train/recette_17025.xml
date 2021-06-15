@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17025">
+  <titre>Vrai faux saucisson au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>180 g de chocolat noir</p>
+    <p>100 g de beurre</p>
+    <p>100 g de sucre glace</p>
+    <p>1 oeuf</p>
+    <p>8 chamallows (/ marshmallows selon votre lieu de résidence!)</p>
+    <p>150 g de bicuits secs (style petits beurre)</p>
+    <p>noix de coco râpée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Matériel : papier d'aluminium
+    Faire fondre le chocolat et le beurre. Le fouetter pour le rendre bien lisse.
+    Ajouter l'oeuf au chocolat + beurre pas trop chaud, puis le sucre glace.
+    Emietter les biscuits et découper les chamallows / marshmallows en petits cubes.Mélanger le tout et verser cette préparation sur du papier alu comme un saucisson (environ 30 cm de long).Replier le papier alu tout autour et lui donner la forme d'un saucisson.
+    Mettre au frigo pendant environ 6 h (le temps qu'il durcisse bien).Enlever l'alu et passer le saucisson dans de la noix de coco râpée. Découper sur une planche en bois comme pour un vrai saucisson.
+  ]]>
+  </preparation>
+</recette>

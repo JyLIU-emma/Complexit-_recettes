@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="7629">
+  <titre>Fèves carbonara</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 sachet de fèves surgelées épluchées (ou 450 g de fèves fraîches épluchées)</p>
+    <p>150 g de dés de poitrine fumée</p>
+    <p>1 cuillère d'huile d'olive</p>
+    <p>2 Carrés Frais</p>
+    <p>1/2 verre de vin blanc</p>
+    <p>1 jaune d'oeuf</p>
+    <p>1 branche de thym frais </p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Plonger les fèves surgelées dans une casserole d'eau bouillante salée. Quand l'eau revient à ébullition, compter 1 min, puis égoutter les fèves, et les plonger dans un bain d'eau glacée.
+    Faire revenir les lardons dans l'huile. Quand ils sont blonds, ajouter les fèves et le thym. Laisser cuire 5 min.
+    Ajouter les Carrés Frais et le vin blanc, puis laisser cuire à nouveau 5 min, en remuant pour faire une sauce onctueuse.
+    Saler et poivrer.
+    Ajouter le jaune d'oeuf hors du feu, puis bien mélanger.
+    Servir aussitôt.
+  ]]>
+  </preparation>
+</recette>

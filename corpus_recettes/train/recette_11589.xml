@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11589">
+  <titre>Poulet coco et citron</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1/2 citron</p>
+    <p>600 g de filets de poulet</p>
+    <p>1 pincée de gingembre</p>
+    <p>sauce au soja</p>
+    <p>poivre</p>
+    <p>400 ml d'extrait de coco</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites mariner 30 minutes votre émincé de poulet dans un peu de jus de citron, puis jetez-le dans une poêle chaude et huilée.
+    Attendez que la viande soit devenue blanche, puis ajoûtez une bonne pincée de gingembre, une giclée de sauce soja et du poivre.
+    Laissez cuire jusqu'è ce que le liquide se soit évaporé.Salez, et ajoûtez une petite boîte d'extrait de coco. Servez.
+  ]]>
+  </preparation>
+</recette>

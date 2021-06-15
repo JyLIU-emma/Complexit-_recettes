@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25418">
+  <titre>Riz au lard et aux oignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de riz</p>
+    <p>150 g de lardons fumés</p>
+    <p>2 oignons</p>
+    <p>2 cubes de bouillon</p>
+    <p>60 cl de bouillon (eau + 2 cubes de bouillon)</p>
+    <p>2 cuillerées à soupe d'huile</p>
+    <p>poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une sauteuse, faites chauffer l'huile. Mettez-y les oignons détaillés en rondelles et les lardons.
+    Une fois dorés, ajoutez le riz et remuez.
+    Une fois celui-ci devenu transparent, versez le bouillon, poivrez et couvrez.
+    Laissez mijoter 25 min à feu doux, le riz doit avoir absorbé le liquide et être moelleux.
+  ]]>
+  </preparation>
+</recette>

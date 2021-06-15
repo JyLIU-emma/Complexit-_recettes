@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20271">
+  <titre>Crème à la mangue</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 mangues</p>
+    <p>3 oeufs</p>
+    <p>1/4 de litre de lait</p>
+    <p>25 cl de crème liquide</p>
+    <p>1 pincée d'anis en poudre</p>
+    <p>100 g de sucre en poudre</p>
+    <p>4 étoiles de badiane</p>
+    <p>quelques feuilles de menthe pour le décor</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Chauffez le four Th 7 (310°C). Remplissez à demi la lèchefrite ou un plat à gratin d'eau et placez au centre du four. 
+    Pelez les mangues. Coupez de part et d'autre du noyau, et le long des demi-lunes restant attachées. Taillez-en une en dés et l'autre en lamelles, réservez. 
+    Versez le lait tiède et la crème dans une casserole, ajoutez le sucre, l'anis en poudre et portez à ébullition. Retirez du feu. 
+    Cassez les oeufs dans un bol et battez-les en omelette. Incorporez-les progressivement au mélange lait et crème en remuant à l'aide d'un fouet. 
+    Garnissez le fond de quatre ramequins des mangues. Remplissez avec la préparation. Disposez les ramequins dans le bain-marie du four, et laissez cuire pendant 25 mn. 
+    Laissez refroidir et servez décoré de lamelles de mangue, étoiles de badiane et feuilles de menthe.
+    A la place de l'anis en poudre, vous pouvez parfumer avec une cuillerée de liqueur d'anis ou d'un apéritif anisé.
+  ]]>
+  </preparation>
+</recette>

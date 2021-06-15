@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20330">
+  <titre>Curry de mouton de Malaisie</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de mouton (basses côtes)</p>
+    <p>2 ou 3 cuillères à soupe de curry</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>50 g de beurre</p>
+    <p>3 oignons</p>
+    <p>sel, poivre</p>
+    <p>1 bâton de cannelle</p>
+    <p>2 pommes</p>
+    <p>1 noix de coco</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer un mélange de farine et de curry, puis y rouler les morceaux de viande détaillés en gros morceaux.
+    Faire chauffer de l'huile dans une grande poêle, puis y mettre la viande à dorer en la remuant pour qu'elle soit colorée de tout coté.
+    Sortir la viande de la poêle et le réserver.
+    Peler et émincer les oignons.
+    Dans une cocotte beurrée, mettre les oignons à blondir puis ajouter les morceaux de viande et le reste de farine au curry en remuant.
+    Laisser chauffer 2 min environ, puis mouiller avec 20 cl d'eau froide et le lait extrait de la noix de coco.
+    La viande doit être couverte à hauteur, si tel n'est pas le cas, rajouter un peu d'eau.
+    Porter le contenu de la cocotte à ébullition, rectifier l'assaisonnement, et parfumer avec le bâton de cannelle.
+    Laisser cuire 30 mn à couvert sur feu doux.
+    Pendant ce temps, peler et détailler les pommes en grosses lamelles, puis les ajouter au reste de la préparation.
+    Laisser bouillir, puis prolonger la cuisson de 15 min sur feu doux.
+    Accompagner de riz long grain.
+  ]]>
+  </preparation>
+</recette>

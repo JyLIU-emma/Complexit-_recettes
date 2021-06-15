@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23979">
+  <titre>Fondue de cancoillotte</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>750 g de cancoillotte (3 pots)</p>
+    <p>1 gousse d’ail</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>3 cl de kirsch</p>
+    <p>poivre</p>
+    <p>pain sec en cubes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Frotter un caquelon avec l’ail. Verser dedans les 3 pots de cancoillotte et chauffer à feu doux.
+    Remuer en permanence, poivrer, arroser avec le vin blanc, puis avec le kirsch.
+    Lorsque le mélange est onctueux et homogène, placer le caquelon au centre de la table. Chacun n’a plus qu’à y tremper ses cubes de pain, à l’aide d’une longue fourchette.
+  ]]>
+  </preparation>
+</recette>

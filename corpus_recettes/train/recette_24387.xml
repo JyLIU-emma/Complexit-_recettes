@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24387">
+  <titre>Pain bagnat niçois</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 pains ronds</p>
+    <p>2 oeufs durs</p>
+    <p>1 citron</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>1 gousse d'ail</p>
+    <p>1/2 concombre</p>
+    <p>1 tomate</p>
+    <p>1 poivron</p>
+    <p>1 oignon</p>
+    <p>50 g de miettes de thon</p>
+    <p>50 g de filets d'anchois</p>
+    <p>4 feuille de salade</p>
+    <p>8 olives noires dénoyautées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper en rondelles épaisses les oeufs durs et les olives noires et en rondelles fines l'oignon.
+    Détailler le poivron, la tomate, les anchois et le 1/2 concombre en petits dés.
+    Mélanger au fond d'un saladier l'huile d'olive et le jus du citron. Ajouter les légumes, le thon et les anchois. 
+    Mélanger.
+    Couper le chapeau des pains bagnats et retirer un peu de mie.
+    Frotter l'intérieur avec l'ail épluché et tapisser l'intérieur d'une feuille de salade.
+    Remplir avec le contenu du saladier et servir de suite.
+  ]]>
+  </preparation>
+</recette>

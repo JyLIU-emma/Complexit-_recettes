@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17306">
+  <titre>La Fougasse</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de farine</p>
+    <p>150 g de sucre</p>
+    <p>100 g de beurre</p>
+    <p>1 pincée de sel</p>
+    <p>3 oeufs</p>
+    <p>1 verre de lait</p>
+    <p>15 g de levure fraîche</p>
+    <p>1 cuillère à café de fleur d'oranger</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille, mettez la farine dans une grande terrine, avec le sucre, le sel, les oeufs entiers, la fleur d'oranger et la levure délayée dans un verre de lait. Faire une pâte souple et lisse. Pétrissez-la longuement. Laissez-la reposer toute la nuit. 
+    Le lendemain, mettez la pâte dans un moule à tourte beurrée ou simplement sur la tôle du four beurrée. Faites cuire à 160/180°C pendant 50 à 60 mn. 
+    Enduisez-la encore chaude de blanc d'oeuf mélangé à un peu d'eau de fleur d'oranger. Saupoudrez immédiatement de sucre cristallisé. 
+    Laissez refroidir.
+    On peut incorporer à la pâte, avant de la laisser fermenter, des fruits confits coupés en petits morceaux. un muscat
+  ]]>
+  </preparation>
+</recette>

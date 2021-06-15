@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13693">
+  <titre>Curry d'agneau facile (pomme, banane, poivron)</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1.2 kg d'épaule agneau désossée</p>
+    <p>3 oignons</p>
+    <p>2 pommes</p>
+    <p>1 banane</p>
+    <p>1 poivron rouge et 1 jaune</p>
+    <p>poudre de curry (1/2 flacon, mais ajuster selon la force du curry)</p>
+    <p>1 poignée de raisins secs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper l'épaule d'agneau en morceaux de 5cm environ (carrés).Faire chauffer huile + beurre, puis y faire revenir à feu vif l'agneau saupoudré très largement de curry, avec le sel et les oignons émincés.
+    Laisser à feu vif en mélangeant pour bien imprégner le curry jusqu'à ce que la viande rende du jus.
+    Couvrir d'eau et laisser cuire 3/4 h en couvrant.
+    Ajouter pommes en lamelles, bananes coupées, poivrons en lanières et raisins secs.
+    Laisser mijoter et rectifier l'assaisonnement.A servir avec du riz.
+  ]]>
+  </preparation>
+</recette>

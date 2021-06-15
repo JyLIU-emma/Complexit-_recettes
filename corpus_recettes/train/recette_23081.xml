@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23081">
+  <titre>Salade de lentilles alsacienne</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de lentilles cuites</p>
+    <p>200 g de jambon</p>
+    <p>12 cerneaux de noix</p>
+    <p>4 carottes cuites</p>
+    <p>1 échalote hachée</p>
+    <p>6 cuillères à soupe d'huile</p>
+    <p>2 cuillères à soupe de vinaigre de vin</p>
+    <p>1 cuillère à soupe de persil haché</p>
+    <p>1/2 cuillère à café de moutarde </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, couper les carottes en rondelle et le jambon en morceaux. Ajouter le tout aux lentilles.
+    Confectionner l'assaisonnement en mélangeant le vinaigre de vin, la moutarde, huile, persil haché et l'échalote.
+    Ajouter la sauce au saladier et mélanger. Utiliser les cerneaux de noix pour la décoration.
+  ]]>
+  </preparation>
+</recette>

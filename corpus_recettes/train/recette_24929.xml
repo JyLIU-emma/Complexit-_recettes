@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24929">
+  <titre>Gratin de poires au pain d'épices</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 poires</p>
+    <p>1 citron</p>
+    <p>4 tranches de pain d'épices (80 g) </p>
+    <p>20 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez les poires et coupez-les en tranches que vous placez dans un plat à gratin. 
+    Arrosez immédiatement du jus d'un citron. 
+    Passez les tranches de pain d'épices au grille-pain, laissez-les refroidir et émiettez-les, de préférence à l'aide d'un robot. 
+    Saupoudrez les poires avec le pain d'épices émietté et parsemez ensuite le beurre en parcelles. 
+    Cuire au four 15 mn à 180°C (à adapter en fonction du type de poire) et terminez par 5 mn sous le grill (à surveiller!). 
+    Servir tiède.
+  ]]>
+  </preparation>
+</recette>

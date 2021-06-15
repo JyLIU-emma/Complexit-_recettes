@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11286">
+  <titre>Ragout de ragondin</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 ragondin de 2 kg en morceaux</p>
+    <p>500 g de tomates mures</p>
+    <p>1 kg de pommes de terre</p>
+    <p>2 carottes</p>
+    <p>1 branche de céleri</p>
+    <p>1 poireau</p>
+    <p>2 oignons</p>
+    <p>2 gousses d'ail</p>
+    <p>1 bouquet de persil</p>
+    <p>1 bouquet garni (thym, laurier,...)</p>
+    <p>10 cl de vin rouge</p>
+    <p>10 cl de bouillon de volaille</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les morceaux de ragondin à feu vif dans une sauteuse avec une cuillerée à soupe d'huile d'arachide jusqu'à ce qu'ils soient bien dorés. Egoutter et réserver.
+    Faire revenir ensuite dans le même récipient carottes, céleri, poireaux et oignons coupés en petits morceaux.
+    Cuire à feu vif pendant 5 min.
+    Ajouter les tomates en morceaux, l'ail et le persil haché, le bouquet garni. Saler et poivrer.
+    Baisser le feu et laisser mijoter 15 min environ.
+     
+    Ajouter les morceaux de ragondin, mouiller avec le vin rouge et le bouillon. Porter à ébullition, puis laisser mijoter pendant 45 min à feu moyen.
+    Ajouter les pommes de terre en morceaux et laisser cuire encore 25 min environ. un vin rouge corsé
+  ]]>
+  </preparation>
+</recette>

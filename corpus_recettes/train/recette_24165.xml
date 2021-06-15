@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24165">
+  <titre>Salade de riz colorée</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de riz</p>
+    <p>250 g de petits pois en boîte</p>
+    <p>1 petite boîte de thon au naturel</p>
+    <p>4 oeufs durs</p>
+    <p>4 tomates</p>
+    <p>1 concombre</p>
+    <p>1 petite boîte de maïs</p>
+    <p>50 cl de vinaigrette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Porter de l'eau salée à ébullition et y plonger le riz. 
+    Égoutter et le mélanger aux petits pois, au thon émietté, aux oeufs durs en quartiers, aux tomates en morceaux, au concombre en rondelles et au maïs.
+    Arroser de vinaigrette et servir.
+  ]]>
+  </preparation>
+</recette>

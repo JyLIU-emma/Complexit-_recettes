@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165048">
+  <titre>Le véritable pain d'épices</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de farine de blé</p>
+    <p>200 g de farine de seigle</p>
+    <p>1 sachet de levure chimique</p>
+    <p>200 g de miel</p>
+    <p>50 g de sucre roux en poudre</p>
+    <p>30 cl de lait</p>
+    <p>2 cuillères à café d'épices à pain d'épices ou :</p>
+    <p>1/2 cuillère à café d'anis en poudre</p>
+    <p>1/2 cuillère à café de cannelle</p>
+    <p>1/2 cuillère à café de noix de muscade</p>
+    <p>1/2 cuillère à café de clou de girofle en poudre</p>
+    <p>50 g d'orange ou citron confit</p>
+    <p>1 cuillère à soupe d'amandes effilées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    -Faites chauffer les 30 cl de lait
+     à feu doux dans une casserole et     mettez-y à fondre les 200g de miel et les 50g de sucre.
+    -Laissez refroidir environ 10min.
+    -Dans un saladier versez les 200g de farine de blé et les 200g de farine de seigle ainsi que le sachet de levure et les épices en poudre.
+    -Mélangez bien.
+    -Versez le lait aromatisé progrssivement en remuant avec une spatule de façon à bien incorporer les ingrédients.
+    -Si vous le désirez,ajoutez lzs zestes d'agrume confit.
+    -versez dans un moule à cake(de préférence en silicone)
+    -Réservez 1h avant d'enfourner(important)
+    -Vous pouvez parsemer la pâte de quelques amandes éffilées.
+    CUISSON
+    -Préchauffer le four à 140°(th4-5)
+    -Cuire 1h30.
+    -Démouler et laissez refroidir le pain sur une grille.
+    -Il est meilleur après 48h.
+    -Vous pouvez le conserver plusieurs jours.Avec mon four à chaleur tournante, je démarre à 150°C et à mi-cuisson je baisse à 100°C.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">-Faites</OPER> <OPER id="o_2">chauffer</OPER> les 30 <INGRED id="2">cl</INGRED> de <INGRED id="3">lait</INGRED> à feu doux dans une casserole et <OPER id="o_3">mettez</OPER> - y à <OPER id="o_4">fondre</OPER> les 200 <INGRED id="4">g</INGRED> de <INGRED id="4">miel</INGRED> et les <INGRED id="3">50</INGRED> <INGRED id="4">g</INGRED> de <INGRED id="8">sucre</INGRED>. <OPER id="o_5">-Laissez</OPER> <OPER id="o_6">refroidir</OPER> <INGRED id="1">environ</INGRED> 10min. -Dans un <INGRED id="1">saladier</INGRED> <OPER id="o_7">versez</OPER> les 200 <INGRED id="2">g</INGRED> de <INGRED id="5">farine de blé</INGRED> et les 200 <INGRED id="1">g</INGRED> de <INGRED id="2">farine de seigle</INGRED> ainsi que le sachet de <INGRED id="3">levure</INGRED> et les <INGRED id="9">épices</INGRED> en <INGRED id="3">poudre</INGRED>. <OPER id="o_8">-Mélangez</OPER> bien. <OPER id="o_9">-Versez</OPER> le <INGRED id="8">lait</INGRED> aromatisé progrssivement en remuant avec une spatule de façon à bien <OPER id="o_10">incorporer</OPER> les ingrédients. -Si vous le désirez, <OPER id="o_11">ajoutez</OPER> lzs zestes d'agrume confit. <OPER id="o_12">-versez</OPER> dans un moule à cake(de préférence en silicone ) <OPER id="o_13">-Réservez</OPER> 1h avant d'<OPER id="o_14">enfourner(important</OPER> ) -Vous pouvez <OPER id="o_15">parsemer</OPER> la <INGRED id="1">pâte</INGRED> de quelques amandes éffilées. CUISSON <OPER id="o_16">-Préchauffer</OPER> le four à 140 ° (th4 - 5 ) <OPER id="o_17">-Cuire</OPER> 1h30. <OPER id="o_18">-Démouler</OPER> et laissez <OPER id="o_19">refroidir</OPER> le <INGRED id="5">pain</INGRED> sur une grille. -Il est meilleur après 48h. -Vous pouvez le conserver plusieurs jours. Avec mon four à chaleur tournante, je démarre à 150 ° C et à mi-cuisson je baisse à 100 ° C.
+  </annotation>
+  <annotation methode="crf">
+  -Faites chauffer les 30 cl de <INGRED>lait</INGRED> à feu doux dans une casserole et mettez - y à fondre les 200 <INGRED>g</INGRED> de <INGRED>miel</INGRED> et les 50 <INGRED>g</INGRED> de <INGRED>sucre</INGRED>. -Laissez refroidir <INGRED>environ</INGRED> 10min <INGRED>.</INGRED> -Dans un saladier versez les 200 <INGRED>g</INGRED> de <INGRED>farine</INGRED> de blé et les 200 <INGRED>g</INGRED> de <INGRED>farine</INGRED> de seigle ainsi que le sachet de <INGRED>levure</INGRED> et les <INGRED>épices en poudre</INGRED> <INGRED>.</INGRED> -Mélangez bien <INGRED>.</INGRED> -Versez le <INGRED>lait</INGRED> aromatisé progrssivement en remuant avec une spatule de façon à bien incorporer les ingrédients. -Si vous le désirez <INGRED>,</INGRED> ajoutez lzs zestes d'agrume confit <INGRED>.</INGRED> -versez dans un moule à cake(de préférence en silicone ) -Réservez 1h avant d'enfourner(important ) -Vous pouvez parsemer la <INGRED>pâte de quelques amandes éffilées</INGRED>. CUISSON -Préchauffer le four à 140 ° (th4 - 5 ) -Cuire 1h30. -Démouler et laissez refroidir le <INGRED>pain</INGRED> sur une grille. -Il est meilleur après 48h. -Vous pouvez le conserver plusieurs jours <INGRED>.</INGRED> Avec mon four à chaleur tournante <INGRED>,</INGRED> je démarre à 150 ° C et à mi-cuisson je baisse à 100 ° C <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 5.42857142857143*X + 13.5714285714286</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 4*X + 13</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['farine de blé', 'farine']	 id:1	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine de seigle', 'farine']	 id:2	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['levure chimique', 'levure']	 id:3	 quantité:1	 unité:sachet de	 denombrable:True	 recipient:1*X
+ingredient:['miel']	 id:4	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre roux en poudre', 'sucre']	 id:5	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:6	 quantité:30	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:["épices à pain d'épices", 'épices']	 id:7	 quantité:2	 unité:cuillères à café d'	 denombrable:True	 recipient:2*X
+ingredient:['anis en poudre', 'anis']	 id:8	 quantité:1/2	 unité:cuillère à café d'	 denombrable:False	 recipient:1
+ingredient:['cannelle']	 id:9	 quantité:1/2	 unité:cuillère à café de	 denombrable:False	 recipient:1
+ingredient:['noix de muscade', 'noix']	 id:10	 quantité:1/2	 unité:cuillère à café de	 denombrable:False	 recipient:1
+ingredient:['clou de girofle en poudre', 'clou']	 id:11	 quantité:1/2	 unité:cuillère à café de	 denombrable:False	 recipient:1
+ingredient:['orange']	 id:12	 quantité:50	 unité:g d'	 denombrable:False	 recipient:1
+ingredient:['amandes effilées', 'amandes']	 id:13	 quantité:1	 unité:cuillère à soupe d'	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:-faiter	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_2	 ingrédients_ralatifs:['2', '3', '4', '4', '3', '4', '8']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:mettre	 id:o_3	 ingrédients_ralatifs:['4', '4', '3', '4', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:fondre	 id:o_4	 ingrédients_ralatifs:['4', '4', '3', '4', '8']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:-laisser	 id:o_5	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:verser	 id:o_7	 ingrédients_ralatifs:['1', '2', '5', '1', '2', '3', '9', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:-mélanger	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:-verser	 id:o_9	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:-verser	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:-réserver	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfourner(importer	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:parsemer	 id:o_15	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:-préchauffer	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:-cuire	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:-démouler	 id:o_18	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21035">
+  <titre>Tomates aux huîtres et aux anchois</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 douzaines d'huîtres</p>
+    <p>12 tomates</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>15 cl d'huile d'olive</p>
+    <p>5 échalotes</p>
+    <p>16 filets d'anchois allongés</p>
+    <p>1 bouquet de persil</p>
+    <p>1 citron</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ouvrez et décoquillez les huîtres, récupérez l'eau rendue. Portez-la à ébullition, pochez-y les huîtres 2 minutes.
+    Egouttez-les et réservez au chaud.
+    Coupez les tomates en deux, évidez-les. Hachez les échalotes, le persil et les anchois, répartissez le mélange dans les 1/2 tomates.
+    Poivrez bien et arrosez d'huile d'olive. Faîtes cuire 15 minutes au four à 200°C (thermostat 7-8).
+    Récupérez le jus de cuisson.  Fouettez-le avec les jaunes d'oeufs.
+    Déposez une huître sur chaque 1/2 tomate, nappez de sauce et faites gratiner 3 minutes sous le grill.
+    Servez bien chaud avec le citron coupé en quartiers.
+  ]]>
+  </preparation>
+</recette>

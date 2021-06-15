@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26554">
+  <titre>Tarte aux raisins et petits-suisses</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de raisins blancs égrenés</p>
+    <p>100 g de poudre de noix</p>
+    <p>250 g de farine</p>
+    <p>125 g de beurre</p>
+    <p>180 g de sucre en poudre</p>
+    <p>2 oeufs</p>
+    <p>3 petits-suisses</p>
+    <p>3 cuillères à soupe de lait</p>
+    <p>3 cuillères à soupe d'eau</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez la farine avec une pincée de sel et le beurre mou en morceaux.
+    Ajoutez peu à peu environ 5 à 10 cl d'eau pour obtenir une pâte souple (ne la travaillez pas trop), roulez-la en boule et réservez au frais.
+    Lavez et égrenez les raisins. Réservez la moitié et pressez l'autre moitiée de manière à recueillir le jus et la pulpe.
+    Mettez ce jus dans une casserole avec 150 g de sucre et faites réduire jusqu'à l'obtention d'un sirop épais blond.
+    Préchauffez le four à 180°C (thermostat 6).
+    Mélangez la poudre de noix avec les oeufs, le sucre restant, le lait et les petits-suisses.
+    Etalez la pâte dans un moule à tarte.
+    Versez la préparation aux noix dessus et enfournez 30 min.
+    Une fois cuite, retirez la tarte du four, garnissez avec les grains de raisin entiers et nappez avec le sirop.
+    Servez tiède ou très frais.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14431">
+  <titre>Salade oeufs et pruneaux</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 oeufs durs</p>
+    <p>2 tranches de jambon</p>
+    <p>1 boîte de mais</p>
+    <p>8 pruneaux d'agen</p>
+    <p>4 feuilles de salade verte (batavia)</p>
+    <p>mayonnaise</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Rincer le mais et éplucher les oeufs durs. Tailler le jambon et les pruneaux en lamelles. Couper les oeufs en 4.
+    Disposer dans une feuille de salade le maïs assaisonné avec la mayonnaise et les pruneaux.
+    Ajouter le jambon en lamelles et les oeufs.
+    A consommer frais.
+     Blanc sec bien frais (Côtes de Duras)
+  ]]>
+  </preparation>
+</recette>

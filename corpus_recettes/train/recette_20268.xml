@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20268">
+  <titre>Curry de porc aux pêches</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de pointe de porc sans os</p>
+    <p>1 boîte 4/4 de pêches au sirop</p>
+    <p>200 g de riz</p>
+    <p>50 g noix de cajou</p>
+    <p>2 oignons</p>
+    <p>2 tomates</p>
+    <p>2 c à soupe de curry</p>
+    <p>2 tablettes de bouillon</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>100 g crème fraîche</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper la viande en petits dés et la faire revenir avec les oignons émincés. Saupoudrer de curry, saler, poivrer, ajouter les tomates épluchées et coupées en dés ; mouiller avec 1 litre de bouillon. Faire bouillir et laisser mijoter 45 mn à demi-couvert et feu doux. 
+    Préparer le riz, y mélanger les noix de cajou grillées à sec. 
+    Retirer la viande et la disposer dans un plat creux. 
+    Passer la sauce au tamis et la faire réduire avec 3 cuillères de sirop de pêche. 
+    Faire chauffer les pêches dans la sauce avec la crème fraîche et les verser sur la viande.
+  ]]>
+  </preparation>
+</recette>

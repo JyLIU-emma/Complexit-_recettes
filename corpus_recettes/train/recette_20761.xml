@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20761">
+  <titre>Salade moscovite</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de pommes de terre</p>
+    <p>1 carotte ou 2 pour un goût + sucré</p>
+    <p>5 oeufs</p>
+    <p>1 cornichon frais</p>
+    <p>(1 cornichon salé) </p>
+    <p>1 oignon</p>
+    <p>1 talon de jambon ou 300 g de boeuf cuit</p>
+    <p>mayonnaise ou crème fraîche</p>
+    <p>1 brin de persil frais de préférence</p>
+    <p>1 boîte de petits pois (250 g) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les patates, les oeufs, les carottes et la viande si vous utilisez le boeuf. Apres la cuisson laissez refroidir. 
+    Coupez le tout en tous petits carrés. 
+    Coupez le cornichon en petits carrés et hachez l'oignon. 
+    Mélangez le tout avec les petits pois. 
+    Ajoutez la mayonnaise ou la crème fraîche et mélangez. 
+    Certains mélangent la préparation avec les 2 . 
+    Mangez froid
+  ]]>
+  </preparation>
+</recette>

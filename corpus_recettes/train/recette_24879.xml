@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24879">
+  <titre>Salade d'automne sauce roquefort</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>150 g de riz cuit</p>
+    <p>1/2 salade frisée</p>
+    <p>1/4 de chou rouge</p>
+    <p>100 g de roquefort</p>
+    <p>100 g de cerneaux de noix</p>
+    <p>5 cuillères à soupe d'huile</p>
+    <p>2 cuillères à soupe de vinaigre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincez ou râpez le chou rouge au robot.
+    Lavez et découpez la salade.
+    Concassez les noix grossièrement.
+    Mélangez le tout avec le riz.
+    Travaillez le roquefort avec l'huile, le vinaigre et un peu de poivre. Salez si nécessaire (au goût). 
+    Mélangez cette sauce avec la salade et servez bien frais.
+    Ajoutez des lardons et la salade est complète !
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18664">
+  <titre>Délice au thon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g macaroni coupé</p>
+    <p>crème de champignon</p>
+    <p>thon émietté</p>
+    <p>parmesan</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pâtes, mélanger avec la crème de champignon et le thon émietté. Placez le tout dans un grand plat et saupoudrez le tout avec le parmesan, le sel et le poivre. Mettre au four à 300°F (160°C), pendant 30 mn et servir.
+    Au lieu de mettre du thon on peut le remplacer par du jambon vin blanc
+  ]]>
+  </preparation>
+</recette>

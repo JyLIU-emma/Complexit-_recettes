@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27391">
+  <titre>Velouté de brocolis</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de brocolis</p>
+    <p>2 grands oignons</p>
+    <p>1,5 l de bouillon de volaille (eau + 3 cubes) </p>
+    <p>1 bouquet garni</p>
+    <p>2,5 dl de crème</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Nettoyez les bouquets de brocolis, raccourcissez les trognons de 5 cm et retirez les feuilles. 
+    2) Faites fondre les oignons à feu doux dans une noix de beurre. Ajoutez les brocolis. 
+    3) Mouillez du bouillon de volaille et portez à ébullition. Ajoutez le bouquet garni et laissez mijoter 30 mn, jusqu'à ce que les brocolis soient cuits à points. 
+    4) Mixez le tout et ajouter la crème, assaisonnez à votre goût.
+    Un délice, surtout pas rajouter de riz ou de pommes de terre.
+  ]]>
+  </preparation>
+</recette>

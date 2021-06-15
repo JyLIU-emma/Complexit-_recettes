@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15285">
+  <titre>Crevettes persillées au safran</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de crevettes roses </p>
+    <p>crème fraîche</p>
+    <p>persil et ail finement hachés</p>
+    <p>une pincée de stigmates de safran</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Décortiquer les crevettes et les jeter dans une poêle avec l'huile d'olive.
+    Cuire 5mn, puis ajouter le persil et l'ail hachés. Laisser revenir, le temps que la persillade prenne toute sa saveur.
+    Salez, poivrez et ajoutez le safran (que vous aurez fait tremper dans une cuillère d'eau très salée), puis la crème fraîche. 
+    Cuire à feu doux quelques minutes. 
+    Vous pouvez ajouter une pointe de jus de citron, selon votre goût..
+    accompagne tres bien les pates
+  ]]>
+  </preparation>
+</recette>

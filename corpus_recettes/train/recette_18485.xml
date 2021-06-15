@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18485">
+  <titre>Jambon à l'échalote</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>80 g échalotes hachées</p>
+    <p>8 tranches jambon blanc</p>
+    <p>500 g crème fraîche épaisse</p>
+    <p>1 boîte de concentré de tomate</p>
+    <p>1 petite cuillère à café de moutarde</p>
+    <p>1/2 verre de vin blanc sec</p>
+    <p>1 cuillère à café de beurre</p>
+    <p>sel poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher les échalotes et les faire revenir dans le beurre. Ajouter le concentré de tomate, le vin blanc, remuer et laisser réduire. Ajouter la crème fraîche. Saler poivrer. Accompagner avec des pommes de terre lavées (laisser la peau) , coupées en 2, beurrées et salées légèrement cuites au four pendant 1/2 heure environ. 
+    Rouler le jambon et arroser de vin blanc, chauffer au four. 
+    Napper le jambon et les pommes de terre avec la sauce !
+  ]]>
+  </preparation>
+</recette>

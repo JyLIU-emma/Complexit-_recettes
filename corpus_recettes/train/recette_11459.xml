@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11459">
+  <titre>Fondant au chocolat délicieux</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de chocolat</p>
+    <p>250 g de beurre</p>
+    <p>250 g de sucre</p>
+    <p>5 oeufs</p>
+    <p>2 cuillères à farine rase de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre et le chocolat à feu doux, et ajouter le sucre.
+    Bien battre les oeufs entiers, et les insérer ensuite dans le mélange au chocolat.
+    Ajouter la farine et bien mélanger le tout.
+    Verser dans un moule à gâteau beurré.Laisser cuire au four à 160°C (th 5-6), pendant 30 min environ.Plus digeste avec une crème anglaise pas trop sucrée.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40547">
+  <titre>Tarte au chocolat suculente et fondante</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte à tarte au choix</p>
+    <p>Pour la garniture :</p>
+    <p>100 g de chocolat à cuire </p>
+    <p>40 cl de lait </p>
+    <p>50 g de sucre </p>
+    <p>3 jaunes d'oeuf </p>
+    <p>2 cuillères à soupe de farine Pour la meringue : </p>
+    <p>2 blancs d'oeuf </p>
+    <p>40 g de sucre </p>
+    <p>40 g d'amandes effilées Pour le glaçage :</p>
+    <p>25 g de chocolat </p>
+    <p>50 g de sucre </p>
+    <p>25 g de beurre</p>
+    <p>Pour la crème anglaise au café : </p>
+    <p>30 cl de lait </p>
+    <p>2 jaunes d'oeuf </p>
+    <p>30 g de sucre en poudre</p>
+    <p>1 cuillère à café de Maïzena</p>
+    <p>1/2 cuillère à café de café</p>
+    <p>1/2 cuillère à café d'extrait de vanille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire la pâte à blanc.
+    Faire fondre le chocolat en morceaux, dans le lait.
+    Dans un saladier, mélanger le sucre, les jaunes, et la farine.
+    Faire un mélange bien lisse.
+    Petit à petit, ajouter le lait chocolaté, et mélanger doucement.
+    Remettre le tout à cuire à feu doux, tout en mélangeant.
+    Monter les blancs en neige avec le sucre.
+    Verser la crème au chocolat sur le fond de la tarte.
+    Attendre que la crème soit froide, puis ajouter la meringue, et saupoudrer d'amandes (quand la crème est bien froide, les faire dorer au grill quelques secondes). 
+    Préparez alors le glaçage :
+    Dans une casserole, faire chauffer le sucre avec un verre d'eau. Laisser réduire, jusqu'à ce que le sirop soit consistant.
+    Ajoutez alors le chocolat, et laissez cuire environ 5 min en remuant.
+    Hors du feu, ajoutez le beurre. 
+    Projeter ce mélange sur la tarte et mettre au frais.
+    Faire chauffer le lait au micro-onde.
+    Mélanger les jaunes d'œuf, la maïzena et le sucre.
+    Ajouter la vanille et le café.
+    Quand le lait est chaud, le verser sur le mélange en remuant bien.
+    Remettre au micro-onde 2 à 3 min, en mélangeant en milieu de cuisson.
+    Laisser bien refroidir au frigo avant de consommer cette tarte, qui doit impérativement se manger froide! Un mousseux ou du champagne
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">cuire</OPER> la <INGRED id="5">pâte</INGRED> à <INGRED id="7">blanc</INGRED>. Faire <OPER id="o_2">fondre</OPER> le <INGRED id="16">chocolat</INGRED> en <INGRED id="1">morceaux</INGRED>, dans le <INGRED id="8">lait</INGRED>. Dans un <INGRED id="1">saladier</INGRED>, <OPER id="o_3">mélanger</OPER> le <INGRED id="10">sucre</INGRED>, les <INGRED id="11">jaunes</INGRED>, et la <INGRED id="3">farine</INGRED>. Faire un <INGRED id="16">mélange</INGRED> bien lisse. Petit à petit, <OPER id="o_416">ajouter</OPER> le <INGRED id="13">lait</INGRED> chocolaté, et <OPER id="o_5">mélanger</OPER> doucement. <OPER id="o_6">Remettre</OPER> le tout à <OPER id="o_7">cuire</OPER> à feu doux, tout en mélangeant. <OPER id="o_8">Monter</OPER> les <INGRED id="1">blancs</INGRED> en neige avec le <INGRED id="14">sucre</INGRED>. <OPER id="o_9">Verser</OPER> la crème au <INGRED id="3">chocolat</INGRED> sur le <INGRED id="4">fond</INGRED> de la tarte. <OPER id="o_10">Attendre</OPER> que la crème soit froide, puis <OPER id="o_1116">ajouter</OPER> la meringue, et <OPER id="o_12">saupoudrer</OPER> d'<INGRED id="15">amandes</INGRED> ( quand la crème est bien froide, les <INGRED id="10">faire</INGRED> <OPER id="o_13">dorer</OPER> au grill quelques secondes ). <OPER id="o_14">Préparez</OPER> alors le glaçage : Dans une casserole, <INGRED id="4">faire</INGRED> <OPER id="o_15">chauffer</OPER> le <INGRED id="3">sucre</INGRED> avec un verre d'<INGRED id="6">eau</INGRED>. Laisser réduire, jusqu'à ce que le <INGRED id="2">sirop</INGRED> soit consistant. <OPER id="o_16">Ajoutez</OPER> alors le <INGRED id="8">chocolat</INGRED>, et laissez <OPER id="o_17">cuire</OPER> <INGRED id="1">environ</INGRED> 5 min en remuant. Hors du feu, <OPER id="o_18">ajoutez</OPER> le <INGRED id="6">beurre</INGRED>. <OPER id="o_19">Projeter</OPER> ce <INGRED id="16">mélange</INGRED> sur la tarte et <OPER id="o_20">mettre</OPER> au frais. Faire <OPER id="o_21">chauffer</OPER> le <INGRED id="1">lait</INGRED> au micro-onde. <OPER id="o_22">Mélanger</OPER> les <INGRED id="13">jaunes d'œuf</INGRED>, la <INGRED id="7">maïzena</INGRED> et le <INGRED id="17">sucre</INGRED>. <OPER id="o_23">Ajouter</OPER> la <INGRED id="10">vanille</INGRED> et le <INGRED id="17">café</INGRED>. Quand le <INGRED id="1">lait</INGRED> est chaud, le <OPER id="o_24">verser</OPER> sur le <INGRED id="16">mélange</INGRED> en remuant bien. <OPER id="o_25">Remettre</OPER> au micro-onde 2 à 3 min, en mélangeant en milieu de cuisson. Laisser bien <OPER id="o_26">refroidir</OPER> au frigo avant de <OPER id="o_27">consommer</OPER> cette tarte, qui doit impérativement se <OPER id="o_28">manger</OPER> froide ! Un mousseux ou du <INGRED id="1">champagne</INGRED>
+  </annotation>
+  <annotation methode="crf">
+  Faire cuire la <INGRED>pâte</INGRED> à <INGRED>blanc</INGRED> <INGRED>.</INGRED> Faire fondre le <INGRED>chocolat</INGRED> en <INGRED>morceaux</INGRED> <INGRED>,</INGRED> dans le <INGRED>lait</INGRED> <INGRED>.</INGRED> Dans un saladier <INGRED>,</INGRED> mélanger le <INGRED>sucre</INGRED> <INGRED>,</INGRED> les <INGRED>jaunes</INGRED> <INGRED>,</INGRED> et la <INGRED>farine</INGRED>. Faire un <INGRED>mélange</INGRED> bien lisse <INGRED>.</INGRED> <INGRED>Petit</INGRED> à <INGRED>petit</INGRED> <INGRED>,</INGRED> ajouter le <INGRED>lait</INGRED> chocolaté <INGRED>,</INGRED> et mélanger doucement <INGRED>.</INGRED> Remettre le tout à cuire à feu doux <INGRED>,</INGRED> tout en mélangeant <INGRED>.</INGRED> Monter les <INGRED>blancs</INGRED> en neige avec le <INGRED>sucre</INGRED>. Verser la <INGRED>crème</INGRED> au <INGRED>chocolat</INGRED> sur le <INGRED>fond</INGRED> de la tarte <INGRED>.</INGRED> Attendre que la <INGRED>crème</INGRED> soit froide <INGRED>,</INGRED> puis ajouter la meringue <INGRED>,</INGRED> et saupoudrer d'<INGRED>amandes</INGRED> ( quand la <INGRED>crème</INGRED> est bien froide <INGRED>,</INGRED> les faire dorer au grill quelques secondes ). Préparez alors le glaçage <INGRED>:</INGRED> Dans une casserole <INGRED>,</INGRED> faire chauffer le <INGRED>sucre</INGRED> avec un <INGRED>verre</INGRED> d'<INGRED>eau</INGRED> <INGRED>.</INGRED> Laisser réduire <INGRED>,</INGRED> jusqu'à ce que le <INGRED>sirop</INGRED> soit consistant <INGRED>.</INGRED> Ajoutez alors le <INGRED>chocolat</INGRED> <INGRED>,</INGRED> et laissez cuire <INGRED>environ</INGRED> 5 min en remuant <INGRED>.</INGRED> Hors du feu <INGRED>,</INGRED> ajoutez le <INGRED>beurre</INGRED> <INGRED>.</INGRED> Projeter ce <INGRED>mélange</INGRED> sur la tarte et mettre au <INGRED>frais</INGRED> <INGRED>.</INGRED> Faire chauffer le <INGRED>lait</INGRED> au micro-onde <INGRED>.</INGRED> Mélanger les <INGRED>jaunes d'œuf</INGRED> <INGRED>,</INGRED> la <INGRED>maïzena</INGRED> et le <INGRED>sucre</INGRED>. Ajouter la <INGRED>vanille</INGRED> et le <INGRED>café</INGRED> <INGRED>.</INGRED> Quand le <INGRED>lait</INGRED> est chaud <INGRED>,</INGRED> le verser sur le <INGRED>mélange</INGRED> en remuant bien <INGRED>.</INGRED> Remettre au micro-onde 2 à 3 min <INGRED>,</INGRED> en mélangeant en milieu de cuisson. Laisser bien refroidir au frigo avant de consommer cette tarte <INGRED>,</INGRED> qui doit impérativement se manger froide ! Un mousseux <INGRED>ou</INGRED> du champagne
+  </annotation>
+  <complexite>
+    <temps>f(X) = 13.8695652173913*X + 15.1304347826087</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 11*X + 24</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pâte à tarte au choix', 'pâte']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['chocolat à cuire', 'chocolat']	 id:2	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:3	 quantité:40	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:4	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["jaunes d'oeuf", 'jaunes']	 id:5	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['farine Pour la meringue', 'farine']	 id:6	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:["blancs d'oeuf", 'blancs']	 id:7	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['sucre']	 id:8	 quantité:40	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['amandes effilées Pour le glaçage', 'amandes']	 id:9	 quantité:40	 unité:g d'	 denombrable:False	 recipient:1
+ingredient:['chocolat']	 id:10	 quantité:25	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:11	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:12	 quantité:25	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:13	 quantité:30	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:["jaunes d'oeuf", 'jaunes']	 id:14	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['sucre en poudre', 'sucre']	 id:15	 quantité:30	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['Maïzena']	 id:16	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+ingredient:['café']	 id:17	 quantité:1/2	 unité:cuillère à café de	 denombrable:False	 recipient:1
+ingredient:['extrait de vanille', 'extrait']	 id:18	 quantité:1/2	 unité:cuillère à café d'	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:cuire	 id:o_1	 ingrédients_ralatifs:['5', '7']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:fondre	 id:o_2	 ingrédients_ralatifs:['16', '1', '8']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:['1', '10', '11', '3']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_4	 ingrédients_ralatifs:['13']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:remettre	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cuire	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:monter	 id:o_8	 ingrédients_ralatifs:['1', '14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_9	 ingrédients_ralatifs:['3', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:attendre	 id:o_10	 ingrédients_ralatifs:['16', '15']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saupoudrer	 id:o_12	 ingrédients_ralatifs:['15']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dorer	 id:o_13	 ingrédients_ralatifs:['15', '10']	 nombre_opération_atomique:1+1	 temps:1*X*1+1*X*1	 recipient:0
+operation:préparer	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:chauffer	 id:o_15	 ingrédients_ralatifs:['4', '3', '6']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:ajouter	 id:o_16	 ingrédients_ralatifs:['8', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:ajouter	 id:o_18	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:projeter	 id:o_19	 ingrédients_ralatifs:['16']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:chauffer	 id:o_21	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:mélanger	 id:o_22	 ingrédients_ralatifs:['13', '7', '17']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_23	 ingrédients_ralatifs:['10', '17']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_24	 ingrédients_ralatifs:['1', '16']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remettre	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:refroidir	 id:o_26	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:consommer	 id:o_27	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:manger	 id:o_28	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

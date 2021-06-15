@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12705">
+  <titre>Baeckeoffe de poisson</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de pommes de terre à chair ferme (type BF 15)</p>
+    <p>500g de filets de grondins</p>
+    <p>2 tomates</p>
+    <p>1 petit poivron</p>
+    <p>2 oignons</p>
+    <p>Pour la cuisson et l'assaisonnement :</p>
+    <p>1 citron</p>
+    <p>2 gousses d'ail</p>
+    <p>4 brins de persil</p>
+    <p>8 feuilles de basilic</p>
+    <p>1 feuille de laurier</p>
+    <p>6 cuillères à soupe de vin blanc</p>
+    <p>60g de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez les pommes de terre et laissez-les en attente dans un saladier d'eau froide.
+    Ebouillantez rapidement les tomates, coupez-les en tranches épaisses et épépinez-les.
+    Rincez et séchez le poivron.
+    Retirez le pédoncule et les graines. Détaillez-le en tranches fines.
+    Epluchez et émincez les oignons.
+    Rincez et séchez les filets de grondins. Placez-les dans un plat creux. Arrosez-les du jus du citron. Salez et poivrez-les.
+    Préchauffez votre four thermostat 6.
+    Egouttez et séchez les pommes de terre. Coupez-les en tranches d'épaisseur régulière.
+    Beurrez l'intérieur de la cocotte en terre. Disposez la moitié des pommes de terre, la moitié des oignons et les filets de poissons.
+    Parsemez de la moitié du beurre restant, coupé en parcelles et de brisures de laurier.
+    Recouvrez des tranches de tomates, à nouveau d'oignons et de pommes de terre et disposez les tranches de poivron. Parsemez des gousses d'ail pelées et pressées, du persil, des feuilles de basilic et de parcelles de beurre. Versez le vin blanc, salez et poivrez.
+    Couvrez la cocotte, enfournez et laissez cuire pendant 1 heure.
+  ]]>
+  </preparation>
+</recette>

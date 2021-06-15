@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27185">
+  <titre>Farce pour cochon de lait à la lyonnaise</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>500 g de veau haché</p>
+    <p>500 g de boeuf haché</p>
+    <p>2 échalotes</p>
+    <p>150 g de champignons</p>
+    <p>200 g de mie de pain rassis</p>
+    <p>25 cl de lait</p>
+    <p>3 ou 4 oeufs</p>
+    <p>le foie du cochon</p>
+    <p>jambon cru (même poids de que le foie)</p>
+    <p>persil</p>
+    <p>ciboulette</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir la mie de pain et le lait de manière à obtenir une pâte épaisse.
+    Laisser refroidir.
+    Ajouter les viandes hachées, les herbes, les échalotes hachées et les champignons hachés également.
+    Rajouter les oeufs battus, le sel, le poivre et les herbes.
+    Ajouter enfin le foie du cochon et le jambon cru coupés en dés.
+    Utiliser cette farce pour farcir un cochon de lait que l'on fera cuire à la broche par exemple.
+  ]]>
+  </preparation>
+</recette>

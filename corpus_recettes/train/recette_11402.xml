@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11402">
+  <titre>Paupiettes de veau à la bourguignonne</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 paupiettes</p>
+    <p>100 g de lardons fumés</p>
+    <p>80 g d'oignons</p>
+    <p>150 g de champignons</p>
+    <p>50 cl de vin rouge</p>
+    <p>20 g de beurre</p>
+    <p>1 bouquet garni</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Rôtir les paupiettes sur un lit de lardons et de beurre. Lorsqu'ils sont bien dorés, ajouter les  oignons pour les colorer légèrement puis les champignons.
+    Couvrir avec le vin rouge et 2 verres d'eau, ajouter le bouquet garni. Cuire 15 min à découvert.
+    Servir avec du riz pilaf ou des pommes de terre cuites à l'eau.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21350">
+  <titre>Noisetier</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 génoise au cacao (génoise + 25 g de cacao) </p>
+    <p>100 g de sucre</p>
+    <p>2 cl de rhum</p>
+    <p>400 g de pâte à tartiner à la noisette</p>
+    <p>500 g de crème fouettée</p>
+    <p>50 g de noisettes entières</p>
+    <p>25 g de sucre glace</p>
+    <p>25 g de cacao</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir 20 cl d'eau et le sucre. Laisser tiédir et ajouter le rhum. Pour la mousse, mélanger la pâte à tartiner, la crème fouettée et les noisettes concassées. Couper la génoise en deux et l'imbiber de sirop au rhum. Napper une moitié de mousse et couvrir avec l'autre moitié. Masquer le gâteau du reste de mousse. Réserver au réfrigérateur 1h. Saupoudrer le gâteau de cacao et de sucre glace. Le décorer avec des noisettes et des copeaux de chocolat.
+  ]]>
+  </preparation>
+</recette>

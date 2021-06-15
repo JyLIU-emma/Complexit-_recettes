@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16631">
+  <titre>Risotto aux crevettes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>750 g de crevettes (300 g épluchées)</p>
+    <p>2 dl de vin blanc sec</p>
+    <p>4 dl d'eau</p>
+    <p>3 cuillères à soupe de beurre</p>
+    <p>1 dl de poireau finement haché</p>
+    <p>3 dl de riz pour risotto</p>
+    <p>0.5 g de safran (0,5g)</p>
+    <p>1/2 cuillère à café de sel</p>
+    <p>2 cuillères à soupe d'estragon frais haché (ou 1 cuillère à café s'il est séché)</p>
+    <p>1 poivron jaune(1 dl de dés de poivron jaune)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour l'accompagnement : fenouil frit dans du beurre et salade
+    Eplucher les crevettes et mettre les carapaces dans une casserole. Mettre les crevettes au frais.
+    Verser le vin et 3 dl d'eau sur les carapaces. Cuire à couvert pendant 20 mn. Retirer les carapaces du liquide.
+    Chauffer la moitié du beurre dans une casserole et y faire frire les poireau, saffran, riz et sel. Ils ne doivent pas brunir. Ajouter un peu du bouillon et cuire à couvert quelques minutes. Ajouter l'estragon et du bouillon. Continuer ainsi (ajouter du bouillon) jusqu'à ce que le riz soit 'crémeux' et le bouillon absorbé, environ 20 mn. Ajouter le poivron et les crevettes.
+  ]]>
+  </preparation>
+</recette>

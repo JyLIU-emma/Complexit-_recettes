@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23960">
+  <titre>Epaule d'agneau farcie et feuilletée</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 épaule d’agneau désossée</p>
+    <p>250 g de riz cuit</p>
+    <p>250 g de champignons émincés</p>
+    <p>1 petit piment doux</p>
+    <p>1 oeuf</p>
+    <p>5 cl de cognac</p>
+    <p>500 g de pâte feuilletée</p>
+    <p>50 g de beurre</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (thermostat 7).
+    Faire cuire le riz dans l’eau bouillante salée, l’égoutter et le déposer dans un saladier.
+    Saler et poivrer le riz, puis l’arroser de cognac et bien mélanger de façon à obtenir une farce parfaitement homogène.
+    Farcir ensuite l’épaule d’agneau, puis la ficeler afin d’éviter que la farce ne s’échappe en cours de cuisson.
+    Placer l’épaule sur la lèche-frite préalablement beurrée, puis enfourner pour 30 minutes de cuisson.
+    Sortir l’épaule du four et la laisser refroidir avant de l’entourer de pâte feuilletée.
+    Une fois la croûte posée, remettre au four et poursuivre la cuisson durant 35 minutes.
+  ]]>
+  </preparation>
+</recette>

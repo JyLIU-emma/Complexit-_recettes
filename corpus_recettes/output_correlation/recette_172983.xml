@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172983">
+  <titre>Boeuf mijoté au vin et au café</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1,500 kg de boeuf bourguignon coupé en morceaux de 150 g environ</p>
+    <p>1 l de bon vin rouge</p>
+    <p>250 à 300 g de lard fumé coupé en dés</p>
+    <p>200 g de carottes bien rouges</p>
+    <p>4 beaux oignons (rouges de préférence)</p>
+    <p>1 kg de bonnes pommes de terre pas trop grosses</p>
+    <p>1 boite 4/4 de petits pois moyens</p>
+    <p>thym</p>
+    <p>3 à 5 feuilles de laurier</p>
+    <p>6 clous de girofle</p>
+    <p>Poivre en grains</p>
+    <p>Sel</p>
+    <p>25 cl de café très fort</p>
+    <p>Un peu d'huile et de margarine  50/50 </p>
+    <p>1 cuillère à soupe de maïzena</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille, dans un saladier, faire macérer les morceaux de boeuf bourguignon dans le vin avec le thym, laurier, clous de girofle,les carottes  coupées en cubes et le poivre (mettre dans un endroit frais)Le lendemain, mettre dans un récipient, la viande égouttée, dans un autre les carottes, conserver la marinade à part.
+    Dans une cocotte, en fonte de préférence, mettre l'huile et la margarine, y faire revenir le lard, les oignons coupés en rondelles, les carottes,
+    une fois le tout un peu rissolé, retirer de la cocotte le tout et réserver de côté dans un récipient.
+    Ensuite, dans la cocotte, faire dorer les morceaux de viande sur chaque côté, une fois les morceaux de viande bien colorés, ajouter la marinade (vin rouge, thym, laurier, poivre, clos de girofle, le sel) et le jus de la boite de petit pois.
+    Laisser mijoter 1 heure environ, à feu doux.
+    Après ce temps de cuisson, remettre le lard fumé, les oignons, les carottes, les petits pois (mélanger très délicatement le tout)
+    Ajouter les pommes de terre et enfin enfin  le café.Laisser cuire 30 à 45 minutes environ, feu pas trop fort à moyen, (si besoin ajouter un peu d'eau)
+    (un bon secret du chef, est de mettre la cocotte dans le four thermostat 150°C pour une cuisson uniforme douce)Si vous trouvez la sauce trop
+    fluide, elle peut être épaissie avec la maïzena.Déguster bien chaud (le secret de la recette, les pommes de terre seront brunes, et n'auront pas le goût de café).Ce plat est encore meilleur réchauffé le lendemain ou le sur lendemain, il peut donc être préparé d'avance Bourgogne grand ordinaire fera l'affaire
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  La veille, dans un <INGRED id="1">saladier</INGRED>, <INGRED id="4">faire</INGRED> <OPER id="o_1">macérer</OPER> les <INGRED id="1">morceaux</INGRED> de <INGRED id="10">boeuf</INGRED> bourguignon dans le <INGRED id="5">vin</INGRED> avec le <INGRED id="3">thym</INGRED>, <INGRED id="12">laurier</INGRED>, <INGRED id="10">clous de girofle</INGRED>, les <INGRED id="1">carottes</INGRED> <INGRED id="5">coupées</INGRED> en cubes et le <INGRED id="12">poivre</INGRED> ( <OPER id="o_2">mettre</OPER> dans un endroit frais)Le lendemain, <OPER id="o_3">mettre</OPER> dans un récipient, la viande égouttée, dans un autre les <INGRED id="7">carottes</INGRED>, conserver la marinade à part. Dans une <INGRED id="3">cocotte</INGRED>, en fonte de préférence, <OPER id="o_4">mettre</OPER> l'<INGRED id="8">huile</INGRED> et la <INGRED id="13">margarine</INGRED>, y <INGRED id="4">faire</INGRED> <OPER id="o_5">revenir</OPER> le <INGRED id="2">lard</INGRED>, les <INGRED id="1">oignons</INGRED> <INGRED id="11">coupés</INGRED> en rondelles, les <INGRED id="1">carottes</INGRED>, une fois le tout un <INGRED id="14">peu</INGRED> rissolé, <OPER id="o_6">retirer</OPER> de la <INGRED id="3">cocotte</INGRED> le tout et réserver de côté dans un récipient. Ensuite, dans la <INGRED id="3">cocotte</INGRED>, <INGRED id="10">faire</INGRED> <OPER id="o_7">dorer</OPER> les <INGRED id="1">morceaux</INGRED> de viande sur chaque côté, une fois les <INGRED id="1">morceaux</INGRED> de <INGRED id="2">viande</INGRED> bien colorés, <OPER id="o_816">ajouter</OPER> la marinade ( <INGRED id="3">vin rouge</INGRED>, <INGRED id="3">thym</INGRED>, <INGRED id="9">laurier</INGRED>, poivre, clos de girofle, le sel ) et le <INGRED id="3">jus</INGRED> de la <INGRED id="5">boite</INGRED> de petit <INGRED id="3">pois</INGRED>. Laisser <OPER id="o_9">mijoter</OPER> 1 heure <INGRED id="1">environ</INGRED>, à feu doux. Après ce temps de cuisson, <OPER id="o_10">remettre</OPER> le <INGRED id="3">lard fumé</INGRED>, les oignons, les <INGRED id="3">carottes</INGRED>, les <INGRED id="3">petits</INGRED> <INGRED id="1">pois</INGRED> ( <OPER id="o_11">mélanger</OPER> très délicatement le tout ) <OPER id="o_12">Ajouter</OPER> les <INGRED id="6">pommes de terre</INGRED> et enfin enfin le <INGRED id="3">café</INGRED>. Laisser <OPER id="o_13">cuire</OPER> 30 à 45 minutes <INGRED id="1">environ</INGRED>, feu pas trop fort à moyen, ( si besoin <OPER id="o_1416">ajouter</OPER> un <INGRED id="14">peu</INGRED> d'<INGRED id="7">eau</INGRED> ) ( un bon secret du chef, est de <OPER id="o_15">mettre</OPER> la <INGRED id="3">cocotte</INGRED> dans le four thermostat 150 ° C pour une cuisson uniforme douce)Si vous trouvez la <INGRED id="6">sauce</INGRED> trop fluide, elle peut être épaissie avec la <INGRED id="7">maïzena</INGRED>. Déguster bien chaud ( le secret de la recette, les <INGRED id="5">pommes de terre</INGRED> seront brunes, et n'auront pas le <INGRED id="7">goût</INGRED> de café).Ce <INGRED id="9">plat</INGRED> est encore meilleur réchauffé le lendemain ou le sur lendemain, il peut donc être préparé d'avance Bourgogne grand ordinaire fera l'affaire
+  </annotation>
+  <annotation methode="crf">
+  La veille <INGRED>,</INGRED> dans un saladier <INGRED>,</INGRED> faire macérer les <INGRED>morceaux</INGRED> de <INGRED>boeuf</INGRED> bourguignon dans le <INGRED>vin</INGRED> avec le <INGRED>thym</INGRED> <INGRED>,</INGRED> <INGRED>laurier</INGRED> <INGRED>,</INGRED> <INGRED>clous de girofle</INGRED> <INGRED>,</INGRED> les <INGRED>carottes</INGRED> <INGRED>coupées</INGRED> en cubes et le <INGRED>poivre</INGRED> ( mettre dans un endroit frais)Le lendemain <INGRED>,</INGRED> mettre dans un récipient <INGRED>,</INGRED> la <INGRED>viande</INGRED> égouttée <INGRED>,</INGRED> dans un autre les <INGRED>carottes</INGRED> <INGRED>,</INGRED> conserver la marinade à part <INGRED>.</INGRED> Dans une cocotte <INGRED>,</INGRED> en fonte de préférence <INGRED>,</INGRED> mettre l'<INGRED>huile</INGRED> et la <INGRED>margarine</INGRED> <INGRED>,</INGRED> y faire revenir le <INGRED>lard</INGRED> <INGRED>,</INGRED> les <INGRED>oignons coupés</INGRED> en rondelles <INGRED>,</INGRED> les <INGRED>carottes</INGRED> <INGRED>,</INGRED> une fois le tout un peu rissolé <INGRED>,</INGRED> retirer de la cocotte le tout et réserver de côté dans un récipient <INGRED>.</INGRED> Ensuite <INGRED>,</INGRED> dans la cocotte <INGRED>,</INGRED> faire dorer les <INGRED>morceaux</INGRED> de <INGRED>viande</INGRED> sur chaque côté <INGRED>,</INGRED> une fois les <INGRED>morceaux</INGRED> de <INGRED>viande</INGRED> bien colorés <INGRED>,</INGRED> ajouter la marinade ( <INGRED>vin rouge</INGRED> <INGRED>,</INGRED> thym, <INGRED>laurier</INGRED> <INGRED>,</INGRED> <INGRED>poivre</INGRED> <INGRED>,</INGRED> clos de <INGRED>girofle</INGRED> <INGRED>,</INGRED> le <INGRED>sel</INGRED> ) et le <INGRED>jus</INGRED> de la <INGRED>boite</INGRED> de <INGRED>petit</INGRED> <INGRED>pois</INGRED> <INGRED>.</INGRED> Laisser mijoter 1 heure <INGRED>environ</INGRED> <INGRED>,</INGRED> à feu doux. Après ce temps de cuisson <INGRED>,</INGRED> remettre le <INGRED>lard fumé</INGRED> <INGRED>,</INGRED> les <INGRED>oignons,</INGRED> les <INGRED>carottes</INGRED> <INGRED>,</INGRED> les <INGRED>petits</INGRED> <INGRED>pois</INGRED> ( mélanger très délicatement le tout ) Ajouter les <INGRED>pommes de terre</INGRED> et enfin enfin le <INGRED>café</INGRED> <INGRED>.</INGRED> Laisser cuire 30 à 45 minutes <INGRED>environ</INGRED> <INGRED>,</INGRED> feu pas trop fort à moyen <INGRED>,</INGRED> ( si besoin ajouter un peu d'<INGRED>eau</INGRED> ) ( un bon secret du chef <INGRED>,</INGRED> est de mettre la cocotte dans le four thermostat 150 ° C pour une cuisson uniforme douce)Si vous trouvez la <INGRED>sauce</INGRED> trop fluide <INGRED>,</INGRED> elle peut être épaissie avec la <INGRED>maïzena</INGRED> <INGRED>.</INGRED> Déguster bien chaud ( le secret de la recette <INGRED>,</INGRED> les <INGRED>pommes de terre</INGRED> seront brunes <INGRED>,</INGRED> et n'auront pas le goût de café).Ce plat est encore meilleur réchauffé le lendemain <INGRED>ou</INGRED> le sur lendemain <INGRED>,</INGRED> il peut donc être préparé d'avance Bourgogne grand ordinaire fera l'affaire
+  </annotation>
+  <complexite>
+    <temps>f(X) = 20.7692307692308*X + 15.2307692307692</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 15*X + 21</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['environ']	 id:1	 quantité:1,500	 unité:g	 denombrable:False	 recipient:1
+ingredient:['bon vin rouge', 'vin']	 id:2	 quantité:1	 unité:l de	 denombrable:False	 recipient:1
+ingredient:['lard fumé coupé en dés', 'lard']	 id:3	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['carottes bien rouges', 'carottes']	 id:4	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oignons']	 id:5	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['bonnes pommes de terre pas trop grosses', 'pommes']	 id:6	 quantité:1	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['boite 4/4 de petits pois moyens', 'boite']	 id:7	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['thym']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['laurier']	 id:9	 quantité:3	 unité:feuilles de	 denombrable:True	 recipient:3*X
+ingredient:['clous de girofle', 'clous']	 id:10	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['Poivre en grains', 'Poivre']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['Sel']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['café très fort', 'café']	 id:13	 quantité:25	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:["peu d'huile", 'peu']	 id:14	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['margarine   50/50', 'margarine']	 id:15	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['maïzena']	 id:16	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:macérer	 id:o_1	 ingrédients_ralatifs:['1', '4', '1', '10', '5', '3', '12', '10', '1', '5', '12']	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:mettre	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_3	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_4	 ingrédients_ralatifs:['3', '8', '13', '4', '2', '1', '11', '1', '14', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:revenir	 id:o_5	 ingrédients_ralatifs:['4', '2', '1', '11', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:retirer	 id:o_6	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dorer	 id:o_7	 ingrédients_ralatifs:['3', '10', '1', '1', '2', '16', '3', '3', '9', '3', '5', '3']	 nombre_opération_atomique:1+6*X+1+1+1+1*X+1+1+3*X+1+4*X+1	 temps:1*X*1+6*X*1+1*X*1+1*X*1+1*X*1+1*X*1+1*X*1+1*X*1+3*X*1+1*X*1+4*X*1+1*X*1	 recipient:0
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['1', '2', '3', '3', '9', '3', '5', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:remettre	 id:o_10	 ingrédients_ralatifs:['3', '3', '3', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mélanger	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:['6', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:ajouter	 id:o_14	 ingrédients_ralatifs:['14', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_15	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

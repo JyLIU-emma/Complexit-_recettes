@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12710">
+  <titre>Escargots à la catalane</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 douzaines d'escargots</p>
+    <p>300 g de jambon</p>
+    <p>1 cuillère soupe bombée de farine</p>
+    <p>2 oignons</p>
+    <p>5 gousses d'ail</p>
+    <p>10 brins de persil</p>
+    <p>1 cuillères à café de piment de Cayenne</p>
+    <p>2 tranches de pain émiettées</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>15 cl d’aïoli</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Bien laver les escargots dans plusieurs eaux et terminer en les rinçant dans de l'eau vinaigrée, bien les égoutter.
+    Mettre l'huile dans une sauteuse et faire roussir les oignons et le jambon coupé en petits dés.
+    Ajouter les escargots, le piment, la farine, remuer vivement et mouiller avec 15 cl d'eau.
+    A mi-cuisson, ajouter le pain et la persillade.
+    Avant de servir, lier avec l’aïoli. Vin rouge ou rosé Pays Catalan
+  ]]>
+  </preparation>
+</recette>

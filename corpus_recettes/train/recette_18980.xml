@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18980">
+  <titre>Tartiflette Franc-comtoise</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de pommes de terre</p>
+    <p>150 g de lard fumé</p>
+    <p>1 boîte de cancoillotte à l'ail</p>
+    <p>2 oignons</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les pommes de terre à l'eau avec leur peau. 
+    Cuire de même les oignons. 
+    Peler les pommes de terre les couper en tranches, faire de même avec les oignons. 
+    Dans un plat à gratin beurré alterner les pommes de terre et les oignons, mettre les lardons dessus. 
+    Verser la cancoillotte sur ces ingrédients et faire gratiner au four
+    pour étudiant ou citadin  pressé vin du Jura
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15938">
+  <titre>Toasts mozzarella</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 tranches de pain de mie</p>
+    <p>250 g de mozzarella</p>
+    <p>3 tomates</p>
+    <p>origan, sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Poser sur les tranches de pain de mie les tomates tranchées et salées.
+    Poser par-dessus des tranches de mozzarella salées,
+    rajouter de l'origan, et...c'est tout!
+    Mettre au four, retirer au bout de 5mn (mozzarella coulante) ou 10mn (mozzarella un peu croustillante, au choix!).
+    Accompagner d'une salade verte coupée en ^petites lanières (vous pouvez le faire aux ciseaux).
+    Rapide, pas cher, pas dur....[NDchef: utiliser si possible de la vraie mozarella de bufflonne, elle a beaucoup plus de goût] petit rosé
+  ]]>
+  </preparation>
+</recette>

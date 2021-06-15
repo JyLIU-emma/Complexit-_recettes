@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25967">
+  <titre>Tomates farcies poulet gruyère persil</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>12 tomates</p>
+    <p>2 blancs de poulet froid</p>
+    <p>6 tranches de pain de mie</p>
+    <p>180 g de gruyère râpé</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>3 oignons</p>
+    <p>3 gousses d'ail</p>
+    <p>1 bouquet de persil</p>
+    <p>sel, poivre.</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Couper un chapeau à chaque tomate et les vider de leurs graines. Saler l'intérieur et les retourner sur un papier absorbant.
+    Hacher le poulet, l'ail, l'oignon et le persil. Ajouter la mie de pain émiettée, le fromage râpé et l'huile.
+    Farcir les tomates de ce mélange, les disposer dans un plat à four huilé et enfourner pour 20 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

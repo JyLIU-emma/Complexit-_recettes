@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22106">
+  <titre>Blé au saumon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de filets de saumon</p>
+    <p>200 g blé</p>
+    <p>60 g de lardons</p>
+    <p>1 courgette coupée en dés</p>
+    <p>1 boîte d'artichauts coupés en dés</p>
+    <p>2 boîtes de tomates pelées</p>
+    <p>1 échalote émincée</p>
+    <p>400 ml d'eau</p>
+    <p>sel, poivre</p>
+    <p>estragon</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle, faites revenir l'oignon avec les lardons. Laisser bronzer, puis verser le blé cru. Couvrir avec l'eau.
+    Couper les tomates pelées en dés, et les ajouter dans la poêle, avec leur jus. Saler et poivrer, ajouter les dés de courgettes et d'artichauts, puis incorporer les filets de saumon préalablement coupés en cubes. 
+    Laisser cuire jusqu'à absorbtion du liquide. 
+    Vérifier l'assaisonnement et ajouter l'estragon.
+    On peut parsemer de parmesan avant de servir
+  ]]>
+  </preparation>
+</recette>

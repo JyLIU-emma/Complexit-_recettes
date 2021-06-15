@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22805">
+  <titre>Salade de fruits à la mousse de fromage blanc</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de fruits mélangés : cerises, fraises, framboises, abricots, groseilles, prunes... selon la saison</p>
+    <p>150 g de sucre en poudre</p>
+    <p>1 citron</p>
+    <p>300 g de fromage blanc</p>
+    <p>3 blancs d'oeuf</p>
+    <p>2 cuillères à soupe de kirsch (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher et dénoyauter les fruits puis les couper en morceaux. 
+    Les arroser de jus de citron et les saupoudrer avec 50 g de sucre. Couvrir et placer au frais.
+    Verser le kirsch dans le fromage blanc. Monter les blancs en neige ferme en ajoutant peu à peu le reste de sucre, puis l'incorporer délicatement au fromage blanc.
+    Répartir les fruits sucrés et citronnés dans des coupes ou des verrines et recouvrir de fromage blanc.
+  ]]>
+  </preparation>
+</recette>

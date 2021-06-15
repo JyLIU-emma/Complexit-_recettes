@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13320">
+  <titre>Boeuf bourguignon simple</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de boeuf bien gélatineux</p>
+    <p>2 bouteilles de vin style algérien ou marocain</p>
+    <p>2 carottes</p>
+    <p>bouquet garni (thym, laurier,persil)</p>
+    <p>2 oignons</p>
+    <p>1 gousse d'ail</p>
+    <p>1 pincée de noix de muscade</p>
+    <p>farine</p>
+    <p>2 ou 3 cuillères à soupe de cognac pour flamber</p>
+    <p>sel et poivre en grains</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez une marinade la veille de la cuisson, avec tous les ingrédients cités plus haut. mettez les morceaux de viande dedans et laissez au réfrigérateur.
+    Le lendemain, épongez la viande dans un linge ou du papier absorbant. Faites-la rissoler doucement de tous les côtés.
+    Lorsque c'est terminé, flambez avec le cognac, puis mettez la farine et tout de suite après le vin avec tous les ingrédients. Laissez cuire pendant 3 heures à feu doux.
+    Au moment de servir, passez la sauce au tamis pour ôter les ingrédients. un Bourgogne bien corsé type Pommard, Volnay, Nuits-St-Georges
+  ]]>
+  </preparation>
+</recette>

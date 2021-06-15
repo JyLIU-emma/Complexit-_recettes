@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169144">
+  <titre>Rochers de compote de pomme / chocolat de Grand-maman</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 pommes golden</p>
+    <p>3 cuillères à soupe de sucre</p>
+    <p>50 cl d'eau</p>
+    <p>4 gouttes de jus de citron</p>
+    <p>1 pointe de couteau de cannelle</p>
+    <p>15-20 biscottes </p>
+    <p>400 g de chocolat de ménage</p>
+    <p>30 cl de crème entière</p>
+    <p>10 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    A préparer sur 2 jours. Préparer une compote de pommes :
+    Peler, épépiner, couper en gros cubes les pommes.
+    Les cuire avec l'eau, le sucre, le citron et la cannelle environ 15 min. Les pommes doivent être encore un peu fermes. Egoutter, laisser refroidir.
+    Disposer les biscottes à plat au fond et sur les bords du bol.
+    Verser la compote dans le bol tapissé. Recouvrir avec des biscottes, bien tasser, filmer et placer au frais 3h.
+    Glaçage au chocolat :
+    Faire fondre au bain-marie le chocolat. Hors du feu incorporer 10 cl de crème.Démouler la compote chemisée sur une assiette.
+    Beurrer rapidement le même bol et napper la "bombe" biscotte-pomme avec le chocolat.  Re-renverser la bombe dans le bol et placer au frigo une nuit. Monter la crème en chantilly ferme.Démouler le dôme au chocolat sur un plat.
+    Recouvrir de chantilly.Déguster et louer grand-maman Jeanne !
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  A <OPER id="o_1">préparer</OPER> sur 2 jours. <OPER id="o_2">Préparer</OPER> une <INGRED id="4">compote</INGRED> de <INGRED id="1">pommes</INGRED> : <OPER id="o_3">Peler</OPER>, <OPER id="o_4">épépiner</OPER>, <OPER id="o_5">couper</OPER> en gros cubes les <INGRED id="4">pommes</INGRED>. Les <OPER id="o_6">cuire</OPER> avec l'eau, le <INGRED id="9">sucre</INGRED>, le <INGRED id="9">citron</INGRED> et la <INGRED id="8">cannelle</INGRED> <INGRED id="1">environ</INGRED> 15 min. Les <INGRED id="2">pommes</INGRED> doivent être encore un peu fermes. <OPER id="o_7">Egoutter</OPER>, laisser <OPER id="o_8">refroidir</OPER>. <OPER id="o_9">Disposer</OPER> les <INGRED id="6">biscottes</INGRED> à <INGRED id="9">plat</INGRED> au <INGRED id="4">fond</INGRED> et sur les bords du bol. <OPER id="o_10">Verser</OPER> la <INGRED id="4">compote</INGRED> dans le bol tapissé. <OPER id="o_11">Recouvrir</OPER> avec des <INGRED id="6">biscottes</INGRED>, bien <OPER id="o_12">tasser</OPER>, <OPER id="o_13">filmer</OPER> et <OPER id="o_14">placer</OPER> au frais 3h. Glaçage au <INGRED id="9">chocolat</INGRED> : Faire <OPER id="o_15">fondre</OPER> au bain - marie le chocolat. Hors du feu <OPER id="o_16">incorporer</OPER> 10 <INGRED id="2">cl</INGRED> de crème. <OPER id="o_17">Démouler</OPER> la <INGRED id="6">compote</INGRED> chemisée sur une assiette. <OPER id="o_18">Beurrer</OPER> rapidement le même bol et <OPER id="o_19">napper</OPER> la " bombe " biscotte - pomme avec le <INGRED id="2">chocolat</INGRED>. <OPER id="o_20">Re-renverser</OPER> la bombe dans le bol et <OPER id="o_21">placer</OPER> au frigo une nuit. <OPER id="o_22">Monter</OPER> la crème en chantilly ferme. <OPER id="o_23">Démouler</OPER> le dôme au <INGRED id="5">chocolat</INGRED> sur un <INGRED id="9">plat</INGRED>. <OPER id="o_24">Recouvrir</OPER> de chantilly. Déguster et <OPER id="o_25">louer</OPER> grand-maman Jeanne !
+  </annotation>
+  <annotation methode="crf">
+  A préparer sur 2 jours <INGRED>.</INGRED> Préparer une <INGRED>compote</INGRED> de <INGRED>pommes</INGRED> <INGRED>:</INGRED> Peler <INGRED>,</INGRED> épépiner <INGRED>,</INGRED> couper en <INGRED>gros</INGRED> cubes les <INGRED>pommes</INGRED> <INGRED>.</INGRED> Les cuire avec l'<INGRED>eau</INGRED> <INGRED>,</INGRED> le <INGRED>sucre</INGRED> <INGRED>,</INGRED> le <INGRED>citron</INGRED> et la <INGRED>cannelle</INGRED> <INGRED>environ</INGRED> 15 min. Les <INGRED>pommes</INGRED> doivent être encore un peu fermes. Egoutter <INGRED>,</INGRED> laisser refroidir <INGRED>.</INGRED> Disposer les biscottes à plat au <INGRED>fond</INGRED> et sur les bords du bol <INGRED>.</INGRED> Verser la <INGRED>compote</INGRED> dans le bol tapissé. Recouvrir avec des biscottes <INGRED>,</INGRED> bien tasser <INGRED>,</INGRED> filmer et placer au <INGRED>frais</INGRED> 3h <INGRED>.</INGRED> Glaçage au <INGRED>chocolat</INGRED> <INGRED>:</INGRED> Faire fondre au bain - marie le <INGRED>chocolat</INGRED> <INGRED>.</INGRED> Hors du feu incorporer 10 cl de <INGRED>crème</INGRED>. Démouler la <INGRED>compote</INGRED> chemisée sur une assiette <INGRED>.</INGRED> Beurrer rapidement le même bol et napper la " bombe " biscotte - pomme avec le <INGRED>chocolat</INGRED> <INGRED>.</INGRED> Re-renverser la bombe dans le bol et placer au frigo une nuit. Monter la <INGRED>crème</INGRED> en chantilly ferme. Démouler le dôme au <INGRED>chocolat</INGRED> sur un plat <INGRED>.</INGRED> Recouvrir de chantilly. Déguster et louer grand-maman Jeanne !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 21.969696969697*X + 3.03030303030303</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 29*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pommes golden', 'pommes']	 id:1	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['sucre']	 id:2	 quantité:3	 unité:cuillères à soupe de	 denombrable:True	 recipient:3*X
+ingredient:['eau']	 id:3	 quantité:50	 unité:cl d'	 denombrable:False	 recipient:1
+ingredient:['jus de citron', 'jus']	 id:4	 quantité:4	 unité:gouttes de	 denombrable:True	 recipient:4*X
+ingredient:['cannelle']	 id:5	 quantité:1	 unité:pointe de couteau de	 denombrable:True	 recipient:1*X
+ingredient:['biscottes']	 id:6	 quantité:15	 unité:non_precis	 denombrable:True	 recipient:15*X
+ingredient:['chocolat de ménage', 'chocolat']	 id:7	 quantité:400	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crème entière', 'crème']	 id:8	 quantité:30	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:9	 quantité:10	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préparer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:préparer	 id:o_2	 ingrédients_ralatifs:['4', '1']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:peler	 id:o_3	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:4*X*1	 recipient:0
+operation:épépiner	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_5	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:4*X*1	 recipient:1
+operation:cuire	 id:o_6	 ingrédients_ralatifs:['9', '9', '8', '1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:egoutter	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:disposer	 id:o_9	 ingrédients_ralatifs:['6', '9', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:verser	 id:o_10	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recouvrir	 id:o_11	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tasser	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:filmer	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fondre	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:incorporer	 id:o_16	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:démouler	 id:o_17	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:beurrer	 id:o_18	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:napper	 id:o_19	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:re-renverser	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_21	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:monter	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:démouler	 id:o_23	 ingrédients_ralatifs:['5', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recouvrir	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:louer	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

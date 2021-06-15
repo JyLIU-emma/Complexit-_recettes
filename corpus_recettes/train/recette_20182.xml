@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20182">
+  <titre>Sauté d'agneau au curry</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,5 kg d'épaule d'agneau (ou de palette) coupé en morceaux par le boucher</p>
+    <p>2 oignons</p>
+    <p>2 carottes</p>
+    <p>2 têtes d'ail</p>
+    <p>1 à 2 cuillères à café de curry</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>1 bouquet garni</p>
+    <p>1 tablette de bouillon de boeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher et couper en rondelle les carottes, hacher l'oignon. 
+    Faire dorer la viande, préalablement salée et poivrée, dans un peu de beurre. 
+    Ajouter les carottes, l'oignon et l'ail, saupoudrer de curry et mélanger, couvrir et laisser cuire 15 mn à feu doux. 
+    Ajouter 1/2 l d'eau, le bouquet garni et la tablette, remuer et laisser cuire 55 mn à feu doux. 
+    Au moment de servir, ôter l'ail et le bouquet garni.
+    De la semoule (pour couscous) accompagnera très bien ce plat.
+  ]]>
+  </preparation>
+</recette>

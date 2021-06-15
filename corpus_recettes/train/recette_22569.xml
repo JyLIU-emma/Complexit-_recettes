@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22569">
+  <titre>Sauté de veau au thon et aux anchois</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de noix de veau</p>
+    <p>500 g de thon à l'huile</p>
+    <p>12 filets d'anchois</p>
+    <p>2 oignons</p>
+    <p>huile d'olive</p>
+    <p>6 citrons </p>
+    <p>1 bouquet garni</p>
+    <p>40 cl de vin blanc </p>
+    <p>20 cl de bouillon de veau </p>
+    <p>30 g de mayonnaise</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte, faire revenir les oignons émincés avec de l'huile d'olive.
+    Les remplacer par la noix de veau coupée en morceaux. Ajouter le thon, les filets d'anchois dessalés, les citrons pelés et couper en morceaux, et le bouquet garni. 
+    Assaisonner et verser le vin blanc et le bouillon de veau. Laisser mijoter pendant 1 h 30.
+    Réserver le veau au chaud et tamiser le jus de cuisson. L’incorporer à la mayonnaise et servir le tout avec des cornichons et des câpres.
+  ]]>
+  </preparation>
+</recette>

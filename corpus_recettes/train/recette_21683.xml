@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21683">
+  <titre>Flan à la macédoine rapide</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boîte de macédoine (format familial) </p>
+    <p>5 oeufs</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ouvrir la boîte de macédoine et bien l'égoutter. 
+    Battre les oeufs au mixer (jusqu'à émulsion). 
+    Mélanger le tout en salant et poivrant. 
+    Mettre dans un plat Pyrex et au four (180°C). Mettre un lame de couteau de temps en temps dans la préparation. 
+    Votre flan est prêt quand la lame du couteau est sèche. 
+    Mettre après au réfrigérateur et servir froid avec, si vous voulez, un jus de citron dessus ou un coulis de tomate.
+  ]]>
+  </preparation>
+</recette>

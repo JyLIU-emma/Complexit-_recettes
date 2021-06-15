@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25421">
+  <titre>Spaghetti aux sardines, raisins et pignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de spaghetti</p>
+    <p>750 g de sardines fraîches vidées et désaretées</p>
+    <p>9 filets d'anchois à l'huile</p>
+    <p>2 oignons</p>
+    <p>75 g de raisins de Corinthe</p>
+    <p>75 g de pignons</p>
+    <p>1 dose de safran</p>
+    <p>15 cl d'huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tremper les raisins secs dans de l'eau tiède pendant 15 minutes.
+    Hacher l'oignon et le faire fondre dans l'huile jusqu'à ce qu'il soit bien tendre. Ajouter le safran, les raisins égouttés, les pignons et les sardines.
+    Couvrir et laisser cuire 10 minutes.
+    Cuire les pâtes.
+    Ecraser les anchois avec un peu d'eau de cuisson des pâtes puis incorporer à la sauce.
+    Egoutter les pâtes, les mettre dans la sauce, remuer et servir.
+  ]]>
+  </preparation>
+</recette>

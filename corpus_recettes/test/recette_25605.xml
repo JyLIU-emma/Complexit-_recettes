@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25605">
+  <titre>La salade piémontaise de Jean-Pierre</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 tomates</p>
+    <p>2 oeufs</p>
+    <p>4 belles pommes de terre</p>
+    <p>1 talon de jambon</p>
+    <p>8 gros cornichons</p>
+    <p>Pour la sauce :</p>
+    <p>un pot de mayonnaise</p>
+    <p>huile</p>
+    <p>vinaigre</p>
+    <p>sel, poivre</p>
+    <p>moutarde</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pommes de terre à l'eau et les éplucher. 
+    Faire cuire dans le même temps les oeufs pour qu'ils deviennent durs soit 10 min. Les mettre dans l'eau froide pour qu'ils s'écalent plus facilement.
+    Couper les tomates, le jambon et les pommes de terre en dés. Les mettre dans un saladier et ajouter les oeufs durs ainsi que les cornichons coupés en rondelles.
+    Pour la sauce :
+    Faire une vinaigrette bien relevée et délayer avec au moins 2 grosses cuillères à soupe de mayonnaise. Arroser votre salade de cette sauce. 
+    Mélanger et laisser au réfrigérateur pour que les pommes de terre s'imprègnent de sauce.
+    La sauce ne doit pas être trop liquide. Chacun met autant de mayonnaise dans sa vinaigrette qu'il aime.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12614">
+  <titre>Pastéis de nata (Portugal)</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>11 jaunes d'oeufs</p>
+    <p>1 litre de lait </p>
+    <p>500 g de sucre</p>
+    <p>125 g de farine</p>
+    <p>1 zeste de citron ou vanille</p>
+    <p>1 pincée de sel</p>
+    <p>pâte feuilletée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger dans une casserole le sucre, la farine, la vanille avec le lait et ajouter une pincée de sel.
+    Faire cuire en remuant jusqu'à ce que la crème se détache de la spatule.
+    Oter du feu et laisser refroidir quelques minutes.
+    Incorporer les jaunes d'oeufs et bien mélanger.
+    Verser dans les petits moules déjà garnis de la pâte feuilletée et mettre au four, préalablement chauffé à 300° (th 9/10).
+    Sortir du four et saupoudrer de cannelle.
+  ]]>
+  </preparation>
+</recette>

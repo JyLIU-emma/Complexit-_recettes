@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23445">
+  <titre>Salade de radis au cresson et à la pomme</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 botte de cresson </p>
+    <p>1 botte de radis</p>
+    <p>1 pomme</p>
+    <p>10 cl de crème fraîche liquide</p>
+    <p>1 jus de citron</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher grossièrement le cresson.
+    Emincer les radis et la pomme en dés.
+    Emulsionner la crème avec le jus de citron, du sel et du poivre.
+    Mélanger l'ensemble des ingrédients et servir immédiatement.
+  ]]>
+  </preparation>
+</recette>

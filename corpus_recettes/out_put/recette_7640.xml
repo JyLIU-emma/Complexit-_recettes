@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="7640">
+  <titre>Artichauts farcis au Carré Frais</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 fonds d'artichaut (frais, surgelés, conserves : au choix)</p>
+    <p>4 Carrés frais</p>
+    <p>4 magrets de canard fumés</p>
+    <p>ail </p>
+    <p>persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les artichauts.
+    Mélanger ensemble ail, fines herbes, Carrés frais; et remplir les fonds d'artichauts avec la préparation.
+    Déposer le magret de canard sur la préparation.
+    Décorer d'un brin de ciboulette.
+    Servir en accompagnement de viandes grillées.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">cuire</OPER> les artichauts. <OPER id="o_2">Mélanger</OPER> ensemble ail, fines herbes, <INGRED id="2">Carrés frais</INGRED> ; et <OPER id="o_3">remplir</OPER> les <INGRED id="1">fonds</INGRED> d'artichauts avec la préparation. <OPER id="o_4">Déposer</OPER> le magret de canard sur la préparation. <OPER id="o_5">Décorer</OPER> d'un brin de <INGRED id="4">ciboulette</INGRED>. Servir en accompagnement de viandes grillées.
+  </annotation>
+  <annotation methode="crf">
+  Faire cuire les <INGRED>artichauts</INGRED> <INGRED>.</INGRED> Mélanger ensemble <INGRED>ail</INGRED> <INGRED>,</INGRED> <INGRED>fines</INGRED> <INGRED>herbes</INGRED> <INGRED>,</INGRED> <INGRED>Carrés</INGRED> <INGRED>frais</INGRED> ; et remplir les <INGRED>fonds d'artichauts</INGRED> avec la préparation <INGRED>.</INGRED> Déposer le <INGRED>magret</INGRED> de <INGRED>canard</INGRED> sur la préparation <INGRED>.</INGRED> Décorer d'un brin de <INGRED>ciboulette</INGRED>. Servir en accompagnement de viandes grillées.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 4.28571428571429*X + 0.714285714285714</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 12*X + 6</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:["fonds d'artichaut", 'fonds']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['Carrés frais', 'Carrés']	 id:2	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['magrets de canard fumés', 'magrets']	 id:3	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['ail']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['persil']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:cuire	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:mélanger	 id:o_2	 ingrédients_ralatifs:['2', '1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:remplir	 id:o_3	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:déposer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:décorer	 id:o_5	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

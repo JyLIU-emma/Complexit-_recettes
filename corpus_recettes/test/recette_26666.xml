@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26666">
+  <titre>Croques-omelette aux champignons</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de champignons</p>
+    <p>2 tomates</p>
+    <p>3 oeufs</p>
+    <p>50 g de gruyère râpé</p>
+    <p>4 tranches de pain de mie</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer, ôter le pied des champignons puis les émincer très finement. Laver les tomates, les épépiner, puis les détailler en fines tranches.
+    Faire revenir les champignons dans une poêle légèrement beurrée pendant 10 à 15 min.
+    Pendant ce temps, battre les oeufs dans un saladier avec le gruyère râpé, le sel et le poivre.
+    Verser les oeufs battus dans la poêle sur les champignons et laisser cuire comme pour une omelette épaisse.
+    Oter les croûtes des tranches de pain de mie et les faire griller au four ou au grille-pain. Y déposer des carrés d’omelette aux champignons, puis recouvrir d’une autre tranche de pain de mie grillé.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26762">
+  <titre>Pizza à la ricotta</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte à pizza toute prête</p>
+    <p>200 g de ricotta</p>
+    <p>100 g de jambon cru</p>
+    <p>20 g de parmesan râpé</p>
+    <p>2 oeufs</p>
+    <p>2 cuillères à soupe de persil haché</p>
+    <p>6 olives</p>
+    <p>2 oignons</p>
+    <p>1 cuillère à soupe d'huile d'arachide</p>
+    <p>1 filet d'huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four (Th 6). Etaler la pâte à pizza dans un moule à tarte huilé. 
+    Egoutter la riccota, et battre avec les oeufs entiers, le parmesan, le persil, le sel et le poivre. 
+    Peler et hacher finement les oignons, couper le jambon en petits dés et ajouter à la préparation précédente. 
+    Etendre cette garniture sur le pâte, répartir les olives, arroser d'un filet d'huile d'olive et enfourner 25 à 30 mn.
+    à servir chaud accompagné d'une salade (roquette ou mesclun) bien relevée.
+  ]]>
+  </preparation>
+</recette>

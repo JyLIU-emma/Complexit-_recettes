@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16774">
+  <titre>Papillotes de truite</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de jardinière de légumes</p>
+    <p>2 cuillerées de creme fraîche</p>
+    <p>2 filets de truite</p>
+    <p>2 noix de beurre</p>
+    <p>2 grosses pincées d'aneth</p>
+    <p>2 feuilles d'aluminium</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Beurrez le papier d'alu avec le beurre. Posez dessus les filets de truites. Répartissez les légumes sur les filets de truite, ajoutez-y la cuillerée de crème fraîche sur chaque papillote, saupoudrez d'aneth, salez et poivrez modérement.
+    Refermez les papillotes, passez 1 heure au four à thermostat 6/180°C.
+    Servez dans ces papillotes.
+  ]]>
+  </preparation>
+</recette>

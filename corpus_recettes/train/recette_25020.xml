@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25020">
+  <titre>Terrine d'épinard au thon et aux anchois</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>750 g d'épinards</p>
+    <p>75 g de thon à l'huile</p>
+    <p>6 filets d'anchois</p>
+    <p>75 g de mie de pain trempée dans du lait</p>
+    <p>3 oeufs </p>
+    <p>6 cuillères à soupe de parmesan râpé</p>
+    <p>75 g de chapelure</p>
+    <p>rondelles de citron</p>
+    <p>1 poivron rouge détaillé en bâtonnets</p>
+    <p>sel, poivre</p>
+    <p>Pour la mayonnaise :</p>
+    <p>1 jaune d'oeuf</p>
+    <p>1 cuillère à soupe de moutarde forte</p>
+    <p>1 filet de vinaigre</p>
+    <p>10 cl d'huile neutre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les épinards à la poêle pendant 10 minutes. Les presser puis les passer au moulin à légumes.
+    Dans un grand saladier, les mélanger avec le thon, les filets d'anchois hachés, les oeufs, le parmesan, la chapelure. Saler et poivrer.
+    Rouler la préparation en saucisson dans une gaze humide (tissu fin utilisé pour la cuisine) ou dans un film alimentaire, puis attacher aux deux extrémités.
+    Placer dans une terrine, recouvrir d'eau froide salée et porter à ébullition. Laisser cuire durant 45 minutes.
+    Egoutter et laisser reposer 15 minutes avant d'ôter la gaze. Servir froid, coupé en tranches nappées de mayonnaise.
+    Décorer le plat avec des demi-rondelles de citron garnies d'un morceau de poivron.
+  ]]>
+  </preparation>
+</recette>

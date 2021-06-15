@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26011">
+  <titre>Charlotte aux pommes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,5 kg de pommes</p>
+    <p>80 g de beurre</p>
+    <p>200 g de sucre semoule</p>
+    <p>80 g de raisins secs</p>
+    <p>30 biscuits à la cuillère</p>
+    <p>1 verre d'eau</p>
+    <p>5 cuillerées à soupe de rhum</p>
+    <p>Pour la décoration :</p>
+    <p>2 pommes</p>
+    <p>50 g de beurre</p>
+    <p>10 morceaux de sucre (caramel)</p>
+    <p>1 cuillerée à soupe d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire sauter ou beurre à feu vif, les pommes épluchées et coupées en lamelles. Ajouter le sucre et les raisins macérés dans 1 cuillerée à soupe de rhum. Faire cuire cette compote un quart d'heure environ, les pommes deviennent transparentes et légèrement caramélisées.
+    Laisser refroidir. Mélanger l'eau et le rhum restant.
+    Tapisser un moule à charlotte de biscuits légèrement imbibés de ce mélange. Remplir l'intérieur du moule en alternant compote et biscuits, terminer par des biscuits.
+    Mettre 12 heures au réfrigérateur. Avant de servir démouler sur un plat. Peler les pommes réservées à la décoration et les couper en grosses lamelles époisses, les faire sauter au beurre. Les disposer sur la charlotte.
+  ]]>
+  </preparation>
+</recette>

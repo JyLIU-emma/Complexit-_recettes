@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25442">
+  <titre>Soupe de légumes variés</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 poireaux</p>
+    <p>6 carottes</p>
+    <p>2 navets</p>
+    <p>2 branche de céleri</p>
+    <p>15 pommes de terre</p>
+    <p>2 échalotes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher et découper tous les légumes. 
+    Faire revenir les poireaux dans du beurre avec les échalotes (sans faire dorer). Ensuite mélanger tous les légumes et les recouvrir d'eau. 
+    Terminer la cuisson lorsque les carottes sont cuites. Mixer le tout. NB: lors de la cuisson on peut rajouter un morceau de lard, pour le goût.
+  ]]>
+  </preparation>
+</recette>

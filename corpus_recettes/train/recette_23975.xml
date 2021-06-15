@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23975">
+  <titre>Chausson au boursin</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 disque de pâte feuilletée</p>
+    <p>2 tranches de jambon cuit</p>
+    <p>250 g de Boursin ail et fines herbes</p>
+    <p>1 jaune d'oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Garnir la moitié du disque avec le jambon et le boursin. 
+    Badigeonner les bords avec de l'eau froide et fermer le chausson. Souder les bord avec une fourchette. Badigeonner le chausson avec le jaune d'oeuf dilué dans un peu d'eau.
+    Faire cuire à four chaud. Quand la croûte est bien dorée, c'est prêt.
+  ]]>
+  </preparation>
+</recette>

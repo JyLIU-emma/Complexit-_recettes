@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="7640">
+  <titre>Artichauts farcis au Carré Frais</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 fonds d'artichaut (frais, surgelés, conserves : au choix)</p>
+    <p>4 Carrés frais</p>
+    <p>4 magrets de canard fumés</p>
+    <p>ail </p>
+    <p>persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les artichauts.
+    Mélanger ensemble ail, fines herbes, Carrés frais; et remplir les fonds d'artichauts avec la préparation.
+    Déposer le magret de canard sur la préparation.
+    Décorer d'un brin de ciboulette.
+    Servir en accompagnement de viandes grillées.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21286">
+  <titre>Haricots verts à la crème et tagliatelles</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de haricots verts </p>
+    <p>30 g de beurre</p>
+    <p>1 gousse d'ail</p>
+    <p>20 cl de crème fraîche liquide</p>
+    <p>400 g de tagliatelles</p>
+    <p>75 g de fromage râpé</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les haricots coupés en petits morceaux dans l'eau bouillante salée durant 10 min. 
+    Egouttez-les et faites-les revenir dans le beurre avec l'ail haché. Salez, poivrez et versez la crème. Réservez au chaud.
+    Faites cuire les pâtes dans une grande quantité d'eau bouillante salée. 
+    Egouttez les pâtes, saupoudrez de fromage râpé et nappez de haricots verts à la crème. Mélangez et servez.
+  ]]>
+  </preparation>
+</recette>

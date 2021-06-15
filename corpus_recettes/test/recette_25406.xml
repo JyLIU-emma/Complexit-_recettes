@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25406">
+  <titre>Poivrons farcis à la sauce tomate</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 poivrons rouges</p>
+    <p>500 g de steack haché (boeuf ou veau)</p>
+    <p>200 g de tomates</p>
+    <p>200 g d'oignons</p>
+    <p>1 l de jus de tomate</p>
+    <p>huile</p>
+    <p>persil (facultatif)</p>
+    <p>paprika (facultatif)</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et concasser les tomates.
+    Les faire cuire avec le jus de tomate, sel, poivre et persil.
+    Laisser réduire en une sauce assez épaisse.
+    Hacher les oignons.
+    Les faire rissoler dans une poêle avec de l'huile, ajouter la viande hachée, saler, poivrer et saupoudrer de paprika.
+    Laisser mijoter 5 min à feu vif.
+    Evider les poivrons, les garnir de la farce (viande + oignons) et les disposer dans un plat allant au four.
+    Verser la verser la sauce tomates, poser les chapeaux des poivrons et enfourner pour 45 min à 180°C (thermostat 6).
+  ]]>
+  </preparation>
+</recette>

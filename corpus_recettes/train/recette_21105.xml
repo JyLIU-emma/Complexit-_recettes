@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21105">
+  <titre>Crêpes à l'anis</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>70 g de sucre en poudre</p>
+    <p>3 oeufs</p>
+    <p>30 cl de lait</p>
+    <p>2 cuillères à soupe de pastis anisé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, mélanger la farine et les oeufs. Ajouter le sucre, le sel, le lait et le pastis.
+    Laisser reposer 1 h puis confectionner les crêpes dans une poêle adaptée.
+  ]]>
+  </preparation>
+</recette>

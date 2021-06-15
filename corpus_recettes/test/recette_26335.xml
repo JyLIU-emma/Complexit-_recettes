@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26335">
+  <titre>Langue de boeuf aux légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 langue de boeuf</p>
+    <p>2 beaux poireaux</p>
+    <p>3 belles carottes</p>
+    <p>2 navets</p>
+    <p>1/4 de boule de céleri</p>
+    <p>1 oignon</p>
+    <p>3 clous de girofle</p>
+    <p>1 bouquet garni</p>
+    <p>Pour la sauce tomate :</p>
+    <p>750 g de tomates</p>
+    <p>1 belle carotte</p>
+    <p>1 gros oignon</p>
+    <p>60 g de beurre</p>
+    <p>30 g de farine</p>
+    <p>2 brins de thym</p>
+    <p>1 feuille de laurier</p>
+    <p>15 cl de bouillon</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez et coupez grossièrement les légumes : poireaux, carottes, navets.
+    Plonger la langue de boeuf dans l'eau bouillante avec les légumes coupés en gros morceaux, l'oignon piqué de clous de girofles et le bouquet garni. Saler, poivrer et laisser cuire 4 heures.
+    Préparer la sauce 45 minutes avant la fin de la cuisson. Faire fondre les tomates coupées en quartiers dans une poêle sans eau ni matière grasse pendant 5 minutes. Les passer au tamis.
+    Puis dans une casserole, mélanger la farine avec 30 g de beurre fondu sur feu doux puis verser le coulis de tomate et le bouillon. Ajouter le thym, le laurier, l'oignon haché et la carotte coupée en dés. Laisser mijoter 30 minutes. Au dernier moment, ajouter le reste du beurre coupé en dés. Verser cette sauce dans un plat chaud.
+    Retirer la peau et le cartilage de la langue, la couper en tranches et disposer sur la sauce. Servir immédiatement.
+  ]]>
+  </preparation>
+</recette>

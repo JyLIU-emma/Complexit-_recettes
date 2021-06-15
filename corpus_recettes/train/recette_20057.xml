@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20057">
+  <titre>Crustacés au safran</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>400 g de crevettes grises (indispensable) </p>
+    <p>250 g de chair d'écrevisses</p>
+    <p>4 noix de St Jacques de grande taille</p>
+    <p>200 g de queues de scampi crues</p>
+    <p>75 cl de crème fraîche 40%</p>
+    <p>12 petits pots individuels de safran moulu</p>
+    <p>200 g de fromage emmental râpé</p>
+    <p>sel, poivre et pili-pili</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour commencer, cuisez à l'eau les scampi et retirez-en les coquilles. Dans une grande poêle légèrement graissée, faites revenir individuellement chaque type d'ingrédient, avec à chaque fois 1 capsule de safran. Il faut laisser un peu rôtir. 
+    Regroupez dans un plat les ingrédients, hors crème et fromage. Versez la crème dans une grande poêle à frire, ajoutez le reste du safran, un peu de pili-pili (pas pour faire trop piquant), salez et poivrez selon le goût. 
+    Laissez épaissir la crème. A ce moment, ajoutez les crustacés. Lorsque la crème devient bien consistante, saupoudrez de fromage, sans mélanger et servez avec du pain.
+  ]]>
+  </preparation>
+</recette>

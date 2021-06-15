@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23623">
+  <titre>Palourdes farcies aux noisettes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>24 palourdes</p>
+    <p>125 g de noisettes</p>
+    <p>50 g de beurre</p>
+    <p>cerfeuil haché</p>
+    <p>1 cuillère à café de vinaigre aromatisé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ecrasez les noisettes. Cuisez les palourdes pendant 3 à 4 mn dans de l'eau bouillante avec une cuillère à café de vinaigre.
+    Décoquillez-les. Répartissez sur les coquilles, (3 palourdes par coquille), avec les noisettes et un peu de beurre, puis ajoutez le cerfeuil.
+  ]]>
+  </preparation>
+</recette>

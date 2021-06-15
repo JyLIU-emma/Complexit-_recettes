@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23144">
+  <titre>Aile de Raie à l'échalote</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 grosses ailes de raie</p>
+    <p>300 g d'échalote</p>
+    <p>2 gousses d'ail</p>
+    <p>80 g de beurre</p>
+    <p>huile d'olive</p>
+    <p>1 verre de vinaigre de vin</p>
+    <p>herbes de Provence</p>
+    <p>jus de citron</p>
+    <p>Pour l'accompagnement :</p>
+    <p>1 kg de poivrons</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 150°C. 
+    Couper les échalotes en petits morceaux et les mettre de côté. 
+    Faire colorer les ailes de raie dans deux poêles (question de facilité) avec de l'huile d'olive, les gousses d'ail, le jus de citron et en mettant des herbes de Provence (environ 10 mn). 
+    Une fois coloré, mettre les ailes de raie sur une plaque et verser le jus des poêles dessus. Ajouter quelques morceaux d'échalote dessus et mettre en four pendant 15 mn. 
+    Pendant ce temps, mettre le reste d'échalote dans une casserole avec un peu d'huile d'olive. Verser le verre de vinaigre dessus. Ajouter le beurre et faire réduire jusqu'à absorption complète du vinaigre. 
+    Lorsque les ailes de raie sont prêtes, les disposer dans des assiettes avec les échalotes cuites. 
+    En accompagnement, servez des poivrons (jaunes et rouges pour la déco, mais éviter le vert car un peu amer) coupés en lamelles et cuits dans une poêle avec de l'huile d'olive.
+  ]]>
+  </preparation>
+</recette>

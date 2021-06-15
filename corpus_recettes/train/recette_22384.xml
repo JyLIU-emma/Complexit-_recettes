@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22384">
+  <titre>Spaghetti en blanc et noir</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de spaghetti (ou un autre type de pâtes...) </p>
+    <p>50 g de beurre, environ</p>
+    <p>parmesan râpé</p>
+    <p>2 cuillères à soupe (généreuses) de pavot</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuiser les spaghetti à l'eau bouillante comme toujours, les égoutter, y ajouter le beurre en flocons, le parmesan, le pavot. 
+    Mélanger et servir.
+    C'est bon, c'est vite et ça fait cric-crac sous les dents (je le trouve amusant)
+  ]]>
+  </preparation>
+</recette>

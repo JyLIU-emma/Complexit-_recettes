@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26922">
+  <titre>Haricots rouges vinaigrette au thon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de haricots rouges secs</p>
+    <p>450 g de thon à l'huile</p>
+    <p>3 échalotes</p>
+    <p>2 gousses d'ail</p>
+    <p>6 cuillères à soupe d'huile</p>
+    <p>4 cuillères à soupe de vinaigre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les haricots et les mettre à cuire dans l'eau froide non salée durant 1 h 15. Salez en fin de cuisson.
+    Lorsque les haricots sont cuits, les égoutter et les mélanger avec le thon, les échalotes et l'ail finement hachés.
+    Emulsionner le vinaigre avec l'huile, du sel et du poivre.  
+    Verser la sauce sur les haricots, mélanger bien. Laisser reposer 1 heure avant de servir pour que les légumes s'imprègnent bien du goût de la sauce.
+  ]]>
+  </preparation>
+</recette>

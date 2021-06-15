@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26036">
+  <titre>Pain de veau aux champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,6 kg de viande de veau</p>
+    <p>200 g de lardons</p>
+    <p>200 g de champignons</p>
+    <p>3 échalotes</p>
+    <p>1 noix de beurre</p>
+    <p>50 g mie de pain</p>
+    <p>30 cl de lait</p>
+    <p>1 crépine</p>
+    <p>1 œuf</p>
+    <p>1/2 bouquet persil</p>
+    <p>3 braches de thym</p>
+    <p>1 pincé de noix de muscade râpée</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Émincer les champignons et les faire revenir dans une poêle avec du beurre.
+    Hacher le veau, les lardons et les échalotes, et les mélanger aux champignons.
+    Incorporer le pain imbibé de lait, l’œuf battu en omelette et les herbes. Assaisonner.
+    Malaxer cette préparation et lui donner la forme d’un pain. La recouvrir de crépine et l’enfourner sur une plaque à 210°C (thermostat 7) pendant 45 min en l'humidifiant régulièrement.
+  ]]>
+  </preparation>
+</recette>

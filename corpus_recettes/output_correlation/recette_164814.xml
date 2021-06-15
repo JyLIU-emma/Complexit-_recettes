@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164814">
+  <titre>Tarte aux pommes-flan (sans crème)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilleté</p>
+    <p>3 grosse pommes ou 5 petite</p>
+    <p>50g de sucre</p>
+    <p>1/4 de l de lait</p>
+    <p>3 oeufs</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>1 sachet de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Préfauchez le four 10min à termostat 3.- Deroulez votre pâte feuilleté dans un plat a tarte.- Epluchez vos pommes, puis disposez les de façon circulaire sur la pâte.- Mélangez les oeufs, le sucre, la lait, le sucre vanillé et la farine.- Versez le contenu de la préparation sur les pommes.- Mettre la tarte au four environ 25 à 30 min suivant la cuisson désirée.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  - <OPER id="o_1">Préfauchez</OPER> le four 10min à termostat 3.- <OPER id="o_2">Deroulez</OPER> votre <INGRED id="1">pâte feuilleté</INGRED> dans un plat a tarte.- <OPER id="o_3">Epluchez</OPER> vos <INGRED id="2">pommes</INGRED>, puis <OPER id="o_4">disposez</OPER> les de façon circulaire sur la pâte.- <OPER id="o_5">Mélangez</OPER> les oeufs, le <INGRED id="4">sucre</INGRED>, la <INGRED id="2">lait</INGRED>, le <INGRED id="5">sucre vanillé</INGRED> et la farine.- <OPER id="o_6">Versez</OPER> le contenu de la préparation sur les pommes.- <OPER id="o_7">Mettre</OPER> la tarte au four environ 25 à 30 min suivant la cuisson désirée.
+  </annotation>
+  <annotation methode="crf">
+  - Préfauchez le four 10min à termostat 3.- Deroulez votre <INGRED>pâte</INGRED> feuilleté dans un plat <INGRED>a</INGRED> tarte.- Epluchez vos <INGRED>pommes</INGRED> <INGRED>,</INGRED> puis disposez les de façon circulaire sur la pâte.- Mélangez les <INGRED>oeufs</INGRED> <INGRED>,</INGRED> le <INGRED>sucre</INGRED> <INGRED>,</INGRED> la <INGRED>lait</INGRED> <INGRED>,</INGRED> le <INGRED>sucre vanillé</INGRED> et la farine.- Versez le contenu de la préparation sur les pommes.- Mettre la tarte au four <INGRED>environ</INGRED> 25 à 30 min suivant la cuisson désirée <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 5.72727272727273*X + 1.27272727272727</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 9*X + 5</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pâte feuilleté', 'pâte']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['petite']	 id:2	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['sucre']	 id:3	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:4	 quantité:1/4	 unité:l de	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:5	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['farine']	 id:6	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['sucre vanillé', 'sucre']	 id:7	 quantité:1	 unité:sachet de	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préfaucher	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:derouler	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:eplucher	 id:o_3	 ingrédients_ralatifs:['2', '4', '2', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mélanger	 id:o_5	 ingrédients_ralatifs:['4', '2', '5']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:verser	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

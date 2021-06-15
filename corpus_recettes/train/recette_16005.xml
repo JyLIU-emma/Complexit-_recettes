@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16005">
+  <titre>Pavé au chocolat fort en cacao</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>125 g de beurre</p>
+    <p>125 g de chocolat pâtissier à 70% de cacao</p>
+    <p>125 g d'amandes en poudre</p>
+    <p>125 g de sucre</p>
+    <p>50 g de farine</p>
+    <p>3 oeufs</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre et le chocolat tout doucement dans une casserole.
+    Pendant ce temps, mélanger farine, sucre, sel et oeufs;terminer par la poudre d'amandes. Ajouter le beurre et chocolats fondus en mélangeant bien le tout.
+    Verser dans un moule à manqué préalablement beurré.Enfourner pour 20 min  à thermostat 6/7 (175°C).On peut diminuer la poudre d'amandes de moitié pour un gâteau plus moelleux: excellent dans les deux cas!
+  ]]>
+  </preparation>
+</recette>

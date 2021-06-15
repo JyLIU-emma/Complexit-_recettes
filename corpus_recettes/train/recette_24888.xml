@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24888">
+  <titre>Brioche perdue à la compote de pommes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 cuillères à soupe de compote de pommes sucrée</p>
+    <p>8 tranches de brioche</p>
+    <p>lait chaud vanillé</p>
+    <p>4 oeufs</p>
+    <p>beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Imbiber légèrement les tranches de brioche de lait chaud vanillé et les passer dans les œufs battus en omelette.
+    Mettre du beurre à fondre dans une poêle et y faire dorer les brioches perdues. Couvrir de compote de pomme et servir de suite.
+  ]]>
+  </preparation>
+</recette>

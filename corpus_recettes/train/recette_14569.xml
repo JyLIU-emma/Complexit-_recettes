@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14569">
+  <titre>Crème brûlée à la vanille</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 jaunes d'oeufs</p>
+    <p>120 g de sucre en poudre</p>
+    <p>50 cl de crème liquide</p>
+    <p>15 cl de lait</p>
+    <p>2 gousses de vanille</p>
+    <p>6 cuillères à soupe de cassonade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à thermostat 3 (90°C).
+    Fendez les gousse de vanille dans la longueur er raclez avec la poite d'un couteau les petites graines noires de l'intérieur au-dessus d'une jatte.
+    Ajoutez les jaunes d'oeufs et le sucre. Fouettez jusqu'à ce que le mélange blanchisse. Incorporez le lait, puis la crème toujours en fouettant.
+    Répartissez cette préparation dans des petits plat à oeufs. Faites les cuire 45 mn au four.
+    Après refroidissement, mettez-les au réfrigérateur 2 heures.
+    Pour servir, saupoudrez le dessus de chaque crème de cassonade. Laissez caraméliser pendant 1 mn sous le gril du four.
+    Servez aussitôt.
+    Pour éliminer la mousse en surface, laissez reposer les crèmes pendant 1/2 heure avant de les mettre au four.
+  ]]>
+  </preparation>
+</recette>

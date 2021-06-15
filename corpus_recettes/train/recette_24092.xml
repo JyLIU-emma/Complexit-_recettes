@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24092">
+  <titre>Crème glacée à l'orange</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g d'oranges</p>
+    <p>135 g de sucre en poudre</p>
+    <p>135 g de crème fraîche </p>
+    <p>15 cl d’eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les oranges et en presser le jus sans abîmer l’écorce. Placer les écorces évidées au freezer.
+    Dans une casserole, diluer l’eau, le jus d’orange et le sucre, et chauffer à feu doux.
+    Incorporer la crème fraîche et bien mélanger. Laisser refroidir et glacer cette préparation dans une sorbetière.
+    Servir la glace dans les écorces d'oranges.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17809">
+  <titre>Le 'dur-mou'</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>Pour suivre, même poids en :</p>
+    <p>sucre</p>
+    <p>farine</p>
+    <p>beurre</p>
+    <p>chocolat à croquer</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le beurre + chocolat préalablement fondus. 
+    Ajouter ensuite la farine, le sucre et les oeufs entiers. 
+    Mélanger jusqu'à obtenir une pâte lisse. 
+    Enfourner au bain-marie 1 h10 à 100°C après avoir préchauffé le four à 150°C.
+    Laisser reposer 1 h
+    Ce gâteau au chocolat est délicieusement liquide à l'intérieur... un régal pour les afficionados de chocolat!
+  ]]>
+  </preparation>
+</recette>

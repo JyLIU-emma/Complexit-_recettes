@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16735">
+  <titre>Tarte forestière</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de pâte brisée </p>
+    <p>250 g de champignons (rosés des prés, chanterelles etc...) </p>
+    <p>20 cl de crème </p>
+    <p>1/2 verre de lait </p>
+    <p>3 œufs </p>
+    <p>sel </p>
+    <p>poivre et persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les champignons nettoyés et lavés dans une poêle à feu moyen/vif et les laisser suer leur eau.
+    Dans une terrine, battre les œufs, leur ajouter la crème, le lait, le sel, poivre et le persil.
+    Garnir un moule à tarte avec la pâte, y répartir les champignons, napper avec la préparation.
+    Mettre à cuire 30 min à four moyen.
+  ]]>
+  </preparation>
+</recette>

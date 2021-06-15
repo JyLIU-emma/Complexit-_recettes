@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26368">
+  <titre>Croquettes de poisson, sauce poisson</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de filets de merlan</p>
+    <p>2 oeufs</p>
+    <p>80 g de mie de pain</p>
+    <p>un peu de lait</p>
+    <p>2 gousses d’ail</p>
+    <p>1 cuillère à café de moutarde</p>
+    <p>1 pincée de noix de muscade</p>
+    <p>1 petit bouquet de persil</p>
+    <p>Pour la sauce :</p>
+    <p>200 g bouillon de poisson</p>
+    <p>15 cl de vin blanc sec</p>
+    <p>2 tomates </p>
+    <p>10 cl d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre la mie de pain à tremper dans du lait pour qu’elle gonfle.
+    Ecraser la chair du poisson, puis la mélanger avec la mie de pain, l'ail haché, le sel et le poivre.
+    Battre 1 oeuf avec le persil haché et la moutarde, puis saupoudrer de noix de muscade.
+    Ajouter ce mélange à la chair de poisson et bien mélanger pour obtenir une préparation parfaitement homogène.
+    Fariner vos mains, puis former des boulettes avec la pâte obtenue.
+    Rouler successivement les boulettes dans la farine,  l’oeuf battu  puis les plonger dans un bain d’huile de friture bouillante, jusqu’à ce qu’elles soient bien dorées.
+    Préparer enfin la sauce : laver et découper les tomates en quartiers et les réserver.
+    Délayer la soupe de poisson avec le vin blanc puis l’eau et y ajouter les quartiers de tomate.
+    Porter à ébullition et laisser chauffer 15 minutes sur feu doux, tamiser la sauce, puis la verser dans la saucière.
+    Servir les boulettes de poisson avec la sauce en saucière et déguster.
+  ]]>
+  </preparation>
+</recette>

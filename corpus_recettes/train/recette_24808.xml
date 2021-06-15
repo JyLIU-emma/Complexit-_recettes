@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24808">
+  <titre>Tartipizz</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tranches de pain de campagne </p>
+    <p>3 tomates</p>
+    <p>3 tranches de jambon blanc</p>
+    <p>2 boules de mozzarella</p>
+    <p>1 ou 2 gousses d'ail</p>
+    <p>basilic (frais ou surgelé) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Découper le pain en tranches épaisses. 
+    2) Faire revenir dans une poêle avec de l'huile d'olive : tomates coupées en dés, jambon coupés en dés, ail, sel, poivre. A la fin de la cuisson (10 mn maxi) rajouter le basilic. 
+    3) Mettre cette préparation sur les tranches de pain. 
+    4) Découper la mozzarella en tranches et rajouter par dessus. 
+    5) Faire dorer à four chaud 10 mn.
+    Peut se faire réchauffer le lendemain.
+  ]]>
+  </preparation>
+</recette>

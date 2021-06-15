@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15057">
+  <titre>Gâteau de Verviers</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 oeufs</p>
+    <p>250 g de farine</p>
+    <p>1/2 sachet de levure chimique</p>
+    <p>65 g de sucre en poudre</p>
+    <p>1/2 cuillère à café de cannelle</p>
+    <p>1 pincée de sel</p>
+    <p>65 g de beurre</p>
+    <p>60 g de raisins secs + raisins secs pour décorer</p>
+    <p>30 g de sucre concassé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un bol, battez les oeufs en omelette à la fourchette.
+    Mettez la farine dans un grand saladier. Ajoutez la levure, le sucre, la cannelle, le sel et les oeufs battus.
+    Travaillez la pâte rapidement, jusqu'à ce qu'elle soit homogène.
+    Ajoutez le beurre coupé en petits morceaux, ainsi que les raisins secs, puis mélangez intimement jusqu'à ce que la pâte soit lisse.
+    Préchauffez le four (180°C, thermostat 6). Beurrez et farinez un moule à cake.
+    Versez la pâte dans le moule et recouvrez du sucre concassé et de quelques raisins secs. Faites cuire pendant 30 mn.
+    Démoulez le gâteau quand il est encore tiède.
+    Si vous ne trouvez pas de sucre concassé, vous pouvez casser vous-même des morceaux de sucre blanc.
+  ]]>
+  </preparation>
+</recette>

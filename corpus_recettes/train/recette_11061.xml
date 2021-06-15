@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11061">
+  <titre>Lapin au citron</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 lapin découpé en morceaux </p>
+    <p>3 citrons </p>
+    <p>4 cuillères à soupe d'huile d'olive </p>
+    <p>25 cl de bouillon de volaille </p>
+    <p>1 kg de petites pommes de terre style pommes de terre nouvelles ou grelots </p>
+    <p>sel, poivre </p>
+    <p>gingembre en poudre</p>
+    <p>safran </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Macération (2 heures) :Frotter les morceaux de lapin avec un mélange de sel, poivre et de poudre de gingembre; 
+    faire macérer dans le jus de 2 citrons additionné de 3 c. d'huile d'olive ; retourner les morceaux de temps en temps.
+    Préparation :Egoutter les morceaux de lapin; faire dorer à la poêle dans 1 cuillère d'huile d'olive.
+    Saupoudrer de safran; mouiller avec la marinade et le bouillon; porter les liquides au point d'ébullition; réduire le feu pour continuer la cuisson à feu entre moyen et bas pour un mijotage.
+    Pendant ce temps, faire cuire les pommes de terre à l'eau avec une pincée de sel.
+    Couper le dernier citron en fines rondelles; incorporer dans la cuisson du lapin 10 min.
+    Servir le lapin entouré de pommes de terre. 
+  ]]>
+  </preparation>
+</recette>

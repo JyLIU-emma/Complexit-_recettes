@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10692">
+  <titre>Bruschetta de carré frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 tranches de pain</p>
+    <p>huile d'olive en quantité suffisante</p>
+    <p>origan frais</p>
+    <p>150 g de carré frais</p>
+    <p>4 tomates séchéss</p>
+    <p>1 gousse d'ail</p>
+    <p>3 feuilles d'estragon</p>
+    <p>poivre au moulin (au goût)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un bol du robot culinaire, déposer 3 tomates, 30 ml (2 c. à soupe) d'huile et l'ail, puis les broyer.
+    Ajouter le fromage carré frais et homogénéiser.
+    Ciseler la tomate sèche restante et déposer sur chaque tranche de pain la valeur de 5 ml (1 c. à thé) du mélange obtenu à l'étape n° 2, ainsi que 2 filaments de tomate séchée, et les placer sous le grill du four durant environ 2 minutes.
+    Saupoudrer d'origan frais, arroser légèrement de quelques gouttes d'huile et servir.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Dans un bol du robot culinaire, <OPER id="o_1">déposer</OPER> 3 tomates, 30 ml ( 2 c. à soupe ) d'huile et l'ail, puis les <OPER id="o_2">broyer</OPER>. <OPER id="o_3">Ajouter</OPER> le <INGRED id="7">fromage</INGRED> <INGRED id="4">carré frais</INGRED> et <OPER id="o_4">homogénéiser</OPER>. <OPER id="o_5">Ciseler</OPER> la <INGRED id="3">tomate</INGRED> sèche restante et <OPER id="o_6">déposer</OPER> sur chaque tranche de <INGRED id="8">pain</INGRED> la valeur de 5 ml ( 1 c. à <INGRED id="1">thé</INGRED> ) du mélange obtenu à l'étape n° 2, ainsi que 2 filaments de <INGRED id="3">tomate</INGRED> séchée, et les <OPER id="o_7">placer</OPER> sous le grill du four durant environ 2 minutes. <OPER id="o_8">Saupoudrer</OPER> d'<INGRED id="3">origan frais</INGRED>, <OPER id="o_9">arroser</OPER> légèrement de quelques gouttes d'<INGRED id="6">huile</INGRED> et servir.
+  </annotation>
+  <annotation methode="crf">
+  Dans un bol du robot culinaire <INGRED>,</INGRED> déposer 3 <INGRED>tomates</INGRED> <INGRED>,</INGRED> 30 <INGRED>ml</INGRED> ( 2 c. à soupe ) d'<INGRED>huile</INGRED> et l'<INGRED>ail</INGRED> <INGRED>,</INGRED> puis les broyer <INGRED>.</INGRED> Ajouter le <INGRED>fromage</INGRED> <INGRED>carré</INGRED> <INGRED>frais</INGRED> et homogénéiser <INGRED>.</INGRED> Ciseler la <INGRED>tomate</INGRED> sèche restante et déposer sur chaque tranche de <INGRED>pain</INGRED> la valeur de 5 <INGRED>ml</INGRED> ( 1 c. à thé ) du <INGRED>mélange</INGRED> obtenu à l'étape n° 2 <INGRED>,</INGRED> ainsi que 2 filaments de <INGRED>tomate</INGRED> séchée <INGRED>,</INGRED> et les placer sous le grill du four durant <INGRED>environ</INGRED> 2 minutes. Saupoudrer d'<INGRED>origan</INGRED> <INGRED>frais</INGRED> <INGRED>,</INGRED> arroser légèrement de quelques gouttes d'<INGRED>huile</INGRED> et servir <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 7.2*X + 1.8</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 16*X + 6</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pain']	 id:1	 quantité:8	 unité:tranches de	 denombrable:True	 recipient:8*X
+ingredient:["huile d'olive en quantité suffisante", 'huile']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['origan frais', 'origan']	 id:3	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['carré frais', 'carré']	 id:4	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['tomates séchéss', 'tomates']	 id:5	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['ail']	 id:6	 quantité:1	 unité:gousse d'	 denombrable:True	 recipient:1*X
+ingredient:['estragon']	 id:7	 quantité:3	 unité:feuilles d'	 denombrable:True	 recipient:3*X
+ingredient:['poivre au moulin', 'poivre']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:déposer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:broyer	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_3	 ingrédients_ralatifs:['7', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:homogénéiser	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ciseler	 id:o_5	 ingrédients_ralatifs:['3', '8', '1', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déposer	 id:o_6	 ingrédients_ralatifs:['8', '1', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:placer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saupoudrer	 id:o_8	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:arroser	 id:o_9	 ingrédients_ralatifs:['3', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27445">
+  <titre>Glace au miel et au lait</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>17 cl de lait </p>
+    <p>33 g de miel liquide</p>
+    <p>50 g de sucre en poudre </p>
+    <p>2 jaunes d'oeufs </p>
+    <p>10 cl de crème fraîche </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole, porter à ébullition le lait, le miel et 25 g de sucre, et laisser reposer 10 minutes.
+    Battre les jaunes d'oeuf avec 25 g de sucre.
+     
+    Réchauffer le lait et en verser un peu sur les oeufs.
+    Mélanger vigoureusement et ajouter la préparation au lait restant dans la casserole. Remettre à chauffer à feu doux sans cesser de remuer.
+    Lorsque la crème s’épaissit, retirer du feu et incorporer la crème fraîche. Laisser refroidir.
+    Faire glacer en sorbetière.
+  ]]>
+  </preparation>
+</recette>

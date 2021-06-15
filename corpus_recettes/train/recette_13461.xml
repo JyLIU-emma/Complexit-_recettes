@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13461">
+  <titre>Penne aux 3 fromages et au basilic</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de penne</p>
+    <p>80 g d'emmenthal</p>
+    <p>30 g de parmesan</p>
+    <p>70 gr de gorgonzola ou de roquefort</p>
+    <p>50 cl de crème liquide</p>
+    <p>1 bouquet de basilic</p>
+    <p>poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer l'eau pour les pâtes. Pendant ce temps, mettre la crème liquide dans une casserole avec le gorgonzola et chauffer à feu doux. 
+    Plonger les penne dès que l'eau bout et laisser cuire. 5 minutes avant la fin de la cuisson des pates, ajouter l'emmenthal et le parmesan à la creme et au gorgonzola.
+    Egoutter les pates et les mettre dans un saladier, nappées de la sauce et du basilic ciselé.
+     Côtes de Provence ou Bardolino
+  ]]>
+  </preparation>
+</recette>

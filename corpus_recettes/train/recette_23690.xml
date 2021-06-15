@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23690">
+  <titre>Choux de Bruxelles panés</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de choux de Bruxelles (2 paquets de surgelés)</p>
+    <p>3 oeufs</p>
+    <p>100 g de chapelure (1 tasse)</p>
+    <p>3 cuillères à soupe de farine (45 g)</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les choux de Bruxelles pendant 15 à 20 min dans un bain d'eau bouillante salée, puis les égoutter et les rouler dans la farine. Saler, poivrer.
+    Dans un saladier, battre les oeufs. Verser la chapelure dans une assiette creuse.
+    Rouler les choux dans les oeufs battus puis dans la chapelure. Les plonger ensuite dans un bain d'huile chaude et les laisser dorer pendant 10 à 15 min environ.
+    Les déposer ensuite sur du papier absorbant pour éponger le surplus d'huile avant de les déguster.
+  ]]>
+  </preparation>
+</recette>

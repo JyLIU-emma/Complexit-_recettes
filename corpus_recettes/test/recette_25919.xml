@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25919">
+  <titre>Jambalaya au lard et aux fruits de mer</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de riz</p>
+    <p>250 g de lard frais coupé en dés</p>
+    <p>1 tranche épaisse de jambon de pays coupé en dés</p>
+    <p>2 pinces des crabes</p>
+    <p>16 langoustines cuites</p>
+    <p>24 clams</p>
+    <p>4 tomates concassées</p>
+    <p>2 poivrons détaillés en dés</p>
+    <p>2 oignons hachés</p>
+    <p>4 gousses d'ail écrasées</p>
+    <p>2 piments de Cayenne</p>
+    <p>1 citron vert</p>
+    <p>1 l de fumet de poisson</p>
+    <p>huile</p>
+    <p>thym</p>
+    <p>1/2 cuillère à soupe de paprika</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez tous les éléments comme cités dans les ingrédients.
+    Faites revenir les lardons dans une grande cocotte avec un peu d'huile.
+    Ajoutez les oignons, l'ail écrasées et les poivrons.
+    Salez, poivrez et laissez revenir.
+    Ajoutez le riz, saupoudrez de thym et ajoutez les piments, les tomates et le jambon.
+    Pressez le citron et versez le jus dans la cocotte, saupoudrez de paprika et mouillez à hauteur de fumet de poisson.
+    Ajoutez les pinces de crabes cassées, les langoustines et les clams.
+    Couvrez et laissez mijoter environ 30 min à feu doux.
+  ]]>
+  </preparation>
+</recette>

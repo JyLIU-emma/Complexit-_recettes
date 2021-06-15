@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11260">
+  <titre>Croûte comtoise</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pain croûté</p>
+    <p>50 g de beurre</p>
+    <p>450 g de morilles</p>
+    <p>100 g de crème</p>
+    <p>50 g de comté</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tailler sur la longueur, creuser l'intérieur du pain, badigeonner de beurre.
+    Faire griller au four quelques secondes.
+    Faire fondre le beurre dans une poêle, ajouter les morilles et faire dorer quelques minutes. Retirer, puis réserver.
+    Verser la crème dans la poêle et laisser mijoter jusqu'à ce qu'elle épaississe. Mélanger la crème et les morilles, étendre dans le pain.
+    Saupoudrer de fromage râpé et faire gratiner quelques secondes.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25550">
+  <titre>Épaule d'agneau aux citrons et aux olives</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 épaule d'agneau de 1,5 kg coupée en morceaux</p>
+    <p>huile d'olive</p>
+    <p>3 oignons coupés en fines lamelles</p>
+    <p>3 gousses d'ail</p>
+    <p>1 cuillère à café de gingembre</p>
+    <p>1 cuillère à café de cumin</p>
+    <p>1 bâton de cannelle</p>
+    <p>des pistils de safran</p>
+    <p>4 citrons confits au sel</p>
+    <p>30 olives vertes dénoyautées</p>
+    <p>1 litre de bouillon (ou eau) </p>
+    <p>3 courgettes</p>
+    <p>sel, poivre</p>
+    <p>coriandre fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte, faire revenir l'agneau dans l'huile d'olive. 
+    Ajouter l'oignon, l'ail et tous les épices et le sel et poivre. Faire revenir encore quelques minutes. 
+    Ajouter le bouillon. Mettre les citrons et les olives. Couvrir. Faire cuire à feu doux pendant 40 mn. 
+    Ajouter les courgettes en rondelles. Remettre à cuire 20 mn. 
+    Saupoudrer de coriandre ciselée et servir chaud.
+     vin rouge charpenté
+  ]]>
+  </preparation>
+</recette>

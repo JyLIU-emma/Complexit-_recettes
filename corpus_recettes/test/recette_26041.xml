@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26041">
+  <titre>Croquettes d'épinards au gruyère</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g d'épinards</p>
+    <p>80 g de beurre</p>
+    <p>30 g de farine</p>
+    <p>25 cl de lait</p>
+    <p>2 oeufs + 1 jaune d'oeuf</p>
+    <p>100 g de gruyère râpé</p>
+    <p>100 g de chapelure</p>
+    <p>noix muscade</p>
+    <p>sel, poivre</p>
+    <p>huile de friture</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les épinards 1 minute à l'eau bouillante puis les presser soigneusement afin d'ôter le maximum d'eau. Passer au moulin à légumes puis faire revenir dans 30 g de beurre.
+    Préparer une sauce béchamel : mélanger la farine dans le beurre fondu sur feu doux puis verser le lait. Laisser épaissir sur feu doux en remuant sans cesse. Assaisonner de sel, de poivre et de muscade.
+    Laisser tiédir puis incorporer les épinards, les oeufs et le gruyère râpé. Laisser refroidir au frais au moins 30 minutes, le mélange durcit et il devient plus facile de confectionner des boulettes.
+    Chauffer l'huile de friture et façonner la pâte en boules de la taille d'une noix. Les rouler dans la chapelure et plonger dans l'huile. Retirer les croquettes dès qu'elles sont dorées.
+  ]]>
+  </preparation>
+</recette>

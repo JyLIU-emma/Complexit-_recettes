@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11379">
+  <titre>Tarte au saumon fumé sans oeuf</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 gros oignons</p>
+    <p>4 fines tranches de saumon fumé</p>
+    <p>1 pâte brisée</p>
+    <p>50 g de fromage râpé</p>
+    <p>muscade, sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un moule à tarte, déposez la pâte puis les oignons découpés en fines rondelles.
+    Posez dessus le saumon détaillé en fins lambeaux puis le râpé. Saupoudrez légèrement de muscade.
+    Cuisson : 20 min à 220°C (thermostat 7-8).Excellent avec de la mache blanc sec
+  ]]>
+  </preparation>
+</recette>

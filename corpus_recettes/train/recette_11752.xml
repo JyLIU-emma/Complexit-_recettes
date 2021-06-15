@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11752">
+  <titre>Draniki (Biélorussie)</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 pommes de terre de calibre moyen</p>
+    <p>1 cuillerée à soupe de farine</p>
+    <p>1 oeuf</p>
+    <p>15 cl de lait (ou de fromage blanc) (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Plat national biélorusse.
+    Eplucher et râper les pommes de terre, ajouter la farine, mélanger en faisant attention à ce qu'il n'y ait pas de grumeaux. Ajouter l'oeuf, et le lait. Battre la préparation, saler, poivrer.
+    Faire chauffer de l'huile dans une poêle, et mettre la préparation à cuire à feu doux en faisant de petites galettes (une grande cuillère à cuire à chaque fois).Si vous n'avez pas ajouté de produits laitiers à la préparation, les dranikis se servent avec de la crème fraîche. Sinon, vous pouvez les servir seuls, accompagnés de champignons revenus à la poêle, ou de petits morceaux de viande que vous aurez fait cuire dans de la panure.
+  ]]>
+  </preparation>
+</recette>

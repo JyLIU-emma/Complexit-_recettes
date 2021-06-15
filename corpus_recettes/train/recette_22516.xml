@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22516">
+  <titre>Salade de riz au crabe</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de riz</p>
+    <p>1 boîte de crabe</p>
+    <p>2 oeufs durs</p>
+    <p>4 tomates</p>
+    <p>1 avocat</p>
+    <p>1 poignée d'olives noires</p>
+    <p>1 citron</p>
+    <p>ciboulette, persil</p>
+    <p>moutarde</p>
+    <p>huile, vinaigre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire le riz dans 2 fois son volume d'eau bouillante salée environ 15 min à couvert.
+    Faîtes griller le poivron 10 min sous le grill pour pouvoir le peler.
+    Epépinez-le et détaillez-le en dés.
+    Pelez, épépinez et concassez les tomates, coupez la chair de l'avocat en dés et arrosez-le de jus de citron.
+    Egouttez le riz, mélangez-le avec les légumes et ajoutez le crabe égoutté et les oeufs durs coupés en quartiers.
+    Assaisonnez de vinaigrette moutardée et saupoudrez de persil et ciboulette hachés.
+    Servez bien frais.
+    Remplacez le crabe par du thon ou du surimi si vous le souhaitez.
+  ]]>
+  </preparation>
+</recette>

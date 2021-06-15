@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22935">
+  <titre>Carottes au beurre de curry</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,2 kg de carottes</p>
+    <p>75 g de beurre</p>
+    <p>1 cuillère à soupe et demi de curry en poudre</p>
+    <p>75 g de crème fraîche</p>
+    <p>ciboulette hachée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Gratter, peler et faire cuire les carottes dans l’eau bouillante salée jusqu’à ce que leur texture vous semble tendre.
+    Vous pouvez vérifier la cuisson à l’aide d’une fourchette, si celle-ci s’enfonce facilement dans la rondelle de carotte, retirer du feu.
+    Les égoutter, puis les essuyer à l’aide de papier absorbant.
+    Faire fondre le beurre mélangé au curry dans une poêle à haut bords, puis y incorporer les carottes coupées en rondelles.
+    Les faire revenir le temps qu’elles s’imprègnent bien du goût du curry, puis ajouter la crème juste avant dégustation.
+    Saupoudrer le tout de ciboulette hachée, saler et poivrer.
+  ]]>
+  </preparation>
+</recette>

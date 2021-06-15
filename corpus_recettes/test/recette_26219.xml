@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26219">
+  <titre>Bar sur fondue de poireaux et sauce épicée</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>400 g de bar en filet</p>
+    <p>1 citron</p>
+    <p>10 g de beurre</p>
+    <p>Pour la sauce :</p>
+    <p>25 cl de crème fraîche</p>
+    <p>75 cl de fumet de poisson </p>
+    <p>10 cl de vin blanc sec</p>
+    <p>20 g de beurre</p>
+    <p>1 demie-échalote</p>
+    <p>1/2 cuillère à café de curry et de curcuma mélangés</p>
+    <p>sel et poivre</p>
+    <p>Pour la purée de poireaux :</p>
+    <p>20 g de beurre</p>
+    <p>400 g de poireaux moyens</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ne conserver que le blanc et la moitié du vert des poireaux. Les cuire 5 minutes dans l'eau bouillante salée. Les rincer  à l'eau glacée pour les refroidir. Egoutter et presser pour retirer toute l'eau. Passer au mixeur.
+    Dans une casserole, verser le fumet de poisson avec le vin blanc et laisser réduire. Y jeter aussi l'échalote hachée puis ajouter : la cuillère à café de curry, de curcuma et la crème. Porter à ébullition et monter la sauce au fouet avec les 20 g de beurre. Passer la sauce au chinois fin et réserver au chaud.
+    Chauffer la purée de poireaux avec le beurre. Rectifier l'assaisonnement si besoin et garder au chaud.
+    Arroser le poisson de jus de citron. Mettre pendant 2h au réfrigérateur.
+    Préchauffer le four à 190°C (thermostat 6-7).
+    Placer le poisson dans un plat beurré allant au four, saler et poivrer. Déposer le beurre en noix sur le dessus et couvrir d'une feuille d'aluminium. 
+    Enfourner pour 16 à 20 minutes.
+    Disposer la fondue de poireaux au centre de l'assiette, surmontée de l'escalope de bar. Mixer à nouveau la sauce pour l'aérer et la verser autour du poisson.
+  ]]>
+  </preparation>
+</recette>

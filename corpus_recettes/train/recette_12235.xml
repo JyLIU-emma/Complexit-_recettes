@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12235">
+  <titre>Cigarettes russes</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de sucre</p>
+    <p>100 g de beurre</p>
+    <p>100 g de farine</p>
+    <p>4 blancs d'oeufs</p>
+    <p>2 cuillères à soupe d'amandes en poudre</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre les blancs à la fourchette. Verser en pluie sucre, sel, farine et amandes en continuant de battre. Ajouter le beurre fondu.
+    Déposer de petits tas à la cuillère sur une tôle beurrée. Faire cuire à 175°C pendant 3 minutes. 
+    Sans les sortir du four, décollez les gateaux à la spatule et roulez-les de suite sur un crayon. Laisser refroidir sur une grille.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26651">
+  <titre>Paris-brest crémeux</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pâte à choux :</p>
+    <p>3 oeufs</p>
+    <p>125 g de farine</p>
+    <p>60 g de beurre</p>
+    <p>1 cuillère à café de sucre</p>
+    <p>1 pincée de sel</p>
+    <p>Pour la crème :</p>
+    <p>4 blancs d'oeufs</p>
+    <p>3 jaunes d'oeufs</p>
+    <p>200 g de sucre</p>
+    <p>180 g de beurre</p>
+    <p>200 g de pralin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pâte à choux : Versez 20 cl d'eau dans une casserole, avec le sel, le sucre et le beurre. 
+    Portez à ébullition puis, hors du feu, ajoutez la farine en une seule fois. 
+    Remuez énergiquement avec une spatule pour que la pâte forme une boule qui se détache de la casserole. Ajoutez les oeufs, un à un et remuez longuement. Préchauffez le four Th 6 (180°C). Beurrez une plaque à four. Mettez la pâte à choux dans une poche à douille puis dressez la pâte en une couronne de 22 cm de diamètre. 
+    Faites dorer 15 min au four. Sortez la couronne et laissez refroidir. La crème : Mettez les blancs et le sucre dans un saladier sur une casserole remplie d'eau, et fouettez jusqu'à obtenir une meringue ferme. 
+    Travaillez le beurre en pommade et y ajoutez les jaunes d'oeufs et le pralin. Travaillez longuement. 
+    Incorporez ensuite la meringue délicatement. Réservez au frais 15 min. Découpez la couronne en deux dans l'épaisseur. La fourrer de la crème. Posez l'autre couronne dessus, sans appuyer et saupoudrez de sucre glace.Ne pas ouvrir la porte du four durant la cuisson sinon la pâte retombe !
+  ]]>
+  </preparation>
+</recette>

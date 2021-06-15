@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11861">
+  <titre>Scampis à l'ail</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de scampis décortiqués</p>
+    <p>30 g de beurre</p>
+    <p>ail pressé</p>
+    <p>sel, poivre</p>
+    <p>persil haché</p>
+    <p>5 cl de cognac</p>
+    <p>50 cl de crème fraîche</p>
+    <p>maïzena</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ustensiles : une poêle assez grande
+    Mettre le beurre et l'ail pressé dans la poêle. 
+    Y placer mettre ensuite les scampis et les laissez cuire 10 mn à feu moyen.
+    Ajoutez ensuite la crème fraîche (il faut que les scampis en soient complètement recouverts), le sel, le poivre et le cognac.
+    Laissez cuire 20 mn (vérifiez s'ils sont cuits), puis ajoutez le maïzena pour épaissir la crème fraîche ainsi que le persil.
+    Servez immédiatement.On peut remplacer les scampis par des cuisses de grenouille.
+  ]]>
+  </preparation>
+</recette>

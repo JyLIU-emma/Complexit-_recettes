@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25243">
+  <titre>Soupe glacée à la courgette</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 courgettes de taille moyenne</p>
+    <p>90 cl de bouillon de volaille</p>
+    <p>9 feuilles de basilic frais</p>
+    <p>1 bouquet de cerfeuil</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les courgettes, les détailler en rondelles, puis les blanchir à l’eau bouillante salée pendant 7 à 8 minutes.
+    Les égoutter, les laisser refroidir et les mixer.
+    Verser le bouillon chaud sur la purée de courgettes et poivrer.
+    Ciseler les feuilles de basilic, puis les incorporer à la soupe en ménageant bien.
+    Laisser refroidir et mettre au frais durant au moins 3 heures afin que les parfums aient le temps de développer tout leur arôme.
+    Quelques minutes avant de servir, parsemer de cerfeuil.
+    Vous pouvez proposer un peu de crème à part.
+  ]]>
+  </preparation>
+</recette>

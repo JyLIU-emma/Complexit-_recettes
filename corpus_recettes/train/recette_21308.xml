@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21308">
+  <titre>Cookies chocolat noir-chocolat blanc</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>50 g de chocolat noir</p>
+    <p>50 g de chocolat blanc</p>
+    <p>160 g de farine</p>
+    <p>125 g de beurre</p>
+    <p>80 g de sucre brun</p>
+    <p>70 g de sucre blanc</p>
+    <p>1 œuf</p>
+    <p>1/2 cuillère à café de sel</p>
+    <p>2 pincées de bicarbonate de soude</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler les chocolats en pépites.
+    Mélanger le beurre avec le sucre brun, le sucre blanc et l’œuf puis ajouter le sel et le bicarbonate de soude.
+    Incorporer la farine puis, lorsque le mélange est homogène, les pépites de chocolat.
+    Préchauffer le four à 180°C (thermostat 6).
+    Recouvrir la plaque du four de papier cuisson et y déposer des petits tas de pâte en les espaçant de 10 cm. Etaler les ronds avec le dos d'une petite cuillère puis les enfourner pour 10 minutes de cuisson.
+    Tièdes ou froids, ils fondent dans la bouche. du lait, c'est très bien !
+  ]]>
+  </preparation>
+</recette>

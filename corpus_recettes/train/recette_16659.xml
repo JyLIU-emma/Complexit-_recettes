@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16659">
+  <titre>Fondant au chocolat et aux pommes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de chocolat à dessert</p>
+    <p>150 g de crème liquide</p>
+    <p>3 oeufs</p>
+    <p>1 cuillère à soupe de maïzena</p>
+    <p>70 g de sucre</p>
+    <p>2 pommes</p>
+    <p>80 g de noix</p>
+    <p>70 g de raisins secs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).Faire fondre le chocolat, ajoutez la crème, 3 jaunes d'oeufs et la maïzena (faire attention que le chocolat ne soit pas trop chaud).Monter les blancs en neige en y ajoutant le sucre, puis incorporer délicatement le mélange de chocolat.
+    Mettre la pâte dans un moule beurré puis parsemer de pommes, raisins et noix. Saupoudrer de sucre glace et enfourner.
+    Cuire 50 mn à 180°C. Laisser refroidir avant de démouler.
+  ]]>
+  </preparation>
+</recette>

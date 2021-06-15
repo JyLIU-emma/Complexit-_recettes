@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17351">
+  <titre>Moelleux au gingembre</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de chocolat</p>
+    <p>4 oeufs</p>
+    <p>150 g de beurre</p>
+    <p>150 g de sucre</p>
+    <p>50 g de farine</p>
+    <p>1/2 cuillerée à café de cannelle en poudre</p>
+    <p>1/2 sachet de levure chimique</p>
+    <p>le zeste d'un citron vert</p>
+    <p>1 à 2 cuillerées à café de gingembre en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Allumez le four à 150°C (thermostat 5).
+    Chemisez un moule de papier sulfurisé. Cassez le chocolat en morceaux et faites-le fondre au bain-marie. Battez les oeufs à la fourchette.
+    Fouettez le beurre et le sucre dans un saladier jusq'à ce que la préparation blanchisse. Ajoutez la farine, cannelle et la levure, puis les oeufs, le gingembre et le zeste de citron.
+    Incorporez le chocolat à la préparation en remuant vivement puis versz la pâte dans le moule.
+    Faites cuire environ 20 mn (la pâte doit rester souple).
+    Laissez reposer le gâteau 5 mn avant de le démouler (attention, il est assez fragile!). Savourez tiède ou à température ambiante.
+    Gâteau très léger, la pâte du milieu reste coulante.
+  ]]>
+  </preparation>
+</recette>

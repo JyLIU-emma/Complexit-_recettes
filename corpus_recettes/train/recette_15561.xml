@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15561">
+  <titre>Tartare d'avocat au crabe</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>170 g de chair de crabe</p>
+    <p>1 avocat</p>
+    <p>2 cuillères à soupe de mayonnaise</p>
+    <p>1 citron</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la chair de crabe émiettée avec la mayonnaise.
+    Hacher grossièrement les avocats, ajouter le jus de citron, puis la mayonnaise.
+    Dans un ramequin, mettre une bonne couche de crabe puis couvrir d'avocat.
+    Servir en démoulant le ramequin. Présenter avec un citron.Cette entrée est réalisée par le restaurant 'La Criée', à Nîmes.
+  ]]>
+  </preparation>
+</recette>

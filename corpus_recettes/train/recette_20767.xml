@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20767">
+  <titre>Haricots verts vinaigrette aux oeufs durs</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de haricots verts frais</p>
+    <p>6 oeufs durs</p>
+    <p>4 tomates</p>
+    <p>1 cuillère à soupe de vinaigre</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>1 cuillère à soupe de ciboulette hachée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les haricots verts dans l'eau bouillante salée, 10 à 15 min selon leur grosseur. Ils doivent rester un peu fermes. Egouttez-les.
+    Ecalez les oeufs durs et hachez-les. Coupez les tomates en quartiers.
+    Emulsionnez l'huile avec le vinaigre, la ciboulette, du sel et du poivre.
+    Dressez les haricots verts sur le plat de service avec les tomates puis saupoudrez-les d'oeuf dur. Arrosez de vinaigrette au moment de servir.
+  ]]>
+  </preparation>
+</recette>

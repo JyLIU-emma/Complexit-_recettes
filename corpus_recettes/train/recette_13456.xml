@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13456">
+  <titre>Bugnes de Lyon</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de farine</p>
+    <p>2 cuillères à soupe de sucre</p>
+    <p>3 œufs battus</p>
+    <p>1 cuillère à café de Cognac</p>
+    <p>125 ml de crème</p>
+    <p>sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le sucre dans la crème.
+    Travailler tous les ingrédients pour obtenir une pâte lisse. Laisser reposer 1h.Étendre la pâte au rouleau, puis découper la pâte en rectangles qu'il faut étendre encore pour obtenir une pâte la plus fine possible.
+    Faire frire dans une poêle avec de l'huile (ou de la végétaline).Laisser dorer, égoutter et saupoudrer de sucre glace.
+  ]]>
+  </preparation>
+</recette>

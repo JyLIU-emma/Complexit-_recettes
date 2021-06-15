@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13032">
+  <titre>Langue de boeuf, sauce aux câpres</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>l langue de boeuf, soigneusement lavée</p>
+    <p>Pour le bouillon :</p>
+    <p>4 carottes</p>
+    <p>4 poireaux</p>
+    <p>2 branches de céleri</p>
+    <p>2 oignons piqués chacun d'un clou de girofle</p>
+    <p>2 gousses d'ail</p>
+    <p>une feuille de laurier et du thym</p>
+    <p>Pour la béchamel :</p>
+    <p>50 g de beurre</p>
+    <p>l cuillère à soupe de farine</p>
+    <p>10 cl de lait froid</p>
+    <p>1 petit verre de vin blanc sec</p>
+    <p>2 cuillères à soupe de câpres au vinaigre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une grande marmite contenant 4 l d'eau froide, déposer la langue, y ajouter les légumes détaillés en julienne, l'ail, le thym, le laurier puis poivrer et saler.
+    Cuire lentement pendant 4 heures : la peau doit pouvoir s'enlever très facilement (sinon prolonger la cuisson).
+    1/2 heure avant la fin de la cuisson de la langue, préparer la béchamel : faire fondre le beurre, y ajouter la farine, puis le lait, bien mélanger.
+    Afin d'éviter la formation de grumeaux, ajouter le vin blanc, les câpres et enfin le bouillon de cuisson de la langue afin d'obtenir une béchamel assez liquide.
+    Sortir la langue du bouillon, enlever la peau, couper la en tranches, déposer ces dernières
+    dans la béchamel et laisser cuire à petit feu une dizaine de minutes. Surveiller car la béchamel ne doit pas attacher au fond.
+    Servir ce plat ave un riz blanc, nappé de votre béchamel.
+    En fin de cuisson, allonger la béchamel avec le bouillon de la langue. vin rouge corsé
+  ]]>
+  </preparation>
+</recette>

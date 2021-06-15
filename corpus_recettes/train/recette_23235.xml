@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23235">
+  <titre>Granité glacé aux groseilles</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,4 kg de groseilles + quelques-unes pour la décoration</p>
+    <p>2 oranges</p>
+    <p>400 g de sucre en poudre</p>
+    <p>20 cl d'eau</p>
+    <p>2 blancs d'oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ecraser les groseilles puis les mettre dans une passoire très fine pour ne récupérer que le jus.
+    Porter l'eau à ébullition avec le sucre pendant 2 minutes. Laisser tiédir puis le verser dans le jus de groseilles. Ajouter le jus d'orange.
+    Verser la préparation dans un bac à glace et placer au congélateur.
+    Quand le mélange est durci mais pas complètement pris, mixer rapidement pour concasser les cristaux. 
+    Incorporer délicatement les blancs d'oeuf battus en neige très ferme puis remettre au congélateur pendant 1 heure.
+    Servir dans des coupes bien froides après avoir gratté le granité à l'aide d'une fourchette. Décorer de groseilles fraîches. 
+  ]]>
+  </preparation>
+</recette>

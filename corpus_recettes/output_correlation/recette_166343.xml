@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166343">
+  <titre>Les bons macarons à la framboise de Monsieur Julien</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour le biscuit : </p>
+    <p>225 g de sucre glace</p>
+    <p>125 g d’amandes en poudre</p>
+    <p>120 g de blancs d’œufs (environ 4 œufs)</p>
+    <p>60 g de sucre </p>
+    <p>15 gouttes de colorant alimentaire</p>
+    <p>Pour le confit : </p>
+    <p>½ litre de framboises (environ 600 g)</p>
+    <p>4 cuillères à soupe de sucre</p>
+    <p>7 feuilles de gélatine alimentaire</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1.Tamiser le sucre glace et les amandes en poudre dans un saladier. Puis mélanger avec un fouet. 2.Dans un autre saladier, monter les blancs d’œufs. Quand les blancs ont pris, ajouter le colorant alimentaire puis le sucre en continuant de battre.  3.Incorporer cette préparation avec la première. Ne pas hésiter à casser les œufs montés. Puis mettre le mélange obtenu dans une poche à douille. Dresser sur du papier sulfurisé ou sur une "flexiplaque" en espaçant bien. Taper la plaque pour aplanir les biscuits et chasser l’air. Réserver à l'air libre environ 1h (le biscuit ne doit plus coller au doigt). Quand les biscuits sont prêts, enfourner +/- 15 min à 160°. 4.Pendant ce temps, préparer le confit : faire cuire à feu doux les framboises avec le sucre. Faire ramollir la gélatine 10 min dans de l’eau froide. Quand le coulis est prêt, incorporer les feuilles de gélatine une à une en mélangeant bien. Laisser prendre le mélange au frais.5.Mettre le confit dans une poche à douille, et garnir les biscuits au centre.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">1.Tamiser</OPER> le <INGRED id="8">sucre glace</INGRED> et les <INGRED id="2">amandes en poudre</INGRED> dans un <INGRED id="1">saladier</INGRED>. Puis <OPER id="o_2">mélanger</OPER> avec un fouet. 2.Dans un autre <INGRED id="1">saladier</INGRED>, <OPER id="o_3">monter</OPER> les <INGRED id="7">blancs</INGRED> d’ <INGRED id="1">œufs</INGRED>. Quand les <INGRED id="3">blancs</INGRED> ont pris, <OPER id="o_4">ajouter</OPER> le <INGRED id="5">colorant alimentaire</INGRED> puis le <INGRED id="2">sucre</INGRED> en continuant de <OPER id="o_5">battre</OPER>. <OPER id="o_6">3.Incorporer</OPER> cette <INGRED id="4">préparation</INGRED> avec la première. Ne pas <OPER id="o_7">hésiter</OPER> à <OPER id="o_8">casser</OPER> les <INGRED id="1">œufs</INGRED> montés. Puis <OPER id="o_9">mettre</OPER> le <INGRED id="7">mélange</INGRED> obtenu dans une poche à douille. <OPER id="o_10">Dresser</OPER> sur du papier sulfurisé ou sur une " flexiplaque " en espaçant bien. <OPER id="o_11">Taper</OPER> la plaque pour aplanir les <INGRED id="2">biscuits</INGRED> et <OPER id="o_12">chasser</OPER> l’ air. Réserver à l'air libre <INGRED id="1">environ</INGRED> 1h ( le biscuit ne doit plus <OPER id="o_13">coller</OPER> au doigt ). Quand les <INGRED id="2">biscuits</INGRED> sont prêts, <OPER id="o_14">enfourner</OPER> + /- 15 min à 160 °. 4.Pendant ce temps, <OPER id="o_15">préparer</OPER> le confit : faire <OPER id="o_16">cuire</OPER> à feu doux les <INGRED id="6">framboises</INGRED> avec le <INGRED id="8">sucre</INGRED>. Faire <OPER id="o_17">ramollir</OPER> la <INGRED id="8">gélatine</INGRED> 10 min dans de l’ <INGRED id="5">eau froide</INGRED>. Quand le <INGRED id="5">coulis</INGRED> est prêt, <OPER id="o_18">incorporer</OPER> les <INGRED id="4">feuilles</INGRED> de gélatine une à une en mélangeant bien. Laisser <OPER id="o_19">prendre</OPER> le <INGRED id="2">mélange</INGRED> au <OPER id="o_20">frais.5.Mettre</OPER> le confit dans une poche à douille, et <OPER id="o_21">garnir</OPER> les <INGRED id="1">biscuits</INGRED> au centre.
+  </annotation>
+  <annotation methode="crf">
+  1.Tamiser le <INGRED>sucre glace</INGRED> et les <INGRED>amandes en poudre</INGRED> dans un saladier <INGRED>.</INGRED> Puis mélanger avec un fouet. 2.Dans un autre saladier <INGRED>,</INGRED> monter les <INGRED>blancs</INGRED> d’ <INGRED>œufs</INGRED> <INGRED>.</INGRED> Quand les <INGRED>blancs</INGRED> ont pris <INGRED>,</INGRED> ajouter le colorant alimentaire puis le <INGRED>sucre</INGRED> en continuant de battre <INGRED>.</INGRED> 3.Incorporer cette préparation avec la première. Ne pas hésiter à casser les <INGRED>œufs</INGRED> montés <INGRED>.</INGRED> Puis mettre le <INGRED>mélange</INGRED> obtenu dans une <INGRED>poche</INGRED> à douille. Dresser sur du papier sulfurisé <INGRED>ou</INGRED> sur une " flexiplaque " en espaçant bien <INGRED>.</INGRED> Taper la plaque pour aplanir les <INGRED>biscuits</INGRED> et chasser l’ <INGRED>air</INGRED> <INGRED>.</INGRED> Réserver à l'air libre <INGRED>environ</INGRED> 1h ( le biscuit ne doit plus coller au doigt ). Quand les <INGRED>biscuits</INGRED> sont prêts <INGRED>,</INGRED> enfourner + /- 15 min à 160 °. 4.Pendant ce temps <INGRED>,</INGRED> préparer le confit <INGRED>:</INGRED> faire cuire à feu doux les <INGRED>framboises</INGRED> avec le <INGRED>sucre</INGRED>. Faire ramollir la gélatine 10 min dans de l’ <INGRED>eau</INGRED> froide <INGRED>.</INGRED> Quand le <INGRED>coulis</INGRED> est prêt <INGRED>,</INGRED> incorporer les feuilles de gélatine une à une en mélangeant bien <INGRED>.</INGRED> Laisser prendre le <INGRED>mélange</INGRED> au frais.5.Mettre le confit dans une <INGRED>poche</INGRED> à douille <INGRED>,</INGRED> et garnir les <INGRED>biscuits</INGRED> au centre.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 17.6129032258065*X + 3.38709677419355</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 26*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['sucre glace', 'sucre']	 id:1	 quantité:225	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['amandes en poudre', 'amandes']	 id:2	 quantité:125	 unité:g d'	 denombrable:False	 recipient:1
+ingredient:["blancs d'œufs", 'blancs']	 id:3	 quantité:120	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:4	 quantité:60	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['colorant alimentaire', 'colorant']	 id:5	 quantité:15	 unité:gouttes de	 denombrable:True	 recipient:15*X
+ingredient:['framboises']	 id:6	 quantité:non_precis	 unité:litre de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:7	 quantité:4	 unité:cuillères à soupe de	 denombrable:True	 recipient:4*X
+ingredient:['gélatine alimentaire', 'gélatine']	 id:8	 quantité:7	 unité:feuilles de	 denombrable:True	 recipient:7*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:1.tamiser	 id:o_1	 ingrédients_ralatifs:['8', '2', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:monter	 id:o_3	 ingrédients_ralatifs:['1', '7', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_4	 ingrédients_ralatifs:['3', '5', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:3.incorporer	 id:o_6	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:hésiter	 id:o_7	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:casser	 id:o_8	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_9	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:dresser	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:taper	 id:o_11	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chasser	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:coller	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfourner	 id:o_14	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparer	 id:o_15	 ingrédients_ralatifs:['6', '8']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:cuire	 id:o_16	 ingrédients_ralatifs:['6', '8']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:ramollir	 id:o_17	 ingrédients_ralatifs:['8', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_18	 ingrédients_ralatifs:['5', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:prendre	 id:o_19	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:frais.5.mettre	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garnir	 id:o_21	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

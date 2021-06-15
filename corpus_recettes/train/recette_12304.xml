@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12304">
+  <titre>Grillade de nouilles</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de macaronis ou zitti par personne</p>
+    <p>1 tranche de jambon cuit par personne</p>
+    <p>1 tranche de rosette par personne</p>
+    <p>1 ou 2 oeuf par poelée</p>
+    <p>sel, poivre, </p>
+    <p>gruyère rapé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pâtes normalement dans une eau bouillante et salée.
+    Les égouter puis les laisser refroidir (ou passer sous l'eau froide si vous êtes préssé).Couper le jambon et la rosette en lamelles et faites les revenir dans une poele (au beurre ou a l'huile selon les gouts je conseille l'huile de noix).Ajouter les pâtes et les laisser griller a feu moyen battre les oeufs en omelette. Y ajouter du gruyère rapé et verser dans la poele en fin de cuison. Remuer énergiquement.Des variantes existent avec des morceaux de reblochon ou de roquefort
+  ]]>
+  </preparation>
+</recette>

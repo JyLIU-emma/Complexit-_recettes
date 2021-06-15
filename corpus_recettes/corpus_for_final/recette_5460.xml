@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="5460">
+  <titre>Concombres farcis au fromage</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 Carrés Frais</p>
+    <p>ciboulette, persil plat, poivre</p>
+    <p>2 concombres </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les concombres, les détailler en tronçons de 6 cm environ, et les évider. 
+    Saler légèrement l'intérieur et l'extérieur, et laisser dégorger au frais pendant au moins 1 h.
+    Ecraser à la fourchette les Carrés Frais et les herbes fraîches, poivrer.
+    Remplisser l'intérieur des cocombres, et servir.
+  ]]>
+  </preparation>
+</recette>

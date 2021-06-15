@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13587">
+  <titre>Curry de lotte au lait de coco</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,8 kg de lotte</p>
+    <p>1 poivron rouge</p>
+    <p>1 poivron vert</p>
+    <p>6 tomates mûres</p>
+    <p>400 ml de lait de coco</p>
+    <p>1 cuiller de pâte de curry jaune</p>
+    <p>sel, poivre, un morceau de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez les poivrons et les tomates. Coupez les tomates en quartiers et les poivrons en lamelles.
+    Dans une sauteuse anti-adhésive (si on ne veut pas mettre d'huile) ou un wok, mettez les poivrons et les tomates, faites réduire sur feu moyen puis doux jusqu'à ce qu'il n'y ait plus de jus.
+    Versez le lait de coco, délayez le curry et le sucre dans la sauteuse et faites chauffer doucement sans faire bouillir.
+    Coupez la lotte en cubes et versez dans le mélange lait de coco au curry - fondue de
+    poivrons et de tomates. Salez et poivrez. 
+    Faites cuire environ 15 à 20 minutes à feu moyen. Servez avec du riz basmati ou du riz gluant.
+  ]]>
+  </preparation>
+</recette>

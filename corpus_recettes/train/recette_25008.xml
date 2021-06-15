@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25008">
+  <titre>Ragoût d'oie aux petits légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 oie de 800 g à 1 kg</p>
+    <p>50 g de beurre</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>2 verres d’eau</p>
+    <p>400 g de pommes de terre</p>
+    <p>250 g de carottes</p>
+    <p>250 g de navets</p>
+    <p>1 gousse d’ail</p>
+    <p>1 bouquet garni</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper l’oie en morceaux, puis les faire dorer dans une cocotte en fonte avec 50 g de beurre sur feu vif en remuant régulièrement.
+    Peler et détailler les carottes, les pommes de terre et les navets, puis les détailler en petits dés et les ajouter aux morceaux de viande dans l’autocuiseur, une fois la viande dorée.
+    Saupoudrer l’ensemble de farine, puis bien mélanger tous les ingrédients.
+    Arroser de 2 verres d’eau, puis saler et poivrer.
+    Peler et écraser l’ail, puis l’incorporer à la préparation avec le bouquet garni pour parfumer.
+    Poursuivre la cuisson 50 min à couvert sur feu modéré en surveillant la cuisson.
+  ]]>
+  </preparation>
+</recette>

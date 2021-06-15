@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24368">
+  <titre>Poivrons grillés à l'huile</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 gros poivrons rouges</p>
+    <p>2 gros poivrons jaunes</p>
+    <p>1 gousse d'ail</p>
+    <p>20 cl d'huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez et faites griller les poivron 20 minsous le grill du four en les retournant souvent.
+    Mettez-les dans un sac platique et laissez refroidir pour les peler plus facilement.
+    Ensuitez pelez-les et épépinez-les. Détaillez-les en lanières.
+    Salez, poivrez, parsemez d'ail hachez et arrosez d'huile d'olive.
+    Réservez au frais.
+  ]]>
+  </preparation>
+</recette>

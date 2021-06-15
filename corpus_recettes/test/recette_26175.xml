@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26175">
+  <titre>Oeufs cocotte campagnards</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de champignons</p>
+    <p>200 g de lardons fumé</p>
+    <p>30 g de beurre</p>
+    <p>4 œufs</p>
+    <p>1 échalote</p>
+    <p>1/2 citron</p>
+    <p>4 cuillères à soupe de crème fraîche</p>
+    <p>1 cuillère à soupe de ciboulette hachée</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180° (thermostat 6).
+    Laver et hacher les champignons et l'échalote. Les faire revenir dans une poêle avec du beurre pendant 10 min. Mouiller de jus de citron et assaisonner.
+    Dans une autre poêle, faire revenir les lardons, sans matière grasse.
+    Mettre les champignons et les lardons dans 4 cassolettes beurrées. Ajouter les oeufs crus et la crème fraîche. Assaisonner et parsemer de ciboulette.
+    Enfourner au bain-marie pendant 6 à 8 min à 180° (thermostat 6).
+  ]]>
+  </preparation>
+</recette>

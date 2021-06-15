@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26600">
+  <titre>Pain de poisson aux langoustines</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,5 kg de morceaux de cabillaud, colin ou lieu</p>
+    <p>2 l de court-bouillon</p>
+    <p>4 langoustines</p>
+    <p>200 g de crevettes roses</p>
+    <p>3 oeufs</p>
+    <p>3 tranches de pain de mie</p>
+    <p>20 cl de lait</p>
+    <p>100 g de champignons de Paris</p>
+    <p>30 g de gruyère râpé</p>
+    <p>20 g de parmesan râpé</p>
+    <p>beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites tremper le pain dans le lait.
+    Faites cuire les langoustines 5 minutes dans le court-bouillon chaud. Egouttez-les, décortiquez-les et coupez la chair en petits morceaux.
+    Faites cuire les morceaux de poisson dans le court-bouillon environ 10 minutes. Egouttez-les, retirez la peau et arêtes, émiettez la chair.
+    Décortiquez les crevettes, coupez-les en morceaux.
+    Mélangez le poisson avec la chair de langoustines et de crevettes. Ajoutez les jaunes d'oeufs, salez et poivrez.
+    Ajoutez le pain essoré, les champignons hachés, les fromages et mélangez.
+    Battez les blancs d'oeufs en neige ferme, incorporez-les délicatement à la préparation. Versez le tout dans un moule en couronne ou un moule à cake.
+    Placez le moule au bain-marie, faites cuire 30 min au four à 180°C (thermostat 6).
+    Servez ce pain de poissons chaud ou froid, accompagné d'un coulis de tomates ou de poivrons, et de mayonnaise.
+  ]]>
+  </preparation>
+</recette>

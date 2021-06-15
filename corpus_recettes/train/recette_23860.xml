@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23860">
+  <titre>Bavarois au melon</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 melon de 800g à 1 kg bien mûr</p>
+    <p>300 g de sucre en poudre</p>
+    <p>50 cl de crème fraîche</p>
+    <p>10 cl de crème fleurette</p>
+    <p>3 jaunes d'oeufs</p>
+    <p>12 feuilles de gélatine</p>
+    <p>quelques feuilles de menthe fraîche</p>
+    <p>Pour le coulis de fraises :</p>
+    <p>300 g de fraises</p>
+    <p>100g de sucre en poudre</p>
+    <p>le jus d'1/2 citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher et ôter les graines du melon. Passer la chair au mixer avec 200g de sucre pour obtenir une purée liquide et parfumée (doit faire environ 1/2l).
+    Fouetter la crème fraîche et la laisser en attente.
+    Travailler les jaunes d'œufs avec les 100 g de sucre restants et la crème fleurette. Faire chauffer jusqu'à ce que le mélange nappe la cuillère, sans atteindre l'ébullition (environ 10 minutes).
+    Faire tremper les feuilles de gélatine dans un bol d'eau froide pour les ramollir, puis les égouter et les dissoudre dans la crème encore chaude. Bien mélanger.
+    Incorporer alors la purée de melon puis, délicatement, la crème fraîche.
+    Verser dans un moule à bavarois ou dans 6 moules individuels, et mettre au réfrigérateur.
+    Préparation du coulis de fraises : laver et équeuter les fraises, puis les passer au mixer avec le sucre et le jus de citron.
+    Pour servir, démouler le bavarois et le napper de coulis de fraises. Décorer de quelques fraises et feuilles de menthe.
+    On peut remplacer une partie de la crème fraîche par le blanc des œufs battus en neige; le bavarois sera moins gras et ça évite le gaspillage!
+  ]]>
+  </preparation>
+</recette>

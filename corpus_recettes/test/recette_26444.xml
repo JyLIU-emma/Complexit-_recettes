@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26444">
+  <titre>Omelette farcie aux 3 poivrons</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>12 oeufs</p>
+    <p>60 g de beurre</p>
+    <p>2 poivrons verts</p>
+    <p>2 poivrons rouges</p>
+    <p>2 poivrons jaunes</p>
+    <p>6 cuillères à soupe d’huile d’olive</p>
+    <p>2 gousse d’ail</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler les poivrons en dés et hacher l'ail. Les mettre à fondre dans l'huile à couvert durant 30 minutes. Saler, poivrer.
+    Battre les oeufs en omelette, saler, poivrer et cuire.
+    Garnir l'omelette nature de poivrons et servir.
+  ]]>
+  </preparation>
+</recette>

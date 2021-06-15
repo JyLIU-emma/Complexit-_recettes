@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23719">
+  <titre>Gaspacho guacamole et sorbet citron</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 boules de sorbet au citron vert</p>
+    <p>Pour le guacamole :</p>
+    <p>2 cuillère à soupe d'huile d'olive</p>
+    <p>1 cuil à soupe de jus de citron</p>
+    <p>2 avocats</p>
+    <p>fleur de sel</p>
+    <p>poivre</p>
+    <p>piment de Cayenne</p>
+    <p>Pour le gaspacho :</p>
+    <p>4 tomates</p>
+    <p>1 petit concombre</p>
+    <p>2 gousses d'ail</p>
+    <p>1 cuillère à café de vinaigre</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les avocats en 2, mixez-en la pulpe avec le jus de citron, l'huile d'olive, du sel, du poivre et une pincée de piment de Cayenne. Gardez au frais.
+    Plongez les tomates 30 secondes dans l'eau bouillante. Egouttez, retirez la peau. Coupez la pulpe en morceaux (en ôtant les pépins), puis mixez en purée fine avec les gousses d'ail écrasés, le vinaigre, l'huile d'olive, du sel et du poivre.
+    Pelez le concombre, coupez-le en 2, retirez les pépins, détaillez la chair en petits dés. Mélangez-les à la purée de tomates, puis gardez au frais.
+    Répartissez dans 4 verres le gaspacho et le quacamole. Déposez une boule de sorbet, puis saupoudrez d'un peu de piment de cayenne.
+  ]]>
+  </preparation>
+</recette>

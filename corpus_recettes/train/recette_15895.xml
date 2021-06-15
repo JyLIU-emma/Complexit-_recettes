@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15895">
+  <titre>Croquettes de pâtes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de pâtes</p>
+    <p>500 g de gruyère</p>
+    <p>500 g de jambon (épaule)</p>
+    <p>chapelure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pâtes. Ajouter le gruyère râpé et le jambon coupé en morceaux. Mélanger.
+    Hacher le tout (à l'ancienne, c'est à dire avec le hachoir de votre grand-mère).
+    Former les croquettes, les rouler dans la chapelure. L'idéal c'est de les plonger dans une friteuse mais elles peuvent aussi être dorées dans une poêle avec un peu d'huile.
+    Très facile à congeler.
+    Fait le régal des petits et des grands. 
+  ]]>
+  </preparation>
+</recette>

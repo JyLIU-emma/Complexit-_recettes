@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16751">
+  <titre>Cake au crabe et aux herbes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de miettes de crabe </p>
+    <p>150 g de farine </p>
+    <p>1 sachet de levure chimique (11g)</p>
+    <p>3 ou 4 œufs </p>
+    <p>10 cl d'huile d'olive</p>
+    <p>15 cl de lait</p>
+    <p>120 g de fromage râpé</p>
+    <p>sel et poivre</p>
+    <p>herbes selon votre goût (basilic, ciboulette ou autre)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger dans une jatte œufs, farine, levure, sel et poivre (selon votre goût).
+    Incorporer l'huile et le lait chaud, puis ajouter le fromage râpé en mélangeant pour former un mélange homogène.Y intégrer le crabe, ainsi que les herbes finement hachées.
+    Beurrer un moule à cake et cuire à four chaud (thermostat 7/210°C) 40 min environ.
+  ]]>
+  </preparation>
+</recette>

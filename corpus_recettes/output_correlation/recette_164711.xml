@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164711">
+  <titre>Cassolettes d'escargots à l'echalote et ciboulette</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 dz d'escargots</p>
+    <p>2 échalotes</p>
+    <p>1 verre de vin blanc</p>
+    <p>20cl de crème liquide</p>
+    <p>1 noix de beurre</p>
+    <p>ciboulette(fraiche ou sèche)</p>
+    <p>sel,poivre,gruyère rapé.Egoutter ou décongeler les escargots,</p>
+    <p>émincer finement les échalotes,</p>
+    <p>faire revenir les escargots et les échalotes dans le beurre,arroser du vin blanc et laisser réduire.</p>
+    <p>Saler,poivrer,ajouter la crème et faire épaissir.</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Après avoir arrêté le feu,mettre la ciboulette selon votre goût,répartir les escargots dans des ramequins individuels,couvrir de gruyère rapé et placer au four pour gratiner. Sancerre blanc
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Après <OPER id="o_1">avoir</OPER> arrêté le feu, <OPER id="o_2">mettre</OPER> la <INGRED id="9">ciboulette</INGRED> selon votre <INGRED id="7">goût</INGRED>, <OPER id="o_3">répartir</OPER> les <INGRED id="1">escargots</INGRED> dans des ramequins individuels, <OPER id="o_4">couvrir</OPER> de <INGRED id="5">gruyère rapé</INGRED> et <OPER id="o_5">placer</OPER> au four pour gratiner. Sancerre <INGRED id="4">blanc</INGRED>
+  </annotation>
+  <annotation methode="crf">
+  Après avoir arrêté le feu <INGRED>,</INGRED> mettre la <INGRED>ciboulette</INGRED> selon votre goût <INGRED>,</INGRED> répartir les <INGRED>escargots</INGRED> dans des ramequins individuels <INGRED>,</INGRED> couvrir de <INGRED>gruyère rapé</INGRED> et placer au four pour gratiner <INGRED>.</INGRED> Sancerre <INGRED>blanc</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 2.22222222222222*X + 2.77777777777778</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 8*X + 11</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:["dz d'escargots", 'dz']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['échalotes']	 id:2	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['vin blanc', 'vin']	 id:3	 quantité:1	 unité:verre de	 denombrable:True	 recipient:1*X
+ingredient:['crème liquide', 'crème']	 id:4	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['noix de beurre', 'noix']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['ciboulette']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel , poivre', 'sel']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['gruyère rapé . Egoutter ou décongeler les escargots', 'gruyère']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['émincer finement les échalotes', 'émincer']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['faire revenir les escargots', 'faire']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['échalotes dans le beurre , arroser du vin blanc', 'échalotes']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['laisser réduire', 'laisser']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['Saler , poivrer , ajouter la crème', 'Saler']	 id:13	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['faire épaissir', 'faire']	 id:14	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:avoir	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_2	 ingrédients_ralatifs:['9', '7', '1', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:répartir	 id:o_3	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_4	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

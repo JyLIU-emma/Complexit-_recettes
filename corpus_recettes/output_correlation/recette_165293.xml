@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165293">
+  <titre>Sablés aux amandes ultra bon, ultra simple</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1  bonne pâte sablée (herta)</p>
+    <p>35 g sucre</p>
+    <p>80 g de beurre</p>
+    <p>50 g miel ou 35g sirop d'érable</p>
+    <p>130 g amandes effilées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole verser le sucre ,  le miel et le beurre. Lorsque tout est fondue est homogène ajouter les amandesÉtaler le tout sur votre pâte sablée, enfourner 10 min à 180°
+    Attention en fin de cuisson cela a tendance a colorer très vite
+    Une fois refroidie couper en petit carré de 3 cm 
+    Régalez vous!
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Dans une casserole <OPER id="o_1">verser</OPER> le <INGRED id="2">sucre</INGRED>, le <INGRED id="2">miel</INGRED> et le beurre. Lorsque tout est fondue est homogène <OPER id="o_2">ajouter</OPER> les <OPER id="o_3">amandesÉtaler</OPER> le tout sur votre <INGRED id="5">pâte</INGRED> sablée, <OPER id="o_4">enfourner</OPER> 10 min à 180 ° Attention en fin de cuisson cela a tendance a <OPER id="o_5">colorer</OPER> très vite Une fois refroidie <OPER id="o_6">couper</OPER> en petit carré de 3 cm <OPER id="o_7">Régalez</OPER> vous !
+  </annotation>
+  <annotation methode="crf">
+  Dans une casserole verser le <INGRED>sucre</INGRED> <INGRED>,</INGRED> le <INGRED>miel</INGRED> et le <INGRED>beurre</INGRED> <INGRED>.</INGRED> Lorsque tout est fondue est homogène ajouter les amandesÉtaler le tout sur votre <INGRED>pâte</INGRED> sablée <INGRED>,</INGRED> enfourner 10 min à 180 ° Attention en fin de cuisson cela <INGRED>a</INGRED> tendance <INGRED>a</INGRED> colorer très vite Une fois refroidie couper en <INGRED>petit</INGRED> <INGRED>carré</INGRED> de 3 <INGRED>cm</INGRED> Régalez vous !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 1.4*X + 5.6</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = X + 5</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['bonne pâte sablée']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sucre']	 id:2	 quantité:35	 unité:g	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:3	 quantité:80	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['érable']	 id:4	 quantité:50	 unité:g sirop d'	 denombrable:False	 recipient:1
+ingredient:['amandes effilées']	 id:5	 quantité:130	 unité:g	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:verser	 id:o_1	 ingrédients_ralatifs:['2', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:amandesétaler	 id:o_3	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfourner	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:colorer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:régaler	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

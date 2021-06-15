@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24381">
+  <titre>Kebabs de poulet</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 blancs de poulet</p>
+    <p>1 cuillère à soupe de jus de citron vert</p>
+    <p>1 jaune d'oeuf</p>
+    <p>quelques brins de coriandre</p>
+    <p>2 cuillères à café de Massalé</p>
+    <p>sel, poivre</p>
+    <p>huile</p>
+    <p>Pour la sauce :</p>
+    <p>2 yaourts nature veloutés</p>
+    <p>10 feuilles de menthe</p>
+    <p>1 cuillère à café de jus de citron vert</p>
+    <p>1/2 cuillère à café de massalé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Sauce : mélangez les yaourts veloutés, les feuilles de menthe ciselées, le jus de citron vert, salez et poivrez. 
+    Hachez les blancs de poulet. Ajoutez les jaunes d'oeufs, les feuilles de coriandre ciselées, 1 cuillère à soupe de jus de citron vert et le massalé. Salez, poivrez. Mélangez. 
+    Formez avec cette préparation 4 "boudins". Placez ces kebabs dans un plat à four légèrement huilé. Mettez au four Th 6 (180°C) pendant 10 mn, en retournant à mi-cuisson. 
+    Servez avec la sauce et des pommes de terre au four, du riz ou des concombres coupés en dés assaisonnés avec la même sauce.
+    Le massalé est un mélange d'épices (coriandre, cumin, clous de girofle, moutarde). Vous pouvez le remplacer par du curry en poudre si vous préférez.
+    Pour la sauce, il est possible d'utiliser de la menthe séchée si vous la préparez suffisament à l'avance (pour que la menthe se réhydrate et donne du goût).
+  ]]>
+  </preparation>
+</recette>

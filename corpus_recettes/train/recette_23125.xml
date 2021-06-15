@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23125">
+  <titre>Mon cheesecake (gâteau au fromage blanc)</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de fromage blanc battu 0 %</p>
+    <p>4 oeufs</p>
+    <p>100 g de fructose (un peu plus pour certains, ou du sucre) </p>
+    <p>2 cuillères à dessert de vanille liquide</p>
+    <p>100 g de farine</p>
+    <p>1 moule à manqué de 24 à 26 cm</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, fouetter les jaunes d'oeufs avec le sucre. 
+    Ajouter le fromage blanc et la vanille liquide et continuer de battre. 
+    Incorporer ensuite la farine et mélanger. 
+    Battre les blancs en neige très ferme, les incorporer au mélange en soulevant la masse pour ne pas les briser. 
+    Verser la pâte dans un moule légérement huilé et enfourner 45 à 50 min à 200°C (th 6-7). 
+    Laisser refroidir 15 min dans le moule, puis démouler, et laisser refroidir environ 1 h à l'air libre, puis au minimum 2 h au frigo avant de la manger.
+    Le gâteau gonfle énormément dans le four, c'est pour ça que je vous conseille un moule à manqué de 26 cm (car mon moule étant un peu plus petit j'ai eu peur que le gâteau ne retombe sur les côtés)
+  ]]>
+  </preparation>
+</recette>

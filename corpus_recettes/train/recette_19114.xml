@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19114">
+  <titre>Poisson sauce courgettes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>un joli filet de poisson blanc</p>
+    <p>10 cl de crème liquide</p>
+    <p>une courgette moyenne</p>
+    <p>sel, poivre</p>
+    <p>herbes et épices au choix et en quantité sinon, c'est très fade</p>
+    <p>du riz, pour la garniture (ma préférence va vers une selection de trois riz, mais chacun fait ce qu'il veut...) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper les courgettes lavées en petits dés, les faire revenir à feu doux dans l'huile d'olive. Quand elles sont bien cuites (molles, en fait), les mixer aver la crème, les divers épices et herbes choisis, sel et poivre. 
+    Faire cuire le poisson à la poêle. 
+    Disposer le poisson dans les assiettes, le recouvrir de sauce (la réchauffer avant), disposer le riz à côté, et servir.
+     un blanc sec, avec du poisson, c'est mieux...
+  ]]>
+  </preparation>
+</recette>

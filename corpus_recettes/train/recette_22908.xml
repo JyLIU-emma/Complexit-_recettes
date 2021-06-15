@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22908">
+  <titre>Clafoutis aux cerises (type flan)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>750 g cerises</p>
+    <p>3 oeufs</p>
+    <p>1/2 L lait</p>
+    <p>150 g sucre</p>
+    <p>60 g farine</p>
+    <p>30 g beurre</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dénoyauter les cerises. 
+    Faire fondre le beurre. 
+    Mettre la farine en fontaine dans un saladier. 
+    Ajouter au centre: le sel, le beurre fondu et la moitié du sucre environ. 
+    Battre les oeufs en omelette et les ajouter à la préparation. 
+    Mélanger en ajoutant le lait froid. 
+    Préchauffer le four Th 190°c. 
+    Beurrer un moule. 
+    Ajouter les cerises à la pâte et verser dans le moule. 
+    Enfourner 40 mn puis saupoudrer le reste de sucre et réenfourner 20 mn. Il faut que les bords du clafoutis soit bien caramélisés avant d'arrêter le four.
+    Eteindre le four et laisser refroidir le clafoutis dedans avant de le sortir.
+    Le démouler uniquement quand il est bien froid (le plus facile étant par double retournement sur deux plats).
+    On peut remplacer les cerises par des poires(4) ou des abricots ou des pruneaux.
+  ]]>
+  </preparation>
+</recette>

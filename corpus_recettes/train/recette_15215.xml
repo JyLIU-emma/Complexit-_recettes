@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15215">
+  <titre>Flan de roquefort aux herbes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de roquefort</p>
+    <p>200 g de crème épaisse (8 cuillers à soupe)</p>
+    <p>quatre oeufs = 3 jaunes</p>
+    <p>sel et poivre</p>
+    <p>ciboulette, aneth, cerfeuil, coriandre, ou toute autre herbe à votre goût</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixer ensemble la totalité des ingrédients, assaisonnez à votre goût.
+    Verser la préparation dans des ramequins, sans remplir à ras bord.
+    Faites cuire 20 mn au bain marie au four(mettre de l'eau dans un plat à gratin et installer les ramequins), en recouvrant la préparation d'un papier d'alu.
+    Sevir tiède ou froid sur une salade (mesclun ou jeunes pousses) assaisonnée de trois cuillers d'huile de noisette, une cuiller d'huile d'olive, quelques gouttes de vinaigre. Parsemer de noix fraîches concassées et de jambon de parme.
+    Variante : avec tout type de fromage, ou remplacer les herbes par des champignons, du saumon...
+  ]]>
+  </preparation>
+</recette>

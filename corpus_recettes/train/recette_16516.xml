@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16516">
+  <titre>Conserve de pâté de porc</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de foie de porc</p>
+    <p>1 kg de poitrine de porc fraîche</p>
+    <p>1 kg de gorge de porc</p>
+    <p>2 oeufs par kg de viande</p>
+    <p>25 g de sel par kg de viande</p>
+    <p>4 g de poivre du moulin par kilo de viande</p>
+    <p>noix de muscade</p>
+    <p>12 cl de cognac</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher toute la viande et mélanger le tout avec les ingrédients.
+    Mettre en bocaux et stériliser 2 heures et quart, en prenant soin de couvrir les bocaux d'eau et de les emmailloter pour éviter qu'ils n'éclatent!Laisser refroidir dans le stérilisateur et vérifier le lendemain l'étanchéité des bocaux.
+    Au besoin, vous pouvez restériliser une demi-heure le lendemain pour plus de sécurité.NB: utiliser de préference des bocaux de 500 ml au maximum.
+  ]]>
+  </preparation>
+</recette>

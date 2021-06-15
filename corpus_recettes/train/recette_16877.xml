@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16877">
+  <titre>Pâte à tarte moelleuse rapide</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 oeuf</p>
+    <p>1 ou 2 cuillères à soupe de sucre</p>
+    <p>3 grosses cuillères à soupe de crème fraiche</p>
+    <p>2 cuillères à soupe d'huile neutre</p>
+    <p>120 g de farine</p>
+    <p>1 sachet de levure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Bien travailler les ingrédients dans l'ordre donné. Ajouter la farine (mélangée à  la levure) au fur et à mesure, jusqu'à obtenir une pâte élastique.
+    Laisser reposer un peu la pâte avant de l'utiliser.Pâte excellente avec des pommes / sucre vanillé / crème.
+  ]]>
+  </preparation>
+</recette>

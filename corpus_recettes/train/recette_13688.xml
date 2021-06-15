@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13688">
+  <titre>Gateau aux pommes champêtre</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 oeufs</p>
+    <p>6 pommes</p>
+    <p>200 g de sucre</p>
+    <p>175 g de farine</p>
+    <p>200 g de beurre</p>
+    <p>1/2 sachet de levure</p>
+    <p>3 pommes coupées en lammelles</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre les oeufs, puis y ajouter 8 cuillères de sucre. Battre jusqu'a ce que le melange blanchisse.
+    Ajouter la farine et le beurre ramoli, ainsi que la levure.
+    Faire un caramel blond dans le fond du moule. Disposer les pommes sur le caramel, puis verser la pate sur les fruits.
+    Cuire au four à 200°C pendant 45 mn.
+    On peut rajouter un fond de verre de calva. On peut également remplacer les pommes par des poires.
+  ]]>
+  </preparation>
+</recette>

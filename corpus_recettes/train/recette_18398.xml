@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18398">
+  <titre>Gâteau Saint Emilion</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la crème:</p>
+    <p>2 paquets de macarons</p>
+    <p>220 g beurre</p>
+    <p>220 g sucre glace</p>
+    <p>4 jaunes d'oeufs</p>
+    <p>10 cl lait</p>
+    <p>220 g chocolat</p>
+    <p>cognac</p>
+    <p>Pour le glaçage:</p>
+    <p>100 g chocolat</p>
+    <p>70 g beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    A préparer la veille1/ travailler le beurre mou avec le sucre.
+    2/ verser lentement le lait chaud sur les jaunes battus.
+    3/ fondre le chocolat avec 2/3 cuillères à soupe d'eau.Mélanger les 3 préparations jusqu'à obtention d'une crème épaisse.
+    Tapisser un moule à charlotte avec les macarons trempés dans du cognac et de l'eau.
+    Mettre la moitié de la crème, une couche de biscuits, le reste de crème, le reste de biscuits
+    Mettre au frigo toute la nuit
+    Ajouter le glaçage au dernier moment.
+  ]]>
+  </preparation>
+</recette>

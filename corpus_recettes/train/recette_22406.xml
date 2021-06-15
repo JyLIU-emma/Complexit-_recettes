@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22406">
+  <titre>Pâté de saumon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 oeufs</p>
+    <p>1 boîte de saumon</p>
+    <p>1 boîte moyenne de champignons de Paris</p>
+    <p>3 biscottes</p>
+    <p>sel, poivre</p>
+    <p>un gros bouquet de persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre à tremper les biscottes dans l'eau du saumon et des champignons. 
+    Les presser pour retirer l'eau, bien les écraser. 
+    Mélanger un gros bouquet de persil, les champignons, les biscottes écrasées et les oeufs, battus en omelette, sel, poivre. 
+    Ajouter le saumon à la préparation et ne remuer qu'une fois. 
+    Verser le tout dans un moule à cake huilé et chaud. 
+    Mettre au four une heure thermostat 6/7 (195°C ). 
+    Servir froid
+     blanc sec
+  ]]>
+  </preparation>
+</recette>

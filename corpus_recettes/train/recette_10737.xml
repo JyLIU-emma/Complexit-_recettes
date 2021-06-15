@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10737">
+  <titre>Blancs de poulet aux oignons nouveaux</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 blancs de poulet</p>
+    <p>500 g d’oignons nouveaux</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>1 bouquet d’estragon</p>
+    <p>40 g de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et couper les oignons en deux  puis les faire revenir quelques minutes, réserver.
+    Ouvrir les blancs de poulet en deux et les faire dorer sur les deux faces à feu vif pendant 10 min dans du beurre.
+      
+    Les assaisonner et les retirer de la poêle.
+    Déglacer la poêle avec le vin blanc et remettre les blancs de poulet avec les feuilles d’estragon et les oignons.
+      
+    Assaisonner de nouveau.
+    Servir avec un riz au safran Rosé
+  ]]>
+  </preparation>
+</recette>

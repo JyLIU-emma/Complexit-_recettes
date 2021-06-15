@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20062">
+  <titre>Tarte au crabe à l'antillaise</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée étalée</p>
+    <p>2 boîtes de crabe en conserve</p>
+    <p>3 oeufs</p>
+    <p>1 oignon, 1 cive (oignon pays) </p>
+    <p>ail, persil</p>
+    <p>1 cuillère à soupe d'huile d’olive</p>
+    <p>jus de citron</p>
+    <p>20 g de crème fraîche allégée</p>
+    <p>sel, poivre</p>
+    <p>piment (selon goût) </p>
+    <p>chapelure ou fromage râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la pâte dans un plat à tarte. 
+    Dans une poêle faire revenir dans l’huile d’olive l’oignon, la cive, l’ail et le persil hachés. Y ajouter le crabe égoutté, le filet de jus de citron. Faire revenir 5 mn. 
+    Hors du feu, incorporer les oeufs et la crème. 
+    Assaisonner selon votre goût. 
+    Saupoudrer au choix de chapelure ou de fromage râpé. 
+    Verser sur la pâte et cuire à four chaud, bas, thermostat 7 pendant 40 à 45 mn.
+    La garniture peut aussi être employée pour remplir des coquilles de crabe. Vin rouge léger
+  ]]>
+  </preparation>
+</recette>

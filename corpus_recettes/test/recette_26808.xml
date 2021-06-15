@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26808">
+  <titre>Soles grillées aux cèpes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 soles vidées écaillées</p>
+    <p>500 g de cèpes frais</p>
+    <p>75 g de beurre</p>
+    <p>2 gousses d'ail</p>
+    <p>1 bouquet de persil</p>
+    <p>1 citron</p>
+    <p>farine</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pressez les gousses d'ail, ajoutez le persil finement haché.
+    Salez et poivrez les soles, passez-les dans la farine. Tapotez pour retirer l'excédent.
+    Lavez et séchez les cèpes, émincez-les. Faites-les sauter à la poêle dans la moitié du beurre.
+    Salez, poivrez. Ajoutez l'ail et le persil, mélangez et laissez cuire à feu doux, salez, poivrez.
+    Pendant ce temps, faites cuire les soles à la poêle dans le reste du beurre chaud.
+    Retournez-les au bout de 6 minutes, laissez bien griller.
+    Déposez les soles dans les assiettes, ainsi que les champignons persillés. Déglacez la poêle des poissons avec le jus du citron en grattant bien, et versez sur les assiettes.
+    Accompagnez de pommes de terre rissolées ou de riz blanc.
+  ]]>
+  </preparation>
+</recette>

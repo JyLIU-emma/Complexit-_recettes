@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17341">
+  <titre>Gaspacho de fraises</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de fraises parfumées</p>
+    <p>1 jus de citron</p>
+    <p>4 cuillères à soupe de sucre glace</p>
+    <p>1 pêche jaune ou 1 abricot</p>
+    <p>1 poire</p>
+    <p>100 g de myrtilles</p>
+    <p>4 tranches de pain d'épices</p>
+    <p>10 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixer les fraises avec la moitié du jus de citron et le sucre glace. Passer au tamis, dresser dans des assiettes ou des petits bols à soupe et garder au frais.
+    Couper la pêche et la poire en petits dés et les citronner afin qu'ils ne s'oxydent pas.
+    Couper également le pain d'épices en petits dés et faire rôtir ces derniers dans un peu de beurre.
+    Présenter les dés de fruits et de pain d'épices en accompagnement du 'gaspacho'.
+    Dessert léger, facile et rapide à préparer pour les repas d'été. Vin du Bugey Cerdon ou Anjou rosé de Mark Angeli
+  ]]>
+  </preparation>
+</recette>

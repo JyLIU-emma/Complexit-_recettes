@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20899">
+  <titre>Galettes bretonnes complètes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de farine de blé noir</p>
+    <p>150 g de farine de froment</p>
+    <p>1 oeuf</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>2 cuillères à café de sel</p>
+    <p>1,5 litre d'eau Pour la garniture :</p>
+    <p>15 tranches de jambon</p>
+    <p>30 oeufs</p>
+    <p>300 g de gruyère</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher le jambon.
+    Malaxer la farine avec l'huile, l'oeuf et le sel puis verser l'eau petit à petit. La pâte doit être fluide.
+    Laisser reposer 1 heure puis les cuire dans une poêle bien chaude légèrement graissée.
+    Retourner la crêpe et casser un oeuf dessus. Ajouter l'équivalent d'1/2 tranche de jambon et 10 g de gruyère.
+    Lorsque le blanc d'oeuf est cuit, repliez les côtés de la crêpes vers le centre. Saler, poivrer et servir.
+  ]]>
+  </preparation>
+</recette>

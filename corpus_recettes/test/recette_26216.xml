@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26216">
+  <titre>Rouelle créole</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 rouelle de porc d'environ 1,2 kg</p>
+    <p>Le jus de 2 citrons verts</p>
+    <p>1 bon verre de rhum blanc</p>
+    <p>1,5 verre de bouillon de volaille ou de fond de veau</p>
+    <p>1/2 verre de sucre roux</p>
+    <p>gingembre moulu, plus éveventuellement une pincée de 4 épices</p>
+    <p>huile pour faire revenir</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>1 piment oiseau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir la rouelle dans une cocotte (ou une sauteuse si la rouelle est trop grande pour le fond de votre cocotte). 
+    Jeter l'huile et remettre la rouelle dans la cocotte. 
+    Délayer la farine dans le bouillon, y ajouter le sucre, le jus des citrons verts, le rhum et les épices. 
+    Verser ce mélange sur la rouelle. 
+    Ajouter dans la cocotte le piment entier. 
+    Fermer et faire cuire sous pression environ 1 heure.
+    Pour ce plat, j'utilise du rhum arrangé aux épices, et je ne mets que du gingembre dans ma cocotte. Le 4 épices est destiné à compenser le petit quelque-chose qui risque de manquer avec un rhum nature.
+  ]]>
+  </preparation>
+</recette>

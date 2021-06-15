@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164540">
+  <titre>Osso-bucco de dinde aux endives</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 morceaux de dinde (pour osso-bucco)</p>
+    <p>1 kg d'endives</p>
+    <p>70 g de double concentré de tomates</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>1 gros oignon</p>
+    <p>sel poivre thym eau</p>
+    <p>10 cl de crème fraiche épaisse</p>
+    <p>gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Faire dorer les osso-bucco dans une cocotte minute, les saler et poivrer.
+    les retirer puis faire fondre sans coloration l'oignon émincé.
+    Ajouter les endives et les faire suer.
+    dans un bol, détendre le double concentré de tomate avec le vin blanc.
+    Le verser sur les endives et rajouter un peu d'eau.
+    Disposer sur les endives les osso-bucco et fermer la cocotte minute.
+    Une fois sous pression compter 20 min et enlever la vapeur.
+    Dans un plat creux allant au four, disposez les endives, par dessus les ossos-bucco et diluer 10 dl de créme épaisse dans la sauce et la rajouter dans le plat.
+    Recouvrir de gruyére rapé et faire gratiner.Ce plat peut se préparer à l'avance, voire la veille et le mettre à gratiner au dernier moment.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  - Faire <OPER id="o_1">dorer</OPER> les osso - bucco dans une cocotte minute, les <OPER id="o_2">saler</OPER> et <OPER id="o_3">poivrer</OPER>. les <OPER id="o_4">retirer</OPER> puis faire <OPER id="o_5">fondre</OPER> sans coloration l'<INGRED id="3">oignon</INGRED> émincé. <OPER id="o_6">Ajouter</OPER> les endives et les faire <OPER id="o_7">suer</OPER>. dans un bol, <OPER id="o_8">détendre</OPER> le double <INGRED id="7">concentré de tomate</INGRED> avec le <INGRED id="2">vin blanc</INGRED>. Le <OPER id="o_9">verser</OPER> sur les endives et <OPER id="o_10">rajouter</OPER> un peu d'<INGRED id="8">eau</INGRED>. <OPER id="o_11">Disposer</OPER> sur les endives les osso - bucco et <OPER id="o_12">fermer</OPER> la cocotte minute. Une fois sous pression <OPER id="o_13">compter</OPER> 20 min et <OPER id="o_14">enlever</OPER> la vapeur. Dans un plat creux allant au four, <OPER id="o_15">disposez</OPER> les endives, par dessus les ossos - bucco et <OPER id="o_16">diluer</OPER> 10 dl de créme épaisse dans la <INGRED id="5">sauce</INGRED> et la <OPER id="o_17">rajouter</OPER> dans le plat. <OPER id="o_18">Recouvrir</OPER> de gruyére rapé et faire <OPER id="o_19">gratiner</OPER>. Ce plat peut se <OPER id="o_20">préparer</OPER> à l'avance, voire la veille et le <OPER id="o_21">mettre</OPER> à <OPER id="o_22">gratiner</OPER> au dernier moment.
+  </annotation>
+  <annotation methode="crf">
+  - Faire dorer les osso - bucco dans une cocotte minute <INGRED>,</INGRED> les saler et poivrer. les retirer puis faire fondre sans coloration l'<INGRED>oignon émincé</INGRED> <INGRED>.</INGRED> Ajouter les <INGRED>endives</INGRED> et les faire suer. dans un bol <INGRED>,</INGRED> détendre le <INGRED>double</INGRED> <INGRED>concentré de tomate</INGRED> avec le <INGRED>vin blanc</INGRED> <INGRED>.</INGRED> Le verser sur les <INGRED>endives</INGRED> et rajouter un peu d'<INGRED>eau</INGRED> <INGRED>.</INGRED> Disposer sur les <INGRED>endives</INGRED> les osso - bucco et fermer la cocotte minute <INGRED>.</INGRED> Une fois sous pression compter 20 min et enlever la vapeur. Dans un plat creux allant au four <INGRED>,</INGRED> disposez les <INGRED>endives</INGRED> <INGRED>,</INGRED> par dessus les ossos - bucco et diluer 10 dl de créme épaisse dans la <INGRED>sauce</INGRED> et la rajouter dans le plat <INGRED>.</INGRED> Recouvrir de gruyére rapé et faire gratiner <INGRED>.</INGRED> Ce plat peut se préparer à l'avance <INGRED>,</INGRED> voire la veille et le mettre à gratiner au dernier moment.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 11.8461538461538*X + 10.1538461538462</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 7*X + 10</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['morceaux de dinde', 'morceaux']	 id:1	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['endives']	 id:2	 quantité:1	 unité:kg d'	 denombrable:False	 recipient:1
+ingredient:['double concentré de tomates', 'concentré']	 id:3	 quantité:70	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['vin blanc sec', 'vin']	 id:4	 quantité:10	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['oignon']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sel poivre thym eau', 'sel']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraiche épaisse', 'crème']	 id:7	 quantité:10	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['gruyère râpé', 'gruyère']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:dorer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:saler	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_4	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fondre	 id:o_5	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:suer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:détendre	 id:o_8	 ingrédients_ralatifs:['7', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_9	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rajouter	 id:o_10	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:fermer	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:compter	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enlever	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_15	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:diluer	 id:o_16	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rajouter	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recouvrir	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:gratiner	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparer	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:mettre	 id:o_21	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:gratiner	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

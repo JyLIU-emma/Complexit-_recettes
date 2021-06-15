@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20444">
+  <titre>Haricots cocos vinaigrette aux olives</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de haricots cocos frais écossés</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>1 cuillère à soupe de vinaigre</p>
+    <p>1 gousse d'ail</p>
+    <p>2 cuillères à soupe de ciboulette hachée</p>
+    <p>4 tomates</p>
+    <p>100 g d'olives noires</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les haricots à l'eau bouillante pendant 15 min environ en salant à mi-cuisson. 
+    Egouttez-les et laissez-les refroidir. 
+    Emulsionnez l'huile avec le vinaigre, l'ail pilé, la ciboulette, du sel et du poivre.
+    Melez les haricots aux tomates tranchées et aux olives puis arrosez de vinaigrette.
+  ]]>
+  </preparation>
+</recette>

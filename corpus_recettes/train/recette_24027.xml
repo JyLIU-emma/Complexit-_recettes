@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24027">
+  <titre>Sauté de veau au vin blanc et paprika</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,2 kg de viande de veau en morceaux</p>
+    <p>75 g de beurre</p>
+    <p>3 échalotes</p>
+    <p>2 gousse d'ail</p>
+    <p>30 cl de vin blanc sec</p>
+    <p>30 g de concentré de tomate</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>2 cuillères à café de paprika</p>
+    <p>1 bouquet garni</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre le beurre à fondre dans une cocotte-minute et y faire dorer la viande et les échalotes ciselées.
+    Incorporer la farine et le paprika.
+    Mélanger et arroser de vin blanc et d'eau jusqu'à recouvrir la viande.
+    Ajouter le bouquet garni, le concentré de tomate et l’ail ciselé. Assaisonner de sel et de poivre.
+    Laisser mijoter pendant 15 min.
+  ]]>
+  </preparation>
+</recette>

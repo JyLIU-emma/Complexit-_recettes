@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18632">
+  <titre>Chenklish ou fromage libanais</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 fromage libanais "chenklish"</p>
+    <p>4 tomates</p>
+    <p>2 oignons</p>
+    <p>5 cuillères à soupe d'huile d'olive</p>
+    <p>2 cuillères à café de cumin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les tomates et les oignons en petits dés. 
+    Effritez le fromage à l'aide d'un couteau afin de le réduire en morceaux le plus petits possible (surtout ne pas enlever la pellicule d'herbes qui l'entoure car c'est elle qui lui donne ce goût si particulier). 
+    Ajoutez le cumin et un peu de poivre. 
+    Mélangez le tout. 
+    Mouillez avec l'huile d'olive et en rajouter si l'ensemble est trop sec. Le fromage libanais appelé "Chenklish" se présente sous la forme d'une boule sèche que l'on ne trouve que chez un traiteur libanais. un vin libanais rouge ou rosé, un Ksara par exemple.
+  ]]>
+  </preparation>
+</recette>

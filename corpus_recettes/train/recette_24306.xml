@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24306">
+  <titre>Salade de poissons fumés aux avocats</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>300 g de saumon fumé</p>
+    <p>300 g de truite fumée</p>
+    <p>300 g de maquereau fumé</p>
+    <p>150 g de thon fumé</p>
+    <p>3 avocats</p>
+    <p>1 pamplemousse</p>
+    <p>1 citron</p>
+    <p>1 botte de cresson ou de mâche</p>
+    <p>1 échalote</p>
+    <p>6 cuillères à soupe d'huile</p>
+    <p>2 cuillères à soupe de vinaigre de Xérès</p>
+    <p>2 cuillères à soupe de fines herbes (persil, cerfeuil, aneth, basilic...)</p>
+    <p>1 cuillère à soupe de poivre vert concassé</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver la mâche ou le cresson, essorez et disposez-la dans un grand plat creux.
+    Pelez les avocats, coupez-les en lamelles ou en dés. Arrosez-les de jus de citron.
+    Pelez le pamplemousse à vif et coupez la chair en morceaux.
+    Coupez les poissons fumés en lanières, disposez-les sur la salade, répartissez dessus les dés d'avocat et les morceaux de pamplemousse.
+    Hachez l'échalote. Ajoutez l'huile, le vinaigre, 1 cuillère à soupe de jus de citron, les fines herbes, le poivre vert, salez et poivrez.
+    Emulsionnez un peu la sauce et versez-la sur le plat.
+    Accompagnez cette salade de pain grillé et beurre salé !
+  ]]>
+  </preparation>
+</recette>

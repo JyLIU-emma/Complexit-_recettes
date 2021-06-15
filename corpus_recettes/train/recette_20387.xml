@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20387">
+  <titre>Steack aux échalotes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 steacks</p>
+    <p>1 échalote</p>
+    <p>5 cl de vin rouge</p>
+    <p>un peu de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer l'échalote finement. 
+    Faire cuire l'échalote dans une poêle avec un peu de gras (margarine), jusqu'à ce qu'elle soit fondue et légèrement dorée. Réserver. 
+    Faire cuire les steacks à la cuisson désirée. Réserver. 
+    Remettre les échalotes dans la poêle, ajouter un peu de farine, mélanger, ajouter le vin, un peu d'eau, laisser réduire jusqu'à obtenir la consistance désirée. 
+    Verser la sauce sur les steacks, c'est prêt!
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14767">
+  <titre>Tarte tomate mozzarella sauce basilic</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tomates</p>
+    <p>1 sachet de mozzarella</p>
+    <p>2 gousses d'ail, basilic, huile olive</p>
+    <p>1 pâte brisée toute prête</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire la pâte à blanc pendant 5 mn à thermostat 7.
+    Préparer la sauce : mélanger 4 cuillères à soupe d'huile d'olive, les gousses d'ail pressées, et le basilic (en surgelé ou quelques feuilles fraîches).
+    Une fois la pâte pré-cuite, répartir les tomates puis la mozzarella en tranches, puis parmeser de sauce basilic.
+    Remettre à cuire environ 10 15 mn jusqu'à ce que la pâte soit bien cuite et la mozzarella légèrement dorée.
+  ]]>
+  </preparation>
+</recette>

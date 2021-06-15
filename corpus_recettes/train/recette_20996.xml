@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20996">
+  <titre>Glace à la fraise</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>30 cl de lait</p>
+    <p>1/2 gousse de vanille</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>300 g de fraises + fraises pour accompagnez la glace</p>
+    <p>130 g de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole, porter le lait et la vanille à ébullition.
+    Battre les jaunes d'œufs et 50 g de sucre jusqu'à l’obtention d’une mousse homogène. Incorporer le lait à la mousse et faire épaissir l’ensemble à feu doux sans porter à ébullition. Laisser refroidir.
+    Mixer les fraises et 150 g de sucre. Incorporer délicatement à la précédente préparation et faire glacer en sorbetière.
+  ]]>
+  </preparation>
+</recette>

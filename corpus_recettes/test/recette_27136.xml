@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27136">
+  <titre>Pain de poisson aux asperges</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la terrine :</p>
+    <p>1 kg de filets de poissons (bar, St-pierre, colin)</p>
+    <p>4 oeufs</p>
+    <p>100 g de crème fraîche</p>
+    <p>1 échalote</p>
+    <p>300 g de pointes d'asperges en boîte</p>
+    <p>200 g de mie de pain</p>
+    <p>un peu de lait froid</p>
+    <p>1 noix de beurre pour la terrine</p>
+    <p>sel et poivre</p>
+    <p>Pour la vinaigrette :</p>
+    <p>huile d'olive</p>
+    <p>vinaigre</p>
+    <p>ciboulette fraîche hachée</p>
+    <p>sel, poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 160°C (thermostat 5/6).
+    Peler et hacher l'échalote, puis la réserver. Déposer les pointes d'asperges dans une passoire, les rafraîchir sous l'eau, puis les laisser égoutter.
+    Déposer la chair du poisson dans le bol d'un mixeur, puis la mixer.
+    Mettre la mie de pain à tremper dans un peu de lait froid, puis la laisser gonfler pendant quelques minutes. Ajouter ensuite les oeufs entiers, puis la crème fraîche, l'échalote, le sel et le poivre.
+    Presser la mie de pain, puis l'incorporer au reste de la préparation. Bien mélanger le tout de façon à obtenir une préparation parfaitement homogène. Verser le mélange dans un moule à cake beurré en alternant pointes d'asperges et crème au poisson.
+    Déposer ensuite le moule à cake dans un bain-marie, puis laisser cuire 1 h à four chaud. Sortir la terrine cuite du four et la laisser refroidir à température ambiante avant de la déposer au réfrigérateur.
+    Préparer ensuite une sauce vinaigrette en mélangeant l'huile, le vinaigre et la ciboulette hachée.
+    Servir la terrine bien fraîche et accompagner de vinaigrette.
+  ]]>
+  </preparation>
+</recette>

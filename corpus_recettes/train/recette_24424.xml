@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24424">
+  <titre>Tarte aux poireaux et au saumon frais</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée (toute faite) </p>
+    <p>3 poireaux</p>
+    <p>2 filets de saumon</p>
+    <p>3 oeufs</p>
+    <p>1 petit pot de crème fraîche (8 %) </p>
+    <p>fromage râpé (facultatif) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les poireaux en rondelles (prendre le blanc et un petit peu de vert). 
+    Défaire les rondelles une à une pour pouvoir bien les laver. 
+    Faire cuire 20 mn les poireaux et le saumon à la vapeur. 
+    Puis défaire le saumon sur la pâte préalablement piquée, mettre les poireaux par dessus. 
+    Battre les oeufs, ajouter la crème et le fromage, sel et poivre (une pointe de noix de muscade est la bienvenue). 
+    Recouvrir la tarte du mélange et laissez cuire 20 mn à 200°C. 
+    A servir avec une salade.
+  ]]>
+  </preparation>
+</recette>

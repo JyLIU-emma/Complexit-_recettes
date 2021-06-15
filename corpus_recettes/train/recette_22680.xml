@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22680">
+  <titre>Blé au jambon et champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 tranche épaisse de jambon (250 g) </p>
+    <p>250 g de champignons (1 boîte de conserve) </p>
+    <p>100 g de beurre</p>
+    <p>300 g de blé</p>
+    <p>1 oignon</p>
+    <p>60 cl de bouillon de volaille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Chauffer le beurre dans la poêle et l'oignon haché. 
+    Ajouter le blé et le bouillon. 
+    Laisser frémir. 
+    Couvrir et laisser cuire jusqu’à évaporation (environ 20 mn). 
+    Couper le jambon en dés et verser dans le blé. 
+    Mélanger 2 mn. 
+    Ajouter les champignons. 
+    Laissez mijoter 5 mn et servez.
+  ]]>
+  </preparation>
+</recette>

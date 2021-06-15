@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21418">
+  <titre>Petits fours aux pépites de chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 sachet d'amandes en poudre (environ 200 g) </p>
+    <p>1 sachet de pepites de chocolat (environ 200 g) </p>
+    <p>125 g de sucre</p>
+    <p>2 blancs d'oeufs</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180/200°C. 
+    Monter les blancs en neige bien ferme avec la pincée de sel. 
+    Y ajouter en même temps l'amande, le sucre et les pépites de chocolat, mélanger à la fourchette pour obtenir un mélange homogène (ne pas avoir peur de casser les blancs). 
+    A l'aide d'une cuillère à café, disposer de petits tas de la préparation sur une plaque recouverte de papier sulfurisé. 
+    Mettre au four à mi hauteur, laisser cuire une dizaine de minutes, retirer les gâteaux une fois qu'il sont suffisamment dorés.
+    Vérifier que les gâteaux ont bien cuit en dessous, éventuellement, abaisser la plaque et les laisser quelques minutes de plus.
+  ]]>
+  </preparation>
+</recette>

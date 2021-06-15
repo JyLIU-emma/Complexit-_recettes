@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52904">
+  <titre>Escalopes de porc  flambées</titre>
+  <type>Plat principal</type>
+  <niveau>Difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>4 escalopes de porc assez fines</p>
+    <p>1 cuillère à soupe d'herbes de provence mélangées</p>
+    <p>500 g de champignons de Paris frais</p>
+    <p>1 bouquet de persil</p>
+    <p>1 gros oignon</p>
+    <p>30 g de beurre</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>5 cl de whisky</p>
+    <p>20 cl de crème fraîche épaisse</p>
+    <p>sel et poivre</p>
+    <p>cure-dents</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre la viande sur une planche et saupoudré l'intérieur et l'extérieur de sel et poivre, ainsi que les herbes de provence.
+    Nettoyer les champignons, les laver rapidement et les couper en lamelles.
+    Laver et hacher le persil, puis émincer l'oignon.
+    Faire revenir l'oignon dans le beurre chaud jusqu'à ce qu'il devienne transparent, ajouter les champignons et le persil, et bien faire revenir le tout. 
+    Répartir une partie de cette farce aux champignons sur l'un des cotés de l'escalope. Rabattre l'autre moitié et fixer le tout avec des cure-dents en bois.
+    Chauffer l'huile dans une poêle à frire, ajouter les escalopes et bien rôtir des deux cotés. Les arroser de whisky, flamber en remuant légèrement la poêle jusqu'à ce qu'il n'y ait plus de flammes.
+    Ajouter le reste de champignons et la crème fraîche épaisse,
+    laisser bouillonner 5 à 7 min. Attention de ne pas faire tourner la crème fraîche !
+    Rectifier l'assaisonnement.
+    Garder la poêle sur un réchaud et servir immédiatement.
+    On peut aussi utiliser du cognac.
+    Et on peut varier les champignons, selon le budget. En accompagnement : tagliatelles, frites ou pommes de terre rissolées. vin bordeau sec bien frais
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Mettre</OPER> la <INGRED id="1">viande</INGRED> sur une planche et saupoudré l'intérieur et l'extérieur de <INGRED id="5">sel</INGRED> et poivre, ainsi que les <INGRED id="5">herbes de provence</INGRED>. <OPER id="o_2">Nettoyer</OPER> les <INGRED id="11">champignons</INGRED>, les <OPER id="o_3">laver</OPER> rapidement et les <OPER id="o_4">couper</OPER> en lamelles. <OPER id="o_5">Laver</OPER> et <OPER id="o_6">hacher</OPER> le <INGRED id="5">persil</INGRED>, puis <OPER id="o_79">émincer</OPER> l'<INGRED id="5">oignon</INGRED>. Faire <OPER id="o_8">revenir</OPER> l'<INGRED id="3">oignon</INGRED> dans le beurre chaud jusqu'à ce qu'il devienne transparent, <OPER id="o_9">ajouter</OPER> les <INGRED id="1">champignons</INGRED> et le <INGRED id="6">persil</INGRED>, et bien <INGRED id="4">faire</INGRED> <OPER id="o_10">revenir</OPER> le tout. <OPER id="o_11">Répartir</OPER> une partie de cette farce aux <INGRED id="4">champignons</INGRED> sur l'un des cotés de l'<INGRED id="1">escalope</INGRED>. <OPER id="o_12">Rabattre</OPER> l'autre moitié et <OPER id="o_13">fixer</OPER> le tout avec des <INGRED id="12">cure - dents en bois</INGRED>. <OPER id="o_14">Chauffer</OPER> l'<INGRED id="5">huile</INGRED> dans une poêle à <OPER id="o_15">frire</OPER>, <OPER id="o_16">ajouter</OPER> les <INGRED id="1">escalopes</INGRED> et bien <OPER id="o_17">rôtir</OPER> des <INGRED id="6">deux</INGRED> cotés. Les <OPER id="o_18">arroser</OPER> de <INGRED id="8">whisky</INGRED>, <OPER id="o_19">flamber</OPER> en remuant légèrement la poêle jusqu'à ce qu'il n'y ait plus de flammes. <OPER id="o_20">Ajouter</OPER> le <INGRED id="1">reste</INGRED> de <INGRED id="2">champignons</INGRED> et la <INGRED id="9">crème fraîche épaisse</INGRED>, <INGRED id="12">laisser</INGRED> <OPER id="o_21">bouillonner</OPER> 5 à 7 min. Attention de ne pas <INGRED id="10">faire</INGRED> <OPER id="o_22">tourner</OPER> la crème fraîche ! <OPER id="o_23">Rectifier</OPER> l'assaisonnement. <OPER id="o_24">Garder</OPER> la poêle sur un réchaud et servir immédiatement. On peut aussi <OPER id="o_25">utiliser</OPER> du <INGRED id="7">cognac</INGRED>. Et on peut <OPER id="o_26">varier</OPER> les <INGRED id="3">champignons</INGRED>, selon le budget. En accompagnement : tagliatelles, <INGRED id="9">frites</INGRED> ou <INGRED id="12">pommes de terre</INGRED> rissolées. vin bordeau sec bien frais
+  </annotation>
+  <annotation methode="crf">
+  Mettre la <INGRED>viande</INGRED> sur une planche et saupoudré l'intérieur et l'extérieur de <INGRED>sel</INGRED> et <INGRED>poivre</INGRED> <INGRED>,</INGRED> ainsi que les <INGRED>herbes de provence</INGRED>. Nettoyer les <INGRED>champignons</INGRED> <INGRED>,</INGRED> les laver rapidement et les couper en <INGRED>lamelles</INGRED> <INGRED>.</INGRED> Laver et hacher le <INGRED>persil</INGRED> <INGRED>,</INGRED> puis émincer l'<INGRED>oignon</INGRED>. Faire revenir l'<INGRED>oignon</INGRED> dans le <INGRED>beurre</INGRED> chaud jusqu'à ce qu'il devienne transparent <INGRED>,</INGRED> ajouter les <INGRED>champignons</INGRED> et le <INGRED>persil</INGRED> <INGRED>,</INGRED> et bien faire revenir le tout <INGRED>.</INGRED> Répartir une partie de cette farce aux <INGRED>champignons</INGRED> sur l'un des cotés de l'escalope. Rabattre l'autre moitié et fixer le tout avec des <INGRED>cure</INGRED> - dents en bois. Chauffer l'<INGRED>huile</INGRED> dans une poêle à frire <INGRED>,</INGRED> ajouter les <INGRED>escalopes</INGRED> et bien rôtir des <INGRED>deux</INGRED> cotés <INGRED>.</INGRED> Les arroser de whisky <INGRED>,</INGRED> flamber en remuant légèrement la poêle jusqu'à ce qu'il n'y ait plus de flammes <INGRED>.</INGRED> Ajouter le <INGRED>reste</INGRED> de <INGRED>champignons</INGRED> et la <INGRED>crème fraîche</INGRED> épaisse <INGRED>,</INGRED> laisser bouillonner 5 à 7 min. Attention de ne pas faire tourner la <INGRED>crème fraîche</INGRED> ! Rectifier l'assaisonnement <INGRED>.</INGRED> Garder la poêle sur un réchaud et servir immédiatement. On peut aussi utiliser du <INGRED>cognac</INGRED> <INGRED>.</INGRED> Et on peut varier les <INGRED>champignons</INGRED> <INGRED>,</INGRED> selon le budget. En accompagnement <INGRED>:</INGRED> tagliatelles <INGRED>,</INGRED> <INGRED>frites</INGRED> <INGRED>ou</INGRED> <INGRED>pommes de terre</INGRED> rissolées. <INGRED>vin</INGRED> bordeau sec bien <INGRED>frais</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 33.5294117647059*X + 23.4705882352941</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 10*X + 14</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['escalopes de porc assez fines', 'escalopes']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['herbes de provence mélangées', 'herbes']	 id:2	 quantité:1	 unité:cuillère à soupe d'	 denombrable:True	 recipient:1*X
+ingredient:['champignons de Paris frais', 'champignons']	 id:3	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['bouquet de persil', 'bouquet']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['oignon']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['beurre']	 id:6	 quantité:30	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['huile']	 id:7	 quantité:3	 unité:cuillères à soupe d'	 denombrable:True	 recipient:3*X
+ingredient:['whisky']	 id:8	 quantité:5	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['crème fraîche épaisse', 'crème']	 id:9	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['cure-dents', 'cure']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mettre	 id:o_1	 ingrédients_ralatifs:['1', '5', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:nettoyer	 id:o_2	 ingrédients_ralatifs:['11']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:laver	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:couper	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:laver	 id:o_5	 ingrédients_ralatifs:['5', '9', '5']	 nombre_opération_atomique:1*X+1+1*X	 temps:1*X*1+1*X*1+1*X*1	 recipient:0
+operation:hacher	 id:o_6	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1*X*5	 recipient:1
+operation:émincer	 id:o_7	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:revenir	 id:o_8	 ingrédients_ralatifs:['3', '1', '6', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:['1', '6', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:revenir	 id:o_10	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:répartir	 id:o_11	 ingrédients_ralatifs:['4', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rabattre	 id:o_12	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fixer	 id:o_13	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_14	 ingrédients_ralatifs:['5', '1', '6']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:frire	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_16	 ingrédients_ralatifs:['1', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rôtir	 id:o_17	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:30*X	 temps:1*X*5	 recipient:1
+operation:arroser	 id:o_18	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:flamber	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_20	 ingrédients_ralatifs:['1', '2', '9', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:bouillonner	 id:o_21	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tourner	 id:o_22	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rectifier	 id:o_23	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garder	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:utiliser	 id:o_25	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:varier	 id:o_26	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

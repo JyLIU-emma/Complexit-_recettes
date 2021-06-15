@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23066">
+  <titre>Crumble d'été aux pêches</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la garniture:</p>
+    <p>8 pêches</p>
+    <p>sucre vanillé (un sachet) </p>
+    <p>un peu de sucre roux</p>
+    <p>Pour la pâte:</p>
+    <p>150 g de farine</p>
+    <p>50 g de sucre</p>
+    <p>120 g de beurre</p>
+    <p>un jaune d'oeuf</p>
+    <p>3 cuillères à soupe d'amandes hachées</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Éplucher les pêches et les couper en gros morceaux. 
+    Les mettre dans une poêle chaude et ajouter du sucre vanillé puis du sucre roux pour caraméliser un peu les pêches. Les laisser rissoler à feu moyen environ 10 mn. 
+    Les disposer au fond d'un plat après l'avoir beurré au préalable. 
+    Préchauffer le four Th 6 (180 degrés). 
+    Couper le beurre et le mélanger à la farine puis ajouter le sucre le sel et le jaune. Mélanger du bout des doigts afin d'obtenir un sable grossier. 
+    Émietter ce sable sur les pêches (un centimètre d'épaisseur) puis mettre les amandes. 
+    Enfourner pendant 20 min puis finir par deux minutes sou le grill.
+  ]]>
+  </preparation>
+</recette>

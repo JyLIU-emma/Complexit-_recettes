@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22296">
+  <titre>Salade grand bleu</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 grande tranche de saumon fumé</p>
+    <p>1 grosse tomate</p>
+    <p>1/2 boule de mozzarella</p>
+    <p>du mesclun</p>
+    <p>huile d'olive</p>
+    <p>vinaigre balsamique </p>
+    <p>basilic</p>
+    <p>sel poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper la tomate et la mozzarella en fines tranches, les poser sur le contour de l'assiette en les alternant (1 tr de tomate, 1 tr de mozza etc...) au centre de l'assiette positionner la tranche de saumon fumé. 
+    Former un petit tas de mesclun sur le côté de l'assiette et assaisonnez avec l'huile d'olive, le vinaigre, balsamique et le basilic, salez, poivrez.
+    L'alliance des 3 produits principaux est... Hmmmm... Parfaite!
+  ]]>
+  </preparation>
+</recette>

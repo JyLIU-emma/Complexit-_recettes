@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25743">
+  <titre>Paillasson au comté</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de pommes de terre</p>
+    <p>300 g de comté</p>
+    <p>200 g de farine</p>
+    <p>2 oeufs</p>
+    <p>2-3 gousses d'ail</p>
+    <p>1 bouquet de persil</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez et râpez les pommes de terre.
+    Mélangez-les avec les oeufs, la farine, l'ail écrasé, le persil haché, le comté râpé ou coupé en petits cubes, sel et poivre.
+    Formez des galettes dans une poêle avec un peu d'huile et de beurre. Cuire 10 min par face.
+    Le comté peut être remplacé par un autre fromage type cantal vieux, beaufort, emmental...
+  ]]>
+  </preparation>
+</recette>

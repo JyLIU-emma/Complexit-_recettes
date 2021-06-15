@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26415">
+  <titre>Gâteau aux noix nappé de crème vanillée</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour le gâteau :</p>
+    <p>125 g de farine</p>
+    <p>125 g de beurre</p>
+    <p>125 g de sucre</p>
+    <p>100 g de noix décortiquées</p>
+    <p>5 g de levure en poudre</p>
+    <p>2 oeufs entiers</p>
+    <p>Pour la crème à la vanille :</p>
+    <p>50 cl de lait</p>
+    <p>100 g de sucre</p>
+    <p>1 gousse de vanille</p>
+    <p>4 jaunes d'oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 160°C (thermostat 5).
+    Déposer les noix dans le bol de votre mixeur, puis les hacher finement.
+    Battre 2 jaunes d'oeufs dans une terrine avec le beurre ramolli et 125 g de sucre, puis bien travailler le mélange jusqu'à ce qu'il soit lisse.
+    Y incorporer ensuite la farine et les noix hachées, puis bien mélanger.
+    Monter 2 blancs en neige avec une pincée de sel, puis les incorporer délicatement au reste de la préparation avec la levure.
+    Bien mélanger pour obtenir un appareil parfaitement homogène, puis le verser dans un moule à charlotte préalablement beurré.
+    Enfourner à four chaud, puis laisser cuire 45 min.
+    Laisser refroidir le gâteau avant de le démouler, puis le glisser sur un plat de service creux.
+    Préparer ensuite la crème à la vanille :
+    Porter à ébullition le lait avec la vanille et le sucre.
+    Dans une terrine, battre 4 jaunes d'oeufs, puis verser dessus le lait à la vanille bouillant, sans cesser de remuer.
+    Verser la crème dans la casserole, puis la faire épaissir sur feu en continuant de tourner et sans porter à ébullition.
+    Laisser ensuite refroidir la crème à la vanille avant d'en napper le gâteau et de le déguster.
+  ]]>
+  </preparation>
+</recette>

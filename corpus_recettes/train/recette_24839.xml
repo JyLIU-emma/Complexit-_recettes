@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24839">
+  <titre>Purée d'aubergines et sa farce</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg d'aubergines</p>
+    <p>400 g de farce de viande</p>
+    <p>2 oeufs</p>
+    <p>3 cuillères à soupe de farine</p>
+    <p>2 échalotes</p>
+    <p>2 gousses d'ail</p>
+    <p>60 g de gruyère</p>
+    <p>40 g de beurre</p>
+    <p>4 cuillères à soupe de chapelure</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>2 cuillères à soupe de persil haché</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les aubergines en rondelles. Les faire sauter à la poêle dans 3 cuillères à soupe d'huile d'olive. Mettre un couvercle et laisser cuire à petit feu environ 20 minutes jusqu'à ce que les aubergines soient bien tendres.
+    Passer au moulin à légumes pour en faire une purée. Incorporer 3 cuillères à soupe de farine pour qu'elle épaississe.
+    Mélanger la viande, les oeufs battus, le persil, l'ail et l'échalote hachés finement. Assaisonner.
+    Préchauffer le four à 180°C (thermostat 6).
+    Dans un plat à gratin huilé : alterner une couche de purée d'aubergines, puis une couche de farce de viande et ainsi de suite en terminant par la purée d'aubergine.
+    Parsemer du mélange fromage-chapelure, disposer à la surface le beurre coupé en petits cubes et cuire environ 30 minutes.
+  ]]>
+  </preparation>
+</recette>

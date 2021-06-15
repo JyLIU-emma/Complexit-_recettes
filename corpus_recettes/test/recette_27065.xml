@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27065">
+  <titre>Risotto aux crevettes et saumon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 oignon</p>
+    <p>500 ml de bouillon de poissons</p>
+    <p>25 g de beurre</p>
+    <p>200 g de riz rond italien</p>
+    <p>vin blanc sec</p>
+    <p>1/2 sachet de safran (poudre) </p>
+    <p>parmesan râpé</p>
+    <p>10 à 20 petites crevettes roses</p>
+    <p>1 darne de saumon</p>
+    <p>sel, poivre noir</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Peler l'oignon et le couper finement. 
+    2) Faire chauffer le bouillon. 
+    3) Faire fondre la moitié du beurre dans une grand poêle et faire revenir l'oignon. 
+    4) Ajouter le riz et arroser de vin. Augmenter le feu pour faire évaporer le vin tout en remuant, puis réduire le feu. 
+    5) Verser une louchée de bouillon sur le riz et faire cuire jusqu'à évaporation. Faire de même, louchée après louchée, en remuant sans cesse. Le risotto doit épaissir. 
+    6) Faire cuire le saumon et les crevettes. 
+    7) Avant de verser la dernière louchée, diluer le safran dans le bouillon et le verser sur le risotto. 
+    8) Continuer à remuer, jusqu'à ce que le risotto soit crémeux, bien lié et que les grains soient "al dente". L'opération dure environ 20 mn. 
+    9) Incorporer les crevettes, le saumon, le reste de beurre et le parmesan. 
+    Goûter, saler et poivrer si besoin
+     vin blanc 
+  ]]>
+  </preparation>
+</recette>

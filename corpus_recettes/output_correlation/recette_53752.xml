@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53752">
+  <titre>Sablé citron - kiwi</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour le sablé citron-safran :</p>
+    <p>240 g de farine</p>
+    <p>100 g de beurre</p>
+    <p>100 g de sucre glace</p>
+    <p>100 g de poudre d'amandes</p>
+    <p>1 citron (zeste)</p>
+    <p>1 petite pincée de safran en poudre</p>
+    <p>Pour le croustillant Feuillantine :</p>
+    <p>200 g de chocolat de couverture au lait</p>
+    <p>200 g de praliné</p>
+    <p>150 g de pâte de noisettes</p>
+    <p>90 g de beurre</p>
+    <p>130 g de gavottes</p>
+    <p>Pour la crème Chiboust Kiwi :</p>
+    <p>200 g de crème</p>
+    <p>300 g de pulpe de kiwi</p>
+    <p>8 g de jaune d'oeuf</p>
+    <p>100 g de sucre</p>
+    <p>45 g de poudre à crème</p>
+    <p>25 g de kirsch</p>
+    <p>4 ou 10 g de gélatine (feuilles)</p>
+    <p>300 g de sucre</p>
+    <p>8 g de blanc d'oeuf</p>
+    <p>1 citron (zeste)Pour la ganache :</p>
+    <p>110 g de crème</p>
+    <p>25 g de sucre inverti</p>
+    <p>135 g de chocolat de couverture noir</p>
+    <p>25 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Sable citron safran :
+    Réaliser une pâte sablée en mélangeant la farine, le beurre, le sucre glace, la poudre d'amandes, le zeste de citron, le safran en poudre.
+     
+    Abaisser entre 2 feuilles de papier guitare, bloquer au froid.
+    Détailler des disques de  10cm  de diamètre  à l'emporte-pièces; cuire dans des moules en silicone à 170°C (Th 5-6) pendant 15 min.
+    Croustillant feuillantine :
+    Faire fondre la couverture de lait, ajouter le praliné et les gavottes émiettées, la pâte de noisettes, et le beurre pommade. Abaisser entre 2 feuilles de papier guitare, bloquer au froid.Détailler des disques de même diamètre que le fond de pâte sablée.
+     Crème Chiboust Kiwi :
+    Réaliser une crème pâtissière avec : la créme, la pulpe de kiwi, le sucre, la poudre de crème, les jaunes d'oeuf.
+    Hors du feu, ajouter le kirsch et les feuilles de gélatine ramollie à l'eau froide et pressées.
+    Réaliser une meringue italienne :
+    Cuire le sucre à 117°C, le verser sur les blancs montés. 
+    Incorporer la meringue dans la crème pâtissière encore chaude, puis laisser refroidir. Dresseur dans des moules en silicone, incruster des griottes; bloquer au froid.
+    Ganache :
+    Porter la crème et le sucre inverti à ébullition; verser sur le chocolat, puis mixer. Incorporer le beurre pommade, et réserver.
+    Montage :
+    Sur un disque de sablé, déposer un disque de croustillant feuillantine. Démouler un palet de crème chiboust kiwi, le caraméliser au fer (ou au chalumeau).A la ganache, dresser autour à la poche des petites pointes, poser dessus une tranche de kiwi confite; napper et décorer selon les goûts.Cette recette est une recette que j'ai apprise à mon école hôtelière.
+    Elle est assez difficile mais elle donne de très bons résultats!
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Sable <INGRED id="4">citron</INGRED> <INGRED id="16">safran</INGRED> : <OPER id="o_1">Réaliser</OPER> une <INGRED id="2">pâte</INGRED> sablée en mélangeant la <INGRED id="13">farine</INGRED>, le <INGRED id="5">beurre</INGRED>, le <INGRED id="8">sucre glace</INGRED>, la <INGRED id="3">poudre d'amandes</INGRED>, le <INGRED id="4">zeste de citron</INGRED>, le <INGRED id="6">safran en poudre</INGRED>. <OPER id="o_2">Abaisser</OPER> entre 2 <INGRED id="13">feuilles</INGRED> de <INGRED id="19">papier</INGRED> guitare, <OPER id="o_3">bloquer</OPER> au froid. <OPER id="o_4">Détailler</OPER> des disques de 10 cm de <INGRED id="10">diamètre</INGRED> à l'emporte - pièces ; <OPER id="o_5">cuire</OPER> dans des <INGRED id="10">moules</INGRED> en silicone à 170 ° C ( Th 5 - 6 ) pendant 15 min. Croustillant feuillantine : Faire <OPER id="o_6">fondre</OPER> la couverture de <INGRED id="13">lait</INGRED>, <OPER id="o_716">ajouter</OPER> le <INGRED id="6">praliné</INGRED> et les <INGRED id="11">gavottes</INGRED> émiettées, la <INGRED id="9">pâte de noisettes</INGRED>, et le <INGRED id="5">beurre</INGRED> pommade. <OPER id="o_8">Abaisser</OPER> entre 2 <INGRED id="13">feuilles</INGRED> de <INGRED id="19">papier</INGRED> guitare, <OPER id="o_9">bloquer</OPER> au froid. <OPER id="o_10">Détailler</OPER> des disques de même <INGRED id="10">diamètre</INGRED> que le <INGRED id="8">fond</INGRED> de <INGRED id="2">pâte</INGRED> sablée. <INGRED id="8">Crème</INGRED> Chiboust Kiwi : <OPER id="o_11">Réaliser</OPER> une <INGRED id="14">crème</INGRED> pâtissière avec : la <INGRED id="6">créme</INGRED>, la <INGRED id="13">pulpe de kiwi</INGRED>, le <INGRED id="8">sucre</INGRED>, la <INGRED id="3">poudre</INGRED> de crème, les <INGRED id="14">jaunes d'oeuf</INGRED>. Hors du feu, <OPER id="o_1216">ajouter</OPER> le <INGRED id="6">kirsch</INGRED> et les <INGRED id="4">feuilles</INGRED> de <INGRED id="10">gélatine</INGRED> ramollie à l'<INGRED id="5">eau froide</INGRED> et pressées. <OPER id="o_13">Réaliser</OPER> une meringue italienne : <OPER id="o_14">Cuire</OPER> le <INGRED id="12">sucre</INGRED> à 117 ° C, le <OPER id="o_15">verser</OPER> sur les <INGRED id="7">blancs</INGRED> montés. <OPER id="o_16">Incorporer</OPER> la meringue dans la crème pâtissière encore chaude, puis <INGRED id="12">laisser</INGRED> <OPER id="o_17">refroidir</OPER>. Dresseur dans des <INGRED id="10">moules</INGRED> en silicone, <OPER id="o_18">incruster</OPER> des griottes ; <OPER id="o_19">bloquer</OPER> au froid. Ganache : <OPER id="o_20">Porter</OPER> la <INGRED id="14">crème</INGRED> et le <INGRED id="23">sucre inverti</INGRED> à ébullition ; <OPER id="o_21">verser</OPER> sur le <INGRED id="3">chocolat</INGRED>, puis <OPER id="o_22">mixer</OPER>. <OPER id="o_23">Incorporer</OPER> le <INGRED id="3">beurre</INGRED> pommade, et réserver. Montage : Sur un disque de sablé, <OPER id="o_24">déposer</OPER> un disque de croustillant feuillantine. <OPER id="o_25">Démouler</OPER> un palet de crème chiboust <INGRED id="2">kiwi</INGRED>, le <OPER id="o_26">caraméliser</OPER> au fer ( ou au chalumeau).A la ganache, <OPER id="o_27">dresser</OPER> autour à la poche des petites pointes, <OPER id="o_28">poser</OPER> dessus une tranche de <INGRED id="2">kiwi</INGRED> confite ; <OPER id="o_29">napper</OPER> et <OPER id="o_30">décorer</OPER> selon les goûts. Cette recette est une recette que j'ai apprise à mon école hôtelière. Elle est assez difficile mais elle donne de très bons résultats !
+  </annotation>
+  <annotation methode="crf">
+  Sable <INGRED>citron</INGRED> safran <INGRED>:</INGRED> Réaliser une <INGRED>pâte</INGRED> sablée en mélangeant la <INGRED>farine</INGRED> <INGRED>,</INGRED> le <INGRED>beurre</INGRED> <INGRED>,</INGRED> le <INGRED>sucre glace</INGRED> <INGRED>,</INGRED> la <INGRED>poudre d'amandes</INGRED> <INGRED>,</INGRED> le <INGRED>zeste de citron</INGRED> <INGRED>,</INGRED> le <INGRED>safran en poudre</INGRED> <INGRED>.</INGRED> Abaisser entre 2 feuilles de papier guitare <INGRED>,</INGRED> bloquer au froid <INGRED>.</INGRED> Détailler des disques de 10 <INGRED>cm</INGRED> de diamètre à l'emporte - pièces ; cuire dans des <INGRED>moules</INGRED> en silicone à 170 ° C ( Th 5 - 6 ) pendant 15 min. Croustillant feuillantine <INGRED>:</INGRED> Faire fondre la couverture de <INGRED>lait</INGRED> <INGRED>,</INGRED> ajouter le <INGRED>praliné</INGRED> et les gavottes émiettées <INGRED>,</INGRED> la <INGRED>pâte</INGRED> de <INGRED>noisettes</INGRED> <INGRED>,</INGRED> et le <INGRED>beurre pommade</INGRED>. Abaisser entre 2 feuilles de papier guitare <INGRED>,</INGRED> bloquer au froid <INGRED>.</INGRED> Détailler des disques de même diamètre que le <INGRED>fond</INGRED> de <INGRED>pâte</INGRED> sablée <INGRED>.</INGRED> <INGRED>Crème</INGRED> Chiboust Kiwi <INGRED>:</INGRED> Réaliser une <INGRED>crème pâtissière</INGRED> avec <INGRED>:</INGRED> la créme <INGRED>,</INGRED> la pulpe de kiwi <INGRED>,</INGRED> le <INGRED>sucre</INGRED> <INGRED>,</INGRED> la <INGRED>poudre</INGRED> de <INGRED>crème</INGRED> <INGRED>,</INGRED> les <INGRED>jaunes d'oeuf</INGRED> <INGRED>.</INGRED> Hors du feu <INGRED>,</INGRED> ajouter le <INGRED>kirsch</INGRED> et les feuilles de <INGRED>gélatine</INGRED> ramollie à l'<INGRED>eau</INGRED> froide et pressées. Réaliser une meringue italienne <INGRED>:</INGRED> Cuire le <INGRED>sucre</INGRED> à 117 ° C <INGRED>,</INGRED> le verser sur les <INGRED>blancs</INGRED> montés <INGRED>.</INGRED> Incorporer la meringue dans la <INGRED>crème</INGRED> pâtissière encore chaude <INGRED>,</INGRED> puis laisser refroidir <INGRED>.</INGRED> Dresseur dans des <INGRED>moules</INGRED> en silicone <INGRED>,</INGRED> incruster des griottes ; bloquer au froid <INGRED>.</INGRED> Ganache <INGRED>:</INGRED> Porter la <INGRED>crème</INGRED> et le <INGRED>sucre</INGRED> inverti à ébullition ; verser sur le <INGRED>chocolat</INGRED> <INGRED>,</INGRED> puis mixer <INGRED>.</INGRED> Incorporer le <INGRED>beurre pommade</INGRED> <INGRED>,</INGRED> et réserver <INGRED>.</INGRED> Montage <INGRED>:</INGRED> Sur un disque de sablé <INGRED>,</INGRED> déposer un disque de croustillant feuillantine. Démouler un <INGRED>palet</INGRED> de <INGRED>crème</INGRED> chiboust kiwi <INGRED>,</INGRED> le caraméliser au fer ( <INGRED>ou</INGRED> au chalumeau).A la ganache <INGRED>,</INGRED> dresser autour à la <INGRED>poche</INGRED> des petites pointes <INGRED>,</INGRED> poser dessus une tranche de kiwi confite ; napper et décorer selon les goûts <INGRED>.</INGRED> Cette recette est une recette que j'ai apprise à mon école hôtelière. Elle est assez difficile mais elle donne de très bons résultats !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 3.6*X + 26.4</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 3*X + 26</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['farine']	 id:1	 quantité:240	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:2	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre glace', 'sucre']	 id:3	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["poudre d'amandes", 'poudre']	 id:4	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['citron']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['safran en poudre', 'safran']	 id:6	 quantité:1	 unité:pincée de	 denombrable:True	 recipient:1*X
+ingredient:['chocolat de couverture au lait', 'chocolat']	 id:7	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['praliné']	 id:8	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['pâte de noisettes', 'pâte']	 id:9	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:10	 quantité:90	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['gavottes']	 id:11	 quantité:130	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crème']	 id:12	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['pulpe de kiwi', 'pulpe']	 id:13	 quantité:300	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["jaune d'oeuf", 'jaune']	 id:14	 quantité:8	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:15	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['poudre à crème', 'poudre']	 id:16	 quantité:45	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['kirsch']	 id:17	 quantité:25	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['gélatine']	 id:18	 quantité:4	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:19	 quantité:300	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["blanc d'oeuf", 'blanc']	 id:20	 quantité:8	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['citron Pour la ganache', 'citron']	 id:21	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['crème']	 id:22	 quantité:110	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre inverti', 'sucre']	 id:23	 quantité:25	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['chocolat de couverture noir', 'chocolat']	 id:24	 quantité:135	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:25	 quantité:25	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:réaliser	 id:o_1	 ingrédients_ralatifs:['2', '13', '5', '8', '3', '4', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:abaisser	 id:o_2	 ingrédients_ralatifs:['13', '19']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:bloquer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:détailler	 id:o_4	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_5	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:fondre	 id:o_6	 ingrédients_ralatifs:['13', '16', '6', '11', '9', '5']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:['6', '11', '9', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:abaisser	 id:o_8	 ingrédients_ralatifs:['13', '19']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:bloquer	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:détailler	 id:o_10	 ingrédients_ralatifs:['10', '8', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:réaliser	 id:o_11	 ingrédients_ralatifs:['14', '6', '13', '8', '3', '14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:['6', '4', '10', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:réaliser	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_14	 ingrédients_ralatifs:['12', '7']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:verser	 id:o_15	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_16	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:incruster	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:bloquer	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:porter	 id:o_20	 ingrédients_ralatifs:['14', '23']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_21	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mixer	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_23	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déposer	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:démouler	 id:o_25	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:caraméliser	 id:o_26	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dresser	 id:o_27	 ingrédients_ralatifs:['2', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poser	 id:o_28	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:napper	 id:o_29	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:décorer	 id:o_30	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

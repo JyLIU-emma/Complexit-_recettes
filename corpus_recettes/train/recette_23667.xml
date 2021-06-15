@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23667">
+  <titre>Pastelles à la féta</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 paquet de feuilles de brick (10 feuilles)</p>
+    <p>3 ou 4 pommes de terre moyennes (5 si petites, 2 ou 3 si grosses pommes de terre)</p>
+    <p>1 barquette de feta</p>
+    <p>aneth</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la farce : faire bouillir les pommes de terre à l'eau. Ne pas saler car la feta est déjà très salée.
+    Dans une terrine, écraser les pommes de terre avec la feta, coupée en dés pour faciliter l'incorporation. Saupoudrer généreusement d'aneth. Poivrer.
+    Les pastelles : couper en deux à l'aide de ciseaux les feuilles de brick (en demi-lune). Prendre les feuilles une à une.
+    Replier la partie arrondie sur la partie droite (on obtient un long rectangle). Mettre un morceau de farce à une extrémité et replier plusieurs fois de façon à obtenir un petit triangle.
+    Frire les pastelles dans de l'huile, environ 2 minutes par face.
+    Pour une farce plus onctueuse et avec un goût plus doux, on peut mettre moitié feta, moitié fromage frias du genre Carré Frais.
+  ]]>
+  </preparation>
+</recette>

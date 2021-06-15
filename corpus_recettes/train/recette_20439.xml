@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20439">
+  <titre>Tagliatelles thon et artichauts</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de tagliatelles fraîches</p>
+    <p>1 petite boîte de thon</p>
+    <p>1 petite boîte de 1/2 artichauts</p>
+    <p>une gousse d'ail, persil</p>
+    <p>1/2 verre de vin blanc</p>
+    <p>1 échalote</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir l'échalote et l'ail dans l'huile d'olive, ajouter le persil et les artichauts émincés puis le thon égoutté. 
+    Couvrir avec le vin blanc, saler et laisser mijoter 5 min.
+    Pendant ce temps, faire cuire les pâtes fraîches selon le temps indiqué sur le paquet. 
+    Egoutter les pâtes et les mélanger à la préparation, puis servir de suite.
+    une variante des tagliatelles à la modeste, pour faire goûter les artichauts aux enfants.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19350">
+  <titre>Dos de colin rôti</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 beau morceau de colin (ou lieu jaune, moins cher) vers la queue</p>
+    <p>5 gousses d'ail non épluchées</p>
+    <p>2 tomates</p>
+    <p>1 feuille de laurier</p>
+    <p>150 g beurre</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un plat allant au four, verser un filet d'huile, rajouter les gousses d'ail non épluchées et mettre à four chaud (190°C).
+     
+    Pendant ce temps, mettre de part en part des morceaux de laurier sous la peau du poisson. 
+    Quand l'huile est chaude et commence à sentir l'ail, mettre le poisson dans le plat avec des quartiers de tomate autour. Saler, poivrer. 
+    Après cuison, lever les filets, les maintenir au chaud. 
+    Récupérer tout le jus de cuisson (y compris tomates, gousses d'ail) dans une passoire fine et presser tous les ingrédients. 
+    Récupérer la purée obtenue et la réchauffer avec le morceau de beurre. Verser sur le poisson ou servir en saucière.
+    Goût très fin et raffiné, idéal servi avec des pâtes au citron. vin blanc
+  ]]>
+  </preparation>
+</recette>

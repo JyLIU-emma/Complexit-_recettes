@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24771">
+  <titre>Terrine de viandes variées</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poule</p>
+    <p>1 lapin</p>
+    <p>300 g d’épaules de veau</p>
+    <p>200 g de lard </p>
+    <p>100 g de barde de lard</p>
+    <p>1 grande couenne fraîche</p>
+    <p>1 crépine</p>
+    <p>200 g d'échalotes</p>
+    <p>1 bouquet de persil </p>
+    <p>50 cl de vin blanc sec</p>
+    <p>2 branches de thym</p>
+    <p>6 feuilles de laurier</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Désosser la poule et le lapin, puis découper en lamelles. Couper le veau en cubes et le lard en dés. 
+    Garnir une terrine beurrée de couenne et y mettre les morceaux de viande.
+    Hacher les échalotes et le persil, et en saupoudrer les 3/4 sur la viande. Assaisonner et mouiller de vin blanc, afin de recouvrir la viande. Ajouter la crépine et les lanières de barde sur la viande. Parsemer de laurier, de persil et de thym.
+    Préchauffer le four à 150° (thermostat 5).
+    Couvrir la terrine et enfourner au bain-marie pendant 3 h 30 min.
+    Laisser refroidir et mettre au frais pendant 12 à 15 h.
+  ]]>
+  </preparation>
+</recette>

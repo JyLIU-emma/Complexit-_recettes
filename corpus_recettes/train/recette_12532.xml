@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12532">
+  <titre>Canard aux cerises</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 jeune canard</p>
+    <p>1 fine tranche de lard fumé</p>
+    <p>1 kg de cerises</p>
+    <p>30 g de beurre</p>
+    <p>1 citron</p>
+    <p>1 verre à liqueur de cognac</p>
+    <p>1 bouquet garni</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Saler et poivrer l'intérieur du canard. Y ajouter le bouquet garni. Le brider.
+    Le poser sur la grille du four au-dessus de la léche-frite. Faire cuire à four chaud (thermostat 8) pendant 15 mn, puis à thermostat 6 pendant 30 mn.
+    Faire dorer de tous les côtés.
+    Piquer le canard avec une fourchette : si le jus est coule rose pâle, le canard est cuit.
+    Dénoyauter les cerises et les faire revenir au beurre pendant 3 minutes. Ajouter le cognac, flamber et poivrer. Déglacer la léchefrite à l'aide d'un peu de jus de citron et mélanger au jus de cuisson des cerises.
+    Disposer les cerises autour du canard sur un plat chaud. Napper de la sauce.
+  ]]>
+  </preparation>
+</recette>

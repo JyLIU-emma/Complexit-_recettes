@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23526">
+  <titre>Tarte au crabe</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 rouleau de pâte brisée</p>
+    <p>2 boîtes de crabe</p>
+    <p>20 cl de crème fraîche</p>
+    <p>1 pointe de piment de cayenne</p>
+    <p>125 g de fromage râpé</p>
+    <p>noix de muscade</p>
+    <p>3 gousses d'ail</p>
+    <p>1 oignon</p>
+    <p>5 oeufs</p>
+    <p>persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir dans un peu d'huile l'ail et l'oignon hachés, y ajouter le persil. 
+    Dans un bol mélanger crème fraîche oeufs, fromage râpé, cayenne et muscade. Ajouter le crabe égoutté. 
+    Mélanger les 2 préparations hors du feu et en couvrir la pâte brisée. 
+    Mettre au four 200°C, 30 à 35 mn.
+  ]]>
+  </preparation>
+</recette>

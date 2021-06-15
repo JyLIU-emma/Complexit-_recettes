@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16069">
+  <titre>Rôti de porc au lait</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rôti de porc de 1 kg</p>
+    <p>2 oignons</p>
+    <p>2 gousses d'ail (c'est meilleur!)</p>
+    <p>1 boîte moyenne de champignons de paris</p>
+    <p>1 l de lait demi-écrémé</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Utiliser une cocotte minute ou autocuiseur
+    faire doré le rôti dans un peu d'huile, le réserver.
+    Faire dorer les oignons et l'ail préalablement émincés, puis ajouter les champignons, sel et poivre.
+    Ajouter le rôti de porc et recouvrir avec le lait. Fermer la cocotte. Laisser cuire environ 20 à 40 min après le départ du sifflet.Selon le poids du rôti, augmenter ou diminuer le temps de cuisson. Si vous avez un doute, interrompez la cuisson, vérifiez et continuer la si besoin. Le rôti doit-être tendre et un jus crémeux l'accompagne.A déguster avec des tagliatelles ou pommes de terre vapeur.
+  ]]>
+  </preparation>
+</recette>

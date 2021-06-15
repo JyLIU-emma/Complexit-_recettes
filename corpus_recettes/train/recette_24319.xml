@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24319">
+  <titre>Poulet savoureux aux herbes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet de 1,5 kg</p>
+    <p>1 cuillère à soupe de persil haché</p>
+    <p>2 cuillère à soupe d'estragon haché</p>
+    <p>2 cuillère à soupe de menthe hachée</p>
+    <p>3 cuillère à soupe de coriandre hachée</p>
+    <p>1 citron</p>
+    <p>50 g de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Travaillez le beurre mou avec le le jus de citron, les herbes, un pue de sel et de poivre.
+    Décollez la peau du poulet et introduisez le beurre aux herbes entre la peau et la chair du poulet sur le maximum de surface.
+    Salez et poivrez l'intérieur.
+    Faites-le cuire 1 h au four à 220°C (thermostat 7-8) et arrosant régulièrement du jus de cuisson.
+    Déglacez le plat de cuisson avec 1/2 verre d'eau chaude ou de bouillon, filtrez et mettez en saucière.
+    Accompagnez ce poulet très goûteux de purée ou de gnocchis poêlés et de tomates grillées.
+  ]]>
+  </preparation>
+</recette>

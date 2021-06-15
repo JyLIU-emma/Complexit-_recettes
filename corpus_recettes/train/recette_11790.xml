@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11790">
+  <titre>Pommes chips maison</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de pommes de terre</p>
+    <p>huile</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Très simple.
+    Coupez les pommes de terre très finement (l'idéal est d'utiliser une rape spéciale). Mettez-les à trempee dans l'eau, puis égouttez-les. Remettez-les dans l'eau, puis égouttez-les cette fois-ci dans un torchon.
+    Placez-les dans une friteuse chaude. En cours de cuisson, vous sortez-les pendant environ 5 minutes, puis remettez-les, et cuisez comme vous aimez (très grillés, ou pas trop...).Bon appétit !
+  ]]>
+  </preparation>
+</recette>

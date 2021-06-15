@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23845">
+  <titre>Courgettes marinées au citron</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 petites courgettes</p>
+    <p>1 citron</p>
+    <p>3 cuillères d'huile d'olive</p>
+    <p>sel et poivre</p>
+    <p>herbes à votre goût</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et couper les courgettes en fines tranches. Ajouter le jus du citron, l'huile, le sel et le poivre ainsi que les herbes.
+    Laisser mariner au frigo pendant une heure minimum.
+    Servir très frais.
+  ]]>
+  </preparation>
+</recette>

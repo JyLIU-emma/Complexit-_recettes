@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15456">
+  <titre>Tarte au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 de bon chocolat fondant</p>
+    <p>5 cuillères à soupe de sucre semoule</p>
+    <p>3 cuillères à soupe de farine</p>
+    <p>3 jaunes d'oeufs</p>
+    <p>3 blancs d'oeufs battus en neige </p>
+    <p>150 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le chocolat avec le beurre. Ajouter le sucre, puis la farine. Mélanger au fouet électrique.
+    Ajouter les jaunes d'oeufs et enfin les blancs battus.
+    Beurrer un moule à tarte et verser la préparation.
+    Cuire à four préchauffé à 200°C pendant 20 mn. Bien surveiller la cuisson car la tarte doit être mouillée à l'intérieur (pas trop cuite).
+    J'adore ce dessert! L'idéal est de le servir tiède avec soit de la glace vanille, soit de la crème anglaise ou encore avec une bonne Chantilly.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="7634">
+  <titre>Tartine sympa</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 Carrés Frais</p>
+    <p>4 belles tranches de pain de campagne d'environ 1 cm d'épaisseur</p>
+    <p>1 boîte de tapenade</p>
+    <p>1 boîte de purée de tomates confites</p>
+    <p>ciboulette</p>
+    <p>4 petits oignons frais</p>
+    <p>4 tomates cerises</p>
+    <p>4 olives noires</p>
+    <p>2 gousses d'ail</p>
+    <p>fleur de sel</p>
+    <p>poivre du moulin</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire griller les tranches de pain, afin de les rendre croustillantes.
+    Mettre sur chaque tartine un Carré Frais légèrement écrasé (à une extrémité de la tartine).
+    Parsemer le Carré avec l'ail finement haché, la fleur de sel, et le poivre du moulin.
+    Sur le reste de la tranche, étaler en part égale, de la tapenade et la purée de tomate.
+    Décorer chaque tranche avec 1 tomate cerise coupée en 2, 2 branches de ciboulette, et 1 olive. 
+    Couper finement l'oignon nouveau, en gardant un peu de vert pour finir la décoration sur la tartine.
+    Finir, en versant un filet d'huile d'olive.
+    Servir avec un vin rosé très frais.
+    Bon appétit
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">griller</OPER> les tranches de <INGRED id="1">pain</INGRED>, afin de les <OPER id="o_2">rendre</OPER> croustillantes. <OPER id="o_3">Mettre</OPER> sur chaque tartine un <INGRED id="2">Carré Frais</INGRED> légèrement écrasé ( à une extrémité de la tartine ). <OPER id="o_4">Parsemer</OPER> le <INGRED id="8">Carré</INGRED> avec l'<INGRED id="7">ail</INGRED> finement haché, la <INGRED id="10">fleur de sel</INGRED>, et le <INGRED id="10">poivre du moulin</INGRED>. Sur le reste de la tranche, <OPER id="o_5">étaler</OPER> en part égale, de la <INGRED id="3">tapenade</INGRED> et la <INGRED id="4">purée</INGRED> de <INGRED id="4">tomate</INGRED>. <OPER id="o_6">Décorer</OPER> chaque tranche avec 1 <INGRED id="3">tomate</INGRED> cerise coupée en 2, 2 branches de <INGRED id="7">ciboulette</INGRED>, et 1 olive. <OPER id="o_7">Couper</OPER> finement l'<INGRED id="4">oignon</INGRED> nouveau, en gardant un peu de vert pour finir la décoration sur la tartine. <OPER id="o_8">Finir</OPER>, en versant un <INGRED id="3">filet d'huile d'olive</INGRED>. Servir avec un <INGRED id="12">vin</INGRED> rosé très frais. Bon appétit
+  </annotation>
+  <annotation methode="crf">
+  Faire griller les tranches de <INGRED>pain</INGRED> <INGRED>,</INGRED> afin de les rendre croustillantes. Mettre sur chaque tartine un Carré Frais légèrement écrasé ( à une extrémité de la tartine ). Parsemer le Carré avec l'<INGRED>ail</INGRED> <INGRED>finement</INGRED> <INGRED>haché</INGRED> <INGRED>,</INGRED> la fleur de <INGRED>sel</INGRED> <INGRED>,</INGRED> et le <INGRED>poivre</INGRED> du <INGRED>moulin</INGRED>. Sur le <INGRED>reste</INGRED> de la tranche <INGRED>,</INGRED> étaler en part égale <INGRED>,</INGRED> de la tapenade et la <INGRED>purée de tomate</INGRED>. Décorer chaque tranche avec 1 <INGRED>tomate</INGRED> cerise coupée en 2 <INGRED>,</INGRED> 2 branches de <INGRED>ciboulette</INGRED> <INGRED>,</INGRED> et 1 olive. Couper <INGRED>finement</INGRED> l'<INGRED>oignon</INGRED> nouveau <INGRED>,</INGRED> en gardant un peu de vert pour finir la décoration sur la tartine <INGRED>.</INGRED> Finir <INGRED>,</INGRED> en versant un <INGRED>filet</INGRED> d'<INGRED>huile d'olive</INGRED> <INGRED>.</INGRED> Servir avec un <INGRED>vin</INGRED> rosé très <INGRED>frais</INGRED> <INGRED>.</INGRED> Bon appétit
+  </annotation>
+  <complexite>
+    <temps>f(X) = 6.4*X + 1.6</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 20*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['Carrés Frais', 'Carrés']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['épaisseur']	 id:2	 quantité:4	 unité:cm d'	 denombrable:False	 recipient:1
+ingredient:['tapenade']	 id:3	 quantité:1	 unité:boîte de	 denombrable:True	 recipient:1*X
+ingredient:['purée de tomates confites', 'purée']	 id:4	 quantité:1	 unité:boîte de	 denombrable:True	 recipient:1*X
+ingredient:['ciboulette']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['oignons frais', 'oignons']	 id:6	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['tomates cerises', 'tomates']	 id:7	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['olives noires', 'olives']	 id:8	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['ail']	 id:9	 quantité:2	 unité:gousses d'	 denombrable:True	 recipient:2*X
+ingredient:['fleur de sel', 'fleur']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre du moulin', 'poivre']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["huile d'olive", 'huile']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:griller	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:4*X*5	 recipient:1
+operation:rendre	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_3	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:parsemer	 id:o_4	 ingrédients_ralatifs:['8', '7', '10', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étaler	 id:o_5	 ingrédients_ralatifs:['3', '4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:décorer	 id:o_6	 ingrédients_ralatifs:['3', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_7	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1*X*1	 recipient:1
+operation:finir	 id:o_8	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171587">
+  <titre>Carbonnades de boeuf à la bière brune</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,5 kg de boeuf en morceaux</p>
+    <p>5 bières brunes</p>
+    <p>4 oignons moyens finement émincés</p>
+    <p>4 cuillères à soupe de vinaigre de vin rouge</p>
+    <p>4 cuillère à soupe de cassonade</p>
+    <p>2 tranches de pain</p>
+    <p>maïzena</p>
+    <p>2 cuillère à soupe de moutarde</p>
+    <p>250 g de beurre</p>
+    <p>thym</p>
+    <p>3 gousses d'ail</p>
+    <p>quelques feuilles de laurier</p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre un plat au chaud dans le four à 80-90°C (thermostat 3).Émincer finement les oignons et rouler les morceaux de viande dans la maïzena.
+    Faire fondre 50 g de beurre et y saisir 1/4 de la viande une minute de chaque côté (pas plus elle doit rester tendre et ne pas durcir).Saler et poivrer et mettre immédiatement au chaud dans le plat au four. Répéter l'opération encore trois fois avec chaque fois 50 g de beurre.
+    Quand toute la viande est au four ajouter 50 g de beurre dans la casserole puis les oignons émincés. Les faire cuire à feu très doux 20 min en remuant régulièrement.
+    Ajouter la viande, les bières, les gousses d'ail écrasées, les cuillères à soupe de vinaigre de vin rouge, les cuillères à soupe de cassonade, quelques feuilles de laurier, du thym.
+    Laisser mijoter 1h30 à feu minimum en raclant régulièrement le fond de la casserole avec une spatule en bois pour décoller les sucs.Étaler 2 cuillères à soupe de moutarde sur les 2 tranches de pain, les jeter dans le plat et laisser encore mijoter 30 min. Rectifier avec le vinaigre de vin rouge et la cassonade selon votre goût.
+    Ajouter environ 3 cuillère à soupe de Maïzena.
+    Servir avec des frites ou du riz (ou juste un morceau de pain).(Attention l'abus d'alcool est dangereux pour la santé !)Ultra important : une carbonnade qui repose une nuit et qui est réchauffée le lendemain est deux fois meilleure. Je pèse mes mots, ça n'a rien à voir avec une carbonnade mangée le jour même.
+    Personnellement mon plat préféré et une recette que j'ai pris le temps d'améliorer au fil du temps. D'accord elles se méritent et prennent du temps mais je vous assure qu'elles valent la peine. Enjoy... Pourquoi pas une bière brune ?
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Mettre</OPER> un <INGRED id="9">plat</INGRED> au chaud dans le four à 80 - 90 ° C ( thermostat <OPER id="o_2">3).Émincer</OPER> finement les <INGRED id="2">oignons</INGRED> et <OPER id="o_3">rouler</OPER> les <INGRED id="1">morceaux</INGRED> de viande dans la <INGRED id="7">maïzena</INGRED>. Faire <OPER id="o_4">fondre</OPER> <INGRED id="3">50</INGRED> <INGRED id="4">g</INGRED> de <INGRED id="9">beurre</INGRED> et y <OPER id="o_5">saisir</OPER> 1/4 de la <INGRED id="2">viande</INGRED> une minute de chaque côté ( pas plus elle doit rester tendre et ne pas <OPER id="o_6">durcir).Saler</OPER> et <OPER id="o_7">poivrer</OPER> et <OPER id="o_8">mettre</OPER> immédiatement au chaud dans le <INGRED id="9">plat</INGRED> au four. <OPER id="o_9">Répéter</OPER> l'opération encore trois fois avec chaque fois <INGRED id="3">50</INGRED> <INGRED id="2">g</INGRED> de beurre. Quand toute la viande est au four <OPER id="o_10">ajouter</OPER> <INGRED id="3">50</INGRED> <INGRED id="4">g</INGRED> de <INGRED id="1">beurre</INGRED> dans la casserole puis les oignons émincés. Les <INGRED id="10">faire</INGRED> <OPER id="o_11">cuire</OPER> à feu très doux 20 min en remuant régulièrement. <OPER id="o_12">Ajouter</OPER> la <INGRED id="2">viande</INGRED>, les <INGRED id="2">bières</INGRED>, les <INGRED id="3">gousses</INGRED> d'<INGRED id="9">ail</INGRED> <INGRED id="11">écrasées</INGRED>, les cuillères à <INGRED id="9">soupe</INGRED> de <INGRED id="4">vinaigre de vin rouge</INGRED>, les cuillères à <INGRED id="6">soupe</INGRED> de <INGRED id="13">cassonade</INGRED>, quelques <INGRED id="4">feuilles</INGRED> de <INGRED id="6">laurier</INGRED>, du <INGRED id="8">thym</INGRED>. Laisser <OPER id="o_13">mijoter</OPER> 1h30 à feu minimum en raclant régulièrement le <INGRED id="14">fond</INGRED> de la casserole avec une spatule en bois pour décoller les sucs. <OPER id="o_14">Étaler</OPER> 2 cuillères à <INGRED id="6">soupe</INGRED> de <INGRED id="4">moutarde</INGRED> sur les 2 <INGRED id="4">tranches</INGRED> de <INGRED id="1">pain</INGRED>, les <OPER id="o_15">jeter</OPER> dans le <INGRED id="9">plat</INGRED> et <INGRED id="12">laisser</INGRED> encore <OPER id="o_16">mijoter</OPER> 30 min. <OPER id="o_17">Rectifier</OPER> avec le <INGRED id="4">vinaigre de vin rouge</INGRED> et la <INGRED id="13">cassonade</INGRED> selon votre <INGRED id="7">goût</INGRED>. <OPER id="o_18">Ajouter</OPER> <INGRED id="1">environ</INGRED> 3 cuillère à <INGRED id="6">soupe</INGRED> de <INGRED id="6">Maïzena</INGRED>. Servir avec des frites ou du <INGRED id="3">riz</INGRED> ( ou juste un <INGRED id="2">morceau de</INGRED> pain).(Attention l'abus d'alcool est dangereux pour la santé ! ) Ultra important : une carbonnade qui repose une nuit et qui est réchauffée le lendemain est <INGRED id="6">deux</INGRED> fois meilleure. Je pèse mes mots, ça n'a rien à <OPER id="o_19">voir</OPER> avec une carbonnade mangée le jour même. Personnellement mon <INGRED id="9">plat</INGRED> préféré et une recette que j'ai pris le temps d'<OPER id="o_20">améliorer</OPER> au fil du temps. D'accord elles se méritent et prennent du temps mais je vous assure qu'elles valent la peine. Enjoy... Pourquoi pas une <INGRED id="2">bière brune</INGRED> ?
+  </annotation>
+  <annotation methode="crf">
+  Mettre un plat au chaud dans le four à 80 - 90 ° C ( thermostat 3).Émincer finement les <INGRED>oignons</INGRED> et rouler les <INGRED>morceaux</INGRED> de <INGRED>viande</INGRED> dans la <INGRED>maïzena</INGRED> <INGRED>.</INGRED> Faire fondre 50 <INGRED>g</INGRED> de <INGRED>beurre</INGRED> et y saisir <INGRED>1/4</INGRED> de la <INGRED>viande</INGRED> une minute de chaque côté ( pas plus elle doit rester tendre et ne pas durcir).Saler et poivrer et mettre immédiatement au chaud dans le plat au four <INGRED>.</INGRED> Répéter l'opération encore trois fois avec chaque fois 50 <INGRED>g</INGRED> de <INGRED>beurre</INGRED> <INGRED>.</INGRED> Quand toute la <INGRED>viande</INGRED> est au four ajouter 50 <INGRED>g</INGRED> de <INGRED>beurre</INGRED> dans la casserole puis les <INGRED>oignons émincés</INGRED> <INGRED>.</INGRED> Les faire cuire à feu très doux 20 min en remuant régulièrement <INGRED>.</INGRED> Ajouter la <INGRED>viande</INGRED> <INGRED>,</INGRED> les bières <INGRED>,</INGRED> les gousses d'<INGRED>ail</INGRED> écrasées <INGRED>,</INGRED> les <INGRED>cuillères à soupe</INGRED> de <INGRED>vinaigre de vin rouge</INGRED> <INGRED>,</INGRED> les <INGRED>cuillères à soupe</INGRED> de <INGRED>cassonade</INGRED> <INGRED>,</INGRED> quelques feuilles de <INGRED>laurier</INGRED> <INGRED>,</INGRED> du <INGRED>thym</INGRED>. Laisser mijoter 1h30 à feu minimum en raclant régulièrement le <INGRED>fond</INGRED> de la casserole avec une spatule en bois pour décoller les sucs <INGRED>.</INGRED> Étaler 2 <INGRED>cuillères à soupe</INGRED> de <INGRED>moutarde</INGRED> sur les 2 tranches de <INGRED>pain</INGRED> <INGRED>,</INGRED> les jeter dans le plat et laisser encore mijoter 30 min. Rectifier avec le <INGRED>vinaigre de vin rouge</INGRED> et la <INGRED>cassonade</INGRED> selon votre goût <INGRED>.</INGRED> Ajouter <INGRED>environ</INGRED> 3 cuillère à soupe de Maïzena. Servir avec des <INGRED>frites</INGRED> <INGRED>ou</INGRED> du <INGRED>riz</INGRED> ( <INGRED>ou</INGRED> juste un <INGRED>morceau</INGRED> de pain).(Attention l'abus d'<INGRED>alcool</INGRED> est dangereux pour la santé ! ) Ultra important <INGRED>:</INGRED> une carbonnade qui repose une nuit et qui est réchauffée le lendemain est <INGRED>deux</INGRED> fois meilleure <INGRED>.</INGRED> Je pèse mes mots <INGRED>,</INGRED> ça n'<INGRED>a</INGRED> rien à voir avec une carbonnade mangée le jour même. Personnellement mon plat préféré et une recette que j'ai pris le temps d'améliorer au fil du temps. D'accord elles se méritent et prennent du temps mais je vous assure qu'elles valent la peine. Enjoy... Pourquoi pas une bière brune ?
+  </annotation>
+  <complexite>
+    <temps>f(X) = 21.6774193548387*X + 6.32258064516129</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 24*X + 13</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['boeuf en morceaux', 'boeuf']	 id:1	 quantité:1,5	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['bières brunes', 'bières']	 id:2	 quantité:5	 unité:non_precis	 denombrable:True	 recipient:5*X
+ingredient:['oignons moyens finement émincés', 'oignons']	 id:3	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['vinaigre de vin rouge', 'vinaigre']	 id:4	 quantité:4	 unité:cuillères à soupe de	 denombrable:True	 recipient:4*X
+ingredient:['cassonade']	 id:5	 quantité:4	 unité:cuillère à soupe de	 denombrable:True	 recipient:4*X
+ingredient:['pain']	 id:6	 quantité:2	 unité:tranches de	 denombrable:True	 recipient:2*X
+ingredient:['maïzena']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['moutarde']	 id:8	 quantité:2	 unité:cuillère à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['beurre']	 id:9	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['thym']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['ail']	 id:11	 quantité:3	 unité:gousses d'	 denombrable:True	 recipient:3*X
+ingredient:['laurier']	 id:12	 quantité:non_precis	 unité:feuilles de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:13	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:14	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mettre	 id:o_1	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:3).émincer	 id:o_2	 ingrédients_ralatifs:['9', '2', '1', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rouler	 id:o_3	 ingrédients_ralatifs:['1', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fondre	 id:o_4	 ingrédients_ralatifs:['3', '4', '9', '2', '9']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:saisir	 id:o_5	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:durcir).saler	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_8	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:répéter	 id:o_9	 ingrédients_ralatifs:['3', '2']	 nombre_opération_atomique:4*X+5*X	 temps:4*X*5+5*X*5	 recipient:0
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:['3', '4', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_11	 ingrédients_ralatifs:['3', '4', '1', '10']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:['2', '2', '3', '9', '11', '9', '4', '6', '13', '4', '6', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:étaler	 id:o_14	 ingrédients_ralatifs:['6', '4', '4', '1', '9', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:jeter	 id:o_15	 ingrédients_ralatifs:['9', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:rectifier	 id:o_17	 ingrédients_ralatifs:['4', '13', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_18	 ingrédients_ralatifs:['1', '6', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:voir	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:améliorer	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16049">
+  <titre>Barigoule</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 boîte de coeurs d'artichaut</p>
+    <p>100 g petits lardons</p>
+    <p>1 petite boîte de champignons de Paris</p>
+    <p>2 oignons</p>
+    <p>3 pommes de terre</p>
+    <p>huile d'olive</p>
+    <p>chapelure (ou biscotte)</p>
+    <p>vinaigre</p>
+    <p>sel, poivre, romarin, thym</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les pommes de terre à l'autocuiseur.
+    Dans une marmite en fonte (si possible), faire revenir les oignons et les petits lardons dans
+    un mélange d'huile d'olive et d'huile d'arachide.
+    Ajouter les champignons de Paris. Après les avoir bien lavés, mettre les coeur d'artichauts et les pommes de terre. Ajouter 1/2 verre d'eau pour que celà ne soit pas sec! Saupoudrer avec les épices (surtout le romarin), une cuillère à soupe de vinaigre sur l'ensemble.
+    Laisser cuire à feu très doux 10 mn.
+    N'utiliser la chapelure que dans le casoù le plat est trop liquide. rosé frais
+  ]]>
+  </preparation>
+</recette>

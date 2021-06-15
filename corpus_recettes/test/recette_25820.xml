@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25820">
+  <titre>Galettes à la crème de lait</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de crème "cuite" (qui est en fait la peau du lait obtenue après ébullition) </p>
+    <p>90 g de sucre en poudre</p>
+    <p>125 g de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger dans l'ordre tous les ingrédients, parfumer avec de la vanille. Sur une tôle, faire des petits tas espacés. Faire cuire à four chaud (180°C) jusqu'à ce que le pourtour des galettes soit doré.
+  ]]>
+  </preparation>
+</recette>

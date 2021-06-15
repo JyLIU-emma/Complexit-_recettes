@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14189">
+  <titre>Poisson à la forestière</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g de filets de poisson blanc (tel que cabillaud, julienne, etc...)</p>
+    <p>500 g de champignons de Paris frais ou en boîte</p>
+    <p>400 g de tagliatelles ou autres pâtes</p>
+    <p>30 g de beurre</p>
+    <p>1 oignon</p>
+    <p>1 verre de vin blanc</p>
+    <p>crème fraîche liquide</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 100°C.
+    Faire fondre le beurre dans une sauteuse et y faire revenir les filets de poisson de chaque côté, les saler et les poivrer puis les réserver au four.
+    Hacher l'oignon et le faire revenir dans le beurre.
+    Ajouter ensuite les champignons et les faire revenir à peu près 10 mn puis ajouter les filets de poisson.
+    Mouiller avec le verre de vin blanc et laisser réduire.
+    Faire cuire les tagliatelles puis les égoutter.
+    Ajouter la crème fraîche à la préparation de poisson et de champignons.
+    Servir aussitôt avec les pâtes.
+  ]]>
+  </preparation>
+</recette>

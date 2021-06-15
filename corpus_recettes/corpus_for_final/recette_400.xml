@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="400">
+  <titre>Rouleaux de saumon fumé surprise</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Quelques belles feuilles de laitue lavées et essorées</p>
+    <p>500 g de tomates cerises</p>
+    <p>4 belles tranches de saumon fumé </p>
+    <p>1 grand Carré Frais</p>
+    <p>1 pot d'oeufs de lompe</p>
+    <p>1 poire jaune bien tendre</p>
+    <p>2 cuillères à soupe de crème fraîche épaisse</p>
+    <p>sel, poivre du moulin</p>
+    <p>1 jus de citron</p>
+    <p>aneth fraîche mixée </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, mélangez le carré frais Gervais avec la crème fraîche, salez, poivrez.
+    Ecrasez la poire à la fourchette et mélangez-la au mélange précédent.
+    Arrosez chaque tranche d'un peu de jus de citron.
+    Etalez sur chaque tranches de saumon 2 cuillères à soupe de la préparation.
+    Ajoutez à 2 cm d'un bord de la tranche de saumon, un petit boudin formé par 2 à 3 cuillères à café d'oeufs de lompe.
+    Roulez la tranche de saumon sur elle même en commençant après le boudin d'oeufs de lompe (qui se retrouvera donc au centre pour finir).
+    Recouvrez chaque assiette de feuilles de laitue, disposez un rouleau de saumon.
+    Entourez chaque tranches de petites tomates cerises et quelques pointes de mayonnaise à côté des tomates (une sur deux).
+    Parsemez le tout d'un peu d'aneth
+    Servez frais.
+  ]]>
+  </preparation>
+</recette>

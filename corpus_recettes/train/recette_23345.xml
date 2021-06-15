@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23345">
+  <titre>Cake aux olives vertes, aux noisettes et au comté</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 oeufs</p>
+    <p>100 g de comté râpé</p>
+    <p>100 g d'olives vertes dénoyautées</p>
+    <p>10 g de beurre</p>
+    <p>10 cl de lait</p>
+    <p>100 g de noisettes décortiquées</p>
+    <p>100 g de farine tamisée</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>1 sachet de levure chimique</p>
+    <p>1 pincée de sel et de poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tamisez la farine et la levure puis incorporez les oeufs un par un en mélangeant à l'aide d'une cuillère en bois. 
+    Versez progressivement le lait et l'huile sans cesser de remuer.
+    Travaillez au fouet jusqu'à ce que la pâte soit lisse et onctueuse. Poivrez généreusement.
+    Ebouillantez les olives quelques secondes, rafraîchissez-les puis roulez-les dans la farine.
+    Incorporez les olives, les noisettes et le comté râpé à la pâte.
+    Versez la préparation dans un moule à cake beurré puis enfournez dans le four froid.
+    Allumez le four sur 210°C (thermostat 7) et laissez-le monter en température pendant 10 minutes. Réglez alors le four sur 150°C (thermostat 5) et poursuivez la cuisson durant 40 minutes.
+    Démouler le cake à la sortie du four et laissez-le refroidir sur une grille avant de le découper en tranches.  
+  ]]>
+  </preparation>
+</recette>

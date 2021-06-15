@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25531">
+  <titre>Cerises au vin rouge</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de cerises</p>
+    <p>250 g de sucre</p>
+    <p>30 cl d'eau</p>
+    <p>30 cl de vin rouge</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et dénoyauter les cerises.
+    Dans une cocotte, faire un sirop avec le sucre et l'eau.
+    Lorsque le mélange s'éclaircit, y incorporer le vin rouge puis faire réduire 2 à 3 min.
+    Incorporer ensuite les cerises, laisser encore quelques minutes sur le feu puis laisser refroidir hors du feu.
+    Réserver et déguster frais.
+  ]]>
+  </preparation>
+</recette>

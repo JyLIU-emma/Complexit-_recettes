@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19086">
+  <titre>Tarte au saumon fumé</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>400 g de pâte brisée</p>
+    <p>4 filets de saumon fumé ou de truite fumée</p>
+    <p>4 tomates</p>
+    <p>2 œufs</p>
+    <p>20 cl de crème fraîche</p>
+    <p>sel et poivre</p>
+    <p>aneth</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la pâte dans un moule à tarte. Disposer dans le fond les filets de poisson fumé. 
+    Couper les tomates en tranches et les disposer sur les filets. 
+    Battre les oeufs, la crème fraîche, le sel, le poivre, l'aneth. 
+    Verser la préparation sur la tarte. 
+    Enfourner à 180°C (thermomstat 6) pendant environ 30 min.
+    Ce plat peut très bien constituer un repas du soir, accompagné d'une salade.
+    NDLR : Une recette de Noel à base de saumon fumé.
+  ]]>
+  </preparation>
+</recette>

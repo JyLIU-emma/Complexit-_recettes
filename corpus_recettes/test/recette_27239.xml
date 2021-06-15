@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27239">
+  <titre>Soufflé forestier</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de champignons au choix</p>
+    <p>4 oeufs entiers</p>
+    <p>50 g de farine</p>
+    <p>50 g de beurre</p>
+    <p>25 cl de lait</p>
+    <p>1 pincée de noix de muscade</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 210°C (thermostat 7).
+    Laver, équeuter et essuyer les champignons, puis les passer au mixeur.
+    Dans une grande casserole, faire mousser le beurre avec la farine puis laisser cuire 1 min en remuant souvent. Mouiller avec le lait, bien tourner puis laisser cuire 5 min à feu doux.
+    Hors du feu, incorporer les jaunes d'oeufs un à un, puis le poivre et la noix de muscade. Bien mélanger le tout, puis ajouter les champignons.
+    Battre les blancs en neige ferme avec une pincée de sel, puis les incorporer à la préparation en mélangeant délicatement.
+    Verser le mélange dans un moule à soufflé beurré, puis enfourner 20 min à four chaud, jusqu’à ce qu’il soit gonflé et bien doré.
+  ]]>
+  </preparation>
+</recette>

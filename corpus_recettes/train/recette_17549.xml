@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17549">
+  <titre>Pizza au miel</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte à pizza vendue dans le commerce ou 300 g de pâte à pain</p>
+    <p>1 chèvre affiné</p>
+    <p>1 bocal de sauce tomate pour fond de pizza</p>
+    <p>1 bocal de miel </p>
+    <p>1 sachet de gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la pâte sur une plaque, l'enduire généreusement de sauce tomate, y déposer ensuite de fines tranches de chèvre et la recouvrir de râpé.
+    Faire cuire la pizza et une fois cuite, la napper de miel.
+    Recette étonnante. Je l'ai goûtée il y a 6 mois dans une pizzeria du sud de la France, et avec cette pizza j'ai conquis plusieurs amis qui avant de la goûter étaient sceptiques...
+  ]]>
+  </preparation>
+</recette>

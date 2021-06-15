@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27062">
+  <titre>Soupe indienne au poulet curry et coco</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 beau poulet (1,8 kg)</p>
+    <p>10 cl de lait de coco</p>
+    <p>1 cuillère à soupe d'amandes mondées</p>
+    <p>100 g de riz</p>
+    <p>2 blancs de poireaux</p>
+    <p>2 branches de céleri</p>
+    <p>2 oignons</p>
+    <p>4 clous de girofle</p>
+    <p>1 cuillère à café de curry</p>
+    <p>1 feuille de laurier</p>
+    <p>50 g de beurre</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites revenir le poulet découpé en morceaux et dont on aura retiré la peau dans le beurre chaud à feu doux sans laisser colorer. 
+    Rajoutez les poireaux et le céleri émincés, les oignons hachés, les clous de girofle, le laurier et du sel.
+    Laissez cuire 5 min en remuant.
+    Saupoudrez le curry, versez 3 l d'eau chaude et couvrez.
+    Laissez cuire à feu doux pendant 2 h.
+    Pendant ce temps, faites cuire le riz à l'eau bouillante salée selon les indications du paquet.
+    Egouttez les morceaux de poulet, désossez-les et détaillez la chair en dés.
+    Mixez la soupe et ajoutez-y le lait de coco, les amandes séparées en deux, le riz et le poulet. 
+    Faites bouillir 3 min et servez bien chaud.
+    On peut parsemer cette soupe de coriandre hachée et de noix de coco râpée.
+  ]]>
+  </preparation>
+</recette>

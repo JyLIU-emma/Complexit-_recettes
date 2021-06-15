@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26612">
+  <titre>Gâteau de purée aux pistaches</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de pommes de terre</p>
+    <p>125 g de beurre</p>
+    <p>5 jaunes d'oeufs</p>
+    <p>60 g de pistaches décoquillées</p>
+    <p>sel, poivre</p>
+    <p>muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couvrez les pistaches d'eau tiède et laissez-les gonfler.
+    Faites cuire les pommes de terre à la vapeur ou au four environ 25 min.
+    Pelez-les et écrasez-les en purée.
+    Ajoutez le beurre fondu et les jaunes d'oeufs, du sel, du poivre et une pointe de muscade.
+    Mélangez bien.
+    Etalez la moitié de la purée dans un moule haut beurré.
+    Déposez dessus les pistaches égouttées et recouvrez du reste de purée.
+    Faites cuire au bain-marie dans le four à 180°C (thermostat 6) pendant 1 h.
+    Couvrez d'aluminium au bout de 10 min pour éviter que ce ne soit trop sec.
+  ]]>
+  </preparation>
+</recette>

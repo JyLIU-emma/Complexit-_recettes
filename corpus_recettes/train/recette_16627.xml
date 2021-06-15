@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16627">
+  <titre>Tarte au chèvre</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rouleau de pâte feuilletée</p>
+    <p>4 oeufs entiers</p>
+    <p>120 gr de crème fraîche épaisse</p>
+    <p>1 bûche de chèvre (pas trop frais, pour qu'il ait du goût, mais pas trop sec, pour que la tarte reste moelleuse)</p>
+    <p>1 dl de lait</p>
+    <p>de la menthe fraîche ou séchée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre la pâte feuilletée dans un moule à tarte (garder le papier sulfurisé dessous, c'est plus facile à sortir du moule qu'on n'a pas besoin de beurrer).
+    Couper la bûche de chèvre en rondelles d'environ 1 cm d'épaisseur, et les disposer sur la pâte.
+    Mélanger le reste des ingrédients dans un saladier, et verser dans le moule.
+    Mettre à four chaud (thermostat 7), et faire cuire 30 mn environ.
+    A manger chaud ou tiède, pour que le chèvre soit moelleux.
+  ]]>
+  </preparation>
+</recette>

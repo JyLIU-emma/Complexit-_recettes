@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10999">
+  <titre>Pomme de terre farcie au carré frais</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 grosse pomme de terre</p>
+    <p>100 g de dés de jambon</p>
+    <p>ciboulette</p>
+    <p>1 carré frais </p>
+    <p>crème fraîche liquide</p>
+    <p>1 grosse poignée d'emmental</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>paprika </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire votre pomme de terre au four.
+    Déposez-la sur le côté plat, découpez-lui un "chapeau". Videz-la de sa chair...que vous déposez dans un saladier en rajoutant tout le reste des ingrédients.
+    Réservez un peu d'emmental pour la garniture. Salez et poivrez.
+    Enfounez au four de manière à obtenir un gratin sur le dessus...
+    Dégustez! 
+  ]]>
+  </preparation>
+</recette>

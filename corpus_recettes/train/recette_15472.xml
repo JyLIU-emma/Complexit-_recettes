@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15472">
+  <titre>Poulet aux asperges</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 blancs de poulet</p>
+    <p>4 tranches de Gouda</p>
+    <p>1 petite boîte de petites asperges</p>
+    <p>1 verre de vermouth</p>
+    <p>50 g de farine</p>
+    <p>80 g de beurre ou de margarine</p>
+    <p>150 g de jambon blanc</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les blancs de poulet en morceaux, saupoudrez-les de farine et secouez-les pour en éliminer l'excédent.
+    Dans une poêle, faites fondre 30 g de beurre, dorez-y les blancs de poulet 2 mn de chaque côté, puis ajoutez le vermouth. Salez, poivrez et faites cuire 10 mn.
+    Coupez le jambon en lanières. Beurrez un plat à four, mettez-y les blancs de poulet et recouvrez-les de tranches de Gouda. Disposez les lanières de jambon et les asperges égouttées sur le dessus ainsi que le jus de cuisson et le restant du beurre.
+    Faites cuire à four chaud 10 mn. Servez dans le plat.
+  ]]>
+  </preparation>
+</recette>

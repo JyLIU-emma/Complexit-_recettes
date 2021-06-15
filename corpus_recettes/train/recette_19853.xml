@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19853">
+  <titre>Petites crèmes express à la vanille</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>25 cl de lait</p>
+    <p>3 cuillères à soupe de sucre</p>
+    <p>2 oeufs</p>
+    <p>1 gousse de vanille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir de l'eau dans une cocotte-minute couverte partiellement avec le couvercle. 
+    Pendant ce temps, faire bouillir le lait et la vanille. Dans un bol, battre les oeufs et le sucre. 
+    Dès que le lait frémit, l'ajouter au mélange oeufs-sucre et remuer. 
+    Verser la crème dans des petits ramequins, les mettre dans le panier de la cocotte minute, fermer et faire cuire 8 mn à feu moyen à partir du sifflement.
+    On peut faire un caramel et le mettre dans les ramequins avant de verser la crème. Pour la cuisson, On peut aussi les faire dans un bain-marie au micro-onde. 
+  ]]>
+  </preparation>
+</recette>

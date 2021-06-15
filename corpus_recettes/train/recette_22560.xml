@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22560">
+  <titre>Grosses saucisses au vin blanc et à la moutarde</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 grosses saucisses</p>
+    <p>20 cl de vin banc</p>
+    <p>2 cuillères à soupe de moutarde</p>
+    <p>Herbes de Provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Prenez un couteau et coupez les 5 saucisses en longueur (elles ne doivent pas être coupés entièrement en 2). 
+    2) Remplissez chaque saucisse d'une cuillère à café de moutarde. 
+    3) Disposez les saucisses dans un grand plat et ajoutez du vin blanc à mi-hauteur. 
+    4) Ajoutez des herbes de Provence sur les saucisses. 
+    5) Mettez-les au four à environ 180°C.
+    Vous pouvez aussi arrosez les saucisses de vin blanc. vin blanc
+  ]]>
+  </preparation>
+</recette>

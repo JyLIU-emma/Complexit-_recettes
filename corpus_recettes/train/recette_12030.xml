@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12030">
+  <titre>Linzertorte</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 oeufs durs</p>
+    <p>125g beurre</p>
+    <p>150g farine</p>
+    <p>100g sucre</p>
+    <p>1 sachet sucre vanillé</p>
+    <p>120g amandes poudre</p>
+    <p>1 càs kirsch</p>
+    <p>1 càc cannelle</p>
+    <p>1 pincée clou de girofle</p>
+    <p>1 peu zeste citron</p>
+    <p>Pour la garniture :</p>
+    <p>200g confiture framboises</p>
+    <p>les chûtes de pâte</p>
+    <p>1 jaune d'oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prélever les jaunes des oeufs durs et les écraser à l'aide d'une fourchette.
+    Mélanger avec le beurre avec une spatule en bois.
+    Ajouter la farine, les sucres, les amandes, le kirsch, la cannelle, la poudre de clou de girofle et le zeste de citron.
+    Pétrir le tout avec les mains et laisser reposer la pâte au frigo pendant 1h.
+    Etaler la pâte dans un moule (26cm de diamètre) sur 5mm.
+    Etaler la confiture sur le fond de tarte. Avec une roulette cannelée ou un couteau, faire des bandelettes avec les chûtes de pâte et les dorer au jaune d'oeuf.
+    Mettre au four moyen (175°C - th 6) pendant 35-40 min.
+    Démouler après refroidissement.
+     Muscat ou tokay-pinot gris
+  ]]>
+  </preparation>
+</recette>

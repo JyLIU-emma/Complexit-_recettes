@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="112833">
+  <titre>Cassolette aux deux poissons et graines de courge</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 petit filet de lieu noir ou autre poisson proche(100g environ)</p>
+    <p>1 petit filet de saumon(100g environ)</p>
+    <p>20g de graines de courges</p>
+    <p>20g de fromage râpé</p>
+    <p>1 jaune d'oeuf</p>
+    <p>1 échalote</p>
+    <p>20dl de vin blanc</p>
+    <p>le jus d'un demi citron</p>
+    <p>1 cuillère à soupe de beurre</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les deux filets de poisson en dés et mettez les dans les cassolettes. Faites préchauffer votre four à 180°C
+    Hachez l'échalote et faites la revenir dans une casserole avec le beurre. Ajoutez le vin blanc et le jus de citron puis faites flamber. Répartissez cette sauce dans les cassolettes. Poivrez légèrement.
+    Concassez les graines de courge. Mélangez-les au jaune d'oeuf et au fromage et répartissez ce mélange sur les deux cassolettes. Enfournez pour 15 à 20 minutes.Je trouve que le fromage râpé sale suffisamment le plat, mais je sale toujours très peu : méfiez-vous ! Un vin blanc plutôt sec
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Coupez</OPER> les deux <INGRED id="4">filets</INGRED> de poisson en <INGRED id="4">dés</INGRED> et <OPER id="o_2">mettez</OPER> les dans les cassolettes. Faites <OPER id="o_3">préchauffer</OPER> votre four à 180 ° C <OPER id="o_4">Hachez</OPER> l'<INGRED id="10">échalote</INGRED> et faites la <OPER id="o_5">revenir</OPER> dans une casserole avec le <INGRED id="9">beurre</INGRED>. <OPER id="o_6">Ajoutez</OPER> le <INGRED id="2">vin blanc</INGRED> et le <INGRED id="3">jus de citron</INGRED> puis faites <OPER id="o_7">flamber</OPER>. <OPER id="o_8">Répartissez</OPER> cette sauce dans les cassolettes. <OPER id="o_9">Poivrez</OPER> légèrement. <OPER id="o_10">Concassez</OPER> les <INGRED id="3">graines</INGRED> de courge. <OPER id="o_11">Mélangez</OPER> - les au <INGRED id="5">jaune d'oeuf</INGRED> et au fromage et <OPER id="o_12">répartissez</OPER> ce <INGRED id="2">mélange</INGRED> sur les deux cassolettes. <OPER id="o_13">Enfournez</OPER> pour 15 à 20 minutes. Je trouve que le <INGRED id="4">fromage râpé</INGRED> sale suffisamment le plat, mais je sale toujours très peu : <OPER id="o_14">méfiez</OPER> -vous ! Un <INGRED id="5">vin blanc</INGRED> plutôt sec
+  </annotation>
+  <annotation methode="crf">
+  Coupez les <INGRED>deux</INGRED> <INGRED>filets</INGRED> de <INGRED>poisson</INGRED> en dés et mettez les dans les cassolettes. Faites préchauffer votre four à 180 ° C Hachez l'<INGRED>échalote</INGRED> et faites la revenir dans une casserole avec le <INGRED>beurre</INGRED> <INGRED>.</INGRED> Ajoutez le <INGRED>vin blanc</INGRED> et le <INGRED>jus de citron</INGRED> puis faites flamber. Répartissez cette <INGRED>sauce</INGRED> dans les cassolettes. Poivrez légèrement <INGRED>.</INGRED> Concassez les <INGRED>graines</INGRED> de <INGRED>courge</INGRED> <INGRED>.</INGRED> Mélangez - les au <INGRED>jaune d'oeuf</INGRED> et au <INGRED>fromage</INGRED> et répartissez ce <INGRED>mélange</INGRED> sur les <INGRED>deux</INGRED> cassolettes. Enfournez pour 15 à 20 minutes. Je trouve que le <INGRED>fromage</INGRED> râpé sale suffisamment le plat <INGRED>,</INGRED> mais je sale toujours très peu <INGRED>:</INGRED> méfiez -vous ! Un <INGRED>vin blanc</INGRED> plutôt sec
+  </annotation>
+  <complexite>
+    <temps>f(X) = 8.0*X + 8.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 5*X + 10</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['filet de lieu noir ou autre poisson proche', 'filet']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['filet de saumon', 'filet']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['graines de courges', 'graines']	 id:3	 quantité:20	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['fromage râpé', 'fromage']	 id:4	 quantité:20	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["jaune d'oeuf", 'jaune']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['échalote']	 id:6	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['vin blanc', 'vin']	 id:7	 quantité:20	 unité:dl de	 denombrable:False	 recipient:1
+ingredient:["jus d'un demi citron", 'jus']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:9	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['poivre']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:couper	 id:o_1	 ingrédients_ralatifs:['4', '4']	 nombre_opération_atomique:1+1	 temps:1*X*1+1*X*1	 recipient:1
+operation:mettre	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:préchauffer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:hacher	 id:o_4	 ingrédients_ralatifs:['10', '9']	 nombre_opération_atomique:1+1*X	 temps:1*X*5+1*X*5	 recipient:1
+operation:revenir	 id:o_5	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['2', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:flamber	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:répartir	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:concasser	 id:o_10	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_11	 ingrédients_ralatifs:['5', '2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:répartir	 id:o_12	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfourner	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:méfier	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

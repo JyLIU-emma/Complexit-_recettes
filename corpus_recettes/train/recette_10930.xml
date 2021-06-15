@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10930">
+  <titre>Sauté de poulet à l'ail des ours</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de poulet émincé</p>
+    <p>20 feuilles d'ail des ours coupées en lamelles</p>
+    <p>10 cuillères à soupe de sauce au soja </p>
+    <p>5 cl à soupe de vin rouge</p>
+    <p>1/2 cuillère à café de paprika</p>
+    <p>2 cuillères à soupe de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire le poulet dans une poêle à frire avec une goutte d'huile. Lorsqu'il n'est juste pas tout à fait cuit, l'arroser avec la sauce soja.
+    Attendre une minute. L'arroser avec le vin, puis le sucre et le paprika. Laisser cuire une minute, puis ajouter l'ail des ours juste avant de sortir l'émincé de la poêle.Servir avec du riz. Normalement, le liquide ne doit pas s'être totalement évaporé au moment de servir.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21048">
+  <titre>Gâteau à l'ananas aux blancs d'oeufs</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 blancs d'oeufs</p>
+    <p>130 g de farine</p>
+    <p>130 g de sucre</p>
+    <p>3 tranches d'ananas au sirop</p>
+    <p>75 g d'amandes hachées</p>
+    <p>130 g de raisins secs</p>
+    <p>75 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Faire tremper les raisins dans de l'eau tiède.
+    Battre les blancs d'oeufs en neige ferme.
+    Ajouter en les tamisant la farine et le sucre. S'aider d'une spatule ou d'une cuillère en bois et remuer très délicatement pour ne pas "casser" les blancs.
+    Couper l'ananas en petits dés, égoutter les raisins. Les rouler dans un peu de farine et les incorporer à la pâte.
+    Ajouter enfin les amandes hachées et le beurre fondu.
+    Verser dans un moule à manqué beurré et fariné.
+    Faire cuire 50 minutes et servir une fois refroidi.
+  ]]>
+  </preparation>
+</recette>

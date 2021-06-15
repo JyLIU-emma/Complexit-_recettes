@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65559">
+  <titre>Filet de boeuf en croûte</titre>
+  <type>Plat principal</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,2 kg de filet de bœuf</p>
+    <p>300 g de pâte feuilletée</p>
+    <p>150 g filet de dinde</p>
+    <p>2 œufs</p>
+    <p>50 g beurre</p>
+    <p>150 g crème fraîche</p>
+    <p>2 échalotes</p>
+    <p>1 citron</p>
+    <p>de l'huile</p>
+    <p>100 g champignons de Paris</p>
+    <p>Pour les crêpes :</p>
+    <p>1 cuillère à soupe bombée de farine</p>
+    <p>1 œuf</p>
+    <p>10 cl lait</p>
+    <p>Quelques fines herbes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Parer et assaisonner le filet. Le saisir de tous les côtés dans une poêle chaude avec un peu d'huile.
+    Mixer le filet de dinde et laisser la viande 15 min au congélateur.
+    Préparer la pate à crêpes, y ajouter les fines herbes. Faire sauter les crêpes. Il doit y en avoir assez pour y enrouler tout le filet de boeuf.
+    Eplucher et hacher finement les échalotes et les champignons.
+    Faire revenir les échalotes dans une casserole avec 20 g de beurre, puis y ajouter les champignons. Réserver au frais.
+    Dans un mixeur, mélanger la viande de dinde avec un blanc d'oeuf. Puis, ajouter la moitié de la crème fraîche en deux fois, toujours en mixant.
+    Pour finir, ajouter le mélange champignons-échalotes.
+    Préchauffer le four thermostat 8, soit 230° environ.
+    Etaler la pâte feuilletée en un large rectancle et badigeonner d'œuf battu.
+    Enduire le filet de la farce et l'enrouler dans les crêpes.
+    Poser le tout sur la pâte feuilletée, replier la pâte et bien souder avec l'œuf battu.
+    Cuire à fou chaud environ 20 minutes.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Parer</OPER> et <OPER id="o_2">assaisonner</OPER> le <INGRED id="7">filet</INGRED>. Le <OPER id="o_3">saisir</OPER> de tous les côtés dans une poêle chaude avec un <INGRED id="14">peu d'huile</INGRED>. <OPER id="o_4">Mixer</OPER> le <INGRED id="7">filet</INGRED> de <INGRED id="3">dinde</INGRED> et <INGRED id="12">laisser</INGRED> la viande 15 min au congélateur. <OPER id="o_5">Préparer</OPER> la <INGRED id="7">pate</INGRED> à <INGRED id="6">crêpes</INGRED>, y <OPER id="o_6">ajouter</OPER> les fines <INGRED id="14">herbes</INGRED>. Faire <OPER id="o_7">sauter</OPER> les <INGRED id="6">crêpes</INGRED>. Il doit y en <OPER id="o_8">avoir</OPER> assez pour y enrouler tout le filet de <INGRED id="2">boeuf</INGRED>. <OPER id="o_9">Eplucher</OPER> et <OPER id="o_10">hacher</OPER> finement les <INGRED id="5">échalotes</INGRED> et les <INGRED id="5">champignons</INGRED>. Faire <OPER id="o_11">revenir</OPER> les <INGRED id="5">échalotes</INGRED> dans une casserole avec 20 <INGRED id="1">g</INGRED> de <INGRED id="7">beurre</INGRED>, puis y <OPER id="o_12">ajouter</OPER> les champignons. Réserver au frais. Dans un mixeur, <OPER id="o_1311">mélanger</OPER> la <INGRED id="4">viande</INGRED> de dinde avec un <INGRED id="10">blanc d'oeuf</INGRED>. Puis, <OPER id="o_14">ajouter</OPER> la moitié de la crème fraîche en <INGRED id="6">deux</INGRED> fois, toujours en mixant. Pour finir, <OPER id="o_15">ajouter</OPER> le <INGRED id="2">mélange</INGRED> <INGRED id="5">champignons</INGRED> - <INGRED id="5">échalotes</INGRED>. <OPER id="o_16">Préchauffer</OPER> le four thermostat 8, soit 230 ° <INGRED id="1">environ</INGRED>. <OPER id="o_17">Etaler</OPER> la <INGRED id="1">pâte feuilletée</INGRED> en un large rectancle et <OPER id="o_18">badigeonner</OPER> d'<INGRED id="5">œuf</INGRED> battu. <OPER id="o_19">Enduire</OPER> le filet de la farce et l'<OPER id="o_20">enrouler</OPER> dans les <INGRED id="1">crêpes</INGRED>. <OPER id="o_21">Poser</OPER> le tout sur la <INGRED id="2">pâte feuilletée</INGRED>, <OPER id="o_22">replier</OPER> la <INGRED id="9">pâte</INGRED> et bien <OPER id="o_23">souder</OPER> avec l'<INGRED id="3">œuf</INGRED> battu. <OPER id="o_24">Cuire</OPER> à fou chaud <INGRED id="1">environ</INGRED> 20 minutes.
+  </annotation>
+  <annotation methode="crf">
+  Parer et assaisonner le <INGRED>filet</INGRED>. Le saisir de tous les côtés dans une poêle chaude avec un peu d'<INGRED>huile</INGRED>. Mixer le <INGRED>filet</INGRED> de dinde et laisser la <INGRED>viande</INGRED> 15 min au congélateur. Préparer la pate à crêpes <INGRED>,</INGRED> y ajouter les <INGRED>fines</INGRED> <INGRED>herbes</INGRED> <INGRED>.</INGRED> Faire sauter les crêpes. Il doit y en avoir assez pour y enrouler tout le <INGRED>filet de boeuf</INGRED> <INGRED>.</INGRED> Eplucher et hacher <INGRED>finement</INGRED> les <INGRED>échalotes</INGRED> et les <INGRED>champignons</INGRED> <INGRED>.</INGRED> Faire revenir les <INGRED>échalotes</INGRED> dans une casserole avec 20 <INGRED>g</INGRED> de <INGRED>beurre</INGRED> <INGRED>,</INGRED> puis y ajouter les <INGRED>champignons</INGRED> <INGRED>.</INGRED> Réserver au <INGRED>frais</INGRED> <INGRED>.</INGRED> Dans un mixeur, mélanger la <INGRED>viande</INGRED> de dinde avec un <INGRED>blanc d'oeuf</INGRED> <INGRED>.</INGRED> Puis <INGRED>,</INGRED> ajouter la moitié de la <INGRED>crème fraîche</INGRED> en <INGRED>deux</INGRED> fois <INGRED>,</INGRED> toujours en mixant <INGRED>.</INGRED> Pour finir <INGRED>,</INGRED> ajouter le <INGRED>mélange</INGRED> <INGRED>champignons</INGRED> - échalotes. Préchauffer le four thermostat 8 <INGRED>,</INGRED> soit 230 ° environ. Etaler la <INGRED>pâte feuilletée</INGRED> en un large rectancle et badigeonner d'<INGRED>œuf</INGRED> battu <INGRED>.</INGRED> Enduire le <INGRED>filet</INGRED> de la farce et l'enrouler dans les crêpes. Poser le tout sur la <INGRED>pâte feuilletée</INGRED> <INGRED>,</INGRED> replier la <INGRED>pâte</INGRED> et bien souder avec l'<INGRED>œuf</INGRED> battu <INGRED>.</INGRED> Cuire à fou chaud <INGRED>environ</INGRED> 20 minutes.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 10.9375*X + 14.0625</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 7*X + 14</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['filet de bœuf', 'filet']	 id:1	 quantité:1,2	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['pâte feuilletée', 'pâte']	 id:2	 quantité:300	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['dinde']	 id:3	 quantité:150	 unité:g filet de	 denombrable:False	 recipient:1
+ingredient:['œufs']	 id:4	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['beurre']	 id:5	 quantité:50	 unité:g	 denombrable:False	 recipient:1
+ingredient:['crème fraîche']	 id:6	 quantité:150	 unité:g	 denombrable:False	 recipient:1
+ingredient:['échalotes']	 id:7	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['citron']	 id:8	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['huile']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['Paris']	 id:10	 quantité:100	 unité:g champignons de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:11	 quantité:1	 unité:cuillère à soupe bombée de	 denombrable:True	 recipient:1*X
+ingredient:['œuf']	 id:12	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['lait']	 id:13	 quantité:10	 unité:cl	 denombrable:False	 recipient:1
+ingredient:['herbes']	 id:14	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:parer	 id:o_1	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:assaisonner	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saisir	 id:o_3	 ingrédients_ralatifs:['14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mixer	 id:o_4	 ingrédients_ralatifs:['7', '3', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparer	 id:o_5	 ingrédients_ralatifs:['7', '6', '14']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:sauter	 id:o_7	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:avoir	 id:o_8	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:eplucher	 id:o_9	 ingrédients_ralatifs:['5', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:hacher	 id:o_10	 ingrédients_ralatifs:['5', '5']	 nombre_opération_atomique:1+1	 temps:1*X*5+1*X*5	 recipient:1
+operation:revenir	 id:o_11	 ingrédients_ralatifs:['5', '1', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_13	 ingrédients_ralatifs:['4', '10']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_14	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_15	 ingrédients_ralatifs:['2', '5', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préchauffer	 id:o_16	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:etaler	 id:o_17	 ingrédients_ralatifs:['1', '5']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:badigeonner	 id:o_18	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enduire	 id:o_19	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enrouler	 id:o_20	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poser	 id:o_21	 ingrédients_ralatifs:['2', '9', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:replier	 id:o_22	 ingrédients_ralatifs:['9', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:souder	 id:o_23	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_24	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+]]>
+</operation_trouve>
+</recette>

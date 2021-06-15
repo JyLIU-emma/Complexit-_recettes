@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26923">
+  <titre>Quiche au lard et champignons</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>400 g de champignons de Paris</p>
+    <p>1 gros oignon</p>
+    <p>8 fines tranches de lard fumé</p>
+    <p>25 cl de lait</p>
+    <p>100 g de gruyère râpé</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>noix de muscade</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 210°C (thermostat 7).
+    Laver, essuyer et émincer les champignons et les oignons, puis les faire pocher dans 2 poêles séparées avec du beurre.
+    Faire bouillir le lait avec le sel, le poivre et la noix de muscade, puis incorporer le fromage râpé.
+    Hors du feu, ajouter les jaunes d’oeufs et bien battre la préparation.
+    Etaler la pâte dans un moule à tarte, et garnir le fond avec une couche de champignons puis une couche d’oignons. Disposer les tranches de lard sur la couche d’oignons de façon à dessiner une fleur.
+    Réserver quelques champignons que vous incorporerez dans le mélange lait/oeuf/fromage, puis terminer par une couche de cette préparation.
+    Saupoudrer le dessus de la tarte de gruyère râpé puis mettre au four pendant 30 min.
+  ]]>
+  </preparation>
+</recette>

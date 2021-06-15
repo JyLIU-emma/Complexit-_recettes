@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27148">
+  <titre>Tuiles aux amandes faciles</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 blancs d'oeufs</p>
+    <p>1 jaune d'oeuf</p>
+    <p>100 g de sucre</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>50 g de farine</p>
+    <p>80 g de beurre fondu</p>
+    <p>40 g d'amandes effilées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Fouettez les blancs d'oeufs en neige ferme avec les sucres.
+    Incorporez délicatement la farine et le beurre fondu. Puis le jaune d'oeuf et enfin les amandes. La pâte obtenue doit être assez fluide.
+    Beurrez et farinez une tôle à pâtisserie. Déposez dessus des petits tas de pâte. Bien répartir les amandes.
+    Enfournez 5 min à four chaud à 200° jusqu'à ce que les bords des tuiles dorent.
+    Dès la sortie du four, faites leur prendre forme sur un rouleau à pâtisserie ou un verre.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15512">
+  <titre>Gratin courgettes et pommes de terre</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 grosses courgettes</p>
+    <p>6 grosses pommes de terre</p>
+    <p>20 cl de crème fraîche (ou de béchamel, selon vos goûts)</p>
+    <p>200 à 300 g de gruyère râpé</p>
+    <p>sel, poivre, muscade (en poudre), herbes de Provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pommes de terre avec la peau (elles doivent rester un peu fermes). Faire cuire les courgettes (coupées en rondelles) à l'étouffée avec des herbes de Provence, du sel et du poivre.
+    Eplucher les pommes de terre (sous un mince filet d'eau froide, voire carrément dans l'eau froide pour ne pas vous brûler). Les couper en tranches.
+    Dans un plat à gratin, mélanger les pommes de terre et les courgettes. Saler, poivrer, rajouter des herbes de Provence, la crème fraîche (ou la béchamel), la muscade et un peu de fromage (50g). Mélanger de manière à bien répartir la crème et le fromage, puis couvrir avec le reste du fromage.
+    Cuire 20 mn à four chaud (thermostat 7/210°C).
+    Très bon seul, ou avec un rôti de veau ou de porc. Une variante un peu plus chère (mais excellente) consiste à remplacer le gruyère par du comté.
+  ]]>
+  </preparation>
+</recette>

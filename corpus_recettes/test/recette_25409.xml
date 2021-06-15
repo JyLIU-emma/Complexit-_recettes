@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25409">
+  <titre>Pommes de terre en salade et saucisson</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 saucisson à cuire</p>
+    <p>750 g de pommes de terre</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>2 échalotes</p>
+    <p>1 gousse d'ail</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>1 cuillère à soupe de vinaigre de vin</p>
+    <p>un bouquet garni</p>
+    <p>une carotte</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les pommes de terre à l'eau salée, les peler et les couper en rondelles. Arroser de vin blanc pendant que les pommes de terre sont encore chaudes.
+    Préparer l'ail et les échalotes et les hacher. Les mélanger au vinaigre et à l'huile pour faire une vinaigrette.
+    En arroser les pommes de terre.
+    Préparer un court-bouillon avec le bouquet garni et la carotte coupée en rondelles. Y pocher le saucisson pendant 40 min
+    Servir la salade de pommes de terre avec des rondelles de saucisson encore chaud.
+    Il est préférable de préparer la salade de pommes de terre une à deux heures avant le repas.
+  ]]>
+  </preparation>
+</recette>

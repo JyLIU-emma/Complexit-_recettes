@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20405">
+  <titre>Tarte au kiwis et à la noix de coco</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 kiwis</p>
+    <p>80 g de sucre</p>
+    <p>2 oeufs</p>
+    <p>120 g de noix de coco râpée</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 pâte sablée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez et mixer la chair de 3 kiwis. 
+    Fouettez 2 oeufs entier avec 80 g de sucre, ajoutez la noix de coco râpée et la chair mixée. 
+    Garmissez un moule de pâte sablée, versez-y la préparation en prenant soin de bien la répartir. 
+    Faites cuire 20 min dans le four préchauffé sur Th 7 (210°C). 
+    Saupoudrez de sucre vanillé, décorez de rondelles de kiwis et faites cuire pendant 10 min. 
+    Servir frais.
+     champagne
+  ]]>
+  </preparation>
+</recette>

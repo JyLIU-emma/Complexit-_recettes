@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14442">
+  <titre>Sopa de lima (Mexique)</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 litre d'eau</p>
+    <p>1 cube de bouillon de poule</p>
+    <p>2 citrons verts</p>
+    <p>2 escalopes de poulet</p>
+    <p>1 oignon</p>
+    <p>1 cuillère à café de concentré de tomate</p>
+    <p>1 cuillère à café de coriandre ciselée</p>
+    <p>2 tortillas (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir le litre d'eau avec le cube de bouillon et y jeter les escalopes émincées.
+    Faire blondir l'oignon en rondelles dans une poêle, sans le faire griller, puis l' ajouter à la soupe.
+    Finir en ajoutant le jus des citrons, le concentré de tomate et la coriandre.
+    Pour apporter la touche locale, on peut faire sauter à la poêle les tortillas en lamelles et les ajouter au dernier au moment à la soupe pour qu'elles ne soient pas trop ramollies au moment de la dégustation.
+    Cette soupe se consomme chaude, mais est paradoxalement très rafraichissante.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="112810">
+  <titre>Velouté de maïs minute</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boite de maïs de 300 g</p>
+    <p>1 oignon</p>
+    <p>20 g de beurre</p>
+    <p>2 cuil.à soupe de fond de volaille déshydraté</p>
+    <p>2 cuil.à soupe rases de Maïzena</p>
+    <p>20 cl de crème fraîche</p>
+    <p>1 filet de jus de citron</p>
+    <p>1 pincée de noix de muscade râpée</p>
+    <p>Sel fin,poivre blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Egouttez le maïs. Pelez et émincez finement l'oignon.
+    Dans une casserole,mettez le beurre à chauffer sur feu moyen.
+    Faites-y fondre l'oignon 3 min sans laisser colorer,en remuant souvent.
+    Mouillez avec 60cl d'eau chaude et ajoutez le fond de volaille.Mélangez,portez à frémissement.
+    Incorporez le maïs.
+    Laissez frémir 5 min.
+    2) Mixez le contenu de la casserole,puis filtrez-le à travers une passoire fine. Remettez dans la casserole sur le feu doux.Délayez la Maïzena dans 2 cuil à soupe d'eau.
+    Versez dans la casserole avec la crème fraîche,le jus de citron et la noix de muscade.
+    Poivrez.
+    3) Remuez 2 min environ,jusqu'au premier frémissement.ôtez du feu,rectifiez l'assaisonement et servez,chaud ou tiède.Cette recette correspond à 4 bols (en entrée) ou à 10 verrines (pour l'apéritif)
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  1 ) <OPER id="o_1">Egouttez</OPER> le <INGRED id="1">maïs</INGRED>. <OPER id="o_2">Pelez</OPER> et émincez finement l'<INGRED id="4">oignon</INGRED>. Dans une casserole, <OPER id="o_3">mettez</OPER> le <INGRED id="2">beurre</INGRED> à <OPER id="o_4">chauffer</OPER> sur feu moyen. Faites - y <OPER id="o_5">fondre</OPER> l'<INGRED id="2">oignon</INGRED> 3 min sans laisser <OPER id="o_6">colorer</OPER>, en remuant souvent. <OPER id="o_7">Mouillez</OPER> avec 60cl d'<INGRED id="8">eau</INGRED> chaude et ajoutez le fond de <INGRED id="2">volaille</INGRED>. <OPER id="o_8">Mélangez</OPER>, <OPER id="o_9">portez</OPER> à frémissement. <OPER id="o_10">Incorporez</OPER> le <INGRED id="1">maïs</INGRED>. Laissez <OPER id="o_11">frémir</OPER> 5 min. 2 ) <OPER id="o_12">Mixez</OPER> le contenu de la casserole, puis filtrez - le à travers une passoire fine. <OPER id="o_13">Remettez</OPER> dans la casserole sur le feu doux. <OPER id="o_14">Délayez</OPER> la <INGRED id="6">Maïzena</INGRED> dans 2 <INGRED id="4">cuil</INGRED> à <INGRED id="4">soupe</INGRED> d'eau. <OPER id="o_15">Versez</OPER> dans la casserole avec la crème fraîche, le <INGRED id="3">jus de citron</INGRED> et la <INGRED id="3">noix</INGRED> de <INGRED id="8">muscade</INGRED>. <OPER id="o_16">Poivrez</OPER>. 3 ) <OPER id="o_17">Remuez</OPER> 2 min environ, jusqu'au premier frémissement.ôtez du feu, <OPER id="o_18">rectifiez</OPER> l'assaisonement et servez, chaud ou tiède. Cette recette correspond à 4 bols ( en entrée ) ou à 10 verrines ( pour l'apéritif )
+  </annotation>
+  <annotation methode="crf">
+  1 ) Egouttez le <INGRED>maïs</INGRED> <INGRED>.</INGRED> Pelez et émincez finement l'<INGRED>oignon</INGRED>. Dans une casserole <INGRED>,</INGRED> mettez le <INGRED>beurre</INGRED> à chauffer sur feu moyen <INGRED>.</INGRED> Faites - y fondre l'<INGRED>oignon</INGRED> 3 min sans laisser colorer <INGRED>,</INGRED> en remuant souvent. Mouillez avec 60cl d'<INGRED>eau</INGRED> chaude et ajoutez le <INGRED>fond de volaille</INGRED> <INGRED>.</INGRED> Mélangez <INGRED>,</INGRED> portez à frémissement. Incorporez le <INGRED>maïs</INGRED> <INGRED>.</INGRED> Laissez frémir 5 min. 2 ) Mixez le contenu de la casserole <INGRED>,</INGRED> puis filtrez - le à travers une passoire fine. Remettez dans la casserole sur le feu doux. Délayez la Maïzena dans 2 <INGRED>cuil</INGRED> à soupe d'<INGRED>eau</INGRED> <INGRED>.</INGRED> Versez dans la casserole avec la <INGRED>crème fraîche</INGRED> <INGRED>,</INGRED> le <INGRED>jus de citron</INGRED> et la <INGRED>noix</INGRED> de <INGRED>muscade</INGRED>. Poivrez. 3 ) Remuez 2 min <INGRED>environ</INGRED> <INGRED>,</INGRED> jusqu'au premier frémissement.ôtez du feu <INGRED>,</INGRED> rectifiez l'assaisonement et servez <INGRED>,</INGRED> chaud <INGRED>ou</INGRED> tiède. Cette recette correspond à 4 bols ( en entrée ) <INGRED>ou</INGRED> à 10 verrines ( pour l'apéritif )
+  </annotation>
+  <complexite>
+    <temps>f(X) = 13.0909090909091*X + 4.90909090909091</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 8*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['g']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['oignon']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['beurre']	 id:3	 quantité:20	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['soupe de fond de volaille déshydraté', 'soupe']	 id:4	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['soupe rases de Maïzena', 'soupe']	 id:5	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['crème fraîche', 'crème']	 id:6	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['filet de jus de citron', 'filet']	 id:7	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['noix de muscade râpée', 'noix']	 id:8	 quantité:1	 unité:pincée de	 denombrable:True	 recipient:1*X
+ingredient:['Sel fin , poivre blanc', 'Sel']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:egoutter	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:peler	 id:o_2	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:2*X*1	 recipient:0
+operation:mettre	 id:o_3	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:chauffer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:fondre	 id:o_5	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:colorer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mouiller	 id:o_7	 ingrédients_ralatifs:['8', '2']	 nombre_opération_atomique:1	 temps:3	 recipient:0
+operation:mélanger	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:porter	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_10	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:frémir	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mixer	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remettre	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:délayer	 id:o_14	 ingrédients_ralatifs:['6', '4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_15	 ingrédients_ralatifs:['3', '3', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rectifier	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

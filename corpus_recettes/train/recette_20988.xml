@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20988">
+  <titre>Salade multi-fruits tropicale</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g d'ananas au sirop</p>
+    <p>250 g d'arbouses</p>
+    <p>250 g de litchis</p>
+    <p>2 bananes</p>
+    <p>2 oranges</p>
+    <p>2 avocats</p>
+    <p>2 goyaves</p>
+    <p>2 mangues pas trop mûres</p>
+    <p>1 citron vert</p>
+    <p>6 cl de rhum ambré</p>
+    <p>30 cl de sirop de canne</p>
+    <p>1/2 cuillère à café de cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler tous les fruits et les avocats et leur ôter les noyaux et les pépins. Couper les bananes en rondelles, les oranges en quartiers et détailler les avocats, les mangues et les goyaves en dés.
+    Egoutter les fruits au sirop en gardant le jus. Les mélanger aux rondelles de bananes, aux quartiers d'oranges et aux dés d'avocats, de mangues et de goyaves.
+    A part, mélanger le sirop de canne avec le rhum, les jus du citron et des fruits. Arrosez les fruits avec ce liquide sans remuer.
+    Réserver au réfrigérateur au moins 2 h avant de servir.
+  ]]>
+  </preparation>
+</recette>

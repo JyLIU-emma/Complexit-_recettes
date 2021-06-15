@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14815">
+  <titre>Crème Vichyssoise</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 petit oignon</p>
+    <p>250 g de blanc de poireaux</p>
+    <p>25 g de beurre</p>
+    <p>entre 1/4 et 1/2 litre de bouillon de boeuf corsé</p>
+    <p>250 g de pommes de terre</p>
+    <p>sel, poivre blanc</p>
+    <p>100 ml de crème liquide</p>
+    <p>un peu de cognac</p>
+    <p>une botte de ciboulette</p>
+    <p>quelques gouttes de Tabasco</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer finement l'oignon et les blancs de poireaux, et les faire fondre doucement au beurre, mouiller avec le bouillon.
+    Emincer les pommes de terre après les avoir épluchées. Les faire cuire très doucement à couvert dans le bouillon. Passer au mixer.
+    Saler, poivrer, ajouter la crème liquide, le cognac. Relever avec un peu de tabasco. Laisser refroidir et saupoudrer de ciboulette hachée.
+    Peut se déguster chaude.
+  ]]>
+  </preparation>
+</recette>

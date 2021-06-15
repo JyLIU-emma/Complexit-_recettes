@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24132">
+  <titre>Soupe de carottes au curry</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de carottes</p>
+    <p>2 oignons</p>
+    <p>1 litre d'eau ou de bouillon de légumes</p>
+    <p>poivre</p>
+    <p>1 cuillère à café de curry en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer carottes et oignons.
+    Mettre les carottes, les oignons, le bouillon et un peu de poivre dans une casserole. Porter à ébullition, couvrir et laisser mijoter 20 mn, jusqu'à ce que les carottes soient très tendres.
+    Retirer du feu et laisser légèrement refroidir.
+    Passer la soupe au mixer ou au moulin à légumes. Ajouter le curry et mélanger.
+    Cette soupe est une soupe moulinée très peu calorique et le curry amène un goût typique.
+  ]]>
+  </preparation>
+</recette>

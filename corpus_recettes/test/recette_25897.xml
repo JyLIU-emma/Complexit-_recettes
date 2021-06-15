@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25897">
+  <titre>Taboulé au thon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de semoule de blé fine</p>
+    <p>1 grosse boîte de miettes de thon</p>
+    <p>3 tomates</p>
+    <p>4 oeufs</p>
+    <p>50 g d'olives vertes ou noires dénoyautées</p>
+    <p>1 citron</p>
+    <p>1 grosse poignée de persil ciselé</p>
+    <p>1 grosse poignée de menthe ciselée</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laissez gonfler la semoule dans 1,5 fois son volume d'eau pendant 30 min.
+    Faites cuire les oeufs durs. Ecalez-les et coupez-les en quartiers. Ebouillantez les tomates, épépinez-les et coupez-les en morceaux.
+    Egouttez le thon. Coupez les olives en 2 ou hachez-les grossièrement.
+    Mélangez tous les ingrédients avec la semoule, ajoutez le jus du citron, les herbes et 6 belles cuillères à soupe d'huile.
+    Mélangez et laissez reposer au frais au moins 2 h.
+  ]]>
+  </preparation>
+</recette>

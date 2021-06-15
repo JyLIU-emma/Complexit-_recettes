@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11547">
+  <titre>Agneau aux pruneaux et aux amandes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,5 kg d'épaule d'agneau désossée et coupé en cubes</p>
+    <p>sel</p>
+    <p>50 g de sucre</p>
+    <p>50 g d'amandes émondées</p>
+    <p>20 cl d'eau </p>
+    <p>2 cuillères à soupe de beurre</p>
+    <p>1 bâton de cannelle en morceaux</p>
+    <p>1 cuillère à soupe d'eau de fleur d'oranger</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Saler les morceaux d'agneau et les saisir dans le beurre dans une grande cocotte jusqu'à ce qu'ils soient dorés, retirer et laisser en attente.
+    Ajouter au fond de cuisson l'eau, la cannelle, l'eau de fleur d'oranger, le sucre et les amandes. Amener à ébullition en remuant le mélange à l'aide d'une cuillère en bois.
+    Remettre les cubes de viande dans la cocotte, baisser le feu et laisser mijoter à couvert 45 min.
+    Ajouter les pruneaux et continuer la cuisson 10 min en les retournant en cours de cuisson.
+    L'agneau est cuit lorsque la viande est tendre et n'offre aucune résistance à la pointe d'un couteau.
+  ]]>
+  </preparation>
+</recette>

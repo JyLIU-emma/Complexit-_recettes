@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172470">
+  <titre>Escargots à la mode méditerranéenne</titre>
+  <type>Plat principal</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg d'escargots</p>
+    <p>100 g de petit salé</p>
+    <p>1 oignon</p>
+    <p>2 gousses d'ail</p>
+    <p>4 cuillères à soupe de concentré de tomates</p>
+    <p>1/2 litre de vin rouge</p>
+    <p>1 verre d'eau</p>
+    <p>1 bouquet garni </p>
+    <p>persil</p>
+    <p>huile</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>(Farine &amp; Thym pour la purges des escargots)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Purger les escargots avec la farine et le thym pendant deux jours. Les faire jeuner 3 à 4 jours. Dans un cul-de-poule, les saler pour les dégorger puis les tremper dans de l'eau légèrement vinaigrée plusieurs fois, jusqu'à ce que l'eau soit propre. Les cuire à l'eau salée 20 minutes à partir de l'ébullition avec un départ à froid. Laver, égoutter. Dans une cocotte, faire revenir l'oignon, le petit salé coupé, les escargots. Réserver les escargots. Ajouter à l'oignon et au petit salé l'ail, le concentré de tomates, le vin, le bouquet garni, le persil et l'eau. Donner un bouillon puis laisser réduire à petit feu. Lorsque la sauce commence à lier mettre les escargots et faire mijoter 15 minutes. Vin rouge "Corbières"
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Purger</OPER> les <INGRED id="1">escargots</INGRED> avec la <INGRED id="1">farine</INGRED> et le thym pendant <INGRED id="6">deux</INGRED> jours. Les <INGRED id="10">faire</INGRED> <OPER id="o_2">jeuner</OPER> 3 à 4 jours. Dans un cul-de-poule, les <OPER id="o_3">saler</OPER> pour les dégorger puis les <OPER id="o_4">tremper</OPER> dans de l'eau légèrement vinaigrée plusieurs fois, jusqu'à ce que l'<INGRED id="10">eau</INGRED> soit propre. Les <OPER id="o_5">cuire</OPER> à l'<INGRED id="7">eau</INGRED> salée 20 minutes à <OPER id="o_6">partir</OPER> de l'ébullition avec un départ à froid. <OPER id="o_7">Laver</OPER>, <OPER id="o_8">égoutter</OPER>. Dans une <INGRED id="3">cocotte</INGRED>, <INGRED id="10">faire</INGRED> <OPER id="o_9">revenir</OPER> l'<INGRED id="7">oignon</INGRED>, le <INGRED id="2">petit salé</INGRED> coupé, les <INGRED id="1">escargots</INGRED>. Réserver les <INGRED id="1">escargots</INGRED>. <OPER id="o_10">Ajouter</OPER> à l'<INGRED id="8">oignon</INGRED> et au <INGRED id="2">petit salé</INGRED> <INGRED id="1">l'ail</INGRED>, le <INGRED id="5">concentré de tomates</INGRED>, le <INGRED id="2">vin</INGRED>, le <INGRED id="12">bouquet garni</INGRED>, le <INGRED id="11">persil</INGRED> et l'<INGRED id="2">eau</INGRED>. Donner un <INGRED id="3">bouillon</INGRED> puis <INGRED id="12">laisser réduire</INGRED> à petit feu. Lorsque la sauce commence à <OPER id="o_11">lier</OPER> <OPER id="o_12">mettre</OPER> les <INGRED id="1">escargots</INGRED> et faire <OPER id="o_13">mijoter</OPER> 15 minutes. <INGRED id="5">Vin</INGRED> rouge " Corbières "
+  </annotation>
+  <annotation methode="crf">
+  Purger les <INGRED>escargots</INGRED> avec la <INGRED>farine</INGRED> et le <INGRED>thym</INGRED> pendant <INGRED>deux</INGRED> jours <INGRED>.</INGRED> Les faire jeuner 3 à 4 jours <INGRED>.</INGRED> Dans un cul-de-poule <INGRED>,</INGRED> les saler pour les dégorger puis les tremper dans de l'<INGRED>eau</INGRED> légèrement vinaigrée plusieurs fois <INGRED>,</INGRED> jusqu'à ce que l'<INGRED>eau</INGRED> soit propre. Les cuire à l'<INGRED>eau</INGRED> salée 20 minutes à partir de l'ébullition avec un départ à froid <INGRED>.</INGRED> Laver <INGRED>,</INGRED> égoutter <INGRED>.</INGRED> Dans une cocotte <INGRED>,</INGRED> faire revenir l'<INGRED>oignon</INGRED> <INGRED>,</INGRED> le <INGRED>petit</INGRED> salé coupé <INGRED>,</INGRED> les escargots. Réserver les escargots. Ajouter à l'<INGRED>oignon</INGRED> et au <INGRED>petit</INGRED> salé l'<INGRED>ail</INGRED> <INGRED>,</INGRED> le <INGRED>concentré de tomates</INGRED> <INGRED>,</INGRED> le <INGRED>vin</INGRED> <INGRED>,</INGRED> le <INGRED>bouquet garni</INGRED> <INGRED>,</INGRED> le <INGRED>persil</INGRED> et l'<INGRED>eau</INGRED> <INGRED>.</INGRED> Donner un <INGRED>bouillon</INGRED> puis laisser réduire à <INGRED>petit</INGRED> feu <INGRED>.</INGRED> Lorsque la <INGRED>sauce</INGRED> commence à lier mettre les <INGRED>escargots</INGRED> et faire mijoter 15 minutes. Vin rouge " Corbières "
+  </annotation>
+  <complexite>
+    <temps>f(X) = 7.3125*X + 5.6875</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 9*X + 12</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['escargots']	 id:1	 quantité:1	 unité:kg d'	 denombrable:False	 recipient:1
+ingredient:['petit salé', 'salé']	 id:2	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oignon']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['ail']	 id:4	 quantité:2	 unité:gousses d'	 denombrable:True	 recipient:2*X
+ingredient:['concentré de tomates', 'concentré']	 id:5	 quantité:4	 unité:cuillères à soupe de	 denombrable:True	 recipient:4*X
+ingredient:['vin rouge', 'vin']	 id:6	 quantité:1/2	 unité:litre de	 denombrable:False	 recipient:1
+ingredient:['eau']	 id:7	 quantité:1	 unité:verre d'	 denombrable:True	 recipient:1*X
+ingredient:['bouquet garni', 'bouquet']	 id:8	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['persil']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['huile']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:purger	 id:o_1	 ingrédients_ralatifs:['1', '1', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:jeuner	 id:o_2	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_3	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tremper	 id:o_4	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:cuire	 id:o_5	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:partir	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:laver	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:égoutter	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:revenir	 id:o_9	 ingrédients_ralatifs:['3', '10', '7', '2', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:['8', '2', '1', '5', '2', '12', '11', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:lier	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_12	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mijoter	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+]]>
+</operation_trouve>
+</recette>

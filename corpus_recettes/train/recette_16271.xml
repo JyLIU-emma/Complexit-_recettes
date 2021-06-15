@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16271">
+  <titre>Tarte au flan</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>6 oeufs</p>
+    <p>75 cl de lait</p>
+    <p>90 g de sucre semoule</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre les oeuf entiers dans un grand saladier jusqu'à formation d'une mousse.
+    Faire chauffer le lait. Dès qu'il est tiède le sucrer. L'amener à ébullition. Verser le lait bouillant sur les oeufs battus en remuant bien pour qu'ils ne cuisent pas.
+    Foncer un moule à tarte beurré et fariné avec la pâte.
+    Verser le flan sur la pâte et faire cuire pendant 25 mn à 180°C.
+    En fin de cuisson, augmenter légèrement la température à 200-220°C afin de dorer le flan
+    (la cuisson peut durer un peu plus longtemps en fonction du type de four).
+  ]]>
+  </preparation>
+</recette>

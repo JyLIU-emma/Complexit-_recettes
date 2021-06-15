@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25033">
+  <titre>Lapin bonne femme</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 lapin coupé en morceaux</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>150 g de poitrine fumée</p>
+    <p>250 g de champignons de Paris</p>
+    <p>15 cl de vin blanc sec</p>
+    <p>15 cl de bouillon de volaille</p>
+    <p>1 bouquet garnis (thym, laurier, queues de persil) </p>
+    <p>1 gousse d'ail pelée et écrasée</p>
+    <p>3 cuillères à soupe de persil haché</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Faites revenir à feu moyen les morceaux de lapin à l'huile dans une cocotte jusqu'à ce qu'ils soient colorés. Lavez et émincez les champignons. 
+    2) Ôtez les morceaux de lapin de la cocotte. Á leur place, faites suer quelques minutes sur feu moyen les oignons, les ladons, et les champignons jusqu'à ce que le mélange soit doré. 
+    3) Remettez le lapin dans la cocotte. Salez, poivrez. Versez le vin blanc. Laissez réduire 5 mn puis ajoutez le bouillon, le bouquet garni et l'ail. Couvrez et laissez cuire 1h sur feu doux. 
+    4) Ôtez la préparation de la cocotte. Faites réduire le jus de citron d'un tiers sur feu vif. Liez avec la crème, rajoutez le lapin et sa garniture. Laissez réchauffer en mélangeant. Parsemez de persil et servez.
+  ]]>
+  </preparation>
+</recette>

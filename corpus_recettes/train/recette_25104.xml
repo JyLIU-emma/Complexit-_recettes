@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25104">
+  <titre>Gâteau fourré à la crème au beurre</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>60 g de chocolat fondant</p>
+    <p>100 g de beurre</p>
+    <p>65 g de farine</p>
+    <p>90 g de sucre semoule</p>
+    <p>1 cuillère à café de lait</p>
+    <p>2 oeufs</p>
+    <p>1/4 de cuillère à café de levure chimique</p>
+    <p>1 pincée de sel</p>
+    <p>Pour la crème au beurre :</p>
+    <p>125 g de beurre</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>125 g de sucre semoule</p>
+    <p>1 cuillères à soupe de chocolat en poudre</p>
+    <p>3 cl de rhum</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 150°C (thermostat 5).
+    Dans une casserole, faire chauffer le chocolat juste pour le faire fondre.
+    Dans un saladier, battre le beurre en crème, y ajouter le sucre, puis les oeufs sans cesser de battre.
+    Incorporer ensuite la farine et la levure tamisée en remuant vivement.
+    Ajouter ensuite le chocolat fondu puis bien mélanger le tout de façon à obtenir une pâte bien lisse.
+    Verser la pâte dans un moule à manqué beurré et fariné puis enfourner pour 1 heure de cuisson.
+    Démouler et laisser le gâteau refroidir à température ambiante.
+    Pendant ce temps, prépare la crème au beurre en battant le sucre et les jaunes d'oeufs.
+    Saupoudrer le mélange battu de chocolat en poudre et verser le rhum.
+    Incorporer ensuite le beurre ramolli et bien mélanger le tout.
+    Découper le gâteau refroidi en 2 dans le sens de la largeur.
+    Le fourrer de crème en vous aidant d’une spatule puis le reconstituer.
+    Décorer le dessus de sucre glace ou de copeaux de chocolat. Déguster.
+  ]]>
+  </preparation>
+</recette>

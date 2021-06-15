@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10527">
+  <titre>Lasagnes végétariennes (facile)</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 tomates fraîches (ou pelées en boîte, à défaut)</p>
+    <p>4 ou 5 courgettes</p>
+    <p>sel, poivre, basilic frais, herbes de Provence</p>
+    <p>lasagnes</p>
+    <p>400 g de gruyère râpé</p>
+    <p>200 g de coulis de tomates</p>
+    <p>4 oignons de taille moyenne</p>
+    <p>50 cl de béchamel ou (si on est pressé) de crème fraîche épaisse ou semi-épaisse</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Si vous utilisez des oignons, faites-les revenir (dans une sauteuse ou un wok) jusqu'à ce qu'ils soient fondants.
+    Coupez les tomates, ajoutez-les aux oignons, puis faites mijoter  avec des herbes de Provence (n'hésitez pas !), sel et poivre.
+    Coupez les courgettes en rondelles puis incorporez-les au mélange.
+    Ajoutez de la sauce tomate (ou de la purée de tomate, à défaut), et 1 cuillère à café de sucre en poudre (plus en hiver, quand les tomates sont plus fades).Laissez mijoter l'ensemble, 20 min environ, à feu moyen.
+    Une fois le mélange prêt, procédez à l'empilement dans un grand plat : 1 couche de lasagnes, 1 couche de préparation, 1 couche de béchamel, 1 couche de gruyère, et ainsi de suite (en rajoutant un peu de sel à chaque fois), en mettant beaucoup de gruyère sur la dernière couche.
+    Faites cuire à four chaud (thermostat 7-200°C), 35 minutes
+    Servez, lorsque c'est bien gratiné.Vous pouvez rajouter des carottes.
+    Les oignons ne sont pas indispensables, mais ils rajoutent du fondant à la consistance.
+    Personnellement, je remplace parfois la dernière couche de gruyère par du comté. Bourgogne rouge léger
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Si vous utilisez des <INGRED id="10">oignons</INGRED>, faites - les <OPER id="o_1">revenir</OPER> ( dans une sauteuse ou un wok ) jusqu'à ce qu'ils soient fondants. <OPER id="o_2">Coupez</OPER> les <INGRED id="1">tomates</INGRED>, <OPER id="o_3">ajoutez</OPER> - les aux <INGRED id="10">oignons</INGRED>, puis faites <OPER id="o_4">mijoter</OPER> avec des <INGRED id="6">herbes de Provence</INGRED> ( n'hésitez pas ! ), <INGRED id="3">sel</INGRED> et <INGRED id="4">poivre</INGRED>. <OPER id="o_5">Coupez</OPER> les <INGRED id="2">courgettes</INGRED> en rondelles puis <OPER id="o_6">incorporez</OPER> - les au mélange. <OPER id="o_7">Ajoutez</OPER> de la sauce tomate ( ou de la purée de tomate, à défaut ), et 1 cuillère à café de sucre en poudre ( plus en hiver, quand les <INGRED id="1">tomates</INGRED> sont plus fades).Laissez <OPER id="o_8">mijoter</OPER> l'ensemble, 20 min environ, à feu moyen. Une fois le mélange prêt, <OPER id="o_9">procédez</OPER> à l'empilement dans un grand plat : 1 couche de <INGRED id="7">lasagnes</INGRED>, 1 couche de préparation, 1 couche de <INGRED id="11">béchamel</INGRED>, 1 couche de <INGRED id="8">gruyère</INGRED>, et ainsi de suite ( en rajoutant un peu de <INGRED id="3">sel</INGRED> à chaque fois ), en mettant beaucoup de <INGRED id="8">gruyère</INGRED> sur la dernière couche. Faites <OPER id="o_10">cuire</OPER> à four chaud ( thermostat 7 - 200 ° C ), 35 minutes Servez, lorsque c'est bien gratiné. Vous pouvez <OPER id="o_11">rajouter</OPER> des carottes. Les <INGRED id="10">oignons</INGRED> ne sont pas indispensables, mais ils rajoutent du fondant à la consistance. Personnellement, je remplace parfois la dernière couche de <INGRED id="8">gruyère</INGRED> par du comté. Bourgogne rouge léger
+  </annotation>
+  <annotation methode="crf">
+  Si vous utilisez des <INGRED>oignons,</INGRED> faites - les revenir ( dans une sauteuse <INGRED>ou</INGRED> un wok ) jusqu'à ce qu'ils soient fondants. Coupez les <INGRED>tomates</INGRED> <INGRED>,</INGRED> ajoutez - les aux <INGRED>oignons,</INGRED> puis faites mijoter avec des <INGRED>herbes de Provence</INGRED> ( n'hésitez pas ! ) <INGRED>,</INGRED> <INGRED>sel</INGRED> et <INGRED>poivre</INGRED>. Coupez les <INGRED>courgettes</INGRED> en rondelles puis incorporez - les au <INGRED>mélange</INGRED> <INGRED>.</INGRED> Ajoutez de la <INGRED>sauce</INGRED> <INGRED>tomate</INGRED> ( <INGRED>ou</INGRED> de la <INGRED>purée de tomate</INGRED> <INGRED>,</INGRED> à défaut ) <INGRED>,</INGRED> et 1 cuillère à <INGRED>café</INGRED> de <INGRED>sucre en poudre</INGRED> ( plus en hiver <INGRED>,</INGRED> quand les <INGRED>tomates</INGRED> sont plus fades).Laissez mijoter l'ensemble, 20 min <INGRED>environ</INGRED> <INGRED>,</INGRED> à feu moyen <INGRED>.</INGRED> Une fois le <INGRED>mélange</INGRED> prêt <INGRED>,</INGRED> procédez à l'empilement dans un grand plat <INGRED>:</INGRED> 1 couche de lasagnes <INGRED>,</INGRED> 1 couche de préparation <INGRED>,</INGRED> 1 couche de <INGRED>béchamel</INGRED> <INGRED>,</INGRED> 1 couche de <INGRED>gruyère</INGRED> <INGRED>,</INGRED> et ainsi de suite ( en rajoutant un peu de <INGRED>sel</INGRED> à chaque fois ) <INGRED>,</INGRED> en mettant beaucoup de <INGRED>gruyère</INGRED> sur la dernière couche. Faites cuire à four chaud ( thermostat 7 - 200 ° C ) <INGRED>,</INGRED> 35 minutes Servez <INGRED>,</INGRED> lorsque c'est bien gratiné. Vous pouvez rajouter des <INGRED>carottes</INGRED>. Les <INGRED>oignons</INGRED> ne sont pas indispensables <INGRED>,</INGRED> mais ils rajoutent du fondant à la consistance <INGRED>.</INGRED> Personnellement <INGRED>,</INGRED> je remplace parfois la dernière couche de <INGRED>gruyère</INGRED> par du <INGRED>comté</INGRED> <INGRED>.</INGRED> Bourgogne rouge léger
+  </annotation>
+  <complexite>
+    <temps>f(X) = 13.3636363636364*X + 7.63636363636364</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 14*X + 14</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['tomates fraîches', 'tomates']	 id:1	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['courgettes']	 id:2	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['sel']	 id:3	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['basilic frais', 'basilic']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['herbes de Provence', 'herbes']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['lasagnes']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['gruyère râpé', 'gruyère']	 id:8	 quantité:400	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['coulis de tomates', 'coulis']	 id:9	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oignons de taille moyenne', 'oignons']	 id:10	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['béchamel']	 id:11	 quantité:50	 unité:cl de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:revenir	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:couper	 id:o_2	 ingrédients_ralatifs:['1', '10', '6']	 nombre_opération_atomique:6*X+4*X+1	 temps:6*X*1+4*X*1+1*X*1	 recipient:1
+operation:ajouter	 id:o_3	 ingrédients_ralatifs:['10', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_4	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:couper	 id:o_5	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:4*X*1	 recipient:1
+operation:incorporer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:procéder	 id:o_9	 ingrédients_ralatifs:['7', '11', '8', '3', '8']	 nombre_opération_atomique:1	 temps:3	 recipient:0
+operation:cuire	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:rajouter	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

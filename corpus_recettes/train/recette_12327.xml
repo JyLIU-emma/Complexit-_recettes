@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12327">
+  <titre>Purée de pois chiches (Hoummous)</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 bol de pois chiches secs</p>
+    <p>750 d'eau</p>
+    <p>1 jus de citron</p>
+    <p>60 ml d'huile d'olive</p>
+    <p>2 gousses d'ail, hachées</p>
+    <p>2 c à soupe d'eau</p>
+    <p>1/2 c à café de sel</p>
+    <p>Paprika</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire tremper les pois chiches secs dans l'eau, au moins 4 heures, sauf s'il sont en boîte.
+    Egoutter, mettre dans une casserolle, ajouter l'eau, porter à ébullition. Laisser frémir 1 heure à découvert, égoutter.
+    Mixer les pois, le jus de citron, l'huile, l'ail, l'eau et le sel 30 secondes pour obtenir une purée crémeuse.
+  ]]>
+  </preparation>
+</recette>

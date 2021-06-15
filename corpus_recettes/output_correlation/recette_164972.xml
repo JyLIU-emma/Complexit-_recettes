@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164972">
+  <titre>Pois gourmands et carottes en lamelles aux nouilles chinoises (wok)</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 paquets de nouilles chinoises</p>
+    <p>1/2 oignon</p>
+    <p>250 g de pois gourmands frais</p>
+    <p>250 g de carottes</p>
+    <p>1/2 fenouil (optionnel)</p>
+    <p>3 à 4 cuillères à soupe de sauce soja</p>
+    <p>gingembre râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Après les avoir pelés, coupez les carottes en fines lamelles, façon tagliatelle, avec un économe.
+    Équeutez les pois gourmands et lavez les.
+    Hacher un 1/2 oignon et un 1/2 petit fenouil en fines lamelles.
+    Mettez un filet d'huile d'olive dans un wok et faites revenir le 1/2 oignon.
+    Quand il est à peine roux, jetez dessus vos pois cassés bien humides, les carottes en tagliatelle et le fenouil. Faites suer.
+    Rajoutez la sauce soja (attention ne salez pas en plus) et le gingembre râpé (selon vos goûts).
+     
+    Laissez cuire 10/15 min en gardant un croquant au légumes.
+    En fin de cuisson, rajoutez les pâtes chinoises et arrosez d'eau bouillante en coupant le feu.
+    Laissez les pâtes se ramollir et gonfler hors feu (5min environ) en remuant régulièrement. 
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Après les <OPER id="o_1">avoir</OPER> pelés, <OPER id="o_2">coupez</OPER> les <INGRED id="4">carottes</INGRED> en fines lamelles, façon tagliatelle, avec un économe. <OPER id="o_3">Équeutez</OPER> les <INGRED id="3">pois</INGRED> gourmands et <OPER id="o_4">lavez</OPER> les. <OPER id="o_5">Hacher</OPER> un 1/2 <INGRED id="4">oignon</INGRED> et un 1/2 petit <INGRED id="5">fenouil</INGRED> en fines lamelles. <OPER id="o_6">Mettez</OPER> un filet d'huile d'olive dans un wok et faites <OPER id="o_7">revenir</OPER> le 1/2 <INGRED id="1">oignon</INGRED>. Quand il est à peine roux, <OPER id="o_8">jetez</OPER> dessus vos <INGRED id="3">pois</INGRED> cassés bien humides, les <INGRED id="3">carottes</INGRED> en tagliatelle et le <INGRED id="5">fenouil</INGRED>. Faites <OPER id="o_9">suer</OPER>. <OPER id="o_10">Rajoutez</OPER> la <INGRED id="6">sauce soja</INGRED> ( attention ne salez pas en plus ) et le <INGRED id="7">gingembre râpé</INGRED> ( selon vos goûts ). Laissez <OPER id="o_11">cuire</OPER> 10/15 min en gardant un croquant au légumes. En fin de cuisson, <OPER id="o_12">rajoutez</OPER> les <INGRED id="2">pâtes</INGRED> chinoises et arrosez d'eau bouillante en coupant le feu. Laissez les <INGRED id="2">pâtes</INGRED> se <OPER id="o_13">ramollir</OPER> et <OPER id="o_14">gonfler</OPER> hors feu ( 5min environ ) en remuant régulièrement.
+  </annotation>
+  <annotation methode="crf">
+  Après les avoir pelés <INGRED>,</INGRED> coupez les <INGRED>carottes</INGRED> en fines <INGRED>lamelles</INGRED> <INGRED>,</INGRED> façon tagliatelle <INGRED>,</INGRED> avec un <INGRED>économe</INGRED> <INGRED>.</INGRED> Équeutez les <INGRED>pois</INGRED> gourmands et lavez les <INGRED>.</INGRED> Hacher un <INGRED>1/2</INGRED> <INGRED>oignon</INGRED> et un <INGRED>1/2</INGRED> <INGRED>petit</INGRED> <INGRED>fenouil</INGRED> en fines lamelles. Mettez un <INGRED>filet</INGRED> d'<INGRED>huile d'olive</INGRED> dans un wok et faites revenir le <INGRED>1/2</INGRED> <INGRED>oignon</INGRED>. Quand il est à peine roux <INGRED>,</INGRED> jetez dessus vos <INGRED>pois</INGRED> cassés bien humides <INGRED>,</INGRED> les <INGRED>carottes</INGRED> en tagliatelle et le <INGRED>fenouil</INGRED> <INGRED>.</INGRED> Faites suer <INGRED>.</INGRED> Rajoutez la <INGRED>sauce soja</INGRED> ( attention ne salez pas en plus ) et le <INGRED>gingembre</INGRED> râpé ( selon vos goûts ). Laissez cuire 10/15 min en gardant un croquant au <INGRED>légumes</INGRED> <INGRED>.</INGRED> En fin de cuisson <INGRED>,</INGRED> rajoutez les <INGRED>pâtes chinoises</INGRED> et arrosez d'<INGRED>eau</INGRED> bouillante en coupant le feu <INGRED>.</INGRED> Laissez les <INGRED>pâtes</INGRED> se ramollir et gonfler hors feu ( 5min <INGRED>environ</INGRED> ) en remuant régulièrement <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 175.666666666667*X + 87.8333333333333</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 7*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['nouilles chinoises', 'nouilles']	 id:1	 quantité:2	 unité:paquets de	 denombrable:True	 recipient:2*X
+ingredient:['oignon']	 id:2	 quantité:1/2	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['pois gourmands frais', 'pois']	 id:3	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['carottes']	 id:4	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['fenouil']	 id:5	 quantité:1/2	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sauce soja', 'sauce']	 id:6	 quantité:3	 unité:cuillères à soupe de	 denombrable:True	 recipient:3*X
+ingredient:['gingembre râpé', 'gingembre']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:avoir	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_2	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:250*X	 temps:1*X*1	 recipient:1
+operation:équeuter	 id:o_3	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:laver	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:hacher	 id:o_5	 ingrédients_ralatifs:['4', '5']	 nombre_opération_atomique:1+1/2*X	 temps:1*X*5+1/2*X*5	 recipient:1
+operation:mettre	 id:o_6	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:revenir	 id:o_7	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:jeter	 id:o_8	 ingrédients_ralatifs:['3', '3', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:suer	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rajouter	 id:o_10	 ingrédients_ralatifs:['6', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:rajouter	 id:o_12	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ramollir	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:gonfler	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

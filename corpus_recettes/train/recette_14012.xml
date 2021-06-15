@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14012">
+  <titre>Gâteau aux marrons, sauce au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de crème de marrons</p>
+    <p>100 g de beurre</p>
+    <p>3 oeufs</p>
+    <p>100 g de chocolat</p>
+    <p>50 g de crème fraîche liquide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole faire fondre doucement la crème de marrons et le beurre ramolli.
+    Lorsque le mélange est homogène, ajouter les oeufs 1 par 1 hors du feu.
+    Beurrer un moule à cake, verser la préparation et mettre au four th 5 (150°C) pendant 45 mn. 
+    Laisser refroidir et démouler.
+    Pendant ce temps, préparer la sauce au chocolat: faire fondre le chocolat dans la crème bouillante, ajouter une noisette de beurre, mélanger, puis mettre en attente jusqu'au moment du service.
+     vin blanc doux
+  ]]>
+  </preparation>
+</recette>

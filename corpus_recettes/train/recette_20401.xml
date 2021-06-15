@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20401">
+  <titre>Soupe au pistou - soupe d'été</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de lard maigre demi-sel</p>
+    <p>750 g de haricots blancs</p>
+    <p>400 g de haricots mange-tout</p>
+    <p>2 carottes</p>
+    <p>3 pommes de terre</p>
+    <p>1 tranche de potiron (facultatif) </p>
+    <p>2 tomates</p>
+    <p>100 g de gruyère rapê</p>
+    <p>15 grandes feuilles de basilic</p>
+    <p>2 gousses d'ail</p>
+    <p>1/2 verre d'huile d'olive</p>
+    <p>125 g de coquillettes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ecossez les haricots blancs. 
+    Epluchez les pommes de terre, les carottes, les haricots mange-tout. 
+    Le potiron. 
+    Coupez-les en dés. 
+    Passez le lard sous l'eau fraîche, mettez le dans un faitout avec 3 litres d'eau. 
+    Amenez à ébullition et jetez dedans les haricots blancs et les carottes. 
+    Couvrez et laissez cuire 45 mn. 
+    A ce moment ajoutez les haricots mange-tout, les pommes de terre et le potiron. 
+    Comptez encore 30 mn de cuisson. 
+    Ajoutez alors les coquillettes, laissez cuire encore 10 mn à découvert. 
+    Dans un mortier, pilez l'ail et le basilic, puis ajoutez les tomates épluchées et épépinées. 
+    Travaillez cette pâte au pilon en ajoutant le gruyère râpé et l'huile alternativement. 
+    Versez la pâte dans la soupière, délayez-la peu à peu avec la soupe bouillante. 
+    Laissez infuser 5 mn avant de servir.
+    c'est une soupe que l'on prépare l'été car on y trouve tous les légumes frais et à bon marché.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24628">
+  <titre>Rochers coco</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de noix de coco râpée</p>
+    <p>100 g de sucre semoule</p>
+    <p>2 blancs d'oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Monter les blancs d'oeufs en neige et y mettre une pincée de sel.
+    Ajouter délicatement le sucre et la noix de coco mélangés.
+    Former de petites pyramides et les placer sur une feuille de papier sulfurisé en prenant soin de suffisament les espacer.
+    Cuire au four 15 à 30 min à 180°C (thermostat 6) en surveillant régulièrement.
+    Ne pas attendre que les rochers refroidissent pour les décoller.
+  ]]>
+  </preparation>
+</recette>

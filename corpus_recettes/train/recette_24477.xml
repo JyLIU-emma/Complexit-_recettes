@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24477">
+  <titre>Tarte au saumon fumé, asperges vertes et bisque de homard</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>150 g à 200 g de saumon fumé</p>
+    <p>1 rouleau de pâte brisée</p>
+    <p>1 bocal d'asperges vertes au naturel</p>
+    <p>1 boîte de bisque de homard</p>
+    <p>20 cl de crème liquide</p>
+    <p>3 oeufs</p>
+    <p>80 g de gruyère râpé</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C. 
+    Pendant ce temps, étaler la pâte dans un plat à tarte, garnir de lamelles de saumon fumé et disposer les asperges sur le dessus. 
+    Réaliser un mélange avec les oeufs, la crème et environ 2 cuillères à soupe de bisque de homard. Saler, poivrer. 
+    Verser ce mélange sur la tarte. 
+    Saupoudrer de gruyère râpé et enfourner une trentaine de minutes, jusqu'à obtention d'une belle cuisson dorée.
+    Servir avec une salade verte.
+    Idéale pour un repas du soir léger et équilibré.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26397">
+  <titre>Noix de Saint Jacques  à la nage</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>16 noix et coraux de coquilles Saint Jacques surgelées</p>
+    <p>20 cl de lait</p>
+    <p>50 g de carottes </p>
+    <p>50 g de céleri râpés en sachet</p>
+    <p>1 poireau</p>
+    <p>50 cl de fumet de poisson (6 cuillères à café de fumet en poudre) </p>
+    <p>10 cl de crème liquide</p>
+    <p>20 g de beurre</p>
+    <p>1/2 cuillère à café de gingembre en poudre</p>
+    <p>1/2 botte de ciboulette hachée</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire décongeler les coquilles dans le lait. 
+    Couper le poireau entier à l'aide d’un robot mixer avec la lame à émincer.
+    Lavez l’émincé de poireau obtenu à grande eau afin d’éliminer tout le sable. Egoutter et sécher avec soin.
+    Faire chauffer le beurre dans une sauteuse. Faire revenir l’émincé de poireau ainsi que les carottes et le céleri pendant 2 à 3 min.
+    Préparer le fumet : diluer la poudre dans 1/2 litre d’eau bouillante. Saler légèrement et poivrer. Verser sur les légumes et laisser frémir 3 min à petite ébullition.
+    Ajouter dans le fumet les noix de Saint Jacques coupées en 2 dans l’épaisseur. Laisser cuire pendant 4 min à feu moyen, puis ajouter la crème liquide et le gingembre. Mélanger.
+    Servir dans des assiettes creuses et décorer de ciboulette.
+  ]]>
+  </preparation>
+</recette>

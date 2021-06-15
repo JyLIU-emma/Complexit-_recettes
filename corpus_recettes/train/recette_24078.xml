@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24078">
+  <titre>Pâtes au thon et aux poivrons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 poivrons (rouge vert jaune) </p>
+    <p>200 g de thon en boîte</p>
+    <p>385 g de tomates concassées</p>
+    <p>huile d'olive</p>
+    <p>1/2 verre de vin blanc</p>
+    <p>1 oignon émincé</p>
+    <p>3 cuillères à soupe de crème fraîche</p>
+    <p>sel, poivre</p>
+    <p>500 g de pâtes comme accompagnement</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les poivrons en petits dés, les faire fondre dans l'huile d'olive pendant 10 min avec l'oignon émincé. 
+    Ajouter le vin blanc et laisser mijoter 10 min. 
+    Ajouter le thon émietté, les tomates concassées et laisser cuire 10 min. 
+    Ajouter sel poivre et la crème fraîche. 
+    Cuire les pâtes et les napper de la sauce poivron/thon.
+    C'est facile à faire, très coloré. Peut se manger chaud avec des pâtes ou froid sur des toasts ou grillés sur toasts avec gruyère râpé pour l'apéritif.
+  ]]>
+  </preparation>
+</recette>

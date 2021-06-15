@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18773">
+  <titre>Pain d'épices aux noix</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de miel</p>
+    <p>250 g de farine + 1 sachet de levure</p>
+    <p>25 g de sucre roux</p>
+    <p>1 oeuf</p>
+    <p>10 cl de lait tiède</p>
+    <p>1 poignée de noix</p>
+    <p>2 figues fraîches</p>
+    <p>vanille, cannelle, muscade, anis</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Délayer le miel dans le lait tiède. 
+    Ajouter l'oeuf, puis le sucre. Bien mélanger. 
+    Ajouter ensuite la farine, la levure et les épices. Mélanger, mouiller au besoin avec un peu de lait. 
+    Verser 2/3 de la préparation dans un moule à cake beurré. 
+    Ajouter les noix concassées grossièrement et les figues coupées en lamelles. 
+    Recouvrir du reste de pâte, ajouter quelques noisettes de beurre. 
+    Cuire 30 mn à 180°C.
+    Le pain d'épices est aussi très bon avec des pruneaux ou des amandes.
+  ]]>
+  </preparation>
+</recette>

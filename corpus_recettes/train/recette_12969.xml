@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12969">
+  <titre>Pieds de porc panés</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 pieds de porc cuits </p>
+    <p>chapelure</p>
+    <p>huile végétale</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Si les pieds que vous avez achetés sont conservés dans la gelée, retirez-la.
+    Coupez les pieds en deux (dans le sens de la longueur).
+    Versez de la chapelure dans une assiette et enduisez uniformément les 1/2 pieds de cette chapelure.
+    Faites chauffer l'huile dans une sauteuse puis faites dorer les pieds environ 5 min par face.
+    Couvrez la sauteuse lors de la cuisson car la cuisson expose votre cuisine aux éclaboussures.
+  ]]>
+  </preparation>
+</recette>

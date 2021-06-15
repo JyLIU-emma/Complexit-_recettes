@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20164">
+  <titre>Salade de carottes râpées aux amandes et au thon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 belles carottes</p>
+    <p>1 boîte de thon</p>
+    <p>1 citron</p>
+    <p>150 g d'amandes entières</p>
+    <p>2 cuillères à soupe de coriandre hachée</p>
+    <p>2 gousses d'ail</p>
+    <p>sel, poivre</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Râper les carottes, ajouter le thon, les amandes,la coriandre et l'ail finement hachés, un filet d'huile d'olive, saler et poivrer.On peut éliminer l'huile d'olive pour en faire un plat vraiment léger : l'eau du thon et le citron suffisent pour éviter un aspect trop sec.
+    Du persil peut remplasser la coriandre
+  ]]>
+  </preparation>
+</recette>

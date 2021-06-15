@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26100">
+  <titre>Gâteau de fête fourré au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour le gâteau :</p>
+    <p>200 g de farine</p>
+    <p>200 g de sucre</p>
+    <p>100 g de beurre</p>
+    <p>75 g de cacao en poudre non sucré</p>
+    <p>15 cl de lait</p>
+    <p>3 oeufs</p>
+    <p>1 cuillère à soupe de levure en poudre</p>
+    <p>Pour le fourrage :</p>
+    <p>300 g de crème fraîche</p>
+    <p>2 cuillères à soupe de sucre glace</p>
+    <p>Pour le glaçage :</p>
+    <p>75 g de crème fraîche</p>
+    <p>200 g de chocolat fondant</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6/7).
+    Préparer un lait chocolaté dans une casserole, en mélangeant le lait et le cacao.
+    Ramollir légèrement le beurre et le mélanger vigoureusement au sucre et aux oeufs. Incorporer le lait chocolaté et la farine.
+    Beurrer et fariner trois moules ronds de 18 cm de diamètre. Verser la préparation dans chaque moule et faire cuire au four pendant 30 min. Laisser refroidir et démouler.
+    Pendant ce temps, fouetter la crème fraîche et le sucre glace. Tartiner cette chantilly sur le dessus de deux des gâteaux. Puis superposer les trois gâteaux. Faire refroidir le tout au réfrigérateur pendant 1 h.
+    Faire fondre le chocolat concassé au bain-marie et ajouter le reste de crème fraîche. Recouvrir le gâteau de ce glaçage et le replacer dans le réfrigérateur jusqu'au moment de servir.
+  ]]>
+  </preparation>
+</recette>

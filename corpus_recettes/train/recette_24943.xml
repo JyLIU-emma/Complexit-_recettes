@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24943">
+  <titre>Velouté d'oseille à la tomate</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g d'oseille</p>
+    <p>500 g de tomates</p>
+    <p>40 g de beurre</p>
+    <p>50 g de riz</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>1 jaune d'oeuf</p>
+    <p>2 cuillères à soupe de persil haché</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et égoutter l'oseille.
+    La faire fondre à feu doux, dans une casserole avec le beurre chaud.
+    Peler, épépiner et couper les tomates en morceaux, les rajouter dans la casserole.
+    Saler, poivrer et laisser mijotez à feu doux, 10 minutes à couvert.
+    Mouliner les légumes et remettre le tout dans la casserole.
+    Verser 1 litre d'eau, porter à ébullition et ajouter le riz. 
+    Couvrir et laisser mijoter environ 20 minutes, jusqu'à ce que le riz soit cuit.
+    Délayer la crème avec le jaune d'oeuf, l'incorporer à la soupe en fouettant.
+    Retirer du feu au premier bouillon, ajouter le persil haché et servir, accompagné de pain de campagne grillé.
+  ]]>
+  </preparation>
+</recette>

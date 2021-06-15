@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="9681">
+  <titre>Aumonière de carré frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>pâte à crêpes    </p>
+    <p>carré frais    </p>
+    <p>ciboulette</p>
+    <p>persil</p>
+    <p>ail    </p>
+    <p>tomates séchées    </p>
+    <p>tomate</p>
+    <p>concombre   </p>
+    <p>roquefort   </p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire 1 pâte à  crêpes.Mélanger : ciboulette, persil, ail, chair de tomate, tomates
+    séchées, 1 moitié de concombre coupée en petits dés (voire 1 tiers) et assaisonner.
+    Cuire les crêpes et former des aumonières.
+    Garnir les aumonières de la préparation.
+    Servir froid ou tiède, accompagné d'une sauce ou citron (crème fraîche épaisse + citron + sel et poivre).
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire 1 <INGRED id="1">pâte à crêpes</INGRED>. <OPER id="o_1">Mélanger</OPER> : <INGRED id="4">ciboulette</INGRED>, <INGRED id="9">persil</INGRED>, <INGRED id="4">ail</INGRED>, chair de <INGRED id="2">tomate</INGRED>, <INGRED id="6">tomates séchées</INGRED>, 1 moitié de <INGRED id="6">concombre</INGRED> coupée en petits <INGRED id="6">dés</INGRED> ( voire 1 tiers ) et <OPER id="o_2">assaisonner</OPER>. <OPER id="o_3">Cuire</OPER> les crêpes et former des aumonières. <OPER id="o_4">Garnir</OPER> les aumonières de la préparation. Servir froid ou tiède, accompagné d'une <INGRED id="6">sauce</INGRED> ou <INGRED id="4">citron</INGRED> ( <INGRED id="8">crème fraîche épaisse</INGRED> + citron + <INGRED id="9">sel</INGRED> et <INGRED id="8">poivre</INGRED> ).
+  </annotation>
+  <annotation methode="crf">
+  Faire 1 <INGRED>pâte</INGRED> à crêpes. Mélanger <INGRED>:</INGRED> <INGRED>ciboulette</INGRED> <INGRED>,</INGRED> <INGRED>persil</INGRED> <INGRED>,</INGRED> <INGRED>ail</INGRED> <INGRED>,</INGRED> <INGRED>chair</INGRED> de <INGRED>tomate</INGRED> <INGRED>,</INGRED> <INGRED>tomates</INGRED> séchées <INGRED>,</INGRED> 1 moitié de <INGRED>concombre</INGRED> coupée en <INGRED>petits</INGRED> dés ( voire 1 tiers ) et assaisonner <INGRED>.</INGRED> Cuire les crêpes et former des aumonières. Garnir les aumonières de la préparation <INGRED>.</INGRED> Servir froid <INGRED>ou</INGRED> tiède <INGRED>,</INGRED> accompagné d'une <INGRED>sauce</INGRED> <INGRED>ou</INGRED> <INGRED>citron</INGRED> ( <INGRED>crème fraîche</INGRED> épaisse + <INGRED>citron</INGRED> + <INGRED>sel</INGRED> et poivre ).
+  </annotation>
+  <complexite>
+    <temps>f(X) = 4.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 13</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pâte à crêpes', 'pâte']	 id:1	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['carré frais', 'carré']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['ciboulette']	 id:3	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['persil']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['ail']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomates séchées', 'tomates']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['concombre']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['roquefort']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mélanger	 id:o_1	 ingrédients_ralatifs:['4', '9', '4', '2', '6', '6', '6']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:assaisonner	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:garnir	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

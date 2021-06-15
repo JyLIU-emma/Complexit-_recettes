@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14869">
+  <titre>Keftas</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de boeuf haché</p>
+    <p>1 oignon</p>
+    <p>3 cuillères à soupe rase de cumin en poudre</p>
+    <p>persil</p>
+    <p>huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez l'oignon en petits morceaux, faites-le revenir légèrement à la poele dans un peu d'huile d'olive.
+    Dans un saladier, mélangez la viande, l'oignon, le persil haché, le cumin et un filet d'huile d'olive. Salez, poivrez et laissez macérer environ une heure au frigo.
+    Faites cuire à la poêle ou au barbecue (c'est encore meilleur!).
+  ]]>
+  </preparation>
+</recette>

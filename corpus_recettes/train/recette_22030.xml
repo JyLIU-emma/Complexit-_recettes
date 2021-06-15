@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22030">
+  <titre>Mousse glacée à la banane</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 bananes</p>
+    <p>1 boîte de lait concentré non sucré placée pendant au moins 2 heures au réfrigérateur</p>
+    <p>200 g de sucre</p>
+    <p>3 citrons (pour leur jus)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixer les bananes pour obtenir une sorte de crème. Presser les citrons, les ajouter à la crème de banane ainsi que la moitié du sucre.
+    Battre au batteur le contenu de la boîte de lait concentré très froid avec le reste du sucre, jusqu'à l'obtention d'une belle crème fouettée. Ajoutez-la à la crème de banane. Verser dans un moule à charlotte ou autre et mettre au congélateur 5 heures au minimum. A faire de préférence la veille. A servir avec un coulis de fruits rouges ou de kiwis.
+    Pour faire un coulis de kiwis : mixer 3 ou 4 kiwis épluchés et débarrassés de la partie blanche centrale. Ajouter un peu de jus de citron et sucrer à volonté.Ce dessert fait le bonheur des enfants. Il est léger pour terminer un repas un peu copieux.
+  ]]>
+  </preparation>
+</recette>

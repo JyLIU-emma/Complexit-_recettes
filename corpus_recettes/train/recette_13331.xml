@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13331">
+  <titre>Côtes de porc au chou rouge</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1/2 chou rouge</p>
+    <p>1 belle échalote	</p>
+    <p>2 tranches de porc (assez grasses)</p>
+    <p>2 cuillères à soupe d'huile d’olive</p>
+    <p>2 cuillères à soupe de vinaigre de vin</p>
+    <p>1 cuillère à soupe de vin blanc</p>
+    <p>1 cuillère à café de moutarde forte</p>
+    <p>1 poignée de gros sel</p>
+    <p>sel et poivre</p>
+    <p>lardons (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer et laver le demi-chou. Le couper très fin, puis le mettre à dégorger dans un bol avec le gros sel. Mélanger. Laisser environ 1 à 2 h.
+    Egoutter, rincer et emballer dans un papier de cuisine jusqu’à l’emploi.
+    Pendant ce temps, faire chauffer l’huile et mettre les côtes de porc à cuire jusqu’à ce qu’elles soient bien dorées (assez longtemps). Ajouter éventuellement les lardons.  Assaisonner.
+    Couper finement l’échalote. Réserver.
+    Mélanger le vin blanc et la moutarde. Réserver.
+    Faire chauffer un plat. Mélanger les échalotes au chou rouge dans le plat chauffé. Y déposer les côtes de 
+    porc (et les lardons éventuellement).
+    Verser dans la poêle le vinaigre et le mélanger vin blanc-moutarde, bien gratter et allonger si nécessaire.
+    Verser bouillant sur le plat et servir immédiatement.
+    NB : Il faut que le chou soit cru, mais chaud (c'est une salade, en fait).
+  ]]>
+  </preparation>
+</recette>

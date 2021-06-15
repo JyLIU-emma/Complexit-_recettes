@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16992">
+  <titre>Poulet à la crème et champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poulet coupé en morceaux</p>
+    <p>500 g de champignons de Paris </p>
+    <p>5 cl de Calvados</p>
+    <p>3 échalotes</p>
+    <p>1 bouquet garni</p>
+    <p>15 cl de crème fraîche</p>
+    <p>3 cuillère à soupe d'huile</p>
+    <p>40 g de beurre</p>
+    <p>2 cuillères à soupe de fines herbes hachées</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyez les champignons et coupez-les en rondelles. Epluchez et émincez les échalotes.
+    Faites revenir le poulet dabs l'huile. Videz la sauteuse et remplacez par les champignons et les échalotes dans le beurre, remettez le poulet et flambez avec le calvados. Ajoutez un verre d'eau, le bouquet garni, sel, poivre et laissez mijoter sur feu doux.
+    Après 1h de cuisson, ajoutez la crème fraîche, mélangez et laissez 15mn. Saupoudrez de fines herbes,et servez.
+  ]]>
+  </preparation>
+</recette>

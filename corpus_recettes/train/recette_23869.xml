@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23869">
+  <titre>Velouté provençal</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 tomates</p>
+    <p>20 cl de lait concentré non sucré</p>
+    <p>1 cube de bouillon au légumes</p>
+    <p>1 poivron jaune</p>
+    <p>2 courgettes</p>
+    <p>1 cuillerée à soupe de basilic ciselé</p>
+    <p>300 ml d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez les legumes et coupez-les en morceaux.
+    Dans un autocuiseur, faites cuire les légumes avec le bouillon et l'eau pendant 10 mn à partir de la rotation de la soupape.
+    Ajoutez le lait et mixez le tout.
+    Saupoudrez de basilic avant de servir. Peut se déguster froid ou chaud.
+    Vous pouvez remplacer le poivron jaune par un poivron rouge.
+  ]]>
+  </preparation>
+</recette>

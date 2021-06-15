@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14568">
+  <titre>Salade de penne au pesto</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de penne rigate</p>
+    <p>1 belle tomate</p>
+    <p>200 g de fèves fraîches (ou surgelées)</p>
+    <p>2 petits oignons blancs</p>
+    <p>1 bouquet de basilic</p>
+    <p>parmesan</p>
+    <p>Pour la sauce :</p>
+    <p>12 feuilles de basilic</p>
+    <p>1 cuillère à soupe de pignons</p>
+    <p>1 gousse d'ail</p>
+    <p>1 cuillère de vinaigre de vin</p>
+    <p>3 cuillère d'huile d'olive</p>
+    <p>sel, poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les fèves 5 à 10 mn à couvert dans de l'eau bouillante salée. Egouttez-les et laissez tièdir puis otez leur fine peau.
+    Faites la sauce au pesto : mixez en purée les feuilles de basilic, les pignons, l'ail, l'huile, le vinaigre, le sel et le poivre.
+    Ebouillantez et pelez la tomate, épépinez-la et taillez-la en dés. Pelez les oignons et émincez-les.
+    Faites cuire les pâtes selon votre goût. Rafraichissez-les et égouttez-les. Versez-les dans un saladier.Mélangez-y les fèves, les dés de tomate et les oignons. Arrosez de sauce pesto, parsemez de feuilles de basilic et saupoudrez de parmesan.Si la sauce est trop épaisse, allongez-la avec un peu d'eau.
+  ]]>
+  </preparation>
+</recette>

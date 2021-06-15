@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16258">
+  <titre>Gâteau de Savoie</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 oeufs</p>
+    <p>250 g de sucre</p>
+    <p>150 g de farine</p>
+    <p>50 g de fécule</p>
+    <p>1 citron (zeste)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre les jaunes d'oeufs et le sucre jusqu'à ce qu'ils blanchissent et gonflent un peu. Dans un saladier à part, mélanger la farine + la fécule + le zeste de citron.
+    Dans un autre saladier, battre les blancs d'oeufs bien fermes.
+    Mettre une cuillère de blancs d'oeufs dans le sucre et tourner très fort. Puis une cuillère du mélange de farine, puis une cuillère de blancs d'oeufs etc.
+    Cuire 5 min à 200°C puis 40 min à 150°C.Cette façon de procéder évite de vous retrouver avec un bras en compote à force d'avoir tourner votre préparation...
+  ]]>
+  </preparation>
+</recette>

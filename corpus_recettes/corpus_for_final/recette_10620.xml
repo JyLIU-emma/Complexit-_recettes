@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10620">
+  <titre>Muffins myrtilles au coeur frais</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>180 g de farine</p>
+    <p>200 g de sucre cristallisé</p>
+    <p>1/2 cuillère à café de sel</p>
+    <p>2 cuillères à café de levure</p>
+    <p>le zeste d'un citron</p>
+    <p>1 gros oeuf</p>
+    <p>20 cl de yaourt</p>
+    <p>2 carré frais</p>
+    <p>6 cl d'huile</p>
+    <p>150 g de myrtilles congelées</p>
+    <p>25 g de noix de pécan hachées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 190°C. Utiliser des moules à muffin en siliconne.
+    Bien mélanger les ingrédients suivants dans 2 récipients séparés :
+    Mélange 1 : farine, levure, bicarbonate, sel, sucre, zeste de citron et noix de pécan
+    Mélange 2 : oeuf, yaourt, carrés frais, huile.
+    Faire un puit dans le mélange 1 et y introduire le mélange 2. Homogénéiser légèrement et rapidement, mais surtout, ne pas trop battre la pâte, elle doit avoir un aspect grumeleux. Ajouter les myrtilles.
+    A l'aide d'une cuillère, remplir les moules de pâte au 2/3 et faire cuire 20 à 25 minutes.
+    Laisser refroidir 10 minutes puis démouler sur une grille.
+    Déguster !
+  ]]>
+  </preparation>
+</recette>

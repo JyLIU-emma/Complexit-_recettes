@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26878">
+  <titre>Tarte au thon et aux tomates pelées</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boîte de thon au naturel de 400 g</p>
+    <p>1 pâte brisée du commerce (sans beurre) </p>
+    <p>1 boîte de tomates pelées et concassées de 400 g</p>
+    <p>1 oignon</p>
+    <p>2 gousses d'ail</p>
+    <p>jus de citron</p>
+    <p>thym</p>
+    <p>persil</p>
+    <p>sel, poivre</p>
+    <p>piment (pour ceux qui aiment) </p>
+    <p>50 g de fromage râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Egoutter le thon. 
+    Couper les oignons en petits dés et écraser les gousses d'ail. 
+    Mélanger le thon égoutté, les dés d'oignon, les gousses d'ail écrasées, les tomates pelées, le jus de citron et les épices dans un saladier. 
+    Préchauffer le four Th 7/8 . 
+    Mettre la pâte dans le moule, la piquer avec une fourchette pour en faciliter la cuisson. 
+    Recrouvrir la pâte de la préparation précédemment obtenue. 
+    Saupoudrer de fromage pour obtenir le gratin. 
+    Mettre au four pendant 20/25 mn.
+    Le piment permet de révéler le gout du thon qui peut être un peu fade. Pour ceux qui ne supportent pas le piment, mettre plus de citron.
+  ]]>
+  </preparation>
+</recette>

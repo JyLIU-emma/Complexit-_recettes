@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23215">
+  <titre>Bananes au chocolat au barbecue</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 bananes</p>
+    <p>1 tablette de chocolat noir</p>
+    <p>du papier aluminium</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prendre chaque banane, garder la peau, faites une fente avec un couteau en évitant de les couper en deux. Mettre des carrés de chocolat dans la fente. 
+    Enveloppez-les chacune dans du papier aluminium, en formant une papillote. Les placer sur la grille du barbecue. 
+    Surveiller la cuisson : une fois le chocolat fondu, on peut déguster ce dessert.
+    Attention à ne pas se brûler en ouvrant la papillote. Attendre quelques secondes que la banane soit moins chaude.
+  ]]>
+  </preparation>
+</recette>

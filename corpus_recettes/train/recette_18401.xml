@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18401">
+  <titre>POULET FAJITAS</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la marinade :</p>
+    <p>1 cuillère à soupe de sauce soja</p>
+    <p>1 cuillère à soupe de sauce worcestershire</p>
+    <p>1 cuillère à soupe de vinaigre de cidre ou, de préférence, de vinaigre balsamique</p>
+    <p>1 cuillère à café de pili pili en poudre</p>
+    <p>un gousse d'ail finement émincée (ou 1/2 cuillère à café d'ail en poudre)</p>
+    <p>1 cuillère à café de sauce Tabasco Hot</p>
+    <p>750 gr de blanc de poulet (sans peau ni os)</p>
+    <p>1 gros oignon</p>
+    <p>3 poivrons (1 vert, 1 rouge, 1 jaune)</p>
+    <p>1 citron (lime si possible)</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, mélangez les différents ingrédients de la marinade.
+    Placez-y les blancs de poulet et laissez mariner pendant 30 minutes en retournant les morceaux de temps en temps. Découpez-les ensuite en aiguillettes.
+    Pendant ce temps, épluchez l'oignon, hachez-le finement, épépinez les poivrons et découpez-les en lanières.
+    Dans une grande casserole, faites chauffer l'huile, ajoutez les aiguillettes de blancs de poulet et faites revenir pendant 5 minutes (ils doivent être bien dorés).  Ajoutez l'oignon émincé, les lanières de poivron et faites sauter encore 3 minutes (le poulet doit être cuit mais les oignons et poivrons doivent rester légérement croquants).
+    Retirez la casserole du feu, rectifiez l'assaisonnement et arrosez du jus de lime frais.
+    Servez avec du riz.
+    Vous pouvez laisser le poulet mariner plus longtemps. Dans ce cas, couvrez le saladier et mettez-le dans le bas de votre réfrigérateur.  Un rosé sec bien frais et une grande bouteille d'eau
+  ]]>
+  </preparation>
+</recette>

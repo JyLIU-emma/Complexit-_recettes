@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17453">
+  <titre>Gratin de pommes de terres aux tomates</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de pommes de terre</p>
+    <p>8 tomates</p>
+    <p>250 g de mozzarella</p>
+    <p>1 botte de basilic</p>
+    <p>4 cuillères à soupe d'huile</p>
+    <p>sel, poivre</p>
+    <p>4 carrés de fromages frais de type 'petits Gervais' (ou autre)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyez les pommes de terre, laissez les dans de l'eau saleé le temps de préparer les autres ingrédients.
+    Lavez les tomates, coupez les en tranches pas trop fines puis retirez les grains.
+    Egouttez la mozzarella et coupez la en tranches. 
+    Rincez le basilic, secouez le pour l'égoutter. Retirez les tiges et réservez les feuilles.
+    Retirez les pommes de terre de l'eau et rincez les. Pelez les et coupez les aussi en tranches pas trop épaisses, elles cuisent plus vite.
+    Préchauffez votre four 180-200°C (thermostat 7-8).
+    Beurrez 4 petits moules à gratin et déposez dans chacun une couche de : pommes de terre, tomates et mozzarella.
+    Enfournez jusqu'à ce que la mozzarella 'forme un gratin' (30-35 mn).
+    A la sortie du four répartir un peu d'huile, du poivre, les feuilles de basilic sur chaque plat.
+    Emiettez les petits gervais et servez-les avec.
+    Ultra-facile, rapide et pas trop cher.
+  ]]>
+  </preparation>
+</recette>

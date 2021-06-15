@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24600">
+  <titre>Pâtes à la ricotta</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de ricotta</p>
+    <p>sel, poivre</p>
+    <p>100 g de pâtes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    On écrase la ricotta dans une assiette, on y ajoute du sel et du poivre. 
+    Moi, je couvre avec cette-ci le pot de l'eau pour les pâtes pour faire chauffer la ricotta très doucement. 
+    Quand l'eau est en ébullition, on continue avec les pâtes comme d'habitude. On peut délayer la ricotta avec deux cuillères d'eau chaude. 
+    Quand les pâtes sont "al dente" on les égoutte et les mélange avec la ricotta.
+    Si on n'est pas en régime, on peut ajouter à la ricotta un filet d'huile d'olive et du Parmesan rapé. Ou même un reste de pesto, ou de coulis de tomates, ou un filet d'anchois écrasé...
+  ]]>
+  </preparation>
+</recette>

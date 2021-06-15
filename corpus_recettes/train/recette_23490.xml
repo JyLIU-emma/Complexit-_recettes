@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23490">
+  <titre>Crevettes à l'ail</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de grosses crevettes (ou 12 gambas)</p>
+    <p>4 gousses d'ail</p>
+    <p>1 piment doux (ou piment en poudre)</p>
+    <p>1 bouquet de persil</p>
+    <p>6 cuillères à soupe d'huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez et essuyez les crevettes. Faites chauffer 4 cuillères à soupe d'huile dans 1 grande poêle. Ajoutez les crevettes et faites les cuire 5 mn de chaque côté puis sortez les de la poêle. Passez l'ail au mixeur, le persil et le piment doux. Dans la poêle, versez le reste de d'huile puis ajoutez l'ail, le persil et le piment. Remuez bien, pour que l'ail soit cuit mais non brûlé. Remettez les crevettes à chauffer. Salez, poivrez et servez chaud.
+  ]]>
+  </preparation>
+</recette>

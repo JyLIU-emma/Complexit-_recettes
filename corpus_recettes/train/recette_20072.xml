@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20072">
+  <titre>Quiche à l'oseille</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>3 oeufs</p>
+    <p>200 g de crème fraîche</p>
+    <p>350 g d'oseille (fraîche ou surgelée) </p>
+    <p>60 g de parmesan râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher l'oseille (après l'avoir lavée) ; si c'est de l'oseille surgelée il faut la faire décongeler. Dans un saladier battre les oeufs et ajouter le crème le sel et le poivre. Bien mélanger, ajouter l'oseille et la moitié du parmesan et remélanger. 
+    Mettre la pâte brisée dans un moule beurré, la cuire à blanc (vous pouvez recouvrir d'haricots secs) pendant 5 min à four chaud (thermostat 7/210°C).
+    Retirer du four et mettre la préparation sur le fond de tarte puis saupoudrer avec le reste du parmesan et hop, encore au four, mais cette fois-ci pour 30 min.
+    Avec une petite salade voila votre repas du soir est prêt; honnêtement ne vous embêtez pas avec de l'oseille fraîche,les grandes marques de surgelés font des petits palets d'oseille qui sont très pratiques.
+  ]]>
+  </preparation>
+</recette>

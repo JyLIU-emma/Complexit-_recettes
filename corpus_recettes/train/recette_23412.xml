@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23412">
+  <titre>Brochet à la sauce au vin blanc et aux champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 brochet préparé, de 2 kg environ</p>
+    <p>150 g de champignons</p>
+    <p>4 échalotes</p>
+    <p>25 cl de vin blanc</p>
+    <p>10 cl de crème fraîche</p>
+    <p>50 g de beurre</p>
+    <p>1 cuillère à soupe de fines herbes hachées (persil, cerfeuil, ciboulette)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hachez les échalotes et les champignons.
+    Nettoyez le brochet et disposez le poisson dans une poissonnière avec le hachis de champignons et d'échalotes. Salez, poivrez, arrosez de vin et portez à ébullition.
+    Sortez le poisson de la poissonnière et réservez-le au chaud.
+    Dans une petite casserole, versez le jus de cuisson et faites-le réduire. Ajoutez alors la crème fraîche et le beurre en dés. Remuez à l'aide d'un fouet. Saupoudrez de fines herbes, assaisonnez de sel, de poivre et éventuellement d'un filet de jus de citron.
+    Nappez le poisson de sauce et servez.
+  ]]>
+  </preparation>
+</recette>

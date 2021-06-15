@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15430">
+  <titre>Soupe froide de melon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 melon</p>
+    <p>1 citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixer la chair du melon avec le jus du citron.
+    Verser dans des coupes, puis placer au réfrigérateur.
+    Très agréable en été.
+  ]]>
+  </preparation>
+</recette>

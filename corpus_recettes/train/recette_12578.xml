@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12578">
+  <titre>Nouilles chinoises au boeuf et aux légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de nouilles chinoises</p>
+    <p>10 g de champignons noirs</p>
+    <p>300 g de boeuf</p>
+    <p>100 g de carottes</p>
+    <p>100 g de poireaux</p>
+    <p>100 g de brocolis</p>
+    <p>1 càc de gingembre moulu</p>
+    <p>2 gousses d'ail</p>
+    <p>Pour la sauce :</p>
+    <p>25 cl de bouillon poulet</p>
+    <p>1 cuillère à soupe de fécule de pomme de terre</p>
+    <p>2 cuillères à soupe de Xérès</p>
+    <p>2 cuillères à soupe de sauce soja</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire tremper les champignons dans de l'eau.
+    Couper la viande en fins morceaux, la saisir dans une poële avec un peu d'huile et la réserver.
+    Couper les légumes en lamelles et les cuire quelques minutes (ils doivent rester croquants) avec le reste des ingrédients. Réserver.
+    Sauce : mélanger tous les ingrédients et les faire cuire pour que la sauce prenne consistance.
+    Ajouter à la sauce, la viande et les légumes et faire chauffer très doucement quelques minutes, pendant que les pâtes cuisent.
+    Servir chaud.
+     vin rosé
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25727">
+  <titre>Boeuf braisé aux échalotes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,2 kg de boeuf (rôti)</p>
+    <p>500 g d'échalotes</p>
+    <p>50 g de beurre</p>
+    <p>25 cl de vin blanc</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites revenir la viande sur toutes les faces dans la moitié du beurre chaud jusqu'à ce qu'elle soit dorée. Retirez la viande de la cocotte et jetez le beurre de cuisson.
+    Epluchez les échalotes et réduisez-les en purée au robot. 
+    Remettez du beurre dans la cocotte et faites revenir l'échalote jusqu'à ce qu'elle soit bien colorée. Versez le vin blanc et remettez la viande. Salez, poivrez. Mélangez le tout. 
+    Couvrez hermétiquement et laissez mijoter pendant 3 bonnes heures selon l'épaisseur de la viande. Retourner la viande de temps en temps. Vérifiez la cuisson de la viande et servez.
+  ]]>
+  </preparation>
+</recette>

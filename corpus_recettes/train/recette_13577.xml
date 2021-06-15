@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13577">
+  <titre>Emincé de porc au miel</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>480 g de filet mignon de porc</p>
+    <p>1 gousse d'ail</p>
+    <p>1/2 cuillère à café de poivre</p>
+    <p>1 cuillère à café de miel</p>
+    <p>1 cuillère à soupe de sauce soja</p>
+    <p>700 g de haricots verts</p>
+    <p>1 noisette de beurre</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hachez finement l'ail pelé, mettez-le dans un petit saladier. Ajoutez le poivre, le miel, la sauce soja et 1 cuillerée à soupe d'eau.
+    Mélangez soigneusement.
+    Coupez le filet de porc en lamelles que vous faites mariner dans la préparation précédente pendant 20 mn.
+    Pendant la marinade, faites cuire les haricots verts à l'eau bouillante salée et égouttez-les. 
+    Faites chauffer une sauteuse et faites cuire les lamelles de viande à feu moyen, en remuant.
+    Réchauffer ensuite les haricots verts dans le jus de cuisson de la viande en ajoutant 2 cuillerées à soupe d'eau et 1 noisette de beurre.
+  ]]>
+  </preparation>
+</recette>

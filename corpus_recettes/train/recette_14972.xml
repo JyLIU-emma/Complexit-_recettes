@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14972">
+  <titre>Soupe aux pommes de terre et à la crème</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de pommes de terre nouvelle</p>
+    <p>150 g de crème épaisse</p>
+    <p>sel, poivre muscade...</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les pommes de terre en robe à la vapeur. Les mouliner finement.
+    Incorporer doucement le crème et assaisonner au goût.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23614">
+  <titre>Tarte au café</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte sucrée :</p>
+    <p>50 g de farine</p>
+    <p>75 g de beurre</p>
+    <p>75 g de sucre glace</p>
+    <p>2 oeufs</p>
+    <p>1 pincée de sel</p>
+    <p>Pour la garniture :</p>
+    <p>30 cl de café fort</p>
+    <p>130 g de beurre</p>
+    <p>6 oeufs</p>
+    <p>200 g de sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Disposer la farine, creuser un puits, incorporer le beurre coupé en morceaux, ajouter le sucre, le sel, malaxer l'ensemble et former une boule. Réserver 1 heure au frais.
+    Préchauffer le four à 100°C à thermostat 3-4 et beurrer le moule à tarte. Garnir avec la pâte, piquer le fond avec une fourchette, enfourner 10mn.
+    Préparer la garniture : faire fondre le beurre dans le café tiède, battre les oeufs avec le sucre. Quand le mélange est blanchi et mousseux, verser sur la pâte et remettre au four thermostat 2(80°C).Démouler la tarte refroidie accompagnez-la d'oranges pelées fraîches ou de crème anglaise.
+  ]]>
+  </preparation>
+</recette>

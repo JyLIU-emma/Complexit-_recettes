@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20108">
+  <titre>Poivrons fondants</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 beaux poivrons de préférence rouges (question de goût mais les autres conviennent aussi) </p>
+    <p>huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epépinez les poivrons, puis coupez-les en fines lamelles. 
+    Mettez-les dans un plat allant au micro-ondes. 
+    Recouvrez d'un filet d'huile d'olive, salez, poivrez. 
+    Faites cuire pendant 6-7 min au micro-ondes, à puissance maximale.
+    C'est délicieux, le poivron est fondant et contrairement aux autres modes de préparation, il est très digeste ainsi !
+    Peut également servir de plat principal en augmentant les quantités et en accompagnant d'autre chose.
+  ]]>
+  </preparation>
+</recette>

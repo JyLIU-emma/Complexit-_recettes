@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21161">
+  <titre>Rochers aux cacahuètes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g d'arachides (avec ou sans peau selon votre préférence) </p>
+    <p>1 verre d'huile</p>
+    <p>1 verre de sucre</p>
+    <p>un sachet de sucre vanillée</p>
+    <p>2 blancs d'oeufs</p>
+    <p>1 sachet de levure chimique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire frire les cacahuètes dans le verre d'huile jusqu'à ce qu'elles soient dorées. 
+    Les retirer de l'huile et les laisser refroidir pour les concasser (assez finement mais pas poudre non plus). 
+    Mélanger le sucre avec les blancs d'oeufs. Incorporez ce mélange aux cacahuètes puis rajouter la levure. 
+    Former des rochers avec la pâte et mettre sur une plaque de cuisson beurrée. 
+    Enfourner 5 à 10 mn (à surveiller).
+    Trempés dans du miel (et "égouttés"), ces rochers sont excellents. Ils sont trés appréciés chez moi ! 
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23870">
+  <titre>Brousse à la Provençale</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de brousse de brebis (ou 2 fromages extra frais de chèvre à défaut)</p>
+    <p>2 cuillère à soupe de persil haché</p>
+    <p>2 cuillère à soupe de ciboulette hachée</p>
+    <p>2 cuillère à soupe de thym frais (ou de sarriette)</p>
+    <p>2 cuillère à soupe d'olives noire de Nyon coupées en dés</p>
+    <p>2 poivrons (1 rouge et 1 jaune) </p>
+    <p>sel (attention : les olives vont déjà saler!)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparation des poivrons : les laver, les couper en 2 dans le sens de la longueur et les évider. Les faire cuire au four préchauffé à 250°C jusqu'à ce que la peau devienne brune, soit environ 30 mn.
+    Les laisser refroidir puis enlever leur peau. Les couper en petits dés.
+    Préparation de la brousse : dans une jatte, mélanger les  différents ingrédients jusqu'à obtention d'une pâte homogène. Saler à convenance.
+    Servir très frais avec du pain de campagne grillé et un filet d'huile d'olive (attention: ne pas conserver plus de 2 jours).Vous pouvez diminuer de moitié les ingrédients par rapport à la brousse.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18949">
+  <titre>Poulet gueuleton</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 cuisses de poulet</p>
+    <p>une enveloppe de soupe à l'oignon</p>
+    <p>1/2 tasse de ketchup</p>
+    <p>1 tasse d'eau</p>
+    <p>1/4 de tasse de cassonade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 375°F (190°C, Th 6/7) ). Mélanger l'eau, le ketchup, la cassonade etle sachet de soupe dans un bol. Dans plat allant au four, mettre une feuille de papier d'aluminium, déposer les cuisses et les arroser avec la sauce faite précédament. Recouvrir d'une autre feuille de papier d'aluminium et faire cuire pendant 1h15.
+    Bien envelopper les cuisses pour ne pas faire de fuite.
+  ]]>
+  </preparation>
+</recette>

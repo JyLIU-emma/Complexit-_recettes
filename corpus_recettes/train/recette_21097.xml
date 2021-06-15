@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21097">
+  <titre>Langoustines à la sauce tomate</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>12 langoustines</p>
+    <p>6 tomates</p>
+    <p>2 échalotes</p>
+    <p>1 oignons</p>
+    <p>1 branches de céleri</p>
+    <p>sel, poivre en grains</p>
+    <p>1 filet de vinaigre</p>
+    <p>1 branche de thym</p>
+    <p>1 feuille de laurier</p>
+    <p>20 cl de vin blanc sec</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez un court-bouillon : faire bouillir dans un litre d'eau l'oignon, la branche de céleri et une échalote coupés en 4. Salez, poivrez et ajoutez un filet de vinaigre.
+    Dès l'ébulition, déposez-y les langoustines et à la reprise de l'ébulition compter 5 min de cuisson.
+    Hachez l'échalote restante, pelez et concassez les tomates.
+    Dans une casserole, laissez fondre doucement l'échalote, les tomates et le vin blanc. Salez, poivrez et ajoutez le thym et le laurier.
+    Au bout de 20 min de cuisson, vérifier la consistance de la sauce et l'assaisonnement.
+    Dressez les langoustines et nappez-les de sauce.
+  ]]>
+  </preparation>
+</recette>

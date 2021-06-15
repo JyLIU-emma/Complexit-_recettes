@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14381">
+  <titre>Gâteau à la banane et aux épices</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 yaourt nature</p>
+    <p>3 pots de farine (pots de yaourt vides utilisés comme unité de mesure)</p>
+    <p>1 pot sucre blanc</p>
+    <p>1,5 pot de sucre roux</p>
+    <p>50 g de beurre fondu</p>
+    <p>1/2 sachet de levure</p>
+    <p>3 oeufs entiers</p>
+    <p>3 cuillères à café de cannelle</p>
+    <p>2 cuillères à café de mélange 4 épices</p>
+    <p>1 banane bien mûre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger tous les ingrédients (sauf la banane) au batteur (la pâte est ainsi plus lisse) 
+    et incorporer la banane coupée en morceaux. 
+    Verser dans un plat à cake et cuire à thermostat 6-7 pendant 40 mn.
+    Après cuisson, on peut saupoudrer un sachet de sucre vanillé.
+  ]]>
+  </preparation>
+</recette>

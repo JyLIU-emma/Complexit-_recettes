@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20751">
+  <titre>CREME DE TOMATES (Potage)</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4/5 tomates moyennes</p>
+    <p>2/3 pommes de terre moyennes type Bintje</p>
+    <p>1 oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>1 cuillère à soupe de persil haché</p>
+    <p>40 g de beurre</p>
+    <p>2/4 de litre d'eau</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher la gousse d'ail. Eplucher l'oignon et le couper en rondelles. 
+    Couper les tomates en 4 morceaux. Eplucher et laver les pommes de terre, les couper en morceaux. 
+    Mettre tous ces ingrédients dans une casserole et recouvrir d'eau. Saler et porter à ébullition à feu moyen. Laisser mijoter à couvert 30 mn. Pendant ce temps, effeuiller le persil et le hacher, le réserver. 
+    Passer le potage au moulin à légumes au-dessus et délayer la crème fraîche en réchauffant la soupe jusqu'à ébullition. 
+    Retirer du feu. 
+    Ajouter le morceau de beurre. 
+    Verser dans une soupière chaude. Donner 2 à 3 tours de moulin à poivre et saupoudrer de persil haché.
+  ]]>
+  </preparation>
+</recette>

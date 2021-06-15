@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10597">
+  <titre>Papillote de poulet au bacon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 blanc de poulet</p>
+    <p>1 tranche de bacon</p>
+    <p>2 rondelles de tomate</p>
+    <p>1 champignon de Paris</p>
+    <p>sel, poivre, thym</p>
+    <p>1 cuillère à soupe de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez par personne une papillote (papier aluminium ou sulfurisé) avec un blanc de poulet, une tranche de bacon, 2 rondelles de tomate, des lamelles de champignons, sel, poivre, thym et une bonne cuillère de crème fraîche.
+    Cuire 25 minutes à 210°C (thermostat 7) dans un four préchauffé.
+    Très facile, très rapide, pas cher.
+  ]]>
+  </preparation>
+</recette>

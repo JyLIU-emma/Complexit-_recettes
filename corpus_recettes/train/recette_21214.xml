@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21214">
+  <titre>Soupe veloutée aux scaroles</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 salades scarole (500 g en tout)</p>
+    <p>2 pommes de terre</p>
+    <p>1 oignon</p>
+    <p>1,5 l de bouillon</p>
+    <p>1 bouquet garni</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>15 cl de crème liquide ou de lait</p>
+    <p>beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les salades, hachez-les au couteau.
+    Emincez l'oignon, faites-le revenir dans une cocotte avec un peu de beurre. Ajoutez les scaroles, remuez, salez et poivrez.
+    Ajoutez le bouillon, salez, poivrez. Rajoutez les pommes de terre pelées et coupées en cubes, et le bouquet garni.
+    Couvrez et laissez mijoter 30 min.
+    Retirez le bouquet garni et mixez le potage. Incorporez les 2 jaunes d'oeufs et la crème en fouettant et servez.
+  ]]>
+  </preparation>
+</recette>

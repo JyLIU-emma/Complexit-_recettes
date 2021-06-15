@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16113">
+  <titre>Pâte à crêpe rapide</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de farine</p>
+    <p>3 œufs</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>50 g de beurre fondu</p>
+    <p>1/4 de cuillère a café de sel</p>
+    <p>1 cuillère à soupe de sucre semoule</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 cuillère à soupe de rhum (ou autre comme la fleur d'oranger)</p>
+    <p>35 cl de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le tout pendant 1 minute puis tamiser avant de cuire.
+  ]]>
+  </preparation>
+</recette>

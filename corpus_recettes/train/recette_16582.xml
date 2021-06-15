@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16582">
+  <titre>Crevettes à l'avocat</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de crevettes (avec "carcasse")</p>
+    <p>3 poivrons de différentes couleurs</p>
+    <p>2 avocats</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>2 cuillères à soupe de thym frais</p>
+    <p>1/2 cuillère à café de sel</p>
+    <p>1 cuillère à thé de poivre noir</p>
+    <p>4 jaunes d'oeuf cuits</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Décortiquer les crevettes. Epépiner les poivrons et les couper en dés.
+    Diviser en deux, dénoyauter et peler les avocats. Couper leur chair en dés.
+    Hacher le thym grossièrement.
+    Frire les poivrons dans une poêle, avec l'huile et sous couvert, durant quelques minutes. Ajouter les crevettes et les laisser frire.Y mélanger les avocats et enlever la poêle du feu. Epicer avec le thym, le sel et le poivre.Répartir la préparation dans les assiettes et sur le dessus, déposer un jaune d'oeuf cuit.
+  ]]>
+  </preparation>
+</recette>

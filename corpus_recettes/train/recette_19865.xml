@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19865">
+  <titre>Tarte au crabe</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 boîtes de crabe</p>
+    <p>1 petite boîte de concentré de tomate</p>
+    <p>2 oeufs</p>
+    <p>100 g de gruyère râpé</p>
+    <p>15 cl de crème liquide</p>
+    <p>1 à 2 cuillères à café d'herbes pour pizzas</p>
+    <p>1 pâte brisée toute faite ou préparée par vos soins (c'est meilleur)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire égoutter la chair de crabe soigneusement, puis la mélanger avec le reste des ingrédients. 
+    Il ne reste qu'à déposer cette préparation sur la pâte brisée qui aura été déroulée sur un moule. 
+    Mettre dans le four préchauffé à 200°C et laisser cuire 30 min. 
+    Déguster comme entrée, ou en repas, avec de la salade.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18124">
+  <titre>Penne au quatre fromages</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de mozzarella</p>
+    <p>200 g de parmesan</p>
+    <p>200 g de gruyère (ou comté)</p>
+    <p>200 g de gorgonzola (ou encore fourme d'ambert ou bresse bleu, mais préférez néanmoins le Gorgonzola!)</p>
+    <p>500 g de penne</p>
+    <p>1 et 1/2 gros pots de crème fraîche</p>
+    <p>1 noisette de beurre</p>
+    <p>1 morceau de pain (pour saucer en fin de repas, c'est le meilleur)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper tous les fromages en touts petits morceaux, puis les mélanger dans un saladier.
+    Faite fondre une noisette de beurre dans une casserole avec un peu d'eau. A partir de maintenant, il vous faut être patient.
+    Ajouter un peu du mélange de fromages et mélanger tout doucement sans vous arrêter pour que le fromage fonde doucement, ensuite ajouter un peu de crème fraîche pour liquéfier la sauce. Remettre un peu de fromage, reliquéfier avec la crème fraîche, et ainsi de suite. La sauce doit etre épaisse.
+    Mélanger la sauce aux penne que vous aurez fait cuire al dente, puis servir!
+  ]]>
+  </preparation>
+</recette>

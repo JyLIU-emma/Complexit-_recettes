@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23981">
+  <titre>Mousse d'orange</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 oranges</p>
+    <p>3 oeufs</p>
+    <p>135 g de sucre en poudre</p>
+    <p>3 cuillères à soupe de Maïzena</p>
+    <p>1/2 citron</p>
+    <p>3 cuillères à soupe de liqueur (Cointreau, Curaçao, Grand-Marnier...)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pressez le jus des oranges et du citron de manière à obtenir environ 40 cl. Filtrez-le et ajoutez-y la liqueur choisie.
+    Fouettez les jaunes d'oeufs avec le sucre jusqu'à ce que le mélange mousse et incorporez la maïzena.
+    Chauffez le jus de fruit puis versez-le sur les jaunes d'oeufs en fouettant. Remettez sur le feu et chauffez jusqu'au premier bouillon.
+    Laissez tiédir.
+    Fouettez les blancs d'oeufs en neige et incorporez-les à la préparation. Versez dans 4 coupes ou ramequins et réservez au frais jusqu'au moment de servir.
+    Remplacez la liqueur par de la vanille ou un autre parfum si vous souhaitez faire cette recette sans alcool.
+  ]]>
+  </preparation>
+</recette>

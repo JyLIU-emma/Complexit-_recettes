@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24754">
+  <titre>Omelette fourrée aux légumes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>10 oeufs</p>
+    <p>2 aubergines</p>
+    <p>2 poivrons rouge</p>
+    <p>1 oignon</p>
+    <p>2 tomates</p>
+    <p>fines herbes mélangées</p>
+    <p>tabasco</p>
+    <p>sel, poivre</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez, pelez et hachez les légumes. Faites-les cuire à l'étouffée dans une casserole avec un peu d'huile. Salez, poivrez et ajoutez un peu de fines herbes ciselées.
+    Ajoutez une cuillère à café de Tabasco. Laissez confire doucement.
+    Battez les oeufs en omelette avec un peu de sel et poivre, faites-la cuire dans une poêle chaude huilée en ramenant les bords vers le centre au fur et à mesure qu'ils prennent.
+    Faites glisser l'omelette dans une assiette, versez les légumes au centre et pliez-la en deux. Servez aussitôt.
+  ]]>
+  </preparation>
+</recette>

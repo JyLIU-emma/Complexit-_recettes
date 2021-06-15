@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25051">
+  <titre>Tarte pommes bananes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte sablée</p>
+    <p>5 pommes</p>
+    <p>4 bananes</p>
+    <p>60 g de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la pâte dans un moule à tarte, la piquer à la fourchette.
+    Peler, épépiner et couper 3 pommes en dés, et 2 bananes en rondelles. Les faire cuire en compote avec 50 g de sucre.
+    Verser la compote refroidie sur le fond de tarte.
+    Peler et couper les pommes et bananes restantes en lamelles, les disposer dur la tarte. Saupoudrer de sucre et enfourner 25 minutes au four à 200°C (thermostat 6-7).On peut saupoudrer de cannelle ou de gingembre moulu avant d'enfourner la tarte.
+  ]]>
+  </preparation>
+</recette>

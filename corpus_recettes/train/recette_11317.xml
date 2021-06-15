@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11317">
+  <titre>Pain de thon au gruyère</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de thon en boîte</p>
+    <p>100 g de gruyère râpé</p>
+    <p>100 g de farine</p>
+    <p>3 œufs</p>
+    <p>10 cl d'huile</p>
+    <p>10 cl de lait</p>
+    <p>1 sachet de levure chimique</p>
+    <p>20 g de beurre</p>
+    <p>sel, poivre blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emietter le thon.
+    Mettre la farine dans un plat et y casser les œufs.Mélanger pour obtenir une pâte lisse. Délayer peu à peu le lait, l'huile
+    Allumer le four à 200°C (thermostat 6-7).Mettre la levure le thon, le gruyère le sel le poivre
+    Beurrer fariner le moule à cake, verser la préparation et enfourner. Cuire 40 min.
+    Servir froid ou chaud avec sauce suivant le goût.
+  ]]>
+  </preparation>
+</recette>

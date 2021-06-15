@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17266">
+  <titre>Riz mexicain</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>120 g de riz</p>
+    <p>1 oignon</p>
+    <p>1 poivron rouge et 1 vert</p>
+    <p>1 gousse d'ail</p>
+    <p>1/2 petite boîte de maïs</p>
+    <p>2 cuillères à soupe de petits pois surgelés </p>
+    <p>2 cubes de bouillon de volaille</p>
+    <p>1 petite boîte de concentré de tomates</p>
+    <p>huile</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir à l'huile l'oignon et les poivrons coupés en petits dés. Lorsqu'ils commencent à dorer, ajouter le riz. 
+    Lorsque les grains de riz sont dorés, ajouter le maïs et les petits pois. Saler et poivrer. 
+    Retirer du feu, ajouter la gousse d'ail pilée et mélanger. 
+    Ajouter une partie du bouillon de poulet (de manière à ce qu'il recouvre largement le riz) que l'on aura prálablement préparé et auquel on aura ajouté le concentré de tomates. 
+    Faire cuire à feu moyen, en remuant de temps en temps pour éviter que le riz ne colle au fond de la casserole et jusqu'à ce que le riz soit cuit et le bouillon absorbé (environ 20 min). Ajouter du bouillon, si besoin, en cours de cuisson.
+    Très bon notamment accompagné de Burritos et de Frijoles (purée de haricots noirs).
+  ]]>
+  </preparation>
+</recette>

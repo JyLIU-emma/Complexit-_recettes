@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22604">
+  <titre>Tourte saumon épinards</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 pâtes feuilletées</p>
+    <p>400 g d'épinards frais</p>
+    <p>400 g de saumon frais</p>
+    <p>4 échalotes</p>
+    <p>15 cl de crème</p>
+    <p>2 jaunes d'oeuf</p>
+    <p>1 poignée d'oseille</p>
+    <p>1 gousse d'ail</p>
+    <p>huile d'olive ou beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites sauter les épinards à la poêle avec l'ail pressé, l'oseille, du sel et du poivre.
+    Faire revenir les échalotes hachées à la poêle avec le saumon coupé en lamelles. Laissez colorer rapidement, slaez, poivrez.
+    Etalez la pâte dans un moule à tarte à bords hauts. Etalez un peu du mélange saumon-échalotes, puis épinards, puis saumon, puis épinards.
+    Couvrez avec la deuxième pâte, soudez les bords et creusez une cheminée.
+    Enfournez la tourte à 180°C (thermostat 6) pendant environ 35 minutes.
+    Battez la crème avec 1 oeuf. Salez, poivrez, versez ce mélange par la cheminée. Dorez la tourte au jaune d'oeuf et remettez au four pour 10 minutes à 200°C (thermostat 6-7).
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23680">
+  <titre>Lasagnes vertes à la bolognaise</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de farine</p>
+    <p>250 g d'épinards</p>
+    <p>3 oeufs</p>
+    <p>350 g de boeuf haché</p>
+    <p>1 oignon</p>
+    <p>1 carotte</p>
+    <p>1 branche de céleri</p>
+    <p>3 cuillères à soupe de concentré de tomate</p>
+    <p>10 cl de vin rouge</p>
+    <p>45 cl de bouillon</p>
+    <p>4 cuillères à soupe d'huile</p>
+    <p>70 g de beurre</p>
+    <p>50 cl de lait</p>
+    <p>150 g de parmesan râpé</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer l'huile et 20 g de beurre dans une sauteuse.
+    Y faire revenir l'oignon, la carotte et le céleri émincés. 
+    Mouiller avec le vin rouge, laisser évaporer quelques minutes.
+    Délayer le concentré de tomate délayée dans la moitié du bouillon et l'ajouter dans la casserole, puis verser le reste de bouillon.
+    Saler, poivrer et laisser mijoter 3 h à feu doux.
+    Préparer une béchamel bien liquide en faisant fondre 30 g de beurre avec 1 cuillère à soupe de farine.
+    Verser le lait peu à peu, assaisonner de sel, poivre et muscade et lailsser un peu épaissir en fouettant.
+    Laver et cuire les épinards.
+    Les égoutter, les hacher très fins puis les mélanger avec la farine et les oeufs avec un peu d'eau de manière à obtenir un pâte ferme et élastique.
+    Laisser reposer 30 min.
+    Préchauffer le four à  200)C (thermostat 6-7).
+    Etaler la pâte à lasagnes (ou utiliser une machine à pâte) et y  découper des rectangles. 
+    Dans un plat beurré, étaler une couche de béchamel, poser une couche de lasagnes, puis couvrir de bolognaise, de béchamel et de parmesan.
+    Répéter l'opération et terminer par une couche de parmesan.
+    Faire cuire au four à 200°C (thermostat 6-7) environ 25 min.
+  ]]>
+  </preparation>
+</recette>

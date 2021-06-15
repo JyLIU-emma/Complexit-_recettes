@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20630">
+  <titre>Tagiatelles à la carbonara facile</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de tagliatelles</p>
+    <p>350 g de lardons</p>
+    <p>6 jaunes d'oeufs</p>
+    <p>100 g de gruyère râpé</p>
+    <p>200 g de crème fraîche</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les lardons dans une poêle sans matière grasse.
+    Plonger les tagliatelles dans une casserole d'eau bouillante salée. Les cuire le temps indiqué sur l'emballage et les égoutter.
+    Disposer les pâtes dans les assiettes, creuser un puits comme un petit nid, y placer un jaune d'oeuf et une cuillère à café de crème fraîche, et assaisonner.
+    Parsemer de lardons et de gruyère.
+  ]]>
+  </preparation>
+</recette>

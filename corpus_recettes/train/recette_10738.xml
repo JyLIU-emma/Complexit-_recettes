@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10738">
+  <titre>Gratin de poulet aux tagliatelles</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 escalopes de poulet,</p>
+    <p>200 g de tagliatelles vertes, </p>
+    <p>4 oignons, </p>
+    <p>200 g de gouda, </p>
+    <p>2 cuillères à soupe de fond de volaille déshydraté, </p>
+    <p>3 cuillères à soupe d’huile, </p>
+    <p>30 g de beurre, </p>
+    <p>20 cl crème liquide</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Couper les escalopes de poulet en deux dans le sens de l’épaisseur.
+    Peler et émincer les oignons.
+    Faire chauffer 2c. à soupe d’huile dans une sauteuse, et faire fondre les oignons à feu doux sans colorer, jusqu’à ce qu’ils soient translucides.
+    Les égoutter avec une écumoire, et faire dorer à leur place les escalopes, à feu vif, 2mn en les retournant. Les égoutter également.
+    Faire cuire les tagliatelles 7 à 8mn dans de l’eau bouillante salée.
+    Les égoutter et les mélanger aussitôt avec le beurre.
+    Préchauffer le four th.6 et huiler un plat à four.
+    Disposer les oignons au fond du plat, puis couvrir des lamelles de poulet.
+    Saler, poivrer, saupoudrer de fond de volaille, et arroser avec ½ verre d’eau très chaude.
+    Recouvrir avec les tagliatelles, poivrer généreusement, napper de crème et parsemer généreusement de fromage.
+    Faire gratiner 20mn au four et servir très chaud.
+  ]]>
+  </preparation>
+</recette>

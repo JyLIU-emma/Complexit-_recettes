@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14572">
+  <titre>Pâte brisée à la farine complète</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de farine complète </p>
+    <p>100 g de graisse végétale</p>
+    <p>3 cuillères à soupe de sucre roux (si garniture sucrée)</p>
+    <p>10 cl d'eau</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Amalgamer tous les ingrédients, sans trop travailler.
+    Laisser reposer 30 min au moins au frais.
+    Etaler au rouleau à pâtisserie et foncer un moule, puis garnir selon goût (et la saison).
+  ]]>
+  </preparation>
+</recette>

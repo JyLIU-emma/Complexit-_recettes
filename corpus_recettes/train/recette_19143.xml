@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19143">
+  <titre>Napolitains</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de farine</p>
+    <p>100 g de Maïzena</p>
+    <p>1 plaquette de beurre</p>
+    <p>confiture fruits rouges (fraise ou goyavier, ...) </p>
+    <p>1 pot de sucre glace</p>
+    <p>colorant</p>
+    <p>eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre et le mélanger avec la farine. 
+    Etaler la pâte sur une plaque de cuisson. 
+    Découper la pâte à l'emporte-pièce, enlever le surplus, le réétaler et le découper également. (Obtenir au final un nombre pair si possible). 
+    Mettre les biscuits au four à feu doux 20 mn. 
+    Etaler de la confiture sur les biscuits cuits. 
+    Recouvrir le biscuit confituré d'un autre biscuit. 
+    Dans un pot de sucre glace, mélanger le sucre glace avec 2/3 cuillère d'eau et du colorant. 
+    Etaler le fondant sur les napolitains.
+  ]]>
+  </preparation>
+</recette>

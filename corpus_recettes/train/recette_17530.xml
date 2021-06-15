@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17530">
+  <titre>Pavé aux petits beurres et au café</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 paquet de petits beurres (gâteaux secs) </p>
+    <p>café</p>
+    <p>1 boîte de crème dessert type Mont Blanc ou Danette café ou vanille</p>
+    <p>1 plat carré ou rectangulaire</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Plonger les gâteaux dans le café froid un par un. Les retirer rapidement. 
+    Les placer au fond du plat ; une couche. 
+    Puis étaler par dessus de la crème Mont Blanc. 
+    Faire plusieurs couches de la même façon, gâteaux puis crème jusqu'en haut. 
+    Mettre au refrigérateur 1 heure. 
+    Puis déguster. Bon appétit
+    Très simple et succulent, les enfants et les grands adorent...
+  ]]>
+  </preparation>
+</recette>

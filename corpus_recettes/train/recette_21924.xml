@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21924">
+  <titre>Crème anglaise au micro-ondes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 litre de lait</p>
+    <p>6 jaunes d'oeuf</p>
+    <p>100 g de sucre en poudre</p>
+    <p>extrait de vanille (ou sucre vanillé) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer le lait au micro-onde. 
+    Mélanger les jaunes d'oeuf et le sucre. 
+    Ajouter la vanille. 
+    Quand le lait est chaud, le verser sur le mélange oeuf-sucre en mélangeant bien. 
+    Remettre au micro-onde 2 à 3 mn en remuant en milieu de cuisson.
+    Recette inmanquable! Aucun risque de grumeau.
+    On peut ajouter un peu de farine au mélange oeuf-sucre pour un résultat parfait.
+  ]]>
+  </preparation>
+</recette>

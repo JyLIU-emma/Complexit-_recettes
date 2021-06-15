@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20360">
+  <titre>Friands au fromage</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilleté en bloc ou étalée (rectangle pour éviter les chutes) Pour la farce:</p>
+    <p>200 ml de lait</p>
+    <p>25 g de Maïzena</p>
+    <p>25 g de beurre (facultatif) </p>
+    <p>25 g de gruyère râpé</p>
+    <p>sel, poivre</p>
+    <p>muscade</p>
+    <p>Pour le décor:</p>
+    <p>1/2 jaune d'oeuf</p>
+    <p>10 g de gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    A) Confectionner une sauce béchamel rapide: 
+    1- diluer Maïzena dans un peu de lait. 
+    2- porter le reste du lait à chauffer. 
+    3- lorsqu'il est très chaud, verser la Maïzena diluée et remuer sans cesse avec un fouet ou une spatule en bois jusqu'à ce que le mélange épaississe. 
+    4- arrêter le feu aux 1ers bouillons ; ajouter le gruyère râpé et éventuelleemnt du beurre et laisser refroidir. 
+     
+    B) Abaissser la pâte feuilletée pour obtenir 4 rectangles d'à peu près 2 à 3 mm d'épaisseur. 
+    C) Garnir de la béchamel refroidie sur une moitié de rectangle en laissant une petite bordure. 
+    Passer un peu d'eau sur cette bordure. 
+    Replier le rectangle sur la farce et coller en appuyant sur les bords avec une fourchette. 
+    Dorer avec l'oeuf en faisant attention de ne pas le faire couler sur les bordures ; le feuilletage gonflerait moins, faire quelques entailles. 
+    Cuire à four préchauffé (200 à 225°C) pendant 20 à 30 mn.
+    Variantes possibles : Ajouter à la farce 100 g de jambon cuit en dés ou des champignons de Paris étuvés.
+  ]]>
+  </preparation>
+</recette>

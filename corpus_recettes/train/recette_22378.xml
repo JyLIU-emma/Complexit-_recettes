@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22378">
+  <titre>Gnocchis parmesan et oeufs pochés</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de gnocchis</p>
+    <p>1 cube de bouillon de poule</p>
+    <p>100 g de parmesan râpé</p>
+    <p>8 oeufs</p>
+    <p>vinaigre</p>
+    <p>30 g de beurre</p>
+    <p>10 cl de coulis de tomates</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) beurrez un grand plat allant au four. 
+    2) faire cuire les gnocchis dans 1 litre d'eau salée avec le bouillon de poule. Lorsqu'il remonte à la surface les retirer avec une écumoire et les mettre dans le plat. 
+    3) saupoudrer les gnocchis de parmesan, recouvrir de sauce tomate et mettre au four 5 à 10 mn. 
+    4) pendant ce temps faites pocher les oeufs dans une eau vinaigrée ; lorsqu'ils sont cuits (environ 4 mn), les retirer avec l'écumoire. 
+    5) Au moment de servir, répartissez les gnocchis dans les assiettes et poser 2 oeufs pochés sur chacune d'elle. 
+    Bon Appétit.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15948">
+  <titre>Glace aux pruneaux d'Agen</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1/2 l de lait</p>
+    <p>120 g de sucre semoule</p>
+    <p>4 jaunes d'oeuf</p>
+    <p>7 cl de sirop de sucre (faire bouillir 1 kg de sucre semoule dans 1 l d'eau, arrêter la cuisson dès l'ébullition)</p>
+    <p>7 cl d'Armagnac</p>
+    <p>200 g de pruneaux dénoyautés</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Porter le sirop et l'armagnac à ébullition, ajouter les pruneaux, puis donner un bouillon. 
+    Laisser infuser cette préparation hors du feu pendant une heure. Passer le tout au mixer.
+    Porter à ébullition le lait et la moitié du sucre. Dans un bol, fouetter à vitesse moyenne les jaunes avec le reste du sucre, jusqu'à ce que le mélange blanchisse.
+    Remettre la casserole sur le feu. Quand le lait est bouillant, en verser un peu sur les jaunes en fouettant et reverser le tout dans la casserole sur feu doux, en remuant sans arrêt avec la spatule en bois.
+    Le mélange ne doit pas bouillir. Quand le mélange épaissit, retirer du feu.
+    Mélanger progressivement cette préparation à la crème de pruneaux en fouettant vivement. Mettre en sorbetière.
+  ]]>
+  </preparation>
+</recette>

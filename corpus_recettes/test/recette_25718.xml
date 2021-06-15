@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25718">
+  <titre>Poêlée de carottes Vichy</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,2 kg de jeunes carottes</p>
+    <p>1/2 cuillère à café de sucre</p>
+    <p>120 g de beurre</p>
+    <p>2 cuillères à soupe de persil haché</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver, peler et couper les carottes en grosses rondelles. Les sécher avec un torchon propre et saupoudrer de sucre.
+    Faire fondre le beurre dans une cocotte et y faire revenir les carottes à feu doux pendant 5 minutes.
+    Saler, baisser le feu et couvrir. Laisser cuire 20 minutes en remuant de temps en temps.
+    Parsemer de persil haché avant de servir.
+  ]]>
+  </preparation>
+</recette>

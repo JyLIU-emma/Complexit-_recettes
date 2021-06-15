@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18731">
+  <titre>Petits pains aux foies de volaille</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de foie de volaille</p>
+    <p>2 oeufs</p>
+    <p>2 petits pains au lait</p>
+    <p>1 cuillère de crème fraîche</p>
+    <p>gruyère râpé</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixer le foie de volaille. 
+    Dans une poêle faite cuire le foie de volaille puis ajouter les oeufs et mélanger. Préchauffer votre four. Hors du feu ajouter au mélange la crème fraîche. 
+    Coupez les petits pains au beurre dans le sens de la longueur garnir une moitié de mélange, recouvrir de l'autre moitié et parsemez de gruyère. 
+    Mettre au four (200°C) pendant 5 mn. Bon appétit !
+  ]]>
+  </preparation>
+</recette>

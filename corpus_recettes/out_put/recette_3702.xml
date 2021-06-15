@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="3702">
+  <titre>Tartelettes aux 2 fromages</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tranches de pain de mie</p>
+    <p>4 Carrés Frais </p>
+    <p>1 bûchette de chèvre</p>
+    <p>compote de pommes</p>
+    <p>cannelle en poudre</p>
+    <p>beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (th. 7).
+    Pendant ce temps, faire réchauffer au grille-pain les tranches de pain de mie (sans les faire dorer), et les beurrer légèrement.
+    Déposer dessus une rondelle fine de chèvre, et un Carré Frais.
+    Recouvrir de deux cuillerés à soupe de compote de pommes, et saupoudrer généreusement de cannelle. 
+    Déposer au four 5 minutes. Et déguster tiède.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Préchauffer</OPER> le four à 210 ° C ( th. 7 ). Pendant ce temps, faire <OPER id="o_2">réchauffer</OPER> au grille - pain les tranches de <INGRED id="1">pain de mie</INGRED> ( sans les faire <OPER id="o_3">dorer</OPER> ), et les <OPER id="o_4">beurrer</OPER> légèrement. <OPER id="o_5">Déposer</OPER> dessus une rondelle fine de <INGRED id="3">chèvre</INGRED>, et un <INGRED id="5">Carré Frais</INGRED>. <OPER id="o_6">Recouvrir</OPER> de deux cuillerés à soupe de <INGRED id="4">compote de pommes</INGRED>, et <OPER id="o_7">saupoudrer</OPER> généreusement de cannelle. <OPER id="o_8">Déposer</OPER> au four 5 minutes. Et déguster tiède.
+  </annotation>
+  <annotation methode="crf">
+  Préchauffer le four à 210 ° C ( th. 7 ). Pendant ce temps <INGRED>,</INGRED> faire réchauffer au grille - <INGRED>pain</INGRED> les tranches de <INGRED>pain de mie</INGRED> ( sans les faire dorer ) <INGRED>,</INGRED> et les beurrer légèrement <INGRED>.</INGRED> Déposer dessus une rondelle fine de <INGRED>chèvre</INGRED> <INGRED>,</INGRED> et un Carré Frais <INGRED>.</INGRED> Recouvrir de <INGRED>deux</INGRED> cuillerés à soupe de <INGRED>compote</INGRED> de <INGRED>pommes</INGRED> <INGRED>,</INGRED> et saupoudrer généreusement de <INGRED>cannelle</INGRED> <INGRED>.</INGRED> Déposer au four 5 minutes. Et déguster tiède.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 6.0*X + 2.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 9*X + 6</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pain de mie', 'pain']	 id:1	 quantité:4	 unité:tranches de	 denombrable:True	 recipient:4*X
+ingredient:['Carrés Frais', 'Carrés']	 id:2	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['chèvre']	 id:3	 quantité:1	 unité:bûchette de	 denombrable:True	 recipient:1*X
+ingredient:['compote de pommes', 'compote']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['cannelle en poudre', 'cannelle']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préchauffer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:réchauffer	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:dorer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:beurrer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déposer	 id:o_5	 ingrédients_ralatifs:['3', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:recouvrir	 id:o_6	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saupoudrer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déposer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

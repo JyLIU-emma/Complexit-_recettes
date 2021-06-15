@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25622">
+  <titre>Poisson tahitienne</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de thon blanc (ou poisson blanc)</p>
+    <p>1 citron</p>
+    <p>1 poivron</p>
+    <p>200 g de carottes râpées</p>
+    <p>2 tomates</p>
+    <p>1 oignon</p>
+    <p>1 laitue</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper en fines lanières ou en morceaux le poisson, le mettre dans un saladier, arroser de beaucoup de jus de citron vert, ajouter sel et poivre, un peu de vinaigre de vin blanc. Laisser le poisson cuire plusieurs heures dans le jus de citron. Puis ajouter toutes les crudités. 
+    Dans un saladier, faire un lit de laitue, et mettre le poisson accompagné des crudités. Délicieux.
+  ]]>
+  </preparation>
+</recette>

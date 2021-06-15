@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20275">
+  <titre>CROQUE NÎMOIS</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>16 tranches de pain de mie ou 8 tranches de pain de campagne</p>
+    <p>1 bocal de brandade de morue</p>
+    <p>gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Procéder comme pour des croque-monsieur. 
+    Beurrer les tranches de pain de mie sur une face, sur l'autre étaler la brandade de morue, y ajouter le gruyère râpé, refermer par une tranche de pain de mie beurré. 
+    Mettre dans votre appareil à croque-monsieur et faire cuire environs 4 mn pour chaque croque-monsieur. 
+    Si vous n'avez pas d'appareil à croque-monsieur vous pouvez également le faire avec des tranches de pain de campagne. 
+    Prenez vos tranches de pain, étalez la brandade de morue ajoutez ensuite le gruyère râpé. 
+    Vous n'avez qu'à mettre au four préchauffé Th 200°C pendant environs 15 mn.
+    Pour les amateurs de brandade de morue Tavel rosé
+  ]]>
+  </preparation>
+</recette>

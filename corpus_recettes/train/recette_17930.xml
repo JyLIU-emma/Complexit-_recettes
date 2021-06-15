@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17930">
+  <titre>Mi-cuit au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de bon chocolat noir</p>
+    <p>120 g de sucre semoule</p>
+    <p>90 g de beurre</p>
+    <p>3 oeufs</p>
+    <p>40 g de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C. 
+    1/ Fondre le chocolat et le beurre. 
+    2/ Blanchir les oeufs entiers et le sucre au batteur. 
+    3/ Mélanger 1 et 2. 
+    4/ Incorporer la farine. 
+    5/ Beurrer des ramequins ou des moules en aluminium jetables. 
+    6/ Verser la préparation dans les moules. 
+    7/ Enfourner pour 15 mn. 
+    Le dessus de chaque mi-cuit doit former une croûte et l'intérieur doit être coulant. 
+    Servir dès la sortie du four démoulé ou pas.
+    Dé-li-cieux !Quand on coupe le mi-cuit dans l'assiette, le chocolat dégouline...
+    Hyper rapide à faire pendant que les invités sont là après le fromage. Champagne !
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19027">
+  <titre>Tuiles au cacao et aux 2 épices</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 cuillères à soupe de farine complète</p>
+    <p>2 cuillères à soupe de sucre</p>
+    <p>2 cuillères à soupe de crème allégée</p>
+    <p>1 cuillère à café d'Armagnac</p>
+    <p>1 cuillère à café de cacao en poudre non sucré</p>
+    <p>cannelle selon goût</p>
+    <p>un peu de muscade râpée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le tout (si la pâte est un peu trop compacte, rajouter une goutte de lait). 
+    Etaler une feuille de papier sulfurisé sur la plaque du four et y déposer de petits tas de pâte suffisamment espacés pour qu'ils ne se rejoignent pas en s'étalant. 
+    Mettre au four à 180-200°C pendant 10 à 20 mn (les tuiles seront plus ou moins tendres : attention, elles durcissent en refroidissant).
+    Recette rapide et légère que l'on peut alléger encore en remplaçant une partie du sucre ou la totalité par de l'aspartame et en faisant la même chose en substituant du lait à la crème.
+  ]]>
+  </preparation>
+</recette>

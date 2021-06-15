@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26851">
+  <titre>Sardine qui rit</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>une boîte de sardines (plus l'huile de la boîte) </p>
+    <p>autant de vache qui rit que de sardines</p>
+    <p>une cuiller à soupe de vinaigre</p>
+    <p>une petite échalote</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Rassembler dans un plat les sardines, leur huile et les "vache qui rit". 
+    Ecraser le tout à la fourchette. 
+    Hacher l'échalote, l'ajouter à la préparation ; puis le sel et le poivre. 
+    Assaisonner à son goût avec le vinaigre. 
+    Se déguste en entrée sur du pain.
+  ]]>
+  </preparation>
+</recette>

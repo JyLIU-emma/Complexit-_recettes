@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18290">
+  <titre>Pain de poisson</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 boîtes de thon ou saumon</p>
+    <p>20 cl de crème fraîche</p>
+    <p>6 oeufs</p>
+    <p>1 petite boîte de concentré de tomates</p>
+    <p>70 g de gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre les oeufs en omelette.  
+    Ajouter la crème fraîche, le concentré de tomates, le gruyère puis le thon (ou saumon). 
+    Beurrer un moule à cake et y verser la préparation. 
+    Laisser cuire 1h15 au bain marie (Thermostat 6-7).
+    Accompagner le pain de poisson d'une mayonnaise.
+    Entrée qui a eu beaucoup de succès auprès d'amateurs ou non de poisson.
+  ]]>
+  </preparation>
+</recette>

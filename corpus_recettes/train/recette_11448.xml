@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11448">
+  <titre>Pommes de terre lardées au vin blanc</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 pommes de terre</p>
+    <p>8 tranches de lard</p>
+    <p>15 cl de vin blanc</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Enrouler chaque pomme de terre, épluchée, d'une tranche de lard, disposer dans un morceau de papier aluminium (individuellement).Arroser de vin blanc,saler, poivrer, refermer la papillote.
+    Faire cuire au four à 180°C (thermostat 6) pendant environ 1/2 heure.
+  ]]>
+  </preparation>
+</recette>

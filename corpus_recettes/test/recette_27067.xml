@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27067">
+  <titre>Soupe à l'oseille</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>450 g d'oseille hachée (ou 40 feuilles d'oseille équeutées) </p>
+    <p>4 cuillères à soupe de crème fraîche</p>
+    <p>150 g de vermicelles</p>
+    <p>une cuillère à soupe d'huile d'olive</p>
+    <p>un peu de muscade râpée</p>
+    <p>une échalote</p>
+    <p>un bouillon cube de poule</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre l'oseille dans une casserole avec un peu d'huile d'olive et une échalote coupée en petits cubes. 
+    Ajouter le bouillon cube et 1,5 litre d'eau et faire bouillir. 
+    Ajouter les vermicelles au mélange bouillant et laisser cuire 4 mn. 
+    Ajouter ensuite un peu de muscade, de sel et de poivre. 
+    Ajouter une cuillère à soupe de crème fraîche par personne au moment de servir :-)
+    Certains mettent un peu de lait en plus de l'eau, d'autres un jaune d'oeuf, moi je l'aime la plus simple possible.
+  ]]>
+  </preparation>
+</recette>

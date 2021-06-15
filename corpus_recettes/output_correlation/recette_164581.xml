@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164581">
+  <titre>Faisan et saucisses au chou</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 faisan coupé en quatre</p>
+    <p>6 saucisses genre "de Toulouse" (fumées ou non)</p>
+    <p>250 g de poitrine demi sel</p>
+    <p>4 carottes épluchées et coupées en tronçons</p>
+    <p>1 gros choux frisé coupé en quatre</p>
+    <p>25 cl de bouillon de boeuf</p>
+    <p>2 cuillères à soupe de saindoux</p>
+    <p>2 oignons moyens</p>
+    <p>2 gousses d'ail épluchées et écrasées </p>
+    <p>1 bouquet garni</p>
+    <p>1 cs de farine</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire blanchir le chou dans de l'eau bouillante salée pendant 10 min puis l'égoutter.
+    Faire blanchir la poitrine dans de l'eau bouillante non salée durant 10 min puis la couper en tranches.
+    Dans une cocotte faire revenir les morceaux de faisan sur toutes les "faces" dans le saindoux et les réserver.
+    Faire de même avec la poitrine coupée en tranches et la réserver. Faire revenir les saucisses et les réserver.
+    Emincer les oignons et les faire revenir dans la cocotte durant 3 ou 4 minutes. Rajouter la farine, mélanger,laisser cuire durant 2 minutes puis mettre le bouillon chaud , mélanger et laisser cuire 5 à 6 minutes.
+    Rajouter l'ail, les carottes et le bouquet garni. Saler, poivrer et remettre le faisan et la poitrine. Mélanger et mettre le chou (rajouter du bouillon pour couvrir si nécessaire ).Laisser mijoter à feu doux et à couvert après avoir mis les saucisses durant 1h minimum . Eouge : Côtes du Rhône / Bergerac
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">blanchir</OPER> le <INGRED id="1">chou</INGRED> dans de l'<INGRED id="8">eau</INGRED> bouillante salée pendant 10 min puis l'<OPER id="o_2">égoutter</OPER>. Faire <OPER id="o_3">blanchir</OPER> la <INGRED id="3">poitrine</INGRED> dans de l'<INGRED id="8">eau</INGRED> bouillante non salée durant 10 min puis la <OPER id="o_4">couper</OPER> en tranches. Dans une cocotte faire <OPER id="o_5">revenir</OPER> les <INGRED id="1">morceaux</INGRED> de <INGRED id="1">faisan</INGRED> sur toutes les " faces " dans le <INGRED id="8">saindoux</INGRED> et les réserver. Faire de même avec la <INGRED id="3">poitrine</INGRED> coupée en tranches et la réserver. Faire <OPER id="o_6">revenir</OPER> les <INGRED id="2">saucisses</INGRED> et les réserver. <OPER id="o_7">Emincer</OPER> les oignons et les faire <OPER id="o_8">revenir</OPER> dans la cocotte durant 3 ou 4 minutes. <OPER id="o_9">Rajouter</OPER> la <INGRED id="12">farine</INGRED>, <OPER id="o_10">mélanger</OPER>, laisser <OPER id="o_11">cuire</OPER> durant 2 minutes puis <OPER id="o_12">mettre</OPER> le <INGRED id="11">bouillon</INGRED> chaud, <OPER id="o_13">mélanger</OPER> et laisser <OPER id="o_14">cuire</OPER> 5 à 6 minutes. <OPER id="o_15">Rajouter</OPER> l'<INGRED id="3">ail</INGRED>, les <INGRED id="4">carottes</INGRED> et le <INGRED id="12">bouquet garni</INGRED>. <OPER id="o_16">Saler</OPER>, <OPER id="o_17">poivrer</OPER> et <OPER id="o_18">remettre</OPER> le <INGRED id="1">faisan</INGRED> et la <INGRED id="3">poitrine</INGRED>. <OPER id="o_19">Mélanger</OPER> et <OPER id="o_20">mettre</OPER> le <INGRED id="1">chou</INGRED> ( <OPER id="o_21">rajouter</OPER> du <INGRED id="2">bouillon</INGRED> pour couvrir si nécessaire ).Laisser <OPER id="o_22">mijoter</OPER> à feu doux et à couvert après <OPER id="o_23">avoir</OPER> mis les <INGRED id="2">saucisses</INGRED> durant 1h minimum. Eouge : Côtes du Rhône / Bergerac
+  </annotation>
+  <annotation methode="crf">
+  Faire blanchir le <INGRED>chou</INGRED> dans de l'<INGRED>eau</INGRED> bouillante salée pendant 10 min puis l'égoutter <INGRED>.</INGRED> Faire blanchir la <INGRED>poitrine</INGRED> dans de l'<INGRED>eau</INGRED> bouillante non salée durant 10 min puis la couper en tranches. Dans une cocotte faire revenir les <INGRED>morceaux</INGRED> de <INGRED>faisan</INGRED> sur toutes les " faces " dans le <INGRED>saindoux</INGRED> et les réserver <INGRED>.</INGRED> Faire de même avec la <INGRED>poitrine</INGRED> coupée en tranches et la réserver <INGRED>.</INGRED> Faire revenir les <INGRED>saucisses</INGRED> et les réserver <INGRED>.</INGRED> Emincer les <INGRED>oignons</INGRED> et les faire revenir dans la cocotte durant 3 <INGRED>ou</INGRED> 4 minutes. Rajouter la <INGRED>farine</INGRED> <INGRED>,</INGRED> mélanger <INGRED>,</INGRED> laisser cuire durant 2 minutes puis mettre le <INGRED>bouillon</INGRED> chaud <INGRED>,</INGRED> mélanger et laisser cuire 5 à 6 minutes. Rajouter l'<INGRED>ail</INGRED> <INGRED>,</INGRED> les <INGRED>carottes</INGRED> et le <INGRED>bouquet garni</INGRED> <INGRED>.</INGRED> Saler <INGRED>,</INGRED> poivrer et remettre le <INGRED>faisan</INGRED> et la <INGRED>poitrine</INGRED> <INGRED>.</INGRED> Mélanger et mettre le <INGRED>chou</INGRED> ( rajouter du <INGRED>bouillon</INGRED> pour couvrir si nécessaire ).Laisser mijoter à feu doux et à couvert après avoir mis les <INGRED>saucisses</INGRED> durant 1h minimum. Eouge <INGRED>:</INGRED> Côtes du Rhône / Bergerac
+  </annotation>
+  <complexite>
+    <temps>f(X) = 17.6923076923077*X + 5.30769230769231</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 20*X + 20</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['faisan coupé en quatre', 'faisan']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['saucisses genre " de Toulouse "', 'saucisses']	 id:2	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['poitrine demi sel', 'poitrine']	 id:3	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['carottes épluchées', 'carottes']	 id:4	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['coupées en tronçons', 'coupées']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['choux frisé coupé en quatre', 'choux']	 id:6	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['bouillon de boeuf', 'bouillon']	 id:7	 quantité:25	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['saindoux']	 id:8	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['oignons moyens', 'oignons']	 id:9	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['ail épluchées', 'ail']	 id:10	 quantité:2	 unité:gousses d'	 denombrable:True	 recipient:2*X
+ingredient:['écrasées']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['bouquet garni', 'bouquet']	 id:12	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['farine']	 id:13	 quantité:1	 unité:cs de	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:14	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:15	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:blanchir	 id:o_1	 ingrédients_ralatifs:['1', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:égoutter	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:blanchir	 id:o_3	 ingrédients_ralatifs:['3', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:revenir	 id:o_5	 ingrédients_ralatifs:['1', '1', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:revenir	 id:o_6	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:emincer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:revenir	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:rajouter	 id:o_9	 ingrédients_ralatifs:['12', '11']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:cuire	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:mettre	 id:o_12	 ingrédients_ralatifs:['11']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mélanger	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:cuire	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:rajouter	 id:o_15	 ingrédients_ralatifs:['3', '4', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_16	 ingrédients_ralatifs:['1', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remettre	 id:o_18	 ingrédients_ralatifs:['1', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mélanger	 id:o_19	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mettre	 id:o_20	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:rajouter	 id:o_21	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_22	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:avoir	 id:o_23	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18447">
+  <titre>Soupe de citrouille aux chanterelles</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 citrouille moyenne</p>
+    <p>200/300 g de chanterelles fraîches</p>
+    <p>2 ou 3 gousses d'ail</p>
+    <p>sel et poivre</p>
+    <p>un morceau de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper la citrouille en dés. Les faire revenir dans un peu de beurre, recouvrir d'eau salé et porter à ébullition. Réduire le feu et laisser mijoter une bonne heure et demi jusqu'à réduciton en purée. 
+    Faire revenir l'ail et les chanterelles dans un peu de beurre 2 à 3 mn, puis les verser dans la soupe.
+    Laisser le tout reposer à couvert encore 5 mn, puis servir avec une bonne baguette fraîche.
+  ]]>
+  </preparation>
+</recette>

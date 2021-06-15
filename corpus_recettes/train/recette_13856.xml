@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13856">
+  <titre>Soupe chinoise</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 l d'eau</p>
+    <p>3 branche de céleri</p>
+    <p>un cube de bouillon</p>
+    <p>4 oeufs</p>
+    <p>sauce soja</p>
+    <p>1 oignon</p>
+    <p>cresson de fontaine (ou à défaut cressonette)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir l'eau avec le cube de bouillon, pendant ce temps, émincer les branches de céléri,l'oignon, nettoyer le cresson et battre les oeufs en omelette.
+    Lorsque l'eau bout, y jeter le céléri émincé, l'oignon, la sauce soja. Laisser bouillir 4 mn.
+    Ensuite, ajouter le cresson. Après une minute de cuisson, ajouter les oeufs battus en omelette par cuillerée, afin que l'oeuf forme des sortes de 'voiles'. Servir bien chaud.Ultra facile, rapide et toujours délicieux. Aussi bon avec du bouillon de boeuf ou de poulet. 
+  ]]>
+  </preparation>
+</recette>

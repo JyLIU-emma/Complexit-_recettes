@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25885">
+  <titre>Caissettes de chocolat aux noix</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>40 g de chocolat</p>
+    <p>1 cuillères à soupe d'eau</p>
+    <p>20 g de beurre</p>
+    <p>1 œufs</p>
+    <p>40 g de sucre en poudre</p>
+    <p>10 cerneaux de noix</p>
+    <p>1 cuillère à café de farine </p>
+    <p>20 caissettes de papier</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 200°C (thermostat 6/7).
+    Mettre le chocolat à fondre au bain-marie avec 2 cuillères à soupe d’eau.
+    Lorsqu’il sera bien fondu, incorporer les jaunes d’œufs et le beurre.
+    Bien mélanger et ajouter le sucre en fouettant, puis la farine.
+    Monter les blancs en neige bien ferme et les incorporer délicatement à la pâte au chocolat.
+    Faire des petites boules de cette pâte et les disposer sur la plaque de votre four recouverte de papier sulfurisé.
+    Enfourner 10 minutes puis laisser refroidir un peu avant de les disposer dans les caissettes en papier.
+    Les garnir d’1/2 cerneau de noix et déguster.
+  ]]>
+  </preparation>
+</recette>

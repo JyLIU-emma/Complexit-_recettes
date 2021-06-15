@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20765">
+  <titre>Oeufs brouillés aux poivrons et à la tomate</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>12 oeufs</p>
+    <p>5 tomates</p>
+    <p>2 poivrons verts</p>
+    <p>1 courgette</p>
+    <p>3 oignons</p>
+    <p>30 g de crème fraîche</p>
+    <p>4 cuillères à soupe d'huile</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Plongez les tomates incisées 30 secondes dans de l'eau bouillante, pelez et épépinez-les puis concassez-les.
+    Coupez le poivrons en lamelles et la courgette en dés. Emincez les oignons.
+    Faites fondre les tomates dans une casserole avec 1 cuillère à soupe d'huile, ajoutez le poivron et la courgette.
+    Faites frire les oignons dans l'huile et réservez-les sur un papier absorbant.
+    Battez les oeufs avec du sel, du poivre et la crème fraîche, versez-les sur les légumes quand ils sont tendres et remuez vigoureusement.
+    Servez saupoudré d'oignons frits.
+  ]]>
+  </preparation>
+</recette>

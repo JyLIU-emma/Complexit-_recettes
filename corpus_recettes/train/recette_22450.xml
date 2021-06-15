@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22450">
+  <titre>Gratin de chou-fleur simple</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 chou-fleur</p>
+    <p>1 boite de lait concentré non sucré</p>
+    <p>1 pincée de noix de muscade</p>
+    <p>100 g de gruyère râpé</p>
+    <p>20 g de beurre</p>
+    <p>1 cuillère à soupe de fécule</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 210°C (thermostat 7).
+    Nettoyer le chou-fleur, puis le cuire dans l’eau bouillante salée pendant 15 à 20 min jusqu’à ce qu’il devienne tendre.
+    L’égoutter puis l’écraser à l’aide d’une fourchette et le réserver au chaud.
+    Dans une casserole, mettre le lait à chauffer avec 3 cuillères à soupe d’eau et la fécule sans cesser de remuer.
+    Saler, poivrer puis saupoudrer de noix de muscade et ajouter le gruyère râpé en continuant de mélanger.
+    Déposer le chou-fleur dans un plat à gratin beurré, puis le recouvrir de sauce.
+    Saupoudrer du reste de gruyère râpé puis parsemer de noisettes de beurre.
+    Enfourner à four chaud, puis laisser gratiner 15 min à four chaud.
+  ]]>
+  </preparation>
+</recette>

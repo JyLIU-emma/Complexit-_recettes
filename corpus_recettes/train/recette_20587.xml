@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20587">
+  <titre>Poulet au poivron</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>150 g de noix de cajou</p>
+    <p>500 g de blancs de poulet</p>
+    <p>1 cuiller à soupe de vinaigre noir (vinaigre de riz) </p>
+    <p>1 cuiller à soupe bien pleine de Maïzena pour lier la sauce (mélangez-la à un peu d'eau tiède) </p>
+    <p>10 g de Maïzena pour préparer la viande</p>
+    <p>6 cuillers à soupe de sauce de soja</p>
+    <p>1 cuiller à soupe de sake</p>
+    <p>1 beau poivron vert</p>
+    <p>2 têtes d'ail</p>
+    <p>un peu d'huile de tournesol pour la cuisson</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découpez les blancs de poulets en petits morceaux d'1 cm sur 1 cm environ, les rouler dans la Maïzena. 
+    Hachez l ail, puis coupez le poivron en fines lamelles. 
+    Dans une grande casserole versez un peu d'huile, lorsque celle ci grésille mettez les petits morceaux de poulet et l'ail, remuez pour ne pas que tout soit cuit de facon uniforme. Ajoutez les lamelles de poivron, puis la sauce de soja, remuez puis versez le vinaigre noir et le saké. Lorsque la sauce de soja ne mousse plus, ajoutez les noix puis le mélange Maïzena + eau. Arrêtez le feu, et couvrez.
+    Servir accompagné de riz thai ou basmati un blanc sec 
+  ]]>
+  </preparation>
+</recette>

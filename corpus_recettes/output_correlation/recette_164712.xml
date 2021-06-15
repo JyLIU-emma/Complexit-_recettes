@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164712">
+  <titre>Meringue au micro ondes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 blanc d'œuf</p>
+    <p>200g de sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger l'œuf et le sucre jusqu'à obtenir une consistance pâteuse, assez épaisseDéposez en petits tas, assez espacés, car la préparation va beaucoup gonfler avant de redescendre.
+    Passer au micro ondes 1 à 2 minutes, quand la meringue a triplé de volume, et qu'elle sèche un tout petit peu, tout en collant légèrement au doigt, c'est prêt, sortez la, laissez la refroidir et durcir, c'est pas très présentable, mais ça fait de la meringue en 5 minutes, et c'est tout aussi bon !Personnellement, je les fais cuire au fond de moules à muffins, pour obtenir des petites meringues rondes, que j'utilise pour des mini pavlova, avec un peu de coulis de fruits rouges, ou une noisette de lemon curd, un vrai délice express !
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Mélanger</OPER> l'<INGRED id="1">œuf</INGRED> et le <INGRED id="2">sucre</INGRED> jusqu'à obtenir une consistance pâteuse, assez <OPER id="o_2">épaisseDéposez</OPER> en petits tas, assez espacés, car la préparation va beaucoup <OPER id="o_3">gonfler</OPER> avant de <OPER id="o_4">redescendre</OPER>. <OPER id="o_5">Passer</OPER> au micro ondes 1 à 2 minutes, quand la meringue a triplé de volume, et qu'elle sèche un tout petit peu, tout en collant légèrement au doigt, c'est prêt, <OPER id="o_6">sortez</OPER> la, laissez la <OPER id="o_7">refroidir</OPER> et <OPER id="o_8">durcir</OPER>, c'est pas très présentable, mais ça fait de la meringue en 5 minutes, et c'est tout aussi bon ! Personnellement, je les fais <OPER id="o_9">cuire</OPER> au fond de moules à muffins, pour obtenir des petites meringues rondes, que j'utilise pour des mini pavlova, avec un peu de coulis de fruits rouges, ou une noisette de lemon curd, un vrai délice express !
+  </annotation>
+  <annotation methode="crf">
+  Mélanger l'<INGRED>œuf</INGRED> et le <INGRED>sucre</INGRED> jusqu'à obtenir une consistance pâteuse <INGRED>,</INGRED> assez épaisseDéposez en petits tas <INGRED>,</INGRED> assez espacés <INGRED>,</INGRED> car la préparation va beaucoup gonfler avant de redescendre <INGRED>.</INGRED> Passer au micro ondes 1 à 2 minutes, quand la meringue <INGRED>a</INGRED> triplé de <INGRED>volume</INGRED> <INGRED>,</INGRED> et qu'elle sèche un tout <INGRED>petit</INGRED> peu, tout en collant légèrement au doigt <INGRED>,</INGRED> c'est prêt <INGRED>,</INGRED> sortez la <INGRED>,</INGRED> laissez la refroidir et durcir <INGRED>,</INGRED> c'est pas très présentable <INGRED>,</INGRED> mais ça fait de la meringue en 5 minutes <INGRED>,</INGRED> et c'est tout aussi bon ! Personnellement <INGRED>,</INGRED> je les fais cuire au <INGRED>fond</INGRED> de <INGRED>moules</INGRED> à muffins <INGRED>,</INGRED> pour obtenir des petites meringues rondes <INGRED>,</INGRED> que j'utilise pour des mini pavlova <INGRED>,</INGRED> avec un peu de <INGRED>coulis</INGRED> de <INGRED>fruits</INGRED> rouges <INGRED>,</INGRED> <INGRED>ou</INGRED> une noisette de lemon curd <INGRED>,</INGRED> <INGRED>un</INGRED> vrai délice express !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 4.5*X + 4.5</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = X + 3</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:["blanc d'œuf", 'blanc']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sucre glace', 'sucre']	 id:2	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mélanger	 id:o_1	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:épaissedéposer	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:gonfler	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:redescendre	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:passer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:sortir	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:durcir	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+]]>
+</operation_trouve>
+</recette>

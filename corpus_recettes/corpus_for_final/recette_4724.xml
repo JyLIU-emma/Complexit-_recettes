@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="4724">
+  <titre>Cheesecake aux myrtilles</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de myrtilles fraîches ou surgelées</p>
+    <p>200 g de fromage blanc en faisselle</p>
+    <p> 200 g de Carré frais </p>
+    <p>6 cl de lait fermenté (type Yorik) </p>
+    <p>2 oeufs</p>
+    <p>165 g de sucre en poudre</p>
+    <p>55 g de semoule de blé</p>
+    <p>35 g de farine</p>
+    <p>2 cuillères à soupe d’extrait de vanille</p>
+    <p>20 g de beurre</p>
+    <p>sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Si vous utilisez des myrtilles surgelées, disposez-les en une seule couche sur du papier absorbant, et laissez-les décongeler à température ambiante.
+    Préchauffez le four à th 6 (180°C). 
+    Beurrez un moule à charnière, et tapissez-le de papier sulfurisé.
+    Dans un saladier, mélangez la faisselle, le Carré frais, la vanille et le sucre en poudre. 
+    Ajoutez les œufs un par un, et mélangez bien. Incorporez la semoule, la farine tamisée et le lait.
+    Versez la préparation dans le moule, et disposez les fruits dessus.
+    Enfournez 45 min, toujours à 180°C, puis laissez refroidir dans le moule. 
+    Démoulez au moment de servir, et saupoudrez de sucre glace...
+  ]]>
+  </preparation>
+</recette>

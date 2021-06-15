@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23388">
+  <titre>Fondue bourguignonne et sauces d'accompagnement</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,2 kg de boeuf de première catégorie (faux-filet, filet)</p>
+    <p>huile de pépin de raisins ou autre huile neutre pour frire</p>
+    <p>1 brindille de thym</p>
+    <p>1 feuille de laurier</p>
+    <p>250 g de mayonnaise</p>
+    <p>2 cuillères à soupe de câpres</p>
+    <p>5 brins de persil hachés</p>
+    <p>3 cornichons</p>
+    <p>2 gousses d'ail</p>
+    <p>125 g de crème fraîche ou fromage blanc</p>
+    <p>3 cuillères à soupe de céleri rave râpé</p>
+    <p>2 cuillères à soupe de noix pilées</p>
+    <p>1/2 citron</p>
+    <p>20 cl de purée de tomate épaissse</p>
+    <p>3 ou 4 filets d'anchois pilés</p>
+    <p>6-7 olives</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez les sauces d'accompagnement :
+    Sauce tartare : mélangez 125 g de mayonnaise avec les câpres, le persil et les cornichons hachés. Salez, poivrez.
+    Sauce aïoli : mélangez 125 g de mayonnaise avec 2 gousses d'ail pilées. Salez, poivrez.
+    Sauce au céleri : mélangez la crème avec le céleri, les noix et le jus de citron. Salez, poivrez.
+    Sauce tomate aux anchois : mélangez la purée de tomate avec les anchois et les olives. Salez, poivrez.
+    Réservez les sauces au frais.
+    Découpez la viande en cubes d'environ 2 cm de côté.
+    Faites chauffer l'huile dans un caquelon à fondue avec le thym et le laurier. Dès qu'elle est chaude, retirez-les et apportez l'huile à table, maintenez-la chaude.
+    Faites cuire les morceaux de viande au fur et à mesure dans l'huile, égouttez et dégustez.
+    Servez avec les sauces, un grand plat de salades mélangées et des frites ou du riz.
+  ]]>
+  </preparation>
+</recette>

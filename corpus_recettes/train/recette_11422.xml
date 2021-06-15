@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11422">
+  <titre>Mignon de porc sauce aux pommes</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 filets de porc</p>
+    <p>500 g de pommes</p>
+    <p>sel, poivre, gingembre en poudre</p>
+    <p>20 g de sucre</p>
+    <p>50 g de beurre</p>
+    <p>2 cuillères à soupe de cognac</p>
+    <p>fond de volaille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites rôtir à 250°C votre filet mignon, arrosez-le généreusement d'eau, salez et poivrez (prévoir 50 min à 1 heure de cuisson).Epluchez et épépinez les pommes, découpez-les en quartiers. Cuisez les en compote avec un peu de sucre, deux cuillères à soupe de cognac, et mouillez avec un demi verre d'eau.
+    Passez au chinois, puis ajoutez un quart de verre de fond de volaille et une pincée de gingembre (quantité selon votre goût).Terminez en montant votre sauce au dernier moment avec le beurre.
+    Servez la viande découpée en larges tranches (3 à 4 cm) et nappez de sauce.
+  ]]>
+  </preparation>
+</recette>

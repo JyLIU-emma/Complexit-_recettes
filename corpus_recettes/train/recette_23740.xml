@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23740">
+  <titre>Feuilletés au chèvre et au miel</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>4 rondelles de chèvre frais</p>
+    <p>miel liquide</p>
+    <p>thym</p>
+    <p>1 jaune d'oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le disque de pâte feuilletée en 4. Déposer une rondelle de fromage au centre de chaque quart.
+    Arroser le fromage de miel et saupoudrer de thym. Rabattre les trois bords à la façon d'une enveloppe.
+    Badigeonner les feuilletés de jaune d'oeuf.
+    Déposer les feuilletés sur du papier sulfurisé et les cuire 20 mn à four préchauffé à 200°C (thermostat 6-7).
+  ]]>
+  </preparation>
+</recette>

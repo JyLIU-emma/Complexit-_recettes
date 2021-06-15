@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="105821">
+  <titre>Soupe 7 légumes parfumée au curry</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 grosses pommes de terre</p>
+    <p>2 carottes</p>
+    <p>2 poireaux</p>
+    <p>3 navets</p>
+    <p>1 courgette</p>
+    <p>1 aubergine</p>
+    <p>1 poivron rouge</p>
+    <p>3 litres d'eau</p>
+    <p>gros sel</p>
+    <p>1 cuillière à soupe de curry (selon les goûts)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Eplucher les pommes de terre, les carottes, les navets puis couper les en tronçons avec les poireaux.
+    Couper en grosses rondelles la courgette et l'aubergine.
+    Epépiner le poivron et couper le.
+    Mettre l tout dans un faitout avec les 3 litres d'eau, le gros sel et le curry. Cuire le tout 40min.
+    Une fois la cuisson terminée, mixer et déguster.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  - <OPER id="o_1">Eplucher</OPER> les <INGRED id="3">pommes de terre</INGRED>, les <INGRED id="2">carottes</INGRED>, les <INGRED id="4">navets</INGRED> puis <OPER id="o_2">couper</OPER> les en tronçons avec les <INGRED id="3">poireaux</INGRED>. <OPER id="o_3">Couper</OPER> en grosses rondelles la <INGRED id="5">courgette</INGRED> et l'<INGRED id="6">aubergine</INGRED>. <OPER id="o_4">Epépiner</OPER> le <INGRED id="3">poivron</INGRED> et <OPER id="o_5">couper</OPER> le. <OPER id="o_6">Mettre</OPER> l tout dans un faitout avec les 3 litres d'<INGRED id="8">eau</INGRED>, le gros <INGRED id="4">sel</INGRED> et le <INGRED id="6">curry</INGRED>. <OPER id="o_7">Cuire</OPER> le tout 40min. Une fois la cuisson terminée, <OPER id="o_8">mixer</OPER> et déguster.
+  </annotation>
+  <annotation methode="crf">
+  - Eplucher les <INGRED>pommes de terre</INGRED> <INGRED>,</INGRED> les <INGRED>carottes</INGRED> <INGRED>,</INGRED> les <INGRED>navets</INGRED> puis couper les en tronçons avec les <INGRED>poireaux</INGRED>. Couper en grosses rondelles la <INGRED>courgette</INGRED> et l'aubergine. Epépiner le <INGRED>poivron</INGRED> et couper le <INGRED>.</INGRED> Mettre l tout dans un faitout avec les 3 litres d'<INGRED>eau</INGRED> <INGRED>,</INGRED> le <INGRED>gros sel</INGRED> et le <INGRED>curry</INGRED> <INGRED>.</INGRED> Cuire le tout 40min <INGRED>.</INGRED> Une fois la cuisson terminée <INGRED>,</INGRED> mixer et déguster <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 8.47058823529412*X + 0.529411764705882</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 16*X + 6</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pommes de terre', 'pommes']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['carottes']	 id:2	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['poireaux']	 id:3	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['navets']	 id:4	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['courgette']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['aubergine']	 id:6	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['poivron rouge', 'poivron']	 id:7	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['eau']	 id:8	 quantité:3	 unité:litres d'	 denombrable:True	 recipient:3*X
+ingredient:['sel']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['cuillière à soupe de curry', 'cuillière']	 id:10	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:eplucher	 id:o_1	 ingrédients_ralatifs:['3', '2', '4', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_2	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:2*X*1	 recipient:1
+operation:couper	 id:o_3	 ingrédients_ralatifs:['5', '6']	 nombre_opération_atomique:1*X+1*X	 temps:1*X*1+1*X*1	 recipient:1
+operation:epépiner	 id:o_4	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:mettre	 id:o_6	 ingrédients_ralatifs:['8', '4', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cuire	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:mixer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

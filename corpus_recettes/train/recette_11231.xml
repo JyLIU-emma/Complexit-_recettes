@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11231">
+  <titre>Baeckeoffe</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 terrine en terre avec couvercle</p>
+    <p>1,5 kg de pommes de terre</p>
+    <p>1 kg d'échine de porc</p>
+    <p>500 g d'épaule de mouton désossée</p>
+    <p>500 g de gîte de boeuf</p>
+    <p>1 pied de porc (facultatif)</p>
+    <p>2 oignons</p>
+    <p>3 carottes</p>
+    <p>1 poireau</p>
+    <p>100 g de farine</p>
+    <p>sel et poivre</p>
+    <p>Pour la marinade :</p>
+    <p>75 cl de vin blanc sec d'Alsace (riesling ou sylvaner)</p>
+    <p>1 oignon émincé</p>
+    <p>1 gousse d'ail écrasée</p>
+    <p>branches de thym</p>
+    <p>2 feuilles de laurier</p>
+    <p>grains de poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper l'échine de porc, l'épaule de mouton et le gîte de boeuf en cubes de 5 cm de côté. Les réfrigérer 24h dans un grand plat avec les ingrédients de la marinade.
+    Eplucher les pommes de terre et les carottes, les couper un très fines rondelles. Emincer les oignons. Egoutter les 3 viandes et réserver le jus de la marinade.
+    Dans la terrine beurrée, disposer successivement : 1 couche d'oignons, 1 couche de pommes de terre et carottes, les morceaux de viande, le pied de porc fendu en 2, 1 couche de pommes de terre et carottes, le poireau. Saler et poivrer à chaque couche.
+    Verser le jus de la marinade jusqu'au niveau des pommes de terre. Poser le couvercle et le souder avec un cordon de pâte fait avec la farine et 1 cuil. à soupe d'eau.
+    Cuire à four chaud (200°C/thermostat 6/7) environ 2h30.
+     Riesling
+  ]]>
+  </preparation>
+</recette>

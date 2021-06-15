@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26180">
+  <titre>Lasagnes express</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 plaques de lasagnes précuites (rayon pâtes sèches) </p>
+    <p>1 oignon émincé</p>
+    <p>2 steaks hachés</p>
+    <p>1 gros pot de sauce provençale toute prête (600 g) </p>
+    <p>1 petite brique de crème liquide (20 cl) </p>
+    <p>2 cuillères à café d'herbes de Provence</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>4 cuillères à soupe de lait</p>
+    <p>50 g de gruyère râpé</p>
+    <p>1 noisette de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire dorer les oignons dans l'huile d'olive. 
+    Ajouter les steaks hachés que vous émietterez, ainsi que les herbes de Provence; laisser cuire, jusqu'à ce que la viande soit grillée. 
+    Prendre un moule à cake de la taille des lasagnes (pas plus grand), et verser le lait dans le fond du moule. 
+    Mettre une plaque de lasagne, recouvrir de sauce provençale, d'un peu de viande et de crème liquide. 
+    Superposer une nouvelle plaque de lasagne, de sauce, etc, jusqu'au sommet du moule.
+     
+    Sur la dernière plaque de lasagne, mettre simplement de la sauce provençale, saupoudrer de gruyère râpé et d'une noisette de beurre. 
+    Enfourner à 200°C (thermostat 6-7), pendant 20 min. 
+    S'assurer de la bonne cuisson des pâtes, en piquant avec une fourchette.
+    Toutes les variantes sont possibles : ajout de fromage de chèvre, de poivrons, ... selon les goûts.
+  ]]>
+  </preparation>
+</recette>

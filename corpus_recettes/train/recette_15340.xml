@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15340">
+  <titre>Vacherin</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de crème fraîche</p>
+    <p>4 œufs</p>
+    <p>50 g de sucre </p>
+    <p>50 g de sucre glace (ou moins)</p>
+    <p>1 paquet de sucre vanillé</p>
+    <p>100 g de meringues (commerce)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Séparer les jaunes des blancs. Travailler la crème fraîche et le sucre vanillé.Monter les blancs en neige, ajouter le sucre glace aux blancs en neige. Mélanger les 2 préparations.
+    Verser dans un moule à charlotte la moitié du mélange, puis les meringues écrasées et le reste de la préparation.
+    Mettre au congélateur.
+    Se sert avec un coulis de fraise, de framboise, de chocolat, etc.Ne pas mettre trop de sucre glace si vous ne voulez pas que ce soit trop sucré.
+  ]]>
+  </preparation>
+</recette>

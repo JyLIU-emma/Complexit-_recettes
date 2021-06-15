@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26609">
+  <titre>Salade exotique</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de riz</p>
+    <p>1 concombre</p>
+    <p>1 boîte d'ananas</p>
+    <p>1 grande boîte de maïs</p>
+    <p>1 boîte de 300 g de thon</p>
+    <p>Pour la sauce :</p>
+    <p>1 grande cuillerée à soupe de moutarde</p>
+    <p>1 cuillerée à soupe de vinaigre</p>
+    <p>1/2 verre de sauce de soja</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire 500 g de riz. lorsqu'il est cuit, faites le refroidir au réfrigérateur. 
+    Epluchez un concombre, coupez-le en petits dés. Ouvrez une grande boîte d'ananas en morceaux et récupérez-en le jus dans un verre. 
+    Egoutez les morceaux d'ananas, ainsi que le contenu d'une grande boîte de maïs et d'une grande boîte de thon que vous réduirez en miettes. 
+    Mettez l'ensemble des ingrédients dans un grand saladier et ajoutez-y le riz. 
+    Préparez la sauce : mélangez moutarde et vinaigre. Ajoutez le jus d'ananas ainsi que le soja. 
+    Versez le tout sur la salade.
+  ]]>
+  </preparation>
+</recette>

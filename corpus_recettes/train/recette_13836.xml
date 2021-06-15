@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13836">
+  <titre>Soupe piquante à l'ail (Algérie)</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1/2 poulet</p>
+    <p>2 cuillerées à soupe d'huile</p>
+    <p>1 Cuillerée de beurre</p>
+    <p>1 oignon</p>
+    <p>1 poignée de pois chiches trempés la veille</p>
+    <p>4 Gousses d'ail</p>
+    <p>1/2 cuillerées à café de poivre rouge</p>
+    <p>sel</p>
+    <p>Hror (ensemble d'épices mélangées et pilées. A défaut mettre de l'harissa)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez le poulet en morceaux. Mettez les morceaux dans une marmite.
+    Pilez ensemble l'oignon, l'ail, le poivre rouge, le hror et le sel. Diluez avec 1/2 verre d'eau.
+    Ajoutez l'huile et le beurre. Faites revenir à petit feu. Mouillez avec 1 litre d'eau.
+    Plongez les poids chiches dans le bouillon.
+    Couvrez et laissez cuire, puis servez chaud.
+  ]]>
+  </preparation>
+</recette>

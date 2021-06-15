@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53975">
+  <titre>Gâteau aux araignées</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour le gâteau :</p>
+    <p>125 g de banania</p>
+    <p>250 g de sucre en poudre</p>
+    <p>4 oeufs</p>
+    <p>125 g de farine</p>
+    <p>200 g de crème fraîche</p>
+    <p>Pour le glaçage :</p>
+    <p>3/4 plaque de chocolat</p>
+    <p>beurre + 1 cuillère à soupe de crème fraîche</p>
+    <p>Pour la toile d'araignée :</p>
+    <p>200 g de sucre glace</p>
+    <p>1 blanc d'oeuf</p>
+    <p>Pour les araignées :</p>
+    <p>cookies</p>
+    <p>chocolat (le 1/4 restant de la plaque)</p>
+    <p>rouleaux de réglisse</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparation du gâteau :
+    Au batteur, fouettez les oeufs et le sucre pendant 5 min. Ajoutez le banania, la farine, puis la crème en battant. 
+    Versez le tout dans un moule à manqué beurré, et enfournez à 180°C (th 6). Surveillez la cuisson, l'intérieur du gâteau doit rester moelleux. 
+    Pendant la cuisson, faites fondre le chocolat au bain-marie avec un peu d'eau. Ajoutez le beurre et la crème en fin de cuisson pour obtenir un mélange bien lisse et brillant.
+    Démoulez le gâteau et le recouvrir du nappage en essayant de l'uniformiser; laissez sécher.
+     
+    Pendant ce temps, préparez les araignées :
+    Découpez dans les rouleaux de réglisse 8 morceaux de 5 cm de long (=pattes). 
+    Trempez le dessus du cookies dans le chocolat, posez-le sur une feuille de papier sulfurisé et posez les 8 pattes sur le pourtour du biscuit. 
+    En séchant, le chocolat fixera les pattes de l'araignée; recommencez autant de fois que d'araignées souhaitées. 
+    Astuce : vous pouvez faire des bébés araignées avec des mini cookies et des pattes plus courtes et plus fines.
+    Quand le glaçage du chocolat est sec, préparez la toile d'araignée en mélangeant le sucre glace avec le blanc d'oeuf au batteur. 
+    Puis, avec une seringue à patisserie, dessinez la toile. Vous pouvez aussi faire les yeux de l'araignée avec ce fondant.
+    Lorsque la toile est sèche, posez les araignées sur et/ou autour du gâteau.
+    Variante spécial Halloween : vous pouvez remplacer le glaçage au chocolat par un glaçage sucre glace + blanc d'oeuf + colorant jaune et rouge.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Préparation du gâteau : Au batteur, <OPER id="o_1">fouettez</OPER> les <INGRED id="1">oeufs</INGRED> et le <INGRED id="13">sucre</INGRED> pendant 5 min. <OPER id="o_2">Ajoutez</OPER> le <INGRED id="1">banania</INGRED>, la <INGRED id="12">farine</INGRED>, puis la <INGRED id="4">crème</INGRED> en battant. <OPER id="o_3">Versez</OPER> le tout dans un moule à manqué beurré, et enfournez à 180 ° C ( th 6 ). <OPER id="o_4">Surveillez</OPER> la cuisson, l'intérieur du gâteau doit rester moelleux. Pendant la cuisson, faites <OPER id="o_5">fondre</OPER> le <INGRED id="6">chocolat</INGRED> au <INGRED id="8">bain</INGRED> - marie avec un peu d'eau. <OPER id="o_6">Ajoutez</OPER> le <INGRED id="10">beurre</INGRED> et la <INGRED id="4">crème</INGRED> en fin de cuisson pour obtenir un mélange bien lisse et brillant. <OPER id="o_7">Démoulez</OPER> le gâteau et le <OPER id="o_8">recouvrir</OPER> du nappage en essayant de l'<OPER id="o_9">uniformiser</OPER> ; laissez <OPER id="o_10">sécher</OPER>. Pendant ce temps, <OPER id="o_11">préparez</OPER> les araignées : <OPER id="o_12">Découpez</OPER> dans les <INGRED id="13">rouleaux de réglisse</INGRED> 8 <INGRED id="2">morceaux</INGRED> de 5 cm de long (= pattes ). <OPER id="o_13">Trempez</OPER> le dessus du <INGRED id="11">cookies</INGRED> dans le <INGRED id="3">chocolat</INGRED>, <OPER id="o_14">posez</OPER> - le sur une feuille de papier sulfurisé et posez les 8 pattes sur le pourtour du biscuit. En séchant, le <INGRED id="10">chocolat</INGRED> fixera les pattes de l'araignée ; <OPER id="o_15">recommencez</OPER> autant de fois que d'araignées souhaitées. Astuce : vous pouvez <INGRED id="10">faire</INGRED> des bébés araignées avec des mini <INGRED id="3">cookies</INGRED> et des pattes plus courtes et plus fines. Quand le glaçage du <INGRED id="9">chocolat</INGRED> est sec, <OPER id="o_16">préparez</OPER> la toile d'araignée en mélangeant le <INGRED id="8">sucre glace</INGRED> avec le <INGRED id="10">blanc d'oeuf</INGRED> au batteur. Puis, avec une seringue à patisserie, <OPER id="o_17">dessinez</OPER> la toile. Vous pouvez aussi faire les yeux de l'araignée avec ce fondant. Lorsque la toile est sèche, <OPER id="o_18">posez</OPER> les araignées sur et / ou autour du gâteau. Variante spécial Halloween : vous pouvez <OPER id="o_19">remplacer</OPER> le glaçage au <INGRED id="12">chocolat</INGRED> par un glaçage <INGRED id="8">sucre glace</INGRED> + <INGRED id="10">blanc d'oeuf</INGRED> + <INGRED id="5">colorant</INGRED> <INGRED id="13">jaune</INGRED> et rouge.
+  </annotation>
+  <annotation methode="crf">
+  Préparation du gâteau <INGRED>:</INGRED> Au batteur <INGRED>,</INGRED> fouettez les <INGRED>oeufs</INGRED> et le <INGRED>sucre</INGRED> pendant 5 min. Ajoutez le banania <INGRED>,</INGRED> la <INGRED>farine</INGRED> <INGRED>,</INGRED> puis la <INGRED>crème</INGRED> en battant. Versez le tout dans un moule à manqué beurré <INGRED>,</INGRED> et enfournez à 180 ° C ( th 6 ). Surveillez la cuisson <INGRED>,</INGRED> l'intérieur du gâteau doit rester moelleux. Pendant la cuisson <INGRED>,</INGRED> faites fondre le <INGRED>chocolat</INGRED> au bain - marie avec un peu d'<INGRED>eau</INGRED> <INGRED>.</INGRED> Ajoutez le <INGRED>beurre</INGRED> et la <INGRED>crème</INGRED> en fin de cuisson pour obtenir un <INGRED>mélange</INGRED> bien lisse et brillant. Démoulez le gâteau et le recouvrir du nappage en essayant de l'uniformiser ; laissez sécher <INGRED>.</INGRED> Pendant ce temps <INGRED>,</INGRED> préparez les araignées <INGRED>:</INGRED> Découpez dans les rouleaux de réglisse 8 <INGRED>morceaux</INGRED> de 5 <INGRED>cm</INGRED> de long (= pattes ). Trempez le dessus du cookies dans le <INGRED>chocolat</INGRED> <INGRED>,</INGRED> posez - le sur une feuille de papier sulfurisé et posez les 8 pattes sur le pourtour du biscuit. En séchant <INGRED>,</INGRED> le <INGRED>chocolat</INGRED> fixera les pattes de l'araignée ; recommencez autant de fois que d'araignées souhaitées <INGRED>.</INGRED> Astuce <INGRED>:</INGRED> vous pouvez faire des bébés araignées avec des <INGRED>mini</INGRED> cookies et des pattes plus courtes et plus fines. Quand le glaçage du <INGRED>chocolat</INGRED> est sec <INGRED>,</INGRED> préparez la toile d'araignée en mélangeant le <INGRED>sucre glace</INGRED> avec le <INGRED>blanc d'oeuf</INGRED> au batteur. Puis <INGRED>,</INGRED> avec une seringue à patisserie <INGRED>,</INGRED> dessinez la toile <INGRED>.</INGRED> Vous pouvez aussi faire les yeux de l'araignée avec ce fondant. Lorsque la toile est sèche <INGRED>,</INGRED> posez les <INGRED>araignées</INGRED> sur et / <INGRED>ou</INGRED> autour du gâteau. Variante spécial Halloween <INGRED>:</INGRED> vous pouvez remplacer le glaçage au <INGRED>chocolat</INGRED> par un glaçage <INGRED>sucre glace</INGRED> + <INGRED>blanc d'oeuf</INGRED> + colorant <INGRED>jaune</INGRED> et rouge.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 8.57142857142857*X + 11.4285714285714</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 7*X + 13</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['banania']	 id:1	 quantité:125	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre en poudre', 'sucre']	 id:2	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:3	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['farine']	 id:4	 quantité:125	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:5	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['plaque de chocolat', 'plaque']	 id:6	 quantité:3/4	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['beurre']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:8	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['sucre glace', 'sucre']	 id:9	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["blanc d'oeuf", 'blanc']	 id:10	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['cookies']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['chocolat']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['rouleaux de réglisse', 'rouleaux']	 id:13	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:fouetter	 id:o_1	 ingrédients_ralatifs:['1', '13']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['1', '12', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:surveiller	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fondre	 id:o_5	 ingrédients_ralatifs:['6', '8']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['10', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:démouler	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recouvrir	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:uniformiser	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:sécher	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:découper	 id:o_12	 ingrédients_ralatifs:['13', '2']	 nombre_opération_atomique:1+1	 temps:1*X*1+1*X*1	 recipient:1
+operation:tremper	 id:o_13	 ingrédients_ralatifs:['11', '3']	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:poser	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recommencer	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparer	 id:o_16	 ingrédients_ralatifs:['9', '8', '10']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:dessiner	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poser	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remplacer	 id:o_19	 ingrédients_ralatifs:['12', '8', '10', '5', '13']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

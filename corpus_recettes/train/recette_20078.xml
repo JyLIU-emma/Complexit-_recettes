@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20078">
+  <titre>Mijotée de perdrix et ses lentilles</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 perdrix vidées et préparées</p>
+    <p>300 g de lentilles</p>
+    <p>125 g de lardons</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>20 cl de bouillon de volaille</p>
+    <p>2 cuillerées à soupe de beurre</p>
+    <p>2 cuillerées à soupe d'huile</p>
+    <p>2 oignons dont un piqué d'un clou de girofle</p>
+    <p>2 carottes</p>
+    <p>2 gousses d'ail entières</p>
+    <p>1 branche de thym</p>
+    <p>1 branche de persil</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Quelques heures avant, faites tremper les lentilles dans de l'eau froide.
+    Egouttez les lentilles, mettez-les dans une grande casserole.
+    Recouvrez d'eau et ajoutez l'oignon piqué avec 1 clou de girofle, l'ail, le thym frais et le persil.
+    Salez, poivrez et portez à ébullition.
+    Baissez le feu et laissez cuire environ 1 h à feu doux, les lentilles doivent être tendres mais pas en purée.
+    Emincez l'autre oignon et les carottes.
+    Faites chauffer le beurre et l'huile, mettez-y l'oignon, les carottes et les lardons.
+    Ajoutez les perdrix salées et poivrées et faites-les revenir de tous les côtés.
+    Mouillez avec le vin blanc, faites réduire de moitié à feu vif et versez le bouillon.
+    Couvrez et laissez cuire à feu très doux pendant 45 minutes.
+    Egouttez les lentilles, retirez l'ail, l'oignon et les brins de thym et de persil.
+    Servez les perdrix sur un lit de lentilles, dégraissez le jus de cuisson des perdrix avec un peu de vin blanc ou de vinaigre et versez-le sur le tout.
+  ]]>
+  </preparation>
+</recette>

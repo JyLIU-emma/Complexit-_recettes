@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18610">
+  <titre>Saucisson sucré (dessert typique piémontais)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de biscuits type petit beurre</p>
+    <p>150 g de beurre</p>
+    <p>150 de cacao noir en poudre</p>
+    <p>un oeuf</p>
+    <p>100 g de sucre semoule</p>
+    <p>pignons</p>
+    <p>raisin sec</p>
+    <p>un petit verre de rhum</p>
+    <p>un sachet de sucre en poudre</p>
+    <p>Papier alluminium</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un grand saladier il faut mèlanger le sucre et le beurre jusqu'à obtenir une crème. Y ajouter les pignons, le raisin sec, le cacao, l'oeuf. Bien mélanger le tout. Y ajouter les biscuits grossièrement cassés et le rhum. Bien mélanger jusqu'à obtenir une texture homogène. 
+    Déposer l'appareil sur la feuille de papier alluminium et le renfermer tout en lui donnant la forme d'un saucisson. 
+    Laisser refroidir au frigidaire au minimum 3 heures. Avant de servir, le saupoudrer de sucre en poudre afin de lui donner l'aspect d'un saucisson de porc.
+    Gâteau typique pour la période de carnaval en Italie, dans la région piémontaise. malvasia
+  ]]>
+  </preparation>
+</recette>

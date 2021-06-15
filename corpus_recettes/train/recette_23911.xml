@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23911">
+  <titre>Emincé de volaille au pain d'épice et au porto</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 escalopes de dinde ou de poulet</p>
+    <p>une échalote hachée très finement</p>
+    <p>une cuillère à soupe de miel liquide</p>
+    <p>15 cl de porto rouge</p>
+    <p>deux cuillères à soupe d'huile de pépins de raisin</p>
+    <p>une tranche de pain d'épices</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer les escalopes, puis saler et poivrer.
+    Faire cuire deux minutes l'échalote dans l'huile, puis ajouter la viande. Lorsque une légère coloration apparaît, ajouter le miel et laisser caraméliser environ deux minutes (caramel blond).
+    Déglacer ensuite avec le porto, puis émietter la tranche de pain d'épice dans le jus ainsi obtenu. Rectifier l'assaisonnement.
+    Servir avec du riz Basmati.
+  ]]>
+  </preparation>
+</recette>

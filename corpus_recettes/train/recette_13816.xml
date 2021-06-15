@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13816">
+  <titre>Rôti de porc aux pruneaux</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rôti de porc</p>
+    <p>40 pruneaux dénoyautés si possible.</p>
+    <p>4 gousses d'ail</p>
+    <p>1 zeste d'orange</p>
+    <p>20 cl de vin blanc</p>
+    <p>1 petit pot de crème</p>
+    <p>2 cuillères à café de fond de veau déshydraté</p>
+    <p>margarine</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ouvrir le rôti en deux dans la longueur et le farcir de pruneaux. Le refermer et le reficeler.
+    Le faire dorer sur toutes ses faces, même les bouts.
+    Ajouter les gousses d'ail, le vin blanc, le fond de veau. Surveiller la cuisson pendant 1 heure en tournant le rôti.
+    Ajouter les pruneaux restants autour dans la cocotte, ainsi que le zeste d'orange. Poursuivre la cuisson 30 mn.
+    Ajouter la crème et laisser reprendre 1 bouillon.
+    Servir avec des pâtes fraîches.
+  ]]>
+  </preparation>
+</recette>

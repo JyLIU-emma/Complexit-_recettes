@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14978">
+  <titre>Gâteaux aux noisettes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de sucre</p>
+    <p>150 g de farine</p>
+    <p>125 g de poudre de noisettes</p>
+    <p>150 ml d'huile</p>
+    <p>1 sachet de levure</p>
+    <p>4 oeufs</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le tout.
+    Verser la préparation dans un plat type moule à manqué (de diamètre 30cm) beurré.
+    Enfourner 30 mn à 200°C.
+    Gateau pour goûter ou petit déjeuner thé ou café
+  ]]>
+  </preparation>
+</recette>

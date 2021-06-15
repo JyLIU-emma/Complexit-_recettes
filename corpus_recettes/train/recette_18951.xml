@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18951">
+  <titre>Pizza maison légère</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte à pizza (déjà prête ou à faire soi-même) </p>
+    <p>1 courgette</p>
+    <p>un petit pot de coulis de tomate ou de sauce tomate</p>
+    <p>2 tranches de jambon blanc</p>
+    <p>1 poivron vert et rouge</p>
+    <p>emmental</p>
+    <p>quelques gouttes de tabasco (facultatif) </p>
+    <p>sel, poivre, origan</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la pâte sur une plaque allant au four. 
+    Etaler à l'aide d'une cuillère le coulis de tomate. 
+    Couper la courgettes en fines lamelles et les déposer sur la pâte. 
+    Couper le jambon en petit carrés et les disposer sur les courgettes. 
+    Couper les poivrons en lanières et les ajouter à la préparation. 
+    Mettre quelques gouttes de tabasco, saler, poivrer. 
+    Recouvrir entièrement d'emmental râpé. 
+    Saupoudrer d'origan. 
+    Mettre au four 30 mn Th 7 (210°C)
+    vous pouvez également ajouter un fromage supplémentaire, comme quelques rondelles de chèvre ou de mozzarella selon les goûts.
+  ]]>
+  </preparation>
+</recette>

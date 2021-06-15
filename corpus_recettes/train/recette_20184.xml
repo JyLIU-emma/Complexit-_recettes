@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20184">
+  <titre>Salade feta</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de fromage feta</p>
+    <p>2 concombres</p>
+    <p>2 tomates</p>
+    <p>1/2 poivron rouge</p>
+    <p>10 olives noires dénoyautées</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>2 cuillères à soupe de vinaigre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper la feta en petits cubes. 
+    Faire dégorger les comcombres, les couper en morceaux ainsi que les tomates et le poivron. 
+    Mélanger le tout avec les olives noires, y verser l'huile et le vinaigre et remélanger.Très frais en été. rosé de type Bandol ou Tavel
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26604">
+  <titre>Moules en sauce</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 kg de moules</p>
+    <p>2 verres de vin blanc sec</p>
+    <p>1 cuillère à soupe d'oignons hachés</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>1 jaune d'oeuf</p>
+    <p>50 g de farine</p>
+    <p>1 branche de persil</p>
+    <p>1 pincée de sel</p>
+    <p>1 pincée de poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer les moules, les mettre dans une grande casserole avec vin blanc, oignons hachés, persil, poivre. Les faire ouvrir à feu vif, casserole couverte, et maintenir à feu doux 4 à 5 min. Égoutter les moules et les sortir de leur coquille, les laver dans l'eau de cuisson, et les mettre dans un plat tenu au chaud. Passer la sauce de cuisson à la passoire fine, et faire réduire à feu vif. Hors du feu, incorporer à la sauce la farine délayée au jaune d'oeuf, ajouter la crème fraîche, et fouetter le tout vivement. Porter à ébullition, et ajouter une noix de beurre. Napper les moules de cette sauce.
+  ]]>
+  </preparation>
+</recette>

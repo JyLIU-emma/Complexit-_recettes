@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26258">
+  <titre>Oeuf cocotte roquefort et échalotes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 oeuf</p>
+    <p>roquefort</p>
+    <p>1/2 échalote</p>
+    <p>crème fraîche (environ 20 cl) </p>
+    <p>sel/poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez l'échalote. 
+    Mélangez la crème fraîche et le roquefort. 
+    Incorporez l'échalote hachée. 
+    Déposez une partie du mélange au fond du ramequin. 
+    Cassez un oeuf entier sur la préparation. 
+    Recouvrir du reste de la préparation échalote-roquefort-crème. 
+    Assaisonnez (sel/poivre). 
+    Laissez cuire environ 10 mn au bain-marie. 
+    C'est délicieux accompagné de quelques pommes de terre rissolées et d'une salade verte. Bon appétit!
+  ]]>
+  </preparation>
+</recette>

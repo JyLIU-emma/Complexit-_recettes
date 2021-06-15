@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164795">
+  <titre>Le "veau masqué"</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 rôti de veau dans le filet de 700 g</p>
+    <p>3 tranches de jambon cuit</p>
+    <p>200 g d'emmental (en tranches)</p>
+    <p>1 oignon</p>
+    <p>50 g de beurre</p>
+    <p>40 g de farine</p>
+    <p>1/2 litre de lait</p>
+    <p>noix de muscade râpée</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cette recette se fait normalement avec du veau ( beaucoup plus cher!), mais on peut le remplacer par du porc.
+    La veille, faire cuire le rôti 45 min au four, à 230° (thermostat 8)Le lendemain, couper le rôti froid en tranche d'un cm. Prévoir autant de carrés de jambons et de fromage que de tranches de rôti.
+    Reconstruire le rôti dans un plat à gratin, en intercalant une tranche de jambon et de fromage entre chaque tranche de rôti.Réchauffer le four à 190°C (thermostat 6-7). Couper l'oignon en petits morceaux et le faire cuire 10 min à feu doux avec le beurre, dans une casserole. Ajouter la farine, et terminer comme une béchamel. Puis mixer bien pour que l'oignon disparaisse.
+    Napper le rôti de cette sauce. Saupoudrer de gruyère râpé. Réchauffer 20 minute au four avant de servir.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Cette recette se fait normalement avec du veau ( beaucoup plus cher ! ), mais on peut le <OPER id="o_1">remplacer</OPER> par du porc. La veille, faire <OPER id="o_2">cuire</OPER> le rôti 45 min au four, à 230 ° ( thermostat 8)Le lendemain, <OPER id="o_3">couper</OPER> le rôti froid en tranche d'un cm. <OPER id="o_4">Prévoir</OPER> autant de <INGRED id="2">carrés</INGRED> de jambons et de <INGRED id="4">fromage</INGRED> que de tranches de rôti. <OPER id="o_5">Reconstruire</OPER> le rôti dans un plat à gratin, en intercalant une tranche de jambon et de fromage entre chaque tranche de rôti. <OPER id="o_6">Réchauffer</OPER> le four à 190 ° C ( thermostat 6 - 7 ). <OPER id="o_7">Couper</OPER> l'<INGRED id="5">oignon</INGRED> en <INGRED id="3">petits</INGRED> <INGRED id="1">morceaux</INGRED> et le faire <OPER id="o_8">cuire</OPER> 10 min à feu doux avec le <INGRED id="4">beurre</INGRED>, dans une casserole. <OPER id="o_9">Ajouter</OPER> la farine, et terminer comme une béchamel. Puis <OPER id="o_10">mixer</OPER> bien pour que l'<INGRED id="2">oignon</INGRED> disparaisse. <OPER id="o_11">Napper</OPER> le rôti de cette <INGRED id="4">sauce</INGRED>. <OPER id="o_12">Saupoudrer</OPER> de <INGRED id="7">gruyère râpé</INGRED>. <OPER id="o_13">Réchauffer</OPER> 20 minute au four avant de servir.
+  </annotation>
+  <annotation methode="crf">
+  Cette recette se fait normalement avec du <INGRED>veau</INGRED> ( beaucoup plus cher ! ) <INGRED>,</INGRED> mais on peut le remplacer par du <INGRED>porc</INGRED> <INGRED>.</INGRED> La veille <INGRED>,</INGRED> faire cuire le <INGRED>rôti</INGRED> 45 min au four <INGRED>,</INGRED> à 230 ° ( thermostat 8)Le lendemain <INGRED>,</INGRED> couper le <INGRED>rôti</INGRED> froid en tranche d'un <INGRED>cm</INGRED> <INGRED>.</INGRED> Prévoir autant de <INGRED>carrés de jambons</INGRED> et de <INGRED>fromage</INGRED> que de tranches de <INGRED>rôti</INGRED> <INGRED>.</INGRED> Reconstruire le <INGRED>rôti</INGRED> dans un plat à gratin <INGRED>,</INGRED> en intercalant une tranche de <INGRED>jambon</INGRED> et de <INGRED>fromage</INGRED> entre chaque tranche de <INGRED>rôti</INGRED> <INGRED>.</INGRED> Réchauffer le four à 190 ° C ( thermostat 6 - 7 ). Couper l'<INGRED>oignon</INGRED> en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> et le faire cuire 10 min à feu doux avec le <INGRED>beurre</INGRED> <INGRED>,</INGRED> dans une casserole <INGRED>.</INGRED> Ajouter la <INGRED>farine</INGRED> <INGRED>,</INGRED> et terminer comme une <INGRED>béchamel</INGRED> <INGRED>.</INGRED> Puis mixer bien pour que l'<INGRED>oignon</INGRED> disparaisse <INGRED>.</INGRED> Napper le <INGRED>rôti</INGRED> de cette <INGRED>sauce</INGRED>. Saupoudrer de <INGRED>gruyère râpé</INGRED>. Réchauffer 20 minute au four avant de servir <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 6.66666666666667*X + 9.33333333333333</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 5*X + 13</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['g']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['jambon cuit', 'jambon']	 id:2	 quantité:3	 unité:tranches de	 denombrable:True	 recipient:3*X
+ingredient:['emmental']	 id:3	 quantité:200	 unité:g d'	 denombrable:False	 recipient:1
+ingredient:['oignon']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['beurre']	 id:5	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:6	 quantité:40	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:7	 quantité:1/2	 unité:litre de	 denombrable:False	 recipient:1
+ingredient:['noix de muscade râpée', 'noix']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:remplacer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:couper	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:prévoir	 id:o_4	 ingrédients_ralatifs:['2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reconstruire	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:réchauffer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:couper	 id:o_7	 ingrédients_ralatifs:['5', '3', '1', '4']	 nombre_opération_atomique:1+1+1*X+1*X	 temps:1*X*1+1*X*1+1*X*1+1*X*1	 recipient:1
+operation:cuire	 id:o_8	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mixer	 id:o_10	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:napper	 id:o_11	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saupoudrer	 id:o_12	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:réchauffer	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24003">
+  <titre>Cailles farcies à la paysanne</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 cailles</p>
+    <p>100 g de dés de jambon cru</p>
+    <p>3 tranches de lard frais</p>
+    <p>2 oignons</p>
+    <p>1 échalote</p>
+    <p>1 gousse d'ail</p>
+    <p>2 cèpes</p>
+    <p>10 cl de porto</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler, éplucher et hacher les oignons, l'échalote et l'ail.
+    Réserver.
+    Farcir les cailles avec les dés de jambon cru, les saler et poivrer. Dans une poêle beurrée, faire revenir les cailles farcies de chaque côté jusqu'à ce qu'elles soient bien dorées.
+    Incorporer ensuite le hachis d'oignon/ail/échalote ainsi que le reste des dés de jambon. Ajouter les cèpes, puis arroser d'un verre de porto.
+    Faire cuire à couvert à feu moyen pendant 10 à 15 min.
+  ]]>
+  </preparation>
+</recette>

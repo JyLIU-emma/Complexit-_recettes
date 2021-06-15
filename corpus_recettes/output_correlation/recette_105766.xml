@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="105766">
+  <titre>Sorbet au champagne</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 boîte ou 1 bocal de fruits au sirop 500 g</p>
+    <p>25 cl de champagne brut</p>
+    <p>150 g de sucre</p>
+    <p>1 citron</p>
+    <p>1 blanc d'oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire un sirop avec le sucre et le jus de fruits (ceux qui conviennent le mieux sont: ananas, pêches, poires).
+    Ajouter le jus du citron et le champagne en quantité suffisante pour que le mélange titre 15° au pèse-sirop.
+    Verser alors dans ce sirop la moitié des fruits passés au mixer pour les réduire en purée et le reste coupé en petits dés.
+    Bien mélanger le tout et mettre dans la sorbetière ou dans le tiroir à glace du réfrigérateur pendant 2 à 3 heures.
+    On peut, lorsque le sorbet commence à prendre, lui ajouter un blanc d'oeuf battu ou quelques c. de crème fouettée additionné de sucre glace.
+    Au moment de servir, répartir la préparation dans des coupes tenues au froid en procédant très rapidement car les sorbets sont fragiles et "tiennent" moins bien qu'une glace classique.Personnellement, je ne l'ai préparé qu'avec des poires, qui se marient très bien avec le champagne. Même champagne que dans le sorbet
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire un <INGRED id="4">sirop</INGRED> avec le <INGRED id="1">sucre</INGRED> et le jus de fruits ( ceux qui conviennent le mieux sont : <INGRED id="2">ananas</INGRED>, pêches, <INGRED id="1">poires</INGRED> ). <OPER id="o_1">Ajouter</OPER> le <INGRED id="3">jus</INGRED> du citron et le <INGRED id="1">champagne</INGRED> en quantité suffisante pour que le <INGRED id="2">mélange</INGRED> titre 15 ° au pèse - <INGRED id="4">sirop</INGRED>. <OPER id="o_2">Verser</OPER> alors dans ce <INGRED id="4">sirop</INGRED> la moitié des fruits passés au mixer pour les réduire en purée et le <INGRED id="1">reste</INGRED> coupé en <INGRED id="3">petits</INGRED> <INGRED id="3">dés</INGRED>. Bien <OPER id="o_3">mélanger</OPER> le tout et <OPER id="o_4">mettre</OPER> dans la sorbetière ou dans le tiroir à glace du réfrigérateur pendant 2 à 3 heures. On peut, lorsque le sorbet commence à <OPER id="o_5">prendre</OPER>, lui <OPER id="o_6">ajouter</OPER> un <INGRED id="4">blanc d'oeuf</INGRED> battu ou quelques c. de crème fouettée additionné de <INGRED id="2">sucre glace</INGRED>. Au moment de servir, <OPER id="o_7">répartir</OPER> la <INGRED id="4">préparation</INGRED> dans des coupes tenues au froid en procédant très rapidement car les sorbets sont fragiles et " tiennent " moins bien qu'une glace classique. Personnellement, je ne l'ai préparé qu'avec des <INGRED id="1">poires</INGRED>, qui se marient très bien avec le <INGRED id="2">champagne</INGRED>. Même <INGRED id="2">champagne</INGRED> que dans le sorbet
+  </annotation>
+  <annotation methode="crf">
+  Faire un <INGRED>sirop</INGRED> avec le <INGRED>sucre</INGRED> et le <INGRED>jus</INGRED> de <INGRED>fruits</INGRED> ( ceux qui conviennent le mieux sont <INGRED>:</INGRED> ananas <INGRED>,</INGRED> <INGRED>pêches</INGRED> <INGRED>,</INGRED> <INGRED>poires</INGRED> ). Ajouter le <INGRED>jus</INGRED> du <INGRED>citron</INGRED> et le champagne en quantité suffisante pour que le <INGRED>mélange</INGRED> titre 15 ° au pèse - <INGRED>sirop</INGRED> <INGRED>.</INGRED> Verser alors dans ce <INGRED>sirop</INGRED> la moitié des <INGRED>fruits</INGRED> passés au mixer pour les réduire en <INGRED>purée</INGRED> et le <INGRED>reste</INGRED> <INGRED>coupé</INGRED> en <INGRED>petits</INGRED> dés <INGRED>.</INGRED> Bien mélanger le tout et mettre dans la sorbetière <INGRED>ou</INGRED> dans le tiroir à glace du réfrigérateur pendant 2 à 3 heures. On peut <INGRED>,</INGRED> lorsque le <INGRED>sorbet</INGRED> commence à prendre <INGRED>,</INGRED> lui ajouter un <INGRED>blanc d'oeuf</INGRED> battu <INGRED>ou</INGRED> quelques c. de <INGRED>crème fouettée</INGRED> additionné de <INGRED>sucre glace</INGRED> <INGRED>.</INGRED> Au moment de servir <INGRED>,</INGRED> répartir la préparation dans des coupes tenues au froid en procédant très rapidement car les sorbets sont fragiles et " tiennent " moins bien qu'une <INGRED>glace classique</INGRED> <INGRED>.</INGRED> Personnellement <INGRED>,</INGRED> je ne l'ai préparé qu'avec des <INGRED>poires</INGRED> <INGRED>,</INGRED> qui se marient très bien avec le champagne. Même champagne que dans le <INGRED>sorbet</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 3.5*X + 3.5</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 2*X + 4</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['champagne brut', 'champagne']	 id:1	 quantité:25	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:2	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['citron']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:["blanc d'oeuf", 'blanc']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:ajouter	 id:o_1	 ingrédients_ralatifs:['3', '1', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_2	 ingrédients_ralatifs:['4', '1', '3', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mettre	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:prendre	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['4', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:répartir	 id:o_7	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

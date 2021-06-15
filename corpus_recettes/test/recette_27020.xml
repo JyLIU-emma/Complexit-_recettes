@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27020">
+  <titre>Tarte garnie au boeuf et à la tomate</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>400 g de boeuf haché</p>
+    <p>30 g de beurre</p>
+    <p>1 oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>4 tomates</p>
+    <p>1 cuillère à soupe de basilic séché</p>
+    <p>100 g de gruyère ou de parmesan râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6-7).
+    Etaler la pâte dans un moule à tarte et la faire cuire 10 minutes au four.
+    Dans une poêle, faire dorer la viande dans un peu de beurre, assaisonner.
+    A part, faire fondre l'ail haché et l'oignon émincé dans l'huile chaude. Ajouter les tomates concassées et le basilic. Laisser mijoter 30 minutes, le coulis de tomate doit épaissir.
+    Parsemer le fond de tarte de fromage râpé, recouvrir de viande, puis de sauce à la tomate. Enfourner pour 25 minutes.
+    Servir chaud ou tiède.
+  ]]>
+  </preparation>
+</recette>

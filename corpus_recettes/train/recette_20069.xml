@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20069">
+  <titre>Tarte myrtilles groseilles</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rouleau de pâte feuilletée</p>
+    <p>225 g de myrtilles (fraîches ou surgelées)</p>
+    <p>gelée de groseilles</p>
+    <p>sucre en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la^pâte dans une tourtière, piquer avec une fourchette. Faire cuire 20 à 25 min au four à 250°C (thermostat 8).
+    Sortir la pâte.
+    Faire fondre 3 cuillères à coupe de gelée de groseilles à feu doux.
+    Verser les myrtilles (non décongelées) sur le fond de pâte encore chaud.
+    Napper aussitôt de gelée chaude.
+    Saupoudrer de sucre et réserver jusqu'au moment de servir.
+  ]]>
+  </preparation>
+</recette>

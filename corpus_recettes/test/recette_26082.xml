@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26082">
+  <titre>Oeufs durs aux petits-suisses</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 oeufs durs</p>
+    <p>6 petits suisses</p>
+    <p>3 cuillerées à soupe de persil haché.</p>
+    <p>beurre</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les oeufs en deux. Enlever les jaunes et les écraser avec une noix de beurre, les petits suisses et le persil. Assaisonner. 
+    Remplir les blancs de cette farce et mélanger le reste avec de la sauce béchamel. Recouvrir les œufs de cette sauce.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10807">
+  <titre>Soufflé à l'ananas</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 ananas</p>
+    <p>10 jaunes d'oeufs</p>
+    <p>100 g de sucre en poudre</p>
+    <p>7.5 g de sucre vanille</p>
+    <p>50 gr de sucre glace</p>
+    <p>12,5 cl de creme fraiche liquide</p>
+    <p>3 cl de Cointreau.</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez l'ananas, coupez-le en 2, retirez-en le coeur dur et reduisez la pulpe en puree, au mixer.
+    Incorporer le sucre en poudre et le sucre vanille a la purée d'ananas, puis faites chauffer le mélange sur feu doux.
+    Battez vivement la crème fraîche avec le sucre glace, de facon a obtenir une crème chantilly.
+    Battez les jaunes d'oeufs jusqu a ce qu'ils blanchissent. Mélangez-les au coulis d'ananas tiède. Ajoutez-y le Cointreau.
+    Hors du feu, enfin incorporez-y délicatement la crème Chantilly, cuillerée par cuillerée. Placez la mousse obtenue au frais.
+    Chemisez un moule a soufflé avec du papier d aluminium, en veillant a ce qu il deborde de 4 a 5 cm au-dessus du moule. Versez y le mélange.
+    Faites prendre au réfrigérateur pendant 12 heures, ou au congélateur pendant 3 a 4 heures.
+    Au moment de servir, coupez le papier alu qui dépasse.
+  ]]>
+  </preparation>
+</recette>

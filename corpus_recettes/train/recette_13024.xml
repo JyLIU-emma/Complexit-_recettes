@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13024">
+  <titre>Gâteau aux épices</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 yaourt (nature ou avec fruits)</p>
+    <p>3 pots de farine</p>
+    <p>2 1/2 pots de sucre</p>
+    <p>3/4 de pot d'huile</p>
+    <p>1/2 sachet de levure</p>
+    <p>3 oeufs entiers</p>
+    <p>3 cuillères à café de cannelle en poudre</p>
+    <p>2 cuillères à café de mélange 4 épices</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre tous les ingrédients dans un saladier. 
+    Bien mélanger au fouet (c'est plus onctueux). Rajouter une pomme coupée en cubes si disponible.
+    Cuire à four moyen dans un moule beurré et fariné pendant 40-45 minutes.
+    Présenter couvert de sucre glace.
+  ]]>
+  </preparation>
+</recette>

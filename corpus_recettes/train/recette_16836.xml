@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16836">
+  <titre>Poulet à la Gaston Gérard</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet fermier</p>
+    <p>50 g de beurre</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>150 g de comté rapé </p>
+    <p>400 g de crème fraîche</p>
+    <p>1 cuillère à café de paprika</p>
+    <p>3 cuillères à soupe de chapelure</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper le poulet en 8. Faire fondre le beurre dans une sauteuse
+    Faire dorer le poulet des deux cotés et y ajouter la cuillère à café de paprika. Couvrir et laisser cuire 30 mn à feu doux.
+    Réserver le poulet dans un plat à gratin et enlever la graisse de cuisson dans la sauteuse puis déglacer avec le vin blanc.
+    Incorporer petit à petit le comté rapé. Lier avec la crème fraîche et préchauffer le four (240°C).
+    Dès que la sauce est homogène, verser dans le plat à gratin sur le poulet puis saupoudrer de chapelure.
+    Enfourner à four très chaud et laisser dorer 15 mn maxi. 
+    Bon Appétit!
+    Il est aussi possible d'incorporer un petit peu de moutarde dans la sauce.
+    [Note Marmiton : la recette originale COMPORTE 1 cuillère à soupe de moutarde...] Bourgogne rouge
+  ]]>
+  </preparation>
+</recette>

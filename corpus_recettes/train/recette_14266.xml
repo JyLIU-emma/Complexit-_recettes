@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14266">
+  <titre>Salade cuite aux poivrons</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>7 poivrons rouges</p>
+    <p>1 poivron vert (pour la couleur)</p>
+    <p>2 boîtes de tomates pelées concassées</p>
+    <p>2 gousses d'ail</p>
+    <p>un fond d'huile de tournesol</p>
+    <p>un carré de sucre</p>
+    <p>une pincée de piment de cayenne</p>
+    <p>sel et poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites griller les poivrons au gril du four porte ouverte en les retournant de temps en temps jusqu'à ce qu'ils soient bien grillés.
+    Enfermer les poivrons dans un sac en plastique pendant environ 15 mn. Ainsi ils seront plus facile a éplucher.
+    Dans une casserole assez large, faire revenir l'ail avec l'huile jusqu'à ce qu'il soit doré.
+    Eplucher les poivrons et les épépiner. Les couper en tout petits dés.
+    Mettre les tomates dans la casserole puis les poivrons, ajouter le sucre (pour enlever l'amertume) ainsi que les piments de cayenne, puis assaisoner.
+    Laisser mijoter à feu moyen pendant au moins 1h30 non couvert jusqu'à ce que la salade ait un aspect 'confiture'. Tourner régulièrement pour ne pas que ça attache.
+    Servir à température ambiante avec un bon pain de campagne, ou même avec du thon au naturel.
+    Petit truc: si vous êtes pressé, vous pouvez utiliser des poivrons pelés en boîte en mettant toujours le double de poivrons par rapport aux tomates.
+  ]]>
+  </preparation>
+</recette>

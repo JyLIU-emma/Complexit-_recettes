@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23415">
+  <titre>Pavé de poisson tressé</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de filets de poisson blanc (cabillaud, turbot...)</p>
+    <p>600 g de filets de saumon</p>
+    <p>30 cl de crème fraîche épaisse</p>
+    <p>40 cl de fumet de poisson</p>
+    <p>1 bouquet garni</p>
+    <p>1/2 cuillère à café de grains de coriandre</p>
+    <p>3 échalotes</p>
+    <p>25 g de gingembre frais</p>
+    <p>3 cuillères à soupe de whisky</p>
+    <p>beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les filets de poissons en bandes régulières de 10 cm de long sur 1 cm de large environ.
+    Beurrer une feuille de papier aluminium ou sufurisé de la taille de la plaque du four. Posez-la dessus.
+    Posez les lanières de saumon côtes à côtes, un peu espacées. Faites passer les lanières de poisson blanc au-dessus et en-dessous de chaque lanière de saumon, pour obtenir une sorte de "tapis" tressé.
+    Salez, poivrez. Badigeonnez de beurre et saupoudrez d'un peu de coriandre moulue et arrosez de quelques cuillères de fumet. Faites cuire 20 minutes au four à 210°C (thermostat 7).
+    Pendant ce temps, faites chauffer le fumet avec le whisky, laissez réduire de moitié. Ajoutez la crème et laissez cuire 15 minutes à feu doux.
+    Rajoutez le gingembre haché, la coriandre, salez et poivrez.  Réservez au chaud.
+    Servez le tapis de poissons avec la sauce chaude filtrée. Accompagnez de pommes de terre ou courgettes sautées.
+  ]]>
+  </preparation>
+</recette>

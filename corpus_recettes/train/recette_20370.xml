@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20370">
+  <titre>Pain de crabe</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>9 oeufs</p>
+    <p>2 grandes boîtes de crabe</p>
+    <p>1 boîte moyenne de concentré de tomates</p>
+    <p>4 échalotes</p>
+    <p>beurre</p>
+    <p>piment de Cayenne</p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four (265°C, Th 8-9 ). 
+    Faire fondre à feu doux les échalotes dans du beurre. 
+    Ajouter le concentré de tomates, une pincée de piment de Cayenne et le crabe égoutté. 
+    Battre les oeufs en omelette. 
+    Saler et poivrer. 
+    Ajouter le mélange tomates-crabe à l'omelette. 
+    Mélanger jusqu'à ce que ce soit homogène. 
+    Beurrer un moule à cake. 
+    Verser la préparation dans le moule. 
+    Faire cuire à four chaud (210°C), au bain-marie, 45 mn-1h (placer le moule à cake contenant la préparation dans un autre plat contenant de l'eau). 
+    Démouler. 
+    Laisser refroidir.
+    Servir froid avec une mayonnaise. Se prépare 1 ou 2 jours à l'avance. Conservation au réfrigérateur.
+  ]]>
+  </preparation>
+</recette>

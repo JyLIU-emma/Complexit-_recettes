@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="105827">
+  <titre>Pave de saumon au yaourt</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 pavé de saumon</p>
+    <p>1 yaourt nature</p>
+    <p>1/4 de concombre</p>
+    <p>huile d'olive</p>
+    <p>poivre , sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    disposer les pavés de saumon dans des papillottes en silicone ( si possible )sur chaque pavé verser un filet d'huile d'olive , un demi yaourt , des petits dés de concombre , fermer la papillotte et mettre à four chaud ( 200 ) pendant 20 à 25 minutes ( selon l'épaisseur du pavé)...et bon appétit...en plus c'est super diététique
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">disposer</OPER> les <INGRED id="1">pavés de saumon</INGRED> dans des papillottes en silicone ( si possible ) sur chaque <INGRED id="1">pavé</INGRED> <OPER id="o_2">verser</OPER> un filet d'huile d'olive, un <INGRED id="2">demi</INGRED> <INGRED id="6">yaourt</INGRED>, des <INGRED id="3">petits</INGRED> <INGRED id="4">dés</INGRED> de <INGRED id="3">concombre</INGRED>, <OPER id="o_3">fermer</OPER> la papillotte et <OPER id="o_4">mettre</OPER> à four chaud ( 200 ) pendant 20 à 25 minutes ( selon l'épaisseur du pavé)... et bon appétit... en plus c'est super diététique
+  </annotation>
+  <annotation methode="crf">
+  disposer les pavés de saumon dans des papillottes en silicone ( si possible ) sur chaque pavé verser un <INGRED>filet</INGRED> d'<INGRED>huile d'olive</INGRED> <INGRED>,</INGRED> un <INGRED>demi</INGRED> <INGRED>yaourt</INGRED> <INGRED>,</INGRED> des <INGRED>petits</INGRED> dés de <INGRED>concombre</INGRED> <INGRED>,</INGRED> fermer la papillotte et mettre à four chaud ( 200 ) pendant 20 à 25 minutes ( selon l'épaisseur du pavé)... et bon appétit... en plus c'est super diététique
+  </annotation>
+  <complexite>
+    <temps>f(X) = 2.08*X + 1.92</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 4*X + 5</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pavé de saumon', 'pavé']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['yaourt nature', 'yaourt']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['concombre']	 id:3	 quantité:1/4	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:["huile d'olive", 'huile']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:disposer	 id:o_1	 ingrédients_ralatifs:['1', '1', '2', '6', '3', '4', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:verser	 id:o_2	 ingrédients_ralatifs:['1', '2', '6', '3', '4', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fermer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:mettre	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

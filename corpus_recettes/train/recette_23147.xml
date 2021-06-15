@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23147">
+  <titre>Gigot sauté à l'ail et au romarin</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de gigot d'agneau</p>
+    <p>80 g de jambon cuit</p>
+    <p>1 gousse d'ail</p>
+    <p>1 branche de romarin</p>
+    <p>20 g de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler le gigot en gros cubes, puis les mettre à dorer sur feu vif dans une cocotte huilée bien chaude. Remuer régulièrement afin que les morceaux soient dorés de tout côté.
+    Détailler ensuite le jambon en dés, les incorporer dans la cocotte puis poursuivre la cuisson 2 à 3 min. Réduire le feu, puis ajouter l'ail écrasé avec le romarin et saler, poivrer.
+    Mélanger puis poursuivre la cuisson 5 min sur feu doux.
+    Une fois la viande cuite à votre goût, les dresser sur un plat de service bien chaud et les napper de sauce.
+  ]]>
+  </preparation>
+</recette>

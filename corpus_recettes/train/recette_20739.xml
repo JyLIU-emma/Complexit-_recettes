@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20739">
+  <titre>Crème de carottes pimentée aux lentilles</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de lentilles vertes</p>
+    <p>225 g de carottes</p>
+    <p>50 cl d'eau froide</p>
+    <p>1 oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>1 clou de girofle</p>
+    <p>2 cuillères à soupe de citron</p>
+    <p>1 bouquet garni</p>
+    <p>1 cube de bouillon</p>
+    <p>20 g de crème fraîche</p>
+    <p>1/2 cuillère à café de curry </p>
+    <p>1 pincée de piment</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les lentilles avec 2 carottes, l'oignon piqué d'1 clou de girofle, l'ail, le bouquet garni et le cube de bouillon.
+    Démarrer la cuisson à l'eau froide puis amener à ébullition. Laisser cuire à petits bouillons durant 30 minutes environ.
+    Détailler les carottes en rondelles et les cuire 15 minutes à la vapeur.
+    Mixer les carottes avec 100 g de lentilles, le jus de citron et 12 cl de bouillon. Ajouter la crème et parfumer de curry, de piment, de sel et de poivre.
+    Servir les lentilles avec la crème pimentée.
+  ]]>
+  </preparation>
+</recette>

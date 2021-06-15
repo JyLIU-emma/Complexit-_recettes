@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13175">
+  <titre>Génoise</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 Oeufs</p>
+    <p>125 g de farine</p>
+    <p>125 g de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre en place le poste de travail.
+    Chemiser un moule à manquer.
+    Mélanger le sucre et les oeufs. Monter un sabayon au bain-marie, à l'aide d'un fouet. Retirer la préparation du bain-marie, et foutter jusqu'à complet refroidissement.
+    Incorporer délicatement la farine tamisée, à l'aide d'une spatule.
+    Mettre la génoise à cuire. Démouler aussitôt que la génoise sort du four.
+    Demande une bonne résistance au niveau du bras.
+  ]]>
+  </preparation>
+</recette>

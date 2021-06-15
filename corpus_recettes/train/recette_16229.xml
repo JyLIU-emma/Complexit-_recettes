@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16229">
+  <titre>Moules Poulette</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 litres de moules</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>50 g de beurre</p>
+    <p>1 jaune d'oeuf</p>
+    <p>persil ciselé</p>
+    <p>1 feuille de laurier</p>
+    <p>3 échalotes</p>
+    <p>un filet de vinaigre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer les moules et les faire ouvrir à feu vif avec le laurier, les échalotes hachées, le persil ciselé, le sel, le poivre et le vinaigre.
+    Lorsqu'elles sont ouvertes, ôter une coquille et disposer les moules sur un plat de service qu l'on maintient au chaud.
+    Dans une casserole, faire fondre le beurre, verser la farine et mouiller avec l'eau de cuisson des moules filtrées.
+    Laisser un peu réduire le bouillon, lier avec le jaune d'oeuf et un peu de beurre. Verser sur les moules et servir.
+    L'oeuf n'est pas obligatoire. blanc sec de Bourgogne
+  ]]>
+  </preparation>
+</recette>

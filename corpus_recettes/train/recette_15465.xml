@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15465">
+  <titre>Oreille d'ours</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 verre de farine</p>
+    <p>1 verre de sucre roux</p>
+    <p>1 oeuf battu</p>
+    <p>1 verre de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger dans une jatte la farine et le sucre roux. Ajouter l'oeuf et le lait.
+    Verser la préparation dans un plat à tarte avec du papier sulfurisé.
+    Faire cuire 30 mn à thermostat 6 (180°C).
+    Servir tiède ou froid avec de la confiture.
+  ]]>
+  </preparation>
+</recette>

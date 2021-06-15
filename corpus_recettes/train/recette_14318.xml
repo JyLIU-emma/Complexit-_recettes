@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14318">
+  <titre>Sauté de veau facile</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>veau coupé en gros dés (800 g à 1 kg)</p>
+    <p>3 ou 4 grosses pommes de terre</p>
+    <p>1 boîte de concentré de tomate</p>
+    <p>olives (quantité selon votre goût)</p>
+    <p>1 petite boîte de champignons de paris</p>
+    <p>farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte minute, saisir le veau avec un peu d'huile. Rajouter 2 cuilères à soupe de farine, le concentré de tomate, puis couvrir la viande avec de l'eau.
+    Dermer la cocotte et laisser cuire à feu moyen pendant 15 mn.
+    Pendant ce temps, éplucher les pommes de terre, les laver et les couper en quatres morceaux. Les rajouter dans la cocotte, ainsi que les olives et les champignons. Fermer la cocotte et laisser cuire 15 mn à feu moyen.
+    Pour un coût moindre, remplacer le veau par du porc.
+  ]]>
+  </preparation>
+</recette>

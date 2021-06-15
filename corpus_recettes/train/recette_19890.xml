@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19890">
+  <titre>Filet mignon rôti au cidre</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 filet mignon de 1 kg</p>
+    <p>3 gros oignons</p>
+    <p>300 g de champignons</p>
+    <p>1 bocal de tomates confites</p>
+    <p>1 pot moyen de crème fraîche</p>
+    <p>1/2 bouteille de cidre doux</p>
+    <p>60 g de beurre</p>
+    <p>sel/poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre dans une sauteuse. 
+    Dès qu'il crépite, ajouter les oignons coupés en rondelles. Dès qu'ils commencent à dorer, ajouter les champignons. 
+    Disposer ensuite le filet mignon dans la sauteuse et à feu vif, le faire dorer pendant environ 10 mn. Saler et poivrer. 
+    Ajouter la moitié du cidre, couvrir et mettre à feu doux pendant 40 mn. Mouiller de temps en temps avec le reste du cidre et retourner le filet mignon plusieurs fois. 
+    Au dernier moment, ajouter les tomates confites préalablement égouttées, laisser cuire environ 5 mn et ajouter la crème fraîche. Rectifier l'assaisonnement. 
+    Disposer dans un plat profond car il y a beaucoup de sauce. Couper le filet mignon en aiguillettes et servir.
+    Légumes d'accompagement : gratin dauphinois, tagliatelles, pommes au four, fagots de haricots verts enroulés de lard...
+  ]]>
+  </preparation>
+</recette>

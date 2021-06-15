@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27135">
+  <titre>Oeufs au plat sur lit de légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de pommes de terre</p>
+    <p>750 g de tomates</p>
+    <p>400 g de poivron</p>
+    <p>10 gousses d'ail</p>
+    <p>1 piment rouge fort</p>
+    <p>6 oeufs</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les tomates en quartiers.
+    Peler et couper les pommes de terre en gros dés et émincer les poivrons épépinés en lanières.
+    Faire chauffer l'huile dans une grande poêle.
+    Mettre les légumes découpés, les gousses d'ail entières et le piment.
+    Saler, poivrer.
+    Remuer et laisser cuire à feu doux environ 45 min.
+    Casser les oeufs dans la poêle un à un.
+    Laisser cuire 5 minutes (le blanc doit juste prendre) et servir.
+  ]]>
+  </preparation>
+</recette>

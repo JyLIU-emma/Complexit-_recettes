@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12964">
+  <titre>Tarte aux épinards et au jambon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>1 tranche épaisse de jambon blanc (300g)</p>
+    <p>800 g d'épinards en branche surgelés</p>
+    <p>2 oeufs</p>
+    <p>20 cl de crème fraiche liquide</p>
+    <p>emmental râpé</p>
+    <p>sel, poivre</p>
+    <p>noix de muscade râpée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez votre four à thermostat 6.Etalez la pâte, piquez-la et faites la cuire 10 mn à blanc.Décongelez les épinards.
+    Battez les oeufs avec la crème fraîche, salez, poivrez et ajoutez la noix de muscade.
+    Coupez le jambon en cubes.Répartissez les épinards sur la pâte puis le melange crème-oeufs, le jambon et parsemez d'emmental râpé.Enfournez pendant 30 minutes.
+  ]]>
+  </preparation>
+</recette>

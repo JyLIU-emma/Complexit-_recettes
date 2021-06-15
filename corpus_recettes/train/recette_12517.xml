@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12517">
+  <titre>Gâteau au pamplemousse</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>350 g farine à levure incorporée</p>
+    <p>200 g sucre cristallisé</p>
+    <p>3 oeufs</p>
+    <p>25 cl huile</p>
+    <p>zeste et jus d'un pamplemousse</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger farine et sucre.
+    Battre les oeufs avec l'huile, zeste, jus.
+    Incorporer la farine.
+    Verser dans un moule et faire cuire à four chaud 170° 30 min.
+  ]]>
+  </preparation>
+</recette>

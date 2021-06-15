@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24410">
+  <titre>Noix de Saint-Jacques au muscadet</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 coquilles Saint-Jacques</p>
+    <p>20 cl de muscadet</p>
+    <p>30 g de beurre</p>
+    <p>5 cl de crème fraîche</p>
+    <p>2 échalotes grises</p>
+    <p>10 g de farine</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer les échalotes et les mettre à chauffer à feu doux dans une casserole avec 15 g de beurre. Assaisonner.
+    Ajouter le vin et les noix de Saint-Jacques puis faire chauffer le tout à feu doux pendant 10 minutes. Récupérer les noix avec un écumoire et filtrer le jus de cuisson.
+    Dans une autre casserole, faire fondre le reste de beurre à feu doux. Avant coloration, ajouter la farine et remuer vigoureusement jusqu'à l'obtention d'une pâte. Ajouter le jus de cuisson et faire cuire 15 minutes à feu doux, tout en remuant.
+    Incorporer la crème fraîche et assaisonner. Servir les noix de Saint-Jacques avec la sauce au vin.
+  ]]>
+  </preparation>
+</recette>

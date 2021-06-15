@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24641">
+  <titre>Gâteau sablé aux abricots</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>220 g de farine</p>
+    <p>10 g de cassonade ou de sucre</p>
+    <p>75 g d'huile</p>
+    <p>75 g de beurre</p>
+    <p>1 oeuf</p>
+    <p>5 g de levure de boulanger</p>
+    <p>10 cl de lait</p>
+    <p>sel</p>
+    <p>Pour la garniture :</p>
+    <p>800 g d'abricots</p>
+    <p>150 g de sucre en poudre</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>75 g de beurre</p>
+    <p>75 g de farine</p>
+    <p>75 g d'amandes en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Préparer la pâte en plaçant la farine dans un saladier et en ajoutant le sucre et le sel. Mélanger. Faire fondre le beurre et délayer la levure dans le lait tiède.
+    Ajouter le mélange lait + levure à la farine, ainsi que le beurre fondu, l’huile et enfin l’oeuf. Bien mélanger, la pâte doit avoir une belle consistance sablée. La laisser reposer deux heures.
+    Pendant ce temps, préparer la garniture : laver les abricots, les dénoyauter et les couper en deux. Placer dans un saladier la farine, le sucre, la poudre d'amandes et le beurre, puis bien mélanger.
+    Au bout des deux heures, lorsque la pâte a bien reposé :  l'étaler au rouleau, beurrer un moule à manqué et y disposer la pâte.
+    Disposer les abricots sur cette pâte et recouvrir entièrement du mélange sableux aux amandes.
+    Cuire 45 minutes. Servir tiède ou froid.
+  ]]>
+  </preparation>
+</recette>

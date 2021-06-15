@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24370">
+  <titre>Oeufs à la neige</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>30 cl litre de lait</p>
+    <p>50 g de sucre pour le lait</p>
+    <p>2 oeufs</p>
+    <p>1/3 de gousse de vanille</p>
+    <p>20 g de sucre pour les blancs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre à bouillir le lait en y ajoutant le sucre et la vanille.
+    Séparer les blancs des jaunes d'oeufs et fouetter les blancs en neige bien ferme sans oublier d'ajouter le sucre.
+    Laisser glisser des cuillerées de blancs dans une casserole de lait frémissant mais pas à ébullition. Laisser cuire 2 min de chaque face.
+    Une fois les blancs cuits, les retirer et les mettre à égoutter dans une passoire.
+    Préparer la crème anglaise en prenant le lait chaud et les jaunes d'oeufs. 
+    Répartir la crème dans des coupes et mettre dessus quelques blancs.
+    Garder au frais avant de servir.
+  ]]>
+  </preparation>
+</recette>

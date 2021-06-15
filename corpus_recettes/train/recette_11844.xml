@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11844">
+  <titre>Poulet au fromage</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>un gros poulet coupé en 8/10 morceaux</p>
+    <p>5 oignons moyens</p>
+    <p>50 cl de vin blanc sec</p>
+    <p>200 gr de fromage râpé type emmental</p>
+    <p>20 cl de crème fraîche</p>
+    <p>1 bouquet garni</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer les oignons, les faire blondir dans une noix de beurre. Quand ils ont bien fondu, y ajouter les morceaux de poulet, bien poivrer, saler un peu.
+    Ajouter le bouquet garni et couvrir de vin blanc sec. Porter à ébullition, ensuite couvrir, diminuer le feu et laisser mijoter 40 mn à feu doux.
+    Retirer les morceaux de poulet de la casserole, les déposer dans un plat à gratin. Tenir au chaud.
+    Ajouter la moitié du fromage à la sauce, retirer le bouquet garni, et la passer au mixer. Napper le poulet de sauce, parsemer le plat du fromage restant, de quelques noisettes de beurre, gratiner.
+    Servir dans le plat, avec des pommes pailles. vin blanc sec ou bourgueil
+  ]]>
+  </preparation>
+</recette>

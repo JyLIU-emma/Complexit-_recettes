@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16195">
+  <titre>Rôti de veau normand</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 rôti de veau de 1 kg</p>
+    <p>1/2 litre de cidre brut Normand</p>
+    <p>1 kg de pommes (fruits) fermes</p>
+    <p>2 oignons</p>
+    <p>2 cuillères à soupe d'huile de tournesol</p>
+    <p>1 brin de thym</p>
+    <p>1 petit verre de calvados</p>
+    <p>5 ou 6 feuilles de sauge</p>
+    <p>sel et poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Attrapez votre cocotte en fonte par les oreilles. Versez-y 2 cuillères à
+    soupe d'huile et faites-y revenir les oignons émincés, puis ajoutez le rôti.
+    Dorez-le sur toutes ses faces. Arrosez de calvados et flambez.
+    Salez et poivrez.
+    Ajoutez la branche de thym et la sauge dans une étamine. Versez le cidre. Couvrez et laissez cuire 45 mn à feu doux.
+    Pendant ce temps, épluchez les pommes, coupez-les en quartiers et
+    ajoutez-les à votre rôti.
+    Continuez la cuisson une quinzaine de minutes à découvert afin que le
+    mouillement diminue des 3/4.
+  ]]>
+  </preparation>
+</recette>

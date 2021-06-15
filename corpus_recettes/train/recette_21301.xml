@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21301">
+  <titre>Bavarois aux poires</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 jaunes d'oeufs</p>
+    <p>140 g de sucre en poudre</p>
+    <p>1 boîte de poires au sirop (4/4 ) </p>
+    <p>4 feuilles de gélatine</p>
+    <p>1 verre d'eau de vie de poires</p>
+    <p>50 cl de crème fraîche (pour chantilly) </p>
+    <p>1 boîte de gros biscuits à la cuillère</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole à fond épais, battre les jaunes d’oeufs avec le sucre jusqu’à ce que le mélange blanchisse. 
+    Mettre sur le feu en y ajoutant le jus de poire (en réserver pour tremper les biscuits). 
+    Monter le mélange au fouet jusqu’à épaississement. 
+    Incorporer la gélatine et l’eau de vie de poires. 
+    Lorsque le mélange est refroidi, incorporer la crème fraîche battue en chantilly bien ferme. 
+    Prendre un moule vacherin et mettre dans le fond des lamelles de poires + une couche de crème + poires + crème + une couche de biscuits trempés dans le jus des poires.
+    Mettre au frigo jusqu’au lendemain.
+  ]]>
+  </preparation>
+</recette>

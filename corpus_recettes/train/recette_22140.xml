@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22140">
+  <titre>Coquilles Saint-Jacques à la crème de Porto</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>18 noix de Saint-Jacques surgelées</p>
+    <p>6 petites cassolettes </p>
+    <p>3 cuillères à soupe de beurre</p>
+    <p>3 échalotes</p>
+    <p>2 cuillères à soupe de Porto</p>
+    <p>4 cuillères à soupe de crème fraîche</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Décongeler les noix de St-Jacques dans une passoire et les placer sur du papier absorbant.
+    Dans une poêle, faire chauffer 2 cuillère à soupe de beurre à feu vif et y dorer les noix d'un côté pendant 3 à 4 min.
+    Les retourner, assaisonner et y incorporer les échalotes ciselées. Dorer 2 à 3 min en remuant doucement. Remplir les cassolettes et réserver au chaud.
+    Incorporer le Porto au jus de cuisson et faire mijoter 1 min. Ajouter la crème fraîche et refaire mijoter 2 min sans porter à ébullition. Terminer en mélangeant à cette sauce le reste de beurre.
+    Remplir les cassolettes de la sauce et servir.
+  ]]>
+  </preparation>
+</recette>

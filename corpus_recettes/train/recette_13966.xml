@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13966">
+  <titre>Filet mignon de porc à la compote d'oignons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 filets mignons de porc</p>
+    <p>1,6 kg d'oignons</p>
+    <p>1 dl d'huile d'olive</p>
+    <p>1 dl d'eau-de-vie corse</p>
+    <p>2 dl de vin blanc</p>
+    <p>1 bouquet garni</p>
+    <p>2 gousses d'ail</p>
+    <p>sel et poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez et ciselez finement les oignons. Assaisonnez-les, puis faites-les étuver dans une cocotte avec 5 cl d'huile d'olive.
+    Réservez-les au chaud. Parez et ficelez les filets mignons. Assaisonnez-les, puis faites-les rissoler dans une deuxieme cocotte, avec l'huile d'olive restante.
+    Flambez les filets a l'eau-de-vie et mouillez avec le vin blanc. Ajoutez le bouquet garni et les gousses d'ail.
+    Couvrez et laissez mijoter pendant 25 minutes. Otez la ficelle des filets mignons et detaillez-les en medaillons. Vérifiez la quantité de jus de cuisson et, au besoin, mouillez avec un peu
+    d'eau. Eectifiez l'assaisonnement.
+    Dressez sur 6 assiettes chaudes : un dôme de compote d'oignons, les médaillons disposés autour, puis nappez le tout de jus de cuisson.
+  ]]>
+  </preparation>
+</recette>

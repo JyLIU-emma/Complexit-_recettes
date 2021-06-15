@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23886">
+  <titre>Boulettes de boeuf aux oignons et au cumin</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de boeuf haché</p>
+    <p>75 g d'oignons</p>
+    <p>1 cuillère à soupe d'ail haché</p>
+    <p>1/2 cuillère à soupe de cumin en poudre</p>
+    <p>1 cuillère à soupe de persil haché</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>20 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher les oignons. Malaxer la viande avec les oignons, le persil, l'ail, le cumin, du sel et du poivre.
+    Façonner environ 10 à 12 boulettes et faire dorer pendant 15 minutes dans le mélange beurre-huile en les retournant souvent.
+    Servir chaud, accompagné de semoule pour couscous ou de riz blanc.
+  ]]>
+  </preparation>
+</recette>

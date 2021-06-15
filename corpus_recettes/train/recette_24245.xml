@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24245">
+  <titre>Gâteau femme pressée</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de farine</p>
+    <p>200 g de sucre</p>
+    <p>1/2 paquet de levure</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>3 oeufs entiers ou 4 petits</p>
+    <p>2 cuillères à soupe de rhum</p>
+    <p>1 boîte de fruits au sirop</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four 10 min à 210°C (thermostat 7). 
+    Mélanger les ingrédients dans l'ordre. 
+    Verser le mélange dans un moule à manquer beurré ou huilé. 
+    Ajouter les fruits égouttés et garder le sirop. 
+    Cuire à pendant 15 min puis 15 à 20 min à 240°C (thermostat 8).. 
+    Surveiller en fin de cuisson et couvrir de papier alu si nécessaire. 
+    Une fois cuit, démouler et arroser avec le sirop des fruits.
+    Les fruits peuvent être remplacés par du chocolat, des fruits de saison, etc...
+  ]]>
+  </preparation>
+</recette>

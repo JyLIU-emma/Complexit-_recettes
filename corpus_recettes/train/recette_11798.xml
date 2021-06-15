@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11798">
+  <titre>Orange à la fleur d'oranger</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 oranges</p>
+    <p>2 cuillères à soupe de sucre</p>
+    <p>eau de fleur d'oranger</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper en fine tranches des oranges dans une assiette.Mélanger dans un bol un peu d'eau de fleur d'oranger et de sucre.
+    Verser le mélange sur les oranges.
+    Servir bien frais.Ce petit dessert très simple se déguste en été pour sa fraîcheur.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23353">
+  <titre>FILET DE PERCHE AUX AGRUMES</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 citron</p>
+    <p>1 orange</p>
+    <p>1 pamplemousse</p>
+    <p>4 morceaux de sucre</p>
+    <p>1 filet de perche environ 400 g</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les agrumes et émincer les écorces. Mettre à cuire le tout (écorces et chairs) avec un peu d'eau et de sucre dans une casserole environ 40 mn à feu doux. 
+    Faire des escalopes dans le filet de perche, assaisonner les. 
+    Mettre les morceaux dans un plat de four et verser la préparation des agrumes dessus. Laisser cuire environ 20 mn.
+  ]]>
+  </preparation>
+</recette>

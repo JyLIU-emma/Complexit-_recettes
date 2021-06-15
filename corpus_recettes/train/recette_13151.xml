@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13151">
+  <titre>Tarte Bounty (choco-coco)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte sablée ou brisée.</p>
+    <p>150 g de noix de coco en poudre</p>
+    <p>150 g de beurre</p>
+    <p>150 g de sucre semoule</p>
+    <p>3 oeufs</p>
+    <p>20 cl de crème fraîche liquide (une briquette)</p>
+    <p>150 g de chocolat noir extra</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Foncer un moule à tarte avec la pâte. La couvrir d'un papier d'alu et de haricots. Mettre à cuire 'à blanc' 10 mn.
+    Mélanger la noix de coco, le sucre et le beurre mou, ainsi que les oeufs. Verser ce mélange sur la pâte. Remettre au four 30 mn.
+    Faire fondre le chocolat et la crème, verser sur la tarte. Refroidir avant de déguster.
+  ]]>
+  </preparation>
+</recette>

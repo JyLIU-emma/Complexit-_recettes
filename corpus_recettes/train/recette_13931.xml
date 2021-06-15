@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13931">
+  <titre>Mousse de brocoli au basilic</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 gros brocoli</p>
+    <p>1/2 botte de basilic frais</p>
+    <p>1 cuillère à soupe de crème épaisse</p>
+    <p>1 blanc d'oeuf</p>
+    <p>sel, poivre</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et cuire le brocoli à l'anglaise.
+    Ciseler les feuilles de basilic.
+    Mixer le brocoli et ajouter la crème, l'huile d'olive, le blanc d'oeuf, le sel et le poivre. Ajouter le basilic.
+    Mettre la préparation dans 4 petits ramequins et mettre au four à 200°C pendant 10 mn.Démouler et dresser.Le basilic est le secret de cette petite merveille.
+  ]]>
+  </preparation>
+</recette>

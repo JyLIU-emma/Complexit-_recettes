@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21824">
+  <titre>En-cas d'aubergine</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 belles aubergines</p>
+    <p>2 gousses d'ail</p>
+    <p>10 tomates séchées</p>
+    <p>6 anchois au sel</p>
+    <p>1 oignon moyen</p>
+    <p>10 belles feuilles de basilic</p>
+    <p>sel, poivre, piment (type Espelette) </p>
+    <p>huile d'olive</p>
+    <p>30 g de parmesan</p>
+    <p>1 cuillère à café de câpres</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les aubergines et en débiter 2 en petits cubes d'1 cm. Couper la troisième en tranche d'environ 1 cm d'épaisseur. 
+    Emincer l'oignon, presser l'ail et les faire revenir dans l'huile d'olive, ajouter les dés d'aubergine et couvrez à feu doux pour faire fondre l'ensemble en remuant de temps en temps (environ 15 mn). 
+    Pendant ce temps, badigeonner d'huille les rondelles de l'aubergine restante et les faire griller rapidement dans un poêle très chaude. 
+    Une fois que les dés d'aubergine sont bien moelleux, ajouter 5 feuilles de basilic, 5 tomates séchées émincées, le parmesan, les anchois et passer le tout au mixer pour obtenir une pâte onctueuse. 
+    Au moment de servir, incorporer à cette purée les rondelles d'aubergine grillées, le reste des tomates séchées et du basilic émincés, ainsi qu'une cuillère à café de câpres. 
+    Servir frais en entrée.
+    Délicieux aussi en apéritif avec quelques tranches de pain de campagne grillé.
+  ]]>
+  </preparation>
+</recette>

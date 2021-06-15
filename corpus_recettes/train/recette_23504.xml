@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23504">
+  <titre>Gratin de pâtes au jambon, olives et champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de pâtes de petite taille (coquillettes, macaronis...)</p>
+    <p>200 g jambon blanc</p>
+    <p>150 g de champignons de Paris</p>
+    <p>100 g d'olives vertes</p>
+    <p>50 cl de coulis de tomates</p>
+    <p>150 g de gruyère râpé</p>
+    <p>80 g de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ebouillantez les olives 5 mn à l'eau bouillante.
+    Grattez et émincez les champignons.
+    Faites-les revenir à la poêle avec 30 g de beurre pendant 10 min environ, salez, poivrez et remuez de temps en temps.
+    Faites chauffer le coulis de tomates dans une casserole.
+    Ajoutez le jambon coupé en dés puis 100 g de gruyère.
+    Rajoutez les champignons, mélangez.
+    Faites cuire les pâtes à l'eau bouillante salée en les gardant "al dente".
+    Egouttez-les et mettez-les dans un plat à gratin.
+    Mélangez-les avec le reste du beurre et versez la sauce dessus.
+    Saupoudrez le reste de fromage et faites gratiner au four à 180°C (thermostat 6) environ 20 min.
+  ]]>
+  </preparation>
+</recette>

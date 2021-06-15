@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="105701">
+  <titre>Velouté rose aux vieux légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 carottes </p>
+    <p>2 rutabaga</p>
+    <p>3 betteraves crues</p>
+    <p>12 petites pommes de terre</p>
+    <p>1 patate douce</p>
+    <p>3 panais</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et laver tout les légumes. Les cuire au cuit vapeur (ou dans de l'eau). Une fois bien cuits sortir les légumes et les passer aux mixer, ajouter un bouillon et de l'eau (ou l'eau de cuisson pour ceux qui ont cuit à l'eau).
+    Faire mijoter un tout petit peu.
+    la soupe est devenue rouge avec la bettrave.
+    ajouter un peu de lait ou de a crème pour les gourmands!!!
+    Cette soupe fut une expérimentation ! Mais depuis elle fait partie de mes recettes fétiches !!!Elle est douce comme l'automne. Un Klevener!
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Peler</OPER> et <OPER id="o_2">laver</OPER> tout les légumes. Les <OPER id="o_3">cuire</OPER> au cuit vapeur ( ou dans de l'eau ). Une fois bien cuits <OPER id="o_4">sortir</OPER> les légumes et les <OPER id="o_5">passer</OPER> aux mixer, <OPER id="o_6">ajouter</OPER> un bouillon et de l'eau ( ou l'eau de cuisson pour ceux qui ont cuit à l'eau ). Faire <OPER id="o_7">mijoter</OPER> un tout petit peu. la soupe est devenue rouge avec la bettrave. <OPER id="o_8">ajouter</OPER> un peu de lait ou de a <INGRED id="6">crème</INGRED> pour les gourmands ! ! ! Cette soupe fut une expérimentation ! Mais depuis elle fait partie de mes recettes fétiches ! ! ! Elle est douce comme l'automne. Un Klevener !
+  </annotation>
+  <annotation methode="crf">
+  Peler et laver tout les <INGRED>légumes</INGRED> <INGRED>.</INGRED> Les cuire au cuit vapeur ( <INGRED>ou</INGRED> dans de l'<INGRED>eau</INGRED> ). Une fois bien cuits sortir les <INGRED>légumes</INGRED> et les passer aux mixer <INGRED>,</INGRED> ajouter un <INGRED>bouillon</INGRED> et de l'<INGRED>eau</INGRED> ( <INGRED>ou</INGRED> l'<INGRED>eau</INGRED> de cuisson pour ceux qui ont cuit à l'<INGRED>eau</INGRED> ). Faire mijoter un tout <INGRED>petit</INGRED> peu. la soupe est devenue rouge avec la bettrave. ajouter un peu de <INGRED>lait</INGRED> <INGRED>ou</INGRED> de <INGRED>a</INGRED> <INGRED>crème</INGRED> pour les gourmands ! ! ! Cette soupe fut une expérimentation ! Mais depuis elle fait partie de mes recettes fétiches ! ! ! Elle est douce comme l'automne. Un Klevener !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 8.0*X</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 26*X + 2</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['carottes']	 id:1	 quantité:5	 unité:non_precis	 denombrable:True	 recipient:5*X
+ingredient:['rutabaga']	 id:2	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['betteraves crues', 'betteraves']	 id:3	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['pommes de terre', 'pommes']	 id:4	 quantité:12	 unité:non_precis	 denombrable:True	 recipient:12*X
+ingredient:['patate douce', 'patate']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['panais']	 id:6	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:peler	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:laver	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:cuire	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:sortir	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:passer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25176">
+  <titre>Gâteau aux pommes (Le Roi Des Reinettes)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de pommes</p>
+    <p>150 g de crème fraîche</p>
+    <p>120 g de sucre</p>
+    <p>100 g de farine</p>
+    <p>1/2 sachet de levure chimique</p>
+    <p>2 oeufs</p>
+    <p>3 cuillères à soupe de rhum ou calvados</p>
+    <p>une noix de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez les pommes, râpez-les, mettez-les dans un saladier, poudrez-les de la moitié du sucre et arrosez-les de rhum ou calvados. 
+    Allumez le four Th 6. 
+    Cassez les oeufs dans une terrine, battez-les en omelette, versez y le reste du sucre et la farine, mélangez. 
+    Ajoutez la levure et la crème. Incorporez à la préparation les pommes. 
+    Beurrez un moule et versez la préparation. Laissez cuire 50 mn. A la sortie du four saupoudrez le gâteau de sucre vanillé.
+    Ce gâteau est idéal pour les goûters d'enfants, évidemment sans le rhum, car il a la consistance d'un flan. muscat
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11209">
+  <titre>Pommes de terres berrichonnes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>20 pommes de terre</p>
+    <p>20 fines tranches de lard</p>
+    <p>100 g de beurre</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les pommes de terre épluchées dans l'eau froide.
+    Faire bouillir et égoutter.
+    Faire dorer avec du beurre et du sel pendant 20 min, puis rouler chaque pomme de terre dans une tranche de lard fine avant de passer sous le gril du four durant 10 min.
+    Servir avec une salade (frisée, de préférence)
+    Ne prévoir que 3 ou 4 pommes de terre par personne. Sancerre rouge ou Bourgogne
+  ]]>
+  </preparation>
+</recette>

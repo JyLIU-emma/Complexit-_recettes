@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16739">
+  <titre>Emincé de volaille aux courgettes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 courgette</p>
+    <p>1 oignon</p>
+    <p>1 boîte de tomates pelées</p>
+    <p>2 escalopes de dinde ou poulet en lamelles</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper oignon, courgettes et tomates en dés.
+    Faites blondir les oignons dans de l'huile d'olive, puis ajouter les tomates et les courgettes. Couvrez du jus des tomates et ajouter un yaourt ou du fromage blanc, salez et poivrez (les courgettes doivent rester croquantes).Dans une sauteuse à part, faites dorer les lamelles de volaille. Ajoutez-les aux légumes, saupoudrez d'un peu de curry et d'herbes aromatiques selon vos goûts.
+    Servez avec du blé ou du riz.
+  ]]>
+  </preparation>
+</recette>

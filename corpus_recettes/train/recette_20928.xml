@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20928">
+  <titre>Cake saumon et mozzarella</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de saumon fumé</p>
+    <p>1 boule de mozzarella</p>
+    <p>3 oeufs</p>
+    <p>1 filet d'huile d'olive</p>
+    <p>150 g de farine</p>
+    <p>12,5 cl de lait</p>
+    <p>fines herbes</p>
+    <p>ciboulette</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper le saumon et la mozzarella en petits morceaux. Dans un saladier mélanger tous les ingrédients cités et mettre cette préparation dans un moule à cake beurré dans le four préalablement préchauffé Th 7 (210 degrés) pendant 35 à 40 mn (surveiller la cuisson)
+    Vous pouvez le servir en apéritif si vous le découpez en petits carrés, sinon en plat principal avec une salade d'endives en hiver.
+  ]]>
+  </preparation>
+</recette>

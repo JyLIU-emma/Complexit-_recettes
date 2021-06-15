@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21593">
+  <titre>Salade d'oranges du Maroc</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 oranges</p>
+    <p>1/2 sachet de pruneaux</p>
+    <p>eau de fleur d'oranger</p>
+    <p>amandes effilées ou concassées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, couper les pruneaux en 4, verser 2 cuillères à soupe d'eau de fleur d'oranger.
+    Laisser tremper la préparation 10 min.
+    Pendant ce temps, couper les oranges en rondelles et concasser les amandes. Mettre le tout dans le saladier et mélanger délicatement. 
+    Déguster frais ou à température ambiante, selon votre préférence (et la saison)...
+    Cette salade simple et rafraîchissante peut être accompagnée de quelques palets bretons maison.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11562">
+  <titre>Salade brésilienne</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de pommes de terre</p>
+    <p>250 g de crevettes cuites</p>
+    <p>1 tête de fenouil</p>
+    <p>4 cuillères à soupe d'huile d'olive</p>
+    <p>1 citron</p>
+    <p>1 coeur de laitue</p>
+    <p>100 g de cacahuètes pilées</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez les pommes de terre sans les éplucher.
+    Faites-les cuire à la vapeur 10mn à l'autocuiseur ou 20 min dans une marmite à double fond.Décortiquez les crevettes.
+    Epluchez la tête de fenouil, lavez-la, coupez-la en dés. Coupez le citron en deux, épluchez à vif l'une des moitié et faites des cubes.
+    Mettre le fenouil,les crevettes,le citron,et les arroser avec du jus du 1/2citron,salez,poivrez.
+    Laissez macérer ainsi 10 min.
+    Pelez les pommes de terre encore tièdes et les couper en dés,séparez les feuilles de laitues, ajoutez-les au contenue du saladier.Mélangez délicatement, arrosez avec l'huile d'olive et saupoudrez de cacahuètes.
+    Servez aussitôt.
+  ]]>
+  </preparation>
+</recette>

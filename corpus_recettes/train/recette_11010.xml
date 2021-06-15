@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11010">
+  <titre>Cookies aux pépites de chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>80 g de beurre mou</p>
+    <p>125 g de sucre fin </p>
+    <p>2 sachets de sucre vanillé</p>
+    <p>1 oeuf</p>
+    <p>150 g de farine</p>
+    <p>100 g de chocolat</p>
+    <p>1 cuillère à soupe de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettez le beurre mou dans une terrine. Ajoutez les sucres.
+    Ajoutez l'oeuf, puis incorporez la farine, les pépites de chocolat et le lait. Mélangez.A l'aide d'une cuillère à café, déposez les boules de pâte assez espacées sur une plaque ou un plat, puis mettez au four pendant 10 à 15 min à thermostat 6 (180°C).Dégustez tiède ou froid.
+  ]]>
+  </preparation>
+</recette>

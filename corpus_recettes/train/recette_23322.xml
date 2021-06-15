@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23322">
+  <titre>Sole maranello</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 filets de sole</p>
+    <p>1 tomate</p>
+    <p>1 oignon moyen</p>
+    <p>1 dl de vin blanc</p>
+    <p>1 pointe de cuillère à café de piment</p>
+    <p>1 gousse d'ail</p>
+    <p>1 cuillère à café de persil haché</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emondez la tomate, épépinez-la et coupez-la en petits dés. 
+    Coupez l'oignon finement. 
+    Dans une poêle versez l'huile d'olive, les filets de sole en les frottant des 2 côtés d'huile, les piments, l'ail coupé en 4 , le persil et l'oignon. 
+    Sur feu moyen faire revenir les filets de sole 2 mn de chaque côté. 
+    Puis inséreer le vin blanc. 
+    Lorsque le vin est réduit à 1/3 , servez dans une assiette préchauffée.
+    Ce plat peut être accompagné d'une purée ordinaire améliorée d'un fromage de baufort rapé ou une p.d.t macaire. celui de la préparation
+  ]]>
+  </preparation>
+</recette>

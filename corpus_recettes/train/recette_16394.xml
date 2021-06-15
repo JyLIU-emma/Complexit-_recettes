@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16394">
+  <titre>Tarte aux amandes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée ronde toute étalée (de préférence pur beurre)</p>
+    <p>2 oeufs</p>
+    <p>125 g de sucre semoule (avec de la cassonade, c'est meilleur)</p>
+    <p>125 g d'amandes effilées</p>
+    <p>1 petite brique de crème liquide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Disposer la pâte feuilletéé au fond d'un plat à tarte.
+    Dans une terrine, mélanger les oeufs entiers, le sucre, les amandes effilées et la brique de crème liquide. Bien mélanger.
+    Verser cette préparation sur la pâte feuilletée.
+    Faire cuire à 200°C, dans un four préalablement préchauffé.
+    Sortir du four dès que la tarte se colore (attention, c'est vite cuit!).
+  ]]>
+  </preparation>
+</recette>

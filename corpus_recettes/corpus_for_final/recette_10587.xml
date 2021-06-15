@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10587">
+  <titre>Pudding chômeur</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour le sirop :</p>
+    <p>400 g de cassonade</p>
+    <p>24 cl d'eau bouillante</p>
+    <p>2 cuillères à soupe de beurre</p>
+    <p>Pour la pâte :</p>
+    <p>100 g de farine</p>
+    <p>1/2 cuillère à thé de sel</p>
+    <p>100 g de sucre</p>
+    <p>1 oeuf</p>
+    <p>8 cl de lait</p>
+    <p>1.5 cuillères à thé de levure chimique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour obtenir le sirop, faire bouillir les ingrédients 2 minutes à feu moyen.
+    Bien mélanger la pâte et la verser par cuillerée sur le sirop bouillant.
+    Cuire à 180°C (350°F) de 25 à 30 minutes.
+  ]]>
+  </preparation>
+</recette>

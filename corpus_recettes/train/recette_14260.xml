@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14260">
+  <titre>Roulade de saumon fumé à l'avocat</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 tranches de saumon fumé</p>
+    <p>2 avocats mûrs</p>
+    <p>1 jus citron</p>
+    <p>sel, poivre </p>
+    <p>piment</p>
+    <p>2 tomates en petits dés</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixer la chair des avocats avec le jus de citron. Assaisonner avec sel, poivre et piment pour que ce soit très relevé.Mélanger la moitié des dés de tomates. Farcir les tranches de saumon avec la préparation. Décorer avec les dés de tomate restants.
+    Servir très frais. vin blanc sec
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13606">
+  <titre>Aubergines citron et coriandre</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 grandes aubergines</p>
+    <p>4 gousses d'ail (avec la peau)</p>
+    <p>une poignée de coriandre fraîche</p>
+    <p>2 citrons</p>
+    <p>huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C.
+    Couper les aubergines en long et en large. 
+    Entailler chaque morceau en diagonales pour former des losanges. Mettre dans un plat avec l'ail, huile d'olive, sel, poivre. 
+    Faire cuire au four 40 min.
+    Ajouter les citrons coupés en quartiers, remettre au four 5 min. 
+    Servir chaud ou froid, parsemé de feuilles de coriandre.
+  ]]>
+  </preparation>
+</recette>

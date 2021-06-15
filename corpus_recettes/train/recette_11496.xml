@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11496">
+  <titre>Délice Poires-Chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 œufs</p>
+    <p>3 poires</p>
+    <p>80 g de farine</p>
+    <p>40 g de maïzena</p>
+    <p>30 g de cacao non sucré</p>
+    <p>100 g de sucre</p>
+    <p>40 cl de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Beurrer un plat à gratin, peler et couper les poires en tranches fines, puis les y déposer.Mêler la farine, la maïzena et le sucre. Faire un puit et y ajouter les oeufs puis le lait petit à petit, puis le chocolat. Verser le mélange sur les poires.
+    Mettre au four à 270°C pendant 30 min.Déguster froid ou tiède.
+  ]]>
+  </preparation>
+</recette>

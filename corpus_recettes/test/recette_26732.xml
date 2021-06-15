@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26732">
+  <titre>Gambas au poivre noir</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de gambas</p>
+    <p>sauce soja</p>
+    <p>2 citrons jaunes</p>
+    <p>poivre noir du moulin</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle, faites chauffer de l'huile d'olive, y mettre les gambas (que vous pouvez décortiquer au préalable mais le temps de cuisson sera moins important). 
+    Verser de la sauce soja, ainsi que le jus des citrons, saler légèrement, poivrer au moulin et servir sans trop attendre.
+    Ce plat excellent, se sert avec du riz 3 saveurs.
+  ]]>
+  </preparation>
+</recette>

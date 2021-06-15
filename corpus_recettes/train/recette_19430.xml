@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19430">
+  <titre>Carré d'agneau aux fèves</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>2 carrés d'agneau de 6 côtes premières prétranchées</p>
+    <p>1 kg de fèves fraîches</p>
+    <p>2 brins de sarriette</p>
+    <p>1 cuillère à café de sucre en poudre</p>
+    <p>1 dl de bouillon de volaille</p>
+    <p>80 g de beurre</p>
+    <p>huile</p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer le four thermostat 9 (270°C). 
+    Ecossez les fèves, retirez leur première peau. 
+    Mettez les dans une cocotte avec 30 g de beurre, du sel du poivre, les 2 brins de sarriette et 1,5 dl d'eau. 
+    Amenez à ébullition. Baissez le feu et laissez cuire 30 mn à couvert. 
+    Salez, poivrez, et huilez la viande. 
+    Enfournez et laissez cuire 25 mn en arrosant en fin de cuisson du jus rendu. 
+    Dès que les fèves sont cuites, retirez la sarriette et passez au mixer. Détendez cette purée avec le bouillon nécessaire et ajoutez le reste de beurre. 
+    Rangez les carrés dans un plat de service bien chaud et servez avec la purée.
+  ]]>
+  </preparation>
+</recette>

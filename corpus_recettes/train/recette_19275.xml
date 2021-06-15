@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19275">
+  <titre>Chevreuil à la crème d'ail</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de filet de chevreuil</p>
+    <p>9 gousses d'ail</p>
+    <p>2 échalotes</p>
+    <p>10 cl de vin rouge</p>
+    <p>10 cl de fond de veau reconstitué</p>
+    <p>50 g de beurre</p>
+    <p>10 cl de crème fraîche épaisse</p>
+    <p>huile</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler 8 gousses d'ail, les verser dans l'eau froide, et amener à frémissements 10 mn. 
+    Egoutter, répéter l'opération 2 fois. Les mixer, couvrir, réserver au frais. 
+    Trancher le filet en 4 pièces, saler, poivrer. Les saisir 4 à 5 mn par face, dans un filet d'huile. 
+    Réserver au chaud entre 2 assiettes. 
+    A la place, faire revenir 5 mn les échalotes et la gousse d'ail restante, finement hachée. Verser le vin, réduire de moitié, ajouter le fond de veau, mélanger et porter à ébullition. 
+    Hors du feu, en fouettant, incorporer le beurre froid en morceaux. Réchauffer à feu doux la purée d'ail, assaisonner, ajouter la crème. 
+    Servir aussitôt sur un fond de sauce, et entourer de crème d'ail.
+    Accompagnez ce plat de pommes paille ou paillassons.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13001">
+  <titre>Porc aux pousses de bambou et champignons noirs</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de filet de porc</p>
+    <p>8 champignons noirs</p>
+    <p>1 boîte de pousses de bambou</p>
+    <p>2 cuillères à soupe de maïzena</p>
+    <p>1/2 flacon de sauce soja</p>
+    <p>2 cuillères à soupe d’huile</p>
+    <p>2 cuillère à soupe de Xérès (ou vin blanc)</p>
+    <p>1/4 de litre de bouillon de volaille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire tremper les champignons dans de l’eau tiède pendant 20 minutes.
+    Couper la  viande en lamelles très fines. Mélanger la maïzena avec la sauce soja. Ajouter le porc et mélanger. Émincer les pousses de bambou en lamelles.
+    Egoutter les champignons noirs et les couper en morceaux.
+    Faire revenir la viande 5 minutes sans cesser de remuer, lorsqu’elle est blonde, égoutter-la.
+    Ajouter les champignons, les pousses de bambou, le sel, un peu de bouillon et le xérès. Laisser mijoter 5 minutes. Y remettre le porc et rajouter encore un peu de bouillon pour obtenir un sauce et laisser cuire 1/4 d'heure.
+    Servir bien chaud avec du riz cantonnais.
+  ]]>
+  </preparation>
+</recette>

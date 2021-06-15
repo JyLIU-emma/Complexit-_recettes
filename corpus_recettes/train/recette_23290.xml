@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23290">
+  <titre>Salade de lentilles et fruits de mer</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de lentilles vertes</p>
+    <p>100 g de crevettes décortiquées</p>
+    <p>375 g de moules</p>
+    <p>10 cl d'huile</p>
+    <p>10 cl de vinaigre</p>
+    <p>10 g de moutarde</p>
+    <p>1 oignon</p>
+    <p>1 carotte</p>
+    <p>1 bouquet garni</p>
+    <p>sel fin, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couvrez les lentilles d'eau froide, ajoutez l'oignon coupé en deux, la carotte et le bouquet garni. Amenez  ébullition et laissez cuire le temps indiqué sur le paquet, entre 20 et 40 minutes. Egouttez et laissez refroidir.
+    Déposez les moules dans une sautueuse sur feu très vif, couvrez et laissez-les s'ouvrir. Egouttez-les et décoquillez-les.
+    Emulsionnez l'huile avec le vinaigre, la moutarde, du sel et du poivre. Arrosez les lentilles de vinaigrette puis ajoutez les fruits de mer. Servez frais.
+  ]]>
+  </preparation>
+</recette>

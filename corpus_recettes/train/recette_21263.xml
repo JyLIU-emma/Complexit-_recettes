@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21263">
+  <titre>Morue aux haricots, à la tomate et à l'ail</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de filets de morue</p>
+    <p>300 g de haricots secs</p>
+    <p>1 oignon piqué d'1 clou de girofle</p>
+    <p>3 gousses d’ail</p>
+    <p>1 carotte</p>
+    <p>1 bouquet garni</p>
+    <p>2 tomates</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille, mettre la morue à dessaler dans l’eau froide.
+    Le lendemain, la rincer, l’égoutter et la réserver.
+    Plonger les haricots secs dans l’eau froide salée, porter le tout à ébullition puis laisser cuire 15 minutes.
+    Les égoutter, puis les remettre dans la casserole en les couvrant d’eau bouillante. Ajouter l'oignon, l'ail, la carotte et le bouquet garni. Couvrir.
+    Laisser cuire 2 heures en salant à mi-cuisson.
+    Placer la morue dans une casserole, la couvrir d’eau froide, puis laisser cuire 10 min après ébullition.
+    Une fois la cuisson terminée, égoutter la morue, l’effeuiller, puis la déposer dans un plat allant au four.
+    Préchauffer votre four à 180°C (thermostat 6).
+    Egoutter les haricots, puis les mélanger à la morue.
+    Y ajouter les tomates en quartiers et l'ail haché.
+    Mouiller avec quelques cuillères à soupe de jus de cuisson des haricots, puis enfourner à four chaud et laisser cuire 20 à  30 minutes.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73271">
+  <titre>Poulpe et pommes de terre à la Nadinette</titre>
+  <type>Plat principal</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>un beau poulpe (déjà attendri et préparé par le poissonnier) d'environ 2 kg</p>
+    <p>pommes de terre qui tiennent bien la cuisson, cuites à la vapeur avec la peau. Selon les appétits, de 1 à 2 kg (pour moi 1 kg).</p>
+    <p>3 à 4 cuillères à soupe de câpres</p>
+    <p>3 gousses d'ail</p>
+    <p>1 oignon entier</p>
+    <p>le jus d'un beau citron</p>
+    <p>6 à 8 cuillères à soupe d'huile d'olive extra-vierge</p>
+    <p>un petit bouquet de persil </p>
+    <p>un petit bouquet de ciboulette</p>
+    <p>bouquet garni</p>
+    <p>2 feuilles de laurier </p>
+    <p>une poignée de gros sel et poivre en grains pour la cuisson</p>
+    <p>sel et poivre du moulin </p>
+    <p>tomates cerises et quartiers de citron pour la décoration</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire le poulpe le jour avant dans une grande marmite avec eau froide, bouquet garni, laurier, ail entier, un oignon entier et une dizaine de grains de poivre. 
+    Ne salez que 10 min avant la fin de la cuisson.
+    La cuisson peut varier de 30 min à 1 h  environ, selon la taille de la "bête" (demandez à votre poissonnier quand vous l'achetez, il saura vous dire combien de temps il doit cuire).
+    Laissez-le refroidir dans son court-bouillon (s'il fait très chaud, je me sers d'un ventilateur pointé sur la marmite pour le refroidir plus vite).
+    Lorsque c'est froid, découpez le poulpe en morceaux après avoir enlevé la fine peau noirâtre à l'aide de sopalin.
+    Pour cela, découpez un tentacule à la fois, grattez avec du sopalin pour enlever la pellicule et coupez-le en rondelles.
+    Coupez ensuite la tète après avoir enlevé les parties cartilagineuses ou dures.
+    Mettez les morceaux dans un saladier avec jus de citron, 2 gousses d'ail entier (à enlever avant de déguster), sel, poivre, huile, persil et ciboulette ciselés. Couvrez de film étirable et gardez au frigo.
+    Après au moins une douzaine d'heures au frigo, ajoutez les câpres égouttés et les pommes de terre épluchées, tout juste tièdes ou froides, coupées en morceaux.
+    Goûtez et rajoutez au besoin sel, poivre, huile...  encore 1 ou 2 h d'attente au frigo et c'est prêt!
+    Décorez avec des tomates cerises et des quartiers de citron et servez frais, mais pas trop froid.
+    Ce plat se prépare au moins le jour précédent et se conserve plusieurs jours au frais.
+    Si vous n'avez jamais cuisiné de poulpe, demandez conseil à votre poissonnier car la première fois ce n'est pas évident.
+    Enfin si votre poulpe est très gros et risque d'être dur, rajouter un bouchon de liège dans l'eau de cuisson pour l'attendrir.
+    Attention le poulpe ne doit pas être trop cuit, mais "al dente", sinon la texture devient gélatineuse et désagréable en bouche. un vin blanc des collines romaines, servi bien frais
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faites <OPER id="o_1">cuire</OPER> le poulpe le jour avant dans une grande marmite avec <INGRED id="5">eau froide</INGRED>, <INGRED id="9">bouquet garni</INGRED>, <INGRED id="6">laurier</INGRED>, <INGRED id="14">ail</INGRED> entier, un <INGRED id="6">oignon entier</INGRED> et une dizaine de <INGRED id="5">grains de poivre</INGRED>. Ne salez que 10 min avant la fin de la cuisson. La cuisson peut <OPER id="o_2">varier</OPER> de 30 min à 1 h <INGRED id="1">environ</INGRED>, selon la taille de la " bête " ( <OPER id="o_3">demandez</OPER> à votre poissonnier quand vous l'achetez, il saura vous dire combien de temps il doit <OPER id="o_4">cuire</OPER> ). Laissez - le <OPER id="o_5">refroidir</OPER> dans son court-bouillon ( s'il fait très chaud, je me sers d'un ventilateur pointé sur la marmite pour le refroidir plus vite ). Lorsque c'est froid, <OPER id="o_6">découpez</OPER> le poulpe en <INGRED id="1">morceaux</INGRED> après <OPER id="o_7">avoir</OPER> enlevé la fine <INGRED id="2">peau</INGRED> noirâtre à l'aide de sopalin. Pour cela, <OPER id="o_8">découpez</OPER> un tentacule à la fois, grattez avec du sopalin pour enlever la pellicule et coupez - le en rondelles. <OPER id="o_9">Coupez</OPER> ensuite la tète après <OPER id="o_10">avoir</OPER> enlevé les parties cartilagineuses ou dures. <OPER id="o_11">Mettez</OPER> les <INGRED id="1">morceaux</INGRED> dans un <INGRED id="1">saladier</INGRED> avec <INGRED id="9">jus de citron</INGRED>, 2 <INGRED id="3">gousses</INGRED> d'<INGRED id="8">ail</INGRED> entier ( à <OPER id="o_12">enlever</OPER> avant de déguster ), <INGRED id="7">sel, poivre</INGRED>, <INGRED id="3">huile</INGRED>, <INGRED id="9">persil</INGRED> et <INGRED id="9">ciboulette</INGRED> ciselés. <OPER id="o_13">Couvrez</OPER> de film étirable et gardez au frigo. Après au moins une douzaine d'heures au frigo, <OPER id="o_14">ajoutez</OPER> les <INGRED id="2">câpres</INGRED> égouttés et les <INGRED id="4">pommes de terre</INGRED> épluchées, tout juste tièdes ou froides, <INGRED id="5">coupées en morceaux</INGRED>. <OPER id="o_15">Goûtez</OPER> et rajoutez au besoin <INGRED id="7">sel, poivre</INGRED>, <INGRED id="9">huile</INGRED>... encore 1 ou 2 h d'attente au frigo et c'est prêt ! <OPER id="o_16">Décorez</OPER> avec des <INGRED id="17">tomates cerises</INGRED> et des <INGRED id="18">quartiers de citron</INGRED> et servez frais, mais pas trop froid. Ce <INGRED id="9">plat</INGRED> se prépare au moins le jour précédent et se conserve plusieurs jours au frais. Si vous n'avez jamais cuisiné de poulpe, <OPER id="o_17">demandez</OPER> conseil à votre poissonnier car la première fois ce n'est pas évident. Enfin si votre poulpe est très gros et risque d'être dur, <OPER id="o_18">rajouter</OPER> un <INGRED id="4">bouchon</INGRED> de liège dans l'<INGRED id="10">eau</INGRED> de cuisson pour l'attendrir. Attention le poulpe ne doit pas être trop cuit, mais " al dente ", sinon la texture devient gélatineuse et désagréable en bouche. un <INGRED id="17">vin blanc</INGRED> des collines romaines, servi bien frais
+  </annotation>
+  <annotation methode="crf">
+  Faites cuire le poulpe le jour avant dans une grande marmite avec <INGRED>eau</INGRED> froide <INGRED>,</INGRED> <INGRED>bouquet garni</INGRED> <INGRED>,</INGRED> <INGRED>laurier</INGRED> <INGRED>,</INGRED> ail entier <INGRED>,</INGRED> un <INGRED>oignon entier</INGRED> et une dizaine de <INGRED>grains</INGRED> de <INGRED>poivre</INGRED>. Ne salez que 10 min avant la fin de la cuisson. La cuisson peut varier de 30 min à 1 <INGRED>h</INGRED> <INGRED>environ</INGRED> <INGRED>,</INGRED> selon la taille de la " bête " ( demandez à votre poissonnier quand vous l'achetez <INGRED>,</INGRED> il saura vous dire combien de temps il doit cuire ). Laissez - le refroidir dans son court-bouillon ( s'il fait très chaud <INGRED>,</INGRED> je me sers d'un ventilateur pointé sur la marmite pour le refroidir plus vite ). Lorsque c'est froid <INGRED>,</INGRED> découpez le poulpe en <INGRED>morceaux</INGRED> après avoir enlevé la fine peau noirâtre à l'aide de <INGRED>sopalin</INGRED> <INGRED>.</INGRED> Pour cela <INGRED>,</INGRED> découpez un tentacule à la fois <INGRED>,</INGRED> grattez avec du sopalin pour enlever la pellicule et coupez - le en rondelles. Coupez ensuite la tète après avoir enlevé les parties cartilagineuses <INGRED>ou</INGRED> dures <INGRED>.</INGRED> Mettez les <INGRED>morceaux</INGRED> dans un saladier avec <INGRED>jus de citron</INGRED> <INGRED>,</INGRED> 2 gousses d'<INGRED>ail</INGRED> entier ( à enlever avant de déguster ) <INGRED>,</INGRED> <INGRED>sel</INGRED> <INGRED>,</INGRED> <INGRED>poivre</INGRED> <INGRED>,</INGRED> <INGRED>huile</INGRED> <INGRED>,</INGRED> <INGRED>persil</INGRED> et <INGRED>ciboulette</INGRED> ciselés. Couvrez de film étirable et gardez au frigo <INGRED>.</INGRED> Après au moins une douzaine d'heures au frigo <INGRED>,</INGRED> ajoutez les <INGRED>câpres</INGRED> égouttés et les <INGRED>pommes de terre</INGRED> épluchées <INGRED>,</INGRED> tout juste tièdes <INGRED>ou</INGRED> froides <INGRED>,</INGRED> <INGRED>coupées</INGRED> en <INGRED>morceaux</INGRED> <INGRED>.</INGRED> Goûtez et rajoutez au besoin <INGRED>sel</INGRED> <INGRED>,</INGRED> <INGRED>poivre</INGRED> <INGRED>,</INGRED> <INGRED>huile</INGRED>... encore 1 <INGRED>ou</INGRED> 2 <INGRED>h</INGRED> d'attente au frigo et c'est prêt ! Décorez avec des <INGRED>tomates cerises</INGRED> et des quartiers de <INGRED>citron</INGRED> et servez <INGRED>frais</INGRED> <INGRED>,</INGRED> mais pas trop froid <INGRED>.</INGRED> Ce plat se prépare au moins le jour précédent et se conserve plusieurs jours au <INGRED>frais</INGRED> <INGRED>.</INGRED> Si vous n'avez jamais cuisiné de poulpe <INGRED>,</INGRED> demandez conseil à votre poissonnier car la première fois ce n'est pas évident. Enfin si votre poulpe est très <INGRED>gros</INGRED> et risque d'être dur <INGRED>,</INGRED> rajouter un bouchon de liège dans l'<INGRED>eau</INGRED> de cuisson pour l'attendrir <INGRED>.</INGRED> Attention le poulpe ne doit pas être trop cuit <INGRED>,</INGRED> mais " al dente " <INGRED>,</INGRED> sinon la texture devient gélatineuse et désagréable en bouche. un <INGRED>vin blanc</INGRED> des <INGRED>collines</INGRED> romaines <INGRED>,</INGRED> servi bien <INGRED>frais</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 11.7241379310345*X + 8.27586206896552</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 17*X + 18</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['kg']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['pommes de terre qui tiennent bien la cuisson', 'pommes']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['cuites à la vapeur avec la peau . Selon les appétits', 'cuites']	 id:3	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['câpres']	 id:4	 quantité:3	 unité:cuillères à soupe de	 denombrable:True	 recipient:3*X
+ingredient:['ail']	 id:5	 quantité:3	 unité:gousses d'	 denombrable:True	 recipient:3*X
+ingredient:['oignon entier', 'oignon']	 id:6	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:["jus d'un beau citron", 'jus']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["huile d'olive extra-vierge", 'huile']	 id:8	 quantité:6	 unité:cuillères à soupe d'	 denombrable:True	 recipient:6*X
+ingredient:['bouquet de persil', 'bouquet']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['bouquet de ciboulette', 'bouquet']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['bouquet garni', 'bouquet']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['laurier']	 id:12	 quantité:2	 unité:feuilles de	 denombrable:True	 recipient:2*X
+ingredient:['poignée de gros sel', 'poignée']	 id:13	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre en grains', 'poivre']	 id:14	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:15	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre du moulin', 'poivre']	 id:16	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomates cerises', 'tomates']	 id:17	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['quartiers de citron', 'quartiers']	 id:18	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:cuire	 id:o_1	 ingrédients_ralatifs:['5', '9', '6', '14', '6', '5']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:varier	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:demander	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:refroidir	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:découper	 id:o_6	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:2*X+1	 temps:2*X*1+1*X*1	 recipient:1
+operation:avoir	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:découper	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:couper	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:avoir	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_11	 ingrédients_ralatifs:['1', '1', '9', '3', '8', '7', '3', '9', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:enlever	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_14	 ingrédients_ralatifs:['2', '4', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:goûter	 id:o_15	 ingrédients_ralatifs:['7', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:décorer	 id:o_16	 ingrédients_ralatifs:['17', '18']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:demander	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rajouter	 id:o_18	 ingrédients_ralatifs:['4', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

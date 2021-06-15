@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16499">
+  <titre>Cake aux bananes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 bananes</p>
+    <p>200 g de farine tamisée</p>
+    <p>200 g de sucre en poudre</p>
+    <p>100 g de beurre </p>
+    <p>3 oeufs</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1/2 sachet de levure chimique</p>
+    <p>1 citron non traité</p>
+    <p>un peu de beurre (pour le moule)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Beurrez un moule à cake avec un peu de beurre. 
+    Préchauffez le four à 180°C (thermostat 6).
+    Râpez le zeste de citron, puis pressez-le pour en extraire le jus. 
+    Ecrasez ensuite le beurre avec une fourchettte, puis ajoutez-lui au fur et à mesure, le sucre, le sucre vanillé, le zeste du citron et les oeufs battus en omelette.
+    Pelez les bananes, coupez-les en petites rondelles, et arrosez-les du jus du citron, puis écrasez-les à la fourchette. 
+    Ajoutez la purée ainsi obtenue à la préparation aux oeufs, puis la farine et la levure; vous devez obtenir une pâte bien consistante. 
+    Versez le tout dans le moule, et enfournez pendant 45 min.
+    Pour vérifier la cuisson du gâteau, piquez-le avec un couteau avant de le sortir du four : si la lame ressort bien sèche, c'est que le gâteau est cuit.
+    Laissez-le reposer 5 min dans le four éteint avant de le démouler. Dégustez-le froid.
+    C'est un gâteau consistant, idéal pour les goûters.
+  ]]>
+  </preparation>
+</recette>

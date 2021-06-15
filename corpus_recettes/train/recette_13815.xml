@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13815">
+  <titre>Magrets de canard au foie gras</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>2 gros magrets de canard</p>
+    <p>2 belles tranches de foie gras ou 4 petites</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Poser un magret peau dessous.
+    Couper les tranches de foie gras en deux et les intercaler pour qu'elles se placent au mieux sur la surface du magret.
+    Recouvrir de l'autre magret peau à l'extérieur. Ficeler le tout comme un rôti en veillant à laisser autour le moins de chair exposée possible et en vérifiant que le  foie ne puisse pas sortir.
+    Faire cuire doucement en cocotte comme un rôti normal.
+    Servir tranché, accompagné du jus de cuisson.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23842">
+  <titre>Tarte courgette et au poivron</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 courgettes longues</p>
+    <p>1 petit poivron rouge</p>
+    <p>3 oeufs</p>
+    <p>crème fraîche et lait</p>
+    <p>1 pâte feuilletée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et couper en rondelles les courgettes. Laver et couper en lamelles le poivron.
+    Disposer dans un plat à tarte la pate feuilletée, puis mettre les courgettes crues en cercle sur toute la surface de la tarte. Au dessus, disposer les lamelles de poivron rouge en étoile.
+    Préparer à part une omellette : les 3 oeufs, le leit, la crème fraiche, sel et poivre. Verser cette omelette sur la tarte.
+    Enfourner à thermostat 6 (180°C) pendant 30 mn.
+    Cette entrée peut-etre dégustée froide ou chaude.
+  ]]>
+  </preparation>
+</recette>

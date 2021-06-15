@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16635">
+  <titre>Concombres aux crevettes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 concombre</p>
+    <p>1 citron (1/2 citron pour le jus + 2 rondelles pour la décoration)</p>
+    <p>150 g de crevettes décortiquées</p>
+    <p>2 crevettes (grosses crevettes pour la décoration)</p>
+    <p>235 g de mayonnaise</p>
+    <p>1 cuillère à café de ketchup</p>
+    <p>Sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Coupez les concombres en deux.
+    Creusez légèrement et salez.
+    dans un bol : y mettre la mayonnaise, le jus d'un demi citron, la cuillère à café de ketchup et du poivre. Bien mélanger la préparation et incorporez les 150 g de crevettes décortiquées.
+    Remplissez de cette farce les demi-concombres, garnissez d'une grosse crevette et d'une rondelle de citron.pour ceux qui n'aiment pas les crevettes, il est possible de mettre du thon nature à la place.
+  ]]>
+  </preparation>
+</recette>

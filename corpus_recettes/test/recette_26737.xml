@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26737">
+  <titre>Soufflé aux carottes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de carottes</p>
+    <p>4 oeufs</p>
+    <p>2 cuillères à soupe de farine rase</p>
+    <p>1 cube de bouillon (75 cl)</p>
+    <p>beurre</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les carottes, les plonger dans le bouillon à ébullition et les laisser cuire jusqu'à ce qu’elles soient bien tendres (pendant environ 40 min).
+    Les égoutter et les réduire en purée à l’aide d’un mixeur ou d’un presse-purée.
+    Préchauffer votre four à 230°C (thermostat 7-8).
+    Séparer les jaunes des blancs des oeufs puis battre dans un saladier les jaunes d’oeufs avec un peu de bouillon de cuisson, la farine, le sel et le poivre.
+    Verser ce mélange sur la purée et bien mélanger pour lier le tout.
+    Monter les blancs en neige très ferme et les incorporer délicatement à la purée.
+    Dans moule à soufflé beurré, verser la préparation puis enfourner à four chaud pendant 20 min.
+    Déguster dès la sortie du four.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25515">
+  <titre>Terrine de pommes confites au cidre</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 kg de pommes acides</p>
+    <p>200 g de raisins secs</p>
+    <p>200 g de sucre en poudre</p>
+    <p>100 g de beurre demi-sel</p>
+    <p>50 cl de cidre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez et épépinez les pommes, coupez-les en gros dés ou en tranches fines.
+    Répartissez-les dans une terrine avec un couvercle (ou un moule à cake) en alternant avec des raisins, du sucre et des morceaux de beurre.
+    Remplissez toute la terrine en terminant par le sucre.
+    Versez le cidre, couvrez (d'aluminium si c'est un moule à cake) et laissez cuire 2 h au four à 150°C (thermostat 5).
+    S'il y a trop de liquide, découvrez et laissez encore cuire 20 minutes.
+    Servez cette terrine tiède ou bien froide selon vos goûts et le temps !
+    Accompagnez de pain d'épices et crème anglaise, un régal !Vous pouvez la faire la veille et la servir froide ou la réchauffer doucement.
+  ]]>
+  </preparation>
+</recette>

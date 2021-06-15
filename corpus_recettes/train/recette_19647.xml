@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19647">
+  <titre>Chou rouge mamy</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 demi chou rouge</p>
+    <p>2 pommes à cuire</p>
+    <p>2 tranches de lard fumé</p>
+    <p>pommes de terre</p>
+    <p>2 oignons</p>
+    <p>1 cuillère à soupe de vinaigre</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>1 feuille de laurier</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Émincer le chou rouge, faire rissoler les oignons et les lardons, ajouter les pommes coupées en lamelles, le chou rouge, un peu d'eau et laisser cuire 15 min.
+    Ajouter ensuite les pommes de terres coupées en quatre, le  laurier sel poivre et le vinaigre, laisser cuire 45 min et surveiller.BON APPÉTIT !
+  ]]>
+  </preparation>
+</recette>

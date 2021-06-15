@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19940">
+  <titre>Endives au jambon light</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 endives</p>
+    <p>4 tranches de jambon blanc</p>
+    <p>40 cl de crème fraîche à 8% de matière grasse</p>
+    <p>gruyère râpé</p>
+    <p>muscade en poudre</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les endives à la vapeur. 
+    Disposer les endives sur les tranches de jambon puis les rouler. 
+    Napper de crème fraîche puis de noix de muscade de poivre et enfin de gruyère. 
+    Passer au four (240°C) environ 15 mn.
+    Très peu de calories pour un résultat plus que satisfaisant et beaucoup moins lourd qu'avec une béchamel.
+  ]]>
+  </preparation>
+</recette>

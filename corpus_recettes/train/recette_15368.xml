@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15368">
+  <titre>Uppama (Inde)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de semoule de blé</p>
+    <p>15 noix de cajou</p>
+    <p>1 cuillerée de raisins secs</p>
+    <p>1 oignon</p>
+    <p>2 piments verts</p>
+    <p>1 cuillère à café de moutarde en grains</p>
+    <p>5 cm de gingembre frais</p>
+    <p>curry</p>
+    <p>ghee</p>
+    <p>40 cl d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire brunir à sec la semoule dans une casserole puis réserver.
+    Dans un peu de matière grasse, faire gonfler les raisins secs et dorer les cajous. Réserver.
+    Dans cette matière grasse, chauffer les graines de moutarde jusqu'à éclatement. Ajouter alors piments, gingembre et oignon émincés, ainsi que le curry. Ajouter eau et sel. A ébullition, verser la semoule et faire mijoter 5-10 minutes.
+    Rajouter raisins et cajous.
+    Servir chaud.Certains font cuire des légumes (carottes, petit pois) dans l'eau, avant d'y verser la semoule.
+  ]]>
+  </preparation>
+</recette>

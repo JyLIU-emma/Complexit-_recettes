@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11283">
+  <titre>Gâteau au chocolat de Bouliac</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 oeufs</p>
+    <p>260 g de sucre</p>
+    <p>60 g de farine</p>
+    <p>60 g de fécule</p>
+    <p>340 g de chocolat</p>
+    <p>350 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites fondre le chocolat et 340 g de beurre dans une casserole posée sur feu doux dans un bain-marie chaud (ou 30 secondes dans le micro-ondes). Séparez les blancs des jaunes d'oeufs. Fouettez les jaunes avec le sucre jusqu'à ce que le mélange blanchisse. Ajoutez-leur alors la farine tamisée et la fécule, incorporez à l'aide d'une spatule. Battez les blancs en neige ferme. Versez le chocolat fondu sur les oeufs, remuez pour obtenir un mélange homogène et ajoutez les blancs battus en soulevant la masse avec une fourchette. Beurrez un moule en terre ou en porcelaine à feu, remplissez-le de la préparation et placez-le dans un bain-marie. Faites cuire une bonne heure à four doux, 150°C (thermostat 5). Le gâteau est cuit lorsqu'une lame de couteau plongée au coeur du gâteau ressort sèche.
+  ]]>
+  </preparation>
+</recette>

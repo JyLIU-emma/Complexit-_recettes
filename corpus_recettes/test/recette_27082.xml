@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27082">
+  <titre>Moules poireau et safran</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 kg de moules</p>
+    <p>5 oignons</p>
+    <p>1 branche de céleri</p>
+    <p>75 g de beurre</p>
+    <p>35 cl de vin blanc sec</p>
+    <p>5 blancs de poireaux</p>
+    <p>15 g de beurre</p>
+    <p>15 g de crème fraîche</p>
+    <p>1 dose de safran </p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer les moules sous l’eau froide en frottant bien les coquilles.
+    Peler et émincer finement les oignons et la branche de céleri, puis les mettre à fondre dans une cocotte avec le beurre.
+    Ajouter les moules et le vin blanc. Saupoudrer de safran, de sel et de poivre, couvrir et mettre sur feu vif le temps que les moules s'ouvrent.
+    Pendant ce temps, émincer les blancs de poireaux, puis les faire fondre dans une poêle beurrée.
+    Sortir les moules de la cocotte, leur ôter la coquille.
+    Filtrer le jus de cuisson et lui ajouter les poireaux et la crème. Rectifier l'assaisonnement.
+    Ajouter les moules et les laisser réchauffer avant de servir.
+    Vous pouvez aussi les servir en feuilleté.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12315">
+  <titre>Galettes de pommes de terre</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 grosses pommes de terre</p>
+    <p>2 cuillères à soupe rases de farine </p>
+    <p>1 oeuf</p>
+    <p>2 oignons</p>
+    <p>1 botte de ciboulette </p>
+    <p>huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez et lavez les pommes de terre. Râpez-les très finement avec les oignons. Enlevez l'eau en pressant dans les mains.
+    Mettez-les dans une terrine. Ajoutez sel, poivre, farine, l'oeuf, ainsi que la ciboulette ciselée.
+    Façonnez à la main des galettes de 1 cm d'épaisseur avec cette préparation.
+    Faites frire à l'huile  des deux côtés, dans une poêle bien chaude, 10 minutes de chaque côté.
+    A servir en accompagnement d'une viande, ou à déguster seules avec une salade.
+  ]]>
+  </preparation>
+</recette>

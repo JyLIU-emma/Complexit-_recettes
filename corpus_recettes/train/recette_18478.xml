@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18478">
+  <titre>Velouté de courgette</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,5 kg de courgette</p>
+    <p>10 g de beurre ou une cuillère à soupe d'huile d'olive</p>
+    <p>une tablette de bouillon de volaille ou de boeuf</p>
+    <p>3 cuillères à soupe de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez les courgettes, coupez les en morceaux et mettez les avec le beurre ou l'huile d'olive dans un auto-cuiseur. Rajoutez le cube de bouillon et un verre d'eau. Fermez et laissez cuire 10 mn à partie du sifflement. Mixer le tout avec les trois cuillères à soupe de crème fraîche. Servir ce velouté bien chaud.
+    Fera aimer les courgettes au plus récalcitants
+  ]]>
+  </preparation>
+</recette>

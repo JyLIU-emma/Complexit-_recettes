@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21842">
+  <titre>Lapin au vin blanc et aux champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 lapin + le foie du lapin</p>
+    <p>6 tranches de lard</p>
+    <p>45 g de beurre</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>45 cl de vin blanc sec</p>
+    <p>1 bouquet garni</p>
+    <p>750 g de champignons</p>
+    <p>2 gousses d'ail</p>
+    <p>3 cuillères à soupe de persil haché</p>
+    <p> sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez le lapin en morceaux.
+    Faites revenir le lard et le lapin dans l'huile et le beurre puis mouillez de vin et complétez d'eau afin que la viande soit juste recouverte de liquide.  Ajoutez le bouquet garni, couvrez et laissez cuire 1 heure.
+    Ajoutez les champignons émincés et poursuivez la cuisson durant 30 minutes. 
+    Retirez les morceaux de la cocotte et faites réduire la sauce.
+    Hachez le foie avec l'ail et le persil puis incorporez à la sauce.
+    Déposez le lapin dans la sauce avant de servir. 
+  ]]>
+  </preparation>
+</recette>

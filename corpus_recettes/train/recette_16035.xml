@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16035">
+  <titre>Brochettes de mandarines au miel et au gingembre</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 mandarines</p>
+    <p>1 cm de gingembre frais</p>
+    <p>6 cuillères à soupe de miel</p>
+    <p>1 gousse de vanille</p>
+    <p>8 brochettes en bois</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les mandarines, retirer autant que possible les membranes blanches, puis les détailler en quartiers. Les enfiler sur 8 brochettes. 
+    Eplucher le gingembre et le détailler en filaments. 
+    Dans une poêle antiadhésive, les réchauffer avec le miel et les graines de vanille. Ne pas laisser bouillir!
+    Y déposer les brochettes de mandarines et les réchauffer. 
+    Servir aussitôt, nappé de la sauce au miel.
+  ]]>
+  </preparation>
+</recette>

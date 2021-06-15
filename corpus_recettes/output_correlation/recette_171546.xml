@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171546">
+  <titre>Panna cotta framboises et spéculoos</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>75 g de sucre </p>
+    <p>50 cl de crème liquide</p>
+    <p>2 feuilles de gélatine</p>
+    <p>1 gousse de vanille ou de l'extrait de vanille</p>
+    <p>15 cl de coulis de framboise</p>
+    <p>20 framboises </p>
+    <p>8 spéculoos</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cette recette nécessite un temps minimum de repos de 5h.
+    Mettre les feuilles de gélatine à tremper dans de l'eau froide.
+    Verser la crème, le sucre et la vanille dans une casserole. 
+    Faire chauffer à feu moyen et remuer régulièrement.Dès les premiers frémissements, couper le feu et ajouter la gélatine essorée. Bien remuer.
+    Verser la préparation dans des coupes pas trop hautes et mettre au frais au minimum 5 heures.
+    Juste avant de déguster, verser deux cuillères à soupe de coulis de framboise sur le dessus de la panna cotta puis ajouter 5 framboises par coupe.
+    Enfin, émietter 2 spéculoos sur le dessus de chaque coupe.
+    Servir bien frais.Vous pouvez adapter cette recette avec d'autres fruits: fraise, ananas (miel à la place du coulis), pêche, mangue... Champagne
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Cette recette nécessite un temps minimum de repos de 5h. <OPER id="o_1">Mettre</OPER> les <INGRED id="4">feuilles</INGRED> de gélatine à <OPER id="o_2">tremper</OPER> dans de l'<INGRED id="5">eau froide</INGRED>. <OPER id="o_3">Verser</OPER> la crème, le sucre et la <INGRED id="4">vanille</INGRED> dans une casserole. Faire <OPER id="o_4">chauffer</OPER> à feu moyen et <OPER id="o_5">remuer</OPER> régulièrement. Dès les premiers frémissements, <OPER id="o_6">couper</OPER> le feu et <OPER id="o_7">ajouter</OPER> la <INGRED id="6">gélatine</INGRED> essorée. Bien <OPER id="o_8">remuer</OPER>. <OPER id="o_9">Verser</OPER> la <INGRED id="4">préparation</INGRED> dans des coupes pas trop hautes et <OPER id="o_10">mettre</OPER> au frais au minimum 5 heures. Juste avant de déguster, <OPER id="o_11">verser</OPER> <INGRED id="6">deux</INGRED> cuillères à soupe de <INGRED id="5">coulis de framboise</INGRED> sur le dessus de la panna cotta puis <OPER id="o_12">ajouter</OPER> 5 framboises par <INGRED id="2">coupe</INGRED>. Enfin, <OPER id="o_13">émietter</OPER> 2 <INGRED id="2">spéculoos</INGRED> sur le dessus de chaque <INGRED id="2">coupe</INGRED>. Servir bien frais. Vous pouvez <OPER id="o_14">adapter</OPER> cette recette avec d'autres fruits : fraise, ananas ( miel à la place du <INGRED id="5">coulis</INGRED> ), pêche, <INGRED id="1">mangue</INGRED>... Champagne
+  </annotation>
+  <annotation methode="crf">
+  Cette recette nécessite un temps minimum de repos de 5h. Mettre les feuilles de <INGRED>gélatine</INGRED> à tremper dans de l'<INGRED>eau</INGRED> froide <INGRED>.</INGRED> Verser la <INGRED>crème</INGRED> <INGRED>,</INGRED> le <INGRED>sucre</INGRED> et la <INGRED>vanille</INGRED> dans une casserole <INGRED>.</INGRED> Faire chauffer à feu moyen et remuer régulièrement <INGRED>.</INGRED> Dès les premiers frémissements <INGRED>,</INGRED> couper le feu et ajouter la <INGRED>gélatine</INGRED> essorée <INGRED>.</INGRED> Bien remuer. Verser la préparation dans des coupes pas trop hautes et mettre au <INGRED>frais</INGRED> au minimum 5 heures. Juste avant de déguster <INGRED>,</INGRED> verser <INGRED>deux</INGRED> <INGRED>cuillères à soupe</INGRED> de <INGRED>coulis</INGRED> de framboise sur le dessus de la panna cotta puis ajouter 5 <INGRED>framboises</INGRED> par coupe. Enfin <INGRED>,</INGRED> émietter 2 spéculoos sur le dessus de chaque coupe. Servir bien <INGRED>frais</INGRED> <INGRED>.</INGRED> Vous pouvez adapter cette recette avec d'autres <INGRED>fruits</INGRED> <INGRED>:</INGRED> fraise <INGRED>,</INGRED> ananas ( <INGRED>miel</INGRED> à la place du <INGRED>coulis</INGRED> ) <INGRED>,</INGRED> pêche <INGRED>,</INGRED> mangue... Champagne
+  </annotation>
+  <complexite>
+    <temps>f(X) = 12.7647058823529*X + 1.23529411764706</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 31*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['sucre']	 id:1	 quantité:75	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crème liquide', 'crème']	 id:2	 quantité:50	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['gélatine']	 id:3	 quantité:2	 unité:feuilles de	 denombrable:True	 recipient:2*X
+ingredient:['vanille']	 id:4	 quantité:1	 unité:gousse de	 denombrable:True	 recipient:1*X
+ingredient:['coulis de framboise', 'coulis']	 id:5	 quantité:15	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['framboises']	 id:6	 quantité:20	 unité:non_precis	 denombrable:True	 recipient:20*X
+ingredient:['spéculoos']	 id:7	 quantité:8	 unité:non_precis	 denombrable:True	 recipient:8*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mettre	 id:o_1	 ingrédients_ralatifs:['4', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:tremper	 id:o_2	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:verser	 id:o_3	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:remuer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_6	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:20*X*1	 recipient:1
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_9	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:verser	 id:o_11	 ingrédients_ralatifs:['6', '5', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:émietter	 id:o_13	 ingrédients_ralatifs:['2', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:adapter	 id:o_14	 ingrédients_ralatifs:['5', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

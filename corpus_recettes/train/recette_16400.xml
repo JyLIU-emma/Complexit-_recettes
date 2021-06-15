@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16400">
+  <titre>Goulash de cervelas</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6  beaux poireaux</p>
+    <p>5 pommes de terre</p>
+    <p>4 cervelas</p>
+    <p>1 oignons</p>
+    <p>sel, poivre, paprika</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et couper en rondelles les poireaux. Peler ou couper les pommes de terre en petit cubes.
+    Couper les cervelas en petits cubes. Faire revenir l'oignon haché dans un peu d'huile, ajouter les poireaux, les pommes de terre et le cervelas. Saler, poiver et ajouter du paprika (selon vos goûts).
+    Laisser mijoter à feu doux pendant environ 1h.
+    Plat bon marché et délicieux. A mon avis, ce plat est meilleur lorsque les pommes-de-terre sont bien cuites afin que cela soit plus onctueux. Côte du Rhône (je ne connais pas trop les vins!)
+  ]]>
+  </preparation>
+</recette>

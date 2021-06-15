@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11658">
+  <titre>Paupiettes roses de saumon fumé</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 tranches de saumon fumé </p>
+    <p>300 g de fromage blanc épais</p>
+    <p>1 cuillère à café de paprika</p>
+    <p>aneth fraîche</p>
+    <p>2 cuillères à soupe de jus de citron</p>
+    <p>1 pot d'oeufs de truite</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire égoutter le fromage blanc, puis l'assaisonner dans la casserole avec le paprika, le jus de citron et quelques brins d'aneth hachéEtendre les tranches de saumon fumé, déposer sur chacune un peu de cette préparation et les rouler.
+    Disposer dans un plat de service et décorer avec un brin d'aneth et des oeufs de truite.  
+  ]]>
+  </preparation>
+</recette>

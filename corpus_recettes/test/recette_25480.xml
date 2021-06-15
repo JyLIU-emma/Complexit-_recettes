@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25480">
+  <titre>Tarte à l'oignon et jambon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>800 g d'oignons</p>
+    <p>50 g de beurre</p>
+    <p>200 g de jambon</p>
+    <p>3 oeufs</p>
+    <p>80 g de crème fraîche</p>
+    <p>sel, poivre</p>
+    <p>muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites fondre les oignons émincés dans le beurre, à feu doux; puis ajoutez le jambon en dés.
+    Foncez un moule à tarte avec la pâte, piquez-la, puis répartissez oignons et jambon sur la pâte. Couvrez avec le mélange oeufs-crème assaisonné. Et enfournez à 180°C (thermostat 6) pendant 40 min.
+  ]]>
+  </preparation>
+</recette>

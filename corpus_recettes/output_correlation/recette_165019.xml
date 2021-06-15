@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165019">
+  <titre>Coquilles Saint-Jacques, boudin noir et chanterelles</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>140g de beurre</p>
+    <p>1 petite gousse d'ail écrasée</p>
+    <p>125g de petites chanterelles nettoyées</p>
+    <p>sel et poivre blanc du moulin</p>
+    <p>1 cuiller a soupe de persil ciselé</p>
+    <p>huile d'olive pour friture</p>
+    <p>l'interieur de 12 coquilles Saint-Jacques, rincé et séché sur du papier absorbant</p>
+    <p>1 tronçon de boudin (type boudin a l'ancienne) coupé en 12 tranches d'environ 1cm</p>
+    <p>200g de pomme de terre farineuses cuite et réduites en purée</p>
+    <p>3 cuillers à soupe de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre 80g de beurre dans une poêle jusqu'à ce qu'il mousse. Ajouter l'ail et les chanterelles, saler et poivrer et faire suer 2 à 3 minutes. Ajouter le persil et retirer du feu.
+    Huiler légèrement une poêle antiadhésive et la faire chauffer à feu moyen. Saler et poivrer les coquilles Saint-Jacques, les faire revenir 1 minute sur chaque face et les réserver au chaud.
+    Dans la même poêle, faire rissoler les tranches de boudin une minute sur chaque face dans 20g de beurre. Les garder au chaud et réserver le beurre fondu.
+    Bien réchauffer les pommes de terre en purée, les retirer du feu, incorporer le reste du beurre, la crème fraîche et assaisonner. La purée doit être ferme.Répartir la purée sur les assiettes, les couvrir avec les coquilles Saint-Jacques et les tranches de boudin alternées. Ajouter les chanterelles et les arroser de beurre fondu.Un boudin d'excellente qualité est essentiel à la réussite de cette recette.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">fondre</OPER> 80 <INGRED id="4">g</INGRED> de <INGRED id="1">beurre</INGRED> dans une poêle jusqu'à ce qu'il mousse. <OPER id="o_2">Ajouter</OPER> l'<INGRED id="7">ail</INGRED> et les <INGRED id="3">chanterelles</INGRED>, <OPER id="o_3">saler</OPER> et <OPER id="o_4">poivrer</OPER> et <INGRED id="14">faire</INGRED> <OPER id="o_5">suer</OPER> 2 à 3 minutes. <OPER id="o_6">Ajouter</OPER> le <INGRED id="11">persil</INGRED> et <OPER id="o_7">retirer</OPER> du feu. <OPER id="o_8">Huiler</OPER> légèrement une poêle antiadhésive et la <INGRED id="14">faire</INGRED> <OPER id="o_9">chauffer</OPER> à feu moyen. <OPER id="o_1013">Saler</OPER> et <OPER id="o_11">poivrer</OPER> les <INGRED id="8">coquilles Saint-Jacques</INGRED>, les <INGRED id="10">faire</INGRED> <OPER id="o_12">revenir</OPER> 1 minute sur chaque face et les réserver au chaud. Dans la même poêle, <INGRED id="14">faire</INGRED> <OPER id="o_13">rissoler</OPER> les <INGRED id="4">tranches</INGRED> de boudin une minute sur chaque face dans 20 <INGRED id="9">g</INGRED> de <INGRED id="9">beurre</INGRED>. Les <OPER id="o_14">garder</OPER> au chaud et réserver le <INGRED id="2">beurre fondu</INGRED>. Bien <OPER id="o_15">réchauffer</OPER> les <INGRED id="2">pommes de terre</INGRED> en <INGRED id="5">purée</INGRED>, les <OPER id="o_16">retirer</OPER> du feu, <OPER id="o_17">incorporer</OPER> le <INGRED id="1">reste</INGRED> du <INGRED id="8">beurre</INGRED>, la crème fraîche et <OPER id="o_18">assaisonner</OPER>. La <INGRED id="5">purée</INGRED> doit être ferme. <OPER id="o_19">Répartir</OPER> la <INGRED id="5">purée</INGRED> sur les assiettes, les <OPER id="o_20">couvrir</OPER> avec les coquilles Saint-Jacques et les <INGRED id="4">tranches</INGRED> de boudin alternées. <OPER id="o_21">Ajouter</OPER> les <INGRED id="3">chanterelles</INGRED> et les <OPER id="o_22">arroser</OPER> de <INGRED id="2">beurre fondu</INGRED>. Un boudin d'excellente qualité est essentiel à la réussite de cette recette.
+  </annotation>
+  <annotation methode="crf">
+  Faire fondre 80 g de <INGRED>beurre</INGRED> dans une poêle jusqu'à ce qu'il mousse. Ajouter l'<INGRED>ail</INGRED> et les chanterelles <INGRED>,</INGRED> saler et poivrer et faire suer 2 à 3 minutes. Ajouter le <INGRED>persil</INGRED> et retirer du feu <INGRED>.</INGRED> Huiler légèrement une poêle antiadhésive et la faire chauffer à feu moyen <INGRED>.</INGRED> Saler et poivrer les <INGRED>coquilles Saint-Jacques</INGRED> <INGRED>,</INGRED> les faire revenir 1 minute sur chaque face et les réserver au chaud <INGRED>.</INGRED> Dans la même poêle <INGRED>,</INGRED> faire rissoler les tranches de boudin une minute sur chaque face dans 20 <INGRED>g</INGRED> de <INGRED>beurre</INGRED> <INGRED>.</INGRED> Les garder au chaud et réserver le <INGRED>beurre fondu</INGRED>. Bien réchauffer les <INGRED>pommes de terre</INGRED> en <INGRED>purée</INGRED> <INGRED>,</INGRED> les retirer du feu <INGRED>,</INGRED> incorporer le <INGRED>reste</INGRED> du <INGRED>beurre</INGRED> <INGRED>,</INGRED> la <INGRED>crème fraîche</INGRED> et assaisonner <INGRED>.</INGRED> La <INGRED>purée</INGRED> doit être ferme. Répartir la <INGRED>purée</INGRED> sur les assiettes <INGRED>,</INGRED> les couvrir avec les <INGRED>coquilles Saint-Jacques</INGRED> et les tranches de boudin alternées. Ajouter les chanterelles et les arroser de <INGRED>beurre fondu</INGRED>. Un boudin d'excellente qualité est essentiel à la réussite de cette recette.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 14.6666666666667*X + 7.33333333333333</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 18*X + 13</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['beurre']	 id:1	 quantité:140	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['ail écrasée', 'ail']	 id:2	 quantité:1	 unité:gousse d'	 denombrable:True	 recipient:1*X
+ingredient:['petites chanterelles nettoyées', 'chanterelles']	 id:3	 quantité:125	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre blanc du moulin', 'poivre']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['soupe de persil ciselé', 'soupe']	 id:6	 quantité:1	 unité:cuiller a	 denombrable:True	 recipient:1*X
+ingredient:["huile d'olive", 'huile']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['coquilles Saint-Jacques', 'coquilles']	 id:8	 quantité:12	 unité:non_precis	 denombrable:True	 recipient:12*X
+ingredient:['rincé']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['séché sur du papier absorbant', 'séché']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["d'environ 1 cm"]	 id:11	 quantité:1	 unité:tranches	 denombrable:True	 recipient:1*X
+ingredient:['pomme de terre farineuses cuite', 'pomme']	 id:12	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['réduites en purée', 'réduites']	 id:13	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:14	 quantité:3	 unité:cuillers à soupe de	 denombrable:True	 recipient:3*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:fondre	 id:o_1	 ingrédients_ralatifs:['4', '1']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['7', '3', '14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_3	 ingrédients_ralatifs:['14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:suer	 id:o_5	 ingrédients_ralatifs:['14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['11']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:huiler	 id:o_8	 ingrédients_ralatifs:['14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_9	 ingrédients_ralatifs:['14']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:saler	 id:o_10	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:revenir	 id:o_12	 ingrédients_ralatifs:['8', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:rissoler	 id:o_13	 ingrédients_ralatifs:['14', '4', '9', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garder	 id:o_14	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:réchauffer	 id:o_15	 ingrédients_ralatifs:['2', '5', '1', '8']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:retirer	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_17	 ingrédients_ralatifs:['1', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:assaisonner	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:répartir	 id:o_19	 ingrédients_ralatifs:['5', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_20	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_21	 ingrédients_ralatifs:['3', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:arroser	 id:o_22	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

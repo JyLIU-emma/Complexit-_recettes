@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22367">
+  <titre>Lasagnettes à ma façon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de lasagnes (prendre des lasagnettes plus petites)</p>
+    <p>2 courgettes</p>
+    <p>2 aubergines</p>
+    <p>sauce tomate</p>
+    <p>400 g de viande hachée (facultatif) </p>
+    <p>sel poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prendre un plat à gratin, le huiler. 
+    Faire des couches successives de lasagnettes préalablement pré-cuites (quelques minutes) de courgettes et d'aubergines crues. 
+    Recouvrir chaque couche de sauce tomate avec viande hachée, sel, poivre. 
+    Enfourner et laisser cuire 1/2 heure environ à 200°C.
+     Rosé bien frais
+  ]]>
+  </preparation>
+</recette>

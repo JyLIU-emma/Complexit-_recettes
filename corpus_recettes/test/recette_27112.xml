@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27112">
+  <titre>Rouleaux de coeurs de céleri gratinés au jambon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 coeurs de céleri</p>
+    <p>4 tranches de jambon blanc</p>
+    <p>Pour le roux :</p>
+    <p>40 g de beurre</p>
+    <p>3 cuillères à soupe de farine</p>
+    <p>30 cl de bouillon</p>
+    <p>un peu de jus de viande</p>
+    <p>1 cuillère à soupe de concentré de tomates</p>
+    <p>1 cuillère à soupe de madère</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Porter de l'eau à ébullition, la saler et y plonger les coeurs de céleri pour les pocher. Les égoutter, puis les réserver.
+    Préparer un roux en mélangeant le beurre, la farine, le bouillon et le jus de viande à feu doux. Ajouter ensuite le concentré de tomate, puis le madère, saler, poivrer. Laisser mijoter 15 min environ, réserver.
+    Préchauffer votre four à 210°C (thermostat 7).
+    Envelopper les coeurs de céleri pochés d'une tranche de jambon blanc. Les napper de sauce, puis rectifier l'assaisonnement.
+    Saupoudrer de gruyère râpé, puis enfourner 15 min à four chaud.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20412">
+  <titre>Croquettes de chou-fleur et pommes de terre</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 petit chou-fleur</p>
+    <p>400 g de pommes de terre</p>
+    <p>2 oeufs battus</p>
+    <p>50 g de fromage râpé</p>
+    <p>100 g de chapelure (1 tasse)</p>
+    <p>sauce tomate</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyez le chou-fleur, séparez-le en bouquets et mettez-le à cuire dans une cocotte d'eau bouillante salée. Epluchez ensuite les pommes de terre et ajoutez-les au chou. Laissez cuire 30 min environ, jusqu'à ce que les légumes soient bien tendres.
+    Egouttez et réduisez le tout en purée. Saler et poivrer.
+    Dans un saladier, battez les oeufs avec le fromage râpé, le sel et le poivre. Ajoutez cette préparation à la purée et mélangez bien. Laissez refroidir à température ambiante.
+    Farinez vos mains et formez ensuite des boulettes. Roulez-les dans la chapelure.
+    Faites chauffer de l'huile à friture puis plongez-y les boulettes pour les faire dorer.
+    Servez avec une sauce tomate.
+  ]]>
+  </preparation>
+</recette>

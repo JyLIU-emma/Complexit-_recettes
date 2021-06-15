@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17631">
+  <titre>Gateau moelleux bananes chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 grosses bananes dessert</p>
+    <p>175 g de beurre</p>
+    <p>200 g de sucre</p>
+    <p>275 g de farine</p>
+    <p>3 œufs battus</p>
+    <p>30 g de pépites de chocolat</p>
+    <p>1 pincée de sel fin</p>
+    <p>arômes vanille et amande amère</p>
+    <p>rhum</p>
+    <p>1 sachet de levure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les poudres: farine, sel et levure. 
+    Faire chauffer le beurre et le sucre dans une casserole. Quand le sucre est fondu, l'ajouter à la farine. 
+    Puis ajouter les œufs battus, mélangé. 
+    Ensuite, ajouter les bananes écrasées, mélanger. 
+    Faire préchauffer le four à 180°C (thermostat 6). 
+    Quand la pâte est froide, ajouter les pépites de chocolat. 
+    Verser dans un moule à manqué beurré et fariné. 
+    Enfourner la préparation entre 50 min et 1 h.
+  ]]>
+  </preparation>
+</recette>

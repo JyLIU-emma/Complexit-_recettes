@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13789">
+  <titre>Paupiettes de jambon à la vache qui rit</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 tranches de jambon blanc</p>
+    <p>6 oeufs durs</p>
+    <p>6 portions de vache qui rit (ou autre crème de gruère)</p>
+    <p>2 échalotes</p>
+    <p>un demi-verre de vin blanc</p>
+    <p>2 cuillère à soupe d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tartiner chaque tranche de jambon avec une portion de Vache qui rit.
+    Poser un oeuf dur (sans la coquille, bien sûr) au centre de la tranche.
+    Envelopper l'oeuf de façon à faire une paupiette.
+    Ficeler la paupiette.
+    Dans une cocotte, verser l'huile et faire dorer les échalotes. Ajouter les paupiettes. Faire dorer quelques minutes et ajouter le vin blanc. 
+    Couvrir et laisser mijoter un quart d'heure environ.
+    Découvrir et laisser encore mijoter quelques minutes sans couvercle. Servir.
+    Idéal pour le repas du soir.
+  ]]>
+  </preparation>
+</recette>

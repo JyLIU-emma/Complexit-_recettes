@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26002">
+  <titre>Quiche au cresson et au chèvre</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>1 botte de cresson</p>
+    <p>200 g de gouda</p>
+    <p>4 œufs</p>
+    <p>15 cl de lait</p>
+    <p>50 g de bûche de chèvre</p>
+    <p>100 g de crème fraîche</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (thermostat 7).
+    Beurrer le moule à tarte et y étaler pâte brisée.
+    Piquer la pâte à la fourchette, la parsemer de haricots secs et la faire cuire au four pendant 10 minutes.
+    Hacher le cresson, râper le gouda et couper le chèvre en rondelles.
+    Dans un petit saladier, battre les oeufs en omelette avec le lait, la crème, le sel et le poivre. Incorporer le cresson et le gouda puis verser cette préparation sur le fond de tarte.
+    Recouvrir des rondelles de chèvre et enfourner pour 15 minutes de cuisson.
+    Déguster tiède ou froid.
+  ]]>
+  </preparation>
+</recette>

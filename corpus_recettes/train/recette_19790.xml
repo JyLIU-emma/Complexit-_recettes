@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19790">
+  <titre>Rouleaux de dinde au bacon et fromage</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 filets de dinde minces</p>
+    <p>20 tranches de bacon</p>
+    <p>20 tranches de fromage pour croque monsieur</p>
+    <p>un pot de cornichons (petits cornichons) </p>
+    <p>1 pot de crème fraîche</p>
+    <p>1 bouteille de vin blanc sec</p>
+    <p>des piques en bois</p>
+    <p>sel et poivre</p>
+    <p>beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les filets de dinde en lamelle pour pouvoir en faire des rouleaux.
+    Coupez les tranches de bacon en 2 ainsi que les tranches de fromage. 
+    Sur chaque pièce de viande, disposez une tranche de bacon, une tranche de fromage et un cornichon. 
+    Roulez l'ensemble et le maintenir avec un pique en bois. 
+    Faire revenir l'ensemble dans du beurre. 
+    Recouvrir de vin blanc avec un peu d'eau si cela semble trop alcoolisé. 
+    Laisser cuire à feu moyen 15 min, rajouter le pot de crème fraîche, puis laisser cuire 10 min à feu doux. 
+    Servir dans un plat accompagné de tagliatelles, de pommes dauphines ou autres.
+    Si le fromage fond durant la cuisson, c'est normal. Vous le retrouverez dans la sauce!!
+  ]]>
+  </preparation>
+</recette>

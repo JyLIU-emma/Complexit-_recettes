@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25534">
+  <titre>Mafé facile</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de poitrine de mouton (ou poulet, boeuf, boulettes de mouton) </p>
+    <p>3 cuillères à soupe de pâte d’arachide</p>
+    <p>2 oignons</p>
+    <p>2 gousses d’ail</p>
+    <p>4 tomates</p>
+    <p>3 cuillères à soupe d’huile</p>
+    <p>thym</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper la viande en petits morceaux. 
+    Délayer la pâte d’arachide dans 50 cl d’eau tiède et verser le mélange dans une casserole. Faire cuire à feu doux pendant environ 20 mn en tournant de temps en temps puis laisser refroidir. Eliminer la matière grasse qui remonte à la surface. 
+    Pendant ce temps : 
+    Peler et émincer les oignons. 
+    Peler et écraser l’ail. 
+    Plonger les tomates 1 mn dans l’eau bouillante, les peler, les épépiner puis les concasser. 
+    Faire chauffer l’huile dans une cocotte, y faire revenir les oignons et le mouton 10 mn en remuant. Ajouter l’ail. 
+    Saler, poivrer, mettre les tomates et le thym dans la cocotte, mélanger. 
+    Couvrir et faire cuire à feu doux pendant 30 mn. 
+    Ajouter la pâte d’arachide délayée et prolonger la cuisson 20 mn. 
+    C’est prêt !! Servir avec du riz ou des pommes de terre.
+  ]]>
+  </preparation>
+</recette>

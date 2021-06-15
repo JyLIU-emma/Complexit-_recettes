@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22710">
+  <titre>Entremets aux poires caramélisées</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 boîte 4/4 de poires au sirop</p>
+    <p>1 sachet de caramel</p>
+    <p>4 jaunes d'oeufs</p>
+    <p>4 cuillères à soupe de crème fraîche</p>
+    <p>25 cl de lait</p>
+    <p>60 g de sucre</p>
+    <p>60 g de farine</p>
+    <p>1 gousse de vanille</p>
+    <p>2 cuillères à soupe de liqueur de poire</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Versez le caramel sur le fond et les parois d'un petit moule à charlotte.
+    Egouttez les poires, réservez le sirop.
+    Tapissez le fond et les parois du moule avec les poires.
+    Faites bouillir le jus de la boîte jusqu'à consistance d'un sirop épais.
+    Faites bouillir le lait avec la gousse de vanille fendue en deux.
+    Fouettez les jaunes d'oeufs et le sucre jusqu'à blanchiment dans une casserole.
+    Ajoutez la farine en pluie en remuant bien pour éviter les grumeaux.
+    Versez le lait (sans la vanille) en fouettant, faites épaissir à feu doux en fouettant.
+    Retirez au premier bouillon. 
+    Laissez refroidir.
+    Incorporez 5 cl de sirop réduit et la liqueur.
+    Fouettez la crème fraîche en Chantilly et incorporez-la. Versez au centre du moule réservez au frais toute une nuit. 
+    Servez bien frais et démoulé, accompagné de tuiles et cigarettes russes.
+  ]]>
+  </preparation>
+</recette>

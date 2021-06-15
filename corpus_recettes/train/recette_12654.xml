@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12654">
+  <titre>Sauté de  veau aux poireaux</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 morceaux de veau à blanquette sans os et 6 morceaux avec os</p>
+    <p>1 oignon </p>
+    <p>3 gros poireaux</p>
+    <p>un petit verre de vin blanc sec (si vous en avez!)</p>
+    <p>5 grosses cuillères à soupe de crème fraîche</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Fariner légèrement les morceaux de veau.
+    Laver les poireaux et détaillez-les en tronçons d'1 cm environ.
+    Dans une cocotte, faite revenir et dorer la viande dans un mélange beurre/huile.
+    Otez la viande et mettez les oignons, puis faites-les revenir.
+    Remettez la viande, salez et poivrez.
+    Mouillez avec le vin blanc et ajoutez les poireaux.
+    Couvrez et faites cuire 50 minutes à feu doux.
+    Au bout de ce temps, ajoutez la crème fraîche et rectifiez l'assaisonnement si nécessaire.
+    Variante sucré/salé: ajouter des raisins secs en même temps que les poireaux.
+    Le vin blanc n'est pas indispensable, vous pouvez mouiller avec un peu d'eau si vous n'en avez pas. bordeaux
+  ]]>
+  </preparation>
+</recette>

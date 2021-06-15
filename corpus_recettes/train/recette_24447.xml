@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24447">
+  <titre>Fenouil au vin blanc et aux tomates</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 bulbes de fenouil</p>
+    <p>3 gros oignons</p>
+    <p>6 tomates</p>
+    <p>3 gousses d'ail</p>
+    <p>10 cl de vin blanc ou rosé</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>sel, poivre</p>
+    <p>paprika</p>
+    <p>1 pincée de marjolaine en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper les fenouils en petites lanières de 5 cm. Les faire cuire 10 minutes à l'eau bouillante salée.
+    Emincer l'ail et loignon et les faire fondre dans une cocotte dans un peu d'huile bien chaude. Puis ajouter le fenouil et les tomates concassées.
+    Ajouter le vin préalablement tiédi et assaisonner de thym, de sel, de poivre et de Cayenne.
+    Laisser cuire à feu très doux pendant 1h30 à couvert. Servir chaud ou froid.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23111">
+  <titre>Rochers coco-banane-ananas</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 bananes</p>
+    <p>la chair d'une noix de coco râpée (ou mixée au mixeur, ça marche aussi) </p>
+    <p>5 tranches d'ananas au sirop égouttées</p>
+    <p>un oeuf</p>
+    <p>un demi verre à moutarde de sucre de canne</p>
+    <p>un sachet de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez l'oeuf et le sucre dans un saladier. 
+    Ajoutez la noix de coco, et les bananes coupées en petits morceaux, malaxez le tout jusqu'à obtenir une boule à peu près homogène. 
+    Coupez les tranches d'ananas en très petits dés et incorporez les à la pâte. 
+    Sur une plaque, faîtes des petits rochers avec la pâte, et enfournez le tout à 200°C.
+  ]]>
+  </preparation>
+</recette>

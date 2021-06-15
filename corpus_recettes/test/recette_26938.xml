@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26938">
+  <titre>Soupe au potiron</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de potiron</p>
+    <p>2 pommes de terre</p>
+    <p>1 carotte</p>
+    <p>125 g de beurre</p>
+    <p>1/2 litre de lait</p>
+    <p>1 petit pot de crème</p>
+    <p>1 petit bouquet de cerfeuil</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez les légumes en petits morceaux. 
+    Versez 1/2 litre d'eau dans une marmite, ajoutez les légumes, 125 g de beurre, salez, poivrez et laissez cuire doucement à couvert 30 mn. 
+    Passé ce temps, réduisez en purée au moulin à légumes et remettez-les dans la marmite avec le jus de cuisson. 
+    Ajoutez 1/2 litre de lait, le contenu du petit pot de crème, remuez et laissez quelques minutes sur feu doux.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167892">
+  <titre>Gratin CH'IT</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 andouillettes (Classe AAAAA )</p>
+    <p>4 grosses pommes de terre</p>
+    <p>2 échalotes</p>
+    <p>10 cl de crème fraîche</p>
+    <p>Persil haché</p>
+    <p>ail</p>
+    <p>sel, poivre</p>
+    <p>1 verre de vin blanc </p>
+    <p>100 g de beurre ou margarine</p>
+    <p>300 g de Maroilles</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Éplucher  et laver les pommes de terre, les cuire à l'eau,
+     - Une fois refroidies couper les pommes de terre en rondelle
+     - Découper les andouillettes en rondelles,
+     - Faire  suer les échalotes hachées avec le restant de beurre ou Margarine,
+      - Ajouter les rondelles d'andouillettes, faire revenir, ajouter le persil et le vin blanc puis faire réduire et assaisonner.
+     - Placer les Pommes de terre dans le fond du plat beurré.
+     - Étaler la préparation d'andouillette sur les pommes de terre.
+     - Etaler la crème fraiche
+     - Répété l’opération sans la crème fraiche
+     - Couper du Mariolle et le répartir sur tout le plat
+      
+    ( Entre chaque couche vous pouvez y mettre un duo d’Emmental et de Mozzarella )Servir avec une sauce à la moutarde à l'ancienne de préférence.
+    Recette personnelle Chablis
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  - <OPER id="o_1">Éplucher</OPER> et <OPER id="o_2">laver</OPER> les <INGRED id="1">pommes de terre</INGRED>, les <OPER id="o_3">cuire</OPER> à l'eau, - Une fois refroidies <OPER id="o_4">couper</OPER> les <INGRED id="4">pommes de terre</INGRED> en rondelle - <OPER id="o_5">Découper</OPER> les <INGRED id="1">andouillettes</INGRED> en rondelles, - Faire <OPER id="o_6">suer</OPER> les <INGRED id="3">échalotes hachées</INGRED> avec le restant de <INGRED id="1">beurre</INGRED> ou Margarine, - <OPER id="o_7">Ajouter</OPER> les rondelles d'<INGRED id="1">andouillettes</INGRED>, <INGRED id="4">faire</INGRED> <OPER id="o_8">revenir</OPER>, <OPER id="o_9">ajouter</OPER> le <INGRED id="9">persil</INGRED> et le <INGRED id="2">vin blanc</INGRED> puis <INGRED id="4">faire</INGRED> réduire et <OPER id="o_10">assaisonner</OPER>. - <OPER id="o_11">Placer</OPER> les Pommes de terre dans le <INGRED id="4">fond</INGRED> du <INGRED id="9">plat</INGRED> beurré. - <OPER id="o_12">Étaler</OPER> la <INGRED id="4">préparation</INGRED> d'andouillette sur les pommes de terre. - <OPER id="o_13">Etaler</OPER> la <INGRED id="3">crème fraiche</INGRED> - Répété l’ opération sans la <INGRED id="3">crème fraiche</INGRED> - <OPER id="o_14">Couper</OPER> du Mariolle et le <OPER id="o_15">répartir</OPER> sur tout le <INGRED id="9">plat</INGRED> ( Entre chaque couche vous pouvez y <OPER id="o_16">mettre</OPER> un duo d’ Emmental et de Mozzarella ) Servir avec une sauce à la <INGRED id="2">moutarde</INGRED> à l'ancienne de préférence. Recette personnelle Chablis
+  </annotation>
+  <annotation methode="crf">
+  - Éplucher et laver les <INGRED>pommes de terre</INGRED> <INGRED>,</INGRED> les cuire à l'<INGRED>eau</INGRED> <INGRED>,</INGRED> - Une fois refroidies couper les <INGRED>pommes de terre</INGRED> en rondelle - Découper les <INGRED>andouillettes</INGRED> en rondelles <INGRED>,</INGRED> - Faire suer les <INGRED>échalotes</INGRED> hachées avec le restant de <INGRED>beurre</INGRED> <INGRED>ou</INGRED> Margarine <INGRED>,</INGRED> - Ajouter les rondelles d'<INGRED>andouillettes</INGRED> <INGRED>,</INGRED> faire revenir <INGRED>,</INGRED> ajouter le <INGRED>persil</INGRED> et le <INGRED>vin blanc</INGRED> puis faire réduire et assaisonner <INGRED>.</INGRED> - Placer les <INGRED>Pommes de terre</INGRED> dans le <INGRED>fond</INGRED> du plat beurré. - Étaler la préparation d'andouillette sur les <INGRED>pommes de terre</INGRED>. - Etaler la <INGRED>crème fraiche</INGRED> - Répété l’ opération sans la <INGRED>crème fraiche</INGRED> - Couper du Mariolle et le répartir sur tout le plat ( Entre chaque couche vous pouvez y mettre un duo d’ Emmental et de Mozzarella ) Servir avec une <INGRED>sauce</INGRED> à la <INGRED>moutarde</INGRED> à l'ancienne de préférence <INGRED>.</INGRED> Recette personnelle Chablis
+  </annotation>
+  <complexite>
+    <temps>f(X) = 14.0625*X + 10.9375</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 9*X + 14</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['andouillettes']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['pommes de terre', 'pommes']	 id:2	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['échalotes']	 id:3	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['crème fraîche', 'crème']	 id:4	 quantité:10	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['Persil haché', 'Persil']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['ail']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['vin blanc', 'vin']	 id:9	 quantité:1	 unité:verre de	 denombrable:True	 recipient:1*X
+ingredient:['beurre']	 id:10	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['Maroilles']	 id:11	 quantité:300	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:éplucher	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:2*X*1	 recipient:0
+operation:laver	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:2*X*1	 recipient:0
+operation:cuire	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:couper	 id:o_4	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:10*X	 temps:1*X*1	 recipient:1
+operation:découper	 id:o_5	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:2*X*1	 recipient:1
+operation:suer	 id:o_6	 ingrédients_ralatifs:['3', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:['1', '4', '9', '2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:revenir	 id:o_8	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:['9', '2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:assaisonner	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_11	 ingrédients_ralatifs:['4', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étaler	 id:o_12	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:etaler	 id:o_13	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:couper	 id:o_14	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1*X*1	 recipient:1
+operation:répartir	 id:o_15	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

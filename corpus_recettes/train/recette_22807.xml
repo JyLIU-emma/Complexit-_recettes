@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22807">
+  <titre>Tarte aux raisins secs et amandes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 rouleau de pâte brisée</p>
+    <p>150 g de raisins secs</p>
+    <p>10 cl de rhum</p>
+    <p>4 cuillères à soupe de crème fraîche</p>
+    <p>2 œufs</p>
+    <p>50 g de sucre</p>
+    <p>50 g d'amande effilées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prévoir 1 nuit de macération.
+    Faites macérer les raisins dans le rhum la veille.Étalez la pâte dans un moule à tarte.
+    Piquez à la fourchette et faites cuire 10 min au four à 180°C (thermostat 6).Mélangez la crème avec les œufs, le sucre et les amandes.
+    Ajoutez les raisins et le rhum de macération.
+    Versez le tout sur la pâte et faites cuire 30 min au four à 200°C (thermostat 6-7).
+  ]]>
+  </preparation>
+</recette>

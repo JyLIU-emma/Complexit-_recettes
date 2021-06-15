@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10656">
+  <titre>Soupe de poissons de Loire</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 poissons de Loire (brochet, carpe, barbillon, gros gardon et même un peu d'anguille)</p>
+    <p>50 cl de vin blanc de Loire</p>
+    <p>1 gros oignon</p>
+    <p>3 blancs de poireaux</p>
+    <p>10 pommes de terre</p>
+    <p>50 g de croûtons frits</p>
+    <p>sel, poivre</p>
+    <p>1 bouquet garni</p>
+    <p>3 cuillères à soupe d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ecailler, vider, étêter, tronçonner des poissons de Loire.
+    Les mettre à frémir avec le vin blanc, de l'eau à hauteur, 1 bouquet garni, du sel et du poivre.
+    Faire revenir à l'huile des blancs de poireaux et 1 gros oignon émincés sans laisser roussir.
+    Egoutter les poissons à l'écumoir et les poser par-dessus.
+    Les couvrir d'un lit de pommes de terre coupées en larges tranches.
+    Passer le bouillon de poisson, rectifier l'assaisonnement et verser sur les pommes de terre.
+    Ajouter de l'eau si besoin est.
+    Porter à ébullition le temps que les pommes de terre soient cuites.
+    Servir sur des croûtons frits.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Ecailler</OPER>, <OPER id="o_2">vider</OPER>, <OPER id="o_3">étêter</OPER>, <OPER id="o_4">tronçonner</OPER> des <INGRED id="1">poissons de Loire</INGRED>. Les <OPER id="o_5">mettre</OPER> à <OPER id="o_6">frémir</OPER> avec le <INGRED id="2">vin blanc</INGRED>, de l'<INGRED id="2">eau</INGRED> à hauteur, 1 <INGRED id="9">bouquet garni</INGRED>, du <INGRED id="4">sel</INGRED> et du <INGRED id="9">poivre</INGRED>. Faire <OPER id="o_7">revenir</OPER> à l'huile des <INGRED id="4">blancs de poireaux</INGRED> et 1 gros <INGRED id="5">oignon</INGRED> émincés sans laisser <OPER id="o_8">roussir</OPER>. <OPER id="o_9">Egoutter</OPER> les <INGRED id="1">poissons</INGRED> à l'écumoir et les <OPER id="o_10">poser</OPER> par - dessus. Les <OPER id="o_11">couvrir</OPER> d'un lit de <INGRED id="4">pommes de terre</INGRED> coupées en larges tranches. <OPER id="o_12">Passer</OPER> le bouillon de poisson, <OPER id="o_13">rectifier</OPER> l'assaisonnement et <OPER id="o_14">verser</OPER> sur les <INGRED id="4">pommes de terre</INGRED>. <OPER id="o_15">Ajouter</OPER> de l'<INGRED id="2">eau</INGRED> si besoin est. <OPER id="o_16">Porter</OPER> à ébullition le temps que les <INGRED id="6">pommes de terre</INGRED> soient cuites. Servir sur des <INGRED id="6">croûtons frits</INGRED>.
+  </annotation>
+  <annotation methode="crf">
+  Ecailler <INGRED>,</INGRED> vider <INGRED>,</INGRED> étêter <INGRED>,</INGRED> tronçonner des poissons de Loire <INGRED>.</INGRED> Les mettre à frémir avec le <INGRED>vin blanc</INGRED> <INGRED>,</INGRED> de l'<INGRED>eau</INGRED> à hauteur <INGRED>,</INGRED> 1 <INGRED>bouquet garni</INGRED> <INGRED>,</INGRED> du <INGRED>sel</INGRED> et du <INGRED>poivre</INGRED>. Faire revenir à l'<INGRED>huile</INGRED> des <INGRED>blancs de poireaux</INGRED> et 1 <INGRED>gros</INGRED> <INGRED>oignon</INGRED> émincés sans laisser roussir <INGRED>.</INGRED> Egoutter les poissons à l'écumoir et les poser par - dessus. Les couvrir d'un lit de <INGRED>pommes de terre</INGRED> <INGRED>coupées</INGRED> en larges tranches. Passer le <INGRED>bouillon</INGRED> de poisson, rectifier l'assaisonnement et verser sur les <INGRED>pommes de terre</INGRED>. Ajouter de l'<INGRED>eau</INGRED> si besoin est <INGRED>.</INGRED> Porter à ébullition le temps que les <INGRED>pommes de terre</INGRED> soient cuites <INGRED>.</INGRED> Servir sur des croûtons frits <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 13.3333333333333*X + 2.66666666666667</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 20*X + 6</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['poissons de Loire', 'poissons']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['vin blanc de Loire', 'vin']	 id:2	 quantité:50	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['oignon']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['blancs de poireaux', 'blancs']	 id:4	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['pommes de terre', 'pommes']	 id:5	 quantité:10	 unité:non_precis	 denombrable:True	 recipient:10*X
+ingredient:['croûtons frits', 'croûtons']	 id:6	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['bouquet garni', 'bouquet']	 id:9	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['huile']	 id:10	 quantité:3	 unité:cuillères à soupe d'	 denombrable:True	 recipient:3*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:ecailler	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:vider	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étêter	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tronçonner	 id:o_4	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_5	 ingrédients_ralatifs:['2', '2', '9', '4', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:frémir	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:revenir	 id:o_7	 ingrédients_ralatifs:['4', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:roussir	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:egoutter	 id:o_9	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poser	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_11	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:passer	 id:o_12	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:rectifier	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_14	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_15	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:porter	 id:o_16	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

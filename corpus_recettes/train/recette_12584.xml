@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12584">
+  <titre>Veau à la mangue</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 oignons</p>
+    <p>800 g de veau (épaule désossée)</p>
+    <p>1 c à c de concentré de tomate</p>
+    <p>3 c à c de fond de veau</p>
+    <p>sel et poivre</p>
+    <p>2 mangues</p>
+    <p>ciboulette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer les oignons. Couper la viande en dés et la faire revenir dans de l'huile, avec les oignons.
+    Ajouter 25 cl d'eau, le fond de veau et le concentré de tomate. Poivrer et saler un peu.
+    Couvrir et laisser cuire 1h.
+    Eplucher les mangues et les couper en petits morceaux. Les ajouter à la viande 10 minutes avant la fin de la cuisson.
+    Parsemer de ciboulette et servir avec du riz.
+  ]]>
+  </preparation>
+</recette>

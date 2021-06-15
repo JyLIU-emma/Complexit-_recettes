@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17873">
+  <titre>Gâteau léger au citron vert</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 citron vert (zeste et jus)</p>
+    <p>1 yaourt nature</p>
+    <p>1 oeuf</p>
+    <p>2 pots de sucre (mesurés avec le pot de yaourt) </p>
+    <p>4 pots de farine</p>
+    <p>1/2 pot d'huile</p>
+    <p>1/2 pot de vin blanc</p>
+    <p>1 sachet de levure</p>
+    <p>1 cuillère à soupe de rhum blanc (facultatif) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le tout (dans un robot- mixeur c'est encore plus rapide et pratique). 
+    Verser dans un moule beurré. 
+    Cuire 30 min à thermostat 7 (210°C).
+  ]]>
+  </preparation>
+</recette>

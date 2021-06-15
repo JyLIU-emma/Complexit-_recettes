@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24988">
+  <titre>Gratin de pâtes aux épinards</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1.5 kg d'épinard</p>
+    <p>30 g de beurre</p>
+    <p>3 oeufs</p>
+    <p>150 g de gruyère râpé</p>
+    <p>300 g de pâtes cuites </p>
+    <p>sel, poivre, noix de muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6-7).
+    Faire fondre doucement les épinards dans une casserole avec le beurre. Saler, poivrer, ajouter une pincée de muscade.
+    Hors du feu, ajouter les oeufs battus et la moitié du fromage râpé. Beurrer un plat allant au four et à table.
+    Disposer la moitié des épinards au fond du plat, recouvrir de pâtes puis des épinards restants. 
+    Saupoudrer de fromage râpé et enfourner pour 25 minutes de cuisson. Servir avec une salade verte.
+  ]]>
+  </preparation>
+</recette>

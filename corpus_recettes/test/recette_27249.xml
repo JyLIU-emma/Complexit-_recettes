@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27249">
+  <titre>Riz à la méditerranéenne</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de riz long grain</p>
+    <p>1 poivron vert</p>
+    <p>1 poivron rouge</p>
+    <p>80 g de petits pois</p>
+    <p>100 g de haricots verts</p>
+    <p>100 g de chorizo</p>
+    <p>4 tranches de jambon de Bayonne</p>
+    <p>5 cl d'huile d'olive</p>
+    <p>4 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epépiner et couper les poivrons en dés.
+    Trancher le chorizo.
+    Cuire les petits pois et les haricots verts à l'eau.
+    Dans une cocotte à fond épais, faire revenir les dés de poivrons dans l'huile d'olive chaude.
+    Ajouter le riz, remuer jusqu'à ce qu'il devienne translucide et mouiller à hauteur avec de l'eau. Laisser cuire 20 min.
+    Une fois le riz cuit, ajouter les petits pois, les haricots et le chorizo. Assaisonner de sel et de poivre.
+    Servir avec une tranche de jambon et un oeuf frit.
+  ]]>
+  </preparation>
+</recette>

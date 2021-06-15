@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="112707">
+  <titre>Croustille de poulet au cumin (brick)</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 escalopes de poulet (compter 5 aiguillettes par personnes)</p>
+    <p>1 poivron rouge (grillé)</p>
+    <p>100g de feta </p>
+    <p>50g de pignons</p>
+    <p>Huile d'olive</p>
+    <p>sel, poivre</p>
+    <p>4 pincées de cumin en poudre</p>
+    <p>1 pincée d'ail semoule</p>
+    <p>20 pics en bois type cure-dentpour la sauce (facultatif):</p>
+    <p>1 yaourt bulgare et 1 petit suisse OU équivalent crème fraîche</p>
+    <p>4 cuillères à café de menthe ciselée</p>
+    <p>1 pincée d'Ail semoule</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    BRICK DE POULET CUMIN :
+    1 : Préparation des ingrédients
+    Faîtes griller les poivrons entiers sous le grill du four, jusqu'à ce que la peau noircisse; laissez refroidir ; peler le poivron , l'émincer en fines lanières, ajouter sel, ail et huile d'olive. Réservez.
+    détaillez le poulet en petites aiguillettes; saleez, poivrez; faîtes cuire dans une poêle (environ 10 minutes) avec une cuillère à soupe d'huile d'olive; à la fin de la cuisson, saupoudrez de cumin.  Réservez.
+    émiettez la feta.
+    faites griller les pignons à sec dans une poêle.
+    2/ Façonnage des bricks :
+    couper chaque feuille de brick en deux.
+    au milieu de chaque demi-sphère, placez l'une contre l'autre une aiguillette de poulet et une lanière de poivron; ajoutez la feta émiettée, quelques pignons grillés.
+    pliez la feuille en deux sur les ingrédients, puis enroulez et rabattez les deux bords du rouleau en maintenant les extrémités avec deux pics en bois.
+    3/ Cuisson :
+    Dans une poêle légèrement huilée, faîtes dorer à feu moyen les rouleaux de brick , en enlevant les pics une fois que la cuisson commence à "fixer" la feuille.SAUCE YAOURT/MENTHE
+    mélanger tous les ingrédients, fouetter à la fourchette. Servir très frais.
+    Servez les Croustilles de poulet tièdes; idéales à manger avec les doigts, en trempant dans la sauce. 
+    Ou avec une salade.Servez les croustilles de poulet tièdes, idéales à manger avec les doigts, en trempant dans la sauce. Ou avec une salade.
+    Astuces : Vous pouvez préparer les poivrons la veille, après cuisson, les enfermer dans du papier alu qui fera étuve et les rendra ainsi fondants et faciles à éplucher!Ne mettez pas trop de "jus" ou huile" dans la croustille, au risque de la détremper et de la percer.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  BRICK DE POULET CUMIN : 1 : Préparation des ingrédients <OPER id="o_1">Faîtes</OPER> <OPER id="o_2">griller</OPER> les poivrons entiers sous le grill du four, jusqu'à ce que la peau noircisse ; laissez <OPER id="o_3">refroidir</OPER> ; <OPER id="o_4">peler</OPER> le <INGRED id="3">poivron</INGRED>, l'<OPER id="o_59">émincer</OPER> en fines lanières, <OPER id="o_616">ajouter</OPER> sel, <INGRED id="8">ail</INGRED> et <INGRED id="13">huile d'olive</INGRED>. Réservez. <OPER id="o_7">détaillez</OPER> le poulet en petites aiguillettes ; <OPER id="o_8">saleez</OPER>, <OPER id="o_9">poivrez</OPER> ; <OPER id="o_10">faîtes</OPER> <OPER id="o_11">cuire</OPER> dans une poêle ( <INGRED id="1">environ</INGRED> 10 minutes ) avec une cuillère à <INGRED id="6">soupe d'huile d'olive</INGRED> ; à la fin de la cuisson, <OPER id="o_12">saupoudrez</OPER> de <INGRED id="8">cumin</INGRED>. Réservez. <OPER id="o_13">émiettez</OPER> la <INGRED id="3">feta</INGRED>. faites <OPER id="o_14">griller</OPER> les <INGRED id="4">pignons</INGRED> à sec dans une poêle. 2/ Façonnage des bricks : <OPER id="o_15">couper</OPER> chaque feuille de <INGRED id="2">brick</INGRED> en deux. au milieu de chaque demi-sphère, <OPER id="o_16">placez</OPER> l'une contre l'autre une aiguillette de poulet et une lanière de <INGRED id="2">poivron</INGRED> ; <OPER id="o_17">ajoutez</OPER> la <INGRED id="3">feta</INGRED> émiettée, quelques <INGRED id="4">pignons</INGRED> grillés. <OPER id="o_18">pliez</OPER> la feuille en deux sur les ingrédients, puis <OPER id="o_19">enroulez</OPER> et rabattez les deux bords du rouleau en maintenant les extrémités avec deux <INGRED id="10">pics</INGRED> en bois. 3/ Cuisson : Dans une poêle légèrement huilée, <OPER id="o_20">faîtes</OPER> <OPER id="o_21">dorer</OPER> à feu moyen les <INGRED id="1">rouleaux</INGRED> de <INGRED id="2">brick</INGRED>, en enlevant les <INGRED id="10">pics</INGRED> une fois que la cuisson commence à " <OPER id="o_22">fixer</OPER> " la feuille. SAUCE YAOURT / MENTHE <OPER id="o_23">mélanger</OPER> tous les ingrédients, <OPER id="o_24">fouetter</OPER> à la fourchette. Servir très frais. Servez les Croustilles de poulet tièdes ; idéales à <OPER id="o_25">manger</OPER> avec les doigts, en trempant dans la sauce. Ou avec une salade. Servez les croustilles de poulet tièdes, idéales à <OPER id="o_26">manger</OPER> avec les doigts, en trempant dans la sauce. Ou avec une salade. Astuces : Vous pouvez <OPER id="o_27">préparer</OPER> les poivrons la veille, après cuisson, les <OPER id="o_28">enfermer</OPER> dans du papier alu qui fera étuve et les rendra ainsi fondants et faciles à <OPER id="o_29">éplucher!Ne</OPER> mettez pas trop de " <INGRED id="9">jus</INGRED> " ou <INGRED id="3">huile</INGRED> " dans la croustille, au risque de la <OPER id="o_30">détremper</OPER> et de la <OPER id="o_31">percer</OPER>.
+  </annotation>
+  <annotation methode="crf">
+  BRICK DE POULET CUMIN <INGRED>:</INGRED> 1 <INGRED>:</INGRED> Préparation des ingrédients Faîtes griller les <INGRED>poivrons</INGRED> entiers sous le grill du four <INGRED>,</INGRED> jusqu'à ce que la peau noircisse ; laissez refroidir ; peler le <INGRED>poivron</INGRED> <INGRED>,</INGRED> l'émincer en fines lanières <INGRED>,</INGRED> ajouter <INGRED>sel</INGRED> <INGRED>,</INGRED> <INGRED>ail</INGRED> et <INGRED>huile d'olive</INGRED> <INGRED>.</INGRED> Réservez <INGRED>.</INGRED> détaillez le <INGRED>poulet</INGRED> en petites aiguillettes ; saleez <INGRED>,</INGRED> poivrez ; faîtes cuire dans une poêle ( <INGRED>environ</INGRED> 10 minutes ) avec une cuillère à soupe d'<INGRED>huile d'olive</INGRED> ; à la fin de la cuisson <INGRED>,</INGRED> saupoudrez de <INGRED>cumin</INGRED>. Réservez <INGRED>.</INGRED> émiettez la feta. faites griller les <INGRED>pignons à sec</INGRED> dans une poêle <INGRED>.</INGRED> 2/ Façonnage des <INGRED>bricks</INGRED> <INGRED>:</INGRED> couper chaque feuille de <INGRED>brick</INGRED> en <INGRED>deux</INGRED>. au milieu de chaque demi-sphère <INGRED>,</INGRED> placez l'une contre l'autre une aiguillette de <INGRED>poulet</INGRED> et une lanière de <INGRED>poivron</INGRED> ; ajoutez la feta émiettée <INGRED>,</INGRED> quelques pignons grillés <INGRED>.</INGRED> pliez la feuille en <INGRED>deux</INGRED> sur les ingrédients <INGRED>,</INGRED> puis enroulez et rabattez les <INGRED>deux</INGRED> bords du <INGRED>rouleau</INGRED> en maintenant les extrémités avec <INGRED>deux</INGRED> pics en bois <INGRED>.</INGRED> 3/ Cuisson <INGRED>:</INGRED> Dans une poêle légèrement huilée <INGRED>,</INGRED> faîtes dorer à feu moyen les <INGRED>rouleaux de brick</INGRED> <INGRED>,</INGRED> en enlevant les pics une fois que la cuisson commence à " fixer " la feuille <INGRED>.</INGRED> SAUCE YAOURT / MENTHE mélanger tous les ingrédients <INGRED>,</INGRED> fouetter à la fourchette <INGRED>.</INGRED> Servir très <INGRED>frais</INGRED> <INGRED>.</INGRED> Servez les Croustilles de <INGRED>poulet</INGRED> tièdes ; idéales à manger avec les doigts <INGRED>,</INGRED> en trempant dans la <INGRED>sauce</INGRED>. Ou avec une salade <INGRED>.</INGRED> Servez les croustilles de <INGRED>poulet</INGRED> tièdes <INGRED>,</INGRED> idéales à manger avec les doigts <INGRED>,</INGRED> en trempant dans la <INGRED>sauce</INGRED>. Ou avec une salade <INGRED>.</INGRED> Astuces <INGRED>:</INGRED> Vous pouvez préparer les <INGRED>poivrons</INGRED> la veille <INGRED>,</INGRED> après cuisson <INGRED>,</INGRED> les enfermer dans du papier alu qui fera étuve et les rendra ainsi fondants et faciles à éplucher!Ne mettez pas trop de " <INGRED>jus</INGRED> " <INGRED>ou</INGRED> <INGRED>huile</INGRED> " dans la croustille <INGRED>,</INGRED> au risque de la détremper et de la percer <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 93.3333333333333*X + 18.6666666666667</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 35*X + 13</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['escalopes de poulet', 'escalopes']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['poivron rouge', 'poivron']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['feta']	 id:3	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['pignons']	 id:4	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["Huile d'olive", 'Huile']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['cumin en poudre', 'cumin']	 id:8	 quantité:4	 unité:pincées de	 denombrable:True	 recipient:4*X
+ingredient:['ail semoule', 'ail']	 id:9	 quantité:1	 unité:pincée d'	 denombrable:True	 recipient:1*X
+ingredient:['pics en bois type cure-dent', 'pics']	 id:10	 quantité:20	 unité:non_precis	 denombrable:True	 recipient:20*X
+ingredient:['yaourt bulgare', 'yaourt']	 id:11	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['suisse OU équivalent crème fraîche', 'suisse']	 id:12	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['menthe ciselée', 'menthe']	 id:13	 quantité:4	 unité:cuillères à café de	 denombrable:True	 recipient:4*X
+ingredient:['Ail semoule', 'Ail']	 id:14	 quantité:1	 unité:pincée d'	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:15	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:16	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:faîter	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:griller	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5*X	 recipient:1
+operation:refroidir	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:peler	 id:o_4	 ingrédients_ralatifs:['3', '9', '16', '8', '13']	 nombre_opération_atomique:1+1*X+1+4*X+4*X	 temps:1*X*1+1*X*1+1*X*1+4*X*1+4*X*1	 recipient:0
+operation:émincer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['8', '13']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:détailler	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saleer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:faîter	 id:o_10	 ingrédients_ralatifs:['1', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_11	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:saupoudrer	 id:o_12	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:émietter	 id:o_13	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:griller	 id:o_14	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:50*X	 temps:1*X*5	 recipient:1
+operation:couper	 id:o_15	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1*X*1	 recipient:1
+operation:placer	 id:o_16	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_17	 ingrédients_ralatifs:['3', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:plier	 id:o_18	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enrouler	 id:o_19	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:faîter	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dorer	 id:o_21	 ingrédients_ralatifs:['1', '2', '10']	 nombre_opération_atomique:2*X+1*X+20*X	 temps:2*X*1+1*X*1+20*X*1	 recipient:0
+operation:fixer	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_23	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:fouetter	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:manger	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:manger	 id:o_26	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparer	 id:o_27	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:enfermer	 id:o_28	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:éplucher!ne	 id:o_29	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:détremper	 id:o_30	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:percer	 id:o_31	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

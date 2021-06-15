@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13960">
+  <titre>Embeurrée de choux</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 chou vert</p>
+    <p>1 carotte</p>
+    <p>1 oignon</p>
+    <p>100 g de beurre salé</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Enlevez les feuilles flétries du chou. Coupez-le en 4.
+    Mettez de l'eau à bouillir dans une marmite et quand elle bout, faites-y blanchir le chou pendant 10 mn. Egouttez, rafraîchissez. Laissez 
+    égoutter.
+    Epluchez la carotte et l'oignon, émincez-les très finement. Dans une sauteuse, faites fondre le beurre, et faites y revenir doucement l'émincé de carotte et d'oignon.
+    Retirez le trognon et les bas de côtes du chou et découpez le en lanières. Ajoutez dans la sauteuse. Poivrez. Mélangez bien. Laissez cuire 10 mn à feu doux.
+    Servez. Ce vieux plat vendéen retrouve les faveurs de la cuisine actuelle. Il accompagne à merveille porc, saucisses, pintades, lapin.
+  ]]>
+  </preparation>
+</recette>

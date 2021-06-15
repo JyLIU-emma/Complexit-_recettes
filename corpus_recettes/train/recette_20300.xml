@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20300">
+  <titre>Ratatouille à la Viande Hachée</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>huile d'olive</p>
+    <p>1 gros oignon</p>
+    <p>2 gousses d'ail</p>
+    <p>400 g de viande hachée</p>
+    <p>250 g de tomates</p>
+    <p>1 kg de courgettes</p>
+    <p>1 poivron (ou deux moitiés de deux couleurs différentes) </p>
+    <p>sel</p>
+    <p>curry (facultatif) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre un peu d'huile d'olive dans ue grande casserole. 
+    Y faire revenir les oignons et l'ail haché quelques minutes. 
+    Une fois les oignons et l'ail revenus, ajouter la viande hachée. La faire revenir quelques minutes. 
+    Ajouter les tomates coupées grossièrement en dés (ou une boîte de tomates concassées). 
+    Pendant ce temps préparer les courgettes et les poivrons. Les couper en petits dés, sans nécessité d'enlever la peau. 
+    Ajouter les légumes dans la grande casserole. 
+    Couvrir et laisser mijoter entre 30 mn et 1 heure. Surveiller, rajouter un peu d'eau en cours de cuisson.
+    C'est une délicieuse alternative à la ratatouille classique.
+    Je rajoute du curry en poudre au moment de l'assaisonnement (c'est encore meilleur).Bon appétit à tous!
+  ]]>
+  </preparation>
+</recette>

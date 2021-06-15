@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="4026">
+  <titre>Roulades de truitre fumée</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>truites fumées en fines tranches</p>
+    <p>8 Carrés Frais Gervais</p>
+    <p>1 salade type "feuille de chêne"</p>
+    <p>ciboulette, échalotes, noix, </p>
+    <p>vinaigrette</p>
+    <p>citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger 6 Carré Frais avec la ciboulette. Saler et poivrer.
+    Abaisser les tranches de saumon sur votre plan de travail, disposer le mélange préparé ci-dessus, et former des roulés. Réserver au réfrigérateur.
+    Préparer la salade, et la réserver.
+    Préparer la sauce : ciseler les échalotes, hacher les noix, émincer la ciboulette.
+    Melanger les petits Carré Frais restant à la vinaigrette, de façon a obtenir une vinaigrette crémeuse.        
+    Mélanger à la salade.
+    Dresser la salade sur les assiettes, poser dessus le roulé, et decorer avec le citron cannelé et la ciboulette. 
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Mélanger</OPER> 6 <INGRED id="8">Carré Frais</INGRED> avec la <INGRED id="3">ciboulette</INGRED>. <OPER id="o_2">Saler</OPER> et <OPER id="o_3">poivrer</OPER>. <OPER id="o_4">Abaisser</OPER> les tranches de <INGRED id="2">saumon</INGRED> sur votre plan de travail, <OPER id="o_5">disposer</OPER> le mélange préparé ci - dessus, et former des roulés. Réserver au réfrigérateur. <OPER id="o_6">Préparer</OPER> la <INGRED id="4">salade</INGRED>, et la réserver. <OPER id="o_7">Préparer</OPER> la <INGRED id="5">sauce</INGRED> : <OPER id="o_8">ciseler</OPER> les <INGRED id="4">échalotes</INGRED>, <OPER id="o_9">hacher</OPER> les noix, <OPER id="o_10">émincer</OPER> la <INGRED id="4">ciboulette</INGRED>. <OPER id="o_11">Melanger</OPER> les petits <INGRED id="8">Carré Frais</INGRED> restant à la <INGRED id="7">vinaigrette</INGRED>, de façon a obtenir une <INGRED id="7">vinaigrette</INGRED> crémeuse. <OPER id="o_12">Mélanger</OPER> à la <INGRED id="4">salade</INGRED>. <OPER id="o_13">Dresser</OPER> la <INGRED id="4">salade</INGRED> sur les assiettes, <OPER id="o_14">poser</OPER> dessus le roulé, et <OPER id="o_15">decorer</OPER> avec le <INGRED id="8">citron</INGRED> cannelé et la <INGRED id="6">ciboulette</INGRED>.
+  </annotation>
+  <annotation methode="crf">
+  Mélanger 6 Carré Frais avec la <INGRED>ciboulette</INGRED>. Saler et poivrer. Abaisser les tranches de saumon sur votre plan de travail <INGRED>,</INGRED> disposer le <INGRED>mélange</INGRED> préparé ci - dessus <INGRED>,</INGRED> et former des roulés. Réserver au réfrigérateur. Préparer la <INGRED>salade</INGRED> <INGRED>,</INGRED> et la réserver <INGRED>.</INGRED> Préparer la <INGRED>sauce</INGRED> <INGRED>:</INGRED> ciseler les <INGRED>échalotes</INGRED> <INGRED>,</INGRED> hacher les <INGRED>noix</INGRED> <INGRED>,</INGRED> émincer la <INGRED>ciboulette</INGRED>. Melanger les <INGRED>petits</INGRED> Carré Frais restant à la <INGRED>vinaigrette</INGRED> <INGRED>,</INGRED> de façon <INGRED>a</INGRED> obtenir une <INGRED>vinaigrette</INGRED> crémeuse. Mélanger à la <INGRED>salade</INGRED> <INGRED>.</INGRED> Dresser la salade sur les assiettes <INGRED>,</INGRED> poser dessus le roulé <INGRED>,</INGRED> et decorer avec le <INGRED>citron</INGRED> cannelé et la <INGRED>ciboulette</INGRED>.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 9.0*X + 6.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 9*X + 10</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['truites fumées en fines tranches', 'truites']	 id:1	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['Carrés Frais Gervais', 'Carrés']	 id:2	 quantité:8	 unité:non_precis	 denombrable:True	 recipient:8*X
+ingredient:['chêne']	 id:3	 quantité:1	 unité:feuille de	 denombrable:True	 recipient:1*X
+ingredient:['ciboulette']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['échalotes']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['noix']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['vinaigrette']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['citron']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mélanger	 id:o_1	 ingrédients_ralatifs:['8', '3']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:saler	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:abaisser	 id:o_4	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:préparer	 id:o_6	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:préparer	 id:o_7	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:ciseler	 id:o_8	 ingrédients_ralatifs:['4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:hacher	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5*X	 recipient:1
+operation:émincer	 id:o_10	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:melanger	 id:o_11	 ingrédients_ralatifs:['8', '7', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_12	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:dresser	 id:o_13	 ingrédients_ralatifs:['4', '8', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poser	 id:o_14	 ingrédients_ralatifs:['8', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:decorer	 id:o_15	 ingrédients_ralatifs:['8', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20815">
+  <titre>Glacé à la meringue</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 Meringues (moyenne) </p>
+    <p>100 g 	de sucre</p>
+    <p>4 oeufs</p>
+    <p>50 cl de crème liquide</p>
+    <p>40 cl de caramel liquide </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre dans un bol les oeufs entier et le sucre, mixer jusqu’à ce que cela commence à mousser légèrement. 
+    Monter la crème en chantilly et mélanger doucement ces deux préparations. 
+    Prendre un plat genre saladier (de hauteur égal à sa base). 
+    Émietter grossièrement les meringues. 
+    Faire des couches en alternant le mélange (oeuf, sucre et chantilly),  meringue et caramel (commencer par le mélange et finir par ce dernier). 
+    Placer ce saladier au congélateur environ 6 heures et le sortir au milieu du repas.
+  ]]>
+  </preparation>
+</recette>

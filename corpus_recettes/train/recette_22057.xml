@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22057">
+  <titre>Tarte surprise à la rhubarbe</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte sablée maison ou toute prête</p>
+    <p>1 kg de rhubarbe</p>
+    <p>350 g de sucre en poudre</p>
+    <p>20 g de farine</p>
+    <p>25 cl de lait</p>
+    <p>2 jaunes d'oeufs + 2 blancs</p>
+    <p>75 g de sucre en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez et découpez la rhubarbe en tronçons.
+    Faites-la cuire dans une grande casserole avec 350 g de sucre en poudre, arrêtez la cuisson avant qu'elle ne réduise en purée.
+    Laissez refroidir.
+    Etalez la pâte dans un moule à tarte beurré et piquez-la à la fourchette.
+    Délayez la farine dans le lait, versez dans une casserole à fond épais et faites épaissir sur feu doux.
+    Fouttez les 2 jaunes d'oeufs avec le sucre, versez le lait chaud dedans en fouettant, hors du feu.
+    Battez les blancs en neige et incorporez-les.
+    Etalez la rhubarbe sur le fond de tarte et couvrez de crème pâtissière. Faites cuire 45 min au four à 180°C (thermostat 6).
+  ]]>
+  </preparation>
+</recette>

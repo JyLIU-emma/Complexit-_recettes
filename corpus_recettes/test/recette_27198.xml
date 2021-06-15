@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27198">
+  <titre>Rôti de porc diététique</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rôti de porc (1 kg) </p>
+    <p>herbes de Provence</p>
+    <p>aluminium</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Saupoudrer le dessus du rôti d'herbes de Provence. 
+    L'envelopper d'aluminium puis le mettre dans un plat au four. Préchauffer avant à 210°C et faire cuire 1 heure environ. 
+    Pour le temps de cuisson compter 1/2 heure par 500 g. 
+    Le rôti cuit dans sa graisse ; une fois cuit, laissez-le refroidir et servez-le avec différentes sauces et accompagné d'une salade !
+    Excellent et rapide ! 
+  ]]>
+  </preparation>
+</recette>

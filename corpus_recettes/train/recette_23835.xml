@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23835">
+  <titre>Pain de courgettes sans crème</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de courgettes</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>4 biscottes écrasées</p>
+    <p>1/2 verre de lait</p>
+    <p>100 g de gruyère râpé</p>
+    <p>2 oeufs</p>
+    <p>sel, poivre, noix de muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les courgettes épluchées et coupées en dés dans une poêle, dans l'huile d'olive Saler et poivrer.
+    Dans un saladier, ajouter aux biscottes écrasées le lait et les 2 oeufs battus en omelette. Mélanger, ajouter le gruyère et de la noix de muscade, puis ajouter cette préparation aux courgettes.
+    Cuire dans un moule à cake, à four chaud (200°C), entre 20 et 30 mn.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="5815">
+  <titre>Tomates de la mer</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tomates rondes</p>
+    <p>150 g de lamelles de saumon fumé</p>
+    <p>150 g de crevettes roses décortiquées</p>
+    <p>3 Carrés Frais</p>
+    <p>ciboulettes hachée + quelques feuilles pour la déco </p>
+    <p>1 cuillère d'huile d'olive, sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le haut des tomates.
+    Enlever la chair des tomates, et en réserver les trois-quarts dans une coupelle. 
+    Mélanger la chair avec les Carrés frais, l'huile d'olive, le sel, le poivre, et la ciboulette hachée.
+    Rajouter le saumon et les crevettes.
+    Disposer ce mélange dans les tomates, et décorer avec quelques feuilles de ciboulettes.
+    Variante : vous pouvez changer les ingrédients et utiliser du surimi ou un mélange avocat/crevettes.
+    Mettre au frais 30 min.
+    Déguster frais, avec quelques feuilles de mâche. 
+    Miam, miam ....
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Couper</OPER> le haut des <INGRED id="4">tomates</INGRED>. <OPER id="o_2">Enlever</OPER> la chair des <INGRED id="1">tomates</INGRED>, et en réserver les trois-quarts dans une coupelle. <OPER id="o_3">Mélanger</OPER> la chair avec les <INGRED id="5">Carrés frais</INGRED>, l'huile d'olive, le <INGRED id="9">sel</INGRED>, le <INGRED id="8">poivre</INGRED>, et la <INGRED id="2">ciboulette</INGRED> hachée. <OPER id="o_4">Rajouter</OPER> le <INGRED id="1">saumon</INGRED> et les <INGRED id="3">crevettes</INGRED>. <OPER id="o_5">Disposer</OPER> ce mélange dans les <INGRED id="2">tomates</INGRED>, et <OPER id="o_6">décorer</OPER> avec quelques <INGRED id="6">feuilles</INGRED> de <INGRED id="5">ciboulettes</INGRED>. Variante : vous pouvez <OPER id="o_7">changer</OPER> les ingrédients et <OPER id="o_8">utiliser</OPER> du surimi ou un mélange avocat / <INGRED id="2">crevettes</INGRED>. <OPER id="o_9">Mettre</OPER> au frais 30 min. Déguster frais, avec quelques <INGRED id="6">feuilles</INGRED> de mâche. Miam, miam....
+  </annotation>
+  <annotation methode="crf">
+  Couper le haut des <INGRED>tomates</INGRED> <INGRED>.</INGRED> Enlever la <INGRED>chair</INGRED> des <INGRED>tomates</INGRED> <INGRED>,</INGRED> et en réserver les trois-quarts dans une coupelle <INGRED>.</INGRED> Mélanger la <INGRED>chair</INGRED> avec les <INGRED>Carrés</INGRED> <INGRED>frais</INGRED> <INGRED>,</INGRED> l'<INGRED>huile d'olive</INGRED> <INGRED>,</INGRED> le <INGRED>sel</INGRED> <INGRED>,</INGRED> le <INGRED>poivre</INGRED> <INGRED>,</INGRED> et la <INGRED>ciboulette hachée</INGRED> <INGRED>.</INGRED> Rajouter le <INGRED>saumon</INGRED> et les <INGRED>crevettes</INGRED> <INGRED>.</INGRED> Disposer ce <INGRED>mélange</INGRED> dans les <INGRED>tomates</INGRED> <INGRED>,</INGRED> et décorer avec quelques feuilles de ciboulettes. Variante <INGRED>:</INGRED> vous pouvez changer les ingrédients et utiliser du <INGRED>surimi</INGRED> <INGRED>ou</INGRED> un <INGRED>mélange</INGRED> <INGRED>avocat</INGRED> / <INGRED>crevettes</INGRED> <INGRED>.</INGRED> Mettre au <INGRED>frais</INGRED> 30 min. Déguster <INGRED>frais</INGRED> <INGRED>,</INGRED> avec quelques feuilles de mâche. Miam <INGRED>,</INGRED> miam....
+  </annotation>
+  <complexite>
+    <temps>f(X) = 5.14285714285714*X + 3.85714285714286</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 8*X + 10</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['tomates rondes', 'tomates']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['lamelles de saumon fumé', 'lamelles']	 id:2	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crevettes roses décortiquées', 'crevettes']	 id:3	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['Carrés Frais', 'Carrés']	 id:4	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['ciboulettes hachée', 'ciboulettes']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['feuilles']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["huile d'olive", 'huile']	 id:7	 quantité:1	 unité:cuillère d'	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:couper	 id:o_1	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:3*X*1	 recipient:1
+operation:enlever	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:['5', '9', '8', '2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:rajouter	 id:o_4	 ingrédients_ralatifs:['1', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_5	 ingrédients_ralatifs:['2', '6', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:décorer	 id:o_6	 ingrédients_ralatifs:['6', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:changer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:utiliser	 id:o_8	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23781">
+  <titre>Quiche jambon ricotta mozzarella</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>2 oeufs</p>
+    <p>160 g de ricotta</p>
+    <p>3 cuillères à soupe de parmesan râpé</p>
+    <p>50 g de jambon</p>
+    <p>250 g de mozzarella</p>
+    <p>40 g de parmesan râpé</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 175° (thermostat 5-6).
+    Disposer la pâte dans un plat à tarte.
+    Fouetter les oeufs avec la ricotta et 20 g de parmesan.
+    Incorporer le jambon et la mozzarella coupés en dés puis verser sur la pâte.
+    Saupoudrer du reste de parmesan et enfourner pour 40 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

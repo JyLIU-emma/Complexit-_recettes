@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27358">
+  <titre>Concombre au fromage blanc aux herbes et épices</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 grand concombre ou 2 petits</p>
+    <p>150 g de fromage blanc épais</p>
+    <p>3 cuillères à soupe de crème</p>
+    <p>2 cuillère à soupe de ciboulette hachée</p>
+    <p>1 cuillère à soupe de persil haché</p>
+    <p>1 cuillère à soupe d'estragon haché</p>
+    <p>1/2 cuillère à café de paprika</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et couper le concombre en 6 morceaux. Évider en partie l'intérieur, en laissant un fond, afin d'en faire des cylindres fermés au fond. Saler et dégorger dans une passoire pendant 30 minutes.
+    Dans un bol, mélanger le fromage blanc, la crème, le paprika et les herbes hachées. Assaisonner.
+    Fourrer les cylindres de concombre avec le fromage blanc assaisonné à la cuillère ou à l'aide d'une poche à douille.
+    Servir frais.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18646">
+  <titre>Riz à l'andalouse</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de riz</p>
+    <p>25 g de beurre</p>
+    <p>150 g de restes de viande coupés en dés</p>
+    <p>200 g tomates</p>
+    <p>sel, poivre</p>
+    <p>cannelle</p>
+    <p>fines herbes</p>
+    <p>épices (paprika doux, ou mélange doux d'épices) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer le beurre. Lorsqu'il est bien chaud, y verser le riz cru et le faire dorer. 
+    Ajouter la viande, puis les épices et les tomates. Couvrir avec de l'eau. 
+    Cuire 10 mn sur feu vif, à découvert. 
+    Couvrir et achever la cuisson sur feu très doux pendant 15 à 20 mn.
+    Ce plat est très pratique pour utiliser les restes de viande mais aussi de volaille ou de poisson.
+    Si l'eau s'évapore trop rapidement, ne pas hésiter à en ajouter (surtout pendant les 10 premières minutes de cuisson) afn de ne pas avoir un plat trop sec.
+  ]]>
+  </preparation>
+</recette>

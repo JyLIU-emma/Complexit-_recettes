@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20703">
+  <titre>Pavé tout  chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour le cake :</p>
+    <p>300 g de biscuits à la cuillère</p>
+    <p>200 g de chocolat fondant </p>
+    <p>150 g de beurre</p>
+    <p>125 g de sucre</p>
+    <p>5 œufs</p>
+    <p>Pour le glaçage :</p>
+    <p>150 g de chocolat fondant</p>
+    <p>1 cuillère à soupe d’eau</p>
+    <p>Pour la décoration :</p>
+    <p>1 tasse de vermicelles de chocolat</p>
+    <p>quelques cerneaux de noix</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ecraser les biscuits à la cuillère et les réduire en miette au mixeur.
+    Dans un saladier, battre le beurre ramolli avec le sucre jusqu’à ce que le mélange blanchisse puis incorporer les jaunes d’œufs.
+    Mettre le chocolat à fondre au bain-marie, puis l’ajouter au mélange une fois qu’il est bien fondu.
+    Monter les œufs en neige et les incorporer délicatement au reste de la préparation.
+    Dans un moule à cake tapissé de papier d’aluminium, verser la préparation puis la laisser reposer 1 journée au réfrigérateur.
+    Le lendemain, démouler le cake au chocolat et préparer le glaçage.
+    Mettre le chocolat à fondre au bain-marie avec un peu d’eau.
+    Une fois fondu, l’étaler sur le dessus du cake à l’aide d’une spatule et bien lisser.
+    Saupoudrer de vermicelles en chocolat avec des cerneaux de noix pour décorer et laisser le glaçage durcir avant de servir.
+  ]]>
+  </preparation>
+</recette>

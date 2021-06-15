@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21004">
+  <titre>Gateau breton</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>350 g de farine</p>
+    <p>1 oeuf entier + 5 jaunes d'oeufs</p>
+    <p>300 g de sucre</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>350 g de beurre demi-sel très mou</p>
+    <p>1 cuillère à soupe de Cointreau</p>
+    <p>pour dorer le gâteau:</p>
+    <p>1 oeuf entier, 1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger farine + sucre + sucre vanillé. 
+    Creuser un puits et ajouter les oeufs, le beurre mou et le Cointreau. Travailler la pâte à l'aide d'une cuillère en bois. 
+    Préchauffer le four sur Th 6 (180°C). 
+    Beurrer un moule de 26 cm de diamètre. 
+    Verser la pâte dans le moule et l'aplatir. 
+    Battre l'oeuf entier avec une pincée de sel pour la dorure. Dorer le gâteau, puis strier la surface à l'aide des dents d'une fourchette. 
+    Faire cuire 45 mn. 
+    Laisser refroidir.
+    Vous pouvez accompagner ce gateau de confiture de pruneaux.
+  ]]>
+  </preparation>
+</recette>

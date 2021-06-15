@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26330">
+  <titre>Petits flans au café</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 cuillères à café de café soluble</p>
+    <p>200 g de sucre semoule</p>
+    <p>4 oeufs</p>
+    <p>75 cl de lait </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole, faire bouillir le lait avec le café soluble. Ajouter le sucre et le laisser fondre en remuant.
+    Dans un saladier, battre les oeufs et y incorporer le lait chaud en continuant de bien mélanger.
+    Préparer un bain-marie.
+    Verser la crème ainsi obtenue dans des ramequins allant au four et faire cuire le tout à 180°C (thermostat 6) pendant 30 min.
+    Bien laisser refroidir dans le bain-marie puis réserver au réfrigérateur.
+    Servir et déguster très frais.
+  ]]>
+  </preparation>
+</recette>

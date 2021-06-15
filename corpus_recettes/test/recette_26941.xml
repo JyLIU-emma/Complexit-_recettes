@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26941">
+  <titre>Confiture de banane au rhum</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de bananes mûres mais sans taches</p>
+    <p>750 g de sucre roux</p>
+    <p>3 dl d'eau</p>
+    <p>3 citrons verts</p>
+    <p>1 cuillère à café de cannelle en poudre</p>
+    <p>3 gousses de vanille</p>
+    <p>1 pincée de gingembre en poudre</p>
+    <p>1/2 dl de rhum</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez les bananes en rondelles fines. 
+    Mélangez l'eau, le jus des citrons, le sucre, la cannelle, les gousses de vanille fendues, et le gingembre. 
+    Mettez sur feu modéré et remuez sans cesse à la cuillère de bois jusqu'à ce que le sirop soit nappant. 
+    Mettez alors les rondelles de bananes. Laissez cuire 15 à 25 mn en remuant de temps en temps. 
+    Retirez du feu et ajoutez le rhum. 
+    Mettez en pots.
+    Vous pouvez aussi faire de simples confitures de bananes sans le rhum.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11482">
+  <titre>Palets de dames</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>60 g de beurre</p>
+    <p>60 g de sucre en poudre</p>
+    <p>75 g de farine</p>
+    <p>40 g de raisins de Corinthe</p>
+    <p>1 oeuf</p>
+    <p>3 cl de Rhum</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ramollir le beurre dans une terrine, mélanger le sucre et battre énergiquement le tout pendant 3 à 4 minutes.
+    Ajouter l'oeuf entier et continuer de travailler.
+    Terminer le mélange en rajoutant la farine et ensuite les raisins qui ont préalablement trempés dans le rhum.
+    Coucher en forme de petits macarons plats sur une tôle beurrée et farinée.
+    Cuire 200°C (thermostat 8) : 5 minutes.
+  ]]>
+  </preparation>
+</recette>

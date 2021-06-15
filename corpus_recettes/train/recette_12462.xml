@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12462">
+  <titre>Millas</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>50 cl de lait</p>
+    <p>250 g de farine de maïs</p>
+    <p>6 cuillerées à soupe de sucre</p>
+    <p>3 oeufs</p>
+    <p>75 g de beurre fondu</p>
+    <p>1 pincée de sel</p>
+    <p>7 cl de Cognac</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Délayez les jaunes d'oeufs avec le sucre . Ajoutez en pluie la farine, la pincée de sel, le beurre fondu et le cognac.Mélangez bien. Versez sur la préparation le lait tiède et en dernier les blancs battus en neige, en mélangeant délicatement pour obtenir une boillie homogène sans trop écraser les blancs.
+    Beurrez un plat profond allant au four, y verser la mixture et faire cuire à feu vif environ 30mn.
+    Le millas est cuit lorque la base est consistante et le dessus comme un flan. Servir chaud.
+  ]]>
+  </preparation>
+</recette>

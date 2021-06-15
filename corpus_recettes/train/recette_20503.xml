@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20503">
+  <titre>FLAN D'ECREVISSES</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boîte de suprême d’écrevisses</p>
+    <p>3 œufs</p>
+    <p>410 gr de lait concentré non sucré</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger tous les ingrédients en ajoutant du sel et du poivre.
+    Mettre 40 min au bain-marie.
+    Servir avec du riz.
+    Plat  à faire le soir en famille.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24992">
+  <titre>Filets de cabillaud à la sauce tartare</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la sauce tartare :</p>
+    <p>3 oeufs</p>
+    <p>1 cuillère à soupe de vinaigre à l’estragon</p>
+    <p>cerfeuil frais</p>
+    <p>sel, poivre</p>
+    <p>ciboulette fraîche</p>
+    <p>persil frais</p>
+    <p>12 cl d'huile</p>
+    <p>Pour le poisson :</p>
+    <p>4 filets de cabillaud</p>
+    <p>1 cube de bouillon</p>
+    <p>1 citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour la sauce tartare :
+    Faire cuire 2 oeufs durs (10 minutes dans une casserole d'eau bouillante). Les écaler et les écraser à la fourchette.
+    Casser le 3e oeuf et battre le jaune seulement avec les 2 oeufs durs écrasés dans un bol. Ajouter le vinaigre, l'estragon, l'huile, le sel et le poivre.
+    A l'aide d'un mixeur, hacher la ciboulette, le persil et le cerfeuil frais puis les incorporer à la préparation.
+    Bien mélanger le tout et réserver au frais.
+    Pour le poisson :
+    Délayer un cube de bouillon dans de l'eau chaude. Faire pocher les 4 filets de cabillaud dans le court-bouillon entre 10 à 15 minutes. L'égoutter et le napper de la sauce tartare.
+    Rajouter quelques rondelles de citron jaune pour décorer le dessus du plat.
+  ]]>
+  </preparation>
+</recette>

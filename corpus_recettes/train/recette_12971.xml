@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12971">
+  <titre>Conejo al ajillo (Espagne)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 lapin</p>
+    <p>12 gousses d'ail hâchées</p>
+    <p>2 cuillères à soupe de vinaigre de vin</p>
+    <p>1 piment piquant</p>
+    <p>sel</p>
+    <p>6 cuillères à soupe d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le lapin en morceaux d'environ 4 cm. Faire chauffer l'huile dans une poêle assez grande. Y mettre en même temps le lapin, le vinaigre et l'ail. Saler et pimenter au goût.
+    Laisser cuire à feu moyen, en remuant souvent, jusqu'à ce que le lapin soit doré et cuit à coeur.
+    Servir chaud ou froid (en tapas).
+  ]]>
+  </preparation>
+</recette>

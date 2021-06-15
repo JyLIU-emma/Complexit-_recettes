@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25113">
+  <titre>Chaud-froid de pain d'épices à la glace vanille</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1/2 l de glace vanille</p>
+    <p>16 tranches de bon pain d'épices</p>
+    <p>1/2 l de crème anglaise</p>
+    <p>100 g de beurre 1/2 sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emietter 4 tranches de pain d'épices dans la crème anglaise. 
+    Dans une poêle, chauffer 25 g de beurre salé, faire dorer 3 tranches de pain d'épices rapidement (1 mn sur chaque face à feu doux). 
+    Poser les tranches chaudes sur une assiette, rajouter une boule de glace vanille et napper le tout de crème anglaise au pain d'épices. 
+    Recommencer pour chaque convive.
+    Attention, le pain d'épices brûle facilement.
+  ]]>
+  </preparation>
+</recette>

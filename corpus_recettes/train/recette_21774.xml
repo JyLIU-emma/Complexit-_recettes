@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21774">
+  <titre>Tarte aux poires amandine</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte sablée</p>
+    <p>4 grosses poires</p>
+    <p>125 g de beurre mou</p>
+    <p>125 g de sucre</p>
+    <p>2 oeufs</p>
+    <p>125 g de poudre d'amandes</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>1 cuillère à soupe d'alcool de poire</p>
+    <p>1 citron</p>
+    <p>sirop : 200 g de sucre + 1 l d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les poires, les couper en 2 et les épépiner.
+    Faire bouillir l'eau et le sucre pour le sirop, y déposer les poires et laisser pocher 20 min à feu doux.
+    Mélanger le beurre ramolli avec le sucre, les oeufs, la poudre d'amandes et la farine. Travailler le mélange pour qu'il soit crémeux. Ajouter l'alcool de poire.
+    Etaler la pâte, garnir un moule et étaler ce mélange sur le fond de tarte. Poser les poires égouttée sur la crème. Faire cuire la tarte 35 minutes au four à 210°C (thermostat 7).
+  ]]>
+  </preparation>
+</recette>

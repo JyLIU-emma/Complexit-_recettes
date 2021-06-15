@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23299">
+  <titre>Bavaroise de saumon fumé</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de saumon fumé</p>
+    <p>1/4 l de lait</p>
+    <p>1/4 l de crème fraîche</p>
+    <p>4 jaunes d’oeufs</p>
+    <p>4 feuilles de gélatine</p>
+    <p>1 petite boîte d’asperges</p>
+    <p>kiwis et oeufs de lump pour le décor</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire tremper les feuilles de gélatine dans un peu d’eau. 
+    Fouetter la crème fraîche. 
+    Mixer le saumon avec le lait, puis faire chauffer. Hors du feu, ajouter les jaunes d’oeufs, puis remettre à chauffer tout en remuant (comme la crème anglaise avec les mêmes dangers de faire cuire les oeufs). 
+    Après épaississement, mettre la gélatine, les asperges et la crème fouettée. 
+    Verser dans un moule à cake légèrement huilé et mettre au frais pendant 24 heures. 
+    Démouler et décorer.
+  ]]>
+  </preparation>
+</recette>

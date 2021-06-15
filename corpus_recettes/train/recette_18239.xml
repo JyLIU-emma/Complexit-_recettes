@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18239">
+  <titre>Dindonneau à la diable</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de rôti de dindonneau</p>
+    <p>30 g de moutarde</p>
+    <p>3 c à soupe d'huile d'olive</p>
+    <p>Estragon haché</p>
+    <p>1/2 gousse d'ail</p>
+    <p>2 c à soupe de crème fraîche à 15%</p>
+    <p>Sel</p>
+    <p>Poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Chauffez l'huile dans la cocotte. Faites dorer le dindonneau à feu vif. Réservez la viande.
+    Réduisez le feu et ajoutez la moutarde. Mélangez bien jusqu'à obtention d'une sauce parfaitement fluide. Mouillez avec une petite quantité d'eau. Ajoutez l'ail et l'estragon, assaisonnez.
+    Remettez le rôti de dindonneau dans la cocotte et faites mijoter à feu doux de 30 à 40 minutes.
+    Au moment de servir, ajoutez la crème allégée à la sauce et versez sur la viande.
+    Idéal pour ceux qui font attention à leur ligne : 240 cal/pers.
+  ]]>
+  </preparation>
+</recette>

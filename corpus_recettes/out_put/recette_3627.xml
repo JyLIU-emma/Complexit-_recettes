@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="3627">
+  <titre>Potage vert au fromage frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de brocoli</p>
+    <p>2 courgettes</p>
+    <p>2 oignons</p>
+    <p>150 g de salade de blé</p>
+    <p>4 Carrés gervais frais 0%</p>
+    <p>1 l d'eau</p>
+    <p>3 cubes de bouillon dégraissés </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez, nettoyez, et coupez tous les légumes. 
+    Faites chauffer l'eau, et mettez les légumes coupés dans l'eau. 
+    Ajoutez les cubes dans le potage. Faites cuire pendant 25 min. 
+    Ensuite, mettez les petits gervais dans le faitout, et attendez qu'ils soient bien fondu, pour bien mixer ce délicieux potage, pauvre en calories.    
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Epluchez</OPER>, <OPER id="o_2">nettoyez</OPER>, et coupez tous les légumes. Faites <OPER id="o_3">chauffer</OPER> l'<INGRED id="5">eau</INGRED>, et mettez les légumes coupés dans l'eau. <OPER id="o_4">Ajoutez</OPER> les cubes dans le potage. Faites <OPER id="o_5">cuire</OPER> pendant 25 min. Ensuite, <OPER id="o_6">mettez</OPER> les petits gervais dans le faitout, et attendez qu'ils soient bien fondu, pour bien mixer ce délicieux potage, pauvre en calories.
+  </annotation>
+  <annotation methode="crf">
+  Epluchez <INGRED>,</INGRED> nettoyez <INGRED>,</INGRED> et coupez tous les <INGRED>légumes</INGRED> <INGRED>.</INGRED> Faites chauffer l'<INGRED>eau</INGRED> <INGRED>,</INGRED> et mettez les <INGRED>légumes</INGRED> coupés dans l'<INGRED>eau</INGRED> <INGRED>.</INGRED> Ajoutez les cubes dans le potage. Faites cuire pendant 25 min. Ensuite <INGRED>,</INGRED> mettez les <INGRED>petits</INGRED> gervais dans le faitout <INGRED>,</INGRED> et attendez qu'ils soient bien fondu <INGRED>,</INGRED> pour bien mixer ce délicieux potage <INGRED>,</INGRED> pauvre en calories <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 4.2*X + 1.8</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 7*X + 6</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['brocoli']	 id:1	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['courgettes']	 id:2	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['oignons']	 id:3	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['salade de blé', 'salade']	 id:4	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['eau']	 id:5	 quantité:1	 unité:l d'	 denombrable:False	 recipient:1
+ingredient:['bouillon dégraissés', 'bouillon']	 id:6	 quantité:3	 unité:cubes de	 denombrable:True	 recipient:3*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:eplucher	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:nettoyer	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_3	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:ajouter	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:mettre	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

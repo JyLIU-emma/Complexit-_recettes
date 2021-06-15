@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25512">
+  <titre>Gâteau caramélisé à l'ananas et au rhum</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 grande boîte d'ananas au sirop ou 1 gros ananas bien mûr</p>
+    <p>Pour le caramel :</p>
+    <p>125 g de sucre  </p>
+    <p>4 cuillères à soupe d'eau</p>
+    <p>Pour la pâte :</p>
+    <p>4 oeufs</p>
+    <p>200 g de sucre </p>
+    <p>150 g de beurre mou </p>
+    <p>250 g de farine</p>
+    <p>10 cl de rhum</p>
+    <p>1 citron</p>
+    <p>1 sachet de levure chimique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et couper l'ananas frais en tranches, recueillir le jus.
+    Egoutter l'ananas au sirop et conserver le sirop.   
+    Préparer le caramel : mettre le sucre et l'eau dans une casserole à fond épais, laisser le mélange fondre et prendre une couleur blonde à feu doux. Ne pas remuer, la transformation se fait seule.
+    Verser le caramel dans un moule à bords hauts (moule à manqué) en l'inclinant pour bien répartir le caramel sur le fond et les parois.
+    Déposer aussitôt quelques rondelles d'ananas à plat sur le caramel.
+    Préchauffer le four à 180°C (thermostat 6).
+    Mixer le reste d'ananas en purée.
+    Battre les oeufs avec le sucre jusqu'à ce que le mélange épaississe et blanchisse.
+    Incorpore le beurre mou en dés et la farine petit à petit. Ajouter enfin le jus du citron, la levure, la moitié du rhum et la purée d'ananas.
+    Bien mélanger et verser le tout dans le moule.
+    Enfourner et laisser cuire 50 minutes.
+    Pendant ce temps, préparer un sirop avec le jus d'ananas si celui-ci était frais : mélanger le jus avec de l'eau pour obtenir 20 cl del iquide, ajouter 2 à 3 cuillères à soupe de sucre et porter à ébullition. Ajouter le rhum.
+    Sinon, mélanger le rhum au sirop de la boîte.
+    Une fois cuit, laisser tiédir le gâteau. Le démouler et l'arroser avec le sirop au rhum.
+    Servir aussitôt ou bien laisser refroidir. Accompagner de glace à la vanille.
+  ]]>
+  </preparation>
+</recette>

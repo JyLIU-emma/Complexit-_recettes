@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171682">
+  <titre>Canard à l'orange à ma façon</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de canard (aiguillettes)</p>
+    <p>2 cuisses de canard</p>
+    <p>Pour la marinade :</p>
+    <p>1 à 2 oranges selon les goûts</p>
+    <p>1 échalote</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>2 gousses d'ail</p>
+    <p>10 cl de Grand Marnier ou de Cointreau</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>Pour la sauce :</p>
+    <p>1 oignon</p>
+    <p>1 bouillon cube de volaille</p>
+    <p>Grand Marnier ou Cointreau</p>
+    <p>10 g de persil</p>
+    <p>1 pincée de piment d'Espelette</p>
+    <p>100 cl de jus d'orange concentré</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille, préparer la marinade.
+    Disposer la viande dans une terrine, puis ajouter tous les ingrédients de la marinade (le zeste d'orange coupé en petits morceaux et le jus de l'orange, l'huile d'olive, l'échalote émincée, la gousse d'ail émincée et l'alcool), saler et poivrer.
+    Recouvrir de film alimentaire et réserver au moins 12h au réfrigérateur.
+    Le lendemain, préparer la sauce.
+    Faire revenir l'oignon émincé dans un peu d'huile d'olive avec les morceaux de canard à feu vif environ 8 min.
+    Déglacer au Grand Marnier ou au Cointreau jusqu'à évaporation complète de l'alcool, puis ajouter le cube de bouillon, la marinade et recouvrir d'eau.
+    Cuire à couvert et à feu doux pendant 35 min en rajoutant de l'eau si nécessaire.5 min avant la fin de la cuisson, ajouter le persil, le piment et le jus d'orange.Accompagnement au choix : écrasée de pommes de terre nature ou aux cèpes, riz blanc, risotto... Sauternes ou Monbazillac
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  La veille, <OPER id="o_1">préparer</OPER> la marinade. <OPER id="o_2">Disposer</OPER> la <INGRED id="1">viande</INGRED> dans une terrine, puis <OPER id="o_3">ajouter</OPER> tous les ingrédients de la marinade ( le <INGRED id="7">zeste</INGRED> d'<INGRED id="8">orange</INGRED> coupé en <INGRED id="3">petits</INGRED> <INGRED id="1">morceaux</INGRED> et le <INGRED id="12">jus</INGRED> de l'<INGRED id="8">orange</INGRED>, l'<INGRED id="9">huile d'olive</INGRED>, l'<INGRED id="8">échalote émincée</INGRED>, la gousse d'<INGRED id="3">ail</INGRED> émincée et l'alcool ), <OPER id="o_4">saler</OPER> et <OPER id="o_5">poivrer</OPER>. <OPER id="o_6">Recouvrir</OPER> de film alimentaire et réserver au moins 12h au réfrigérateur. Le lendemain, <OPER id="o_7">préparer</OPER> la sauce. Faire <OPER id="o_8">revenir</OPER> l'<INGRED id="3">oignon émincé</INGRED> dans un peu d'<INGRED id="12">huile d'olive</INGRED> avec les <INGRED id="1">morceaux</INGRED> de <INGRED id="1">canard</INGRED> à feu vif <INGRED id="1">environ</INGRED> 8 min. <OPER id="o_9">Déglacer</OPER> au <INGRED id="7">Grand Marnier</INGRED> ou au Cointreau jusqu'à évaporation complète de l'alcool, puis <OPER id="o_10">ajouter</OPER> le <INGRED id="4">cube</INGRED> de <INGRED id="6">bouillon</INGRED>, la marinade et <OPER id="o_11">recouvrir</OPER> d'eau. <OPER id="o_12">Cuire</OPER> à couvert et à feu doux pendant 35 min en rajoutant de l'<INGRED id="8">eau</INGRED> si nécessaire.5 min avant la fin de la cuisson, <OPER id="o_13">ajouter</OPER> le <INGRED id="6">persil</INGRED>, le <INGRED id="14">piment</INGRED> et le <INGRED id="9">jus d'orange</INGRED>. Accompagnement au choix : écrasée de <INGRED id="4">pommes de terre</INGRED> nature ou aux cèpes, <INGRED id="1">riz</INGRED> <INGRED id="1">blanc</INGRED>, risotto... Sauternes ou Monbazillac
+  </annotation>
+  <annotation methode="crf">
+  La veille <INGRED>,</INGRED> préparer la marinade <INGRED>.</INGRED> Disposer la <INGRED>viande</INGRED> dans une terrine <INGRED>,</INGRED> puis ajouter tous les ingrédients de la marinade ( le <INGRED>zeste d'orange</INGRED> <INGRED>coupé</INGRED> en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> et le <INGRED>jus</INGRED> de l'orange <INGRED>,</INGRED> l'<INGRED>huile d'olive</INGRED> <INGRED>,</INGRED> l'<INGRED>échalote</INGRED> émincée <INGRED>,</INGRED> la gousse d'<INGRED>ail</INGRED> émincée et l'<INGRED>alcool</INGRED> ) <INGRED>,</INGRED> saler et poivrer. Recouvrir de film alimentaire et réserver au moins 12h au réfrigérateur. Le lendemain <INGRED>,</INGRED> préparer la <INGRED>sauce</INGRED>. Faire revenir l'<INGRED>oignon</INGRED> émincé dans un peu d'<INGRED>huile d'olive</INGRED> avec les <INGRED>morceaux</INGRED> de <INGRED>canard</INGRED> à feu vif <INGRED>environ</INGRED> 8 min. Déglacer au Grand Marnier <INGRED>ou</INGRED> au Cointreau jusqu'à évaporation complète de l'<INGRED>alcool</INGRED> <INGRED>,</INGRED> puis ajouter le cube de <INGRED>bouillon</INGRED> <INGRED>,</INGRED> la marinade et recouvrir d'<INGRED>eau</INGRED> <INGRED>.</INGRED> Cuire à couvert et à feu doux pendant 35 min en rajoutant de l'<INGRED>eau</INGRED> si nécessaire.5 min avant la fin de la cuisson <INGRED>,</INGRED> ajouter le <INGRED>persil</INGRED> <INGRED>,</INGRED> le <INGRED>piment</INGRED> et le <INGRED>jus d'orange</INGRED> <INGRED>.</INGRED> Accompagnement au choix <INGRED>:</INGRED> écrasée de <INGRED>pommes de terre</INGRED> nature <INGRED>ou</INGRED> aux <INGRED>cèpes</INGRED> <INGRED>,</INGRED> riz <INGRED>blanc</INGRED> <INGRED>,</INGRED> risotto... Sauternes <INGRED>ou</INGRED> Monbazillac
+  </annotation>
+  <complexite>
+    <temps>f(X) = 7.94444444444444*X + 5.05555555555556</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 11*X + 10</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['canard']	 id:1	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['cuisses de canard', 'cuisses']	 id:2	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['oranges selon les goûts', 'oranges']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['échalote']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:["huile d'olive", 'huile']	 id:5	 quantité:2	 unité:cuillères à soupe d'	 denombrable:True	 recipient:2*X
+ingredient:['ail']	 id:6	 quantité:2	 unité:gousses d'	 denombrable:True	 recipient:2*X
+ingredient:['Grand Marnier', 'Marnier']	 id:7	 quantité:10	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['oignon']	 id:10	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['volaille']	 id:11	 quantité:1	 unité:cube de	 denombrable:True	 recipient:1*X
+ingredient:['Marnier ou Cointreau', 'Marnier']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['persil']	 id:13	 quantité:10	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["piment d'Espelette", 'piment']	 id:14	 quantité:1	 unité:pincée de	 denombrable:True	 recipient:1*X
+ingredient:["jus d'orange concentré", 'jus']	 id:15	 quantité:100	 unité:cl de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préparer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:disposer	 id:o_2	 ingrédients_ralatifs:['1', '7', '8', '3', '1', '12', '8', '9', '8', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_3	 ingrédients_ralatifs:['7', '8', '3', '1', '12', '8', '9', '8', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recouvrir	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:revenir	 id:o_8	 ingrédients_ralatifs:['3', '12', '1', '1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:déglacer	 id:o_9	 ingrédients_ralatifs:['7', '4', '6']	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:['4', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recouvrir	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_12	 ingrédients_ralatifs:['8', '6', '14', '9']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:ajouter	 id:o_13	 ingrédients_ralatifs:['6', '14', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

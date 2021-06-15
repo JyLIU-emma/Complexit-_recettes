@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23230">
+  <titre>Flan aux nectarines</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 nectarines</p>
+    <p>4 oeufs</p>
+    <p>60 g farine</p>
+    <p>60 g de fécule de Maïzena</p>
+    <p>120 g de sucre en poudre</p>
+    <p>20 cl de lait 1/2 écrémé</p>
+    <p>20 cl de crème fraîche fluide allégée</p>
+    <p>2 sachets de sucre vanillé</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (th 6-7), et beurrer un moule. 
+    Laver les nectarines, enlever les noyaux; puis les couper en petits quartiers et les répartir au fond du moule. 
+    Dens une terrine, tamiser la farine, la maizéna, et 1 pincée de sel; creuser un puits. 
+    Dans un saladier, mélanger le sucre et les oeufs jusqu'à ce que le mélange devienne mousseux, puis le verser dans le puits. 
+    Mélanger au fouet, puis ajouter le lait et la crème liquide, afin d'obtenir une pâte fluide et homogène. 
+    Verser cette préparation sur les nectarines, puis saupoudrer de sucre vanillé. 
+    Enfourner et laisser cuire environ 1 heure. 
+    Laisser refroidir et servir !
+    On peut utiliser indifféremment des pêches pelées.
+  ]]>
+  </preparation>
+</recette>

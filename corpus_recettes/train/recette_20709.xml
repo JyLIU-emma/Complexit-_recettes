@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20709">
+  <titre>Lotte au gingembre facile</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>750 g de lotte</p>
+    <p>50 g de farine</p>
+    <p>4 morceaux de gingembre frais </p>
+    <p>2 morceaux de sucre</p>
+    <p>30 cl d'eau</p>
+    <p>3 cuillères à soupe de nuoc-mam : sauce de poisson</p>
+    <p>5 cuillères à soupe d'huile</p>
+    <p>sel </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper la lotte en 6 tranches et les passer dans la farine. Tapoter pour ôter l'excédent.
+    Faire revenir le poisson dasn l'huile chaude pendant 5 minutes afin de bien le colorer sur chaque face.
+    Dans une autre casserole, faire revenir le gingembre émincé dans l'huile chaude avec le sucre puis verser l'eau.
+    Ajouter les morceaux de lotte, poursuivre la cuisson 10 minutes puis arroser de sauce nuoc-mam.
+    Laisser mijoter 10 minutes et servir avec du riz.
+  ]]>
+  </preparation>
+</recette>

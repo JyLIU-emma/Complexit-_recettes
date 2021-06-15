@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24367">
+  <titre>Salade tiède de pâtes (Italie du Nord)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de pâtes (penne rigate) </p>
+    <p>deux boules de mozzarella</p>
+    <p>une petite boîte de Mascarpone (ou un peu moins, soit environ 250 g) </p>
+    <p>2 ou 3 tomates</p>
+    <p>6 feuilles (ou plus) de basilic frais</p>
+    <p>une gousse d'ail</p>
+    <p>sel, poivre</p>
+    <p>huile d'olives</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les pâtes selon les instructions du fabricant. 
+    Pendant ce temps, vider les tomates et les couper en dés. Peler l'ail et le hacher finement. Mettre ail et tomates dans un grand plat. Y ajouter le basilic, les boules de mozzarella coupées en morceaux, sel, poivre, huile d'olive (selon le goût). Mélanger le tout. 
+    Une fois les pâtes cuites, les incorporer à la préparation. Ajouter le Mascarpone et mélanger (la mozzarella doit fondre avec la chaleur des pâtes). Vérifier l'assaisonnement.
+    Ce plat peut être servi en entrée comme en ITALIE !
+  ]]>
+  </preparation>
+</recette>

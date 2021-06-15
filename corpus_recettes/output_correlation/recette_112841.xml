@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="112841">
+  <titre>Bûche Citron Coco</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>40 biscuits cuillères</p>
+    <p>2 cuillères à soupe de rhum ambré </p>
+    <p>10 cl d'eau</p>
+    <p>85 g de sucre en poudre</p>
+    <p>3 citrons </p>
+    <p>2 feuilles de gélatine</p>
+    <p>3 oeufs</p>
+    <p>250 g de mascarpone</p>
+    <p>50 g de noix de coco râpée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Prendre un moule à cake et mettre du cellophane à l'intérieur pour faciliter le démoulage à la fin.
+    Garnir les parois du moule ( fond et cotés ) de biscuits cuillères que vous aurez trempés au fur et à mesure dans le mélange 10 cl eau + 10 gr de sucre et 2 cuillères à soupe de rhum.
+    Presser le jus de 2 citrons
+    Tremper les feuilles de gélatines dans de l'eau pendants 7 minutes
+    Faire chauffer légèrement le jus de citron et y mélanger les feuilles de gélatines bien essorées.
+    Mélanger les 3 jaunes d'oeufs au 75 gr de sucre, rajouter le mélange jus de citron gélatine, insérer la mascarpone, enfin ajouter le zeste d'un citron et la coco râpée.
+    Battre les 3 blancs d'oeufs avec une pincée de sel.
+    Insérer les blancs battus en neige à la préparation mascarpone/citron.
+    Verser la préparation dans le moule au milieu des biscuits.
+    Reserver au frigo pendants au moins 4 h en couvrant d'une feuille de cellophane et d'une assiette
+    Sortir au dernier moment, retourner votre moule à Cake, retier le papier cellophane et décorer de coco rapé.Vous pouvez le faire la veille. Champagne
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  - <OPER id="o_1">Prendre</OPER> un moule à cake et <OPER id="o_2">mettre</OPER> du cellophane à l'intérieur pour faciliter le démoulage à la fin. <OPER id="o_3">Garnir</OPER> les parois du moule ( <INGRED id="4">fond</INGRED> et cotés ) de <INGRED id="1">biscuits cuillères</INGRED> que vous aurez trempés au fur et à mesure dans le <INGRED id="7">mélange</INGRED> 10 cl eau + 10 gr de <INGRED id="5">sucre</INGRED> et 2 cuillères à <INGRED id="4">soupe</INGRED> de <INGRED id="2">rhum</INGRED>. <OPER id="o_4">Presser</OPER> le <INGRED id="9">jus</INGRED> de 2 <INGRED id="5">citrons</INGRED> <OPER id="o_5">Tremper</OPER> les feuilles de gélatines dans de l'<INGRED id="1">eau</INGRED> pendants 7 minutes Faire <OPER id="o_6">chauffer</OPER> légèrement le <INGRED id="7">jus de citron</INGRED> et y <OPER id="o_7">mélanger</OPER> les feuilles de gélatines bien essorées. <OPER id="o_8">Mélanger</OPER> les 3 jaunes d'<INGRED id="1">oeufs</INGRED> au 75 gr de sucre, <OPER id="o_9">rajouter</OPER> le <INGRED id="2">mélange</INGRED> <INGRED id="7">jus de citron</INGRED> <INGRED id="8">gélatine</INGRED>, <OPER id="o_10">insérer</OPER> la <INGRED id="1">mascarpone</INGRED>, enfin <OPER id="o_11">ajouter</OPER> le <INGRED id="4">zeste</INGRED> d'un <INGRED id="6">citron</INGRED> et la coco râpée. <OPER id="o_12">Battre</OPER> les 3 blancs d'<INGRED id="2">oeufs</INGRED> avec une pincée de sel. <OPER id="o_13">Insérer</OPER> les blancs battus en neige à la préparation <INGRED id="4">mascarpone</INGRED> / citron. <OPER id="o_14">Verser</OPER> la préparation dans le moule au milieu des <INGRED id="2">biscuits</INGRED>. <OPER id="o_15">Reserver</OPER> au frigo pendants au moins 4 h en couvrant d'une feuille de cellophane et d'une assiette <OPER id="o_16">Sortir</OPER> au dernier moment, <OPER id="o_17">retourner</OPER> votre moule à Cake, <OPER id="o_18">retier</OPER> le papier cellophane et <OPER id="o_19">décorer</OPER> de coco rapé. Vous pouvez le faire la veille. Champagne
+  </annotation>
+  <annotation methode="crf">
+  - Prendre un moule à cake et mettre du cellophane à l'intérieur pour faciliter le démoulage à la fin. Garnir les parois du moule ( <INGRED>fond</INGRED> et cotés ) de <INGRED>biscuits</INGRED> <INGRED>cuillères</INGRED> que vous aurez trempés au fur et à mesure dans le <INGRED>mélange</INGRED> 10 cl <INGRED>eau</INGRED> + 10 gr de <INGRED>sucre</INGRED> et 2 <INGRED>cuillères à soupe</INGRED> de <INGRED>rhum</INGRED>. Presser le <INGRED>jus</INGRED> de 2 <INGRED>citrons</INGRED> Tremper les feuilles de gélatines dans de l'<INGRED>eau</INGRED> pendants 7 minutes Faire chauffer légèrement le <INGRED>jus de citron</INGRED> et y mélanger les feuilles de gélatines bien essorées <INGRED>.</INGRED> Mélanger les 3 <INGRED>jaunes d'oeufs</INGRED> au 75 gr de <INGRED>sucre</INGRED> <INGRED>,</INGRED> rajouter le <INGRED>mélange</INGRED> <INGRED>jus de citron</INGRED> <INGRED>gélatine</INGRED> <INGRED>,</INGRED> insérer la <INGRED>mascarpone</INGRED> <INGRED>,</INGRED> enfin ajouter le <INGRED>zeste</INGRED> d'un <INGRED>citron</INGRED> et la coco râpée. Battre les 3 <INGRED>blancs d'oeufs</INGRED> avec une pincée de <INGRED>sel</INGRED> <INGRED>.</INGRED> Insérer les <INGRED>blancs</INGRED> battus en neige à la préparation mascarpone / <INGRED>citron</INGRED> <INGRED>.</INGRED> Verser la préparation dans le <INGRED>moule</INGRED> au milieu des <INGRED>biscuits</INGRED> <INGRED>.</INGRED> Reserver au frigo pendants au moins 4 <INGRED>h</INGRED> en couvrant d'une feuille de cellophane et d'une assiette Sortir au dernier moment <INGRED>,</INGRED> retourner votre moule à Cake <INGRED>,</INGRED> retier le papier cellophane et décorer de coco rapé. Vous pouvez le faire la veille. Champagne
+  </annotation>
+  <complexite>
+    <temps>f(X) = 17.5925925925926*X + 1.40740740740741</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 50*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['biscuits cuillères', 'biscuits']	 id:1	 quantité:40	 unité:non_precis	 denombrable:True	 recipient:40*X
+ingredient:['rhum ambré', 'rhum']	 id:2	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['eau']	 id:3	 quantité:10	 unité:cl d'	 denombrable:False	 recipient:1
+ingredient:['sucre en poudre', 'sucre']	 id:4	 quantité:85	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['citrons']	 id:5	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['gélatine']	 id:6	 quantité:2	 unité:feuilles de	 denombrable:True	 recipient:2*X
+ingredient:['oeufs']	 id:7	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['mascarpone']	 id:8	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['noix de coco râpée', 'noix']	 id:9	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:prendre	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:garnir	 id:o_3	 ingrédients_ralatifs:['4', '1', '7', '5', '4', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:presser	 id:o_4	 ingrédients_ralatifs:['9', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tremper	 id:o_5	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:chauffer	 id:o_6	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:mélanger	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mélanger	 id:o_8	 ingrédients_ralatifs:['1', '2', '7', '8']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:rajouter	 id:o_9	 ingrédients_ralatifs:['2', '7', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:insérer	 id:o_10	 ingrédients_ralatifs:['1', '2', '7', '8', '1', '4', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_11	 ingrédients_ralatifs:['4', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_12	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:insérer	 id:o_13	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_14	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reserver	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:sortir	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retourner	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retier	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:décorer	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16584">
+  <titre>Poulet à l'italienne</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 carottes (500 g)</p>
+    <p>1 morceau de céleri-rave</p>
+    <p>100 g de lard fumé</p>
+    <p>8 échalotes</p>
+    <p>2 gousses d'ail</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>800 g de tomates pelées </p>
+    <p>37.5 cl de vin blanc sec </p>
+    <p>2 cubes de bouillon de poulet</p>
+    <p>3 feuilles de laurier</p>
+    <p>2 cuillères à café de sel</p>
+    <p>1 cuillère à café de poivre noir fraîchement moulu</p>
+    <p>1,350 kg de cuisses de poulet désossées</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>1,5 cuillères à café de sel</p>
+    <p>1/2 cuillère à café de poivre noir fraîchement moulu</p>
+    <p>1/2 dl d'origan</p>
+    <p>2 cuillères à soupe de thym frais haché</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Éplucher les carottes et le céleri. Enlever la couenne du lard. Couper les légumes et le lard en petits dés.
+    Eplucher et hacher l'oignon et l'ail. Frire les légumes, le lard et l'oignon dans 1 cuillère à soupe d'huile, 1-2 mn.
+    Ajouter les tomates, le vin, laurier, sel et poivre. Laisser cuire environ 10 mn.
+    Couper le poulet en morceaux et les faire brunir dans une poêle avec 2 cuillères à soupe d'huile, environ 2 mn par côté. Saler et poivrer.
+    Ajouter les morceaux de poulet à la préparation de légumes et ajouter l'ail. Laisser encore cuire 10 mn.
+    Saupoudrer avec les herbes juste avant de servir.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17130">
+  <titre>Tartare de crudités</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 belles tomates</p>
+    <p>1 concombre</p>
+    <p>1 botte de radis</p>
+    <p>2 petites boules de mozzarella</p>
+    <p>ciboulette</p>
+    <p>quelques feuilles de menthe</p>
+    <p>quelques feuilles de basilic</p>
+    <p>huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les tomates en quatre, les épépiner et les tailler en petits dés. 
+    Peler le concombre, l'épépiner, et le tailler en petits dés. 
+    Tailler les radis en rondelles, et la mozzarella en petits dés. 
+    Mélanger le tout en ajoutant les herbes finement ciselées, le sel et le poivre, lier avec un filet d'huile d'olive. 
+    Répartir cette préparation dans quatre ramequins, au frais pendant une heure minimum. 
+    Démouler au moment de servir.
+    Une recette simple et légère, rafraîchissante et colorée ! un rosé de loire ou un rosé gris marocain, bien frais
+  ]]>
+  </preparation>
+</recette>

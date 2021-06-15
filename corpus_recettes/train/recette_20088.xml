@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20088">
+  <titre>Chaussons fromagers</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>180 g de fromage frais</p>
+    <p>180 g de gruyère râpé</p>
+    <p>3 jaunes d'oeufs + 1 pour dorer</p>
+    <p>sel, poivre, noix muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (thermostat 7).
+    Etaler au rouleau la pâte feuilletée et découper 6 disques de pâte de 8 cm de diamètre.
+    Malaxer le fromage avec le gruyère râpé, les jaunes d'oeufs, du sel, du poivre, de la noix de muscade râpée et de la ciboulette hachée.
+    Répartir le mélange sur les disques de pâte et refermer la pâte pour former un chausson. Souder les bords en les humidifiant légèrement.
+    Etaler le jaune d'oeuf au pinceau sur les chaussons et enfourner pour 20 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

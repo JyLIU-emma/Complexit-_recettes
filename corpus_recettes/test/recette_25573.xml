@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25573">
+  <titre>Coeur de boeuf en ragoût</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 coeur de boeuf (ou de veau)</p>
+    <p>30 g de farine</p>
+    <p>6 cl d'huile</p>
+    <p>20 g de beurre</p>
+    <p>2 oignons</p>
+    <p>2 carottes</p>
+    <p>750 g de champignons</p>
+    <p>2 gousses d'ail</p>
+    <p>1 cuillère à soupe de concentré de tomates</p>
+    <p>2 brins de thym</p>
+    <p>1 feuille de laurier</p>
+    <p>20 cl de bouillon</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et émincer l'oignon, piler l'ail. Laver et couper les carottes et les champignons. Couper le coeur en morceaux, puis les passer dans la farine.
+    Dans une poêle, faire dorer la viande avec le beurre et un trait d'huile. Ajouter les légumes émincés (carottes, champignons, oignons) et l'ail pilé.
+    Assaisonnez, puis joindre le concentré de tomates, le bouquet garni et le bouillon.
+    Laisser mijoter 45 minutes. Servir avec des pâtes.
+  ]]>
+  </preparation>
+</recette>

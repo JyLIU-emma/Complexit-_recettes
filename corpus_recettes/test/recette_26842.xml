@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26842">
+  <titre>Coupe de pêches à la framboise</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de framboises fraîches</p>
+    <p>8 oreillons de pêche au sirop</p>
+    <p>des amandes effilées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Grillez les amandes dans une poêle jusqu'à ce qu'elles aient une couleur dorée.
+    Mixez les framboises avec la crème fraîche. Répartissez la purée dans 4 coupes à dessert.
+    Egouttez les oreillons de pêche et les déposez sur la crème à la framboise.
+  ]]>
+  </preparation>
+</recette>

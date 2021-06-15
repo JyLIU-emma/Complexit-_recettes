@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17595">
+  <titre>Crèmes façon grand-mère</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>75 cl de crème liquide</p>
+    <p>8 oeufs</p>
+    <p>100 g de sucre semoule</p>
+    <p>2 cuillères à café de café en poudre</p>
+    <p>30 g de chocolat en poudre</p>
+    <p>une gousse de vanille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer la crème fraîche dans une casserole sans dépasser 80°C (pour éviter que la crème ne se décompose !). 
+    Séparer les jaunes des blancs des 8 oeufs. 
+    Incorporer le sucre semoule aux jaunes d'oeufs et batter le mélange avec un fouet jusqu'à ce que le mélange blanchisse. 
+    Ajouter la crème chaude sur le mélange. 
+    Séparer en 3 parts égales. 
+    Dans la première, ajouter l'intérieur de la gousse de vanille et mélanger bien. 
+    Dans la seconde, ajouter 30 g de chocolat en poudre, et dans la troisième, incorporer le café. 
+    Répartisser la première part dans 2 ramequins, la seconde dans 2 autres ramequins et ainsi de suite. 
+    Faites chauffer au bain-marie les ramequins dans un grand plat allant au four pendant environ 20 mn à 180°C.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24643">
+  <titre>Crème pâtissière à la vanille</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>25 cl de lait</p>
+    <p>1/4 de gousse de vanille</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>50 g de sucre</p>
+    <p>25 g de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Chauffer le lait et la vanille pour le faire bouillir.
+    Battre les jaunes d'oeufs avec le sucre pui ajouter la farine.
+    Verser le lait bouillant sur le mélange tout en mélangeant bien.
+    Remettre dans la casserole sur le feu. 
+    Faire épaissir en remuant très soigneusement pendant 10 min. Retirer après ébullition.
+  ]]>
+  </preparation>
+</recette>

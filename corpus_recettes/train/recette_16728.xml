@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16728">
+  <titre>Quiche lorraine améliorée</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée (toute prête ou faite maison)</p>
+    <p>2 tranches de jambon (ou 3 selon votre goût)</p>
+    <p>3 oeufs</p>
+    <p>50 cl de lait</p>
+    <p>125 g de comté râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la pâte feuilletée dans un moule à tarte.
+    Couper le jambon en morceaux et le répartir sur la pâte.
+    Râper du comté pour couvrir le jambon.
+    Mélanger dans un petit saladier 3 oeufs avec le lait et y ajouter sel et poivre.
+    Verser la préparation dan le moule à tarte au dessus du jambon et du comté.
+    Mettre à four chaud (220 à 230°) pendant 25 à 30 minutes
+    Cette recette peut être adaptée avec d'autres ingrédients. On peut ajouter de la crème fraîche au mélange oeuf-lait, mais c'est moins léger.
+  ]]>
+  </preparation>
+</recette>

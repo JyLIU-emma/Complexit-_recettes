@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25414">
+  <titre>Gratin d'aubergines au parmesan facile</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 aubergines</p>
+    <p>7 tomates pelées concassées</p>
+    <p>2 gousses d'ail hachées</p>
+    <p>1 oignon haché</p>
+    <p>125 g de parmesan râpé</p>
+    <p>2 oeufs</p>
+    <p>2 brins de thym</p>
+    <p>4 feuilles de laurier</p>
+    <p>1 cuillère à café d'origan</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+    <p>huile de friture</p>
+    <p>gros sel</p>
+    <p>farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les aubergines en tranches épaisses, les laisser dégorger avec du gros sel pendant 1 h.
+    Faire revenir l'oignon dans un fond l'huile, ajouter le thym, le laurier, les tomates, l'ail haché et l'origan. Laisser mijoter 30 minutes puis rectifier l'assaisonnement.
+    Faire chauffer l'huile de friture.
+    Rincer et sécher les aubergines. Les passer dans la farine puis dans les oeufs battus et faire frire 8 à 10 minutes jusqu'à ce qu'elles soient dorées. 
+    Préchauffer le four à 180°C (thermostat 6).
+    Dans un plat à gratin huilé, alterner les aubergines et la sauce aux tomates. Saupoudrer avec le parmesan et enfourner 40 minutes.
+  ]]>
+  </preparation>
+</recette>

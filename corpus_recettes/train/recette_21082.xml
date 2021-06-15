@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21082">
+  <titre>Blanquette au lait de coco</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 ou 4 oignons</p>
+    <p>1 kg de viande à blanquette de veau ou de volaille</p>
+    <p>33 cl de lait de noix de coco</p>
+    <p>50 g de raisins de Smyrthe</p>
+    <p>25 g de farine</p>
+    <p>50 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une assiette où vous aurez mis un peu de farine, de sel et de poivre, roulez toutes les faces des morceaux de viande.
+    Faire blondir les oignons préalablement émincés dans une cocotte.
+    Ajouter la viande dans la cocotte.
+    Verser sur la viande 1/4 à 1/2 l de lait de noix de coco et la poignée de raisins de Smyrthe.
+    Fermez la cocotte.
+    Surveiller de temps à autre afin de conserver la préparation "juteuse" et d'éviter qu'elle ne prenne au fond de la cocotte.
+    Rajouter éventuellement du lait ou du lait de coco si nécessaire.à servir accompagé de riz blanc ou de pommes de terre vapeur.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20809">
+  <titre>Velouté de champignons de Paris</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de champignons de Paris</p>
+    <p>20 cl de crème fraîche</p>
+    <p>sel, poivre</p>
+    <p>1 litre d'eau</p>
+    <p>50 g de copeaux de parmesan</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer vos champignons, et les faire revenir dans une poêle. Ajouter sel et poivre, et la crème fraîche. Ajouter l'eau et faire revenir encore quelques minutes. Mixer, et ajuster l'assaisonnement. Servir chaud, avec des copeaux de parmesan dessus.
+  ]]>
+  </preparation>
+</recette>

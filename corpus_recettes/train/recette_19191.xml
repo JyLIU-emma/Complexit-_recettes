@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19191">
+  <titre>Sauté d'agneau au chocolat</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g d'épaule d'agneau</p>
+    <p>20 g de beurre</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>2 échalotes</p>
+    <p>30 dl de vin rouge</p>
+    <p>1 bouquet garni</p>
+    <p>2 cuillères à café de cacao en poudre</p>
+    <p>30 g de chocolat mi-amer</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites revenir les morceaux d'épaule d'agneau dans environ 20 g de beurre plus l'huile. 
+    Ajoutez 2 échalotes hachées et mouillez de 30 dl de vin rouge corsé. 
+    Salez, poivrez, ajoutez un bouquet garni. Couvrez et laissez mijoter environ 50 mn. 
+    Quand la cuisson est achevée, sortez les morceaux de viande, et maintenez-les au chaud. 
+    Réduisez la sauce de cuisson et filtrez-la. Liez-la avec 2 cuillères à café de caco en poudre et les 30 g de chocolat mi-amer. 
+    Fouettez bien la sauce et filtrez-la de nouveau. 
+    Nappez de sauce les morceaux d'agneau dans un plat. 
+    Servez en garniture, soit du chou rouge confit au vinaigre, soit des marrons ou des dés de pommes.
+    Plat facile et original.
+    On peut supprimer le beurre et mettre un tout petit peu plus d'huile.
+  ]]>
+  </preparation>
+</recette>

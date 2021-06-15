@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33057">
+  <titre>Tarte tatin à la mangue</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>Pour la pâte brisée:</p>
+    <p>250 g de farine de blé fluide</p>
+    <p>125 g de beurre</p>
+    <p>1 oeuf</p>
+    <p>un peu de lait (facultatif) Pour la garniture:</p>
+    <p>4 à 6 mangues</p>
+    <p>150 g de sucre roux</p>
+    <p>25 g de beurre</p>
+    <p>le jus de 2 citrons jaunes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez la pâte : 
+    Placez le beurre coupé en dés sur votre plan de travail ou dans un grand saladier. Versez dessus la farine et travaillez jusqu'à obtenir un sable très fin. Faites un puits et cassez-y l'oeuf. Ramassez le tout en boule en travaillant le moins longtemps possible, mais de façon à obtenir une pâte lisse et homogène, qui ne colle pas aux doigts. Si c'est trop sec, ajoutez quelques gouttes de lait. Si ça reste trop collant, ajoutez un peu de farine. 
+    Préparez les mangues : 
+    Pelez les mangues et coupez-les en lamelles assez fines (3-4 mm d'épaisseur). Réservez. 
+    Beurrez généreusement le fond d'un faitout avec les 25 g de beurre. Versez dessus les 150 g de sucre roux et faites fondre à feu doux. Lorsque le caramel commence à prendre, ajoutez le jus de citron (et éventuellement un peu d'eau) de façon à liquéfier de nouveau l'ensemble. 
+    Placez les lamelles de mangue sur le caramel liquide et laissez mijoter à couvert pendant 10 mn environ, en retournant délicatement à mi-cuisson. 
+    Dressez la tarte : 
+    Garnissez le fond du moule avec les lamelles de mangue et recouvrez du reste de caramel encore chaud. Si vous êtes un cuisinier confirmé, ou si vous êtes courageux, organisez les lamelles de façon à avoir une belle présentation au démoulage de la tarte. 
+    Etalez la pâte (un peu plus grand que le moule) et posez-la délicatement sur les mangues. Repliez l'excédent de pâte de façon à former un rebord épais qui suit le contour du moule. Ceci donnera de la tenue à votre tarte au démoulage. 
+    Enfournez et faites cuire à 180°C pendant 20 à 25 mn, jusqu'à ce que la pâte soit bien dorée. Démoulez à chaud pour éviter que le caramel n'adhère au moule. Démoulez votre tarte au-dessus de l'évier et en faisant attention à ne pas vous brûler : un peu de caramel peut souvent couler au moment du démoulage. 
+    Servir tiède avec, au choix, crème fraîche liquide, crème fraîche épaisse ou glace à la vanille.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Préparez</OPER> la pâte : <OPER id="o_2">Placez</OPER> le <INGRED id="3">beurre</INGRED> coupé en <INGRED id="4">dés</INGRED> sur votre plan de travail ou dans un grand <INGRED id="1">saladier</INGRED>. <OPER id="o_3">Versez</OPER> dessus la farine et travaillez jusqu'à obtenir un sable très fin. Faites un puits et <OPER id="o_4">cassez</OPER> - y l'<INGRED id="5">oeuf</INGRED>. <OPER id="o_5">Ramassez</OPER> le tout en <INGRED id="5">boule</INGRED> en travaillant le moins longtemps possible, mais de façon à obtenir une <INGRED id="7">pâte</INGRED> lisse et homogène, qui ne colle pas aux doigts. Si c'est trop sec, <OPER id="o_6">ajoutez</OPER> quelques gouttes de <INGRED id="2">lait</INGRED>. Si ça <INGRED id="1">reste</INGRED> trop collant, <OPER id="o_7">ajoutez</OPER> un <INGRED id="4">peu</INGRED> de <INGRED id="3">farine</INGRED>. <OPER id="o_8">Préparez</OPER> les <INGRED id="1">mangues</INGRED> : <OPER id="o_9">Pelez</OPER> les <INGRED id="2">mangues</INGRED> et coupez - les en lamelles assez fines ( 3 - 4 mm d'épaisseur ). Réservez. <OPER id="o_10">Beurrez</OPER> généreusement le <INGRED id="4">fond</INGRED> d'un faitout avec les 25 g de <INGRED id="3">beurre</INGRED>. <OPER id="o_11">Versez</OPER> dessus les 150 <INGRED id="2">g</INGRED> de <INGRED id="6">sucre roux</INGRED> et faites <OPER id="o_12">fondre</OPER> à feu doux. Lorsque le <INGRED id="8">caramel</INGRED> commence à <OPER id="o_13">prendre</OPER>, <OPER id="o_14">ajoutez</OPER> le <INGRED id="4">jus de citron</INGRED> ( et éventuellement un peu d'<INGRED id="5">eau</INGRED> ) de façon à <OPER id="o_15">liquéfier</OPER> de nouveau l'ensemble. <OPER id="o_16">Placez</OPER> les lamelles de <INGRED id="1">mangue</INGRED> sur le <INGRED id="8">caramel</INGRED> liquide et laissez <OPER id="o_17">mijoter</OPER> à couvert pendant 10 mn <INGRED id="1">environ</INGRED>, en retournant délicatement à mi-cuisson. <OPER id="o_18">Dressez</OPER> la tarte : <OPER id="o_19">Garnissez</OPER> le <INGRED id="8">fond</INGRED> du moule avec les lamelles de <INGRED id="1">mangue</INGRED> et recouvrez du <INGRED id="1">reste</INGRED> de <INGRED id="8">caramel</INGRED> encore chaud. Si vous êtes un cuisinier confirmé, ou si vous êtes courageux, <OPER id="o_20">organisez</OPER> les lamelles de façon à <OPER id="o_21">avoir</OPER> une belle présentation au démoulage de la tarte. <OPER id="o_22">Etalez</OPER> la <INGRED id="2">pâte</INGRED> ( un peu plus grand que le moule ) et <OPER id="o_23">posez</OPER> - la délicatement sur les <INGRED id="5">mangues</INGRED>. <OPER id="o_24">Repliez</OPER> l'excédent de <INGRED id="1">pâte</INGRED> de façon à former un rebord épais qui suit le contour du moule. Ceci donnera de la tenue à votre tarte au démoulage. <OPER id="o_25">Enfournez</OPER> et faites <OPER id="o_26">cuire</OPER> à 180 ° C pendant 20 à 25 mn, jusqu'à ce que la pâte soit bien dorée. <OPER id="o_27">Démoulez</OPER> à chaud pour éviter que le <INGRED id="8">caramel</INGRED> n'adhère au moule. <OPER id="o_28">Démoulez</OPER> votre tarte au-dessus de l'évier et en faisant attention à ne pas vous <OPER id="o_29">brûler</OPER> : un peu de <INGRED id="8">caramel</INGRED> peut souvent <OPER id="o_30">couler</OPER> au moment du démoulage. Servir tiède avec, au choix, <INGRED id="2">crème fraîche liquide</INGRED>, <INGRED id="8">crème fraîche épaisse</INGRED> ou glace à la <INGRED id="2">vanille</INGRED>.
+  </annotation>
+  <annotation methode="crf">
+  Préparez la <INGRED>pâte</INGRED> <INGRED>:</INGRED> Placez le <INGRED>beurre</INGRED> <INGRED>coupé</INGRED> en dés sur votre plan de travail <INGRED>ou</INGRED> dans un grand saladier <INGRED>.</INGRED> Versez dessus la <INGRED>farine</INGRED> et travaillez jusqu'à obtenir un sable très fin. Faites un puits et cassez - y l'<INGRED>oeuf</INGRED> <INGRED>.</INGRED> Ramassez le tout en <INGRED>boule</INGRED> en travaillant le moins longtemps possible <INGRED>,</INGRED> mais de façon à obtenir une <INGRED>pâte</INGRED> lisse et homogène <INGRED>,</INGRED> qui ne colle pas aux doigts. Si c'est trop sec <INGRED>,</INGRED> ajoutez quelques gouttes de <INGRED>lait</INGRED> <INGRED>.</INGRED> Si ça reste trop collant <INGRED>,</INGRED> ajoutez un peu de <INGRED>farine</INGRED>. Préparez les mangues <INGRED>:</INGRED> Pelez les <INGRED>mangues</INGRED> et coupez - les en lamelles assez fines ( 3 - 4 mm d'épaisseur ). Réservez <INGRED>.</INGRED> Beurrez généreusement le <INGRED>fond</INGRED> d'un faitout avec les 25 <INGRED>g</INGRED> de <INGRED>beurre</INGRED> <INGRED>.</INGRED> Versez dessus les 150 <INGRED>g</INGRED> de <INGRED>sucre roux</INGRED> et faites fondre à feu doux. Lorsque le <INGRED>caramel</INGRED> commence à prendre <INGRED>,</INGRED> ajoutez le <INGRED>jus de citron</INGRED> ( et éventuellement un peu d'<INGRED>eau</INGRED> ) de façon à liquéfier de nouveau l'ensemble. Placez les <INGRED>lamelles</INGRED> de mangue sur le <INGRED>caramel liquide</INGRED> et laissez mijoter à couvert pendant 10 mn <INGRED>environ</INGRED> <INGRED>,</INGRED> en retournant délicatement à mi-cuisson. Dressez la tarte <INGRED>:</INGRED> Garnissez le <INGRED>fond</INGRED> du moule avec les <INGRED>lamelles</INGRED> de mangue et recouvrez du <INGRED>reste</INGRED> de <INGRED>caramel</INGRED> encore chaud <INGRED>.</INGRED> Si vous êtes un cuisinier confirmé <INGRED>,</INGRED> <INGRED>ou</INGRED> si vous êtes courageux <INGRED>,</INGRED> organisez les <INGRED>lamelles</INGRED> de façon à avoir une belle présentation au démoulage de la tarte <INGRED>.</INGRED> Etalez la <INGRED>pâte</INGRED> ( un peu plus grand que le <INGRED>moule</INGRED> ) et posez - la délicatement sur les <INGRED>mangues</INGRED> <INGRED>.</INGRED> Repliez l'excédent de <INGRED>pâte</INGRED> de façon à former un rebord épais qui suit le contour du <INGRED>moule</INGRED> <INGRED>.</INGRED> Ceci donnera de la tenue à votre tarte au démoulage. Enfournez et faites cuire à 180 ° C pendant 20 à 25 mn <INGRED>,</INGRED> jusqu'à ce que la <INGRED>pâte</INGRED> soit bien dorée <INGRED>.</INGRED> Démoulez à chaud pour éviter que le <INGRED>caramel</INGRED> n'adhère au <INGRED>moule</INGRED> <INGRED>.</INGRED> Démoulez votre tarte au-dessus de l'évier et en faisant attention à ne pas vous brûler <INGRED>:</INGRED> un peu de <INGRED>caramel</INGRED> peut souvent couler au moment du démoulage. Servir tiède avec <INGRED>,</INGRED> au choix <INGRED>,</INGRED> <INGRED>crème fraîche</INGRED> liquide <INGRED>,</INGRED> <INGRED>crème fraîche</INGRED> épaisse ou glace à la <INGRED>vanille</INGRED> <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 89.8333333333333*X + 64.1666666666667</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 7*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['farine de blé fluide', 'farine']	 id:1	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:2	 quantité:125	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oeuf']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['peu de lait   Pour la garniture', 'peu']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['mangues']	 id:5	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['sucre roux', 'sucre']	 id:6	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:7	 quantité:25	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['citrons jaunes', 'citrons']	 id:8	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préparer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:placer	 id:o_2	 ingrédients_ralatifs:['3', '4', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:casser	 id:o_4	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ramasser	 id:o_5	 ingrédients_ralatifs:['5', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:['1', '4', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparer	 id:o_8	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:peler	 id:o_9	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:125*X	 temps:1*X*1	 recipient:0
+operation:beurrer	 id:o_10	 ingrédients_ralatifs:['4', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_11	 ingrédients_ralatifs:['2', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fondre	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:prendre	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_14	 ingrédients_ralatifs:['8', '4', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:liquéfier	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_16	 ingrédients_ralatifs:['1', '8', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_17	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:dresser	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garnir	 id:o_19	 ingrédients_ralatifs:['8', '1', '1', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:organiser	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:avoir	 id:o_21	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:etaler	 id:o_22	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:poser	 id:o_23	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:replier	 id:o_24	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfourner	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_26	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:démouler	 id:o_27	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:démouler	 id:o_28	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:brûler	 id:o_29	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couler	 id:o_30	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

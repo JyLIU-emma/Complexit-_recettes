@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19742">
+  <titre>Escalopes de veau à la crème d'avocat</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 escalopes de veau dans la noix pâtissière</p>
+    <p>1 avocat bien mûr</p>
+    <p>30 g de beurre</p>
+    <p>1 oeuf</p>
+    <p>1 citron</p>
+    <p>50 g de crème fraîche</p>
+    <p>cerfeuil (ou à défaut, persil plat) </p>
+    <p>sel et poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez et dénoyautez l'avocat. Ecrasez-en finement la chair à la fourchette. Ajoutez une cuillère à soupe de jus de citron, le jaune de l'oeuf, salez, poivrez et mélangez. 
+    Faire cuire les escalopes à la poêle. Pendant ce temps, dans une petite casserole, faites chauffez pendant cinq minutes la crème d'avocat à feu doux, sans bouillir et en remuant. Hors du feu, incorporez délicatement la crème fraîche.
+    Disposez les escalopes sur le plat de service. Nappez avec la sauce. Parsemez de quelques pluches de cerfeuil.
+  ]]>
+  </preparation>
+</recette>

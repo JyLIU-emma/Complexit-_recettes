@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22078">
+  <titre>Gâteau amandine</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de sucre</p>
+    <p>175 g de beurre mou</p>
+    <p>125 g de farine</p>
+    <p>150 g d'amandes en poudre</p>
+    <p>8 blancs d'oeufs</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Fouetter le beurre mou avec le sucre jusqu'à ce que le mélange blanchisse.
+    Mélanger la farine avec la poudre d'amandes.
+    Fouetter les blancs en neige avec le sel.
+    Incorporer le mélange farine-poudre d'amande et les blancs en neige au mélange sucre-beurre de façon progressive. Travailler délicatement pour ne pas casser les blancs.
+    Verser dans un moule à manqué beurré, de préférence un moule à charnière afin que le démoulage soit facilité.
+    Cuire pendant 15 minutes. 
+    Démouler et laisser refroidir sur une grille.
+  ]]>
+  </preparation>
+</recette>

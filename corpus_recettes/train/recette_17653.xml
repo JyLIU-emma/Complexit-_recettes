@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17653">
+  <titre>Tourte facile chèvre et menthe</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>deux pâtes feuilletées</p>
+    <p>deux bûches de chèvre</p>
+    <p>un bouquet de menthe</p>
+    <p>3 cuillerées à soupe de crème fraîche</p>
+    <p>un jaune d'oeuf</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler une pâte feuilletée dans le moule à tarte. 
+    Poser les rondelles de chèvre. 
+    Recouvrir de feuilles de menthe fraîche. 
+    "Jeter" trois cuillerées à soupe de crème fraîche, saler, poivrer. 
+    Recouvrir avec la deuxième pâte feuilletée, souder les bords. 
+    Dorer au jaune d'oeuf. 
+    Passer au four (th 7 - 200°C) une vingtaine de minutes.
+    Prendre un chèvre moyennement parfumé, ou alterner les rondelles de chèvre doux (type Chevretine) et de chèvre corsé (type bûche avec croûte fleurie).
+  ]]>
+  </preparation>
+</recette>

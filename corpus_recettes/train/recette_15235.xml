@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15235">
+  <titre>Tarte roquefort, artichauts et jambon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>1 boîte de fonds d'artichauts</p>
+    <p>125 g de roquefort</p>
+    <p>1 tranche épaisse de jambon (1/2 cm)</p>
+    <p>3 œufs</p>
+    <p>20 cl de crème fraîche</p>
+    <p>1 verre de lait</p>
+    <p>sel, poivre et moutarde</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Étaler et piquer le fond de tarte.
+    Couper en dés les fonds d'artichauts, le jambon et le roquefort.
+    Battre les œufs avec la moutarde, le poivre et un petit peu de sel (attention, le bleu est salé). Ajouter le lait et la crème, bien battre.
+    Verser et mettre au four (thermostat 180°C) pendant 35/40 min.
+    Servir chaud ou tiède, avec de la salade.Entrée ou plat principal. Original et vite préparé !
+  ]]>
+  </preparation>
+</recette>

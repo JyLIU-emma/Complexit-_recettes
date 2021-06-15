@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16503">
+  <titre>Boulettes pour couscous</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de viande hachée (boeuf ou agneau)</p>
+    <p>1 botte de persil</p>
+    <p>3 oignons moyens</p>
+    <p>1/2 baguette de la veille</p>
+    <p>1 cuillère à soupe de paprika</p>
+    <p>2 cuillère à soupe d'ail déshydraté ou une tête d'ail écrasé</p>
+    <p>1 petite boîte de concentré de tomates</p>
+    <p>4 oeufs</p>
+    <p>sel et poivre</p>
+    <p>1 pincée de muscade</p>
+    <p>huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tremper la demi-baguette dans de l'eau. Mixer les 3 oignons et la botte de persil.
+    Essorer le pain et le méalanger au hachis oignons-persil, puis ajouter les épices (sel, poivre, paprika, ail, muscade) et incorporer la viande hachée. Bien malaxer le tout.
+    Former des boules de 110 g à peu près, les rouler dans la farine et les réserver. 
+    Délayer une cuillère à soupe de concentré de tomate dans un peu d'eau. Battre les oeufs et y incorporer le concentré de tomate dilué.
+    Mettre une grande poêle à chauffer avec 1/2 litre huile, tremper les boulettes farinées dans les oeufs battus puis faire frire (il faut qu'elles soient bien dorées des deux côtés).
+    Mettre un peu d'huile dans une sauteuse, faire chauffer et y mettre les boulettes les unes à côté des autres bien à plat. Ajouter une feuille de laurier et de l'eau pour recouvrir les boulettes. Couvrir (le feu doit être moyen).
+    Les boulettes sont cuites lorsque l'eau est presque entièrement évaporée.
+    Ces boulettes peuvent aussi bien accompagner le couscous qu'être mangées avec du riz pilaf.
+  ]]>
+  </preparation>
+</recette>

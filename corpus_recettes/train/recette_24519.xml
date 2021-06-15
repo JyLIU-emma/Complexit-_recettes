@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24519">
+  <titre>Tourte de lapin aux champignons</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>1 arrière de lapin</p>
+    <p>1 blanc de poireaux</p>
+    <p>2 oignons</p>
+    <p>1 branche d'estragon</p>
+    <p>150 g de champignons</p>
+    <p>100 g de lardons salés et poivrés</p>
+    <p>20 cl de vin rouge</p>
+    <p>bouillon</p>
+    <p>1 jaune d'oeuf</p>
+    <p>30 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites revenir les oignons et le poireau émincés dans le beurre avec l'estragon. Salez, poivrez et laissez cuire jusqu'à ce que les légumes soient bien tendres.
+    A part, faites revenir les lardons avec les champignons émincés, du sel et du poivre.
+    Récupérer la chair de lapin et la couper en dés. Emincer les champignons. Mettre le tout à revenir dans le beurre pendant 15 minutes puis verser le vin et ajouter du bouillon pour que le liquide recouvre tout juste la viande. Poursuivre la cuisson 30 minutes.
+    Préchauffez le four à 210°C (thermostat 7).
+    Ajouter les oignons et les poireaux puis verser dans un plat à four beurré.
+    Recouvrez de pâte, badigeonnez de jaune d'oeuf additionné d'un peu d'eau et enfournez pour 10 minutes de cuisson. 
+  ]]>
+  </preparation>
+</recette>

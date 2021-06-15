@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23273">
+  <titre>Truites tomate, champignon, estragon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 truites vidées</p>
+    <p>6 branches d'estragon</p>
+    <p>450 g de champignons</p>
+    <p>45 g de beurre</p>
+    <p>3 échalotes</p>
+    <p>75 cl de coulis de tomate</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Rincer les truites sous un filet d'eau et les essuyer.
+    Saler et poivrer l'intérieur et disposer 1 branche d'estragon dans chacune.
+    Emincer les champignons et les échalotes. Les faire fondre dans le beurre puis ajouter le coulis de tomates.
+    Saler, poivrer et laisser cuire 15 minutes.
+    Disposer les truites dans la sauce et enfourner pour 20 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

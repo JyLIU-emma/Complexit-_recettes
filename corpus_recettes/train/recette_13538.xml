@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13538">
+  <titre>Poulet à la vanille</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 escalopes de poulet</p>
+    <p>3 oignons</p>
+    <p>1 grande boîte de lait concentré non sucré</p>
+    <p>2 gousses de vanille</p>
+    <p>quelques figues</p>
+    <p>sel, poivre, beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Versez le lait concentré dans une grande jatte, et plongez-y les gousses de vanille fendues en deux dans le sens de la longueur.
+    Coupez les escalopes en lanières, et faites-les revenir dans un peu de beurre jusqu'à les dorer.
+    Versez la viande dans le lait.
+    Emincez les oignons et faites-les revenir dans un peu de beurre jusqu'à ce qu'ils soient translucides, et mettez-les également dans la jatte. Salez raisonnablement.
+    Rajoutez les figues, et si vous avez le temps, laissez mariner une heure ou deux. Sinon, mettez le tout dans une sauteuse, et faites cuire 20 à 30 mn. Rectifiez l'assaisonnement.
+    Servez avec un riz thailandais ou basmati.
+     un vin rouge pas trop fort (style Côtes du Rhône)
+  ]]>
+  </preparation>
+</recette>

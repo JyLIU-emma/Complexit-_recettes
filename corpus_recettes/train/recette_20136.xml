@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20136">
+  <titre>Figues fleur à la crème de framboise</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>12 figues</p>
+    <p>150 g de framboises</p>
+    <p>150 g de fromage blanc</p>
+    <p>1 à 2 cuillères à soupe de miel liquide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les figues en 5 sans aller jusqu'au bout afin que les 5 quartiers restent attachés les uns aux autres.
+    Ecarter les quartiers de figues de façon à obtenir 5 pétales.
+    Réduire les framboises en purée, les passer au tamis afin d'ôter les petits grains.
+    Incorporer le fromage blanc et le miel.
+    Lorsque le mélange est homogène, déposer des volutes de fromage blanc aux framboises sur les figues et servir.
+  ]]>
+  </preparation>
+</recette>

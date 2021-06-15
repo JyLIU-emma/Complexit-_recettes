@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27092">
+  <titre>Pâtes en sauce aux 4 fromages</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de pâtes</p>
+    <p>100 g de parmesan</p>
+    <p>100 g de mozzarella</p>
+    <p>100 g de chèvre</p>
+    <p>50 g de gorgonzola doux</p>
+    <p>noix de muscade</p>
+    <p>1 cuillère à café d'origan</p>
+    <p>25 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pâtes selon les indications.
+    Dans une casserole, mettre les fromages et le beurre à fondre à feu doux.
+    Saler, poivrer et ajouter de l'origan et de la muscade râpée.
+    Mélanger, verser sur les pâtes et servir.
+    Utilisez de la mozzarella "di buffala", plus goûteuse et fondante, et préférez un chèvre affiné.
+  ]]>
+  </preparation>
+</recette>

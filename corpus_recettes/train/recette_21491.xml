@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21491">
+  <titre>Beignets au coco</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 cuillères à soupe de farine</p>
+    <p>4 cuillères à soupe de noix de coco fraîche râpée</p>
+    <p>2 cuillères à soupe de sucre en poudre</p>
+    <p>1 oeuf</p>
+    <p>25 g de beurre fondu</p>
+    <p>1/2 cuillère à café de levure chimique</p>
+    <p>noix de muscade (ou extrait de vanille naturelle en poudre)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une jatte, mettre la farine, le coco, le sucre, la levure, la muscade et/ou la vanille puis mélanger. 
+    Battre les deux oeufs puis y ajouter le beurre fondu. 
+    Faire un puits et mettre les oeufs battus. 
+    Mélanger à la main jusqu'à obtenir une pâte ni trop souple, ni trop dure. 
+    Si la pâte est trop dure, rajouter un peu de lait de coco et travailler jusqu'à obtenir une pâte lisse qui ne colle plus aux doigts. 
+    Laisser reposer 45 mn.  Etaler la pâte au rouleau puis à l'aide d'un emporte-pièce, découpez des carrés de 3 ou 4 cm de côté. Jeter dans un bain de friture bien chaud. 
+    Egoutter. Présenter dans un plat et déguster.
+  ]]>
+  </preparation>
+</recette>

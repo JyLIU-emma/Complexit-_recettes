@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23995">
+  <titre>Cabecou sur lit de tomates</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 tomates suivant le grosseur</p>
+    <p>4 fromages de Cabecou</p>
+    <p>pâte feuilletée (achetée en grande surface) </p>
+    <p>sel, poivre</p>
+    <p>herbes de Provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer le four Th 7/8. 
+    Beurrer le moule à tarte et étaler la pâte. La couper en 4 parts et séparant les bords. 
+    Couper les tomates en rondelles et les disposer sur la pâte. Saler, poivrer et mettre un peu d'herbes de Provence. 
+    Mettre au four 20 mn. 
+    Ajouter alors un Cabecou par part, à four éteint. 
+    Servir tiède.
+    Les gourmands peuvent mettre deux fromages par part. Vin du Roussillon
+  ]]>
+  </preparation>
+</recette>

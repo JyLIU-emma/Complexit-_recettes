@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15266">
+  <titre>Potage à la laitue rapide</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 laitue</p>
+    <p>2 oignons</p>
+    <p>3 cubes de bouillon de poule</p>
+    <p>du fromage à l'ail et aux fines herbes (type Boursin)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer la salade, vous pouvez laisser les morceaux plus durs. Couper les oignons. Les faire revenir dans une noix de matière grasse.
+    Ajouter les cubes bouillon et la salade
+    Ajouter l'eau. Laisser cuire 20 mn.
+    Ajouter un petit fromage à l'ail et passer au mixer.
+  ]]>
+  </preparation>
+</recette>

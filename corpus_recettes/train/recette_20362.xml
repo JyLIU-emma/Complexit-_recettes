@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20362">
+  <titre>Moussaka simple et allégée</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g d'aubergines</p>
+    <p>1 oignon</p>
+    <p>200 g de steack haché (à 5 ou 10% de matière grasse) </p>
+    <p>200 g de tomates concassées</p>
+    <p>250 ml de lait (écrémé ou 1/2 écrémé) </p>
+    <p>10 g de Maïzena</p>
+    <p>20 g de gruyère râpé</p>
+    <p>sel, poivre, muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    A) Cuire les aubergines pelées et taillées en gros dés, soit au micro-ondes, soit à la vapeur ou à couvert dans une poêle anti-adhésive avec un peu d'eau. 
+    Une fois cuites, les saler et les mettre à égoutter (1h). 
+    B) Dans une poêle, faire dorer le steack haché émietté puis rajouter l'oignon haché finement. 
+    Rajouter les tomates. Saler, poivrer et laisser mijoter doucement. 
+    C) Confectionner une sauce béchamel allégée: 
+    1- Délayer la maîzena avec une petite partie du lait froid. 
+    2- Chauffer le reste du lait. 
+    3- Quand le lait est très chaud, verser la maîzena délayée et remuer sans cesse jusqu'à un léger épaississement. Arrêtter le feu aux 1ers bouillons. 
+    Saler, poivrer, et mettre un peu de muscade. 
+    D) Dans un plat allant au four, disposer une couche de bolognaise, une couche de béchamel, les aubergines, une couche de béchamel et une couche de bolognaise. 
+    E) Saupoudrer de gruyère râpé et mettre à gratiner (5 à 10 mn).
+    Si vous n'avez pas le temps pour laisser égoutter les aubergines, disposez une fine couche de chapelure au fond du plat, ça absorbera une partie de l'eau rendue.
+    On peut aussi augmenter les proportions de tomate concassée
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26904">
+  <titre>Tarte meringuée aux pommes et à la crème</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de pâte sablée</p>
+    <p>1 kg de pommes à cuire</p>
+    <p>2 cuillères à soupe de sucre en poudre</p>
+    <p>1 citron non traité</p>
+    <p>50 g de crème fraîche liquide</p>
+    <p>2 blancs d'oeufs</p>
+    <p>4 cuillères à soupe de sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Garnir un moule à tarte beurré avec la pâte.
+    Disposer sur la tarte les pommes pelées et coupées en lamelles. Saupoudrer de sucre en poudre et de zeste de citron râpé.
+    Recouvrir de crème fraîche. et enfourner à 200°C (thermostat 6-7) pendant 30 min. 
+    Pendant ce temps, battre les blancs d'oeufs en neige avec le sucre glace.
+    Etaler la meringue sur la tarte cuite et remettre au four 5 min.
+  ]]>
+  </preparation>
+</recette>

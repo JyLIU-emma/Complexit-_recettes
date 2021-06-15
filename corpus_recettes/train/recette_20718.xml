@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20718">
+  <titre>Le Quaron</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de farine</p>
+    <p>1 sachet de levure</p>
+    <p>3 oeufs entiers</p>
+    <p>100 g de sucre</p>
+    <p>100 ml d'huile</p>
+    <p>1 petit verre de lait</p>
+    <p>1 boîte 4/4 d'abricots ou de pêches</p>
+    <p>Pour la finition :</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 170°C (Th 5/6 ). 
+    Mélangez dans l'ordre les ingrédients. 
+    Versez dans un moule à manqué que vous aurez préalablement beurré. 
+    Egouttez les fruits, les couper en tranches épaisses et les disposez sur la pâte. 
+    Mettre au four pour 20 mn. 
+    Au bout des 20 mn sortir le gâteau et le saupoudrer de sucre vanillé et y déposer quelques noisettes de beurre. 
+    Remettre au four pendant 15 mn
+  ]]>
+  </preparation>
+</recette>

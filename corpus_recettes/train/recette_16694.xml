@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16694">
+  <titre>Gâteau tutti-frutti</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g farine </p>
+    <p>250 g sucre fin </p>
+    <p>2 sachets de sucre vanillé </p>
+    <p>2 yaourts natures </p>
+    <p>1 pot de yaourt rempli d'huile </p>
+    <p>3 œufs </p>
+    <p>1 sachet de levure chimique</p>
+    <p>Pour la garniture </p>
+    <p>1 banane</p>
+    <p>1 orange </p>
+    <p>1 citron </p>
+    <p>1 poire </p>
+    <p>2 pêches </p>
+    <p>4 prunes ou mirabelles </p>
+    <p>4 abricots </p>
+    <p>2 kiwis ou 10 cerises</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tamiser le mélange farine-levure dans une terrine.
+    Faire une fontaine et y mettre le sucre et les yaourts.
+    Mélanger bien puis ajouter l'huile,les oeufs battus et le sucre vanillé. Travailler le tout pour obtenir une pâte lisse.
+    Presser le jus de citron et de l'orange. Eplucher la banane et la couper en rondelles. Mettez-la dans un saladier et arrosez-la avec le jus des fruits pressés. Couper tous les autres fruits en dés et les ajouter.
+    Beurrer un moule et y verser la pâte. Répartir sur cette pâte 500 à 600g de fruits égouttés et les enfoncer légèrement. 
+    Faire cuire à four moyen 1 heure environ.démouler le gâteau encore chaud sur une grille
+  ]]>
+  </preparation>
+</recette>

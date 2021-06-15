@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25524">
+  <titre>Moelleux à la rhubarbe</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de rhubarbe</p>
+    <p>200 g de sucre en poudre</p>
+    <p>160 g de farine</p>
+    <p>4 oeufs</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1/2 cuillère à café de levure chimique</p>
+    <p>beurre pour le moule</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Grattez et coupez la rhubarbe en tronçons d'1 cm de long.
+    Ebouillantez-les 2 minutes et égouttez.
+    Préchauffez le four à 210°C (thermostat 7).
+    Mélangez les oeufs avec le sucre dans un saladier que vous placerez au bain-marie.
+    Fouettez le mélange aisni jusqu'à ce qu'il ait doublé de volume et soit devenu mousseux.
+    Retirez du feu et ajoutez délicatement la farine tamisée et la levure chimique.
+    Versez la pâte dans un moule bien beurré et déposez les cubes de rhubarbe à la surface.
+    Saupoudrez avec le sucre vanillé et faites cuire 35 min au four. 
+    Saupoudrez le gâteau de sucre glace une fois refroidi et dégustez...
+  ]]>
+  </preparation>
+</recette>

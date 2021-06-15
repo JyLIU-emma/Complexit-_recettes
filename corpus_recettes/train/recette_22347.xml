@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22347">
+  <titre>Gâteau aux noisettes de Meiringen</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte à gâteau brisée déjà abaissée</p>
+    <p>1 gros oeuf</p>
+    <p>150 g de sucre</p>
+    <p>25 cl de crème fluide</p>
+    <p>180 g de noisettes moulues</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger l'oeuf avec le sucre, la crème puis ajouter les noisettes, verser le tout sur la pâte abaissée et laisser cuire à 200°C pendant 35 min, c'est prêt!!!!Attendre que le gâteau refroidisse pour y saupoudrer du sucre glacé.On peut remplacer les noisettes par des amandes.....
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20847">
+  <titre>Tartelettes aux poires et aux noix</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte brisée :</p>
+    <p>250 g de farine</p>
+    <p>1 pincée de sel</p>
+    <p>125 g de beurre</p>
+    <p>5 cl d'eau</p>
+    <p>Pour la garniture :</p>
+    <p>500 g de poires</p>
+    <p>le jus d'1 citron</p>
+    <p>150 g de cerneaux de noix en poudre</p>
+    <p>100 g de sucre</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>4 cuillères à soupe de rhum</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire une pâte brisée : mélanger farine, beurre, sel et ajouter l'eau. Former une boule, laisser reposer 1 h au frais.
+    Préparer les poires : les éplucher, les épépiner, les couper en lamelles et les arroser de jus de citron.D'un côté, mélanger les noix en poudre avec le sucre. De l'autre, mélanger les jaunes d'oeufs avec le rhum.
+    Garnir des petits moules à tartelette avec la pâte brisée. Disposer les tranches de poires sur la pâte, saupoudrer de la préparation noix-sucre et verser le mélange oeufs-rhum.
+    Enfourner à 180°C (thermostat 6) pendant 20 min environ. Démouler après refroidissement. 
+  ]]>
+  </preparation>
+</recette>

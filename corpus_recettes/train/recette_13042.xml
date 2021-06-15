@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13042">
+  <titre>Goulash</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g d'oignons</p>
+    <p>3 gousses d'ail</p>
+    <p>1 kg de boeuf dans le gite</p>
+    <p>3 cuillers à soupe de saindoux ou de beurre</p>
+    <p>bouillon de boeuf</p>
+    <p>3 cuillères à soupe de paprika doux</p>
+    <p>1 cuillère à café de paprika fort</p>
+    <p>1 cuillère à café de cumin entier</p>
+    <p>1 cuillère à soupe de marjolaine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper la viande en cubes de 5 cm de côté environ. Couper les oignons en fines lamelles. Ecraser les 3 gousses d'ail.
+    Faire fondre le saindoux ou le beurre à feu doux. Ajouter les oignons et l'ail et remuer jusqu'à ce que les oignons prennent une belle couleur dorée. 
+    Retirer du feu.
+    Faire revenir à feu vif les morceaux de viande. 
+    Quand ils sont bien revenus, ajouter les oignons, mélanger. Saupoudrer le paprika, mélanger, et mouiller avec le bouillon de boeuf (on peut mettre de l'eau, mais c'est moins bon). Bien mélanger.
+    Ajouter ensuite le cumin et la marjolaine. Saler.
+    Faire mijoter 3 heures au minimum. Plus le plat est mijoté, meilleur il est.
+    A la place du bouillon, on peut utiliser de la bière. Le plat peut être ensuite agrémenté de poivrons verts et rouges coupés en fines lamelles. vin rouge ou surtout bière blonde
+  ]]>
+  </preparation>
+</recette>

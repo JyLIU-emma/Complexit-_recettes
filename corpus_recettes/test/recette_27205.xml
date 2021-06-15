@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27205">
+  <titre>Merlu Bilbao aux oeufs</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,2 kg de merlu</p>
+    <p>1 cuillère à soupe de jus de citron</p>
+    <p>2 cuillères à soupe de ciboulette</p>
+    <p>3 oeufs entiers</p>
+    <p>40 g de beurre</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Passer les poissons sous l'eau froide pour les laver, puis les vider et les éponger.
+    Couper et jeter les têtes et les extrémités de la queue, puis détailler les poissons en 4 tronçons. Les rouler ensuite dans un mélange de sel et de poivre, puis les arroser de jus de citron.
+    Dans un bol, battre les oeufs entiers en omelette avec le sel et le poivre, puis saupoudrer de ciboulette hachée.
+    Plonger les tronçons de poissons dans ce mélange d'oeufs, puis les faire revenir à la poêle avec le beurre et l'huile. Laisser cuire sur feu modéré en retournant les tronçons, pour que la cuisson soit homogène.
+    Lorsque les tronçons de merlan sont dorés sur tous les côtés, les mouiller du reste d'oeufs battus, puis laisser mijoter 2 à 3 min et retirer du feu.
+    Dresser le poisson sur un plat de service chaud, puis le saupoudrer du reste de ciboulette hachée et servir immédiatement.
+    Servir accompagné de salade verte ou de pommes de terre sautées. On peut remplacer la ciboulette par du persil haché.
+  ]]>
+  </preparation>
+</recette>

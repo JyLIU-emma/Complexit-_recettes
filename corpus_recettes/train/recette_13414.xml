@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13414">
+  <titre>Poulet au curry aux ananas</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>pâte de curry </p>
+    <p>4 blancs de poulet</p>
+    <p>2 tranches d'ananas</p>
+    <p>2 cuillères à soupe de sauce de poisson (se vend en supermarché au rayon spécialités étrangères)</p>
+    <p>piment de cayenne</p>
+    <p>huile</p>
+    <p>1 boîte de lait de coco non sucré</p>
+    <p>basilic</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer l'huile. Ajouter la pâte de curry et remuer pendant 3 mn. Ajouter le lait de coco,mélanger.
+    Ajouter les blancs de poulet préalablement coupés en lanières fines. Mettre du piment de cayenne. Laisser mijoter 15 mn.
+    Ajouter l'ananas coupé en dés.
+    Avant de servir, saupoudrer de basilic fraîchement ciselé. Saler à son goût.
+    Servir accompagné de riz thaÏ ou de nouilles chinoises.
+    Plat économique et qui change des traditionnels spaghetti carbonara ou bolognaise !
+  ]]>
+  </preparation>
+</recette>

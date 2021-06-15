@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27361">
+  <titre>Gâteau au surimi</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>20 bâtons de surimi</p>
+    <p>2 grosses carottes</p>
+    <p>1 petite boîte de champignons de Paris en lamelles</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>5 oeufs</p>
+    <p>gruyère râpé</p>
+    <p>persil</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tapissez votre moule à manquer de bâtonnets de poisson type surimi. 
+    Dans un plat mélangez 2 grosses carottes que vous aurez au préalable râpées, avec les champignons et la crème fraîche. 
+    Ajoutez les oeufs battus en omelette, mettre un peu de gruyère râpé, du sel, du poivre et beaucoup de persil. 
+    Versez le tout sur le surimi. 
+    Faire cuire 35 mn thermostat 7 
+    Se déguste chaud.
+  ]]>
+  </preparation>
+</recette>

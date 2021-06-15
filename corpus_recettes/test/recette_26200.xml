@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26200">
+  <titre>Clafoutis au fenouil</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 fenouils</p>
+    <p>90 g de beurre</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>1 l de lait</p>
+    <p>3 oeufs</p>
+    <p>100 g de gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Enlever les feuilles extérieures des fenouils et les mettre à cuire dans de l'eau bouillante salée pendant 10 min.
+    Les égoutter et les faire revenir dans une casserole avec du beurre. Assaisonner et laisser dorer.
+    Délayer la farine dans le lait et l'incorporer à la préparation. Laisser refroidir et ajouter le fromage râpé et les oeufs.
+    Beurrer une terrine et y verser la préparation. Enfourner au bain-marie à 210° (thermostat 7) pendant 20 min.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19752">
+  <titre>Crème brûlée au beurre de cacahuète</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 cuillères à soupe de beurre de cacahuète</p>
+    <p>6 jaunes et 1 blanc d'oeuf</p>
+    <p>150 g de sucre en poudre</p>
+    <p>80 cl de crème fraîche liquide (soit 4 briquettes)</p>
+    <p>10 cl de lait</p>
+    <p>30 g de cassonade</p>
+    <p>quelques cacahuètes non salées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Porter à ébullition le lait et la crème fraîche dans une casserole, y émietter les cacahuètes.
+    Préchauffez le four à thermostat 4.
+    Dans un saladier, fouettez les 6 jaunes, le blanc et le sucre. 
+    Ajouter le mélange crème-lait, le beurre de cacahuète sans cesser de fouetter. 
+    Répartissez dans 4 ramequins, faites cuire 30 mn.
+    Laissez refroidir puis placez au frais. Au moment de servir, saupoudrez de cassonade et passez au grill.
+    Une idée qui peut paraître étrange mais qui est délicieuse. On peut servir avec un peu de sirop d'érable, de la glace à la vanille...
+  ]]>
+  </preparation>
+</recette>

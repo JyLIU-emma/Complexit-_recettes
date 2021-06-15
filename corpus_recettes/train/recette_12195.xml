@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12195">
+  <titre>Harengs au vinaigre ( rollmops )</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>10 harengs bien frais (nettoyés, sans tête ni nageoires et dont on a levé toutes les arêtes)</p>
+    <p>3 dl de vin blanc sec</p>
+    <p>1 dl de vinaigre blanc (si possible à l'estragon)</p>
+    <p>2 carottes coupées en fines rondelles</p>
+    <p>2 gros oignons blancs coupés en finnes tranches</p>
+    <p>1 citron coupé en fines tranches</p>
+    <p>thym</p>
+    <p>laurier</p>
+    <p>persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ranger les harengs dans un plat (genre plat en pyrex).
+    Amener à ébullition le mélange vin/vinaigre dans lequel on a placé tous les autres ingrédients, puis laisser cuire quelques instants.
+    Verser ce mélange sur les harengs et placer le plat sur feu doux pour faire cuire à feu doux une petite dizaine de minutes.
+    Faire refroidir.
+  ]]>
+  </preparation>
+</recette>

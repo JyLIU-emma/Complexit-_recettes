@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173120">
+  <titre>Saumon en croûte de sel aux épices</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 saumon d'1.5 kg</p>
+    <p>1 kg de farine</p>
+    <p>1 kg de gros sel</p>
+    <p>65 cl d'eau</p>
+    <p>1 cuillère à soupe de 4 épices</p>
+    <p>1 cuillère à soupe de graine de carvi</p>
+    <p>1 cuillère à café de curry</p>
+    <p>1 cuillère à café de gingembre (poudre ou râpé frais)</p>
+    <p>1 cuillère à café de poivre moulu.</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites vider et écailler le saumon par votre poissonnier en faisant attention de garder la peau intacte, vous pouvez demander à ce que votre poissonnier retire l'arête centrale.
+    Rincez-le bien, essuyez-le.Mélanger toutes les épices dans un bol. Dans un grand saladier, mélanger la farine avec le gros sel, la moitié des épices et l'eau pour obtenir une pâte, laissez-la reposer.
+    Badigeonner l'intérieur et le dessus du saumon avec le reste des épices.Étalez la pâte, posez et roulez le saumon dedans. Si pour des questions de grandeur de four, vous devez couper la tête ou la queue du saumon, protégez la coupe avec un papier d'aluminium, pour que le sel ne pénètre pas directement dans la chair.
+    Modelez bien le saumon, soudez les bords en mouillant avec un peu d'eau.
+    Posez le saumon sur une plaque, mettez-le à cuire au four à 210°C (thermostat 7) pendant 1h15 environ. Sortez le saumon, attendez quelques minutes avant de casser la croûte et de déguster. bourgogne blanc
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faites <OPER id="o_1">vider</OPER> et <OPER id="o_2">écailler</OPER> le <INGRED id="1">saumon</INGRED> par votre poissonnier en faisant attention de <OPER id="o_3">garder</OPER> la peau intacte, vous pouvez <OPER id="o_4">demander</OPER> à ce que votre poissonnier retire l'arête centrale. <OPER id="o_5">Rincez</OPER> - le bien, essuyez - le. <OPER id="o_6">Mélanger</OPER> toutes les <INGRED id="2">épices</INGRED> dans un bol. Dans un grand <INGRED id="1">saladier</INGRED>, <OPER id="o_7">mélanger</OPER> la farine avec le <INGRED id="3">gros sel</INGRED>, la moitié des <INGRED id="9">épices</INGRED> et l'<INGRED id="8">eau</INGRED> pour obtenir une <INGRED id="1">pâte</INGRED>, laissez - la <OPER id="o_8">reposer</OPER>. <OPER id="o_9">Badigeonner</OPER> l'intérieur et le dessus du <INGRED id="2">saumon</INGRED> avec le <INGRED id="1">reste</INGRED> des <INGRED id="9">épices</INGRED>. <OPER id="o_10">Étalez</OPER> la pâte, posez et roulez le saumon dedans. Si pour des questions de grandeur de four, vous devez <OPER id="o_11">couper</OPER> la tête ou la <INGRED id="1">queue</INGRED> du <INGRED id="2">saumon</INGRED>, <OPER id="o_12">protégez</OPER> la <INGRED id="2">coupe</INGRED> avec un papier d'aluminium, pour que le sel ne pénètre pas directement dans la <INGRED id="2">chair</INGRED>. <OPER id="o_13">Modelez</OPER> bien le saumon, <OPER id="o_14">soudez</OPER> les bords en mouillant avec un peu d'<INGRED id="4">eau</INGRED>. <OPER id="o_15">Posez</OPER> le <INGRED id="1">saumon</INGRED> sur une plaque, <OPER id="o_16">mettez</OPER> - le à <OPER id="o_17">cuire</OPER> au four à 210 ° C ( thermostat 7 ) pendant 1h15 <INGRED id="1">environ</INGRED>. <OPER id="o_18">Sortez</OPER> le saumon, <OPER id="o_19">attendez</OPER> quelques minutes avant de <OPER id="o_20">casser</OPER> la croûte et de déguster. bourgogne <INGRED id="1">blanc</INGRED>
+  </annotation>
+  <annotation methode="crf">
+  Faites vider et écailler le <INGRED>saumon</INGRED> par votre poissonnier en faisant attention de garder la peau intacte <INGRED>,</INGRED> vous pouvez demander à ce que votre poissonnier retire l'arête centrale. Rincez - le bien <INGRED>,</INGRED> essuyez - le <INGRED>.</INGRED> Mélanger toutes les <INGRED>épices</INGRED> dans un bol <INGRED>.</INGRED> Dans un grand saladier <INGRED>,</INGRED> mélanger la <INGRED>farine</INGRED> avec le <INGRED>gros sel</INGRED> <INGRED>,</INGRED> la moitié des <INGRED>épices</INGRED> et l'<INGRED>eau</INGRED> pour obtenir une <INGRED>pâte</INGRED> <INGRED>,</INGRED> laissez - la reposer. Badigeonner l'intérieur et le dessus du <INGRED>saumon</INGRED> avec le <INGRED>reste</INGRED> des <INGRED>épices</INGRED> <INGRED>.</INGRED> Étalez la <INGRED>pâte</INGRED> <INGRED>,</INGRED> posez et roulez le <INGRED>saumon</INGRED> dedans <INGRED>.</INGRED> Si pour des questions de grandeur de four <INGRED>,</INGRED> vous devez couper la tête <INGRED>ou</INGRED> la queue du <INGRED>saumon</INGRED> <INGRED>,</INGRED> protégez la coupe avec un papier d'aluminium <INGRED>,</INGRED> pour que le <INGRED>sel</INGRED> ne pénètre pas directement dans la <INGRED>chair</INGRED> <INGRED>.</INGRED> Modelez bien le <INGRED>saumon</INGRED> <INGRED>,</INGRED> soudez les bords en mouillant avec un peu d'<INGRED>eau</INGRED> <INGRED>.</INGRED> Posez le <INGRED>saumon</INGRED> sur une plaque <INGRED>,</INGRED> mettez - le à cuire au four à 210 ° C ( thermostat 7 ) pendant 1h15 <INGRED>environ</INGRED>. Sortez le <INGRED>saumon</INGRED> <INGRED>,</INGRED> attendez quelques minutes avant de casser la croûte et de déguster <INGRED>.</INGRED> bourgogne <INGRED>blanc</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 14.0*X + 7.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 6*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:["saumon d'1.5 kg", 'saumon']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['farine']	 id:2	 quantité:1	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['gros sel', 'sel']	 id:3	 quantité:1	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['eau']	 id:4	 quantité:65	 unité:cl d'	 denombrable:False	 recipient:1
+ingredient:['4 épices', 'épices']	 id:5	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['graine de carvi', 'graine']	 id:6	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['curry']	 id:7	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+ingredient:['gingembre']	 id:8	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+ingredient:['poivre moulu', 'poivre']	 id:9	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:vider	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:écailler	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garder	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:demander	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rincer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_6	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mélanger	 id:o_7	 ingrédients_ralatifs:['1', '3', '9', '8', '1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:reposer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:badigeonner	 id:o_9	 ingrédients_ralatifs:['2', '1', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étaler	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_11	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:1*X+1	 temps:1*X*1+1*X*1	 recipient:1
+operation:protéger	 id:o_12	 ingrédients_ralatifs:['1', '2', '2', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:modeler	 id:o_13	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:souder	 id:o_14	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poser	 id:o_15	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_16	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cuire	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:sortir	 id:o_18	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:attendre	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:casser	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

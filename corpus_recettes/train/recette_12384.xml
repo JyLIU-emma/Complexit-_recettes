@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12384">
+  <titre>Soupe de petit pois au jambon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 gr de petits pois</p>
+    <p>50 gr de jambon blanc</p>
+    <p>50 g d'oignons</p>
+    <p>1/4 l d'eau</p>
+    <p>une cuillère de crème double (épaisse)</p>
+    <p>une noisette de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole, mettre la noisette de beurre puis faite dorer les oignons. Ajouter les petits pois et l'eau, puis porter à ébulition.
+    Emincer le jambon et l'ajouter à mi-cuisson.
+    Une fois cuit, mixer la soupe et y ajouter la crème, saler et poivrer(on ne poivre normalement pas un potage mais c'est meilleur).
+  ]]>
+  </preparation>
+</recette>

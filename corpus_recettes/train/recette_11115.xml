@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11115">
+  <titre>Saucisson chaud à la lyonnaise.</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de saucisson de porc </p>
+    <p>1,5 kg de pommes de terre </p>
+    <p>4 cuillères à soupe de consommé de volaille </p>
+    <p>4 cuillères à soupe de vinaigre de vin blanc </p>
+    <p>1/2 cuillère à café de moutarde forte </p>
+    <p>175 ml d'huile d'olive </p>
+    <p>2 oignons piqués chacun d'un clou de girofle </p>
+    <p>3 échalotes émincées </p>
+    <p>3 cuillères à soupe de persil ciselé </p>
+    <p>sel, poivre  </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Piquer le saucisson et faire bouillir à feu doux pendant 45mn à découvert Pendant ce temps, peler les pommes de terre et couper en rondelles. Déposer dans une casserole ; recouvrir d'eau avec une bonne pincée de sel et faire cuire 15 mn.
+    Egoutter et déposer dans un grand récipient.
+    Verser le bouillon de volaille chaud et laisser en attente.
+    Dans un bol, mélanger le vinaigre, la moutarde, le sel et le poivre. Verser sur les pommes de terre. Ajouter l'huile d'olive, l'échalote et le persil.Mélanger doucement sans briser les pommes de terre. Retirer le saucisson et placer sur du papier absorbant. Retirer la peau.
+    Couper en tranches, déposer sur les pommes de terre.
+    Servir tiède.
+  ]]>
+  </preparation>
+</recette>

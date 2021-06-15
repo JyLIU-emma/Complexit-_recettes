@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12134">
+  <titre>Tarte paysanne facile</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 blancs de poireaux</p>
+    <p>4 tranches de jambon</p>
+    <p>1 boîte de champignons</p>
+    <p>20 cl de crème fraiche</p>
+    <p>3 oeufs</p>
+    <p>100g de gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poèle, faites fondre les poireaux emincés avec le jambon coupé en petits carrés et les champignons.
+    Dans un bol, mélangez les oeufs avec la crème fraîche et le gruyère.
+    Dans un plat a tarte, étalez la pâte verser le contenu de la poëlle puis verser par dessus la sauce.
+    Faites cuire environ 30 mn à 200°C.
+  ]]>
+  </preparation>
+</recette>

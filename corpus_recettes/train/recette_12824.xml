@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12824">
+  <titre>Sablés au sésame</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de farine</p>
+    <p>200 g de beurre</p>
+    <p>250 g de sucre </p>
+    <p>1 paquet de levure chimique</p>
+    <p>250 g de graines de sésame</p>
+    <p>100 g de pistaches décortiquées</p>
+    <p>10 cl d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger farine, beurre ramolli, levure et sucre, ajouter l'eau et travailler la pâte. 
+    Confectionner des disques à l'aide d'un verre retourné, les passer d'un côté dans les graines de sésame et de l'autre dans les pistaches.
+    Faire cuire au four préchauffé à 150°C (thermostat 5) en chaleur pulsée pendant 15 à 20 min.
+    Peut accompagner des salades de fruits ou des glaces.
+  ]]>
+  </preparation>
+</recette>

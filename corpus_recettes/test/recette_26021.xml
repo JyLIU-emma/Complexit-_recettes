@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26021">
+  <titre>Pudding de riz aux bananes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 l de lait</p>
+    <p>200 g de riz</p>
+    <p>150 g de sucre</p>
+    <p>3 oeufs battus en omelette</p>
+    <p>60 g de beurre </p>
+    <p>6 grosses bananes</p>
+    <p>3 grosses pommes reinettes</p>
+    <p>50 g de raisins de Corinthe</p>
+    <p>quelques fruits confits</p>
+    <p>2 cuillères à soupe de rhum</p>
+    <p>10 morceaux de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire tremper les raisins dans le rhum.
+    Faire pocher le riz 3 minutes à l'eau bouillante. L'égoutter, puis le faire cuire 1/2 heure dans le lait bouillant.
+    Préchauffer le four à 150°C (thermostat 5).Préparer un caramel avec les 10 morceaux de sucre et en garnir l'intérieur d'un moule à charlotte.
+    Couper les bananes en rondelles et en disposer sur le caramel.
+    Incorporer au riz le reste des fruits coupés en morceaux, le sucre, les oeufs, le beurre fondu, les raisins et le rhum. 
+    Verser dans le moule.
+    Faire cuire pendant 45 minutes. Démouler. Manger froid.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23871">
+  <titre>Escalopes de dinde panées</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de blanc de dinde</p>
+    <p>100 g de miettes de pain rassis</p>
+    <p>15 cl de lait</p>
+    <p>2 oeufs (1 entier et 1 jaune)</p>
+    <p>3 à 4 cuillères à soupe de farine</p>
+    <p>3 à 4 cuillères à soupe de chapelure</p>
+    <p>quelques noisettes de beurre</p>
+    <p>1 citron jaune découpé en rondelles</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Réduire le pain rassis en miettes et le faire gonfler dans un peu de lait. Puis l'égoutter.
+    Pendant ce temps, hacher les blancs de dinde puis les mélanger avec la mie de pain et le jaune d'oeuf.
+    Refaçonner le mélange en escalopes, en tassant à la main.
+    Préparer 3 assiettes : une pour contenir de farine, l'autre pour contenir l'oeuf entier battu et la dernière pour y mettre la chapelure.
+    Rouler les escalopes successivement dans la farine, puis dans les oeufs et enfin dans la chapelure.
+    Dans une poêle, faire chauffer le beurre, puis mettre les escalopes panées à cuire sur feu doux pour cuire la viande puis sur feu vif pour dorer la chapelure.
+    Décorer les escalopes avec des rondelles de citron pour le service.
+    Déguster avec des tagliatelles fraîches et de la sauce tomate.
+  ]]>
+  </preparation>
+</recette>

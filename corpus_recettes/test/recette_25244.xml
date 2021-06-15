@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25244">
+  <titre>Quatre-quarts fondant à la rhubarbe</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de rhubarbe + 150 g de sucre</p>
+    <p>2 oeufs</p>
+    <p>120 g de farine</p>
+    <p>120 g de beurre</p>
+    <p>120 g de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Grattez et coupez la rhubarbe en petits tronçons.
+    Saupoudrez-les de 150 g de sucre et faîtes cuire une dizaine de minutes dans une casserole découverte.
+    Laissez refroidir.
+    Fouettez les jaunes d'oeufs avec le sucre jusqu'à ce que le mélange mousse et blanchisse.
+    Ajoutez à la pâte alternativement la farine et le beurre fondu en mélangeant bien pour que la pâte soit homogène.
+    Ajoutez les morceaux de rhubarbe refroidis.
+    Incorporez enfin les blancs d'oeufs battus en neige délicatement, puis versez la pâte dans un moule beurré et fariné. 
+    Faites cuire 45 min au four à 160°C (thermostat 5-6).
+    Laissez refroidir et démoulez.
+  ]]>
+  </preparation>
+</recette>

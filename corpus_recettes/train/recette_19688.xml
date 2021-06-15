@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19688">
+  <titre>Cake au potiron</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de potiron épluché</p>
+    <p>20 cl de crème fraîche</p>
+    <p>125 g de sucre en poudre</p>
+    <p>3 oeufs</p>
+    <p>50 g de poudre d'amandes</p>
+    <p>75 g de raisins secs</p>
+    <p>150 g de farine + 1 cuillère à soupe</p>
+    <p>1 sachet de levure chimique</p>
+    <p>1 pincée de sel</p>
+    <p>beurre et farine pour le moule</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four (thermostat 7 - 220°C). 
+    Beurrer et fariner un moule à cake. Couper la chair du potiron en dés en éliminant l'écorce, les fibres et les graines. Les faire cuire 10 mn à la vapeur, les réduire en purée au robot et laisser refroidir complètement. 
+    Dans une terrine, battre légèrement la crème fraîche avec le sucre en poudre. Incorporer les oeufs l'un après l'autre, la purée de potiron, puis la poudre d'amandes. Rouler les raisins secs dans une cuillère à soupe de farine, puis les secouer sur un tamis pour faire tomber l'excédent de farine. Mélanger la farine, la levure et le sel. Ajouter les raisins secs en les répartissant bien dans la masse. Verser la préparation dans le moule et lisser la surface. 
+    Enfourner à mi-hauteur et laisser cuire 10 mn. 
+    Au bout de ce temps, inciser la surface du cake sur toute la longueur avec la lame d'un couteau, ce qui va permettre au cake de mieux lever. 
+    Baisser la température du four (thermostat 5 - 140°C) et poursuivre la cuisson 40 mn. 
+    Vérifier la cuisson en piquant la lame d'un couteau à coeur : elle doit ressortir bien sèche. Au sortir du four, démouler le cake sur une grille et le laisser refroidir. 
+    Se conserve plusieurs jours.
+  ]]>
+  </preparation>
+</recette>

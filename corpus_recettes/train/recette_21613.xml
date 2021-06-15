@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21613">
+  <titre>Pizza courgette aux oeufs</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte à pizza toute prête</p>
+    <p>1 courgette</p>
+    <p>un petit bocal de sauce tomate pour pizza</p>
+    <p>du Parmesan râpé</p>
+    <p>2 oeufs</p>
+    <p>du basilic</p>
+    <p>de la crème fraîche épaisse</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 240°C . 
+    Étalez la pâte à pizza en conservant la feuille de cuisson sur la plaque de votre four. 
+    La recouvrir de la sauce tomate. Epluchez et coupez en rondelles la courgette et les étalez sur la pâte. 
+    Recouvrir de Parmesan et de basilic. 
+    Mettre au four 10 mn. 
+    Sortez la pizza, cassez 2 oeufs sur le dessus et remettre au four 5 mn. 
+    En la sortant du four et avant de servir, ajoutez une cuillère à soupe de crème fraîche sur le dessus.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22619">
+  <titre>Taboulé aux fruits</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de semoule</p>
+    <p>fraises, kiwis, orange </p>
+    <p>50 g de raisins secs</p>
+    <p>beurre</p>
+    <p>pignons</p>
+    <p>menthe</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir 15 cl d'eau. Verser sur la semoule et laisser gonfler 5 min.
+    Ajouter une noix de beurre et égrener le couscous à la fourchette. 
+    Ajouter tous les fruits coupés en petits morceaux et les raisins secs. Remuer et ajouter des pignons dorés à la poêle et de la menthe ciselée. Servir frais.
+  ]]>
+  </preparation>
+</recette>

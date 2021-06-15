@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24970">
+  <titre>Pissaladière</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de pâte à pain</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>1,2 kg d'oignons</p>
+    <p>20 cl d'huile d'olive </p>
+    <p>12 filets d'anchois</p>
+    <p>1 cuillère à café de sucre en poudre</p>
+    <p>60 g d'olives noires</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer les oignons et les faire fondre dans l'huile chaude.
+    Rincer les anchois.
+    Préchauffer le four à 240°C (thermostat 8).
+    Malaxer la pâte à pain avec l'huile et l'étaler sur 1 cm d'épaisseur.
+    Saupoudrer les oignons tendres de sucre et les disposer sur la pâte.
+    Déposer les anchois et les olives sur les oignons et enfourner pour 30 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23535">
+  <titre>Linzer Torte : spécialité autrichienne à la confiture</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>210 g de beurre</p>
+    <p>150 g de sucre</p>
+    <p>150 g d'amandes de poudre</p>
+    <p>5 jaunes d'oeufs durs</p>
+    <p>7 cl de rhum</p>
+    <p>1 pot de confiture de framboises</p>
+    <p>1/2 cuillère à café de cannelle</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 200°C (thermostat 6-7).
+    Malaxez la farine avec le beurre coupé en dés puis incorporez progressivement les amandes, le sucre, les jaunes d'oeufs écrasés, la cannelle, le sel et le rhum.
+    Etalez la pâte sur 1 cm d'épaisseur et la disposez dans un moule à tarte. Gardez les chutes de pâte.
+    Etalez la confiture sur la pâte et décorez des chutes de pâtes disposées en losanges.
+    Enfournez pour 30 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

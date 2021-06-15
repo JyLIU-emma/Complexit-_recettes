@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13776">
+  <titre>Pain brioché</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de farine</p>
+    <p>4 œufs</p>
+    <p>50 g de beurre</p>
+    <p>100 g de sucre</p>
+    <p>20 g de sel</p>
+    <p>30 g de levure de boulanger</p>
+    <p>30cl de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Délayez la levure dans un peu de lait, tamisez la farine et incorporez le sucre et le sel.
+    Cassez les œufs, versez la levure et le lait tout en pétrissant bien la pâte.
+    Incorporez le beurre ramolli, pétrissez bien la pâte et laissez la pousser à température ambiante pendant au moins deux heures.
+    Farinez la table puis déposez la pâte.Détaillez des morceaux de pâte et roulez des petites boules dans la paume de la main.Compter 3h de 'temps de pousse'. café
+  ]]>
+  </preparation>
+</recette>

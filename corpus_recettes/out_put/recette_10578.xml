@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10578">
+  <titre>Aumonière de saumon fumé eu carré frais et roquefort</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 tranches de saumon fumé</p>
+    <p>6 carré frais</p>
+    <p>1/2 barquette de roquefort</p>
+    <p>sel, poivre, citron, huile d'olive</p>
+    <p>cure-dents</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour 1 aumonière : positionner 2 tranches de saumon de manière à les faire se chevaucher.
+    Mélanger dans un bol les carrés frais écrasés, la moitié d'une barquette de roquefort émiétté (ou plus selon le goût souhaité), un peu d'huile d'olive.
+    Saler, poivrer.
+    Déposer l'équivalent de 2 cuillères à soupe de cette préparation au centre des tranches de saumon, replier celles-ci pour former l'aumonière, fixer avec les cures dents pour les tenir fermées.
+    Arroser de jus de citron et mettre au frigo, servir froid.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Pour 1 aumonière : <OPER id="o_1">positionner</OPER> 2 tranches de <INGRED id="1">saumon</INGRED> de manière à les faire se <OPER id="o_2">chevaucher</OPER>. <OPER id="o_3">Mélanger</OPER> dans un bol les <INGRED id="7">carrés frais</INGRED> écrasés, la moitié d'une barquette de <INGRED id="3">roquefort</INGRED> émiétté ( ou plus selon le goût souhaité ), un peu d'<INGRED id="7">huile d'olive</INGRED>. <OPER id="o_4">Saler</OPER>, <OPER id="o_5">poivrer</OPER>. <OPER id="o_6">Déposer</OPER> l'équivalent de 2 cuillères à soupe de cette préparation au centre des tranches de <INGRED id="1">saumon</INGRED>, <OPER id="o_7">replier</OPER> celles-ci pour former l'aumonière, <OPER id="o_8">fixer</OPER> avec les cures dents pour les tenir fermées. <OPER id="o_9">Arroser</OPER> de <INGRED id="5">jus de citron</INGRED> et <OPER id="o_10">mettre</OPER> au frigo, servir froid.
+  </annotation>
+  <annotation methode="crf">
+  Pour 1 aumonière <INGRED>:</INGRED> positionner 2 tranches de saumon de manière à les faire se chevaucher <INGRED>.</INGRED> Mélanger dans un bol les <INGRED>carrés</INGRED> <INGRED>frais</INGRED> écrasés <INGRED>,</INGRED> la moitié d'une barquette de <INGRED>roquefort</INGRED> émiétté ( <INGRED>ou</INGRED> plus selon le goût souhaité ) <INGRED>,</INGRED> un peu d'<INGRED>huile d'olive</INGRED> <INGRED>.</INGRED> Saler <INGRED>,</INGRED> poivrer. Déposer l'équivalent de 2 <INGRED>cuillères à soupe</INGRED> de cette préparation au centre des tranches de saumon <INGRED>,</INGRED> replier celles-ci pour former l'aumonière <INGRED>,</INGRED> fixer avec les cures dents pour les tenir fermées <INGRED>.</INGRED> Arroser de <INGRED>jus de citron</INGRED> et mettre au frigo <INGRED>,</INGRED> servir froid <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 7.0*X + 3.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 14*X + 10</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['saumon fumé', 'saumon']	 id:1	 quantité:8	 unité:tranches de	 denombrable:True	 recipient:8*X
+ingredient:['carré frais', 'carré']	 id:2	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['roquefort']	 id:3	 quantité:1/2	 unité:barquette de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['citron']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["huile d'olive", 'huile']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['cure-dents', 'cure']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:positionner	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:chevaucher	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:['7', '3', '7']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:saler	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déposer	 id:o_6	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:replier	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fixer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:arroser	 id:o_9	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

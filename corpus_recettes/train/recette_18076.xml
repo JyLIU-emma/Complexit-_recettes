@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18076">
+  <titre>Soufflé au fromage bleu</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>30 g de beurre</p>
+    <p>40 g de farine</p>
+    <p>10 cl de lait</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>1 oeuf entier</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>100 g de gorgonzola doux</p>
+    <p>100 g de roquefort</p>
+    <p>3 blancs d'oeufs</p>
+    <p>noix de muscade</p>
+    <p>1 bouquet de ciboulette</p>
+    <p>beurre pour le moule</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites fondre le beurre, puis ajoutez la farine d'un trait, sans la laisser se colorer.
+    Ajoutez le lait et le vin blanc, mélangez jusqu'à obtention d'un mélange homogène, puis portez à ébullition.
+    Incorporez successivement l'oeuf entier, les jaunes d'oeufs et le fromage en remuant énergiquement.
+    Montez en neige ferme les blancs d'oeufs avec un peu de sel. Incorporez-les au mélange, puis répartissez ensuite dans des moules individuels beurrés.
+    Faites cuire de 12 à 15 min au bain-marie dans un four préchauffé à 220°C (thermostat 7/8).
+    Voici une variante du soufflé. Ici on associe le Gorgonzola à la saveur douce à un Roquefort au goût plus prononcé. D'autres combinaisons sont possibles, depuis le Livarot jusqu'au Munster... Régalez-vous!
+  ]]>
+  </preparation>
+</recette>

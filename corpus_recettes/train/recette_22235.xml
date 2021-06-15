@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22235">
+  <titre>Délice de chèvre</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 petits oignons</p>
+    <p>1 bûche de chèvre</p>
+    <p>3 fines bardes de lard</p>
+    <p>1 jaune d'oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire blondir les oignons émincés dans de l'huile d'olive et du thym. 
+    Dérouler une pâte feulleté sur votre plan de travail et prélever 6 cercles dont 3 un peu plus larges (utiliser verre et bol en guise d'emporte-pièces). 
+    Déposer les oignons sur les cercles plus petits, puis une tranche de 2 cm environ de chèvre entourée de la barde de lard. 
+    Refermer les feuilletés avec les cercles plus larges, souder les bords, et badigeonner de jaune d'oeuf. 
+    Mettre au four préchauffé à 200°C, environ 20 mn (attention que cela ne grille pas trop dessus, vous pouvez mettre une feuille d'aluminium en cours de cuisson).
+    Vous pouvez déguster avec une salade en entrée, ou avec des épinards à la crème en guise de repas léger.
+  ]]>
+  </preparation>
+</recette>

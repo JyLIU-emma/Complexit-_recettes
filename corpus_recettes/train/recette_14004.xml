@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14004">
+  <titre>Tarte aux fruits / Streusel (Allemagne)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte du dessous :</p>
+    <p>125 g de beurre fondu</p>
+    <p>1 oeuf</p>
+    <p>2 tasses (200 g) de farine</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 pincée de sel diluée dans une cuillère à café d'eau</p>
+    <p>Pour la pâte du dessus (Streusel) :</p>
+    <p>125 g de beurre</p>
+    <p>1 tasse (100 g) de farine</p>
+    <p>3/4 de tasse (150 g de sucre)</p>
+    <p>1 paquet de sucre vanillé</p>
+    <p>de la cannelle si on utilise des pommes</p>
+    <p>Pour la garniture (au choix) :  </p>
+    <p>pommes en fines lamelles</p>
+    <p>cerises en bocal</p>
+    <p>abricots</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pâte du dessous : mélanger tous les ingrédients pour former une pâte homogène, étaler la pâte dans un moule à charnière.
+    Recouvrir de fruits.
+    Pâte du dessus (Streusel): mélanger tous les ingrédients et couvrir les fruits en émiettant cette pâte.
+    Mettre au four préchauffé à 180°C pendant 45 mn (le Streusel doit être doré).
+    Si on n'utilise pas de sucre, la pâte du dessous (facile et très rapide à préparer) est délicieuse comme fond de quiche.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10714">
+  <titre>Spaghettis aux carrés frais</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de spaghettis n°1</p>
+    <p>4 carrés frais</p>
+    <p>une poignée de tomates cerises</p>
+    <p>du basilic frais</p>
+    <p>le jus d'un demi citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle, faire fondre les carrés frais avec le jus de citron, hacher le basilic en feuille, couper les tomates cerises en deux et les ajouter au fondant.
+    Faire cuire les pâtes pendant ce temps dans une casserole à part. Egoutter et répartir les spaghettis dans un plat.
+    Verser la préparation aux carrés frais tout autour. Ajouter une feuille de Basilic en présentation. Servir!
+  ]]>
+  </preparation>
+</recette>

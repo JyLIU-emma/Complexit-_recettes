@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17588">
+  <titre>Saucisse aux lentilles</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de lentilles</p>
+    <p>4 petites saucisses sèches à cuire</p>
+    <p>200 g de lard fumé</p>
+    <p>1 feuille de laurier</p>
+    <p>ail</p>
+    <p>sel poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettez de l'eau à mi-hauteur de cocotte (utiliser de préférence une cocotte-minute). Ajouter les ingrédients et mettre à chauffer. Attendre 20 mn dès que la soupape chuchote. 
+    Vous pouvez rajouter quelques petites pommes de terre pour faire passer les lentilles aux enfants.
+  ]]>
+  </preparation>
+</recette>

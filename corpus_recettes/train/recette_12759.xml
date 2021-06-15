@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12759">
+  <titre>Crème brûlée à la noix de coco</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 oeufs entiers</p>
+    <p>1 boite de lait concentre SUCRE</p>
+    <p>1 boite de lait concentre NON SUCRE</p>
+    <p>1 volume d'eau (se servir d'une des boites de lait)</p>
+    <p>caramel liquide</p>
+    <p>1 petit sachet de coco rapee et sechee</p>
+    <p>vanille liquide ou interieur d'une gousse</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Caraméliser le fond d'un moule allant au four dans un saladier, puis mélanger oeufs battus + lait concentré sucré + lait concentré non sucré + vanille + un volume d'eau + coco râpée.
+    Verser le tout dans le plat caramélisé.
+    Cuire au bain marie à feu moyen pendant environ 40 minutes (en fait jusqu'a ce que la surface de la preparation soit dorée).
+    Laisser refroidir, puis réfrigerer.
+    Juste avant de servir , saupoudrer de sucre , et bruler au fer très chaud (à defaut, passer quelques minutes sous le grill très chaud).
+    Ceci est en fait la recette du flan coco traditionnel antillais , il peut se préparer la veille , mais il est important de le  brûler juste avant de servir pour que le caramel du dessus soit bien dur et brillant. eau !
+  ]]>
+  </preparation>
+</recette>

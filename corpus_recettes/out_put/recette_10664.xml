@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10664">
+  <titre>Perdreaux au verjus</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 perdreaux</p>
+    <p>1 grappe de raisins verts</p>
+    <p>15 cl de marc d'Arbois</p>
+    <p>450 g de raisins verts pressés</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Farcir l'intérieur des perdreaux de quelques raisins verts, puis les faire dorer au beurre, en cocotte.
+    Ajouter un verre de marc d'Arbois et flamber. Continuer la cuisson.
+    Retirer les perdreaux sur un plat chaud.
+    Ajouter dans la cocotte le jus d'une livre de raisins verts pressés.
+    Laisser chauffer et napper les perdreaux.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Farcir</OPER> l'intérieur des <INGRED id="1">perdreaux</INGRED> de quelques <INGRED id="2">raisins verts</INGRED>, puis les faire <OPER id="o_2">dorer</OPER> au beurre, en cocotte. <OPER id="o_3">Ajouter</OPER> un verre de <INGRED id="3">marc d'Arbois</INGRED> et <OPER id="o_4">flamber</OPER>. <OPER id="o_5">Continuer</OPER> la cuisson. <OPER id="o_6">Retirer</OPER> les <INGRED id="1">perdreaux</INGRED> sur un plat chaud. <OPER id="o_7">Ajouter</OPER> dans la cocotte le jus d'une livre de <INGRED id="4">raisins verts pressés</INGRED>. Laisser <OPER id="o_8">chauffer</OPER> et <OPER id="o_9">napper</OPER> les <INGRED id="1">perdreaux</INGRED>.
+  </annotation>
+  <annotation methode="crf">
+  Farcir l'intérieur des perdreaux de quelques <INGRED>raisins verts</INGRED> <INGRED>,</INGRED> puis les faire dorer au <INGRED>beurre</INGRED> <INGRED>,</INGRED> en cocotte. Ajouter un <INGRED>verre</INGRED> de <INGRED>marc d'Arbois</INGRED> et flamber. Continuer la cuisson. Retirer les perdreaux sur un plat chaud <INGRED>.</INGRED> Ajouter dans la cocotte le <INGRED>jus</INGRED> d'une livre de <INGRED>raisins verts</INGRED> pressés <INGRED>.</INGRED> Laisser chauffer et napper les perdreaux.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 6.6*X + 4.4</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 3*X + 3</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['perdreaux']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['raisins verts', 'raisins']	 id:2	 quantité:1	 unité:grappe de	 denombrable:True	 recipient:1*X
+ingredient:["marc d'Arbois", 'marc']	 id:3	 quantité:15	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['raisins verts pressés', 'raisins']	 id:4	 quantité:450	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:farcir	 id:o_1	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:2*X+1*X	 temps:2*X*2+1*X*2	 recipient:0
+operation:dorer	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:ajouter	 id:o_3	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:flamber	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:continuer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_6	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_8	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:napper	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

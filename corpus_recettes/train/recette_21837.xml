@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21837">
+  <titre>Soufflé à la carotte</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de carottes</p>
+    <p>6 oeufs</p>
+    <p>100 g de beurre</p>
+    <p>40 g de farine</p>
+    <p>25 cl de lait</p>
+    <p>2 cuillères à soupe de gruyère râpé</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pluchez les carottes, faites-les cuire 30 min à l'eau bouillante salée ou à la vapeur. Egouttez et mixez-les en purée.
+    Séparez les blancs des jaunes d'oeufs. Ajoutez les jaunes à la purée de carottes, mélangez bien.
+    Préchauffez le four à 200°C (thermostat 6-7).
+    Faites fondre le beurre, ajoutez la farine, remuez et laissez épaissir. Ajoutez le lait, fouettez en laissant épaissir, salez, poivrez et ajoutez le gruyère. Ajoutez la purée de carotte et mélangez.
+    Battez les blancs en neige et incorporez-les.
+    Versez le tout dans un moule à soufflé beurré. Placez dans un bain-marie et faites cuire 30 min environ.
+  ]]>
+  </preparation>
+</recette>

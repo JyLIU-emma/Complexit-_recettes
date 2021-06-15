@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22299">
+  <titre>Gratin de tomates fondant</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de tomates</p>
+    <p>20 cl de crème fleurette</p>
+    <p>125 g de gruyère râpé</p>
+    <p>40 g de parmesan râpé</p>
+    <p>1 cuillère à soupe de basilic frais haché</p>
+    <p>2 cuillères à café de sucre en poudre</p>
+    <p>huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez et coupez les tomates en tranches fines. Huilez un plat à gratin, et faites une couche de tomates.
+    Arrosez de crème, saupoudrez de gruyère et de parmesan. Salez, poivrez, et saupoudrez de basilic et de sucre.
+    Répétez l'opération jusqu'à épuisement des ingrédients. Arrosez d'un filet d'huile puis faites cuire 20 min au four à 180°C (thermostat 6).
+  ]]>
+  </preparation>
+</recette>

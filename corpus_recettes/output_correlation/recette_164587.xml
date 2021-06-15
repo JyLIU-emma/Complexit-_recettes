@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164587">
+  <titre>Madeleines au chocolat blanc</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 plaquettes de chocolat blanc pour patisserie (360 g)</p>
+    <p>3 oeufs</p>
+    <p>un demi sachet de levure</p>
+    <p> 20 cl de crème fraiche (allégée convient très bien)</p>
+    <p>75 g de farine</p>
+    <p>75 g de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le chocolat blanc
+    Verser tous les ingrédients dans un saladier : chocolat fondu, oeufs, crème, farine, sucre, levure.
+    Bien mélanger.
+    Verser la pate dans des petits moules en silicone.
+    Faire cuire à 180 degrés, 15 mn pour une four à chaleur tournante.Meilleur quand ce n'est pas trop cuit
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">fondre</OPER> le <INGRED id="4">chocolat</INGRED> blanc <OPER id="o_2">Verser</OPER> tous les ingrédients dans un <INGRED id="1">saladier</INGRED> : chocolat fondu, oeufs, <INGRED id="6">crème</INGRED>, <INGRED id="2">farine</INGRED>, sucre, <INGRED id="6">levure</INGRED>. Bien <OPER id="o_3">mélanger</OPER>. <OPER id="o_4">Verser</OPER> la pate dans des petits moules en silicone. Faire <OPER id="o_5">cuire</OPER> à 180 degrés, 15 mn pour une four à chaleur tournante. Meilleur quand ce n'est pas trop cuit
+  </annotation>
+  <annotation methode="crf">
+  Faire fondre le <INGRED>chocolat</INGRED> <INGRED>blanc</INGRED> Verser tous les ingrédients dans un saladier <INGRED>:</INGRED> <INGRED>chocolat fondu</INGRED> <INGRED>,</INGRED> <INGRED>oeufs</INGRED> <INGRED>,</INGRED> <INGRED>crème</INGRED> <INGRED>,</INGRED> <INGRED>farine</INGRED> <INGRED>,</INGRED> <INGRED>sucre</INGRED> <INGRED>,</INGRED> <INGRED>levure</INGRED> <INGRED>.</INGRED> Bien mélanger. Verser la pate dans des petits moules en silicone. Faire cuire à 180 degrés <INGRED>,</INGRED> 15 mn pour une four à chaleur tournante. Meilleur quand ce n'est pas trop cuit
+  </annotation>
+  <complexite>
+    <temps>f(X) = 2.77777777777778*X + 2.22222222222222</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 5*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['plaquettes de chocolat blanc', 'plaquettes']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['oeufs']	 id:2	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['levure']	 id:3	 quantité:non_precis	 unité:sachet de	 denombrable:False	 recipient:1
+ingredient:['crème fraiche', 'crème']	 id:4	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:5	 quantité:75	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:6	 quantité:75	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:fondre	 id:o_1	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:verser	 id:o_2	 ingrédients_ralatifs:['1', '6', '2', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:verser	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17187">
+  <titre>Toast pékinois</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 tranche de pain de préférence complet</p>
+    <p>100 g de poulet émincé</p>
+    <p>1 oignon nouveau</p>
+    <p>1 carotte</p>
+    <p>60 g de pousses de soja</p>
+    <p>2 cuillères à café huile de tournesol</p>
+    <p>1 dl de bouillon de poule</p>
+    <p>1 pointe de couteau de gingembre</p>
+    <p>1 cuillère à café sauce soja</p>
+    <p>1 pointe de couteau de Maïzena</p>
+    <p>1 pincée de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Griller la tranche de pain au toaster, ou dans 1 poêle à revêtement anti-adhésif.
+    Dans une poêle faire revenir le poulet dans 1 cuillère à café d'huile de tournesol puis réserver.
+    Laver les légumes, couper l'oignon nouveau en lamelles. couper les carottes en lamelles. Faire revenir les légumes + oignon jusqu'à ce qu'ils soient croquants, ajouter le bouillon de poule, le gingembre, 1 pincée de sucre.
+    Délayer la Maïzena dans la sauce soja, ajouter et laisser cuire 2 min.
+    Ajouter la viande, répartir le tout sur le toast et servir immédiatement.
+  ]]>
+  </preparation>
+</recette>

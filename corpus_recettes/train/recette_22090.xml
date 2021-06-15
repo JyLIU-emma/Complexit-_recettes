@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22090">
+  <titre>Salade d'endives et saumon fumé à la sauce blanche</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>5 endives</p>
+    <p>tranches de saumon fumé</p>
+    <p>6 bâtons de surimi</p>
+    <p>pignons</p>
+    <p>Pour la sauce au fromage blanc et aux herbes :</p>
+    <p>250 g de fromage blanc</p>
+    <p>sel, poivre</p>
+    <p>persil, ciboulette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, mettez vos endives coupées en morceaux (les plus gros les recoupés). 
+    Puis faites des lambeaux avec les tranches de saumon (pas besoin de couteau) et découpez aussi les bâtons de surimi en petits morceaux. Rajoutez les pignons et votre sauce blanche sortie du frigo. 
+    Servez.vous pouvez aussi mettre des noix cassées à la place des pignons et mettre une vinaigrette à l'huile de noix pour être plus traditionnel.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24040">
+  <titre>Poireaux vinaigrette aux oeufs</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de poireaux</p>
+    <p>2 oeufs durs</p>
+    <p>2 cuillères à soupe de vinaigre</p>
+    <p>6 cuillères à soupe d'huile</p>
+    <p>1 cuillère à café de moutarde</p>
+    <p>ciboulette et persil frais</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Rincez les poireaux, retirez les premières feuilles.
+    Faites-les cuire 20 min à la vapeur.
+    Egouttez-les sur un linge et laissez refroidir.
+    Ecrasez les oeufs durs à la fourchette.
+    Mélangez la moutarde, l'huile, le vinaigre, sel et poivre.
+    Ajoutez les oeufs écrasés et versez la sauce sur les poireaux.
+    Saupoudrez de persil et ciboulette hachés.
+  ]]>
+  </preparation>
+</recette>

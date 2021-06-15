@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18345">
+  <titre>Baerewecke (cake alsacien)</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>580g de fruits secs mélangés</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 zeste de citron et d'orange</p>
+    <p>125g de sucre</p>
+    <p>125g de farine</p>
+    <p>4 oeufs</p>
+    <p>1/2 sachet de levure</p>
+    <p>cannelle et 4 épices</p>
+    <p>1 petit verre d'alcool de fruits</p>
+    <p>Beurre et farine pour le moule à cake</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire mariner les fruits secs coupés en dés dans l'alcool de fruit.
+    Travaillez les sucres + oeufs.
+    Ajoutez les fruits secs égouttés, la cannelle, le zeste de citron et d'orange, la levure et la farine.
+    Bien mélanger et cuire plus ou moins 1 heure à four moyen th 7/8 ou 210° à 240° dans un moule à cake beurré et fariné.
+    Le laisser rassir 2 ou 3 jours ce cake, il n'en sera que meilleur. Vin d'Alsace
+  ]]>
+  </preparation>
+</recette>

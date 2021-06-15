@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25155">
+  <titre>Poulet au curry vert</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 escalopes de poulet</p>
+    <p>2 courgettes</p>
+    <p>1 boîte de pousses de bambou</p>
+    <p>gingembre frais (environ 50 g) </p>
+    <p>1 boîte de lait de coco</p>
+    <p>2 cuillères à café de pâte de curry vert (épicé) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper en lamelles les escalopes de poulet, les faire revenir à feu vif dans de l'huile d'olive. 
+    Ajouter les courgettes coupées aussi en lamelles. 
+    Bien mélanger le tout et laisser mijoter à couvert à feu doux pendant une heure. 
+    Bon appétit.
+  ]]>
+  </preparation>
+</recette>

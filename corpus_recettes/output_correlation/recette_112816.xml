@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="112816">
+  <titre>Jambon blanc pané "façon Lolo"</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tranches de jambon blanc (découanné, dégraissé)</p>
+    <p>moutarde et gruyère rapé (125g)</p>
+    <p>chapelure et 2 oeufs (environ)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Badigeonner une bonne cuillère à café de moutarde sur les tranches de jambon. Etaler une ligne assez epaisse de gruyère sur la largeur, rouler.
+    Dans une assiette mettre les oeufs battus, saler, poivrer.
+    Dans une autre mettre de la chapelure.
+    Tremper les rouleaux de jambon dans l'oeuf puis la chapelure (bien imprégner). Faire frire dans une poele avec huile bien chaude.
+    Servir chaud avec une salade par exemple...Prendre du jambon à prix moyen, les jambons de "trop" bonne qualité ont tendance à se "défaire"...
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Badigeonner</OPER> une bonne cuillère à café de moutarde sur les tranches de <INGRED id="1">jambon</INGRED>. <OPER id="o_2">Etaler</OPER> une ligne assez epaisse de <INGRED id="2">gruyère</INGRED> sur la largeur, <OPER id="o_3">rouler</OPER>. Dans une assiette <OPER id="o_4">mettre</OPER> les oeufs battus, <OPER id="o_5">saler</OPER>, <OPER id="o_6">poivrer</OPER>. Dans une autre <OPER id="o_7">mettre</OPER> de la <INGRED id="4">chapelure</INGRED>. <OPER id="o_8">Tremper</OPER> les rouleaux de <INGRED id="4">jambon</INGRED> dans l'oeuf puis la <INGRED id="4">chapelure</INGRED> ( bien <OPER id="o_9">imprégner</OPER> ). Faire <OPER id="o_10">frire</OPER> dans une poele avec huile bien chaude. Servir chaud avec une salade par exemple... <OPER id="o_11">Prendre</OPER> du <INGRED id="1">jambon</INGRED> à prix moyen, les jambons de " trop " bonne qualité ont tendance à se " <OPER id="o_12">défaire</OPER> "...
+  </annotation>
+  <annotation methode="crf">
+  Badigeonner une bonne cuillère à <INGRED>café</INGRED> de <INGRED>moutarde</INGRED> sur les tranches de <INGRED>jambon</INGRED> <INGRED>.</INGRED> Etaler une ligne assez epaisse de <INGRED>gruyère</INGRED> sur la largeur <INGRED>,</INGRED> rouler <INGRED>.</INGRED> Dans une assiette mettre les <INGRED>oeufs</INGRED> battus <INGRED>,</INGRED> saler <INGRED>,</INGRED> poivrer. Dans une autre mettre de la <INGRED>chapelure</INGRED> <INGRED>.</INGRED> Tremper les rouleaux de <INGRED>jambon</INGRED> dans l'<INGRED>oeuf</INGRED> puis la <INGRED>chapelure</INGRED> ( bien imprégner ). Faire frire dans une poele avec <INGRED>huile</INGRED> bien chaude <INGRED>.</INGRED> Servir chaud avec une salade par exemple... Prendre du <INGRED>jambon</INGRED> à prix moyen <INGRED>,</INGRED> les jambons de " trop " bonne qualité ont tendance à se " défaire "...
+  </annotation>
+  <complexite>
+    <temps>f(X) = 8.0*X + 4.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 6*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['jambon blanc', 'jambon']	 id:1	 quantité:4	 unité:tranches de	 denombrable:True	 recipient:4*X
+ingredient:['moutarde']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['gruyère rapé', 'gruyère']	 id:3	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['chapelure']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:5	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:badigeonner	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:etaler	 id:o_2	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:rouler	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:saler	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_7	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:tremper	 id:o_8	 ingrédients_ralatifs:['4', '4']	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:imprégner	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:frire	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:prendre	 id:o_11	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:défaire	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

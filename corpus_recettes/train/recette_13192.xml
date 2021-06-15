@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13192">
+  <titre>Préparer les foies gras de canard</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>des foies de canards frais suivant le nombre de bocaux que vous voulez faire</p>
+    <p>du poivre</p>
+    <p>du gros sel</p>
+    <p>du cognac(facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire tremper les foies 5 à 6 heures dans l'eau salée.
+    Les éponger, les poivrer, les mettre dans des bocaux avec cognac. Les faire stériliser 20 mn à partir de l'ébulition dans des bocaux avec couvercles métallique et laisser reposer minimum 6 mois.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20833">
+  <titre>Riz au poivre de Szechuan</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>150 g de riz</p>
+    <p>15 cl de bouillon</p>
+    <p>2 cuillères à soupe de poivre de Szechuan en grains</p>
+    <p>30 g de champignons noirs</p>
+    <p>30 g d'échalotes hachées</p>
+    <p>6 cl de vin rouge</p>
+    <p>1 cuillère à soupe de sauce soja</p>
+    <p>2 cuillères à soupe de beurre</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faîtes tremper les champignons 15 min dans de l'eau tiède.
+    Egouttez-les.
+    Faites griller le poivre à sec dans une casserole pendant 1 min. 
+    Versez le bouillon et ajoutez les champignons, portez à ébullition et couvrez.
+    Retirez aussitôt du feu et laissez infuser 30 min.
+    Egouttez et émincez les champignons en lamelles.
+    Filtrez le bouillon.
+    Dans une casserole, faites fondre le beurre.
+    Faites-y sauter les champignons et les échalotes quelques minutes.
+    Versez le riz, mouillez avec le vin et la sauce soja et portez à ébullition.
+    Rajoutez le bouillon et laissez mijoter 20 min à feu doux en remuant de temps en temps, comme pour un risotto. 
+    Le riz doit absorber le liquide et devenir tendre et moelleux.
+    Salezun peu et servez bien chaud.
+  ]]>
+  </preparation>
+</recette>

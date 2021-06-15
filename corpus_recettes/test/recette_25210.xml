@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25210">
+  <titre>Pizza moules salami</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 grande pâte à pizza</p>
+    <p>300 g de salami</p>
+    <p>1 l de moules</p>
+    <p>6 tomates</p>
+    <p>150 g de petits oignons </p>
+    <p>1 petite boîte de champignons</p>
+    <p>2 cuillères à soupe de câpres</p>
+    <p>2 cuillères à soupe d'olives noires</p>
+    <p>Quelques olives fourrées au poivron</p>
+    <p>200 g de fromage râpé</p>
+    <p>4 cuillères à soupe d'huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les moules dans une cocotte et les faire ouvrir à feu vif. Egoutter et les décoquiller.
+    Dans une poêle faites revenir les oignons avec un peu d'huile d'olive.
+    Retirer la peau du salami. 
+    Préchauffer le four à 240°C (thermostat 8).
+    Appliquer la pâte à pizza sur la plaque du four préalablement huilée, parsemer de rondelles de tomates et
+    Assaisonner.
+    Ajouter tous les autres ingrédients : le salami, les moules, les olives, les champignons et les câpres. 
+    Ajouter le fromage rapé et quelques filets d'huile d'olive.
+    Enfourner pour 20 à 25 min de cuisson. 
+  ]]>
+  </preparation>
+</recette>

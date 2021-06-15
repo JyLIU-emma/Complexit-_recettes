@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10916">
+  <titre>Gratin de poulet aux tagliatelles</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 à 900 g d'émincé de poulet</p>
+    <p>300 g de tagliatelles vertes </p>
+    <p>3 grosses gousses d'ail</p>
+    <p>200 g de fromage râpé (Gruyère)</p>
+    <p>20 cl de gelée (poudre mélangée avec moitié vin blanc et moitié Madère)</p>
+    <p>50 g de beurre </p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).Frottez fortement votre plat avec une gousse d'ail.Répartissez le restant d'ail finement coupé au fond du plat.
+    Mettez quelques coquilles de beurre.
+    Faites cuire les tagliatelles 7 à 8 min dans de l’eau bouillante salée.
+    Faites dorer à la poêle votre émincé.Egouttez les tagliatelles
+    Disposez une couche de tagliatelles au fond du plat.
+    Disposez votre émincé de poulet.
+    Recouvrez avec le reste de tagliatelles.
+    Saler, poivrer, arroser avec votre gelée.
+    Parsemez généreusement de fromage. Faire gratiner 30 min au four et servir très chaud. 
+  ]]>
+  </preparation>
+</recette>

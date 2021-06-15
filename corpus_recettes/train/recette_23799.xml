@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23799">
+  <titre>Salade aux moules</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 l de moules</p>
+    <p>200 g de riz</p>
+    <p>2 carottes</p>
+    <p>3 échalotes</p>
+    <p>1 bouquet de persil</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>1 bouquet garni</p>
+    <p>huile, vinaigre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire le riz dans 2 fois son volume d'eau bouillante salée, environ 20 min à couvert.
+    Grattez les moules.
+    Pelez et coupez les carottes en dés.
+    Dans une grande marmite, faites chauffer un fond d'eau avec le vin, le bouquet garni, les carottes en dés et 1 échalote hachée.
+    Mettez-y les moules et laissez-les s'ouvrir à feu vif, environ 5-10 min en remuant bien.
+    Sortez-les à l'aide d'une écumoire, laissez chauffer encore un peu le jus de cuisson jusqu'à ce que les carottes soient juste tendres.
+    retirez du feu et laissez refroidir.
+    Décoquillez les moules, mélangez-les avec le riz cuit.
+    Ajoutez les carottes égouttées.
+    Préparez une vinaigrette selon vos goûts, ajoutez un peu de jus de cuisson des moules filtré et versez-la dans le riz.
+    Hachez les échalotes et le persil, saupoudrez-en la salade et remuez bien.
+    Servez tiède ou frais.
+    Servez avec des citrons en plus, et ajoutez des câpres ou des olives si vous aimez.
+  ]]>
+  </preparation>
+</recette>

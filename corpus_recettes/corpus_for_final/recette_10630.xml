@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10630">
+  <titre>Endives bonne femme</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 endives</p>
+    <p>100 g de lardons</p>
+    <p>4 pommes de terre moyennes</p>
+    <p>1 oignon</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Effeuiller les endives, les couper en deux, les laver.
+    Peler les pommes de terre, laver et couper en rondelles
+    Faire revenir les oignons émincés et les lardons dans une sauteuse. Ajouter endives et pommes de terre.
+    Laisser cuire à couvert sur feu doux pendant 15 min environ.
+  ]]>
+  </preparation>
+</recette>

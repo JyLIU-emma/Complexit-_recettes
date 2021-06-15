@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24569">
+  <titre>Oeufs pochés sur fondue de poireaux</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de poireaux</p>
+    <p>4 oeufs</p>
+    <p>50 g de mozzarella</p>
+    <p>1 verre de bouillon</p>
+    <p>beurre</p>
+    <p>vinaigre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Rincez les poireaux, émincez-les en rondelles.
+    Disposez-les dans un plat à gratin beurré, le vert en dessous et le blanc au-dessus.
+    Versez le bouillon, salez et poivrez.
+    Faites cuire 1 h au four à 180°C(thermostat 6).
+    Pendant ce temps, faites pocher les oeufs dans de l'eau vinaigrée.
+    Déposez-les sur les poireaux, parsemez de mozzarella et faites fondre quelques minutes au four à 240°C (thermostat 8).
+    Servez avec du pain grillé.
+  ]]>
+  </preparation>
+</recette>

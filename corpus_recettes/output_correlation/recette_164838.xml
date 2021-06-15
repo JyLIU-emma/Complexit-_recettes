@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164838">
+  <titre>Pommes de terre béchamel au four</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>10 pommes de terre de bonne taille, </p>
+    <p>2 tranches de jambon,</p>
+    <p>200g de bûche de chèvre,</p>
+    <p>100g de beurre.</p>
+    <p>Sauce Béchamel : </p>
+    <p>50g de beurre,</p>
+    <p>50g de farine,</p>
+    <p>50cl de lait.</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1. Préchauffer le four th.72. Laver et peler les pommes de terre. Les couper en 2 dans la longueur.
+    Beurrer un plat allant au four et disposer les moitiés de PDT, face bombée vers le fond.
+    Faire fondre 75g de beurre et arroser les pommes de terre avec le beurre fondu.
+    Mettre au four 30 min. Vérifier que les pommes de terre sont cuites avec un couteau, il doit rentrer sans forcer.3. Pendant ce temps, préparer la sauce béchamel:
+    Faire fondre le beurre à feu doux dans une casserole puis verser la farine en pluie.
+    Laisser cuire à feu doux 2mn sans cesser de remuer.
+    Ajouter le lait froid petit à petit, et TOUJOURS SANS CESSER DE REMUER, faites chauffer sur feu doux pendant 10mn.
+    Saler et poivrer. Couvrir et mettre de côté.4. Couper le jambon en 20 parts et la bûche de chèvre en tranche de 1cm d'épaisseur environ.5. Sortir les pommes de terre du four, préchauffer le grill puissance maxi.
+    Disposer sur chaque moitié un morceau de jambon, une rondelle de chèvre, verser une cuillère de sauce béchamel et passer au grill 5mn.Bon plat qui remplace le gratin, et plaît aux enfants!
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  1. <OPER id="o_1">Préchauffer</OPER> le four th.72. <OPER id="o_2">Laver</OPER> et <OPER id="o_3">peler</OPER> les <INGRED id="4">pommes de terre</INGRED>. Les <OPER id="o_4">couper</OPER> en 2 dans la longueur. <OPER id="o_5">Beurrer</OPER> un plat allant au four et <OPER id="o_6">disposer</OPER> les moitiés de PDT, face bombée vers le fond. Faire <OPER id="o_7">fondre</OPER> 75 g de <INGRED id="2">beurre</INGRED> et <OPER id="o_8">arroser</OPER> les <INGRED id="1">pommes de terre</INGRED> avec le <INGRED id="2">beurre fondu</INGRED>. <OPER id="o_9">Mettre</OPER> au four 30 min. <OPER id="o_10">Vérifier</OPER> que les <INGRED id="1">pommes de terre</INGRED> sont cuites avec un couteau, il doit <OPER id="o_11">rentrer</OPER> sans forcer.3. Pendant ce temps, <OPER id="o_12">préparer</OPER> la <INGRED id="4">sauce</INGRED> béchamel : Faire <OPER id="o_13">fondre</OPER> le <INGRED id="5">beurre</INGRED> à feu doux dans une casserole puis <OPER id="o_14">verser</OPER> la <INGRED id="7">farine</INGRED> en pluie. Laisser <OPER id="o_15">cuire</OPER> à feu doux 2mn sans <OPER id="o_16">cesser</OPER> de <OPER id="o_17">remuer</OPER>. <OPER id="o_18">Ajouter</OPER> le <INGRED id="4">lait</INGRED> froid petit à petit, et TOUJOURS SANS <OPER id="o_19">CESSER</OPER> DE <OPER id="o_20">REMUER</OPER>, faites <OPER id="o_21">chauffer</OPER> sur feu doux pendant 10mn. <OPER id="o_22">Saler</OPER> et <OPER id="o_23">poivrer</OPER>. <OPER id="o_24">Couvrir</OPER> et <OPER id="o_25">mettre</OPER> de côté.4. <OPER id="o_26">Couper</OPER> le <INGRED id="4">jambon</INGRED> en 20 parts et la <INGRED id="3">bûche de chèvre</INGRED> en tranche de 1 cm d'épaisseur environ.5. <OPER id="o_27">Sortir</OPER> les <INGRED id="1">pommes de terre</INGRED> du four, <OPER id="o_28">préchauffer</OPER> le grill puissance maxi. <OPER id="o_29">Disposer</OPER> sur chaque moitié un <INGRED id="2">morceau de</INGRED> <INGRED id="2">jambon</INGRED>, une rondelle de chèvre, <OPER id="o_30">verser</OPER> une cuillère de <INGRED id="4">sauce</INGRED> béchamel et <OPER id="o_31">passer</OPER> au grill 5mn. Bon plat qui remplace le gratin, et plaît aux enfants !
+  </annotation>
+  <annotation methode="crf">
+  1 <INGRED>.</INGRED> Préchauffer le four th.72. Laver et peler les <INGRED>pommes de terre</INGRED>. Les couper en 2 dans la longueur <INGRED>.</INGRED> Beurrer un plat allant au four et disposer les moitiés de PDT <INGRED>,</INGRED> face bombée vers le <INGRED>fond</INGRED> <INGRED>.</INGRED> Faire fondre 75 <INGRED>g</INGRED> de <INGRED>beurre</INGRED> et arroser les <INGRED>pommes de terre</INGRED> avec le <INGRED>beurre fondu</INGRED>. Mettre au four 30 min. Vérifier que les <INGRED>pommes de terre</INGRED> sont cuites avec un couteau, il doit rentrer sans forcer.3. Pendant ce temps <INGRED>,</INGRED> préparer la <INGRED>sauce</INGRED> béchamel <INGRED>:</INGRED> Faire fondre le <INGRED>beurre</INGRED> à feu doux dans une casserole puis verser la <INGRED>farine</INGRED> en pluie <INGRED>.</INGRED> Laisser cuire à feu doux 2mn sans cesser de remuer. Ajouter le <INGRED>lait froid</INGRED> <INGRED>petit</INGRED> à <INGRED>petit</INGRED> <INGRED>,</INGRED> et TOUJOURS SANS CESSER DE REMUER <INGRED>,</INGRED> faites chauffer sur feu doux pendant 10mn. Saler et poivrer. Couvrir et mettre de côté.4 <INGRED>.</INGRED> Couper le <INGRED>jambon</INGRED> en 20 parts et la bûche de <INGRED>chèvre</INGRED> en tranche de 1 <INGRED>cm</INGRED> d'épaisseur environ.5. Sortir les <INGRED>pommes de terre</INGRED> du four <INGRED>,</INGRED> préchauffer le grill puissance maxi. Disposer sur chaque moitié un <INGRED>morceau</INGRED> de <INGRED>jambon</INGRED> <INGRED>,</INGRED> une rondelle de <INGRED>chèvre</INGRED> <INGRED>,</INGRED> verser une cuillère de <INGRED>sauce</INGRED> béchamel et passer au grill 5mn <INGRED>.</INGRED> Bon plat qui remplace le gratin <INGRED>,</INGRED> et plaît aux enfants !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 153.333333333333*X + 76.6666666666667</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 12*X + 16</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pommes de terre de bonne taille', 'pommes']	 id:1	 quantité:10	 unité:non_precis	 denombrable:True	 recipient:10*X
+ingredient:['jambon']	 id:2	 quantité:2	 unité:tranches de	 denombrable:True	 recipient:2*X
+ingredient:['bûche de chèvre', 'bûche']	 id:3	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:4	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['Sauce Béchamel', 'Sauce']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:6	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:7	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:8	 quantité:50	 unité:cl de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préchauffer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:laver	 id:o_2	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:100*X	 temps:1*X*1	 recipient:0
+operation:peler	 id:o_3	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:100*X	 temps:1*X*1	 recipient:0
+operation:couper	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:beurrer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:fondre	 id:o_7	 ingrédients_ralatifs:['2', '1', '2']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:arroser	 id:o_8	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:vérifier	 id:o_10	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rentrer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparer	 id:o_12	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:fondre	 id:o_13	 ingrédients_ralatifs:['5', '7']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:verser	 id:o_14	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:cesser	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_18	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cesser	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_21	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:saler	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_23	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:couper	 id:o_26	 ingrédients_ralatifs:['4', '3']	 nombre_opération_atomique:1+1	 temps:1*X*1+1*X*1	 recipient:1
+operation:sortir	 id:o_27	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préchauffer	 id:o_28	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:disposer	 id:o_29	 ingrédients_ralatifs:['2', '2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:verser	 id:o_30	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:passer	 id:o_31	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+]]>
+</operation_trouve>
+</recette>

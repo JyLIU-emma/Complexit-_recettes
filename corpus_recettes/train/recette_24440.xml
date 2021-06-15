@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24440">
+  <titre>Chapon au foie gras et aux truffes</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1 chapon</p>
+    <p>300 g de foie gras mi-cuit</p>
+    <p>200 g d'oignons</p>
+    <p>200 g de carottes</p>
+    <p>1 kg de châtaignes pelées</p>
+    <p>10 cl de crème fraîche</p>
+    <p>1 l de bouillon de volaille</p>
+    <p>1 petite boîte de pelures de truffe</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et émincer les oignons, couper les carottes en rondelles.
+    Les mettre dans une cocotte avec 3 litres d'eau, du sel et du poivre. Porter le tout à ébullition et ajouter le chapon.
+    Couvrir et laisser cuire 2 h 30 à feu moyen.
+    Pendant ce temps faire cuire les chataîgnes dans le bouillon de volaille environ 10 min à feu moyen. Réserver au chaud. 
+    Couper le foie gras en petits. Dans une casserole, faire chauffer la crème. Ajouter le foie gras coupé en dés en fouettant.
+    Rajouter les pelures de truffes et leur jus, saler et maintenir au chaud.
+    Servir le chapon coupé en morceaux, entouré de châtaignes et nappé de sauce au foie gras.
+    On peut ajouter d'autres accompagnements : pâtes fraîches, purée de pommes de terre, champignons sautés...
+  ]]>
+  </preparation>
+</recette>

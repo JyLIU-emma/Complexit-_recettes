@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21045">
+  <titre>Gnocchis au beurre de sauge</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de gnocchis de pomme de terre</p>
+    <p>125 g de beurre</p>
+    <p>2 branche de sauge</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre le beurre dans un poêlon ; Rajouter les feuilles de sauge ; Faire roussir. Verser immédiatement sur les gnocchis égouttés. poivrer. 
+    Servir immédiatement car les gnocchis n'attendent pas.
+    Il s'agit d'une recette typiquement italienne. On peut faire de la même manière des raviolis ou toutes sortes de pâtes.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23122">
+  <titre>Surimi au curry</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 ou 6 bâtonnets de surimi</p>
+    <p>curry en poudre</p>
+    <p>sel</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>1 cuillère à soupe de vinaigre</p>
+    <p>moutarde, selon les goûts</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper le surimi en lanières. Ajouter tous les autres ingrédients, et mélanger. Ajouter le curry dans les proportions souhaitées. Avec une baguette bien croustillante ou une salade c'est très bon. 
+  ]]>
+  </preparation>
+</recette>

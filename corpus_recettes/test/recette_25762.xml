@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25762">
+  <titre>Langoustines à la tomate</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>24 langoustines</p>
+    <p>1 l de court-bouillon</p>
+    <p>1 échalote</p>
+    <p>de l'huile d'olive</p>
+    <p>2 tomates</p>
+    <p>1 gousse d'ail</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>5 cl de Cognac</p>
+    <p>1 bouquet garni</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer le court-bouillon et y plonger les langoustines. Laisser cuire 5 min dès la reprise de l'ébulition.
+    Une fois cuites, décortiquer les langoustines et réserver les têtes.
+    Hacher l'échalote, peler et détailler les tomates en petits morceaux, piler l'ail.
+    Dans une casserole, faire chauffer un peu d'huile et y faire suer l'échalote. Ajouter les tomates, l'ail, le vin blanc, le cognac, sel, poivre et le bouquet garni.
+    Cuire doucement la sauce pendant 30 min.
+    Au bout de ce temps, ajouter les langoustines et laisser chauffer 5 min.
+  ]]>
+  </preparation>
+</recette>

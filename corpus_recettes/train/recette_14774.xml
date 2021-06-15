@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14774">
+  <titre>Salade de fruits antillaise</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 melon</p>
+    <p>1/4 de pastèque </p>
+    <p>1 pomme</p>
+    <p>2 bananes</p>
+    <p>1 fruit de la passion</p>
+    <p>1 abricot pays (facultatif)</p>
+    <p>1 boîte d'ananas au sirop (tranches ou morceaux)</p>
+    <p>sirop de sucre de canne à la vanille</p>
+    <p>cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez tous les fruits en petits morceaux dans un saladier. Ajoutez le fruit de la passion.
+    Mouillez avec le sirop des ananas en boîte et rajoutez du sirop de sucre de canne à la vanille jusqu'à la hauteur des fruits.
+    Ajoutez une pincée de cannelle et remuez.Vous pouvez servir aussitôt mais je vous conseil de laissez macérer au réfrigérateur une petite demie-heure pour que les fruit libèrent leur parfum.
+  ]]>
+  </preparation>
+</recette>

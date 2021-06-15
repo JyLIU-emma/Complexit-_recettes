@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24491">
+  <titre>Rôti de veau à la sauce au thon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de rôti de veau</p>
+    <p>300 g de thon conservé à l'huile</p>
+    <p>40 cl de vin blanc sec</p>
+    <p>20 cl de vinaigre</p>
+    <p>20 cl d'eau</p>
+    <p>8 filets d'anchois</p>
+    <p>2 carottes</p>
+    <p>1 oignon</p>
+    <p>50 cl d'huile</p>
+    <p>4 jaunes d'œufs</p>
+    <p>1 cuillère à soupe de câpres</p>
+    <p>sel poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte, mettre le rôti, le thon, les filets d'anchois, l'oignon et la carotte émincés, le vin, le vinaigre, l'eau, le sel et le poivre à mijoter pendant 1 h à feu doux.
+    Égoutter le rôti et tamiser le jus de cuisson.
+    Dans un bol, battre les jaunes d'œufs et l'huile. Incorporer les câpres et un peu de jus de cuisson.
+    Découper le rôti en tranches et le napper de sauce.
+    Réserver au frais jusqu'au service.
+  ]]>
+  </preparation>
+</recette>

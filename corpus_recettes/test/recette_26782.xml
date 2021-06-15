@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26782">
+  <titre>Tartine au Carpaccio de Boeuf</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 belles tranche de pain complet</p>
+    <p>2 tranches (carpaccio) de boeuf</p>
+    <p>du parmesan frais râpé</p>
+    <p>de l'huile d'olive</p>
+    <p>du basilic</p>
+    <p>du poivre</p>
+    <p>du sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre le carpaccio de boeuf sur une des tranche de pain, poivrer, saler un peu. 
+    Ajouter le basilic ciselé dessus. 
+    Mettre le parmesan par-dessus et ajouter un filet d'huile d'olive. 
+    C'est délicieux !
+    Petit repas de midi.
+    Peut aussi être découpé en plus petit morceaux et être servi comme amuse-gueule.
+  ]]>
+  </preparation>
+</recette>

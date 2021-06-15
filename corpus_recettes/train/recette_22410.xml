@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22410">
+  <titre>Riz au thon et à la tomate</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>120 g de riz</p>
+    <p>1 petite tomate</p>
+    <p>20 cl de sauce tomate (1 petit pot) </p>
+    <p>150 g de miettes de thon</p>
+    <p>5 cl de vin rouge</p>
+    <p>50 g de gruyère râpé</p>
+    <p>basilic</p>
+    <p>herbes de Provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper la tomate en petits morceaux et ôter les pépins. 
+    Faire cuire le riz avec les morceaux de tomate à la vapeur (dans le panier de la cocotte-minute). 
+    Dans une poêle, délayer le thon et la sauce tomate à feu doux. 
+    Ajouter le riz et les morceaux de tomate dans la poêle. Bien mélanger. Ajouter le vin et bien mélanger. 
+    Ajouter du gruyère râpé (selon le goût de chacun, c'est pour la cohésion du plat). Bien mélanger pour répartir le gruyère. 
+    Ajouter le basilic et les herbes de Provence. Mélanger. Laisser mijoter encore 1 mn. Servir chaud.
+    Accompagner d'une salade.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25242">
+  <titre>Petits gratins d'oranges</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 oranges</p>
+    <p>3 oeufs</p>
+    <p>135 g de sucre en poudre</p>
+    <p>30 g de beurre</p>
+    <p>2 cuillères à soupe de jus d'orange</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 200°C (thermostat 6-7).
+    Récupérez les quartiers d'orange et ôtez la fine peau qui les entoure.
+    Beurrez 4 ramequins plat et disposez les quartiers d'oranges dedans.
+    Fouettez les oeufs avec le sucre en poudre et le jus d'orange puis versez sur les fruits.
+    Enfournez pour 5 à 10 minutes de cuisson jusqu'à ce que le dessus soit bien doré.
+  ]]>
+  </preparation>
+</recette>

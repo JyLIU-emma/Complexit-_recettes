@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164454">
+  <titre>Oranges et pamplemousses en gelée</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 oranges</p>
+    <p>4 pamplemousses roses</p>
+    <p>10 cl d’eau</p>
+    <p>1 cuillère à soupe de sirop de grenadine ou de violette</p>
+    <p>100 gr de sucre</p>
+    <p>6 feuilles de gélatine</p>
+    <p>Feuilles de menthe fraîches</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prélever la peau de 3 oranges, la couper en fine julienne. 
+    Faire blanchir ces zestes 3 fois dans de l’eau. 
+    Mettre les zestes dans 10 cl d’eau avec 50 gr de sucre et le sirop de grenadine ou de violette. Faire réduire à feu doux.
+    Peler à vif les 5 oranges (les 3 sur lesquelles la peau a déjà été prélevée et les 2 restantes) et les 4 pamplemousses.Séparer les quartiers des agrumes et leur jus. Faire réduire de moitié le jus dans une casserole (écumer si nécessaire). Ajouter 50 gr de sucre et les feuilles de gélatine ramollies au préalable dans de l’eau froide.
+    Dans un moule à cake tapissé de film, disposer quelques feuilles de menthe, une couche d’agrumes, ajouter une partie des zestes d’orange confits, renouveler cette superposition jusqu’à arriver à 5 mm du bord. Verser le jus à ras bord. Mettre au frigo pendant 12 heures.Démouler délicatement et couper des tranches de 1,5 cm d’épaisseur minimum.Se marie très bien avec un dessert au chocolat. Sauterne
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Prélever</OPER> la peau de 3 <INGRED id="1">oranges</INGRED>, la <OPER id="o_2">couper</OPER> en fine julienne. Faire <OPER id="o_3">blanchir</OPER> ces zestes 3 fois dans de l’ <INGRED id="7">eau</INGRED>. <OPER id="o_4">Mettre</OPER> les zestes dans 10 cl d’ <INGRED id="7">eau</INGRED> avec <INGRED id="3">50</INGRED> gr de sucre et le <INGRED id="4">sirop de grenadine</INGRED> ou de violette. Faire réduire à feu doux. <OPER id="o_5">Peler</OPER> à vif les 5 <INGRED id="1">oranges</INGRED> ( les 3 sur lesquelles la peau a déjà été prélevée et les 2 restantes ) et les 4 <INGRED id="2">pamplemousses</INGRED>. <OPER id="o_6">Séparer</OPER> les quartiers des agrumes et leur <INGRED id="7">jus</INGRED>. Faire réduire de moitié le jus dans une casserole ( <OPER id="o_7">écumer</OPER> si nécessaire ). <OPER id="o_8">Ajouter</OPER> <INGRED id="3">50</INGRED> gr de sucre et les feuilles de gélatine ramollies au préalable dans de l’ eau froide. Dans un moule à cake tapissé de film, <OPER id="o_9">disposer</OPER> quelques feuilles de <INGRED id="6">menthe</INGRED>, une couche d’ agrumes, <OPER id="o_10">ajouter</OPER> une partie des zestes d’ orange confits, <OPER id="o_11">renouveler</OPER> cette superposition jusqu’ à <OPER id="o_12">arriver</OPER> à 5 mm du bord. <OPER id="o_13">Verser</OPER> le <INGRED id="7">jus</INGRED> à ras bord. <OPER id="o_14">Mettre</OPER> au frigo pendant 12 heures. <OPER id="o_15">Démouler</OPER> délicatement et <OPER id="o_16">couper</OPER> des tranches de 1,5 cm d’ épaisseur minimum. Se marie très bien avec un dessert au <INGRED id="2">chocolat</INGRED>. Sauterne
+  </annotation>
+  <annotation methode="crf">
+  Prélever la peau de 3 oranges, la couper en fine julienne <INGRED>.</INGRED> Faire blanchir ces zestes 3 fois dans de l’ <INGRED>eau</INGRED> <INGRED>.</INGRED> Mettre les zestes dans 10 cl d’ <INGRED>eau</INGRED> avec 50 gr de <INGRED>sucre</INGRED> et le <INGRED>sirop</INGRED> de grenadine <INGRED>ou</INGRED> de violette. Faire réduire à feu doux. Peler à vif les 5 <INGRED>oranges</INGRED> ( les 3 sur lesquelles la peau <INGRED>a</INGRED> déjà été prélevée et les 2 restantes ) et les 4 <INGRED>pamplemousses</INGRED>. Séparer les quartiers des agrumes et leur <INGRED>jus</INGRED> <INGRED>.</INGRED> Faire réduire de moitié le <INGRED>jus</INGRED> dans une casserole ( écumer si nécessaire ). Ajouter 50 gr de <INGRED>sucre</INGRED> et les feuilles de <INGRED>gélatine</INGRED> ramollies au préalable dans de l’ <INGRED>eau</INGRED> froide <INGRED>.</INGRED> Dans un moule à cake tapissé de film <INGRED>,</INGRED> disposer quelques feuilles de menthe, une couche d’ agrumes <INGRED>,</INGRED> ajouter une partie des zestes d’ orange confits <INGRED>,</INGRED> renouveler cette superposition jusqu’ à arriver à 5 mm du bord. Verser le <INGRED>jus</INGRED> à ras bord. Mettre au frigo pendant 12 heures. Démouler délicatement et couper des tranches de 1,5 <INGRED>cm</INGRED> d’ épaisseur minimum. Se marie très bien avec un dessert au <INGRED>chocolat</INGRED> <INGRED>.</INGRED> Sauterne
+  </annotation>
+  <complexite>
+    <temps>f(X) = 20.2105263157895*X + 3.78947368421053</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 16*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['oranges']	 id:1	 quantité:5	 unité:non_precis	 denombrable:True	 recipient:5*X
+ingredient:['pamplemousses roses', 'pamplemousses']	 id:2	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['eau']	 id:3	 quantité:10	 unité:cl d'	 denombrable:False	 recipient:1
+ingredient:['sirop de grenadine', 'sirop']	 id:4	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['sucre']	 id:5	 quantité:100	 unité:gr de	 denombrable:False	 recipient:1
+ingredient:['gélatine']	 id:6	 quantité:6	 unité:feuilles de	 denombrable:True	 recipient:6*X
+ingredient:['menthe fraîches', 'menthe']	 id:7	 quantité:non_precis	 unité:Feuilles de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:prélever	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:5*X*1	 recipient:1
+operation:blanchir	 id:o_3	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_4	 ingrédients_ralatifs:['7', '3', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:peler	 id:o_5	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:5*X+4*X	 temps:5*X*1+4*X*1	 recipient:0
+operation:séparer	 id:o_6	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:écumer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_9	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:renouveler	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:arriver	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_13	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:démouler	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+]]>
+</operation_trouve>
+</recette>

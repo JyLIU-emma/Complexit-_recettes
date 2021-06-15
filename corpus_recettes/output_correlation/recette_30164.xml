@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30164">
+  <titre>Caraque au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>150 g de beurre </p>
+    <p>6 oeufs entiers </p>
+    <p>2 jaunes d'oeufs</p>
+    <p>25 cl de lait</p>
+    <p>25 cl de crème fraîche liquide</p>
+    <p>50 g de farine</p>
+    <p>75 g de fécule</p>
+    <p>200 g de sucre en poudre</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>200 g de chocolat noir</p>
+    <p>1 cuillère à soupe de cacao</p>
+    <p>4 feuilles de gélatine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Allumer le four à thermostat 7 (210°C).Casser 3 oeufs en séparant les blancs des jaunes. Travailler les jaunes avec 100 g de sucre, 50 g de beurre mou, 50 g de farine, 75 g de fécule et 1 cuillère à soupe de cacao. Battre les blancs en neige et les ajouter au mélange.
+    Beurrer un moule rond démontable de 25 cm de diamètre et de 6 cm de haut. Y verser la pâte et faire cuire au four 25 à 30 mn.
+    Pendant ce temps, mettre 4 feuilles de gélatines dans un bol d'eau froide. Travailler 2 jaunes d'oeufs avec 50 g de sucre et 1 sachet de sucre vanillé. Verser dessus 25 cl de lait bouillant en tournant sans arrêt et faire épaissir à feu doux, en tournant toujours et sans laisser bouillir. Ajouter la gélatine essorée en remuant.
+    Passer cette crème anglaise au tamis et la laisser refroidir.
+    Fouetter 25 cl de crème fraîche jusqu'à ce qu'elle soit bien ferme.
+    Quand la crème anglaise atteint la consistance d'une mayonnaise légère, ajouter la crème fouettée.Démouler le gateau sur un plat. Remettre autour uniquement le cercle du moule.
+    Verser la crème sur le gâteau et mettre 1 h au réfrigérateur.
+    Pendant ce temps, faire fondre au bain-marie 200 g de chocolat, ajouter 50 g de sucre, 100 g de beurre, 3 jaunes d'oeufs et les blanc battus en neige ferme. Verser les 3/4 de cette mousse sur le gâteau, utiliser le reste pour décorer le dessus à la poche à douille et laisser prendre au moins 2 h au réfrigérateur.
+    Enlever le cercle avant de servir. muscat de Beaumes de Venise
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Allumer</OPER> le four à thermostat 7 ( 210 ° <OPER id="o_2">C).Casser</OPER> 3 oeufs en séparant les <INGRED id="9">blancs</INGRED> des <INGRED id="1">jaunes</INGRED>. <OPER id="o_3">Travailler</OPER> les <INGRED id="12">jaunes</INGRED> avec 100 <INGRED id="4">g</INGRED> de <INGRED id="4">sucre</INGRED>, <INGRED id="3">50</INGRED> <INGRED id="4">g</INGRED> de beurre mou, <INGRED id="3">50</INGRED> <INGRED id="1">g</INGRED> de <INGRED id="6">farine</INGRED>, 75 <INGRED id="9">g</INGRED> de fécule et 1 cuillère à <INGRED id="5">soupe</INGRED> de cacao. <OPER id="o_4">Battre</OPER> les <INGRED id="6">blancs</INGRED> en neige et les <OPER id="o_5">ajouter</OPER> au <INGRED id="2">mélange</INGRED>. <OPER id="o_6">Beurrer</OPER> un moule rond démontable de 25 cm de <INGRED id="10">diamètre</INGRED> et de 6 cm de haut. Y <OPER id="o_7">verser</OPER> la pâte et <INGRED id="10">faire</INGRED> <OPER id="o_8">cuire</OPER> au four 25 à 30 mn. Pendant ce temps, <OPER id="o_9">mettre</OPER> 4 <INGRED id="4">feuilles</INGRED> de gélatines dans un bol d'<INGRED id="5">eau froide</INGRED>. <OPER id="o_10">Travailler</OPER> 2 <INGRED id="1">jaunes d'oeufs</INGRED> avec <INGRED id="3">50</INGRED> <INGRED id="4">g</INGRED> de <INGRED id="9">sucre</INGRED> et 1 sachet de <INGRED id="10">sucre vanillé</INGRED>. <OPER id="o_11">Verser</OPER> dessus 25 <INGRED id="2">cl</INGRED> de <INGRED id="3">lait</INGRED> bouillant en tournant sans arrêt et faire <OPER id="o_12">épaissir</OPER> à feu doux, en tournant toujours et sans <INGRED id="12">laisser</INGRED> <OPER id="o_13">bouillir</OPER>. <OPER id="o_14">Ajouter</OPER> la <INGRED id="5">gélatine</INGRED> essorée en remuant. <OPER id="o_15">Passer</OPER> cette crème anglaise au tamis et la <INGRED id="12">laisser</INGRED> <OPER id="o_16">refroidir</OPER>. <OPER id="o_17">Fouetter</OPER> 25 <INGRED id="2">cl</INGRED> de crème fraîche jusqu'à ce qu'elle soit bien ferme. Quand la crème anglaise atteint la consistance d'une <INGRED id="5">mayonnaise</INGRED> légère, <OPER id="o_18">ajouter</OPER> la crème fouettée. <OPER id="o_19">Démouler</OPER> le gateau sur un <INGRED id="9">plat</INGRED>. <OPER id="o_20">Remettre</OPER> autour uniquement le cercle du moule. <OPER id="o_21">Verser</OPER> la crème sur le gâteau et <OPER id="o_22">mettre</OPER> 1 h au réfrigérateur. Pendant ce temps, <INGRED id="4">faire</INGRED> <OPER id="o_23">fondre</OPER> au <INGRED id="8">bain</INGRED> - marie 200 <INGRED id="9">g</INGRED> de <INGRED id="9">chocolat</INGRED>, <OPER id="o_24">ajouter</OPER> <INGRED id="3">50</INGRED> <INGRED id="1">g</INGRED> de sucre, 100 <INGRED id="1">g</INGRED> de beurre, 3 <INGRED id="12">jaunes d'oeufs</INGRED> et les <INGRED id="7">blanc</INGRED> battus en neige ferme. <OPER id="o_25">Verser</OPER> les 3/4 de cette mousse sur le gâteau, <OPER id="o_26">utiliser</OPER> le <INGRED id="1">reste</INGRED> pour décorer le dessus à la poche à douille et <INGRED id="12">laisser</INGRED> <OPER id="o_27">prendre</OPER> au moins 2 h au réfrigérateur. <OPER id="o_28">Enlever</OPER> le cercle avant de servir. muscat de Beaumes de Venise
+  </annotation>
+  <annotation methode="crf">
+  Allumer le four à thermostat 7 ( 210 ° C).Casser 3 <INGRED>oeufs</INGRED> en séparant les <INGRED>blancs</INGRED> des <INGRED>jaunes</INGRED> <INGRED>.</INGRED> Travailler les <INGRED>jaunes</INGRED> avec 100 <INGRED>g</INGRED> de <INGRED>sucre</INGRED> <INGRED>,</INGRED> 50 <INGRED>g</INGRED> de <INGRED>beurre mou</INGRED> <INGRED>,</INGRED> 50 <INGRED>g</INGRED> de <INGRED>farine</INGRED> <INGRED>,</INGRED> 75 <INGRED>g</INGRED> de <INGRED>fécule</INGRED> et 1 cuillère à soupe de <INGRED>cacao</INGRED> <INGRED>.</INGRED> Battre les <INGRED>blancs</INGRED> en neige et les ajouter au <INGRED>mélange</INGRED> <INGRED>.</INGRED> Beurrer un moule rond démontable de 25 cm de diamètre et de 6 <INGRED>cm</INGRED> de haut. Y verser la <INGRED>pâte</INGRED> et faire cuire au four 25 à 30 mn <INGRED>.</INGRED> Pendant ce temps <INGRED>,</INGRED> mettre 4 feuilles de gélatines dans un bol d'<INGRED>eau</INGRED> froide <INGRED>.</INGRED> Travailler 2 <INGRED>jaunes d'oeufs</INGRED> avec 50 <INGRED>g</INGRED> de <INGRED>sucre</INGRED> et 1 sachet <INGRED>de sucre vanillé</INGRED> <INGRED>.</INGRED> Verser dessus 25 cl de <INGRED>lait</INGRED> bouillant en tournant sans arrêt et faire épaissir à feu doux <INGRED>,</INGRED> en tournant toujours et sans laisser bouillir <INGRED>.</INGRED> Ajouter la <INGRED>gélatine</INGRED> essorée en remuant <INGRED>.</INGRED> Passer cette <INGRED>crème anglaise</INGRED> au tamis et la laisser refroidir <INGRED>.</INGRED> Fouetter 25 cl de <INGRED>crème fraîche</INGRED> jusqu'à ce qu'elle soit bien ferme. Quand la <INGRED>crème anglaise</INGRED> atteint la consistance d'une <INGRED>mayonnaise</INGRED> légère <INGRED>,</INGRED> ajouter la <INGRED>crème fouettée</INGRED>. Démouler le gateau sur un plat <INGRED>.</INGRED> Remettre autour uniquement le cercle du <INGRED>moule</INGRED> <INGRED>.</INGRED> Verser la <INGRED>crème</INGRED> sur le gâteau et mettre 1 <INGRED>h</INGRED> au réfrigérateur. Pendant ce temps <INGRED>,</INGRED> faire fondre au bain - marie 200 <INGRED>g</INGRED> de <INGRED>chocolat</INGRED> <INGRED>,</INGRED> ajouter 50 <INGRED>g</INGRED> de <INGRED>sucre</INGRED> <INGRED>,</INGRED> 100 <INGRED>g</INGRED> de <INGRED>beurre</INGRED> <INGRED>,</INGRED> 3 <INGRED>jaunes d'oeufs</INGRED> et les <INGRED>blanc</INGRED> battus en neige ferme. Verser les 3/4 de cette mousse sur le gâteau <INGRED>,</INGRED> utiliser le <INGRED>reste</INGRED> pour décorer le dessus à la <INGRED>poche</INGRED> à douille et laisser prendre au moins 2 <INGRED>h</INGRED> au réfrigérateur. Enlever le cercle avant de servir <INGRED>.</INGRED> muscat de Beaumes de Venise
+  </annotation>
+  <complexite>
+    <temps>f(X) = 18.6666666666667*X + 9.33333333333333</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 14*X + 14</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['beurre']	 id:1	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oeufs entiers', 'oeufs']	 id:2	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:["jaunes d'oeufs", 'jaunes']	 id:3	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['lait']	 id:4	 quantité:25	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['crème fraîche liquide', 'crème']	 id:5	 quantité:25	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:6	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['fécule']	 id:7	 quantité:75	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre en poudre', 'sucre']	 id:8	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre vanillé', 'sucre']	 id:9	 quantité:1	 unité:sachet de	 denombrable:True	 recipient:1*X
+ingredient:['chocolat noir', 'chocolat']	 id:10	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['cacao']	 id:11	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['gélatine']	 id:12	 quantité:4	 unité:feuilles de	 denombrable:True	 recipient:4*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:allumer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:c).casser	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:travailler	 id:o_3	 ingrédients_ralatifs:['12', '4', '4', '3', '4', '3', '1', '6', '9', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_4	 ingrédients_ralatifs:['6', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:beurrer	 id:o_6	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_7	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_8	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:mettre	 id:o_9	 ingrédients_ralatifs:['4', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:travailler	 id:o_10	 ingrédients_ralatifs:['1', '3', '4', '9', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_11	 ingrédients_ralatifs:['2', '3', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:épaissir	 id:o_12	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:bouillir	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_14	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:passer	 id:o_15	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:refroidir	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:fouetter	 id:o_17	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:démouler	 id:o_19	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remettre	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:verser	 id:o_21	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:fondre	 id:o_23	 ingrédients_ralatifs:['4', '8', '9', '9', '3', '1', '1', '12', '7']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:ajouter	 id:o_24	 ingrédients_ralatifs:['3', '1', '1', '12', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_25	 ingrédients_ralatifs:['1', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:utiliser	 id:o_26	 ingrédients_ralatifs:['1', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:prendre	 id:o_27	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enlever	 id:o_28	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

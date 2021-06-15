@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11430">
+  <titre>Amadeus au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>100 g de chocolat</p>
+    <p>100 g de beurre</p>
+    <p>4 oeufs</p>
+    <p>75 g de sucre</p>
+    <p>55 g de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le chocolat noir au bain-marie avec le beurre.Mélanger au fouet les oeufs, le sucre et la farine. Ajouter le mélange chocolat-beurre.
+    Préchauffer le four à thermostat 7.Verser dans des ramequins beurrés et farinés.
+    Faire cuire 7 à 8 minutes.
+    Servir tiède.
+  ]]>
+  </preparation>
+</recette>

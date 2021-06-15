@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24829">
+  <titre>Omelette tomate poivrons oignons</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>12 oeufs</p>
+    <p>2 oignons</p>
+    <p>2 gousses d’ail</p>
+    <p>4 cuillères à soupe d’huile d’olive</p>
+    <p>4 tomates pelées</p>
+    <p>1 poivron rouge</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et émincer l’oignon, puis laver, épépiner et détailler les tomates et le poivron en fines lamelles.
+    Dans une poêle huilée, faire revenir l’oignon avec l’ail écrasé, puis y ajouter les poivrons et les tomates. Laisser mijoter 10 à 15 minutes sur feu moyen en remuant régulièrement.
+    Dans un saladier, battre les oeufs en omelette et assaisonner de sel et de poivre à votre guise.
+    Verser ensuite les oeufs battus sur les légumes et cuire l’omelette.
+  ]]>
+  </preparation>
+</recette>

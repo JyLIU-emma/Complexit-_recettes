@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15398">
+  <titre>Tarte meringuée à la noix de coco</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de pâte brisée</p>
+    <p>50 cl de lait</p>
+    <p>175 g de sucre</p>
+    <p>250 g de noix de coco en poudre</p>
+    <p>2 œufs</p>
+    <p>45 g de fécule de maïs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Porter le lait, le sucre et la noix de coco à ébullition.
+    Ajouter les jaunes préalablement battus avec la maïzena. Bouillir pour épaissir. Verser dans un fond de tarte cuite.
+    Garnir de meringue réalisée avec les blancs. Passer quelques minutes sous le grill.
+  ]]>
+  </preparation>
+</recette>

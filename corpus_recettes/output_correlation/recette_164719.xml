@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164719">
+  <titre>Filet mignon à l'orange et aux patates douces</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 filet mignon d'environ 500G</p>
+    <p>5 belles oranges</p>
+    <p>3 cuillères à soupe de sucre en poudre</p>
+    <p>20 cl d'eau</p>
+    <p>50 cl de lait</p>
+    <p>3 oignons</p>
+    <p>8 patates douces moyennes</p>
+    <p>2 bouillons cubes de boeuf</p>
+    <p>Herbes de provence</p>
+    <p>Huile d'olive</p>
+    <p>Sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper grossièrement les oignons. Rincer les patates douces à l'eau puis les couper en cubes (pas trop petits et avec la peau).
+    Mettre le tout dans un fait tout en arrosant bien d'huile d'olive, les faire revenir légèrement, saler, et mettre une bonne pincée d'herbe de provence.
+    Presser les 5 oranges, verser le jus l'eau et le sucre dans le fait tout, rajouter le filet mignon et faire mijoter 30mn.
+    Au bout de 30mn ajouter le lait et les 2 cubes de bouillon boeuf,vérifier l'assaisonnement saler, poivrer si nécessaire.
+    Laisser mijoter encore 30mn et servir.Cette recette est un plat complet pas besoin d'accompagnement.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Découper</OPER> grossièrement les <INGRED id="4">oignons</INGRED>. <OPER id="o_2">Rincer</OPER> les <INGRED id="3">patates douces</INGRED> à l'<INGRED id="8">eau</INGRED> puis les <OPER id="o_3">couper</OPER> en cubes ( pas trop <INGRED id="3">petits</INGRED> et avec la peau ). <OPER id="o_4">Mettre</OPER> le tout dans un fait tout en arrosant bien d'<INGRED id="8">huile d'olive</INGRED>, les <INGRED id="10">faire</INGRED> <OPER id="o_5">revenir</OPER> légèrement, <OPER id="o_6">saler</OPER>, et <OPER id="o_7">mettre</OPER> une bonne pincée d'herbe de provence. <OPER id="o_8">Presser</OPER> les 5 <INGRED id="4">oranges</INGRED>, <OPER id="o_9">verser</OPER> le <INGRED id="9">jus</INGRED> l'<INGRED id="1">eau</INGRED> et le sucre dans le fait tout, <OPER id="o_10">rajouter</OPER> le <INGRED id="2">filet</INGRED> mignon et faire <OPER id="o_11">mijoter</OPER> 30mn. Au bout de 30mn <OPER id="o_12">ajouter</OPER> le <INGRED id="6">lait</INGRED> et les 2 cubes de <INGRED id="11">bouillon</INGRED> <INGRED id="8">boeuf</INGRED>, <OPER id="o_13">vérifier</OPER> l'assaisonnement <OPER id="o_14">saler</OPER>, <OPER id="o_15">poivrer</OPER> si nécessaire. Laisser <OPER id="o_16">mijoter</OPER> encore 30mn et servir. Cette recette est un plat complet pas besoin d'accompagnement.
+  </annotation>
+  <annotation methode="crf">
+  Découper grossièrement les <INGRED>oignons</INGRED>. Rincer les <INGRED>patates douces</INGRED> à l'<INGRED>eau</INGRED> puis les couper en cubes ( pas trop <INGRED>petits</INGRED> et avec la peau ). Mettre le tout dans un fait tout en arrosant bien d'<INGRED>huile d'olive</INGRED> <INGRED>,</INGRED> les faire revenir légèrement <INGRED>,</INGRED> saler <INGRED>,</INGRED> et mettre une bonne pincée d'herbe de provence. Presser les 5 <INGRED>oranges</INGRED> <INGRED>,</INGRED> verser le <INGRED>jus</INGRED> l'<INGRED>eau</INGRED> et le <INGRED>sucre</INGRED> dans le fait tout <INGRED>,</INGRED> rajouter le <INGRED>filet</INGRED> mignon et faire mijoter 30mn. Au bout de 30mn ajouter le <INGRED>lait</INGRED> et les 2 cubes de <INGRED>bouillon boeuf</INGRED> <INGRED>,</INGRED> vérifier l'assaisonnement saler <INGRED>,</INGRED> poivrer si nécessaire. Laisser mijoter encore 30mn et servir <INGRED>.</INGRED> Cette recette est un plat complet pas besoin d'accompagnement.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 28.5185185185185*X + 6.48148148148148</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 22*X + 12</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['G']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['oranges']	 id:2	 quantité:5	 unité:non_precis	 denombrable:True	 recipient:5*X
+ingredient:['sucre en poudre', 'sucre']	 id:3	 quantité:3	 unité:cuillères à soupe de	 denombrable:True	 recipient:3*X
+ingredient:['eau']	 id:4	 quantité:20	 unité:cl d'	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:5	 quantité:50	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['oignons']	 id:6	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['patates douces moyennes', 'patates']	 id:7	 quantité:8	 unité:non_precis	 denombrable:True	 recipient:8*X
+ingredient:['boeuf']	 id:8	 quantité:2	 unité:cubes de	 denombrable:True	 recipient:2*X
+ingredient:['Herbes de provence', 'Herbes']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["Huile d'olive", 'Huile']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['Sel']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:découper	 id:o_1	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:20*X	 temps:1*X*1	 recipient:1
+operation:rincer	 id:o_2	 ingrédients_ralatifs:['3', '8', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_3	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:3*X*1	 recipient:1
+operation:mettre	 id:o_4	 ingrédients_ralatifs:['8', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:revenir	 id:o_5	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:saler	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:presser	 id:o_8	 ingrédients_ralatifs:['4', '9', '1', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_9	 ingrédients_ralatifs:['9', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rajouter	 id:o_10	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:['6', '11', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:vérifier	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+]]>
+</operation_trouve>
+</recette>

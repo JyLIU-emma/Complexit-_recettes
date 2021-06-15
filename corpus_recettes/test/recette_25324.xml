@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25324">
+  <titre>Sanglier à l'étouffée</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1,2 kg de morceaux de sanglier </p>
+    <p>200 g d'oignons coupés </p>
+    <p>200 g de lard frais </p>
+    <p>300 g de champignons </p>
+    <p>30 cl d'armagnac </p>
+    <p>12 pruneaux </p>
+    <p>3 oignons</p>
+    <p>2 carottes</p>
+    <p>1 navet</p>
+    <p>1 gousse d’ail</p>
+    <p>1 échalote</p>
+    <p>1 bouquet garni</p>
+    <p>vin rouge</p>
+    <p>quelques clous de girofle</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un bol, faire mariner les pruneaux avec l'armagnac pendant 24 h. 
+    Dans un saladier, mélanger le sanglier avec le bouquet garni, les carottes, le navet et un oignon émincés, quelques clous de girofle, l’ail et l’échalote ciselés, et le persil haché. Assaisonner et recouvrir la viande de vin rouge. Laisser mariner 24 h. 
+    Dans une cocotte, faire chauffer du beurre et y faire dorer les morceaux de sanglier. Réserver la viande au chaud et la remplacer par le reste des oignons émincés et le lard frais. Faire cuire à feu doux.
+    Ajouter le sanglier et la marinade. Faire mijoter pendant 3 h.
+    Faire revenir les champignons dans une poêle pendant 20 min. Les ajouter à la viande avec les pruneaux et un peu de leur jus, 10 min avant la fin de la cuisson.
+  ]]>
+  </preparation>
+</recette>

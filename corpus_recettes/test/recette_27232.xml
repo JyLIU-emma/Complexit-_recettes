@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27232">
+  <titre>Perche aux poireaux et au safran</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 filets de perche coupés en 2 </p>
+    <p>2 poireaux</p>
+    <p>1 pincée de safran</p>
+    <p>1/2 cuillère à café de curcuma</p>
+    <p>1 jus de citron</p>
+    <p>sel</p>
+    <p>1/2 verre d'huile</p>
+    <p>1 verre 1/2 d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les poireaux en petites rondelles. Prendre la moitié et la poser au fond de la poêle pour faire un lit. 
+    Déposer vos tranches de poisson. Sur le poisson, ajouter le safran, le curcuma, le sel, le citron, l'huile et l'eau, puis recouvrir du reste des poireaux. 
+    Laisser mijoter à feu moyen jusqu'à réduction du jus.
+    Peut se manger chaud ou froid. blanc sec
+  ]]>
+  </preparation>
+</recette>

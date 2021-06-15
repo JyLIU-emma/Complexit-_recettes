@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27151">
+  <titre>Râble de lièvre aux champignons, en papillote</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 râble de lièvre</p>
+    <p>300 g de girolles</p>
+    <p>300 g de cèpes</p>
+    <p>ciboulette</p>
+    <p>beurre</p>
+    <p>7 à 8 cl de vinaigre</p>
+    <p>gros sel</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 210°C (thermostat 7).
+    Nettoyer les champignons et les tremper dans le vinaigre. Couper les pieds et émincer. 
+    Dans une casserole avec du gros sel, les faire cuire 2 min avec le couvercle et retirer l'eau.
+    Dans une poêle chaude avec du beurre, faire revenir le lièvre 5 min sur tous les côtés. Assaisonner.
+    Sur une feuille de papier sulfurisé, déposer le râble avec les champignons tout autour et parsemer de ciboulette.
+    Faire des papillotes et mettre au four 20 min.
+    Servir bien chaud.
+    Accompagner de pâtes fraîches.
+  ]]>
+  </preparation>
+</recette>

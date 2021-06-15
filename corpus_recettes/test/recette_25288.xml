@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25288">
+  <titre>Terrine de truite</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 truites</p>
+    <p>75 cl de vin blanc sec</p>
+    <p>75 cl d'eau</p>
+    <p>1 bouquet garni</p>
+    <p>1 carotte</p>
+    <p>1 oignon</p>
+    <p>50 cl de gelée</p>
+    <p>1 oeuf dur</p>
+    <p>1 tomate</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Amener l'eau et le vin à ébullition avec le bouquet garni, la carotte et l'oignon. Laisser mijoter 15 minutes puis laisser refroidir.
+    Mettre les truites vidées dans le liquide froid et porter à ébullition. Laisser frémir 2 minutes puis égoutter les poissons et lever les filets.
+    Verser une couche de gelée au fond du moule, recouvrir des filets de truites, de rondelles d'oeuf et de tomates puis recouvrir du reste de gelée.
+    Laisser prendre au frais et servir avec de la mayonnaise.
+  ]]>
+  </preparation>
+</recette>

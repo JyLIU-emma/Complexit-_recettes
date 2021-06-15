@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20376">
+  <titre>Gratin de courgettes simplissisme à l'emmental</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>650 g de courgettes</p>
+    <p>50 g de beurre</p>
+    <p>65 g d’emmental râpé</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 210°C (thermostat 7).
+    Faire cuire les courgettes entières à la vapeur pendant 10 minutes.
+    Les couper en 2 dans le sens de la longueur et les évider.
+    Les déposer dans un plat à gratin beurré, saler et poivrer.
+    Parsemer les courgettes de noisettes de beurre et de fromages puis enfourner pour 10 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23491">
+  <titre>Tarte au broccio</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>4 oeufs</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>1 sachet de levure</p>
+    <p>200 g de brocciu</p>
+    <p>50 g de sucre</p>
+    <p>1 zeste d'orange râpé</p>
+    <p>1 verre à liqueur d'eau de vie</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, versez la farine et l'eau de vie, incorporez 2 oeufs et la levure. Mélangez, pétrissez le tout et laisser lever pendant 1 h. 
+    Passez le brocciu au presse purée, ajoutez 2 oeufs, le sucre et le zeste d'orange. 
+    Abaissez la pâte sur un plan de travail fariné et étalez-la dans un moule à tarte huilé. Garnissez-la de la préparation au broccio et mettez-la à four chaud (Th 6 - 180°C) pendant 40 mn. 
+    Servez à température ambiante.
+    Le broccio est un fromage soit de chèvre, soit de brebis, fabriqué en Corse.
+  ]]>
+  </preparation>
+</recette>

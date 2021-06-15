@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21995">
+  <titre>Calamars au riz</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 kg de calamars</p>
+    <p>500 g de riz</p>
+    <p>1 oignon</p>
+    <p>2 kg de tomates</p>
+    <p>5 gousses d'ail</p>
+    <p>15 cl d'huile d'olive</p>
+    <p>1 bouquet de persil</p>
+    <p>1 feuille de laurier</p>
+    <p>1 dosette de safran</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et égoutter les calamars.
+    Dans une cocotte, verser 15 cl d'huile d'olive et faire revenir les calamars durant 20 min à feu doux. Après cuisson, les retirer de la cocotte et les réserver.
+    Peler et hacher l'oignon et l'ail. Puis peler, épépiner et couper grossièrement les tomates. Les incorporer dans la cocotte, les faire suer et incorporer le riz. Saler, poivrer.
+    Ajouter ensuite l'eau, le safran et les calamars, puis laisser cuire encore 1 minute.
+    Servir saupoudré d'ail et de persil, puis couvrir et laisser refroidir 5 min hors du feu.
+  ]]>
+  </preparation>
+</recette>

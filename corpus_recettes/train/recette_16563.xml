@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16563">
+  <titre>Gâteau aux poires bourdaloue</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 poires</p>
+    <p>Pour la pâte sablée :</p>
+    <p>100 g de beurre</p>
+    <p>80 g de sucre</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>200 g de farine</p>
+    <p>40 g de poudre d'amande</p>
+    <p>Pour la crème :</p>
+    <p>100 g de poudre d'amande</p>
+    <p>100 g de beurre</p>
+    <p>100 g de sucre</p>
+    <p>2 jaunes d'oeuf</p>
+    <p>1 cuillère à soupe de fécule de maïs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la pâte : mélanger le beurre à 40 g de sucre, les jaunes d'oeufs et 1 pincée de sel.
+    Pétrir pour obtenir une masse grumeleuse. Ajouter la farine, la poudre d'amande et 40g de sucre. Travailler. Laisser reposer 2h.
+    Abaisser la pâte dans un plat et cuire 1/2h au four à 170°C, puis laisser refroidir.
+    Mélanger tous les ingrédients pour la crème et mettre 2h au réfrigérateur.
+    Couvrir le fond de tarte avec cette crème.
+    Eplucher les poires et les couper en 4 ou en 8. Disposer les fruits sur la crème en les enfonçant légèrement.
+    Cuire au four 1/2h à 180°C. La pâte doit être prise et la préparation colorée.
+    Servir tiède.
+    La recette à l'air longue et fastidieuse, mais il n'en n'est rien!! Un régal toujours apprécié!
+  ]]>
+  </preparation>
+</recette>

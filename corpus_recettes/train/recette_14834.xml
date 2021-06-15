@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14834">
+  <titre>Salade au pamplemousse et aux crevettes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 pamplemousses roses</p>
+    <p>125 g de petites crevettes roses décortiquées et cuites</p>
+    <p>100 g de crevettes roses 'jumbo' décortiquées et cuites</p>
+    <p>une petite boite de maïs</p>
+    <p>un sachet de riz pour deux personnes</p>
+    <p>deux cuillères à soupe de jus de citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire votre riz et faites-le refroidir sous l'eau froide.
+    Pendant que le riz refroidit, épluchez et coupez les pamplemousses en dés.
+    Versez la moitié du riz au fond d'un grand saladier, puis ajoutez le pamplemousse avec son jus et les petites crevettes. Ajoutez le maïs et le reste de riz, puis décorez avec les crevettes. Versez ensuite le jus de citron.
+    La salade est aussi bonne mais plus légère sans le riz.
+  ]]>
+  </preparation>
+</recette>

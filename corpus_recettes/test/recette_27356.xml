@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27356">
+  <titre>Thon aux poivrons, tomates et olives</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 pavés de thon frais</p>
+    <p>4 poivrons jaunes</p>
+    <p>4 tomates bien mûres</p>
+    <p>1 oignon</p>
+    <p>75 g d'olives vertes dénoyautées</p>
+    <p>1 bouquet garni</p>
+    <p>1 poignée de basilic frais</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincez l'oignon, coupez les tomates en rondelles et les poivrons en lanières. Ciselez le basilic.
+    Faites bouillir une casserole d'eau, plongez-y les olives environ 5 minutes. Egouttez et réservez.
+    Faites chauffer 2 cuillères à soupe d'huile d'olive dans une cocotte. Jetez-y l'oignon et laissez-le suer 5 bonnes minutes à feu doux. Ajoutez ensuite les tomates et le bouquet garni.
+    Remuez et laissez mijoter 10 min.
+    Ajoutez les poivrons, laissez ciure encore 5 minutes. Rajoutez les olives et le thon, salez et poivrez.
+    Laissez cuire environ 15 minutes en remuant délicatement les légumes, et en retournant les morceaux de poisson. Parsemez de basilic et servez.
+    Accompagnez de riz ou pommes de terre au four.
+  ]]>
+  </preparation>
+</recette>

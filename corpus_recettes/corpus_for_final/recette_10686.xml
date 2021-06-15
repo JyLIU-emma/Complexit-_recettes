@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10686">
+  <titre>Storzapreti (Quenelles au bruccio - Corse)</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g d'épinards</p>
+    <p>150 g de feuilles de blettes</p>
+    <p>900 g de brocciu (brousse : fromage frais de brebis)</p>
+    <p>2 oeufs</p>
+    <p>bouillon de viande</p>
+    <p>parmesan râpé</p>
+    <p>sarriette</p>
+    <p>sel, poivre</p>
+    <p>muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire épinards et feuilles de blettes.
+    Les égoutter, puis les hâcher.
+    Leur ajouter trois fois leur poids de brocciu, 2 oeufs, de la sarriette, sel, poivre, noix muscade.
+    Pétrir à la main le mélange et en faire des petites quenelles.
+    Pocher ces quenelles à l'eau bouillante salée quelques minutes.
+    Egoutter.
+    Les ranger dans un plat huilé, les couvrir de jus de viande.
+    Semer du parmesan râpé par-dessus et faire gratiner.
+  ]]>
+  </preparation>
+</recette>

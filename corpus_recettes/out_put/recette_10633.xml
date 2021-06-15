@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10633">
+  <titre>Poulet au thé fumé</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1l de thé fumé fort</p>
+    <p>4 blancs de poulet</p>
+    <p>1 citron</p>
+    <p>sel, poivre</p>
+    <p>beurre</p>
+    <p>1/2 citron (zestes)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire un thé fumé très fort. Mariner les blancs dans le thé chaud 5h.
+    Essorer les blancs et les débarrasser des brins de thé qui reste.
+    Dorer les blancs avec le beurre.
+    Dans une cocotte verser la marinade (thé passé).Ajouter les blancs. Saler, poivrer.
+    Ajouter les zestes et un trait de jus de citron
+    Laisser mijoter à feu doux 1h.
+    Servir avec du riz et des petits légumes passés au wok Saint-Amour
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire un <INGRED id="1">thé</INGRED> fumé très fort. <OPER id="o_1">Mariner</OPER> les <INGRED id="2">blancs</INGRED> dans le <INGRED id="1">thé</INGRED> chaud 5h. <OPER id="o_2">Essorer</OPER> les <INGRED id="2">blancs</INGRED> et les <OPER id="o_3">débarrasser</OPER> des brins de <INGRED id="1">thé</INGRED> qui reste. <OPER id="o_4">Dorer</OPER> les <INGRED id="2">blancs</INGRED> avec le beurre. Dans une cocotte <OPER id="o_5">verser</OPER> la marinade ( <INGRED id="1">thé</INGRED> <OPER id="o_6">passé).Ajouter</OPER> les <INGRED id="1">blancs</INGRED>. <OPER id="o_7">Saler</OPER>, <OPER id="o_8">poivrer</OPER>. <OPER id="o_9">Ajouter</OPER> les zestes et un trait de jus de citron Laisser <OPER id="o_10">mijoter</OPER> à feu doux 1h. Servir avec du <INGRED id="3">riz</INGRED> et des petits légumes passés au wok Saint-Amour
+  </annotation>
+  <annotation methode="crf">
+  Faire un thé fumé très fort. Mariner les <INGRED>blancs</INGRED> dans le thé chaud 5h. Essorer les <INGRED>blancs</INGRED> et les débarrasser des brins de thé qui <INGRED>reste</INGRED> <INGRED>.</INGRED> Dorer les <INGRED>blancs</INGRED> avec le <INGRED>beurre</INGRED> <INGRED>.</INGRED> Dans une cocotte verser la marinade ( thé passé).Ajouter les <INGRED>blancs</INGRED> <INGRED>.</INGRED> Saler <INGRED>,</INGRED> poivrer. Ajouter les zestes et un trait de <INGRED>jus</INGRED> de <INGRED>citron</INGRED> Laisser mijoter à feu doux 1h <INGRED>.</INGRED> Servir avec du <INGRED>riz</INGRED> et des <INGRED>petits</INGRED> <INGRED>légumes</INGRED> passés au wok Saint-Amour
+  </annotation>
+  <complexite>
+    <temps>f(X) = 5.78947368421053*X + 4.21052631578947</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 6*X + 6</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['thé fumé fort', 'thé']	 id:1	 quantité:1	 unité:l de	 denombrable:False	 recipient:1
+ingredient:['blancs de poulet', 'blancs']	 id:2	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['citron']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['citron']	 id:7	 quantité:1/2	 unité:non_precis	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mariner	 id:o_1	 ingrédients_ralatifs:['2', '1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:essorer	 id:o_2	 ingrédients_ralatifs:['2', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:débarrasser	 id:o_3	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dorer	 id:o_4	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:4*X*1	 recipient:0
+operation:verser	 id:o_5	 ingrédients_ralatifs:['1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:passé).ajouter	 id:o_6	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+]]>
+</operation_trouve>
+</recette>

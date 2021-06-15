@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27230">
+  <titre>Ailerons de dinde au curry à l'indienne</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g d'ailerons de dinde</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>2 oignons</p>
+    <p>1 gousse d'ail</p>
+    <p>1 cuillère à café de curry en poudre</p>
+    <p>1 cuillère à soupe de concentré de tomates</p>
+    <p>1/2 pomme</p>
+    <p>25 cl de vin blanc sec</p>
+    <p>sel, poivre de cayenne</p>
+    <p>Pour accompagner :</p>
+    <p>200 g de riz</p>
+    <p>60 g raisins secs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et hacher les oignons et l'ail, puis laver et détailler la demie-pomme en petits dés.
+    Dans un poêlon huilé, faire revenir les oignons et l'ail hachés avec le curry, le concentré de tomate et les dés de pommes. Saler, poivrer. Mouiller de vin blanc et laisser mijoter à couvert pendant 1 h en surveillant la cuisson.
+    Pendant ce temps, mettre le riz à cuire dans 2 fois son volume d'eau pendant 15 min environ. Faire tremper les raisins dans l'eau tiède pour les faire gonfler. Egoutter le riz puis ajouter les raisins.
+    Servir les ailerons accompagnés de riz aux raisins et éventuellement de noix de coco fraîche râpée.
+  ]]>
+  </preparation>
+</recette>

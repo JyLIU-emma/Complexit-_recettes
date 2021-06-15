@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19509">
+  <titre>Gâteau aux éclats de fèves de chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>150 g de chocolat à cuire noir</p>
+    <p>100 g de chocolat avec des éclats de fèves de cacao</p>
+    <p>3 oeufs</p>
+    <p>125 g de sucre</p>
+    <p>125 g de beurre</p>
+    <p>1 tasse de café</p>
+    <p>20 g de farine</p>
+    <p>un peu de sucre glace</p>
+    <p>crème fouettée en bouteille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le chocolat dans le café bien chaud. 
+    Mélanger le beurre fondu, les jaunes d'oeufs, le sucre, la farine ajouter le chocolat. 
+    Battre les blancs en neige avec un peu de sucre glace. les incorporer soigneusement au mélange chocolat rajouter un peu de crème fouettée. 
+    Verser dans un moule chemisé de papier sulfurisé. Faire cuire au bain-marie 20 mn au four 180°C.
+     
+    Démouler le lendemain.
+  ]]>
+  </preparation>
+</recette>

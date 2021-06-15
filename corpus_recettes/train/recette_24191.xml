@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24191">
+  <titre>Tortilla aux légumes</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 tomates coupées en quartiers</p>
+    <p>3 poivrons verts épépinés et coupés en lamelles</p>
+    <p>3 oignons coupés en rondelles</p>
+    <p>3 pommes de terre épluchées</p>
+    <p>6 cuillères à soupe d'huile d'olive</p>
+    <p>12 oeufs</p>
+    <p>3 cuillères à soupe de lait</p>
+    <p>sel, poivre</p>
+    <p>1 bouquet de ciboulette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les pommes de terre et les poivrons dans l'huile pendant quelques minutes en remuant avec une cuillère en bois.
+    Ajouter les tomates et les oignons, laisser cuire une dizaine de minutes à feu doux jusqu'à ce que les légumes soient tendres. Remuer de temps en temps.
+    Battre les oeufs avec le lait, du sel, du poivre et la ciboulette hachée.
+    Verser sur les légumes et laisser cuire la tortilla en remuant avec une spatule en bois.
+    Au bout de quelques minutes de cuisson retourner la tortilla en s'aidant d'une assiette et poursuivre la cuisson de l'autre côté.
+    Servir chaud ou froid.
+  ]]>
+  </preparation>
+</recette>

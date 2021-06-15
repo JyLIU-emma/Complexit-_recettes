@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26209">
+  <titre>Soupe de courgettes au chèvre</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 courgettes</p>
+    <p>1 petit fromage de chèvre en bûchette</p>
+    <p>2 cubes de bouillon de volaille</p>
+    <p>poivre</p>
+    <p>lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les courgettes en rondelles. 
+    Placez-les dans une cocotte-minute et recouvrez-les d'eau à laquelle vous ajoutez les 2 cubes de bouillon de volaille. 
+    Comptez 20 mn de cuisson à partir du moment où la cocotte commence à siffler. 
+    Une fois le mélange cuit, ajoutez les rondelles de fromage de chèvre. Dosez le fromage à votre convenance. Poivrez et mixez. 
+    C'est prêt. 
+    Vous pouvez également ajouter un peu de lait en fin de préparation pour alléger le tout.
+  ]]>
+  </preparation>
+</recette>

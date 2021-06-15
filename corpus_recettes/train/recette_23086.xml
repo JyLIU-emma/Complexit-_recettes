@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23086">
+  <titre>Boeuf à la camarguaise</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de boeuf haché</p>
+    <p>2 cuillères à soupe d'huile, poivre</p>
+    <p>200 g de lard fumé</p>
+    <p>2 douzaines de filets d'anchois</p>
+    <p>1 grande barde de lard</p>
+    <p>Pour servir: </p>
+    <p>filets d'anchois et olives farcies volonté</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez le boeuf haché et l'huile, poivrez. 
+    Hachez le lard. 
+    Avec les mains, formez un pâté avec des couches alternées de viande, de lard et de filets d'anchois. 
+    Couvrez le tout avec la barde ou avec une crépine ramollie dans de l'eau tiède. Faites cuire à four moyen pendant 1 h30. 
+     
+    5 mn avant la fin de la cuisson, entourez d'olives à volonté et décorez d'anchois. 
+    Servez chaud, ou froid avec une mayonnaise.
+  ]]>
+  </preparation>
+</recette>

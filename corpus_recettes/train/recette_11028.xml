@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11028">
+  <titre>Millefeuille de tomate confite au basilic et à l'huile d'olive</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 carrés frais</p>
+    <p>tomate confite</p>
+    <p>huile d'olive grecque</p>
+    <p>basilic extra-frais</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper de très fines lamelles de tomate confite et alterner tomate / couche de carré frais / basilic sur toute la hauteur.
+    Rajouter un léger filet d'huile d'olive grecque et servir.
+  ]]>
+  </preparation>
+</recette>

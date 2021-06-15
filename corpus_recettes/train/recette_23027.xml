@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23027">
+  <titre>Salade de pâtes au chèvre</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de pâtes (Farfale) </p>
+    <p>4 petits chèvres frais </p>
+    <p>3-4 tomates</p>
+    <p>1 bouquet de basilic</p>
+    <p>1 citron</p>
+    <p>huile d'olive</p>
+    <p>poivre et sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Faites cuire les pâtes. Passez-les sous l'eau froide et égouttez-les. 
+    2) Emiettez les petits chèvres en morceaux. Laisser fondre les petits chèvres sur les pâtes chaudes. 
+    3) Lavez et découpez les tomates en petits dés. Ajoutez-les aux pâtes. 
+    4) Préparez la sauce avec l'huile d'olive, le jus de citron, le poivre, le sel et le basilic haché. Versez la sauce sur les pâtes et mélangez. 
+    5) Servez frais.
+  ]]>
+  </preparation>
+</recette>

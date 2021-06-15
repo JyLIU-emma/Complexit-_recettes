@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21522">
+  <titre>Crêpes flambées au rhum</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>165 g de farine</p>
+    <p>15 cl de lait</p>
+    <p>10 cl d'eau</p>
+    <p>2 oeufs</p>
+    <p>10 g de beurre</p>
+    <p>5 cl de rhum</p>
+    <p>50 g de sucre</p>
+    <p>1 sachet de levure</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, mélanger au fouet la farine et le lait. Lorsque le mélange est bien fluide, y délayer les oeufs et saler.
+    Ajouter le beurre fondu, 1 cuillère à café de rhum et la levure.
+     
+    Laisser reposer pendant 2 heures.
+    Graisser légèrement la poêle et y faire cuire les crêpes 1 à 2 minutes sur chaque face.
+    Dans une petit casserole, faire réchauffer le reste du rhum.
+    Napper les crêpes de sucre, les plier en quatre et les disposer dans une assiette.
+    Verser du rhum dessus et flamber avant de servir.
+  ]]>
+  </preparation>
+</recette>

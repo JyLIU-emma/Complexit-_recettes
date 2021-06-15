@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19957">
+  <titre>Sablés sans oeufs</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de farine</p>
+    <p>125 g de beurre</p>
+    <p>125 g de sucre</p>
+    <p>3 cuillerées de lait</p>
+    <p>1 pincée de bicarbonate</p>
+    <p>1 soupçon de sel</p>
+    <p>vanille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Travailler dans une terrine le sucre, la vanille, le lait et le bicarbonate. Ajouter la farine, incorporer le beurre. Pétrir à la main. Etendre cette pâte, la couper en gâteaux de forme régulière. Faire cuire à four chaud.
+  ]]>
+  </preparation>
+</recette>

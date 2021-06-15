@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17901">
+  <titre>Riz Cantonais</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de riz</p>
+    <p>600 g de crevettes</p>
+    <p>8 œufs</p>
+    <p>20 tiges d'oignons (vertes) </p>
+    <p>10 tranches de jambon (de porc ou de dinde)</p>
+    <p>sauce de soja</p>
+    <p>Ve-tsin (glutamate, voir dans magasin chinois) </p>
+    <p>huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire d'abord cuire le riz et laisser reposer 5 ou 6 h maximum. 
+    Ensuite, dans une grande poêle bien huilée faire cuire les œufs en les brouillant le plus possible. 
+    Ajouter ensuite, les crevettes déjà décortiquées et le jambon. 
+    Laisser à feux doux 5 ou 6 mn, ajouter ensuite une bonne dose de sauce de soja et le tiges d'oignons verts et 1 cuillère à café de Ve-tsin. 
+    Laisser mijoter pendant 10 min environ et mélanger au riz. 
+    Servez chaud avec une petite sauce piquante chinoise.
+    NB : Les différents ingrédients peuvent être adaptés à vos goûts (vous pouvez enlever les crevettes et/ou la viande, rajouter des petits pois...).
+     Eau
+  ]]>
+  </preparation>
+</recette>

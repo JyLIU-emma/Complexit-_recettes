@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24783">
+  <titre>Quenelles de chèvre</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>25 cl de lait</p>
+    <p>4 oeufs</p>
+    <p>200 g de farine</p>
+    <p>200 g de beurre</p>
+    <p>100 g de fromage de chèvre mi-frais</p>
+    <p>50 g de ciboulette hachée</p>
+    <p>noix de muscade</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir le lait dans une casserole. Puis y incorporer la moitié du beurre (100 g), la ciboulette et la noix de muscade. Assaisonner. Ajouter la farine et faire cuire à feu doux, en remuant sans cesse.
+    Hors du feu, ajouter le fromage de chèvre mixé et les oeufs. Laisser reposer pendant 30 min.
+    Porter à ébullition de l'eau salée. Y faire pocher des quenelles de pâte, façonnées à la cuillère. Les égoutter et les servir nappées de beurre fondu et de ciboulette.
+  ]]>
+  </preparation>
+</recette>

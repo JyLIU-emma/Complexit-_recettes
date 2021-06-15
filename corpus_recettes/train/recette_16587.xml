@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16587">
+  <titre>Tarte aux deux jambons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>240 g de pâte brisée salée</p>
+    <p>100 g de jambon cru (fines tranches)</p>
+    <p>100 g de jambon blanc (fines tranches)</p>
+    <p>200 g de blancs de poireaux</p>
+    <p>100 g de fromage râpé</p>
+    <p>20 cl de crème fraîche</p>
+    <p>15 cl de lait</p>
+    <p>4 oeufs</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Foncer un moule à tarte avec la pâte brisée. Piquer le fond avec une fourchette.
+    Faire cuire les blancs de poireaux 12 mn à l'eau bouillante salée. Les égoutter et les presser pour en sortir le maximum de jus.
+    Garnir la tarte en répartissant le jambon cru et le jambon blanc, saupoudrer de fromage râpé et terminer en ajoutant les poireaux.
+    Mixer ensemble la crème, le lait, les oeufs. Saler légèrement et poivrer.
+    Recouvrir la tarte de ce mélange.
+    Cuire 35 mn au four préchauffé à 180°C.La tarte se sert chaude ou tiède, seule en entrée ou en plat avec une salade.Un plus : Les talons et les chutes de jambon sont moins chers que les tranches et conviennent parfaitement au quiches.
+  ]]>
+  </preparation>
+</recette>

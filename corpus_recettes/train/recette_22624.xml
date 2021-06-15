@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22624">
+  <titre>Mousseline de dinde et crème à la tomate</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de chair de dinde</p>
+    <p>100 g de crème fraîche</p>
+    <p>1 pincée de noix de muscade</p>
+    <p>2 blancs d'oeuf</p>
+    <p>sel, poivre</p>
+    <p>Pour la sauce :</p>
+    <p>25 cl de bouillon de poule</p>
+    <p>1 grosse tomate</p>
+    <p>50 g de crème fraîche épaisse</p>
+    <p>300 g de truffes en boîte</p>
+    <p>persil haché</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 210°C (thermostat 7).
+    Déposer les morceaux de dinde dans le bol d'un mixeur, puis les hacher avec un peu de sel, poivre et noix de muscade. Fouetter la crème dans un saladier et y incorporer la préparation mixée. Enfin, monter les blancs en neige avec une pincée de sel, puis les incorporer délicatement au hachis de dinde à la crème.
+    Verser la préparation dans un moule à cake beurré, puis le placer dans un bain-marie. Laisser cuire 30 min à four chaud.
+    Pendant ce temps, préparer la sauce :
+    Préparer un bouillon de poule et le faire réduire de moitié sur feu modéré. Laver et détailler les tomates en quartiers avant de les réduire en purée avec la crème. Incorporer le coulis de tomates au bouillon, puis y ajouter quelques morceaux de truffes.
+    Saler, poivrer si nécessaire, puis réserver au chaud.
+    Démouler la mousseline de dinde sur un plat de service, la saupoudrer de persil haché puis servir avec la sauce en saucière.
+  ]]>
+  </preparation>
+</recette>

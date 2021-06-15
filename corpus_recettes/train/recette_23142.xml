@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23142">
+  <titre>Terrine épinards, blettes et oseille</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>750 g d'épinards</p>
+    <p>150 g d'oseille</p>
+    <p>200 g de feuilles de blettes</p>
+    <p>30 g de beurre</p>
+    <p>1 oignon</p>
+    <p>2 échalotes</p>
+    <p>1 tranche de pain de campagne</p>
+    <p>3 oeufs</p>
+    <p>sel, poivre, muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Faire cuire les feuilles de blettes 10 minutes à l'eau bouillante salée puis égoutter soigneusement.
+    Faire fondre les épinards hachés dans un peu de beurre puis ajouter l'oseille et les blettes hachés. Cuire jusqu'à ce que tout le jus de cuisson soit évaporé.
+    Faire fondre les oignons et les échalotes hachés dans le beurre puis les incorporer au mélange précédent avec le pain émiétté et les oeufs.
+    Verser dans un moule à caké huilé et enfourner au bain-marie pour 1 heure de cuisson.
+    Pour éviter le dessèchement de la farce, vous pouvez tapisser le fond de la terrine d'une crépine préalablement ramollie à l'eau tiède.
+  ]]>
+  </preparation>
+</recette>

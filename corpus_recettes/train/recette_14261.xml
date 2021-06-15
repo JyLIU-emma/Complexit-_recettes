@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14261">
+  <titre>Lasagnes au poulet</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 paquet de lasagnes</p>
+    <p>1 grande boîte de tomates pelées</p>
+    <p>1 grande boîte de champignons de paris coupés</p>
+    <p>4 escalopes de poulet</p>
+    <p>1 oignon</p>
+    <p>environ 200 g de coulis de tomates</p>
+    <p>1 bouillon cube</p>
+    <p>gruyère râpé (quantité selon votre goût)</p>
+    <p>pour la béchamel : farine, lait, margarine</p>
+    <p>sel, poivre, herbes au choix</p>
+    <p>beurre pour le plat</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four sur thermostat 7 ( 200°C).
+    Couper les escalopes en petits dés, les faire rissoler dans peu de matière grasse.
+    Faire rissoler les champignons avec l'oignon.
+    Dans une casserole, écraser les tomates pelées, ne pas mettre tout le jus de la boîte. Ajouter le coulis de tomates et les champignons et oignons rissolés. Ajouter le bouillon cube écrasé assurer une dilution parfaite.
+    Saler, poivrer, mettre les herbes.
+    Préparer la béchamel : faire fondre un peu de margarine avec la farine au fond d'une casserole. Ajouter le flait progressivement jusqu'à obtention d'une sauce homogène, pas trop épaisse.
+    Beurrer le plat à gratin.
+    Commencer par une fine couche de béchamel, puis mettre une couche de pâtes (inutile de les cuire avant), bien colmater les trous, ajouter des morceaux de poulet, puis la sauce tomate. 
+    Recommencer avec la béchamel, les pâtes, le poulet, la sauce tomate. Finir par la béchamel.
+    Faire attention de bien recouvrir les pâtes de béchamel pour éviter qu'elles ne durcissent durant la cuisson.
+    Recouvrir de fromage râpé. Parsemer de petits morceaux de beurre.
+    Enfourner pendant 1/2h, finir les 5 dernières mn au grill.
+    Surprenant, beaucoup plus léger que les lasagnes traditionnelles.
+  ]]>
+  </preparation>
+</recette>

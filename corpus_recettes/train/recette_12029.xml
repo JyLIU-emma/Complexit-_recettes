@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12029">
+  <titre>Travers de porc à la moutarde et au miel</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de travers de porc</p>
+    <p>5 cuillères à soupe de moutarde</p>
+    <p>4 cuillères à soupe de miel liquide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 200°C (thermostat 6).
+    Découpez les travers de porc en suivant l'os, badigeonnez les de moutarde avec un pinceau de tous les côtés.
+    Enfournez à mi-hauteur et laissez cuire environ 30 min.
+    Sortez la grille du four et badigeonnez l'une des faces de miel à l'aide du pinceau, cuire enfournez pour 5 à 7 min et recommencez sur l'autre face.
+    Servez chaud de préférence avec du riz.
+  ]]>
+  </preparation>
+</recette>

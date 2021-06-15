@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26521">
+  <titre>Courgettes aux oeufs</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 oeufs</p>
+    <p>3 courgettes</p>
+    <p>gruyère râpé</p>
+    <p>50 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle faites fondre le beurre et mettre les courgettes coupés en rondelles avec un peu de sel et du poivre en les faisant dorer dans le beurre. 
+    Une fois bien cuites, battre les oeufs et verser sur les courgettes. Laisser cuire sans retourner la préparation toujours dans la poêle et arroser de gruyère râpé sur la préparation. 
+    Eteindre le feu, couvrir et laisser le gruyère fondre avec la chaleur de la préparation. 
+    Ce plat se déguste chaud.
+  ]]>
+  </preparation>
+</recette>

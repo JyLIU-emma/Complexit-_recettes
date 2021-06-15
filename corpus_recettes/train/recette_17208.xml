@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17208">
+  <titre>Mona</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 oeufs</p>
+    <p>3/4 de verre "à moutarde" d'huile</p>
+    <p>200 g de sucre en poudre</p>
+    <p>400 g de farine</p>
+    <p>30 g de levure de boulanger</p>
+    <p>le zeste râpé d'une orange</p>
+    <p>le jus de l'orange</p>
+    <p>1 cuillère à soupe de rhum</p>
+    <p>1 sachet de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Diluer la levure dans 2 cuillères à soupe d'eau tiède puis la mélanger rapidement à un peu de farine.
+    Mettre la farine dans un saladier, faire une fontaine, y verser sucre, huile, oeufs, zestes d'orange, le sucre vanillé et le levain. Mélanger afin d'obtenir une pâte homogène.
+    Former une boule et la laisser lever sous un torchon 2 à 3 heures dans une pièce chaude.
+    A la fin de cette première poussée, diviser la boule en 2 de même taille et laisser à nouveau lever 1 heure sur du papier sulfurisé ou aluminium.
+    Avant d'enfourner à four chaud à 200°C (th7), dorer les monas à l'oeuf battu et saupoudrer de sucre.
+    Laisser cuire une petite heure, mais surveiller la cuisson, les monas doivent former croûte brune, mais ne pas brûler...
+    En fin de cuisson, arroser les monas de jus d'orange.
+    Extra comme dessert, mais un peu long à réaliser.
+  ]]>
+  </preparation>
+</recette>

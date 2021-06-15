@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24723">
+  <titre>Côtes de veau, mozzarella et jambon cru</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 côtes de veau</p>
+    <p>3 tranches de jambon de Parme</p>
+    <p>3 tranches de mozzarella</p>
+    <p>3 feuilles de sauge fraîche</p>
+    <p>15 cl de vin blanc</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>65 g de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper la chair entre les côtes sans les détacher les unes des autres.
+    Déposer 1 feuille de sauge sur chaque tranche de mozzarella et entourer de jambon cru.
+    Disposer entre les côtes de veau et maintenir à l'aide d'une ficelle de cuisine. Saupoudrer de farine.
+    Faire cuire dans une cocotte avec le beurre et le vin blanc pendant 40 minutes environ.
+  ]]>
+  </preparation>
+</recette>

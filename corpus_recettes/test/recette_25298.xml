@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25298">
+  <titre>Omelette fondante aux tomates, asperges et comté</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de jambon</p>
+    <p>300 g de comté râpé</p>
+    <p>12 oeufs</p>
+    <p>12 asperges vertes</p>
+    <p>9 tomates</p>
+    <p>2 oignons</p>
+    <p>37,5 cl de lait</p>
+    <p>huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6-7).
+    Peler les tomates après les avoir ébouillantées et puis les concasser. Hacher l'oignon puis le faire fondre dans l'huile durant 10 minutes avec les tomates.
+    Dorer les asperges dans l'huile pendant 5 minutes.
+    Détailler le jambon en dés.
+    Battre les oeufs en omelette, saler, poivrer, ajouter le jambon, le lait et le fromage puis le mélange oignon-tomate.
+    Verser la préparation dans un plat à four, déposer les asperges dessus et enfourner pour 15 à 20 minutes de cuisson. L'omelette doit être bien gonflée.
+  ]]>
+  </preparation>
+</recette>

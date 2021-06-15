@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21111">
+  <titre>Glace aux marrons et coulis de chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>25 cl de lait</p>
+    <p>35 g de sucre en poudre</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>1/2 gousse de vanille</p>
+    <p>150 g de crème de marrons</p>
+    <p>12,5 cl d'eau</p>
+    <p>20 g de beurre</p>
+    <p>100 g de chocolat noir pâtissier</p>
+    <p>crème Chantilly</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Porter à ébullition le lait, 18 g de sucre et la 1/2 gousse de vanille. Laisser reposer à couvert 10 min hors du feu.
+    Blanchir les jaunes d'oeufs avec le sucre restant.
+    Faire réchauffer le lait et l'incorporer aux jaunes d'oeufs.
+    Fouetter cette préparation et la faire épaissir en la mettant à chauffer sur feu doux.
+    Remuer sans cesse.  
+    Mélanger au fouet la crème de marron et la crème obtenue ci-dessus. Laisser refroidir 30 min en remuant régulièrement.
+    Verser la préparation dans un moule et le placer dans le freezer pendant 3 h.
+    Au bout de 2 h 30, faire fondre le chocolat cassé en morceaux et l'eau dans une casserole à feu doux.
+    Ajouter le beurre, remuer et laisser refroidir. 
+    Servir la glace avec le coulis de chocolat et de la crème chantilly.
+  ]]>
+  </preparation>
+</recette>

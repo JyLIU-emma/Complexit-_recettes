@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11766">
+  <titre>Poulet sauté au soja et aux champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>480 g de blancs de poulet</p>
+    <p>300 g de pousses de soja frais</p>
+    <p>100 g de champignons blancs </p>
+    <p>1/2 citron</p>
+    <p>1 cuillère à soupe de sauce de soja</p>
+    <p>2 cuillères à café d'huile de sésame</p>
+    <p>1 bouquet de ciboulette</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Rincez les pousses de soja.
+    Emincez en lanières les blancs de poulet.
+    Coupez le bout terreux des champignons.
+    Lavez-les et émincez-les en fines lamelles. Citronnez-les légèrement. Ciselez la ciboulette.
+    Dans une sauteuse, faites revenir le poulet dans l'huile de sésame chaude. Ajoutez les pousses de soja.
+    Assaisonnez de sauce de soja,poivrez et laissez sur le feu durant 5 min.
+    Avant de servir,mélangez tous les ingrédients et saupoudrez le plat de ciboulette.
+    Vous pouvez utiliser des pousses de soja en conserve.
+    Environ 290 kcal par portion.
+  ]]>
+  </preparation>
+</recette>

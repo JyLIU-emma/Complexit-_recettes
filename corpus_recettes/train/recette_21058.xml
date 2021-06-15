@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21058">
+  <titre>Filet de boeuf en croûte aux champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 rôti de boeuf dans le filet (environ 1,5 kg)</p>
+    <p>800 g de pâte feuilletée</p>
+    <p>60 g de beurre</p>
+    <p>250 g de champignons au choix</p>
+    <p>1 bouquet de persil haché</p>
+    <p>1 jaune d'oeuf</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 240°C (thermostat 8).
+    Lavez et hachez les champignons grossièrement. Faites fondre la moitié du beurre, faites-y sauter les champignons à feu vif. Salez, poivrez et saupoudrez le persil haché en fin de cuisson.
+    Faites juste colorer la viande dans le reste de beurre sur toutes les faces.
+    Etalez la pâte feuilletée en deux rectangles de dimension différente : un petit et un grand.
+    Etalez une partie des champignons sur le plus grand rectangle de pâte, déposez le rôti dessus puis le reste des champignons. Rabattez la pâte tout autour et couvrez du petit rectangle de pâte posé comme un couvercle. Soudez les bords avec un peu d'eau. Décorez le dessus de la pâte avec une fouchette ou la pointe d'un couteau.
+    Faites trois trous sur le dessus où vous glisserez du papier aluminium ou sulfurise roulé sur lui-même pour former des cheminées.
+    Mélangez le jaune d'oeuf avec une cuillère à soupe d'eau. Badigeonnez-en le rôti en croûte et faites cuire 25 minutes dans le four bien chaud. 
+  ]]>
+  </preparation>
+</recette>

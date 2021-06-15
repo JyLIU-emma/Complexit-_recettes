@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164905">
+  <titre>Couscous berbère</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de graine de couscous grain moyen</p>
+    <p>4 pommes de terre</p>
+    <p>500 g de haricots verts (frais ou surgelés)</p>
+    <p>4 cuillère à soupe huile au choix</p>
+    <p>50 g de beurre</p>
+    <p>menthe fraîche</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire la graine de couscous comme indiqué sur le paquet.
+    Cuire les pommes de terre et les haricots à la vapeur. Les mélanger à la semoule.Mélanger le tout avec l'huile et les 50 g de beurre et ciseler 10 feuilles de menthe sur le plat juste avant de servir. Thé à la menthe
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Cuire</OPER> la <INGRED id="1">graine</INGRED> de couscous comme indiqué sur le paquet. <OPER id="o_2">Cuire</OPER> les <INGRED id="2">pommes de terre</INGRED> et les <INGRED id="3">haricots</INGRED> à la vapeur. Les <OPER id="o_3">mélanger</OPER> à la semoule. <OPER id="o_4">Mélanger</OPER> le tout avec l'huile et les 50 g de <INGRED id="7">beurre</INGRED> et <OPER id="o_5">ciseler</OPER> 10 feuilles de <INGRED id="6">menthe</INGRED> sur le plat juste avant de servir. Thé à la <INGRED id="6">menthe</INGRED>
+  </annotation>
+  <annotation methode="crf">
+  Cuire la graine de couscous comme indiqué sur le <INGRED>paquet</INGRED> <INGRED>.</INGRED> Cuire les <INGRED>pommes de terre</INGRED> et les <INGRED>haricots</INGRED> à la vapeur. Les mélanger à la <INGRED>semoule</INGRED> <INGRED>.</INGRED> Mélanger le tout avec l'<INGRED>huile</INGRED> et les 50 <INGRED>g</INGRED> de <INGRED>beurre</INGRED> et ciseler 10 feuilles de menthe sur le plat juste avant de servir <INGRED>.</INGRED> Thé à la <INGRED>menthe</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 3.07692307692308*X + 1.92307692307692</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 8*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['graine de couscous grain moyen', 'graine']	 id:1	 quantité:400	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['pommes de terre', 'pommes']	 id:2	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['haricots verts', 'haricots']	 id:3	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['huile au choix']	 id:4	 quantité:4	 unité:cuillère à soupe	 denombrable:True	 recipient:4*X
+ingredient:['beurre']	 id:5	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['menthe fraîche', 'menthe']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:cuire	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:cuire	 id:o_2	 ingrédients_ralatifs:['2', '3']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mélanger	 id:o_4	 ingrédients_ralatifs:['7', '6']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ciseler	 id:o_5	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

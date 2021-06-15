@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165059">
+  <titre>Filet mignon de porc rôti à la moutarde à l'ancienne</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 filets mignons de porc</p>
+    <p>1 pot de moutarde à l'ancienne Maille</p>
+    <p>50 g de beurre</p>
+    <p>4 cuillères d'huile d'olive</p>
+    <p>2 kg de pommes de terre (Princesse Amandine ou Primeur)</p>
+    <p>2 branches de laurier</p>
+    <p>2 branches de thym</p>
+    <p>Sel de guérande</p>
+    <p>Poivre saveur</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210° pendant 10-15 mn.
+     
+    Dans un grand plat allant au four, mettre le beurre coupé en morceaux, poser les branches de thym et de laurier.
+     
+    Tartiner les filets mignons de moutarde (sur tous les côtés), les poser dans le plat sur les branches de thym et laurier.
+     
+    Saler et poivrer et mettre au four pendant 45 mn (retourner à mi-cuisson).
+     
+    Pendant ce temps, éplucher les pommes de terre (les couper si elles sont grosses), les faire cuire à la vapeur.
+     
+    Sortir le plat du four, retourner les filets mignons, ajouter 1 grand verre d'eau pour délayer la sauce, mettre les pommes de terre autour des filets mignons. Enfourner pour environ 30 mn.
+     
+    A déguster avec des flageolets. Bordeaux
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Préchauffer</OPER> le four à 210 ° pendant 10 - 15 mn. Dans un grand plat allant au four, <OPER id="o_2">mettre</OPER> le <INGRED id="7">beurre</INGRED> coupé en <INGRED id="1">morceaux</INGRED>, <OPER id="o_3">poser</OPER> les branches de <INGRED id="8">thym</INGRED> et de <INGRED id="6">laurier</INGRED>. <OPER id="o_4">Tartiner</OPER> les <INGRED id="1">filets</INGRED> mignons de moutarde ( sur tous les côtés ), les <OPER id="o_5">poser</OPER> dans le plat sur les branches de thym et <INGRED id="6">laurier</INGRED>. <OPER id="o_6">Saler</OPER> et <OPER id="o_7">poivrer</OPER> et <OPER id="o_8">mettre</OPER> au four pendant 45 mn ( <OPER id="o_9">retourner</OPER> à mi-cuisson ). Pendant ce temps, <OPER id="o_10">éplucher</OPER> les <INGRED id="4">pommes de terre</INGRED> ( les <OPER id="o_11">couper</OPER> si elles sont grosses ), les faire <OPER id="o_12">cuire</OPER> à la vapeur. <OPER id="o_13">Sortir</OPER> le plat du four, <OPER id="o_14">retourner</OPER> les <INGRED id="2">filets</INGRED> mignons, <OPER id="o_15">ajouter</OPER> 1 grand verre d'<INGRED id="1">eau</INGRED> pour délayer la <INGRED id="6">sauce</INGRED>, <OPER id="o_16">mettre</OPER> les pommes de terre autour des <INGRED id="1">filets</INGRED> mignons. <OPER id="o_17">Enfourner</OPER> pour <INGRED id="1">environ</INGRED> 30 mn. A déguster avec des flageolets. Bordeaux
+  </annotation>
+  <annotation methode="crf">
+  Préchauffer le four à 210 ° pendant 10 - 15 mn <INGRED>.</INGRED> Dans un grand plat allant au four <INGRED>,</INGRED> mettre le <INGRED>beurre</INGRED> <INGRED>coupé</INGRED> en <INGRED>morceaux</INGRED> <INGRED>,</INGRED> poser les branches de <INGRED>thym</INGRED> et de <INGRED>laurier</INGRED>. Tartiner les <INGRED>filets</INGRED> mignons de <INGRED>moutarde</INGRED> ( sur tous les côtés ) <INGRED>,</INGRED> les poser dans le plat sur les branches de <INGRED>thym</INGRED> et <INGRED>laurier</INGRED>. Saler et poivrer et mettre au four pendant 45 mn ( retourner à mi-cuisson ). Pendant ce temps <INGRED>,</INGRED> éplucher les <INGRED>pommes de terre</INGRED> ( les couper si elles sont <INGRED>grosses</INGRED> ) <INGRED>,</INGRED> les faire cuire à la vapeur. Sortir le plat du four <INGRED>,</INGRED> retourner les <INGRED>filets mignons</INGRED> <INGRED>,</INGRED> ajouter 1 grand <INGRED>verre</INGRED> d'<INGRED>eau</INGRED> pour délayer la <INGRED>sauce</INGRED> <INGRED>,</INGRED> mettre les <INGRED>pommes de terre</INGRED> autour des <INGRED>filets mignons</INGRED>. Enfourner pour <INGRED>environ</INGRED> 30 mn <INGRED>.</INGRED> A déguster avec des flageolets. Bordeaux
+  </annotation>
+  <complexite>
+    <temps>f(X) = 12.4666666666667*X + 4.53333333333333</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 11*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['filets mignons de porc', 'filets']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:["moutarde à l'ancienne Maille", 'moutarde']	 id:2	 quantité:1	 unité:pot de	 denombrable:True	 recipient:1*X
+ingredient:['beurre']	 id:3	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["huile d'olive", 'huile']	 id:4	 quantité:4	 unité:cuillères d'	 denombrable:True	 recipient:4*X
+ingredient:['pommes de terre', 'pommes']	 id:5	 quantité:2	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['laurier']	 id:6	 quantité:2	 unité:branches de	 denombrable:True	 recipient:2*X
+ingredient:['thym']	 id:7	 quantité:2	 unité:branches de	 denombrable:True	 recipient:2*X
+ingredient:['Sel de guérande', 'Sel']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['Poivre saveur', 'Poivre']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préchauffer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:mettre	 id:o_2	 ingrédients_ralatifs:['7', '1', '8', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:poser	 id:o_3	 ingrédients_ralatifs:['8', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tartiner	 id:o_4	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poser	 id:o_5	 ingrédients_ralatifs:['1', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:retourner	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:éplucher	 id:o_10	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:4*X*1	 recipient:0
+operation:couper	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:cuire	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:sortir	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retourner	 id:o_14	 ingrédients_ralatifs:['2', '1', '6', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_15	 ingrédients_ralatifs:['1', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_16	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:enfourner	 id:o_17	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

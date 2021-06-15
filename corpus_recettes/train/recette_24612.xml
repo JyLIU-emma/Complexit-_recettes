@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24612">
+  <titre>Melons garnis aux fraises</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 petits melons</p>
+    <p>375 g de fraises</p>
+    <p>5 cuillères à soupe de sucre</p>
+    <p>5 cl de kirsch</p>
+    <p>300 g de fromage blanc</p>
+    <p>225 g de crème fraîche </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper le chapeau des melons, puis les creuser, en extraire la chair et la détailler en petits morceaux.
+    Les déposer dans un saladier avec les fraises lavées et équeutées, puis saupoudrer le tout de sucre.
+    Arroser d’un verre de kirsch, puis laisser mariner durant 1 heure.
+    Fouetter la crème en chantilly et l'incorporer délicatement au fromage blanc puis ajouter les fruits.
+    Garnir les melons de cette préparation, puis placer au réfrigérateur et servir très frais.
+  ]]>
+  </preparation>
+</recette>

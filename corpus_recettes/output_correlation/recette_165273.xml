@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165273">
+  <titre>Gâteau château princesse 3D</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 gâteaux au yaourt</p>
+    <p>crème pâtissière à la fraise (ou crème stracciattella)</p>
+    <p>Mousse au chocolat</p>
+    <p>stylo pâtissier (rose et marron)</p>
+    <p>5 biscuits roulés</p>
+    <p>cornets de glace</p>
+    <p>pâte à sucre (rose, violet et noir)</p>
+    <p>cœur en sucre </p>
+    <p>sucre glace</p>
+    <p> </p>
+    <p>Pour le glaçage (crème au beurre pâtissier à la fraise) :</p>
+    <p>100 g de beurre tempéré</p>
+    <p>100 g de sucre en poudre très fine</p>
+    <p>2 jaunes d'œufs</p>
+    <p>200 g de lait</p>
+    <p>25 g de farine</p>
+    <p>sirop de fraise </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    A prévoir :
+    piques à brochette (pour faire tenir les tours au gâteau )
+    plat carré
+     Préchauffer votre four a 200°C (thermostat 6-7).Faire 2 gâteaux au yaourt et 5 petits roulés au chocolat pour les tours (ou les acheter tout fait).Une fois les roulés refroidis, faire des motifs sur chaque tour avec le stylo pâtissier marron. Couper les deux gâteaux en deux et fourrer l'un avec une crème stracciatella ou une crème pâtissière à la fraise et l'autre avec une mousse chocolat maison. Une fois fourrés, poser sur le premier le deuxième gâteau.
+    Pour le glaçage:
+    Commencer d’abord par préparer une crème pâtissière : faire bouillir le lait avec du sirop de fraise. Travaillez les jaunes d'œufs avec la farine, puis ajouter le lait chaud en mélangeant bien.
+    Remettre toute votre préparation dans la casserole et la faire cuire en tournant très soigneusement avec un fouet. Retirer du feu après ébullition et laisser refroidir votre crème de manière à ce qu’elle atteigne la température ambiante.A l’aide d’un fouet, travailler le beurre et le sucre pour obtenir un mélange blanc et léger. Puis, petit à petit, ajouter la crème pâtissière presque froide en mélangeant très soigneusement
+    Pour que votre crème au beurre réussisse, il faut que la crème pâtissière soit à la même température que votre beurre battu, à cette étape de la recette. Laisser refroidir un peu la crème au beurre, au réfrigérateur, avant de garnir votre gâteau. Ensuite, accrocher les tours au château avec les pique en bois. Sur votre plan de travail que vous avez parsemer de sucre glace étaler la pâte à sucre au rouleau et découper dedans les fenêtres et les portes vous pouvez aussi faire des escalier pour la tour et l'arrière du château etc ... Faire aussi des demi-cœur pour le tour du gâteau dans votre pâte. Pour finir parsemer de cœur en sucre sur tout le gâteau. Une fois fini, mettre au frigo.
+    Le jour j, mettre les cornets de glace sur les tours et avec le stylo rose faire des motifs.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  A <OPER id="o_1">prévoir</OPER> : piques à brochette ( pour <INGRED id="4">faire</INGRED> tenir les <INGRED id="6">tours</INGRED> au gâteau ) <INGRED id="9">plat</INGRED> <INGRED id="1">carré</INGRED> <OPER id="o_2">Préchauffer</OPER> votre four a 200 ° C ( thermostat 6 - <OPER id="o_3">7).Faire</OPER> 2 <INGRED id="1">gâteaux au yaourt</INGRED> et 5 <INGRED id="3">petits</INGRED> roulés au <INGRED id="6">chocolat</INGRED> pour les <INGRED id="4">tours</INGRED> ( ou les acheter tout fait).Une fois les roulés refroidis, <INGRED id="14">faire</INGRED> des motifs sur chaque tour avec le <INGRED id="4">stylo pâtissier</INGRED> marron. <OPER id="o_4">Couper</OPER> les <INGRED id="6">deux</INGRED> <INGRED id="1">gâteaux</INGRED> en <INGRED id="6">deux</INGRED> et <OPER id="o_5">fourrer</OPER> l'un avec une crème stracciatella ou une <INGRED id="2">crème pâtissière à la fraise</INGRED> et l'autre avec une mousse <INGRED id="9">chocolat</INGRED> maison. Une fois fourrés, <OPER id="o_6">poser</OPER> sur le premier le deuxième gâteau. Pour le glaçage : <OPER id="o_7">Commencer</OPER> d’ abord par <OPER id="o_8">préparer</OPER> une crème pâtissière : <INGRED id="14">faire</INGRED> <OPER id="o_9">bouillir</OPER> le <INGRED id="3">lait</INGRED> avec du <INGRED id="15">sirop de fraise</INGRED>. <OPER id="o_10">Travaillez</OPER> les <INGRED id="12">jaunes d'œufs</INGRED> avec la <INGRED id="13">farine</INGRED>, puis <OPER id="o_11">ajouter</OPER> le <INGRED id="3">lait chaud</INGRED> en mélangeant bien. <OPER id="o_12">Remettre</OPER> toute votre <INGRED id="4">préparation</INGRED> dans la casserole et la <INGRED id="10">faire</INGRED> <OPER id="o_13">cuire</OPER> en tournant très soigneusement avec un fouet. <OPER id="o_14">Retirer</OPER> du feu après ébullition et <INGRED id="12">laisser</INGRED> <OPER id="o_15">refroidir</OPER> votre <INGRED id="2">crème</INGRED> de manière à ce qu’ elle atteigne la température ambiante. A l’ aide d’ un fouet, <OPER id="o_16">travailler</OPER> le <INGRED id="3">beurre</INGRED> et le sucre pour obtenir un <INGRED id="7">mélange</INGRED> <INGRED id="5">blanc</INGRED> et léger. Puis, petit à petit, <OPER id="o_17">ajouter</OPER> la crème pâtissière presque froide en mélangeant très soigneusement Pour que votre crème au <INGRED id="6">beurre</INGRED> réussisse, il faut que la crème pâtissière soit à la même température que votre <INGRED id="8">beurre</INGRED> battu, à cette étape de la recette. Laisser <OPER id="o_18">refroidir</OPER> un <INGRED id="14">peu</INGRED> la crème au <INGRED id="10">beurre</INGRED>, au réfrigérateur, avant de <OPER id="o_19">garnir</OPER> votre gâteau. Ensuite, <OPER id="o_20">accrocher</OPER> les <INGRED id="4">tours</INGRED> au château avec les pique en bois. Sur votre plan de travail que vous avez <OPER id="o_21">parsemer</OPER> de <INGRED id="2">sucre glace</INGRED> <OPER id="o_22">étaler</OPER> la <INGRED id="7">pâte à sucre</INGRED> au rouleau et <OPER id="o_23">découper</OPER> dedans les fenêtres et les portes vous pouvez aussi <INGRED id="4">faire</INGRED> des escalier pour la tour et l'arrière du château etc... Faire aussi des demi-cœur pour le tour du gâteau dans votre <INGRED id="7">pâte</INGRED>. Pour finir <OPER id="o_24">parsemer</OPER> de <INGRED id="8">cœur en sucre</INGRED> sur tout le gâteau. Une fois fini, <OPER id="o_25">mettre</OPER> au frigo. Le jour j, <OPER id="o_26">mettre</OPER> les <INGRED id="6">cornets de glace</INGRED> sur les <INGRED id="6">tours</INGRED> et avec le <INGRED id="4">stylo</INGRED> rose <INGRED id="4">faire</INGRED> des motifs.
+  </annotation>
+  <annotation methode="crf">
+  A prévoir <INGRED>:</INGRED> piques à brochette ( pour faire tenir les tours au gâteau ) plat carré Préchauffer votre four <INGRED>a</INGRED> 200 ° C ( thermostat 6 - 7).Faire 2 gâteaux au <INGRED>yaourt</INGRED> et 5 <INGRED>petits</INGRED> roulés au <INGRED>chocolat</INGRED> pour les tours ( <INGRED>ou</INGRED> les acheter tout fait).Une fois les roulés refroidis <INGRED>,</INGRED> faire des motifs sur chaque tour avec le stylo pâtissier <INGRED>marron</INGRED> <INGRED>.</INGRED> Couper les <INGRED>deux</INGRED> gâteaux en <INGRED>deux</INGRED> et fourrer l'un avec une <INGRED>crème</INGRED> stracciatella <INGRED>ou</INGRED> une <INGRED>crème pâtissière</INGRED> à la fraise et l'autre avec une mousse <INGRED>chocolat</INGRED> maison <INGRED>.</INGRED> Une fois fourrés <INGRED>,</INGRED> poser sur le premier le deuxième gâteau. Pour le glaçage <INGRED>:</INGRED> Commencer d’ abord par préparer une <INGRED>crème</INGRED> pâtissière <INGRED>:</INGRED> faire bouillir le <INGRED>lait</INGRED> avec du <INGRED>sirop</INGRED> de fraise. Travaillez les <INGRED>jaunes d'œufs</INGRED> avec la <INGRED>farine</INGRED> <INGRED>,</INGRED> puis ajouter le <INGRED>lait</INGRED> chaud en mélangeant bien <INGRED>.</INGRED> Remettre toute votre préparation dans la casserole et la faire cuire en tournant très soigneusement avec un fouet. Retirer du feu après ébullition et laisser refroidir votre <INGRED>crème</INGRED> de manière à ce qu’ elle atteigne la température ambiante. A l’ aide d’ un fouet, travailler le <INGRED>beurre</INGRED> et le <INGRED>sucre</INGRED> pour obtenir un <INGRED>mélange</INGRED> <INGRED>blanc</INGRED> et léger. Puis <INGRED>,</INGRED> <INGRED>petit</INGRED> à <INGRED>petit</INGRED> <INGRED>,</INGRED> ajouter la <INGRED>crème</INGRED> pâtissière presque froide en mélangeant très soigneusement Pour que votre <INGRED>crème</INGRED> au <INGRED>beurre</INGRED> réussisse <INGRED>,</INGRED> il faut que la <INGRED>crème pâtissière</INGRED> soit à la même température que votre <INGRED>beurre</INGRED> battu <INGRED>,</INGRED> à cette étape de la recette. Laisser refroidir un peu la <INGRED>crème</INGRED> au <INGRED>beurre</INGRED> <INGRED>,</INGRED> au réfrigérateur <INGRED>,</INGRED> avant de garnir votre gâteau. Ensuite <INGRED>,</INGRED> accrocher les tours au château avec les pique en bois <INGRED>.</INGRED> Sur votre plan de travail que vous avez parsemer de <INGRED>sucre glace</INGRED> étaler la <INGRED>pâte</INGRED> à <INGRED>sucre</INGRED> au <INGRED>rouleau</INGRED> et découper dedans les fenêtres et les portes vous pouvez aussi faire des escalier pour la tour et l'arrière du château etc... Faire aussi des demi-cœur pour le tour du gâteau dans votre <INGRED>pâte</INGRED> <INGRED>.</INGRED> Pour finir parsemer de cœur en <INGRED>sucre</INGRED> sur tout le gâteau. Une fois fini <INGRED>,</INGRED> mettre au frigo <INGRED>.</INGRED> Le jour j <INGRED>,</INGRED> mettre les cornets de <INGRED>glace</INGRED> sur les tours et avec le stylo rose faire des motifs.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 13.2857142857143*X + 17.7142857142857</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 9*X + 19</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['gâteaux au yaourt', 'gâteaux']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['crème pâtissière à la fraise', 'crème']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['Mousse au chocolat', 'Mousse']	 id:3	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['stylo pâtissier', 'stylo']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['biscuits roulés', 'biscuits']	 id:5	 quantité:5	 unité:non_precis	 denombrable:True	 recipient:5*X
+ingredient:['cornets de glace', 'cornets']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['pâte à sucre', 'pâte']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['cœur en sucre', 'cœur']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sucre glace', 'sucre']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['beurre tempéré', 'beurre']	 id:10	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre en poudre très fine', 'sucre']	 id:11	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["jaunes d'œufs", 'jaunes']	 id:12	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['lait']	 id:13	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:14	 quantité:25	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sirop de fraise', 'sirop']	 id:15	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:prévoir	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préchauffer	 id:o_2	 ingrédients_ralatifs:['1', '3', '6', '4']	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:7).faire	 id:o_3	 ingrédients_ralatifs:['1', '3', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_4	 ingrédients_ralatifs:['6', '1', '6', '2', '9']	 nombre_opération_atomique:1+2*X+1+1+1	 temps:1*X*1+2*X*1+1*X*1+1*X*1+1*X*1	 recipient:1
+operation:fourrer	 id:o_5	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poser	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:commencer	 id:o_7	 ingrédients_ralatifs:['14', '3', '15']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparer	 id:o_8	 ingrédients_ralatifs:['14', '3', '15']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:bouillir	 id:o_9	 ingrédients_ralatifs:['14', '3', '15']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:travailler	 id:o_10	 ingrédients_ralatifs:['12', '13', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_11	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remettre	 id:o_12	 ingrédients_ralatifs:['4', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cuire	 id:o_13	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:retirer	 id:o_14	 ingrédients_ralatifs:['12', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_15	 ingrédients_ralatifs:['12', '2']	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:travailler	 id:o_16	 ingrédients_ralatifs:['3', '7', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_18	 ingrédients_ralatifs:['14', '10']	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:garnir	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:accrocher	 id:o_20	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:parsemer	 id:o_21	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étaler	 id:o_22	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:découper	 id:o_23	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:parsemer	 id:o_24	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_26	 ingrédients_ralatifs:['6', '6', '4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

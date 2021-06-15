@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27149">
+  <titre>Sauté de veau au citron et aux herbes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de veau</p>
+    <p>100 g de beurre</p>
+    <p>1 poignées d'olives vertes et noires</p>
+    <p>1/2 citron</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>1 bouquet de ciboulette</p>
+    <p>quelques feuilles d'estragon</p>
+    <p>3 brins de persil</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler finement le veau et enfariner les morceaux..
+    Les faire revenir dans une poêle avec de l’huile pendant 30 min.
+    Assaisonner et mouiller avec le jus du citron.
+    Parsemer d’herbes hachées, ajouter les olives et servir avec des pommes de terre rissolées au persil et au beurre.
+  ]]>
+  </preparation>
+</recette>

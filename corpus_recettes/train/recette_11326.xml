@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11326">
+  <titre>Bouchées à la reine Newburg</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 bouchées pâte feuilletée achetées dans le commerce</p>
+    <p>100 g de crevettes cuites décortiquées</p>
+    <p>25 g de petits pois cuits ou en conserve</p>
+    <p>15 cl de lait</p>
+    <p>3 cuillères à soupe de crème fraîche</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>25 g de beurre</p>
+    <p>1 pincée de muscade râpée</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole, faire fondre le beurre, y tourner la farine, puis, toujours en tournant, ajouter lait, crème, muscade, sel et poivre.
+    Faire épaissir. Ajouter crevettes et petits pois. 
+    Tenir au chaud.
+    Couper le petit couvercle des bouchées, les réchauffer 5 min au four.
+    Garnir chaque bouchée de la préparation et remettre le couvercle.
+    Servir aussitôt.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24072">
+  <titre>Charlotte à la mousse de chocolat au café</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>25 boudoirs</p>
+    <p>200 g de chocolat noir (minimum 50% de cacao)</p>
+    <p>50 g de sucre</p>
+    <p>5 oeufs</p>
+    <p>20 cl de café corsé</p>
+    <p>1 pincée de sel</p>
+    <p>20 cl de liqueur de caféPour la crème anglaise :</p>
+    <p>50 cl de lait</p>
+    <p>4 jaunes d'oeufs</p>
+    <p>1 gousse de vanille incisée</p>
+    <p>80 g de sucre</p>
+    <p>Pour le décor :</p>
+    <p>quelques grains de café</p>
+    <p>quelques cristaux de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer d'abord la mousse au chocolat et au café :
+    Mettre le chocolat en morceaux à fondre au bain-marie. Ajouter ensuite le café infusé et la liqueur. Battre séparément : le sucre avec les jaunes d'oeuf dans un bol, les blancs en neige avec une pincée de sel dans un autre, puis les incorporer délicatement au premier mélange chocolat-café.
+    Tapisser un moule à charlotte de biscuits puis le garnir de la mousse chocolat/café.
+    Couvrir la charlotte d'une assiette plate et réserver au frais pendant 12 h minimum.
+    Le lendemain, préparer la crème anglaise :
+    Porter le lait à ébullition avec la gousse de vanille incisée et grattée. Laisser infuser 5 min hors du feu et réserver.
+    Dans un saladier, battre les jaunes d'oeufs avec le sucre jusqu'à ce que le mélange blanchisse. Retirer la gousse de vanille du lait.
+    Verser ensuite le lait vanillé sur le mélange blanchi puis faire épaissir le tout à feu doux sans cesser de remuer.
+    Démouler la charlotte sur un plat de service, décorer le dessus en parsemant de grains de café puis entourer de crème anglaise.
+  ]]>
+  </preparation>
+</recette>

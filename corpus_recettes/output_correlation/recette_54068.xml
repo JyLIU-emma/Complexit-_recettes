@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54068">
+  <titre>Bûche de Noël Chocolat - Poires</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour le biscuit :</p>
+    <p>4 oeufs</p>
+    <p>115 g de sucre</p>
+    <p>120 g de farine</p>
+    <p>25 g d'amandes effilées</p>
+    <p>Pour la mousse chocolat :</p>
+    <p>4 oeufs</p>
+    <p>125 g de chocolat noir pâtissier</p>
+    <p>10 cl de crème fraîche (15 à 20%)Pour les poires :</p>
+    <p>3 poires de taille moyenne (William/Barlett)Pour la couverture :</p>
+    <p>100 g de chocolat noir pâtissier</p>
+    <p>8 à 12 cl de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mousse au chocolat :Séparer les jaunes des blancs d'œuf et monter ces derniers en neige ferme (5 min au batteur électrique), avec une pincée de sel.
+    Casser le chocolat en morceaux, pour le faire fondre dans un bol au micro-ondes (1 à 2 min puissance max, en remuant 2 ou 3 fois).Ajouter les jaunes d'œuf, en remuant vivement avec une fourchette (laisser tiédir un peu le chocolat fondu s'il est trop chaud, afin d'éviter de cuire les jaunes), puis la crème fraîche et mélanger jusqu'à obtention d'une ganache onctueuse.
+    Prélever 1/3 des blancs d'œufs et les incorporer délicatement à la préparation chocolatée, en remuant doucement avec une spatule en bois (ne pas "écraser" les blancs d'œufs, il faut être patient et les laisser se "dissoudre" dans le chocolat!).Transvaser ensuite dans le restant de blancs d'œufs et mélanger jusqu'à homogénéité, en essayant d'incorporer autant d'air que possible à chaque tour de cuillère. Couvrir d'un film plastic alimentaire et réserver au frigo.
+    Biscuit :Séparer les jaunes des blancs d'œuf et monter ces derniers en neige ferme (5 min au batteur électrique) avec une pincée de sel.
+    Blanchir les jaunes avec le sucre, puis incorporer la farine en pluie jusqu'a obtention d'une pâte assez compacte.
+    Ajouter les blancs d'œufs par petites quantités, en remuant avec consistance; la pate s'aère et prend peu à peu une consistance crémeuse.
+    Préchauffer le four à 180°C (Th 6). Aligner une plaque de four de 30×40cm (2cm d’épaisseur ou plus) avec du papier sulfurisé. Répartir les amandes effilées et verser la préparation du biscuit.
+    Enfourner et laisser cuire 10-12 min. De légères bulles doivent se former à la surface, indication que le biscuit est cuit; ne pas laisser brunir!Laisser refroidir le biscuit sur la plaque.
+    Montage de la bûche :Chemiser un moule à cake avec du film plastique, en prévoyant 10 cm de plus sur chaque côté. Sortir la mousse au chocolat du frigo.
+    Peler et écorer les poires, puis les couper en fines lamelles. 
+    A l’aide d’un couteau, découper 3 rectangles de biscuits de la taille du moule à cake (conserver les chutes, elles serviront à la décoration!). Placer le premier rectangle au fond, les amandes face à vous.
+    Etaler 2 grosses cuilllères de mousse au chocolat sur le biscuit et disposer 2 rangées de lamelles de poires, bien serrées les unes aux autres. Recouvrir de mousse au chocolat (même quantité) et poser le deuxième rectangle de biscuit, en pressant légèrement pour compacter l’étage inferieur. Répéter l’opération pour le deuxième étage et finir avec le 3ème rectangle de biscuit.
+    Rabattre les bords du film plastique et placer au frigo pour la nuit (ou au minimum 3 h).Glaçage et décoration :Pour le glaçage, casser le chocolat en morceaux et le faire fondre dans un bol au micro-ondes; laisser tiédir avant d’ajouter la crème fraîche.Démouler la bûche sur un plat de service. A l’aide d’une spatule ou d’un couteau large, recouvrir la bûche d’une couche de glaçage, puis strier la surface avec une fourchette.
+    Reste à décorer le gâteau ! Et là, laissez libre cours à votre imagination : champignons meringués, sucre glace, noix et fruits secs (éventuellement enrobées de chocolat noir ou blanc), pétales de roses en chocolat, sujets en massepain... Les restants de biscuit peuvent aussi être utilisés pour former une maisonnette (recouverte de glaçage pour la maintenir en place); les possibilités sont infinies!Réserver la bûche finie au frigo jusqu'au dernier moment.Recette un peu longue, mais à la portée de tous ! Et surtout, le résultat vaut l'effort fourni et ravira plus d'un convive !!
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <INGRED id="3">Mousse au chocolat</INGRED> : <OPER id="o_1">Séparer</OPER> les <INGRED id="3">jaunes</INGRED> des blancs d'<INGRED id="5">œuf</INGRED> et <OPER id="o_2">monter</OPER> ces derniers en neige ferme ( 5 min au batteur électrique ), avec une pincée de sel. <OPER id="o_3">Casser</OPER> le chocolat en <INGRED id="1">morceaux</INGRED>, pour le <INGRED id="4">faire</INGRED> fondre dans un bol au micro-ondes ( 1 à 2 min puissance max, en remuant 2 ou 3 <OPER id="o_4">fois).Ajouter</OPER> les jaunes d'œuf, en remuant vivement avec une fourchette ( laisser <OPER id="o_5">tiédir</OPER> un <INGRED id="4">peu</INGRED> le <INGRED id="3">chocolat</INGRED> fondu s'il est trop chaud, afin d'<OPER id="o_6">éviter</OPER> de <OPER id="o_7">cuire</OPER> les jaunes ), puis la crème fraîche et <OPER id="o_8">mélanger</OPER> jusqu'à obtention d'une ganache onctueuse. <OPER id="o_9">Prélever</OPER> 1/3 des <INGRED id="3">blancs d'œufs</INGRED> et les <OPER id="o_10">incorporer</OPER> délicatement à la <INGRED id="4">préparation</INGRED> chocolatée, en remuant doucement avec une spatule en bois ( ne pas " <OPER id="o_11">écraser</OPER> " les <INGRED id="1">blancs d'œufs</INGRED>, il faut être patient et les laisser se " <OPER id="o_12">dissoudre</OPER> " dans le chocolat!).Transvaser ensuite dans le restant de <INGRED id="1">blancs d'œufs</INGRED> et <OPER id="o_13">mélanger</OPER> jusqu'à homogénéité, en essayant d'<OPER id="o_14">incorporer</OPER> autant d'air que possible à chaque tour de <INGRED id="8">cuillère</INGRED>. <OPER id="o_15">Couvrir</OPER> d'un film plastic alimentaire et réserver au frigo. Biscuit : <OPER id="o_16">Séparer</OPER> les <INGRED id="7">jaunes</INGRED> des <INGRED id="6">blancs</INGRED> d'<INGRED id="3">œuf</INGRED> et <OPER id="o_17">monter</OPER> ces derniers en neige ferme ( 5 min au batteur électrique ) avec une pincée de <INGRED id="9">sel</INGRED>. <OPER id="o_18">Blanchir</OPER> les <INGRED id="8">jaunes</INGRED> avec le sucre, puis <OPER id="o_19">incorporer</OPER> la <INGRED id="2">farine</INGRED> en pluie jusqu'a obtention d'une <INGRED id="1">pâte</INGRED> assez compacte. <OPER id="o_20">Ajouter</OPER> les <INGRED id="1">blancs d'œufs</INGRED> par petites quantités, en remuant avec consistance ; la <INGRED id="7">pate</INGRED> s'aère et prend <INGRED id="10">peu</INGRED> à <INGRED id="10">peu</INGRED> une consistance crémeuse. <OPER id="o_21">Préchauffer</OPER> le four à 180 ° C ( Th 6 ). <OPER id="o_22">Aligner</OPER> une <INGRED id="6">plaque</INGRED> de four de 30×40 cm ( 2 cm d’ épaisseur ou plus ) avec du papier sulfurisé. <OPER id="o_23">Répartir</OPER> les amandes effilées et <OPER id="o_24">verser</OPER> la <INGRED id="4">préparation</INGRED> du biscuit. <OPER id="o_25">Enfourner</OPER> et laisser <OPER id="o_26">cuire</OPER> 10 - 12 min. De légères bulles doivent se former à la surface, indication que le biscuit est cuit ; ne pas laisser <OPER id="o_27">brunir!Laisser</OPER> <OPER id="o_28">refroidir</OPER> le biscuit sur la <INGRED id="6">plaque</INGRED>. Montage de la <INGRED id="3">bûche</INGRED> : <OPER id="o_29">Chemiser</OPER> un moule à cake avec du film plastique, en prévoyant 10 cm de plus sur chaque côté. <OPER id="o_30">Sortir</OPER> la mousse au <INGRED id="7">chocolat</INGRED> du frigo. <OPER id="o_31">Peler</OPER> et <OPER id="o_32">écorer</OPER> les <INGRED id="3">poires</INGRED>, puis les <OPER id="o_33">couper</OPER> en fines lamelles. A l’ aide d’ un <INGRED id="8">couteau</INGRED>, <OPER id="o_34">découper</OPER> 3 rectangles de <INGRED id="2">biscuits</INGRED> de la taille du moule à cake ( conserver les chutes, elles serviront à la décoration ! ). <OPER id="o_35">Placer</OPER> le premier rectangle au <INGRED id="8">fond</INGRED>, les <INGRED id="9">amandes</INGRED> face à vous. <OPER id="o_36">Etaler</OPER> 2 grosses cuilllères de mousse au <INGRED id="2">chocolat</INGRED> sur le biscuit et <OPER id="o_37">disposer</OPER> 2 rangées de lamelles de <INGRED id="1">poires</INGRED>, bien serrées les unes aux autres. <OPER id="o_38">Recouvrir</OPER> de mousse au <INGRED id="7">chocolat</INGRED> ( même quantité ) et <OPER id="o_39">poser</OPER> le deuxième rectangle de biscuit, en pressant légèrement pour compacter l’ étage inferieur. <OPER id="o_40">Répéter</OPER> l’ opération pour le deuxième étage et <OPER id="o_41">finir</OPER> avec le 3ème rectangle de biscuit. <OPER id="o_42">Rabattre</OPER> les bords du film plastique et <OPER id="o_43">placer</OPER> au frigo pour la nuit ( ou au minimum 3 h).Glaçage et décoration : Pour le glaçage, <OPER id="o_44">casser</OPER> le <INGRED id="7">chocolat</INGRED> en <INGRED id="2">morceaux</INGRED> et le faire <OPER id="o_45">fondre</OPER> dans un bol au micro-ondes ; laisser <OPER id="o_46">tiédir</OPER> avant d’ <OPER id="o_47">ajouter</OPER> la <INGRED id="8">crème fraîche</INGRED>. <OPER id="o_48">Démouler</OPER> la <INGRED id="3">bûche</INGRED> sur un <INGRED id="9">plat</INGRED> de service. A l’ aide d’ une spatule ou d’ un <INGRED id="8">couteau</INGRED> large, <OPER id="o_49">recouvrir</OPER> la <INGRED id="3">bûche</INGRED> d’ une couche de glaçage, puis <OPER id="o_50">strier</OPER> la surface avec une fourchette. Reste à <OPER id="o_51">décorer</OPER> le gâteau ! Et là, laissez libre cours à votre imagination : champignons meringués, <INGRED id="5">sucre glace</INGRED>, <INGRED id="2">noix</INGRED> et fruits secs ( éventuellement enrobées de <INGRED id="9">chocolat noir</INGRED> ou <INGRED id="10">blanc</INGRED> ), <INGRED id="7">pétales</INGRED> de roses en <INGRED id="3">chocolat</INGRED>, sujets en massepain... Les restants de biscuit peuvent aussi être utilisés pour former une maisonnette ( recouverte de glaçage pour la maintenir en place ) ; les possibilités sont <OPER id="o_52">infinies!Réserver</OPER> la <INGRED id="3">bûche</INGRED> finie au frigo jusqu'au dernier moment. Recette un <INGRED id="4">peu</INGRED> longue, mais à la portée de tous ! Et surtout, le résultat vaut l'effort fourni et ravira plus d'un convive ! !
+  </annotation>
+  <annotation methode="crf">
+  Mousse au <INGRED>chocolat</INGRED> <INGRED>:</INGRED> Séparer les <INGRED>jaunes</INGRED> des <INGRED>blancs d'œuf</INGRED> et monter ces derniers en neige ferme ( 5 min au batteur électrique ) <INGRED>,</INGRED> avec une pincée de <INGRED>sel</INGRED> <INGRED>.</INGRED> Casser le <INGRED>chocolat</INGRED> en <INGRED>morceaux</INGRED> <INGRED>,</INGRED> pour le faire fondre dans un bol au micro-ondes ( 1 à 2 min puissance max <INGRED>,</INGRED> en remuant 2 <INGRED>ou</INGRED> 3 fois).Ajouter les <INGRED>jaunes d'œuf</INGRED> <INGRED>,</INGRED> en remuant vivement avec une fourchette ( laisser tiédir un peu le <INGRED>chocolat fondu</INGRED> s'il est trop chaud <INGRED>,</INGRED> afin d'éviter de cuire les <INGRED>jaunes</INGRED> ) <INGRED>,</INGRED> puis la <INGRED>crème fraîche</INGRED> et mélanger jusqu'à obtention d'une ganache onctueuse. Prélever <INGRED>1/3</INGRED> des <INGRED>blancs d'œufs</INGRED> et les incorporer délicatement à la préparation chocolatée <INGRED>,</INGRED> en remuant doucement avec une spatule en bois ( ne pas " écraser " les <INGRED>blancs d'œufs</INGRED> <INGRED>,</INGRED> il faut être patient et les laisser se " dissoudre " dans le chocolat!).Transvaser ensuite dans le restant de <INGRED>blancs d'œufs</INGRED> et mélanger jusqu'à homogénéité <INGRED>,</INGRED> en essayant d'incorporer autant d'air que possible à chaque tour de cuillère <INGRED>.</INGRED> Couvrir d'un film <INGRED>plastic</INGRED> alimentaire et réserver au frigo <INGRED>.</INGRED> Biscuit <INGRED>:</INGRED> Séparer les <INGRED>jaunes</INGRED> des <INGRED>blancs d'œuf</INGRED> et monter ces derniers en neige ferme ( 5 min au batteur électrique ) avec une pincée de <INGRED>sel</INGRED> <INGRED>.</INGRED> Blanchir les <INGRED>jaunes</INGRED> avec le <INGRED>sucre</INGRED> <INGRED>,</INGRED> puis incorporer la <INGRED>farine</INGRED> en pluie jusqu'<INGRED>a</INGRED> obtention d'une <INGRED>pâte</INGRED> assez compacte <INGRED>.</INGRED> Ajouter les <INGRED>blancs d'œufs</INGRED> par petites quantités <INGRED>,</INGRED> en remuant avec consistance ; la pate s'aère et prend peu à peu une consistance crémeuse. Préchauffer le four à 180 ° C ( Th 6 ). Aligner une plaque de four de 30×40 <INGRED>cm</INGRED> ( 2 <INGRED>cm</INGRED> d’ épaisseur <INGRED>ou</INGRED> plus ) avec du <INGRED>papier sulfurisé</INGRED> <INGRED>.</INGRED> Répartir les <INGRED>amandes effilées</INGRED> et verser la préparation du biscuit. Enfourner et laisser cuire 10 - 12 min. De légères bulles doivent se former à la surface <INGRED>,</INGRED> indication que le biscuit est cuit ; ne pas laisser brunir!Laisser refroidir le biscuit sur la plaque <INGRED>.</INGRED> Montage de la bûche <INGRED>:</INGRED> Chemiser un moule à cake avec du film plastique <INGRED>,</INGRED> en prévoyant 10 <INGRED>cm</INGRED> de plus sur chaque côté <INGRED>.</INGRED> Sortir la mousse au <INGRED>chocolat</INGRED> du frigo <INGRED>.</INGRED> Peler et écorer les <INGRED>poires</INGRED> <INGRED>,</INGRED> puis les couper en fines lamelles. A l’ aide d’ un couteau <INGRED>,</INGRED> découper 3 rectangles de <INGRED>biscuits</INGRED> de la taille du moule à cake ( conserver les chutes <INGRED>,</INGRED> elles serviront à la décoration ! ). Placer le premier rectangle au <INGRED>fond</INGRED> <INGRED>,</INGRED> les <INGRED>amandes</INGRED> face à vous <INGRED>.</INGRED> Etaler 2 grosses cuilllères de mousse au <INGRED>chocolat</INGRED> sur le biscuit et disposer 2 rangées de <INGRED>lamelles</INGRED> de <INGRED>poires</INGRED> <INGRED>,</INGRED> bien serrées les unes aux autres <INGRED>.</INGRED> Recouvrir de mousse au <INGRED>chocolat</INGRED> ( même quantité ) et poser le deuxième rectangle de biscuit <INGRED>,</INGRED> en pressant légèrement pour compacter l’ étage inferieur. Répéter l’ opération pour le deuxième étage et finir avec le 3ème rectangle de biscuit. Rabattre les bords du film plastique et placer au frigo pour la nuit ( <INGRED>ou</INGRED> au minimum 3 h).Glaçage et décoration <INGRED>:</INGRED> Pour le glaçage <INGRED>,</INGRED> casser le <INGRED>chocolat</INGRED> en <INGRED>morceaux</INGRED> et le faire fondre dans un bol au micro-ondes ; laisser tiédir avant d’ ajouter la <INGRED>crème fraîche</INGRED> <INGRED>.</INGRED> Démouler la bûche sur un plat de service <INGRED>.</INGRED> A l’ aide d’ une spatule <INGRED>ou</INGRED> d’ un couteau large <INGRED>,</INGRED> recouvrir la bûche d’ une couche de glaçage <INGRED>,</INGRED> puis strier la surface avec une fourchette <INGRED>.</INGRED> Reste à décorer le gâteau ! Et là <INGRED>,</INGRED> laissez libre cours à votre imagination <INGRED>:</INGRED> <INGRED>champignons</INGRED> meringués <INGRED>,</INGRED> <INGRED>sucre glace</INGRED> <INGRED>,</INGRED> <INGRED>noix</INGRED> et <INGRED>fruits secs</INGRED> ( éventuellement enrobées de <INGRED>chocolat noir</INGRED> <INGRED>ou</INGRED> <INGRED>blanc</INGRED> ) <INGRED>,</INGRED> <INGRED>pétales de roses</INGRED> en <INGRED>chocolat</INGRED> <INGRED>,</INGRED> sujets en massepain... Les restants de biscuit peuvent aussi être utilisés pour former une maisonnette ( recouverte de glaçage pour la maintenir en place ) ; les possibilités sont infinies!Réserver la bûche finie au frigo jusqu'au dernier moment. Recette un peu longue <INGRED>,</INGRED> mais à la portée de tous ! Et surtout <INGRED>,</INGRED> le résultat vaut l'<INGRED>effort</INGRED> fourni et ravira plus d'un convive ! !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 106.333333333333*X + 67.6666666666667</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 11*X + 16</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['oeufs']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['sucre']	 id:2	 quantité:115	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:3	 quantité:120	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['amandes effilées', 'amandes']	 id:4	 quantité:25	 unité:g d'	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:5	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['chocolat noir pâtissier', 'chocolat']	 id:6	 quantité:125	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crème fraîche Pour les poires', 'crème']	 id:7	 quantité:10	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['poires de taille moyenne Pour la couverture', 'poires']	 id:8	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['chocolat noir pâtissier', 'chocolat']	 id:9	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:10	 quantité:8	 unité:cl de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:séparer	 id:o_1	 ingrédients_ralatifs:['3', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:monter	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:casser	 id:o_3	 ingrédients_ralatifs:['1', '4', '4', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fois).ajouter	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tiédir	 id:o_5	 ingrédients_ralatifs:['4', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:éviter	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:mélanger	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:prélever	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_10	 ingrédients_ralatifs:['4', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:écraser	 id:o_11	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dissoudre	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_13	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:incorporer	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:séparer	 id:o_16	 ingrédients_ralatifs:['7', '6', '3', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:monter	 id:o_17	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:blanchir	 id:o_18	 ingrédients_ralatifs:['8', '2', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_19	 ingrédients_ralatifs:['2', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_20	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préchauffer	 id:o_21	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:aligner	 id:o_22	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:répartir	 id:o_23	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_24	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfourner	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_26	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:brunir!laisser	 id:o_27	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_28	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:chemiser	 id:o_29	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:sortir	 id:o_30	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:peler	 id:o_31	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:120*X	 temps:1*X*1	 recipient:0
+operation:écorer	 id:o_32	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_33	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:découper	 id:o_34	 ingrédients_ralatifs:['8', '2']	 nombre_opération_atomique:3*X+1	 temps:3*X*1+1*X*1	 recipient:1
+operation:placer	 id:o_35	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:etaler	 id:o_36	 ingrédients_ralatifs:['2', '1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:disposer	 id:o_37	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:recouvrir	 id:o_38	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poser	 id:o_39	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:répéter	 id:o_40	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5*X	 recipient:0
+operation:finir	 id:o_41	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rabattre	 id:o_42	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_43	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:casser	 id:o_44	 ingrédients_ralatifs:['7', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fondre	 id:o_45	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:tiédir	 id:o_46	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_47	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:démouler	 id:o_48	 ingrédients_ralatifs:['3', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recouvrir	 id:o_49	 ingrédients_ralatifs:['8', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:strier	 id:o_50	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:décorer	 id:o_51	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:infinies!réserver	 id:o_52	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16251">
+  <titre>Pâtes 5P (Pomodoro, Parmezzano, Perzemolo, Pepe, Panna)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de pâtes</p>
+    <p>4 boîtes de tomates pelées, hachées</p>
+    <p>5 dl de crème fraîche épaisse</p>
+    <p>1 bouquet de persil haché</p>
+    <p>1 sachet de parmesan râpé</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les tomates, la crème, le persil haché, le parmesan et le poivre. Faire cuire à feu doux quelques minutes (le temps que le parmesan fonde un peu et que le persil se ramolisse un peu). 
+    Cuire les pâtes 'al dente'. Mélanger la sauce et les pâtes. Servir.
+     Chianti
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11354">
+  <titre>Tagliatelles au saumon frais</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de tagliatelles fraîches (de préférence)</p>
+    <p>1 beau filet de saumon frais (ou surgelé) coupé en dés</p>
+    <p>35 cl de crème fraîche</p>
+    <p>1 noix de beurre</p>
+    <p>sel, poivre, muscade</p>
+    <p>parmesan râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les pâtes à l'eau bouillante salée selon le temps indiqué sur le paquet.
+    Pendant ce temps, faire fondre le beurre dans une casserole et y ajouter la crème.
+    Quand la crème est bien chaude, y plonger les dés de saumon, ils doivent cuire à la chaleur de la crème.
+    Quand ils sont cuits (ils doivent se détacher), ajouter le sel, le poivre et la muscade moulue.
+    Egoutter les pâtes, les disposer dans un grand plat ronde et napper de crème au saumon.
+    Servir avec du parmesan.
+    C'est très nourissant et convient aussi comme plat principal (pour 4 personnes dans ce cas).
+  ]]>
+  </preparation>
+</recette>

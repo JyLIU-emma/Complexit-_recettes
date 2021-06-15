@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16138">
+  <titre>Petit gâteaux alsaciens</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de farine</p>
+    <p>300 g de sucre en poudre</p>
+    <p>2 pincée de sel (facultatif si on utilise du beurre salé)</p>
+    <p>250 g de beurre</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>250 g de poudre d'amande</p>
+    <p>2 oeufs + 1 jaune</p>
+    <p>le zeste d'un citron</p>
+    <p>2 cl de kirsch (facultatif)</p>
+    <p>25 g de cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Travailler la farine avec 250 g de sucre, les deux pincées de sel et le beurre légèrement fondu.
+    Ajouter le sucre vanillé, les amandes, les oeufs, le zeste et le kirsch.
+    Abaisser la pâte. Découper des formes de votre choix (à l'emporte-pièce, si vous en possédez un). Les déposer sur une plaque beurré.
+    Les dorer au blanc d'oeuf. Saupoudrer de cannelle et de sucre.
+    Enfourner et cuire à 180°C (thermstat 6) pendant 10 mn.
+    Servir tiède avec de la glace à la vanille. un Saint Veyrand blanc
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14272">
+  <titre>Salade de tortellini sauce verte</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de tortellini</p>
+    <p>1 courgette</p>
+    <p>2 branches de céleri</p>
+    <p>1 tomate pelée</p>
+    <p>1 cuillère à soupe de vinaigre balsamique</p>
+    <p>3 cuillères à soupe de vinaigre de vin blanc</p>
+    <p>12.5 cl de vin blanc sec</p>
+    <p>sel, poivre</p>
+    <p>5 cuillères à soupe d'huile d'olive</p>
+    <p>ciboulette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les pâtes dans une grande quantité d'eau salée. Couper la courgette, le céleri et la tomate en petits dés.
+    Préparer une vinaigrette avec les vinaigres, le vin, sel et poivre en mélangeant jusqu'à complète dissolution du sel. Incorporer l'huile progressivement. Ajouter les légumes.
+    Verser la vinaigrette sur les tortellini et laisser mariner au moins 2 heures.A moment de servir, parsemer la salade de ciboulette finement ciselée.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12290">
+  <titre>Rousquilles</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>7 oeufs</p>
+    <p>500g de farine</p>
+    <p>100g de cédrat confit</p>
+    <p>1 dl de lait</p>
+    <p>1 pincée de sel</p>
+    <p>1 sachet de levure chimique</p>
+    <p>3 c à soupe de miel</p>
+    <p>70 g de beurre</p>
+    <p>3 c à soupe d'anisette </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tamiser la farine et le sel dans une terrine. Casser 5 oeufs entiers plus 2 jaunes, ajouter 50 g de beurre en très petits morceaux, le miel et mélanger du bout des doigts.
+    Faire dissoudre la levure dans le lait diédi et verser sur la pâte avec les trois c à soupe d'anisette.
+    Ne pas trop pétrir avant d'incorporer le cédrat confit coupé en très petits dés.
+    Mélanger, faire une boule de la pâte et laisser lever 2 heures dans une jatte couverte d'un linge à température ambiante.
+    Préchauffer le four à 240°C.
+    Abaisser la pâte à 1 cm. d'épaisseur, la couper en lanière de 15 cm de long et les souder en forme de couronnes.
+    Avec le reste du beurre, beurrer et fariner légèrement une plaque à pâtisserie, y déposer les couronnes, mettre au four 10 mn puis baisser le thermostat à 180°C. et cuire encore 15 mn.
+    Pendant ce temps, verser le sucre glace sur les deux blancs d'oeufs restant, bien mélanger et napper les rousquilles encore tièdes.
+    Laisser sécher et durcir sur la plaque avant de servir.
+  ]]>
+  </preparation>
+</recette>

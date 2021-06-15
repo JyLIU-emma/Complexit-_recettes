@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12050">
+  <titre>Courgettes soufflées au coulis de tomates</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 courgettes moyennes coupées en rondelles </p>
+    <p>farine</p>
+    <p>chapelure</p>
+    <p>3 oeufs    </p>
+    <p>6 tomates pelées (fraîches ou en boîte)</p>
+    <p>thym, sel, poivre</p>
+    <p>1 sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les courgettes en tranches, les passer dans la farine le blanc d'oeuf et la chapelure. 
+    Préparer le coulis de tomate en faisant mijoter les tomates avec 1 cuillère à soupe d'huile d'olive, du thym, du sel, du poivre et le sucre.
+    Faire rissoler les courgettes et servir chaud accompagnées du coulis.
+    Peut être servi comme plat principal, avec un morceau de saumon. Côtes du Rhone
+  ]]>
+  </preparation>
+</recette>

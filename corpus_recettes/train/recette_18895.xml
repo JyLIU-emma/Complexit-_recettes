@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18895">
+  <titre>Croque monsieur Hawaiien</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 tranches de pain de mie</p>
+    <p>4 tranches de jambon blanc</p>
+    <p>8 tranches d'ananas en conserve</p>
+    <p>8 tranches de fromage spéciales hamburger</p>
+    <p>beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire griller les tranches de pain au grille-pain.
+     
+    Les beurrer. 
+    Déposer sur chacune une demi tranche de jambon. 
+    Puis une tranche d'ananas. 
+    Et enfin, une tranche de fromage spécial hamburger. 
+    Passer le tout au four déjà préchauffé à 200°C le temps que le fromage forme une bulle au niveau où la tranche d'ananas est trouée.
+    Idéal pour les gens pressés, fauchés et surtout pour les enfants...
+  ]]>
+  </preparation>
+</recette>

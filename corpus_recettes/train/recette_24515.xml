@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24515">
+  <titre>Crêpe Express</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>acheter des crêpes sarrasin toutes prêtes</p>
+    <p>1 sachet de gruyère râpé</p>
+    <p>des saucisses de type knack</p>
+    <p>Du bleu d'Auvergne</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre une crêpe sur une assiette. 
+    Etaler un peu de gruyère sur le milieu. 
+    Poser une saucisse. 
+    Ajouter des morceaux de Bleu d'Auvergne. 
+    Saler, poivrer.
+     
+    Rabattre les deux côtés de la crêpe sur le milieu. 
+    1 mn au micro-ondes et c'est prêt !
+    Sympa et Rapide. A faire lors de soirées entre amis, ça change de la pizza ou du grec...
+    Prix de revient: 5 € pour 4 personnes environ.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13154">
+  <titre>Spaghetti à la jamaicaine</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de spaghetti</p>
+    <p>400 g de beefsteak haché </p>
+    <p>1 tête d'ail</p>
+    <p>1 gros oignon </p>
+    <p>1 petite bouteille de ketchup</p>
+    <p>1 boite de mais égoutté</p>
+    <p>sel , poivre</p>
+    <p>1 petit piment</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte anti-adhésive faire revenir l'oignon dans de l'huile d'olive, puis la viande hachée. Rajouter ensuite l'ail écrasé, le mais, le ketchup, du sel et du poivre noir moulu.
+    Laisser mijoter à feu doux 15 ou 20 mn.
+    Faire cuire les spaghetti al dente. Les égoutter puis les mélanger à la préparation.
+    Assaisonner selon votre goût.
+    Ce plat simple semble un peu hors-normes, mais invitez des amis et vous verrez : satisfaciton garantie ! Bordeaux rouge
+  ]]>
+  </preparation>
+</recette>

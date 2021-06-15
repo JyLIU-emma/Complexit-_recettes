@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24709">
+  <titre>Soupe orientale à l'agneau, aux pois chiches et lentilles</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>275 g d'épaule d'agneau en morceaux</p>
+    <p>150 g de pois chiches précuits</p>
+    <p>150 g de lentilles</p>
+    <p>80 g de riz cuit</p>
+    <p>20 g de farine</p>
+    <p>1,25 l d'eau</p>
+    <p>1 petite boîte de concentré de tomate</p>
+    <p>2 oeufs</p>
+    <p>1 cuillère à café de poivre </p>
+    <p>2 cubes de bouillon</p>
+    <p>2 doses de safran</p>
+    <p>1 bouquet de persil</p>
+    <p>sel </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper la viande en morceaux.
+    Ciseler l'oignon et le placer dans une cocotte avec la viande, le concentré de tomate, les lentilles, le poivre, le safran, les cubes de bouillon et l'eau.
+    Porter à ébullition et laisser cuire 1 h 30 en retirant régulièrement l'écume qui se forme à la surface.
+    Ajouter le riz et les pois chiches.
+    Dans un bol, mélanger la farine avec un peu de bouillon. Verser le tout dans une casserole et y incorporer le persil haché. Faire mijoter pendant 15 minutes en remuant régulièrement et verser le tout dans le bouillon de gigot.
+    Battre les oeufs en omelette et les ajouter à la viande.
+    Servir la soupe avec les morceaux.
+  ]]>
+  </preparation>
+</recette>

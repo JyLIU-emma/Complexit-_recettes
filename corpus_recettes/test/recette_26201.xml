@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26201">
+  <titre>Tarte à l'oignon rapide</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>5 oignons</p>
+    <p>sel et poivre</p>
+    <p>20 cl de crème fraîche</p>
+    <p>2 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire suer les oignons émincés finement dans une poêle avec de l'huile, saler et poivrer.
+    Battre les oeufs avec la crème fraîche.
+    Lorsque les oignons ont blondi, ajouter hors du feu le mélange oeufs/crème.
+    Verser le tout sur la pâte brisée étalée dans un moule, faire cuire 30 min au four à 200°C (thermostat 6-7).
+  ]]>
+  </preparation>
+</recette>

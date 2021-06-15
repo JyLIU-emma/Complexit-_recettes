@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25140">
+  <titre>Poulet aux champignons et olives</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet</p>
+    <p>150 g de champignons</p>
+    <p>4 tomates</p>
+    <p>100 g d'olives vertes</p>
+    <p>3 échalotes</p>
+    <p>1 gousse d'ail</p>
+    <p>15 lc de vin blanc sec</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>1 cuillère à soupe de concentré de tomates</p>
+    <p>1 bouquet garni</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez, épépinez et concassez les tomates.
+    Emincez les champignons, ébouillantez les olives 2 min.
+    Faites dorer le poulet découpé en morceaux dans une cocotte avec l'huile.
+    Retirez-les une fois dorés et mettez-y les échalotes et l'ail hachés.
+    Laissez blondir et remettez le poulet.
+    Ajoutez les tomates, le concentré de tomates, le bouquet garni, sel et poivre.
+    Versez le vin blanc et laissez cuire 25 min.
+    Rajoutez les champignons et les olives.
+    Laissez cuire encore 15 min et servez.
+  ]]>
+  </preparation>
+</recette>

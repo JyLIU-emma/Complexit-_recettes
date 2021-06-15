@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27220">
+  <titre>Filets de poisson au four aux petits légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 filets de poisson (200 g chaque)</p>
+    <p>200 g de carottes</p>
+    <p>150 g de blancs de poireaux</p>
+    <p>5 à 10 cl de crème fraîche</p>
+    <p>80 g de beurre</p>
+    <p>1 citron</p>
+    <p>huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Râpez les carottes, émincez les poireaux finement.
+    Dans un plat à four beurré, alternez les légumes en couches, disposez quelques noisettes de beurre dessus, salez et poivrez.
+    Faites cuire 25 min au four à 180°C (thermostat 6).
+    Nappez les légumes de crème fraîche, posez les filets de poissons sur le tout.
+    Remettre quelques noisettes de beurre, du jus de citron et enfourner pour 15 min.
+    Vous pouvez utiliser le poisson de votre choix pour cette recette : lieu, colin, cabillaud, merlu, sole...
+  ]]>
+  </preparation>
+</recette>

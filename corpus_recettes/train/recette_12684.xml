@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12684">
+  <titre>Brochettes de porc à la banane</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 filet mignon de porc</p>
+    <p>2 bananes pas trop mures</p>
+    <p>8 tranches de lard fumé</p>
+    <p>1/2 poivron</p>
+    <p>Pour la marinade :</p>
+    <p>5 cuillères de vin blanc</p>
+    <p>2 cuillères d'huile d'olive</p>
+    <p>une pincée de quatre-épices</p>
+    <p>quelques gouttes de tabasco</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Une heure avant : Préparez la marinade en mélangeant ous les ingrédients. Faites mariner le filet mignon 1 h. 
+    Découpez les bananes en quatre. Enveloppez les tronçons de bananes de fines tranches de lard. Préparez quatre brochettes en alternant porc, banane et poivron.
+    Cuire 15 mn a four très chaud.
+    Ces brochettes se marient très bien avec du maïs grillé ou des tomates provençales.
+  ]]>
+  </preparation>
+</recette>

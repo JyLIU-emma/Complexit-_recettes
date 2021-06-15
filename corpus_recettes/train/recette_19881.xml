@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19881">
+  <titre>Crêpes farcies à la viande</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de viande hachée</p>
+    <p>50 g de lard de poitrine</p>
+    <p>1 petite boîte de concentré de tomate</p>
+    <p>tranches de pain de mie</p>
+    <p>1/2 verre de lait</p>
+    <p>3 échalotes</p>
+    <p>1 jaune d'oeuf</p>
+    <p>1 cuillère à café de farine</p>
+    <p>3 verres d'eau</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire des crêpes. 
+    Pour la farce : 
+    Faire cuire la viande hachée, y ajouter la mie de pain + 1/2 verre de lait + 2 échalotes + 1 jaune d'oeuf + sel et poivre. 
+    Remplir chaque crêpe avec un peu de farce et les rouler. 
+    Pour la sauce : 
+    Faire cuire 50 g de lard fumé haché + concentré de tomate + 1 cuillère à café de farine + 1 échalote + 3 verres d'eau. 
+    Couvrir les crêpes farcies de la sauce et faire cuire au four 10 mn à 180°C.
+  ]]>
+  </preparation>
+</recette>

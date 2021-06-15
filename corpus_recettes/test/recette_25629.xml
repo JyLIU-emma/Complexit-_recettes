@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25629">
+  <titre>Velouté glacé onctueux au concombre et au yaourt</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 gros concombre</p>
+    <p>3 oignons</p>
+    <p>100 g de fromage blanc</p>
+    <p>2 yaourts bulgares</p>
+    <p>45 cl d'eau (3 verres d'eau de 15 cl)</p>
+    <p>1 cuillère à soupe de ciboulette</p>
+    <p>quelques feuilles de menthe fraîches</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler, vider et hacher les 2/3 du concombre.
+    Peler et émincer les oignons puis les faire fondre dans une casserole légèrement huilée. Surveiller la cuisson afin d'éviter une trop forte coloration.
+    Verser le hachis de concombre dans la casserole avec 3 verres d'eau. Saler et poivrer, puis laisser mijoter 10 min à feu doux.
+    Laisser refroidir, puis mixer le contenu de la casserole avant d'y incorporer le fromage blanc et les yaourts.
+    Bien mélanger le tout, puis ajouter les herbes ciselées.
+    Détailler le 1/3 du concombre réservé en petits dés. Les disposer sur le dessus de la préparation avec les feuilles de menthe pour une belle présentation.
+  ]]>
+  </preparation>
+</recette>

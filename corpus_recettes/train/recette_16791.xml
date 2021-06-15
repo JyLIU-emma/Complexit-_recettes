@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16791">
+  <titre>Sandre au prosciutto</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 filets de sandre (700 g)</p>
+    <p>1 cuillère à café de sel</p>
+    <p>6 tranches (100 g) de prosciutto (jambon cru italien) ou d'un autre jambon cru</p>
+    <p>2 cuillères à soupe d'huile d'olive ou beurre</p>
+    <p>6 tomates</p>
+    <p>1 gousse d'ail</p>
+    <p>1 bouquet de feuilles de basilic</p>
+    <p>1/2 cuillère à café de sel</p>
+    <p>1/2 cuillère à café de poivre noir</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 175°C (thermostat 6). Saler les filets.
+    Mettre les filets l'un à côté de l'autre, 2 par 2, croisés (la queue de l'un à côté de la tête de l'autre). Les plier en rouleau régulier.
+    Enrouler le jambon autour de chacun des 2 rouleaux de poisson. Faire brunir le tout dans un peu d'huile ou de beurre, dans une poêle. Les mettre dans un plat, dans le four à mi-hauteur, jusqu'à ce qu'ils soient cuits à point (environ 15 min).Couper les tomates en morceaux. Peler et couper l'ail. Hacher grossièrement le basilic.
+    Frire les tomates et l'ail dans de l'huile ou du beurre, dans une poêle. Saler, poivrer et ajouter le basilic.
+    Couper les rouleaux de poisson en gros morceaux (5-6 cm de large) et servir avec les tomates.
+  ]]>
+  </preparation>
+</recette>

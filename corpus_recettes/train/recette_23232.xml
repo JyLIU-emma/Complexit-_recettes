@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23232">
+  <titre>Petits merlus en papillotte de Nadine</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 tomate</p>
+    <p>un poivron rouge</p>
+    <p>quelques lardons ou 4 tranches de bacon gras</p>
+    <p>2 oignons</p>
+    <p>4 petits merlus entiers</p>
+    <p>vin blanc (Savoie) </p>
+    <p>thym</p>
+    <p>huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir le poivron rouge et les oignons coupés en fines lamelles. 
+    Faire griller les lardons ou le bacon gras dans une poêle. 
+    Dans un grande feuille de papier aluminium (1 par personne) badigeonner d'huile d'olive, mettre un merlu nettoyé et étêté entouré de bacon ou avec les lardons, une bonne cuillère du mélange poivrons / oignons, une rondelle de tomate et un filet de vin blanc. 
+    Saupoudrer de thym et refermer hermétiquement. 
+    Cuire à four très chaud (Th 8, 240°C) pendant 20 mn. 
+    Servir accompagné d'un riz ou de pommes vapeur.
+    Ce plat très raffiné et très parfumé peut être fait avec des truites portion.
+    Attention à mettre assez de liquide pour que le poisson n'attache pas.
+    On peut utiliser du poisson congelé, il vaut mieux le dégeler avant ou prolonger le temps de cuisson. le même que dans la papillotte (blanc de savoie).
+  ]]>
+  </preparation>
+</recette>

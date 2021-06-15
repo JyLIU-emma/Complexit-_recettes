@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15491">
+  <titre>Gâteau aux châtaignes simple</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de purée de châtaignes</p>
+    <p>1/4 l de lait</p>
+    <p>7.5 g de sucre vanillé</p>
+    <p>125 g de sucre en poudre</p>
+    <p>4 blancs d'oeuf en neige</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la purée de châtaignes avec le lait, le sucre et le sucre vanillé.Faire cuire à petite ébullition pendant 15 min en remuant. Ajouter ensuite au mélange les blancs battus en neige.
+    Faire cuire au four (thermostat 5/6) au bain marie pendant 45 min.Servir avec une crème anglaise (indispensable) faite avec les 4 jaunes.
+    Le plus long dans cette recette, c'est d'éplucher les chataignes!
+  ]]>
+  </preparation>
+</recette>

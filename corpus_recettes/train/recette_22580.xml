@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22580">
+  <titre>Salade de champignons au thon simple</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de champignons de Paris bien frais</p>
+    <p>250 g de thon au naturel</p>
+    <p>150 g de crème fraîche épaisse</p>
+    <p>2 citrons</p>
+    <p>1 poignée de persil haché</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et émincer les champignons en lamelles. Les arroser avec le jus d'1/2 citron.
+    Egoutter le thon et le couper en morceaux. Mélanger avec les champignons.
+    Fouetter la crème avec le jus des citrons restants du sel, du poivre et le persil. Mélanger cette sauce avec les champignons et le thon. Servir bien frais.
+  ]]>
+  </preparation>
+</recette>

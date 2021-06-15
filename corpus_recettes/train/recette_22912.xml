@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22912">
+  <titre>Tarte simple aux légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>1 aubergine</p>
+    <p>1/2 poivron rouge</p>
+    <p>1/2 brocoli</p>
+    <p>2 gousses d'ail</p>
+    <p>1 oignon</p>
+    <p>crème fraîche</p>
+    <p>2 oeufs</p>
+    <p>fromage râpé</p>
+    <p>huile d'olive</p>
+    <p>moutarde</p>
+    <p>persil</p>
+    <p>basilic</p>
+    <p>herbes de Provence</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Cuire la pâte feuilletée (four 200°c - 10 mn). 
+    2) Couper le 1/2 poivron en petits cubes, l'ail et l'oignon. 
+    3) Faire revenir l'oignon et l'ail dans de l'huile d'olive et ajouter le poivron, sel, poivre, herbes - feu moyen - 10 mn. 
+    4) Couper de petits bouquets de brocoli et l'aubergine en cubes sans retirer la peau. 
+    5) Mettre le poivron - ail - oignon dans un bol - remettre de l'huile dans la poêle et ajouter le brocoli et l'aubergine, sel, poivre, herbes - feu doux - 10 mn avec couvercle. 
+    6) Dans un bol, mélanger 2 oeufs, crème fraîche, persil, basilic, fromage râpé, sel, poivre. 
+    7) Couvrir la pâte de moutarde (5-6 cuillères à café), répartir les poivrons, les autres légumes et les oeufs. 
+    8) Four 220-240°c - 20 à 30 mn
+  ]]>
+  </preparation>
+</recette>

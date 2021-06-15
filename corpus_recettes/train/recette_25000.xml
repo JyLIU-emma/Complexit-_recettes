@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25000">
+  <titre>Saumon en papillote provençale</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de filet de saumon frais</p>
+    <p>4 petites tomates</p>
+    <p>1 courgette</p>
+    <p>1 poivron jaune</p>
+    <p>sel, poivre, herbes de provence</p>
+    <p>huile d'olive</p>
+    <p>1 citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 220 °C.
+    Découpez le filet de saumon en 4 morceaux, et disposez-les dans 4 feuilles de papier alu.
+    Arrosez légèrement de jus de citron, puis salez et poivrez le saumon.
+    Découpez en dés les tomates, et en lamelles la courgette et le poivron.
+    Répartissez les légumes dans chacune des papillotes, avant de les saler et poivrer.
+    Arrosez le tout d'un filet d'huile d'olive, et ajoutez les herbes de provence.
+    Fermez les papillotes et enfournez-les pendant 30 minutes.
+    Servez avec du riz nature.
+    Avec la tomate, la courgette et le poivron jaune, vous obtenez un plat coloré, ce qui ne gâche rien ! Vin blanc sec
+  ]]>
+  </preparation>
+</recette>

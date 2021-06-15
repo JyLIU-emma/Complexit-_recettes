@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10817">
+  <titre>Feuilleté frais aux pommes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 pommes</p>
+    <p>pâte feuilletée</p>
+    <p>carré frais</p>
+    <p>2 cuillérée de miel d'accacia</p>
+    <p>1 pincée de gingembre</p>
+    <p>1 pincée de cannelle</p>
+    <p>1 pincée de muscade</p>
+    <p>1 jaune d'oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les pommes dans une poêle dans du beurre, saupoudrer légèrement de gingembre, cannelle, muscade.
+    Etaler et séparer en 2 la pâte feuilletée
+    Badigeonner avec du miel une moitié de pâte.
+    Diviser les 2 moitiés de pâte en 4, recouvrir les 4 moitiés de carré frais, puis de pommes.
+    Recouvrir les 4 premières moitiés des 4 autres en pressant les bords.
+    Mettre à four chaud (180°C - thermostat 6) pendant 20 min.
+  ]]>
+  </preparation>
+</recette>

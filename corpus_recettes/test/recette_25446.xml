@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25446">
+  <titre>Filets de daurade asiatique aux haricots noirs</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de filet de daurade</p>
+    <p>4 gousses d'ail </p>
+    <p>2 morceaux de gingembre </p>
+    <p>3 piments rouges </p>
+    <p>3 cuillères à soupe de haricots noirs </p>
+    <p>2 cuillères à soupe d'huile d’olive</p>
+    <p>1 1/2 cuillère à soupe d'alcool de riz </p>
+    <p>1 cuillère à soupe de sauce de soja</p>
+    <p>1 cuillère à café de vinaigre</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Piler l'ail et un morceau de gingembre. Ajouter le sel et le poivre.
+    Recouvrir  les filets de la pâte obtenue et réserver pendant 1 h.
+    Émincer l'autre morceau de gingembre et un piment rouge. Rincer les haricots noirs.
+    Dans un bol, mélanger l'huile, le vinaigre, la sauce de soja et l'alcool, et y placer le gingembre, le piment, les haricots noirs et le sel.
+    Mettre le poisson dans un plat et le recouvrir de sauce aux haricots noirs. Laisser tremper 10 min et faire cuire au bain-marie, pendant 30 min.
+  ]]>
+  </preparation>
+</recette>

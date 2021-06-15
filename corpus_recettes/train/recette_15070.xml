@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15070">
+  <titre>Boeuf aux courgettes et au cumin</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 steaks hachés</p>
+    <p>2 courgettes</p>
+    <p>2 cuillères à soupe de cumin</p>
+    <p>150 g de riz</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle, faites revenir les steaks hâchés, puis coupez-les en petits morceaux.
+    Ajoutez les courgettes coupées en fines lamelles. Salez, poivrez, rajoutez du cumin selon votre goût (n'ayez pas peur d'en mettre). Couvrez et laissez mijoter 20 mn.
+    Pendant ce temps, faites cuire du riz pour quatre personnes.
+    Une fois les deux préparations prêtes, mélangez-les et servez chaud.
+    C'est un délice! Mais n'ayez pas peur de mettre du cumin...
+  ]]>
+  </preparation>
+</recette>

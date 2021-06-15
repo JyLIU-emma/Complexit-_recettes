@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23821">
+  <titre>Soles au yaourt</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>4 petites soles</p>
+    <p>2 yaourts</p>
+    <p>1 jaune d'oeuf</p>
+    <p>1 citron</p>
+    <p>2 cuillères à soupe de chapelure</p>
+    <p>20 g de beurre</p>
+    <p>1/2 cuillère à café de noix de muscade</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Videz, nettoyez et essuyez les soles.
+    Dans un saladier, versez les yahourts, le jaune d'oeuf et le jus du citron préssé; salez, poivrez, ajoutez la noix de muscade et battez le tout à la fourchette.
+    Allumez le four (thermostat 6/180°C). Beurrez un plat et étalez-y les soles, puis nappez avec le contenu du saladier. Saupoudrez de chapelure.
+    Enfournez 10 mn.
+  ]]>
+  </preparation>
+</recette>

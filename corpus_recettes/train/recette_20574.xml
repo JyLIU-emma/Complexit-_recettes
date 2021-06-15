@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20574">
+  <titre>Moules gratinées au persil</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 kg de moules assez grosses</p>
+    <p>15 cl de vin blanc sec</p>
+    <p>1 oignon</p>
+    <p>30 g de beurre</p>
+    <p>5 brins de persil</p>
+    <p>sel, poivre</p>
+    <p>Pour la sauce :</p>
+    <p>50 g de beurre</p>
+    <p>50 g de farine</p>
+    <p>1/2 citron</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>10 cl de crème fraîche</p>
+    <p>1/2 bouquet de persil haché</p>
+    <p>3 cuillères à soupe de chapelure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Rincez les moule, grattez-les.
+    Faites suer l'oignon émincé dans une cocotte avec le beurre. Ajoutez le persil, le vin blanc, salez, poivrez. Faites ouvrir les moules à feu vif dans le mélange pendant 5 minutes.
+    Une fois les moules ouvertes, égouttez-les et décoquillez-les. Filtrez le jus de cuisson et réservez-le.
+    Préparez la sauce : dans une casserole, faites fondre le beurre à feu doux. Saupoudrez de farine et laissez cuire 5 minutes en remuant.
+    Ajoutez le jus de cuisson des moules et le jus du 1/2 citron. Laissez épaissir la sauce 10 minutes en remuant.
+    Retirez du feu et incorporez les jaunes d'oeufs et la crème fraîche.
+    Etalez les moules dans un plat allant au four, versez la sauce dessus. Saupoudrez de persil haché et de chapelure.
+    Faites gratiner 10 minutes au four à 200°C (thermostat 6-7).
+  ]]>
+  </preparation>
+</recette>

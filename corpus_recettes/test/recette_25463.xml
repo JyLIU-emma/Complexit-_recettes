@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25463">
+  <titre>Daurade gratinée au riz</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 filets de daurade</p>
+    <p>30 g de beurre</p>
+    <p>35 cl de sauce tomate</p>
+    <p>1 pincée de basilic frais</p>
+    <p>50 g de fromage râpé</p>
+    <p>200 g de riz</p>
+    <p>1 cube de bouillon</p>
+    <p>35 cl d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 240°C (thermostat 7).
+    Mettre le riz à cuire dans le bouillon à ébullition. L'égoutter et en tapisser un plat à gratin légèrement huilé.
+    Dans une poêle beurrée, faire revenir les filets 5 min de chaque côté.
+    Les déposer ensuite sur le tapis de riz, les napper de sauce tomate puis saupoudrer de basilic frais haché.
+    Parsemer ensuite de fromage râpé puis faire gratiner au four 15 min.
+  ]]>
+  </preparation>
+</recette>

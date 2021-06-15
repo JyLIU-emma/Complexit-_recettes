@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26673">
+  <titre>Salade d'avocat à l'orange</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 avocats</p>
+    <p>2 orange</p>
+    <p>1/2 oignon (moyen) </p>
+    <p>1 yaourt nature</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les avocats et les oranges, les couper en morceaux. 
+    Dans un saladier mélanger le yaourt, l'huile d'olive, l'oignon coupez en morceaux, le sel et le poivre. Puis ajouter les morceaux d'avocat et d'orange. 
+    Voilà ! la recette est finie.
+  ]]>
+  </preparation>
+</recette>

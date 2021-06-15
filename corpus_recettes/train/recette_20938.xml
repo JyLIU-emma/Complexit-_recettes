@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20938">
+  <titre>Salade composée au cervelas</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 pommes de terre cuites entières</p>
+    <p>2 cervelas</p>
+    <p>200 g de gouda</p>
+    <p>2 oeufs durs</p>
+    <p>1 botte de radis</p>
+    <p>1 oignon</p>
+    <p>2 tomates</p>
+    <p>1 gousse d'ail</p>
+    <p>quelques feuilles de salade verte</p>
+    <p>6 cuillères à soupe d'huile</p>
+    <p>2 cuillères à soupe de vinaigre de vin blanc</p>
+    <p>1 cuillère à café de moutarde</p>
+    <p>estragon haché</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez et coupez les pommes de terre en rondelles.
+    Coupez le cervelas en rondelles et le fromage en dés.
+    Rincez et découpez les radis en rondelles, pelez et coupez l'oignon en rondelles également. 
+    Mélangez tous ces ingrédients, versez-les dans un saladier tapissé de salade.
+    Préparez la sauce avec la gousse d'ail pressée, l'estragon, la moutarde, sel, poivre, huile et vinaigre.
+    Versez la sauce et mélangez délicatement.
+    Disposez les tomates et les oeufs durs en quartiers sur le tout et servez. 
+    Le gouda peut être remplacé par du gruyère, comté, emmenthal...
+  ]]>
+  </preparation>
+</recette>

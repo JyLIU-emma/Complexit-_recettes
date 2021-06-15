@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16115">
+  <titre>Alicuit</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>abats de canard ou d'oie (ailerons, cou, carcarcasse)</p>
+    <p>1 oignon</p>
+    <p>3 carottes (coupées en rondelles)</p>
+    <p>1 navet (coupé en tranche fines)</p>
+    <p>champignons secs (à faire tremper dans eau chaude)</p>
+    <p>1 petit sachet d'olives</p>
+    <p>5 pommes de terre</p>
+    <p>1 cuillère à soupe de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte, mettre la viande avec 1 cuillère à soupe de farine et remuer. Faire dorer la viande. Délayer ensuite avec un verre d'eau puis recouvrir d'eau chaude.
+    Pendant que la viande cuit, faire dorer oignon, carottes, navet,  dans une poële puis les ajouter dans la cocotte où cuit la viande. Y incorporer les champignons et leur jus, ainsi que les olives (sans le jus).Laisser cuire le tout pendant 1 heure. Rajouter les pommes de terre coupées en gros morceaux et finir de cuire jusqu'à la cuisson des pommes de terre.
+  ]]>
+  </preparation>
+</recette>

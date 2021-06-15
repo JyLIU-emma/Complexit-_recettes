@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165003">
+  <titre>Tajine d'agneau aux dattes et à la bière</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500g d'agneau </p>
+    <p>5 carottes</p>
+    <p>5 pommes de terre</p>
+    <p>2 oignons</p>
+    <p>10 dattes sechées</p>
+    <p>200g de champignons</p>
+    <p>50 cl de bière blonde</p>
+    <p>50 cl d'eau</p>
+    <p>2 cuillères a soupe de farine</p>
+    <p>1 cuillère a soupe d'épices (mélange d'épices tandori, curry, massala)</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une marmitte, faites revenir dans un peu de beurre les oignons émincés et les champignons.  Ajouter la viande en morceaux, la faire rissoler légèrement puis la soupoudrer de farine. Laisser mijoter 5 minutes.
+     
+      Verser la bière, l'eau, les épices, le sel, le poivre, et les dattes dénoyautées. Cuire a feu doux pendant 20 minutes en remuant de temps en temps.
+     
+      Ajouter les carottes coupées en rondelles et les pommes de terre coupées en 4. Laisser mijoter 30 minutes.   Servir dans un plat a tajine. Rouge
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Dans une marmitte, faites <OPER id="o_1">revenir</OPER> dans un peu de <INGRED id="1">beurre</INGRED> les oignons émincés et les champignons. <OPER id="o_2">Ajouter</OPER> la <INGRED id="2">viande</INGRED> en <INGRED id="1">morceaux</INGRED>, la <INGRED id="10">faire</INGRED> <OPER id="o_3">rissoler</OPER> légèrement puis la <OPER id="o_4">soupoudrer</OPER> de <INGRED id="4">farine</INGRED>. Laisser <OPER id="o_5">mijoter</OPER> 5 minutes. <OPER id="o_6">Verser</OPER> la <INGRED id="1">bière</INGRED>, l'<INGRED id="5">eau</INGRED>, les <INGRED id="6">épices</INGRED>, le <INGRED id="3">sel</INGRED>, le <INGRED id="5">poivre</INGRED>, et les <INGRED id="5">dattes</INGRED> dénoyautées. <OPER id="o_7">Cuire</OPER> a feu doux pendant 20 minutes en remuant de temps en temps. <OPER id="o_8">Ajouter</OPER> les <INGRED id="1">carottes</INGRED> <INGRED id="5">coupées</INGRED> en rondelles et les <INGRED id="3">pommes de terre</INGRED> <INGRED id="5">coupées</INGRED> en 4. Laisser <OPER id="o_9">mijoter</OPER> 30 minutes. Servir dans un plat a tajine. Rouge
+  </annotation>
+  <annotation methode="crf">
+  Dans une marmitte <INGRED>,</INGRED> faites revenir dans un peu de <INGRED>beurre</INGRED> les <INGRED>oignons émincés</INGRED> et les <INGRED>champignons</INGRED> <INGRED>.</INGRED> Ajouter la <INGRED>viande</INGRED> en <INGRED>morceaux</INGRED> <INGRED>,</INGRED> la faire rissoler légèrement puis la soupoudrer de <INGRED>farine</INGRED>. Laisser mijoter 5 minutes. Verser la <INGRED>bière</INGRED> <INGRED>,</INGRED> l'<INGRED>eau</INGRED> <INGRED>,</INGRED> les <INGRED>épices</INGRED> <INGRED>,</INGRED> le <INGRED>sel</INGRED> <INGRED>,</INGRED> le <INGRED>poivre</INGRED> <INGRED>,</INGRED> et les dattes dénoyautées <INGRED>.</INGRED> Cuire <INGRED>a</INGRED> feu doux pendant 20 minutes en remuant de temps en temps. Ajouter les <INGRED>carottes</INGRED> <INGRED>coupées</INGRED> en rondelles et les <INGRED>pommes de terre</INGRED> <INGRED>coupées</INGRED> en 4 <INGRED>.</INGRED> Laisser mijoter 30 minutes. Servir dans un plat <INGRED>a</INGRED> tajine <INGRED>.</INGRED> Rouge
+  </annotation>
+  <complexite>
+    <temps>f(X) = 7.25806451612903*X + 1.74193548387097</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 25*X + 10</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['agneau']	 id:1	 quantité:500	 unité:g d'	 denombrable:False	 recipient:1
+ingredient:['carottes']	 id:2	 quantité:5	 unité:non_precis	 denombrable:True	 recipient:5*X
+ingredient:['pommes de terre', 'pommes']	 id:3	 quantité:5	 unité:non_precis	 denombrable:True	 recipient:5*X
+ingredient:['oignons']	 id:4	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['dattes sechées', 'dattes']	 id:5	 quantité:10	 unité:non_precis	 denombrable:True	 recipient:10*X
+ingredient:['champignons']	 id:6	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['bière blonde', 'bière']	 id:7	 quantité:50	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['eau']	 id:8	 quantité:50	 unité:cl d'	 denombrable:False	 recipient:1
+ingredient:['soupe de farine', 'soupe']	 id:9	 quantité:2	 unité:cuillères a	 denombrable:True	 recipient:2*X
+ingredient:["soupe d'épices", 'soupe']	 id:10	 quantité:1	 unité:cuillère a	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:revenir	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['2', '1', '10', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rissoler	 id:o_3	 ingrédients_ralatifs:['10', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:soupoudrer	 id:o_4	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:verser	 id:o_6	 ingrédients_ralatifs:['1', '5', '6', '3', '5', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['1', '5', '3', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+]]>
+</operation_trouve>
+</recette>

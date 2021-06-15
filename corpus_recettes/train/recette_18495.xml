@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18495">
+  <titre>Gâteau au chocolat et aux poires</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de chocolat noir</p>
+    <p>3 oeufs entiers</p>
+    <p>150 g de beurre</p>
+    <p>150 g de sucre semoule</p>
+    <p>80 g de fécule</p>
+    <p>70 g de farine</p>
+    <p>2 cuillères à café de cannelle en poudre</p>
+    <p>1 pincée de sel</p>
+    <p>1 boîte de poires au sirop</p>
+    <p>2 cuillères à café de levure chimique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à thermostat 6 (180°C). 
+    Faire fondre le chocolat avec 2 cuillères à soupe d'eau. 
+    Dans un bol, mélanger la farine + la fécule +le sel + la levure + la cannelle. 
+    Travailler le beurre et le sucre pour obtenir un mélange blanc et crémeux puis incorporer les oeufs entiers, le chocolat tiédi et le mélange farine/fécule. 
+    Verser la pâte dans un moule à manquer. 
+    Répartir les poires égouttées. 
+    Enfourner et laisser cuire 40/45 min. 
+    Laisser refroidir, puis servir.
+  ]]>
+  </preparation>
+</recette>

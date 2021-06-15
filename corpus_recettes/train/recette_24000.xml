@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24000">
+  <titre>Cheese-cake à la fleur d'oranger</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de petits beurre</p>
+    <p>180 g de beurre</p>
+    <p>100 g sucre roux</p>
+    <p>1 à 2 cuillères à café de cannelle</p>
+    <p>1 kg de petits suisses</p>
+    <p>1 cuillère à café rase de sel</p>
+    <p>3 cuillères à soupe d'eau de fleur d'oranger</p>
+    <p>6 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ecrasez grssièrement les petits beurre : placez-les dans un torchon et passez le rouleau à pâtisserie dessus.
+    Faites fondre le beurre. Mélangez-le avec les petits beurre et la cannelle. Tassez ce mélange dans un moule rond à bords hauts type moule à manqué. Lissez bien la surface en tapotant avec le fond d'un verre.
+    Réservez au réfrigérateur.
+    Fouettez les petits suisses avec le sel, ajoutez-y les oeufs un à un. Rajoutez le sucre et l'eau de fleur d'oranger.
+    Fouettez encore au batteur puis versez dans le moule sur les petits beurres.
+    Faites cuire au four à 180°C-200°C (thermostat 6-7) pendant 50 min. Testez la consistance en piquant un couteau qui doit ressortir "sec". Réservez au frais jusqu'au service.
+    On peut remplacer les petits beurre par d'autres biscuits secs selon les goûts.
+  ]]>
+  </preparation>
+</recette>

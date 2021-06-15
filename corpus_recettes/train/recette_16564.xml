@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16564">
+  <titre>Tarte aux prunes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée toute faite</p>
+    <p>1 kg de prunes</p>
+    <p>1 cuillère à soupe de beurre mou pour le moule</p>
+    <p>100 g de sucre</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>3 oeufs</p>
+    <p>20 cl de crème fraîche (un petit berlingot) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Piquer le fond de la tarte après l'avoir mise dans un moule.
+    Mettre les demi-prunes sur le fond de la tarte.
+    Battre les oeufs avec le sucre, la farine et la crème.
+    Verser sur les prunes, et cuire 1/2 heure environ.
+    Très simple à réaliser et toujours réussi!
+  ]]>
+  </preparation>
+</recette>

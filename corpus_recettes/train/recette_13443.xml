@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13443">
+  <titre>Potée champenoise</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de lard de poitrine maigre demi-sel</p>
+    <p>500g de carré de porc demi-sel</p>
+    <p>1 chou pommé</p>
+    <p>4 carottes</p>
+    <p>4 navets</p>
+    <p>1 kg de pommes de terre à chair ferme.</p>
+    <p>8 saucisses</p>
+    <p>1 tranche épaisse de jambon fumé</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettez le lard et le carré à dessaler.
+    Faites bouillir le chou coupé en quatre, pendant 10mn. Egouttez-le.
+    Dans l'autocuiseur, cuisez le lard et le carré avec 3 litres d'eau. Fermez l'autocuiseur. 
+    Laissez bouillir pendant 15 mn à partir de la mise en pression.
+    Ajoutez ensuite carottes, navets et chou. Continuez la cuisson pendant 15mn à partir de la mise en pression.
+    Ajoutez enfin pommes de terre, saucisses et jambon fumé coupé en carrés. Salez légèrement et poivrez. Prolongez la cuisson de 12mn sous pression.
+    Versez le bouillon de la potée dans une soupière garnie de tranches de pain de campagne. La viande et les légumes seront présentés en même temps, mais à part, dans un plat creux.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12720">
+  <titre>Soupe de poissons au bouquet provençal</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 cubes de bouillon de volaille</p>
+    <p>500 g de filets de poisson en morceaux (rouget, bar, merlan)</p>
+    <p>100 g de crevettes fraîches</p>
+    <p>1 beau poireau coupé en fine julienne</p>
+    <p>2 tomates épépinées</p>
+    <p>2 oignons émincés</p>
+    <p>2 gousses d'ail écrasées</p>
+    <p>1 branche de fenouil</p>
+    <p>1 branche de céleri</p>
+    <p>1 écorce d'orange</p>
+    <p>thym, laurier</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>piment de Cayenne, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites revenir poireau, oignons et ail avec l'huile. Ajoutez tomates et fenouil et laissez cuire quelques minutes.
+    Versez le bouillon préparé (cubes et eau bouillante), incorporez thym, laurier, céleri, écorce d'orange et épices. Laissez frémir 15 mn.
+    Ajoutez le poisson et les crevettes, puis faites cuire encore 10mn.
+    Servez cette soupe mixée avec des croutons aillés.
+  ]]>
+  </preparation>
+</recette>

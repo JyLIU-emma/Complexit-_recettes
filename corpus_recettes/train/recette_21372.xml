@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21372">
+  <titre>Asperges à la sauce gribiche</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,5 kg d'asperges vertes</p>
+    <p>2 oeufs + 1 jaune</p>
+    <p>1 bouquet de persil</p>
+    <p>1 bouquet de cerfeuil</p>
+    <p>15 cl d'huile</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire 2 oeufs durs, 10 minutes à l'eau bouillante.
+    Grattez les asperges, faites-les cuire 25 minutes à la vapeur ou à l'eau bouillante salée. Sortez-les et laissez égoutter sur un torchon propre.
+    Ecalez les oeufs, écrasez-les et mélangez-les avec le jaune cru restant, le persil et le cerfeuil hachés. Salez et poivrez. Ajoutez progressivement l'huile en fouettant sans arrêt comme pour une mayonnaise.
+    Servez les asperges avec la sauce.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25054">
+  <titre>Dorade aux oranges</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>une dorade entière</p>
+    <p>un citron</p>
+    <p>une orange</p>
+    <p>un demi-verre de vin blanc</p>
+    <p>sel, poivre</p>
+    <p>aneth</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four Thermostat 7. 
+    Recouvrir un plat d'un long papier d'aluminium (qui va servir à faire une papillote). 
+    Garnir le papier aluminium de tranches de citron et de tranches d'oranges alternées. 
+    Mettre le poisson en entier et le recouvrir du reste des rondelles de citron et d'orange. 
+    Arroser du vin blanc et d'un bon filet d'huile d'olive. 
+    Saler, poivrer et parsemer d'aneth. 
+    Fermer la papillote et faire cuire au four une demi-heure. 
+    Servir au choix avec du riz ou autre (genre blé ou graine de couscous).
+    On pourrait aussi  bien prendre un autre poisson mais celui-ci n'est pas trop gros et sa chair est savoureuse ainsi. vin blanc
+  ]]>
+  </preparation>
+</recette>

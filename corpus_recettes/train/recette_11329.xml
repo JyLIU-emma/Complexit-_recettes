@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11329">
+  <titre>Mignons de poulet à la moutarde et à la crème</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de blancs de poulet</p>
+    <p>3 cuillères de moutarde mi-forte</p>
+    <p>200 g de crème épaisse</p>
+    <p>herbes de Provence</p>
+    <p>10 cl de vin blanc</p>
+    <p>sel, poivre</p>
+    <p>huile d'arachide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Badigeonnez les filets de poulet de moutarde et d'herbes de Provence.
+    Faites chauffer un peu d'huile dans une poêle, puis faîtes y cuire les filets de poulet, jusqu'à ce qu'ils soient légérement grillés (5 à 10 min). Assaisonnez.
+    Baissez le feu et glacez le tout au vin blanc (versez environ le vin blanc dans la poêle, laissez chauffer et évaporer un peu).
+    Ajoutez la crème, remuez légèrement et laissez chauffer. 
+    Quand la crème est chaude (et épaissie), servez avec du riz.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14737">
+  <titre>Oeufs à la tomate et chorizo</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 oeufs de petite taille</p>
+    <p>8 tomates </p>
+    <p>3 gousses d'ail</p>
+    <p>12 tranches de chorizo</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer l'ail et le faire revenir dans l'huile d'olive dans une poêle.
+    Ajouter les tomates et les faire fondre à feux doux pendant 10 mn. Remuer de temps en temps. 
+    Disposer les oeufs dans la poêle comme des oeufs au plat, puis le chorizo. Faire cuire pendant 6/7 mn. Saler et poivrer.
+  ]]>
+  </preparation>
+</recette>

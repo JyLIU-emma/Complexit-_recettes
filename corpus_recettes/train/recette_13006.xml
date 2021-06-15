@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13006">
+  <titre>Fondue savoyarde</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 éclat d'ail</p>
+    <p>50 cl de vin blanc sec</p>
+    <p>poivre blanc moulu</p>
+    <p>un peu de noix de muscade râpée</p>
+    <p>1 kg de fromage (coupé en petits dés) : 1/3 comté, 1/3 beaufort, 1/3 emmental</p>
+    <p>pain coupé en gros cubes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Frottez d'ail l'intérieur du caquelon, versez le vin et mettez sur feu moyen.
+    Arrivé à ébullition, ajoutez poivre et muscade... 
+    Ainsi que le fromage, par petites quantités, en tournant sans arrêt avec une spatule en bois jusqu'à ce que le fromage soit complètement fondu.
+    Allumez le réchaud, placez-y le caquelon et dégustez de suite.
+     vin blanc d'Alsace
+  ]]>
+  </preparation>
+</recette>

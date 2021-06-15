@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="8433">
+  <titre>Roulé nordique balsamique</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g d'épinards hachés surgelés</p>
+    <p>4 oeufs </p>
+    <p>6 carrés frais </p>
+    <p>4 belles tranches de saumon fumé </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les épinards puis les égoutter.
+    Mélanger les épinards aux oeufs préalablement battus en omelette.
+    Saler et poivrer.
+    Etaler cette préparation en couche fine sur du papier sulfurisé huilé directement dans la lèche-frite du four (en rectangle).
+    Cuire 15 min à four moyen.
+    Tartiner de carré frais puis ajouter les tranches de saumon fumé.
+    Rouler le tout en boudin et fermer avec un film alimentaire.
+    Laisser reposer au moins 1h au frigidaire.
+    Servir avec une vinaigrette au vinaigre balsamique : c'est un vrai délice et un succés assuré !
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">cuire</OPER> les <INGRED id="1">épinards</INGRED> puis les <OPER id="o_2">égoutter</OPER>. <OPER id="o_3">Mélanger</OPER> les <INGRED id="1">épinards</INGRED> aux oeufs préalablement battus en omelette. <OPER id="o_4">Saler</OPER> et <OPER id="o_5">poivrer</OPER>. <OPER id="o_6">Etaler</OPER> cette préparation en couche fine sur du papier sulfurisé huilé directement dans la lèche - frite du four ( en rectangle ). <OPER id="o_7">Cuire</OPER> 15 min à four moyen. <OPER id="o_8">Tartiner</OPER> de <INGRED id="4">carré frais</INGRED> puis <OPER id="o_9">ajouter</OPER> les tranches de <INGRED id="2">saumon fumé</INGRED>. <OPER id="o_10">Rouler</OPER> le tout en boudin et <OPER id="o_11">fermer</OPER> avec un film alimentaire. Laisser <OPER id="o_12">reposer</OPER> au moins 1h au frigidaire. Servir avec une <INGRED id="2">vinaigrette</INGRED> au <INGRED id="4">vinaigre balsamique</INGRED> : c'est un vrai délice et un succés assuré !
+  </annotation>
+  <annotation methode="crf">
+  Faire cuire les épinards puis les égoutter <INGRED>.</INGRED> Mélanger les épinards aux <INGRED>oeufs</INGRED> préalablement battus en omelette <INGRED>.</INGRED> Saler et poivrer. Etaler cette préparation en couche fine sur du papier sulfurisé huilé directement dans la lèche - frite du four ( en rectangle ). Cuire 15 min à four moyen <INGRED>.</INGRED> Tartiner de <INGRED>carré</INGRED> <INGRED>frais</INGRED> puis ajouter les tranches de <INGRED>saumon fumé</INGRED> <INGRED>.</INGRED> Rouler le tout en boudin et fermer avec un film alimentaire. Laisser reposer au moins 1h au frigidaire. Servir avec une <INGRED>vinaigrette</INGRED> au <INGRED>vinaigre</INGRED> balsamique <INGRED>:</INGRED> c'est un vrai délice et un succés assuré !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 11.2*X + 0.8</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 14*X + 6</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['épinards hachés surgelés', 'épinards']	 id:1	 quantité:600	 unité:g d'	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:2	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['carrés frais', 'carrés']	 id:3	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['saumon fumé', 'saumon']	 id:4	 quantité:4	 unité:tranches de	 denombrable:True	 recipient:4*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:cuire	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:égoutter	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:saler	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:etaler	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:cuire	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:tartiner	 id:o_8	 ingrédients_ralatifs:['4', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rouler	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fermer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:reposer	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11381">
+  <titre>Baguettines</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 petites baguettes (type déjeunette)</p>
+    <p>20 cl de sauce béchamel bien épaisse</p>
+    <p>1 cuillère à soupe de crème fraîche</p>
+    <p>75 g de gruyère râpé</p>
+    <p>250 g de lardons fumés</p>
+    <p>100 g de champignons</p>
+    <p>salami</p>
+    <p>sel, poivre et herbes de Provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les baguettes dans le sens de la longueur, puis enlevez la mie afin de pouvoir les garnir.
+    Faites les dorer dans votre four.
+    Pendant ce temps préparez la sauce béchamel puis ajoutez-y la crème fraîche, du gruyère rapé et l'assaisonnement.
+    Dans une poêle, faites revenir les lardons avec les champignons sans y mettre de matière grasse et rajoutez-les à la sauce.
+    Garnissez ensuite les baguettes de cette préparation puis disposez sur le dessus des lamelles de salami puis du gruyère râpé.Remettez les baguettines dans le four pendant environ 15 min à four chaud (200°)Servez accompagnées d'une salade verte (mâche, laitue, etc..).
+  ]]>
+  </preparation>
+</recette>

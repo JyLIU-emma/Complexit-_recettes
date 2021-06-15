@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25540">
+  <titre>Fondue Savoyarde sans alcool</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g de gruyère de montagne (ou Beaufort + emmenthal)</p>
+    <p>80 cl de vin blanc sec</p>
+    <p>8 pincées de poivre blanc</p>
+    <p>2 gousses d'ail</p>
+    <p>40 g de maïzena</p>
+    <p>10 cl de kirsch</p>
+    <p>1 pincée de noix de muscade</p>
+    <p>croûtons de pain</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Choisissez de préférence un récipient de terre cuite. Frottez-le à l'ail.
+    Faites fondre le fromage coupé en dés avec le vin blanc en remuant à l'aide d'une cuillère en bois jusqu'à ce que le mélange soit homogène.
+    Délayez la maïzena dans un peu d'eau et versez-la dans la fondue. Assaisonnez de sel, de poivre et de muscade puis laissez bouillir encore 1 minute avant de rajouter le kirsch.
+    Pour déguster, trempez les croûtons de pain dans la fondue.
+  ]]>
+  </preparation>
+</recette>

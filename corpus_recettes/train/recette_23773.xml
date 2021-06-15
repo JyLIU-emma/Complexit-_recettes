@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23773">
+  <titre>Tarte épinard chèvre raisins</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rouleau de pâte feuilletée</p>
+    <p>1 kg d'épinards</p>
+    <p>50 cl de crème fraîche</p>
+    <p>1 gousse d'ail</p>
+    <p>120 g de lardons</p>
+    <p>80 g de pignons de pin</p>
+    <p>80 g de raisins secs</p>
+    <p>200 g de chèvre en bûche</p>
+    <p>50 g de beurre</p>
+    <p>1 jaune d'oeuf</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (thermostat 7) et faire précuire la pâte 15 minutes.
+    Faire griller les pignons à sec dans une poêle puis réserver de côté. Faire dorer les lardons et couper le chèvre en rondelles.
+    Faire fondre les épinards dans le beurre puis cuire jusqu'à évaporation complète du jus de cuisson puis ajouter l'ail et les lardons, la crème, les pignons et les raisins.
+    Saler, poivrer.
+    Verser la préparation sur le fond de tarte précuit puis recouvrir de chèvre.
+    Enfourner pour 15 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

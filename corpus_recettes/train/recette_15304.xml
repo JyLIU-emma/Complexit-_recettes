@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15304">
+  <titre>Gâteau sucré à la courgette facile</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 verres de sucre</p>
+    <p>2 verres de farine</p>
+    <p>1 paquet de levure</p>
+    <p>1 paquet de sucre vanillé</p>
+    <p>6 œufs (blancs battus)</p>
+    <p>50 g de beurre</p>
+    <p>2 courgettes épluchées, épépinées, cuites, égouttées et écrasées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger tous les ingrédients et cuire au four à 180°C (thermostat 6) pendant 45 à 50 min.
+  ]]>
+  </preparation>
+</recette>

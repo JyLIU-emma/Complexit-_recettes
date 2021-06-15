@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23847">
+  <titre>Brochettes de Saint-Jacques et crevettes au bacon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 noix de Saint-Jacques sans corail</p>
+    <p>16 tranches fines de bacon</p>
+    <p>150 g de crevettes roses décortiquées</p>
+    <p>1/2 bouquet de persil</p>
+    <p>12 cl d'huile d'olive</p>
+    <p>8 cl de vin blanc sec</p>
+    <p>2 échalotes</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Escalopez les Saint-Jacques en deux dans l'épaisseur. Enroulez chaque moitié dans une tranche de bacon.
+    Enfilez-les sur les brochettes en alternant avec les crevettes.
+    Mélangez l'huile avec le vin blanc, les échalotes hachées finement et le persil haché. Salez et poivrez.
+    Faites mariner les brochette dans ce mélange pendant au moins 2 heures.
+    Faites cuire les brochettes 8 à 10 minutes sur le barbecue ou sous le grill, en les tournant régulièrement et en arrosant de marinade.
+    Servez avec la marinade réduite à feu doux.
+  ]]>
+  </preparation>
+</recette>

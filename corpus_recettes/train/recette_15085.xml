@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15085">
+  <titre>Galette de pommes de terre à la morue</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de morue cuite et dessalée</p>
+    <p>5/6 belles pommes de terre</p>
+    <p>2 gousses d'ail</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>3 cuillères à soupe d'huile tournesol</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher et laver les pommes de terre.
+    Dans un saladier, émietter la morue et mélanger avec l'huile d'olive, l'ail et le poivre.
+    Râper les pommes de terre et, sans les relaver, les presser dans un torchon propre pour extraire le maximum d'amidon. Mélanger avec la morue. Saler légèrement.
+    Former un galette compacte dans une poêle où vous aurez mis l'huile de tournesol. Faire cuire 5 mn. 
+    Retourner à l'aide d'une assiette et faire cuire à nouveau environ 5 mn.
+    Accompagnée d'une belle salade verte, c'est délicieux!!
+  ]]>
+  </preparation>
+</recette>

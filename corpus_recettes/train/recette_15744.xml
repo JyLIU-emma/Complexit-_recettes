@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15744">
+  <titre>Coquilles St Jacques aux petits légumes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>12 noix de coquilles St Jacques</p>
+    <p>50 g de beurre</p>
+    <p>100 g de carottes</p>
+    <p>50 g d'échalotes</p>
+    <p>100 g de blanc de poireaux</p>
+    <p>50 g de céleri en branche</p>
+    <p>50 cl de vin blanc</p>
+    <p>25 cl de fumet</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer finement tous les légumes, les faire suer dans le beurre puis mouiller avec le fumet de poisson et le vin blanc. Ajouter l'assaisonnement
+    et laisser cuire une dizaine de minutes.
+    Pour la cuisson, plonger les coquilles st Jacques dans le liquide en ébullition puis laisser frémir 2 à 3 min.
+    Dresser les coquilles dans les assiettes creuses en les répartissant équitablement sur les légumes, napper de jus de cuisson.
+  ]]>
+  </preparation>
+</recette>

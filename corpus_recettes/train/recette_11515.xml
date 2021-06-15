@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11515">
+  <titre>Poulet au fenouil</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet</p>
+    <p>5 fenouils</p>
+    <p>3 oignons</p>
+    <p>4 gousses d'ail</p>
+    <p>huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites revenir à l'huile les morceaux du poulet découpé. Salez, poivrez. Lorsqu'ils sont dorés, réservez-les.
+    Dans l'huile chaude, faites blondir les oignons coupés en rondelles, puis ajoutez les morceaux de poulet, ainsi que les fenouils, ébarbés
+    auparavant et découpés selon votre idée. 
+    Chauffez à petit feu une quarantaine
+    de minutes (10 min avant la fin : ajoutez l'ail écrasé).Excellent avec riz où pâtes. petit vin frais de pays.
+  ]]>
+  </preparation>
+</recette>

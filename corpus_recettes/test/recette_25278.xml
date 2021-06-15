@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25278">
+  <titre>Huîtres chaudes aux échalotes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>24 huîtres</p>
+    <p>2 échalotes</p>
+    <p>30 g de beurre</p>
+    <p>10 cl de crème fraîche épaisse</p>
+    <p>1 jaune d'oeuf</p>
+    <p>1 citron</p>
+    <p>poivre fraîchement moulu</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ouvrez et décoquillez les huîtres, filtrez l'eau rendue et réservez les coquilles inférieures. Remettez les huîtres dedans.
+    Hachez les échalotes, mettez-les dans une casserole avec le jus du citron, le beurre et l'eau des huîtres. Faites chauffer et réduire à feu vif.
+    Ajoutez la crème, remuez bien. Retirez du feu et ajoutez le jaune d'oeuf. Poivrez.
+    Versez la sauce dans les coquilles d'huîtres garnies, et passez 2 minutes sous le grill du four. Servez aussitôt.
+  ]]>
+  </preparation>
+</recette>

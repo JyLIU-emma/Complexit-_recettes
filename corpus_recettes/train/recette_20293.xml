@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20293">
+  <titre>Cocktail aux crevettes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 ananas de 600 g (ou la moitié d'une boîte)</p>
+    <p>300 g de crevettes décortiquées </p>
+    <p>6 crevettes</p>
+    <p>6 bâtons de surimi</p>
+    <p>2 endives</p>
+    <p>2 avocats</p>
+    <p>Pour la sauce :</p>
+    <p>1 yaourt 1/2 velouté</p>
+    <p>3 cuillères à soupe de mayonnaise</p>
+    <p>1 cuillère à café de moutarde</p>
+    <p>1 cuillère à café de ketchup</p>
+    <p>1 cuillère à soupe jus de citron</p>
+    <p>1 pincée de piment de Cayenne</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer le sauce en fouettant tous les ingrédients. Dans un saladier, mettre : 
+    Les morceaux d'ananas coupés en dés. 
+    Les crevettes décortiquées et coupées en deux. 
+    Les endives lavées et coupées en petites lamelles. 
+    Le surimi coupé en petites tranches. 
+    Les avocats coupés en morceaux. Napper de sauce et mettre au frais au moins une heure. Répartir dans des coupes et décorer d'une crevette. vin blanc type riesling
+  ]]>
+  </preparation>
+</recette>

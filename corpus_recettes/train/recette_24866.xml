@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24866">
+  <titre>Omelette parmesan et salami</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 œufs</p>
+    <p>120 g de salami coupé en tranches épaisses</p>
+    <p>2 cuillères à soupe de parmesan en poudre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler le salami en dés, puis les faire revenir dans une poêle antiadhésive bien chaude.
+    Pendant ce temps, battre les œufs en omelette avec un peu de sel et poivre, puis saupoudrer de parmesan.
+    Une fois la préparation bien homogène, la verser dans le poêle sur le salami, puis laisser l’omelette prendre.
+    La retourner à l’aide d’une spatule pour la faire dorer de l’autre côté.Servir tiède ou froid et accompagner d’une salade verte aux herbes.
+  ]]>
+  </preparation>
+</recette>

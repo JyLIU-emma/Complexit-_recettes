@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18505">
+  <titre>Salade de mâche à l'orange</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 salade de mâche très fraîche</p>
+    <p>2 oranges</p>
+    <p>1 bûche de chèvre</p>
+    <p>25 g de pignons de pin</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>1 cuillère de vinaigre</p>
+    <p>1 cuillère à café de moutarde forte</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver la mâche et bien l'essorer. Peler les oranges, les couper en rondelles au dessus d'une assiette creuse pour récupérer le jus. Couper ces rondelles en quartiers. 
+    Couper le chèvre de la même façon. Verser les morceaux d'oranges et de chèvre ainsi que les pignons sur la mâche. Confectionner une vinaigrette avec l'huile d'olive, le vinaigre, 1 cuillère de moutarde, sel et poivre, et y ajouter le jus des oranges.
+    Verser le tout sur la salade, puis mélanger juste au moment de servir.
+  ]]>
+  </preparation>
+</recette>

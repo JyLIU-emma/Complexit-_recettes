@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17033">
+  <titre>TARTE AUX POIVRONS</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 poivrons vert, 2 poivrons rouge, 2 poivrons jaune </p>
+    <p>6 oeufs</p>
+    <p>crème fraiche 125 g,</p>
+    <p>thym,herbe de provence</p>
+    <p>sel,poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les poivrons en morceaux. Battre les oeufs, incorporer et mélanger les herbes puis les poivrons et la crème fraîche.
+    Cuire 30 mn au four, thermostat 6/7
+    peler les poivron pour ceux qui ont du mal à digérer les poivrons   rosé
+  ]]>
+  </preparation>
+</recette>

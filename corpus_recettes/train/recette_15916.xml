@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15916">
+  <titre>Salade piémontaise (Italie)</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de pomme de terres</p>
+    <p>200 g de jambon en dés</p>
+    <p>200 g d'emmenthal en dés</p>
+    <p>6 oeufs </p>
+    <p>un petit pot de cornichons</p>
+    <p>un petit pot de mayonnaise</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les pommes de terre, puis les cuire dans de l'eau salée.
+    Une foie cuites, les égoutter puis atendre qu'elles soient froides.
+    Pendant ce temps, cuire les oeufs dans de l'eau. Une fois les pomme de terre et les oeufs refroidis, les éplucher puis les couper en dés.
+    Les placer dans un grand plat avec le jambon, l'emmenthal, les cornichon (coupés en rondelles) et la mayonnaise.
+    Si il n'y a pas assez de mayonnaise, en rajouter. Se mange très frais.
+  ]]>
+  </preparation>
+</recette>

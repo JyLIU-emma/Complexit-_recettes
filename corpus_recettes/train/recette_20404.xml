@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20404">
+  <titre>Fidget Pie</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg jambon saumuré</p>
+    <p>500 g pommes de terre</p>
+    <p>400 g oignons</p>
+    <p>400 g pommes fruits</p>
+    <p>250 ml cidre brut</p>
+    <p>poivre (mais pas de sel, le jambon est salé) </p>
+    <p>250 g pâte brisée</p>
+    <p>un peu de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Premier problème, il faut du jambon saumuré, mais pas cuit, très courant en Grande Bretagne. Je ne l'ai jamais trouvé en France, sauf à force de demander à un bon charcutier de le faire pour moi. 
+    Enlever la couenne et le gras du jambon, et coupez-le en morceaux assez petits. Pelez et coupez en tranches fines les pommes de terre, les oignons, et les pommes. Prenez une grande terrine en terre allant au four (type Baeckoffe) et mettez-y une couche de jambon, une de pommes et d'oignons, une de pommes de terre, et ainsi de suite, en finissant avec des pommes de terre. Assaisonnez avec le poivre entre les couches. Ajoutez le cidre. Abaissez la pâte, et coupez une fine tranche pour encercler le bord la terrine. Badigeonnez cette pâte avec un peu d'eau, puis couvrir la terrine avec la pâte, et scellez les bords. Avec les restes de la pâte faire des feuilles, fleurs, etc. pour décorer la pâte. Badigeonnez avec un peu de lait, pratiquez un petit trou au centre avec la pointe d'un couteau, et enfournez à Th 5 pendant 30 mn. Puis baissez le feu (Th 3 ) et continuez la cuisson pendant une heure.
+    Nota : On peut également faire ce plat avec les restes d'un jambon saumuré rôti ou poché (en Angleterre on sert ce dernier avec une béchamel au persil).Variation : quelquefois j'ajoute une branche de céléri finement hachée, et je mélange un peu de moutarde au cidre avant de l'ajouter. Du cidre !
+  ]]>
+  </preparation>
+</recette>

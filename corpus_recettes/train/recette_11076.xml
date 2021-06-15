@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11076">
+  <titre>Soupe de poisson</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>30 g de poisson  (type Sole ou Merlan)</p>
+    <p>1 carotte </p>
+    <p>1 pomme de terre</p>
+    <p>1 blanc de poireau</p>
+    <p>1 tomate</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Bien cuire le poisson à l'eau, prendre uniquement la chair et laisser à part.
+    Bien nettoyer les légumes, épluchez- les, puis coupez-les en petits morceaux, puis mettez-les avec 50 cl d'eau et sel à cuire dans une casserole.
+    Après la cuisson des légumes, ajoutez le poisson et passez le tout dans un mixer.On peut remplacer le poisson par la viande et ajouter dans ce cas du fromage blanc ou 1 cuillère à soupe de crème fraiche. Cette recette est nutritif pour un bébé de 5 mois.
+  ]]>
+  </preparation>
+</recette>

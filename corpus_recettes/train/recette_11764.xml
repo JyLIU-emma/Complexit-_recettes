@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11764">
+  <titre>Galettes de pommes de terre alsaciennes</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de pommes de terre</p>
+    <p>1 oignon</p>
+    <p>2 oeufs</p>
+    <p>10 cl d'huile</p>
+    <p>persil</p>
+    <p>sel, poivre</p>
+    <p>muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver, éplucher et râper les pommes de terre sur une râpe pas trop fine. Laisser égoutter dans une passoire.
+    Verser dans une terrine et et ajouter oeufs, oignon haché, persil haché, sel...
+    Malaxer et faire frire les galettes dans une poêle.
+  ]]>
+  </preparation>
+</recette>

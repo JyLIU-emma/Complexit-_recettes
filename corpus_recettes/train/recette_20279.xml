@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20279">
+  <titre>Flan impérial</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>90 cl de lait</p>
+    <p>125 g de sucre</p>
+    <p>4 oeufs + 2 jaunes</p>
+    <p>Le zeste râpé d'une mandarine</p>
+    <p>10 cl de jus d'une seconde mandarine</p>
+    <p>1 cuillère à soupe de rhum</p>
+    <p>Pour le décor :</p>
+    <p>50 g de noix grossièrement concassées</p>
+    <p>quelques quartiers de mandarines</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 160°C. Faire bouillir 200 g de sucre et 12 cl d'eau jusqu'à coloration du caramel. 
+    Le verser dans un moule à savarin en faisant tourner le moule pour enduire les bords, réserver. 
+    Faites chauffer le lait et le zeste de mandarine. Battre les oeufs et le sucre. Y ajouter le lait petit à petit puis le jus de mandarine et le rhum. 
+    Filtrer puis verser la préparation dans le moule et l'enfourner au bain-marie environ 35 mn. 
+    Laisser refroidir puis mettre au réfrigérateur au moins pendant 1 heure. 
+    Au moment de servir, décorer de quartiers de mandarines et de noix concassées.
+    Vous pouvez remplacer le rhum par une liqueur à l'orange.
+  ]]>
+  </preparation>
+</recette>

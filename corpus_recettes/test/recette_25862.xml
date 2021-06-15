@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25862">
+  <titre>Tarte au thon et au riz</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>1 bol de riz cuit</p>
+    <p>15 cl de sauce tomate</p>
+    <p>70 g de fromage râpé (gruyère, comté, emmenthal...)</p>
+    <p>1 petite boîte de thon</p>
+    <p>herbes et épices au choix</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Déroulez la pâte, foncez un moule à tarte et piquez-la à la fourchette. Faites-la cuire à blanc environ 10 min au four à 180°C (thermostat 6).
+    Réchauffez la sauce tomate en l'assaisonnant selon vos goûts.
+    Ajoutez le riz, 50 g de fromage et le thon égoutté et émietté.
+    Mélangez bien et versez le tout sur le fond de tarte.
+    Parsemez le reste de fromage râpé et enfournez pour 15 min au four à 200°C (thermostat 6-7).
+  ]]>
+  </preparation>
+</recette>

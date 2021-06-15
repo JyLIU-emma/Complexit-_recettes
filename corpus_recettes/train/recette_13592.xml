@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13592">
+  <titre>Tourtons savoyards</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de farine</p>
+    <p>150 g de beurre</p>
+    <p>100 g de crème fraîche</p>
+    <p>3 œufs</p>
+    <p>1 purée de pommes de terre</p>
+    <p>1 pincée de sel</p>
+    <p>2 échalotes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les échalotes dans du beurre et les incorporer à une purée de pommes de terre préalablement préparée.Pétrir la farine, le beurre, la crème fraîche, les œufs et le sel. Étendre la pâte finement. La garnir de petites mottes de purée et recouvrir avec le restant de pâte.Découper les tourtons avec une roulette et frire à l'huile très chaude.
+    Accompagner avec une salade verte.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24112">
+  <titre>Tarte tatin de légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 courgette</p>
+    <p>3 poivrons de couleurs différentes</p>
+    <p>1 oignon</p>
+    <p>2 tomates</p>
+    <p>1/2 aubergine</p>
+    <p>un peu d'huile d'olive</p>
+    <p>sel et poivre</p>
+    <p>herbes de Provence (facultatif)</p>
+    <p>50 g de parmesan environ</p>
+    <p>1 pâte brisée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver tous les légumes, puis les émincer.
+    Les faire revenir dans de l'huile d'olive à feu moyen, pendant environ 20 min. Au 3/4 de la cuisson, assaisonner et ajouter les herbes.
+    Préchauffer le four à 210°C.Garnir le fond d'un moule à tarte de papier sulfurisé, puis étaler les légumes par-dessus et tasser à l'aide d'une cuillère ou autre,de façon à ce que le dessus soit à peu près plat.
+    Saupoudrer un peu partout de parmesan et mettre la pâte brisée par-dessus. Rentrer les bords à l'intérieur du plat. Piquer et enfourner pour environ 30 mn, jusqu'à ce que la pâte soit cuite.A la sortie du four, retourner la tarte sur un plat et servir chaud.Tous ces légumes sont 'facultatifs': on peut, selon les goûts, mettre moins de poivrons et plus d'oignons, ou ne pas mettre d'aubergine... au choix!
+  ]]>
+  </preparation>
+</recette>

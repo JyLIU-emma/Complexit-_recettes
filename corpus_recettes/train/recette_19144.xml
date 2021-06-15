@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19144">
+  <titre>Tarte au thon light</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>200 g de fromage blanc battu</p>
+    <p>250 g de thon en boîte à l'eau salée</p>
+    <p>1 petit oignon</p>
+    <p>un petit bouquet de persil</p>
+    <p>1 cuillère à café de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etendez la pâte, disposez dans un moule et piquez-la avec une fourchette.
+    Emiettez le thon dans un bol et ajoutez le fromage blanc battu. 
+    Hachez les oignons et le persil et ajoutez à la préparation. 
+    Assaisonner à votre goût et ajouter la cuillère à café de farine. 
+    Mélangez le tout et disposez sur la pâte.
+    Enfournez à 220°C (thermostat 7) pendant 30 mn environ et servez chaud.
+    Servi avec une petite salade c'est un régal sans trop de calories.
+  ]]>
+  </preparation>
+</recette>

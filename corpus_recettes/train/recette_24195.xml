@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24195">
+  <titre>Boulettes de veau au parmesan, sauce tomate au basilic</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de veau haché</p>
+    <p>2 gousses d'ail</p>
+    <p>20 g de parmesan râpé</p>
+    <p>2 oeufs</p>
+    <p>2 cuillères à soupe de persil haché</p>
+    <p>500 g de tomates</p>
+    <p>1 oignon</p>
+    <p>6 feuilles de basilic</p>
+    <p>6 cuillères à soupe d'huile d'olive</p>
+    <p>30 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher l'ail et le mélange au persil et à la viande. Ajouter le parmesan et les oeufs battus.
+    Façonner des boulettes de viande.
+    Concasser les tomates et hacher l'oignon. Les faire suer dans 3 cuillères à soupe d'huile pendant 30 minutes jusqu'à obtention d'une sauce épaisse.
+    Saler, poivrer, ajouter le basilic ciselé.
+    Faire revenir les boulettes dans le reste d'huile et le beurre jusqu'à ce qu'elles soient uniformément dorées.
+    Disposer les boulettes dans la sauce.
+  ]]>
+  </preparation>
+</recette>

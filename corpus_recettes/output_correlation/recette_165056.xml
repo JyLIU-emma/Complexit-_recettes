@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165056">
+  <titre>Cotriade de Saint-Jacques</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>16 coquilles Saint-Jacques</p>
+    <p>100 g d'oignon</p>
+    <p>50 g de céleri en branche</p>
+    <p>200 g de carottes</p>
+    <p>200 g de poireau</p>
+    <p>300 g de pommes de terre</p>
+    <p>1 cuillère d'huile, une noix de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ouvrir les Saint-Jacques, garder les barbes et le corail (ce qu'on ne mange pas d'habitude), bien laver les barbes pour éliminer le sable, détacher les noix (le muscle blanc) et mettre ces noix à part.
+    Faire bouillir doucement toutes les barbes et le corail dans un demi litre d'eau salée pendant une demi heure au moins. Eplucher les légumes et les couper en rondelles fines
+    Une fois le bouillon de barbes démarré, faire dorer dans une cocotte  l'oignon en tranches dans l'huile et le beurre, puis y ajouter le céleri, le poireau, les carottes, les pommes de terre, baisser le feu et laisser mijoter 20 min.
+    Dix minutes avant de servir, filtrer le bouillon de barbes, jeter les barbes et verser le bouillon sur les légumes, on doit obtenir une soupe épaisse.
+    Deux minutes avant de servir, ajouter les noix de Saint-Jacques à la préparation. Poivrer. Pincée de persil.Conseiller aux convives de ne pas laisser les noix de Saint-Jacques continuer à cuire dans leur assiette , il vaut mieux les servir en deux fois.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Ouvrir</OPER> les Saint-Jacques, <OPER id="o_2">garder</OPER> les barbes et le corail ( ce qu'on ne mange pas d'habitude ), bien <OPER id="o_3">laver</OPER> les barbes pour éliminer le sable, <OPER id="o_4">détacher</OPER> les <INGRED id="3">noix</INGRED> ( le muscle <INGRED id="1">blanc</INGRED> ) et <OPER id="o_5">mettre</OPER> ces noix à part. Faire <OPER id="o_6">bouillir</OPER> doucement toutes les barbes et le corail dans un <INGRED id="2">demi</INGRED> <INGRED id="1">litre</INGRED> d'<INGRED id="4">eau</INGRED> salée pendant une <INGRED id="2">demi</INGRED> heure au moins. <OPER id="o_7">Eplucher</OPER> les légumes et les <OPER id="o_8">couper</OPER> en rondelles fines Une fois le bouillon de barbes démarré, faire <OPER id="o_9">dorer</OPER> dans une cocotte l'<INGRED id="4">oignon</INGRED> en <INGRED id="4">tranches</INGRED> dans l'huile et le <INGRED id="4">beurre</INGRED>, puis y <OPER id="o_10">ajouter</OPER> le <INGRED id="6">céleri</INGRED>, le <INGRED id="5">poireau</INGRED>, les <INGRED id="2">carottes</INGRED>, les <INGRED id="2">pommes de terre</INGRED>, <OPER id="o_11">baisser</OPER> le feu et laisser <OPER id="o_12">mijoter</OPER> 20 min. Dix minutes avant de servir, <OPER id="o_13">filtrer</OPER> le <INGRED id="2">bouillon</INGRED> de barbes, <OPER id="o_14">jeter</OPER> les barbes et <OPER id="o_15">verser</OPER> le <INGRED id="2">bouillon</INGRED> sur les légumes, on doit obtenir une <INGRED id="4">soupe</INGRED> épaisse. Deux minutes avant de servir, <OPER id="o_16">ajouter</OPER> les noix de Saint-Jacques à la <INGRED id="4">préparation</INGRED>. <OPER id="o_17">Poivrer</OPER>. Pincée de persil. <OPER id="o_18">Conseiller</OPER> aux convives de ne pas laisser les noix de Saint-Jacques <OPER id="o_19">continuer</OPER> à <OPER id="o_20">cuire</OPER> dans leur assiette, il vaut mieux les servir en deux fois.
+  </annotation>
+  <annotation methode="crf">
+  Ouvrir les Saint-Jacques <INGRED>,</INGRED> garder les <INGRED>barbes</INGRED> et le <INGRED>corail</INGRED> ( ce qu'on ne mange pas d'habitude ) <INGRED>,</INGRED> bien laver les barbes pour éliminer le sable <INGRED>,</INGRED> détacher les <INGRED>noix</INGRED> ( le muscle <INGRED>blanc</INGRED> ) et mettre ces <INGRED>noix</INGRED> à part <INGRED>.</INGRED> Faire bouillir doucement toutes les <INGRED>barbes</INGRED> et le <INGRED>corail</INGRED> dans un <INGRED>demi</INGRED> litre d'<INGRED>eau</INGRED> salée pendant une <INGRED>demi</INGRED> heure au moins. Eplucher les <INGRED>légumes</INGRED> et les couper en rondelles fines Une fois le <INGRED>bouillon de barbes</INGRED> démarré <INGRED>,</INGRED> faire dorer dans une cocotte l'<INGRED>oignon</INGRED> en tranches dans l'<INGRED>huile</INGRED> et le <INGRED>beurre</INGRED> <INGRED>,</INGRED> puis y ajouter le <INGRED>céleri</INGRED> <INGRED>,</INGRED> le <INGRED>poireau</INGRED> <INGRED>,</INGRED> les <INGRED>carottes</INGRED> <INGRED>,</INGRED> les <INGRED>pommes de terre</INGRED> <INGRED>,</INGRED> baisser le feu et laisser mijoter 20 min. Dix minutes avant de servir <INGRED>,</INGRED> filtrer le <INGRED>bouillon de barbes</INGRED> <INGRED>,</INGRED> jeter les <INGRED>barbes</INGRED> et verser le <INGRED>bouillon</INGRED> sur les <INGRED>légumes</INGRED> <INGRED>,</INGRED> on doit obtenir une soupe épaisse <INGRED>.</INGRED> Deux minutes avant de servir <INGRED>,</INGRED> ajouter les <INGRED>noix</INGRED> de Saint-Jacques à la préparation <INGRED>.</INGRED> Poivrer. Pincée de <INGRED>persil</INGRED> <INGRED>.</INGRED> Conseiller aux convives de ne pas laisser les <INGRED>noix</INGRED> de Saint-Jacques continuer à cuire dans leur assiette <INGRED>,</INGRED> il vaut mieux les servir en <INGRED>deux</INGRED> fois.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 19.2173913043478*X + 6.78260869565217</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 17*X + 11</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['coquilles Saint-Jacques', 'coquilles']	 id:1	 quantité:16	 unité:non_precis	 denombrable:True	 recipient:16*X
+ingredient:['oignon']	 id:2	 quantité:100	 unité:g d'	 denombrable:False	 recipient:1
+ingredient:['de céleri en branche']	 id:3	 quantité:50	 unité:g	 denombrable:False	 recipient:1
+ingredient:['carottes']	 id:4	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['poireau']	 id:5	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['pommes de terre', 'pommes']	 id:6	 quantité:300	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['huile']	 id:7	 quantité:1	 unité:cuillère d'	 denombrable:True	 recipient:1*X
+ingredient:['noix de beurre', 'noix']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:ouvrir	 id:o_1	 ingrédients_ralatifs:['3', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garder	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:laver	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:détacher	 id:o_4	 ingrédients_ralatifs:['3', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:bouillir	 id:o_6	 ingrédients_ralatifs:['2', '1', '4', '2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:eplucher	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:dorer	 id:o_9	 ingrédients_ralatifs:['4', '4', '4', '6', '5', '2', '2']	 nombre_opération_atomique:1+1+1+1+1+1+1	 temps:1*X*1+1*X*1+1*X*1+1*X*1+1*X*1+1*X*1+1*X*1	 recipient:0
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:['6', '5', '2', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:baisser	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:filtrer	 id:o_13	 ingrédients_ralatifs:['2', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:jeter	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_15	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_16	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:conseiller	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:continuer	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+]]>
+</operation_trouve>
+</recette>

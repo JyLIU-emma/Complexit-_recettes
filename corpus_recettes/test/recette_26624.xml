@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26624">
+  <titre>Lotte aux champignons des bois et échalotes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>800 g de lotte</p>
+    <p>50 g de beurre de homard</p>
+    <p>4 échalotes</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>300 g de champignons des bois</p>
+    <p>30 g de beurre</p>
+    <p>100 g de crème fraîche</p>
+    <p>persil haché à volonté</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Recouvrir la lotte de beurre de homard. Préchauffer le four à 210° (thermostat 7).
+    Ciseler les échalotes et en napper le fond d'une cocotte. Déposer la lotte sur les échalotes et la recouvrir de vin blanc. Assaisonner et mettre dans le four pendant 30 min en arrosant régulièrement le poisson avec son jus. Retourner le poisson au bout de 15 min.
+    Dans une poêle, mettre un fond de beurre à chauffer et faire sauter pendant 15 min les champignons. Assaisonner.
+     
+    A la fin de la cuisson du poisson, récupérer le jus et y incorporer la crème. Ajouter les champignons au moment de servir.
+  ]]>
+  </preparation>
+</recette>

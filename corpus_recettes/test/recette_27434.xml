@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27434">
+  <titre>Karaagé, le poulet Japonais</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de poulet (peu importe les parties, les restes feront l'affaire pourvu qu'il reste un peu de chair) </p>
+    <p>100 cl de saké japonais</p>
+    <p>100 cl de sauce soja</p>
+    <p>une gousse de gingembre</p>
+    <p>10 cuillère à soupe de farine</p>
+    <p>7 tasses d'huile de tournesol</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez le saké et la sauce soja. Ajoutez-y le gingembre préalablement râpé et mélangez le tout. 
+    Découpez le poulet en gros morceaux d'environ 3 cm de côté. Ensuite plongez-les dans le mélange saké-soja et laissez mariner pendant 20 mn. 
+    Sortez les morceaux de poulet, saupoudrez-les de farine et faites-les frire pendant 10 mn dans une huile chauffée à 160 degrés.
+    Il s'agit d'une spécialité japonaise qui s'accompagne très bien de riz ou de salade mayonnaise. bière
+  ]]>
+  </preparation>
+</recette>

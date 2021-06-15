@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20939">
+  <titre>Pintadeaux au pineau</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 pintadeaux</p>
+    <p>200 g de chair à saucisse</p>
+    <p>40 cl de Pineau des Charentes</p>
+    <p>100 g de mie de pain rassis</p>
+    <p>1 oeuf</p>
+    <p>3 échalotes</p>
+    <p>1/2 bouquet de ciboulette hachée</p>
+    <p>1/2 bouquet persil haché</p>
+    <p>50 g de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez et hachez les échalotes.
+    Emiettez le pain.
+    Mélangez la chair à saucisse avec le pain émietté, le persil et la ciboulette, l'oeuf, 20 cl de pineau, sel et poivre.
+    Amalgamez bien la farce et farcissez les pintadeaux avec.
+    Faites chauffer le beurre dans une cocotte, faites-y dorer les pintadeaux sur toutes les faces. 
+    Ajoutez les échalotes, versez le pineau restant et 1 verre d'eau.
+    Salez, poivrez, couvrez et laissez cuire 35 min environ.
+    Avec des pommes dauphines et des champignons sautés c'est un régal !
+  ]]>
+  </preparation>
+</recette>

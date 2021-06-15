@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15999">
+  <titre>Tarte à la noix de coco rapide</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>7 cuillères à soupe de farine</p>
+    <p>5 cuillères à soupe de sucre</p>
+    <p>1/2 sachet de levure</p>
+    <p>150 g de beurre</p>
+    <p>1 oeuf</p>
+    <p>Pour le mélange : </p>
+    <p>1 petit pot de crème fraiche</p>
+    <p>4 cuillères à soupe de sucre roux</p>
+    <p>1 oeuf</p>
+    <p>2 sachets de sucre vanillé</p>
+    <p>un peu de rhum</p>
+    <p>un sachet de noix de coco râpée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pâte : mettre dans un bol 7 cuillères à soupe de farine, 5 cuillères à soupe de sucre, un demi sachet de levure, environ 150 g de beurre et un oeuf. Mélanger le tout pour obtenir une pâte en forme de boule bien homogène. Puis étaler dans le moule beurré.Farce au coco : dans un bol, mélanger 1 petit pot de crème fraîche, 4 cuillères à soupe de sucre roux, un oeuf, 2 sachets de sucre vanillé et un peu de rhum.
+    Verser le mélange sur la pâte, saupoudrer le tout de noix de coco râpé et enfin mettre au four pendant environ 20 mn.Si la pâte n'attache pas, mettre du beurre. Si elle est trop grasse, mettre de la farine.
+  ]]>
+  </preparation>
+</recette>

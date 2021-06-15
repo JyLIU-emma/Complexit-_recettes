@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23163">
+  <titre>Tartine fromagère aux poivrons</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 petits carrés frais 0% mg</p>
+    <p>2 petits pots de fromage blanc 20% mg</p>
+    <p>1/2 poivron vert</p>
+    <p>1/2 poivron rouge</p>
+    <p>sel, poivre</p>
+    <p>1 gousse d'ail</p>
+    <p>paprika</p>
+    <p>4 tranches de pain de campagne</p>
+    <p>salade verte</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un bol mélanger les 2 carrés frais écrasés, le fromage blanc, la gousse d'ail écrasée, sel, poivre, paprika (selon les goûts). 
+    Ajouter les 1/2 poivrons coupés en petits dés. 
+    Faire griller les tranches de pain de campagne, recouvrir chaque tranche de préparation aux poivrons. 
+    Servir accompagné d'une salade verte assaisonnée.
+  ]]>
+  </preparation>
+</recette>

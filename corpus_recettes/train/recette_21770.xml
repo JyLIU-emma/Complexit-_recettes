@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21770">
+  <titre>Gratins de cabillaud à la sauce béchamel</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de cabillaud</p>
+    <p>1,5 l  d’eau</p>
+    <p>1 sachet de court-bouillon pour poisson</p>
+    <p>Pour la sauce béchamel :</p>
+    <p>40 g de beurre</p>
+    <p>40 g de farine</p>
+    <p>10 cl de lait</p>
+    <p>20 cl de court-bouillon</p>
+    <p>10 cl de crème fraîche</p>
+    <p>100 g de gruyère râpé</p>
+    <p>1 citron</p>
+    <p>2 tomates</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez le court-bouillon en mélangeant 1,5 l d’eau avec le sachet de court-bouillon pour poisson et remuez. Faites chauffer la préparation jusqu’à ce que le liquide frémisse.
+    Faites pocher le cabillaud pendant 15 minutes, puis égouttez et répartissez-le dans 4 petits plats individuels allant au four. Ajoutez les tomates coupées en rondelles.
+    La sauce béchamel :
+    Faites chauffer le beurre dans une casserole, dès qu'il grésille versez la farine et remuez. Ajoutez le lait et le court-bouillon filtré. Salez légèrement et poivrez.
+    Laissez épaissir à feu doux en remuant, puis incorporez la crème, du gruyère râpé (environ 70 g) et un filet de citron pour parfumer le tout.
+    Versez la béchamel dans les plats à gratin et saupoudrez du reste de gruyère râpé. Faites gratiner pendant quelques minutes au four sous le grill.
+  ]]>
+  </preparation>
+</recette>

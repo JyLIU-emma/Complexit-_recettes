@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24087">
+  <titre>Marmite de la mer de fête</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,5 kg de lotte</p>
+    <p>3 l de moules</p>
+    <p>10 noix de Saint-Jacques avec corail</p>
+    <p>10 langoustines décortiquées</p>
+    <p>170 g de crabe</p>
+    <p>3 poireaux</p>
+    <p>3 oignons</p>
+    <p>3 branches de céleri</p>
+    <p>1 bouquet garni</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>25 cl de crème fraîche</p>
+    <p>50 g de beurre</p>
+    <p>1 oeuf</p>
+    <p>1 dose de safran</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Rincez les moules, faites-les ouvrir à feu vif dans le vin et autant d'eau, avec du sel, du poivre et le bouquet garni. Egouttez les moules et décoquillez-les.
+    Filtrez le jus de cuisson.
+    Coupez la lotte en morceaux.
+    Hachez les oignons, les poireaux et le céleri en julienne. Faites chauffer le beurre, jetez-y les légumes et laissez suer 15 minutes à feu doux.
+    Ajoutez la lotte, laissez-la dorer sur toutes les faces et mouillez du bouillon de cuisson des moules. Laissez mijoter 20 minutes.
+    Rajoutez les moules, les langoustines, le crabe égoutté et les noix de Saint-Jacques. Laissez cuire 15 minutes environ.Délayez le jaune d'oeuf avec la crème dans une soupière. Versez-y le bouillon en fouettant, puis les légumes, les morceaux de poisson et fruits de mer.
+    Servez bien chaud avec du pain grillé et du beurre salé.
+  ]]>
+  </preparation>
+</recette>

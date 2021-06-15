@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22748">
+  <titre>Salade colorée</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 courgettes</p>
+    <p>4 tomates</p>
+    <p>1 boîte de thon</p>
+    <p>100 g de Feta</p>
+    <p>basilic</p>
+    <p>1 cuiller à soupe d'huile d'olive</p>
+    <p>1/2 cuiller à soupe de vinaigre de vin</p>
+    <p>1/2 cuiller à soupe de vinaigre balsamique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les courgettes, couper-les en dés et plonger-les 5 mn dans l'eau bouillante salée puis laisser-les égoutter et refroidir pendant que vous préparez le reste. 
+    Coupez les tomates en dés, émiettez le thon et la feta. 
+    Mélanger tout dans un saladier et ajouter le basilic. 
+    Ajouter l'huile et les vinaigres. 
+    Servir frais.
+    Pour plus de couleur encore, vous pouvez ajouter quelques olives noires ou une carotte rapée. Rosé
+  ]]>
+  </preparation>
+</recette>

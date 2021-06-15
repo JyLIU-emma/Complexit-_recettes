@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25396">
+  <titre>Quiche aux poireaux et fromage blanc</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 rouleau de pâte brisée</p>
+    <p>1 kg de poireaux</p>
+    <p>150 g de lardons</p>
+    <p>4 oeufs</p>
+    <p>250 g de fromage blanc battu</p>
+    <p>3-4 cuillères à soupe de crème fraîche</p>
+    <p>curry</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez et épluchez les poireaux. Faites-les cuire 10 min à l'eau bouillante salée, égouttez-les et coupez-les en tronçons.
+    Fouettez les oeufs avec le fromage blanc et la crème fraîche.
+    Salez, poivrez et ajoutez un peu de curry.
+    Préchauffez le four à 200°C (thermostat 6-7).
+    Garnissez un moule à tarte avec la pâte.
+    Piquez le fond à la fourchette et répartissez les poireaux et les lardons dessus.
+    Versez la préparation au fromage blanc.
+    Enfournez et laissez cuire 50 min.
+  ]]>
+  </preparation>
+</recette>

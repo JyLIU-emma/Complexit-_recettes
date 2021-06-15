@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13486">
+  <titre>Beignets de Carnaval</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de farine </p>
+    <p>150 g du beurre</p>
+    <p>3 oeufs</p>
+    <p>1/2 litre de jus d'orange</p>
+    <p>huile</p>
+    <p>sucre glace</p>
+    <p>du brandy</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la farine, les oeufs et le beurre fondu au jus d'orange, puis ajouter le brandy et la farine jusqu'à obtenir un mélange consistant. Laisser reposer pour 1 heure.
+    Etendre le mélange avec le rouleau pour obtenir une très fine feuille. Couper avec un couteau des bandes larges (3 cm) et les pincer pour faire des noeuds.
+    Les frire dans l'huile et ajouter le sucre glace.
+  ]]>
+  </preparation>
+</recette>

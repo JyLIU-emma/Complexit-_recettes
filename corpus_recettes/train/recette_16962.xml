@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16962">
+  <titre>Flan aux oeufs</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 oeufs</p>
+    <p>200 g de sucre</p>
+    <p>75 cl de lait</p>
+    <p>3 cuillères à soupe de farine</p>
+    <p>1 baton de vanille.</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Allumer le four, à 180°C.
+    Dans un saladier, mettre le sucre, la farine et les oeufs, battre vigoureusement. 
+    Verser le lait au fur et à mesure, en continuant de remuer.
+    Une fois le mélange terminé, prendre le baton de vanille, le couper en deux dans le sens de la longueur, extraire les petits grains noirs et les incorporer au mélange. Remuer.
+    -Beurrer le fond d'un plat à gratin et y verser le contenu du saladier.
+    -Enfourner et laisser cuire 30 min environ.
+    on peut rajouter des bananes, des prunaux ou des raisins secs.
+  ]]>
+  </preparation>
+</recette>

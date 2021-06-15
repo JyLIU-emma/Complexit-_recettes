@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="175114">
+  <titre>Bavarois framboise et pistache</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour le biscuit :</p>
+    <p>2 œufs</p>
+    <p>60 g de sucre</p>
+    <p>60 g de farine</p>
+    <p>colorant vert</p>
+    <p>Pour le bavarois framboise :</p>
+    <p>200 g de framboises</p>
+    <p>3 feuilles de gélatine</p>
+    <p>20 cl de crème liquide</p>
+    <p>110 g de sucre</p>
+    <p>un peu de jus de citron</p>
+    <p>Pour le bavarois pistache :</p>
+    <p>25 cl de lait</p>
+    <p>3 jaunes d’œufs</p>
+    <p>60 g de sucre</p>
+    <p>20 cl de crème liquide</p>
+    <p>3 feuilles de gélatine</p>
+    <p>80 g de pâte de pistache (faite maison : mixer des pistaches natures et ajouter un peu de lait)Pour le miroir framboise :</p>
+    <p>165 g de coulis de framboise</p>
+    <p>70 g de sucre</p>
+    <p>3 feuilles de gélatine</p>
+    <p>un peu de jus de citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour le biscuit:Préchauffer le four à 180°C (thermostat 6).
+    Battre un œuf entier et un jaune avec la moitié du sucre.
+    Monter en neige le blanc d’œuf qui reste, en ajoutant le reste du sucre.L'incorporer au mélange précédent puis ajouter la farine et le colorant.Étaler sur du papier sulfurisé et enfourner à four chaud à 180°C pendant 10-15 min, il faut qu'il dore un peu.
+    Le laisser refroidir un peu puis le retourner, décoller le papier et le couper à la taille du cercle à pâtisserie (22/24cm).
+    Pour le bavarois framboise:Mixer les framboises et ajouter le jus de citron ainsi que le sucre.
+    Faire ramollir la gélatine dans de l'eau froide.
+    Dans une casserole, faire chauffer la purée de framboises et ajouter la gélatine pour qu'elle fonde.
+    Monter la crème et l'incorporer au reste.
+    Ensuite, verser la préparation dans le cercle, par-dessus le biscuit et mettre cela au réfrigérateur pendant environ 4 h.
+    Pour le bavarois pistache :Faire ramollir la gélatine dans de l'eau froide.
+    Faire chauffer le lait.
+    Blanchir les jaunes d'oeufs avec le sucre.
+    Verser une partie du lait sur le mélange et remettre dans la casserole sur feu doux puis laisser épaissir un peu.
+    Mettre la pâte de pistache dedans, bien mélanger et ajouter la gélatine.
+    Laisser ensuite refroidir un peu.
+    Monter la crème et l'incorporer au mélange.
+    Verser dans le cercle, par-dessus le bavarois framboise. Puis laisser également au réfrigérateur pendant environ 4 h.
+    Pour le miroir framboise :Faire ramollir la gélatine.
+    Dans une casserole, faire chauffer le coulis de framboise, le sucre et le jus de citron puis y ajouter la gélatine.
+    Laisser refroidir un peu et verser dans le cercle, par-dessus le bavarois pistache.
+    Mettre au réfrigérateur pendant plusieurs heures.
+    Pour le démouler, passer la lame d'un couteau le long du cercle. Vous pouvez mettre quelques framboises sur le dessus !
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Pour le biscuit : <OPER id="o_1">Préchauffer</OPER> le four à 180 ° C ( thermostat 6 ). <OPER id="o_2">Battre</OPER> un <INGRED id="5">œuf</INGRED> entier et un <INGRED id="5">jaune</INGRED> avec la moitié du <INGRED id="11">sucre</INGRED>. <OPER id="o_3">Monter</OPER> en neige le <INGRED id="4">blanc</INGRED> d’ <INGRED id="1">œuf</INGRED> qui <INGRED id="1">reste</INGRED>, en ajoutant le <INGRED id="1">reste</INGRED> du <INGRED id="6">sucre</INGRED>. L'<OPER id="o_4">incorporer</OPER> au <INGRED id="7">mélange</INGRED> précédent puis <OPER id="o_516">ajouter</OPER> la <INGRED id="5">farine</INGRED> et le <INGRED id="5">colorant</INGRED>. <OPER id="o_6">Étaler</OPER> sur du papier sulfurisé et <OPER id="o_7">enfourner</OPER> à four chaud à 180 ° C pendant 10 - 15 min, il faut qu'il dore un <INGRED id="10">peu</INGRED>. Le <INGRED id="12">laisser</INGRED> <OPER id="o_8">refroidir</OPER> un <INGRED id="10">peu</INGRED> puis le <OPER id="o_9">retourner</OPER>, <OPER id="o_10">décoller</OPER> le papier et le <OPER id="o_11">couper</OPER> à la taille du cercle à pâtisserie ( 22/24 cm ). Pour le bavarois framboise : <OPER id="o_12">Mixer</OPER> les <INGRED id="5">framboises</INGRED> et <OPER id="o_1316">ajouter</OPER> le <INGRED id="19">jus de citron</INGRED> ainsi que le <INGRED id="3">sucre</INGRED>. Faire <OPER id="o_14">ramollir</OPER> la <INGRED id="6">gélatine</INGRED> dans de l'<INGRED id="5">eau froide</INGRED>. Dans une casserole, <INGRED id="4">faire</INGRED> <OPER id="o_15">chauffer</OPER> la <INGRED id="5">purée</INGRED> de <INGRED id="1">framboises</INGRED> et <OPER id="o_1616">ajouter</OPER> la <INGRED id="6">gélatine</INGRED> pour qu'elle fonde. <OPER id="o_17">Monter</OPER> la crème et l'<OPER id="o_18">incorporer</OPER> au <INGRED id="1">reste</INGRED>. Ensuite, <OPER id="o_19">verser</OPER> la <INGRED id="4">préparation</INGRED> dans le cercle, par - dessus le biscuit et <OPER id="o_20">mettre</OPER> cela au réfrigérateur pendant <INGRED id="1">environ</INGRED> 4 h. Pour le bavarois pistache : Faire <OPER id="o_21">ramollir</OPER> la <INGRED id="13">gélatine</INGRED> dans de l'<INGRED id="5">eau froide</INGRED>. Faire <OPER id="o_22">chauffer</OPER> le <INGRED id="8">lait</INGRED>. <OPER id="o_23">Blanchir</OPER> les <INGRED id="12">jaunes d'oeufs</INGRED> avec le <INGRED id="17">sucre</INGRED>. <OPER id="o_24">Verser</OPER> une partie du <INGRED id="8">lait</INGRED> sur le <INGRED id="2">mélange</INGRED> et <OPER id="o_25">remettre</OPER> dans la casserole sur feu doux puis <INGRED id="12">laisser</INGRED> <OPER id="o_26">épaissir</OPER> un <INGRED id="10">peu</INGRED>. <OPER id="o_27">Mettre</OPER> la <INGRED id="1">pâte</INGRED> de pistache dedans, bien <OPER id="o_28">mélanger</OPER> et <OPER id="o_2916">ajouter</OPER> la <INGRED id="6">gélatine</INGRED>. Laisser ensuite <OPER id="o_30">refroidir</OPER> un <INGRED id="10">peu</INGRED>. <OPER id="o_31">Monter</OPER> la crème et l'<OPER id="o_32">incorporer</OPER> au <INGRED id="2">mélange</INGRED>. <OPER id="o_33">Verser</OPER> dans le cercle, par - dessus le bavarois framboise. Puis <INGRED id="12">laisser</INGRED> également au réfrigérateur pendant <INGRED id="1">environ</INGRED> 4 h. Pour le miroir framboise : Faire <OPER id="o_34">ramollir</OPER> la gélatine. Dans une casserole, <INGRED id="10">faire</INGRED> <OPER id="o_35">chauffer</OPER> le <INGRED id="16">coulis de framboise</INGRED>, le <INGRED id="12">sucre</INGRED> et le <INGRED id="4">jus de citron</INGRED> puis y <OPER id="o_3616">ajouter</OPER> la <INGRED id="18">gélatine</INGRED>. Laisser <OPER id="o_37">refroidir</OPER> un <INGRED id="14">peu</INGRED> et <OPER id="o_38">verser</OPER> dans le cercle, par - dessus le bavarois pistache. <OPER id="o_39">Mettre</OPER> au réfrigérateur pendant plusieurs heures. Pour le démouler, <OPER id="o_40">passer</OPER> la lame d'un <INGRED id="8">couteau</INGRED> le long du cercle. Vous pouvez <OPER id="o_41">mettre</OPER> quelques <INGRED id="5">framboises</INGRED> sur le dessus !
+  </annotation>
+  <annotation methode="crf">
+  Pour le biscuit <INGRED>:</INGRED> Préchauffer le four à 180 ° C ( thermostat 6 ). Battre un œuf entier et un <INGRED>jaune</INGRED> avec la moitié du <INGRED>sucre</INGRED>. Monter en neige le <INGRED>blanc</INGRED> d’ œuf qui <INGRED>reste</INGRED> <INGRED>,</INGRED> en ajoutant le <INGRED>reste</INGRED> du <INGRED>sucre</INGRED>. L'incorporer au <INGRED>mélange</INGRED> précédent puis ajouter la <INGRED>farine</INGRED> et le colorant. Étaler sur du papier sulfurisé et enfourner à four chaud à 180 ° C pendant 10 - 15 min <INGRED>,</INGRED> il faut qu'il dore un peu. Le laisser refroidir un peu puis le retourner <INGRED>,</INGRED> décoller le papier et le couper à la taille du cercle à pâtisserie ( 22/24 <INGRED>cm</INGRED> ). Pour le bavarois framboise <INGRED>:</INGRED> Mixer les <INGRED>framboises</INGRED> et ajouter le <INGRED>jus de citron</INGRED> ainsi que le <INGRED>sucre</INGRED>. Faire ramollir la <INGRED>gélatine</INGRED> dans de l'<INGRED>eau</INGRED> froide <INGRED>.</INGRED> Dans une casserole <INGRED>,</INGRED> faire chauffer la <INGRED>purée</INGRED> de <INGRED>framboises</INGRED> et ajouter la <INGRED>gélatine</INGRED> pour qu'elle fonde <INGRED>.</INGRED> Monter la <INGRED>crème</INGRED> et l'incorporer au <INGRED>reste</INGRED> <INGRED>.</INGRED> Ensuite <INGRED>,</INGRED> verser la préparation dans le cercle <INGRED>,</INGRED> par - dessus le biscuit et mettre cela au réfrigérateur pendant <INGRED>environ</INGRED> 4 h. Pour le bavarois pistache <INGRED>:</INGRED> Faire ramollir la <INGRED>gélatine</INGRED> dans de l'<INGRED>eau</INGRED> froide <INGRED>.</INGRED> Faire chauffer le <INGRED>lait</INGRED> <INGRED>.</INGRED> Blanchir les <INGRED>jaunes d'oeufs</INGRED> avec le <INGRED>sucre</INGRED>. Verser une partie du <INGRED>lait</INGRED> sur le <INGRED>mélange</INGRED> et remettre dans la casserole sur feu doux puis laisser épaissir un peu. Mettre la <INGRED>pâte</INGRED> de pistache dedans <INGRED>,</INGRED> bien mélanger et ajouter la <INGRED>gélatine</INGRED> <INGRED>.</INGRED> Laisser ensuite refroidir un peu. Monter la <INGRED>crème</INGRED> et l'incorporer au <INGRED>mélange</INGRED> <INGRED>.</INGRED> Verser dans le cercle <INGRED>,</INGRED> par - dessus le bavarois framboise. Puis laisser également au réfrigérateur pendant <INGRED>environ</INGRED> 4 h. Pour le miroir framboise <INGRED>:</INGRED> Faire ramollir la <INGRED>gélatine</INGRED> <INGRED>.</INGRED> Dans une casserole <INGRED>,</INGRED> faire chauffer le <INGRED>coulis</INGRED> de framboise <INGRED>,</INGRED> le <INGRED>sucre</INGRED> et le <INGRED>jus de citron</INGRED> puis y ajouter la <INGRED>gélatine</INGRED> <INGRED>.</INGRED> Laisser refroidir un peu et verser dans le cercle <INGRED>,</INGRED> par - dessus le bavarois pistache. Mettre au réfrigérateur pendant plusieurs heures. Pour le démouler <INGRED>,</INGRED> passer la lame d'un couteau le long du cercle. Vous pouvez mettre quelques <INGRED>framboises</INGRED> sur le dessus !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 20.5*X + 20.5</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 14*X + 24</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['œufs']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['sucre']	 id:2	 quantité:60	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:3	 quantité:60	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['colorant vert', 'colorant']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['framboises']	 id:5	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['gélatine']	 id:6	 quantité:3	 unité:feuilles de	 denombrable:True	 recipient:3*X
+ingredient:['crème liquide', 'crème']	 id:7	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:8	 quantité:110	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['jus de citron', 'jus']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:10	 quantité:25	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:["jaunes d'œufs", 'jaunes']	 id:11	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['sucre']	 id:12	 quantité:60	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crème liquide', 'crème']	 id:13	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['gélatine']	 id:14	 quantité:3	 unité:feuilles de	 denombrable:True	 recipient:3*X
+ingredient:['pâte de pistache Pour le miroir framboise', 'pâte']	 id:15	 quantité:80	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['coulis de framboise', 'coulis']	 id:16	 quantité:165	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:17	 quantité:70	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['gélatine']	 id:18	 quantité:3	 unité:feuilles de	 denombrable:True	 recipient:3*X
+ingredient:['jus de citron', 'jus']	 id:19	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préchauffer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:battre	 id:o_2	 ingrédients_ralatifs:['5', '5', '11']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:monter	 id:o_3	 ingrédients_ralatifs:['4', '1', '1', '1', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_4	 ingrédients_ralatifs:['7', '16', '5', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['5', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étaler	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfourner	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:retourner	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:décoller	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:mixer	 id:o_12	 ingrédients_ralatifs:['5', '16', '19', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_13	 ingrédients_ralatifs:['19']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ramollir	 id:o_14	 ingrédients_ralatifs:['6', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_15	 ingrédients_ralatifs:['4', '5', '1', '16', '6']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:ajouter	 id:o_16	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:monter	 id:o_17	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_18	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_19	 ingrédients_ralatifs:['4', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ramollir	 id:o_21	 ingrédients_ralatifs:['13', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_22	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:blanchir	 id:o_23	 ingrédients_ralatifs:['12', '17']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_24	 ingrédients_ralatifs:['8', '2', '12', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remettre	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:épaissir	 id:o_26	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_27	 ingrédients_ralatifs:['1', '16', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mélanger	 id:o_28	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_29	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_30	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:monter	 id:o_31	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_32	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_33	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ramollir	 id:o_34	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_35	 ingrédients_ralatifs:['10', '16', '12', '4', '16', '18']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:ajouter	 id:o_36	 ingrédients_ralatifs:['18']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_37	 ingrédients_ralatifs:['14']	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:verser	 id:o_38	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_39	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:passer	 id:o_40	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:mettre	 id:o_41	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

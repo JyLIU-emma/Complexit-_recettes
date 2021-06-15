@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14543">
+  <titre>Panais sautés miel et menthe</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 panais moyens</p>
+    <p>1 cuillère à soupe de miel (ou plus au goût)</p>
+    <p>2 cuillères à café de menthe fraîche émincée ou de menthe en flocons</p>
+    <p>2 cuillères à café de beurre (ou plus selon goût)</p>
+    <p>eau salée bouillante</p>
+    <p>poivre au goût</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Bien laver les panais et couper les extrémités.
+    Emincer en rondelles d'environ 3-4 mm d'épaisseur.
+    Dans l'eau bouillante, cuire les panais jusqu'à ce qu'ils soient plus tendres, mais encore fermes.
+    Dans une poêle, faire chauffer beurre, miel, menthe et poivre et y faire sauter les panais.
+    Servir chaud.
+    Ajustez les ingrédients et cuissons à votre goût. Très simple à réaliser et succulent.
+  ]]>
+  </preparation>
+</recette>

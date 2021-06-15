@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10539">
+  <titre>Tarte aux oignons et carré frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>2 oeufs</p>
+    <p>5 gros oignons</p>
+    <p>2 cuillers à café de miel</p>
+    <p>sel, poivre</p>
+    <p>3 carrés frais</p>
+    <p>20 cl de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la pâte dans  un plat à tarte et la faire cuire à blanc (avec des haricots éventuellement) pendant 20 minutes à 200°C.
+    Emincer les oignons. Mettre l'huile à chauffer dans une sauteuse puis faire revenir les oignons. Ajouter un peu de miel, saler, poivrer puis couvrir.
+    Laisser mijopter à feu doux. Attention, les oignons ne doivent pas noircir.
+    Mélanger dans un saladier la crème fraîche, les carrés frais, et les oeufs. Ajouter sel et poivre.
+    Ensuite, garnir la pâte avec les oignons puis verser le mélange à base crème. Passer au four à 200°C pendant 30 minutes. 
+  ]]>
+  </preparation>
+</recette>

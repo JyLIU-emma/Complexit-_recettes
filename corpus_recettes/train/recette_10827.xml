@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10827">
+  <titre>Velouté champêtre</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 portions de carré frais</p>
+    <p>1 poireau</p>
+    <p>1 courgette</p>
+    <p>1 carotte</p>
+    <p>4 pommes de terres</p>
+    <p>sel, poivre et persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer les légumes en bouillon.
+    Puis une fois qu'ils sont cuits, les écraser jusqu'à obtention d'une purée, y ajouter les 2 carrés frais puis les fines herbes et servir.
+  ]]>
+  </preparation>
+</recette>

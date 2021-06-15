@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14372">
+  <titre>Gâteau aux cerises</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g cerises </p>
+    <p>4 oeufs</p>
+    <p>100 g beurre</p>
+    <p>100 g sucre + un paquet de vanillé</p>
+    <p>100 g poudre d'amande</p>
+    <p>70 g farine + un demi paquet de levure</p>
+    <p>amandes effilées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le beurre fondu avec les sucres, les oeufs entiers, la poudre d'amande, la farine, la levure.Y introduire les cerises nettoyées, mais pas denoyautées.Déposer l'ensemble sur une plaque de pâtisserie anti-adhérente.
+    Saupoudrer d'amandes effilée et de cassonade.
+    Cuire 30 mn à 160°C.
+  ]]>
+  </preparation>
+</recette>

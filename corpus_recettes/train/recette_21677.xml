@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21677">
+  <titre>Tourte au fromage bleu</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 pâtes brisées</p>
+    <p>150 g de bleu d'Auvergne</p>
+    <p>200 g de gruyère ou comté</p>
+    <p>100 g de crème fraîche</p>
+    <p>2 oeufs</p>
+    <p>1 cuillère à soupe de ciboulette hachée</p>
+    <p>noix de muscade</p>
+    <p>1 jaune d'oeuf </p>
+    <p>1 cuillère à soupe de lait</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler l'une des pâtes brisées dans un moule à tarte beurré et la piquer avec une fourchette.
+    Dans un saladier, battre les oeufs en omelette avec la crème fraîche et la ciboulette ciselée. Emietter le bleu et l'incorporer à la préparation. Assaisonner de sel et de poivre.
+    Verser la préparation dans le moule à tarte et recouvrir de la deuxième pâte brisée. Souder les bords avec un peu d'eau et faire un trou au milieu de la pâte.
+    Mélanger le jaune d'oeuf avec le lait et en badigeonner la pâte. Enfourner à 200° (thermostat 6-7) pendant 45 min.
+  ]]>
+  </preparation>
+</recette>

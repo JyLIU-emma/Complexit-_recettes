@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26606">
+  <titre>Riz au poulet épicé et à la crème</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 gros poulet coupé en morceaux</p>
+    <p>300 g de riz</p>
+    <p>2 oignons</p>
+    <p>1 boîte de tomates pelées</p>
+    <p>4 gousses d'ail</p>
+    <p>1 pincée de curry</p>
+    <p>1 pincée de cannelle</p>
+    <p>1/2 petite pincée de macis</p>
+    <p>1 filet de jus de citron</p>
+    <p>4 cuillères à soupe de crème fraîche</p>
+    <p>100 g de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hachez les oignons et faites-les revenir dans le beurre.
+    Ajoutez les morceaux de poulet, salez, poivrez, laissez cuire 1 h à feu doux en mouillant avec un peu d'eau de temps en temps.
+    Retirez le poulet de la cocotte et désossez-le.
+    Retirez également la peau.
+    Découpez la chair en morceaux.
+    Remettez la chair de poulet dans la cocotte avec les tomates entières, l'ail écrasé, et les épices et laissez cuire 30 min.
+    Pendant ce temps, faites cuire le riz à l'eau.
+    Ajoutez la crème et un peu de jus de citron dans la sauce au poulet.
+    Egouttez le riz et mélangez-le avec la sauce.
+    Servez bien chaud.
+  ]]>
+  </preparation>
+</recette>

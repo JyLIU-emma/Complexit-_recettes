@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12193">
+  <titre>Gâteau chocolat et amandes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 oeufs</p>
+    <p>250 g de sucre</p>
+    <p>250 g de chocolat patissier</p>
+    <p>100 g d'amandes en poudre</p>
+    <p>250 g de beurre</p>
+    <p>3 cuil à soupe de fécule de pomme de terre</p>
+    <p>2 sachets de sucre vanillé</p>
+    <p>1/2 cuil à café de levure chimique</p>
+    <p>125 g de chocolat à croquer</p>
+    <p>100 g de sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Fouettez les jaunes des oeufs avec le sucre jusqu'à ce qu'ils blanchissent et fassent le ruban.
+    Mettez les 250 g de chocolat patissier
+    brisé dans une casserole avec 2 cuil à soupe d'eau.
+    Faites-le fondre sans bouillir puis ajoutez-le aux jaunes,mélangez intimement.
+    Tamisez la poudre d'amandes,la levure et la fécule,ajoutez les au mélange.
+    Rajoutez aussi 200 g de beurre très ramolli mais non fondu et les 3 blancs d'oeufs battus en neige avec la pincée de sel. Opérez le mélange en soulevant la masse pour ne pas briser les blancs.
+    Beurrez le moule et saupoudrez-le de sucre semoule.
+    Remplissez-le aux trois quarts et mettez au four chauffé 20 min à l'avance (thermostat 6-7).
+    Laissez cuire 30 min, le gâteau doit cuire rapidement pour conserver le milieu de la pâte moelleux.
+    Laissez tiédir dans le moule. Démoulez sur une grille et laissez refroidir à fond.
+    Pour glacer, faites fondre le chocolat à croquer au bain-marie avec une cuil à soupe d'eau et le reste de beurre. Ajoutez le sucre glace tamisé pour obtenir une bouillie épaisse.
+    Enduisez le gateau à la spatule.
+     Vieux Maury
+  ]]>
+  </preparation>
+</recette>

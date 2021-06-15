@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14781">
+  <titre>Tarte banane et coco</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>1 boîte de 160 g de lait concentré non sucré (allégé)</p>
+    <p>3 bananes</p>
+    <p>50 g de noix de coco en poudre</p>
+    <p>3 oeufs</p>
+    <p>1 cuillère à café d'extrait de vanille liquide</p>
+    <p>2 cuillères à soupe de sucre en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à thermostat 7 (220°C).
+    Dérouler la pâte dans le moule (conserver le papier de cuisson).
+    Ecraser 2 bananes et couper l'autre en rondelles.
+    Dans un saladier, mélanger le lait et les oeufs. 
+    Ajouter les bananes écrasées au reste des ingrédients. Verser sur la pâte et décorer avec les rondelles de banane.
+    Faire cuire 25 mn. 
+    Au moment de servir, saupoudrer de noix de coco en poudre.
+    Cette tarte reste peu sucrée et termine facilement un repas léger.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25221">
+  <titre>Brochettes d'agneau marinées aux herbes fraîches</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg d’épaule d’agneau</p>
+    <p>2 oignons</p>
+    <p>2 tomates</p>
+    <p>Pour la marinade :</p>
+    <p>4 cuillères à soupe d’huile d’olive</p>
+    <p>thym frais</p>
+    <p>romarin frais</p>
+    <p>laurier frais</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler l’épaule d’agneau en gros morceaux de taille égale, puis  préparer la marinade.
+    Dans un saladier, verser l’huile d’olive puis laver les herbes fraîches. Les ciseler et les jeter dans l’huile avec le sel et le poivre.
+    Mettre la viande à mariner dans le saladier durant 2 h en la remuant régulièrement pour qu’elle soit imbibée de façon homogène.
+    Pendant ce temps, peler et découper les oignons en quartiers, puis les nettoyer et mettre les poivrons à blanchir 5 min dans l’eau bouillante. Découper ensuite les poivrons en lamelles et les tomates en quartiers.
+    Enfiler les ingrédients sur les pics à brochette en alternant 1 morceau de viande avec 1 morceau d’oignon, un de tomate...
+    Les mettre à griller sur le barbecue bien chaud et laisser cuire de 10 à 20 min selon la cuisson désirée.
+    Servir avec un coulis de tomate et accompagner de papillotes de pommes de terre ou de riz.
+  ]]>
+  </preparation>
+</recette>

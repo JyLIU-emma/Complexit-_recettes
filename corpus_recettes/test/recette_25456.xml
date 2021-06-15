@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25456">
+  <titre>Oeufs frits à la viande et raïta aux radis</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>9 oeufs</p>
+    <p>300 g de steak haché (boeuf)</p>
+    <p>1 oignon</p>
+    <p>1/2 bouquet de persil</p>
+    <p>3 tranches de pain de mie</p>
+    <p>farine</p>
+    <p>sel, poivre</p>
+    <p>huile de friture</p>
+    <p>Pour la sauce raïta au concombre et radis :</p>
+    <p>1 yaourt</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>1/2 citron</p>
+    <p>1 petit concombre</p>
+    <p>10 radis</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites tremper la mie de pain dans un bol d'eau.
+    Faites cuire 8 oeufs mollets, environ 6-7 min à l'eau bouillante. Rafraîchissez-les et écalez-les.
+    Emincez le concombre en bâtonnets et les radis en rondelles. Mélangez-les avec le yaourt, la crème fraîche et le jus du demi-citron. Salez et poivrez.
+    Réservez au frais.
+    Malaxez la viande hachée avec l'oeuf restant. Ajoutez la mie de pain essorée, l'oignon et le persil hachés. Salez, poivrez. Divisez en huits parts égales.
+    Etalez-les et enveloppez les oeufs avec. Passez-les dans la farine et réservez.
+    Chauffez l'huile de friture à 175°C.
+    Faites frire les oeufs enrobés environ 8 min en les retournant à mi-cuisson. Egouttez bien et servez avec la sauce raïta.
+  ]]>
+  </preparation>
+</recette>

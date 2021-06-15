@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14731">
+  <titre>Farofa au beurre</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de beurre   </p>
+    <p>1 kg de semoule de manioc</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettez à fondre le beurre dans la poêle puis incorporez la semoule de manioc en remuant bien, jusqu'à ce qu'elle soit parfaitement grillée.  
+    Ajoutez du sel à votre goût et mélangez encore une fois.
+    C'est l'accompagnement habituel de la Feijoada. Recette de l'écrivain brésilien Jorge Amado. vin rouge
+  ]]>
+  </preparation>
+</recette>

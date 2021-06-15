@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12263">
+  <titre>Gratin de potiron minceur</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de potiron</p>
+    <p>2 oeufs</p>
+    <p>lait écrémé en poudre</p>
+    <p>sel,poivre,1 pincée de muscade</p>
+    <p>fromage râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler le potiron et le couper en gros dés. Le faire cuire à la vapeur dans le panier d'une cocotte (15 mn sous pression). Ecraser le potiron cuit à la fourchette dans une jatte.
+    Battre sommairement les oeufs et le lait en poudre, incorporer à la purée puis rajouter sel et épices. 
+    Saupoudrer de fromag râpé et faire gratiner au gril du four jusqu'à couleur souhaitée.
+    Accompagne harmonieusement toute viande ou poisson grillés, ou frits.
+  ]]>
+  </preparation>
+</recette>

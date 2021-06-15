@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="105775">
+  <titre>Tartare de thon en chemise de piquillos</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>un bocal de 290g piquillos entiers à l'ail (12 minimum)</p>
+    <p>un oignon</p>
+    <p>6 cornichons </p>
+    <p>un trait de worcester sauce</p>
+    <p>une cuillère à soupe de ketchup</p>
+    <p>huile d'olive, persil haché, paprika, sel, poivre, moutarde, tabasco</p>
+    <p>1 jaune d'oeuf</p>
+    <p>une boite de thon au naturel (130 g)Pour agrémenter l'assiette et compléter la tablette de couleur, ajouter une brochette de crevette au curry :</p>
+    <p>6 crevettes roses cuites</p>
+    <p>1 poivron vert</p>
+    <p>curry, sauce soja</p>
+    <p>bâtonnets de bois</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tartare de thon :- dans un saladier, mélanger 3 cuillères à s. d'huile d'olive avec une c. à s. de moutarde et le jaune d'oeuf (ne pas trop monter en mayonnaise, juste mélanger, sinon c'est plus lourd)
+    ajouter un trait de worcester sauce, une c. à s. de ketchup, l'oignon haché, les cornichons hachés, le persil haché, le paprika, un trait de tabasco
+    mélanger afin d'obtenir une sauce tartare homogène
+    mixer le thon 
+    mélanger le thon dans la sauce tartare jusqu'à obtenir un mélange homogène
+    ajouter sel, poivre (et tabasco) selon votre goût
+    fourrer chaque piquillos avec le tartare de thon
+    réserver
+    Brochettes de crevettes :
+    couper le poivron vert en lamelles rectangulaires (~1,5cm sur 4cm)
+    décortiquer les crevettes (sauf la queue pour faire comme au resto chinois ;-))
+    monter les brochettes : la crevette entre 2 lamelles de poivron
+    faire chauffer de l'huile d'olive dans une poêle
+    y saisir les brochettes aller-retour, environ 10 secondes de chaque côté en arrosant de sauce soja
+    saupoudrer de curry
+    les retourner de chaque côté encore quelques secondes
+    retirer du feu
+    Dressage :
+    présenter 2 piquillos fourrés dans chaque assiette avec une brochette de crevette
+    si il reste des piquillos, on peut mettre par-ci par-là quelques lamelles- présentez 2 piquillos par assiette que vous pourrez accompagner de mini brochettes crevette/poivron vert/curry au besoin
+            - ajoutez de la roquette dans le coins de l'assiette pour décoration, avec un trait de vinaigrette (huile d'olive, sel, poivre, vinaigre balsamique) Collioure rouge
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Tartare de <INGRED id="1">thon</INGRED> : - dans un <INGRED id="1">saladier</INGRED>, <OPER id="o_1">mélanger</OPER> 3 cuillères à s. d'<INGRED id="4">huile d'olive</INGRED> avec une c. à s. de <INGRED id="2">moutarde</INGRED> et le <INGRED id="6">jaune d'oeuf</INGRED> ( ne pas trop <OPER id="o_2">monter</OPER> en <INGRED id="5">mayonnaise</INGRED>, juste <OPER id="o_3">mélanger</OPER>, sinon c'est plus lourd ) <OPER id="o_416">ajouter</OPER> un <INGRED id="4">trait de worcester sauce</INGRED>, une c. à s. de <INGRED id="5">ketchup</INGRED>, l'<INGRED id="4">oignon</INGRED> haché, les <INGRED id="3">cornichons</INGRED> hachés, le <INGRED id="7">persil haché</INGRED>, le <INGRED id="8">paprika</INGRED>, un <INGRED id="4">trait</INGRED> de <INGRED id="12">tabasco</INGRED> <OPER id="o_5">mélanger</OPER> afin d'obtenir une sauce tartare homogène <OPER id="o_6">mixer</OPER> le thon <OPER id="o_7">mélanger</OPER> le <INGRED id="1">thon</INGRED> dans la <INGRED id="20">sauce</INGRED> tartare jusqu'à obtenir un <INGRED id="2">mélange</INGRED> homogène <OPER id="o_816">ajouter</OPER> <INGRED id="7">sel, poivre</INGRED> ( et <INGRED id="12">tabasco</INGRED> ) selon votre <INGRED id="7">goût</INGRED> <OPER id="o_9">fourrer</OPER> chaque piquillos avec le tartare de thon réserver Brochettes de <INGRED id="12">crevettes</INGRED> : <OPER id="o_10">couper</OPER> le <INGRED id="18">poivron vert</INGRED> en lamelles rectangulaires ( ~1,5 cm sur 4 cm ) <OPER id="o_11">décortiquer</OPER> les <INGRED id="12">crevettes</INGRED> ( sauf la <INGRED id="1">queue</INGRED> pour <INGRED id="10">faire</INGRED> comme au resto chinois ;-) ) <OPER id="o_12">monter</OPER> les brochettes : la crevette entre 2 lamelles de <INGRED id="7">poivron</INGRED> <INGRED id="14">faire</INGRED> <OPER id="o_13">chauffer</OPER> de l'<INGRED id="13">huile d'olive</INGRED> dans une poêle y <OPER id="o_14">saisir</OPER> les brochettes aller - retour, <INGRED id="1">environ</INGRED> 10 secondes de chaque côté en arrosant de <INGRED id="6">sauce soja</INGRED> <OPER id="o_15">saupoudrer</OPER> de <INGRED id="17">curry</INGRED> les <OPER id="o_16">retourner</OPER> de chaque côté encore quelques secondes <OPER id="o_17">retirer</OPER> du feu Dressage : <OPER id="o_18">présenter</OPER> 2 piquillos fourrés dans chaque assiette avec une brochette de crevette si il <INGRED id="1">reste</INGRED> des piquillos, on peut <OPER id="o_19">mettre</OPER> par - ci par -là quelques lamelles- <OPER id="o_20">présentez</OPER> 2 piquillos par assiette que vous pourrez accompagner de mini brochettes crevette / <INGRED id="18">poivron vert</INGRED> / <INGRED id="17">curry</INGRED> au besoin - <OPER id="o_21">ajoutez</OPER> de la <INGRED id="6">roquette</INGRED> dans le coins de l'assiette pour décoration, avec un <INGRED id="4">trait</INGRED> de vinaigrette ( <INGRED id="12">huile d'olive</INGRED>, <INGRED id="7">sel, poivre</INGRED>, <INGRED id="4">vinaigre balsamique</INGRED> ) Collioure rouge
+  </annotation>
+  <annotation methode="crf">
+  Tartare de <INGRED>thon</INGRED> <INGRED>:</INGRED> - dans un saladier <INGRED>,</INGRED> mélanger 3 <INGRED>cuillères à s. d'huile d'olive</INGRED> avec une c. à s. de <INGRED>moutarde</INGRED> et le <INGRED>jaune d'oeuf</INGRED> ( ne pas trop monter en <INGRED>mayonnaise</INGRED> <INGRED>,</INGRED> juste mélanger <INGRED>,</INGRED> sinon c'est plus lourd ) ajouter un trait de worcester <INGRED>sauce</INGRED> <INGRED>,</INGRED> une c. à s. de <INGRED>ketchup</INGRED> <INGRED>,</INGRED> l'<INGRED>oignon haché</INGRED> <INGRED>,</INGRED> les <INGRED>cornichons</INGRED> hachés <INGRED>,</INGRED> le <INGRED>persil haché</INGRED> <INGRED>,</INGRED> le <INGRED>paprika</INGRED> <INGRED>,</INGRED> un trait de tabasco mélanger afin d'obtenir une <INGRED>sauce</INGRED> tartare homogène mixer le <INGRED>thon</INGRED> mélanger le <INGRED>thon</INGRED> dans la <INGRED>sauce</INGRED> tartare jusqu'à obtenir un <INGRED>mélange</INGRED> homogène ajouter <INGRED>sel</INGRED> <INGRED>,</INGRED> <INGRED>poivre</INGRED> ( et tabasco ) selon votre goût fourrer chaque piquillos avec le tartare de <INGRED>thon</INGRED> réserver Brochettes de <INGRED>crevettes</INGRED> <INGRED>:</INGRED> couper le <INGRED>poivron vert</INGRED> en <INGRED>lamelles</INGRED> rectangulaires ( ~1,5 <INGRED>cm</INGRED> sur 4 <INGRED>cm</INGRED> ) décortiquer les <INGRED>crevettes</INGRED> ( sauf la queue pour faire comme au resto chinois ;-) ) monter les brochettes <INGRED>:</INGRED> la crevette entre 2 <INGRED>lamelles</INGRED> de <INGRED>poivron</INGRED> faire chauffer de l'<INGRED>huile d'olive</INGRED> dans une poêle y saisir les brochettes aller - retour <INGRED>,</INGRED> <INGRED>environ</INGRED> 10 secondes de chaque côté en arrosant de <INGRED>sauce</INGRED> soja saupoudrer de <INGRED>curry</INGRED> les retourner de chaque côté encore quelques secondes retirer du feu Dressage <INGRED>:</INGRED> présenter 2 piquillos fourrés dans chaque assiette avec une brochette de crevette si il reste des piquillos <INGRED>,</INGRED> on peut mettre par - ci par -là quelques lamelles- présentez 2 piquillos par assiette que vous pourrez accompagner de mini brochettes crevette / poivron vert / <INGRED>curry</INGRED> au besoin - ajoutez de la roquette dans le coins de l'assiette pour décoration <INGRED>,</INGRED> avec un trait de <INGRED>vinaigrette</INGRED> ( <INGRED>huile d'olive</INGRED> <INGRED>,</INGRED> <INGRED>sel</INGRED> <INGRED>,</INGRED> <INGRED>poivre</INGRED> <INGRED>,</INGRED> <INGRED>vinaigre balsamique</INGRED> ) Collioure rouge
+  </annotation>
+  <complexite>
+    <temps>f(X) = 9.48387096774193*X + 11.5161290322581</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 14*X + 24</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:["l'ail", 'ail']	 id:1	 quantité:290	 unité:g piquillos entiers à	 denombrable:False	 recipient:1
+ingredient:['oignon']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['cornichons']	 id:3	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['trait de worcester sauce', 'trait']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['ketchup']	 id:5	 quantité:non_precis	 unité:cuillère à soupe de	 denombrable:False	 recipient:1
+ingredient:["huile d'olive", 'huile']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['persil haché', 'persil']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['paprika']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['moutarde']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tabasco']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["jaune d'oeuf", 'jaune']	 id:13	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:["boite de thon au naturel Pour agrémenter l'assiette", 'boite']	 id:14	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['compléter la tablette de couleur', 'compléter']	 id:15	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['ajouter une brochette de crevette au curry', 'ajouter']	 id:16	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crevettes roses cuites', 'crevettes']	 id:17	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['poivron vert', 'poivron']	 id:18	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['curry']	 id:19	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sauce soja', 'sauce']	 id:20	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['bâtonnets de bois', 'bâtonnets']	 id:21	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mélanger	 id:o_1	 ingrédients_ralatifs:['1', '4', '2', '6', '5']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:monter	 id:o_2	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_4	 ingrédients_ralatifs:['4', '5', '4', '3', '7', '8', '4', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_5	 ingrédients_ralatifs:['4', '5', '4', '3', '7', '8', '4', '12', '1', '20', '2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mixer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_7	 ingrédients_ralatifs:['1', '20', '2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['4', '5', '4', '3', '7', '8', '4', '12', '1', '20', '2', '7', '12', '7', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fourrer	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_10	 ingrédients_ralatifs:['18']	 nombre_opération_atomique:1	 temps:1*X*1	 recipient:1
+operation:décortiquer	 id:o_11	 ingrédients_ralatifs:['12', '1', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:monter	 id:o_12	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_13	 ingrédients_ralatifs:['14', '13']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:saisir	 id:o_14	 ingrédients_ralatifs:['14', '13', '1', '6', '17']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saupoudrer	 id:o_15	 ingrédients_ralatifs:['1', '6', '17']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retourner	 id:o_16	 ingrédients_ralatifs:['14', '13', '1', '6', '17']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:présenter	 id:o_18	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:présenter	 id:o_20	 ingrédients_ralatifs:['18', '17']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_21	 ingrédients_ralatifs:['6', '4', '12', '7', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

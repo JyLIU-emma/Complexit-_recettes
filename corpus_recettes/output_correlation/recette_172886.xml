@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172886">
+  <titre>Brick jambon cru figue et mozzarella</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 feuilles de brick</p>
+    <p>8 tranches de jambon cru </p>
+    <p>8 figues fraîches</p>
+    <p>2 boules de mozzarella</p>
+    <p>8 cuillères à café de miel</p>
+    <p>poudre de gingembre</p>
+    <p>huile de noix</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez les figues, coupez la tête et la queue et découpez en quartiers comme une pomme.
+    Sur une feuille de brick, déposer une tranche de jambon cru, ajoutez dessus les quartiers d'une figue fraîche, mettez des morceaux de mozzarella entre les quartiers et versez dessus 1/2 cuillère de miel.
+    Pliez la feuille de brick type "nem" : on rabat le côté gauche et le côté droit sur la préparation, on plie le morceau de devant par dessus (ce qui évite que les ingrédients ne se sauvent) puis en roule l'ensemble comme un petit rouleau.
+    Placez les rouleaux sur une plaque allant au four recouverte de papier sulfurisé pour éviter que cela attache.
+    Badigeonnez chaque rouleau avec un pinceau trempé dans de l'huile noix (pour le côté doré au four) et saupoudrez de gingembre.
+    Passez au four environ 20 min à 180°C (thermostat 6) et servez aussitôt avec une salade.
+    Léger, effet garanti...
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Lavez</OPER> les <INGRED id="3">figues</INGRED>, coupez la tête et la <INGRED id="1">queue</INGRED> et découpez en quartiers comme une <INGRED id="2">pomme</INGRED>. Sur une feuille de <INGRED id="1">brick</INGRED>, <OPER id="o_2">déposer</OPER> une tranche de <INGRED id="3">jambon cru</INGRED>, <OPER id="o_3">ajoutez</OPER> dessus les quartiers d'une figue fraîche, <OPER id="o_4">mettez</OPER> des <INGRED id="1">morceaux</INGRED> de mozzarella entre les quartiers et versez dessus 1/2 cuillère de <INGRED id="4">miel</INGRED>. <OPER id="o_5">Pliez</OPER> la feuille de <INGRED id="1">brick</INGRED> type " nem " : on rabat le côté gauche et le côté droit sur la <INGRED id="4">préparation</INGRED>, on plie le <INGRED id="2">morceau de</INGRED> devant par dessus ( ce qui évite que les ingrédients ne se sauvent ) puis en roule l'ensemble comme un petit rouleau. <OPER id="o_6">Placez</OPER> les <INGRED id="1">rouleaux</INGRED> sur une plaque allant au four recouverte de papier sulfurisé pour éviter que cela attache. <OPER id="o_7">Badigeonnez</OPER> chaque rouleau avec un pinceau trempé dans de l'huile <INGRED id="2">noix</INGRED> ( pour le côté doré au four ) et saupoudrez de gingembre. <OPER id="o_8">Passez</OPER> au four <INGRED id="1">environ</INGRED> 20 min à 180 ° C ( thermostat 6 ) et servez aussitôt avec une salade. Léger, effet garanti...
+  </annotation>
+  <annotation methode="crf">
+  Lavez les <INGRED>figues</INGRED> <INGRED>,</INGRED> coupez la tête et la queue et découpez en quartiers comme une <INGRED>pomme</INGRED> <INGRED>.</INGRED> Sur une feuille de <INGRED>brick</INGRED> <INGRED>,</INGRED> déposer une tranche de <INGRED>jambon</INGRED> cru <INGRED>,</INGRED> ajoutez dessus les quartiers d'une figue fraîche <INGRED>,</INGRED> mettez des <INGRED>morceaux</INGRED> de <INGRED>mozzarella</INGRED> entre les quartiers et versez dessus <INGRED>1/2</INGRED> cuillère de <INGRED>miel</INGRED> <INGRED>.</INGRED> Pliez la feuille de brick type " nem " <INGRED>:</INGRED> on rabat le côté gauche et le côté droit sur la préparation <INGRED>,</INGRED> on plie le <INGRED>morceau</INGRED> de devant par dessus ( ce qui évite que les ingrédients ne se sauvent ) puis en roule l'ensemble comme un <INGRED>petit</INGRED> <INGRED>rouleau</INGRED> <INGRED>.</INGRED> Placez les rouleaux sur une plaque allant au four recouverte de papier sulfurisé pour éviter que cela attache <INGRED>.</INGRED> Badigeonnez chaque <INGRED>rouleau</INGRED> avec un pinceau trempé dans de l'<INGRED>huile noix</INGRED> ( pour le côté doré au four ) et saupoudrez de <INGRED>gingembre</INGRED> <INGRED>.</INGRED> Passez au four <INGRED>environ</INGRED> 20 min à 180 ° C ( thermostat 6 ) et servez aussitôt avec une salade <INGRED>.</INGRED> Léger <INGRED>,</INGRED> effet garanti...
+  </annotation>
+  <complexite>
+    <temps>f(X) = 29.2777777777778*X + 1.72222222222222</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 34*X + 4</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['brick']	 id:1	 quantité:8	 unité:feuilles de	 denombrable:True	 recipient:8*X
+ingredient:['jambon cru', 'jambon']	 id:2	 quantité:8	 unité:tranches de	 denombrable:True	 recipient:8*X
+ingredient:['figues fraîches', 'figues']	 id:3	 quantité:8	 unité:non_precis	 denombrable:True	 recipient:8*X
+ingredient:['boules de mozzarella', 'boules']	 id:4	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['miel']	 id:5	 quantité:8	 unité:cuillères à café de	 denombrable:True	 recipient:8*X
+ingredient:['poudre de gingembre', 'poudre']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['huile de noix', 'huile']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:laver	 id:o_1	 ingrédients_ralatifs:['3', '1', '2']	 nombre_opération_atomique:8*X+8*X+8*X	 temps:8*X*1+8*X*1+8*X*1	 recipient:0
+operation:déposer	 id:o_2	 ingrédients_ralatifs:['1', '3', '1', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_4	 ingrédients_ralatifs:['1', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:plier	 id:o_5	 ingrédients_ralatifs:['1', '4', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_6	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:badigeonner	 id:o_7	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:passer	 id:o_8	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16975">
+  <titre>Lotte à l'Armoricaine</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1 queue de lotte de 1 kg préparée par votre poissonnier</p>
+    <p>1 petite boîte de tomates pelées</p>
+    <p>1 cuillère à soupe de concentré de tomates</p>
+    <p>4 échalotes</p>
+    <p>1 gousse d'ail</p>
+    <p>1 douzaine de petits oignons grelots</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>5 cl de cognac</p>
+    <p>20 g de beurre</p>
+    <p>2 cuillères à soupe d'huile d'arachide</p>
+    <p>1 pincée de piment de Cayenne </p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez et hachez les 4 échalotes. Pelez et pressez la gousse d'ail. Pelez la douzaine d'oignons grelots. Ouvrez la boîte de tomates et coupez-les. Délayez le concentré de tomates dans les 20 cl de vin blanc.
+    Dans une cocotte en fonte, faites chauffer le beurre et l'huile et y faire colorer à feu vif les tranches de lotte puis les flamber avec le Cognac. Retirez et placez sur une assiette, mettez à la place les échalotes, l'ail,les oignons, les tomates et le vin dans lequel est délayé le concentré de tomates. Salez, poivrez, ajoutez le piment et laissez mijoter environ 20 mn à découvert.
+    Remettez la lotte dans la sauce, couvrez et laissez cuire encore 20 mn.
+    Accompagnez de légumes, pommes de terre et carottes cuites vapeur.
+  ]]>
+  </preparation>
+</recette>

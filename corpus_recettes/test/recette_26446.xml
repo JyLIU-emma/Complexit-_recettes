@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26446">
+  <titre>Daube de jarret de boeuf</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 jarret de boeuf</p>
+    <p>1 bouteille de vin rouge</p>
+    <p>1 oignon piqué de 5 clous de girofle</p>
+    <p>1 branche de céleri</p>
+    <p>1 échalote</p>
+    <p>300 g de lard</p>
+    <p>2 brins de thym</p>
+    <p>1 bouquet de persil</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille :
+    Mettre le jarret dans un plat haut. Mouiller de vin à hauteur. Ajouter le thym, le persil, 150 g de lard coupé en lardons, le céleri coupé en morceaux, l'oignon clouté de girofle et l'échalote coupée en 4.
+    Laisser mariner 24 heures. 
+    Le jour même :
+    Egoutter la viande. La recouvrir du reste du lard coupé en fines tranches et maintenir à l'aide de ficelle.
+    Faire revenir la viande dans l'huile chaude. Recouvrir de la marinade avec les légumes et le lard. Ôtez les clous de girofle de l'oignon.
+    Laisser cuire 2 heures à couvert.
+  ]]>
+  </preparation>
+</recette>

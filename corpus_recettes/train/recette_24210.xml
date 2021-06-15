@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24210">
+  <titre>Salade de carottes râpées aux pignons et raisins secs</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de belles carottes</p>
+    <p>30 g de pignons</p>
+    <p>15 g de raisins secs</p>
+    <p>1 cuillère à soupe de vinaigre balsamique</p>
+    <p>2 cuillères à soupe d'huile de tournesol</p>
+    <p>sel, poivre du moulin </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher et râper les carottes.
+    Dans un saladier, préparer la vinaigrette en mélangeant sel, poivre, vinaigre et huile de tournesol. Y incorporer les carottes, les pignons de pin et les raisins secs.
+    Bien mélanger le tout et laisser reposer au moins 3 h au réfrigérateur, le temps que les carottes s'imprègnent bien de la vinaigrette.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20424">
+  <titre>Congolais</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de sucre</p>
+    <p>250 g de noix de coco râpée</p>
+    <p>5 blancs d'oeufs (pas en neige) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le sucre avec les blancs d'oeuf (pas en neige), puis incorporer la noix de coco. Bien mélanger pour obtenir une pâte un peu consistante. Façonner des petites boules et les disposer sur un plaque avec papier sulfurisé beurré. Cuire à four chaud : 200°C environ 15/20 min, les retirer quand ils commencent à dorer.
+  ]]>
+  </preparation>
+</recette>

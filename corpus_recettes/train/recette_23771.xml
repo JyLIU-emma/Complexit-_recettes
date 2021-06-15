@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23771">
+  <titre>Rougets farcis en papillote</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 rougets grondins ou 8 rougets barbets vidés</p>
+    <p>100 g de lard fumé</p>
+    <p>1/2 bulbe de fenouil</p>
+    <p>1 cuillère à soupe de basilic haché</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hachez le lard et le fenouil. Mélangez-les avec le basilic, l'huile d'olive, un peu de sel et de poivre.
+    Farcissez les rougets de ce mélange, et enveloppez-les dans du papier aluminium. Fezmes les papillotes et faites cuire 15 minutes sur le barbecue, ou sous le grill du four. Retournez-les à mi-cuisson.
+    Accompagnez de purée à l'huile d'olive et de fenouil grillé.
+  ]]>
+  </preparation>
+</recette>

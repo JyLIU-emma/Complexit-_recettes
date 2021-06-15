@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26645">
+  <titre>Terrine de poisson au vin blanc sauce à l'estragon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poisson d'1,5 kg à chair blanche (bar, colin, lieu, merlan)</p>
+    <p>1 échalote</p>
+    <p>4 oeufs</p>
+    <p>150 g de crème fraîche</p>
+    <p>10 cl de vin blanc</p>
+    <p>beurre</p>
+    <p>sel, poivre</p>
+    <p>Pour la sauce :</p>
+    <p>25 cl de fumet de poisson réduit</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>1 cuillère à soupe d'estragon frais haché</p>
+    <p>100 g de crème fraîche</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire préparer le poisson par votre poissonnier : le faire vider et lever les filets pour ne récupèrer que la chair.
+    Peler et découper l'échalote en 4 avant de la passer au mixeur avec la chair de poisson.
+    Dans un bol, battre les oeufs avec la crème, le sel, le poivre et le vin blanc. Verser ce mélange dans le mixeur avec la chair du poisson et mixer le tout ensemble jusqu'à l'obtention d'une pâte parfaitement homogène.
+    Déposer la préparation dans une terrine beurrée et la placer dans un bain-marie.
+    Faire cuire 40 min à four chaud et vérifier la cuisson à l'aide de la pointe d'un couteau. Si la terrine est cuite, la lame doit ressortir chaude.
+    Laisser tiédir dans le four à porte ouverte, puis préparer la sauce :
+    Mélanger dans une casserole, le vin avec le fumet de poisson, l'estragon haché puis laisser chauffer quelques minutes à feu très doux. Ajouter ensuite la crème, puis laisser épaissir en remuant à l'aide d'une cuillère en bois.
+    Servir la terrine avec la sauce en saucière.
+  ]]>
+  </preparation>
+</recette>

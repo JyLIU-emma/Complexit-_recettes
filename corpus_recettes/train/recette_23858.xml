@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23858">
+  <titre>Sole à l'indienne</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>8 filets de sole</p>
+    <p>1 petit oignon frais</p>
+    <p>1 gousse d'ail</p>
+    <p>1 tomate</p>
+    <p>1 yaourt nature et demi</p>
+    <p>1 cuillère à café de gingembre en poudre</p>
+    <p>1/2 cuillère à café de cumin en poudre</p>
+    <p>1 pincée de sucre</p>
+    <p>4 gouttes de tabasco</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ebouillantez la tomate, égouttez-la et pelez-la. Coupez-la en deux, puis pressez-la doucement pour ôter les graines.
+    Dans le bol d'un robot mixeur, réunissez la tomate, l'oignon et l'ail pelé Mixez pour lissez le mélange. Incorporez ensuite le yaourt et demi, le poivre, le sel, les épices, le sucre et le tabasco. Remettez la sauce au réfrigérateur.
+    Pendant ce temps, faites cuire les filets de sole à la vapeur, que vous servirez nappés de cette sauce bien fraîche.
+    Servez avec du riz blanc ou des tomates concassées, accompagnées de poireaux émincés et étuvés en cocotte.
+    Ce plat peut aussi se préparer avec n'importe quel filet de poisson.
+  ]]>
+  </preparation>
+</recette>

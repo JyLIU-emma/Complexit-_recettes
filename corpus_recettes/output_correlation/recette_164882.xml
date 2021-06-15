@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164882">
+  <titre>Teacakes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>-15g de levure de boulanger </p>
+    <p>-5 cuillères à soupe de sucre en poudre </p>
+    <p>-15cl de lait chaud</p>
+    <p>-450g de farine</p>
+    <p>-1 pincée de sel</p>
+    <p>-1/4 de c.à café de cannelle</p>
+    <p>-50g de beurre ramolli</p>
+    <p>-75g de raisins secs</p>
+    <p>-1 oeuf battu</p>
+    <p>-Miel ou sirop de glucose fondu</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Travailler la levure en crème avec le sucre jusqu'à obtention d'une pâte lisse. Ajouter progressivement le lait et bien mélanger. Couvrir et laisser reposer 10 à 15mn dans un endroit tiède, jusqu'à ce que le mélange devienne mousseux.
+    Dans un terrine, mélanger la farine, le sel et la cannelle. Incorporer le beurre du bout des doigts. La pâte doit être extrêmement friable. Faire une fontaine au centre et verser le mélange à la levure. Travailler à la fourchette jusqu'à ce que la farine soit complètement absorbée. La pâte a alors une consistance ferme. La placer dans une autre terrine graissée et la recouvrir d'un torchon humide. Laisser reposer 1h à 1h30 dans un endroit tiède jusqu'à ce qu'elle double de volume.
+    Au bout de ce temps, placer la pâte sur le plan de travail fariné, la pétrir légèrement avec les raisins secs pour bien les répartir. Former 8 à 10 boules, les aplatir et les disposer sur une plaque à pâtisserie graissée.
+    Laisser reposer encore 30mn dans un endroit tiède pour qu'elles lèvent. Préchauffer le four à 200°(th.6-7).  Badigeonner les teacakes d'oeuf battu et les mettre à cuire 10 à 15 mn jusqu'à ce qu'ils soient bruns et fermes.
+    Les sortir du four et les mettre à refroidir sur une grille. Les badigeonner de sirop de glucose ou de miel fondu tant qu'ils sont encore chauds(facultatif).
+    Servir bien chauds, beurrés, après les avoir coupés en 2 dans la hauteur et passés légèrement au gril.Un délice britannique à déguster à l'heure du thé, en même temps que des scones, par exemple.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Travailler</OPER> la <INGRED id="1">levure</INGRED> en crème avec le sucre jusqu'à obtention d'une <INGRED id="1">pâte</INGRED> lisse. <OPER id="o_2">Ajouter</OPER> progressivement le <INGRED id="2">lait</INGRED> et bien <OPER id="o_3">mélanger</OPER>. <OPER id="o_4">Couvrir</OPER> et laisser <OPER id="o_5">reposer</OPER> 10 à 15mn dans un endroit tiède, jusqu'à ce que le <INGRED id="7">mélange</INGRED> devienne mousseux. Dans un terrine, <OPER id="o_6">mélanger</OPER> la <INGRED id="2">farine</INGRED>, le <INGRED id="7">sel</INGRED> et la <INGRED id="2">cannelle</INGRED>. <OPER id="o_7">Incorporer</OPER> le <INGRED id="8">beurre</INGRED> du bout des doigts. La <INGRED id="1">pâte</INGRED> doit être extrêmement friable. Faire une fontaine au centre et <OPER id="o_8">verser</OPER> le <INGRED id="2">mélange</INGRED> à la <INGRED id="7">levure</INGRED>. <OPER id="o_9">Travailler</OPER> à la fourchette jusqu'à ce que la farine soit complètement absorbée. La <INGRED id="1">pâte</INGRED> a alors une consistance ferme. La <OPER id="o_10">placer</OPER> dans une autre terrine graissée et la <OPER id="o_11">recouvrir</OPER> d'un torchon humide. Laisser <OPER id="o_12">reposer</OPER> 1h à 1h30 dans un endroit tiède jusqu'à ce qu'elle double de volume. Au bout de ce temps, <OPER id="o_13">placer</OPER> la <INGRED id="1">pâte</INGRED> sur le plan de travail fariné, la <OPER id="o_14">pétrir</OPER> légèrement avec les <INGRED id="8">raisins secs</INGRED> pour bien les répartir. Former 8 à 10 <INGRED id="1">boules</INGRED>, les <OPER id="o_15">aplatir</OPER> et les <OPER id="o_16">disposer</OPER> sur une plaque à pâtisserie graissée. Laisser <OPER id="o_17">reposer</OPER> encore 30mn dans un endroit tiède pour qu'elles lèvent. <OPER id="o_18">Préchauffer</OPER> le four à 200 ° (th.6 - 7 ). <OPER id="o_19">Badigeonner</OPER> les teacakes d'<INGRED id="7">oeuf</INGRED> battu et les <OPER id="o_20">mettre</OPER> à <OPER id="o_21">cuire</OPER> 10 à 15 mn jusqu'à ce qu'ils soient bruns et fermes. Les <OPER id="o_22">sortir</OPER> du four et les <OPER id="o_23">mettre</OPER> à <OPER id="o_24">refroidir</OPER> sur une grille. Les <OPER id="o_25">badigeonner</OPER> de <INGRED id="4">sirop</INGRED> de glucose ou de <INGRED id="9">miel</INGRED> fondu tant qu'ils sont encore chauds(facultatif ). Servir bien chauds, beurrés, après les <OPER id="o_26">avoir</OPER> coupés en 2 dans la hauteur et passés légèrement au gril. Un délice britannique à déguster à l'heure du thé, en même temps que des scones, par exemple.
+  </annotation>
+  <annotation methode="crf">
+  Travailler la <INGRED>levure</INGRED> en <INGRED>crème</INGRED> avec le <INGRED>sucre</INGRED> jusqu'à obtention d'une <INGRED>pâte</INGRED> lisse <INGRED>.</INGRED> Ajouter progressivement le <INGRED>lait</INGRED> et bien mélanger. Couvrir et laisser reposer 10 à 15mn dans un endroit tiède <INGRED>,</INGRED> jusqu'à ce que le <INGRED>mélange</INGRED> devienne mousseux. Dans un terrine <INGRED>,</INGRED> mélanger la <INGRED>farine</INGRED> <INGRED>,</INGRED> le <INGRED>sel</INGRED> et la <INGRED>cannelle</INGRED> <INGRED>.</INGRED> Incorporer le <INGRED>beurre</INGRED> du bout des doigts. La <INGRED>pâte</INGRED> doit être extrêmement friable <INGRED>.</INGRED> Faire une fontaine au centre et verser le <INGRED>mélange</INGRED> à la <INGRED>levure</INGRED> <INGRED>.</INGRED> Travailler à la fourchette jusqu'à ce que la <INGRED>farine</INGRED> soit complètement absorbée <INGRED>.</INGRED> La <INGRED>pâte</INGRED> <INGRED>a</INGRED> alors une consistance ferme. La placer dans une autre terrine graissée et la recouvrir d'un torchon humide. Laisser reposer 1h à 1h30 dans un endroit tiède jusqu'à ce qu'elle double de <INGRED>volume</INGRED>. Au bout de ce temps <INGRED>,</INGRED> placer la <INGRED>pâte</INGRED> sur le plan de travail fariné <INGRED>,</INGRED> la pétrir légèrement avec les <INGRED>raisins secs</INGRED> pour bien les répartir <INGRED>.</INGRED> Former 8 à 10 <INGRED>boules</INGRED> <INGRED>,</INGRED> les aplatir et les disposer sur une plaque à pâtisserie graissée. Laisser reposer encore 30mn dans un endroit tiède pour qu'elles lèvent <INGRED>.</INGRED> Préchauffer le four à 200 ° (th.6 - 7 ). Badigeonner les teacakes d'<INGRED>oeuf</INGRED> battu et les mettre à cuire 10 à 15 mn jusqu'à ce qu'ils soient bruns et fermes. Les sortir du four et les mettre à refroidir sur une grille. Les badigeonner de <INGRED>sirop</INGRED> de glucose <INGRED>ou</INGRED> de <INGRED>miel fondu</INGRED> tant qu'ils sont encore chauds(facultatif ). Servir bien chauds <INGRED>,</INGRED> beurrés <INGRED>,</INGRED> après les avoir coupés en 2 dans la hauteur et passés légèrement au gril. Un délice britannique à déguster à l'heure du thé <INGRED>,</INGRED> en même temps que des <INGRED>scones</INGRED> <INGRED>,</INGRED> par exemple.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 26.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 19</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['levure de boulanger', 'levure']	 id:1	 quantité:non_precis	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre en poudre', 'sucre']	 id:2	 quantité:non_precis	 unité:cuillères à soupe de	 denombrable:False	 recipient:1
+ingredient:['lait chaud', 'lait']	 id:3	 quantité:non_precis	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:4	 quantité:non_precis	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:5	 quantité:non_precis	 unité:pincée de	 denombrable:False	 recipient:1
+ingredient:['-1/4 de c.à café de cannelle', '-1/4']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['beurre ramolli', 'beurre']	 id:7	 quantité:non_precis	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['raisins secs', 'raisins']	 id:8	 quantité:non_precis	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['-1 oeuf battu', '-1']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['-Miel ou sirop de glucose fondu', '-Miel']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:travailler	 id:o_1	 ingrédients_ralatifs:['1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:couvrir	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:mélanger	 id:o_6	 ingrédients_ralatifs:['2', '7', '2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:incorporer	 id:o_7	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_8	 ingrédients_ralatifs:['2', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:travailler	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recouvrir	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:placer	 id:o_13	 ingrédients_ralatifs:['1', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:pétrir	 id:o_14	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:aplatir	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:reposer	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:préchauffer	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:badigeonner	 id:o_19	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cuire	 id:o_21	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:sortir	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_23	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:refroidir	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:badigeonner	 id:o_25	 ingrédients_ralatifs:['4', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:avoir	 id:o_26	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

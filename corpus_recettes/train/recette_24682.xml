@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24682">
+  <titre>Soufflé de saumon en coque de tomate</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 tomates</p>
+    <p>150 g de saumon frais</p>
+    <p>1 cuillère à soupe de crème fraîche</p>
+    <p>1 cuillère à soupe de vin blanc sec</p>
+    <p>1 oeuf</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Couper un chapeau à chacune des tomates et les vider de leurs graines.
+    Mixer le saumon avec la crème, le vin, le jaune d'oeuf, du sel et du poivre.
+    Incorporer le blanc battu en neige ferme délicatement puis verser cette préparation dans les tomates.
+    Les disposer dans un plat à gratin beurré et enfourner pour 25 minutes de cuisson sans ouvrir la porte du four.
+  ]]>
+  </preparation>
+</recette>

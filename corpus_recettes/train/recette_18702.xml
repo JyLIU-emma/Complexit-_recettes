@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18702">
+  <titre>Chili con carne simple</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de lardons</p>
+    <p>un demi chorizo</p>
+    <p>400 g de steack haché</p>
+    <p>2 poivrons rouges</p>
+    <p>1 oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>1 boîtes de haricots rouges</p>
+    <p>une boîte de concentré de tomates</p>
+    <p>un verre de vin rouge</p>
+    <p>un verre d'eau</p>
+    <p>une bonne cuillerée de paprika</p>
+    <p>du persil</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir, dans une poêle, les lardons avec les oignons émincés. Rajouter les rondelles de chorizo. Réserver dans un faitout à feu doux.
+    Faire revenir les morceaux de poivrons coupés en petites lamelles. Réserver.
+    Faire revenir le steak haché émietté avec l'ail broyé. Mettre dans le faitout.
+    Dans le faitout, toujours à feu doux, rajouter les haricots rouges, le concentré de tomates, le vin rouge, l'eau, le paprika, les poivrons et le persil.
+    Laisser mijoter en remuant de temps en temps. Laisser cuire entre 45 et 60 min. La sauce ne doit pas être trop liquide. Assaisonner à votre goût.
+    Vous pouvez ajoutez du gruyère râpé sur votre assiette au moment de le manger.
+  ]]>
+  </preparation>
+</recette>

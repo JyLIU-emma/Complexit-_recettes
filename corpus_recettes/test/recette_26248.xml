@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26248">
+  <titre>Salade de riz au poivron et au raisin</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de riz cuit à la créole</p>
+    <p>200 g de raisins secs</p>
+    <p>100 g de pignons de pin</p>
+    <p>100 g d'olives noires</p>
+    <p>2 gousses d'ail ciselé</p>
+    <p>1 poivron rouge en lamelles</p>
+    <p>1 oignon ciselé</p>
+    <p>4 cuillères à soupe d'huile d'olive</p>
+    <p>2 cuillères à soupe de vinaigre</p>
+    <p>1 cuillère à soupe de ciboulette hachée</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les raisins à tremper dans de l'eau tiède. Les mélanger au riz, à l’oignon, à l’ail, les pignons et les olives. 
+    Dans un bol, mélanger l’huile d’olive, le vinaigre et la ciboulette. Assaisonner et verser sur la salade. Attendre 30 min avant de servir.
+  ]]>
+  </preparation>
+</recette>

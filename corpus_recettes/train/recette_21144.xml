@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21144">
+  <titre>Lapin aux topinambours</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 râbles de lapin</p>
+    <p>2 rognons</p>
+    <p>1 kg de topinambours</p>
+    <p>2 beaux oignons</p>
+    <p>200 g de lardons</p>
+    <p>2 têtes d'ail</p>
+    <p>1 bouquet garni</p>
+    <p>un bouillon de volaille dissout dans 1 litre d'eau</p>
+    <p>sel, poivre</p>
+    <p>25 cl de vin blanc</p>
+    <p>une cuillère à soupe de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher les oignons et l'ail, dégraisser les râbles de lapin, réserver les rognons. éplucher les topinambors et les couper en cubes grossiers. 
+    Dans une cocotte, faire revenir les lardons avec les oignons, ajouter les râbles de lapin. les faire dorer une quinzaine de minutes. 
+    Déglacer avec le vin blanc, recouvrir ensuite avec le bouillon de volaille. Ajouter le bouquet garni, saler, poivrer, couvrir et laisser mijoter 30 mn. 
+    Ajouter les topinambours et les rognons coupés en deux dans la longueur. Laisser mijoter 45 mn.
+    5) en fin de cuisson, ajouter la farine pour épaissir un peu la sauce.
+    Encore meilleur réchauffé! vin blanc d'alsace
+  ]]>
+  </preparation>
+</recette>

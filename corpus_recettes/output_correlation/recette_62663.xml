@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62663">
+  <titre>Pain de veau dit 'à l'ancienne'</titre>
+  <type>Plat principal</type>
+  <niveau>Difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Restes de veau de la semaine (désosser si nécessaire) et compléter de viande fraîche pour atteindre les 600 g environ</p>
+    <p>50 g champignons de Paris</p>
+    <p>2 tranches de pain rassis à faire tremper dans du lait</p>
+    <p>1 tranche moyennement fine de jambon fumé ou bacon</p>
+    <p>1 gros oignon</p>
+    <p>2 belles échalotes</p>
+    <p>3 gousses d'ail</p>
+    <p>1 grande boîte de tomates pelées ou 1,5 kg de tomates bien mûres</p>
+    <p>sel, poivre et piment de Cayenne</p>
+    <p>persil, estragon, thym, romarin en poudre</p>
+    <p>10 cl huile d'olive</p>
+    <p>1 cuillère à soupe de Cognac</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>2 oeufs entiers</p>
+    <p>500 g de tagliatelles</p>
+    <p>chapelure fine ou pain grillé émietté finement ou pain rassis lui aussi émietté finement</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille, mixer les tomates pelées avec quelques pincées de sel, du Cayenne, du thym, du romarin, de l'estragon et verser la préparation dans une casserole.
+    Faire chauffer moyen.
+    Avant ébullition ajouter 1 cuillère d'huile d'olive, baisser le feu, laisser mijoter tranquillement pendant 1 heure en remuant de temps à autre.
+    Si tomates fraîches, les couper en petits dés et faire comme indiqué ci-dessus.
+    Le jour même, préchauffer le four à 160°C (thermostat 5-6).
+    Eplucher l'ail, les oignons et les échalotes. Essuyer avec un torchon humide les champignons et émincer le tout.
+    Faire tremper le pain rassis dans le lait.
+    Dans un grand bol, mixer tous les ingrédients en ajoutant le pain, le sel, le poivre, l'huile, les oeufs, le vin, le Cognac et la viande fraîche si nécessaire.
+    Verser la préparation dans un grand plat allant au four saupoudrer de chapelure et enfourner pour 60 minutes de cuisson.
+     
+    Pendant ce temps réchauffer le coulis obtenu la veille corriger l'assaisonnement si nécessaire.
+    Faire cuire des tagliatelles pour 4.
+    En fin de cuisson du pain le recouvrir d'une feuille d'aluminium et laisser reposer pendant 15 minutes.
+    Déguster sans attendre avec le coulis.
+    Ce plat peut se manger froid ou chaud.
+    Le coulis peut être plus ou moins épicé (le diviser en deux si tout le monde ne supporte pas les épices fortes).  Tavel ou Pinot d'alsace
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  La veille, <OPER id="o_1">mixer</OPER> les <INGRED id="1">tomates</INGRED> pelées avec quelques pincées de <INGRED id="14">sel</INGRED>, du Cayenne, du <INGRED id="22">thym</INGRED>, du <INGRED id="16">romarin</INGRED>, de l'<INGRED id="14">estragon</INGRED> et <OPER id="o_2">verser</OPER> la <INGRED id="4">préparation</INGRED> dans une casserole. Faire <OPER id="o_3">chauffer</OPER> moyen. Avant ébullition <OPER id="o_416">ajouter</OPER> 1 <INGRED id="8">cuillère</INGRED> d'<INGRED id="5">huile d'olive</INGRED>, <OPER id="o_5">baisser</OPER> le feu, <INGRED id="12">laisser</INGRED> <OPER id="o_6">mijoter</OPER> tranquillement pendant 1 heure en remuant de temps à autre. Si <INGRED id="8">tomates</INGRED> fraîches, les <OPER id="o_7">couper</OPER> en <INGRED id="9">petits</INGRED> <INGRED id="3">dés</INGRED> et <INGRED id="4">faire</INGRED> comme indiqué ci - dessus. Le jour même, <OPER id="o_8">préchauffer</OPER> le four à 160 ° C ( thermostat 5 - 6 ). <OPER id="o_9">Eplucher</OPER> <INGRED id="1">l'ail</INGRED>, les oignons et les <INGRED id="10">échalotes</INGRED>. <OPER id="o_10">Essuyer</OPER> avec un torchon humide les <INGRED id="3">champignons</INGRED> et <OPER id="o_119">émincer</OPER> le tout. Faire <OPER id="o_12">tremper</OPER> le <INGRED id="1">pain rassis</INGRED> dans le <INGRED id="4">lait</INGRED>. Dans un grand bol, <OPER id="o_13">mixer</OPER> tous les ingrédients en ajoutant le <INGRED id="6">pain</INGRED>, le <INGRED id="2">sel</INGRED>, le <INGRED id="3">poivre</INGRED>, l'<INGRED id="13">huile</INGRED>, les <INGRED id="4">oeufs</INGRED>, le <INGRED id="12">vin</INGRED>, le <INGRED id="18">Cognac</INGRED> et la <INGRED id="1">viande</INGRED> fraîche si nécessaire. <OPER id="o_14">Verser</OPER> la <INGRED id="4">préparation</INGRED> dans un grand <INGRED id="9">plat</INGRED> allant au four <OPER id="o_15">saupoudrer</OPER> de <INGRED id="6">chapelure</INGRED> et <OPER id="o_16">enfourner</OPER> pour 60 minutes de cuisson. Pendant ce temps <OPER id="o_17">réchauffer</OPER> le <INGRED id="8">coulis</INGRED> obtenu la veille <OPER id="o_18">corriger</OPER> l'assaisonnement si nécessaire. Faire <OPER id="o_19">cuire</OPER> des <INGRED id="21">tagliatelles</INGRED> pour 4. En fin de cuisson du <INGRED id="7">pain</INGRED> le <OPER id="o_20">recouvrir</OPER> d'une feuille d'aluminium et <INGRED id="12">laisser</INGRED> <OPER id="o_21">reposer</OPER> pendant 15 minutes. Déguster sans <OPER id="o_22">attendre</OPER> avec le <INGRED id="16">coulis</INGRED>. Ce <INGRED id="9">plat</INGRED> peut se <OPER id="o_23">manger</OPER> froid ou chaud. Le <INGRED id="8">coulis</INGRED> peut être plus ou moins épicé ( le <OPER id="o_24">diviser</OPER> en <INGRED id="6">deux</INGRED> si tout le monde ne supporte pas les <INGRED id="7">épices</INGRED> fortes ). Tavel ou Pinot d'alsace
+  </annotation>
+  <annotation methode="crf">
+  La veille <INGRED>,</INGRED> mixer les <INGRED>tomates pelées</INGRED> avec quelques pincées de <INGRED>sel</INGRED> <INGRED>,</INGRED> du Cayenne <INGRED>,</INGRED> du <INGRED>thym</INGRED> <INGRED>,</INGRED> du <INGRED>romarin</INGRED> <INGRED>,</INGRED> de l'<INGRED>estragon</INGRED> et verser la préparation dans une casserole <INGRED>.</INGRED> Faire chauffer moyen <INGRED>.</INGRED> Avant ébullition ajouter 1 cuillère d'<INGRED>huile d'olive</INGRED> <INGRED>,</INGRED> baisser le feu <INGRED>,</INGRED> laisser mijoter tranquillement pendant 1 heure en remuant de temps à autre <INGRED>.</INGRED> Si <INGRED>tomates</INGRED> fraîches <INGRED>,</INGRED> les couper en <INGRED>petits</INGRED> dés et faire comme indiqué ci - dessus. Le jour même <INGRED>,</INGRED> préchauffer le four à 160 ° C ( thermostat 5 - 6 ). Eplucher l'<INGRED>ail</INGRED> <INGRED>,</INGRED> les <INGRED>oignons</INGRED> et les <INGRED>échalotes</INGRED> <INGRED>.</INGRED> Essuyer avec un torchon humide les <INGRED>champignons</INGRED> et émincer le tout <INGRED>.</INGRED> Faire tremper le <INGRED>pain</INGRED> rassis dans le <INGRED>lait</INGRED> <INGRED>.</INGRED> Dans un grand bol <INGRED>,</INGRED> mixer tous les ingrédients en ajoutant le <INGRED>pain</INGRED> <INGRED>,</INGRED> le <INGRED>sel</INGRED> <INGRED>,</INGRED> le <INGRED>poivre</INGRED> <INGRED>,</INGRED> l'<INGRED>huile</INGRED> <INGRED>,</INGRED> les <INGRED>oeufs</INGRED> <INGRED>,</INGRED> le <INGRED>vin</INGRED> <INGRED>,</INGRED> le Cognac et la <INGRED>viande</INGRED> fraîche si nécessaire. Verser la préparation dans un grand plat allant au four saupoudrer de <INGRED>chapelure</INGRED> et enfourner pour 60 minutes de cuisson. Pendant ce temps réchauffer le <INGRED>coulis</INGRED> obtenu la veille corriger l'assaisonnement si nécessaire. Faire cuire des <INGRED>tagliatelles</INGRED> pour 4 <INGRED>.</INGRED> En fin de cuisson du <INGRED>pain</INGRED> le recouvrir d'une feuille d'aluminium et laisser reposer pendant 15 minutes. Déguster sans attendre avec le <INGRED>coulis</INGRED> <INGRED>.</INGRED> Ce plat peut se manger froid <INGRED>ou</INGRED> chaud <INGRED>.</INGRED> Le <INGRED>coulis</INGRED> peut être plus <INGRED>ou</INGRED> moins épicé ( le diviser en deux si tout le monde ne supporte pas les <INGRED>épices</INGRED> fortes ). Tavel <INGRED>ou</INGRED> Pinot d'alsace
+  </annotation>
+  <complexite>
+    <temps>f(X) = 13.3333333333333*X + 16.6666666666667</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 12*X + 22</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['Restes de veau de la semaine', 'Restes']	 id:1	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['compléter de viande fraîche', 'compléter']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['Paris']	 id:3	 quantité:50	 unité:g champignons de	 denombrable:False	 recipient:1
+ingredient:['pain rassis à faire tremper dans du lait', 'pain']	 id:4	 quantité:2	 unité:tranches de	 denombrable:True	 recipient:2*X
+ingredient:['jambon fumé', 'jambon']	 id:5	 quantité:1	 unité:tranche moyennement fine de	 denombrable:True	 recipient:1*X
+ingredient:['oignon']	 id:6	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['échalotes']	 id:7	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['ail']	 id:8	 quantité:3	 unité:gousses d'	 denombrable:True	 recipient:3*X
+ingredient:['tomates bien mûres', 'tomates']	 id:9	 quantité:1	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['piment de Cayenne', 'piment']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['persil']	 id:13	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['estragon']	 id:14	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['thym']	 id:15	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['romarin en poudre', 'romarin']	 id:16	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olive']	 id:17	 quantité:10	 unité:cl huile d'	 denombrable:False	 recipient:1
+ingredient:['Cognac']	 id:18	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['vin blanc sec', 'vin']	 id:19	 quantité:10	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['oeufs entiers', 'oeufs']	 id:20	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['tagliatelles']	 id:21	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['chapelure fine ou pain grillé émietté finement ou pain rassis lui aussi émietté finement', 'chapelure']	 id:22	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mixer	 id:o_1	 ingrédients_ralatifs:['1', '14', '22', '16', '14', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_2	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:ajouter	 id:o_4	 ingrédients_ralatifs:['8', '5', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:baisser	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_6	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:couper	 id:o_7	 ingrédients_ralatifs:['8', '9', '3', '4']	 nombre_opération_atomique:3*X+1+1+2*X	 temps:3*X*1+1*X*1+1*X*1+2*X*1	 recipient:1
+operation:préchauffer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:eplucher	 id:o_9	 ingrédients_ralatifs:['1', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:essuyer	 id:o_10	 ingrédients_ralatifs:['3', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:émincer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tremper	 id:o_12	 ingrédients_ralatifs:['1', '4']	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:mixer	 id:o_13	 ingrédients_ralatifs:['6', '2', '3', '13', '4', '12', '18', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_14	 ingrédients_ralatifs:['4', '9', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saupoudrer	 id:o_15	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfourner	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:réchauffer	 id:o_17	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:corriger	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_19	 ingrédients_ralatifs:['21']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:recouvrir	 id:o_20	 ingrédients_ralatifs:['7', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_21	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:attendre	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:manger	 id:o_23	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:diviser	 id:o_24	 ingrédients_ralatifs:['6', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

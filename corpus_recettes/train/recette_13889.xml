@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13889">
+  <titre>Gratin aux deux saumons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>7 ou 8 grosses pommes de terre</p>
+    <p>4 ou 5 tranches de saumon fumé</p>
+    <p>2 belles darnes de saumon frais</p>
+    <p>50cl de crème fraîche semi-épaisse</p>
+    <p>sel, poivre, muscade</p>
+    <p>un peu de gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire précuire les pommes de terre et les darnes de saumon à la vapeur environ 10mn à un quart d'heure.
+    Laisser refroidir un peu, puis couper les pommes de terre en lamelles fines dans un plat à gratin préalablement beurré.
+    Alterner une couche de pommes de terre, les tranches de saumon fumé, une couche de pommes de terre, une couche de saumon frais émietté et finir par une couche de pommes de terre.
+    Mélanger la crème fraîche avec le sel, le poivre et un peu de muscade, verser-la sur le gratin de façon à ce que se soit bien réparti. Recouvrir de gruyère râpé et enfourner pour finir la cuisson et faire dorer. Servir avec une salade.
+  ]]>
+  </preparation>
+</recette>

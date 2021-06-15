@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173659">
+  <titre>Les Poêlées à la Nut's</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 tranches de pain de mie</p>
+    <p>5 cuillères à soupe d'huile d'olive</p>
+    <p>1 litre de lait</p>
+    <p>du poivre (noir en moulin de préférence )</p>
+    <p>15 cuillères à soupe de sucre</p>
+    <p>250 g de chocolat pâtissier</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Compter 1 cuillère à soupe d'huile, 3 cuillères à soupe de sucre, 20 cl de lait et 50 g de chocolat par tranche de pain.
+    Pour 1 tranche de pain de mie :Faire chauffer la poêle, y ajouter une cuillère à soupe d'huile.
+    Faire caraméliser le sucre au fond de la poêle.
+    Lorsque le sucre commence à fondre, ajouter une tranche de pain de façon à ce que celle-ci s'imprègne bien du caramel (attention une tranche de pain est constituée de 2 faces !).Ajouter le lait, doucement, de façon à imbiber la tranche de pain.
+    Lorsque le lait est complétement absorbé par le pain, saupoudrer d'un peu de poivre.
+    Faire fondre le chocolat sur la tranche, Puis déposer le résultat dans une assiette !Il ne vous reste plus qu'à répéter l'opération avec les 4 autres tranches de pain de mie.Veiller à bien observer la texture de la préparation et à ce qu'elle soit bien grillée mais moelleuse aussi ! 
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Compter</OPER> 1 cuillère à <INGRED id="4">soupe d'huile</INGRED>, 3 cuillères à soupe de sucre, 20 <INGRED id="2">cl</INGRED> de lait et <INGRED id="3">50</INGRED> <INGRED id="4">g</INGRED> de <INGRED id="1">chocolat</INGRED> par tranche de <INGRED id="6">pain</INGRED>. Pour 1 tranche de <INGRED id="4">pain de mie</INGRED> : Faire <OPER id="o_2">chauffer</OPER> la poêle, y <OPER id="o_3">ajouter</OPER> une cuillère à <INGRED id="4">soupe d'huile</INGRED>. Faire <OPER id="o_4">caraméliser</OPER> le sucre au fond de la poêle. Lorsque le sucre commence à <OPER id="o_5">fondre</OPER>, <OPER id="o_6">ajouter</OPER> une tranche de <INGRED id="1">pain</INGRED> de façon à ce que celle-ci s'imprègne bien du caramel ( attention une tranche de pain est constituée de 2 faces ! ) <OPER id="o_7">.Ajouter</OPER> le <INGRED id="4">lait</INGRED>, doucement, de façon à <OPER id="o_8">imbiber</OPER> la tranche de pain. Lorsque le lait est complétement absorbé par le <INGRED id="1">pain</INGRED>, <OPER id="o_9">saupoudrer</OPER> d'un peu de poivre. Faire <OPER id="o_10">fondre</OPER> le chocolat sur la tranche, Puis <OPER id="o_11">déposer</OPER> le résultat dans une assiette ! Il ne vous <INGRED id="1">reste</INGRED> plus qu'à <OPER id="o_12">répéter</OPER> l'opération avec les 4 autres <INGRED id="4">tranches</INGRED> de <INGRED id="1">pain de mie</INGRED>. <OPER id="o_13">Veiller</OPER> à bien <OPER id="o_14">observer</OPER> la texture de la <INGRED id="4">préparation</INGRED> et à ce qu'elle soit bien grillée mais moelleuse aussi !
+  </annotation>
+  <annotation methode="crf">
+  Compter 1 cuillère à soupe d'<INGRED>huile</INGRED> <INGRED>,</INGRED> 3 <INGRED>cuillères à soupe</INGRED> de <INGRED>sucre</INGRED> <INGRED>,</INGRED> 20 cl de <INGRED>lait</INGRED> et 50 <INGRED>g</INGRED> de <INGRED>chocolat</INGRED> par tranche de <INGRED>pain</INGRED>. Pour 1 tranche de <INGRED>pain</INGRED> de mie <INGRED>:</INGRED> Faire chauffer la poêle <INGRED>,</INGRED> y ajouter une cuillère à soupe d'<INGRED>huile</INGRED>. Faire caraméliser le <INGRED>sucre</INGRED> au <INGRED>fond</INGRED> de la poêle <INGRED>.</INGRED> Lorsque le <INGRED>sucre</INGRED> commence à fondre <INGRED>,</INGRED> ajouter une tranche de <INGRED>pain</INGRED> de façon à ce que celle-ci s'imprègne bien du <INGRED>caramel</INGRED> ( attention une tranche de <INGRED>pain</INGRED> est constituée de 2 faces ! ).Ajouter le <INGRED>lait</INGRED> <INGRED>,</INGRED> doucement <INGRED>,</INGRED> de façon à imbiber la tranche de <INGRED>pain</INGRED>. Lorsque le <INGRED>lait</INGRED> est complétement absorbé par le <INGRED>pain</INGRED> <INGRED>,</INGRED> saupoudrer d'un peu de <INGRED>poivre</INGRED>. Faire fondre le <INGRED>chocolat</INGRED> sur la tranche <INGRED>,</INGRED> Puis déposer le résultat dans une assiette ! Il ne vous <INGRED>reste</INGRED> plus qu'à répéter l'opération avec les 4 autres tranches de <INGRED>pain de mie</INGRED> <INGRED>.</INGRED> Veiller à bien observer la texture de la préparation et à ce qu'elle soit bien grillée mais moelleuse aussi !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 16.9642857142857*X + 2.03571428571429</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 25*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pain de mie', 'pain']	 id:1	 quantité:5	 unité:tranches de	 denombrable:True	 recipient:5*X
+ingredient:["huile d'olive", 'huile']	 id:2	 quantité:5	 unité:cuillères à soupe d'	 denombrable:True	 recipient:5*X
+ingredient:['lait']	 id:3	 quantité:1	 unité:litre de	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:5	 quantité:15	 unité:cuillères à soupe de	 denombrable:True	 recipient:15*X
+ingredient:['chocolat pâtissier', 'chocolat']	 id:6	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:compter	 id:o_1	 ingrédients_ralatifs:['4', '2', '3', '4', '1', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_2	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:ajouter	 id:o_3	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:caraméliser	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fondre	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:.ajouter	 id:o_7	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:imbiber	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saupoudrer	 id:o_9	 ingrédients_ralatifs:['4', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fondre	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:déposer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:répéter	 id:o_12	 ingrédients_ralatifs:['4', '1']	 nombre_opération_atomique:1+5*X	 temps:1*X*5+5*X*5	 recipient:0
+operation:veiller	 id:o_13	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:observer	 id:o_14	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

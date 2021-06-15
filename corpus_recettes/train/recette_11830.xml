@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11830">
+  <titre>Galettes de pommes de terre d'Alsace</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 pommes de terre</p>
+    <p>2 oignons</p>
+    <p>1 oeuf</p>
+    <p>1 cuillère de farine</p>
+    <p>sel</p>
+    <p>épices</p>
+    <p>persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Râper les pommes de terre et les oignons, mélanger avec la farine et l'oeuf, saler et épicer.
+    Dans une poêle, mettre environ 1 cm d'huile.
+    Quand elle est bien chaude, déposer des galettes que vous aurez formées et égoutées en les pressant un peu entre vos mains.
+    Saupoudrer de persil et retourner au bout d'une dizaine de minutes.
+  ]]>
+  </preparation>
+</recette>

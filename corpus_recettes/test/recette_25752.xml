@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25752">
+  <titre>Crème de poireau aux herbes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 poireaux</p>
+    <p>25 cl de bouillon de poule</p>
+    <p>1 cuillère à soupe de crème fraîche</p>
+    <p>1 bouquet de ciboulette ciselé</p>
+    <p>1 branche de thym</p>
+    <p>30 g de beurre froid</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Plonger les herbes dans le bouillon avec les poireaux émincés pendant 5 min. 
+    Tamiser le jus de cuisson et mixer les poireaux.
+    Incorporer un peu de jus de cuisson et de crème à la purée de poireaux.
+    Réduire de moitié le jus de cuisson à feu doux et le battre avec le beurre coupé en petits dés.
+    Servir les poireaux avec la sauce à part.
+  ]]>
+  </preparation>
+</recette>

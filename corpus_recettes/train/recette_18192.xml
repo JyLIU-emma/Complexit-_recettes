@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18192">
+  <titre>Filet mignon tandoori aux carottes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 filet mignon de porc</p>
+    <p>1 kg de carottes</p>
+    <p>1 tomate</p>
+    <p>1 oignon</p>
+    <p>1 cuillère à soupe d'épice tandoori (épice indienne rouge, facile à trouver en épicerie exotique ou au rayon exotique de votre supermarché)</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>huile olive</p>
+    <p>1 cube de bouillon de boeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les oignons et la viande de chaque côté dans l'huile d'olive. Eplucher et couper les carottes en rondelles.
+    Couper la tomate en dés.
+    Mouiller la viande et les oignons avec le vin blanc et le bouillon,
+    ajouter carottes et tomate et les épices. Saler et poivrer.
+    Couvrir, puis cuire une heure à feu doux.
+    On peut faire un peu de riz à côté, c'est très bon avec la sauce. blanc du jura
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12993">
+  <titre>Tagliatelles à la carbonara</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boîte de lardons natures (200g)</p>
+    <p>1 brique de crème fraîche liquide</p>
+    <p>1 sachet de 100g de gruyère râpé</p>
+    <p>300 g de tagliatelles fraîches</p>
+    <p>1 poignée de champignons de Paris surgelés</p>
+    <p>4 jaunes d'oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre 1,5 litre d'eau salée à bouillir.
+    Dans une poèle, faire chauffer les lardons et les champignons à feu vif, sans matière grasse.
+    Quand le contenu de la poêle est doré, ajouter la crème fraîche.
+    Quand la crème fraîche est à ébullition, arrêter le feu et ajouter le fromage râpé; remuer.
+    Faire cuire les pâtes dans une casserole d'eau bouillante salée, le temps indiqué sur le paquet.
+    Egoutter les pâtes, les disposer dans 4 assiettes, puis verser la sauce par dessus. 
+    Décorer d'1 jaune d'oeuf par assiette, en le présentant dans une demi coquille d'oeuf au centre de l'assiette.
+    Servir aussitôt. Succès garanti, parole d'étudiante pas riche !
+    Pour les gourmands, sans ajouter de calories, je parfume la sauce d'un brin de ciboulette hachée, ou d'origan pour les puristes ;-)
+  ]]>
+  </preparation>
+</recette>

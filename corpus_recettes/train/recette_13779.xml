@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13779">
+  <titre>Chocossisson (saucisson de chocolat)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>125 g de sucre roux</p>
+    <p>20 petits beurres</p>
+    <p>125 g de beurre fondu</p>
+    <p>100 g de cacao</p>
+    <p>sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Séparer les blancs des jaunes. Dans un grand saladier, battre les jaunes et le sucre jusqu'à ce que le mélange blanchisse.
+    Ajouter le beurre fondu, puis le cacao. Emietter les petits beurres dans le saladier.Mélanger, puis faire un boudin. Laisser au frais pendant 4 h environ.
+    Rouler le boudin dans le sucre glace. Servir coupé en tranches.
+  ]]>
+  </preparation>
+</recette>

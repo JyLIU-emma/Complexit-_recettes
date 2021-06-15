@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164761">
+  <titre>Galette des rois Poires-Epices</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 rouleaux de pâte feuilletée pur beurre</p>
+    <p>2 cuillères à café rases d'épices à "pain d'épices"</p>
+    <p>2 à 3 poires</p>
+    <p>1 préparation pour frangipane</p>
+    <p>7 cuillères à soupe d'eau froide</p>
+    <p>1 jaune d'oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire préchauffer le four à 180° (th.6)
+    Préparer la frangipane comme indiquer sur la préparation avec les cuillères d'eau froide, battre pendant 2 minutes. Ajouter les épices. Mélanger.
+    Etaler le premier rouleau de pâte en conservant le papier sulfurisé sur la plaque du four.
+    Etalez le frangipane aux épices en conservant un bord de 3 cm tout autour.
+    Tranchez les poires en fines lamelles et les diposer sur la frangipane.
+    Dorer le bord au jaune d'oeuf.
+    Recouvrir du second rouleau de pâte et bien coller les bords.
+    Quadriller le dessus de la galette avec la pointe d'un couteau.
+    Dorer la pâte au jaune d'oeuf.
+    Enfourner pour 30 minutes.Au moment d'étaler la frangipane, les inconditionnels n'oublieront pas la fève ! Vin pétillant de loire (Vouvray) ou cidre ou Clairette de Die
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">préchauffer</OPER> le four à 180 ° ( th.6 ) <OPER id="o_2">Préparer</OPER> la frangipane comme <OPER id="o_3">indiquer</OPER> sur la <INGRED id="4">préparation</INGRED> avec les cuillères d'<INGRED id="5">eau froide</INGRED>, <OPER id="o_4">battre</OPER> pendant 2 minutes. <OPER id="o_5">Ajouter</OPER> les <INGRED id="6">épices</INGRED>. <OPER id="o_6">Mélanger</OPER>. <OPER id="o_7">Etaler</OPER> le premier rouleau de <INGRED id="1">pâte</INGRED> en conservant le papier sulfurisé sur la plaque du four. <OPER id="o_8">Etalez</OPER> le frangipane aux <INGRED id="2">épices</INGRED> en conservant un bord de 3 cm tout autour. <OPER id="o_9">Tranchez</OPER> les <INGRED id="3">poires</INGRED> en fines lamelles et les <OPER id="o_10">diposer</OPER> sur la frangipane. <OPER id="o_11">Dorer</OPER> le bord au <INGRED id="5">jaune d'oeuf</INGRED>. <OPER id="o_12">Recouvrir</OPER> du second rouleau de <INGRED id="5">pâte</INGRED> et bien <OPER id="o_13">coller</OPER> les bords. <OPER id="o_14">Quadriller</OPER> le dessus de la galette avec la pointe d'un couteau. <OPER id="o_15">Dorer</OPER> la <INGRED id="1">pâte</INGRED> au <INGRED id="6">jaune d'oeuf</INGRED>. <OPER id="o_16">Enfourner</OPER> pour 30 minutes. Au moment d'<OPER id="o_17">étaler</OPER> la frangipane, les inconditionnels n'oublieront pas la fève ! <INGRED id="5">Vin</INGRED> pétillant de loire ( Vouvray ) ou <INGRED id="3">cidre</INGRED> ou Clairette de Die
+  </annotation>
+  <annotation methode="crf">
+  Faire préchauffer le four à 180 ° ( th.6 ) Préparer la frangipane comme indiquer sur la préparation avec les <INGRED>cuillères</INGRED> d'<INGRED>eau</INGRED> froide <INGRED>,</INGRED> battre pendant 2 minutes. Ajouter les <INGRED>épices</INGRED> <INGRED>.</INGRED> Mélanger. Etaler le premier <INGRED>rouleau</INGRED> de <INGRED>pâte</INGRED> en conservant le <INGRED>papier sulfurisé</INGRED> sur la plaque du four <INGRED>.</INGRED> Etalez le frangipane aux <INGRED>épices</INGRED> en conservant un bord de 3 cm tout autour. Tranchez les <INGRED>poires</INGRED> en fines <INGRED>lamelles</INGRED> et les diposer sur la frangipane <INGRED>.</INGRED> Dorer le bord au <INGRED>jaune d'oeuf</INGRED> <INGRED>.</INGRED> Recouvrir du second <INGRED>rouleau</INGRED> de <INGRED>pâte</INGRED> et bien coller les bords. Quadriller le dessus de la galette avec la pointe d'un couteau. Dorer la <INGRED>pâte</INGRED> au <INGRED>jaune d'oeuf</INGRED> <INGRED>.</INGRED> Enfourner pour 30 minutes. Au moment d'étaler la frangipane <INGRED>,</INGRED> les inconditionnels n'oublieront pas la fève ! Vin pétillant de loire ( Vouvray ) <INGRED>ou</INGRED> cidre <INGRED>ou</INGRED> Clairette de Die
+  </annotation>
+  <complexite>
+    <temps>f(X) = 19.0*X</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 15*X + 3</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['rouleaux de pâte feuilletée pur beurre', 'rouleaux']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['épices à " pain d\'épices "', 'épices']	 id:2	 quantité:2	 unité:cuillères à café rases d'	 denombrable:True	 recipient:2*X
+ingredient:['poires']	 id:3	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['préparation']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['eau froide', 'eau']	 id:5	 quantité:7	 unité:cuillères à soupe d'	 denombrable:True	 recipient:7*X
+ingredient:["jaune d'oeuf", 'jaune']	 id:6	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préchauffer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:préparer	 id:o_2	 ingrédients_ralatifs:['4', '5']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:indiquer	 id:o_3	 ingrédients_ralatifs:['4', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:etaler	 id:o_7	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:etaler	 id:o_8	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:trancher	 id:o_9	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:diposer	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dorer	 id:o_11	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:7*X*1	 recipient:0
+operation:recouvrir	 id:o_12	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:coller	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:quadriller	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dorer	 id:o_15	 ingrédients_ralatifs:['1', '6']	 nombre_opération_atomique:2*X+1*X	 temps:2*X*1+1*X*1	 recipient:0
+operation:enfourner	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étaler	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19888">
+  <titre>Tarte délicieuse au citron</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>200 g de beurre</p>
+    <p>60 g de poudre d'amandes</p>
+    <p>100 g de sucre glace</p>
+    <p>1 pincée de sel</p>
+    <p>1 gros oeuf</p>
+    <p>300 g de farine</p>
+    <p>Pour la crème :</p>
+    <p>4 oeufs</p>
+    <p>220 g de sucre semoule</p>
+    <p>20 cl de jus de citron</p>
+    <p>200 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez la pâte: mélanger dans l'orde, beurre mou, poudre d'amandes, sucre glace, sel, oeuf et farine sans trop travailler le mélange. Réservez au frais sous un film plastique. 
+    Préparez la crème: mélangez dans un saladier oeufs, sucre, jus de citron. Mettez le saladier au bain-marie et faites cuire la préparation à feu doux en mélangeant sans cesse au fouet jusqu'à ce que la crème épaississe. Dans la crème légèrement refroidie, incorporez le beurre en lamelles. Mixez 5 mn. Réservez au frais 15 à 20 mn. 
+    Foncez un moule de 25 cm de diamètre avec la pâte, garnissez la de papier sulfurisé et de haricots secs. Faites cuire à blanc 20 à 25 mn, à 180°C, Th 6-7 . Puis ôtez papier et haricots. Garnissez de crème au citron, lissez le dessus. 
+    Servir à température.
+     Toute fraîche, elle est servie avec un crémant de Tourraine bien frappé.
+  ]]>
+  </preparation>
+</recette>

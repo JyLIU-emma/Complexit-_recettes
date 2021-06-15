@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69297">
+  <titre>Porcelet farci à l'italienne (Porchetta)</titre>
+  <type>Plat principal</type>
+  <niveau>Difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1 porcelet bien nettoyé livré avec issues (foie, rognon etc...)</p>
+    <p>1 kg de bon lard assez gras à hacher (ou pour les paresseuses de chair à saucisse)</p>
+    <p>de la mie de pain (un pain de campagne) trempée dans le lait</p>
+    <p>2 branches de céleri</p>
+    <p>1 tête d'ail épluchée et hachée</p>
+    <p>20 échalotes épluchées et hachées</p>
+    <p>3 ou 4 cuillères à café d'origan (sec ou frais)</p>
+    <p>3 ou 4 cuillères à café de romarin (sec ou frais mais ébranché)</p>
+    <p>2 cuillères à café de muscade moulue</p>
+    <p>2 cuillères à café de poivre noir moulu</p>
+    <p>2 cuillères à café de sel</p>
+    <p>3 bons verres de Grappa (à défaut un bon marc ou du Cognac)</p>
+    <p>sel et poivre supplémentaire pour la carcasse</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger tous les ingrédients avec le foie et les rognons du porcelet hachés. Il est évident que les quantités peuvent varier suivant l'âge, donc la taille, de l'animal.
+    Si besoin, rajoutez de la chair de porc et de la mie de pain, sans oublier de remettre des aromates en conséquence. Salez et poivrez fortement l'intérieur de la carcasse.
+    Farcissez la bête et recousez solidement le ventre.
+    Mettez à la broche le long d'un feu doux. Laissez tourner. Deux bonnes heures. Arrosez le cochon tout le long de la cuisson avec jus qui s'écoule, voir, si besoin, d'un bon bouillon agrémenté d'huile d'olive.
+    Dégustez froid ou tiède coupé en tranches épaisses avec des pommes de terres sautées au romarin et de la polenta parfumée au fromage et à la Grappa.
+    Quelques feuilles de roquette ou de chicorée de Trévise assaisonnées à la vinaigrette balsamique ne font pas mal dans l'assiette.
+    C'est un plat difficile à réaliser sans un matériel sérieux aux dimensions de votre ambition. Mais adapté à un bonne longe de porc ou à un râble de lapin, voilà une recette qui peut se faire en famille, facilement. Une vin de Toscanne rouge ou un Orvieto blanc
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Mélanger</OPER> tous les ingrédients avec le <INGRED id="12">foie</INGRED> et les rognons du <INGRED id="1">porcelet</INGRED> hachés. Il est évident que les quantités peuvent <OPER id="o_2">varier</OPER> suivant l'âge, donc la taille, de l'animal. Si besoin, <OPER id="o_3">rajoutez</OPER> de la <INGRED id="2">chair</INGRED> de <INGRED id="2">porc</INGRED> et de la <INGRED id="16">mie de pain</INGRED>, sans <OPER id="o_4">oublier</OPER> de <OPER id="o_5">remettre</OPER> des aromates en conséquence. <OPER id="o_6">Salez</OPER> et poivrez fortement l'intérieur de la carcasse. <OPER id="o_7">Farcissez</OPER> la bête et <OPER id="o_8">recousez</OPER> solidement le ventre. <OPER id="o_9">Mettez</OPER> à la broche le long d'un feu doux. Laissez <OPER id="o_10">tourner</OPER>. Deux bonnes heures. <OPER id="o_11">Arrosez</OPER> le cochon tout le long de la cuisson avec <INGRED id="10">jus</INGRED> qui s'écoule, <OPER id="o_12">voir</OPER>, si besoin, d'un bon <INGRED id="11">bouillon</INGRED> agrémenté d'<INGRED id="9">huile d'olive</INGRED>. Dégustez froid ou tiède <INGRED id="13">coupé</INGRED> en <INGRED id="4">tranches</INGRED> épaisses avec des <INGRED id="2">pommes de terres</INGRED> sautées au <INGRED id="16">romarin</INGRED> et de la <INGRED id="1">polenta</INGRED> parfumée au fromage et à la <INGRED id="14">Grappa</INGRED>. Quelques <INGRED id="13">feuilles</INGRED> de <INGRED id="6">roquette</INGRED> ou de <INGRED id="12">chicorée</INGRED> de Trévise assaisonnées à la vinaigrette balsamique ne font pas mal dans l'assiette. C'est un <INGRED id="9">plat</INGRED> difficile à <OPER id="o_13">réaliser</OPER> sans un matériel sérieux aux dimensions de votre ambition. Mais adapté à un bonne longe de <INGRED id="1">porc</INGRED> ou à un <INGRED id="1">râble de lapin</INGRED>, voilà une recette qui peut se <INGRED id="4">faire</INGRED> en famille, facilement. Une vin de Toscanne rouge ou un Orvieto blanc
+  </annotation>
+  <annotation methode="crf">
+  Mélanger tous les ingrédients avec le <INGRED>foie</INGRED> et les rognons du <INGRED>porcelet</INGRED> hachés. Il est évident que les quantités peuvent varier suivant l'âge <INGRED>,</INGRED> donc la taille <INGRED>,</INGRED> de l'animal. Si besoin <INGRED>,</INGRED> rajoutez de la <INGRED>chair de porc</INGRED> et de la mie de <INGRED>pain</INGRED> <INGRED>,</INGRED> sans oublier de remettre des aromates en conséquence. Salez et poivrez fortement l'intérieur de la carcasse. Farcissez la bête et recousez solidement le ventre. Mettez à la broche le long d'un feu doux. Laissez tourner. Deux bonnes heures. Arrosez le cochon tout le long de la cuisson avec <INGRED>jus</INGRED> qui s'écoule <INGRED>,</INGRED> voir <INGRED>,</INGRED> si besoin <INGRED>,</INGRED> d'un bon <INGRED>bouillon</INGRED> agrémenté d'<INGRED>huile d'olive</INGRED> <INGRED>.</INGRED> Dégustez froid <INGRED>ou</INGRED> tiède coupé en tranches épaisses avec des <INGRED>pommes</INGRED> de terres sautées au <INGRED>romarin</INGRED> et de la <INGRED>polenta parfumée</INGRED> au <INGRED>fromage</INGRED> et à la Grappa. Quelques feuilles de roquette <INGRED>ou</INGRED> de chicorée de Trévise assaisonnées à la <INGRED>vinaigrette</INGRED> balsamique ne font pas mal dans l'assiette <INGRED>.</INGRED> C'est un plat difficile à réaliser sans un <INGRED>matériel</INGRED> sérieux aux dimensions de votre ambition. Mais adapté à un bonne longe de <INGRED>porc</INGRED> <INGRED>ou</INGRED> à un râble de <INGRED>lapin</INGRED> <INGRED>,</INGRED> voilà une recette qui peut se faire en famille <INGRED>,</INGRED> facilement <INGRED>.</INGRED> Une <INGRED>vin de Toscanne rouge</INGRED> <INGRED>ou</INGRED> un Orvieto <INGRED>blanc</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 11.2666666666667*X + 1.73333333333333</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 39*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['porcelet bien nettoyé livré avec issues', 'porcelet']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['bon lard assez gras à hacher', 'lard']	 id:2	 quantité:1	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['mie de pain   trempée dans le lait', 'mie']	 id:3	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['céleri']	 id:4	 quantité:2	 unité:branches de	 denombrable:True	 recipient:2*X
+ingredient:["tête d'ail épluchée", 'tête']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['hachée']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['échalotes épluchées', 'échalotes']	 id:7	 quantité:20	 unité:non_precis	 denombrable:True	 recipient:20*X
+ingredient:['hachées']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['origan']	 id:9	 quantité:3	 unité:cuillères à café d'	 denombrable:True	 recipient:3*X
+ingredient:['romarin']	 id:10	 quantité:3	 unité:cuillères à café de	 denombrable:True	 recipient:3*X
+ingredient:['muscade moulue', 'muscade']	 id:11	 quantité:2	 unité:cuillères à café de	 denombrable:True	 recipient:2*X
+ingredient:['poivre noir moulu', 'poivre']	 id:12	 quantité:2	 unité:cuillères à café de	 denombrable:True	 recipient:2*X
+ingredient:['sel']	 id:13	 quantité:2	 unité:cuillères à café de	 denombrable:True	 recipient:2*X
+ingredient:['Grappa']	 id:14	 quantité:3	 unité:verres de	 denombrable:True	 recipient:3*X
+ingredient:['sel']	 id:15	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre supplémentaire', 'poivre']	 id:16	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mélanger	 id:o_1	 ingrédients_ralatifs:['12', '1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:varier	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rajouter	 id:o_3	 ingrédients_ralatifs:['2', '2', '16']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:oublier	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remettre	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:saler	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:farcir	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:2*X	 recipient:0
+operation:recoudre	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:tourner	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:arroser	 id:o_11	 ingrédients_ralatifs:['10', '11', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:voir	 id:o_12	 ingrédients_ralatifs:['11', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:réaliser	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

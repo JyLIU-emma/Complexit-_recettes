@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164885">
+  <titre>Crevettes à l'ail et à orange</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>40 crevettes cuites calibre 40/60</p>
+    <p>un verre de jus d'orange</p>
+    <p>une gousse d'ail hachée</p>
+    <p>3 feuilles de menthe (ou surgelées)</p>
+    <p>huile d'olive</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher entièrement les crevettes.
+    Hacher l'ail et hachez les feuilles de menthe.
+    Chauffer la poêle sur feu vif, y mettre 2 cuillères à soupe d'huile et mettre les crevettes à colorer avec l'ail en mélangeant.
+    Poivrez. Lorsque les crevettes ont pris de la couleur, déglacer avec le verre de jus d'orange et laisser réduire un peu la sauce pour qu'elle devienne onctueuse. Mettez alors les feuilles de menthe hachées et poursuivez deux minutes. Servir avec du riz Basmati...un délice Blanc
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Eplucher</OPER> entièrement les crevettes. <OPER id="o_2">Hacher</OPER> l'<INGRED id="4">ail</INGRED> et <OPER id="o_3">hachez</OPER> les <INGRED id="4">feuilles</INGRED> de menthe. <OPER id="o_4">Chauffer</OPER> la poêle sur feu vif, y <OPER id="o_5">mettre</OPER> 2 cuillères à <INGRED id="4">soupe d'huile</INGRED> et <OPER id="o_6">mettre</OPER> les crevettes à <OPER id="o_7">colorer</OPER> avec l'<INGRED id="2">ail</INGRED> en mélangeant. <OPER id="o_8">Poivrez</OPER>. Lorsque les crevettes ont pris de la couleur, <OPER id="o_9">déglacer</OPER> avec le verre de jus d'orange et laisser réduire un peu la <INGRED id="4">sauce</INGRED> pour qu'elle devienne onctueuse. <OPER id="o_10">Mettez</OPER> alors les <INGRED id="4">feuilles</INGRED> de <INGRED id="6">menthe</INGRED> hachées et poursuivez deux minutes. Servir avec du riz Basmati... un délice Blanc
+  </annotation>
+  <annotation methode="crf">
+  Eplucher entièrement les <INGRED>crevettes</INGRED> <INGRED>.</INGRED> Hacher l'<INGRED>ail</INGRED> et hachez les feuilles de menthe. Chauffer la poêle sur feu vif <INGRED>,</INGRED> y mettre 2 <INGRED>cuillères à soupe d'huile</INGRED> et mettre les <INGRED>crevettes</INGRED> à colorer avec l'<INGRED>ail</INGRED> en mélangeant <INGRED>.</INGRED> Poivrez. Lorsque les <INGRED>crevettes</INGRED> ont pris de la couleur <INGRED>,</INGRED> déglacer avec le <INGRED>verre</INGRED> de <INGRED>jus d'orange</INGRED> et laisser réduire un peu la <INGRED>sauce</INGRED> pour qu'elle devienne onctueuse. Mettez alors les feuilles de menthe hachées et poursuivez <INGRED>deux</INGRED> minutes. Servir avec du <INGRED>riz</INGRED> Basmati... un délice <INGRED>Blanc</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 13.7234042553191*X + 1.27659574468085</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 43*X + 10</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['crevettes cuites calibre 40/60', 'crevettes']	 id:1	 quantité:40	 unité:non_precis	 denombrable:True	 recipient:40*X
+ingredient:["jus d'orange", 'jus']	 id:2	 quantité:non_precis	 unité:verre de	 denombrable:False	 recipient:1
+ingredient:['ail hachée', 'ail']	 id:3	 quantité:non_precis	 unité:gousse d'	 denombrable:False	 recipient:1
+ingredient:['menthe']	 id:4	 quantité:3	 unité:feuilles de	 denombrable:True	 recipient:3*X
+ingredient:["huile d'olive", 'huile']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:eplucher	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:hacher	 id:o_2	 ingrédients_ralatifs:['4', '4']	 nombre_opération_atomique:3*X+3*X	 temps:3*X*5+3*X*5	 recipient:1
+operation:hacher	 id:o_3	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:3*X*5	 recipient:1
+operation:chauffer	 id:o_4	 ingrédients_ralatifs:['4', '2']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:mettre	 id:o_5	 ingrédients_ralatifs:['4', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_6	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:colorer	 id:o_7	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déglacer	 id:o_9	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:mettre	 id:o_10	 ingrédients_ralatifs:['4', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

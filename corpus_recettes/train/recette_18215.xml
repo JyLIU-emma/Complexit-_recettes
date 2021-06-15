@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18215">
+  <titre>Lasagnes à la bolognaise</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 paquet de pâtes à lasagnes</p>
+    <p>3 oignons</p>
+    <p>2 gousses d'ail</p>
+    <p>1 branche de céleri</p>
+    <p>1 carotte</p>
+    <p>600 g viande de boeuf haché</p>
+    <p>800 g purée de tomates</p>
+    <p>1 verre d'eau</p>
+    <p>1 verre à moutarde de vin rouge</p>
+    <p>2 feuilles de laurier</p>
+    <p>thym</p>
+    <p>basilic</p>
+    <p>Pour la sauce Béchamel :</p>
+    <p>100 g farine</p>
+    <p>100 g beurre</p>
+    <p>1l de lait</p>
+    <p>3 pincées de noix de muscade râpée</p>
+    <p>Pour le nappage :</p>
+    <p>70 g de fromage râpé</p>
+    <p>125 g de parmesan</p>
+    <p>beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincez les oignons. Ecrasez l'ail. Hachez finement carotte et céleri. 
+    Faire revenir ail et oignons dans un peu d'huile d'olive. Ajouter carotte et céleri. Puis la viande. Faire revenir le tout. Puis ajouter le vin rouge. Laisser s'évaporer.
+    Ajouter la purée de tomates, le verre d'eau, et les herbes. Saler, poivrer, puis laisser mijoter à feu doux 45 min.
+    Préparer la béchamel : faites fondre le beurre, puis, hors du feu, ajouter la farine d'un coup. Remettre sur le feu et remuer avec un fouet jusqu'à ce que cela devienne un mélange bien lisse.
+    Ajouter le lait peu à peu. Remuer sans cesse, jusqu'à ce que le mélange s'épaississe. Ensuite, parfumer avec la muscade, salez, poivrez. Laisser cuire environ 5 min, feu très doux, en remuant. 
+    Huilez le plat à lasagnes. Posez une fine couche de béchamel, puis : lasagnes, bolognaise, béchamel et parmesan, et cela 3 fois de suite. 
+    Sur la dernière couche de lasagnes, ne mettre que de la béchamel et recouvrir de fromage râpé. Parsemer quelques noisettes de beurre.
+    Faire cuire à 200°C pendant environ 25 min.
+  ]]>
+  </preparation>
+</recette>

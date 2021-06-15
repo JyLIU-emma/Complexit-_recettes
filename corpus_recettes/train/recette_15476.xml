@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15476">
+  <titre>Praliné feuilletine</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de feuilletine (gâteaux de type crêpes dentelles ou éventails émiettés)</p>
+    <p>200 g de praliné amandes (50%) en pâte</p>
+    <p>100 g de beurre de cacao</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Fondre le beurre de cacao à 45°C, l'incorporer au praliné, ajouter la feuilletine et couler dans un cercle de diamètre correspondant à l'entremet, sur 4mm d'épaisseur.
+    On peut aplatir avec un rouleau, sous un film plastique.Il vaut mieux acheter la feuilletine, c'est moins cher que les crêpes dentelles, mais on ne la trouve que par carton de 2,5 kg chez les fournisseurs de boulangeries-pâtisseries.
+  ]]>
+  </preparation>
+</recette>

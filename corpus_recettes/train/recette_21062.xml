@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21062">
+  <titre>Escalopes de dinde flambées au rhum</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 escalopes de dinde</p>
+    <p>80 g de raisins secs</p>
+    <p>120 g de champignons de Paris</p>
+    <p>20 g de beurre</p>
+    <p>6 cl de rhum</p>
+    <p>8 cl de vin blanc sec</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les raisins à tremper 10 minutes dans le vin blanc tiédi.
+    Pendant ce temps, faire dorer les escalopes dans le beurre, 5 minutes de chaque côté.
+    Lorsqu'elles sont cuites, les débarasser sur une assiette et les conserver au chaud le temps de préparer la sauce.
+    Faire revenir les champignons émincés dans la même poêle puis verser le vin et les raisins dans la poêle. A l'aide d'une cuillère en bois, gratter le fond pour décoller les sucs de cuisson.
+    Lorsque le liquide est réduit, ajouter la crème, saler, poivrer.
+    Faire chauffer le rhum, verser sur les escalopes et flamber.
+    Napper de crème aux champignons et servir.
+  ]]>
+  </preparation>
+</recette>

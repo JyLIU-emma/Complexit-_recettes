@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23620">
+  <titre>Gratin de courgettes au jambon et à la ricotta</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 courgette (ou 2 petites)</p>
+    <p>2 pommes de terre</p>
+    <p>2 tranche de jambon de parme</p>
+    <p>250 g de Ricotta </p>
+    <p>20 cl de crème liquide</p>
+    <p>1 jaune d'oeuf</p>
+    <p>facultatif : parmesan</p>
+    <p>facultatif : muscade</p>
+    <p>facultatif : ail </p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper la courgette en tranches fines, les pommes de terre en cube( après les avoir fait bouillir quelques minutes), et le jambon en petits morceaux.
+    Beurrer légèrement le fond de votre plat à gratin. Y déposer courgette, pommes de terre et jambon.
+    Dans un saladier, mélanger la ricotta, la crème et le jaune d'oeuf ainsi qu'une noix de muscade et un peu d'ail. Saler et poivrer. Verser sur le plat et mélanger le tout. Saupoudrer de parmesan et de muscade.
+    Passer au four environ 40 min à 180°C (thermostat 6).
+  ]]>
+  </preparation>
+</recette>

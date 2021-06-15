@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165146">
+  <titre>Verrine concombre-saumon de Karine</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 concombre</p>
+    <p>4 belles tranches de saumon ou truite fumées</p>
+    <p>4 cuilleres a soupe de creme fraiche epaisse</p>
+    <p>1 bouchon de vodka ou gin </p>
+    <p>huile d'olive, vinaigre balsamique, sel, poivre 5 baies, un peu d'ail (facultatif)</p>
+    <p>1/2 citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    decouper le saumon fumé en fine lanieres ; les mettre dans une assiette creuse et verser la vodka ; presser le citron par dessus ; bien remuer et laisser reposer dans cette "marinade" ; mettre au frais; remuer de temps en temps (vous pouvez rajouter un peu plus de vodka et citron a votre convenance)en attendant, couper le concombre en petits dés (enlever les graines); les mettre dans un saladier et assaisonner avec le vinaigre balsamique sel poivre et huile d'olive ; (un peu d'ail deshydraté) 
+    laisser poser un peu pour que le concombre est bien le gout de la vinaigrette (15 min)prendre un joli verre, enlever le surplus de vinaigrette et poser les petits dés au fond du verre ; mettre dessus les lanieres de saumon et terminer par une cuillere (suivant la taille du verre) de creme fraiche epaisse ; un peu de poivre du moulin , et en déco des tiges de ciboulette ou feuilles de menthe servir bien frais !!!Parfait pour une entrée d'été, pour les fêtes de fin d'année ou un buffet. 
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">decouper</OPER> le saumon fumé en fine lanieres ; les <OPER id="o_2">mettre</OPER> dans une assiette creuse et <OPER id="o_3">verser</OPER> la vodka ; <OPER id="o_4">presser</OPER> le citron par dessus ; bien <OPER id="o_5">remuer</OPER> et laisser <OPER id="o_6">reposer</OPER> dans cette " marinade " ; <OPER id="o_7">mettre</OPER> au frais ; <OPER id="o_8">remuer</OPER> de temps en temps ( vous pouvez <OPER id="o_9">rajouter</OPER> un peu plus de vodka et <INGRED id="9">citron</INGRED> a votre convenance)en attendant, <OPER id="o_10">couper</OPER> le <INGRED id="3">concombre</INGRED> en <INGRED id="3">petits</INGRED> <INGRED id="4">dés</INGRED> ( <OPER id="o_11">enlever</OPER> les <INGRED id="3">graines</INGRED> ) ; les <OPER id="o_12">mettre</OPER> dans un <INGRED id="1">saladier</INGRED> et <OPER id="o_13">assaisonner</OPER> avec le <INGRED id="4">vinaigre balsamique</INGRED> <INGRED id="8">sel poivre</INGRED> et huile d'olive ; ( un peu d'<INGRED id="4">ail</INGRED> deshydraté ) laisser <OPER id="o_14">poser</OPER> un peu pour que le <INGRED id="3">concombre</INGRED> est bien le gout de la vinaigrette ( 15 min)prendre un joli verre, <OPER id="o_15">enlever</OPER> le surplus de vinaigrette et <OPER id="o_16">poser</OPER> les <INGRED id="3">petits</INGRED> <INGRED id="4">dés</INGRED> au <INGRED id="4">fond</INGRED> du verre ; <OPER id="o_17">mettre</OPER> dessus les lanieres de saumon et terminer par une cuillere ( suivant la taille du verre ) de <INGRED id="2">creme fraiche</INGRED> epaisse ; un peu de <INGRED id="8">poivre du moulin</INGRED>, et en déco des tiges de <INGRED id="2">ciboulette</INGRED> ou <INGRED id="4">feuilles</INGRED> de <INGRED id="6">menthe</INGRED> servir bien frais ! ! ! Parfait pour une entrée d'été, pour les fêtes de fin d'année ou un buffet.
+  </annotation>
+  <annotation methode="crf">
+  decouper le <INGRED>saumon fumé</INGRED> en fine lanieres ; les mettre dans une assiette creuse et verser la vodka ; presser le <INGRED>citron</INGRED> par dessus ; bien remuer et laisser reposer dans cette " marinade " ; mettre au <INGRED>frais</INGRED> ; remuer de temps en temps ( vous pouvez rajouter un peu plus de <INGRED>vodka</INGRED> et citron <INGRED>a</INGRED> votre convenance)en attendant <INGRED>,</INGRED> couper le <INGRED>concombre</INGRED> en <INGRED>petits</INGRED> dés ( enlever les <INGRED>graines</INGRED> ) ; les mettre dans un saladier et assaisonner avec le <INGRED>vinaigre balsamique sel poivre</INGRED> et <INGRED>huile d'olive</INGRED> ; ( un peu d'<INGRED>ail</INGRED> deshydraté ) laisser poser un peu pour que le <INGRED>concombre</INGRED> est bien le gout de la <INGRED>vinaigrette</INGRED> ( 15 min)prendre un joli <INGRED>verre</INGRED> <INGRED>,</INGRED> enlever le surplus de <INGRED>vinaigrette</INGRED> et poser les <INGRED>petits</INGRED> dés au <INGRED>fond</INGRED> du <INGRED>verre</INGRED> ; mettre dessus les lanieres de <INGRED>saumon</INGRED> et terminer par une cuillere ( suivant la taille du <INGRED>verre</INGRED> ) de creme fraiche epaisse ; un peu de <INGRED>poivre</INGRED> du <INGRED>moulin</INGRED> <INGRED>,</INGRED> et en déco des tiges de <INGRED>ciboulette</INGRED> <INGRED>ou</INGRED> feuilles de menthe servir bien <INGRED>frais</INGRED> ! ! ! Parfait pour une entrée d'été <INGRED>,</INGRED> pour les fêtes de fin d'année <INGRED>ou</INGRED> un buffet.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 19.8717948717949*X + 5.12820512820513</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 16*X + 10</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['concombre']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['saumon']	 id:2	 quantité:4	 unité:tranches de	 denombrable:True	 recipient:4*X
+ingredient:['cuilleres a soupe de creme fraiche epaisse', 'cuilleres']	 id:3	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['bouchon de vodka ou gin', 'bouchon']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:["huile d'olive", 'huile']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['vinaigre balsamique', 'vinaigre']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['baies']	 id:8	 quantité:5	 unité:non_precis	 denombrable:True	 recipient:5*X
+ingredient:['ail']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['citron']	 id:10	 quantité:1/2	 unité:non_precis	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:decouper	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:verser	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:presser	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:mettre	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:remuer	 id:o_8	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rajouter	 id:o_9	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_10	 ingrédients_ralatifs:['3', '3', '4']	 nombre_opération_atomique:4*X+4*X+1*X	 temps:4*X*1+4*X*1+1*X*1	 recipient:1
+operation:enlever	 id:o_11	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_12	 ingrédients_ralatifs:['1', '4', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:assaisonner	 id:o_13	 ingrédients_ralatifs:['4', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poser	 id:o_14	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enlever	 id:o_15	 ingrédients_ralatifs:['3', '4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poser	 id:o_16	 ingrédients_ralatifs:['3', '4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_17	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

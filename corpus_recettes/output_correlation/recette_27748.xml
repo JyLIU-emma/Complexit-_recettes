@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27748">
+  <titre>Marquise aux amandes</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 petite tasse de lait</p>
+    <p>4 oeufs</p>
+    <p>250 g de poudre d'amandes</p>
+    <p>200 g de beurre doux</p>
+    <p>150 g de sucre en poudre</p>
+    <p>2 cuillères à soupe de kirsch</p>
+    <p>50 boudoirs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Mélanger le beurre et le sucre à la fourchette jusqu'à obtention d'une crème (attention c'est physique :-) ). 
+    2) Ajouter les amandes et le kirsch. 
+    3) Séparer les jaunes des blancs d'oeufs. 
+    4) Battre les jaunes d'oeufs en omelette avec le lait tiédi et ajouter à la préparation. 
+    5) Battre les blancs en neige et les incorporer délicatement. 
+    6) Disposer les boudoirs dans un plat à charlotte comme pour une charlotte. 
+    7) Mettre la crème au centre. 
+    8) Mettre au frigo pendant au moins 3 heures. 
+    9) C'est réussi si au démoulage cela ne s'écroule pas :-) )
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  1 ) <OPER id="o_1">Mélanger</OPER> le beurre et le sucre à la fourchette jusqu'à obtention d'une crème ( attention c'est physique :-) ). 2 ) <OPER id="o_2">Ajouter</OPER> les amandes et le <INGRED id="6">kirsch</INGRED>. 3 ) <OPER id="o_3">Séparer</OPER> les <INGRED id="1">jaunes</INGRED> des <INGRED id="7">blancs d'oeufs</INGRED>. 4 ) <OPER id="o_4">Battre</OPER> les jaunes d'oeufs en omelette avec le lait tiédi et <OPER id="o_5">ajouter</OPER> à la <INGRED id="4">préparation</INGRED>. 5 ) <OPER id="o_6">Battre</OPER> les blancs en neige et les <OPER id="o_7">incorporer</OPER> délicatement. 6 ) <OPER id="o_8">Disposer</OPER> les <INGRED id="3">boudoirs</INGRED> dans un plat à charlotte comme pour une charlotte. 7 ) <OPER id="o_9">Mettre</OPER> la crème au centre. 8) <OPER id="o_10">Mettre</OPER> au frigo pendant au moins 3 heures. 9 ) C'est réussi si au démoulage cela ne s'écroule pas :-) )
+  </annotation>
+  <annotation methode="crf">
+  1 ) Mélanger le <INGRED>beurre</INGRED> et le <INGRED>sucre</INGRED> à la fourchette jusqu'à obtention d'une <INGRED>crème</INGRED> ( attention c'est physique :-) ). 2 ) Ajouter les <INGRED>amandes</INGRED> et le <INGRED>kirsch</INGRED> <INGRED>.</INGRED> 3 ) Séparer les <INGRED>jaunes</INGRED> des <INGRED>blancs d'oeufs</INGRED> <INGRED>.</INGRED> 4 ) Battre les <INGRED>jaunes d'oeufs</INGRED> en omelette avec le <INGRED>lait</INGRED> tiédi et ajouter à la préparation <INGRED>.</INGRED> 5 ) Battre les <INGRED>blancs</INGRED> en neige et les incorporer délicatement. 6 ) Disposer les boudoirs dans un plat à charlotte comme pour une charlotte. 7 ) Mettre la <INGRED>crème</INGRED> au centre. 8) Mettre au frigo pendant au moins 3 heures. 9 ) C'est réussi si au démoulage cela ne s'écroule pas :-) )
+  </annotation>
+  <complexite>
+    <temps>f(X) = 9.5*X + 0.5</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 57*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['lait']	 id:1	 quantité:1	 unité:tasse de	 denombrable:True	 recipient:1*X
+ingredient:['oeufs']	 id:2	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:["poudre d'amandes", 'poudre']	 id:3	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre doux', 'beurre']	 id:4	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre en poudre', 'sucre']	 id:5	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['kirsch']	 id:6	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['boudoirs']	 id:7	 quantité:50	 unité:non_precis	 denombrable:True	 recipient:50*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mélanger	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:séparer	 id:o_3	 ingrédients_ralatifs:['1', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_4	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_8	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

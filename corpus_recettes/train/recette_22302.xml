@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22302">
+  <titre>Concombres et poivrons marinés à l'huile d'olive et au citron vert</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 grand concombre</p>
+    <p>2 poivrons rouges</p>
+    <p>2 citrons verts</p>
+    <p>3 cuillères à soupe d'huile d’olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et couper les concombres en 2 dans le sens de la longueur puis ôter les graines à l'aide d'une cuillère à café.
+    Les saupoudrer de gros sel et les mettre à dégorger dans une passoire pendant 2 heures.
+    Les rincer ensuite, les essuyer avec du papier absorbant, puis les détailler en tranches.
+    Détailler les poivrons en fines lamelles et les ajouter au concombre.
+    Assaisonner d'huile d'olive, de jus de citron vert, de sel et de poivre.
+    Laisser macérer durant 2 heures et servir frais.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20028">
+  <titre>Tomates farcies aux champignons et neige de parmesan</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>12 tomates</p>
+    <p>300 g de champignons</p>
+    <p>3 blancs d'oeufs</p>
+    <p>105 g de parmesan</p>
+    <p>75 g de beurre</p>
+    <p>1 échalote</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper un chapeau à chaque tomate et les vider.
+    Préchauffer le four à 210°C (thermostat 7).
+    Hacher les champignons et l'échalote. Les faire suer dans le beurre, saler, poivrer.
+    Farcir les tomates de cette préparation et les disposer dans un plat à four huilé.
+    Fouetter les blancs en neige feme. Incorporer délicatement le parmesan râpé et les répartir sur les tomates.
+    Mettre au four 15 minutes.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20711">
+  <titre>Moules sauce piquante</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,5 kg de moules</p>
+    <p>1 grosse boîte de tomate pelées</p>
+    <p>1 blanc de poireau</p>
+    <p>1 carotte</p>
+    <p>2 oignons</p>
+    <p>1 gousse d'ail</p>
+    <p>1 cuillère à soupe de graines de coriandre</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>1 bouquet garni</p>
+    <p>1 piment fort</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>1 pincée de sucre</p>
+    <p>1 pointe de piment de cayenne</p>
+    <p>1 cuillère à soupe de vinaigre</p>
+    <p>1/2 citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez et hachez les oignons et l'ail. Faites les revenir 2 mn dans l'huile avec le piment. Ajoutez les tomates, le bouquet garni, 15 cl de vin, les graines de coriandre, le sucre, sel et poivre. Laissez cuire 15 mn. 
+    Entre temps, nettoyez le poireau et épluchez la carotte. Les émincer et les mettre dans un faitout avec 5 cl de vin, 5 cl d'eau et le vinaigre. Faites cuire jusqu'à ce qu'il reste la valeur de 2 cuillères à soupe de liquide. 
+    Ajoutez les moules nettoyées. couvrez et laissez cuire 4-5 mn. Filtrez le jus de cuisson. Ajoutez-le à la sauce tomate. Poursuivez la cuisson 5 mn. 
+    Retirez le bouquet garni et le piment. Relevez d'une pointe de cayenne et d'un filet de citron. 
+    Mettez les moules dans un grand saladier. Arrosez-les de la sauce et des légumes si vous le désirez. Servir chaud ou froid.
+  ]]>
+  </preparation>
+</recette>

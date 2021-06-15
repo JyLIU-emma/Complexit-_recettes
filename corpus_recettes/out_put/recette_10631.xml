@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10631">
+  <titre>Lasagnes crémeuses au poulet</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 blancs de poulet</p>
+    <p>1 oignon</p>
+    <p>250 g de champignons de Paris</p>
+    <p>20 cl de purée de tomates</p>
+    <p>20 cl de crème fraiche</p>
+    <p>1 paquet de lasagnes</p>
+    <p>75 g de fromage râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir dans une poêle l'oignon et le poulet en dés, y ajouter la tomate. Quand elle a un peu réduit ajouter la crème.
+    Dans un plat à gratin mettre une couche de lasagnes, une couche de préparation, une couche de lasagne une couche de préparation et dessus du fromage.
+    Cuisson 35 min thermostat 5-6
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">revenir</OPER> dans une poêle l'<INGRED id="2">oignon</INGRED> et le <INGRED id="1">poulet</INGRED> en <INGRED id="6">dés</INGRED>, y <OPER id="o_2">ajouter</OPER> la <INGRED id="3">tomate</INGRED>. Quand elle a un peu réduit <OPER id="o_3">ajouter</OPER> la <INGRED id="5">crème</INGRED>. Dans un plat à gratin <OPER id="o_4">mettre</OPER> une couche de <INGRED id="6">lasagnes</INGRED>, une couche de préparation, une couche de lasagne une couche de préparation et dessus du <INGRED id="7">fromage</INGRED>. Cuisson 35 min thermostat 5 - 6
+  </annotation>
+  <annotation methode="crf">
+  Faire revenir dans une poêle l'<INGRED>oignon</INGRED> et le <INGRED>poulet</INGRED> en dés <INGRED>,</INGRED> y ajouter la <INGRED>tomate</INGRED> <INGRED>.</INGRED> Quand elle <INGRED>a</INGRED> un peu réduit ajouter la <INGRED>crème</INGRED>. Dans un plat à gratin mettre une couche de lasagnes <INGRED>,</INGRED> une couche de préparation <INGRED>,</INGRED> une couche de lasagne une couche de préparation et dessus du <INGRED>fromage</INGRED> <INGRED>.</INGRED> Cuisson 35 min thermostat 5 - 6
+  </annotation>
+  <complexite>
+    <temps>f(X) = 2.0*X + 2.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 4*X + 6</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['blancs de poulet', 'blancs']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['oignon']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['champignons de Paris', 'champignons']	 id:3	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['purée de tomates', 'purée']	 id:4	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['crème fraiche', 'crème']	 id:5	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['lasagnes']	 id:6	 quantité:1	 unité:paquet de	 denombrable:True	 recipient:1*X
+ingredient:['fromage râpé', 'fromage']	 id:7	 quantité:75	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:revenir	 id:o_1	 ingrédients_ralatifs:['2', '1', '6', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_3	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_4	 ingrédients_ralatifs:['6', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

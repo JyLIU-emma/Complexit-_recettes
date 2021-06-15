@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21434">
+  <titre>Mousse à l'avocat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 avocats </p>
+    <p>2 citrons</p>
+    <p>1 cuillère à soupe de cognac ou de rhum</p>
+    <p>100 g de sucre semoule</p>
+    <p>150 g de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Placez la crème fraîche au congélateur 10 minutes.
+    Retirez la chair de l'avocat sans abîmer l'écorce.
+    Mixez la chair avec l'alcool, le jus d'1 citron et le sucre jusqu'à l'obtention d'une crème homogène.
+    Fouettez la crème fraîche en chantilly et incorporez-la délicatement au mélange. 
+    Répartissez cette mousse dans les écorces d'avocats. 
+    Placez au frais pendant au moins 2 heures et décorez de rondelles de citron avant de servir.
+  ]]>
+  </preparation>
+</recette>

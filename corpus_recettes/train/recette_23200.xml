@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23200">
+  <titre>Beignets de fleurs de sureau</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>10 fleurs de sureau</p>
+    <p>200 g de farine</p>
+    <p>20 cl de bière blonde</p>
+    <p>2 oeufs</p>
+    <p>huile</p>
+    <p>sel</p>
+    <p>huile de friture</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez la farine avec la bière, les jaunes d'oeufs, 1 pincée de sel et 1 cuillérée d'huile. Laissez reposer 30 min.
+    Battez les blancs d'oeufs en neige, incorporez-les dans la pâte.
+    Rincez les fleurs de sureau à l'eau fraîches, séchez-les sur un linge.
+    Trempez-les dans la pâte à frire et plongez-les dans l'huile de friture chaude.
+    Retirez-les dès qu'elles sont dorées et égouttez. Servez-les chaudes, saupoudrées de sucre cristallisé.
+  ]]>
+  </preparation>
+</recette>

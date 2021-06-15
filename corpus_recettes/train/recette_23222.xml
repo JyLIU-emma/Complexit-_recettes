@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23222">
+  <titre>Faisan farci aux noix et aux raisins</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 faisan de 1,2 kg</p>
+    <p>foie et coeur du faisan</p>
+    <p>70 g de beurre</p>
+    <p>1 barde de lard</p>
+    <p>1 belle carotte</p>
+    <p>1 gros oignon</p>
+    <p>1 bouquet garni</p>
+    <p>5 tranches de pain de mie</p>
+    <p>250 g de noix décortiquées</p>
+    <p>50 g de raisins de Smyrne</p>
+    <p>6 cl de Cognac</p>
+    <p>10 cl de lait</p>
+    <p>1 oeuf</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour la sauce : faites tremper les raisins dans le cognac au moins 1 heure.
+    Préchauffez le four à 170°C (thermostat 5-6).
+    Pour la farce : mettez 1 tranche de pain à tremper dans le lait. Réservez quelques noix pour la décoration et hachez le reste avec le foie et le coeur du faisan. Incorporez l'oeuf, les raisins égouttés, le pain pressé, du sel et du poivre.
+    Farcissez le faisan de cette préparation, salez, poivrez puis entourez-le de barde et ficelez-le.
+    Prenez ensuite une cocotte et faites-y dorer le faisan avec 40 g de beurre. Ajoutez ensuite les carottes et les oignons émincés ainsi que le bouquet garni. Enfournez 10 minutes à découvert puis couvrez et laissez cuire 1 heure.
+    Découpez les autres tranches de pain en forme de triangle et faites-les dorer à la poêle dans le beurre.
+    Retirez la barde du faisan. Disposez-le sur un plat chaud, entouré du pain doré et des demi-noix. Réservez au chaud.
+    Versez le Cognac et les raisins dans la cocotte, portez à ébullition et flambez. Arrosez-en le faisan et servez avec les noix réservées.
+  ]]>
+  </preparation>
+</recette>

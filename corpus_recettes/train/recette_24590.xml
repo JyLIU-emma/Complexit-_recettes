@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24590">
+  <titre>Alouettes sans têtes à la cocotte minute</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 escalopes de veau</p>
+    <p>4 oeufs durs</p>
+    <p>4 tranches de jambon blanc ou fumé</p>
+    <p>2 cuillerées à soupe d'huile</p>
+    <p>25 cl de vin blanc</p>
+    <p>champignons</p>
+    <p>oignon</p>
+    <p>ail</p>
+    <p>thym</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Aplatir les escalopes, poser sur chacune une tranche de jambon et un oeuf dur. Les rouler comme des paupiettes et les ficeler (pas de piques en bois). 
+    Faire chauffer l'huile dans une cocotte, faire dorer les paupiettes. 
+    Quand elles sont dorées, ajouter l'oignon, ail et mouiller avec le vin blanc. 
+    Saler et poivrer et ajouter le thym. 
+    Laisser cuire 30 mn environ. 
+    Faire cuire les champignons à part. 
+    Déficeler les paupiettes et les couper en 2 afin que le jaune d'oeuf soit apparent dans chaque morceau. 
+    Servir aussitôt avec les champignons autour et accompagner d'une purée.
+  ]]>
+  </preparation>
+</recette>

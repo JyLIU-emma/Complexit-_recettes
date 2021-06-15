@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20265">
+  <titre>Rouleaux de jambon à la salade de riz</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tranches de jambon cuit</p>
+    <p>100 g de riz cuit froid</p>
+    <p>1 oeuf dur</p>
+    <p>2 tomates</p>
+    <p>1 poivron vert grillé et pelé</p>
+    <p>quelques olives dénoyautées</p>
+    <p>mayonnaise au citron</p>
+    <p>feuilles de laitue</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ôtez la couenne du jambon. Hachez l'oeuf dur. Coupez les tomates épépinés et le poivron grillé en dés. Mélangez les légumes au riz et ajoutez les olives. Assaisonnez de mayonnaise. Garnissez les tranches de jambon de cette préparation et roulez-les.
+    Présentez les rouleaux de jambon sur un lit de laitue et servez le reste de la mayonnaise à part. 
+  ]]>
+  </preparation>
+</recette>

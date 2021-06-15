@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11618">
+  <titre>Nougat glacé aux fruits confits</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>50 cl de crème fleurette montée en chantilly</p>
+    <p>150 gr de fruits confits mis à macérer au moins 2 heures dans du Grand-Marnier</p>
+    <p>7.5 g de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez le tout délicatement, puis mettez à tourner en sorbetière. Soit vous le servez en forme de boules ou vous mettez la glace dans un moule à cake tapissé de film alimentaire (ce qui permettra de le servir en tranches.)
+    Le service se fait soit avec des fruits frais, soit avec un coulis de framboises, ou même les deux !
+  ]]>
+  </preparation>
+</recette>

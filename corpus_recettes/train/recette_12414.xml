@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12414">
+  <titre>Muffins aux bananes et au gingembre</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de farine avec levure incorporée</p>
+    <p>1 c à café de gingembre moulu</p>
+    <p>115 g de cassonade</p>
+    <p>60 g de beurre</p>
+    <p>2 cuillères à soupe de miel</p>
+    <p>125 ml de lait</p>
+    <p>2 œufs</p>
+    <p>240 g de bananes écrasées (environ 2 bananes moyennes)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C. Tamiser la farine et le gingembre.
+    Incorporer la cassonade.
+    Creuser un petit puits au centre du mélange. Mettre le beurre et le miel dans une casserole et faire fondre à feu doux.  
+    Retirer du feux et ajouter à ce mélange les œufs et le lait. Bien fouetter.
+    Ajouter le mélange à la farine. Bien remuer sans trop travailler la pâte, elle doit être grumeleuse.
+    Mettre dans des moules à muffins préalablement beurrés. Cuire pendant 20 minutes à four moyen (180°C/thermostat 6).
+    Se mange très bien au petit déjeuner ou même en en-cas.
+  ]]>
+  </preparation>
+</recette>

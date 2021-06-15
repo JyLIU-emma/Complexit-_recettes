@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17240">
+  <titre>Le cake au citron sans beurre</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de farine</p>
+    <p>100 g de sucre</p>
+    <p>2 oeufs entiers</p>
+    <p>3 cuillères à soupe d'huile végétale (évitez les huiles 'fortes', de type huile d'olive) </p>
+    <p>1 citron (la moitié de son zeste + le jus du citron entier) </p>
+    <p>un sachet de levure chimique ou 1 cuillère à café de bicarbonate</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez au fouet tous les ingrédients dans un saladier. 
+    Faites cuire dans un moule beurré à 160-170°C pendant 30 mn.
+    Un gâteau agréable avec du thé.
+  ]]>
+  </preparation>
+</recette>

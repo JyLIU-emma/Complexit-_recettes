@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20969">
+  <titre>Oeufs au plat aux légumes confits</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>2 oignons</p>
+    <p>2 poivrons</p>
+    <p>3 belles pommes de terre</p>
+    <p>3 grosses tomates</p>
+    <p>2 piments doux</p>
+    <p>1 petit piment fort</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez les pommes de terre, coupez-les en cubes. Découpez les oignons en rondelles, les tomates en quartiers et les poivrons en lanières.
+    Hachez les piment en prenant soin de les épépiner.
+    Faite chauffer 2 cuillères à soupe d'huile dans une poêle. Jetez-y les légumes et laissez cuire 30 minutes à feu doux. Salez, poivrez.
+    Rajoutez un peu d'eau si nécessaire.
+    Une fois les légumes bien tendre et quasiment confits, cassez les oeufs dessus. Laissez prendre le blanc et servez.
+    Un bon pain de campagne et le tour est joué ! On peut rajouter  des rondelles de chorizo dans les légumes, ou un peu de mozzarella.
+  ]]>
+  </preparation>
+</recette>

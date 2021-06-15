@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25388">
+  <titre>Flan de poireaux au fromage</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de poireaux</p>
+    <p>5 oeufs</p>
+    <p>50 g de beurre</p>
+    <p>100 g de mie de pain rassis</p>
+    <p>10 cl de lait</p>
+    <p>150 g de fromage râpé</p>
+    <p>1 pincée de noix de muscade râpé</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez et émincez les poireaux. Cuisez-les 2 min à l'eau bouillante salée ou à la vapeur.
+    Egouttez-les et hachez-les, puis faites-les dessécher dans une casserole dans le beurre chaud.
+    Emiettez le pain.
+    Hors du feu, ajoutez-le aux poireaux ainsi que le lait, le fromage râpé et les oeufs battus. Salez, poivrez, ajoutez un peu de muscade et versez dans un moule haute beurré.Placez dans un bain-marie et faites cuire au four à 200°C (thermostat 6-7) pendant 40 min.
+  ]]>
+  </preparation>
+</recette>

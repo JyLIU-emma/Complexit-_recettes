@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14127">
+  <titre>Riz aux petits pois et au citron</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 verres de riz basmati </p>
+    <p>1 citron </p>
+    <p>1 boîte de 500 g de petits pois</p>
+    <p>2 oignons</p>
+    <p>1 pincée de cardamome</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir dans un peu d'huile les oignons émincés avec 1/2 citron coupé en petits dés (bien le laver et laisser l'écorce). 
+    Pendant ce temps, faire bouillir l'eau pour le riz. Quand le riz cuit depuis 5 minutes, ajouter les petits pois à la préparation oignons-citron. 
+    Quand le riz est cuit, l'égoutter puis l'ajouter au reste dans la poêle. Saler, poivrer, ajouter la cardamome et le jus du 1/2 citron restant. 
+    Laisser les saveurs se mélanger quelques minutes.
+  ]]>
+  </preparation>
+</recette>

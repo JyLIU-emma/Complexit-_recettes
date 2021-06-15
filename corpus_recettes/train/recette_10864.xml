@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10864">
+  <titre>Poisson et légumes au four</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 filets de poisson (cabillaud, colin...)</p>
+    <p>200 g de courgettes (1 courgette)</p>
+    <p>200 g de brocolis</p>
+    <p>200 g de carottes (5 carottes)</p>
+    <p>25 cl de bouillon de légumes</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre dans un plat à gratin une couche de légumes crus (carottes en rondelles, brocolis, courgettes...) coupés en petits morceaux, une couche de filets de poisson (cabillaud...), puis une nouvelle couche de légumes.
+    Arroser d'une tasse de bouillon de légumes, saler, poivrer.
+    Recouvrir de papier aluminium et faire cuire à 180°C au four pendant 1 h environ. Servir avec du riz.Vous pouvez mettre autant de couches que vous voulez, mais il faut finir par les légumes.
+  ]]>
+  </preparation>
+</recette>

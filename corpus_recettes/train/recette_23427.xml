@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23427">
+  <titre>Gâteau de maïs</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>80 g de beurre</p>
+    <p>150 g de sucre</p>
+    <p>pincée de sel</p>
+    <p>4 jaunes d'oeufs</p>
+    <p>zestes d'un demi-citron</p>
+    <p>1 pincée de cannelle</p>
+    <p>1 pincée de clou de girofle en poudre</p>
+    <p>1 cuillère à soupe de jus de citron</p>
+    <p>150 g de farine fleur</p>
+    <p>150 g de semoule de maïs</p>
+    <p>1 1/2 cuillère à soupe de poudre à lever</p>
+    <p>1 1/2 dl de lait</p>
+    <p>50 g d'écorce de citron confite</p>
+    <p>4 blancs d'oeufs en neige</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Travailler en mousse le beurre, ajouter en fouettant le sucre, le sel, les jaunes d'oeufs, le zeste et le jus de citron, la cannelle et le clou de girofle. Bien mélanger. 
+    Ajouter ensuite, la farine, la semoule et la poudre à lever en tamisant. Bien mélanger. Ajouter le lait et l'écorce de citron confite. Puis délicatement ajouter les blancs d'oeufs battus en neige. Mettre dans le moule à charnière préalablement graissé et fariné. Mettre le tout au milieu du four préchauffé à 170°C, pendant 60 à 70 mn.
+  ]]>
+  </preparation>
+</recette>

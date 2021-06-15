@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25397">
+  <titre>Tourte ricotta salami</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 pâtes feuilletées</p>
+    <p>300 g de ricotta ou de brousse</p>
+    <p>100 g de mozzarella</p>
+    <p>100 g de fromage à raclette</p>
+    <p>40 g de parmesan râpé</p>
+    <p>100 g de salami</p>
+    <p>100 g de poitrine fumée</p>
+    <p>1/2 bouquet de persil</p>
+    <p>3 oeufs + 1 jaune d'oeuf</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C (thermostat 6).
+    Mettez la ricotta dans une passoire fine placée au-dessus d'un saladier et pressez-la avec le dos d'une cuillère afin d'ôter l'excédent d'eau et la rendre lisse. 
+    Fouettez la ricotta puis ajoutez les oeufs un par un.
+    A l'aide d'une spatule, incorporez la mozzarella et la raclette détaillées en dés, le parmesan et le persil haché. 
+    Ajoutez le salami et la poitrine fumée coupés en dés. Rectifiez l'assaisonnement.
+    Disposez une pâte feuilletée dans un moule de 26 cm de diamètre, piquez le fond, remplissez de la préparation et recouvrez de la deuxième pâte.
+    Soudez les bords et enfournez pour 45 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

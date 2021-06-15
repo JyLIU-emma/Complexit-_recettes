@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21051">
+  <titre>Charlotte d'automne et sa crème anglaise</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>18 boudoirs</p>
+    <p>8 jaunes d'oeuf</p>
+    <p>4 feuilles de gélatine</p>
+    <p>125 g de sucre</p>
+    <p>100 g d'abricots secs</p>
+    <p>100 g de pruneaux secs</p>
+    <p>50 cl de lait</p>
+    <p>30 cl de crème liquide</p>
+    <p>5 cl d'armagnac</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper les fruits secs en morceaux. Les faire mariner dans un bol d'armagnac pendant 1h. Mettre à tremper les feuilles de gélatine dans un peu d'eau froide.
+    Pour faire la crème anglaise : porter le lait à ébullition. Battre les jaunes d'oeuf avec le sucre pour les blanchir jusqu'à obtenir un mélange blanc et mousseux. Verser dessus le lait chaud et mélanger au fouet. Remettre le tout dans la casserole et faire cuire à feu doux, en remuant sans cesse, pendant 10 min. Réserver 25 cl de la crème au frais.
+    Dans un saladier, verser le reste de crème anglaise et y incorporer la gélatine. Ajouter les fruits secs et la crème fouettée. Réserver.
+    Beurrer et fariner un moule à charlotte. Alterner des couches de boudoirs et de crème anglaise, terminer par une rangée de boudoirs.
+    Mettre la charlotte au réfrigérateur pendant 10 h. Démouler et napper de la crème anglaise réservée au frais.
+  ]]>
+  </preparation>
+</recette>

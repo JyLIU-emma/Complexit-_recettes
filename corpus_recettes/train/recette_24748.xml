@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24748">
+  <titre>Scones anglais</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de farine</p>
+    <p>1 pincée de sel</p>
+    <p>30 g de beurre</p>
+    <p>10 cl de lait</p>
+    <p>1 sachet de levure en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le beurre mou avec la farine tamisée et ajouter le sel et le lait.
+    Malaxer le tout avant de mettre la levure.
+    Préchauffer le four à thermostat 7-8 (220°C).
+    Travailler la pâte à la main pour obtenir une épaisseur de 2 cm.
+    Couper des ronds de pâte de 5 cm de diamètre.
+    Placer les ronds de pâte sur une feuille de papier sulfurisé et les dorer au blanc d'oeuf mélangé avec une cuillère à soupe d'eau.
+    Mettre au four pour une cuisson de 10 min à 220°C (thermostat 7-8).
+    Les scones se dégustent tranchés en deux et tartinés de confiture et de crème fouettée.
+  ]]>
+  </preparation>
+</recette>

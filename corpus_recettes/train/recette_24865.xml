@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24865">
+  <titre>Daurade au four façon bourgeoise</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 daurade de 800 g environ</p>
+    <p>4 à 5 petites échalotes</p>
+    <p>200 g de champignons de Paris</p>
+    <p>15 cl de vin blanc</p>
+    <p>1 bouquet de persil haché</p>
+    <p>quelques noisettes de beurre</p>
+    <p>chapelure</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 180°C (thermostat 6).
+    Nettoyer la daurade, puis la rouler dans un mélange de sel et poivre et la déposer dans un moule à gratin beurré.
+    Peler les échalotes et préparer les champignons : les laver, les détailler en lamelles puis les disposer dans le plat autour de la daurade avec les échalotes entières, pelées mais pas coupées.
+    Arroser le tout de vin blanc, saler et poivrer.
+    Laver et hacher le persil, puis le parsemer sur la daurade et les champignons.
+    Déposer les noisettes de beurre sur toute la longueur de la daurade, puis enfourner à four chaud pendant 20 min.
+    Sortir la daurade du four et la recouvrir de chapelure parsemée de noisettes de beurre, puis faire gratiner 5 min sur la position grill.
+  ]]>
+  </preparation>
+</recette>

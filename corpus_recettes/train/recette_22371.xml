@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22371">
+  <titre>Noix de veau aux marrons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,2 kg de noix de veau</p>
+    <p>500 g de carottes</p>
+    <p>50 g de beurre</p>
+    <p>25 cl de bouillon</p>
+    <p>24 marrons</p>
+    <p>4 branches de céleri</p>
+    <p>3 oignons</p>
+    <p>2 navets</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre la viande à dorer dans une poêle avec le beurrer.
+    Incorporer les branches de céleri découpées en tronçons, les carottes émincées, les oignons et les navets coupées en 4.
+    Ajouter les marrons, assaisonner et arroser de bouillon. Laisser mijoter le tout à feu doux pendant 1h30.
+    Saupoudrer de persil haché et servir.
+  ]]>
+  </preparation>
+</recette>

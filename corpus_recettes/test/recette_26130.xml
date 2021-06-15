@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26130">
+  <titre>Poulet sauté aux légumes et au calamar</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 beau calamar</p>
+    <p>1 poulet désossé et coupé en morceaux</p>
+    <p>150 g de pois mange-tout</p>
+    <p>150 g de champignons</p>
+    <p>1 poireau</p>
+    <p>2 gousses d'ail</p>
+    <p>50 g de farine</p>
+    <p>20 g de beurre</p>
+    <p>15 cl de vin blanc sec</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler le calamar en morceaux de 2 cm de côté et les passer dans la farine. Tapoter pour ôter l'excédent.
+    Emincer le poireau et l'ail, les faire fondre dans 40 g de beurre puis ajouter le poulet et le calamar.
+    Laisser cuire à couvert pendant 30 minutes.
+    Pendant ce temps, faire sauter dans l'huile les pois et les champignons émicés avant de les incorporer à la préparation précédente.
+    Verser le vin puis amener à ébullition.
+    En fin de cuisson, incoporer le beurre restant pour obtenir une sauce oncteuse.
+    A déguster avec du riz ou des nouilles sautées.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24895">
+  <titre>Cake potiron et coco</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 à 500 g de purée de potiron</p>
+    <p>150 g de sucre</p>
+    <p>150 g de noix de coco râpée</p>
+    <p>75 g de farine</p>
+    <p>100 g de beurre fondu</p>
+    <p>3 oeufs</p>
+    <p>1 sachet de levure chimique</p>
+    <p>1 zeste de citron</p>
+    <p>1 cuillère à soupe de rhum (seulement pour les adultes !)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez tous les ingrédients. 
+    Versez la préparation dans un moule à cake beurré, et faites cuire au four, pendant 40 min, à 210°c (Th 7). 
+    Dégustez tiède.
+    La purée de potiron se prépare ainsi : épluchez puis coupez le potiron en dés. Faites le cuire à la vapeur ou dans de l'eau bouillante environ 20 mn (jusqu'à ce que la chair soit tendre). Egouttez-le bien et réduisez-le en purée.
+    Pour les desserts, choisissez plutôt une variété de potiron sucrée : patidou, potimarron, butternut...
+  ]]>
+  </preparation>
+</recette>

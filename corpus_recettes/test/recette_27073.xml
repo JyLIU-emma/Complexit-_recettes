@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27073">
+  <titre>Crème mousseuse aux fraises</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de fraises</p>
+    <p>5cl de liqueur d'orange (Cointreau, Grand Marnier)</p>
+    <p>25cl de lait</p>
+    <p>1/2 gousse de vanille</p>
+    <p>160 g de sucre</p>
+    <p>1 cuillère à soupe rase de fécule de maïs</p>
+    <p>3 oeufs </p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les fraises en morceaux et faites-les macérer dans la liqueur d'orange.
+    Amenez le lait à ébullition avec la gousse de vanille fendue.
+    Fouettez les jaunes d'oeufs avec 30 g de sucre et la fécule de maïs. Versez le lait bouillant dessus en un mince filet puis remettez dans la casserole et faites épaissir sur feu doux sans cesser de remuer.
+    Retirez du feu au premier bouillon et laissez refroidir. 
+    Fouettez les blancs d'oeufs en neige ferme en incorporant progressivement le reste du sucre.
+    Ecrasez les fraises en purée et incorporez cette purée à la crème refroidie. Faites de même avec les blancs d'oeufs.
+    Versez dans un moule ou dans des coupes individuelles et placez au réfrigérateur jusqu'au moment de servir. 
+  ]]>
+  </preparation>
+</recette>

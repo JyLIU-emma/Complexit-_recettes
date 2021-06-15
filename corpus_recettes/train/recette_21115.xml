@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21115">
+  <titre>Mousse glacée aux pommes et cidre</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de pommes</p>
+    <p>25 cl de crème fraîche</p>
+    <p>20 cl de cidre brut</p>
+    <p>3 blancs d'oeufs</p>
+    <p>150 g de sucre en poudre</p>
+    <p>50 g de sucre glace</p>
+    <p>1/2 cuillère à café de cannelle en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez et coupez les pommes en morceaux, retirez les pépins. 
+    Faites-les compoter à la casserole avec le sucre en poudre et le cidre pendant 20 min en remuant.
+    Une fois cuites, mixez-les en purée et ajoutez la cannelle.
+    Laissez refroidir.
+    Placez les blancs d'oeufs et le sucre glace dans un saladier au bain-marie, fouettez en neige, vous obtenez une meringue assez ferme et brillante.
+    Incorporez-la délicatement à la compote de pommes.
+    Fouettez la crème fraîche en Chantilly et incorporez-la au tout.
+    Faites prendre la glace en sorbetière ou placez au congélateur (remuez à la fourchette toutes les 30 min pour éviter les cristaux).
+  ]]>
+  </preparation>
+</recette>

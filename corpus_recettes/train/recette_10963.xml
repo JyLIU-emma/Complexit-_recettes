@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10963">
+  <titre>Clafoutis mystère</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de cerises aigres, type Montmorency, non dénoyautées</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>3 œufs</p>
+    <p>7 cuillères de sucre</p>
+    <p>15 cl de bière</p>
+    <p>1 noix de beurre</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez votre four (pour chaleur tournante : thermostat 180°).Dans une jatte, mélangez la farine, les œufs entiers, le sucre et le sel. Lorsque le mélange est onctueux, incorporez la bière.
+    Dans un plat à four beurré et légèrement fariné, déposez les cerises, recouvrez de la pâte. Mettez au four pendant 35 minutes.
+    Le résultat est léger, juste croustillant, apprécié des convives. Faites deviner avec quel ingrédient particulier est réalisé ce clafoutis !
+  ]]>
+  </preparation>
+</recette>

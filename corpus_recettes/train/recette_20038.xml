@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20038">
+  <titre>Artichauts farcis aux oeufs</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 artichauts</p>
+    <p>4 oeufs</p>
+    <p>50 g de crème fraîche</p>
+    <p>1 cuillerée à soupe de ciboulette hachée</p>
+    <p>1 échalote hachée</p>
+    <p>1 citron</p>
+    <p>sel, poivre, noix de muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez les artichauts, faites-les cuire dans de l'eau bouillante salée pendant 30 à 45 min. Vérifiez la cuisson en enfonçant la pointe d'un couteau dans le fond des artichauts : la chair doit être tendre.
+    Faites cuire les oeufs durs 10 minutes à l'eau bouillante.
+    Jetez les premières feuilles des artichauts, enlevez le foin  et gardez les fonds, citronnez-les. (Gardez les feuilles pour les manger avec une sauce vinaigrette).
+    Ecalez les oeufs durs, hachez-les avec la crème, la ciboulette et l'échalote. Salez, poivrez et ajoutez une pincée de noix de muscade.
+    Garnissez les fonds d'artichauts avec la préparation et réservez au frais avant de servir.
+  ]]>
+  </preparation>
+</recette>

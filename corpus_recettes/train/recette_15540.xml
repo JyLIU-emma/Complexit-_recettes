@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15540">
+  <titre>Ollada (Catalogne)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de haricots blancs</p>
+    <p>1 crosse de jambon sec</p>
+    <p>500 g de ventrèche ou petit salé et 250 g de couennes de porc</p>
+    <p>400 g d'échine de porc (facultatif)</p>
+    <p>2 carottes</p>
+    <p>2 blancs de poireaux</p>
+    <p>1 pied de céleri</p>
+    <p>1 chou bien ferme</p>
+    <p>4 gousses d'ail</p>
+    <p>6 pommes de terre coupées en 4</p>
+    <p>1 cuillère à soupe de saindoux</p>
+    <p>2 boudins noirs catalans</p>
+    <p>sel et poivre</p>
+    <p>bouquet garni</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir les couennes de porc pendant 10 minutes, jeter l'eau et réserver. Mettre à cuire les haricots prélablement trempés avec sel et bouquet garni. Jeter l'eau.
+    Dans une grande marmite (appelée l'Ouille), mettre la crosse de jambon sec, la ventrèche ou le petit salé, les couennes, les légumes et laisser bouillir une heure. Ajouter alors les haricots, le saindoux et les boudins. Continuer la cuisson 30 minutes encore.
+    On peut aussi  mettre un morceau d'échine de porc, à rajouter en même temps que les légumes. On peut aussi varier la proportion de légumes.
+  ]]>
+  </preparation>
+</recette>

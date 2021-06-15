@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21055">
+  <titre>Poivrons farcis aux aubergines et anchois</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 poivrons verts</p>
+    <p>2 aubergines</p>
+    <p>5 petits anchois dessalés</p>
+    <p>50 g de câpres</p>
+    <p>1 gousses d'ail</p>
+    <p>4 cuillères à soupe de chapelure</p>
+    <p>2 cuillères à soupe de persil haché</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez et coupez les aubergines en dés. Saupoudrez-les de sel et laissez dégorger 30 min.
+    Coupez le chapeau des poivrons, épépinez-les.
+    Séchez les aubergines et faites-les cuire à la poêle avec de l'huile d'olive.
+    Coupez les anchois en petits morceaux, pilez l'ail.
+    Ajoutez-les aux aubergines, ainsi que les câpres, la chapelure et le persil.
+    Garnissez les poivrons de la farce, versez un filet d'huile d'olives, saupoudrez de chapelure et faites cuire 40 min au four à 150°C (thermostat 5).
+    A servir en entrée ou en accompagnement de poisson grillé.
+  ]]>
+  </preparation>
+</recette>

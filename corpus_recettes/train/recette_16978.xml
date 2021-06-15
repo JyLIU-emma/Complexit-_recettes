@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16978">
+  <titre>Morue à la  créole</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de morue salée</p>
+    <p>4 oignons</p>
+    <p>2 gousses d'ail</p>
+    <p>1 grande boîte de tomates pelées</p>
+    <p>4 cuil à soupe d'huile d'arachide</p>
+    <p>1 pointe de piment de cayenne</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Commencez par faire tremper les filets de morue salée dans de l'eau fraîche pendant 12h.
+    Egouttez et rincez. Mettez-les dans une sauteuse et recouvrez d'eau froide, portez à ébullition puis éteignez le gaz, couvrez et laissez pocher 10 mn.
+    Préparez maintenant la sauce en pelant et éminçant les oignons, les gousses d'ail et faites frire dans une poële. Ajoutez les tomates, le piment, salez et poivrez. Laissez cuire jusqu'à évaporation du jus de tomates.
+    Egouttez les filets de morue, détachez la chair, mélangez la morue à la sauce.
+    Accompagnez de légumes, riz et haricots rouges.
+  ]]>
+  </preparation>
+</recette>

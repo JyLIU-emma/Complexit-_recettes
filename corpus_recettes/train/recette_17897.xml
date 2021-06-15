@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17897">
+  <titre>Tarte tatin aux mangues</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 belles mangues</p>
+    <p>1 pâte feuilletée</p>
+    <p>5 morceaux de sucre, eau, beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les mangues et les couper en lamelles (pas trop fines).
+    Faire un caramel dans une poêle anti-adhésive avec les morceaux de sucre (roux c'est meilleur), un peu d'eau et une cuillère à soupe de beurre.
+    Préchauffer le four à 220°C.
+    Une fois le sucre fondu, passer les lamelles dans le caramel 2 à 3 minutes, pour bien les enrober.
+    Disposer les mangues en rosace dans un plat à tarte, poser la pâte dessus en rabattant ce qui dépasse à l'intérieur du moule pour faire un petit bourrelet de pâte. 
+    Cuire 25 minutes, sortir du four laisser refroidir 5 minutes et retourner sur un plat de service.
+    Servir avec de la crème chantilly maison (une brique de crème liquide bien froide et un sachet de sucre vanillé).
+  ]]>
+  </preparation>
+</recette>

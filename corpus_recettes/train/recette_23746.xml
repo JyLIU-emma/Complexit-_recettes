@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23746">
+  <titre>Crêpes à l'ananas et à l'orange</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la pâte à crêpes :</p>
+    <p>125 g de farine</p>
+    <p>2 oeufs</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>25 cl de lait</p>
+    <p>1 pincée de sel</p>
+    <p>1 ananas</p>
+    <p>3 cuillères à soupe de sucre</p>
+    <p>30 g de beurre</p>
+    <p>50 g d'amandes effilées</p>
+    <p>Pour la sauce :</p>
+    <p>25 cl de jus d'orange</p>
+    <p>1 cuillère à café de fécule de maïs</p>
+    <p>1 orange</p>
+    <p>1 cuillère à soupe de sucre </p>
+    <p>1 cuillère à soupe de liqueur d'orange</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour la pâte à crêpes :
+    Dans une terrine, verser la farine en fontaine avec le sel. Casser les oeufs au milieu. Mélanger et délayer au fur et à mesure en versant peu à peu l'huile, le lait et la liqueur d'orange. Laisser reposer.
+    Préparer la sauce :
+    Délayer la cuillère à café de fécule de maïs dans le jus d'orange. Mettre le tout dans une casserole avec le zeste râpé, le sucre et la liqueur. Faire bouillir et laisser refroidir.
+    Garniture à l'ananas :
+    Ôter l'écorce de l'ananas et le couper en tranches. Retirer également la partie centrale avec un emporte-pièce.
+    Faire chauffer une plaque huilée et faire cuire les crêpes. Maintenir au chaud. Faire fondre le beurre dans une poêle et y dorer les tranches d'ananas 4 minutes de chaque côté en les saupoudrant de sucre. 
+    Enfin, garnir les crêpes des tranches d'ananas, napper de sauce à l'orange et parsemer d'amandes effilées.
+    La pâte à crêpes et la sauce à l'orange peuvent être préparées à l'avance.
+  ]]>
+  </preparation>
+</recette>

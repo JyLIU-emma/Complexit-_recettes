@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26893">
+  <titre>Rôti de veau Orloff</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,5 kg de rôti de veau</p>
+    <p>16 tranches de gruyère </p>
+    <p>8 tranches de jambon cru </p>
+    <p>8 tranches de lard fumé </p>
+    <p>1 barde de lard </p>
+    <p>40 g de beurre </p>
+    <p>4 cuillerées à soupe d'huile </p>
+    <p>4 carottes </p>
+    <p>2 oignons </p>
+    <p>4 gousses d'ail </p>
+    <p>50 cl de vin blanc sec </p>
+    <p>300 g de champignons de Paris </p>
+    <p>1 jaune d'œuf  </p>
+    <p>20 cl de crème fraîche </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Entailler le rôti en laissant 5 cm au niveau de la base. Disposer entre chaque entaille une lamelle de gruyère, une tranche de jambon de pays et une de lard fumé. 
+    Reformer le rôti, le recouvrir d'une barde de lard et le maintenir avec du fil de cuisine.
+    Mettre la viande à dorer dans une cocotte avec du beurre et de l’huile.
+    Remplacer la viande par les carottes et les oignons. Le faire dorer et replacer la viande.
+    Ajouter l'ail et le vin blanc, et laisser mijoter pendant 1 h à feu doux. Tamiser le jus de cuisson.
+    A part, faire revenir les champignons à feu doux dans du beurre. Incorporer le jus de cuisson du rôti, le jaune d’œuf et la crème fraîche.
+    Servir le rôti avec cette sauce.
+  ]]>
+  </preparation>
+</recette>

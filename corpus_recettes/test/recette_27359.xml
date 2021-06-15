@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27359">
+  <titre>Bonnes gaufres de fête</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>125 g de sucre en poudre</p>
+    <p>50 g de beurre</p>
+    <p>1 oeuf</p>
+    <p>1 blanc d'oeuf</p>
+    <p>20 cl de lait</p>
+    <p>5 g de levure chimique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tamisez la farine avec la levure, le sucre et une pincée de sel.
+    Ajoutez 1 oeuf entier batu et le beurre fondu, puis le lait tiède.
+    Mélangez bien et incorporez le blanc d'oeuf battu en neige.
+    Laissez reposer 1 à 2 h et faites cuire les gaufres dans le gaufrier bien chaud.
+  ]]>
+  </preparation>
+</recette>

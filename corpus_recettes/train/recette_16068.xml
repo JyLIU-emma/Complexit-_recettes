@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16068">
+  <titre>Petites escalopes au vin blanc</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 petites escalopes de dindes coupées très finement</p>
+    <p>un peu de farine	</p>
+    <p>une cuillère à soupe d'huile (au choix)</p>
+    <p>50 g de beurre</p>
+    <p>1 verre de vin  blanc </p>
+    <p>1 cuillere à café de sucre</p>
+    <p>3 pincées de muscade râpée</p>
+    <p>3 pincées de coriandre en poudre</p>
+    <p>le jus d'1/2 citron</p>
+    <p>quelques feuilles de salade (facultatif, c'est pour la décoration)</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Passer les escalopes dans la farine, secouer le surplus.
+    Dans une cocotte, faire fondre le beurre et l'huile a feu très doux.
+    Mettre les escalopes et les assaisonner de sucre, d'épices, de sel et de poivre.
+    Faire revenir en remuant régulièrement pendant 15 mn, puis ajouter le vin, couvrir, et laisser mijoter a feu très doux pendant 30 mn environ.
+    Au moment de servir, disposer les escalopes dans un plat creux décoré de feuilles de laitue et arroser avec le jus de citron.
+    A defaut de dinde, vous pouvez utiliser du poulet.
+    Vous pouvez accompagner ce plat de tagliatelles, riz, purée ou autres.
+  ]]>
+  </preparation>
+</recette>

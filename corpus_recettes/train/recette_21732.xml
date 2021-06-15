@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21732">
+  <titre>Brohettes de rognons de veau et tomates grillées</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 rognons de veau</p>
+    <p>3 tomates</p>
+    <p>6 cuillères à soupe d'huile</p>
+    <p>1 cuillère à café de thym</p>
+    <p>6 tomates</p>
+    <p>sel et  poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper les rognons en deux et les plonger dans un saladier avec l'huile et le thym. Assaisonner et laisser macérer 30 min en les retournant toutes les 10 min.
+    Couper les tomates en deux et les recouvrir d’huile de macération.
+    Égoutter la viande sur un papier absorbant, les rouler et les embrocher.
+    Enfourner la viande et les tomates sur le lèche-vitre position grill pendant 20 min, avec le four ouvert, en retournant la viande de temps en temps.
+    Fermer et éteindre le four, en finissant la cuisson dans la chaleur du four pendant 5 min.
+    Servir les rognons avec des frites et les tomates grillées.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12879">
+  <titre>Tripoux d'Auvergne</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,5 kg fraise et poche de veau ou de mouton</p>
+    <p>400 g de lard</p>
+    <p>5 oignons</p>
+    <p>3 gousses d'ail</p>
+    <p>gros sel</p>
+    <p>épices (selon votre goût)</p>
+    <p>thym</p>
+    <p>50 cl de vin blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites une farce avec tous les ingrédients cités et mélanger avec la fraise hachée.
+    Ajouter les épices. Découper la poche en morceaux ovales, remplissez avec de la farce et cousez au fil de lin blanc.
+    Disposez les tripoux dans un pot en terre, couvrez-les avec du vin blanc et laissez cuire 5 à 7 heures.
+  ]]>
+  </preparation>
+</recette>

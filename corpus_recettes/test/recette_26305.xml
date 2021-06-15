@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26305">
+  <titre>Omelette au thon tomates</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 oeufs</p>
+    <p>1 petite boîte de thon au naturel d'environ 50 g</p>
+    <p>1 petite boîte de concentré de tomates ou de coulis de tomates</p>
+    <p>basilic</p>
+    <p>sel, poivre</p>
+    <p>1 gousse d'ail</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir le thon égoutté dans une petite cuillère d'huile d'olive, avec du basilic, sel, poivre, 1 gousse d'ail écrasée. 
+    Faire chauffer à part le coulis de tomates. 
+    Ajouter le thon au coulis, laisser mijoter en rajoutant du basilic au besoin. 
+    Battre les 2 oeufs en omelette, en rajoutant une cuillère à café de lait pour la rendre plus moelleuse (facultatif). 
+    Quand l'omelette commence à prendre verser le thon, puis replier
+    Possibilité de rajouter des oignons dans la préparation thon-tomates
+  ]]>
+  </preparation>
+</recette>

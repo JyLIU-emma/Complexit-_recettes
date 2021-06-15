@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164715">
+  <titre>La croûte</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boule (ou un pain assez large).</p>
+    <p>6 tranche de jambon blanc.</p>
+    <p>Fromage à raclette.</p>
+    <p>6 œufs.</p>
+    <p>Vin blanc.</p>
+    <p>Crème fraiche liquide épaisse.</p>
+    <p>Beurre.</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Couper des tranches de pain (1,5 cm d'épaisseur).
+    Couvrir le pain d'une tranche de jambon, puis de fromage à raclette.
+    Dans une grande poêle, faire chauffer à feu vif du vin blanc (1/2 cm au fond de la poêle).
+    -Dans une autre poêle,faire chauffer du beurre, et faire cuire 2 œufs sur le plat.
+    -Dès ébullition, poser 2 croûtes dans la poêle, et recouvrir immédiatement.
+    -Après 3 min, ajouter de la crème fraiche autour des croûtes, puis couvrir 2 min encore.
+    -Sortir les croutes, puis le recouvrir d'un œuf au plat.
+    -Réitérer pour les 4 croûtes restantes.Si vous avez peur de manquer, vous pouvez accompagner ce plat d'un gratin de courgette, ou d'un gratin dauphinois pour les plus gourmands. Vin blanc sec
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  - <OPER id="o_1">Couper</OPER> des tranches de <INGRED id="1">pain</INGRED> ( 1,5 cm d'épaisseur ). <OPER id="o_2">Couvrir</OPER> le <INGRED id="1">pain</INGRED> d'une tranche de <INGRED id="2">jambon</INGRED>, puis de <INGRED id="3">fromage</INGRED> à raclette. Dans une grande poêle, faire <OPER id="o_3">chauffer</OPER> à feu vif du vin <INGRED id="1">blanc</INGRED> ( 1/2 cm au fond de la poêle ). -Dans une autre poêle, faire <OPER id="o_4">chauffer</OPER> du <INGRED id="7">beurre</INGRED>, et faire <OPER id="o_5">cuire</OPER> 2 <INGRED id="1">œufs</INGRED> sur le plat. -Dès ébullition, <OPER id="o_6">poser</OPER> 2 croûtes dans la poêle, et <OPER id="o_7">recouvrir</OPER> immédiatement. -Après 3 min, <OPER id="o_8">ajouter</OPER> de la <INGRED id="2">crème fraiche</INGRED> autour des croûtes, puis <OPER id="o_9">couvrir</OPER> 2 min encore. <OPER id="o_10">-Sortir</OPER> les croutes, puis le <OPER id="o_11">recouvrir</OPER> d'un <INGRED id="1">œuf</INGRED> au plat. <OPER id="o_12">-Réitérer</OPER> pour les 4 croûtes restantes. Si vous avez peur de <OPER id="o_13">manquer</OPER>, vous pouvez accompagner ce plat d'un gratin de courgette, ou d'un gratin dauphinois pour les plus gourmands. <INGRED id="5">Vin blanc</INGRED> sec
+  </annotation>
+  <annotation methode="crf">
+  - Couper des tranches de <INGRED>pain</INGRED> ( 1,5 cm d'épaisseur ). Couvrir le <INGRED>pain</INGRED> d'une tranche de <INGRED>jambon</INGRED> <INGRED>,</INGRED> puis de <INGRED>fromage</INGRED> à raclette. Dans une grande poêle <INGRED>,</INGRED> faire chauffer à feu vif du <INGRED>vin blanc</INGRED> ( <INGRED>1/2</INGRED> <INGRED>cm</INGRED> au <INGRED>fond</INGRED> de la poêle ). -Dans une autre poêle <INGRED>,</INGRED> faire chauffer du <INGRED>beurre</INGRED> <INGRED>,</INGRED> et faire cuire 2 <INGRED>œufs</INGRED> sur le plat <INGRED>.</INGRED> -Dès ébullition <INGRED>,</INGRED> poser 2 croûtes dans la poêle <INGRED>,</INGRED> et recouvrir immédiatement. -Après 3 min <INGRED>,</INGRED> ajouter de la <INGRED>crème fraiche</INGRED> autour des croûtes <INGRED>,</INGRED> puis couvrir 2 min encore. -Sortir les croutes <INGRED>,</INGRED> puis le recouvrir d'un <INGRED>œuf</INGRED> au plat <INGRED>.</INGRED> -Réitérer pour les 4 croûtes restantes. Si vous avez peur de manquer <INGRED>,</INGRED> vous pouvez accompagner ce plat d'un gratin de <INGRED>courgette</INGRED> <INGRED>,</INGRED> <INGRED>ou</INGRED> d'un gratin dauphinois pour les plus gourmands. Vin blanc sec
+  </annotation>
+  <complexite>
+    <temps>f(X) = 9.94117647058824*X + 3.05882352941176</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 13*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['boule']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['jambon blanc', 'jambon']	 id:2	 quantité:6	 unité:tranche de	 denombrable:True	 recipient:6*X
+ingredient:['Fromage à raclette', 'Fromage']	 id:3	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['œufs']	 id:4	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['Vin blanc', 'Vin']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['Crème fraiche liquide épaisse', 'Crème']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['Beurre']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:couper	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1*X*1	 recipient:1
+operation:couvrir	 id:o_2	 ingrédients_ralatifs:['1', '2', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_3	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:chauffer	 id:o_4	 ingrédients_ralatifs:['7', '1']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:cuire	 id:o_5	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:poser	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recouvrir	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:-sortir	 id:o_10	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recouvrir	 id:o_11	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:-réitérer	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:manquer	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

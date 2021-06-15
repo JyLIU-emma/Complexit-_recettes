@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19889">
+  <titre>Gâteau Petit Duc</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 blancs d'oeufs</p>
+    <p>175 g de sucre en poudre</p>
+    <p>100 g de farine</p>
+    <p>60 g de beurre</p>
+    <p>zeste de citron râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C . 
+    Battre les oeufs en neige très ferme. Y ajouter le sucre, le beurre amolli auparavant au bain-marie, et le zeste de citron. Beurrer un moule, y verser la pâte et mettre au four pour 30 mn en protégeant d'un papier alu si nécessaire. 
+    En piquant une pointe de couteau dans le gâteau elle doit ressortir sèche.
+    Quand on a beaucoup de blancs d'oeufs restant d'une autre recette, il est appréciable de connaître une recette facile qui permet de les utiliser.
+  ]]>
+  </preparation>
+</recette>

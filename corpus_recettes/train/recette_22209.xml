@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22209">
+  <titre>Tarte à la crème de persil</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>1 bouquet de persil</p>
+    <p>4 oeufs</p>
+    <p>120 g de crème fraîche</p>
+    <p>120 g de fromage râpé</p>
+    <p>3 cuillères à soupe de vin blanc sec</p>
+    <p>2 gousses d'ail</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 210°C (thermostat 7).
+    Mélangez les oeufs avec la crème, le fromage, l'ail haché et le vin blanc.
+    Ajoutez le persil haché, du sel et du poivre. 
+    Etalez la pâte dans un moule à tarte beurré et versez-y la préparation. 
+    Enfournez pour 40-45 minutes de cuisson.
+    Servez tiède ou froid. 
+  ]]>
+  </preparation>
+</recette>

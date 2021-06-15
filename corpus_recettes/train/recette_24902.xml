@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24902">
+  <titre>Poulet du Jura au comté et champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet fermier</p>
+    <p>200 g de champignons de Paris cuits</p>
+    <p>1 kg de comté</p>
+    <p>1 bouteille de vin blanc du Jura</p>
+    <p>25 cl de crème</p>
+    <p>50 g de beurre</p>
+    <p>1 cuillère de farine</p>
+    <p>2 gousses d'ail</p>
+    <p>1 petit bouquet garni</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez le comté en petits morceaux, mettez-les à fondre dans un poêlon à fondue frotté avec l'ail ou une casserole à fond épais.
+    Versez le vin blanc et remuez à la cuillère en bois jusqu'à ce que le comté soit complètement fondu.
+    Rajoutez du vin si vous trouvez la fondue trop épaisse, poivrez. 
+    Découpez le poulet en morceaux.
+    Faites-les dorer 10 min à la cocotte avec le beurre.
+    Videz le gras rendu et ajoutez la fondue au comté. Laissez cuire 45 min à feu très doux.
+    Récupérez le liquide (gras) rendu et réservez le poulet à couvert.
+    Faites chauffer 3 cuillères à soupe du gras récupéré avec une cuillère de farine.
+    Mouillez avec le reste du jus de cuisson.
+    Ajoutez la crème et les champignons, goûtez et rectifiez l'assaisonnement.
+    Servez le poulet nappé de cette sauce.
+  ]]>
+  </preparation>
+</recette>

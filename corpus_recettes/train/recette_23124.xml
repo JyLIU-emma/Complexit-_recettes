@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23124">
+  <titre>Filets de daurade au vin blanc et fenouil</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de filets de daurade</p>
+    <p>6 cl d'huile d'olive</p>
+    <p>2 ou 3 pincées de serpolet</p>
+    <p>1 cuillère à café de brins de fenouil</p>
+    <p>3 belles tomates</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>persil haché</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 180°C (thermostat 6).
+    Saupoudrer une assiette plate de sel, poivre et serpolet, puis bien mêler les ingrédients à l'aide d'une fourchette.
+    Rouler les filets de daurade dans l'assiette d'assaisonnement, puis les disposer dans un plat à gratin huilé.
+    Laver et détailler les tomates en fines tranches, puis les disposer dans le plat autour des filets.
+    Enfourner et laisser cuire 20 à 30 min à four chaud.
+    Au bout de 15 min de cuisson, arroser les filets de vin blanc et les saupoudrer de brins de fenouil.
+    Juste avant de servir, parsemer les filets de persil haché à volonté et déguster bien chaud.
+  ]]>
+  </preparation>
+</recette>

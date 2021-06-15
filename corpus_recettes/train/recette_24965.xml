@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24965">
+  <titre>Potage de légumes et crustacés</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>150 cl de bouillon de poisson</p>
+    <p>10 cl de crème fraîche</p>
+    <p>125 g de champignons de Paris</p>
+    <p>125 g de blancs de poireaux</p>
+    <p>125 g de crabe en boîte</p>
+    <p>100 g de crevettes roses</p>
+    <p>50 g de beurre</p>
+    <p>1 oeuf</p>
+    <p>ciboulette</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les poireaux et les champignons et les couper en dés.
+    Dans une poêle, faire chauffer à feu doux le beurre, les poireaux et les champignons pendant 10 min. Verser le bouillon de poisson, assaisonner et faire cuire 20 minutes à feu moyen.
+    Ajouter la crème, l'oeuf battu en omelette et les crevettes cuites et décortiquées.
+    Parsemer de crabe et de ciboulette hachée. Servir.
+  ]]>
+  </preparation>
+</recette>

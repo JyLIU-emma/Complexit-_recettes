@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27400">
+  <titre>Pains aux fines herbes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de farine</p>
+    <p>1/2 cuillère à café de sel</p>
+    <p>50 g de flocons d'avoine</p>
+    <p>1 sachets de levure sèche de boulanger </p>
+    <p>10 cl d'eau</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>100 g de fromage blanc frais aux herbes</p>
+    <p>1 bouquet de persil</p>
+    <p>1 bouquet d'aneth</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettez la farine tamisée avec le sel, les flocons d'avoine et la levure. Attention, le sel et la levure ne doit pas se toucher.
+    Incorporez l'eau tiède, l'huile et le fromage blanc.
+    Ajoutez les herbes ciselées.
+    Malaxez la pâte avec les mains et façonnez-la en boule.
+    Disposez la pâte dans un saladier, recouvrez d'un torchon et laissez lever la pâte pendant 2 heures.
+    Mettez la pâte dans un moule à cake, laissez lever 20 minutes.
+    Préchauffez le four à 240°C (thermostat 8).
+    Incisez la pâte et enfournez pour 35 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

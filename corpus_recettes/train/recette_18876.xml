@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18876">
+  <titre>Cake salé au jambon et aux olives</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>150 g de farine</p>
+    <p>200 g de jambon</p>
+    <p>150 g d'olives vertes dénoyautées</p>
+    <p>75 g de gruyère râpé</p>
+    <p>4 oeufs</p>
+    <p>10 cl de lait</p>
+    <p>1 sachet de levure chimique</p>
+    <p>1 cuillère à soupe d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les olives en roudelles. Couper le jambon en morceaux. 
+    Verser les oeufs dans la farine et mélanger. Ajouter le lait et l'huile puis mélanger. Ajouter le jambon, les olives et le gruyère puis mélanger. Ajouter la levure et, pour ne pas changer, mélanger. :)
+    Mettre le tous dans un plat à cake au préalable beurré et placer dans un four chaud à thermostat 6 (180°C) pendant 45 min.
+    A déguster tiède ou froid, à l'apéritif.
+  ]]>
+  </preparation>
+</recette>

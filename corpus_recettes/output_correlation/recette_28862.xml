@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28862">
+  <titre>Strudel à la choucroute et autres Strudel salés</titre>
+  <type>Plat principal</type>
+  <niveau>Difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pâte à Strudel (voir la recette ) </p>
+    <p>2 oignons</p>
+    <p>20 g de beurre</p>
+    <p>1 boîte de choucroute (810 g) nature</p>
+    <p>100 g de crème fraîche</p>
+    <p>sel, poivre</p>
+    <p>1 bouquet d'aneth</p>
+    <p>300 g de saumon cru ou fumé ou de lardons</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler, hacher les oignons, les faire revenir dans le beurre avec la choucroute durant 10 mn. Ajouter un peu de vin blanc (1/2 verre) et laisser réduire. 
+    Ajouter le saumon coupé en dés. 
+    Ajouter la crème, le sel, le poivre, l'aneth. Laisser refroidir. 
+    Etaler la pâte à Strudel, et suivre les instructions données dans la recette de la pâte à Strudel.
+    Il existe une infinité de variantes de Strudel salés. En général, je fais mes Strudels avec mes restes : ça fait plus riche de les présenter en Strudel ! C'est ainsi que si on a un reste de choucroute, il suffit de couper les pommes de terre et les viandes en morceaux, et d'enfermer le tout dans la pâte.Autres variantes :
+    Champignons : 1,5 kg de champignons de Paris coupés en morceaux revenus dans du beurre avec un oignon, du persil, et 100 g de lardons. Ajouter 2 oeufs, 200 g de crème fraîche épaisse et 3 c. s. de chapelure.
+    Epinards : 1 kg d'épinards revenus dans du beurre avec 1 oignon. Ajouter 100 g de pignons brunis dans une poêle, sel, poivre, et 400 g de fromage de chèvre coupé en morceaux.
+    Ratatouille : Utiliser un reste de ratatouille. On peut ajouter des saucisses de Toulouse coupées en rondelles et revenues dans une poêle.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Peler</OPER>, <OPER id="o_2">hacher</OPER> les oignons, les <INGRED id="4">faire</INGRED> <OPER id="o_3">revenir</OPER> dans le <INGRED id="6">beurre</INGRED> avec la <INGRED id="4">choucroute</INGRED> durant 10 mn. <OPER id="o_4">Ajouter</OPER> un peu de <INGRED id="8">vin blanc</INGRED> ( 1/2 verre ) et laisser réduire. <OPER id="o_5">Ajouter</OPER> le <INGRED id="1">saumon</INGRED> coupé en <INGRED id="3">dés</INGRED>. <OPER id="o_6">Ajouter</OPER> la crème, le sel, le <INGRED id="5">poivre</INGRED>, l'aneth. Laisser <OPER id="o_7">refroidir</OPER>. <OPER id="o_8">Etaler</OPER> la <INGRED id="2">pâte</INGRED> à Strudel, et <OPER id="o_9">suivre</OPER> les instructions données dans la recette de la <INGRED id="9">pâte</INGRED> à Strudel. Il existe une infinité de variantes de Strudel salés. En général, je fais mes Strudels avec mes restes : ça fait plus riche de les <OPER id="o_10">présenter</OPER> en Strudel ! C'est ainsi que si on a un <INGRED id="1">reste</INGRED> de <INGRED id="4">choucroute</INGRED>, il suffit de <OPER id="o_11">couper</OPER> les <INGRED id="5">pommes de terre</INGRED> et les viandes en <INGRED id="1">morceaux</INGRED>, et d'<OPER id="o_12">enfermer</OPER> le tout dans la <INGRED id="5">pâte</INGRED>. Autres variantes : <INGRED id="2">Champignons</INGRED> : 1,5 <INGRED id="1">kg</INGRED> de <INGRED id="4">champignons de Paris</INGRED> coupés en <INGRED id="1">morceaux</INGRED> revenus dans du beurre avec un <INGRED id="6">oignon</INGRED>, du <INGRED id="5">persil</INGRED>, et 100 <INGRED id="1">g</INGRED> de lardons. <OPER id="o_13">Ajouter</OPER> 2 oeufs, 200 <INGRED id="2">g</INGRED> de <INGRED id="3">crème fraîche épaisse</INGRED> et 3 c. s. de <INGRED id="8">chapelure</INGRED>. Epinards : 1 <INGRED id="1">kg</INGRED> d'épinards revenus dans du beurre avec 1 oignon. <OPER id="o_14">Ajouter</OPER> 100 <INGRED id="9">g</INGRED> de pignons brunis dans une poêle, <INGRED id="7">sel, poivre</INGRED>, et 400 <INGRED id="9">g</INGRED> de fromage de chèvre coupé en <INGRED id="1">morceaux</INGRED>. Ratatouille : <OPER id="o_15">Utiliser</OPER> un <INGRED id="1">reste</INGRED> de ratatouille. On peut <OPER id="o_16">ajouter</OPER> des <INGRED id="7">saucisses</INGRED> de Toulouse <INGRED id="5">coupées</INGRED> en rondelles et revenues dans une poêle.
+  </annotation>
+  <annotation methode="crf">
+  Peler <INGRED>,</INGRED> hacher les <INGRED>oignons,</INGRED> les faire revenir dans le <INGRED>beurre</INGRED> avec la choucroute durant 10 mn <INGRED>.</INGRED> Ajouter un peu de <INGRED>vin blanc</INGRED> ( <INGRED>1/2</INGRED> <INGRED>verre</INGRED> ) et laisser réduire <INGRED>.</INGRED> Ajouter le <INGRED>saumon</INGRED> <INGRED>coupé</INGRED> en dés <INGRED>.</INGRED> Ajouter la <INGRED>crème</INGRED> <INGRED>,</INGRED> le <INGRED>sel</INGRED> <INGRED>,</INGRED> le <INGRED>poivre</INGRED> <INGRED>,</INGRED> l'<INGRED>aneth</INGRED>. Laisser refroidir <INGRED>.</INGRED> Etaler la <INGRED>pâte</INGRED> à Strudel <INGRED>,</INGRED> et suivre les instructions données dans la recette de la <INGRED>pâte</INGRED> à Strudel. Il existe une infinité de variantes de Strudel salés <INGRED>.</INGRED> En général <INGRED>,</INGRED> je fais mes Strudels avec mes restes <INGRED>:</INGRED> ça fait plus riche de les présenter en Strudel ! C'est ainsi que si on <INGRED>a</INGRED> un <INGRED>reste</INGRED> de choucroute <INGRED>,</INGRED> il suffit de couper les <INGRED>pommes de terre</INGRED> et les viandes en <INGRED>morceaux</INGRED> <INGRED>,</INGRED> et d'enfermer le tout dans la <INGRED>pâte</INGRED> <INGRED>.</INGRED> Autres variantes <INGRED>:</INGRED> Champignons <INGRED>:</INGRED> 1,5 <INGRED>kg</INGRED> de <INGRED>champignons de Paris</INGRED> coupés en <INGRED>morceaux</INGRED> revenus dans du <INGRED>beurre</INGRED> avec un <INGRED>oignon</INGRED> <INGRED>,</INGRED> du <INGRED>persil</INGRED> <INGRED>,</INGRED> et 100 <INGRED>g</INGRED> de <INGRED>lardons</INGRED>. Ajouter 2 <INGRED>oeufs</INGRED> <INGRED>,</INGRED> 200 <INGRED>g</INGRED> de <INGRED>crème fraîche</INGRED> épaisse et 3 c. s. de <INGRED>chapelure</INGRED> <INGRED>.</INGRED> Epinards <INGRED>:</INGRED> 1 <INGRED>kg</INGRED> d'épinards revenus dans du <INGRED>beurre</INGRED> avec 1 <INGRED>oignon</INGRED>. Ajouter 100 <INGRED>g</INGRED> de <INGRED>pignons</INGRED> brunis dans une poêle <INGRED>,</INGRED> <INGRED>sel</INGRED> <INGRED>,</INGRED> <INGRED>poivre</INGRED> <INGRED>,</INGRED> et 400 <INGRED>g</INGRED> de <INGRED>fromage</INGRED> de <INGRED>chèvre</INGRED> <INGRED>coupé</INGRED> en <INGRED>morceaux</INGRED> <INGRED>.</INGRED> Ratatouille <INGRED>:</INGRED> Utiliser un <INGRED>reste</INGRED> de ratatouille. On peut ajouter des <INGRED>saucisses</INGRED> de Toulouse <INGRED>coupées</INGRED> en rondelles et revenues dans une poêle <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 7.6*X + 11.4</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 4*X + 10</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['Pâte à Strudel', 'Pâte']	 id:1	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['oignons']	 id:2	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['beurre']	 id:3	 quantité:20	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['choucroute   nature', 'choucroute']	 id:4	 quantité:1	 unité:boîte de	 denombrable:True	 recipient:1*X
+ingredient:['crème fraîche', 'crème']	 id:5	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["bouquet d'aneth", 'bouquet']	 id:8	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['saumon cru', 'saumon']	 id:9	 quantité:300	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:peler	 id:o_1	 ingrédients_ralatifs:['4', '6', '4']	 nombre_opération_atomique:1*X+1+1*X	 temps:1*X*1+1*X*1+1*X*1	 recipient:0
+operation:hacher	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5*X	 recipient:1
+operation:revenir	 id:o_3	 ingrédients_ralatifs:['4', '6', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_4	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['1', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:etaler	 id:o_8	 ingrédients_ralatifs:['2', '9']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:suivre	 id:o_9	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:présenter	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_11	 ingrédients_ralatifs:['5', '1']	 nombre_opération_atomique:1+1	 temps:1*X*1+1*X*1	 recipient:1
+operation:enfermer	 id:o_12	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_13	 ingrédients_ralatifs:['2', '3', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_14	 ingrédients_ralatifs:['9', '7', '9', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:utiliser	 id:o_15	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_16	 ingrédients_ralatifs:['7', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

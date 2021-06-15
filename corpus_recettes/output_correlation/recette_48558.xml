@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48558">
+  <titre>Cyrniki (galettes de fromage blanc) Russie</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour les cyrniki :</p>
+    <p>1 kg de fromage blanc</p>
+    <p>50 g de farine</p>
+    <p>1 cuillère à soupe de sucre</p>
+    <p>1/4 de cuillère à café de sel</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>3 grosses cuillères à soupe de beurre clarifiéPour servir:</p>
+    <p>50 cl de sauce smitane (crème fraîche acidulée)</p>
+    <p>125 g de beurre clarifié</p>
+    <p>200 g de sucre en poudre</p>
+    <p>quelques fruits pour la décoration des assiettes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille, préparer le tvarog :
+    Mettre le fromage blanc sous presse pour en faire un tvarog pas trop sec (il doit en rester environ 500 à 600 g).
+    Le jour même :
+    Mélanger le tvarog en ajoutant un à un les jaunes d'œufs, puis incorporer le sel, la farine et en dernier le sucre, afin d'obtenir une masse homogène.
+    Entre deux papiers films ou papiers à pâtisserie, aplatir l'appareil sur une épaisseur d’environ 2 cm et mettre au réfrigérateur pour 2h (ainsi les cyrniki se conservent plusieurs jours).
+    Ensuite, découper de petites rondelles (reformer à chaque fois des plaques en se servant du papier films jusqu’à la fin de l’appareil et sans fariner la farce entre-temps).
+    Fariner légèrement les rondelles obtenues.
+    Ainsi préparés, les cyrniki se conservent facilement 2 à 3 jours au réfrigérateur et sont plus faciles à cuire.
+    Ils peuvent également être congelés.
+    Si les assiettes doivent être décorées, préparer les fruits.
+    Faire fondre le beurre clarifié.
+    Dans une poêle, faire fondre les 3 cuillères à soupe restante de beurre clarifié et faire dorer les cyrniki environ 2 min de chaque côtés (juste pour qu’ils soient bien dorés).
+    Placer rapidement les fruits et servir aussitôt sur des assiettes chaudes en ajoutant un peu de beurre clarifié et fondu, de la smitane (crème acidulée) et du sucre.
+    Généralement, il faut compter 3 cyrniki par personne! Un vin doux ou  du thé
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  La veille, <OPER id="o_1">préparer</OPER> le tvarog : <OPER id="o_2">Mettre</OPER> le <INGRED id="1">fromage blanc</INGRED> sous presse pour en <INGRED id="10">faire</INGRED> un tvarog pas trop sec ( il doit en rester <INGRED id="1">environ</INGRED> 500 à 600 <INGRED id="9">g</INGRED> ). Le jour même : <OPER id="o_3">Mélanger</OPER> le tvarog en ajoutant un à un les jaunes d'œufs, puis <OPER id="o_4">incorporer</OPER> le <INGRED id="5">sel</INGRED>, la <INGRED id="8">farine</INGRED> et en dernier le sucre, afin d'obtenir une masse homogène. Entre <INGRED id="6">deux</INGRED> papiers films ou papiers à pâtisserie, <OPER id="o_5">aplatir</OPER> l'appareil sur une épaisseur d’ <INGRED id="1">environ</INGRED> 2 cm et <OPER id="o_6">mettre</OPER> au réfrigérateur pour 2h ( ainsi les cyrniki se conservent plusieurs jours ). Ensuite, <OPER id="o_7">découper</OPER> de petites rondelles ( <OPER id="o_8">reformer</OPER> à chaque fois des plaques en se servant du papier films jusqu’ à la fin de l’ appareil et sans <OPER id="o_9">fariner</OPER> la farce entre-temps ). <OPER id="o_10">Fariner</OPER> légèrement les rondelles obtenues. Ainsi préparés, les cyrniki se conservent facilement 2 à 3 jours au réfrigérateur et sont plus faciles à <OPER id="o_11">cuire</OPER>. Ils peuvent également être congelés. Si les assiettes doivent être décorées, <OPER id="o_12">préparer</OPER> les <INGRED id="2">fruits</INGRED>. Faire <OPER id="o_13">fondre</OPER> le beurre clarifié. Dans une poêle, <INGRED id="4">faire</INGRED> <OPER id="o_14">fondre</OPER> les 3 cuillères à <INGRED id="10">soupe</INGRED> restante de <INGRED id="8">beurre clarifié</INGRED> et <INGRED id="10">faire</INGRED> <OPER id="o_15">dorer</OPER> les cyrniki <INGRED id="1">environ</INGRED> 2 min de chaque côtés ( juste pour qu’ ils soient bien dorés ). <OPER id="o_16">Placer</OPER> rapidement les <INGRED id="9">fruits</INGRED> et servir aussitôt sur des assiettes chaudes en ajoutant un <INGRED id="4">peu</INGRED> de <INGRED id="8">beurre clarifié</INGRED> et fondu, de la smitane ( crème acidulée ) et du sucre. Généralement, il faut <OPER id="o_17">compter</OPER> 3 cyrniki par personne ! Un vin doux ou du <INGRED id="1">thé</INGRED>
+  </annotation>
+  <annotation methode="crf">
+  La veille <INGRED>,</INGRED> préparer le tvarog <INGRED>:</INGRED> Mettre le <INGRED>fromage</INGRED> <INGRED>blanc</INGRED> sous presse pour en faire un tvarog pas trop sec ( il doit en rester <INGRED>environ</INGRED> 500 à 600 <INGRED>g</INGRED> ). Le jour même <INGRED>:</INGRED> Mélanger le tvarog en ajoutant un à un les <INGRED>jaunes d'œufs</INGRED> <INGRED>,</INGRED> puis incorporer le <INGRED>sel</INGRED> <INGRED>,</INGRED> la <INGRED>farine</INGRED> et en dernier le <INGRED>sucre</INGRED> <INGRED>,</INGRED> afin d'obtenir une masse homogène <INGRED>.</INGRED> Entre <INGRED>deux</INGRED> papiers films <INGRED>ou</INGRED> papiers à pâtisserie <INGRED>,</INGRED> aplatir l'appareil sur une épaisseur d’ <INGRED>environ</INGRED> 2 <INGRED>cm</INGRED> et mettre au réfrigérateur pour 2h ( ainsi les cyrniki se conservent plusieurs jours ). Ensuite <INGRED>,</INGRED> découper de petites rondelles ( reformer à chaque fois des plaques en se servant du papier films jusqu’ à la fin de l’ appareil et sans fariner la farce entre-temps ). Fariner légèrement les rondelles obtenues <INGRED>.</INGRED> Ainsi préparés <INGRED>,</INGRED> les cyrniki se conservent facilement 2 à 3 jours au réfrigérateur et sont plus faciles à cuire <INGRED>.</INGRED> Ils peuvent également être congelés <INGRED>.</INGRED> Si les assiettes doivent être décorées <INGRED>,</INGRED> préparer les <INGRED>fruits</INGRED>. Faire fondre le <INGRED>beurre</INGRED> clarifié <INGRED>.</INGRED> Dans une poêle <INGRED>,</INGRED> faire fondre les 3 <INGRED>cuillères à soupe</INGRED> restante de <INGRED>beurre</INGRED> clarifié et faire dorer les cyrniki <INGRED>environ</INGRED> 2 min de chaque côtés ( juste pour qu’ ils soient bien dorés ). Placer rapidement les <INGRED>fruits</INGRED> et servir aussitôt sur des assiettes chaudes en ajoutant un peu de <INGRED>beurre</INGRED> clarifié et fondu <INGRED>,</INGRED> de la smitane ( <INGRED>crème</INGRED> acidulée ) et du <INGRED>sucre</INGRED>. Généralement <INGRED>,</INGRED> il faut compter 3 cyrniki par personne ! Un <INGRED>vin</INGRED> doux <INGRED>ou</INGRED> du thé
+  </annotation>
+  <complexite>
+    <temps>f(X) = 8.30769230769231*X + 9.69230769230769</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 6*X + 14</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['fromage blanc', 'fromage']	 id:1	 quantité:1	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:2	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:3	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:4	 quantité:1/4	 unité:cuillère à café de	 denombrable:False	 recipient:1
+ingredient:["jaunes d'oeufs", 'jaunes']	 id:5	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['beurre clarifiéPour servir', 'beurre']	 id:6	 quantité:3	 unité:cuillères à soupe de	 denombrable:True	 recipient:3*X
+ingredient:['sauce smitane', 'sauce']	 id:7	 quantité:50	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['beurre clarifié', 'beurre']	 id:8	 quantité:125	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre en poudre', 'sucre']	 id:9	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['fruits']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préparer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:mettre	 id:o_2	 ingrédients_ralatifs:['1', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:['5', '8']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:incorporer	 id:o_4	 ingrédients_ralatifs:['5', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:aplatir	 id:o_5	 ingrédients_ralatifs:['6', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:découper	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:reformer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fariner	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fariner	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:préparer	 id:o_12	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:fondre	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:fondre	 id:o_14	 ingrédients_ralatifs:['4', '10', '8', '10', '1']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:dorer	 id:o_15	 ingrédients_ralatifs:['10', '1']	 nombre_opération_atomique:1+1	 temps:1*X*1+1*X*1	 recipient:0
+operation:placer	 id:o_16	 ingrédients_ralatifs:['9', '4', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:compter	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

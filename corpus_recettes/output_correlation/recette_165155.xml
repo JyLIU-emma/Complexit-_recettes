@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165155">
+  <titre>Tartine de chèvre frais et jambon cru</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tranches de pain de campagne</p>
+    <p>100g de chèvre frais </p>
+    <p>8 tranches de jambon cru italien</p>
+    <p>4 filets de crème de vinaigre     balsamique</p>
+    <p>4 c. à s. d'oignons frits</p>
+    <p>1 c. à c. de paprika</p>
+    <p>poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire rissoler les tranches de jambon cru à la poële sur feu vif, et lorsqu'elles deviennent croustillantes, les déposer sur du papier essuie-tout pour les dégraisser un peu.
+      Faire griller les tranches de pain, puis les tartiner de fromage de chèvre. Saoupoudrer de paprika. Émietter le jambon pour en parsemer généreusement les tartines. Y ajouter la crème de balsamique en filet, saoupoudrer d'oignons frits, et terminer par le poivre. (pas de sel car le jambon l'est déjà)
+    Dégustez. Bon appétit.Vous pouvez aussi découper les tartines en petits carrés, et les servir en amuses-bouches. Côte du rhône rosé
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">rissoler</OPER> les tranches de <INGRED id="1">jambon</INGRED> cru à la poële sur feu vif, et lorsqu'elles deviennent croustillantes, les <OPER id="o_2">déposer</OPER> sur du papier essuie - tout pour les dégraisser un peu. Faire <OPER id="o_3">griller</OPER> les tranches de <INGRED id="1">pain</INGRED>, puis les <OPER id="o_4">tartiner</OPER> de fromage de chèvre. <OPER id="o_5">Saoupoudrer</OPER> de paprika. <OPER id="o_6">Émietter</OPER> le jambon pour en parsemer généreusement les tartines. Y <OPER id="o_7">ajouter</OPER> la crème de balsamique en filet, <OPER id="o_8">saoupoudrer</OPER> d'oignons frits, et terminer par le <INGRED id="7">poivre</INGRED>. ( pas de <INGRED id="7">sel</INGRED> car le jambon l'est déjà ) Dégustez. Bon appétit. Vous pouvez aussi <OPER id="o_9">découper</OPER> les tartines en <INGRED id="3">petits</INGRED> carrés, et les servir en amuses - bouches. Côte du rhône rosé
+  </annotation>
+  <annotation methode="crf">
+  Faire rissoler les tranches de <INGRED>jambon</INGRED> cru à la poële sur feu vif <INGRED>,</INGRED> et lorsqu'elles deviennent croustillantes <INGRED>,</INGRED> les déposer sur du papier essuie - tout pour les dégraisser un peu. Faire griller les tranches de <INGRED>pain</INGRED> <INGRED>,</INGRED> puis les tartiner de <INGRED>fromage</INGRED> de <INGRED>chèvre</INGRED> <INGRED>.</INGRED> Saoupoudrer de <INGRED>paprika</INGRED> <INGRED>.</INGRED> Émietter le <INGRED>jambon</INGRED> pour en parsemer généreusement les <INGRED>tartines</INGRED> <INGRED>.</INGRED> Y ajouter la <INGRED>crème de balsamique</INGRED> en <INGRED>filet</INGRED> <INGRED>,</INGRED> saoupoudrer d'<INGRED>oignons frits</INGRED> <INGRED>,</INGRED> et terminer par le <INGRED>poivre</INGRED>. ( pas de <INGRED>sel</INGRED> car le <INGRED>jambon</INGRED> l'est déjà ) Dégustez. Bon appétit. Vous pouvez aussi découper les <INGRED>tartines</INGRED> en <INGRED>petits</INGRED> <INGRED>carrés</INGRED> <INGRED>,</INGRED> et les servir en amuses - bouches. Côte du rhône rosé
+  </annotation>
+  <complexite>
+    <temps>f(X) = 8.21739130434783*X + 0.782608695652174</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 21*X + 5</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pain de campagne', 'pain']	 id:1	 quantité:4	 unité:tranches de	 denombrable:True	 recipient:4*X
+ingredient:['chèvre frais', 'chèvre']	 id:2	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['jambon cru italien', 'jambon']	 id:3	 quantité:8	 unité:tranches de	 denombrable:True	 recipient:8*X
+ingredient:['filets de crème de vinaigre      balsamique', 'filets']	 id:4	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:["c. à s. d'oignons frits", 'c']	 id:5	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['c. à c. de paprika', 'c']	 id:6	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['poivre du moulin', 'poivre']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:rissoler	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déposer	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:griller	 id:o_3	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:4*X*5	 recipient:1
+operation:tartiner	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saoupoudrer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:émietter	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saoupoudrer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:découper	 id:o_9	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:8*X*1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

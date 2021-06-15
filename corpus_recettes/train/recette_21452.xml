@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21452">
+  <titre>Lapin sauce pain d'épices</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 lapin coupé en morceau</p>
+    <p>2 verres de vin blanc</p>
+    <p>2 verres d'eau</p>
+    <p>4 tranches de pain d'épices</p>
+    <p>2 échalotes</p>
+    <p>1 noix de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Faire chauffer du beurre dans une cocotte et y faire revenir le lapin. Saler, poivrer. 
+    2) Verser le vin blanc et les échalotes coupées. Porter à ébullition. Ajouter 2 verres d'eau ansi que les tranches de pain d'épices finement émiettées. 
+    3) Laisser cuire environ 30 mn, et servir avec des pâtes fraîches, ou de la polenta...
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="4724">
+  <titre>Cheesecake aux myrtilles</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de myrtilles fraîches ou surgelées</p>
+    <p>200 g de fromage blanc en faisselle</p>
+    <p> 200 g de Carré frais </p>
+    <p>6 cl de lait fermenté (type Yorik) </p>
+    <p>2 oeufs</p>
+    <p>165 g de sucre en poudre</p>
+    <p>55 g de semoule de blé</p>
+    <p>35 g de farine</p>
+    <p>2 cuillères à soupe d’extrait de vanille</p>
+    <p>20 g de beurre</p>
+    <p>sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Si vous utilisez des myrtilles surgelées, disposez-les en une seule couche sur du papier absorbant, et laissez-les décongeler à température ambiante.
+    Préchauffez le four à th 6 (180°C). 
+    Beurrez un moule à charnière, et tapissez-le de papier sulfurisé.
+    Dans un saladier, mélangez la faisselle, le Carré frais, la vanille et le sucre en poudre. 
+    Ajoutez les œufs un par un, et mélangez bien. Incorporez la semoule, la farine tamisée et le lait.
+    Versez la préparation dans le moule, et disposez les fruits dessus.
+    Enfournez 45 min, toujours à 180°C, puis laissez refroidir dans le moule. 
+    Démoulez au moment de servir, et saupoudrez de sucre glace...
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Si vous utilisez des <INGRED id="10">myrtilles</INGRED> surgelées, <OPER id="o_1">disposez</OPER> - les en une seule couche sur du papier absorbant, et laissez - les <OPER id="o_2">décongeler</OPER> à température ambiante. <OPER id="o_3">Préchauffez</OPER> le four à th 6 ( 180 ° C ). <OPER id="o_4">Beurrez</OPER> un moule à charnière, et tapissez - le de papier sulfurisé. Dans un saladier, <OPER id="o_5">mélangez</OPER> la faisselle, le <INGRED id="3">Carré frais</INGRED>, la <INGRED id="5">vanille</INGRED> et le <INGRED id="4">sucre en poudre</INGRED>. <OPER id="o_6">Ajoutez</OPER> les œufs un par un, et mélangez bien. <OPER id="o_7">Incorporez</OPER> la <INGRED id="7">semoule</INGRED>, la <INGRED id="4">farine</INGRED> tamisée et le <INGRED id="9">lait</INGRED>. <OPER id="o_8">Versez</OPER> la préparation dans le moule, et disposez les fruits dessus. <OPER id="o_9">Enfournez</OPER> 45 min, toujours à 180 ° C, puis laissez <OPER id="o_10">refroidir</OPER> dans le moule. <OPER id="o_11">Démoulez</OPER> au moment de servir, et saupoudrez de <INGRED id="11">sucre glace</INGRED>...
+  </annotation>
+  <annotation methode="crf">
+  Si vous utilisez des myrtilles surgelées <INGRED>,</INGRED> disposez - les en une seule couche sur du papier absorbant <INGRED>,</INGRED> et laissez - les décongeler à température ambiante. Préchauffez le four à th 6 ( 180 ° C ). Beurrez un moule à charnière <INGRED>,</INGRED> et tapissez - le de <INGRED>papier sulfurisé</INGRED> <INGRED>.</INGRED> Dans un saladier <INGRED>,</INGRED> mélangez la faisselle <INGRED>,</INGRED> le Carré <INGRED>frais</INGRED> <INGRED>,</INGRED> la <INGRED>vanille</INGRED> et le <INGRED>sucre en poudre</INGRED> <INGRED>.</INGRED> Ajoutez les <INGRED>œufs</INGRED> un par un <INGRED>,</INGRED> et mélangez bien <INGRED>.</INGRED> Incorporez la <INGRED>semoule</INGRED> <INGRED>,</INGRED> la <INGRED>farine tamisée</INGRED> et le <INGRED>lait</INGRED> <INGRED>.</INGRED> Versez la préparation dans le <INGRED>moule</INGRED> <INGRED>,</INGRED> et disposez les <INGRED>fruits</INGRED> dessus. Enfournez 45 min <INGRED>,</INGRED> toujours à 180 ° C <INGRED>,</INGRED> puis laissez refroidir dans le <INGRED>moule</INGRED> <INGRED>.</INGRED> Démoulez au moment de servir <INGRED>,</INGRED> et saupoudrez de <INGRED>sucre glace</INGRED>...
+  </annotation>
+  <complexite>
+    <temps>f(X) = 3.38461538461538*X + 7.61538461538461</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 4*X + 11</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['myrtilles fraîches', 'myrtilles']	 id:1	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['fromage blanc en faisselle', 'fromage']	 id:2	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['Carré frais', 'Carré']	 id:3	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['lait fermenté', 'lait']	 id:4	 quantité:6	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:5	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['sucre en poudre', 'sucre']	 id:6	 quantité:165	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['semoule de blé', 'semoule']	 id:7	 quantité:55	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:8	 quantité:35	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['extrait de vanille', 'extrait']	 id:9	 quantité:2	 unité:cuillères à soupe d'	 denombrable:True	 recipient:2*X
+ingredient:['beurre']	 id:10	 quantité:20	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre glace', 'sucre']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:disposer	 id:o_1	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:décongeler	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préchauffer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:beurrer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_5	 ingrédients_ralatifs:['3', '5', '4']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_7	 ingrédients_ralatifs:['7', '4', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfourner	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:démouler	 id:o_11	 ingrédients_ralatifs:['11']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

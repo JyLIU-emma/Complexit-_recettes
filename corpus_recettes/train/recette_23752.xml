@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23752">
+  <titre>Gâteau au nutella</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 jaunes d'oeufs</p>
+    <p>2 tasses de sucre en poudre (200 g)</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 tasse d'huile (25 cl)</p>
+    <p>2 tasses de farine (200 g)</p>
+    <p>1 sachet de levure chimique</p>
+    <p>1 tasse de lait (25 cl)</p>
+    <p>1 tasse de chocolat en poudre (100 g)Pour la garniture :</p>
+    <p>300 g de nutella</p>
+    <p>100 g de beurre</p>
+    <p>1 jaune d'oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les ingrédients au fur et à mesure. Bien insister sur le mélange oeuf/sucre (qui doit blanchir).
+    Battre les blancs en neige et les incorporer délicatement au mélange.
+    Placer dans un moule anti-adhésif et cuire à feu doux pendant environ 45 mn (thermostat 5/150°C) SANS PRECHAUFFER LE FOUR!!!
+    Démouler chaud et laisser refroidir sur 1 grille toute la nuit!!!
+    Le lendemain, préparer la garniture... Bien fouetter nutella, beurre fondu, et jaunes d'oeuf, jusqu'à obtenir un mélange homogène.
+    Couper le gâteau en deux, puis le fourrer et le glacer avec le mélange (dedans et dessus).
+    Je le décore avec des mini smarties, j'utilise des moules rigolo de type ourson, coeur... Je rejoute des chamallows... Idéal pour un anniversaire!
+  ]]>
+  </preparation>
+</recette>

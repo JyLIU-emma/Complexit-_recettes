@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23716">
+  <titre>Morue aux pommes de terre à la provençale</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de filets de morue</p>
+    <p>6 grosses pommes de terre</p>
+    <p>3 tomates</p>
+    <p>2 gousses d'ail</p>
+    <p>2 oignons</p>
+    <p>1 branche de thym</p>
+    <p>1 feuille de laurier</p>
+    <p>3 cuillères à soupe de persil haché</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>huile d'olive</p>
+    <p>farine</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille, faites dessaler la morue dans un grand volume d'eau froide. Changez l'eau plusieurs fois.
+    Le lendemain, égouttez et épongez bien la morue. Découpez-la en gros morceaux, passez-les dans la farine.
+    Faites-les dorer à la poêle dans l'huile d'olive bien chaude, 3-4 minutes de chaque côté.
+    Retirez les morceaux et disposez-les dans une terrine.
+    Pelez et coupez les pommes de terre en rondelles. Faites-les dorer dans la même poêle environ 20 minutes (rajoutez un peu d'huile si nécessaire). Salez, poivrez. Retirez-les et réservez.
+    Déglacez aussitôt la poêle avec le vin blanc, grattez bien les sucs de cuisson.
+    Ebouillantez les tomates 30 secondes. Pelez et épépinez-les, coupez-les en morceaux. Mélangez-les avec l'ail écrasé, les oignons hachés, les herbes. Salez, poivrez.
+    Disposez les pommes de terre sur la morue, puis versez la préparation aux tomates et le jus de cuisson de la poêle déglacée.
+    Passez 20 minutes au four à 180°C (thermostat 6).
+  ]]>
+  </preparation>
+</recette>

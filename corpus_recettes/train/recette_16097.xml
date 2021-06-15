@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16097">
+  <titre>Croissants au beurre</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de farine</p>
+    <p>25 g de levure de boulanger</p>
+    <p>25 cl de lait</p>
+    <p>15 g de sel</p>
+    <p>1 verre d'eau chaude</p>
+    <p>50 g de sucre</p>
+    <p>200 g de beurre semi-mou (doit avoir la meme consistance que la pâte)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la levure à l'eau chaude. Verser sur 1/4 de la farine. Battre bien, laisser lever 15 mn.
+    Ajouter le reste de la farine, le sucre, le sel et le lait chaud. Mélanger bien. La pâte doit être élastique et ne plus coller. Finir le pétrissage sur la table.
+    Etaler en carré. Ajouter le beurre au centre et refermer les 4 pans de la pâte (comme une enveloppe sur le beurre). Etaler en longueur. (donner un tour).Plier en trois. Laisser reposer 15 mn. Confectionner les croissants. Couper la pâte en triangles de 10cm x 15cm x 15cm. Humecter légèrement avec de l'eau froide. Rouler en commencant par la base. J'utilise pour ma part un systeme que j'ai appris à l'Ecole Hotelière pour savoir combien de tours j'ai donné: je presse/marque la pâte avec un doigt (1 tour), 2 doigts (2 tours), etc. Je donne en tous 4 à 5 tours.
+    Confectionner des triangles de 10cm x 15cm x 15cm. Humecter légèrement a l'eau froide, puis dorer à l'oeuf.
+    Faire lever une heure. Cuire à 200-210°C pendant 10 à 15 minutes jusqu'à ce qu'ils soient bien dorés.
+  ]]>
+  </preparation>
+</recette>

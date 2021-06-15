@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20391">
+  <titre>Galettes d'avoine au céleri</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de flocons d'avoine</p>
+    <p>1 oignon</p>
+    <p>1 poireau</p>
+    <p>75 g de céleri-rave râpé</p>
+    <p>1 branche de céleri émincée finement</p>
+    <p>10 g de beurre</p>
+    <p>12 cl de lait</p>
+    <p>12 cl d'eau</p>
+    <p>1 oeuf</p>
+    <p>chapelure</p>
+    <p>sel, poivre</p>
+    <p>huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites revenir les céleris dans le beurre fondu puis versez le lait et l'eau. Ajoutez les flocons d'avoine en pluie et laissez épaissir sur feu doux.
+    Lorsque la pâte est épaisse, ôtez du feu et laissez tièdir. Rectifiez l'assaisonnement puis formez des boules de la taille d'un oeuf que vous aplatissez sur 1 cm d'épaisseur.
+    Passez les galettes dans l'oeuf battu puis dans la chapelure.
+    Faites chauffer l'huile dans une poêle et faites-y frire les galettes de chaque côté.
+  ]]>
+  </preparation>
+</recette>

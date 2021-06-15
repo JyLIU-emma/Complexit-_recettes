@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24377">
+  <titre>Risotto aux champignons et porc</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g d'échine de porc</p>
+    <p>200 g de riz long grain</p>
+    <p>150 g de champignons</p>
+    <p>50 g de beurre</p>
+    <p>1 noix de beurre</p>
+    <p>1 oignon</p>
+    <p>50 cl de bouillon</p>
+    <p>10 cl de vin blanc</p>
+    <p>2 cuillères à soupe de concentré de tomates</p>
+    <p>1 pincée de sel </p>
+    <p>1 pincée de poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ciseler l'oignon et en faire une fondue avec le beurre. Incorporer le riz et arroser de vin blanc. Laisser mijoter 10 min.
+    Ajouter la moitié du bouillon et le concentré de tomates. Assaisonnez et faire cuire 20 min en arrosant de bouillon de temps en temps.
+    Couper les champignons et la viande en lamelles. Faire sauter le tout dans une poêle avec le beurre pendant 15 min, et incorporer le tout au riz. Recouvrir de parmesan.
+  ]]>
+  </preparation>
+</recette>

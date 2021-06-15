@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19899">
+  <titre>Truite aux endives et au lard</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 belles truites (filets levés par le poissonnier)</p>
+    <p>350 g d'endives</p>
+    <p>200 g de lard fumé</p>
+    <p>1 échalote</p>
+    <p>15 cl de Riesling</p>
+    <p>65 g de crème fraîche</p>
+    <p>65 g de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le lard en lardons et les plonger dans l'eau bouillante pendant 2 minutes.
+    Egoutter et faire fondre dans une poêle.
+    Ajouter les endives émincées et 30 g de beurre.
+    Dans une sauteuse, faire fondre les échalotes hachées dans le reste du beurre. Ajouter le Riesling et la crème.
+    Faire cuire les filets de poisson dans la sauce, 2 minutes de chaque côté et les disposer sur un plat de service chaud.
+    Garnir d'endives et de lard puis napper de sauce.
+  ]]>
+  </preparation>
+</recette>

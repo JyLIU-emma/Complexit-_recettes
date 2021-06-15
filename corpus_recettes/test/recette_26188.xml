@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26188">
+  <titre>Lotte en cocotte aux oignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>800 g de lotte en morceaux</p>
+    <p>100 g de beurre</p>
+    <p>4 oignons </p>
+    <p>2 carottes</p>
+    <p>20 cl de vin blanc</p>
+    <p>20 cl de crème</p>
+    <p>3 cuillères à soupe de moutarde</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>muscade</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Émincer les oignons et découper les carottes en rondelles. Les mettre à dorer dans une cocotte-minute avec le beurre et l'huile, et ajouter la lotte.
+    Mouiller de vin blanc et porter à ébullition pendant 2 min. Incorporer la crème, la noix muscade râpée et la moutarde. Assaisonner et fermer le couvercle hermétiquement.
+    Laisser cuire 15 min à partir de la mise en rotation de la soupape. 
+  ]]>
+  </preparation>
+</recette>

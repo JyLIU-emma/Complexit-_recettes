@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13945">
+  <titre>Tartare de saumon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de filet de saumon </p>
+    <p>1 bouquet de persil plat</p>
+    <p>1 cuillère a soupe de câpres</p>
+    <p>1 échalote</p>
+    <p>sel et poivre</p>
+    <p>Pour la sauce :</p>
+    <p>1 jaune d'oeuf</p>
+    <p>1 cuillère de moutarde</p>
+    <p>sel et poivre</p>
+    <p>1 citron</p>
+    <p>10 cl d'huile d'arachide</p>
+    <p>1 cuillère à soupe de sauce Worcester</p>
+    <p>3 gouttes de tabasco</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le saumon en petits morceaux
+    (ne pas hacher), puis le mélanger avec le hachis de câpres, échalote et persil.
+    Vous pouvez le préparer le matin pour le soir.
+    Faire une mayonnaise et ajouter la sauce Worcester et les gouttes de tabasco, ainsi que la moitié du jus de citron.
+    Vous pouvez mélanger la sauce au saumon 2 heures avant de servir  et remettre le tartare au frais.
+    Servir en assiette et ajouter le reste du jus de citron si nécessaire.
+    Accompagner d'une salade de champignons de paris crus avec huile d'olive et du citron.
+  ]]>
+  </preparation>
+</recette>

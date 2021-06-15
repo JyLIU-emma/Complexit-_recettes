@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21714">
+  <titre>Pagodes de concombre farci au riz et aux noix</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 concombre</p>
+    <p>Pour la farce :</p>
+    <p>100 g de riz long grain à la créole</p>
+    <p>100 g de cerneaux de noix</p>
+    <p>1 cuillère à soupe de persil haché</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>1 cuillère à café de moutarde</p>
+    <p>le jus d'1 citron vert</p>
+    <p>quelques olives noires dénoyautées</p>
+    <p>sel, poivre</p>
+    <p>des feuilles de laitue pour la présentation</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver le concombre et le détailler dans le sens de la longueur pour lui ôter ses graines. Le saupoudrer de sel et le laisser dégorger 30 min.
+    Faire cuire le riz dans l'eau bouillante salée, l'égoutter et le réserver.
+    Réduire les noix en poudre et les mélanger au persil haché avec la crème et la moutarde. Saler, poivrer et arroser du jus du citron vert. Hacher les olives noires puis les ajouter à la préparation.
+    Rincer les concombres sous l'eau froide puis les essuyer avec du papier absorbant.
+    Mêler le riz au reste de la préparation puis farcir les concombres.
+    Tapisser un plat de service de feuilles de laitue puis disposer les concombres farcis.
+    Servir.
+  ]]>
+  </preparation>
+</recette>

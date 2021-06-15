@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16818">
+  <titre>Mousse au chocolat blanc  à la noix de coco</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 blancs d'oeufs à température ambiante</p>
+    <p>1 pincée de sel</p>
+    <p>100 ml de crème fleurette (très froide)</p>
+    <p>30 ml de sucre glace</p>
+    <p>200 g de chocolat blanc à la noix de coco</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le chocolat.
+    Pendant ce temps, monter la crème en chantilly très ferme (mettre le 1° saladier dans un 2° saladier rempli de glaçons), avec le sucre glace.
+    Sans attendre que le chocolat ne durcisse, incorporer délicatement la chantilly et laisser en attente.
+    Monter les blancs en neige ferme avec une pincée de sel. Mélanger les blancs cuillerée par cuillerée au mélange chocolat-chantilly.
+    Laisser prendre 3 heures au réfrigérateur avant de servir.
+    On peut ajouter de la noix de coco râpée.
+  ]]>
+  </preparation>
+</recette>

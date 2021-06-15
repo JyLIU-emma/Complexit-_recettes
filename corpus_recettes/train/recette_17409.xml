@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17409">
+  <titre>Flognarde (spécialité corézienne)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>200 g de sucre</p>
+    <p>100 g de farine</p>
+    <p>1/2 l de lait (entier de préférence)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à thermostat 6/7 et beurrer un grand moule à tarte.
+    Dans un saladier, casser les oeufs et ajouter le sucre. Incorporer la farine tamisée au mélange,
+    ajouter le lait et bien mélanger.
+    Verser la préparation dans le moule et enfourner.
+    Faire cuire pendant environ 30 mn.
+    Laisser refroidir à température ambiante, et déguster froid ou tiède.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11390">
+  <titre>Pancakes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de farine de froment</p>
+    <p>40 cl de lait demi-écrémé</p>
+    <p>2 oeufs</p>
+    <p>1 cuillère à soupe de sucre</p>
+    <p>1/2 sachet de levure de boulangerie</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, mélangez la farine, les oeufs, le sucre et la levure de boulangerie (diluée dans 1 cuillerée d'eau tiède). Ajoutez progressivement le lait et laissez reposer 30 min.
+    Cuisson :Graissez légèrement la crêpière très chaude avec un chiffon de coton imbibé d'huile. Versez une demie louche (à crêpe) de pâte et étalez avec le fond de la louche jusqu'à obtenir un pancake de 12 cm de diamètre environ. Vous pouvez étaler un deuxième pancake sur la crêpière (si elle est assez grande).Laissez cuire jusqu'à ce que la pâte soit prise (environ 30 secondes). Retournez et cuisez la deuxième face 30 secondes.Utilisez une spatule pour retourner les pancakes.
+    Vous pouvez servir les pancakes garnis de sirop d'érable, chocolat, beurre, sucre, marmelade de citron...
+  ]]>
+  </preparation>
+</recette>

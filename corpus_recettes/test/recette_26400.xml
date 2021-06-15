@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26400">
+  <titre>Chèvre en tapenade</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 fromage de chèvre frais légèrement ferme</p>
+    <p>10 olives noires</p>
+    <p>huile d'olive</p>
+    <p>coriandre en poudre</p>
+    <p>sel, poivre</p>
+    <p>basilic haché finement</p>
+    <p>5 noix hachées grossièrement</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler le fromage. 
+    Préparer la tapenade en écrasant les olives avec l'huile, les épices, le basilic et les noix. Tapisser le fromage de tapenade et le rouler en un gros boudin. 
+    L'envelopper dans du film alimentaire et le mettre au frais. Servir en entrée en grosses rondelles sur un lit de salade verte frisée arrosée d'un filet d'huile d'olive et de vinaigre balsamique.Il est possible d'accompagner la salade de parmesan rapé ou en petits morceaux.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22107">
+  <titre>Boeuf en curry épicé</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,2 kg de boeuf coupé en cubes</p>
+    <p>5 cuillères à soupe d'huile</p>
+    <p>3 oignons</p>
+    <p>3 gousses d'ail hachées</p>
+    <p>1 piment vert haché</p>
+    <p>5 cm de gingembre haché</p>
+    <p>1 cuillère à café rase de piment en poudre</p>
+    <p>1 cuillère et 1/2 à café de curcuma</p>
+    <p>1 cuillère et 1/2 à café de poivre</p>
+    <p>1 cuillère et 1/2 à café de cumin moulu</p>
+    <p>1 cuillère et 1/2 à soupe de grains de coriandre moulus</p>
+    <p>1 cuillère à café rase de cannelle en poudre</p>
+    <p>1 cuillère à café rase de clous de girofle moulus</p>
+    <p>45 cl de lait de coco</p>
+    <p>12 cl de vinaigre doux (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte avec l'huile, faites revenir les oignons coupés en rondelles puis l'ail, le piment et le gingembre.
+    Mettez y le boeuf, les épices et laissez dorer 5 min en remuant un peu.
+    Ajoutez le lait de coco. Additionnez d'eau si besoin pour que la viande soit juste recouverte de liquide. Salez, poivrez et amenez à ébullition. Baissez le feu, couvrez et laissez cuire 1 h 30. 
+    Versez le vinaigre et prolongez la cuisson de 30 minutes pour obtenir à la fin une viande tendre et une sauce crémeuse.
+  ]]>
+  </preparation>
+</recette>

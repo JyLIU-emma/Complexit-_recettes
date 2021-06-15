@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17214">
+  <titre>Saucisse sèche ou saucisson de campagne</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de porc maigre </p>
+    <p>0,5 kg de lard</p>
+    <p>5 g de sucre en poudre</p>
+    <p>5 g de poudre des quatre-épices</p>
+    <p>5 g de salpêtre (nitrate de potassium)</p>
+    <p>45 g de sel fin</p>
+    <p>5 g de poivre moulu</p>
+    <p>5 g de piment</p>
+    <p>3 mètres de boyau de porc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cette recette de saucisse sèche est relativement simple à réaliser, et donne de très bons résultats.
+    Préparation de la chair à saucisse : hacher la viande (porc et lard) à l'aide d'un hachoir mécanique ou d'un hachoir électrique. Ne pas hacher trop finement la viande.
+    Bien mélanger tous les ingrédients à la chair. Le salpêtre (nitrate de potassium) est un bon agent de conservation et détruit la bactérie responsable du botulisme. De plus, le salpêtre préserve l’aspect rouge de la viande. Attention ne pas dépasser 100mg/kg de nitrate de potassium pur. Dans notre recette, 5 g. Le sel permet lui aussi de préserver la saucisse.
+    Entonnage : utiliser une longueur de 50 cm de boyau par saucisse. Lier par un simple nœud (ou avec une ficelle) une des extrémités du boyau. 
+    Remplir les boyaux à l’aide d’un entonnoir par exemple. Pour y arriver facilement, il suffit de faire passer toute la longueur de boyau sur le bout de l’entonnoir et d’introduire la chair à saucisse dans le boyau. Eviter de laisser de l’air dans le boyau. Lorsque la saucisse est remplie, lier les deux extrémités.
+    Séchage : pendre les saucisses pendant trois semaines dans une pièce aérée et relativement sèche (la cuisine peut faire l’affaire). 
+    Les saucisses peuvent être dès lors consommées. 
+    Elles se conserveront bien dans un endroit frais et sec pendant plusieurs mois.
+  ]]>
+  </preparation>
+</recette>

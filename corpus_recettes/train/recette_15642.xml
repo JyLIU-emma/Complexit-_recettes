@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15642">
+  <titre>Oeufs gratinés</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 oeufs</p>
+    <p>125 g de fromage râpé</p>
+    <p>1 petite boîte de champignons</p>
+    <p>une noix de margarine</p>
+    <p>une cuillère de farine</p>
+    <p>un peu de lait</p>
+    <p>de la chapelure</p>
+    <p>sel, poivre, persil séché</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les oeufs durs, les écaller après refroidissement et les couper en deux. Les disposer dans un plat à gratin.
+    Préparer une sauce blanche avec la noix de margarine, la farine, la boite de champignons (jus et champignons) et le lait.
+    Saler et poivrer la sauce, ajouter un peu de persil pour la couleur.
+    Couvrir les oeufs de cette sauce en répartissant les champignons. Parsemer de fromage rapé puis de chapelure et enfin de quelques noisettes de margarine.
+    Faire gratiner au four.
+    Ce plat est délicieux, économique... il s'accompagne au choix de pâtes, de riz ou de pommes de terre rôties.
+  ]]>
+  </preparation>
+</recette>

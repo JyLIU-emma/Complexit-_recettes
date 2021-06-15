@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22747">
+  <titre>Compote de pommes meringuée</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>compote de pomme</p>
+    <p>3 blancs d'oeufs</p>
+    <p>60 g de sucre en poudre</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Réchauffez et versez la compote dans 6 ramequins (parfumez-la de cannelle si vous le souhaitez).
+    Fouettez les blancs d'oeufs en neige ferme avec une pincée de sel.
+    Etalez-les sur les ramequins et saupoudrez de sucre.
+    Faites dore 15 minutes au four à 180°C (thermostat 6).
+  ]]>
+  </preparation>
+</recette>

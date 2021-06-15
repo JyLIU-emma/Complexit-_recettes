@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="3925">
+  <titre>Délice de Carré Frais au foie gras</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>4 tranche de pain viennois</p>
+    <p>4 petit Carré Frais</p>
+    <p>4 tranches de foie gras de canard</p>
+    <p>4 tranches de foie d'oie</p>
+    <p>4 cuillères à café d'huile d'olive</p>
+    <p>4 cuillères à café de gros sel</p>
+    <p>8 figues confites</p>
+    <p>8 larmes d'armagnac vieux </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire griller les tranches de pains, les conserver au chaud.
+    Mélanger la moitié d'un petit Carré Frais avec l'huile d'olive.
+    Beurrer les tranches de pains avec ce mélange.
+    Déposer dessus les deux tranches de foie gras.
+    Couper en deux, la moitie du Carré Frais restant, et les déposer au millieu des tranches de foie.
+    Déposer à côté les deux figues.
+    Saupoudrer avec la cuillère de gros sel.
+    Passer à four très chaud, pendant 1 min.
+    Arroser avec la larme d'Armagnac, et servir aussitôt!
+    Servir sur un lit de salade frisée.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">griller</OPER> les tranches de pains, les conserver au chaud. <OPER id="o_2">Mélanger</OPER> la moitié d'un petit <INGRED id="5">Carré Frais</INGRED> avec l'<INGRED id="2">huile d'olive</INGRED>. <OPER id="o_3">Beurrer</OPER> les tranches de pains avec ce mélange. <OPER id="o_4">Déposer</OPER> dessus les deux tranches de <INGRED id="3">foie</INGRED> gras. <OPER id="o_5">Couper</OPER> en deux, la moitie du <INGRED id="5">Carré Frais</INGRED> restant, et les <OPER id="o_6">déposer</OPER> au millieu des tranches de <INGRED id="4">foie</INGRED>. <OPER id="o_7">Déposer</OPER> à côté les deux <INGRED id="7">figues</INGRED>. <OPER id="o_8">Saupoudrer</OPER> avec la cuillère de <INGRED id="6">gros sel</INGRED>. <OPER id="o_9">Passer</OPER> à four très chaud, pendant 1 min. <OPER id="o_10">Arroser</OPER> avec la larme d'Armagnac, et servir aussitôt ! Servir sur un lit de <INGRED id="4">salade</INGRED> frisée.
+  </annotation>
+  <annotation methode="crf">
+  Faire griller les tranches de <INGRED>pains</INGRED> <INGRED>,</INGRED> les conserver au chaud <INGRED>.</INGRED> Mélanger la moitié d'un <INGRED>petit</INGRED> <INGRED>Carré</INGRED> <INGRED>Frais</INGRED> avec l'<INGRED>huile d'olive</INGRED> <INGRED>.</INGRED> Beurrer les tranches de <INGRED>pains</INGRED> avec ce <INGRED>mélange</INGRED> <INGRED>.</INGRED> Déposer dessus les <INGRED>deux</INGRED> tranches de <INGRED>foie</INGRED> gras. Couper en <INGRED>deux</INGRED> <INGRED>,</INGRED> la moitie du Carré Frais restant <INGRED>,</INGRED> et les déposer au millieu des tranches de <INGRED>foie</INGRED> <INGRED>.</INGRED> Déposer à côté les <INGRED>deux</INGRED> <INGRED>figues</INGRED> <INGRED>.</INGRED> Saupoudrer avec la cuillère de <INGRED>gros sel</INGRED>. Passer à four très chaud <INGRED>,</INGRED> pendant 1 min. Arroser avec la larme d'<INGRED>Armagnac</INGRED> <INGRED>,</INGRED> et servir aussitôt ! Servir sur un lit de <INGRED>salade frisée</INGRED> <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 17.0*X</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 40*X + 6</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pain viennois', 'pain']	 id:1	 quantité:4	 unité:tranche de	 denombrable:True	 recipient:4*X
+ingredient:['Carré Frais', 'Carré']	 id:2	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['foie gras de canard', 'foie']	 id:3	 quantité:4	 unité:tranches de	 denombrable:True	 recipient:4*X
+ingredient:["foie d'oie", 'foie']	 id:4	 quantité:4	 unité:tranches de	 denombrable:True	 recipient:4*X
+ingredient:["huile d'olive", 'huile']	 id:5	 quantité:4	 unité:cuillères à café d'	 denombrable:True	 recipient:4*X
+ingredient:['gros sel', 'sel']	 id:6	 quantité:4	 unité:cuillères à café de	 denombrable:True	 recipient:4*X
+ingredient:['figues confites', 'figues']	 id:7	 quantité:8	 unité:non_precis	 denombrable:True	 recipient:8*X
+ingredient:['armagnac vieux', 'armagnac']	 id:8	 quantité:8	 unité:larmes d'	 denombrable:True	 recipient:8*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:griller	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5*X	 recipient:1
+operation:mélanger	 id:o_2	 ingrédients_ralatifs:['5', '2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:beurrer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déposer	 id:o_4	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:couper	 id:o_5	 ingrédients_ralatifs:['5', '4']	 nombre_opération_atomique:4*X+4*X	 temps:4*X*1+4*X*1	 recipient:1
+operation:déposer	 id:o_6	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:déposer	 id:o_7	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:saupoudrer	 id:o_8	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:passer	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:arroser	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

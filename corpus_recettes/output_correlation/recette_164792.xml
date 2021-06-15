@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164792">
+  <titre>Lentilles aux saucisses de mémé Denise</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 boîtes de lentilles préparées</p>
+    <p>2 oignons</p>
+    <p>ail 2 gousses</p>
+    <p>laurier 2 feuilles</p>
+    <p>concentré de tomate 1 cuillère à soupe rase</p>
+    <p>moutarde 1 cuillère à soupe rase</p>
+    <p>6 saucisses type toulouse, morteau, même saucisses de Strasbourg (les enfants préfèrent)</p>
+    <p>lardons</p>
+    <p>eau</p>
+    <p>4 ou 6 pommes de terre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte avec huile d'olive, faire revenir les lardons, les oignons et l'ail, préalablement coupés en fins morceaux.
+    Faire ensuite revenir les saucisses puis les réserver quelques instants
+    Ajouter dans la cocotte le concentré de tomate faire revenir un instant puis ajouter l'eau (environ 3/4 de litre tout dépend des goûts).
+    Egoutter les lentilles (recette rapide sinon il faut les faire cuire c'est bien plus long ! Etant jeune maman et enceinte...le temps me manque et ma grand-mère avait 6 enfants !!!) Les ajouter dans la cocotte avec les deux feuilles de laurier.
+    J'ajoute les pommes de terre coupées en quartier, sel et poivre et je ferme la cocotte pour laisser cuire 10 minutes après que le bouchon ait commencé sa chansonnette !!!
+    En tout dernier lieu, après avoir ouvert la cocotte, j'ajoute la cuillère de moutarde pour lier un peu plus.
+    Ré-accomoder à votre goût.
+    Nous on mangeait ça gamins avec des oignons tendres à la main c'était un doux régal !!!Comme toutes les recettes, elle s'arrange selon les goûts ! Bon appétit
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Dans une cocotte avec <INGRED id="8">huile d'olive</INGRED>, <INGRED id="10">faire</INGRED> <OPER id="o_1">revenir</OPER> les lardons, les oignons et l'<INGRED id="5">ail</INGRED>, préalablement coupés en fins <INGRED id="1">morceaux</INGRED>. Faire ensuite <OPER id="o_2">revenir</OPER> les <INGRED id="7">saucisses</INGRED> puis les réserver quelques instants <OPER id="o_3">Ajouter</OPER> dans la cocotte le <INGRED id="7">concentré de tomate</INGRED> <INGRED id="10">faire</INGRED> <OPER id="o_4">revenir</OPER> un instant puis <OPER id="o_5">ajouter</OPER> l'<INGRED id="3">eau</INGRED> ( environ 3/4 de <INGRED id="1">litre</INGRED> tout dépend des goûts ). <OPER id="o_6">Egoutter</OPER> les <INGRED id="1">lentilles</INGRED> ( recette rapide sinon il faut les faire <OPER id="o_7">cuire</OPER> c'est bien plus long ! Etant jeune maman et enceinte... le temps me manque et ma grand-mère avait 6 enfants ! ! ! ) Les <OPER id="o_8">ajouter</OPER> dans la cocotte avec les deux <INGRED id="4">feuilles</INGRED> de <INGRED id="11">laurier</INGRED>. J'ajoute les <INGRED id="3">pommes de terre</INGRED> <INGRED id="5">coupées</INGRED> en quartier, <INGRED id="9">sel</INGRED> et <INGRED id="9">poivre</INGRED> et je ferme la cocotte pour <INGRED id="12">laisser</INGRED> cuire 10 minutes après que le bouchon ait commencé sa chansonnette ! ! ! En tout dernier lieu, après <OPER id="o_9">avoir</OPER> ouvert la cocotte, j'ajoute la cuillère de moutarde pour lier un peu plus. <OPER id="o_10">Ré-accomoder</OPER> à votre <INGRED id="7">goût</INGRED>. Nous on mangeait ça gamins avec des oignons tendres à la main c'était un doux régal ! ! ! Comme toutes les recettes, elle s'arrange selon les goûts ! Bon appétit
+  </annotation>
+  <annotation methode="crf">
+  Dans une cocotte avec <INGRED>huile d'olive</INGRED> <INGRED>,</INGRED> faire revenir les <INGRED>lardons</INGRED> <INGRED>,</INGRED> les <INGRED>oignons</INGRED> et l'<INGRED>ail</INGRED> <INGRED>,</INGRED> préalablement coupés en fins <INGRED>morceaux</INGRED> <INGRED>.</INGRED> Faire ensuite revenir les <INGRED>saucisses</INGRED> puis les réserver quelques instants Ajouter dans la cocotte le <INGRED>concentré de tomate</INGRED> faire revenir un instant puis ajouter l'<INGRED>eau</INGRED> ( <INGRED>environ</INGRED> 3/4 de litre tout dépend des goûts ). Egoutter les lentilles ( recette rapide sinon il faut les faire cuire c'est bien plus long ! Etant jeune maman et enceinte... le temps me manque et ma grand-mère avait 6 enfants ! ! ! ) Les ajouter dans la cocotte avec les <INGRED>deux</INGRED> feuilles de <INGRED>laurier</INGRED>. J'ajoute les <INGRED>pommes de terre</INGRED> <INGRED>coupées</INGRED> en quartier <INGRED>,</INGRED> <INGRED>sel</INGRED> et <INGRED>poivre</INGRED> et je ferme la cocotte pour laisser cuire 10 minutes après que le <INGRED>bouchon</INGRED> ait commencé sa chansonnette ! ! ! En tout dernier lieu <INGRED>,</INGRED> après avoir ouvert la cocotte <INGRED>,</INGRED> j'ajoute la cuillère de <INGRED>moutarde</INGRED> pour lier un peu plus. Ré-accomoder à votre goût <INGRED>.</INGRED> Nous on mangeait ça gamins avec des <INGRED>oignons tendres</INGRED> à la main c'était un doux régal ! ! ! Comme toutes les recettes <INGRED>,</INGRED> elle s'arrange selon les goûts ! Bon appétit
+  </annotation>
+  <complexite>
+    <temps>f(X) = 8.33333333333333*X + 1.66666666666667</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 20*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['lentilles préparées', 'lentilles']	 id:1	 quantité:2	 unité:boîtes de	 denombrable:True	 recipient:2*X
+ingredient:['oignons']	 id:2	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['gousses']	 id:3	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['feuilles']	 id:4	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['rase']	 id:5	 quantité:1	 unité:cuillère à soupe	 denombrable:True	 recipient:1*X
+ingredient:['rase']	 id:6	 quantité:1	 unité:cuillère à soupe	 denombrable:True	 recipient:1*X
+ingredient:['saucisses type toulouse', 'saucisses']	 id:7	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['morteau']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['saucisses de Strasbourg', 'saucisses']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['lardons']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['eau']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['pommes de terre', 'pommes']	 id:12	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:revenir	 id:o_1	 ingrédients_ralatifs:['8', '10', '5', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:revenir	 id:o_2	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_3	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:revenir	 id:o_4	 ingrédients_ralatifs:['7', '10', '3', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['3', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:egoutter	 id:o_6	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['4', '11']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:avoir	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ré-accomoder	 id:o_10	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

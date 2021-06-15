@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12899">
+  <titre>Tarte amandine</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rouleau de pâte sablée</p>
+    <p>1 boîte de poires au sirop</p>
+    <p>1 brique de crème liquide à 15%</p>
+    <p>125 g de poudre d'amandes</p>
+    <p>100 g de sucre en poudre</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>2 cuillères à soupe de rhum </p>
+    <p>2 oeufs</p>
+    <p>amandes effilées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Précuire la pate 5 minutes.
+    Pendant ce temps-là, mélanger la poudre d'amande avec le sucre, les 2 oeufs, le sucre vanillé puis ajouter la crème (parfumer la crème avec le rhum).
+    Sur la pâte, étaler les poires et mettre la crème. Recouvrir de quelques amandes éffilées.
+    Faire cuire pendant 25 à 30 mn.
+    On peut utilliser de la pate feuilletée et un autre alcool pour parfumer la crème.
+  ]]>
+  </preparation>
+</recette>

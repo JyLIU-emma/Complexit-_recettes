@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="112804">
+  <titre>Pudding aux bananes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de pain rassis</p>
+    <p>150 g de biscuits secs</p>
+    <p>2 bananes</p>
+    <p>1/2 l de lait</p>
+    <p>2 oeufs</p>
+    <p>100 g de sucre en poudre</p>
+    <p>1/2 verre de raisins secs</p>
+    <p>1 cuillère à soupe de beurre</p>
+    <p>6 cuillère à soupe de gelée de groseilles</p>
+    <p>1 citron</p>
+    <p>1 cuillère à café de cannelle en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettez le four à chauffer à 210°, thermostat 6.
+     
+    Versez le lait dans une casserole et faites le chauffer (mais non bouillir).
+     
+    Emiettez le pain et les biscuits secs dans un grand saladier. Puis versez le lait chaud par dessus et laissez tremper 5 min.
+     
+    Pendant ce temps, séparez les blancs d'oeufs des jaunes. Mettez les blancs dans un saladier et battez les en neige ferme.
+     
+    Dans le saladier où trempe le pain, ajoutez le sucre, les jaunes d'oeufs et 5 cuillerées à soupe de gelée de groseilles. Mixez tous ces ingrédients.
+     
+    Rincez le citron. Râpez-le pour en recueillir le zeste puis pressez-le pour recueillir le jus. Pelez les bananes puis écrasez-les à la fourchette avec le zeste de citron le jus de citron et la cannelle. Versez les bananes dans le saladier et mélangez-les aux ingrédients précédents.
+     
+    Ajoutez les raisins secs et les blancs en neige. Veillez à les incorporer délicatement en remuant de bas en haut afin qu'ils ne" retombent" pas.
+     
+    Beurrez un moule à manqué (avec un moule à charnière, c'est mieux car on peut démouler) puis versez-y la préparation. Enfournez et laissez cuire 50 à 60 min. Faites le test de la lame de couteau.
+     
+    Sortez le pudding du four. Quand il est encore chaud, étalez sur le gâteau la dernière cuillerée de gelée de groseilles.
+     
+    Servez le pudding tiède ou froid.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Mettez</OPER> le four à <OPER id="o_2">chauffer</OPER> à 210 °, thermostat 6. <OPER id="o_3">Versez</OPER> le <INGRED id="4">lait</INGRED> dans une casserole et faites le <OPER id="o_4">chauffer</OPER> ( mais non <OPER id="o_5">bouillir</OPER> ). <OPER id="o_6">Emiettez</OPER> le <INGRED id="1">pain</INGRED> et les <INGRED id="2">biscuits secs</INGRED> dans un grand saladier. Puis <OPER id="o_7">versez</OPER> le <INGRED id="5">lait</INGRED> chaud par dessus et laissez <OPER id="o_8">tremper</OPER> 5 min. Pendant ce temps, <OPER id="o_9">séparez</OPER> les blancs d'<INGRED id="6">oeufs</INGRED> des jaunes. <OPER id="o_10">Mettez</OPER> les blancs dans un saladier et <OPER id="o_11">battez</OPER> les en neige ferme. Dans le saladier où trempe le <INGRED id="1">pain</INGRED>, <OPER id="o_12">ajoutez</OPER> le <INGRED id="6">sucre</INGRED>, les jaunes d'<INGRED id="6">oeufs</INGRED> et 5 cuillerées à soupe de <INGRED id="9">gelée de groseilles</INGRED>. <OPER id="o_13">Mixez</OPER> tous ces ingrédients. <OPER id="o_14">Rincez</OPER> le <INGRED id="10">citron</INGRED>. <OPER id="o_15">Râpez</OPER> - le pour en recueillir le zeste puis <OPER id="o_16">pressez</OPER> - le pour recueillir le jus. <OPER id="o_17">Pelez</OPER> les <INGRED id="3">bananes</INGRED> puis <OPER id="o_18">écrasez</OPER> - les à la fourchette avec le zeste de <INGRED id="10">citron</INGRED> le jus de <INGRED id="10">citron</INGRED> et la <INGRED id="11">cannelle</INGRED>. <OPER id="o_19">Versez</OPER> les <INGRED id="3">bananes</INGRED> dans le saladier et <OPER id="o_20">mélangez</OPER> - les aux ingrédients précédents. <OPER id="o_21">Ajoutez</OPER> les <INGRED id="7">raisins secs</INGRED> et les blancs en neige. <OPER id="o_22">Veillez</OPER> à les <OPER id="o_23">incorporer</OPER> délicatement en remuant de bas en haut afin qu'ils ne " retombent " pas. <OPER id="o_24">Beurrez</OPER> un moule à manqué ( avec un moule à charnière, c'est mieux car on peut <OPER id="o_25">démouler</OPER> ) puis <OPER id="o_26">versez</OPER> - y la préparation. <OPER id="o_27">Enfournez</OPER> et laissez <OPER id="o_28">cuire</OPER> 50 à 60 min. Faites le test de la lame de couteau. <OPER id="o_29">Sortez</OPER> le pudding du four. Quand il est encore chaud, <OPER id="o_30">étalez</OPER> sur le gâteau la dernière cuillerée de <INGRED id="9">gelée de groseilles</INGRED>. Servez le pudding tiède ou froid.
+  </annotation>
+  <annotation methode="crf">
+  Mettez le four à chauffer à 210 °, thermostat 6. Versez le <INGRED>lait</INGRED> dans une casserole et faites le chauffer ( mais non bouillir ). Emiettez le <INGRED>pain</INGRED> et les <INGRED>biscuits secs</INGRED> dans un grand saladier <INGRED>.</INGRED> Puis versez le <INGRED>lait</INGRED> chaud par dessus et laissez tremper 5 min. Pendant ce temps <INGRED>,</INGRED> séparez les <INGRED>blancs d'oeufs</INGRED> des <INGRED>jaunes</INGRED> <INGRED>.</INGRED> Mettez les <INGRED>blancs</INGRED> dans un saladier et battez les en neige ferme. Dans le saladier où trempe le <INGRED>pain</INGRED> <INGRED>,</INGRED> ajoutez le <INGRED>sucre</INGRED> <INGRED>,</INGRED> les <INGRED>jaunes d'oeufs</INGRED> et 5 <INGRED>cuillerées</INGRED> à soupe de <INGRED>gelée de groseilles</INGRED> <INGRED>.</INGRED> Mixez tous ces ingrédients. Rincez le <INGRED>citron</INGRED> <INGRED>.</INGRED> Râpez - le pour en recueillir le <INGRED>zeste</INGRED> puis pressez - le pour recueillir le <INGRED>jus</INGRED> <INGRED>.</INGRED> Pelez les <INGRED>bananes</INGRED> puis écrasez - les à la fourchette avec le <INGRED>zeste de citron</INGRED> le <INGRED>jus de citron</INGRED> et la <INGRED>cannelle</INGRED> <INGRED>.</INGRED> Versez les <INGRED>bananes</INGRED> dans le saladier et mélangez - les aux ingrédients précédents. Ajoutez les <INGRED>raisins secs</INGRED> et les <INGRED>blancs</INGRED> en neige <INGRED>.</INGRED> Veillez à les incorporer délicatement en remuant de bas en haut afin qu'ils ne " retombent " pas <INGRED>.</INGRED> Beurrez un moule à manqué ( avec un moule à charnière <INGRED>,</INGRED> c'est mieux car on peut démouler ) puis versez - y la préparation <INGRED>.</INGRED> Enfournez et laissez cuire 50 à 60 min. Faites le test de la lame de couteau. Sortez le pudding du four <INGRED>.</INGRED> Quand il est encore chaud <INGRED>,</INGRED> étalez sur le gâteau la dernière <INGRED>cuillerée</INGRED> de <INGRED>gelée de groseilles</INGRED> <INGRED>.</INGRED> Servez le pudding tiède <INGRED>ou</INGRED> froid <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 24.5555555555556*X + 9.44444444444444</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 13*X + 13</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pain rassis', 'pain']	 id:1	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['biscuits secs', 'biscuits']	 id:2	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['bananes']	 id:3	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['lait']	 id:4	 quantité:1/2	 unité:l de	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:5	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['sucre en poudre', 'sucre']	 id:6	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['raisins secs', 'raisins']	 id:7	 quantité:1/2	 unité:verre de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:8	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['gelée de groseilles', 'gelée']	 id:9	 quantité:6	 unité:cuillère à soupe de	 denombrable:True	 recipient:6*X
+ingredient:['citron']	 id:10	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['cannelle en poudre', 'cannelle']	 id:11	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mettre	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:chauffer	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:verser	 id:o_3	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:bouillir	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:emietter	 id:o_6	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_7	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tremper	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:séparer	 id:o_9	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:battre	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:['1', '6', '6', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mixer	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rincer	 id:o_14	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:râper	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:presser	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:peler	 id:o_17	 ingrédients_ralatifs:['3', '10', '10', '11']	 nombre_opération_atomique:2*X+1*X+1*X+1*X	 temps:2*X*1+1*X*1+1*X*1+1*X*1	 recipient:0
+operation:écraser	 id:o_18	 ingrédients_ralatifs:['10', '10', '11']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_19	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_21	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:veiller	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_23	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:beurrer	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:démouler	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_26	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfourner	 id:o_27	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_28	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:sortir	 id:o_29	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étaler	 id:o_30	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

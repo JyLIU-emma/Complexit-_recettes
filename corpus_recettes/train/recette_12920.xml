@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12920">
+  <titre>Boeuf bourguignon facile</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de viande à bourguignon</p>
+    <p>6 carottes</p>
+    <p>250 g de lard</p>
+    <p>1 verre de vin rouge</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les oignons et le lard. Réserver.
+    Mettre la viande dans un faitout, ajouter sel poivre, vin, carottes, laisser mijoter 30 mn.
+    Ajouter oignons et lard, puis cuire à feu doux pendant au moins 3h.
+    Meilleur quand il est réchauffé 2 ou 3 fois. Pinot noir, Beaujolais, Côtes du Rhônes
+  ]]>
+  </preparation>
+</recette>

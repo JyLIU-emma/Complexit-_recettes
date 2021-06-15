@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="9856">
+  <titre>Tartelettes au carré frais et tomates cerises</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rouleau de pâte feuilletée</p>
+    <p>100 g de ricotta</p>
+    <p>100 g de Carré Frais</p>
+    <p>4 oeufs</p>
+    <p>20 cl de crème fleurette</p>
+    <p>30 g de beurre</p>
+    <p>1 cuillerée à soupe de farine</p>
+    <p>1 cuillerée à soupe de maizena</p>
+    <p>12 tomates cerises</p>
+    <p>ciboulette</p>
+    <p>1 oignon blanc</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180° (thermostat 6).
+    Beurrez et farinez 4 moules à tartelettes. Etalez la pâte, découpez-y 4 disques et garnissez-en les moules. Piquez la pâte. 
+    Coupez les tomates cerises en deux. Ciselez la ciboulette. Emincez l'oignon.
+    Battez les oeufs avec la ricotta.  Ajoutez la crème et la maizena, l'oignon et la ciboulette, salez et poivrez. 
+    Répartissez les Carrés Frais émiettés sur les fonds de tarte puis versez-y la préparation aux oeufs. Disposez les tomates sur le dessus en appuyant légèrement.
+    Enfournez pour 30 min. Servez chaud ou tiède, avec une salade bien assaisonnée.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Préchauffez</OPER> le four à 180 ° ( thermostat 6 ). <OPER id="o_2">Beurrez</OPER> et farinez 4 moules à tartelettes. <OPER id="o_3">Etalez</OPER> la <INGRED id="4">pâte</INGRED>, découpez - y 4 disques et <OPER id="o_4">garnissez</OPER> -en les moules. <OPER id="o_5">Piquez</OPER> la <INGRED id="1">pâte</INGRED>. <OPER id="o_6">Coupez</OPER> les <INGRED id="3">tomates cerises</INGRED> en deux. <OPER id="o_7">Ciselez</OPER> la <INGRED id="10">ciboulette</INGRED>. <OPER id="o_8">Emincez</OPER> l'<INGRED id="2">oignon</INGRED>. <OPER id="o_9">Battez</OPER> les <INGRED id="7">oeufs</INGRED> avec la <INGRED id="2">ricotta</INGRED>. <OPER id="o_10">Ajoutez</OPER> la <INGRED id="4">crème</INGRED> et la maizena, l'<INGRED id="2">oignon</INGRED> et la <INGRED id="4">ciboulette</INGRED>, salez et <OPER id="o_11">poivrez</OPER>. <OPER id="o_12">Répartissez</OPER> les <INGRED id="1">Carrés Frais</INGRED> émiettés sur les <INGRED id="1">fonds</INGRED> de tarte puis <OPER id="o_13">versez</OPER> - y la préparation aux <INGRED id="6">oeufs</INGRED>. <OPER id="o_14">Disposez</OPER> les <INGRED id="9">tomates</INGRED> sur le dessus en appuyant légèrement. <OPER id="o_15">Enfournez</OPER> pour 30 min. Servez chaud ou tiède, avec une <INGRED id="4">salade</INGRED> bien assaisonnée.
+  </annotation>
+  <annotation methode="crf">
+  Préchauffez le four à 180 ° ( thermostat 6 ). Beurrez et farinez 4 moules à tartelettes. Etalez la <INGRED>pâte</INGRED> <INGRED>,</INGRED> découpez - y 4 disques et garnissez -en les <INGRED>moules</INGRED> <INGRED>.</INGRED> Piquez la <INGRED>pâte</INGRED> <INGRED>.</INGRED> Coupez les <INGRED>tomates cerises</INGRED> en <INGRED>deux</INGRED>. Ciselez la <INGRED>ciboulette</INGRED>. Emincez l'<INGRED>oignon</INGRED>. Battez les <INGRED>oeufs</INGRED> avec la <INGRED>ricotta</INGRED> <INGRED>.</INGRED> Ajoutez la <INGRED>crème</INGRED> et la <INGRED>maizena</INGRED> <INGRED>,</INGRED> l'<INGRED>oignon</INGRED> et la <INGRED>ciboulette</INGRED> <INGRED>,</INGRED> salez et poivrez <INGRED>.</INGRED> Répartissez les <INGRED>Carrés</INGRED> Frais émiettés sur les fonds de tarte puis versez - y la préparation aux <INGRED>oeufs</INGRED> <INGRED>.</INGRED> Disposez les <INGRED>tomates</INGRED> sur le dessus en appuyant légèrement <INGRED>.</INGRED> Enfournez pour 30 min. Servez chaud <INGRED>ou</INGRED> tiède <INGRED>,</INGRED> avec une salade bien assaisonnée <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 157.777777777778*X + 55.2222222222222</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 20*X + 11</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['rouleau de pâte feuilletée', 'rouleau']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['ricotta']	 id:2	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['Carré Frais', 'Carré']	 id:3	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:4	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['crème fleurette', 'crème']	 id:5	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:6	 quantité:30	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['cuillerée à soupe de farine', 'cuillerée']	 id:7	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['cuillerée à soupe de maizena', 'cuillerée']	 id:8	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['tomates cerises', 'tomates']	 id:9	 quantité:12	 unité:non_precis	 denombrable:True	 recipient:12*X
+ingredient:['ciboulette']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['oignon blanc', 'oignon']	 id:11	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:13	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préchauffer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:beurrer	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:etaler	 id:o_3	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:garnir	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:piquer	 id:o_5	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_6	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:100*X	 temps:1*X*1	 recipient:1
+operation:ciseler	 id:o_7	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:emincer	 id:o_8	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:100*X	 temps:1*X*1	 recipient:1
+operation:battre	 id:o_9	 ingrédients_ralatifs:['7', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:['4', '2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:répartir	 id:o_12	 ingrédients_ralatifs:['1', '1', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_13	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_14	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:enfourner	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10611">
+  <titre>Choux fleur au riz</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 chou fleur</p>
+    <p>200 g de riz</p>
+    <p>sel, poivre</p>
+    <p>25 cl de sauce béchamel</p>
+    <p>1 jaune d'oeuf</p>
+    <p>1 noix de muscade</p>
+    <p>200 g de gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire le choux fleur dans l'eau salée , dans une autre casserole, cuire 2 bonnes tasses de riz salé aussi.
+    Quand tout est cuit, mélanger le choux fleur au riz en écrassant grossièrement à la fourchette.
+    Faire une sauce béchamel avec beaucoup de gruyère rapé dedans et un jaune d'oeuf, sel, poivre et noix de muscade.
+    Verser la sauce ainsi obtenue sur le choux fleur et le riz mélangé, bien incorporer les 2 ingrédients, puis mettre le tout dans un plat allant au four.
+    Parsemer de gruuyère rapé et mettre à gratiner 15 minutes.
+    Avec cette recette, vous pouvez faire un bon rôti de veau aux champignons. Un rosé d'anjou
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Cuire</OPER> le choux fleur dans l'<INGRED id="2">eau</INGRED> salée, dans une autre casserole, <OPER id="o_2">cuire</OPER> 2 bonnes tasses de <INGRED id="2">riz</INGRED> salé aussi. Quand tout est cuit, <OPER id="o_3">mélanger</OPER> le choux fleur au <INGRED id="3">riz</INGRED> en écrassant grossièrement à la fourchette. Faire une <INGRED id="5">sauce béchamel</INGRED> avec beaucoup de <INGRED id="4">gruyère</INGRED> rapé dedans et un <INGRED id="6">jaune d'oeuf</INGRED>, sel, <INGRED id="7">poivre</INGRED> et <INGRED id="7">noix de muscade</INGRED>. <OPER id="o_4">Verser</OPER> la <INGRED id="5">sauce</INGRED> ainsi obtenue sur le choux fleur et le <INGRED id="2">riz</INGRED> mélangé, bien <OPER id="o_5">incorporer</OPER> les 2 ingrédients, puis <OPER id="o_6">mettre</OPER> le tout dans un plat allant au four. <OPER id="o_7">Parsemer</OPER> de gruuyère rapé et <OPER id="o_8">mettre</OPER> à <OPER id="o_9">gratiner</OPER> 15 minutes. Avec cette recette, vous pouvez faire un bon rôti de veau aux <INGRED id="3">champignons</INGRED>. Un rosé d'anjou
+  </annotation>
+  <annotation methode="crf">
+  Cuire le <INGRED>choux</INGRED> fleur dans l'<INGRED>eau</INGRED> salée <INGRED>,</INGRED> dans une autre casserole <INGRED>,</INGRED> cuire 2 bonnes <INGRED>tasses</INGRED> de riz salé aussi <INGRED>.</INGRED> Quand tout est cuit <INGRED>,</INGRED> mélanger le <INGRED>choux</INGRED> fleur au <INGRED>riz</INGRED> en écrassant grossièrement à la fourchette <INGRED>.</INGRED> Faire une <INGRED>sauce</INGRED> béchamel avec beaucoup de <INGRED>gruyère rapé</INGRED> dedans et un <INGRED>jaune d'oeuf</INGRED> <INGRED>,</INGRED> <INGRED>sel</INGRED> <INGRED>,</INGRED> <INGRED>poivre</INGRED> et noix de <INGRED>muscade</INGRED>. Verser la <INGRED>sauce</INGRED> ainsi obtenue sur le <INGRED>choux</INGRED> fleur et le <INGRED>riz</INGRED> mélangé <INGRED>,</INGRED> bien incorporer les 2 ingrédients <INGRED>,</INGRED> puis mettre le tout dans un plat allant au four <INGRED>.</INGRED> Parsemer de gruuyère rapé et mettre à gratiner 15 minutes. Avec cette recette <INGRED>,</INGRED> vous pouvez faire un bon rôti de <INGRED>veau</INGRED> aux <INGRED>champignons</INGRED> <INGRED>.</INGRED> Un rosé d'anjou
+  </annotation>
+  <complexite>
+    <temps>f(X) = 3.375*X + 5.625</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 3*X + 10</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['chou fleur', 'chou']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['riz']	 id:2	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:3	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sauce béchamel', 'sauce']	 id:5	 quantité:25	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:["jaune d'oeuf", 'jaune']	 id:6	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['noix de muscade', 'noix']	 id:7	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['gruyère râpé', 'gruyère']	 id:8	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:cuire	 id:o_1	 ingrédients_ralatifs:['2', '2']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:cuire	 id:o_2	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:verser	 id:o_4	 ingrédients_ralatifs:['5', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:parsemer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:gratiner	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

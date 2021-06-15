@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23859">
+  <titre>Soupe glacée à la tomate</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de tomates</p>
+    <p>150 g de crème fraîche liquide</p>
+    <p>150 g de crème fraîche épaisse</p>
+    <p>2 cuillères à soupe de basilic</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>croûtons à l'ail</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler, épépiner les tomates coupées en pétales. Mettre dans le bol du mixeur, mixer, puis ajouter la crème liquide, remixer, mettre la crème épaisse, re-remixer, ajouter le basilic émincé, re-re-remixer, puis ajouter sel et poivre.
+    Mixer le tout une dernière fois, puis goûter pour rectifier l’assaisonnement si besoin est.
+    Mettre dans un saladier au réfrigérateur plusieurs heures, sur des glaçons (si c’est au dernier moment, mettre 1/2 heure à 3/4 d’heure au congélateur).Au moment de servir, ajouter 1 filet d’huile d’olive sur la soupe avec les croûtons à l’ail.
+    Sur la table, rajouter 2 ramequins de croûtons. vin rosé frais
+  ]]>
+  </preparation>
+</recette>

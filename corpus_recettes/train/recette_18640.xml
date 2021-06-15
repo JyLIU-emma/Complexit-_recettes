@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18640">
+  <titre>Gâteau aux noix facile</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>6 oeufs</p>
+    <p>300 g de beurre</p>
+    <p>100 g cerneaux de noix écrasés grossièrement</p>
+    <p>100 g cerneaux noix émiéttés</p>
+    <p>200 g de sucre</p>
+    <p>100 g de biscottes en chapelure</p>
+    <p>1/2 sachet de levure</p>
+    <p>2 cl Cognac ou eau-de-vie</p>
+    <p>1 cuillère à café extrait de café</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Séparer les blancs des jaunes. 
+    Mélanger les jaunes, le beurre fondu, le sucre et l'alcool pendant 5 min au fouet électrique. Incorporer les noix et la poudre de biscotte mélanger préalablement à la levure. Incorporer à ce mélange les blancs montés en neige. 
+    Verser dans un moule et laisser cuire 50 min au four à 150°C (thermostat 5).Idée de déco: glaçage royal dont on a incorporé une goutte d'extrait de café pour la coloration, avec pour finir des noix entières déposées sur le gâteau.
+  ]]>
+  </preparation>
+</recette>

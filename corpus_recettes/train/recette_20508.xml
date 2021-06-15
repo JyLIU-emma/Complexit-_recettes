@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20508">
+  <titre>Croissants aux crevettes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 croissants ordinaires (même un peu rassis)</p>
+    <p>4 grosses cuillères à soupe de crème fraîche</p>
+    <p>100 g de petites crevettes roses décortiquées</p>
+    <p>100 g de gruyère râpé</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four (180°C).  
+    Ouvrir les croissants par l'arrière sans les couper complètement. 
+    Les étaler dans un plat allant au four ou sur la grille recouverte d'un papier alu. 
+    Poser les crevettes, la crème fraîche et le guyère râpé. 
+    Passer au four 15 mn. 
+    Mettre en position grill 2 mn avant la fin de la cuisson.
+    A servir avec une salade de laitue ou de mâche
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164557">
+  <titre>Emincés poulet saveur d'Orient</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 escalopes de poulet</p>
+    <p>1/2 poivrons jaune</p>
+    <p>1/2 poivrons vert</p>
+    <p>1 tomate</p>
+    <p>2 cuillères à soupe de paprika</p>
+    <p>1 cuillère à soupe d'ail en poudre</p>
+    <p>25 cl de crème fraiche épaisse</p>
+    <p>thym</p>
+    <p>ciboulette</p>
+    <p>Sauce soja</p>
+    <p>Sauce nuoc nam</p>
+    <p>200g de riz basmati</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Découpez les escalopes de poulet en petit morceaux équivalents, les saupoudrez de paprika, salez, poivrez. Réserver les.- Découpez les poivrons et la tomate en fine lamelles. Réserver les.- Portez à ébullition une casserole d'eau salé, y faire cuire le riz basmati pendant environ 15-20 minutes.- Pendant ce temps, dans un wok chauffé à moyenne chaleur, mettre 2 cuillères à soupe d'huile d'olive puis ajouter les morceaux de poivrons et tomates. Laisse cuire à 2 à 3 minutes puis versez 2 grandes cuillères à soupe de sauce soja et 2 grandes cuillères à soupe de sauce nuoc nam.- A feux doux, ajoutez les morceaux de poulet au wok, du thym et laisser mijoter pendant environ 10 minutes en remuant régulièrement. SURTOUT NE PAS SALEZ.- Lorsque le poulet a bien doré, mettre 25 cl de crème fraîche épaisse, y découper de la ciboulette et saupoudrez à nouveau légèrement de paprika- Laissez mijoter 5 minutes puis éteindre le feu. Laissez reposez la préparation. - égoutter le riz.- Préparer les assiettes avec 1 portion de riz arrosé d'un filet d'huile d'olive y versez la préparation au poulet.Régalez vous !Une recette très agréable mais assez copieuse. Ce plat est aussi très appréciable en remplaçant le poulet par des crevettes décortiquées et un pavé de saumon émietté. 
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  - <OPER id="o_1">Découpez</OPER> les <INGRED id="1">escalopes de poulet</INGRED> en petit <INGRED id="1">morceaux</INGRED> équivalents, les saupoudrez de <INGRED id="5">paprika</INGRED>, salez, poivrez. Réserver les.- <OPER id="o_2">Découpez</OPER> les <INGRED id="2">poivrons</INGRED> et la tomate en fine lamelles. Réserver les.- <OPER id="o_3">Portez</OPER> à ébullition une casserole d'<INGRED id="8">eau</INGRED> salé, y faire <OPER id="o_4">cuire</OPER> le <INGRED id="12">riz basmati</INGRED> pendant environ 15 - 20 minutes.- Pendant ce temps, dans un wok chauffé à moyenne chaleur, <OPER id="o_5">mettre</OPER> 2 cuillères à <INGRED id="6">soupe d'huile d'olive</INGRED> puis <OPER id="o_6">ajouter</OPER> les <INGRED id="1">morceaux</INGRED> de poivrons et <INGRED id="2">tomates</INGRED>. <OPER id="o_7">Laisse</OPER> <OPER id="o_8">cuire</OPER> à 2 à 3 minutes puis versez 2 grandes cuillères à <INGRED id="6">soupe</INGRED> de <INGRED id="4">sauce</INGRED> soja et 2 grandes cuillères à <INGRED id="4">soupe</INGRED> de <INGRED id="5">sauce</INGRED> <INGRED id="6">nuoc</INGRED> nam.- A feux doux, <OPER id="o_9">ajoutez</OPER> les <INGRED id="1">morceaux</INGRED> de poulet au wok, du <INGRED id="8">thym</INGRED> et laisser <OPER id="o_10">mijoter</OPER> pendant environ 10 minutes en remuant régulièrement. SURTOUT NE PAS SALEZ.- Lorsque le poulet a bien doré, <OPER id="o_11">mettre</OPER> 25 cl de <INGRED id="3">crème fraîche épaisse</INGRED>, y <OPER id="o_12">découper</OPER> de la <INGRED id="6">ciboulette</INGRED> et saupoudrez à nouveau légèrement de paprika- Laissez <OPER id="o_13">mijoter</OPER> 5 minutes puis <OPER id="o_14">éteindre</OPER> le feu. Laissez <OPER id="o_15">reposez</OPER> la préparation. - <OPER id="o_16">égoutter</OPER> le riz.- <OPER id="o_17">Préparer</OPER> les assiettes avec 1 portion de <INGRED id="1">riz</INGRED> arrosé d'un filet d'<INGRED id="10">huile d'olive</INGRED> y <OPER id="o_18">versez</OPER> la préparation au poulet. <OPER id="o_19">Régalez</OPER> vous ! Une recette très agréable mais assez copieuse. Ce plat est aussi très appréciable en remplaçant le poulet par des <INGRED id="4">crevettes décortiquées</INGRED> et un <INGRED id="1">pavé de saumon</INGRED> émietté.
+  </annotation>
+  <annotation methode="crf">
+  - Découpez les <INGRED>escalopes</INGRED> de <INGRED>poulet</INGRED> en <INGRED>petit</INGRED> <INGRED>morceaux</INGRED> équivalents <INGRED>,</INGRED> les saupoudrez de <INGRED>paprika</INGRED> <INGRED>,</INGRED> salez <INGRED>,</INGRED> poivrez <INGRED>.</INGRED> Réserver les.- Découpez les <INGRED>poivrons</INGRED> et la <INGRED>tomate</INGRED> en fine <INGRED>lamelles</INGRED> <INGRED>.</INGRED> Réserver les.- Portez à ébullition une casserole d'<INGRED>eau</INGRED> salé <INGRED>,</INGRED> y faire cuire le <INGRED>riz</INGRED> basmati pendant <INGRED>environ</INGRED> 15 - 20 minutes.- Pendant ce temps <INGRED>,</INGRED> dans un wok chauffé à moyenne chaleur <INGRED>,</INGRED> mettre 2 <INGRED>cuillères à soupe d'huile d'olive</INGRED> puis ajouter les <INGRED>morceaux</INGRED> de <INGRED>poivrons</INGRED> et <INGRED>tomates</INGRED> <INGRED>.</INGRED> Laisse cuire à 2 à 3 minutes puis versez 2 grandes <INGRED>cuillères à soupe</INGRED> de <INGRED>sauce soja</INGRED> et 2 grandes <INGRED>cuillères à soupe</INGRED> de <INGRED>sauce</INGRED> nuoc nam.- A feux doux <INGRED>,</INGRED> ajoutez les <INGRED>morceaux</INGRED> de <INGRED>poulet</INGRED> au wok <INGRED>,</INGRED> du <INGRED>thym</INGRED> et laisser mijoter pendant <INGRED>environ</INGRED> 10 minutes en remuant régulièrement <INGRED>.</INGRED> SURTOUT NE PAS SALEZ.- Lorsque le <INGRED>poulet</INGRED> <INGRED>a</INGRED> bien doré <INGRED>,</INGRED> mettre 25 cl de <INGRED>crème fraîche</INGRED> épaisse <INGRED>,</INGRED> y découper de la <INGRED>ciboulette</INGRED> et saupoudrez à nouveau légèrement de paprika- Laissez mijoter 5 minutes puis éteindre le feu <INGRED>.</INGRED> Laissez reposez la préparation <INGRED>.</INGRED> - égoutter le riz.- Préparer les assiettes avec 1 portion de <INGRED>riz</INGRED> arrosé d'un <INGRED>filet</INGRED> d'<INGRED>huile d'olive</INGRED> y versez la préparation au <INGRED>poulet</INGRED> <INGRED>.</INGRED> Régalez vous ! Une recette très agréable mais assez copieuse. Ce plat est aussi très appréciable en remplaçant le <INGRED>poulet</INGRED> par des <INGRED>crevettes</INGRED> décortiquées et un pavé de <INGRED>saumon</INGRED> émietté.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 12.0*X + 12.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 8*X + 17</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['escalopes de poulet', 'escalopes']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['poivrons jaune', 'poivrons']	 id:2	 quantité:1/2	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['poivrons vert', 'poivrons']	 id:3	 quantité:1/2	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['tomate']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['paprika']	 id:5	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['ail en poudre', 'ail']	 id:6	 quantité:1	 unité:cuillère à soupe d'	 denombrable:True	 recipient:1*X
+ingredient:['crème fraiche épaisse', 'crème']	 id:7	 quantité:25	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['thym']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['ciboulette']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['Sauce soja', 'Sauce']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['Sauce nuoc nam', 'Sauce']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['riz basmati', 'riz']	 id:12	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["huile d'olive", 'huile']	 id:13	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:découper	 id:o_1	 ingrédients_ralatifs:['1', '1', '5']	 nombre_opération_atomique:2*X+2*X+2*X	 temps:2*X*1+2*X*1+2*X*1	 recipient:1
+operation:découper	 id:o_2	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1/2*X*1	 recipient:1
+operation:porter	 id:o_3	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_4	 ingrédients_ralatifs:['8', '12']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:mettre	 id:o_5	 ingrédients_ralatifs:['6', '1', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:laisse	 id:o_7	 ingrédients_ralatifs:['6', '4', '4', '5', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:['1', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:mettre	 id:o_11	 ingrédients_ralatifs:['3', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:découper	 id:o_12	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1*X*1	 recipient:1
+operation:mijoter	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:éteindre	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:égoutter	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparer	 id:o_17	 ingrédients_ralatifs:['1', '10']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:verser	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:régaler	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

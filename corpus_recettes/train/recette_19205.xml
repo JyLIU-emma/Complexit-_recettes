@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19205">
+  <titre>Tarte aux kiwis</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte sablée :</p>
+    <p>250 g de farine</p>
+    <p>1 pincée de sel</p>
+    <p>125 g de sucre</p>
+    <p>125 g de beurre mou</p>
+    <p>1 oeuf</p>
+    <p>Pour la garniture :</p>
+    <p>4 oeufs</p>
+    <p>5 cl de crème fraîche</p>
+    <p>100 g de sucre</p>
+    <p>1/2 jus de citron </p>
+    <p>4 kiwis</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la pâte et laisser reposer le temps de faire la garniture. Mélanger les oeufs entiers, la crème, le sucre et le jus de citron. Mettre la pâte dans un plat à tarte et recouvrir de la crème. Y déposer les kiwis en rondelles. Faire cuire 30 à 35 min à four chaud (thermostat 7/210°C).
+  ]]>
+  </preparation>
+</recette>

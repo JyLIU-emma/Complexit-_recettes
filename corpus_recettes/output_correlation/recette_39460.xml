@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39460">
+  <titre>Tourte de riz au lait coco et ananas</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>Pour le biscuit :</p>
+    <p>2 œufs</p>
+    <p>50 g de farine</p>
+    <p>50 g de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - 50 g de riz
+    25 cl de lait de coco 
+    50 cl de lait
+    1 gousse de vanille, fendue dans le sens de la longueur (seules les graines nous intéressent)
+    1 cuillère à soupe de sucre
+    1 pincée  de sel
+    2 feuilles de gélatine
+    1 petite boîte (4 tranches) d'ananas et leur jus (en garder 1 pour la décoration de la tourte)
+    2 cuillères à soupe de Kirsch ou de Rhum
+    12,5 cl de crème (à 35% de préférence)
+    2 cuillères à soupe de noix de coco râpée
+    	
+    Préparation :
+    Préchauffer votre four, à 200°C-210°C (thermostat 6-7).
+    	
+    Choisir un moule à tourte, ou une plaque à gâteau, d'environ 18 cm de diamètre.
+    Tapisser le fond de la plaque d'un papier de cuisson.
+    Dans un bol en verre, verser les œufs et le sucre.  Réchauffer au bain-marie, en remuant continuellement avec le fouet à main, jusqu'à 45°C.
+    Lorsque la préparation est chaude, montez-la avec un batteur électrique, jusqu’à ce qu’elle reste sur le doigt, sans faire de filets.
+    Mélanger la farine, petit à petit, avec la masse. Etendre ce mélange dans le  moule. Enfourner pendant environ 10 à 12 minutes
+    Bien surveiller ! Attendre au moins 10 min avant d’ouvrir le four. Cuit blond, le biscuit sera moins sec.
+    Pour savoir s’il est cuit, l’aiguille à tricoter est un bon procédé.
+    Préparer la masse à fourrer :
+    Dans une casserole, porter à ébullition le lait, le riz, le sucre, les graines grattées de vanille et le sel.
+    Baisser le feu, cuire environ 20 min à feu doux en  brassant  de temps en temps, jusqu’à obtention d’une bouillie onctueuse. Retirer la casserole du feu, laisser tiédir.
+    Dissoudre, dans 2 cuillères à soupe d’eau chaude, les feuilles de gélatine, préalablement ramollies dans de l’eau froide. Ajouter au riz au lait. Bien mélanger.
+    Incorporer 3 tranches d’ananas, coupées en petits morceaux. Laisser prendre 1 heure au frais.
+    Couper le biscuit  horizontalement en 2 disques, imbiber le fond avec la moitié du jus d’ananas mélangé au Kirsch et au Rhum.
+    A l’aide d’une spatule, étendre la masse de riz au lait sur le fond.
+    Poser l’autre moitié du biscuit, humecter avec le reste du liquide.
+    Enrober la  tourte de crème fouettée, couvrir de noix de coco râpée.
+    Garnir  la tourte  avec la tranche d’ananas restante.
+    Vous pouvez décorer la tourte avec des tranches et les feuilles d'ananas.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  - <INGRED id="3">50</INGRED> <INGRED id="1">g</INGRED> de riz 25 <INGRED id="2">cl</INGRED> de lait de coco <INGRED id="3">50</INGRED> <INGRED id="2">cl</INGRED> de lait 1 gousse de vanille, fendue dans le sens de la longueur ( seules les graines nous intéressent ) 1 cuillère à soupe de <INGRED id="3">sucre</INGRED> 1 pincée de sel 2 feuilles de gélatine 1 <INGRED id="2">petite</INGRED> boîte ( 4 tranches ) d'ananas et leur jus ( en <OPER id="o_1">garder</OPER> 1 pour la décoration de la tourte ) 2 cuillères à soupe de Kirsch ou de Rhum 12,5 <INGRED id="2">cl</INGRED> de <INGRED id="3">crème</INGRED> ( à 35 % de préférence ) 2 cuillères à soupe de noix de coco râpée 	  Préparation : <OPER id="o_2">Préchauffer</OPER> votre four, à 200 ° C-210 ° C ( thermostat 6 - 7 ). 	  Choisir un moule à tourte, ou une plaque à gâteau, d'<INGRED id="1">environ</INGRED> 18 cm de diamètre. <OPER id="o_3">Tapisser</OPER> le fond de la plaque d'un papier de cuisson. Dans un bol en verre, <OPER id="o_4">verser</OPER> les <INGRED id="1">œufs</INGRED> et le sucre. <OPER id="o_5">Réchauffer</OPER> au bain - marie, en remuant continuellement avec le fouet à main, jusqu'à 45 ° C. Lorsque la préparation est chaude, <OPER id="o_6">montez</OPER> - la avec un batteur électrique, jusqu’ à ce qu’ elle <INGRED id="1">reste</INGRED> sur le doigt, sans faire de <INGRED id="1">filets</INGRED>. <OPER id="o_7">Mélanger</OPER> la farine, petit à petit, avec la masse. <OPER id="o_8">Etendre</OPER> ce mélange dans le moule. <OPER id="o_9">Enfourner</OPER> pendant <INGRED id="1">environ</INGRED> 10 à 12 minutes Bien <OPER id="o_10">surveiller</OPER> ! <OPER id="o_11">Attendre</OPER> au moins 10 min avant d’ <OPER id="o_12">ouvrir</OPER> le four. Cuit blond, le biscuit sera moins sec. Pour savoir s’ il est cuit, l’ aiguille à <OPER id="o_13">tricoter</OPER> est un bon procédé. <OPER id="o_14">Préparer</OPER> la masse à <OPER id="o_15">fourrer</OPER> : Dans une casserole, <OPER id="o_16">porter</OPER> à ébullition le lait, le riz, le sucre, les graines grattées de vanille et le sel. <OPER id="o_17">Baisser</OPER> le feu, <OPER id="o_18">cuire</OPER> <INGRED id="1">environ</INGRED> 20 min à feu doux en brassant de temps en temps, jusqu’ à obtention d’ une bouillie onctueuse. <OPER id="o_19">Retirer</OPER> la casserole du feu, laisser <OPER id="o_20">tiédir</OPER>. <OPER id="o_21">Dissoudre</OPER>, dans 2 cuillères à soupe d’ eau chaude, les feuilles de gélatine, préalablement ramollies dans de l’ eau froide. <OPER id="o_22">Ajouter</OPER> au riz au lait. Bien <OPER id="o_23">mélanger</OPER>. <OPER id="o_24">Incorporer</OPER> 3 tranches d’ ananas, coupées en <INGRED id="3">petits</INGRED> <INGRED id="1">morceaux</INGRED>. Laisser <OPER id="o_25">prendre</OPER> 1 heure au frais. <OPER id="o_26">Couper</OPER> le biscuit horizontalement en 2 disques, <OPER id="o_27">imbiber</OPER> le fond avec la moitié du jus d’ <INGRED id="3">ananas</INGRED> mélangé au Kirsch et au Rhum. A l’ aide d’ une spatule, <OPER id="o_28">étendre</OPER> la masse de <INGRED id="3">riz</INGRED> au <INGRED id="2">lait</INGRED> sur le fond. <OPER id="o_29">Poser</OPER> l’ autre moitié du biscuit, <OPER id="o_30">humecter</OPER> avec le <INGRED id="1">reste</INGRED> du liquide. <OPER id="o_31">Enrober</OPER> la tourte de crème fouettée, <OPER id="o_32">couvrir</OPER> de noix de coco râpée. <OPER id="o_33">Garnir</OPER> la tourte avec la tranche d’ ananas restante. Vous pouvez <OPER id="o_34">décorer</OPER> la tourte avec des tranches et les feuilles d'ananas.
+  </annotation>
+  <annotation methode="crf">
+  - 50 <INGRED>g</INGRED> de riz 25 cl de <INGRED>lait</INGRED> de coco 50 cl de <INGRED>lait</INGRED> 1 gousse de <INGRED>vanille</INGRED> <INGRED>,</INGRED> fendue dans le sens de la longueur ( seules les graines nous intéressent ) 1 cuillère à soupe de <INGRED>sucre</INGRED> 1 pincée de <INGRED>sel</INGRED> 2 feuilles de <INGRED>gélatine</INGRED> 1 <INGRED>petite</INGRED> boîte ( 4 tranches ) d'<INGRED>ananas</INGRED> et leur <INGRED>jus</INGRED> ( en garder 1 pour la décoration de la tourte ) 2 <INGRED>cuillères à soupe de Kirsch</INGRED> <INGRED>ou</INGRED> de Rhum 12,5 cl de <INGRED>crème</INGRED> ( à 35 <INGRED>%</INGRED> de préférence ) 2 <INGRED>cuillères à soupe de noix de coco râpée</INGRED> 	  Préparation <INGRED>:</INGRED> Préchauffer votre four <INGRED>,</INGRED> à 200 ° C-210 ° C ( thermostat 6 - 7 ). 	  Choisir un moule à tourte <INGRED>,</INGRED> <INGRED>ou</INGRED> une plaque à gâteau <INGRED>,</INGRED> d'<INGRED>environ</INGRED> 18 <INGRED>cm</INGRED> de diamètre. Tapisser le <INGRED>fond</INGRED> de la plaque d'un papier de cuisson. Dans un bol en <INGRED>verre</INGRED> <INGRED>,</INGRED> verser les <INGRED>œufs</INGRED> et le <INGRED>sucre</INGRED>. Réchauffer au bain - marie <INGRED>,</INGRED> en remuant continuellement avec le fouet à main <INGRED>,</INGRED> jusqu'à 45 ° C <INGRED>.</INGRED> Lorsque la préparation est chaude <INGRED>,</INGRED> montez - la avec un batteur électrique, jusqu’ à ce qu’ elle <INGRED>reste</INGRED> sur le doigt <INGRED>,</INGRED> sans faire de <INGRED>filets</INGRED> <INGRED>.</INGRED> Mélanger la <INGRED>farine</INGRED> <INGRED>,</INGRED> <INGRED>petit</INGRED> à <INGRED>petit</INGRED> <INGRED>,</INGRED> avec la masse. Etendre ce <INGRED>mélange</INGRED> dans le <INGRED>moule</INGRED> <INGRED>.</INGRED> Enfourner pendant <INGRED>environ</INGRED> 10 à 12 minutes Bien surveiller ! Attendre au moins 10 min avant d’ ouvrir le four <INGRED>.</INGRED> Cuit blond <INGRED>,</INGRED> le biscuit sera moins sec <INGRED>.</INGRED> Pour savoir s’ il est cuit <INGRED>,</INGRED> l’ aiguille à tricoter est un bon procédé. Préparer la masse à fourrer <INGRED>:</INGRED> Dans une casserole <INGRED>,</INGRED> porter à ébullition le <INGRED>lait</INGRED> <INGRED>,</INGRED> le <INGRED>riz</INGRED> <INGRED>,</INGRED> le <INGRED>sucre</INGRED> <INGRED>,</INGRED> les <INGRED>graines</INGRED> grattées de <INGRED>vanille</INGRED> et le <INGRED>sel</INGRED> <INGRED>.</INGRED> Baisser le feu <INGRED>,</INGRED> cuire <INGRED>environ</INGRED> 20 min à feu doux en brassant de temps en temps, jusqu’ à obtention d’ une bouillie onctueuse. Retirer la casserole du feu <INGRED>,</INGRED> laisser tiédir. Dissoudre <INGRED>,</INGRED> dans 2 <INGRED>cuillères à soupe</INGRED> d’ <INGRED>eau</INGRED> chaude <INGRED>,</INGRED> les feuilles de <INGRED>gélatine</INGRED> <INGRED>,</INGRED> préalablement ramollies dans de l’ <INGRED>eau</INGRED> froide <INGRED>.</INGRED> Ajouter au <INGRED>riz</INGRED> au <INGRED>lait</INGRED> <INGRED>.</INGRED> Bien mélanger. Incorporer 3 tranches d’ <INGRED>ananas</INGRED> <INGRED>,</INGRED> <INGRED>coupées</INGRED> en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> <INGRED>.</INGRED> Laisser prendre 1 heure au <INGRED>frais</INGRED> <INGRED>.</INGRED> Couper le biscuit horizontalement en 2 disques <INGRED>,</INGRED> imbiber le <INGRED>fond</INGRED> avec la moitié du <INGRED>jus</INGRED> d’ <INGRED>ananas</INGRED> mélangé au Kirsch et au Rhum. A l’ aide d’ une spatule <INGRED>,</INGRED> étendre la masse de <INGRED>riz</INGRED> au <INGRED>lait</INGRED> sur le <INGRED>fond</INGRED> <INGRED>.</INGRED> Poser l’ autre moitié du biscuit <INGRED>,</INGRED> humecter avec le <INGRED>reste</INGRED> du liquide. Enrober la tourte de <INGRED>crème fouettée</INGRED> <INGRED>,</INGRED> couvrir de <INGRED>noix de coco râpée</INGRED>. Garnir la tourte avec la tranche d’ <INGRED>ananas</INGRED> restante <INGRED>.</INGRED> Vous pouvez décorer la tourte avec des tranches et les feuilles d'<INGRED>ananas</INGRED>.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 41.5*X + 41.5</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 2*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['œufs']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['farine']	 id:2	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:3	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:garder	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préchauffer	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:tapisser	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_4	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:réchauffer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:monter	 id:o_6	 ingrédients_ralatifs:['1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:etendre	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfourner	 id:o_9	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:surveiller	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:attendre	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ouvrir	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tricoter	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparer	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:fourrer	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:porter	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:baisser	 id:o_17	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_18	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:retirer	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tiédir	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dissoudre	 id:o_21	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_23	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:incorporer	 id:o_24	 ingrédients_ralatifs:['3', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:prendre	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_26	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:50*X	 temps:1*X*1	 recipient:1
+operation:imbiber	 id:o_27	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étendre	 id:o_28	 ingrédients_ralatifs:['3', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poser	 id:o_29	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:humecter	 id:o_30	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enrober	 id:o_31	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_32	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garnir	 id:o_33	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:décorer	 id:o_34	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

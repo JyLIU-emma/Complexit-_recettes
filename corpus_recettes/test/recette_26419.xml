@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26419">
+  <titre>Beignets de courgettes persillées</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 grosses courgettes</p>
+    <p>4 oeufs</p>
+    <p>100 g de farine</p>
+    <p>30 cl de lait</p>
+    <p>4 cuillères à soupe de persil haché</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour la pâte à beignets, mettre la farine, les oeufs et assouplir le mélange avec le lait.
+    Assaisonner et ajouter le persil.
+    Couper les courgettes lavées mais non épluchées en fines tranches.
+    Préparer un bain de friture à 150°C et y faire cuire les rondelles de courgette enrobées de pâte à beignets.
+    Frire pendant 3 à 4 min ju'squ'à obtenir une jolie coloration.
+    Retirer les beignets de l'huile et les déposer sur une feuille de papier absorbant.
+    Servir chaud saupoudré de sel.
+  ]]>
+  </preparation>
+</recette>

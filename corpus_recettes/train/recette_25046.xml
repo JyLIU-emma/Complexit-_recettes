@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25046">
+  <titre>Compote de pommes citronnée et meringuée</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 pommes</p>
+    <p>150 ml de sucre</p>
+    <p>3 oeufs</p>
+    <p>1/2 citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Réduire les pommes en compotes avec un peu de sucre (selon l'acidité des pommes). Préparer la meringue en battant les blancs d'oeufs en neige avec les 150 ml de sucre. Quand la compote est cuite, lui ajouter les jaunes d'oeuf, le zeste et jus du demi-citron. Mettre dans un plat la compote puis répartir dessus la meringue et faire cuire au four à 175°C pour que la meringue soit bien dorée.
+  ]]>
+  </preparation>
+</recette>

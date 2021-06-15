@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19606">
+  <titre>Flan à la farine de châtaigne</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de farine de châtaigne</p>
+    <p>1 litre de lait entier</p>
+    <p>200 g de sucre</p>
+    <p>4 œufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Chauffer 2/3 du lait et ajouter le reste de lait froid. 
+    Ajouter la farine au lait en mélangeant bien puis mettre 10 min sur le feu en remuant. Ôter la casserole du feu et incorporer les oeufs et le sucre. Mettre le tout dans un moule et cuire à four chaud 30 min.
+  ]]>
+  </preparation>
+</recette>

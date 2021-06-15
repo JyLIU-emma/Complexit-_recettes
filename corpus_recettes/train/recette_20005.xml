@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20005">
+  <titre>Muffins coco - cannelle , coulis chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de noix de coco déshydratée</p>
+    <p>150 g farine</p>
+    <p>75 g de beurre ou margarine de régime</p>
+    <p>1 yaourt velouté</p>
+    <p>80 g de sucre semoule</p>
+    <p>2 sachets sucre à la cannelle</p>
+    <p>2 oeufs</p>
+    <p>1 sachet de levure alsacienne</p>
+    <p>Pour le coulis :</p>
+    <p>150 g de chocolat noir amer</p>
+    <p>3 pincées de cannelle en poudre</p>
+    <p>10 cl de crème liquide</p>
+    <p>1 noix de beurre ou margarine</p>
+    <p>6 moules à soufflé individuels</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Allumez le four thermostat 6 (175°C). 
+    Beurrez les moules. 
+    Fouettez le beurre et le sucre jusqu'à ce que le mélange blanchisse. 
+    Ajoutez 1 oeuf sans cesser de fouetter et la moitié de la farine. 
+    Ajouter le second oeuf, le reste de farine et la levure puis le yaourt et la noix de coco. 
+    Répartissez la préparation dans les moules et glisser au four. 
+    Cuire 15 à 20 mn (gâteaux gonflés et dorés). 
+    Coulis facultatif : 
+    Faire bouillir la crême dans une casserole. retirer du feu et ajoutez le chocolat coupé en petits morceaux. Laissez reposer 10 mn puis lisser le coulis avec une spatule. 
+    Ajoutez le beurre et la cannelle. 
+    Lorsque les gâteaux sont cuits, laissez reposer 5 mn puis démouler-les sur des assiettes, entourez de coulis et servez. 
+    On peut préparer un seul gâteau dans un moule à manqué de 24 cm, cuire 30 mn À 35 mn. Servir à température ambiante ou avec un coulis chaud ou froid.
+    Utiliser du beurre ou une margarine diététique. Le coulis n'est pas indispensable , les gâteaux peuvent être servis avec un fromage blanc nature ou à la vanille.
+  ]]>
+  </preparation>
+</recette>

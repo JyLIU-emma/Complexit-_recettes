@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14160">
+  <titre>Gâteau léger chocolat et banane</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>50 g de chocolat noir</p>
+    <p>un peu de lait</p>
+    <p>100 g de farine + levure</p>
+    <p>1 oeuf</p>
+    <p>1 cuillère a café de miel</p>
+    <p>1/2 cuillère à café de cannelle</p>
+    <p>1 banane coupée en tranches</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole, faire fondre le chocolat avec le lait et le miel.
+    Le verser dans un saladier. Ajouter l'oeuf entier, la farine, la levure et la cannelle. Bien mélanger (rajouter du lait si nécessaire) et mettre les tranches de banane.
+    Beurrer ou huiler un moule a cake, verser la préparation et faire cuire a four chaud (180°C) pendant 20 a 25 minutes.
+    Une recette très facile a réaliser et sans matière grasse ! Surveillez bien la cuisson.
+  ]]>
+  </preparation>
+</recette>

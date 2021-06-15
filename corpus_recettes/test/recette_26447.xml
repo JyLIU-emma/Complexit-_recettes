@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26447">
+  <titre>Crème aux framboises express</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de framboises (congelées ou fraîches) </p>
+    <p>20 cl de crème</p>
+    <p>250 g de ricotta</p>
+    <p>6 cuillères à soupe de lait</p>
+    <p>3 cuillères à soupe de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixer tous les ingrédients ensemble et mettre au frais !
+    On peut aussi utiliser un paquet de fruits rouges mélangés.
+  ]]>
+  </preparation>
+</recette>

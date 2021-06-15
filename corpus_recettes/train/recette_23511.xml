@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23511">
+  <titre>Soupe de courge (espagne)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1/4 de gros potiron</p>
+    <p>12 cl de crème fraîche</p>
+    <p>noix de muscade</p>
+    <p>sel et poivre</p>
+    <p>3 cuillères à soupe de tapioca</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez et ôtez les pépins du potiron. Coupez la partie tendre en dés et mettez-les dans 1 faitout. Couvrez d'eau, salez et laissez cuire environ 20 mn. 
+    Retirez les dés de potiron cuits et passez-les au mixeur. Remetter la purée obtenue dans le faitout. Ajoutez 1/2 litre d'eau chaude et portez à ébullition. 
+    Râpez une pincée de noix de muscade et ajoutez le tapioca en pluie fine. Remuez bien. Faites cuire encore 20 mn. 
+    Versez la crème fraîche. Salez, poivrez et c'est prêt !
+  ]]>
+  </preparation>
+</recette>

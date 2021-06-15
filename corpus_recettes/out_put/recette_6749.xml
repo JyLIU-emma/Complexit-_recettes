@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="6749">
+  <titre>Pastèque au Carré frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 tranche de pastèque</p>
+    <p>1 Carré frais</p>
+    <p>1/2 oignon rouge</p>
+    <p>vinaigre balsamique</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une assiette, disposez une tranche de pastèque dont vous aurez précédemment enlevé la peau et les pépins. 
+    Placez sur la pastèque un Carré frais.
+    Emincez le 1/2 oignon rouge en lamelles. Et Disposez-les sur la pastèque, à côté du Carré Frais. 
+    Salez, poivrez, et ajoutez un bon trait de vinaigre balsamique! 
+    C'est une excellente recette pour l'été, et le mélange pastèque- Carré frais-oignons est aussi surprenant que succulent!
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Dans une assiette, <OPER id="o_1">disposez</OPER> une tranche de <INGRED id="1">pastèque</INGRED> dont vous aurez précédemment enlevé la peau et les pépins. <OPER id="o_2">Placez</OPER> sur la <INGRED id="1">pastèque</INGRED> un <INGRED id="3">Carré frais</INGRED>. <OPER id="o_3">Emincez</OPER> le 1/2 <INGRED id="3">oignon rouge</INGRED> en <INGRED id="2">lamelles</INGRED>. Et <OPER id="o_4">Disposez</OPER> - les sur la <INGRED id="1">pastèque</INGRED>, à côté du <INGRED id="5">Carré Frais</INGRED>. <OPER id="o_5">Salez</OPER>, poivrez, et ajoutez un bon trait de <INGRED id="4">vinaigre balsamique</INGRED> ! C'est une excellente recette pour l'été, et le mélange pastèque- <INGRED id="3">Carré frais</INGRED> - oignons est aussi surprenant que succulent !
+  </annotation>
+  <annotation methode="crf">
+  Dans une assiette <INGRED>,</INGRED> disposez une tranche de pastèque dont vous aurez précédemment enlevé la peau et les pépins <INGRED>.</INGRED> Placez sur la pastèque un Carré <INGRED>frais</INGRED> <INGRED>.</INGRED> Emincez le <INGRED>1/2</INGRED> <INGRED>oignon rouge</INGRED> en <INGRED>lamelles</INGRED> <INGRED>.</INGRED> Et Disposez - les sur la pastèque <INGRED>,</INGRED> à côté du Carré Frais <INGRED>.</INGRED> Salez <INGRED>,</INGRED> poivrez <INGRED>,</INGRED> et ajoutez un bon trait de <INGRED>vinaigre</INGRED> balsamique ! C'est une excellente recette pour l'été <INGRED>,</INGRED> et le <INGRED>mélange</INGRED> pastèque- Carré <INGRED>frais</INGRED> - <INGRED>oignons</INGRED> est aussi surprenant que succulent !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 2.5*X + 3.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 3*X + 6</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pastèque']	 id:1	 quantité:1	 unité:tranche de	 denombrable:True	 recipient:1*X
+ingredient:['Carré frais', 'Carré']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['oignon rouge', 'oignon']	 id:3	 quantité:1/2	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['vinaigre balsamique', 'vinaigre']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:disposer	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:placer	 id:o_2	 ingrédients_ralatifs:['1', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:emincer	 id:o_3	 ingrédients_ralatifs:['3', '2']	 nombre_opération_atomique:1/2*X+1*X	 temps:1/2*X*1+1*X*1	 recipient:1
+operation:disposer	 id:o_4	 ingrédients_ralatifs:['1', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:saler	 id:o_5	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

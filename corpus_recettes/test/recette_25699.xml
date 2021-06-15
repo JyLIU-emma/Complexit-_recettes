@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25699">
+  <titre>Queue de lotte sur lit de tomates et brins de légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,2 kilos de queue de lotte prête à emploi</p>
+    <p>1 boîte de tomates concassées</p>
+    <p>5 gousses d'ail</p>
+    <p>10 cl d'huile d'olive</p>
+    <p>1 à 2 cuillères à soupe d'herbes de Provence</p>
+    <p>1 courgette</p>
+    <p>2 carottes</p>
+    <p>15 cl de vin rosé</p>
+    <p>aneth</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire dorer la queue de lotte de tous les côtés dans de l'huile d'olive et réserver.
+     
+    Verser tout le reste de l'huile dans une sauteuse, puis ajouter tous les autres ingrédients, garder les courgettes et les carottes. Assaisonner. Etuver
+    Couper les carottes et les courgettes en longues lanières et les cuire dans une casserole d'eau bouillante salée, séparement. Egoutter
+    Disposer la fondue de tomate sur un plat, ajouter la lotte et les légumes. Parsemer d'aneth et servir.
+     
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67777">
+  <titre>Filet de sanglier roti</titre>
+  <type>Plat principal</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de filet de sanglier</p>
+    <p>12 petits lardons</p>
+    <p>5 cuillères à soupe de moutarde</p>
+    <p>10 cuillères à soupe de crème fraiche</p>
+    <p>20 g de beurre</p>
+    <p>2 cuillères à soupe de gelée de groseille</p>
+    <p>sel poivrepour la marinade crue :</p>
+    <p>20 cl de vin rouge</p>
+    <p>8 cuillères à soupe de vinaigre de vin</p>
+    <p>4 cuillères à soupe d'huile  </p>
+    <p>3 carottes</p>
+    <p>3 oignons</p>
+    <p>4 échalotes</p>
+    <p>2 gousses d'ail</p>
+    <p>persil, laurier, thym</p>
+    <p>poivre, sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Piquer le filet de sanglier avec les lardons. Assaisonner la pièce à mariner de sel et de poivre. Dans un grand récipient non métallique à la mesure de la pièce de viande, placer la moitié des aromates émincés, poser la pièce à mariner par-dessus puis le reste des aromates. Recouvrir le tout avec le vin, le vinaigre et l’huile. 
+    Ranger le récipient au frais pendant 24 à 48 heures, ou plus suivant la saison, la recette prévue et le goût personnel. Pendant tout ce temps, la viande sera retournée plusieurs fois dans son bain.
+    Cuisson.
+    Retirer le sanglier et l’éponger dans du papier absorbant.
+    L’enduire entièrement de moutarde, puis de crème fraiche.
+    Déposer le filet ainsi préparé dans un plat à feu, saler et poivrer.
+    Mettre à four chaud pendant (th 8) pendant 40 min, arroser plusieurs fois pendant la cuisson.
+    Verser la marinade passée, dans une casserole sur le feu et faire réduire de 2/3.
+    Retirer le rôti sur un plat chaud.
+    Déglacer le fond de cuisson avec le reste de marinade, ajouter de la gelée de groseille, donner un bouillon et servir en saucière.
+    la pièce de viande peut être beaucoup plus grosse, j'ai utilisé une épaule de sanglier  vin rouge (Chambertin)
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Piquer</OPER> le <INGRED id="1">filet de sanglier</INGRED> avec les lardons. <OPER id="o_2">Assaisonner</OPER> la pièce à <OPER id="o_3">mariner</OPER> de <INGRED id="10">sel</INGRED> et de <INGRED id="11">poivre</INGRED>. Dans un grand récipient non métallique à la mesure de la pièce de <INGRED id="4">viande</INGRED>, <OPER id="o_4">placer</OPER> la moitié des aromates émincés, <OPER id="o_5">poser</OPER> la pièce à <OPER id="o_6">mariner</OPER> par - dessus puis le <INGRED id="1">reste</INGRED> des aromates. <OPER id="o_7">Recouvrir</OPER> le tout avec le <INGRED id="12">vin</INGRED>, le <INGRED id="9">vinaigre</INGRED> et l’ <INGRED id="12">huile</INGRED>. <OPER id="o_8">Ranger</OPER> le récipient au frais pendant 24 à 48 heures, ou plus suivant la saison, la recette prévue et le <INGRED id="7">goût</INGRED> personnel. Pendant tout ce temps, la <INGRED id="4">viande</INGRED> sera retournée plusieurs fois dans son <INGRED id="8">bain</INGRED>. Cuisson. <OPER id="o_9">Retirer</OPER> le sanglier et l’ <OPER id="o_10">éponger</OPER> dans du <INGRED id="19">papier</INGRED> absorbant. L’ <OPER id="o_11">enduire</OPER> entièrement de moutarde, puis de <INGRED id="4">crème fraiche</INGRED>. <OPER id="o_12">Déposer</OPER> le <INGRED id="12">filet</INGRED> ainsi préparé dans un <INGRED id="9">plat</INGRED> à feu, <OPER id="o_13">saler</OPER> et <OPER id="o_14">poivrer</OPER>. <OPER id="o_15">Mettre</OPER> à four chaud pendant ( th 8) pendant 40 min, <OPER id="o_16">arroser</OPER> plusieurs fois pendant la cuisson. <OPER id="o_17">Verser</OPER> la marinade passée, dans une casserole sur le feu et <INGRED id="10">faire</INGRED> réduire de 2/3. <OPER id="o_18">Retirer</OPER> le rôti sur un <INGRED id="9">plat</INGRED> chaud. <OPER id="o_19">Déglacer</OPER> le <INGRED id="8">fond</INGRED> de cuisson avec le <INGRED id="1">reste</INGRED> de marinade, <OPER id="o_2016">ajouter</OPER> de la <INGRED id="6">gelée de groseille</INGRED>, donner un <INGRED id="6">bouillon</INGRED> et servir en saucière. la pièce de <INGRED id="1">viande</INGRED> peut être beaucoup plus grosse, j'ai utilisé une <INGRED id="8">épaule</INGRED> de sanglier <INGRED id="8">vin rouge</INGRED> ( Chambertin )
+  </annotation>
+  <annotation methode="crf">
+  Piquer le <INGRED>filet</INGRED> de sanglier avec les <INGRED>lardons</INGRED>. Assaisonner la pièce à mariner de <INGRED>sel</INGRED> et de <INGRED>poivre</INGRED>. Dans un grand récipient non métallique à la mesure de la pièce de <INGRED>viande</INGRED> <INGRED>,</INGRED> placer la moitié des <INGRED>aromates</INGRED> émincés <INGRED>,</INGRED> poser la pièce à mariner par - dessus puis le <INGRED>reste</INGRED> des <INGRED>aromates</INGRED> <INGRED>.</INGRED> Recouvrir le tout avec le <INGRED>vin</INGRED> <INGRED>,</INGRED> le <INGRED>vinaigre</INGRED> et l’ <INGRED>huile</INGRED>. Ranger le récipient au <INGRED>frais</INGRED> pendant 24 à 48 heures <INGRED>,</INGRED> <INGRED>ou</INGRED> plus suivant la saison <INGRED>,</INGRED> la recette prévue et le goût personnel. Pendant tout ce temps <INGRED>,</INGRED> la <INGRED>viande</INGRED> sera retournée plusieurs fois dans son bain. Cuisson. Retirer le <INGRED>sanglier</INGRED> et l’ éponger dans du papier absorbant. L’ enduire entièrement de <INGRED>moutarde</INGRED> <INGRED>,</INGRED> puis de <INGRED>crème fraiche</INGRED>. Déposer le <INGRED>filet</INGRED> ainsi préparé dans un plat à feu <INGRED>,</INGRED> saler et poivrer. Mettre à four chaud pendant ( th 8) pendant 40 min <INGRED>,</INGRED> arroser plusieurs fois pendant la cuisson. Verser la marinade passée <INGRED>,</INGRED> dans une casserole sur le feu et faire réduire de 2/3. Retirer le <INGRED>rôti</INGRED> sur un plat chaud <INGRED>.</INGRED> Déglacer le <INGRED>fond</INGRED> de cuisson avec le <INGRED>reste</INGRED> de marinade <INGRED>,</INGRED> ajouter de la <INGRED>gelée de groseille</INGRED> <INGRED>,</INGRED> donner un <INGRED>bouillon</INGRED> et servir en saucière. la pièce de <INGRED>viande</INGRED> peut être beaucoup plus grosse <INGRED>,</INGRED> j'ai utilisé une épaule de <INGRED>sanglier</INGRED> <INGRED>vin rouge</INGRED> ( Chambertin )
+  </annotation>
+  <complexite>
+    <temps>f(X) = 17.0967741935484*X + 2.90322580645161</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 53*X + 13</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['filet de sanglier', 'filet']	 id:1	 quantité:1	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['lardons']	 id:2	 quantité:12	 unité:non_precis	 denombrable:True	 recipient:12*X
+ingredient:['moutarde']	 id:3	 quantité:5	 unité:cuillères à soupe de	 denombrable:True	 recipient:5*X
+ingredient:['crème fraiche', 'crème']	 id:4	 quantité:10	 unité:cuillères à soupe de	 denombrable:True	 recipient:10*X
+ingredient:['beurre']	 id:5	 quantité:20	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['gelée de groseille', 'gelée']	 id:6	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['sel poivre', 'sel']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['vin rouge', 'vin']	 id:8	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['vinaigre de vin', 'vinaigre']	 id:9	 quantité:8	 unité:cuillères à soupe de	 denombrable:True	 recipient:8*X
+ingredient:['huile']	 id:10	 quantité:4	 unité:cuillères à soupe d'	 denombrable:True	 recipient:4*X
+ingredient:['carottes']	 id:11	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['oignons']	 id:12	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['échalotes']	 id:13	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['ail']	 id:14	 quantité:2	 unité:gousses d'	 denombrable:True	 recipient:2*X
+ingredient:['persil']	 id:15	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['laurier']	 id:16	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['thym']	 id:17	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:18	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:19	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:piquer	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:assaisonner	 id:o_2	 ingrédients_ralatifs:['10', '11']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mariner	 id:o_3	 ingrédients_ralatifs:['10', '11']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:placer	 id:o_4	 ingrédients_ralatifs:['4', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poser	 id:o_5	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mariner	 id:o_6	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:recouvrir	 id:o_7	 ingrédients_ralatifs:['12', '9', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ranger	 id:o_8	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_9	 ingrédients_ralatifs:['19']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:éponger	 id:o_10	 ingrédients_ralatifs:['19']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enduire	 id:o_11	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déposer	 id:o_12	 ingrédients_ralatifs:['12', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:saler	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:arroser	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_17	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_18	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déglacer	 id:o_19	 ingrédients_ralatifs:['8', '1', '16', '6', '6']	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:ajouter	 id:o_20	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

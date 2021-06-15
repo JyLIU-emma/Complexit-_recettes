@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27390">
+  <titre>Maquereaux au sel et petits légumes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 maquereaux</p>
+    <p>gros sel</p>
+    <p>2 carottes nouvelles</p>
+    <p>3 oignons</p>
+    <p>15 cl de vin blanc</p>
+    <p>15 cl de vinaigre</p>
+    <p>1 feuille de laurier</p>
+    <p>2 branches de thym</p>
+    <p>quelques grains de poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer et gratter les maquereaux sous l’eau froide, puis les essuyer à l’aide de papier absorbant.
+    Les disposer dans un plat et les recouvrir de gros sel.
+    Laisser reposer 6 heures.
+    Préchauffer votre four à 180°C (thermostat 6).
+    Peler les carottes et l’oignon puis les détailler en fines rondelles.
+    Jeter le gros sel recouvrant les maquereaux et les rincer sous l’eau.
+    Tapisser le fond d’un plat avec la moitié des légumes, la feuille de laurier et le temps.
+    Y déposer les maquereaux puis les mouiller à hauteur, de vin et de vinaigre, puis recouvrir du reste de légumes.
+    Enfourner à four chaud pendant 20 minutes.
+    Laisser refroidir à température ambiante.
+  ]]>
+  </preparation>
+</recette>

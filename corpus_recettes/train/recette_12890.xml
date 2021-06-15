@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12890">
+  <titre>Brownie vite fait</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 oeufs</p>
+    <p>100 g sucre en poudre</p>
+    <p>100 g chocolat pâtissier</p>
+    <p>100 g de beurre</p>
+    <p>50 g de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les oeuf entiers avec le sucre et la farine. Faire fondre le chocolat avec le beurre.
+    Ecraser (concasser) grossièrement des noix ou des amandes ou des noix de pécan. Mélanger le tout.
+    Beurrer un moule. Verser dans le moule (ça ne doit pas être trop épais).
+    Mettre au four (préchauffé 10 mn) à thermostat 6/7 (200°C) pensant 15 à 20 mn, selon le moelleux souhaité (le gâteau est cuit quand le dessus se crevasse).
+    Très vite fait, très vite cuit.
+    Je fais souvent cette recette de brownie sans les noix pour en faire un simple gâteau au chocolat.
+  ]]>
+  </preparation>
+</recette>

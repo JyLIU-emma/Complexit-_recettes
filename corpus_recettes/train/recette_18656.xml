@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18656">
+  <titre>Escalope de veau sauce citronnée</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 escalopes de veau</p>
+    <p>4 cuillères à soupe de farine</p>
+    <p>3 citrons non traités</p>
+    <p>15 cl de vin blanc sec</p>
+    <p>2 cuillères à soupe de persil haché</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>50 g de beurre</p>
+    <p>sel poivre au moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Posez les escalopes entre deux morceaux de film plastiques ménager et aplatissez les au rouleau à patisserie. Passez les dans la farine et secouez les pour éliminer l'excédent. 
+    Prélevez le zeste et le jus d'un citron. Coupez les citrons restants en quartiers. 
+    Versez le zeste, le jus de citron et le vin dans un poêlon, portez à ébullition pendant 5 mn, salez poivrez ajoutez le persil haché et réservez au chaud. 
+    Faites cuire les escalopes 3 mn de chaque côté dans l'huile et le beurre chauds, jusqu'à ce qu'elles soient bien dorées. Salez et poivrez. 
+    Répartissez les escalopes sur les assiettes, nappez de sauce et décorez avec les quartiers de citron.
+    Accompagnez de tagliatelles
+  ]]>
+  </preparation>
+</recette>

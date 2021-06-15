@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22925">
+  <titre>Sauté de porc provençal aux câpres</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,5 kg de porc (épaule, échine)</p>
+    <p>1 oignon</p>
+    <p>1 branche de céleri</p>
+    <p>5 feuilles de sauge</p>
+    <p>2 feuilles de laurier</p>
+    <p>1 brin de thym</p>
+    <p>2 cuillères à soupe de câpres</p>
+    <p>3 cornichons</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>20 cl de vin blanc</p>
+    <p>1 cuillerée à soupe d'huile</p>
+    <p>30 g de beurre</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découpez la viande en gros dés. 
+    Pelez et hachez l'oignon, émincez le céleri.
+    Faites chauffer l'huile et le beurre dans une cocotte, faites-y colorer les morceaux de porc sur toutes leurs faces.
+    Assaisonnez et rajoutez l'oignon et le céleri, la sauge, le thym et le laurier.
+    Remuez et laissez dorer.
+    Saupoudrez de farine, remuez et versez le vin et 10 cl d'eau.
+    Couvrez la cocotte et laissez mijoter 1 h 30 à feu doux.
+    Retirez les morceaux de porc de la cocotte et réservez au chaud. 
+    Mettez les câpres et les cornichons émincés dans la cocotte, remuez et ajoutez les jaunes d'oeufs hors du feu en mélangeant.
+    Remettez la viande dans la cocotte, mélangez un peu et versez le tout dans le plat de service.
+    Accompagnez ce plat de riz ou de purée de céleri et brocolis.
+  ]]>
+  </preparation>
+</recette>

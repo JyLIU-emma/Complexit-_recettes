@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19088">
+  <titre>Salade Dominique</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pomme</p>
+    <p>1 pamplemousse rose</p>
+    <p>2 endives</p>
+    <p>1 morceau de concombre</p>
+    <p>1 yaourt allégé</p>
+    <p>1 cuillère à café de moutarde</p>
+    <p>1 jus de citron</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>quelques baies roses</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire une sauce avec le yaourt, le jus de citron, la moutarde et les épices et couper les légumes et fruits en petits morceaux dans la sauce. 
+    Recette diététique à servir très fraiche.
+  ]]>
+  </preparation>
+</recette>

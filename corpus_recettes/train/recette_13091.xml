@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13091">
+  <titre>Bouillie bretonne ou normande</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 l de lait</p>
+    <p>1 kg de farine de sarrasin</p>
+    <p>1 cuillère à café de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Bien mélanger bien tous les ingrédients.
+    Cuire, à feu doux, sans cesser de tourner pendant 30 mn environ.
+    Déguster chaud.
+    Cette recette ancienne se servait en plat principal dans les familles pauvres.
+  ]]>
+  </preparation>
+</recette>

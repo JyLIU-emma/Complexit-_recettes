@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24941">
+  <titre>Tarte au crabe</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>4 oeufs</p>
+    <p>2 cuillères à soupe de concentré de tomates</p>
+    <p>1 boîte de 200 g de miettes de crabes </p>
+    <p>1 boîte de 200 g de crevettes</p>
+    <p>125 g de crème fraîche</p>
+    <p>sel, poivre </p>
+    <p>1 gousse d'ail</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les oeufs, le crabe, les crevettes, la crème fraîche et le concentré de tomates, saler et poivrer. 
+    Couper l'ail en 2 et frottez votre plat à tarte avec. 
+    Posez votre pâte brisée et mettre votre préparation. 
+    Mettre au four thermostat 6/7 pendant 35 mn.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25532">
+  <titre>Omelette lorraine</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>150 g de lardons fumés</p>
+    <p>12 oeufs</p>
+    <p>6 oignons</p>
+    <p>20 g de beurre</p>
+    <p>15 g de crème fraîche</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>3 cuillères à soupe d'eau</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Émincer les oignons et les faire revenir avec les lardons dans un mélange beurre et huile.
+     Battre les oeufs en omelette et y incorporer l’eau. Assaisonner.
+    Ajouter les oignons et les lardons et faire prendre l’omelette dans une poêle. La plier en deux et servir.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26898">
+  <titre>Poularde farcie rôtie et sauce aux champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1 poularde</p>
+    <p>300 g de hachis de veau</p>
+    <p>250 g de champignons</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>25 cl de crème fraîche</p>
+    <p>100 g de beurre</p>
+    <p>5 cl de cognac</p>
+    <p>5 cl de porto</p>
+    <p>quelques lamelles de truffes</p>
+    <p>sel, poivre</p>
+    <p>noix de muscade râpée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez la viande de veau hachée avec les jaunes d'oeufs, du sel, du poivre et de la muscade. Farcissez la poularde avec cette farce et mettez-la dans un plat à four beurré.
+    Beurrez-la de toutes parts et enfournez pour 1 h 30 au four à 180°C (thermostat 6). Arrosez-la souvent du jus rendu. 
+    Grattez et nettoyez les champignons. Faites-les cuire 10 min à l'eau bouillante salée. Egouttez et résezvez le jus de cuisson.
+    Sortez la poularde du four, retirez-la du plat et déglacez celui-ci avec le cognac et le porto en grattant bien à la spatule.
+    Versez dans une casserole, ajoutez la crème et un peu d'eau de cuisson des champignons. Laissez réduire à feu doux puis ajoutez les champignons. Salez, poivrez et versez la sauce sur la poularde découpée. Décorez de lamelles de truffes et servez avec des pommes noisettes ou des tagliatelles fraîches.
+  ]]>
+  </preparation>
+</recette>

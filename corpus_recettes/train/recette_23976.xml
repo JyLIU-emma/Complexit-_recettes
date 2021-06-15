@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23976">
+  <titre>Gratin de macaronis au boursin</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de macaronis</p>
+    <p>1 boursin Ail et Fines Herbes</p>
+    <p>150 g de jambon en dés/allumettes</p>
+    <p>3 oeufs</p>
+    <p>6 cuillères à soupe de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les macaronis à l'eau. Préchauffer le four à 180°C. Les égoutter soigneusement. Les mélanger avec le jambon blanc et les déposer dans un plat à gratin.
+    Mélanger le boursin, la crème fraîche et les oeufs. Saler, poivrer et verser cette préparation sur les macaronis.
+    Emietter du boursin sur le gratin pour plus de goût. Faire cuire au four durant 15 minutes.
+  ]]>
+  </preparation>
+</recette>

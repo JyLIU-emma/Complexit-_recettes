@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16457">
+  <titre>Fiadone</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>450 g de bruccio (brocciu) ou fromage frais de brebis corse</p>
+    <p>5 oeufs</p>
+    <p>300 g de sucre</p>
+    <p>le zeste râpé d'une orange</p>
+    <p>2 cuillères à soupe d'eau de vie de fruits</p>
+    <p>5 cl de caramel liquide</p>
+    <p>1 cuillère à soupe de sirop d'orgeat</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Verser le caramel dans le fond d'un moule à manqué et le mettre 20 mn au congélateur.
+    Préchauffer le four à thermostat 6 (180°C).
+    Fouetter le sucre avec 2 oeufs entiers et 3 jaunes. Ajouter le fromage, puis le zeste d'orange, l'eau de vie et le sirop d'orgeat. Bien mélanger.
+    Incorporer les 3 blancs battus en neige avec une pincée de sel.
+    Verser dans le moule et faites cuire 40 mn à thermostat 5-6 (170°C) en surveillant le dessus du gâteau.
+    Servir froid.
+  ]]>
+  </preparation>
+</recette>

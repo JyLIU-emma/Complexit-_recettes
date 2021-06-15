@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18351">
+  <titre>Gâteau allemand au fromage blanc</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>5 oeufs,</p>
+    <p>250 g de sucre</p>
+    <p>1/2 litre de lait,</p>
+    <p>500 gr de fromage blanc égoutté,</p>
+    <p>50 gr d'amidon,</p>
+    <p>1 citron (son zeste et son jus)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Séparer les blancs des jaunes d'oeufs. Mélanger les jaunes avec le sucre, jus et zeste de citron, l'amidon, le fromage et le lait.
+    Mélanger le tout petit à petit. Battre les blance en neige ferme et incorporer au mélange tout doucement.
+    Graisser un moule et y mettre la pâte en prenant soin de bien recouvrir les bords du moule. Y déposer la crême et mettre au four à 200°C pendant 45 min.
+  ]]>
+  </preparation>
+</recette>

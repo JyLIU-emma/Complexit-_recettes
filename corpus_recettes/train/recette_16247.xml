@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16247">
+  <titre>Boeuf braisé à la Guinness</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 cuillères à soupe d’huile</p>
+    <p>2 feuilles de laurier</p>
+    <p>1,250 kg de boeuf à braiser en morceaux</p>
+    <p>1 gros oignon émincé</p>
+    <p>2 cuillères à soupe de farine assaisonnée</p>
+    <p>150 ml de Guinness</p>
+    <p>sel et poivre</p>
+    <p>225 g de carottes en tronçons</p>
+    <p>1 cuillère à soupe de persil hâché</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Chauffer l’huile, y jeter les feuilles de laurier, ajouter le bœuf puis faire colorer rapidement. Mettre de côté, ajouter  les oignons, et les faire suer.
+    Saupoudrer avec la farine et faire colorer, puis ajouter la Guinness et de l’eau en quantités similaire, ou un peu plus si nécessaire pour recouvrir à peine.
+    Bien assaisonner et ajouter les carottes. Amener à ébullition, puis couvrir et braiser dans un four modéré (160°C ou thermostat 5) pendant 1h30.
+    Vérifier de temps en temps que le ragout ne sèche pas, sinon rajouter un peu de liquide. Vérifier aussi que la viande est assez cuite.
+    Servir parsemé du persil hâché.
+    Idéal pour une soirée de Saint-Patrick entre amis. Guinness
+  ]]>
+  </preparation>
+</recette>

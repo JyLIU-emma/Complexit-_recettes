@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20506">
+  <titre>Mousse au chocolat (spécial micro-ondes)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g chocolat dessert</p>
+    <p>25 g de beurre</p>
+    <p>5 oeufs</p>
+    <p>2 cuillères à soupe de sucre en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier mettez le chocolat cassé en petits morceaux puis 5 cuillères à soupe d'eau. 
+    Chauffez le tout au micro-ondes pendant 2 à 3 min (puissance moyen). Une fois que le chocolat à fondu mélangez le tout pendant quelques minutes. 
+    Incorporez les jaunes d'oeufs ainsi que le sucre et touillez encore une fois. Ensuite battez les blancs en neige pendant 5 min environ avec une pincée de sel à l'aide d'un batteur ou d'un robot. 
+    Puis les ajouter avec le chocolat et touillez délicatement. Laissez quelques heures dans le frigo.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14078">
+  <titre>Tourte des templiers</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>2 cuisses de canard confit</p>
+    <p>1 chou vert</p>
+    <p>4 carottes</p>
+    <p>200 grammes de cèpes</p>
+    <p>200 grammes de pâte brisée</p>
+    <p>1 litre de vin rouge(type Bergerac)</p>
+    <p>1 verre d'eau de vie de prune</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer le chou, faire mariner 24 heures dans le vin rouge.
+    Couper les carottes en rondelles,cuire 10 mn dans l'eau bouillante.
+    Faire suer les cèpes dans la graisse de canard.
+    Détacher la chair des cuisses de canard.
+    Egoutter le chou vert.
+    Garnir un plat à four avec la pâte brisée, puis garnir avec les légumes et la viande de canard. Salez et poivrez.
+    Recouvrir les bords de pâte pour former une tourte, en ménageant une cheminée au milieu.
+    Cuire au four thermostat 7 pendant 30 à 40 mn.
+    Au sortir du four, flambez la tourte avec l'eau de vie de prune. Servez immédiatement.
+     Bergerac ou Cahors rouge
+  ]]>
+  </preparation>
+</recette>

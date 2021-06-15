@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21088">
+  <titre>Crevettes sautées à l'ananas</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de crevettes</p>
+    <p>200 g d'ananas</p>
+    <p>8 petites tomates</p>
+    <p>8 mini concombres</p>
+    <p>8 gousses d'ail</p>
+    <p>4 piments</p>
+    <p>2 bouquets de ciboulette</p>
+    <p>2 oignons</p>
+    <p>1 tasse d'huile</p>
+    <p>2 cuillères à café de fumet de poisson concentré</p>
+    <p>2 cuillères à soupe de ketchup</p>
+    <p>1 cuillère à café de vinaigre</p>
+    <p>sucre</p>
+    <p>poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole, faire chauffer l'huile et y faire revenir pendant 3 min l'ail émincé, les crevettes décortiquées, l'ananas et les légumes coupés en mirepoix, les oignons ciselés, le piment, le fumet de poisson, le ketchup, le vinaigre et une pincée de sucre. Poivrer.
+    Ajouter la ciboulette et laisser frire 1 min. Servir avec un riz créole.
+  ]]>
+  </preparation>
+</recette>

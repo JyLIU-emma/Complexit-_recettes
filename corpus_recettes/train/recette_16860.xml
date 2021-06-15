@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16860">
+  <titre>Fondue des Marolles (cheddar - Gueuze)</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>60 cl de bière gueuze Lambic</p>
+    <p>800 g de cheddar</p>
+    <p>2 cuillères à soupe de fécule de pommes de terre</p>
+    <p>2 cuillères à soupe de lait</p>
+    <p>sel de céleri</p>
+    <p>poivre</p>
+    <p>tranches épaisses de pain de campagne</p>
+    <p>1 céleri blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper le fromage en cubes. Verser dans un poêlon.
+    Ajouter la Gueuze, le sel de céleri et le poivre.
+    Nettoyer le céleri. Couper les côtes en tronçons d'environ 2 cm.
+    Couper le pain en cubes. Délayer la fécule dans le lait. Incorporer à la fondue pour lier.
+    Verser la fondue dans le caquelon et poser sur le réchaud.
+    Piquer un morceau de céléri et un morceau de pain. Tremper dans la fondue.
+  ]]>
+  </preparation>
+</recette>

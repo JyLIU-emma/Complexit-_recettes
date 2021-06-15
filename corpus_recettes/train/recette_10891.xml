@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10891">
+  <titre>Soupe à l'oignon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 gros oignons</p>
+    <p>50 g de beurre</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>25 cl de vin blanc</p>
+    <p>1 l d'eau</p>
+    <p>sel, poivre, </p>
+    <p>6 tranches de pains de mie</p>
+    <p>100 g de comté râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez et émincez les oignons, faites-les revenir dans le mélange beurre, huile.
+    Saupoudrez le mélange de farine, mouillez d'eau chaude et de vin blanc et assaisonnez.
+    Couvrez et laissez bouillonner doucement pendant 20 minutes.
+    Faites grillez le pain, disposez chaque tranche dans le fond de 4 petits bols individuels supportant le passage au four.
+    Saupoudrez d'un peu de fromage râpé. Versez la soupe par-dessus.
+    Saupoudrez à nouveau de fromage et faites gratiner. vin blanc: mercurey
+  ]]>
+  </preparation>
+</recette>

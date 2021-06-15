@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13117">
+  <titre>Streusel (Allemagne)</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte levée :</p>
+    <p>300 g de farine</p>
+    <p>100 g de beurre</p>
+    <p>1 oeuf</p>
+    <p>20 g de sucre</p>
+    <p>12 g de levure de bière</p>
+    <p>10 cl de lait tiède</p>
+    <p>Pour le streusel :</p>
+    <p>100 g de beurre</p>
+    <p>125 g de farine</p>
+    <p>50 g de sucre</p>
+    <p>1 pincée de cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la veille la pâte levée.
+    Préparation du streusel : faire fondre le beurre, ajouter la farine, mélanger rapidement puis verser le sucre et la cannelle, laisser refroidir puis hâcher finement la préparation.
+    Abaisser la pâte sur 3 cm, la placer dans une toutière, mouiller le dessus et recouvrir d'une couche de Streusel très épaisse.
+    Cuire à four moyen (180°C). vin blanc type Gewürztraminer
+  ]]>
+  </preparation>
+</recette>

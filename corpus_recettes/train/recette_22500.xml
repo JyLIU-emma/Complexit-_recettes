@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22500">
+  <titre>Pain aux bananes et aux noix</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>125 g de beurre</p>
+    <p>125 g de sucre</p>
+    <p>2 oeufs</p>
+    <p>75 g de noix hachées</p>
+    <p>3 bananes</p>
+    <p>1 sachet de levure</p>
+    <p>1 cuillère à café de cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Travailler le beurre et le sucre avec les doigts jusqu'à ce qu'ils soient crémeux. 
+    Ajouter les oeufs battus puis les bananes coupées en rondelles (elles s'écraseront au fil du mélange). Incorporer la farine avec la levure et la cannelle. Mettre les noix hachées.
+    Verser la pâte dans un moule à cake beurré et faire cuire dans un four préchauffé 180°C pendant 1h à 1h15 .
+  ]]>
+  </preparation>
+</recette>

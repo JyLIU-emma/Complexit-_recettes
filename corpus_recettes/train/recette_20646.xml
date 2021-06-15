@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20646">
+  <titre>Chaussons au chèvre et à la menthe</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>150 g de fromage de chèvre frais</p>
+    <p>sel et poivre</p>
+    <p>6 feuilles de menthe</p>
+    <p>1 jaune d'oeuf (pour dorer)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (thermostat 7).
+    Etaler la pâte feuilletée au rouleau et la découper en 6 grands ronds.
+    Ecraser le fromage avec la menthe ciselée, du sel et du poivre. Répartir cette préparation sur les ronds de pâte.
+    Refermer les ronds de pâte sur eux-mêmes puis les badigeonner de jaune d'oeuf.
+    Enfourner pour 30 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

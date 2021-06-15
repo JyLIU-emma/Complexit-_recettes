@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20842">
+  <titre>Gratin de blettes à la béchamel facile</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de blettes</p>
+    <p>40 g de beurre</p>
+    <p>30 g de farine</p>
+    <p>50 cl de lait</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>60 g de gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les blettes coupées en tronçons 30 minutes à l'eau bouillante salée. Les égoutter et les hacher.
+     
+    Préchauffer le four à 210°C (thermostat 7). 
+    Faire blondir la farine dans le beurre fondu sur feu moyen. Verser le lait et laisser épaissir en remuant sans cesse. Assaisonner, retirer du feu et ajouter les jaunes d'oeufs et le gruyère.
+    Incorporer le hachis de blettes, mélanger et verser dans un plat à gratin beurré.
+    Enfourner 15 minutes.
+  ]]>
+  </preparation>
+</recette>

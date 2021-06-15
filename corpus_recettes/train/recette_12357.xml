@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12357">
+  <titre>Filet de porc aigre-doux</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400g de filet de porc</p>
+    <p>3 cas de Maizena</p>
+    <p>4 cas d'huile</p>
+    <p>1 gousse d'ail</p>
+    <p>1 oignon</p>
+    <p>1 poivron rouge et 1 vert</p>
+    <p>4 rondelles d'ananas au sirop</p>
+    <p>2 cas de vinaigre</p>
+    <p>2 cas de sauce au soja</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Farinez les cubes de porc avec 1 cas de Maizena.
+    Faites-les revenir dans l'huile, 20mn en remuant. Egouttez les morceaux. A la place, faites rissoler l'ail hache,l'oignon emince et les poivrons en des.
+    Versez le vinaigre et la sauce soja, cuisez 3mn.
+    Remettez la viande, les morceaux d'ananas et 2cas de Maizena dissoutes dans 10cl de sirop d'ananas.
+    Laissez epaissir 2mn.
+    Le porc peut être remplacé par du blanc de poulet, de dinde ou bien des crevettes.
+  ]]>
+  </preparation>
+</recette>

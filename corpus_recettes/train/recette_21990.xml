@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21990">
+  <titre>Salade de concombres et jambon à la mayonnaise</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 concombres</p>
+    <p>12 tranches de jambon</p>
+    <p>3 tomates</p>
+    <p>12 olives noires</p>
+    <p>2 échalotes</p>
+    <p>2 gousses d'ail</p>
+    <p>mayonnaise</p>
+    <p>persil haché</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et couper les concombres en fines rondelles, puis les mettre à dégorger 1 h avec du sel.
+    Pendant ce temps, éplucher et hacher les échalotes, l'ail et le persil frais puis couper le jambon en fines lamelles.
+    Rincer ensuite les concombres sous l'eau froide, puis les essuyer.
+    Mélanger le jambon au hachis d'échalotes, ail et fines herbes.
+    Sur un plat de service, dresser les concombres en couronne, puis verser le mélange de jambon au centre du plat. Parsemer de persil haché, puis décorer avec les olives noires.
+    Servir avec la mayonnaise en saucière et déguster bien frais.
+  ]]>
+  </preparation>
+</recette>

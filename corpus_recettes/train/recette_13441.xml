@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13441">
+  <titre>Navets glacés</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de petits navets ronds</p>
+    <p>70g de beurre</p>
+    <p>1 pincée de sucre en poudre</p>
+    <p>vinaigre de vin</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Épluchez les navets, coupez-les s'ils sont un peu gros.
+    Lavez-les. Plongez-les juste 5mn dans de l'eau en ébullition. Egoutez-les.
+    Faire fondre 30 g de beurre dans une cocotte. Mettez-y les navets à dorer légèrement sur toutes leurs faces, à feu très doux. Ajoutez-y 3 verres d'eau, du sel, du poivre. Couvrez et laissez cuire de 30 à 40 mn selon la grosseur des navets.
+    Egouttez les navets dès qu'ils sont cuits mais encore fermes. Videz le jus resté dans la cocotte. A la place, mettez-y 40g de beurre à fondre, les navets égouttés et le sucre. Laissez colorer légèrement. Ajoutez quelques gouttes de vinaigre de vin.
+    Présentez avec des fines herbes hachées.
+  ]]>
+  </preparation>
+</recette>

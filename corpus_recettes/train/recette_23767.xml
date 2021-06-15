@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23767">
+  <titre>Gâteau au vin blanc façon grand-mère</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 oeufs entiers</p>
+    <p>250g de farine</p>
+    <p>1 sachet de levure</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 verre de sucre</p>
+    <p>1 verre de vin blanc</p>
+    <p>3/4 d'un verre d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre tous les ingrédients dans un grand saladier (ou dans un robot pour ceux qui en ont un) et mélanger le tout à l'aide d'un batteur c'est plus facile.
+    Beurrer et fariner un moule à cake.
+    Incorporer la pâte et enfourner pour 35 mn dans un four préchauffé à 180°C.
+    Ce gâteau est bien moelleux quand il est réussi et se mange volontier pour accompagner le café.
+  ]]>
+  </preparation>
+</recette>

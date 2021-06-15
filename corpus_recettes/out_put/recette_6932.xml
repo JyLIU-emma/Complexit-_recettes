@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="6932">
+  <titre>Chaussons frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 pâtes feuilletées</p>
+    <p>quelques Carrés Frais </p>
+    <p>herbes</p>
+    <p>1 jaune d'oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer une pâte feuilletée, l'applatir, et faire plusieurs petits ronds dedans (avec un couvercle de confiture, par exemple). 
+    Mélanger les Carré frais avec les herbes (ciboulette).
+    Prendre la préparation à base de Carré Frais avec une cuillère, et  la poser sur les ronds de pâte.
+    Refermer les ronds en demi-lune, presser les côtés avec les doigts.
+    Badigeonner un peu de jaune d'oeuf battu sur chaque chausson.
+    Et mettre le tout 15 min au four, à 180°C (thermostat 6). 
+    Une petite entrée simple, mais quel délice et quel plaisir!
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Préparer</OPER> une <INGRED id="1">pâte feuilletée</INGRED>, l'<OPER id="o_2">applatir</OPER>, et faire plusieurs petits ronds dedans ( avec un couvercle de confiture, par exemple ). <OPER id="o_3">Mélanger</OPER> les <INGRED id="3">Carré frais</INGRED> avec les herbes ( <INGRED id="2">ciboulette</INGRED> ). <OPER id="o_4">Prendre</OPER> la préparation à base de Carré Frais avec une cuillère, et la <OPER id="o_5">poser</OPER> sur les ronds de <INGRED id="1">pâte</INGRED>. <OPER id="o_6">Refermer</OPER> les ronds en demi-lune, <OPER id="o_7">presser</OPER> les côtés avec les doigts. <OPER id="o_8">Badigeonner</OPER> un peu de jaune d'oeuf battu sur chaque chausson. Et <OPER id="o_9">mettre</OPER> le tout 15 min au four, à 180 ° C ( thermostat 6 ). Une petite entrée simple, mais quel délice et quel plaisir !
+  </annotation>
+  <annotation methode="crf">
+  Préparer une <INGRED>pâte feuilletée</INGRED> <INGRED>,</INGRED> l'applatir <INGRED>,</INGRED> et faire plusieurs <INGRED>petits</INGRED> ronds dedans ( avec un couvercle de <INGRED>confiture</INGRED> <INGRED>,</INGRED> par exemple ). Mélanger les <INGRED>Carré</INGRED> <INGRED>frais</INGRED> avec les <INGRED>herbes</INGRED> ( <INGRED>ciboulette</INGRED> ). Prendre la préparation à base de Carré Frais avec une cuillère <INGRED>,</INGRED> et la poser sur les ronds de <INGRED>pâte</INGRED> <INGRED>.</INGRED> Refermer les ronds en demi-lune <INGRED>,</INGRED> presser les côtés avec les doigts. Badigeonner un peu de <INGRED>jaune d'oeuf</INGRED> battu sur chaque chausson. Et mettre le tout 15 min au four <INGRED>,</INGRED> à 180 ° C ( thermostat 6 ). Une <INGRED>petite</INGRED> entrée simple <INGRED>,</INGRED> mais quel délice et quel plaisir !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 5.4*X + 3.6</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 3*X + 4</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pâtes feuilletées', 'pâtes']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['Carrés Frais', 'Carrés']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['herbes']	 id:3	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["jaune d'oeuf", 'jaune']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préparer	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:applatir	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:['3', '2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:prendre	 id:o_4	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poser	 id:o_5	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refermer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:presser	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:badigeonner	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

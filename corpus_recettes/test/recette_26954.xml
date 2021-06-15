@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26954">
+  <titre>Cocotte de pommes de terre paysanne</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de pommes de terre</p>
+    <p>100 g de lardons</p>
+    <p>2 oignons</p>
+    <p>20 g de farine</p>
+    <p>50 g de beurre</p>
+    <p>1 verre de bouillon</p>
+    <p>persil haché</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez et émincez les oignons. 
+    Faites-les revenir dans une cocotte-minute avec le beurre. 
+    Ajoutez les pommes de terre pelées et coupées en quartiers, les lardons, salez et poivrez.
+    Saupoudrez de farine, mélangez et arrosez de bouillon.
+    Fermez la cocotte et laissez cuire 10 minutes dès la mise en rotation de la
+    soupape.
+    Saupoudrez de persil avant de servir.
+  ]]>
+  </preparation>
+</recette>

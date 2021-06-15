@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20585">
+  <titre>Pintade au cidre et aux raisins</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pintade</p>
+    <p>50 g de beurre</p>
+    <p>12 noix décortiquées</p>
+    <p>1 verre de cidre</p>
+    <p>1 cube de bouillon de volaille</p>
+    <p>1 verre à liqueur de calvados</p>
+    <p>50 g de crème fraîche</p>
+    <p>sel et poivre</p>
+    <p>50 g de raisins de Smyrne</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites tremper les raisins dans de l'eau chaude pour les réhydrater.
+    Dans le beurre fondu, mettez la pintade bardée, les noix, le cidre, l'eau (dans la quelle vous aurez délayée la tablette de bouillon), le calvados, la crème fraîche, le sel et le poivre.
+    Cuisez doucement 30 min à découvert.
+    Ajoutez les raisins, et cuisez encore 20 min.
+    En fin de cuisson, sortez la pintade, retirez la barde, faites-la colorer 10 min (ou plus selon la cuisson), au four à 200°C (thermostat 6-7).
+    Servez sans attendre avec la sauce légèrement réduite.
+  ]]>
+  </preparation>
+</recette>

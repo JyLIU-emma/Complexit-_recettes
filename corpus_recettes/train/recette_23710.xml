@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23710">
+  <titre>Tarte banane et chocolat blanc</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 grosses bananes</p>
+    <p>1 pâte sablée</p>
+    <p>200 g de chocolat blanc</p>
+    <p>50 g de noix de coco râpée</p>
+    <p>1 cuillère à soupe de rhum</p>
+    <p>100 g de sucre</p>
+    <p>50 cl de crème fraîche épaisse</p>
+    <p>20 cl de crème liquide</p>
+    <p>5 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etalez la pâte dans un moule à tarte.
+    Faites fondre le chocolat blanc avec la crème liquide. Hors du feu, ajoutez un oeuf et la noix de coco. Mélangez.
+    Etalez cette garniture sur la pâte.
+    Epluchez les bananes et coupez les en rondelles assez épaisses.
+    Répartissez harmonieusement les bananes sur la pâte en rang serré.
+    Dans un saladier, mélangez 4 oeufs avec le sucre et 3 grosses cuillères à soupe de crème.
+    Ajoutez le rhum. Répartissez cette préparation sur les bananes.
+    Faites cuire 35 mn à thermostat 6 (180°C).
+    Servez tiède ou froid.
+  ]]>
+  </preparation>
+</recette>

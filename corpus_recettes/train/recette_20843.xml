@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20843">
+  <titre>Coquilles Saint-Jacques gratinées au vin blanc</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>12 coquilles St Jacques</p>
+    <p>1 oignon</p>
+    <p>1 échalote</p>
+    <p>150 g de mie de pain</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>2 cuillères à soupe de chapelure</p>
+    <p>1 cuillère à soupe de persil haché</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et préparer les noix de Saint-Jacques : réserver les coquilles creuses, les coraux et les noix.
+    Hacher l'oignon et l'échalote, ainsi que le pain de mie.
+    Dans une poêle, faire fondre doucement l'oignon et l'échalote dans un peu de matière grasse. Ajouter ensuite les noix et les coraux.
+    Faire dorer très rapidement chaque face.
+    Ajouter alors le vin, la mie de pain, le persil, saler et poivrer. Mélanger doucement durant 10 min.
+    Garnir les coquilles réservées et les saupoudrer de chapelure.
+    Mettre à gratiner 15 min à four chaud, à 220°C, thermostat 6-7.
+  ]]>
+  </preparation>
+</recette>

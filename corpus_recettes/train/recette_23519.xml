@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23519">
+  <titre>Oeufs pochés à la fondue de légumes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 oeufs</p>
+    <p>50 g de lard</p>
+    <p>2 tomates</p>
+    <p>2 poivrons</p>
+    <p>1 oignon</p>
+    <p>20 cl de vin blanc</p>
+    <p>1 poignée de persil frais haché</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eminez l'oignon, faites-le suer dans une poêle avec un peu d'huile et le lard coupé en lardons.
+    Ajoutez les tomates coupées en morceaux et les poivrons émincés en lanières. Versez le vin blanc, ajoutez le persil, salez et poivrez.
+    Laissez cuire à feu doux 15 minutes.
+    Pochez les oeufs à l'eau bouillante salée et vinaigrée pendant ce temps : plongez-les un à un dans l'eau frémissante à l'aide d'une louche, puis tournez autour avec une cuillère en bois. Retirez-les avec une écumoire quand le blanc est pris.
+    Servez les oeufs pochés sur les légumes fondus.
+  ]]>
+  </preparation>
+</recette>

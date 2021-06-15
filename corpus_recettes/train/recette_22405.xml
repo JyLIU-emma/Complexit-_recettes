@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22405">
+  <titre>Riz au lait à la flamande</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de riz (grains court ou moyens)</p>
+    <p>1 bâton de cannelle</p>
+    <p>70 cl de lait</p>
+    <p>1 pincée de sel</p>
+    <p>6 cuillères à soupe de cassonade</p>
+    <p>20 g de fruits confits</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole, portez à ébullition le riz, le lait, le bâton de cannelle, et une pincée de sel.  
+    Dès que cela commence à bouillir, couvrez, baissez à feu doux, et laissez mijoter 40 min.
+    Mettez dans un plat creux allant au four et saupoudrez de cassonade. 
+    Passez 5 min au four à 200°C (thermostat 6-7)
+    Servez froid avec des fruits confits.
+  ]]>
+  </preparation>
+</recette>

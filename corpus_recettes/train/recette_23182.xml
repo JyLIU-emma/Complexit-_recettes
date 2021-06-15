@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23182">
+  <titre>Crumble du jardin d'été</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de fruits rouges (cassis, groseille, framboise, éventuellement quelques cerises pour adoucir) </p>
+    <p>100 g de rhubarbe</p>
+    <p>180 g de sucre de canne</p>
+    <p>150 g de farine</p>
+    <p>130 g de beurre (dont 5 g pour le moule) </p>
+    <p>un sachet de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les fruits, couper la rhubarbe en fins bâtonnets de 3 cm et les mélanger au sucre vanillé. 
+    Placer les fruits dans un petit moule rectangulaire prélalablement beurré. 
+    Mélanger le beurre ramolli en dés avec les farine et le sucre, le faire avec les doigts est beaucoup plus simple. 
+    Quand la pâte est homogène, l'émietter au-dessus des fruits de manière à couvrir toute la surface. 
+    Mettre à cuire à 210°C pendant 30 à 40 mn.
+    Les fruits s'adoucissent à la cuisson pour un résultat surprenant et avec de la crème chantilly les saveurs s'&quilibrent encore mieux. du champagne!
+  ]]>
+  </preparation>
+</recette>

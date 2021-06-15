@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21716">
+  <titre>Brioche vendéenne</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de farine</p>
+    <p>300 g de sucre</p>
+    <p>250 grde beurre</p>
+    <p>100 g de crème fraîche</p>
+    <p>5 oeufs</p>
+    <p>250 g de pâte à pain fermentée</p>
+    <p>20 g de sel</p>
+    <p>50 g de levure de boulanger</p>
+    <p>eau de vie</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire tiédir très peu de lait pour que la levure fonde. Faire fondre le beurre et mélanger tous les ingrédients. Former une boule et laisser reposer toute une nuit dans un endroit chaud couverte d'un linge. 
+    Le lendemain, former une tresse et laisser reposer 2 heures. 
+    Enfourner à four chaud (180°C) pendant environ 20 mn, suivant les fours.
+    La brioche vendéenne se dégustait autrefois avec du fromage blanc vanillé et de la compote de pommes. Essayez, c'est délicieux!
+  ]]>
+  </preparation>
+</recette>

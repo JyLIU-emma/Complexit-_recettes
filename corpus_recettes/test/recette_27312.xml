@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27312">
+  <titre>Rochers au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de lait concentré sucré</p>
+    <p>200 g de chocolat noir dessert</p>
+    <p>175 g de céréales type Clusters Nestlé</p>
+    <p>1 oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C . 
+    Casser le chocolat et le faire fondre avec 3 cuillères à soupe d'eau, au micro-onde. 
+    Ajouter le lait concentré sucré et l'oeuf battu en omelette. 
+    Mélanger puis incorporer délicatement les céréales. 
+    Disposer des petits tas sur une plaque recouverte de papier sulfurisé et faire cuire 8 à 10 mn. 
+    Laisser refroidir avant de dévorer !!
+  ]]>
+  </preparation>
+</recette>

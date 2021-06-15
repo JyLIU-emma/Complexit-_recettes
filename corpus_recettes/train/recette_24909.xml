@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24909">
+  <titre>Caviar d'aubergine au yaourt de brebis</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,5 kg d'aubergines </p>
+    <p>250 g de yaourt au lait de brebis (grec) </p>
+    <p>20 cl d'huile d'olive </p>
+    <p>5 cl de vinaigre de Xérès </p>
+    <p>3 gousses d'ail </p>
+    <p>1 citron </p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 210°C (thermostat 7).
+    Enfournez les aubergines entières pendant 30 minutes en les retournant de temps en temps. Elles doivent être molles.
+    Epluchez les aubergines et écrasez la chair à l'aide d'une fourchette. Arrosez d'un peu de citron puis ajoutez l'ail haché.
+    Incorporez le yaourt, le vinaigre et l'huile d'olive en fouettant. Rectifiez l'assaisonnement puis laissez refroidir.
+    Servez frais.
+  ]]>
+  </preparation>
+</recette>

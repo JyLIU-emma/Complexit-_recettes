@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22486">
+  <titre>Tarte au citron meringuée (rapide)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>pâte sucrée</p>
+    <p>une boîte de lait concentré sucré</p>
+    <p>3 oeufs</p>
+    <p>2 citrons</p>
+    <p>sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire la pâte à blanc pendant 15 mn à 250°C. 
+     
+    Dans un saladier mélanger la boîte de lait concentré sucré avec le zeste et le jus des 2 citrons, ajouter les jaunes d'oeufs. 
+    Monter les blancs en neige ajouter du sucre glace. 
+    Garnir le fond de tarte avec la crème et recouvrir avec les blancs d'oeufs. 
+    Cuire à nouveau pendant 15 mn à 150°C de façon à colorer la meringue.
+  ]]>
+  </preparation>
+</recette>

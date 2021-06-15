@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165108">
+  <titre>Queues de lotte curry et fruits</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 queues de lottes surgelées 'moins chères)</p>
+    <p>1 pomme golden</p>
+    <p>1 oignon</p>
+    <p>1 banane mûre</p>
+    <p>15 ml de crème fraîche</p>
+    <p>1 à 2 cuillères à café de curry, selon son goût</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer la pomme et l'oignon et faites les revenir à feu doux avec une cuillère d'huile d'olive. Puis ajouter la banane et laisser compoter les fruits. Ajouter un peu d'eau au besoin si cela a tendance à attacher.
+    Pendant ce temps, mettre les queues de lottes non décongelées à la cocotte-minute (environ 5 minutes à partir du moment où la vapeur s'échappe)
+    Quand les fruits se sont bien fondus entre eux, ajouter le curry et bien mélanger, puis incorporer la crème fraîche. Si la sauce est trop épaisse, on peut la délayer avec quelques gouttes d'eau.
+    Quand la lotte est cuite, la faire dorer quelques secondes de chaque côté puis la napper de sauce et servir.Je la sers avec du riz basmati et des endives braisées, dont l'amertume s'accorde parfaitement avec le côté sucré de la sauce.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Emincer</OPER> la <INGRED id="2">pomme</INGRED> et l'<INGRED id="1">oignon</INGRED> et faites les <OPER id="o_2">revenir</OPER> à feu doux avec une cuillère d'huile d'olive. Puis <OPER id="o_3">ajouter</OPER> la <INGRED id="4">banane</INGRED> et laisser <OPER id="o_4">compoter</OPER> les fruits. <OPER id="o_5">Ajouter</OPER> un peu d'<INGRED id="1">eau</INGRED> au besoin si cela a tendance à <OPER id="o_6">attacher</OPER>. Pendant ce temps, <OPER id="o_7">mettre</OPER> les <INGRED id="1">queues</INGRED> de lottes non décongelées à la cocotte - minute ( environ 5 minutes à <OPER id="o_8">partir</OPER> du moment où la vapeur s'échappe ) Quand les fruits se sont bien fondus entre eux, <OPER id="o_9">ajouter</OPER> le <INGRED id="6">curry</INGRED> et bien <OPER id="o_10">mélanger</OPER>, puis <OPER id="o_11">incorporer</OPER> la crème fraîche. Si la <INGRED id="4">sauce</INGRED> est trop épaisse, on peut la <OPER id="o_12">délayer</OPER> avec quelques gouttes d'eau. Quand la lotte est cuite, la faire <OPER id="o_13">dorer</OPER> quelques secondes de chaque côté puis la <OPER id="o_14">napper</OPER> de <INGRED id="4">sauce</INGRED> et servir. Je la sers avec du <INGRED id="1">riz</INGRED> basmati et des endives braisées, dont l'amertume s'accorde parfaitement avec le côté sucré de la <INGRED id="4">sauce</INGRED>.
+  </annotation>
+  <annotation methode="crf">
+  Emincer la <INGRED>pomme</INGRED> et l'<INGRED>oignon</INGRED> et faites les revenir à feu doux avec une cuillère d'<INGRED>huile d'olive</INGRED> <INGRED>.</INGRED> Puis ajouter la <INGRED>banane</INGRED> et laisser compoter les <INGRED>fruits</INGRED>. Ajouter un peu d'<INGRED>eau</INGRED> au besoin si cela <INGRED>a</INGRED> tendance à attacher <INGRED>.</INGRED> Pendant ce temps <INGRED>,</INGRED> mettre les <INGRED>queues</INGRED> de lottes non décongelées à la cocotte - minute ( <INGRED>environ</INGRED> 5 minutes à partir du moment où la vapeur s'échappe ) Quand les <INGRED>fruits</INGRED> se sont bien fondus entre eux <INGRED>,</INGRED> ajouter le <INGRED>curry</INGRED> et bien mélanger <INGRED>,</INGRED> puis incorporer la <INGRED>crème fraîche</INGRED> <INGRED>.</INGRED> Si la <INGRED>sauce</INGRED> est trop épaisse <INGRED>,</INGRED> on peut la délayer avec quelques gouttes d'<INGRED>eau</INGRED> <INGRED>.</INGRED> Quand la <INGRED>lotte</INGRED> est cuite <INGRED>,</INGRED> la faire dorer quelques secondes de chaque côté puis la napper de <INGRED>sauce</INGRED> et servir <INGRED>.</INGRED> Je la sers avec du <INGRED>riz</INGRED> basmati et des <INGRED>endives</INGRED> braisées <INGRED>,</INGRED> dont l'amertume s'accorde parfaitement avec le côté sucré de la <INGRED>sauce</INGRED>.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 15.9230769230769*X + 2.07692307692308</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 23*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:["queues de lottes surgelées 'moins chères", 'queues']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['pomme golden', 'pomme']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['oignon']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['banane mûre', 'banane']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['ml de crème fraîche', 'ml']	 id:5	 quantité:15	 unité:non_precis	 denombrable:True	 recipient:15*X
+ingredient:['curry']	 id:6	 quantité:1	 unité:cuillères à café de	 denombrable:True	 recipient:1*X
+ingredient:['goût']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:emincer	 id:o_1	 ingrédients_ralatifs:['2', '1']	 nombre_opération_atomique:1*X+4*X	 temps:1*X*1+4*X*1	 recipient:1
+operation:revenir	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_3	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:compoter	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:attacher	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_7	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:partir	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:incorporer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:délayer	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dorer	 id:o_13	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1*X*1	 recipient:0
+operation:napper	 id:o_14	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

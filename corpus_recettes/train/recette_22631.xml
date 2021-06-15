@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22631">
+  <titre>Pain de mie tata Mimi</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pain de mie non tranché</p>
+    <p>3 oeufs</p>
+    <p>3 cuillères à soupe de crème</p>
+    <p>2 tranches de jambon haché</p>
+    <p>gruyère râpé</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Enlever un chapeau du pain de mie et le creuser (attention de ne pas faire de trou). 
+    Mélanger la mie de pain avec les oeufs, la crème, le jambon, le gruyère (quantité en fonction du goût), le sel, le poivre. 
+    Remettre la préparation dans le pain de mie creusé et mettre au four (Th 7) environ 1/2 h. 
+    Remettre le chapeau et laisser chauffer 5 mn. 
+    Servir accompagné d'une salade.
+    Très vite fait pour un soir.
+    Attention ça tient au ventre.
+  ]]>
+  </preparation>
+</recette>

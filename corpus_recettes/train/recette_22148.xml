@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22148">
+  <titre>Chou-fleur frit à la sauce ail/paprika</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 chou-fleur</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>2 oeufs</p>
+    <p>100 g de chapelure Pour la sauce :</p>
+    <p>6 cuillères à soupe d'huile d'olive</p>
+    <p>2 gousses d'ail</p>
+    <p>1 cuillère à soupe de paprika doux</p>
+    <p>3 cuillères à soupe de vinaigre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer le chou-fleur et le mettre à cuire 6 min dans l'eau bouillante. Egoutter les bouquets de chou-fleur.
+    Pendant ce temps préparer 3 assiettes :Une avec de la farine, une autre avec les oeufs battus et la dernière remplie de chapelure.
+    Rouler les bouquets de chou-fleur dans l'ordre : dans la farine, puis dans les oeufs battus et enfin dans la chapelure.
+    Les plonger ensuite dans un bain d'huile pour les faire frire.
+    Préparer ensuite la sauce :Dans une casserole, faire revenir l'ail écrasé dans l'huile pendant 5 min. Ôter l'ail, puis retirer la casserole du feu. Ajouter ensuite le paprika, puis le vinaigre sans cesser de remuer.
+    Egoutter les bouquets de chou-fleur frits, puis les napper de sauce et déguster.
+  ]]>
+  </preparation>
+</recette>

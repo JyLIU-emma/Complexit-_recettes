@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15567">
+  <titre>Rôti de jambon à la crème de poivrons rouges</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rôti de jambon (600 à 800g)</p>
+    <p>1 oignon moyen</p>
+    <p>1 beau poivron rouge</p>
+    <p>1 gousse d'ail (ou 2)</p>
+    <p>20 cl de vin blanc sec, 30 cl d'eau</p>
+    <p>crème fraîche (environ 10 cl, à moduler selon vos goûts)</p>
+    <p>sel poivre</p>
+    <p>-1 cuiller à soupe d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire dorer l'oignon, l'ail et le poivron dans l'huile d'olive. Faire revenir le rôti de jambon dans ce mélange.
+    Arroser avec le vin blanc, puis une fois celui-ci à ébullition ajouter l'eau. Porter à ébullition puis baisser le feu et laisser cuire à feu doux environ une heure.
+    Une fois la cuisson terminée, assaisonner, puis mixer les légumes avec tout ou partie du jus de cuisson (selon l'évaporation et la consistance souhaitée)et ajouter la crème fraîche.
+    En réchauffant le plat éviter une ébullition trop prolongée.
+    Accompagner avec des tagliatelles, ou du riz.
+    C'est une recette 'personnelle', les proportions indiquées ne sont donc pas des absolus.
+    Je choisis du rôti de jambon, car il est plus tendre que le rôti de porc classique. On pourrait sans doute tester avec du filet mignon, mais alors, adapter le temps de cuisson.
+  ]]>
+  </preparation>
+</recette>

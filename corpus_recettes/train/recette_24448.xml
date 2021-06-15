@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24448">
+  <titre>Cabillaud au four à la provençale</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 filets de cabillaud</p>
+    <p>6 oignons</p>
+    <p>6 pommes de terre</p>
+    <p>6 cuillères à soupe d’huile d’olive</p>
+    <p>6 tomates</p>
+    <p>20 à 25 olives noires dénoyautées</p>
+    <p>2 branches de thym</p>
+    <p>2 feuilles de laurier</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pommes de terre à l’eau salée les peler et les couper en rondelles. Réserver.
+    Laver les tomates et les détailler en rondelles également, puis peler et couper finement les oignons.
+    Dans une poêle, faire fondre les oignons dans 3 cuillères à soupe d’huile d’olive chaude.
+    Dans un plat à gratin huilé, déposer au fond les pommes de terre, puis recouvrir avec les oignons et les tomates.
+    Ajouter ensuite les filets de poisson par-dessus puis parsemer d’olives noires dénoyautées, de thym et de laurier.
+    Napper le dessus d’huile d’olive et faire cuire au four à 210°C (thermostat 7) pendant 30 min.
+  ]]>
+  </preparation>
+</recette>

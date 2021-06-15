@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22055">
+  <titre>Soufflé au gruyère et à la muscade</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de beurre</p>
+    <p>180 g de farine</p>
+    <p>60 cl de lait</p>
+    <p>150 g de gruyère</p>
+    <p>9 oeufs</p>
+    <p>1/2 cuillère à café de muscade râpée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Mélanger la farine au beurre fondu sur feu doux puis verser progressivement le lait en remuant constamment jusqu'à l'ébullition. La préparation doit être assez épaisse.
+    Hors du feu, incorporer le gruyère râpé, les jaunes d'oeufs, du sel, du poivre et de la muscade.
+    Battre les blancs en neige ferme avec une pincée de sel et les ajouter à la préparation précédente.
+    Verser le tout dans un moule à soufflé beurré et enfourner pour 30 minutes de cuisson sans ouvrir la porte.
+    Servir à la sortie du four.
+  ]]>
+  </preparation>
+</recette>

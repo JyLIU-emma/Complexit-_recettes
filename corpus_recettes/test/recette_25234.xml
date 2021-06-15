@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25234">
+  <titre>Thon grillé aux légumes confits</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 tranche de thon de 600 à 800 g</p>
+    <p>4 gros oignons</p>
+    <p>2 poivrons rouges</p>
+    <p>1 branche de thym</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Salez et poivrez le thon, badigeonnez-le d'huile.
+    Emincez les oignons et les poivrons, déposez-les dans un plat à four huilé. Arrosez d'huile, salez, poivrez. Posez le thon dessus et arrosez de vin blanc.
+    Parsemez de thym émietté, et couvrez de papier aluminium.
+    Faites cuire au four à 180° (thermostat 6) pendant 40 minutes.
+  ]]>
+  </preparation>
+</recette>

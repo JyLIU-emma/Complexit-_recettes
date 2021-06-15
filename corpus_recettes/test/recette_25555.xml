@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25555">
+  <titre>Salade de harengs, pommes de terre et radis</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de pommes de terre</p>
+    <p>250 g de filets de harengs fumés</p>
+    <p>1 botte de radis</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>4 cuillères à soupe d'huile</p>
+    <p>1 cuillère à soupe de vinaigre</p>
+    <p>1 bouquet de persil</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les pommes de terre entières à l'eau bouillante salée ou à la vapeur environ 30 min.
+    Pendant ce temps, rincez et coupez les radis en rondelles, découpez les filets de harengs en morceaux.
+    Faites chauffer légèrement le vin blanc.
+    Pelez et coupez les pommes de terre en rondelles, mettez-les dans un saladier et versez le vin.
+    Laissez tiédir et versez l'huile, mélangez et ajoutez les radis, les harengs et le persil haché. Relevez d'un trait de vinaigre.
+    C'est meilleur tiède mais vous pouvez bien sûr la préparer à l'avance et la déguster froide.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20853">
+  <titre>Salade poulet avocat et basilic</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poulet cuit</p>
+    <p>4 avocats</p>
+    <p>5 oeufs durs</p>
+    <p>4 tomates</p>
+    <p>6 cuillères à soupe d'huile</p>
+    <p>4 cuillères à soupe de jus de citron</p>
+    <p>1 bouquet de basilic ciselé</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez la chair du poulet en morceaux. Emincez les avocats en lamelles et citronnez-les pour qu'elles ne noircissent pas.
+    Ecalez les oeufs, coupez-les en 4. Lavez et coupez les tomates en quartiers, épépinez-les.
+    Emulsionnez l'huile avec le vinaigre, du sel et du poivre. Ajoutez le basilic.
+    Mélangez délicatement les tomates, les oeufs, les lamelles d'avocat et les morceaux de poulet, puis arrosez de vinaigrette.
+  ]]>
+  </preparation>
+</recette>

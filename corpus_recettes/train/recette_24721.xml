@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24721">
+  <titre>Tarte au citron</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de pâte sablée sucrée</p>
+    <p>3 cuillères à café de farine (pour fariner le plat)Pour la garniture :</p>
+    <p>9 jaunes d'oeufs</p>
+    <p>150 g de sucre</p>
+    <p>4 citrons non traités</p>
+    <p>3 cuillères à café de farine</p>
+    <p>3 brins de menthe</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 180°C (thermostat 6).
+    Fariner un plan de travail propre, puis y dérouler la pâte brisée pour l’imprégner de farine.
+    La déposer ensuite dans un moule à tarte et laisser dépasser la pâte de 2 ou 3 cm.
+    Replier les bords après les avoir enduit d’eau froide, puis piquer à la fourchette le fond de pâte et y déposer des haricots secs.
+    Enfourner le moule et faire cuire la pâte à blanc à four chaud pendant 20 min.
+    Préparer ensuite la garniture en battant les jaunes d’oeufs avec le sucre jusqu’à ce que le mélange blanchisse et se fluidifie.
+    Incorporer la farine en continuant de mélanger.
+    Râper le zeste d’1 citron et presser leur jus, puis l’ajouter au reste de la préparation.
+    Verser la crème ainsi obtenue dans une casserole, sans cesser de remuer jusqu’à ce qu’elle épaississe et nappe le dos de la cuillère (comme pour une crème anglaise). 
+    Tapisser le fond de pâte avec la crème, puis enfourner pour 15 min.
+    Laisser tiédir à température ambiante, puis démouler sur un plat de service.
+    Découper le citron en fines tranches, puis les déposer en fleur au centre de la tarte avec la menthe, pour décorer.
+  ]]>
+  </preparation>
+</recette>

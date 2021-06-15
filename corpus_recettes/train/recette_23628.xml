@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23628">
+  <titre>Potage chaud au concombre</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 concombres</p>
+    <p>2 cubes de bouillon</p>
+    <p>6 grosses pommes de terre</p>
+    <p>1 gros oignon</p>
+    <p>1 litre d'eau (voir plus, selon le goût)</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>sel et poivre</p>
+    <p>herbes de Provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les concombres, les couper en dés en laissant la peau. Couper aussi les pommes de terre et l'oignon.
+    Plonger tous les ingrédients dans l'eau bouillante.  Mettre l'huile, une pincée d'herbes de provence,une pincée de sel et beaucoup de poivre.
+    Laisser mijoter pendant 3/4 d'heure avec un couvercle. Tourner de temps en temps avec une cuillère en bois. Après la cuisson, passer le tout au mixer.  
+    Chauffer encore 5 min, c'est prêt!
+  ]]>
+  </preparation>
+</recette>

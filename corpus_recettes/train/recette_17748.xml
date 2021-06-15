@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17748">
+  <titre>Salade façon Sophie</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 avocats</p>
+    <p>2 tomates</p>
+    <p>1/4 de poivron rouge et vert</p>
+    <p>140 g de maïs (1 mini boîte)</p>
+    <p>6 pommes de terre cuites vapeur</p>
+    <p>1 oignon rouge</p>
+    <p>Pour la sauce : </p>
+    <p>20 cl de crème fraîche</p>
+    <p>1 cuillère à soupe de moutarde</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les ingrédients en petits morceaux, salez et poivrez, ajoutez la sauce que vous aurez préparé à part et mélangez le tout.
+  ]]>
+  </preparation>
+</recette>

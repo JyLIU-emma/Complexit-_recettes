@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18695">
+  <titre>Moelleux au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de chocolat noir</p>
+    <p>3 oeufs</p>
+    <p>2 tasses à café de sucre</p>
+    <p>1 tasse à café de farine</p>
+    <p>150 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre les oeufs entiers avec le sucre. 
+    Dans une casserole, faire fondre doucement le chocolat (il ne doit pas cuire), et ajouter le beurre afin d'obtenir un mélange bien lisse. 
+    Ajouter le chocolat/beurre au mélange oeufs/sucre. 
+    Ajouter le tasse de farine. 
+    Faire cuire dans un moule à manqué bien beurré, thermostat 4-5 (120 à 15O°C), pendant 15 à 20 mn.
+     Blanc moelleux
+  ]]>
+  </preparation>
+</recette>

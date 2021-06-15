@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22199">
+  <titre>Semoule toute simple mais sensationnelle</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>130 g de semoule de blé dur fine</p>
+    <p>1 litre de lait</p>
+    <p>90 g de sucre ou de cassonade</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>extrait de vanille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Verser tous les ingrédients dans une casserole. 
+    Faire chauffer le tout sans cesser de remuer puis, au premier bouillon, remuer encore environ 1 mn. 
+    Verser la préparation dans un récipient et attendre que ça refroidisse avant de déguster.
+    Ne jamais mettre la semoule au frigo, car après elle n'a plus du tout le goût exquis.
+  ]]>
+  </preparation>
+</recette>

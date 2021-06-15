@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23560">
+  <titre>Rillettes de porc</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,5 kg de collet de porc</p>
+    <p>500 g de poitrine de porc fraîche</p>
+    <p>3 gousses d'ail</p>
+    <p>1 bouquet garni (thym, laurier, persil)</p>
+    <p>1 oignon piqué de 2 clous de girofle</p>
+    <p>noix de muscade</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettez la viande coupée en gros morceaux dans une grande cocotte avec les gousses d'ail entières, l'oignon piqué, le bouquet garni, du sel, du poivre et une bonne pincée de muscade râpée.
+    Couvrez d'eau, puis portez à ébullition.
+    Baissez le feu et laissez cuire 4 h à frémissement.
+    Egouttez la viande, travaillez-la à l'aide d'une fourchette. Ajoutez un peu de bouillon de cuisson si le mélange est trop sec.
+    Mettez dans une terrine et laissez refroidir au frais. La graisse va monter à la surface et figer.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164717">
+  <titre>Tarte au riz, super facile</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 boîtes de riz à la crème</p>
+    <p>2 sachets de sucre vanillé</p>
+    <p>100gr de sucre fin</p>
+    <p>70gr de farine</p>
+    <p>4 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Mélangez le riz avec les jaunes d'oeufs, la farine et le sucre fin.- Battre les blancs en neige avec le sucre vanillé.- Incorporez les au mélange.- Beurrez et farinez votre moule et versez y la préparation.- Cuire pendant 35 à 40 minutes à 180°c.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  - <OPER id="o_1">Mélangez</OPER> le <INGRED id="1">riz</INGRED> avec les jaunes d'<INGRED id="5">oeufs</INGRED>, la <INGRED id="2">farine</INGRED> et le sucre fin.- <OPER id="o_2">Battre</OPER> les blancs en neige avec le sucre vanillé.- <OPER id="o_3">Incorporez</OPER> les au mélange.- Beurrez et farinez votre moule et <OPER id="o_4">versez</OPER> y la préparation.- <OPER id="o_5">Cuire</OPER> pendant 35 à 40 minutes à 180 ° c.
+  </annotation>
+  <annotation methode="crf">
+  - Mélangez le <INGRED>riz</INGRED> avec les <INGRED>jaunes d'oeufs</INGRED> <INGRED>,</INGRED> la <INGRED>farine</INGRED> et le <INGRED>sucre</INGRED> fin.- Battre les <INGRED>blancs</INGRED> en neige avec le <INGRED>sucre</INGRED> vanillé.- Incorporez les au mélange.- Beurrez et farinez votre <INGRED>moule</INGRED> et versez y la préparation.- Cuire pendant 35 à 40 minutes à 180 ° c.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 4.0*X + 1.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 8*X + 4</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['riz à la crème', 'riz']	 id:1	 quantité:2	 unité:boîtes de	 denombrable:True	 recipient:2*X
+ingredient:['sucre vanillé', 'sucre']	 id:2	 quantité:2	 unité:sachets de	 denombrable:True	 recipient:2*X
+ingredient:['sucre fin', 'sucre']	 id:3	 quantité:100	 unité:gr de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:4	 quantité:70	 unité:gr de	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:5	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mélanger	 id:o_1	 ingrédients_ralatifs:['1', '5', '2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:battre	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+]]>
+</operation_trouve>
+</recette>

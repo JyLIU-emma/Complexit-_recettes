@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10574">
+  <titre>Lasagnes de morilles</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>40 grammes de morilles séchées</p>
+    <p>30 cl de crème</p>
+    <p>20 cl de vin blanc</p>
+    <p>40 g de beurre</p>
+    <p>300 g de pâte de lasagnes (précuites)</p>
+    <p>100 g de parmesan râpé</p>
+    <p>1 gousse d'ail</p>
+    <p>1 échalote moyenne</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille, faire tremper les morilles dans de l'eau froide ou du lait.
+    Le jour-même, faire suer ail et échalote dans les 40 g de beurre. Ajouter les morilles, saler légèrement, poivrer.
+    Ajouter le vin blanc, et faire réduire presque totalement. Ajouter la crème, et laisser mijoter à feu doux. La sauce doit rester relativement liquide pour permettre aux lasagnes de s'imprégner par la suite.
+    Beurrer un plat. Placer une couche de lasagnes, puis un peu de sauce, recouvrir de parmesan. Répéter l'opération encore deux fois.
+    Terminer par une couche de lasagnes, puis saupoudrez de parmesan.
+    Mettre cuire à four préchauffé à 200°C environ 10 à 15 minutes.
+  ]]>
+  </preparation>
+</recette>

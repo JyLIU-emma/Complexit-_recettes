@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13285">
+  <titre>Marquise au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de chocolat noir</p>
+    <p>100 g de sucre</p>
+    <p>200 g de beurre doux</p>
+    <p>6 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le chocolat, y incorporer le sucre, les jaunes d'oeufs et le beurre.
+    Travailler le tout en crème. Y ajouter les blancs battus en neige ferme. Verser le tout dans un moule à cake.
+    Mettre au congélateur au moins 48 heures.Démouler et servir avec de la crème anglaise.Prendre un chocolat noir de bonne qualité.
+  ]]>
+  </preparation>
+</recette>

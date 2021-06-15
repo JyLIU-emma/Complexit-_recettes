@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165276">
+  <titre>Moelleux au chocolat coeur fondant</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de chocolat noir</p>
+    <p>12 carrés de chocolats noir</p>
+    <p>80 g de beurre</p>
+    <p>90 g de sucre en poudre</p>
+    <p>2 cuillères à soupe rases de farine</p>
+    <p>4 œufs</p>
+    <p>sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four Th.8 (240°C).Faites fondre le beurre et le chocolat (sauf les 12 carrés) au bain marie. Lissez bien le mélange en fouettant.
+    Fouettez les œufs et le sucre. Ajoutez la farine puis le chocolat fondu en remuant sans arrêt.
+    Beurrez 6 petits moules individuels.
+    Remplissez-les à moitié de pâte et posez au centre deux carrés de chocolat.Répartissez le reste de pâte dans les moules et enfournez.
+    Faites cuire 10 min et servez dés la sortie du four, légèrement poudrés de sucre glace.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Préchauffez</OPER> le four Th.8 ( 240 ° C).Faites <OPER id="o_2">fondre</OPER> le <INGRED id="2">beurre</INGRED> et le chocolat ( sauf les 12 <INGRED id="6">carrés</INGRED> ) au bain marie. <OPER id="o_3">Lissez</OPER> bien le mélange en fouettant. <OPER id="o_4">Fouettez</OPER> les <INGRED id="1">œufs</INGRED> et le sucre. <OPER id="o_5">Ajoutez</OPER> la <INGRED id="7">farine</INGRED> puis le <INGRED id="2">chocolat</INGRED> fondu en remuant sans arrêt. <OPER id="o_6">Beurrez</OPER> 6 <INGRED id="3">petits</INGRED> moules individuels. <OPER id="o_7">Remplissez</OPER> - les à moitié de <INGRED id="1">pâte</INGRED> et posez au centre deux <INGRED id="2">carrés</INGRED> de <INGRED id="2">chocolat</INGRED>. <OPER id="o_8">Répartissez</OPER> le <INGRED id="1">reste</INGRED> de <INGRED id="5">pâte</INGRED> dans les moules et enfournez. Faites <OPER id="o_9">cuire</OPER> 10 min et servez <INGRED id="3">dés</INGRED> la sortie du four, légèrement poudrés de <INGRED id="3">sucre glace</INGRED>.
+  </annotation>
+  <annotation methode="crf">
+  Préchauffez le four Th.8 ( 240 ° C).Faites fondre le <INGRED>beurre</INGRED> et le <INGRED>chocolat</INGRED> ( sauf les 12 <INGRED>carrés</INGRED> ) au bain marie <INGRED>.</INGRED> Lissez bien le <INGRED>mélange</INGRED> en fouettant <INGRED>.</INGRED> Fouettez les <INGRED>œufs</INGRED> et le <INGRED>sucre</INGRED>. Ajoutez la <INGRED>farine</INGRED> puis le <INGRED>chocolat fondu</INGRED> en remuant sans arrêt. Beurrez 6 petits moules individuels. Remplissez - les à moitié de <INGRED>pâte</INGRED> et posez au centre <INGRED>deux</INGRED> <INGRED>carrés de chocolat</INGRED> <INGRED>.</INGRED> Répartissez le <INGRED>reste</INGRED> de <INGRED>pâte</INGRED> dans les <INGRED>moules</INGRED> et enfournez. Faites cuire 10 min et servez dés la sortie du four <INGRED>,</INGRED> légèrement poudrés de <INGRED>sucre glace</INGRED> <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 7.36363636363636*X + 1.63636363636364</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 18*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['chocolat noir', 'chocolat']	 id:1	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['carrés de chocolats noir', 'carrés']	 id:2	 quantité:12	 unité:non_precis	 denombrable:True	 recipient:12*X
+ingredient:['beurre']	 id:3	 quantité:80	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre en poudre', 'sucre']	 id:4	 quantité:90	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:5	 quantité:2	 unité:cuillères à soupe rases de	 denombrable:True	 recipient:2*X
+ingredient:['œufs']	 id:6	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['sucre glace', 'sucre']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préchauffer	 id:o_1	 ingrédients_ralatifs:['2', '6']	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:fondre	 id:o_2	 ingrédients_ralatifs:['2', '6']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:lisser	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fouetter	 id:o_4	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['7', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:beurrer	 id:o_6	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remplir	 id:o_7	 ingrédients_ralatifs:['1', '2', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:répartir	 id:o_8	 ingrédients_ralatifs:['1', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_9	 ingrédients_ralatifs:['3', '3']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+]]>
+</operation_trouve>
+</recette>

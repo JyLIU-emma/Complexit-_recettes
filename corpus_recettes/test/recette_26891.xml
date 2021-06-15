@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26891">
+  <titre>Spaghettis aux calamars</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>spaghettis complets</p>
+    <p>100 g d'anneaux de calamars</p>
+    <p>60 g de champignons</p>
+    <p>20 g d'oignons émincés</p>
+    <p>1 tranche de bacon</p>
+    <p>2 gousses d'ail</p>
+    <p>basilic</p>
+    <p>sel, poivre</p>
+    <p>huile d'olive</p>
+    <p>parmesan</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir de l'eau pour les pâtes. 
+    Emincer les champignons et l'oignon. 
+    Rincer les anneaux de calamars. 
+    Mettre les spaghettis dans l'eau bouillante. 
+    Faire chauffer une cuillère à soupe d'huile d'olive dans une sauteuse, verser les oignons, champignons et calamars, saupoudrer de basilic, sel, poivre, ail moulu, ajouter les deux gousses d'ail écrasées. 
+    Faire mijoter jusqu'à ce que les ingrédients soient grillés et que les champignons aient absorbé leur jus. 
+    Faire griller le bacon coupé en lamelles, dans une poêle. 
+    Quand les spaghettis sont cuits, les ajouter à la préparation, puis faire cuire dans la sauteuse environ 5 mn. 
+    Avant de servir, ajouter le bacon. 
+    Saupoudrer de parmesan.
+    Le parmesan n'est pas impératif quand il y a des fruits de mer. En Italie ils n'en mettent jamais, mais je trouve que c'est quand même meilleur avec.
+  ]]>
+  </preparation>
+</recette>

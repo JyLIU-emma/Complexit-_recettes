@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14312">
+  <titre>Millet au gruyère</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de millet doré</p>
+    <p>1 oignon blanc</p>
+    <p>1 cuillère à soupe d'huile  </p>
+    <p>1 feuille de laurier </p>
+    <p>1 bouillon de boeuf (ou de poule)</p>
+    <p>100 g de gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher finement l'oignon et le faire revenir dans l'huile chauffée préalablement dans une casserole. Ajouter le millet et bien mélanger jusqu'à ce que ce dernier soit brillant.
+    Ajouter le laurier et mouiller avec le bouillon. Laisser mijoter à petit feu environ 10-15 mn jusqu'à ce que le millet soit tendre et bien gonflé. Rajouter du bouillon si nécessaire. Juste avant de servir, ajouter le fromage râpé. Servir bien chaud avec une salade.
+  ]]>
+  </preparation>
+</recette>

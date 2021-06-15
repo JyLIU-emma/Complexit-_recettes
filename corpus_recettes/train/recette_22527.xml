@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22527">
+  <titre>Soupe de salade</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 laitues</p>
+    <p>2 gros oignons</p>
+    <p>2 pommes de terre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et couper grossièrement la salade. 
+    Faire revenir les oignons émincés dans du beurre. 
+    Faire suer la salade avec les oignons, ajouter les pommes de terres coupées le plus petit possible (pour réduire le temps de cuisson) et recouvrir d'eau. 
+    Laisser cuire 20 mn puis passer au mixer. 
+    Saler et poivrer à votre goût.
+    Une recette simple et pratique quand on voit que l'on va perdre de la salade.
+  ]]>
+  </preparation>
+</recette>

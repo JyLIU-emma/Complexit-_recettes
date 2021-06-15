@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10547">
+  <titre>Délicieuse pomme de terre du Dimanche</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 grosses pommes de terre (quantité souhaitée)</p>
+    <p>une noix de beurre</p>
+    <p>10 cl de crème fraîche (ou non selon les goûts)</p>
+    <p>150 g (1 sachet) de gruyère râpé</p>
+    <p>Chèvre ou roquefort (selon les goûts)</p>
+    <p>Sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prendre les pommes de terre, et les faire cuire au four pendant 1h.
+    Les vider entièrement pour en faire une purée (conserver la peau). La mettre dans une casserole avec le beurre, l'éventuelle crème fraîche, du sel et du poivre et le gruyère râpé.
+    Remplir les pommes de terre de cette purée. Ajouter, selon ses goûts un morceau de chèvre, ou de roquefort dans chaque pomme de terre(c'est ce qui en fait le charme). Ajouter du gruyère râpé pour  donner l'aspect gratiné.
+    Cuire au four (gril) pendant 15 min.
+    Bon appétit.
+    Accompagne très bien une fondue bourguignonne, une viande rouge au barbecue, des brochettes...
+    Accompagner si possible d'une salade.
+    Mes amis me demandent sans arrêt la recette. Vin rouge (Cahors par exemple)
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Prendre</OPER> les <INGRED id="5">pommes de terre</INGRED>, et les faire <OPER id="o_2">cuire</OPER> au four pendant 1h. Les <OPER id="o_3">vider</OPER> entièrement pour en faire une purée ( conserver la peau ). La <OPER id="o_4">mettre</OPER> dans une casserole avec le beurre, l'éventuelle crème fraîche, du sel et du poivre et le <INGRED id="4">gruyère râpé</INGRED>. <OPER id="o_5">Remplir</OPER> les <INGRED id="6">pommes de terre</INGRED> de cette purée. <OPER id="o_6">Ajouter</OPER>, selon ses goûts un morceau de chèvre, ou de roquefort dans chaque pomme de terre(c'est ce qui en fait le charme ). <OPER id="o_7">Ajouter</OPER> du gruyère râpé pour donner l'aspect gratiné. <OPER id="o_8">Cuire</OPER> au four ( gril ) pendant 15 min. Bon appétit. Accompagne très bien une fondue bourguignonne, une viande rouge au barbecue, des brochettes... Accompagner si possible d'une salade. Mes amis me demandent sans arrêt la recette. Vin rouge ( Cahors par exemple )
+  </annotation>
+  <annotation methode="crf">
+  Prendre les <INGRED>pommes de terre</INGRED> <INGRED>,</INGRED> et les faire cuire au four pendant 1h <INGRED>.</INGRED> Les vider entièrement pour en faire une <INGRED>purée</INGRED> ( conserver la peau ). La mettre dans une casserole avec le <INGRED>beurre</INGRED> <INGRED>,</INGRED> l'éventuelle <INGRED>crème fraîche</INGRED> <INGRED>,</INGRED> du <INGRED>sel</INGRED> et du <INGRED>poivre</INGRED> et le <INGRED>gruyère râpé</INGRED>. Remplir les <INGRED>pommes de terre</INGRED> de cette <INGRED>purée</INGRED> <INGRED>.</INGRED> Ajouter <INGRED>,</INGRED> selon ses goûts un <INGRED>morceau</INGRED> de <INGRED>chèvre</INGRED> <INGRED>,</INGRED> <INGRED>ou</INGRED> de <INGRED>roquefort</INGRED> dans chaque <INGRED>pomme</INGRED> de terre(c'est ce qui en fait le charme ). Ajouter du <INGRED>gruyère râpé</INGRED> pour donner l'aspect gratiné. Cuire au four ( gril ) pendant 15 min. Bon appétit. Accompagne très bien une <INGRED>fondue</INGRED> bourguignonne <INGRED>,</INGRED> une <INGRED>viande</INGRED> rouge au barbecue <INGRED>,</INGRED> des brochettes... Accompagner si possible d'une salade <INGRED>.</INGRED> Mes amis me demandent sans arrêt la recette. Vin rouge ( Cahors par exemple )
+  </annotation>
+  <complexite>
+    <temps>f(X) = 3.2*X + 4.8</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 4*X + 10</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pommes de terre', 'pommes']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['noix de beurre', 'noix']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:3	 quantité:10	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['gruyère râpé', 'gruyère']	 id:4	 quantité:150	 unité:g  de	 denombrable:False	 recipient:1
+ingredient:['Chèvre ou roquefort', 'Chèvre']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['Sel']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:prendre	 id:o_1	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:vider	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_4	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:remplir	 id:o_5	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+]]>
+</operation_trouve>
+</recette>

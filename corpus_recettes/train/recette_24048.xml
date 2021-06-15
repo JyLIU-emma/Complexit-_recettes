@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24048">
+  <titre>Lapin au vin blanc</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 cuisses de lapin (ou 8 râbles)</p>
+    <p>100 g de lardons (non fumés)</p>
+    <p>2 verres de Muscadet</p>
+    <p>6 échalotes</p>
+    <p>beurre</p>
+    <p>huile d'olive</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>1 bouquet garni (thym, romarin, sarriette, persil)</p>
+    <p>2 feuilles de laurier</p>
+    <p>un peu de moutarde</p>
+    <p>1 bouillon cube</p>
+    <p>2 petites boîtes de champignons de Paris</p>
+    <p>20 cl de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre dans une cocotte avec l'huile. Faire revenir les lardons et les retirer avec une fourchette après que leur graisse ait bien fondu, puis remplacer par les échalotes et le lapin.
+    Quand le lapin est bien doré, saupoudrer de farine, saler, poivrer et rajouter la moutarde, ainsi que le bouillon (dilué dans un bol d'eau).
+    Malanger, puis ajouter le bouquet garni et le vin. Laisser mijoter 1h30.
+    En cours de cuisson, ajouter les champignons et remettre un peu d'eau de temps en temps. 1/2h avant la fin de cuisson, remettre les lardons.
+    Lorsque le lapin est cuit, réserver dans un plat chaud (vous pouvez le poser sur une plaque électrique mise au minimum) en retirant le bouquet garni.
+    Ajouter la crème à la sauce pour lier, faire réduire quelques minutes et napper le lapin de cette sauce.
+    Servir chaud.
+  ]]>
+  </preparation>
+</recette>

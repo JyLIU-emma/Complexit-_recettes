@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13733">
+  <titre>Pain de Gênes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g d'amandes en poudre</p>
+    <p>150 g de sucre en poudre</p>
+    <p>125 g de beurre frais</p>
+    <p>40 g de farine</p>
+    <p>3 oeufs de poule (ou 1 oeuf d'oie)</p>
+    <p>2 cuillères à soupe de kirsch</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 170°C.
+    Travailler la poudre d'amandes avec la moitié du sucre dans une terrine avec une spatule pour empêcher les amandes de rejeter leur huile.
+    Dans une autre terrine, travailler le beurre avec le reste du sucre puis ajouter le contenu de la première terrine. Incorporer les oeufs un à un.
+    Au début, la pâte a un aspect décomposé dont il ne faut pas s'inquiéter. Ajouter la farine et le sel puis le kirsch et travailler le mélange jusqu'à ce qu'il reprenne un aspect normal. 
+    Verser la préparation dans un moule à manqué de 20 cm de diamètre bien beurré.
+    Cuire à four modéré pendant 35 à 40 mn en surveillant pour éviter de cuire trop le gâteau, qui doit rester moelleux.
+    On peut servir le pain de Gênes avec une crème vanille, café ou chocolat.
+     Porto ou sherry cream
+  ]]>
+  </preparation>
+</recette>

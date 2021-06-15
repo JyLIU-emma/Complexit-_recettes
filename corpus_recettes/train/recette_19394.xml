@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19394">
+  <titre>Crème à la Poire Light</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poire</p>
+    <p>200 ml de lait</p>
+    <p>1 grosse cuillère à soupe de Maïzena</p>
+    <p>édulcorant ou sucre</p>
+    <p>un peu de cannelle (facultatif) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et épépiner la poire, la mixer. 
+    Mélanger dans une casserole le lait et la purée de poire, porter à ébullition. 
+    Délayer la Maïzena dans un peu de lait et verser sur le lait à la poire bouillant. Laisser épaissir quelques minutes en tournant. 
+    Hors du feu, rajouter le sucre ou l'édulcorant, au goût. 
+    Verser dans des ramequins et saupoudrer de cannelle.
+    Très peu de calories, très simple et délicieux !
+  ]]>
+  </preparation>
+</recette>

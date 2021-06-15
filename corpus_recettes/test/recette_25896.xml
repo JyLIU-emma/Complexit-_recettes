@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25896">
+  <titre>Asperges et oeufs en cocotte</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 oeufs</p>
+    <p>450 g de pointes d'asperges</p>
+    <p>1 pot de 20 cl de crème fraîche</p>
+    <p>sel, poivre</p>
+    <p>persil haché</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer les pointes d'asperges, les rincer, puis les cuire 10 min à l'eau bouillante salée. Egoutter.
+    Dans des ramequins, répartir les pointes d'asperges, une cuillère à soupe de crème fraîche, un oeuf, du sel et du poivre. Parsemer de persil haché.
+    Préchauffer le four à 220°C (thermostat 7) et y faire cuire les oeufs au bain-marie pendant 5-6 min.
+    A la sortie du four, déposer une cuillerée à café de crème fraîche dans chaque ramequin. Servir aussitôt.
+  ]]>
+  </preparation>
+</recette>

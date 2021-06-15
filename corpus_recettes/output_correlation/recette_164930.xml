@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164930">
+  <titre>Mon gateau au yaourt façon gateau d'anniversaire</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>pour le gateau au yaourt :- 1 pot de yaourt parfumé (selon votre gout)</p>
+    <p>2 pots de sucre en poudre</p>
+    <p>3 pots de farine</p>
+    <p>1/2 pot d'huile</p>
+    <p>1 sachet de levure chimique</p>
+    <p>3 oeufs</p>
+    <p>1 pincée de sel</p>
+    <p>amandes effiléespour la crème patissière :- 50 cl de lait</p>
+    <p>1 oeuf entier + 2 jaunes</p>
+    <p>65 g de farine</p>
+    <p>75 g de sucre en poudre</p>
+    <p>1 sachet de sucre vanillée</p>
+    <p>1 cuil à soupe de rhumpour la finition :- 1 petit pot de nutella</p>
+    <p>vermicelles au chocolat</p>
+    <p>amandes effilées- bougies d'anniversaire</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    préparation du gateau au yaourt :- mélanger tous les ingredients ensemble. rajouter les amandes effilées.
+    mettre la préparation dans un moule en silicone et faire cuire à 180°C pendant 40 min.
+    mettre la pointe du couteau dans le gateau pour voir s'il est cuit. la lame doit ressortir sèche.
+    démouler et réserverpréparation de la crème patissière :- faire chauffer le lait dans une casserole avec le sucre vanillée.
+    casser l'oeuf entier dans un saladier, ajouter les jaunes et battre le tout en omelette.
+    ajouter le sucre. mélanger jusqu'à ce que le mélange devienne mousseux.
+    incorporer la farine.
+    verser ensuite le lait bouillant, tout doucement, sans cesser de remuer.
+    verser la prépatration dans une casserole sur feu doux. faire cuire sans cesser de remuer jusqu'au premier bouillon. 
+    retirer du feu et laisser refroidir.
+    ajouter le rhum.finition :- ouvrir le gateau en deux dans le sens de la longueur.
+    y deposer la crème patissière.
+    recouvrir entièrement le gateau de nutella. saupoudrer de vermicelles au chocolat sur le dessus.
+    mettre tout autour du gateau les amandes effilées.
+    y mettre les bougies.
+    Bon anniversaire !!!
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <INGRED id="4">préparation</INGRED> du gateau au <INGRED id="6">yaourt</INGRED> : - <OPER id="o_1">mélanger</OPER> tous les ingredients ensemble. <OPER id="o_2">rajouter</OPER> les <INGRED id="7">amandes effilées</INGRED>. <OPER id="o_3">mettre</OPER> la <INGRED id="4">préparation</INGRED> dans un moule en silicone et <INGRED id="14">faire</INGRED> <OPER id="o_4">cuire</OPER> à 180 ° C pendant 40 min. <OPER id="o_5">mettre</OPER> la pointe du couteau dans le gateau pour voir s'il est cuit. la lame doit <OPER id="o_6">ressortir</OPER> sèche. <OPER id="o_7">démouler</OPER> et réserverpréparation de la crème patissière : - <INGRED id="10">faire</INGRED> <OPER id="o_8">chauffer</OPER> le <INGRED id="8">lait</INGRED> dans une casserole avec le <INGRED id="12">sucre vanillée</INGRED>. <OPER id="o_9">casser</OPER> l'<INGRED id="8">oeuf entier</INGRED> dans un <INGRED id="1">saladier</INGRED>, <OPER id="o_10">ajouter</OPER> les <INGRED id="9">jaunes</INGRED> et <OPER id="o_11">battre</OPER> le tout en omelette. <OPER id="o_12">ajouter</OPER> le <INGRED id="12">sucre</INGRED>. <OPER id="o_13">mélanger</OPER> jusqu'à ce que le <INGRED id="7">mélange</INGRED> devienne mousseux. <OPER id="o_14">incorporer</OPER> la <INGRED id="13">farine</INGRED>. <OPER id="o_15">verser</OPER> ensuite le <INGRED id="4">lait</INGRED> bouillant, tout doucement, sans <OPER id="o_16">cesser</OPER> de <OPER id="o_17">remuer</OPER>. <OPER id="o_18">verser</OPER> la prépatration dans une casserole sur feu doux. <INGRED id="10">faire</INGRED> <OPER id="o_19">cuire</OPER> sans <OPER id="o_20">cesser</OPER> de <OPER id="o_21">remuer</OPER> jusqu'au premier <INGRED id="2">bouillon</INGRED>. <OPER id="o_22">retirer</OPER> du feu et <INGRED id="12">laisser</INGRED> <OPER id="o_23">refroidir</OPER>. <OPER id="o_24">ajouter</OPER> le rhum.finition : - <OPER id="o_25">ouvrir</OPER> le gateau en deux dans le sens de la longueur. y <OPER id="o_26">deposer</OPER> la <INGRED id="4">crème</INGRED> patissière. <OPER id="o_27">recouvrir</OPER> entièrement le gateau de nutella. <OPER id="o_28">saupoudrer</OPER> de <INGRED id="14">vermicelles au chocolat</INGRED> sur le dessus. <OPER id="o_29">mettre</OPER> tout autour du gateau les <INGRED id="7">amandes effilées</INGRED>. y <OPER id="o_30">mettre</OPER> les bougies. Bon anniversaire ! ! !
+  </annotation>
+  <annotation methode="crf">
+  préparation du gateau au <INGRED>yaourt</INGRED> <INGRED>:</INGRED> - mélanger tous les ingredients ensemble. rajouter les <INGRED>amandes effilées</INGRED> <INGRED>.</INGRED> mettre la préparation dans un <INGRED>moule</INGRED> en silicone et faire cuire à 180 ° C pendant 40 min. mettre la pointe du couteau dans le gateau pour voir s'il est cuit. la lame doit ressortir sèche. démouler et réserverpréparation de la <INGRED>crème</INGRED> patissière <INGRED>:</INGRED> - faire chauffer le <INGRED>lait</INGRED> dans une casserole avec le <INGRED>sucre</INGRED> vanillée. casser l'<INGRED>oeuf</INGRED> entier dans un saladier <INGRED>,</INGRED> ajouter les <INGRED>jaunes</INGRED> et battre le tout en omelette <INGRED>.</INGRED> ajouter le <INGRED>sucre</INGRED>. mélanger jusqu'à ce que le <INGRED>mélange</INGRED> devienne mousseux. incorporer la <INGRED>farine</INGRED>. verser ensuite le <INGRED>lait</INGRED> bouillant, tout doucement <INGRED>,</INGRED> sans cesser de remuer. verser la prépatration dans une casserole sur feu doux. faire cuire sans cesser de remuer jusqu'au premier <INGRED>bouillon</INGRED> <INGRED>.</INGRED> retirer du feu et laisser refroidir <INGRED>.</INGRED> ajouter le rhum.finition <INGRED>:</INGRED> - ouvrir le gateau en <INGRED>deux</INGRED> dans le sens de la longueur <INGRED>.</INGRED> y deposer la <INGRED>crème</INGRED> patissière. recouvrir entièrement le gateau de nutella. saupoudrer de vermicelles au <INGRED>chocolat</INGRED> sur le dessus. mettre tout autour du gateau les <INGRED>amandes effilées</INGRED> <INGRED>.</INGRED> y mettre les bougies. Bon anniversaire ! ! !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 21.4285714285714*X + 8.57142857142857</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 15*X + 15</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['sucre en poudre', 'sucre']	 id:1	 quantité:2	 unité:pots de	 denombrable:True	 recipient:2*X
+ingredient:['farine']	 id:2	 quantité:3	 unité:pots de	 denombrable:True	 recipient:3*X
+ingredient:['huile']	 id:3	 quantité:1/2	 unité:pot d'	 denombrable:False	 recipient:1
+ingredient:['levure chimique', 'levure']	 id:4	 quantité:1	 unité:sachet de	 denombrable:True	 recipient:1*X
+ingredient:['oeufs']	 id:5	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['sel']	 id:6	 quantité:1	 unité:pincée de	 denombrable:True	 recipient:1*X
+ingredient:['amandes effilées', 'amandes']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['oeuf entier', 'oeuf']	 id:8	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['jaunes']	 id:9	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['farine']	 id:10	 quantité:65	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre en poudre', 'sucre']	 id:11	 quantité:75	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre vanillée', 'sucre']	 id:12	 quantité:1	 unité:sachet de	 denombrable:True	 recipient:1*X
+ingredient:['cuil à soupe de rhum', 'cuil']	 id:13	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['vermicelles au chocolat', 'vermicelles']	 id:14	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["amandes effilées- bougies d'anniversaire", 'amandes']	 id:15	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mélanger	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:rajouter	 id:o_2	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_3	 ingrédients_ralatifs:['4', '14']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cuire	 id:o_4	 ingrédients_ralatifs:['14']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:mettre	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ressortir	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:démouler	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_8	 ingrédients_ralatifs:['10', '8', '12']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:casser	 id:o_9	 ingrédients_ralatifs:['8', '1', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_13	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:incorporer	 id:o_14	 ingrédients_ralatifs:['13']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_15	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cesser	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_19	 ingrédients_ralatifs:['10', '2']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:cesser	 id:o_20	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_21	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_22	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_23	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:ajouter	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ouvrir	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:deposer	 id:o_26	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recouvrir	 id:o_27	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saupoudrer	 id:o_28	 ingrédients_ralatifs:['14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_29	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_30	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

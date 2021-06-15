@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10668">
+  <titre>Galette de  Pérouges ou tarte au sucre</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 cube de levure de boulanger</p>
+    <p>7 cl d'eau</p>
+    <p>150 g de beurre</p>
+    <p>1 oeuf</p>
+    <p>1 citron </p>
+    <p>1 pincée de sel</p>
+    <p>130 g de sucre</p>
+    <p>200 g de farine</p>
+    <p>crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire dissoudre une noix de levure de boulanger dans un demi verre d'eau
+    tiède.
+    Malaxer 150 g de beurre ramolli avec un oeuf entier, le zeste râpé d'un
+    citron, une pincée de sel, 30 g de sucre et la levure.
+    Incorporer peu à peu 200 g de farine et pétrir jusqu'à ce que la pâte se détache des doigts.
+    Mettre cette pâte en boule et la laisser lever une heure et demie à température ambiante.L'étendre alors en cercle aussi finement que possible.
+    Former un bourrelet sur les bords, saupoudrer tout le creux de 100 g de sucre semoule et mettre sur une plaque beurrée à four très chaud pendant 5 à 6 mn.
+    Quand elle est encore bien tiède, napper d'un peu de crème fraîche et servir aussitôt.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">dissoudre</OPER> une <INGRED id="2">noix</INGRED> de <INGRED id="1">levure de boulanger</INGRED> dans un demi verre d'<INGRED id="5">eau</INGRED> tiède. <OPER id="o_2">Malaxer</OPER> 150 g de <INGRED id="9">beurre</INGRED> ramolli avec un <INGRED id="2">oeuf</INGRED> entier, le <INGRED id="5">zeste</INGRED> râpé d'un <INGRED id="6">citron</INGRED>, une pincée de <INGRED id="3">sel</INGRED>, 30 g de <INGRED id="6">sucre</INGRED> et la <INGRED id="1">levure</INGRED>. <OPER id="o_3">Incorporer</OPER> peu à peu 200 g de <INGRED id="4">farine</INGRED> et <OPER id="o_4">pétrir</OPER> jusqu'à ce que la <INGRED id="1">pâte</INGRED> se détache des doigts. <OPER id="o_5">Mettre</OPER> cette <INGRED id="1">pâte</INGRED> en boule et la laisser <OPER id="o_6">lever</OPER> une heure et demie à température ambiante. L'<OPER id="o_7">étendre</OPER> alors en cercle aussi finement que possible. Former un bourrelet sur les bords, <OPER id="o_8">saupoudrer</OPER> tout le creux de 100 g de <INGRED id="6">sucre</INGRED> semoule et <OPER id="o_9">mettre</OPER> sur une plaque beurrée à four très chaud pendant 5 à 6 mn. Quand elle est encore bien tiède, <OPER id="o_10">napper</OPER> d'un peu de <INGRED id="8">crème fraîche</INGRED> et servir aussitôt.
+  </annotation>
+  <annotation methode="crf">
+  Faire dissoudre une <INGRED>noix</INGRED> de <INGRED>levure</INGRED> de boulanger dans un <INGRED>demi</INGRED> <INGRED>verre</INGRED> d'<INGRED>eau</INGRED> tiède. Malaxer 150 <INGRED>g</INGRED> de <INGRED>beurre ramolli</INGRED> avec un <INGRED>oeuf</INGRED> entier <INGRED>,</INGRED> le <INGRED>zeste râpé</INGRED> d'un <INGRED>citron</INGRED> <INGRED>,</INGRED> une pincée de <INGRED>sel</INGRED> <INGRED>,</INGRED> 30 <INGRED>g</INGRED> de <INGRED>sucre</INGRED> et la <INGRED>levure</INGRED> <INGRED>.</INGRED> Incorporer peu à peu 200 <INGRED>g</INGRED> de <INGRED>farine</INGRED> et pétrir jusqu'à ce que la <INGRED>pâte</INGRED> se détache des doigts. Mettre cette <INGRED>pâte</INGRED> en <INGRED>boule</INGRED> et la laisser lever une heure et demie à température ambiante. L'étendre alors en cercle aussi <INGRED>finement</INGRED> que possible <INGRED>.</INGRED> Former un <INGRED>bourrelet</INGRED> sur les bords <INGRED>,</INGRED> saupoudrer tout le creux de 100 <INGRED>g</INGRED> <INGRED>de sucre semoule</INGRED> et mettre sur une plaque beurrée à four très chaud pendant 5 à 6 mn <INGRED>.</INGRED> Quand elle est encore bien tiède <INGRED>,</INGRED> napper d'un peu de <INGRED>crème fraîche</INGRED> et servir aussitôt.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 4.44444444444444*X + 5.55555555555556</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 4*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['levure de boulanger', 'levure']	 id:1	 quantité:1	 unité:cube de	 denombrable:True	 recipient:1*X
+ingredient:['eau']	 id:2	 quantité:7	 unité:cl d'	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:3	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oeuf']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['citron']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:6	 quantité:1	 unité:pincée de	 denombrable:True	 recipient:1*X
+ingredient:['sucre']	 id:7	 quantité:130	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:8	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:dissoudre	 id:o_1	 ingrédients_ralatifs:['2', '1', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:malaxer	 id:o_2	 ingrédients_ralatifs:['9', '2', '5', '6', '3', '6', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_3	 ingrédients_ralatifs:['4', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:pétrir	 id:o_4	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_5	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:lever	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étendre	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saupoudrer	 id:o_8	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:napper	 id:o_10	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

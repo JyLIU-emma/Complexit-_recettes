@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25192">
+  <titre>Crème Floride à l'ananas</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boîte d'ananas en morceaux</p>
+    <p>100 g de sucre semoule</p>
+    <p>4 cl de Grand Marnier</p>
+    <p>20 cl de fromage blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Gardez quelques morceaux d'ananas et coupez-le reste en très petits morceaux. Avec un fouet électrique, fouettez le fromage blanc et le sucre. Ajoutez le Grand Marnier et les petits morceaux d'ananas. 
+    Versez dans des coupes à dessert et décorez avec les petits morceaux d'ananas que vous avez gardé.
+    Vous pouvez aussi décorer vos coupes à dessert avec des fruits frais ou confits.
+  ]]>
+  </preparation>
+</recette>

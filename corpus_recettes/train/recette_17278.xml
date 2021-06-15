@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17278">
+  <titre>Salade d'avocat au pamplemousse</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 avocats</p>
+    <p>2 pamplemousses roses</p>
+    <p>sel, poivre</p>
+    <p>1 pincée de paprika </p>
+    <p>1 pincée de piment</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Éplucher avocats et pamplemousses (jusqu'aux quartiers eux-mêmes). 
+    Les découper en dés grossiers, que l'on place directement dans les assiettes.
+    Si les pamplemousses sont peu juteux, ajouter le jus d'un 1/2 citron. Saler, poivrer, rajouter une pincée de paprika et de piment en poudre. Servir.
+  ]]>
+  </preparation>
+</recette>

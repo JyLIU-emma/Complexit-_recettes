@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21976">
+  <titre>Spaghetti du soleil aux anchois</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de spaghetti</p>
+    <p>4 tomates</p>
+    <p>1 aubergine</p>
+    <p>1 poivron rouge</p>
+    <p>8 filets d'anchois</p>
+    <p>2 gousses d'ail</p>
+    <p>100 g d'olives noires dénoyautées</p>
+    <p>80 g de parmesan râpé</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>1 cuillère à soupe de câpres</p>
+    <p>quelques feuilles de basilic</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler, épépiner et couper les tomates et l'aubergine en petits cubes.
+    Détailler le poivron en fines lanières.
+    Peler et hacher l'ail.
+    Faire chauffer l'huile dans une grande cocotte, y jeter les cubes d'aubergine et laisser revenir à feu moyen.
+    Ajouter le poivron, les tomates et l'ail, saler, poivrer et laisser mijoter 20 min.
+    Faire cuire les pâtes à l'eau bouillante salée.
+    Pendant ce temps, émincer les olives en rondelles et découper les anchois en petits morceaux. Ciseler le basilic.
+    Rajouter ces trois éléments dans la cocotte ainsi que les câpres et laisser mijoter encore 15 min. Egoutter les pâtes, les mélanger avec la sauce et servir saupoudré de parmesan.
+  ]]>
+  </preparation>
+</recette>

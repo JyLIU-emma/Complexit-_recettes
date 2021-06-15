@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164923">
+  <titre>Soupe aux queues de persil</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 litre et demi de bouillon </p>
+    <p>100 à 150 gr de persil avec les queues</p>
+    <p>3 pommes de terre moyennes</p>
+    <p>creme fraiche</p>
+    <p>sel </p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - faire chauffer le bouillon avec le persil font vous aurez séparé les feuilles des queues
+    passer le bouillon afin d'enlever les queues 
+    faire cuire les pommes de terre dans le bouillon
+    une fois cuites passer au mixeur
+    servir avec un peu de creme fraicheSoupe qui change des soupes habituelles
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  - faire <OPER id="o_1">chauffer</OPER> le bouillon avec le <INGRED id="3">persil</INGRED> font vous aurez séparé les feuilles des queues <OPER id="o_2">passer</OPER> le <INGRED id="2">bouillon</INGRED> afin d'<OPER id="o_3">enlever</OPER> les queues faire <OPER id="o_4">cuire</OPER> les <INGRED id="4">pommes de terre</INGRED> dans le bouillon une fois cuites <OPER id="o_5">passer</OPER> au mixeur servir avec un peu de <INGRED id="2">creme</INGRED> fraicheSoupe qui change des soupes habituelles
+  </annotation>
+  <annotation methode="crf">
+  - faire chauffer le <INGRED>bouillon</INGRED> avec le <INGRED>persil</INGRED> font vous aurez séparé les feuilles des <INGRED>queues</INGRED> passer le <INGRED>bouillon</INGRED> afin d'enlever les <INGRED>queues</INGRED> faire cuire les <INGRED>pommes de terre</INGRED> dans le <INGRED>bouillon</INGRED> une fois cuites passer au mixeur servir avec un peu de creme fraicheSoupe qui change des soupes habituelles
+  </annotation>
+  <complexite>
+    <temps>f(X) = 2.22222222222222*X + 2.77777777777778</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 4*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['litre']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['demi de bouillon', 'demi']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['persil avec les queues', 'persil']	 id:3	 quantité:100	 unité:gr de	 denombrable:False	 recipient:1
+ingredient:['pommes de terre moyennes', 'pommes']	 id:4	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['creme fraiche', 'creme']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:chauffer	 id:o_1	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:passer	 id:o_2	 ingrédients_ralatifs:['2', '4']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:enlever	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_4	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:passer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+]]>
+</operation_trouve>
+</recette>

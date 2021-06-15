@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21077">
+  <titre>Nouilles orientales à la semoule et au safran</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de semoule de blé fine</p>
+    <p>5 oeufs</p>
+    <p>1 dose de safran</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez la semoule avec les oeufs, une pincée de sel et la dose de safran. Ajoutez de l'eau au fur et à mesure de manière à obtenir une pâte souple et élastique.
+    Etalez la pâte le plus un finement possible.
+    Découpez des lanières dans la pâte et laissez-les séchez plusieurs heures sur un linge propre.
+    Faites cuire ces pâtes à la vapeur pendant environ 1 h, au dessus d'un couscoussier par exemple.
+  ]]>
+  </preparation>
+</recette>

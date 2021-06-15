@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26229">
+  <titre>Pain de mûres caramélisé</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de mûres</p>
+    <p>50 cl de lait chaud sucré</p>
+    <p>500 g de pain rassis émincé</p>
+    <p>1 cuillère à soupe de cognac</p>
+    <p>3 oeufs</p>
+    <p>caramel en poudre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 160°C (thermostat 5/6).
+    Emincer le pain rassis dans un saladier, puis verser dessus le lait préalablement chauffé et sucré.
+    Mélanger ces 2 ingrédients à l'aide d'une fourchette, puis arroser de cognac.
+    Battre 3 oeufs en omelette, puis les incorporer au mélange avec les mûres.
+    Tapisser un moule de caramel en poudre, puis y verser la préparation et enfourner à four chaud pendant 45 min.
+    Laisser refroidir à température ambiante avant de le démouler et le réserver jusqu'au lendemain avant de le déguster.
+    Vous pouvez accompagner d'une boule de glace.
+  ]]>
+  </preparation>
+</recette>

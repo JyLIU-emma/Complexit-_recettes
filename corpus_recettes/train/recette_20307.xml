@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20307">
+  <titre>Tagliatelles au thon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de tagliatelles</p>
+    <p>100 g de thon au naturel</p>
+    <p>20 cl de crème fraiche épaisse</p>
+    <p>1 pincée de sel</p>
+    <p>1 pincée de poivre</p>
+    <p>1 pincée de muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole d'eau bouillante, verser les tagliatelles. Pendant la cuisson des pâtes, faire revenir le thon émietté dans une poêle. Ensuite, ajouter la crème fraiche, le sel, le poivre et la muscade. Laisser mijoter quelques minutes.Égoutter les pâtes puis ajouter la préparation.Plat facile et rapide à préparer. Change un peu de l'ordinaire.
+  ]]>
+  </preparation>
+</recette>

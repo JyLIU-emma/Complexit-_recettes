@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164973">
+  <titre>Garnitures variées pour pizza</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>POUR LES PIZZAS TRADITIONNELLES : </p>
+    <p>Pour la piccolo : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>Pour la moderato : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>oignons</p>
+    <p>anchois</p>
+    <p>Pour la piano : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>oignons</p>
+    <p>lardons</p>
+    <p>crème fraîche</p>
+    <p>Pour la presto : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>jambon</p>
+    <p>Pour l'Andante : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>jambon</p>
+    <p>champignons</p>
+    <p>Pour l'Adagio : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>jambon</p>
+    <p>champignons</p>
+    <p>lardons</p>
+    <p>Pour l'Allegro : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>jambon</p>
+    <p>champignons</p>
+    <p>oignons</p>
+    <p>lardons</p>
+    <p>POUR LES PIZZAS FROMAGÈRES : </p>
+    <p>Pour la Carmagnole : </p>
+    <p>tomate</p>
+    <p>olives</p>
+    <p>emmental</p>
+    <p>chèvre</p>
+    <p>herbes de Provence</p>
+    <p>crème fraîche</p>
+    <p>Pour la Tarentelle : </p>
+    <p>tomate</p>
+    <p>olives</p>
+    <p>emmental</p>
+    <p>chèvre</p>
+    <p>jambon</p>
+    <p>crème fraîche</p>
+    <p>Pour la Rondo : </p>
+    <p>tomate</p>
+    <p>olives</p>
+    <p>emmental</p>
+    <p>roquefort</p>
+    <p>crème fraîche</p>
+    <p>Pour la Crescendo : </p>
+    <p>tomate</p>
+    <p>olives</p>
+    <p>emmental</p>
+    <p>roquefort</p>
+    <p>jambon</p>
+    <p>crème fraîche</p>
+    <p>Pour la Farandole : </p>
+    <p>tomate</p>
+    <p>olives</p>
+    <p>emmental</p>
+    <p>mozzarella</p>
+    <p>ricotta</p>
+    <p>feta</p>
+    <p>crème fraîche</p>
+    <p>Pour la Gavotte : </p>
+    <p>tomate</p>
+    <p>olives</p>
+    <p>emmental</p>
+    <p>crème de gorgonzola</p>
+    <p>noix</p>
+    <p>POUR LES PIZZAS AU POISSON : </p>
+    <p>Pour la Ténor : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>oignons</p>
+    <p>thon</p>
+    <p>crème fraîche</p>
+    <p>Pour l'Alto : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>thon</p>
+    <p>anchois</p>
+    <p>câpres</p>
+    <p>Pour la Soprano : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>fruits de mer</p>
+    <p>crème fraîche</p>
+    <p>Pour le Prélude : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>coquilles Saint-Jacques</p>
+    <p>basilic</p>
+    <p>crème fraîche</p>
+    <p>Pour la Rigoletto : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>saumon</p>
+    <p>champignons</p>
+    <p>Pour la Sarabande : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>saumon fumé</p>
+    <p>crevettes</p>
+    <p>crème fraîche</p>
+    <p>Pour la Sérénade : </p>
+    <p>tomate fraîche</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>filet de dorade</p>
+    <p>persillade</p>
+    <p>crème fraîche</p>
+    <p>Pour la Sonate : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>moules</p>
+    <p>persillade</p>
+    <p>POUR LES PIZZAS EXOTIQUES : </p>
+    <p>Pour la Samba : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>jambon</p>
+    <p>lardons</p>
+    <p>ananas</p>
+    <p>crème fraîche</p>
+    <p>Pour la Mambo : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>merguez</p>
+    <p>pomme</p>
+    <p>Pour la Biguine : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>banane</p>
+    <p>boudin </p>
+    <p>épices</p>
+    <p>crème fraîche</p>
+    <p>Pour la Salsa : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>jambon</p>
+    <p>chèvre</p>
+    <p>kiwi</p>
+    <p>crème fraîche</p>
+    <p>Pour la Maloya : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>noix</p>
+    <p>chocolat</p>
+    <p>crème fraîche</p>
+    <p>POUR LES SPÉCIALITÉS : </p>
+    <p>Pour l'Aria : </p>
+    <p>tomate fraiche</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>oeufs</p>
+    <p>persillade</p>
+    <p>Pour la Toccata : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>merguez</p>
+    <p>oignons</p>
+    <p>poivrons</p>
+    <p>Pour la Bolero : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>chorizo</p>
+    <p>oignons</p>
+    <p>poivrons</p>
+    <p>Pour la Tango : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>chorizo</p>
+    <p>merguez</p>
+    <p>oignons</p>
+    <p>Pour la Flamenco : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>jambon</p>
+    <p>chorizo</p>
+    <p>lardons</p>
+    <p>oignons</p>
+    <p>Pour la Tempo : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>sauce bolognaise à la viande</p>
+    <p>Pour la Mazurka : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>viande hachée</p>
+    <p>oignons</p>
+    <p>aubergines</p>
+    <p>Pour la Dolce Vita : </p>
+    <p>tomates</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>brocolis</p>
+    <p>cœurs d'artichaut</p>
+    <p>oignons</p>
+    <p>poivrons</p>
+    <p>lardons</p>
+    <p>Pour la Romance : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>jambons</p>
+    <p>courgettes</p>
+    <p>pignons</p>
+    <p>oignons</p>
+    <p>crème fraîche</p>
+    <p>Pour la Cantate : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>endives</p>
+    <p>chèvre</p>
+    <p>pignons</p>
+    <p>crème fraîche</p>
+    <p>Pour la Grazioso : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>jambon</p>
+    <p>endives</p>
+    <p>asperges</p>
+    <p>crème fraîche</p>
+    <p>Pour la Melodine : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>asperges</p>
+    <p>crevettes</p>
+    <p>crème fraîche</p>
+    <p>Pour l'Aubade : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>crevettes</p>
+    <p>avocat</p>
+    <p>citron</p>
+    <p>Pour la Polka : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>lardons</p>
+    <p>épinards</p>
+    <p>oeufs</p>
+    <p>Pour la Rumba : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>bacon</p>
+    <p>oeufs</p>
+    <p>Pour la Pavane : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>ventrèche</p>
+    <p>pruneaux Pour la Menuet : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>gésiers confits</p>
+    <p>oignons</p>
+    <p>endives</p>
+    <p>Pour la Concerto : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>jambon</p>
+    <p>chou-fleur</p>
+    <p>artichaut</p>
+    <p>crème fraîche</p>
+    <p>Pour la Rhapsodie : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>dinde</p>
+    <p>champignons</p>
+    <p>paprika</p>
+    <p>crème fraîche</p>
+    <p>Pour la Symphonie : </p>
+    <p>tomate</p>
+    <p>fromage</p>
+    <p>olives</p>
+    <p>aiguillettes de canard</p>
+    <p>champignons</p>
+    <p>poivre vert</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etalez la préparation désirée sur votre pâte à pizza et enfournez environ 20 min à 180°C (thermostat 6).Ajuster la cuisson en fonction de la pâte et des ingrédients utilisés.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Etalez</OPER> la préparation désirée sur votre <INGRED id="1">pâte à pizza</INGRED> et enfournez environ 20 min à 180 ° C ( thermostat <OPER id="o_2">6).Ajuster</OPER> la cuisson en fonction de la <INGRED id="1">pâte</INGRED> et des ingrédients utilisés.
+  </annotation>
+  <annotation methode="crf">
+  Etalez la préparation désirée sur votre <INGRED>pâte</INGRED> à pizza et enfournez <INGRED>environ</INGRED> 20 min à 180 ° C ( thermostat 6).Ajuster la cuisson en fonction de la <INGRED>pâte</INGRED> et des ingrédients utilisés <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 2.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 278</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['PIZZAS TRADITIONNELLES', 'PIZZAS']	 id:1	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:3	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['oignons']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['anchois']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['oignons']	 id:13	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['lardons']	 id:14	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:15	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:16	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:17	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:18	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['jambon']	 id:19	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:20	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:21	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:22	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['jambon']	 id:23	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['champignons']	 id:24	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:25	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:26	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:27	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['jambon']	 id:28	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['champignons']	 id:29	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['lardons']	 id:30	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:31	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:32	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:33	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['jambon']	 id:34	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['champignons']	 id:35	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['oignons']	 id:36	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['lardons']	 id:37	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['PIZZAS FROMAGÈRES', 'PIZZAS']	 id:38	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:39	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:40	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['emmental']	 id:41	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['chèvre']	 id:42	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['herbes de Provence', 'herbes']	 id:43	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:44	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:45	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:46	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['emmental']	 id:47	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['chèvre']	 id:48	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['jambon']	 id:49	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:50	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:51	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:52	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['emmental']	 id:53	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['roquefort']	 id:54	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:55	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:56	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:57	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['emmental']	 id:58	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['roquefort']	 id:59	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['jambon']	 id:60	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:61	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:62	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:63	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['emmental']	 id:64	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['mozzarella']	 id:65	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['ricotta']	 id:66	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['feta']	 id:67	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:68	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:69	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:70	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['emmental']	 id:71	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème de gorgonzola', 'crème']	 id:72	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['noix']	 id:73	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['PIZZAS AU POISSON', 'PIZZAS']	 id:74	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:75	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:76	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:77	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['oignons']	 id:78	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['thon']	 id:79	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:80	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:81	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:82	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:83	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['thon']	 id:84	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['anchois']	 id:85	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['câpres']	 id:86	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:87	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:88	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:89	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fruits de mer', 'fruits']	 id:90	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:91	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:92	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:93	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:94	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['coquilles Saint-Jacques', 'coquilles']	 id:95	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['basilic']	 id:96	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:97	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:98	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:99	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:100	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['saumon']	 id:101	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['champignons']	 id:102	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:103	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:104	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:105	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['saumon fumé', 'saumon']	 id:106	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crevettes']	 id:107	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:108	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate fraîche', 'tomate']	 id:109	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:110	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:111	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['filet de dorade', 'filet']	 id:112	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['persillade']	 id:113	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:114	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:115	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:116	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:117	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['moules']	 id:118	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['persillade']	 id:119	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['PIZZAS EXOTIQUES', 'PIZZAS']	 id:120	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:121	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:122	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:123	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['jambon']	 id:124	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['lardons']	 id:125	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['ananas']	 id:126	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:127	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:128	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:129	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:130	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['merguez']	 id:131	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['pomme']	 id:132	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:133	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:134	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:135	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['banane']	 id:136	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['boudin']	 id:137	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['épices']	 id:138	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:139	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:140	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:141	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:142	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['jambon']	 id:143	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['chèvre']	 id:144	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['kiwi']	 id:145	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:146	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:147	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:148	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:149	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['noix']	 id:150	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['chocolat']	 id:151	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:152	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['SPÉCIALITÉS']	 id:153	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate fraiche', 'tomate']	 id:154	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:155	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:156	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:157	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['persillade']	 id:158	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:159	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:160	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:161	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['merguez']	 id:162	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['oignons']	 id:163	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivrons']	 id:164	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:165	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:166	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:167	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['chorizo']	 id:168	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['oignons']	 id:169	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivrons']	 id:170	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:171	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:172	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:173	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['chorizo']	 id:174	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['merguez']	 id:175	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['oignons']	 id:176	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:177	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:178	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:179	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['jambon']	 id:180	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['chorizo']	 id:181	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['lardons']	 id:182	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['oignons']	 id:183	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:184	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:185	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:186	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sauce bolognaise à la viande', 'sauce']	 id:187	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:188	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:189	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:190	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['viande hachée', 'viande']	 id:191	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['oignons']	 id:192	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['aubergines']	 id:193	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomates']	 id:194	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:195	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:196	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['brocolis']	 id:197	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["cœurs d'artichaut", 'cœurs']	 id:198	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['oignons']	 id:199	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivrons']	 id:200	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['lardons']	 id:201	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:202	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:203	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:204	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['jambons']	 id:205	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['courgettes']	 id:206	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['pignons']	 id:207	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['oignons']	 id:208	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:209	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:210	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:211	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:212	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['endives']	 id:213	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['chèvre']	 id:214	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['pignons']	 id:215	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:216	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:217	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:218	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:219	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['jambon']	 id:220	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['endives']	 id:221	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['asperges']	 id:222	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:223	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:224	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:225	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:226	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['asperges']	 id:227	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crevettes']	 id:228	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:229	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:230	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:231	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:232	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crevettes']	 id:233	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['avocat']	 id:234	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['citron']	 id:235	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:236	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:237	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:238	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['lardons']	 id:239	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['épinards']	 id:240	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:241	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:242	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:243	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:244	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['bacon']	 id:245	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:246	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:247	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:248	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:249	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['ventrèche']	 id:250	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['pruneaux Pour la Menuet', 'pruneaux']	 id:251	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:252	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:253	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:254	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['gésiers confits', 'gésiers']	 id:255	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['oignons']	 id:256	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['endives']	 id:257	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:258	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:259	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:260	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['jambon']	 id:261	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['chou-fleur']	 id:262	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['artichaut']	 id:263	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:264	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:265	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:266	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:267	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['dinde']	 id:268	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['champignons']	 id:269	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['paprika']	 id:270	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:271	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:272	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage']	 id:273	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives']	 id:274	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['aiguillettes de canard', 'aiguillettes']	 id:275	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['champignons']	 id:276	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre vert', 'poivre']	 id:277	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:etaler	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:6).ajuster	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

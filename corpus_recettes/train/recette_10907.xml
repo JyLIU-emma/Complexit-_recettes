@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10907">
+  <titre>Poulet sauté sauce chasseur</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet vidé</p>
+    <p>100 g de farine</p>
+    <p>80 g de beurre</p>
+    <p>sel, poivre</p>
+    <p>Pour la sauce :</p>
+    <p>fond brun de volaille</p>
+    <p>40 g d'échalotes</p>
+    <p>250 g de champignon de Paris</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>20 g de beurre</p>
+    <p>cerfeuil, estragon</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper le poulet à cru (détacher les ailes et les cuisses).Laver et couper en rondelles les champignons.
+    Eplucher, laver, ciseler les échalotes.
+    Hacher le cerfeuil et l'estragon.
+    Saler, poivrer et fariner les morceaux de poulet.
+    Faire chauffer le beurre.
+    Faire colorer les quarts de poulet côté peau d'abord. Retourner les morceaux.
+    Retirer du plat. Réserver au chaud.
+    Faire suer les échalotes. Ajouter les champignons. Ajouter le vin blanc et laisser réduire. Ajouter le fond brun de volaille (n'importe quelle quantité) et laisser réduire à nouveau.
+    Ajouter le cerfeuil et l'estragon. Assaisonner.
+    Remettre les morceaux dans la sauce. Laisser au chaud. La sauce ne doit pas bouillir. vin rouge corsé
+  ]]>
+  </preparation>
+</recette>

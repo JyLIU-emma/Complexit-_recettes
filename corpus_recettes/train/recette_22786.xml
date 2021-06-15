@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22786">
+  <titre>Nouilles sautées aux cinq parfums express</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 paquet de nouilles ramen (nouille asiatique en nid) </p>
+    <p>2 cuillères à café de 5 épices</p>
+    <p>250 g de julienne de légumes surgelée (courgette, carotte) </p>
+    <p>2 blancs de poulet, ou pour les soirs de fêtes, des gambas</p>
+    <p>un oignon frais</p>
+    <p>un peu d'huile de sésame</p>
+    <p>2 cuillères à café de graines de sésame</p>
+    <p>sauce soja</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole d'eau bouillante salée légèrement, plongez les nouilles. Laissez cuire moins de 9 mn. Egouttez. 
+    Dans une poêle, faites revenir les légumes, le poulet, un peu d'oignon frais. 
+    Saupoudrez de cinq parfums dès que les légumes sont cuits. Ajoutez l'huile de sésame et les graines. Jetez les nouilles, montez le feu et faites dorer légèrement. 
+    Servez très chaud, arrosez d'un touche de sauce soja !
+    Attention! si vous mettez de la sauce soja de ne pas préalablement saler votre plat !
+  ]]>
+  </preparation>
+</recette>

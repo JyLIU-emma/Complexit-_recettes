@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19939">
+  <titre>Cake au gruyère et au lard</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 oeufs</p>
+    <p>15 cl d'huile</p>
+    <p>15 cl de lait</p>
+    <p>200 g de gruyère</p>
+    <p>200 g de lard maigre</p>
+    <p>300 g de farine</p>
+    <p>1 paquet de levure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C (thermostat 6).
+    Râpez le gruyère et coupez le lard en lardons.
+    Fouettez les oeufs avec le lait et l'huile. Incorporez la moitié de la farine, le lard et rectifiez l'assaisonnement.
+    Mélangez la levure au reste de la farine puis au mélange précédent. Incorporez le gruyère.
+    Versez la préparation dans un moule à cake et enfournez pour 45 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

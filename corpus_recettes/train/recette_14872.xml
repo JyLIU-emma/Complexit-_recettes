@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14872">
+  <titre>Tarte au vin cuit</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 abaisse de pâte sablée ou feuilletée</p>
+    <p>20 cl de vin cuit (ou 4 à 5 cuillères à soupe) </p>
+    <p>25 cl de lait </p>
+    <p>100 g de sucre </p>
+    <p>1 pincée de sel </p>
+    <p>50 g de farine blanche (ou une cuillère à café de maïzena) </p>
+    <p>1 oeuf entier </p>
+    <p>beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C.Abaisser la pâte dans une plaque (25 cm de diamètre). Chauffer le beurre et la farine dans une casserole pour monter un roux.
+    Ajouter le lait et monter une béchamel très mousseuse en gardant une sauce épaisse.Y faire couler le vin cuit lentement. La couleur obtenue doit être un brun qui tend sur le marron.
+    Incorporer le sucre. Ajouter l'oeuf entier hors du feu.
+    Bien lier le tout et verser sur la pâte déjà prête.
+    Cuire 30 mn à 200°C.
+  ]]>
+  </preparation>
+</recette>

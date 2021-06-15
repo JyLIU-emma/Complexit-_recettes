@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16342">
+  <titre>Tarte au café</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée surgelée</p>
+    <p>2 cuillères à café d'extrait de café</p>
+    <p>100 g de sucre</p>
+    <p>200 g d'amande en poudre</p>
+    <p>4 oeufs</p>
+    <p>40 g de beurre pour le moule</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la pâte brisée, la plcer dans un moule à tarte beurré. Piquer le fond à la fourchette.
+    Dans une casserole, faire fondre le sucre avec 2 cuillerées d'eau et l'extrait de café. Faire bouillir 5 mn. Laisser tiédir.
+    Versez ce sirop dans une terrine, ajouter les amandes et les jaunes d'oeufs. Mélanger le tout.
+    Versez la préparation dans le fond de tarte. 
+    Enfournez à four chaud 230°C (thermostat 7) 25 mn. Laisser refroidir avant de servir.
+     café
+  ]]>
+  </preparation>
+</recette>

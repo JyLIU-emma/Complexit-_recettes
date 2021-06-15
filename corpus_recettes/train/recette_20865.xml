@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20865">
+  <titre>Agneau sauté aux épices</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 épaule d'agneau désossée et coupée en dés</p>
+    <p>3 oignons</p>
+    <p>2 gousses d'ail</p>
+    <p>1 boîte 1/2 de tomates pelées non égouttées</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>1 tasse à thé d'eau</p>
+    <p>2 clous de girofle écrasés</p>
+    <p>cannelle en poudre</p>
+    <p>1 étoile de badiane</p>
+    <p>1 cuillère à café de coriandre en poudre</p>
+    <p>du piment en poudre doux ou plus fort selon le goût</p>
+    <p>une pincée de cumin en poudre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et hacher finement l'ail et les oignons. Couper en dés les tomates en boîte. Réduire les clous de girofle en poudre. 
+    Dans un autocuiseur, faire colorer dans l'huile chaude les dés de viande, ajouter les oignons, l'ail et les tomates. Saupoudrer avec les épices. Verser l'eau et bien mélanger. 
+    Assaisonner. Fermer la cocotte. 
+    Laisser cuire 12 à 15 mn. 
+    Ouvrir la cocotte. Servir accompagné de riz.
+    Délicieux avec un riz pilaf
+  ]]>
+  </preparation>
+</recette>

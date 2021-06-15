@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="8343">
+  <titre>Salade vosgienne au Carré Frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 feuille de chêne bien tendre </p>
+    <p>200 g de Carré Frais</p>
+    <p>500 g de lardons </p>
+    <p>un peu de croûtons </p>
+    <p>poivre, sel, huile olive et vinaigre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer votre salade, et la disposer dans un plat.
+    Faire revenir les lardons quelques minutes, et les incorporer avec les croûtons dans le plat.
+    Effectuer l'assaisonnement, et émietter au dernier moment les morceaux de Carré Frais.
+    Servir de suite et bon appétit.
+  ]]>
+  </preparation>
+</recette>

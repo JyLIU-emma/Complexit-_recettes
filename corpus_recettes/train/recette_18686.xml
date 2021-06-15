@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18686">
+  <titre>Tarte facile poireaux tomates</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 poireaux</p>
+    <p>2 tomates</p>
+    <p>3 oeufs</p>
+    <p>une poignée de fromage râpé</p>
+    <p>30 cl de crème fraîche épaisse</p>
+    <p>sel poivre</p>
+    <p>pâte brisée pur beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les poireaux en petits morceaux, faites les revenir à la poêle dans un peu d'huile d'olive, rajoutez les tomates coupées en petits morceaux, à côté mélangez oeufs, fromages, crème, sel poivre. 
+    Rassemblez vos préparations et versez le tout sur votre pâte brisée au beurre. Enfournez pour 30 mn à four Th 210°C
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20532">
+  <titre>Ailerons de poulet marinés</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>10 ailerons de poulet</p>
+    <p>2 gousses d'ail</p>
+    <p>1 pincée de gingembre poudre</p>
+    <p>1 citron (jus)</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>2 cuillères à soupe de sauce soja</p>
+    <p>2 cuillères à soupe de miel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixez tous les ingrédients (sauf les ailerons). 
+    Mettre les ailerons à macérer une nuit dans la préparation. 
+    Les badigeonner de la préparation avant de les faire cuire au four préchauffé 25 mn à 150°c.
+    Très simple et goûteux avec une simple salade verte.
+  ]]>
+  </preparation>
+</recette>

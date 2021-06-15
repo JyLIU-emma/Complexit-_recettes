@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164949">
+  <titre>Salade d'endives light</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 endive </p>
+    <p>1 pomme rouge sucrée</p>
+    <p>50 g de gruyère</p>
+    <p>100g de dés de jambon</p>
+    <p>vinaigre de cidre</p>
+    <p>vinaigre balsamique</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>curry</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    c'est facile, il faut laver l'endive bien sur, éplucher la pomme, tout couper en petits dés, tout mélanger, et ajuster l'assaisonnement ci-dessus à votre gout 
+    (pour moi, 2 c à soupe de vinaigre de cidre, 1 c à café de balsamique, 1 pincée de sel, poivre, et curry)
+    bon appétit
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  c'est facile, il faut <OPER id="o_1">laver</OPER> l'<INGRED id="1">endive</INGRED> bien sur, <OPER id="o_2">éplucher</OPER> la <INGRED id="2">pomme</INGRED>, tout <OPER id="o_3">couper</OPER> en <INGRED id="3">petits</INGRED> <INGRED id="3">dés</INGRED>, tout <OPER id="o_4">mélanger</OPER>, et <OPER id="o_5">ajuster</OPER> l'assaisonnement ci - dessus à votre gout ( pour moi, 2 <INGRED id="7">c</INGRED> à soupe de <INGRED id="5">vinaigre de cidre</INGRED>, 1 <INGRED id="8">c</INGRED> à café de balsamique, 1 pincée de <INGRED id="5">sel</INGRED>, <INGRED id="8">poivre</INGRED>, et <INGRED id="9">curry</INGRED> ) bon appétit
+  </annotation>
+  <annotation methode="crf">
+  c'est facile <INGRED>,</INGRED> il faut laver l'endive bien sur <INGRED>,</INGRED> éplucher la <INGRED>pomme</INGRED> <INGRED>,</INGRED> tout couper en <INGRED>petits</INGRED> dés <INGRED>,</INGRED> tout mélanger <INGRED>,</INGRED> et ajuster l'assaisonnement ci - dessus à votre gout ( pour moi <INGRED>,</INGRED> 2 <INGRED>c</INGRED> à soupe de <INGRED>vinaigre de cidre</INGRED> <INGRED>,</INGRED> 1 <INGRED>c</INGRED> à <INGRED>café</INGRED> de balsamique <INGRED>,</INGRED> 1 pincée de <INGRED>sel</INGRED> <INGRED>,</INGRED> <INGRED>poivre</INGRED> <INGRED>,</INGRED> et <INGRED>curry</INGRED> ) bon appétit
+  </annotation>
+  <complexite>
+    <temps>f(X) = 1.33333333333333*X + 4.66666666666667</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 2*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['endive']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['pomme rouge sucrée', 'pomme']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['gruyère']	 id:3	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['dés de jambon', 'dés']	 id:4	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['vinaigre de cidre', 'vinaigre']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['vinaigre balsamique', 'vinaigre']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['curry']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:laver	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1*X*1	 recipient:0
+operation:éplucher	 id:o_2	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1*X*1	 recipient:0
+operation:couper	 id:o_3	 ingrédients_ralatifs:['3', '3']	 nombre_opération_atomique:1+1	 temps:1*X*1+1*X*1	 recipient:1
+operation:mélanger	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajuster	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

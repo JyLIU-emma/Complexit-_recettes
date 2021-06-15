@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23096">
+  <titre>Bûche aux marrons sans cuisson</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de marrons cuits</p>
+    <p>100 g de beurre</p>
+    <p>100 g de chocolat</p>
+    <p>100 g de sucre</p>
+    <p>vanille</p>
+    <p>5 cl de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les marrons dans de l'eau froide salée. 
+    Enlever les deux peaux, les marrons encore chauds. 
+    Passer au presse légumes, grille fine. 
+    Faire fondre le chocolat avec le beurre au bain-marie, y ajouter hors du feu le sucre vanillé. 
+    Incorporer à la purée de marrons le chocolat fondu et un peu de lait pour lier : le mélange doit rester ferme. 
+    Mouler dans un long bac de glace ou un moule à cake. 
+    Faire prendre au réfrigérateur. 
+    Servir, après nappage au chocolat, en tranches fines sur un fond d’assiette à dessert rempli de crème anglaise.
+    Se congèle très bien.
+    Un peu lourd...
+  ]]>
+  </preparation>
+</recette>

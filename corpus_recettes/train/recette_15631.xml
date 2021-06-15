@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15631">
+  <titre>Filets de poisson gratinés</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 filets de poisson (sole, flétan, sébaste)</p>
+    <p>1/2 tasse (120 ml) de bouillon de légumes</p>
+    <p>1/4 (60 ml) de tasse de vin blanc (ou eau)</p>
+    <p>1 tasse (150 g) de chapelure ou de pain séché émietté</p>
+    <p>1/4 tasse (50 g) de beurre</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>1 échalote hachée</p>
+    <p>1/4 tasse (40 g) de parmesan</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Chauffer le four à 375-400°CF (210°C).
+    Dans un plat graissé allant au four, disposer les filets de poisson en une seule couche. Verser le bouillon et le vin (ou l'eau) sur le poisson.
+    Dans un petit bol, mélanger la chapelure, le beurre, les jaunes d'oeufs et l'oignon jusqu'à ce que le mélange devienne friable.
+    Etendre ce mélange uniformément sur les filets et saupoudrer de fromage.
+    Cuire au four jusqu'à ce que la garniture soit dorée et que le poisson se défasse facilement à la fourchette.
+    Les enfants adorent et c'est très facile!
+  ]]>
+  </preparation>
+</recette>

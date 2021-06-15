@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25766">
+  <titre>Cocotte de morue à l'italienne</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de morue</p>
+    <p>4 oignons de grosse taille</p>
+    <p>4 carottes</p>
+    <p>10 pommes de terre</p>
+    <p>4 tomates</p>
+    <p>2 branches de céleri</p>
+    <p>100 g d'olives vertes</p>
+    <p>30 g de raisins secs</p>
+    <p>30 g de pignons</p>
+    <p>50 cl de vin blanc</p>
+    <p>sel, poivre de cayenne</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille, mettre la morue à dessaler dans l'eau froide.
+    Le lendemain, la rincer, l'égoutter, puis la faire pocher 3 à 4 min dans l'eau bouillante.
+    Peler et détailler les oignons en 4, puis trancher les carottes et les pommes de terre en rondelles.
+    Nettoyer les tomates et le céleri, puis les détailler en quartiers.
+    Dans une cocotte, mettre l'huile à chauffer, puis y ajouter les légumes avec la morue en morceaux.
+    Ajouter ensuite les raisins secs, les pignons, puis les olives et bien mélanger.
+    Arroser de vin blanc, assaisonner de poivre et laisser mijoter 1 h à couvert à feu doux.
+    Vérifier la cuisson et l'assaisonnement avant de servir et déguster bien chaud.
+  ]]>
+  </preparation>
+</recette>

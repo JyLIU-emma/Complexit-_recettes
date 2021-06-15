@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10587">
+  <titre>Pudding chômeur</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour le sirop :</p>
+    <p>400 g de cassonade</p>
+    <p>24 cl d'eau bouillante</p>
+    <p>2 cuillères à soupe de beurre</p>
+    <p>Pour la pâte :</p>
+    <p>100 g de farine</p>
+    <p>1/2 cuillère à thé de sel</p>
+    <p>100 g de sucre</p>
+    <p>1 oeuf</p>
+    <p>8 cl de lait</p>
+    <p>1.5 cuillères à thé de levure chimique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour obtenir le sirop, faire bouillir les ingrédients 2 minutes à feu moyen.
+    Bien mélanger la pâte et la verser par cuillerée sur le sirop bouillant.
+    Cuire à 180°C (350°F) de 25 à 30 minutes.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Pour obtenir le sirop, faire <OPER id="o_1">bouillir</OPER> les ingrédients 2 minutes à feu moyen. Bien <OPER id="o_2">mélanger</OPER> la <INGRED id="1">pâte</INGRED> et la <OPER id="o_3">verser</OPER> par cuillerée sur le sirop bouillant. <OPER id="o_4">Cuire</OPER> à 180 ° C ( 350 ° F ) de 25 à 30 minutes.
+  </annotation>
+  <annotation methode="crf">
+  Pour obtenir le <INGRED>sirop</INGRED> <INGRED>,</INGRED> faire bouillir les ingrédients 2 minutes à feu moyen <INGRED>.</INGRED> Bien mélanger la <INGRED>pâte</INGRED> et la verser par <INGRED>cuillerée</INGRED> sur le <INGRED>sirop</INGRED> bouillant. Cuire à 180 ° C ( 350 ° F ) de 25 à 30 minutes.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 1.71428571428571*X + 2.28571428571429</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 4*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['cassonade']	 id:1	 quantité:400	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['eau bouillante', 'eau']	 id:2	 quantité:24	 unité:cl d'	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:3	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['farine']	 id:4	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:5	 quantité:1/2	 unité:cuillère à thé de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:6	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oeuf']	 id:7	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['lait']	 id:8	 quantité:8	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['levure chimique', 'levure']	 id:9	 quantité:1.5	 unité:cuillères à thé de	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:bouillir	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mélanger	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:verser	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+]]>
+</operation_trouve>
+</recette>

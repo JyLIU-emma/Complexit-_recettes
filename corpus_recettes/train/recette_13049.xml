@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13049">
+  <titre>Cookies au chocolat aux raisins et noix</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>75 g beurre ramolli</p>
+    <p>160 g de sucre (de type vergeoise)</p>
+    <p>12,5 cl d'huile</p>
+    <p>50 g de sucre blanc</p>
+    <p>1 pincée de sel</p>
+    <p>1 cuillère à café de bicarbonate de soude</p>
+    <p>1 cuillère à café de vanille</p>
+    <p>2 oeufs</p>
+    <p>250 g de farine complète</p>
+    <p>250 g de flocons d'avoine</p>
+    <p>100 g de noix</p>
+    <p>150 g de raisins secs</p>
+    <p>200 g d'éclats de chocolat</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à thermostat 5. Beurrer une tôle.
+    Travailler quelques minutes le beurre, l'huile et les sucres. Ajouter tous les autres ingrédients, sauf les trois derniers (noix, raisins et chocolat), en mélangeant bien.
+    Hacher grossièrement les noix et les incorporer rapidement a la pâte, ainsi que les raisins et les éclats de chocolat.
+    Dresser des petits tas sur la tôle et, puisque ces cookies ne s'étalent pas, on peut les rapprocher, sans toutefois qu'ils se touchent. 
+    Cuire 8 à 10 mn.
+  ]]>
+  </preparation>
+</recette>

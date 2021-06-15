@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21610">
+  <titre>Dinde farcie et sauce au vin</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 grosse dinde</p>
+    <p>150 g de beurre</p>
+    <p>500 g de hachis de porc</p>
+    <p>500 g de hachis de veau</p>
+    <p>4 oeufs</p>
+    <p>10 cl de crème</p>
+    <p>1 petite boîte de pelures de truffes</p>
+    <p>80 g de mie de pain</p>
+    <p>10 cl de lait</p>
+    <p>sel, poivre</p>
+    <p>3 cl de cognac</p>
+    <p>3 cl à liqueur de porto</p>
+    <p>Pour la sauce :</p>
+    <p>50 g de beurre</p>
+    <p>50 g de farine</p>
+    <p>75 cl de vin rouge</p>
+    <p>3 cl de cognac</p>
+    <p>3 cl liqueur de porto</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Faire tremper le pain de mie dans le lait durant 10 minutes puis l'essorer.
+    Malaxer le veau et le porc avec la mie de pain, les oeufs et les truffes puis parfumer de porto et de cognac. Saler, poivrer.
+    Farcir la dinde puis recoudre l'ouverture pour éviter que la farce ne s'échappe durant la cuisson.
+    Déposer la dinde dans un plat et l'enduire de beurre.
+    Enfourner et compter 30 minutes de cuisson pour 500 g de viande soit 2 heures pour une dinde de 2 kg.
+    L’arroser régulièrement de jus de cuisson.
+    Pendant la cuisson, faire chauffer le vin avec le cognac et le porto. Faire réduire jusqu'à ce que le mélange nappe la cuillère.
+    Ajouter le jus de cuisson de la dinde puis le mélange farine beurre pour lier la sauce.
+    Laisser épaissir sur feu doux et servir avec la dinde.
+    NDLR : Une idée pour votre recette de Noel.
+  ]]>
+  </preparation>
+</recette>

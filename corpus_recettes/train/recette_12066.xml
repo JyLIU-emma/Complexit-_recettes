@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12066">
+  <titre>Picodon grillé</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 picodon demi-sec </p>
+    <p>huile d'olive</p>
+    <p>herbes de provence mélangées (laurier, thym, romarin, marjolaine, etc)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Choisir des picodons demi-secs et les faires macérer pendant 24 heures dans un bocal avec l'huile et les herbes.
+    Faire au barbecue une braise légère avec si possible des sarments de vigne et une ou deux branchettes de genèvrier.
+    Poser les fromages sur le grill chaud et les retouner souvent...la pâte ne doit pas flamber, mais chauffer à coeur pour qu'elle devienne onctueuse.
+    Servir très chaud. Côtes-de-Rhône
+  ]]>
+  </preparation>
+</recette>

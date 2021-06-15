@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11132">
+  <titre>Gratin de kiwis</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>150 g de beurre</p>
+    <p>150 g de sucre</p>
+    <p>150 g de noisette moulues</p>
+    <p>6 kiwis</p>
+    <p>5 cl de jus de fruits</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer un crumble avec une quantité égale de beurre, sucre et noisettes moulues, pour obtenir une pâte bien "grumeleuse".Mettre les kiwis coupés en tranches dans des petits plats à gratin individuels.
+    Mouiller avec du jus de fruits (mélange de type multifruits ou multivitamines). Répartir le crumble par-dessus.
+    Grâtiner a four chaud 15 minutes environ
+    utilisable aussi avec mangue, kaki...
+  ]]>
+  </preparation>
+</recette>

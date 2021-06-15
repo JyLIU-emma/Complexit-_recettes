@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173686">
+  <titre>Râble de lapin au foie gras et pain d'épice</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de râble de lapin</p>
+    <p>80 g de foie gras</p>
+    <p>2 tranches de pain de mie</p>
+    <p>1 tranche de pain d'épice</p>
+    <p>1 cl de cognac</p>
+    <p>10 grains de raisin (chasselas)</p>
+    <p>10 cl de crème fluide</p>
+    <p>10 g de foie gras</p>
+    <p>1 noisette de beurre</p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 7).Pour la farce, émietter le pain et 1/2 tranche de pain d'épice dans un bol.Désosser les râbles puis les mettre sur 1 feuille d'aluminium côté peau sur la feuille, saler et poivrer. 
+    Mettre la farce au centre des râbles puis le raisin et un peu de foie gras (en garder pour la sauce) et arroser le tout avec le cognac.
+    Rouler la préparation en serrant bien avec l'aluminium puis mettre au four à 200°C pendant 20 min.
+    Après cuisson, sortir les râbles de l'aluminium, les couper en tranches épaisses de 3 cm et les faire revenir dans une poêle avec le beurre pendant 5 min pour bien les colorer.
+    Pour la sauce, faire fondre le reste du foie gras à feux doux puis le mélanger à la crème pour l'épaissir. Émietter le restant du pain d'épice et le mélanger à la sauce.
+    Accompagner les râbles de riz avec des grains de raisin pour la décoration.Très bonne recette, ma femme a bien aimé. Attention toutefois à garder un bonne équilibre sucré-salé.  Pinot noire
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Préchauffer</OPER> le four à 200 ° C ( thermostat 7).Pour la farce, <OPER id="o_2">émietter</OPER> le <INGRED id="9">pain</INGRED> et 1/2 tranche de <INGRED id="7">pain d'épice</INGRED> dans un bol. <OPER id="o_3">Désosser</OPER> les râbles puis les <OPER id="o_4">mettre</OPER> sur 1 feuille d'aluminium côté peau sur la feuille, <OPER id="o_5">saler</OPER> et <OPER id="o_6">poivrer</OPER>. <OPER id="o_7">Mettre</OPER> la farce au centre des râbles puis le raisin et un peu de <INGRED id="2">foie gras</INGRED> ( en <OPER id="o_8">garder</OPER> pour la sauce ) et <OPER id="o_9">arroser</OPER> le tout avec le <INGRED id="7">cognac</INGRED>. <OPER id="o_10">Rouler</OPER> la <INGRED id="4">préparation</INGRED> en serrant bien avec l'aluminium puis <OPER id="o_11">mettre</OPER> au four à 200 ° C pendant 20 min. Après cuisson, <OPER id="o_12">sortir</OPER> les râbles de l'aluminium, les <OPER id="o_13">couper</OPER> en <INGRED id="4">tranches</INGRED> épaisses de 3 cm et les <INGRED id="10">faire</INGRED> <OPER id="o_14">revenir</OPER> dans une poêle avec le <INGRED id="9">beurre</INGRED> pendant 5 min pour bien les colorer. Pour la sauce, faire <OPER id="o_15">fondre</OPER> le <INGRED id="1">reste</INGRED> du <INGRED id="8">foie gras</INGRED> à feux doux puis le <OPER id="o_16">mélanger</OPER> à la crème pour l'épaissir. <OPER id="o_17">Émietter</OPER> le restant du <INGRED id="4">pain d'épice</INGRED> et le <OPER id="o_18">mélanger</OPER> à la sauce. Accompagner les râbles de riz avec des <INGRED id="6">grains de raisin</INGRED> pour la décoration. Très bonne recette, ma femme a bien aimé. Attention toutefois à <OPER id="o_19">garder</OPER> un bonne équilibre sucré - salé. Pinot noire
+  </annotation>
+  <annotation methode="crf">
+  Préchauffer le four à 200 ° C ( thermostat 7).Pour la farce <INGRED>,</INGRED> émietter le <INGRED>pain</INGRED> et <INGRED>1/2</INGRED> tranche de <INGRED>pain</INGRED> d'épice dans un bol <INGRED>.</INGRED> Désosser les râbles puis les mettre sur 1 feuille d'aluminium côté peau sur la feuille <INGRED>,</INGRED> saler et poivrer. Mettre la farce au centre des râbles puis le <INGRED>raisin</INGRED> et un peu de <INGRED>foie</INGRED> gras ( en garder pour la <INGRED>sauce</INGRED> ) et arroser le tout avec le <INGRED>cognac</INGRED> <INGRED>.</INGRED> Rouler la préparation en serrant bien avec l'aluminium puis mettre au four à 200 ° C pendant 20 min. Après cuisson <INGRED>,</INGRED> sortir les râbles de l'aluminium <INGRED>,</INGRED> les couper en tranches épaisses de 3 <INGRED>cm</INGRED> et les faire revenir dans une poêle avec le <INGRED>beurre</INGRED> pendant 5 min pour bien les colorer <INGRED>.</INGRED> Pour la <INGRED>sauce</INGRED> <INGRED>,</INGRED> faire fondre le <INGRED>reste</INGRED> du <INGRED>foie</INGRED> gras à feux doux puis le mélanger à la <INGRED>crème</INGRED> pour l'épaissir <INGRED>.</INGRED> Émietter le restant du <INGRED>pain</INGRED> d'épice et le mélanger à la <INGRED>sauce</INGRED>. Accompagner les râbles de <INGRED>riz</INGRED> avec des grains de <INGRED>raisin</INGRED> pour la décoration <INGRED>.</INGRED> Très bonne recette <INGRED>,</INGRED> ma femme <INGRED>a</INGRED> bien aimé <INGRED>.</INGRED> Attention toutefois à garder un bonne <INGRED>équilibre</INGRED> sucré - salé. Pinot noire
+  </annotation>
+  <complexite>
+    <temps>f(X) = 14.0*X + 7.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 14*X + 15</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['râble de lapin', 'râble']	 id:1	 quantité:400	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['foie gras', 'foie']	 id:2	 quantité:80	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['pain de mie', 'pain']	 id:3	 quantité:2	 unité:tranches de	 denombrable:True	 recipient:2*X
+ingredient:["pain d'épice", 'pain']	 id:4	 quantité:1	 unité:tranche de	 denombrable:True	 recipient:1*X
+ingredient:['cognac']	 id:5	 quantité:1	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['grains de raisin', 'grains']	 id:6	 quantité:10	 unité:non_precis	 denombrable:True	 recipient:10*X
+ingredient:['crème fluide', 'crème']	 id:7	 quantité:10	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['foie gras', 'foie']	 id:8	 quantité:10	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['noisette de beurre', 'noisette']	 id:9	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préchauffer	 id:o_1	 ingrédients_ralatifs:['9', '7']	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:émietter	 id:o_2	 ingrédients_ralatifs:['9', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:désosser	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:saler	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_7	 ingrédients_ralatifs:['2', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:garder	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:arroser	 id:o_9	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rouler	 id:o_10	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:sortir	 id:o_12	 ingrédients_ralatifs:['4', '10', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_13	 ingrédients_ralatifs:['4', '10', '9']	 nombre_opération_atomique:1*X+1+1*X	 temps:1*X*1+1*X*1+1*X*1	 recipient:1
+operation:revenir	 id:o_14	 ingrédients_ralatifs:['10', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:fondre	 id:o_15	 ingrédients_ralatifs:['1', '8']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:mélanger	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:émietter	 id:o_17	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:garder	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

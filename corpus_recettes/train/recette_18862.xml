@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18862">
+  <titre>Cheese cake</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de fromage blanc</p>
+    <p>10 cl de crème fraîche</p>
+    <p>200 g de biscuits petit beurre</p>
+    <p>100 g de noisettes décortiquées</p>
+    <p>100 g de beurre mou</p>
+    <p>100 g de sucre</p>
+    <p>2 oeufs</p>
+    <p>4 ou 5 feuilles de gélatine</p>
+    <p>1 citron non traité</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Réduire en poudre les biscuits et les noisettes. Y ajouter le beurre fondu. 
+    Garnir de ce mélange le fond d'une tourtière (en tassant un peu) et mettre au réfrigérateur. 
+    Faire tremper les feuilles de gélatine pour les ramollir, puis les égoutter. 
+    Presser le jus du citron et râper son zeste. 
+    Dans une casserole, faire fondre doucement les feuilles de gélatine et le jus de citron. 
+    Dans un plat, battre le sucre et les jaunes d'oeufs. Ajouter le fromage blanc, la crème fraîche et le zeste du citron, puis la gélatine fondue -sans cesser de battre. 
+    Monter les blancs en neige, les ajouter au mélange. 
+    Verser cette garniture sur le fond de biscuits-noisettes. 
+    Mettre au frais au moins 6 heures.
+  ]]>
+  </preparation>
+</recette>

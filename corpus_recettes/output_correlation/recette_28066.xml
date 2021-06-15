@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28066">
+  <titre>Sabayon à l'amaretto</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 jaune d'oeuf (garder une demi-coquille comme instrument de mesure des autre ingrédients) </p>
+    <p>1 demi-coquille d'oeuf de sucre semoule</p>
+    <p>2 demi-coquilles de vin blanc sec</p>
+    <p>1 filet d'amaretto</p>
+    <p>1 boule de glace vanille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettez tous les ingrédients dans un poêlon et battre en "S" sur feu très-très doux. 
+    Il est important de battre la préparation avec régularité. La préparation ne peut pas chauffer trop ni cuire. Elle doit impérativement rester tiède. Au besoin éloignez le poêlon quelques instants de la source de chaleur, sans cesse de battre. 
+    Après 5 à 10 mn, le mélange devient mousseux. Le bruit du fouet dans la préparation change, il devient plus sourd. 
+    Placez une boule de glace dans chaque coupe et répartissez le sabayon dessus. 
+    Servez sans attendre.
+    On peut remplacer l'amaretto par du cointreau.
+    Les principales difficultés sont de pouvoir battre la préparation avec beaucoup de régularité ainsi que de doser la température.
+    Cette recette nécessite de faire appel à a vue et à l'ouie : Il faut regarder la consistance que prend la préparation et également écouter le bruit que fait le fouet.  Ce sont les points de repère pour savoir si le sabayon est de bonne consistance.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Mettez</OPER> tous les ingrédients dans un poêlon et <OPER id="o_2">battre</OPER> en " S " sur feu très - très doux. Il est important de <OPER id="o_3">battre</OPER> la <INGRED id="4">préparation</INGRED> avec régularité. La <INGRED id="4">préparation</INGRED> ne peut pas <OPER id="o_4">chauffer</OPER> trop ni <OPER id="o_5">cuire</OPER>. Elle doit impérativement rester tiède. Au besoin <OPER id="o_6">éloignez</OPER> le poêlon quelques instants de la source de chaleur, sans cesse de <OPER id="o_7">battre</OPER>. Après 5 à 10 mn, le <INGRED id="2">mélange</INGRED> devient mousseux. Le bruit du fouet dans la <INGRED id="4">préparation</INGRED> change, il devient plus sourd. <OPER id="o_8">Placez</OPER> une <INGRED id="5">boule</INGRED> de glace dans chaque <INGRED id="2">coupe</INGRED> et <OPER id="o_9">répartissez</OPER> le sabayon dessus. Servez sans <OPER id="o_10">attendre</OPER>. On peut <OPER id="o_11">remplacer</OPER> l'amaretto par du cointreau. Les principales difficultés sont de <OPER id="o_12">pouvoir</OPER> <OPER id="o_13">battre</OPER> la <INGRED id="4">préparation</INGRED> avec beaucoup de régularité ainsi que de <OPER id="o_14">doser</OPER> la température. Cette recette nécessite de faire appel à a vue et à l'ouie : Il faut <OPER id="o_15">regarder</OPER> la consistance que prend la <INGRED id="4">préparation</INGRED> et également <OPER id="o_16">écouter</OPER> le bruit que fait le fouet. Ce sont les points de repère pour savoir si le sabayon est de bonne consistance.
+  </annotation>
+  <annotation methode="crf">
+  Mettez tous les ingrédients dans un poêlon et battre en " S " sur feu très - très doux. Il est important de battre la préparation avec régularité. La préparation ne peut pas chauffer trop ni cuire <INGRED>.</INGRED> Elle doit impérativement rester tiède. Au besoin éloignez le poêlon quelques instants de la source de chaleur <INGRED>,</INGRED> sans cesse de battre <INGRED>.</INGRED> Après 5 à 10 mn <INGRED>,</INGRED> le <INGRED>mélange</INGRED> devient mousseux. Le bruit du fouet dans la préparation change <INGRED>,</INGRED> il devient plus sourd. Placez une boule de <INGRED>glace</INGRED> dans chaque coupe et répartissez le sabayon dessus. Servez sans attendre <INGRED>.</INGRED> On peut remplacer l'amaretto par du cointreau. Les principales difficultés sont de pouvoir battre la préparation avec beaucoup de régularité ainsi que de doser la température. Cette recette nécessite de faire appel à <INGRED>a</INGRED> vue et à l'ouie <INGRED>:</INGRED> Il faut regarder la consistance que prend la préparation et également écouter le bruit que fait le fouet. Ce sont les points de repère pour savoir si le sabayon est de bonne consistance <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 16.0*X</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 6*X + 3</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:["jaune d'oeuf", 'jaune']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:["demi-coquille d'oeuf de sucre semoule", 'demi-coquille']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['demi-coquilles de vin blanc sec', 'demi-coquilles']	 id:3	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:["filet d'amaretto", 'filet']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['boule de glace vanille', 'boule']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mettre	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:battre	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_3	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:cuire	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:éloigner	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_8	 ingrédients_ralatifs:['5', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:répartir	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:attendre	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remplacer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:pouvoir	 id:o_12	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_13	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:doser	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:regarder	 id:o_15	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:écouter	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

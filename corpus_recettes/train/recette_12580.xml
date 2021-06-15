@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12580">
+  <titre>Streusel</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>400 g de farine</p>
+    <p>1 oeuf</p>
+    <p>1 pincée de sel</p>
+    <p>100 g de beurre</p>
+    <p>50 g de sucre</p>
+    <p>30 cl de lait</p>
+    <p>25 g de levure boulanger</p>
+    <p>Pour le streusel :</p>
+    <p>80 g de beurre fondu</p>
+    <p>120 g de farine</p>
+    <p>100 g de sucre</p>
+    <p>1 càs de cannelle</p>
+    <p>50 g d'amandes moulues</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la pâte : dissoudre la levure dans un peu de lait tiède. Mélanger tous les ingrédients et laisser reposer 30 minutes.
+    Beurrer un moule à tarte et y disposer la pâte.
+    Garniture : mélanger tous les ingrédients et laisser refroidir.
+    Badigeonner la pâte d'eau sucrée. Emietter la garniture sur la pâte et laisser encore lever 1h.
+    Faire cuire à 180°C pendant 40 minutes.
+  ]]>
+  </preparation>
+</recette>

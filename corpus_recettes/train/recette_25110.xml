@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25110">
+  <titre>Oranges pochées à la grenadine</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 belles oranges (peau fine)</p>
+    <p>20 cl de sirop de grenadine</p>
+    <p>250 g de sucre</p>
+    <p>2 cuillères à soupe de Grand-Marnier</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyez les oranges, prélevez les zestes avec un couteau pointu et hachez-les très finement.
+    Pelez les oranges à vif (n'enlèvez que l'écorce en tournant autour à l'aide d'un couteau) et laissez-les entières.
+    Mélangez le sucre, le sirop et 20 cl d'eau, faites bouillir légèrement à feu doux pendant 10 minutes.
+    Ajoutez la liqueur, les oranges et le zeste.
+    Laissez cuire à feu très doux pendant 40 minutes.
+    Laissez refroidir et réservez au frais dans un saladier.
+  ]]>
+  </preparation>
+</recette>

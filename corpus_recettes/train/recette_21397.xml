@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21397">
+  <titre>Ragoût de haricots verts aux tomates et aux oignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>750 g de haricots verts</p>
+    <p>750 g de tomates</p>
+    <p>2 poivrons</p>
+    <p>6 oignons</p>
+    <p>1 petite boîte de concentré de tomates</p>
+    <p>1 citron</p>
+    <p>20 cl d'huile</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les haricots verts à l'eau bouillante salée durant 12 minutes. Egouttez-les, ils sont encores croquants.
+    Faites fondre les oignons émincés et le poivron en dés dans l'huile d'olive. Lorsqu'ils sont tendres, ajoutez les tomates pelées, épépinées et concassées puis les haricots verts.
+    Délayez le concentré de tomates dans le jus du citron. Versez sur les légumes, salez, poivrez.
+    Laissez mijoter jusqu'à ce que les haricots soient cuits et la sauce épaissie.
+  ]]>
+  </preparation>
+</recette>

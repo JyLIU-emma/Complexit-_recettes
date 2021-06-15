@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10881">
+  <titre>Tartare de saumon fumé au carré frais sur lit de chicon blanchi</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tranches de saumon fumé</p>
+    <p>2 carré frais</p>
+    <p>1 beau chicon (endive)</p>
+    <p>1 bouquet de cressonnette</p>
+    <p>1/4 de poivron rouge</p>
+    <p>fleur de sel</p>
+    <p>poivre</p>
+    <p>vinaigre balsamique</p>
+    <p>3 cuillères à soupe de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Porter à ébullition 1 litre d'eau salée.
+    Y faire blanchir (2 min) les feuilles de chicon et (2min) le 1/4 de poivron.
+    Dresser 4 feuilles de chicon sur chaque assiette en forme de fleur,
+    peler et hacher le poivron et reserver dans un bol avec 1 petite cuillère de vinaigre balsamique, 1 pincée de fleur de sel et un tour de moulin à poivre.
+    Ecraser et mélanger les carrés frais, la crème fraîche et du poivre.
+    Couper au couteau le saumon fumé en tartare (petit morceau), l'ajouter au mélange au carré frais.
+    Dresser le taratre sur chaque feuille de chicon et la cressonnette sur le tartare.
+    Au milieu de l'assiette, ajouter la préparation de poivron (coeur de la fleur).
+    Bon appétit !
+  ]]>
+  </preparation>
+</recette>

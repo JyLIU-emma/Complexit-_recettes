@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13135">
+  <titre>Momotombo</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1 kg de chataignes</p>
+    <p>250 g de crème Chantilly</p>
+    <p>1 l de lait</p>
+    <p>250 g de sucre</p>
+    <p>1 bâton de vanille</p>
+    <p>2 bonnes cuillerées de (bon) cognac</p>
+    <p>4 jaunes d'oeuf</p>
+    <p>200 g de chocolat noir</p>
+    <p>1 noix de beurre</p>
+    <p>1 cuillerée de café fort</p>
+    <p>de l'eau pour cuire les chataignes</p>
+    <p>une pincée de sel</p>
+    <p>cognac pour flamber</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez et entaillez legèrement les chataignes, de façon à qu'elles n'éclatent pas pendant la cuisson.
+    Mettez-les dans de l'eau bouillante, avec une pincée de sel, et laissez cuire pendant + ou - une 1/2 heure.
+    Pelez les chateignes pendant qu'elles sont encore chaudes et remettez-les à cuire dans le lait sucré, avec le baton de vanille, pendant une 1/2 heure.
+    Passez-les à la main, avec un presse-purée, pour obtenir une purée fine et homogène.
+    Quand la purée est encore chaude, ajoutez, un à un les jaunes d'oeufs, le cognac et la crème battue sucrée, jusqu'à en obtenir une masse légère mais suffisament dense pour qu'on puisse la dresser en pyramide.
+    Faire un trou au sommet et y enfoncer une demi-coquille d'oeuf bien rincée, de façon telle qu'elle ne dépasse pas.
+    Dans une casserole à fond épais, faire fondre le chocolat dans le café. Une fois fondu, ajouter la noix de beurre et en enduire tout le gateau. Laissez refroidir.
+    Au moment de passer à table, chauffez un peu de cognac, versez-le dans la demi-coquille d'oeuf et flambez. Le plat ressemble à un petit volcan en flammes !Le Momotombo est un volcan du Nicaragua, chanté par V.Hugo.
+  ]]>
+  </preparation>
+</recette>

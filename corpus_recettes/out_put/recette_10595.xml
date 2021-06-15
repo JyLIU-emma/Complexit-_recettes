@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10595">
+  <titre>Pain d'œufs au caramel de l'abbaye de Château-Chalon</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>50 cl de lait</p>
+    <p>1 gousse de vanille</p>
+    <p>3 oeufs</p>
+    <p>125 g de sucre</p>
+    <p>Pour le caramel :</p>
+    <p>15 cl d'eau</p>
+    <p>250 g de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir un demi litre de lait avec un peu de vanille, le laisser refroidir à demi, y verser trois oeufs bien battus avec 125 gr de sucre et bien mélanger le tout.
+    Prendre un moule en métal dans lequel on fait un caramel avec de l'eau
+    et du sucre en l'étendant sur toute la paroi du moule, y verser le mélange d'oeufs et de lait et faire cuire au bain-marie pendant à peu près trois quarts d'heure.Recette Franc-Comtoise d'avant 1927.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">bouillir</OPER> un demi litre de <INGRED id="3">lait</INGRED> avec un peu de <INGRED id="2">vanille</INGRED>, le laisser <OPER id="o_2">refroidir</OPER> à demi, y <OPER id="o_3">verser</OPER> trois <INGRED id="5">oeufs</INGRED> bien battus avec 125 gr de <INGRED id="2">sucre</INGRED> et bien <OPER id="o_4">mélanger</OPER> le tout. <OPER id="o_5">Prendre</OPER> un moule en métal dans lequel on fait un caramel avec de l'<INGRED id="5">eau</INGRED> et du <INGRED id="4">sucre</INGRED> en l'étendant sur toute la paroi du moule, y <OPER id="o_6">verser</OPER> le mélange d'<INGRED id="2">oeufs</INGRED> et de lait et faire <OPER id="o_7">cuire</OPER> au bain - marie pendant à peu près trois quarts d'heure. Recette Franc-Comtoise d'avant 1927.
+  </annotation>
+  <annotation methode="crf">
+  Faire bouillir un <INGRED>demi</INGRED> litre de <INGRED>lait</INGRED> avec un peu de <INGRED>vanille</INGRED> <INGRED>,</INGRED> le laisser refroidir à <INGRED>demi</INGRED> <INGRED>,</INGRED> y verser trois <INGRED>oeufs</INGRED> bien battus avec 125 gr de <INGRED>sucre</INGRED> et bien mélanger le tout <INGRED>.</INGRED> Prendre un <INGRED>moule</INGRED> en métal dans lequel on fait un <INGRED>caramel</INGRED> avec de l'<INGRED>eau</INGRED> et du <INGRED>sucre</INGRED> en l'étendant sur toute la paroi du <INGRED>moule</INGRED> <INGRED>,</INGRED> y verser le <INGRED>mélange d'oeufs</INGRED> et de <INGRED>lait</INGRED> et faire cuire au bain - marie pendant à peu près trois quarts d'heure. Recette Franc-Comtoise d'avant 1927.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 3.5*X + 3.5</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 4*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['lait']	 id:1	 quantité:50	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['vanille']	 id:2	 quantité:1	 unité:gousse de	 denombrable:True	 recipient:1*X
+ingredient:['oeufs']	 id:3	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['sucre']	 id:4	 quantité:125	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['eau']	 id:5	 quantité:15	 unité:cl d'	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:6	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:bouillir	 id:o_1	 ingrédients_ralatifs:['3', '2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:refroidir	 id:o_2	 ingrédients_ralatifs:['3', '2']	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:verser	 id:o_3	 ingrédients_ralatifs:['5', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:prendre	 id:o_5	 ingrédients_ralatifs:['5', '4', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_6	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+]]>
+</operation_trouve>
+</recette>

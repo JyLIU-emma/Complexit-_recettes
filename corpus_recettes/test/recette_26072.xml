@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26072">
+  <titre>Gâteau à la noisette et à la cannelle</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>100 g de poudre de noisette</p>
+    <p>50 g de farine</p>
+    <p>50 g de beurre</p>
+    <p>25 cl de lait</p>
+    <p>4 oeufs</p>
+    <p>70 g de sucre semoule</p>
+    <p>10 g de cannelle</p>
+    <p>20 g de beurre pour le moule</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (thermostat 7).
+    Mettre le lait à chauffer.
+    Dans un saladier, battre les jaunes d’oeufs avec le beurre fondu, la farine, le lait, le poudre de noisette et la cannelle.
+    Bien mélanger le tout puis y ajouter le sucre.
+    Fouetter les blancs en neige puis les incorporer délicatement au mélange.
+    Beurrer un moule à manqué et y verser la préparation.
+    Faire cuire le gâteau pendant 45 minutes.
+  ]]>
+  </preparation>
+</recette>

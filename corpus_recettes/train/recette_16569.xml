@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16569">
+  <titre>Fougasse facile</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de farine</p>
+    <p>50 g de levure de boulanger</p>
+    <p>1 verre d'huile d'olive</p>
+    <p>8 gouttes d'eau de fleur d'oranger</p>
+    <p>200 g de sucre</p>
+    <p>2 pincées de sel</p>
+    <p>1 cuillère à soupe de grains de fenouil</p>
+    <p>50 g de beurre</p>
+    <p>1 oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Délayez la levure avec l'eau de fleur d'oranger. Mélangez avec le tiers de la farine.
+    Faites lever la pâte pendant 1 h dans un local un peu chaud.
+    Au bout de ce temps, pétrissez cette pâte en incorporant le reste de la farine, le sucre, l'huile d'olive et le sel.
+    Laissez encore mûrir 1 h dans un endroit de température plutôt élevée.
+    Préchauffez le four (thermostat 5/6 - 150-180°C)pendant 20 mn.
+    Beurrez une tourtière. Etendez la pâte avec les mains. Dorez le dessus à l'oeuf. Saupoudrez de grains de fenouil. Cuisez 45 mn à four moyen (thermostat 5/6 - 150-180°C).
+    La fougasse constitue une excellent dessert mais peut surtout se manger à tout moment de la journée pour 'boucher un petit creux'.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10563">
+  <titre>Anneaux de concombre farcis au carrés frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 concombre</p>
+    <p>150 g de carrés frais</p>
+    <p>50 g de fromage blanc</p>
+    <p>1 gousse d'ail</p>
+    <p>5 branches de cerfeuil</p>
+    <p>ciboulette</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez et pelez le concombre en gardant une bande de peau sur deux
+    Coupez_ le en 8 trançons de 2 cm chacun. A l'aide de la pointe d'un couteau, évidez d'1 cm chaque tronçon, arrosez d'un filet d'huile d'olive. Réservez.
+    Mettez les carrés frais dans un récipient, écrasez grossièrement à l'aide d'une fourchette, ajoutez le fromage blanc, la gousse d'ail écrasée, salez, poivrez.
+    Lavez et hachez le cerfeuil et la ciboulette. Ajoutez à la préparation et mélangez.
+    Farcissez chaque tronçon de concombre de ce mélange en formant un dôme.
+    Servez avec des oeufs à la coque et quelques mouillettes.
+  ]]>
+  </preparation>
+</recette>

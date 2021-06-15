@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12111">
+  <titre>Sauces pour fondue chinoise</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la base :</p>
+    <p>5 cuillères à soupe de mayonnaise (ou yaourt nature ou crème)</p>
+    <p>Pour des sauces variées :</p>
+    <p>1.5 cuillères à soupe de moutarde forte</p>
+    <p>1 cuillère à soupe de sauce soja</p>
+    <p>noix de Grenoble</p>
+    <p>1 oignon vert</p>
+    <p>2 cuillères à soupe de ketchup</p>
+    <p>100 g de cornichons</p>
+    <p>aneth</p>
+    <p>1 cuillère à soupe de câpres</p>
+    <p>ail</p>
+    <p>ciboulette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    À la base, ajouter:
+    de la moutarde forte
+    de la sauce soja, des noix de Grenoble émiettées et des oignons verts
+    du ketchup, des cornichons à l'aneth et des câpres
+    de la poudre de cari et des oignons verts
+    de l'ail très finement haché et de la ciboulette
+    Varier à l'infini en ajoutant les ingrédients qu'on a au frais.
+  ]]>
+  </preparation>
+</recette>

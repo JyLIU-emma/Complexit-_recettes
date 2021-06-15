@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24543">
+  <titre>Pâté de saumon express</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 boîtes de saumon </p>
+    <p>1 St Moret format familial (ou 2 petits) </p>
+    <p>100 g beurre</p>
+    <p>jus de citron (à goûter) </p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixer tous les ingrédients au robot. 
+    Placer au frigo minimum 2 heures. 
+    Servir sur des tranches de pain grillé.
+     vin blanc sec 
+  ]]>
+  </preparation>
+</recette>

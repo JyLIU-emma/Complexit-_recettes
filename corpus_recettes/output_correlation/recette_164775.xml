@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164775">
+  <titre>Tarte citron orange meringuée</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>2 citrons</p>
+    <p>2 oranges </p>
+    <p>200 g de sucre</p>
+    <p>25 cl de crème liquide</p>
+    <p>4 oeufspour la meringue:</p>
+    <p>2 blancs d'oeufs</p>
+    <p>50 g de sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Piquer la pâte
+    battre les oeufs avec le sucre , incorporer la crême liquide ajouter le jus des citrons et oranges.verser sur la pâte .
+    faire cuire 30min th 6 ou 180°.
+    laisser refroidir.
+    pour la meringue:
+    monter les blancs en neige, ajouter le sucre glace a la fin pour obtenir une préparation qui brille,
+    étaler sur la tarte et passer au four th 7ou 210° pendant environ 5 min.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Piquer</OPER> la <INGRED id="1">pâte</INGRED> <OPER id="o_2">battre</OPER> les <INGRED id="2">oeufs</INGRED> avec le sucre, <OPER id="o_3">incorporer</OPER> la crême liquide <OPER id="o_4">ajouter</OPER> le jus des <INGRED id="4">citrons</INGRED> et <OPER id="o_5">oranges.verser</OPER> sur la <INGRED id="1">pâte</INGRED>. faire <OPER id="o_6">cuire</OPER> 30min th 6 ou 180 °. laisser <OPER id="o_7">refroidir</OPER>. pour la meringue : <OPER id="o_8">monter</OPER> les <INGRED id="7">blancs</INGRED> en neige, <OPER id="o_9">ajouter</OPER> le <INGRED id="8">sucre glace</INGRED> a la fin pour obtenir une <INGRED id="4">préparation</INGRED> qui brille, <OPER id="o_10">étaler</OPER> sur la tarte et <OPER id="o_11">passer</OPER> au four th 7ou 210 ° pendant environ 5 min.
+  </annotation>
+  <annotation methode="crf">
+  Piquer la <INGRED>pâte</INGRED> battre les <INGRED>oeufs</INGRED> avec le <INGRED>sucre</INGRED> <INGRED>,</INGRED> incorporer la crême liquide ajouter le <INGRED>jus</INGRED> des <INGRED>citrons</INGRED> et oranges.verser sur la <INGRED>pâte</INGRED> <INGRED>.</INGRED> faire cuire 30min th 6 <INGRED>ou</INGRED> 180 °. laisser refroidir <INGRED>.</INGRED> pour la meringue <INGRED>:</INGRED> monter les <INGRED>blancs</INGRED> en neige <INGRED>,</INGRED> ajouter le <INGRED>sucre glace</INGRED> <INGRED>a</INGRED> la fin pour obtenir une préparation qui brille <INGRED>,</INGRED> étaler sur la tarte et passer au four th 7ou 210 ° pendant <INGRED>environ</INGRED> 5 min.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 8.64285714285714*X + 2.35714285714286</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 11*X + 4</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pâte feuilletée', 'pâte']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['citrons']	 id:2	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['oranges']	 id:3	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['sucre']	 id:4	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crème liquide', 'crème']	 id:5	 quantité:25	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:6	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:["blancs d'oeufs", 'blancs']	 id:7	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['sucre glace', 'sucre']	 id:8	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:piquer	 id:o_1	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_2	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_3	 ingrédients_ralatifs:['1', '2', '4', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_4	 ingrédients_ralatifs:['4', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:oranges.verser	 id:o_5	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:refroidir	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:monter	 id:o_8	 ingrédients_ralatifs:['7', '8', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:['8', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étaler	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:passer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+]]>
+</operation_trouve>
+</recette>

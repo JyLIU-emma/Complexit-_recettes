@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164931">
+  <titre>Poulet indien à l'orange de Savita et Gauri</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 poitrines de poulet (ou de dinde)</p>
+    <p>1 yaourt brassé (type yaourt grec ou yaourt bulgare)</p>
+    <p>1 tomate</p>
+    <p>3 oignons</p>
+    <p>20 cl de purée de tomates</p>
+    <p>25 cl de jus d'orange</p>
+    <p>2 gousses d'ail</p>
+    <p>1 gros piment vert (ou 1 rouge à défaut)</p>
+    <p>1 cuillère à café de gingembre en poudre</p>
+    <p>1 cuillère à café de curcuma en poudre</p>
+    <p>1 cuillère à café de gingembre en poudre</p>
+    <p>4 cuillères à soupe d'huile d'olive</p>
+    <p>1 feuille de laurier</p>
+    <p>2 gousses de cardamome</p>
+    <p>2 clous de girofle</p>
+    <p>3 cuillères à soupe bombées de fenugrec (l'herbe, pas la graine)</p>
+    <p>1/2 cuillère à café de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le poulet en dés de 2 cm de côté environ.Mélanger le sel, le yaourt, la moitié du jus d'orange, le gingembre, l'ail pressé en pâte et 2 cuillères d'huile d'olive. Faire mariner le poulet dans ce mélange pendan 1 nuit si possible, ou à défaut le temps dont vous diposez (ça peut être juste 10 minutes si vous n'avez pas le temps).Ecraser au mortier le contenu des gousses de cardamome (oui, les petites graines noir qu'il y a dedans), puis les Faire chauffer dans 1 cuillère d'huile d'olive la cardamome, les clous de girofle et la feuille de laurier.
+    Après 2 minutes, ajouter les oignons 
+    hachésfinement.
+    Quand ils ont fondu, ajouter la tomate coupée en morceaux très fins.
+    Quand elle a fondu à son tour, ajouter la purée de tomates, puis le fenugrec.
+    Dans un wok, une sauteuse ou une casserole, faire revenir le poulet et sa marinade. Dès que les morceaux commencent à être cuits (ça prend 5 minutes tout au plus), ajouter l'autre mélange, le reste du jus d'orange, puis laisser mijoter 10 minutes.
+    Servir avec un riz basmati.Le fenugrec donne un goût particulier très fin, mais on peut tout à faire faire le plat sans.
+    Plat imaginé par Savita et Gauri, nos deux hôtesses en Inde, qui nous ont donné quelques recettes en échange d'une petite leçon (et dégustation) de lasagnes végétariennes, gratin dauphinois, poulet caracajou et tiramisù ! Un rosé de Bandol ou un Madiran
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Couper</OPER> le poulet en <INGRED id="4">dés</INGRED> de 2 cm de côté environ. <OPER id="o_2">Mélanger</OPER> le <INGRED id="5">sel</INGRED>, le <INGRED id="2">yaourt</INGRED>, la moitié du <INGRED id="2">jus d'orange</INGRED>, le <INGRED id="11">gingembre</INGRED>, l'<INGRED id="9">ail</INGRED> pressé en <INGRED id="1">pâte</INGRED> et 2 cuillères d'<INGRED id="5">huile d'olive</INGRED>. Faire <OPER id="o_3">mariner</OPER> le poulet dans ce <INGRED id="2">mélange</INGRED> pendan 1 nuit si possible, ou à défaut le temps dont vous diposez ( ça peut être juste 10 minutes si vous n'avez pas le <OPER id="o_4">temps).Ecraser</OPER> au mortier le contenu des <INGRED id="3">gousses</INGRED> de <INGRED id="14">cardamome</INGRED> ( oui, les petites <INGRED id="3">graines</INGRED> noir qu'il y a dedans ), puis les Faire <OPER id="o_5">chauffer</OPER> dans 1 cuillère d'<INGRED id="5">huile d'olive</INGRED> la <INGRED id="14">cardamome</INGRED>, les <INGRED id="15">clous de girofle</INGRED> et la feuille de <INGRED id="11">laurier</INGRED>. Après 2 minutes, <OPER id="o_6">ajouter</OPER> les oignons hachésfinement. Quand ils ont fondu, <OPER id="o_7">ajouter</OPER> la <INGRED id="16">tomate</INGRED> coupée en <INGRED id="1">morceaux</INGRED> très fins. Quand elle a fondu à son tour, <OPER id="o_8">ajouter</OPER> la <INGRED id="5">purée de tomates</INGRED>, puis le <INGRED id="16">fenugrec</INGRED>. Dans un wok, une sauteuse ou une casserole, <INGRED id="14">faire</INGRED> <OPER id="o_9">revenir</OPER> le poulet et sa marinade. Dès que les <INGRED id="1">morceaux</INGRED> commencent à être cuits ( ça prend 5 minutes tout au plus ), <OPER id="o_10">ajouter</OPER> l'autre <INGRED id="2">mélange</INGRED>, le <INGRED id="1">reste</INGRED> du <INGRED id="9">jus d'orange</INGRED>, puis <INGRED id="12">laisser</INGRED> <OPER id="o_11">mijoter</OPER> 10 minutes. Servir avec un <INGRED id="3">riz basmati</INGRED>. Le <INGRED id="16">fenugrec</INGRED> donne un <INGRED id="7">goût</INGRED> particulier très fin, mais on peut tout à <INGRED id="10">faire</INGRED> <INGRED id="10">faire</INGRED> le plat sans. Plat imaginé par Savita et Gauri, nos deux hôtesses en Inde, qui nous ont donné quelques recettes en échange d'une <INGRED id="2">petite</INGRED> leçon ( et dégustation ) de <INGRED id="8">lasagnes</INGRED> végétariennes, gratin dauphinois, poulet caracajou et tiramisù ! Un rosé de Bandol ou un Madiran
+  </annotation>
+  <annotation methode="crf">
+  Couper le <INGRED>poulet</INGRED> en dés de 2 <INGRED>cm</INGRED> de côté <INGRED>environ</INGRED>. Mélanger le <INGRED>sel</INGRED> <INGRED>,</INGRED> le <INGRED>yaourt</INGRED> <INGRED>,</INGRED> la moitié du <INGRED>jus d'orange</INGRED> <INGRED>,</INGRED> le <INGRED>gingembre</INGRED> <INGRED>,</INGRED> l'<INGRED>ail</INGRED> pressé en <INGRED>pâte</INGRED> et 2 <INGRED>cuillères d'huile d'olive</INGRED> <INGRED>.</INGRED> Faire mariner le <INGRED>poulet</INGRED> dans ce <INGRED>mélange</INGRED> pendan 1 nuit si possible <INGRED>,</INGRED> <INGRED>ou</INGRED> à défaut le temps dont vous diposez ( ça peut être juste 10 minutes si vous n'avez pas le temps).Ecraser au mortier le contenu des gousses de <INGRED>cardamome</INGRED> ( oui <INGRED>,</INGRED> les petites <INGRED>graines noir</INGRED> qu'il y <INGRED>a</INGRED> dedans ) <INGRED>,</INGRED> puis les Faire chauffer dans 1 cuillère d'<INGRED>huile d'olive</INGRED> la <INGRED>cardamome</INGRED> <INGRED>,</INGRED> les <INGRED>clous de girofle</INGRED> et la feuille de <INGRED>laurier</INGRED>. Après 2 minutes <INGRED>,</INGRED> ajouter les <INGRED>oignons hachésfinement</INGRED> <INGRED>.</INGRED> Quand ils ont fondu <INGRED>,</INGRED> ajouter la <INGRED>tomate</INGRED> coupée en <INGRED>morceaux</INGRED> très fins. Quand elle <INGRED>a</INGRED> fondu à son tour <INGRED>,</INGRED> ajouter la <INGRED>purée</INGRED> de <INGRED>tomates</INGRED> <INGRED>,</INGRED> puis le fenugrec. Dans un wok <INGRED>,</INGRED> une sauteuse <INGRED>ou</INGRED> une casserole <INGRED>,</INGRED> faire revenir le <INGRED>poulet</INGRED> et sa marinade <INGRED>.</INGRED> Dès que les <INGRED>morceaux</INGRED> commencent à être cuits ( ça prend 5 minutes tout au plus ) <INGRED>,</INGRED> ajouter l'autre <INGRED>mélange</INGRED> <INGRED>,</INGRED> le <INGRED>reste</INGRED> du <INGRED>jus d'orange</INGRED> <INGRED>,</INGRED> puis laisser mijoter 10 minutes. Servir avec un <INGRED>riz</INGRED> basmati <INGRED>.</INGRED> Le fenugrec donne un goût particulier très fin <INGRED>,</INGRED> mais on peut tout à faire faire le plat sans <INGRED>.</INGRED> Plat imaginé par Savita et Gauri <INGRED>,</INGRED> nos <INGRED>deux</INGRED> hôtesses en Inde <INGRED>,</INGRED> qui nous ont donné quelques recettes en échange d'une <INGRED>petite</INGRED> leçon ( et dégustation ) de lasagnes végétariennes <INGRED>,</INGRED> gratin dauphinois <INGRED>,</INGRED> <INGRED>poulet</INGRED> caracajou et tiramisù ! Un rosé de Bandol <INGRED>ou</INGRED> un Madiran
+  </annotation>
+  <complexite>
+    <temps>f(X) = 9.9*X + 1.1</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 27*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['poitrines de poulet', 'poitrines']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['yaourt brassé', 'yaourt']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['tomate']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['oignons']	 id:4	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['purée de tomates', 'purée']	 id:5	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:["jus d'orange", 'jus']	 id:6	 quantité:25	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['ail']	 id:7	 quantité:2	 unité:gousses d'	 denombrable:True	 recipient:2*X
+ingredient:['piment vert', 'piment']	 id:8	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['gingembre en poudre', 'gingembre']	 id:9	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+ingredient:['curcuma en poudre', 'curcuma']	 id:10	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+ingredient:['gingembre en poudre', 'gingembre']	 id:11	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+ingredient:["huile d'olive", 'huile']	 id:12	 quantité:4	 unité:cuillères à soupe d'	 denombrable:True	 recipient:4*X
+ingredient:['laurier']	 id:13	 quantité:1	 unité:feuille de	 denombrable:True	 recipient:1*X
+ingredient:['cardamome']	 id:14	 quantité:2	 unité:gousses de	 denombrable:True	 recipient:2*X
+ingredient:['clous de girofle', 'clous']	 id:15	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['fenugrec']	 id:16	 quantité:3	 unité:cuillères à soupe bombées de	 denombrable:True	 recipient:3*X
+ingredient:['sel']	 id:17	 quantité:1/2	 unité:cuillère à café de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:couper	 id:o_1	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:3*X*1	 recipient:1
+operation:mélanger	 id:o_2	 ingrédients_ralatifs:['5', '2', '2', '11', '9', '1', '5']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mariner	 id:o_3	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:temps).ecraser	 id:o_4	 ingrédients_ralatifs:['2', '3', '14', '3', '5', '14', '15', '11']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_5	 ingrédients_ralatifs:['5', '14', '15', '11']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:['16', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['5', '16']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:revenir	 id:o_9	 ingrédients_ralatifs:['14']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:['2', '1', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+]]>
+</operation_trouve>
+</recette>

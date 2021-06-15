@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22540">
+  <titre>Rôti de veau mariné à l'espagnole</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>de l'huile d'olive</p>
+    <p>Pour la marinade :</p>
+    <p>1 cuillère à café de poivre rouge</p>
+    <p>1 cuillère à café d'origan</p>
+    <p>1 gousse d'ail écrasée</p>
+    <p>50 cl de vin blanc sec</p>
+    <p>le jus d'une orange</p>
+    <p>le jus d'un citron.</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la marinade en mélangeant tous les ingrédients.
+    Ficeler le rôti de veau et le faire tremper 2 h dans la préparation de marinade, au mieux une nuit.
+    Egoutter le rôti et le faire dorer dans une cocotte avec l'huile d'olive. Cuire à feu doux.
+    Assaisonner de sel et poivre et servir de suite.
+  ]]>
+  </preparation>
+</recette>

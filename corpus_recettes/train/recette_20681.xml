@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20681">
+  <titre>Ragoût de viande aux petits pois et à la tomate</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g de porc dans l'échine</p>
+    <p>250 g de plates-côtes de boeuf</p>
+    <p>60 g de beurre</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>20 cl de bouillon</p>
+    <p>2 cuillères de Madère</p>
+    <p>200 g de jambon fumé</p>
+    <p>2 blancs de poireau</p>
+    <p>250 g de petits pois</p>
+    <p>250 g de tomates pelées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le boeuf et le porc en moreceaux et les faire colorer à la poêle avec un peu de beurre (30 g).
+    Préparer un roux : mélanger la farine avec le reste de beurre sur feu doux puis verser le jus de cuisson des viandes, le Madère et le bouillon. Saler, poivrer et retirer du feu.
+    Préchauffer le four à 180°C (thermostat 6).
+    Déposer les viandes dans une cocotte. Couper le jambon en petits dés, l'ajouter, émincer les poireaux, les ajouter. Mettre ensuite les petits pois et les tomates pelées. Arroser de sauce (le roux), couvrir et enfourner pour 1 heure.
+  ]]>
+  </preparation>
+</recette>

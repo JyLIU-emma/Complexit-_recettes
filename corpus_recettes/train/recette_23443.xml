@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23443">
+  <titre>La béchamel au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de chocolat</p>
+    <p>80 g de sucre</p>
+    <p>40 g de beurre</p>
+    <p>35 g de farine</p>
+    <p>3/4 de litre de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le sucre et le chocolat dans le lait chaud. 
+    Dans une autre casserole faire fondre le beurre puis y ajouter la farine bien mélanger (fouettez comme pour une béchamel salée), laisser cuire 1 mn. 
+    Y incorporer petit à petit le lait chocolaté. 
+    Faire cuire 10 mn en tournant.
+    Très simple à réaliser même pour les débutants en cuisine. Très apprécié par les gourmands.
+  ]]>
+  </preparation>
+</recette>

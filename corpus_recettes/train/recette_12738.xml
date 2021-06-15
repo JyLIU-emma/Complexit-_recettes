@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12738">
+  <titre>Aiguillettes de canard à l'orange</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g d'aiguillettes de canard</p>
+    <p>5 oranges juteuses</p>
+    <p>un demi poivron vert</p>
+    <p>un demi poivron rouge</p>
+    <p>4 cuillères à soupe d'huile d'olive</p>
+    <p>1 verre et demi de blé (type ebly)</p>
+    <p>75 cl de vin blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Presser 4 oranges, verser le jus dans un grand saladier, y ajouter l'huile d'olive (sel et poivre), y faire mariner les aiguillettes environ 30 minutes au réfrigérateur.
+    Découper les poivrons en petits carrés, faire revenir dans une poèle avec un peu d'huile (sel et poivre) jusqu'à ce que les poivrons soient moelleux.
+    Ajouter les aiguillettes dans la poèle avec la marinade. Laisser mijoter 2 minutes au feu doux puis saisir à feu fort chaque aiguillette.
+    La cuisson doit être savamment dosée, le canard doit être servi rosé.
+    Servir avec le blé qui aura cuit dans 75 cl de vin blanc et 3 verres d'eau.
+    Verser le reste de marinade recueilli après la cuisson sur le blé.
+  ]]>
+  </preparation>
+</recette>

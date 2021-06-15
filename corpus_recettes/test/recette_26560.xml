@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26560">
+  <titre>Chapon farci au foie gras</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1 chapon (environ 3 kg) </p>
+    <p>un peu d'huile</p>
+    <p>une petite truffe</p>
+    <p>Pour la farce :</p>
+    <p>300 g de veau à blanquette (vous pouvez aussi mettre du porc) </p>
+    <p>150 g de foie gras (de préférence avec morceaux) </p>
+    <p>1 oeuf entier</p>
+    <p>6 tranches de pain brioché spécial foie gras (ou 3 tranches de pain de mie) </p>
+    <p>sel, poivre</p>
+    <p>un cube de bouillon de poule émietté</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la farce au mixer en mélangeant la viande, le pain, l'oeuf et le foie gras. Assaisonner à votre goût. 
+    Mettre la farce dans le chapon et le coudre. 
+    Préparer une huile aromatisée avec du sel, poivre, thym, laurier, et autres herbes de Provence et un peu de truffe. 
+    Mettre le reste de la truffe découpé en fines lamelles sous la peau du chapon. Enduire le chapon avec l'huile. Laisser reposer une heure pour que les parfums imprègnent bien le chapon. 
+    Mettre au four thermostat 7 pour 2 heures, en arrosant régulièrement le chapon de son jus de cuisson.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23931">
+  <titre>Potée de poireaux</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 saucisses à cuire</p>
+    <p>1 kg de poireaux</p>
+    <p>500 g de pommes de terre</p>
+    <p>20 cl de vin blanc</p>
+    <p>50 g de saindoux ou de beurre</p>
+    <p>1 cuillère à café de Maïzena</p>
+    <p>10 cl d'eau</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez les poireaux, coupez le bout des feuilles vertes. Emincez-les en rondelles. 
+    Epluchez et lavez les pommes de terre, coupez-les en rondelles.
+    Faites fondre le saindoux ou le beurre dans une cocotte.
+    Faites suer les poireaux quelques minutes.
+    Ajoutez les pommes de terre, salez, poivrez et mouillez avec le vin blanc et 1/2 verre d'eau. 
+    Mettez les saucisses dans la cocotte, recoucrez-les légèrement de poireaux, couvrez et laissez mijoter 30 min.
+    Délayez la Maïzena dans un peu d'eau froide, versez dans la cocotte, remuez un peu et laissez cuire encore 10 min, à découvert.
+    Servez bien chaud, les saucisses coupées en 3 sur les légumes.
+  ]]>
+  </preparation>
+</recette>

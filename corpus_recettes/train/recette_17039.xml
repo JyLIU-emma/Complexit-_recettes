@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17039">
+  <titre>Cake 'lendemain de raclette'</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>150 g de fromage à raclette</p>
+    <p>100 g de charcuterie coupée en petits morceaux (jambon, viande des grisons, ce qui vous reste...)</p>
+    <p>175 g de farine</p>
+    <p>1 sachet de levure chimique</p>
+    <p>2 oeufs</p>
+    <p>2 cuillères à soupe d'huile (idéalement, de noisette)</p>
+    <p>100 g de fromage râpé (Beaufort ou comté, ou gruyère)</p>
+    <p>1/2 verre de lait</p>
+    <p>1/2 verre de vin blanc (genre vin de Savoie)</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les oeufs, la farine, la levure, saler et poivrer. 
+    Verser le lait et l'huile, puis ajouter le fromage râpé; le mélange doit être le plus homogène possible.
+    Ajouter le fromage à raclette et la charcuterie en petits morceaux.
+    Préchauffer le four à 200°C (thermostat 6-7). 
+    Beurrer un moule à cake et y verser la préparation; laisser cuire pendant 40 min.
+    A consommer avec une salade (ma préférée : mâche et tomates accommodée à l'huile de noisette).
+  ]]>
+  </preparation>
+</recette>

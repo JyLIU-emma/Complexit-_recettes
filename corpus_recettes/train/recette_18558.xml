@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18558">
+  <titre>Gâteau à la gelée de framboises</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>125 g de beurre</p>
+    <p>125 g de sucre</p>
+    <p>1 paquet de sucre vanillé</p>
+    <p>3 jaunes d'œufs</p>
+    <p>1 cuillère à soupe de crème</p>
+    <p>240 g de farine</p>
+    <p>1/4 de paquet de levure</p>
+    <p>Pour la garniture : </p>
+    <p>100 g d'amandes moulues</p>
+    <p>100 g de sucre</p>
+    <p>3 blancs d'oeufs en neige</p>
+    <p>3 cuillères à soupe de gelée de framboises ou autre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C. 
+    Battre pendant 10 mn 125 g de sucre avec le sucre vanillé et le beurre. 
+    Ajouter 3 jaunes d'oeufs + la crème + la farine + la levure. 
+    Beurrer un moule de 30 cm de diamètre (moule à tarte) puis y étaler la pâte à la main. Recouvrir en restant à 1 cm du bord avec la gelée. 
+    Battre les blancs en neige, ajouter 100 g de sucre et les amandes moulues. Verser ce mélange et l'étaler sur la gelée pour faire un couvercle. 
+    Cuire pendant 40 mn à 180°C.
+     
+    Une fois refroidi, saupoudrer de sucre glace.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12719">
+  <titre>Gâteau au yaourt</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1/2 paquet de levure</p>
+    <p>1 pot de yaourt (= 20 cl)</p>
+    <p>1/2 pot d'huile (= 10 cl)</p>
+    <p>2 pots de sucre</p>
+    <p>3 pots de farine</p>
+    <p>2 œufs</p>
+    <p>1 zeste de citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger tout simplement les ingrédients un à un, dans l'ordre ci-dessus.
+    Verser la pâte dans un moule à gâteau. 
+    Puis, faire cuire à 180°C (thermostat 6) pendant 30 min environ.
+    Vérifier la cuisson avec la pointe d'un couteau, qui doit ressortir sèche.
+    Vous pouvez remplacer le citron par un paquet de sucre vanillé. Comme yaourt je vous conseille des Veloutés ou autres yaourts liquides (bulgares, etc.).
+  ]]>
+  </preparation>
+</recette>

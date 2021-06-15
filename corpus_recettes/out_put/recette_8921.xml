@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="8921">
+  <titre>Croquettes de riz</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1  grand bol de riz déjà cuit (reste de la veille)</p>
+    <p>2 grands carrés frais (version familiale)</p>
+    <p>2 oeufs</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>sel et poivre</p>
+    <p>huile pour la cuisson</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger tous les ingrédients, former des petites galettes et faire frire à la poêle!
+    Déguster avec une salade verte et une tranche de jambon.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Mélanger</OPER> tous les ingrédients, former des petites <INGRED id="1">galettes</INGRED> et faire <OPER id="o_2">frire</OPER> à la poêle ! Déguster avec une <INGRED id="5">salade</INGRED> verte et une tranche de <INGRED id="4">jambon</INGRED>.
+  </annotation>
+  <annotation methode="crf">
+  Mélanger tous les ingrédients <INGRED>,</INGRED> former des petites <INGRED>galettes</INGRED> et faire frire à la poêle ! Déguster avec une salade verte et une tranche de <INGRED>jambon</INGRED> <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 1.4*X + 0.6</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 7*X + 4</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['riz déjà cuit', 'riz']	 id:1	 quantité:1	 unité:bol de	 denombrable:True	 recipient:1*X
+ingredient:['carrés frais', 'carrés']	 id:2	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['oeufs']	 id:3	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['farine']	 id:4	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['sel']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['huile']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mélanger	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:frire	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

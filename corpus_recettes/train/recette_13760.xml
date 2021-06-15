@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13760">
+  <titre>Panzanella</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de tomates assez fermes </p>
+    <p>1 poivron vert</p>
+    <p>2 gousses d'ail</p>
+    <p>100 g de petites olives noires</p>
+    <p>100 g de roquette</p>
+    <p>150 g de pain de campagne rassis et légèrement doré au gril</p>
+    <p>5 cuillères à soupe d'huile d'olive</p>
+    <p>3 cuillères à soupe de vinaigre de vin</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les tomates en quartiers assez gros et faites-les égoutter dans une passoire. Ouvrez le poivron, retirez le pédoncule, les graines et les cloisons blanches. Coupez-le en bâtonnets réguliers.
+    Mélangez les tomates et le poivron dans un saladier. Ajoutez le pain grillé coupé en morceaux, la roquette rincée et essorée, les olives et l'ail finement haché.
+    Salez et poivrez généreusement la salade, arrosez avec l'huile d'olive et le vinaigre et mélangez la panzanella avec soin. Servez frais.
+    Réservez la panzanella pendant 1 heure au réfrigérateur, le temps que le pain rassis s'imprègne bien des arômes. Elle n'en sera que meilleure.
+  ]]>
+  </preparation>
+</recette>

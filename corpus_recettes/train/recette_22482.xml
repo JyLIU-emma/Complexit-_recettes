@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22482">
+  <titre>Nasi goreng</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de riz long grain</p>
+    <p>12 grosses crevettes cuites décortiquées</p>
+    <p>300 g de filet mignon de pporc</p>
+    <p>4 oeufs</p>
+    <p>15 cl de lait de coco</p>
+    <p>2 oignons</p>
+    <p>1 gousse d'ail</p>
+    <p>2 oignons nouveaux, du gingembre</p>
+    <p>1 cuillère à soupe de curry</p>
+    <p>1 cuillère à soupe de sauce soja</p>
+    <p>2 cuillères à soupe de coriandre fraîche hachée</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir 45 cl d'eau, verser le riz et réduire le feu. couvrir et laisser cuire 20 mn jusqu'à complète absorption de l'eau. Remuer les grains de riz avec une fourchette ; retirer du feu. 
+    Emincer le filet mignon, émincer les oignons et l'ail. 
+    Faire chauffer 2 cuillers d'huile dans une sauteuse et faire revenir la viande et les crevettes, ajouter les oignons, l'ail, le gingembre et le curry et les faire revenir 2 mn ; saler, poivrer, verser le lait de coco et la sauce soja, remuer et laisser cuire 5 mn. 
+    Faire cuire les oeufs à la poêle avec le reste d'huile, saler et poivrer les blancs. 
+    Mélanger le riz à la sauce et le dresser sur un plat, déposer les oeufs dessus et parsemer de coriandre.
+  ]]>
+  </preparation>
+</recette>

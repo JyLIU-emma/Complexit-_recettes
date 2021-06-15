@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11053">
+  <titre>Poires aux fruits rouges</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 poires</p>
+    <p>500 g de fruits rouges</p>
+    <p>20 cl de vin rouge</p>
+    <p>1 gousse de vanille</p>
+    <p>1 pointe de cannelle</p>
+    <p>sucre selon votre goût</p>
+    <p>1/2 l d'eau</p>
+    <p>20 cl de crème fraiche</p>
+    <p>1 jaune d'oeuf</p>
+    <p>1 sachet de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre dans une casserole l'eau, le sucre, la cannelle, la gousse de vanille fendue et le vin.
+    Laisser bouillir, puis ajouter les poires coupées en deux. Faire cuire les poires jusqu'à ce qu'elle soient molles.
+    Sortir les poires et faire un creux au milieu avec une cuillère.
+    Faire cuire dans une poêle les fruits rouges et les déposer dans le creux des poires.
+    Faire remonter la crème et le jaune d'oeuf. Rajouter le sucre vanillé. Faire ensuite couler la crème sur les fruits rouges.
+    Mettre les poires au four à température très chaude  (thermostat 8/250°C) pendant 5 minutes, jusqu'à ce que la crème devienne couleur caramel.
+  ]]>
+  </preparation>
+</recette>

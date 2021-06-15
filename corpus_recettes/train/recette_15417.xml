@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15417">
+  <titre>Cake aux pommes allégé</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>100 g de beurre</p>
+    <p>30 g d'édulcorant résistant à la cuisson</p>
+    <p>2 oeufs</p>
+    <p>75 g d'eau</p>
+    <p>200 g de farine</p>
+    <p>4 g de poudre à lever (baking powder)</p>
+    <p>150 g de pommes hachées en petits morceaux</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ramollir le beurre, y ajouter l'édulcorant puis les oeufs, un par un.
+    Creuser un puits dans la farine, y verser le mélange ainsi que l'eau jusqu'à obtention d'une pâte bien aérée. Y mélanger les pommes hachées.
+    Beurrer et fariner un moule à cake, répartir la pâte dans celui-ci et mettre au four préchauffé à 180°C pendant 35 à 40 mn.Il est possible que le cake soit plus plat qu'un autre cake préparé avec du sucre, étant donné que la poudre levante réagit plus au contact du sucre que de l'édulcorant.
+  ]]>
+  </preparation>
+</recette>

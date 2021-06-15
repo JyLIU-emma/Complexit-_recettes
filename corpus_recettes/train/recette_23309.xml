@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23309">
+  <titre>Omelette de pommes de terre au comté</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>12 oeufs</p>
+    <p>450 g de pommes de terre cuites</p>
+    <p>150 g de comté</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>45 g de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler les pommes de terre en dés et les faire revenir dans l'huile chaude. Lorsqu'elles sont dorées, baisser le feu, couvrir et laisser cuire 20 minutes.
+    Couper le fromage en fines lamelles.
+    Battre les oeufs en omelette, saler, poivrer et ajouter le fromage.
+    Incorporer le beurre dans les pommes de terre puis ajouter les oeufs. Laisser cuire jusqu'à ce que l'omelette soit prise.
+  ]]>
+  </preparation>
+</recette>

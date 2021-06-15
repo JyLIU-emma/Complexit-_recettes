@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13814">
+  <titre>Souris d'agneau confite en daube douce</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 souris d'agneau individuelles</p>
+    <p>1 bouteille de vin corsé</p>
+    <p>6 gousses d'ail</p>
+    <p>1 écorce d'orange</p>
+    <p>1 cuillère à soupe de miel</p>
+    <p>Romarin</p>
+    <p>Bouquet garni</p>
+    <p>Margarine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les souris d'agneau dans la margarine. Jeter le gras puis ajouter les gousses d'ail en chemise, le vin, le miel, le romarin et le bouquet garni.
+    Laisser mijoter 2 heures environ en tournant souvent la viande.
+    Ajouter le zeste d'orange en ruban.
+    Finir la cuisson encore 30 minutes.
+    Servir avec des pâtes fraîches.
+    Il faut une cuisson douce pour confire la chair des souris d'agneau qui doit, en fin de cuisson, se détacher de l'os et pouvoir être mangée à la petite cuillère.
+  ]]>
+  </preparation>
+</recette>

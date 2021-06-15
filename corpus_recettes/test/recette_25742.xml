@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25742">
+  <titre>Terrine de légumes en gelée</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de petits pois</p>
+    <p>300 g de haricots verts</p>
+    <p>300 g de carottes</p>
+    <p>300 g de fonds d'artichauts frais</p>
+    <p>1 oeuf</p>
+    <p>1 sachet de gelée en poudre</p>
+    <p>1 cuillère à soupe de crème fraîche</p>
+    <p>brins d'estragon frais</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre à cuire séparément dans de l'eau bouillante salée, les carottes pendant 30 min, les haricots pendant 15 min, les petits pois pendant 20 min et les fonds d'artichauts pendant 40 min. Égoutter. 
+    Mixer les fonds d'artichauts avec le jaune de l'oeuf, le crème fraîche et le blanc de l'oeuf monté en neige. Assaisonner.
+    Préparer la gelée selon les instructions du paquet et en verser au fond d'un moule à manqué. Placer au réfrigérateur. 
+    Dans une terrine, verser un peu de gelée et y placer les carottes et un peu d'estragon. Ajouter encore un peu de gelée et laisser prendre au réfrigérateur. 
+    Ajouter la purée d'artichauts, re-napper de gelée et refaire prendre.
+    Finir par les haricots verts et les petits pois séparés par une dernière couche de gelée.
+    Laisser au réfrigérateur pendant la nuit. 
+    Démouler la gelée et servir avec de la mayonnaise. 
+  ]]>
+  </preparation>
+</recette>

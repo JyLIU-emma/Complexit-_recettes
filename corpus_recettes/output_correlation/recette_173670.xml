@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173670">
+  <titre>Velouté d'asperge au curry, ilot de pomme granny et oignon frais ciboulette</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boite d'asperge de 250 g</p>
+    <p>1 pomme granny-smith</p>
+    <p>1 oignon frais en botte</p>
+    <p>10aine de tiges de ciboulette</p>
+    <p>20 cl de de crème semi-épaisse</p>
+    <p>3 filets d'huile d'olive</p>
+    <p>1 bonne cuillère de curry</p>
+    <p>piment de Cayenne(facultatif)</p>
+    <p>poivre(gris), sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Le velouté:Dans un premier temps, vider la boite d'asperge en gardant le jus de côté.Couper les asperges en petits morceaux, les mettre dans un mixeur avec les 20 cl de crème semi-épaisse (au choix la crème on peut prendre de l'épaisse et de la semi-épaisse afin de faire une velouté un peu plus compact.)Mixer et ajouter petit à petit les épices et le jus de la boite (ne pas trop saler car le juste de la boite l'est déjà). Il faut prendre soin de goûter régulièrement. Pour le réussir il faut un goût léger de curry et de piment car lors de la cuisson les épices prendront de la force et laisseront apparaitre leur arômes.
+    Pour la pomme il faut qu'elle soit bien fraîche.
+    Couper en son centre un trou carré et faites des entaille sur le dessus pour pouvoir y mettre de l'oignon en arceau. Elle viendra se déposer sur le dessus du velouté.
+    Couper finement l'oignon en botte pour faire des lamelles d'une quinzaine de centimètres.
+    Créer 1 bouquet qui tient grâce à un nœud de ciboulette et mettre de coté 2 ou 3 lamelles d'oignon.
+    Dans l'assiette creuse mettre le velouté réchauffé pendant 2 minutes sur le feu ensuite poser la pomme avec en son centre le bouquet et les arceaux d'oignons dans les entailles.
+    Quelques gouttes d'huile d'olive pour la présentation.Le piment,le curry et le poivre sont à mettre de façon personnelle.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Le velouté : Dans un premier temps, <OPER id="o_1">vider</OPER> la <INGRED id="2">boite</INGRED> d'asperge en gardant le <INGRED id="2">jus</INGRED> de côté. <OPER id="o_2">Couper</OPER> les asperges en <INGRED id="3">petits</INGRED> <INGRED id="1">morceaux</INGRED>, les <OPER id="o_3">mettre</OPER> dans un mixeur avec les 20 <INGRED id="2">cl</INGRED> <INGRED id="5">de crème semi-épaisse</INGRED> ( au choix la crème on peut <OPER id="o_4">prendre</OPER> de l'épaisse et de la semi-épaisse afin de <INGRED id="4">faire</INGRED> une velouté un peu plus <OPER id="o_5">compact.)Mixer</OPER> et <OPER id="o_6">ajouter</OPER> petit à petit les épices et le jus de la boite ( ne pas trop <OPER id="o_7">saler</OPER> car le juste de la <INGRED id="7">boite</INGRED> l'est déjà ). Il faut <OPER id="o_8">prendre</OPER> soin de <OPER id="o_9">goûter</OPER> régulièrement. Pour le réussir il faut un <INGRED id="7">goût</INGRED> léger de <INGRED id="7">curry</INGRED> et de piment car lors de la cuisson les épices prendront de la force et laisseront <OPER id="o_10">apparaitre</OPER> leur arômes. Pour la pomme il faut qu'elle soit bien fraîche. <OPER id="o_11">Couper</OPER> en son centre un trou <INGRED id="1">carré</INGRED> et faites des entaille sur le dessus pour pouvoir y <OPER id="o_12">mettre</OPER> de l'<INGRED id="1">oignon</INGRED> en arceau. Elle viendra se <OPER id="o_13">déposer</OPER> sur le dessus du velouté. <OPER id="o_14">Couper</OPER> finement l'<INGRED id="2">oignon</INGRED> en <INGRED id="3">botte</INGRED> pour <INGRED id="4">faire</INGRED> des lamelles d'une quinzaine de centimètres. <OPER id="o_15">Créer</OPER> 1 <INGRED id="6">bouquet</INGRED> qui tient grâce à un nœud de <INGRED id="7">ciboulette</INGRED> et <OPER id="o_16">mettre</OPER> de coté 2 ou 3 lamelles d'<INGRED id="1">oignon</INGRED>. Dans l'assiette creuse <OPER id="o_17">mettre</OPER> le velouté réchauffé pendant 2 minutes sur le feu ensuite <OPER id="o_18">poser</OPER> la <INGRED id="1">pomme</INGRED> avec en son centre le bouquet et les arceaux d'oignons dans les entailles. Quelques gouttes d'huile d'olive pour la présentation. Le piment, le curry et le poivre sont à <OPER id="o_19">mettre</OPER> de façon personnelle.
+  </annotation>
+  <annotation methode="crf">
+  Le velouté <INGRED>:</INGRED> Dans un premier temps <INGRED>,</INGRED> vider la <INGRED>boite</INGRED> d'asperge en gardant le <INGRED>jus</INGRED> de côté <INGRED>.</INGRED> Couper les asperges en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> <INGRED>,</INGRED> les mettre dans un mixeur avec les 20 cl de <INGRED>crème</INGRED> semi-épaisse ( au choix la <INGRED>crème</INGRED> on peut prendre de l'épaisse et de la semi-épaisse afin de faire une velouté un peu plus compact.)Mixer et ajouter <INGRED>petit</INGRED> à <INGRED>petit</INGRED> les <INGRED>épices</INGRED> et le <INGRED>jus</INGRED> de la <INGRED>boite</INGRED> ( ne pas trop saler car le juste de la <INGRED>boite</INGRED> l'est déjà ). Il faut prendre soin de goûter régulièrement <INGRED>.</INGRED> Pour le réussir il faut un goût léger de <INGRED>curry</INGRED> et de <INGRED>piment</INGRED> car lors de la cuisson les <INGRED>épices</INGRED> prendront de la force et laisseront apparaitre leur arômes <INGRED>.</INGRED> Pour la <INGRED>pomme</INGRED> il faut qu'elle soit bien fraîche. Couper en son centre un trou carré et faites des entaille sur le dessus pour pouvoir y mettre de l'<INGRED>oignon</INGRED> en arceau. Elle viendra se déposer sur le dessus du velouté. Couper <INGRED>finement</INGRED> l'<INGRED>oignon</INGRED> en botte pour faire des <INGRED>lamelles</INGRED> d'une quinzaine de centimètres. Créer 1 <INGRED>bouquet</INGRED> qui tient grâce à un nœud de <INGRED>ciboulette</INGRED> et mettre de coté 2 <INGRED>ou</INGRED> 3 <INGRED>lamelles</INGRED> d'<INGRED>oignon</INGRED>. Dans l'assiette creuse mettre le velouté réchauffé pendant 2 minutes sur le feu ensuite poser la <INGRED>pomme</INGRED> avec en son centre le <INGRED>bouquet</INGRED> et les arceaux d'<INGRED>oignons</INGRED> dans les entailles. Quelques gouttes d'<INGRED>huile d'olive</INGRED> pour la présentation. Le <INGRED>piment</INGRED> <INGRED>,</INGRED> le <INGRED>curry</INGRED> et le <INGRED>poivre</INGRED> sont à mettre de façon personnelle.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 14.5833333333333*X + 10.4166666666667</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 7*X + 14</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['g']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['pomme granny-smith', 'pomme']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['oignon frais en botte', 'oignon']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['10aine de tiges de ciboulette', '10aine']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['de crème semi-épaisse', 'crème']	 id:5	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:["filets d'huile d'olive", 'filets']	 id:6	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['curry']	 id:7	 quantité:1	 unité:cuillère de	 denombrable:True	 recipient:1*X
+ingredient:['piment de Cayenne', 'piment']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:vider	 id:o_1	 ingrédients_ralatifs:['2', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_2	 ingrédients_ralatifs:['3', '1', '2', '5']	 nombre_opération_atomique:1*X+1*X+1*X+1	 temps:1*X*1+1*X*1+1*X*1+1*X*1	 recipient:1
+operation:mettre	 id:o_3	 ingrédients_ralatifs:['2', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:prendre	 id:o_4	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:compact.)mixer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_7	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:prendre	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:goûter	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:apparaitre	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_11	 ingrédients_ralatifs:['1', '1']	 nombre_opération_atomique:1*X+1*X	 temps:1*X*1+1*X*1	 recipient:1
+operation:mettre	 id:o_12	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:déposer	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:couper	 id:o_14	 ingrédients_ralatifs:['2', '3', '4']	 nombre_opération_atomique:1*X+1*X+1	 temps:1*X*1+1*X*1+1*X*1	 recipient:1
+operation:créer	 id:o_15	 ingrédients_ralatifs:['6', '7', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_16	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_17	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:poser	 id:o_18	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

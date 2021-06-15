@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14201">
+  <titre>Saint-Jacques sur lit de la mer</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>20 noix de St Jacques</p>
+    <p>4 galettes de blé noir</p>
+    <p>crème fraîche</p>
+    <p>1 pot de haricots de mer</p>
+    <p>1/2 verre de vin blanc</p>
+    <p>50 g de beurre demi-sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les noix à la poèle avec le beurre.
+    Ajouter le vin blanc et laisez réduire
+    Dans une casserole, réchauffer les haricots de mer
+    puis réchauffer une galette à la poèle avec le beurre. Y mettre 1/4 des noix, quelques haricots et une petite cuillère de crème.
+    Salez suivant le goût et servir chaud.
+     cidre sec
+  ]]>
+  </preparation>
+</recette>

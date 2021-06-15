@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15482">
+  <titre>Tarte aux fruits pour débutant (e)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rouleau de pâte feuilletée </p>
+    <p>100 g de sucre (80 g si les fruits sont sucrés ou en boîte) </p>
+    <p>4 oeufs</p>
+    <p>4 cuillères à soupe de crème fraîche</p>
+    <p>pommes ou autres fruits (suffisamment pour couvrir la tarte)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre la pâte feuilletée dans un plat à tarte.Mélanger les ingrédients en terminant 
+    par les fruits. Déposer le mélange sur la pate feuilletée.
+    Cuire 30 mn environ à four thermostat 7 (180°C).Exemples de mélanges : pommes + cannelle, poires + copeaux de chocolat, ananas + raisins au rhum...
+  ]]>
+  </preparation>
+</recette>

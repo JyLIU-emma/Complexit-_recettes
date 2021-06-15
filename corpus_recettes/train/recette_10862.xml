@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10862">
+  <titre>Mousse de thon aux fines herbes</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de thon au naturel</p>
+    <p>20 cl de crème fraîche</p>
+    <p>10 cl de gelée</p>
+    <p>2 cuillères à café de jus de citron</p>
+    <p>2 cuillères à café d’huile d’olive extra vierge</p>
+    <p>2 cuillères à soupe de ciboulette </p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites fondre la gelée sur feu doux, puis laissez-la refroidir.
+    Passez le thon, les herbes et l’huile au mixer jusqu’à obtention d’une purée fine. Fouettez la crème. Ajoutez la gelée et le jus de citron au thon. Salez. Poivrez. Ajoutez délicatement la crème à ce mélange.
+    Mettez la mousse dans une terrine et mettez au réfrigérateur pendant au moins quatre heures.Servez avec des toasts chauds, du beurre et des câpres.
+  ]]>
+  </preparation>
+</recette>

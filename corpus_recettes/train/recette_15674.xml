@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15674">
+  <titre>Crottes d'âne (beignets)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de farine</p>
+    <p>250 g de beurre ramolli</p>
+    <p>250 g de sucre</p>
+    <p>3 œufs + un peu d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger tous les ingrédients.
+    Prendre un peu de pâte dans les mains puis former une 'crotte'.
+    Faire frire dans de l'huile bien chaude.
+    C'est une recette qui me vient de ma grand-mère.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165283">
+  <titre>Cookies grenoblois</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500g de farine</p>
+    <p>375g de sucre</p>
+    <p>125g de noix de Grenoble en poudre</p>
+    <p>3 œufs</p>
+    <p>150g de beurre</p>
+    <p>1 verre à liqueur de rhum</p>
+    <p>2 cuillères à café de levure chimique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire ramollir le beurre et bien mélanger tous les ingrédients en vrac.
+    Faire des boudins avec la pâte et la laisser durcir une nuit au frigo.
+    Préchauffer le four thermostat 5couper les boudins en rondelles d'un peu moins de 1 cm d'épaisseur et les poser sur une plaque en les espaçant un peu.
+    Cuire de 25 à 30 minutes th 5.Au sortir du four les cookies sont trop mou pour pouvoir être enlevés de la plaque, il faut attendre quelques minutes que la croute extérieure durcisse suffisamment pour que l'on puisse les détacher de la plaque.Pour que les cookies restent moelleux il est crucial de laisser les boudins suffisamment longtemps au frigo pour que le beurre durcisse la pâte et que les cookies ne se "liquéfient" pas pendant la première partie de la cuisson. La variante avec des amandes en poudre est plus neutre mais elle aussi excellente.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">ramollir</OPER> le <INGRED id="4">beurre</INGRED> et bien <OPER id="o_2">mélanger</OPER> tous les ingrédients en vrac. Faire des boudins avec la <INGRED id="5">pâte</INGRED> et la laisser <OPER id="o_3">durcir</OPER> une nuit au frigo. <OPER id="o_4">Préchauffer</OPER> le four thermostat <OPER id="o_5">5couper</OPER> les boudins en rondelles d'un peu moins de 1 cm d'épaisseur et les <OPER id="o_6">poser</OPER> sur une plaque en les espaçant un peu. <OPER id="o_7">Cuire</OPER> de 25 à 30 minutes th 5.Au <OPER id="o_8">sortir</OPER> du four les <INGRED id="3">cookies</INGRED> sont trop mou pour pouvoir être enlevés de la plaque, il faut <OPER id="o_9">attendre</OPER> quelques minutes que la croute extérieure durcisse suffisamment pour que l'on puisse les <OPER id="o_10">détacher</OPER> de la plaque. Pour que les <INGRED id="3">cookies</INGRED> restent moelleux il est crucial de laisser les boudins suffisamment longtemps au frigo pour que le <INGRED id="2">beurre</INGRED> durcisse la <INGRED id="5">pâte</INGRED> et que les <INGRED id="3">cookies</INGRED> ne se " liquéfient " pas pendant la première partie de la cuisson. La variante avec des amandes en poudre est plus neutre mais elle aussi excellente.
+  </annotation>
+  <annotation methode="crf">
+  Faire ramollir le <INGRED>beurre</INGRED> et bien mélanger tous les ingrédients en vrac. Faire des <INGRED>boudins</INGRED> avec la <INGRED>pâte</INGRED> et la laisser durcir une nuit au frigo <INGRED>.</INGRED> Préchauffer le four thermostat 5couper les <INGRED>boudins</INGRED> en rondelles d'un peu moins de 1 <INGRED>cm</INGRED> d'épaisseur et les poser sur une plaque en les espaçant un peu. Cuire de 25 à 30 minutes th 5.Au sortir du four les cookies sont trop mou pour pouvoir être enlevés de la plaque <INGRED>,</INGRED> il faut attendre quelques minutes que la croute extérieure durcisse suffisamment pour que l'on puisse les détacher de la plaque <INGRED>.</INGRED> Pour que les cookies restent moelleux il est crucial de laisser les <INGRED>boudins</INGRED> suffisamment longtemps au frigo pour que le <INGRED>beurre</INGRED> durcisse la <INGRED>pâte</INGRED> et que les cookies ne se " liquéfient " pas pendant la première partie de la cuisson. La variante avec des <INGRED>amandes en poudre</INGRED> est plus neutre mais elle aussi excellente.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 6.0*X + 4.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 6*X + 6</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['farine']	 id:1	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:2	 quantité:375	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['noix de Grenoble en poudre', 'noix']	 id:3	 quantité:125	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['œufs']	 id:4	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['beurre']	 id:5	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['liqueur de rhum', 'liqueur']	 id:6	 quantité:1	 unité:verre à	 denombrable:True	 recipient:1*X
+ingredient:['levure chimique', 'levure']	 id:7	 quantité:2	 unité:cuillères à café de	 denombrable:True	 recipient:2*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:ramollir	 id:o_1	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:durcir	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préchauffer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:5couper	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poser	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:sortir	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:attendre	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:détacher	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

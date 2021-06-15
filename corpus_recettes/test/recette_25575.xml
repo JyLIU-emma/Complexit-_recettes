@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25575">
+  <titre>Rôti marin</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de queue de cabillaud</p>
+    <p>1 belle carotte</p>
+    <p>1 gros oignon</p>
+    <p>15 cl de vin blanc sec</p>
+    <p>1 cuillère à soupe de concentré de tomate</p>
+    <p>1 cuillère à soupe de lait concentré non sucré</p>
+    <p>1 cuillère à café d'huile d'olive</p>
+    <p>2 gousses d'ail</p>
+    <p>1 dose de safran en poudre</p>
+    <p>bouquet garni</p>
+    <p>ficelle de cuisine</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et émincer l'oignon en lamelles, les carottes en rondelles.
+    Dans une cocotte en fonte, mettre l'huile à chauffer et faire dorer l'oignon puis les carottes. Laisser suer pendant 10 minutes à feu doux à couvert.
+    Peler et détailler les gousses d'ail en 4 morceaux que vous glisserez à l'aide d'un couteau dans la chair du poisson.
+    Avec de la ficelle de cuisine, ficeler le poisson comme pour un rôti de viande. Déposer ensuite le rôti de poisson dans la cocotte avec les carottes et l'oignon, puis ajouter le bouquet garni.
+    Dans un saladier, mélanger vivement le vin blanc, le concentré de tomate, le sel, le poivre et verser ce mélange dans la cocotte. Laisser cuire à couvert pendant 30 min, puis sortir le poisson de la cocotte.
+    Couper puis ôter la ficelle du rôti et le dresser sur un plat chaud.
+    Battre le lait concentré et le safran dans un bol, puis verser le tout dans la cocotte.
+    A ébullition, passer la sauce au chinois et en récupérer le jus que vous verserez sur votre rôti.
+    Déguster bien chaud.
+  ]]>
+  </preparation>
+</recette>

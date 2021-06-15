@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16673">
+  <titre>Rochers à la noix de coco</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200g de noix de coco râpée</p>
+    <p>200g de sucre en poudre</p>
+    <p>2 gros oeufs.</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Séparer les jaunes d'oeufs, verser le sucre et mélanger vigoureusement pour que le mélange blanchisse.
+    Ajouter la noix de coco, mélanger.
+    Battre les blancs d'oeufs en neige ferme et les incorporer doucement en soulevant la pâte.
+    Avec une cuillère poser des petits tas de pâte sur une plaque du four huilée et les faires cuire 10 à 20 minutes à 180/190 degrés.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="175367">
+  <titre>Omelette du soleil au rhum et à la confiture d'agrumes</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 œufs</p>
+    <p>10 cl de lait</p>
+    <p>1 cuillère à café de cannelle</p>
+    <p>1 cuillère à soupe de maïzena</p>
+    <p>1 pot de gelée aux mandarines ou d'oranges confites avec des rondelles entières</p>
+    <p>10 cl de rhum</p>
+    <p>2 cuillères à soupe de cassonade</p>
+    <p>1 larme de vanille liquide</p>
+    <p>Beurre un peu</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Passer le pot de gelée 30 secondes au micro-ondes et réserver sur une assiette les rondelles d'orange ou de mandarine. 
+    Réserver la gelée tiédie dans un bol.
+     
+    Battre vigoureusement les œufs avec le lait, la maïzena, la cannelle, la vanille, le sucre et une cuillère à café de rhum.
+    Préchauffer le four à 180°C (thermostat 6).Faire une omelette fine dans une grande poêle beurrée et la faisant dorer d'un seul côté puis la garnir d'un peu de gelée avant de la rouler dans la poêle puis de la réserver dans un plat à four.
+    Procéder de même pour les quatre omelettes.
+    Avant de servir décorer chaque crêpe de rondelles de mandarine ou d'orange napper d'un peu de gelée tiède et passer 10 min au four.
+    Dans une petite casserole amener le rhum à frémissement, le flamber rapidement sur les omelettes chaudes. Si possible à table pour le fun. C'est très joli et très bon.Se mange bien chaud à la fourchette. Le mieux est de ranger les omelettes en rayon (de soleil) dans un plat rond. vin blanc moelleux, eau
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Passer</OPER> le pot de <INGRED id="9">gelée</INGRED> 30 secondes au micro-ondes et réserver sur une assiette les rondelles d'<INGRED id="8">orange</INGRED> ou de mandarine. Réserver la <INGRED id="2">gelée</INGRED> tiédie dans un bol. <OPER id="o_2">Battre</OPER> vigoureusement les <INGRED id="8">œufs</INGRED> avec le <INGRED id="8">lait</INGRED>, la <INGRED id="8">maïzena</INGRED>, la <INGRED id="2">cannelle</INGRED>, la <INGRED id="8">vanille</INGRED>, le <INGRED id="5">sucre</INGRED> et une cuillère à <INGRED id="3">café</INGRED> de <INGRED id="2">rhum</INGRED>. <OPER id="o_3">Préchauffer</OPER> le four à 180 ° C ( thermostat 6).Faire une omelette fine dans une grande poêle beurrée et la faisant <OPER id="o_4">dorer</OPER> d'un seul côté puis la <OPER id="o_5">garnir</OPER> d'un peu de <INGRED id="9">gelée</INGRED> avant de la <OPER id="o_6">rouler</OPER> dans la poêle puis de la réserver dans un <INGRED id="9">plat</INGRED> à four. <OPER id="o_7">Procéder</OPER> de même pour les <INGRED id="2">quatre</INGRED> omelettes. Avant de servir <OPER id="o_8">décorer</OPER> chaque crêpe de rondelles de mandarine ou d'<INGRED id="8">orange</INGRED> <OPER id="o_9">napper</OPER> d'un peu de <INGRED id="9">gelée</INGRED> tiède et <OPER id="o_10">passer</OPER> 10 min au four. Dans une <INGRED id="2">petite</INGRED> casserole <OPER id="o_11">amener</OPER> le <INGRED id="2">rhum</INGRED> à frémissement, le <OPER id="o_12">flamber</OPER> rapidement sur les omelettes chaudes. Si possible à table pour le fun. C'est très joli et très bon. Se mange bien chaud à la fourchette. Le mieux est de <OPER id="o_13">ranger</OPER> les omelettes en rayon ( de soleil ) dans un <INGRED id="9">plat</INGRED> rond. <INGRED id="9">vin blanc</INGRED> moelleux, <INGRED id="2">eau</INGRED>
+  </annotation>
+  <annotation methode="crf">
+  Passer le pot de <INGRED>gelée</INGRED> 30 secondes au micro-ondes et réserver sur une assiette les rondelles d'orange <INGRED>ou</INGRED> de mandarine. Réserver la <INGRED>gelée</INGRED> tiédie dans un bol <INGRED>.</INGRED> Battre vigoureusement les <INGRED>œufs</INGRED> avec le <INGRED>lait</INGRED> <INGRED>,</INGRED> la <INGRED>maïzena</INGRED> <INGRED>,</INGRED> la <INGRED>cannelle</INGRED> <INGRED>,</INGRED> la <INGRED>vanille</INGRED> <INGRED>,</INGRED> le <INGRED>sucre</INGRED> et une cuillère à <INGRED>café</INGRED> de <INGRED>rhum</INGRED>. Préchauffer le four à 180 ° C ( thermostat 6).Faire une omelette fine dans une grande poêle beurrée et la faisant dorer d'un seul côté puis la garnir d'un peu de <INGRED>gelée</INGRED> avant de la rouler dans la poêle puis de la réserver dans un plat à four <INGRED>.</INGRED> Procéder de même pour les <INGRED>quatre</INGRED> omelettes. Avant de servir décorer chaque crêpe de rondelles de mandarine <INGRED>ou</INGRED> d'orange napper d'un peu de <INGRED>gelée</INGRED> tiède et passer 10 min au four <INGRED>.</INGRED> Dans une <INGRED>petite</INGRED> casserole amener le <INGRED>rhum</INGRED> à frémissement <INGRED>,</INGRED> le flamber rapidement sur les omelettes chaudes. Si possible à table pour le fun. C'est très joli et très bon. Se mange bien chaud à la fourchette <INGRED>.</INGRED> Le mieux est de ranger les omelettes en rayon ( de soleil ) dans un plat rond. <INGRED>vin blanc</INGRED> moelleux <INGRED>,</INGRED> <INGRED>eau</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 10.7692307692308*X + 3.23076923076923</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 10*X + 3</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['œufs']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['lait']	 id:2	 quantité:10	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['cannelle']	 id:3	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+ingredient:['maïzena']	 id:4	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['entières']	 id:5	 quantité:1	 unité:rondelles	 denombrable:True	 recipient:1*X
+ingredient:['rhum']	 id:6	 quantité:10	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['cassonade']	 id:7	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['vanille liquide', 'vanille']	 id:8	 quantité:1	 unité:larme de	 denombrable:True	 recipient:1*X
+ingredient:['Beurre un peu', 'Beurre']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:passer	 id:o_1	 ingrédients_ralatifs:['9', '8']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:battre	 id:o_2	 ingrédients_ralatifs:['8', '8', '8', '2', '8', '5', '3', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préchauffer	 id:o_3	 ingrédients_ralatifs:['9', '9']	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:dorer	 id:o_4	 ingrédients_ralatifs:['9', '9']	 nombre_opération_atomique:1+1	 temps:1*X*1+1*X*1	 recipient:0
+operation:garnir	 id:o_5	 ingrédients_ralatifs:['9', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rouler	 id:o_6	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:procéder	 id:o_7	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:3	 recipient:0
+operation:décorer	 id:o_8	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:napper	 id:o_9	 ingrédients_ralatifs:['8', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:passer	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:amener	 id:o_11	 ingrédients_ralatifs:['2', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:flamber	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ranger	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

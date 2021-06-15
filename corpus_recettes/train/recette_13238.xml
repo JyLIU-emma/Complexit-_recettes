@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13238">
+  <titre>Poisson au lait de coco</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 filets de poisson blanc</p>
+    <p>1 boîte de lait de coco</p>
+    <p>4 tomates</p>
+    <p>1 oignon</p>
+    <p>curcuma (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les oignons coupés fin dans une grande poêle antiadhésive.
+    Ajouter les filets de poisson roulés sur eux-mêmes, les faire revenir doucement 5 à 6 minutes. Saler et poivrer.
+    Ajouter les tomates coupées en petits dés. Cuire à feu doux 5 minutes.
+    Ajouter le lait de coco et le curcuma (facultatif). Laisser mijoter doucement 10 à 15 minutes sans remuer.
+  ]]>
+  </preparation>
+</recette>

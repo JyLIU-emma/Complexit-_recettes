@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13330">
+  <titre>Chou rouge épicé</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>1 cuillère à café de coriandre moulu</p>
+    <p>1/2 cuillère à café de cannelle moulue</p>
+    <p>1/4 cuillère à café de muscade râpée</p>
+    <p>1 gros oignon, tranché finement</p>
+    <p>1/2 chou rouge finement tranché</p>
+    <p>1 cuillère à soupe de cassonade</p>
+    <p>2 cuillères à soupe de vinaigre de vin rouge</p>
+    <p>sel et poivre fraîchement moulu</p>
+    <p>1 cuillère à soupe de gelée de groseilles</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer l'huile dans une casserole à fond épais, ajouter les épices et faire rissoler pendant 1 mn.
+    Ajouter l'oignon et le chou et faire
+    rissoler 2 mn.
+    Ajouter le sucre et le vinaigre, ainsi que le sel et le poivre, couvrir et laisser mijoter à feu doux 30 mn, en remuant fréquemment.
+    Ajouter la gelée de groseilles, mélanger bien et laisser cuire encore 5 mn. Goûter et rectifier l'assaisonnement si nécessaire.
+    Servir chaud ou froid.
+  ]]>
+  </preparation>
+</recette>

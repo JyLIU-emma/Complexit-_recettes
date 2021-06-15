@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18187">
+  <titre>Filets de veau aux cèpes, aux tomates et à la crème</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 tranches de filet de veau (demandez à votre boucher qu'il vous coup des tranches de 2 cm)</p>
+    <p>40 g de cèpes (vendues sèches, il faut les faire tremper dans l'eau de 1h à une journée)ou 200 g si ce sont des fraîches</p>
+    <p>2 dl de crème fraîche</p>
+    <p>3 éclats d'ail</p>
+    <p>3 tomates</p>
+    <p>persil</p>
+    <p>sel, poivre</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les cèpes dans l'huile (5-10 minutes). Pendant ce temps, ébouillanter et peler les tomates, les couper en dés et les faire revenir dans l'huile (10 minutes) avec l'ail écrasé. Mélanger cèpes et tomates, saler et poivrer.
+    Saisir la viande dans un poêle légèrement huilée, saler et poivrer.
+    Ajouter la crème fraîche à la préparation de champignons. Saupoudrer de persil et napper la viande de cette sauce.
+  ]]>
+  </preparation>
+</recette>

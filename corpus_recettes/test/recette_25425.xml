@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25425">
+  <titre>Gratin provençal à l'avoine</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 courgettes</p>
+    <p>1 oignon</p>
+    <p>1 aubergine</p>
+    <p>35 cl de lait</p>
+    <p>1 oeuf</p>
+    <p>50 g de gruyère râpé</p>
+    <p>50 g de flocons d'avoine</p>
+    <p>sel, poivre</p>
+    <p>basilic</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir l'oignon dans une poêle huilée pendant 5 mn. Rajouter les courgettes coupées en rondelles et l'aubergine coupée en cubes, saler, poivrer et laisser cuire une dizaine de minutes. 
+    Verser les flocons d'avoine, mélanger puis retirer du feu. 
+    Dans un bol, mélanger le lait, l'oeuf battu et le fromage râpé. Saler, poivrer et ajouter le basilic. 
+    Préchauffer le four à 220°C. 
+    Mélanger les deux préparations, verser dans un plat à gratin. Le liquide doit recouvrir les légumes, sinon rajouter un peu de lait. 
+    Faire cuire 35 mn à 220°C. 
+    Servir chaud en plat végétarien unique ou en accompagnement d'une viande.
+  ]]>
+  </preparation>
+</recette>

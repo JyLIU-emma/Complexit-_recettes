@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20605">
+  <titre>Pot-au-feu de boeuf</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de jarret de boeuf</p>
+    <p>1 langue de veau</p>
+    <p>500 g de queue de boeuf en bouquet</p>
+    <p>3 l d'eau</p>
+    <p>1 os à moelle</p>
+    <p>1 gros oignon piqué d'1 clou de girofle</p>
+    <p>3 gousses d'ail</p>
+    <p>500 g de poireaux</p>
+    <p>500 g de navets</p>
+    <p>3 carottes</p>
+    <p>2 branches de céleri</p>
+    <p>1 chou vert</p>
+    <p>3 grosses pommes de terre</p>
+    <p>1 bouquet garni</p>
+    <p>1 cuillère à soupe de poivre en grains</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Passez la langue de veau sous l'eau courante. Ôter la peau et les parties hérissées.
+    Déposez les viandes (jarret de boeuf et langue de veau) dans une grande cocotte. Couvrez de 3 litres d'eau et ajoutez le poivre, le bouquet garni, du sel, l'ail et l'oignon hachés.
+    Portez à ébullition, ôtez l'écume qui s'est formée à la surface puis laissez cuire à frémissement 2 heures. Blanchissez les feuilles de chou dans l'eau bouillante. Lavez et pelez les légumes : navets, carottes, céleri et poireaux.
+    Trente minutes avant la fin de la cuisson des viandes, ajoutez dans la cocotte les légumes et l'os à moelle. Laissez cuire 15-20 minutes.
+    Coupez les viandes en tranches. Disposez-les dans un plat avec les légumes et pour finir, arrosez de bouillon.
+    Servez brûlant.
+  ]]>
+  </preparation>
+</recette>

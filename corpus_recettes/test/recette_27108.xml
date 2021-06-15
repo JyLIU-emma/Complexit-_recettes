@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27108">
+  <titre>Crêpes à la règle de 3</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de farine</p>
+    <p>3 oeufs</p>
+    <p>3/4 de litre de lait</p>
+    <p>3 cuillères à soupe d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le tout. 
+    Faire cuire (une à une !!!!) dans une poêle anti-adhésive (ou frotter le fond de votre poêle avec un essuie-tout huilé).
+    Facile à retenir non ?!?!? ;)
+  ]]>
+  </preparation>
+</recette>

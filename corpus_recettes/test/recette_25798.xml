@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25798">
+  <titre>Thon rôti aux champignons et aux tomates</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 morceaux de thon frais</p>
+    <p>4 tomates bien mûres</p>
+    <p>500 g de champignons frais</p>
+    <p>4 gousses d'ail</p>
+    <p>2 oignons</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>1 branche de thym</p>
+    <p>1 feuille de laurier</p>
+    <p>4 cuillères à soupe d'huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les tomates en 4. Emincer les oignons et les champignons. Peler et piler l'ail.
+    Faire chauffer l'huile dans une cocotte. Y faire dorer les morceaux de thon à feu vir puis les retirer.
+    Ajouter les oignons et les tomates dans la cocotte. Verser le vin blanc, puis ajouter le thym et le laurier.
+    Laisser mijoter 30 minutes.
+    Ajouter les champignons dans la cocotte, laisser cuire 10 minutes.
+    Remettre le thon, laisser réchauffer quelques minutes (selon le degré de cuisson désiré, mais le thon est meilleur rosé à ceour car moins sec).
+    Retirer le thym et le laurier et servir.
+    Accompagner de riz, de pâtes fraîches ou de polenta.
+  ]]>
+  </preparation>
+</recette>

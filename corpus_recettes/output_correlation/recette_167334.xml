@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167334">
+  <titre>Nems (Version originale de ma grand-mère d'Hanoï)</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour les nems : </p>
+    <p>1,146kg de viande hachée (mélange de 50% de rôti de bœuf, 50% de rôti de porc)</p>
+    <p>600 g de crabe CHATKA (entre 30% et 60% de pattes de crabe royal)</p>
+    <p>300 g de carottes (environ 5 petites carottes)</p>
+    <p>155 g de cheveux d’ange</p>
+    <p>25 g de champignons parfumés</p>
+    <p>80 g de champignons noirs déjà découpés en fines lamelles (« black fungus », « nam meo »)</p>
+    <p>1 oignon</p>
+    <p>1 gousse d’ail</p>
+    <p>3 œufs (4 si la garniture semble trop sèche)</p>
+    <p>60 galettes de riz de 22 cm de diamètre</p>
+    <p>    </p>
+    <p>Pour les accompagnements :</p>
+    <p>600 g de carottes, du sel, du sucre en poudre, du vinaigre balsamique</p>
+    <p>« vermicelles » dits pâtes de riz (1 carré pour 2 personnes)</p>
+    <p>feuilles de laitues ou feuilles de batavia (plus fines)</p>
+    <p>feuilles de menthe</p>
+    <p>feuilles de coriandre</p>
+    <p>    </p>
+    <p>Pour la sauce nuoc mam :</p>
+    <p>3 cuillères à café de sucre en poudre</p>
+    <p>1/3 de cuillères à café de pâte de piment rouge de la Réunion</p>
+    <p>1/2 citron (ou un entier s’il ne produit pas assez de jus)</p>
+    <p>1 gousse d’ail</p>
+    <p>Du nuoc mam</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Temps de préparation : 2 h
+    Temps de cuisson : 5 min par nem
+    Ingrédients (pour 8 personnes) :
+    Préparation de la garniture :Tremper pendant 15 min les cheveux d’ange dans de l’eau chaude du robinet, jusqu’à ce que les cheveux soient mous et élastiques.
+    Tremper pendant 15 min les 2 types de champignons dans de l’eau chaude du robinet, jusqu’à ce qu’ils s’hydratent.Émincer l’oignon et l’ail en tout petit.
+    Couper aux ciseaux les cheveux d’ange mous, suffisamment pour éviter des paquets dans la garniture.  
+    Émietter le crabe.
+    Râper les carottes.Égoutter les champignons, enlever la queue très dure des champignons parfumés, découper en fines lamelles les chapeaux restants.
+    Dans un saladier, tout malaxer à la main : la viande, le crabe, l’oignon, l’ail, les cheveux d’ange, les carottes râpées, les 2 types de champignons et enfin les œufs.
+    Rouler les nems :Dans un saladier d’eau bien chaude, tremper les galettes de riz une à une pendant 3-4 sec et les disposer sur la table.
+    Attendre que la galette ait un peu séché.Disposer sur chaque galette, une grosse cuillerée de garniture.
+    Rouler de manière à ce que le nem soit suffisamment compacté mais pas trop pour éviter qu’il n’explose. Une fois les nems roulés, les laisser sécher 20 min d’un côté et de l’autre.
+    Cuisson des nems :Faire chauffer l’huile de cuisson (maïs ou tournesol).
+    Faire frire les nems dans un bain d'huile bouillante pendant 5 min.
+    Les accompagnements :Râper des carottes et les assaisonner avec un peu de sel, deux cuillères à café de sucre et 3 cuillères à soupe de vinaigre balsamique.
+    Dans une casserole d’eau chaude, verser un peu de sel, un filet d’huile de maïs ou de tournesol et faire cuire pendant 2-3 min les vermicelles de riz. Arrêter le feu et laisser les dans la casserole pendant 2-3 min puis égoutter.
+    Préparer de la salade, de la menthe et de la coriandre.
+    La sauce nuoc mam :Dans un bol, mettre 1/4 d’eau chauffée à la casserole, trois cuillères à café de sucre, 1/3 de cuillères à café de pâte de piment rouge de la Réunion, le jus d’un demi citron, 1 gousse d’ail pilée.
+    Ajouter du nuoc mam jusqu’à la moitié ou les 3/4 du bol.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Temps de <INGRED id="4">préparation</INGRED> : 2 h Temps de cuisson : 5 min par nem Ingrédients ( pour 8 personnes ) : Préparation de la garniture   : <OPER id="o_1">Tremper</OPER> pendant 15 min les <INGRED id="4">cheveux</INGRED> d’ ange dans de l’ <INGRED id="11">eau chaude</INGRED> du robinet, jusqu’ à ce que les <INGRED id="4">cheveux</INGRED> soient mous et élastiques. <OPER id="o_2">Tremper</OPER> pendant 15 min les 2 types de champignons dans de l’ <INGRED id="11">eau chaude</INGRED> du robinet, jusqu’ à ce qu’ ils s’ hydratent. <OPER id="o_3">Émincer</OPER> l’ <INGRED id="5">oignon</INGRED> et l’ <INGRED id="2">ail</INGRED> en tout petit. <OPER id="o_4">Couper</OPER> aux ciseaux les <INGRED id="4">cheveux</INGRED> d’ ange mous, suffisamment pour éviter des paquets dans la garniture. <OPER id="o_5">Émietter</OPER> le <INGRED id="2">crabe</INGRED>. <OPER id="o_6">Râper</OPER> les <INGRED id="4">carottes</INGRED>. <OPER id="o_7">Égoutter</OPER> les <INGRED id="10">champignons</INGRED>, <OPER id="o_8">enlever</OPER> la <INGRED id="1">queue</INGRED> très dure des <INGRED id="5">champignons parfumés</INGRED>, <OPER id="o_9">découper</OPER> en fines lamelles les chapeaux restants. Dans un <INGRED id="1">saladier</INGRED>, tout <OPER id="o_10">malaxer</OPER> à la main : la <INGRED id="1">viande</INGRED>, le <INGRED id="2">crabe</INGRED>, l’ <INGRED id="1">oignon</INGRED>, l’ <INGRED id="3">ail</INGRED>, les <INGRED id="4">cheveux</INGRED> d’ ange, les <INGRED id="3">carottes</INGRED> râpées, les 2 types de champignons et enfin les <INGRED id="10">œufs</INGRED>. <OPER id="o_11">Rouler</OPER> les nems   : Dans un <INGRED id="1">saladier</INGRED> d’ <INGRED id="1">eau</INGRED> bien chaude, <OPER id="o_12">tremper</OPER> les <INGRED id="1">galettes</INGRED> de <INGRED id="12">riz</INGRED> une à une pendant 3 - 4 sec et les <OPER id="o_13">disposer</OPER> sur la table. <OPER id="o_14">Attendre</OPER> que la galette ait un peu <INGRED id="10">séché</INGRED>. <OPER id="o_15">Disposer</OPER> sur chaque galette, une grosse <INGRED id="4">cuillerée</INGRED> de garniture. <OPER id="o_16">Rouler</OPER> de manière à ce que le nem soit suffisamment compacté mais pas trop pour éviter qu’ il n’ explose. Une fois les nems roulés, les <INGRED id="12">laisser</INGRED> <OPER id="o_17">sécher</OPER> 20 min d’ un côté et de l’ autre. Cuisson des nems   : Faire <OPER id="o_18">chauffer</OPER> l’ <INGRED id="11">huile</INGRED> de cuisson ( <INGRED id="1">maïs</INGRED> ou tournesol ). Faire <OPER id="o_19">frire</OPER> les nems dans un bain d'<INGRED id="2">huile</INGRED> bouillante pendant 5 min. Les accompagnements   : <OPER id="o_20">Râper</OPER> des <INGRED id="7">carottes</INGRED> et les <OPER id="o_21">assaisonner</OPER> avec un peu de <INGRED id="3">sel</INGRED>, deux cuillères à <INGRED id="3">café</INGRED> de <INGRED id="6">sucre</INGRED> et 3 cuillères à <INGRED id="10">soupe</INGRED> de <INGRED id="6">vinaigre balsamique</INGRED>. Dans une casserole d’ <INGRED id="11">eau chaude</INGRED>, <OPER id="o_22">verser</OPER> un peu de <INGRED id="12">sel</INGRED>, un <INGRED id="12">filet</INGRED> d’ <INGRED id="3">huile</INGRED> de <INGRED id="1">maïs</INGRED> ou de tournesol et <INGRED id="10">faire</INGRED> <OPER id="o_23">cuire</OPER> pendant 2 - 3 min les <INGRED id="14">vermicelles</INGRED> de <INGRED id="12">riz</INGRED>. <OPER id="o_24">Arrêter</OPER> le feu et <INGRED id="12">laisser</INGRED> les dans la casserole pendant 2 - 3 min puis <OPER id="o_25">égoutter</OPER>. <OPER id="o_26">Préparer</OPER> de la salade, de la <INGRED id="5">menthe</INGRED> et de la <INGRED id="18">coriandre</INGRED>. La <INGRED id="16">sauce</INGRED> <INGRED id="23">nuoc mam</INGRED>   : Dans un bol, <OPER id="o_27">mettre</OPER> 1/4 d’ <INGRED id="1">eau</INGRED> chauffée à la casserole, trois cuillères à <INGRED id="7">café</INGRED> de <INGRED id="2">sucre</INGRED>, 1/3 de cuillères à <INGRED id="7">café</INGRED> de <INGRED id="20">pâte de piment rouge de la Réunion</INGRED>, le <INGRED id="8">jus</INGRED> d’ un <INGRED id="2">demi</INGRED> <INGRED id="9">citron</INGRED>, 1 gousse d’ <INGRED id="8">ail pilée</INGRED>. <OPER id="o_28">Ajouter</OPER> du <INGRED id="23">nuoc mam</INGRED> jusqu’ à la moitié ou les 3/4 du bol.
+  </annotation>
+  <annotation methode="crf">
+  Temps de préparation <INGRED>:</INGRED> 2 <INGRED>h</INGRED> Temps de cuisson <INGRED>:</INGRED> 5 min par nem Ingrédients ( pour 8 personnes ) <INGRED>:</INGRED> Préparation de la garniture   <INGRED>:</INGRED> Tremper pendant 15 min les cheveux d’ ange dans de l’ <INGRED>eau chaude</INGRED> du robinet, jusqu’ à ce que les cheveux soient mous et élastiques. Tremper pendant 15 min les 2 types de <INGRED>champignons</INGRED> dans de l’ <INGRED>eau chaude</INGRED> du robinet, jusqu’ à ce qu’ ils s’ hydratent <INGRED>.</INGRED> Émincer l’ <INGRED>oignon</INGRED> et l’ <INGRED>ail</INGRED> en tout <INGRED>petit</INGRED> <INGRED>.</INGRED> Couper aux ciseaux les cheveux d’ ange mous <INGRED>,</INGRED> suffisamment pour éviter des paquets dans la garniture. Émietter le crabe. Râper les <INGRED>carottes</INGRED>. Égoutter les <INGRED>champignons</INGRED> <INGRED>,</INGRED> enlever la queue très dure des <INGRED>champignons</INGRED> parfumés <INGRED>,</INGRED> découper en fines lamelles les chapeaux restants. Dans un saladier <INGRED>,</INGRED> tout malaxer à la main <INGRED>:</INGRED> la <INGRED>viande</INGRED> <INGRED>,</INGRED> le crabe <INGRED>,</INGRED> l’ <INGRED>oignon</INGRED> <INGRED>,</INGRED> l’ <INGRED>ail</INGRED> <INGRED>,</INGRED> les cheveux d’ ange <INGRED>,</INGRED> les <INGRED>carottes râpées</INGRED> <INGRED>,</INGRED> les 2 types de <INGRED>champignons</INGRED> et enfin les <INGRED>œufs</INGRED> <INGRED>.</INGRED> Rouler les nems   <INGRED>:</INGRED> Dans un saladier d’ <INGRED>eau</INGRED> bien chaude <INGRED>,</INGRED> tremper les <INGRED>galettes</INGRED> de riz une à une pendant 3 - 4 sec et les disposer sur la table <INGRED>.</INGRED> Attendre que la galette ait un peu séché. Disposer sur chaque galette <INGRED>,</INGRED> une grosse <INGRED>cuillerée</INGRED> de garniture. Rouler de manière à ce que le nem soit suffisamment compacté mais pas trop pour éviter qu’ il n’ explose <INGRED>.</INGRED> Une fois les nems roulés <INGRED>,</INGRED> les laisser sécher 20 min d’ un côté et de l’ autre <INGRED>.</INGRED> Cuisson des nems   <INGRED>:</INGRED> Faire chauffer l’ <INGRED>huile</INGRED> de cuisson ( <INGRED>maïs</INGRED> <INGRED>ou</INGRED> tournesol ). Faire frire les nems dans un bain d'<INGRED>huile</INGRED> bouillante pendant 5 min. Les accompagnements   <INGRED>:</INGRED> Râper des <INGRED>carottes</INGRED> et les assaisonner avec un peu de <INGRED>sel</INGRED> <INGRED>,</INGRED> <INGRED>deux</INGRED> <INGRED>cuillères à café</INGRED> de <INGRED>sucre</INGRED> et 3 <INGRED>cuillères à soupe</INGRED> de <INGRED>vinaigre balsamique</INGRED> <INGRED>.</INGRED> Dans une casserole d’ <INGRED>eau</INGRED> chaude <INGRED>,</INGRED> verser un peu de <INGRED>sel</INGRED> <INGRED>,</INGRED> un <INGRED>filet</INGRED> d’ <INGRED>huile</INGRED> de <INGRED>maïs</INGRED> <INGRED>ou</INGRED> de tournesol et faire cuire pendant 2 - 3 min les vermicelles de <INGRED>riz</INGRED> <INGRED>.</INGRED> Arrêter le feu et laisser les dans la casserole pendant 2 - 3 min puis égoutter <INGRED>.</INGRED> Préparer de la <INGRED>salade</INGRED> <INGRED>,</INGRED> de la <INGRED>menthe</INGRED> et de la <INGRED>coriandre</INGRED> <INGRED>.</INGRED> La <INGRED>sauce</INGRED> nuoc mam   <INGRED>:</INGRED> Dans un bol <INGRED>,</INGRED> mettre <INGRED>1/4</INGRED> d’ <INGRED>eau</INGRED> chauffée à la casserole <INGRED>,</INGRED> trois <INGRED>cuillères à café</INGRED> de <INGRED>sucre</INGRED> <INGRED>,</INGRED> <INGRED>1/3</INGRED> de <INGRED>cuillères à café</INGRED> de <INGRED>pâte</INGRED> de <INGRED>piment rouge</INGRED> de la Réunion <INGRED>,</INGRED> le <INGRED>jus</INGRED> d’ un <INGRED>demi</INGRED> <INGRED>citron</INGRED> <INGRED>,</INGRED> 1 gousse d’ <INGRED>ail</INGRED> pilée <INGRED>.</INGRED> Ajouter du nuoc mam jusqu’ à la moitié <INGRED>ou</INGRED> les 3/4 du bol <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 65.2452830188679*X + 116.754716981132</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 10*X + 27</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['viande hachée', 'viande']	 id:1	 quantité:1,146	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['crabe CHATKA', 'crabe']	 id:2	 quantité:600	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['carottes']	 id:3	 quantité:300	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["cheveux d'ange", 'cheveux']	 id:4	 quantité:155	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['champignons parfumés', 'champignons']	 id:5	 quantité:25	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['champignons noirs déjà découpés en fines lamelles', 'champignons']	 id:6	 quantité:80	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oignon']	 id:7	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['ail']	 id:8	 quantité:1	 unité:gousse d'	 denombrable:True	 recipient:1*X
+ingredient:['œufs']	 id:9	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['diamètre']	 id:10	 quantité:60	 unité:cm de	 denombrable:False	 recipient:1
+ingredient:['carottes']	 id:11	 quantité:600	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sucre en poudre', 'sucre']	 id:13	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['vinaigre balsamique', 'vinaigre']	 id:14	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['« vermicelles » dits pâtes de riz', '«']	 id:15	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['batavia']	 id:16	 quantité:non_precis	 unité:feuilles de	 denombrable:False	 recipient:1
+ingredient:['menthe']	 id:17	 quantité:non_precis	 unité:feuilles de	 denombrable:False	 recipient:1
+ingredient:['coriandre']	 id:18	 quantité:non_precis	 unité:feuilles de	 denombrable:False	 recipient:1
+ingredient:['sucre en poudre', 'sucre']	 id:19	 quantité:3	 unité:cuillères à café de	 denombrable:True	 recipient:3*X
+ingredient:['pâte de piment rouge de la Réunion', 'pâte']	 id:20	 quantité:1/3	 unité:cuillères à café de	 denombrable:False	 recipient:1
+ingredient:['citron']	 id:21	 quantité:1/2	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['ail']	 id:22	 quantité:1	 unité:gousse d'	 denombrable:True	 recipient:1*X
+ingredient:['nuoc mam', 'nuoc']	 id:23	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:tremper	 id:o_1	 ingrédients_ralatifs:['4', '11', '4']	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:tremper	 id:o_2	 ingrédients_ralatifs:['11']	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:émincer	 id:o_3	 ingrédients_ralatifs:['5', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_4	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:155*X	 temps:1*X*1	 recipient:1
+operation:émietter	 id:o_5	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:râper	 id:o_6	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:égoutter	 id:o_7	 ingrédients_ralatifs:['10', '1', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enlever	 id:o_8	 ingrédients_ralatifs:['1', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:découper	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:malaxer	 id:o_10	 ingrédients_ralatifs:['1', '1', '2', '1', '3', '4', '3', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rouler	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tremper	 id:o_12	 ingrédients_ralatifs:['1', '1', '1', '12']	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:disposer	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:attendre	 id:o_14	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_15	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:rouler	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:sécher	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_18	 ingrédients_ralatifs:['11', '1']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:frire	 id:o_19	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:râper	 id:o_20	 ingrédients_ralatifs:['7', '3', '3', '6', '10', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:assaisonner	 id:o_21	 ingrédients_ralatifs:['3', '3', '6', '10', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_22	 ingrédients_ralatifs:['11', '12', '12', '3', '1', '10', '14', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_23	 ingrédients_ralatifs:['10', '14', '12']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:arrêter	 id:o_24	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:égoutter	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparer	 id:o_26	 ingrédients_ralatifs:['5', '18']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:mettre	 id:o_27	 ingrédients_ralatifs:['1', '7', '2', '7', '20', '8', '2', '9', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_28	 ingrédients_ralatifs:['23']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

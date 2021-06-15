@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21428">
+  <titre>Quiche lardons, gruyère et moules</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>1,5 kg de moules</p>
+    <p>150 g de gruyère râpé</p>
+    <p>100 g de crème fraîche</p>
+    <p>100 g de lardons fumé</p>
+    <p>4 oeufs</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (thermostat 7).
+    Etaler la pâte dans un moule à tarte et la faire précuire au four durant 10 minutes.
+    Laver soigneusement les moules et les faire ouvrir avec un fond d'eau sur feu vif. Egoutter les moules et les décoquiller.
+    Récupérer le jus de cuisson et le filtrer.
+    Mélanger les oeufs battus avec la crème, 5 cl de jus de cuisson des moules et le fromage râpé.
+    Répartir les moules sur le fond de tarte.
+    Faire dorer les lardons et les disposer sur le fond de tarte également.
+    Recouvrir de pâte et enfourner pour 45 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

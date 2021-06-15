@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24176">
+  <titre>Beignets de semoule fruitée</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la garniture de semoule aux fruits :</p>
+    <p>80 g de semoule</p>
+    <p>50 cl de lait</p>
+    <p>75 g de sucre en poudre</p>
+    <p>10 g de beurre</p>
+    <p>zeste râpé d'1/2 citron</p>
+    <p>250 g de fruits (cerises, prunes, fraises, abricots etc)</p>
+    <p>1 pincée de sel</p>
+    <p>Pour la pâte à beignet :</p>
+    <p>100 g de farine (1 tasse)</p>
+    <p>2 oeufs</p>
+    <p>100 g de chapelure (1 tasse)</p>
+    <p>huile de friture</p>
+    <p>Pour le sirop de cuisson :</p>
+    <p>125 g de sucre en poudre</p>
+    <p>10 cl d'eau</p>
+    <p>375 g de gelée de framboise (1 pot)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez le sirop de cuisson en portant à ébullition l'eau et le sucre. Pochez-y les fruits, entiers s'ils sont petits  ou coupés en morceaux s'ils sont gros, pendant 5 minutes.
+    Portez le lait à ébullition et jetez-y la semoule en pluie. Laissez épaissir pendant 10 minutes.
+    Hors du feu, ajoutez 75 g de sucre, le beurre et le sel. Râpez le zeste du demi-citron, ajoutez-le, puis incorporez les fruits pochés au sirop. Mélangez puis laissez refroidir.
+    Préparez 3 assiettes creuses : l'une avec la farine, la 2e avec les oeufs battus, la 3e avec la chapelure.
+    Avec la pâte de semoule aux fruits, façonnez des croquettes. Passez-les successivement dans les 3 assiettes, puis faites-les frire dans l'huile chaude pendant 5 minutes.
+    Délayez la gelée de framboises avec le sirop de cuisson des fruits et nappez-en les croquettes chaudes.
+  ]]>
+  </preparation>
+</recette>

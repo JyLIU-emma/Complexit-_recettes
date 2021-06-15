@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24308">
+  <titre>Blanquette de dinde aux poireaux</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 escalopes de dinde</p>
+    <p>3 poireaux</p>
+    <p>3 carottes</p>
+    <p>2 oignons</p>
+    <p>1/2 litre de bouillon de volaille</p>
+    <p>3 cuillères à soupe de crème fraîche</p>
+    <p>2 cuillères à soupe de Maïzena</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les oignons et la dinde coupée en morceaux. 
+    Ajouter les poireaux en rondelles et les carottes en cubes. 
+    Mouiller avec le bouillon de volaille (préparé avec 1/2 litre d'eau et 1 cube de bouillon). 
+    Saler, poivrer. 
+    Faire cuire 25 mn à la cocotte-minute. 
+    Au dernier moment, délayer la Maïzena avec un peu de bouillon, ajouter la crème. 
+    Verser sur la viande et les légumes et mélanger sur feu doux jusqu'à l'obtention d'une sauce onctueuse. 
+    Servir avec du riz ou du blé.
+  ]]>
+  </preparation>
+</recette>

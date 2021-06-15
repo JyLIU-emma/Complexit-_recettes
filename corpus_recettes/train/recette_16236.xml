@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16236">
+  <titre>Blanc de poulet aux courgettes et au lard</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 courgettes</p>
+    <p>400 g de blanc de poulet</p>
+    <p>10 tranches de lard fines</p>
+    <p>3 tomates</p>
+    <p>1 oignons rouges</p>
+    <p>ail </p>
+    <p>thym</p>
+    <p>sel, poivre</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre un filet d'huile d'olive au fond d'un plat four haut, laver les légumes, couper les courgettes en tranches de 2 mm d'épaisseur, les disposer au fond du plat, saler, poivrer, ajouter de la poudre d'ail.
+    Couper les tomates en tranches, saupoudrer de thym et superposer au lamelles de courgettes, lamelle d'oignons rouge au dessus.
+    Couper le blanc de poulet en 10 parts égales, l'entourer de lard petit déjeuner et le disposer au dessus.
+    Arroser d'un filet d'huile d'olive, mettre au four à 200°C durant 20 à 30 minutes. Si vous avez un couvercle pour votre plat à four, c'est encore meilleur.
+  ]]>
+  </preparation>
+</recette>

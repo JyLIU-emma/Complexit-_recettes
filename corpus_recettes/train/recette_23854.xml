@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23854">
+  <titre>Risotto de brocolis aux amandes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 oignon émincé</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>175 g de riz brun</p>
+    <p>75 cl de bouillon de volaille</p>
+    <p>2 cuillères à soupe d'amandes grillées</p>
+    <p>500 g de brocolis divisés en petits bouquets</p>
+    <p>50 g de parmesan râpé</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir l'oignon dans l'huile pendant 3 minutes. Ajouter le riz et remuer jusqu'à ce qu'il soit  bien enduit d'huile.
+    Ajouter progressivement le bouillon de volaille. Porter à ébullition. Saler et poivrer, puis ajouter les amandes. Couvrir et laisser mijoter pendant 20 minutes.
+    Ajouter les brocolis et faire cuire encore 8 minutes, jusqu'à ce que le bouillon soit absorbé.Ajouter le parmesan et disposer le tout dans un plat de service (pour que ce soit plus joli). Saupoudrer le plat avec les amandes grillées et servir très chaud.C'est un plat basses calories. Si vous le souhaitez, vous pouvez ne pas mettre d'amandes.
+  ]]>
+  </preparation>
+</recette>

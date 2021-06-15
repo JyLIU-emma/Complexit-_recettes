@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22254">
+  <titre>Quatre quarts aux poires enrobées de chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 oeufs de 50 g = 150 g</p>
+    <p>le même poids de sucre = 150 g</p>
+    <p>le même poid de farine = 150 g</p>
+    <p>le même poid de beurre = 150 g</p>
+    <p>1 cuillère rase de levure en poudre</p>
+    <p>2 pincées de sel</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 poire</p>
+    <p>du Nutella</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les oeufs, le sucre et la farine, puis le beurre fondu. 
+    Ajouter la levure, le sel et le sucre vanillé. 
+    Mettre la pâte dans un moulant en même temps que vous incorporez les poires coupées en tranches et enrobées de Nutella. 
+    Mettre au four thermostat 6/7 pendant 30 à 40 mn.
+    C'est un plat très facile à réaliser, bon marché et délicieux. café, thé, etc...
+  ]]>
+  </preparation>
+</recette>

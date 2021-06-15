@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18093">
+  <titre>Spaghettis aux fruits de mer</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de spaghettis</p>
+    <p>un sachet de fruits de mer congelés</p>
+    <p>huile d'olive (un filet)</p>
+    <p>un citron</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Mettre le sachet de fruits de mer congelés dans une casserole en le couvrant d'eau. Laisser sur le feu quelques minutes (juste le temps de dégeler les fruits de mer).
+    Couper les spaghettis en deux et les faire frire dans une poêle avec un bon filet d'huile d'olive (comme pour un riz pilaf). Les remuer sans cesse jusqu'à ce qu'ils prennent une couleur très brune.
+    Ajouter les fruits de mer avec leur eau de cuisson. Rajouter de l'eau si nécessaire et faire cuire l'ensemble à couvert pendant une dizaine de minutes.
+    Poivrer puis ajouter quelques gouttes de citron.
+    Ce plat très économique vous dépannera toujours pour un repas à l'improviste. C'est une recette espagnole.
+    Essayez, tout le monde adore!
+  ]]>
+  </preparation>
+</recette>

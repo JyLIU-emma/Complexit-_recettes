@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24712">
+  <titre>Filet de boeuf en croûte et sauce au madère</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 rôti de boeuf de 800 g</p>
+    <p>1 bloc de pâte feuilletée</p>
+    <p>70 g de beurre</p>
+    <p>100 g de jambon blanc</p>
+    <p>1 oignon</p>
+    <p>1 échalote</p>
+    <p>13 cl de Madère</p>
+    <p>1 bouquet garni</p>
+    <p>1 petite boîte de pelure de truffes</p>
+    <p>1 jaune d'oeuf</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites dorer la viande dans 30 g de beurre sur toutes les faces puis mouillez de 3 cl de Madère et autant d'eau. Laissez mijoter 5 minutes.
+    Retirez la viande de la cocotte et laissez refroidir. Verser le jus de cuisson dans un bol à part.
+    Préchauffez le four à 210°C (thermostat 7).
+    Préparez la sauce : faites revenir dans le reste de beurre le jambon coupé en dés avec l'oignon et l'échalote hachés. Salez, poivrez, rajoutez le reste de Madère et le jus de cuisson du rôti. Posez dessus le bouquet garni, versez le contenu de la boîte de pelures de truffes avec son jus.
+    Faites bouillir et laissez réduire de moitié. Réservez. 
+    Etalez la pâte feuilletée, posez le rôti dessus et enveloppez-le dans la pâte. Dorez au jaune d'oeuf battu.
+    Déposez le rôti ainsi préparé dans un plat à four beurré et enfournez 20 minutes. Servez avec la sauce aux truffes.
+  ]]>
+  </preparation>
+</recette>

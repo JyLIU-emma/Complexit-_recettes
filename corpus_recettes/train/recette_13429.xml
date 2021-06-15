@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13429">
+  <titre>Gâteau de carottes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>200 g de sucre en poudre</p>
+    <p>2 cuillères à soupe d'eau chaude</p>
+    <p>1 pincée de cannelle</p>
+    <p>1/2 citron (jus et zeste)</p>
+    <p>250 g de noisettes moulues</p>
+    <p>250 g de carottes</p>
+    <p>1 pincée de sel</p>
+    <p>3 cuillères à soupe de farine</p>
+    <p>1 cuillère à café de levure chimique</p>
+    <p>Pour la décoration :</p>
+    <p>200 g de sucre glace</p>
+    <p>1 blanc d’oeuf</p>
+    <p>1 cuillère à soupe de kirsch ou de citron</p>
+    <p>gelée d’abricot</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Séparez les oeufs et battez les jaunes avec le sucre, l’eau, la cannelle, le zeste de citron et son jus.
+    Incorporez ensuite les noisettes et les carottes râpées, puis mélangez bien.
+    Battez les blancs en neige en ajoutant le sel. 
+    Les incorporez délicatement, en alternant avec le mélange de farine et de levure.
+    Mettez le tout dans une tourtière beurrée et mettre au four froid, au bas du four.
+    Faites cuire 50 mn à 180°C.
+    Pour la décoration, mélangez le sucre le blanc d’oeuf et le kirsch de manière à obtenir un mélange bien lisse, ce glaçage de sucre doit être épais.
+    Démoulez le gâteau encore chaud. Recouvrez la surface de gelée d’abricot et de glace.
+  ]]>
+  </preparation>
+</recette>

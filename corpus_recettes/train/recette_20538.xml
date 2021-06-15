@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20538">
+  <titre>Cuisses de poulet rôti asiatiques</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 cuisses de poulet</p>
+    <p>2 gousses d'ail</p>
+    <p>3 cuillères à soupe de sauce soja</p>
+    <p>1 cuillère à soupe de miel</p>
+    <p>1 cuillère à café de 5 épices</p>
+    <p>1 cuillère à café de gingembre frais râpé</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Salez, poivrez et saupoudrez les cuisses de 5 épices.
+    Mélangez la sauce soja, le miel, le gingembre et les gousses d'ail écrasées. Faites-y mariner le poulet 1 nuit en retournant les morceaux de temps en temps.
+    Faites cuire les cuisses de poulet au barbecue, sous le grill, à la broche ou au four à 200°C (thermostat 6-7) pendant 45 min en les retournant et en arrosant souvent.
+    A servir avec du riz ou des nouilles sautées aux légumes.
+  ]]>
+  </preparation>
+</recette>

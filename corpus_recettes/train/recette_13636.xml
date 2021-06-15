@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13636">
+  <titre>Steaks au gruyère</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 steaks hachées</p>
+    <p>gruyère râpé</p>
+    <p>moutarde</p>
+    <p>un bouillon de boeuf</p>
+    <p>un verre d'eau</p>
+    <p>paprika, sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire dorer les steaks sur un seul côté dans une poêle à revêtement anti-adhésif préchauffé. 
+    Les placer dans un plat allant au four et badigonner de moutarde le côté cru des steaks. 
+    Saupoudrer chaque steak de gruyère râpé, verser un peu de bouillon au fond du plat. Saler et poivrez.
+    Faites cuire à four très chaud pendant 5 mn.
+    Avant de servir, saupoudrez de paprika.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14891">
+  <titre>Leche frita (Espagne)</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 litre de lait</p>
+    <p>200 g de sucre</p>
+    <p>80 g de fécule de mais</p>
+    <p>1 bâton de cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire l'ensemble dans une casserole. Retirer le bâton de cannelle.
+    Mettre dans un plat rectangulaire et mettre au frais.
+    Quand c'est froid et solidifié, couper en rectangles. Passer dans la farine et dans l'oeuf et frire.
+    Servir saupoudré de sucre.
+  ]]>
+  </preparation>
+</recette>

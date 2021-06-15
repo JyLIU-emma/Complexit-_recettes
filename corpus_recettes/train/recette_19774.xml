@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19774">
+  <titre>Baeckeoffe</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g échine de porc</p>
+    <p>500 g épaule de mouton désossée</p>
+    <p>500 g poitrine de boeuf désossée</p>
+    <p>500 g oignons</p>
+    <p>1 kg pommes de terre</p>
+    <p>75 cl vin blanc sec (type Riesling ou Pinot blanc) </p>
+    <p>1 bouquet garni </p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    A préparer la veille :Détailler la viande en morceaux égaux et la faire mariner 24h avec le vin, le bouquet garni, sel et poivre à volonté. Le lendemain : éplucher les pommes de terre, les laver, les couper en rondelles. 
+    Couper les oignons en rondelles. 
+    Dans un plat à four (ayant un couvercle), disposer une couche d'oignons, une couche de pommes de terre, une couche de viande, et renouveler jusqu'à épuisement. 
+    Couvrir avec la moitié de la marinade. Couvrir et enfourner thermostat 8 pendant 1 h 30 environ. Riesling ou Pinot Blanc
+  ]]>
+  </preparation>
+</recette>

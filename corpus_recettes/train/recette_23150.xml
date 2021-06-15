@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23150">
+  <titre>Les p'tites grillées de Manon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 baguette de pain (de préférence à l'ancienne, ou de campagne) </p>
+    <p>2 belles tranches de jambon blanc</p>
+    <p>2 tomates</p>
+    <p>2 tranches de bûche de chèvre</p>
+    <p>moutarde</p>
+    <p>100 g de fromage râpé</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre, herbes de Provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper la baguette en 4 grandes tartines. 
+    Tartiner de moutarde. 
+    Déposer sur chaque tartine: 
+    1/2 tranche de jambon. 
+    Un peu de fromage râpé. 
+    1/2 tomate en rondelles. 
+    1/2 tranche de chèvre émiettée. 
+    Saler et poivrer légèrement. 
+    Recouvrir d'un filet d'huile d'olive et d'herbes de Provence. 
+    Poser le tout sur la plaque du four sur un papier sulfurisé et faire gratiner sous le grill 5 mn. 
+    Déguster avec une salade
+    Permet d'utiliser le pain de la veille et peut se faire avec nos ingrédients préférés (bacon et Reblochon par ex.) Un rosé de Provence s'impose!
+  ]]>
+  </preparation>
+</recette>

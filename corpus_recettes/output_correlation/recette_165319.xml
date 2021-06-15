@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165319">
+  <titre>Plof Ukrainien</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300g. de viande de porc ou d'agneau, - 500 g. de riz à paella, </p>
+    <p>1 grosse carotte, </p>
+    <p>1 gros oignon, </p>
+    <p>4 gousses d'ail, </p>
+    <p>4 pruneaux, </p>
+    <p>1 pincée de mélange de piments (poivre rouge, épine-vinette sèche, basilic, coriandre………)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une marmite en fonte à fond épais bien chaude, faites revenir dans un peu d'huile d'olive l'oignon émincé finement et la carotte coupée en lanières (la râpe à gros trous va très bien).
+    Ajoutez la viande préalablement coupée en petits morceaux et faites revenir le tout en remuant avec une cuillère en bois. Salez et poivrez. Lavez les pruneaux, dénoyautez-les, coupez-les en petits morceaux et mettez-les dans la marmite.
+    Lavez le riz, placez-le sur la préparation de viande sans le mélanger, lissez la surface à l'aide de la cuillère en bois. Versez alors lentement de l'eau chaude sur la paroi de la marmite (et non au centre), l'eau devant "monter" 1 à 2 doigts au-dessus du riz (en fonction de la grandeur de la cocotte !). Ajoutez une pincée de piments et de sel. Couvrez et dès que l'ébullition aura repris, diminuez le feu et laissez mijoter à feu très doux.
+    Puis lorsqu'il n'y aura plus d'eau à la surface du riz, faites alors quatre petits trous et mettez-y les gousses d'ail sans les éplucher, et éteignez le feu. 5 à 10 minutes plus tard, votre "plof" est prêt !!!
+    Mélangez avant de servir.
+    BON APPETIT !!!!!!!!Le plat est savoureux et très parfumé. Cette recette m'a été communiquée par Tania, sur le "Dniepr Princess" en Ukraine Un Médoc ou un Saint-Emilion
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Dans une marmite en fonte   à fond épais bien chaude, faites <OPER id="o_1">revenir</OPER> dans un peu d'huile d'olive l'<INGRED id="4">oignon</INGRED> émincé finement et la <INGRED id="3">carotte</INGRED> coupée en lanières ( la râpe à gros trous va très bien ). <OPER id="o_2">Ajoutez</OPER> la <INGRED id="2">viande</INGRED> préalablement coupée en <INGRED id="3">petits</INGRED> morceaux et faites <OPER id="o_3">revenir</OPER> le tout en remuant avec une cuillère en bois. <OPER id="o_4">Salez</OPER> et <OPER id="o_5">poivrez</OPER>. <OPER id="o_6">Lavez</OPER> les <INGRED id="6">pruneaux</INGRED>, dénoyautez - les, coupez - les en <INGRED id="3">petits</INGRED> morceaux et mettez - les dans la marmite. <OPER id="o_7">Lavez</OPER> le <INGRED id="1">riz</INGRED>, placez - le sur la préparation de <INGRED id="2">viande</INGRED> sans le <OPER id="o_8">mélanger</OPER>, <OPER id="o_9">lissez</OPER> la surface à l'aide de la cuillère en bois. <OPER id="o_10">Versez</OPER> alors lentement de l'<INGRED id="7">eau</INGRED> chaude sur la paroi de la marmite ( et non au centre ), l'eau devant " <OPER id="o_11">monter</OPER> " 1 à 2 doigts au-dessus du <INGRED id="1">riz</INGRED> ( en fonction de la grandeur de la cocotte ! ). <OPER id="o_12">Ajoutez</OPER> une pincée de piments et de <INGRED id="7">sel</INGRED>. <OPER id="o_13">Couvrez</OPER> et dès que l'ébullition aura repris, <OPER id="o_14">diminuez</OPER> le feu et laissez <OPER id="o_15">mijoter</OPER> à feu très doux. Puis lorsqu'il n'y aura plus d'<INGRED id="7">eau</INGRED> à la surface du <INGRED id="1">riz</INGRED>, faites alors <INGRED id="2">quatre</INGRED> <INGRED id="3">petits</INGRED> trous et <OPER id="o_16">mettez</OPER> - y les gousses d'<INGRED id="4">ail</INGRED> sans les <OPER id="o_17">éplucher</OPER>, et éteignez le feu. 5 à 10 minutes plus tard, votre " plof " est prêt ! ! ! <OPER id="o_18">Mélangez</OPER> avant de servir. BON APPETIT ! ! ! ! ! ! ! ! Le plat est savoureux et très parfumé. Cette recette m'a été communiquée par Tania, sur le " Dniepr Princess " en Ukraine Un Médoc ou un Saint-Emilion
+  </annotation>
+  <annotation methode="crf">
+  Dans une marmite en fonte   à <INGRED>fond</INGRED> épais bien chaude <INGRED>,</INGRED> faites revenir dans un peu d'<INGRED>huile d'olive</INGRED> l'<INGRED>oignon</INGRED> émincé <INGRED>finement</INGRED> et la <INGRED>carotte</INGRED> coupée en lanières ( la râpe à <INGRED>gros</INGRED> trous va très bien ). Ajoutez la viande préalablement coupée en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> et faites revenir le tout en remuant avec une cuillère en bois <INGRED>.</INGRED> Salez et poivrez <INGRED>.</INGRED> Lavez les <INGRED>pruneaux</INGRED> <INGRED>,</INGRED> dénoyautez - les <INGRED>,</INGRED> coupez - les en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> et mettez - les dans la marmite. Lavez le <INGRED>riz</INGRED> <INGRED>,</INGRED> placez - le sur la préparation de <INGRED>viande</INGRED> sans le mélanger <INGRED>,</INGRED> lissez la surface à l'aide de la cuillère en bois <INGRED>.</INGRED> Versez alors lentement de l'<INGRED>eau</INGRED> chaude sur la paroi de la marmite ( et non au centre ) <INGRED>,</INGRED> l'<INGRED>eau</INGRED> devant " monter " 1 à 2 doigts au-dessus du <INGRED>riz</INGRED> ( en fonction de la grandeur de la cocotte ! ). Ajoutez une pincée de <INGRED>piments</INGRED> et de <INGRED>sel</INGRED> <INGRED>.</INGRED> Couvrez et dès que l'ébullition aura repris <INGRED>,</INGRED> diminuez le feu et laissez mijoter à feu très doux. Puis lorsqu'il n'y aura plus d'<INGRED>eau</INGRED> à la surface du <INGRED>riz</INGRED> <INGRED>,</INGRED> faites alors <INGRED>quatre</INGRED> petits trous et mettez - y les gousses d'<INGRED>ail</INGRED> sans les éplucher <INGRED>,</INGRED> et éteignez le feu <INGRED>.</INGRED> 5 à 10 minutes plus tard <INGRED>,</INGRED> votre " plof " est prêt ! ! ! Mélangez avant de servir <INGRED>.</INGRED> BON APPETIT ! ! ! ! ! ! ! ! Le plat est savoureux et très parfumé. Cette recette m'<INGRED>a</INGRED> été communiquée par Tania <INGRED>,</INGRED> sur le " Dniepr Princess " en Ukraine Un Médoc <INGRED>ou</INGRED> un Saint-Emilion
+  </annotation>
+  <complexite>
+    <temps>f(X) = 817.0*X</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 811*X + 6</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:["g. de viande de porc ou d'agneau", 'g']	 id:1	 quantité:300	 unité:non_precis	 denombrable:True	 recipient:300*X
+ingredient:['g. de riz à paella', 'g']	 id:2	 quantité:500	 unité:non_precis	 denombrable:True	 recipient:500*X
+ingredient:['carotte']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['oignon']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['ail']	 id:5	 quantité:4	 unité:gousses d'	 denombrable:True	 recipient:4*X
+ingredient:['pruneaux']	 id:6	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['mélange de piments', 'mélange']	 id:7	 quantité:1	 unité:pincée de	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:revenir	 id:o_1	 ingrédients_ralatifs:['4', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['2', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:revenir	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:saler	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:laver	 id:o_6	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:4*X*1	 recipient:0
+operation:laver	 id:o_7	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:300*X+500*X	 temps:300*X*1+500*X*1	 recipient:0
+operation:mélanger	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:lisser	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_10	 ingrédients_ralatifs:['7', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:monter	 id:o_11	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:diminuer	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:mettre	 id:o_16	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:éplucher	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:mélanger	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+]]>
+</operation_trouve>
+</recette>

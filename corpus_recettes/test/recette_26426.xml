@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26426">
+  <titre>Steak d'autruche sauce poivre vert</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 steaks d'autruche </p>
+    <p>10 cl de vin blanc sec</p>
+    <p>10 cl de crème fraîche épaisse</p>
+    <p>2 cuillères à soupe de poivre vert moulu</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle, saisir le steak assaisonné dans du beurre chaud. Réserver au chaud.
+    Déglacer les sucs de la poêle en y versant le vin blanc. Ajouter le poivre vert et la crème. Laisser épaissir.
+    Servir tel quel.
+    Il n'y a pas vraiment de préparation... à moins que vous comptiez le temps de faire les courses pour acheter les ingrédients !
+  ]]>
+  </preparation>
+</recette>

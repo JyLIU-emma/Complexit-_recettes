@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26868">
+  <titre>Poulet aux tomates et aux olives</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poulet découpé en morceaux</p>
+    <p>750 g de tomates pelées et épépinées</p>
+    <p>3 oignons</p>
+    <p>3 gousses d'ail</p>
+    <p>200 g d'olives noires dénoyautées</p>
+    <p>75 cl de vin blanc sec</p>
+    <p>bardes de lard</p>
+    <p>croûtons</p>
+    <p>persil frais haché</p>
+    <p>des brindilles de thym</p>
+    <p>huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Entourer chaque morceau de poulet avec une brindille de thym et une barde de lard.
+    Les ficeler et les faire dorer dans une cocotte avec de l'huile.
+    Ajouter les oignons et l'ail hachés.
+    Saler, poivrer et rajouter les tomates.
+    Mouiller de vin blanc et laisser cuire 30 min.
+    Retirer les morceaux de poulet et faire réduire la sauce d'1/4.
+    Ajouter les olives, faire bouillir quelques instants et verser la sauce sur les morceaux de poulet.
+    Parsemer de croûtons et de persil et servir.
+    Un peu de riz ou de purée seront bienvenus avec cette recette...
+  ]]>
+  </preparation>
+</recette>

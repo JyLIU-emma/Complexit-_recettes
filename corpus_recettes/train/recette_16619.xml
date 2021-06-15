@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16619">
+  <titre>Gratin de courgettes et d'aubergines</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 courgettes</p>
+    <p>4 aubergines</p>
+    <p>4 tomates</p>
+    <p>2 boules de mozzarella</p>
+    <p>persil, ail</p>
+    <p>chapelure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire dégorger pendant 30 mn les courgettes et les aubergines coupées en rondelles.
+    Les faire ensuite revenir dans une poêle avec de l'huile d'olive, puis les disposer dans un plat à four: d'abord les aubergines, puis la mozzarella préalablement coupée en tranches,les tomates coupées en tranches également, et les courgettes, et ainsi de suite.
+    Pour finir, hacher le persil et l'ail, les répartir dans le plat, puis ajouter la chapelure et quelques noisettes de beurre.
+    Enfourner pendant 20 mn (four assez chaud / thermostat 7).
+  ]]>
+  </preparation>
+</recette>

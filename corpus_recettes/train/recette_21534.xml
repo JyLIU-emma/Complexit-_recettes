@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21534">
+  <titre>Tartare de saumon (simple)</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pavé de saumon (180-200 g) </p>
+    <p>2 ou 3 cuillères à soupe de crème fraîche</p>
+    <p>herbes fraîches</p>
+    <p>(persil, ciboulette, etc...) </p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Enlever la peau du pavé du saumon si cela n'est pas déjà fait. 
+    Découper le saumon en fines lamelles (comme carpaccio) ou en petits cubes.
+    Saler, poivrer. Ajouter généreusement les herbes dont vous disposer. 
+    Ajouter la crème fraîche (peut se faire avec du fromage pour ceux qui sont au régime, mais c'est moins bon...). 
+    Bien mélanger. 
+    Mettre au frais 30 min avant dégustation. (Surtout ne pas laisser attendre plus longtemps et consommer immédiatement! Ca ne se conserve guère)
+    Même si le saumon n'est pas très cher, il est possible d'incorporer de la truite saumonée, moins onéreuse, dans la recette. Je vous conseillerais toutefois de ne pas en mettre plus de 50%.
+  ]]>
+  </preparation>
+</recette>

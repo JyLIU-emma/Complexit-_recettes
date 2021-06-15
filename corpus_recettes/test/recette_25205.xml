@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25205">
+  <titre>Pain de poisson simple</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de chair de merlan</p>
+    <p>400 g de mie de pain</p>
+    <p>lait</p>
+    <p>4 oeufs</p>
+    <p>beurre</p>
+    <p>sel, poivre</p>
+    <p>Pour accompagner :</p>
+    <p>sauce béchamel ou sauce tomate </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 160°C (thermostat 5/6).
+    Mettre la mie de pain à tremper dans le lait puis la laisser macérer jusqu'à ce qu'elle gonfle.
+    Pendant ce temps, écraser la chair du poisson cru à l'aide d'une fourchette et la réserver.
+    Egoutter la mie de pain, puis la mélanger avec le hachis de merlan cru et les jaunes d'oeufs.
+    Dans une terrine, battre les blancs en neige bien ferme avec une pincée de sel, puis les incorporer délicatement au reste de la préparation.
+    Bien mélanger la préparation jusqu'à l'obtention d'un appareil parfaitement homogène.
+    Verser l'appareil dans un moule à manqué beurré, puis le placer dans un bain-marie bien chaud.
+    Enfourner à four chaud  et laisser cuire 45 min.
+    Démouler le pain sur un plat de service, puis napper de sauce béchamel ou de sauce tomate, au choix.
+  ]]>
+  </preparation>
+</recette>

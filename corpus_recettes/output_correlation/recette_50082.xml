@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50082">
+  <titre>Manti  d'Hilda</titre>
+  <type>Plat principal</type>
+  <niveau>Difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte : </p>
+    <p>250 g de farine</p>
+    <p>sel</p>
+    <p>1 à 2 cuillères à soupe d'huile d'olive (ou tournesol)</p>
+    <p>eau Pour la farce :</p>
+    <p>300 g de viande hachée</p>
+    <p>1 oignon coupé très finement </p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez tous les ingrédients de la pâte jusqu’à obtenir un sable, ajoutez alors un peu d’eau pour avoir une pâte souple qui s’étale facilement; laissez reposer. Mélangez tous les ingrédient de la farce, et divisez la pâte en plusieurs petites boulettes.
+     Prenez une boulette de pâte, et couvrez les autres avec un torchon humide.
+    Etalez la boulette de pâte très finement, puis coupez des bandes de pâte d’environ 6 cm de large; saupoudrez légèrement ces bandes de pâte de farine, superposez et recoupez-les en carrés de 6 cm de côté.Disposez les petits carré de pâte sur le plan de travail, posez au milieu de chaque carré un peu de farce; puis avec l’index et le pousse de chaque main, relevez les extrémités, pincez les 2 coins du carré de pâte.
+    Pour avoir un petite barquette de pâte et la farce de viande visible au milieu de la barquette, vous devez obtenir un rectangle, ouvert sur le milieu laissant apparaître la viande.
+    Huilez légèrement un plat à gratin, ou un moule à tarte; disposez les mantis côte à côte dans le moule. Faite cuire dans un four préchauffé à 200°C (th 6-7), jusqu’à ce que les mantis prennent une belle couleur rosée.
+    Pour servir, vous avez deux variantes :Soit, vous les mettez tels quels dans les assiettes et les arrosez d’une sauce au yaourt (yaourt, ail pilé, menthe séchée).
+     Soit, vous préparez un bouillon de poule et diluez 1 cuillère à soupe de concentré de tomate dedans.Répartissez les mantis dans des assiettes creuses, versez dessus une louche de bouillon, et parsemez les mantis d’une pincé de sumac.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Mélangez</OPER> tous les ingrédients de la pâte jusqu’ à obtenir un sable, <OPER id="o_2">ajoutez</OPER> alors un peu d’ eau pour avoir une <INGRED id="7">pâte</INGRED> souple qui s’ étale facilement ; laissez <OPER id="o_3">reposer</OPER>. <OPER id="o_4">Mélangez</OPER> tous les ingrédient de la farce, et divisez la pâte en plusieurs petites boulettes. <OPER id="o_5">Prenez</OPER> une boulette de <INGRED id="5">pâte</INGRED>, et couvrez les autres avec un torchon humide. <OPER id="o_6">Etalez</OPER> la boulette de pâte très finement, puis coupez des bandes de pâte d’ <INGRED id="1">environ</INGRED> 6 cm de large ; <OPER id="o_7">saupoudrez</OPER> légèrement ces bandes de pâte de farine, <OPER id="o_8">superposez</OPER> et recoupez - les en <INGRED id="2">carrés</INGRED> de 6 cm de côté. <OPER id="o_9">Disposez</OPER> les petits <INGRED id="1">carré</INGRED> de <INGRED id="2">pâte</INGRED> sur le plan de travail, <OPER id="o_10">posez</OPER> au milieu de chaque <INGRED id="1">carré</INGRED> un <INGRED id="4">peu</INGRED> de farce ; puis avec l’ index et le pousse de chaque main, <OPER id="o_11">relevez</OPER> les extrémités, <OPER id="o_12">pincez</OPER> les 2 coins du <INGRED id="1">carré</INGRED> de <INGRED id="1">pâte</INGRED>. Pour avoir un <INGRED id="2">petite</INGRED> barquette de pâte et la farce de <INGRED id="5">viande</INGRED> visible au milieu de la barquette, vous devez obtenir un rectangle, ouvert sur le milieu laissant <OPER id="o_13">apparaître</OPER> la <INGRED id="1">viande</INGRED>. <OPER id="o_14">Huilez</OPER> légèrement un plat à gratin, ou un moule à tarte ; <OPER id="o_15">disposez</OPER> les mantis côte à côte dans le moule. Faite <OPER id="o_16">cuire</OPER> dans un four préchauffé à 200 ° C ( th 6 - 7 ), jusqu’ à ce que les mantis prennent une belle couleur rosée. Pour servir, vous avez <INGRED id="6">deux</INGRED> variantes : Soit, vous les mettez tels quels dans les assiettes et les arrosez d’ une sauce au <INGRED id="2">yaourt</INGRED> ( yaourt, <INGRED id="4">ail</INGRED> pilé, menthe séchée ). Soit, vous préparez un bouillon de poule et diluez 1 <INGRED id="8">cuillère</INGRED> à <INGRED id="5">soupe</INGRED> de concentré de tomate dedans. <OPER id="o_17">Répartissez</OPER> les mantis dans des assiettes creuses, <OPER id="o_18">versez</OPER> dessus une louche de bouillon, et <OPER id="o_19">parsemez</OPER> les mantis d’ une pincé de sumac.
+  </annotation>
+  <annotation methode="crf">
+  Mélangez tous les ingrédients de la <INGRED>pâte</INGRED> jusqu’ à obtenir un sable <INGRED>,</INGRED> ajoutez alors un peu d’ <INGRED>eau</INGRED> pour avoir une <INGRED>pâte</INGRED> souple qui s’ étale facilement ; laissez reposer. Mélangez tous les ingrédient de la farce <INGRED>,</INGRED> et divisez la <INGRED>pâte</INGRED> en plusieurs petites boulettes. Prenez une boulette de <INGRED>pâte</INGRED> <INGRED>,</INGRED> et couvrez les autres avec un torchon humide. Etalez la boulette de <INGRED>pâte</INGRED> très <INGRED>finement</INGRED> <INGRED>,</INGRED> puis coupez des bandes de <INGRED>pâte</INGRED> d’ <INGRED>environ</INGRED> 6 <INGRED>cm</INGRED> de large ; saupoudrez légèrement ces bandes de <INGRED>pâte</INGRED> de <INGRED>farine</INGRED> <INGRED>,</INGRED> superposez et recoupez - les en carrés de 6 <INGRED>cm</INGRED> de côté <INGRED>.</INGRED> Disposez les <INGRED>petits</INGRED> <INGRED>carré</INGRED> de <INGRED>pâte</INGRED> sur le plan de travail <INGRED>,</INGRED> posez au milieu de chaque <INGRED>carré</INGRED> un peu de farce ; puis avec l’ index et le pousse de chaque main <INGRED>,</INGRED> relevez les extrémités <INGRED>,</INGRED> pincez les 2 coins du <INGRED>carré</INGRED> de <INGRED>pâte</INGRED> <INGRED>.</INGRED> Pour avoir un <INGRED>petite</INGRED> barquette de <INGRED>pâte</INGRED> et la farce de <INGRED>viande</INGRED> visible au milieu de la barquette <INGRED>,</INGRED> vous devez obtenir un rectangle <INGRED>,</INGRED> ouvert sur le milieu laissant apparaître la <INGRED>viande</INGRED> <INGRED>.</INGRED> Huilez légèrement un plat à gratin <INGRED>,</INGRED> <INGRED>ou</INGRED> un moule à tarte ; disposez les mantis côte à côte dans le <INGRED>moule</INGRED> <INGRED>.</INGRED> Faite cuire dans un four préchauffé à 200 ° C ( th 6 - 7 ), jusqu’ à ce que les mantis prennent une belle couleur rosée <INGRED>.</INGRED> Pour servir <INGRED>,</INGRED> vous avez <INGRED>deux</INGRED> variantes <INGRED>:</INGRED> Soit <INGRED>,</INGRED> vous les mettez tels quels dans les assiettes et les arrosez d’ une <INGRED>sauce</INGRED> au <INGRED>yaourt</INGRED> ( <INGRED>yaourt</INGRED> <INGRED>,</INGRED> ail pilé, menthe séchée ). Soit <INGRED>,</INGRED> vous préparez un <INGRED>bouillon de poule</INGRED> et diluez 1 cuillère à soupe de <INGRED>concentré de tomate</INGRED> dedans <INGRED>.</INGRED> Répartissez les mantis dans des assiettes creuses <INGRED>,</INGRED> versez dessus une louche de <INGRED>bouillon</INGRED> <INGRED>,</INGRED> et parsemez les <INGRED>mantis</INGRED> d’ une pincé de sumac.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 4.75*X + 14.25</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 2*X + 13</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['farine']	 id:1	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["huile d'olive", 'huile']	 id:3	 quantité:1	 unité:cuillères à soupe d'	 denombrable:True	 recipient:1*X
+ingredient:['eau Pour la farce', 'eau']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['viande hachée', 'viande']	 id:5	 quantité:300	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oignon coupé très finement', 'oignon']	 id:6	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mélanger	 id:o_1	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:mélanger	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:prendre	 id:o_5	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:etaler	 id:o_6	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:saupoudrer	 id:o_7	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:superposer	 id:o_8	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_9	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:poser	 id:o_10	 ingrédients_ralatifs:['1', '2', '1', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:relever	 id:o_11	 ingrédients_ralatifs:['1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:pincer	 id:o_12	 ingrédients_ralatifs:['1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:apparaître	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:huiler	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cuire	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:répartir	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:parsemer	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14961">
+  <titre>Nuggets de poulet</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 fines escalopes de poulet (ou dinde) </p>
+    <p>Persil (environ 5 branches)</p>
+    <p>1 oeuf</p>
+    <p>30 g d'amandes effilées</p>
+    <p>sel et poivre</p>
+    <p>chapelure fine (suffisamment dans une assiette)</p>
+    <p>huile d'olive (pour la poêle)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixer les escalopes avec l'oeuf, le sel, le poivre, et le persil.
+    Ajouter les amandes effilées. Former des nuggets avec les mains (petites formes allongées, au nombre de 8 environ). Passer dans la chapelure fine.
+    Faire chauffer l'huile d'olive et cuire à feu moyen 10 mn environ en les retournant régulièrement.
+    Les enfants adorent !  Servir avec des frites maison.
+  ]]>
+  </preparation>
+</recette>

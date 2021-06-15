@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26621">
+  <titre>Confit de foie de porc</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de foie de porc</p>
+    <p>200 g de gras de jambon ou de lard gras</p>
+    <p>450 g d’échine de porc</p>
+    <p>1 crépinette</p>
+    <p>1 cuillère à soupe rase de 4 épices</p>
+    <p>2 à 3 feuilles de laurier</p>
+    <p>thym</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixer tous les ingrédients, saler, poivrer et ajouter les 4 épices. 
+    Tapisser une terrine de crépinette ou de barde de lard, verser la préparation. 
+    Faire cuire au bain- marie, 1h30 à 220°C.
+    On peut également mettre ce confit en bocaux. La cuisson pour le stériliser sera de 3 heures.
+  ]]>
+  </preparation>
+</recette>

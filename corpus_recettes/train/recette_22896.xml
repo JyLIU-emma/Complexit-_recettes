@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22896">
+  <titre>Poêlée de pâtes aux cèpes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de pâtes</p>
+    <p>3 cèpes</p>
+    <p>1 échalote</p>
+    <p>1 gousse d'ail</p>
+    <p>beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites revenir les cèpes, l'ail et l'échalote hachés dans un peu de beurre.
+    Salez et poivrez.
+    Faites cuire les pâtes al dente, égouttez-les.
+    Videz l'eau rendu par les cèpes, remettez du beurre et rajoutez les pâtes.
+    Laissez revenir quelques minutes et servez.
+  ]]>
+  </preparation>
+</recette>

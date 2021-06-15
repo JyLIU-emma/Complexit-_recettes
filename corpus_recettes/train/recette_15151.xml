@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15151">
+  <titre>Bûche à la crème marronnée</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour le biscuit : </p>
+    <p>3 oeufs</p>
+    <p>125 g de farine</p>
+    <p>125 g de sucre</p>
+    <p>Pour la mousse :</p>
+    <p>500 g de crème de marrons vanillée</p>
+    <p>180 g de beurre</p>
+    <p>40 cl de crème liquide </p>
+    <p>3 cl de rhum</p>
+    <p>50 g de brisures de marrons</p>
+    <p>Pour le décor :</p>
+    <p>1 cuillère à soupe de cacao en poudre</p>
+    <p>1 cuillère à soupe de sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C.Pour le biscuit, battre les jaunes d’œufs avec le sucre. Blanchir. Ajouter la farine puis les blancs montés en neige.
+    Etaler le mélange sur une plaque bien beurrée et enfourner pour 10 mn.
+    Retourner le biscuit sur le plan de travail et le rouler sur lui-meme avec un torchon humide, puis laisser refroidir.
+    Pour la mousse, fouetter le beurre mou et la crème de marrons pour obtenir une crème mousseuse et ajouter le rhum.
+    Monter la crème en chantilly et l’ajouter délicatement à la mousse.Dérouler le biscuit et mettre la moitié de la mousse + les brisures de marrons. Rouler le tout,couper les extrémités en biais.
+    Couvrir de mousse. Strier à la fourchette, puis décorer avec du cacao, du sucre glace et des sujets de noël. Mettre au frais.
+    La mousse est un peu délicate à étaler, car elle a tendance à faire des petits morceaux, mais une fois la bûche refroidie, cela ne se voit plus.
+  ]]>
+  </preparation>
+</recette>

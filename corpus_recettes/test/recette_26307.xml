@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26307">
+  <titre>Gâteau de foie de lapin</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 foie lapin</p>
+    <p>4 oeufs</p>
+    <p>50 g beurre</p>
+    <p>1 grosse cuillère de farine</p>
+    <p>lait</p>
+    <p>ail</p>
+    <p>persil</p>
+    <p>sel poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire une béchamel épaisse avec beurre farine lait ; saler, poivrer. Ajouter le foie haché de lapin laisser tiédir.  
+    Ajouter les jaunes l'ail, le persil, battre les blancs en neige, ajouter au mélange, verser dans un moule beurré. 
+    Cuire au four Th 180°C pendant 30 mn (comme un soufflé). Servir avec une sauce tomate et des quenelles lyonnaises. Bon appétit
+  ]]>
+  </preparation>
+</recette>

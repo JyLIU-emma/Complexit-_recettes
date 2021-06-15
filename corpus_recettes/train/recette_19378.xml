@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19378">
+  <titre>Velouté de courge facile</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>De la courge (la taille de celle ci n'est pas importante) </p>
+    <p>du lait</p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelucher la courge. 
+    La couper en petits morceaux.
+    Enlever les graines et les filaments.
+    Mettre les morceaux de courge dans une marmite ou casserole. 
+    Couvrir de lait jusqu'à ras des morceaux de courge. 
+    Saler et poivrer un peu. 
+    Laisser cuire environ 25 min. 
+    Une fois cuite, la passer au mixer et régalez-vous !
+    C'est une recette pratique car elle s'adapte avec n'importe quelle quantité de courge.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15716">
+  <titre>Gratin de poisson aux crevettes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>450 g de cabillaud</p>
+    <p>350 ml de lait</p>
+    <p>350 g de poireaux hachés</p>
+    <p>3 branches de céléris hachées</p>
+    <p>200 g de petites crevettes</p>
+    <p>15 g de farine</p>
+    <p>sel, poivre</p>
+    <p>900 g de purée de pommes de terre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Matériel : 1 mixer,1 assiette, 1 casserole, 1 sauteuse, 1 plat allant au four
+    Mettre le poisson et le lait dans une casserole, couvrir et laisser revenir 10 mn. Egoutter le poisson, l'émietter dans une assiette et réserver le lait.
+    Faire revenir dans une sauteuse les poireaux et les céleris hachés dans une huile chaude pendant 7 à 10 mn.
+    Ajouter les crevettes et laisser cuire 1 mn. Passer au mixer le lait (réservé) et la farine pendant 1 mn. Transférer dans la casserole et porter à ébullition en remuant jusqu'à ce que la sauce épaississe. Laisser cuire 1 mn à feu doux.
+    Mettre le poisson émietté dans les légumes, mélanger et assaisonner. Verser également la sauce et mélanger. Transférer dans un plat allant au four et couvrir de purée. Laisser cuire au four, à 200°C (thermostat 6/7).Bien cuire les légumes.
+  ]]>
+  </preparation>
+</recette>

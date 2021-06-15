@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164736">
+  <titre>Pâtés soufflés</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125g de farine</p>
+    <p>75g de beurre</p>
+    <p>125g de crème fraîche</p>
+    <p>100g de chair à saucisses</p>
+    <p>3 oeufs</p>
+    <p>5g de levure de pain (fraîche de préférence)</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre au bain marie (ou micro-ondes)
+    Ajouter ensuite peu à peu farine, jaunes d'oeufs et sel. Bien travailler le mélange et y verser ensuite la crème, la levure et les blancs d'oeufs montés en neige. Laisser reposer 15 min
+    Beurrer les moules et y verser une cuillère de la préparation. Placer une noix de farce et recouvrir de pâte. Ne remplir les moules qu'aux 3/4 car la préparation gonfle en cuisant.
+    Enfourner environ 30 min à 180-210°C (thermostat 6-7)
+    Démouler et servir chaud.Vous pouvez remplacer la farce par du fromage fondu, du saumon..... Accompagnez de salade pour un repas simple et délicieux.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">fondre</OPER> le <INGRED id="4">beurre</INGRED> au bain marie ( ou micro-ondes ) <OPER id="o_2">Ajouter</OPER> ensuite peu à peu <INGRED id="2">farine</INGRED>, jaunes d'oeufs et <INGRED id="7">sel</INGRED>. Bien <OPER id="o_3">travailler</OPER> le <INGRED id="2">mélange</INGRED> et y <OPER id="o_4">verser</OPER> ensuite la crème, la levure et les blancs d'<INGRED id="4">oeufs</INGRED> montés en neige. Laisser <OPER id="o_5">reposer</OPER> 15 min <OPER id="o_6">Beurrer</OPER> les moules et y <OPER id="o_7">verser</OPER> une cuillère de la préparation. <OPER id="o_8">Placer</OPER> une noix de farce et <OPER id="o_9">recouvrir</OPER> de <INGRED id="1">pâte</INGRED>. Ne <OPER id="o_10">remplir</OPER> les <INGRED id="2">moules</INGRED> qu'aux 3/4 car la préparation gonfle en cuisant. <OPER id="o_11">Enfourner</OPER> environ 30 min à 180 - 210 ° C ( thermostat 6 - 7 ) <OPER id="o_12">Démouler</OPER> et servir chaud. Vous pouvez <OPER id="o_13">remplacer</OPER> la farce par du fromage fondu, du <INGRED id="2">saumon</INGRED>..... Accompagnez de salade pour un repas simple et délicieux.
+  </annotation>
+  <annotation methode="crf">
+  Faire fondre le <INGRED>beurre</INGRED> au bain marie ( <INGRED>ou</INGRED> micro-ondes ) Ajouter ensuite peu à peu <INGRED>farine</INGRED> <INGRED>,</INGRED> <INGRED>jaunes d'oeufs</INGRED> et <INGRED>sel</INGRED> <INGRED>.</INGRED> Bien travailler le <INGRED>mélange</INGRED> et y verser ensuite la <INGRED>crème</INGRED> <INGRED>,</INGRED> la <INGRED>levure</INGRED> et les <INGRED>blancs d'oeufs</INGRED> montés en neige <INGRED>.</INGRED> Laisser reposer 15 min Beurrer les <INGRED>moules</INGRED> et y verser une cuillère de la préparation <INGRED>.</INGRED> Placer une <INGRED>noix</INGRED> de farce et recouvrir de <INGRED>pâte</INGRED> <INGRED>.</INGRED> Ne remplir les moules qu'aux 3/4 car la préparation gonfle en cuisant <INGRED>.</INGRED> Enfourner <INGRED>environ</INGRED> 30 min à 180 - 210 ° C ( thermostat 6 - 7 ) Démouler et servir chaud <INGRED>.</INGRED> Vous pouvez remplacer la farce par du <INGRED>fromage fondu</INGRED> <INGRED>,</INGRED> du <INGRED>saumon</INGRED>..... Accompagnez de salade pour un repas simple et délicieux <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 4.33333333333333*X + 8.66666666666667</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 3*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['farine']	 id:1	 quantité:125	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:2	 quantité:75	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:3	 quantité:125	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['chair à saucisses', 'chair']	 id:4	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:5	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['levure de pain', 'levure']	 id:6	 quantité:5	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:fondre	 id:o_1	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:travailler	 id:o_3	 ingrédients_ralatifs:['2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_4	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:beurrer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_8	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recouvrir	 id:o_9	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remplir	 id:o_10	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:enfourner	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:démouler	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remplacer	 id:o_13	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

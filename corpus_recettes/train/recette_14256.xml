@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14256">
+  <titre>Boles de picolat</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de boeuf haché</p>
+    <p>300 g de porc haché</p>
+    <p>2 oeufs</p>
+    <p>2 gousses d'ail</p>
+    <p>1 oignon</p>
+    <p>100 g de lardons</p>
+    <p>50 g de concentré de tomates</p>
+    <p>200 g d'olives vertes</p>
+    <p>des champignons (cèpes)</p>
+    <p>farine et huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la viande, les oeufs et l'ail finement haché, saler et poivrer. Former ensuite des boulettes, les enfariner avant de les faire dorer dans une poêle avec de l'huile d'olive. Réserver. 
+    Dans une cocotte, faire revenir l'oignon haché fin et les lardons.
+    Ajouter le concentré de tomate et un peu de farine, puis un verre d'eau. Laisser mijoter à feu doux 15 mn.
+    Incorporer les boulettes, les champignons et les olives. Couvrir d'eau et porter à ébullition. Saler et poivrer, cuire à couvert à petit feu 45 mn.
+    Notes: Si l'on ne possède pas de cèpes secs, on peut utiliser des champignons de Paris - selon les goûts, il est possible d'ajouter piment et cannelle, ainsi que des carottes coupées en rondelles - l'eau pourra être remplacée par un bouillon de pot au feu.
+  ]]>
+  </preparation>
+</recette>

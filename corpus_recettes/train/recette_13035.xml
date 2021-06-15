@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13035">
+  <titre>Tarte vergeoise aux pommes</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>100 g de beurre mou</p>
+    <p>1 verre de lait</p>
+    <p>1 cube de levure boulanger</p>
+    <p>2 cuillères de sucre</p>
+    <p>2 oeufs</p>
+    <p>1 bol de vergeoise </p>
+    <p>12 pommes (boskoop ou reinettes de préférence)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Délayer la levure dans le lait tiède avec le sucre. Tamiser la farine.
+    Y ajouter la levure delayée, les oeufs battus avec le sel et le beurre coupé en morceaux.
+    Pétrir la pâte jusqu'à ce qu'elle ne colle plus aux doigts. La faire reposer 2 heures en-dessous  d'un torchon. La repétrir et la couper en 2 ou 3. Faire reposer ces pâtons 1 heure. Rouler les pâtons pour faire 3 tartes.
+    Y ajouter les pommes coupées et y mettre la vergeoise. Parsemer de beurre. Cuire au four 30 min à thermostat 7 (210°C).
+    Il faut que les pommes soient bien cuites, sinon laisser cuire encore un quart d'heure.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25417">
+  <titre>Risotto aux poireaux facile</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de riz</p>
+    <p>8 poireaux émincés</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>50 cl de bouillon de volaille</p>
+    <p>20 cl de lait</p>
+    <p>20 g de beurre</p>
+    <p>20 g de farine</p>
+    <p>60 g de gruyère râpé</p>
+    <p>4 cuillères à soupe d'huile</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites chauffer l'huile dans une cocotte, faites-y revenir les poireaux environ 10 min.
+    Ajoutez le riz et mouillez de vin et de bouillon chaud.
+    Couvrez, laissez mijoter 15 min à feu doux.
+    A part, faites chauffer le beurre avec la farine en remuant.
+    Ajoutez le lait en fouettant et faites épaissir à feu doux.
+    Incorporez cette sauce au riz ainsi que le fromage.
+    Laissez chauffer 4-5 minutes et servez.
+  ]]>
+  </preparation>
+</recette>

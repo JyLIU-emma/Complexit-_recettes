@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14785">
+  <titre>Sablé aux bananes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de biscuits sablés</p>
+    <p>100 g de beurre</p>
+    <p>250 ml de crême fraîche</p>
+    <p>bananes</p>
+    <p>1 boîte de lait concentré sucré</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire la boîte de lait fermée pendant une heure et demie dans de l'eau bouillante sans interruption et laisser refroidir complètement.
+    Emiettez les biscuits et ajoutez le beurre fondu, applatissez le tout dans un plat à tarte et laissez au frigo pendant 10 mn.
+    Couvrez ce biscuit avec le lait caramélisé puis couvrez de rondelles de bananes.
+    Fouettez la crème fraîche et couvrez le tout avec celle-ci.
+    Calorique mais délicieux. Pas de crainte, la boîte de lait n'explose pas!
+  ]]>
+  </preparation>
+</recette>

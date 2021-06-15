@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14877">
+  <titre>Mousse glacée légère à la mangue</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 mangues bien mûres</p>
+    <p>200 g de fromage blanc à 0%</p>
+    <p>7.5 g de sucre vanillé</p>
+    <p>1 cuillère à café de cannelle</p>
+    <p>1 pincée de noix de muscade</p>
+    <p>1 clou de girofle en poudre</p>
+    <p>2 blancs d’œufs</p>
+    <p>2 cuillères à soupe de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixer la chair des mangues dans un mixeur.
+    Ajouter le fromage blanc, le sucre vanillé et les épices.
+    Monter les blancs en neige en ajoutant progressivement le sucre.
+    Incorporer les blancs à la préparation mangues + fromage blanc. Garnir 4 coupes de ce mélange. Mettre au congélateur pendant 2h.
+  ]]>
+  </preparation>
+</recette>

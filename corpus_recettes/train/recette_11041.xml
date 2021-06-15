@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11041">
+  <titre>Crêpes</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>375 g de farine</p>
+    <p>4 oeufs</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>2 pincées de sel</p>
+    <p>50 cl de lait</p>
+    <p>25 cl de bière</p>
+    <p>2 cuillères à soupe de rhum</p>
+    <p>20 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la farine avec les oeufs, l'huile et le sel.
+    Ajoutez ensuite le lait, la bière et le rhum.Mélangez le tout : c'est prêt en deux minutes avec un mixer !Faites cuire à la poêle avec une noix de beurre.suggestions d'accompagnement : -nature-au sucre (un zeste de citron accompagne très bien)-au chocolat fondu-à la confiture-à la pâte à tartiner-et à vous les essais... cidre ou champagne
+  ]]>
+  </preparation>
+</recette>

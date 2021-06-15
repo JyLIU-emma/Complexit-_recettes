@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24883">
+  <titre>Paillasson au jambon et comté</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de pommes de terre</p>
+    <p>200 g de comté</p>
+    <p>2 tranches de jambon blanc</p>
+    <p>1 gros oignon</p>
+    <p>1 oeuf</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>40 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez et râpez les pommes de terre avec une râpe à gros trous. 
+    Pelez et émincez finement l'oignon.
+    Détaillez le jambon en fines lanières et râpez le comté. 
+    Mélangez le tout avec l'oeuf, salez et poivrez.
+    Dans une grande poêle, faites chauffer la moitié de l'huile et du beurre.
+    Versez le mélange aux pommes de terre en tassant bien et laissez dorer à feu vif 3 min.
+    Baissez à feu moyen et laissez cuire 7-8 min en couvrant.
+    Faites glisser la galette sur une assiette.
+    Mettez le reste d'huile et de beurre dans la poêle, remettez la galette de l'autre côté et faites dorer à feu vif, puis cuire à feu moyen 8-10 min.
+  ]]>
+  </preparation>
+</recette>

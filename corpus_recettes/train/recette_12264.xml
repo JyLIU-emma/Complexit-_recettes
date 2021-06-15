@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12264">
+  <titre>Shortbread (Ecosse)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>120 g de beurre doux à température ambiante</p>
+    <p>60 g de sucre en poudre</p>
+    <p>120 g de farine</p>
+    <p>60 g de farine de riz ou de semoule fine tamisée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchaufer le four à 180°C (thermostat 6).
+    Dans un saladier évasé, battre le beurre afin d'obtenir une preparation crémeuse. Ajouter lentement le sucre tout en battant.
+    Verser la farine et la farine de riz (ou la semoule) et bien mélanger le tout.
+    Tasser cette préparation dans un moule rond peu profond de 18cm de diamètre à fond amovible.
+    Unifier la préparation et piquer uniformement en surface à l'aide d'une fourchette.
+    Mettre à refroidir 10mn au réfrigérateur.
+    Saupoudrer la surface du shortbread d'une couche supplémentaire de sucre en poudre et enfourner 25mn, le temps qu'il dore.
+    Le gâteau étant encore chaud, retirer le fond amovible du moule et découper en 8 quartiers.
+    Ne pas séparer les morceaux pour éviter qu'ils ne s'assèchent. 5mn plus tard, le gâteau devrait être plus ferme, le mettre alors sur une grille et saupoudrer de sucre.
+    Pour obtenir une texture encore plus fine, on peut utiliser du sucre glace.
+  ]]>
+  </preparation>
+</recette>

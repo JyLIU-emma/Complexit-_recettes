@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16370">
+  <titre>Saucisse au chou</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 belles saucisses au couteau d'Auvergne ou de Bretagne</p>
+    <p>1 oignon</p>
+    <p>1 carotte</p>
+    <p>1 chou vert</p>
+    <p>9 pommes de terre à chair ferme</p>
+    <p>1/4 de litre de vin blanc</p>
+    <p>farine</p>
+    <p>huile d'olive</p>
+    <p>beurre</p>
+    <p>bouquet garni</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir une casserole d'eau salée. Pendant ce temps, couper le trognon du chou et enlever les feuilles flétries.
+    Couper le chou en deux ou en quatre. Le plonger dans l'eau pendant 20 mn pour le faire blanchir. 
+    Dans une autre casserole, faire bouillir de l'eau et y plonger les saucisses pendant 5 mn (ainsi, elles se tiendront mieux pendant la cuisson).
+    Eplucher un oignon et une carotte et les couper en petits morceaux. Mettre de l'huile d'olive et un peu de beurre dans un grand faitout et faire revenir les saucisses, la carotte et
+    l'oignon, puis enlever les saucisses et les réserver.
+    En dehors du feu, mettre de la farine, jusqu'à absorption de toute le liquide, remuer jusqu'à temps que le mélange soit homogène et mouiller avec du vin blanc, environ 1/4 de litre et de l'eau, 1 litre à 1 litre 1/2, saler et poivrer, ajouter un bouquet garni.
+    Mettre le chou et laisser cuire 3/4 d'heure, mettre un couvercle. (le chou doit être recouvert de liquide). Ensuite, découvrir, ajouter les saucisses, les pommes de terre préalablement épluchées et laisser cuire encore 3/4 d'heure à découvert.
+  ]]>
+  </preparation>
+</recette>

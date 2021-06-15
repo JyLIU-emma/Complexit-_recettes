@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14721">
+  <titre>Salade de poulet pamplemousse et avocat</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 filets de poulet</p>
+    <p>2 avocats</p>
+    <p>2 pamplemousses roses</p>
+    <p>1 barquette de mâche</p>
+    <p>huile d'olive</p>
+    <p>vinaigre balsamique</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les filets de poulet en petits morceaux, faites les bien dorer dans du beurre à la poêle. Laissez refroidir.
+    Dans un saladier, placez la mâche, les avocats coupés en dés, la chair des pamplemousses (videz les à la petite cuillère), puis les morceaux de poulet.
+    Faites une vinaigrette avec l'huile,  le vinaigre balsamique, salez, poivrez et versez dans la salade.
+    Servez frais.
+  ]]>
+  </preparation>
+</recette>

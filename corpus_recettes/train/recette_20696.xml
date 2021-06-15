@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20696">
+  <titre>Bouillabaisse de légumes aux oeufs</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1.5 kg d'épinards</p>
+    <p>2 oignons</p>
+    <p>6 cuillères à soupe d'huile d'olive</p>
+    <p>6 pommes de terre</p>
+    <p>1 dose de safran</p>
+    <p>3 gousses d'ail</p>
+    <p>1 brin de fenouil</p>
+    <p>1,5 l d'eau</p>
+    <p>6 oeufs bien frais</p>
+    <p>6 tranches de pain de campagne</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre l'oignon dans l'huile puis ajouter les épinards et les pommes de terre pelées et coupées en rondelles de 5 mm d'épaisseur.
+    Assaisonner de sel, de poivre et de safran puis ajouter l'ail écrasé et le fenouil. 
+    Lorsque les épinards ont fondu, verser l'eau bouillnate et laisser cuire 20-25 minutes. Les pommes de terre doivent être cuites.
+    Pocher les oeufs dans le mélange durant 3 minutes.
+    Déposer une tranche de pain dans chaque assiette et recouvrir de bouillon en prenant soin de répartir les oeufs, les épinards et les pommes de terre. 
+  ]]>
+  </preparation>
+</recette>

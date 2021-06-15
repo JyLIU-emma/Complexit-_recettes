@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11928">
+  <titre>Gâteau au pastis</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>180 g de beurre</p>
+    <p>180 g de sucre</p>
+    <p>3 œufs</p>
+    <p>10 cl de pastis</p>
+    <p>180 g de farine tamisée</p>
+    <p>5.5 g de levure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les jaunes d'oeufs avec le sucre puis ajouter le beurre fondu, le pastis, la farine et la levure.
+    Battre les blancs en neige avec une pincée de sel et les incorporer délicatement au mélange. Cuire dans un moule a manque pendant environ 40 min (th 6-7). du pastis !!!
+  ]]>
+  </preparation>
+</recette>

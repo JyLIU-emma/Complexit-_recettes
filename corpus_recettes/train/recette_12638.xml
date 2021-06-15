@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12638">
+  <titre>Périgourdin (Gâteau aux noix et au rhum)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de sucre en poudre</p>
+    <p>150 g de noix moulues</p>
+    <p>125 g de farine</p>
+    <p>2 dl d'huile</p>
+    <p>4 oeufs</p>
+    <p>2 cuillères à café de levure chimique</p>
+    <p>1 cuillères à soupe de rhum</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Verser tous les ingrédients dans l'ordre dans une jatte. Bien mélanger.
+    Verser dans un moule à génoise de 24 cms beurré.
+    Faire cuire au four 45 mn environ th 6 ou 205°.
+    Si vous préférez un gâteau plus léger vous pouvez battre les blancs d'oeufs et les incorporer ensuite à la préparation. Le goût est différent.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22017">
+  <titre>Escalopes panées amande, parmesan et estragon et leurs champignons farcis</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 escalopes de dinde</p>
+    <p>80 g de beurre</p>
+    <p>1 oeuf</p>
+    <p>20 g de farine Pour la panure :</p>
+    <p>80 g de parmesan râpé</p>
+    <p>80 g de chapelure blanche</p>
+    <p>65 g d’amandes en poudre</p>
+    <p>1 bouquet d’estragon</p>
+    <p>Pour l’accompagnement :</p>
+    <p>160 g de champignons de Paris</p>
+    <p>1 citron</p>
+    <p>Pour la sauce :</p>
+    <p>10 cl de crème fraîche</p>
+    <p>1 cuillère à café de moutarde</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Allumer le gril du four.
+    Détailler les escalopes de dinde en 2 dans le sens de la largeur à l’aide d’un couteau à lame fine bien aiguisée.
+    Bien aplatir les escalopes (les disposer entre deux feuilles de film alimentaire et les aplatir en les frappant avec un rouleau à pâtisserie).
+    Hacher l'estragon.
+    Ôter le pied des champignons et les arroser de jus de citron pour leur éviter de noircir.
+    Presser le jus d’un citron dans un bol.
+    Nettoyer les champignons sous l’eau froide, puis les équeuter et déposer les chapeaux dans le bol de jus de citron.
+    Préparer la panure pour les escalopes en mélangeant la poudre d'amande avec le parmesan, la chapelure et l'estragon haché
+    Passer les escalopes successivement dans l'oeuf battu, la farine et la panure puis les réserver de côté.
+    Faire cuire les champignons entiers dans le beurre puis les farcir du reste de panure.
+    Les faire dorer 10 minutes sous le gril du four.
+    Faire réduire la crème à feu doux jusqu'à ce qu'elle nappe la cuillère puis ajouter la moutarde, le sel, le poivre et éventuellement un peu d'estragon.
+    Faire cuire les escalopes dans le beurre à feu moyen puis les servir avec la sauce et les champignons farcis.
+  ]]>
+  </preparation>
+</recette>

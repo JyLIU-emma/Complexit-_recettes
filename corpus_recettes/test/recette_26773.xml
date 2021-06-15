@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26773">
+  <titre>Salade californienne</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 demi-laitue</p>
+    <p>4 tranches de jambon</p>
+    <p>1 petite boîte de maïs</p>
+    <p>1 boîte de coeurs de palmiers</p>
+    <p>1 poivron</p>
+    <p>6 tranches d'ananas</p>
+    <p>1 morceau de gruyère</p>
+    <p>2 échalotes</p>
+    <p>sel, poivre</p>
+    <p>vinaigre</p>
+    <p>huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper tous ces ingrédients en petits dés, y ajouter une vinaigrette. 
+    C'est prêt!
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17552">
+  <titre>Courgettes au Boursin</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 boursin ail et fines herbes de 150 g</p>
+    <p>3 belles courgettes</p>
+    <p>3 belles tomates mûres</p>
+    <p>huile d'olive</p>
+    <p>parmesan</p>
+    <p>sel, poivre</p>
+    <p>ail, basilic</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Sortir le boursin du réfrigérateur 20 mn avant la préparation. 
+    Faire revenir les courgettes en rondelles dans l'huile d'olive. 
+    Préchauffer le four à 180°C. 
+    Pour préparer le coulis de tomates, mettre dans un mixeur les tomates avec ail, basilic, huile d'olive et sel. 
+    Une fois le coulis prêt, y ajouter quelques dés de tomates. 
+    Dans un plat, verser du coulis. Faire un étage de courgettes. 
+    Etaler du Boursin. A nouveau, coulis, courgettes, Boursin. 
+    Faire un dernier étage de courgettes et le parsemer de parmesan. 
+    Faire cuire une vingtaine de minutes
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14414">
+  <titre>Salade tunisienne</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 kg de tomates</p>
+    <p>3 poivrons (rouge - jaune - vert)</p>
+    <p>1 piment</p>
+    <p>1 tête d'ail</p>
+    <p>huile d'olive</p>
+    <p>sel et poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les tomates, les poivrons et le piment. Couper le tout en petits morceaux.
+    Mettre dans 1 sauteuse avec un fond d'huile d'olive 20 mn a feu vif, puis baisser le feu et laisser mijoter 1h30 environ jusqu'à ce qu'il n'y ait plus de jus ni d'eau.
+    A déguster chaud ou froid.
+    Cette salade tient environ 3 jours au frais.
+  ]]>
+  </preparation>
+</recette>

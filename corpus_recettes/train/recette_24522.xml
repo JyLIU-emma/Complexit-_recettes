@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24522">
+  <titre>Brochettes de poulet mariné épicé à la coriandre</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,2 kg de blancs de poulet</p>
+    <p>20 g de beurre</p>
+    <p>4 yaourts</p>
+    <p>2 citrons</p>
+    <p>1 petit bouquet de coriandre fraîche</p>
+    <p>1 cuillère à café bombée de piment de Cayenne</p>
+    <p>1 cuillère à café bombée d'ail semoule</p>
+    <p>1 cuillère à soupe de quatre-épices</p>
+    <p>sel, poivre blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découpez les blancs de poulet en gros cubes. Pressez les citrons. Effeuillez et ciselez la coriandre.
+    Mélangez les yaourts avec le jus de citron, la coriandre, le quatre-épices, le piment de Cayenne et un peu de poivre. Mélangez les morceaux de poulet à la marinade, couvrez et laissez mariner au frais 12h en remuant de temps en temps.
+    Egouttez les morceaux de poulet, piquez-les sur des brochettes.
+    Faites-les cuire 15 min sous le grill ou sur le barbecue en les retournant de temps en temps.
+    Pendant ce temps, faite fondre le beurre dans une sauteuse.
+    Faites-y revenir l'ail puis ajoutez la marinade filtrée laissez chauffer quelques minutes en remuant. Servez cette sauce en accompagnement des brochettes.
+    Riz, blé ou semoule de couscous aux légumes seront parfaits pour accompagner ces brochettes.
+  ]]>
+  </preparation>
+</recette>

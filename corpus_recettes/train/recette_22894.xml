@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22894">
+  <titre>Poulet moutarde soja</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 oignons</p>
+    <p>1 tête d'ail</p>
+    <p>huile d'olive</p>
+    <p>moutarde forte</p>
+    <p>3/4 de flacon sauce soja</p>
+    <p>1 tomate</p>
+    <p>4 cuisses de poulet</p>
+    <p>sel et poivre moulu gros</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher la tomate et la mettre dans un saladier. 
+    Badigeonner les cuisses de poulet de moutarde et les mettre dans le saladier. 
+    Arroser les cuisses de la sauce soja et laisser mariner 15 mn. 
+    Saler et poivrer. 
+    Couper les oignon en tranches, hacher l'ail et faire brunir l'ensemble dans un faitout. 
+    Rajouter le poulet sans la sauce et saisir pendant 10 mn à feu vif. 
+    Rajouter de l'huile d'olive à la sauce tomate / soja. 
+    Verser la sauce dans le faitout, couvrir et laisser mijoter à feu très doux 1 heure en remuant de temps en temps. 
+    Servir avec du riz basmati ou spaghetti 'al dente'
+    Même chose avec un rôti de veau, de porc ou filet mignon (cuisson 35 mn)
+  ]]>
+  </preparation>
+</recette>

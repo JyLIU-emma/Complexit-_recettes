@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22841">
+  <titre>Crêpes sans huile</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 litre de lait</p>
+    <p>500 g de farine</p>
+    <p>4 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, mettre tous les ingrédients. Passer au Mixer. 
+    Faire cuire les crêpes dans une poêle anti-adhésive
+  ]]>
+  </preparation>
+</recette>

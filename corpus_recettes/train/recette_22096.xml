@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22096">
+  <titre>Bûche choco-marrons meringuée</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de chocolat noir</p>
+    <p>400 g de crème de marrons</p>
+    <p>25 cl de crème liquide</p>
+    <p>4 oeufs</p>
+    <p>65 g de sucre glace</p>
+    <p>4 cuillères à soupe d’Armagnac</p>
+    <p>sel </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Briser le chocolat en gros morceaux, puis le mettre à fondre au bain-marie.
+    Fouetter la crème très froide en chantilly ferme.
+    Mélanger les jaunes d’oeufs avec la crème de marrons, le chocolat fondu, l’Armagnac et la crème fouettée, puis verser l’appareil dans un moule à cake et laisser prendre durant 4 heure au congélateur.
+    Préchauffer le gril du four.
+    Démouler la bûche sur le plat de service.
+    Battre les blancs en neige ferme et incorporer le sucre glace.
+    Disposer sur la bûche et faire colorer quelques minutes sous le gril du four.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12529">
+  <titre>Roses des sables au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150g de chocolat à cuire</p>
+    <p>100g de margarine ou beurre</p>
+    <p>100g de corn flakes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Casser le chocolat et faire fondre doucement avec la margarine. Ajouter du sucre (selon les goûts !), mettre les corn flakes dans un saladier puis verser le chocolat dessus.
+    Bien remuer, puis faire des petits tas sur du papier cuisson ou alu et mettre au frigidaire quelques heures ou une nuit.
+    On peut ajouter un peu de sucre glace avant de les manger.
+  ]]>
+  </preparation>
+</recette>

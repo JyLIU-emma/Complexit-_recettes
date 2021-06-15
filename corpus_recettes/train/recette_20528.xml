@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20528">
+  <titre>Sarmale (Roumanie)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de viande de porc hachée (ou mélange porc-veau)</p>
+    <p>200 g de riz rond</p>
+    <p>300 g d'oignons</p>
+    <p>40 cl de sauce tomate</p>
+    <p>2 kg de chou (on peut remplacer par des feuilles de vigne)</p>
+    <p>1 botte de persil</p>
+    <p>sel et poivre</p>
+    <p>bouillon de poule ou boeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire tremper le riz dans de l'eau.
+    Hacher les oignons et les faire revenir dans une poêle avec un peu d'huile. 
+    Dans un saladier mélanger, les oignons, la viande, le riz (égoutté), la moitié de la sauce tomate, le poivre, le sel et le persil haché.
+    Bien mélanger et ajouter une tasse d'eau tiède. 
+    Faire blanchir les feuilles de chou (ou de vigne). 
+    Découper les feuilles de choux en carrés de 10 cm x 10 cm environ en
+    laissant la nervure centrale de côté. 
+    Mettre une petite cuillère de farce au centre, replier et rouler. 
+    Couper le reste de choux en lamelles. En mettre une couche dans une cocotte en fonte, poser les sarmale dessus et recouvrir d'une autre couche de choux. 
+    Rajouter les cubes de bouillon, la sauce tomate et couvrir d'eau. Laisser cuire à feu doux pendant environ 2 heures (ou 2h30 si on utilise des feuilles de vigne).
+    C'est le plat national roumain.
+    Ce sont de petits rouleaux de chou saumurés et farcis. On peut aussi utiliser des feuilles de chou blanc ou des feuilles de vigne (au printemps).Traditionnellement, les sarmale sont servis avec de la mamaliga (polenta)et arrosés d'une cuillère de crème aigre.
+    Il existe de nombreuses variantes pour les sarmale selon les régions et le calendrier : à la viande (les plus courants), au poisson (région du deltadu Danube), végétalien (pour les périodes de carême).Normalement, les sarmale se cuisent au four dans une cocotte en terre, mais on peut très bien les cuire dans une cocotte en fonte, il faut justesurveiller qu'il reste assez de liquide.
+  ]]>
+  </preparation>
+</recette>

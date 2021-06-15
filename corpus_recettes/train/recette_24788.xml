@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24788">
+  <titre>Steaks de dinde hachée faits maison</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de dindonneau</p>
+    <p>30 g de pain de mie</p>
+    <p>2 oeufs</p>
+    <p>40 g de beurre</p>
+    <p>1 échalote</p>
+    <p>7 cl de lait</p>
+    <p>25 g de farine</p>
+    <p>50 g de chapelure</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>4 cuillères à soupe de fines herbes hachées</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre la mie de pain à tremper dans le lait pour la faire gonfler. Peler et couper l'échalote, découper la viande en morceaux. Enfin, égoutter la mie de pain en la pressant avec les doigts et la mettre au mixeur avec la viande et l'échalote. 
+    Mixer pendant 2 bonnes minutes, le temps que tous les ingrédients se lient, puis incorporer un oeuf au hachis. Bien mélanger, saler et poivrer puis saupoudrer de fines herbes hachées.
+    Former 4 steaks ronds.
+    Préparer 3 assiettes creuses : une avec l'oeuf battu mélangé à l'huile, la 2e avec la farine et la 3e avec la chapelure.
+    Tremper d'abord les steaks dans la farine, puis dans le mélange oeuf/huile et enfin dans la chapelure.
+    Cuire les steaks dans une poêle beurrée.
+    Déguster !
+  ]]>
+  </preparation>
+</recette>

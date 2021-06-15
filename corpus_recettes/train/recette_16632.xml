@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16632">
+  <titre>Soupe au fromage et oignons</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 oignons </p>
+    <p>2 carottes</p>
+    <p>2 cuillères à soupe de beurre ou margarine</p>
+    <p>1 cuillères à soupe de farine de blé</p>
+    <p>6 cl d'eau</p>
+    <p>2 cubes de bouillon de légumes</p>
+    <p>30 cl de lait</p>
+    <p>poivre noir fraichement moulu</p>
+    <p>2 pommes acides</p>
+    <p>75 g de fromage bleu</p>
+    <p>persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper et hacher finement les oignons et les carottes. Les frire dans un peu de graisse dans une cocotte. Verser la farine et mélanger. Ajouter l'eau et émietter le cube. Cuire.
+    Peler et couper les pommes en dés. Les mélanger dans la cocotte avec le lait et le poivre. Laisser frémir à couvert sur feu doux durant 10-15 min.
+    Enlever la cocotte du feu. Emietter le fromage et le laisser fondre dans la soupe chaude. Garnir d'un peu de persil coupé.
+  ]]>
+  </preparation>
+</recette>

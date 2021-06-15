@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22349">
+  <titre>Soles roulées à la crème</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 filets de sole</p>
+    <p>50 cl de vin blanc</p>
+    <p>2 carottes</p>
+    <p>2 oignons</p>
+    <p>4 clous de girofle</p>
+    <p>1 bouquet garni</p>
+    <p>30 g de beurre</p>
+    <p>10 cl de crème fraîche</p>
+    <p>farine</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Piquer les oignons pelés avec les clous de girofle. Peler et couper les carottes en rondelles.
+    Verser le vin blanc une marmite, ajouter 1 l d'eau puis le bouquet garni, les oignons piqués, les carottes et 1 oignée de sel. Portez à ébullition 30 minutes.
+    Pendant ce temps, salez et poivrez les filets de sole. Roulez-les sur eux-même et maintenez-les avec de la ficelle de cuisine ou un pic en bois.
+    Mettez-les dans le court-bouillon refroidi.
+    Portez à ébullition et laissez cuire 20 min.
+    Pendant ce temps, faites fondre le beurre dans une casserole. Ajoutez 1 cuillère à soupe bombée de farine et laissez blondir en remuant.
+    Prélevez 25 cl de bouillon et versez-le à travers un chinois ou une étamine pour filtrer. Ajoutez-le dans le roux en fouettant.
+    Laissez épaissir à feu doux. Incorporez la crème fraîche et remuez.
+    Egouttez les filets de sole, servez-les nappés de sauce et accompagnez de riz ou pommes de terre vapeur.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27233">
+  <titre>Gratin de pommes de terre aux anchois</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 pommes de terre</p>
+    <p>3 oignons</p>
+    <p>40 g de beurre</p>
+    <p>30 cl de crème fleurette</p>
+    <p>12 filets d'anchois</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>3 cuillères à soupe de chapelure</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez et coupes les pommes de terre en frites.
+    Faites suer les oignons pelés et émincés dans l'huile et le beurre.
+    Beurrez un plat à gratin et le saupoudrer de chapelure.
+    Disposez des couches de pommes de terre, d'oignons et d'anchois, terminez par des pommes de terre.
+    Poivrez généreusement et versez la crème.
+    Faites cuire 1 h au four à 180°C (thermostat 6).
+  ]]>
+  </preparation>
+</recette>

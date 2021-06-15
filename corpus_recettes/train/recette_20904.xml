@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20904">
+  <titre>Gâteau à la banane facile</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 bananes</p>
+    <p>200 g de sucre</p>
+    <p>200 g de beurre</p>
+    <p>250 g de farine</p>
+    <p>3 oeufs</p>
+    <p>1/2 sachet de levure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire ramollir le beurre et le battre avec le sucre.
+    Ecraser les trois bananes et les ajouter à la préparation précédente. Incorporer ensuite la farine, les oeufs et la levure.
+     
+    Mettre la préparation dans un moule à gâteau beurré et mettre au four Th 7/8. Laisser cuire 30 à 40 mn.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15560">
+  <titre>Carpaccio autrement</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de viande pure boeuf hachée</p>
+    <p>200 g de parmesan</p>
+    <p>huile d olive</p>
+    <p>sel, poivre </p>
+    <p>basilic</p>
+    <p>pain de mie (ou baguette)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Étalez sur le pain une généreuse couche de viande hachée. Salez et poivrez.Râpez le parmesan en copeaux. Les répartir sur la viande et huilez le tout. Ajoutez le basilic pour finir.Peut convenir en amuse-gueule.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23974">
+  <titre>Mousse au citron et au Mascarpone (très facile)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de mascarpone</p>
+    <p>100 g de sucre</p>
+    <p>2 dl de crème fraîche</p>
+    <p>100 g de jus de citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le mascarpone avec le sucre, le jus et le zeste du citron. Incorporer la crème fouettée, et placer au freezer pendant 2 h.
+  ]]>
+  </preparation>
+</recette>

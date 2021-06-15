@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25917">
+  <titre>Tourte au boeuf et à la tomate</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de pâte feuilletée</p>
+    <p>800 g de boeuf cuit</p>
+    <p>3 grosses tomates</p>
+    <p>1 oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>1 bouquet garni</p>
+    <p>1 oeuf + 1 jaune pour dorer</p>
+    <p>75 g de gruyère râpé</p>
+    <p>40 cl de coulis de tomate</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer un coulis de tomates : faire fondre l'oignon émincé dans l'huile chaude puis ajouter les tomates concassées, l'ail écrasé et le bouquet garni. Saler, poivrer. Faire cuire sur feu assez vif en remuant fréquemment. Au bout de 20 minutes la fondue de tomates doit avoir la consistance d'une purée épaisse.
+    Préchauffer le four à 210°C (thermostat 7).
+    Etaler les deux tiers de la pâte feuilletée dans le fond d'un moule à manqué ou d'une tourtière beurré. La pâte doit dépasser d'1 cm. Détailler la viande de boeuf en dés et en garnir la pâte.
+    Dans la casserole : retirer le bouquet garni de la fondue de tomate tiédie et incorporer l'oeuf entier, battu en omelette, en remuant vivement puis verser le tout sur la viande. Saupoudrer de gruyère râpé.
+    Etaler le reste de pâte feuilletée et en couvrir la tourte.
+    Souder les bords de la pâte en pinçant. Puis, faire une cheminée au milieu de la tourte : creuser un trou et le faire tenir avec un morceau de papier d'aluminium roulé sur lui-même ou un tube de cannelloni.
+    Battre un jaune d'oeuf avec un peu d'eau et en badigeonner le dessus de la tourte.
+    Enfourner pour 30 minutes de cuisson et servir chaud accompagné du coulis de tomates.
+  ]]>
+  </preparation>
+</recette>

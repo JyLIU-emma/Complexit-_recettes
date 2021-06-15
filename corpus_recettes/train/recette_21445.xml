@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21445">
+  <titre>Croque-monsieur lorrain</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 oeuf</p>
+    <p>5 cl de crème</p>
+    <p>10 g de gruyère râpé</p>
+    <p>25 g de lardons</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger un oeuf battu avec une cuillerée de crème fraîche et un peu de gruyère râpé. Ajouter des lardons du sel ou du poivre. Mettre cette préparation entre deux tranches de pain de mie et faire dorer des deux côtés.
+  ]]>
+  </preparation>
+</recette>

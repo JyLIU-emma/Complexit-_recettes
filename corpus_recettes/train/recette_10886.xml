@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10886">
+  <titre>Crêpes au saumon</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 crêpes non salées</p>
+    <p>400 g de saumon fumé</p>
+    <p>10 cl de vin blanc</p>
+    <p>2 citrons</p>
+    <p>sel, poivre</p>
+    <p>4 cuillères à soupe de crème</p>
+    <p>6 brin d'aneth</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites mariner le saumon dans du vin blanc avec du jus de citron, du poivre et de l'aneth pendant 45 minutes.Répartir ce mélange dans les crêpes puis pliez-les en 2. Mettre au four à 180°C (thermostat 6) durant 7 minutes environ.
+    Servez aussitôt, si vous voulez avec une cuillère à soupe de crème.
+  ]]>
+  </preparation>
+</recette>

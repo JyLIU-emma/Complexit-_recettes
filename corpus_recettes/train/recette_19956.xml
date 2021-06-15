@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19956">
+  <titre>Flan en pâte brisée</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>40 g de farine</p>
+    <p>50 cl de lait</p>
+    <p>65 g de sucre</p>
+    <p>1 gousse de vanille fendue et grattée</p>
+    <p>1 oeuf entier</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 220°C (thermostat 7-8) et étalez la pâte brisée dans un moule à tarte beurré.
+    Délayez la farine avec un peu de lait froid puis ajoutez l'oeuf entier.
+    Faites bouillir le reste du lait avec le sucre et la vanille puis versez doucement sur le mélange précédent.
+    Versez sur le fond de tarte et enfournez pour 20-25 minutes de cuisson. Vérifiez que le flan est pris avant de sortir du four.
+    Variante :
+    Faites une bouillie avec 40 g de farine ou 25 g de crème de riz et 50 cl de lait sucré et aromatisé.
+    Amenez à ébullition, retirez du feu et ajoutez l'oeuf battu. 
+    Versez sur le fond de tarte et cuisez de la même façon. 
+  ]]>
+  </preparation>
+</recette>

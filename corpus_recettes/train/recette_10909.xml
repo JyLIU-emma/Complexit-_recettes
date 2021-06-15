@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10909">
+  <titre>Far aux pommes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de farine</p>
+    <p>75 g de sucre</p>
+    <p>1 pincée de sel</p>
+    <p>1/2 sachet de levure en poudre</p>
+    <p>2 œufs</p>
+    <p>50 cl de lait</p>
+    <p>4 pommes</p>
+    <p>10 g de beurre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Versez la farine en fontaine dans une terrine, mettez le sucre, le sel et la levure au milieu, cassez-y les oeufs.Délayer progressivement avec le lait.
+    Pelez et émincez les pommes. Beurrez un plat allant au four et à table. Couvrez le fond d'une couche de pommes, versez la pâte par dessus. Recouvrez de pommes.
+    Faites cuire pendant 40 min environ à 180°C (thermostat 6). Servez dans le plat de cuisson.
+    Vous pouvez à volonté parfumer la pâte avec de la vanille, du rhum ou du calvados.
+  ]]>
+  </preparation>
+</recette>

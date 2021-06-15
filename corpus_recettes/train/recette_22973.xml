@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22973">
+  <titre>Tarte salée au chèvre et aux pruneaux</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>1 chèvre bûche</p>
+    <p>150 g de lardons</p>
+    <p>250 g de pruneaux dénoyautés</p>
+    <p>3 oeufs</p>
+    <p>3 cuillères à soupe de crème</p>
+    <p>10 cl de lait</p>
+    <p>sel, poivre</p>
+    <p>thym</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la pâte sur le fond de tarte.
+    Recouvrir le fond de chèvre bûche coupé en fines tranches, puis parsemer de thym.
+    Faire revenir dans une poêle les lardons et les pruneaux coupés en deux. Lorsqu'ils sont cuits, les répartir uniformément sur le chèvre. 
+    Ajouter le mélange oeuf, crème, lait salé et poivré.
+    Faire cuire 25 min, à 200°C (thermostat 7) dans un four à chaleur tournante ou une demi-heure dans un four normal.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13741">
+  <titre>Salade aux pommes et au jambon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 pommes Golden</p>
+    <p>50 g de cerneaux de noix</p>
+    <p>3 tranches de jambon de Paris</p>
+    <p>2 endives</p>
+    <p>6 cuillères à soupe de crème liquide</p>
+    <p>2 cuillères à soupe de vinaigre de framboise</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, mettre la crème, le vinaigre, le sel et le poivre.
+    Eplucher les pommes, les épépiner et les couper en dés, puis les mettre dans le saladier.
+    Couper les endives et les ajouter au reste. Couper le jambon en fines lamelles, ajouter au reste avec les cerneaux.Mélanger le tout, laisser au frigo 1 heure et servir.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23503">
+  <titre>Spaghetti au chèvre</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1/2 paquet de spaghetti blé complet</p>
+    <p>1 briquette de coulis de tomate</p>
+    <p>2 petits palets de chèvre frais à cuire</p>
+    <p>sel et poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les pâtes dans de l'eau bouillante salée. 
+    Pendant ce temps, placer les palets de chèvre dans un petit bol. 
+    Verser juste assez de coulis de tomates pour recouvrir les palets et poivrer généreusement. 
+    Mélanger les palets et le coulis à la fourchette (ça va mieux pour écraser le fromage). 
+    Egoutter les pâtes, reverser dans la casserole et incorporer le coulis de tomate au chèvre qui fond alors de bonheur de se trouver bien au chaud sur son lit de pâtes...
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="2090">
+  <titre>Gâteau frais</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 Carrés Frais à 0% de matière grasse</p>
+    <p>170 g de farine</p>
+    <p>150 g de sucre</p>
+    <p>170 g d'oeuf</p>
+    <p>vanille, rhum ou extrait de fleur d'oranger</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, fouetter les jaunes d'oeuf et le sucre.
+    Une fois que le mélange est mousseux, incorporer les Carrés Frais. Mélanger à nouveau.
+    Verser la farine tamisée en pluie, et continuer de mélanger.
+    Monter les blancs en neige, et les incorporer délicatement au mélange.
+    Ajouter, selon votre goût, 2 cuillères à soupe de rhum, ou 2 cuillères à soupe de fleur d'oranger, ou encore 2 cuillères à soupe d'extrait de vanille.
+    Beurrer un moule à manquer, et enfourner à 180°C (thermostat 6), pendant 35 à 40 min.
+     
+  ]]>
+  </preparation>
+</recette>

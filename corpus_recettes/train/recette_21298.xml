@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21298">
+  <titre>Pêches pochées au vin et à la gelée de framboise</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 pêches</p>
+    <p>50 cl de vin rouge léger</p>
+    <p>70 g de gelée de framboise</p>
+    <p>70 g de sucre</p>
+    <p>1 pincée de cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez les pêches, coupez-les en deux et retirez les noyaux. 
+    Mettez-les dans le vin avec le sucre et la cannelle.
+    Portez à ébullition et laissez bouillonner environ 20 min. 
+    Egouttez les pêches, disposez-les dans 4 coupelles et faites réduire le vin.
+    Lorsqu'il est sirupeux, ajoutez la gelée de framboises, délayez bien et versez sur les pêches.
+    Réservez au frais jusqu'au service.
+  ]]>
+  </preparation>
+</recette>

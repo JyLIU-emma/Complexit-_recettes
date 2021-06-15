@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18000">
+  <titre>Poulet sauté</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 blancs de poulet</p>
+    <p>4 tomates</p>
+    <p>2 oignons</p>
+    <p>des frites (surgelées c'est bien)</p>
+    <p>2 c de persil haché</p>
+    <p>1 gousse d'ail</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les blancs de poulet en morceaux. Saler, poivrer. Eplucher les tomates et les couper en carrés. Couper les oignons en rondelles. Dans une poêle, mettez un peu d'huile et faire revenir le poulet, faire dorer et y ajouter les oignons et l'ail concassé. Faire cuire 4 minutes et ajouter les tomates. Vérifier le sel. Couvrir et laisser mijoter 10 min. Faire les frites. Au bout de 10 mn, ajouter les frites à la préparation du poulet, n'oubliez pas le persil et servir immédiatement. Accompagner du riz.
+    Plat péruvien.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27279">
+  <titre>Soupe courgettes et brocolis</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de brocolis congelés pré-cuits</p>
+    <p>300 g de de courgettes congelées pré-cuites</p>
+    <p>ail</p>
+    <p>2 bouillons cubes</p>
+    <p>poivre</p>
+    <p>eau</p>
+    <p>chevre</p>
+    <p>crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte-minute, mettre les légumes, les cubes et l'ail haché (en fonction de votre goût). 
+    Rajouter de l'eau de manière à ce qu'elle effleure les derniers légumes. 
+    Faire cuire 5 mn à partir de la rotation de la soupape. 
+    Servir très chaud, mettre du chèvre (bûche) coupé en petits morceaux et de la crème en fonction des goûts dans chaque assiette.
+  ]]>
+  </preparation>
+</recette>

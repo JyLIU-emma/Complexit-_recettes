@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25121">
+  <titre>Poêlée de sarrasin aux olives et aux champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>750 g de champignons de Paris</p>
+    <p>450 g de sarrasin</p>
+    <p>450 g d'oignons</p>
+    <p>375 g d'olives noires</p>
+    <p>2 gousses d'ail</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>2 branches de thym séché</p>
+    <p>1 feuille de laurier</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dénoyauter les olives.
+    Faire cuire le sarrasin avec le thym et le laurier pendant 20 minutes.
+    Emincer les oignons, l'ail et les champignons.
+    Faire fondre les oignons dans l'huile chaude puis ajouter les champignons et l'ail.
+    Lorsque les champignons ont rendu leur eau, ajouter les olives.
+    Egoutter le sarrasin et l'incorporer au mélange. Mélanger et rectifier l'assaisonnement.
+    Poursuivre la cuisson 5 minutes à feu doux pour que le sarrasin s'imprègne de la saveur des autres aliments et servir.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11987">
+  <titre>Tot-au-fait à la mirabelle (Lorraine)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>125 g de sucre en poudre</p>
+    <p>1 litre de lait</p>
+    <p>4 bonnes cuillères à soupe de farine</p>
+    <p>5 cl de mirabelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Délayer les oeufs, le sucre et la farine. Ajouter le lait, puis la mirabelle. Verser dans un moule beurré et mettre cuire à four chaud une bonne demi-heure. Servir chaud.
+    Tout moule peut convenir à condition d'être beurré. Nos grands-mères lorraines se servaient de leur cocotte en fonte et cet entremets corsait souvent le menu maigre du vendredi.
+  ]]>
+  </preparation>
+</recette>

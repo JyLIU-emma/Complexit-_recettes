@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24684">
+  <titre>Filets mignons à l'estragon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de filets mignons</p>
+    <p>30 g de beurre</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>3 cuillères à soupe de crème fraîche</p>
+    <p>quelques brins d’estragon</p>
+    <p>2 cuillières à soupe de farine</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Assaisonner la viande et la fariner. Faire fondre le beurre dans une poêle et y faire revenir les morceaux de viande 3 à 4 minutes sur chaque face.
+    Mouiller de vin blanc. Laisser mijoter pendant 10 min et réserver la viande dans un plat au chaud.
+    Passer le jus de cuisson dans un tamis et y incorporer la crème fraîche. Ajouter les feuilles d'estragon en morceaux et porter à ébullition.
+    Verser sur la viande et servir.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22420">
+  <titre>Sauté de veau aux olives</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de veau</p>
+    <p>100 g d'olives vertes dénoyautées</p>
+    <p>100 g d'olives noires dénoyautées</p>
+    <p>50 g de beurre</p>
+    <p>50 g de farine</p>
+    <p>40 cl d'eau</p>
+    <p>50 g de petits oignons</p>
+    <p>1 bouquet garni</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découpez le veau en gros cubes.
+    Faites-le dorer dans une cocotte avec l'oignon émincé et le beurre.
+    Dès qu'il est doré, saupoudrez de farine et laissez cuire 5 min.
+    Mouillez avec l'eau, salez et poivrez. Ajoutez le bouquet garni, couvrez et laissez cuire 1 h 30 à feu doux.
+    Rajoutez les olives, et poursuivez la cuisson 30 min.
+    Retirez le bouquet garni avant de servir.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25126">
+  <titre>Tomates à la crème et à l'estragon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>750 g de tomates</p>
+    <p>7.5 cl de crème</p>
+    <p>1 cuillère à soupe d'estragon haché</p>
+    <p>sel et poivre concassé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler les tomates en rondelles et les disposer sur un plat.
+    Mélanger la crème avec l'estragon, du sel et du poivre.
+    En recouvrir les tomates et laisser mariner 1 heure au frais avant de servir.
+  ]]>
+  </preparation>
+</recette>

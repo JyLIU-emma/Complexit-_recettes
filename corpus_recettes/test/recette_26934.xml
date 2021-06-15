@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26934">
+  <titre>Filet de dinde au miel et pruneaux</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 rôti de dinde</p>
+    <p>des pruneaux dénoyautés</p>
+    <p>1 oignon</p>
+    <p>2 cuillèress à soupe de miel</p>
+    <p>1 bouillon cube de poule</p>
+    <p>un peu de cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites rissoler le rôti et les oignons dans une casserole. Salez, poivrez. 
+    Ajoutez le cube de bouillon de poule et les pruneaux. Couvrez la préparation d'eau et rajoutez le miel. 
+    Ajoutez un peu de cannelle (la quantité dépend des goûts, ce n'est pas obligatoire). 
+    Laissez mijoter et rajouter de l'eau de temps en temps.
+  ]]>
+  </preparation>
+</recette>

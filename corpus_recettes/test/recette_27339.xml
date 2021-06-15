@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27339">
+  <titre>Crêpe aux raisins secs et aux noix</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de sucre</p>
+    <p>2 oeufs</p>
+    <p>100 g de farine</p>
+    <p>1 dl de lait</p>
+    <p>50 g de noix grossièrement hachées</p>
+    <p>50 g de raisins secs</p>
+    <p>beurre pour la poêle</p>
+    <p>sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire gonfler les raisins secs dans de l'eau tiède. 
+    Mélanger les 2 jaunes d'oeufs et le sucre. Ajouter la farine, puis le lait. 
+    Incorporer les blancs battus en neige. 
+    Ajouter en remuant délicatement les raisins secs et le noix hachées. 
+    Verser dans une grande poêle beurrée. Faire cuire à feu très doux environ 10 mn. 
+    Faire glisser la crêpe sur une assiette et la retourner dans la poêle. Faire cuire l'autre face environ 10 mn à feu très doux. 
+    Saupoudrer de sucre glace. Se mange tiède ou froid.
+  ]]>
+  </preparation>
+</recette>

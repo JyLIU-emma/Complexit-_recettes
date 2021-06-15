@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12637">
+  <titre>Gâteau soleil à la rhubarbe</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de rhubarbe</p>
+    <p>3 oeufs</p>
+    <p>150 g de beurre ramolli</p>
+    <p>150 g de sucre roux en poudre</p>
+    <p>150 g de farine</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher la rhubarbe en ôtant la peau et les fimaments. Couper les tiges en tronçons de 5 cms.
+    Casser les oeufs en séparant les blancs des jaunes.
+    Fouettez le beurre avec le sucre. Incorporer les jaunes d'oeuf tout en continuant à battre.
+    Verser la farine et mélanger.
+    Battre les blancs en neige avec la pincée de sel. Les mélanger délicatement à la pâte.
+    Verser la préparation dans un moule à manqué beurré et fariné. Enfoncer légèrement les tronçons de rhubarbe dans la pâte en les disposant en soleil.
+    Faire cuire à four chaud (180°/thermostat 6) pendant 30 à 40 min.
+  ]]>
+  </preparation>
+</recette>

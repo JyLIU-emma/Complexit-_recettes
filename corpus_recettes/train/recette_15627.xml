@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15627">
+  <titre>Spaghetti 'primavera' au poulet</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 tasses de brocoli en morceaux</p>
+    <p>1 tasse de céleri coupé en biais</p>
+    <p>2 carottes coupés en biais</p>
+    <p>1/2 tasse de piments rouges coupés en dés</p>
+    <p>3 échalotes</p>
+    <p>spaghetti</p>
+    <p>1/4 de tasse de parmesan râpé</p>
+    <p>2 cuillère à table de beurre</p>
+    <p>2 cuillère à table d'huile végétale</p>
+    <p>1 gousse d'ail écrasée</p>
+    <p>2 poitrines de poulet coupées en languettes</p>
+    <p>1/2 tasse de sauce chili</p>
+    <p>1/2 tasse de bouillon de poulet</p>
+    <p>1 cuillère à thé de basilic</p>
+    <p>1/2 cuillère à thé de sel</p>
+    <p>1/2 cuillère à thé de poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les spaghetti.
+    Pendant ce temps, chauffer l'huile dans une poêle à frire et faire revenir le poulet et l'ail 2-3 minutes.
+    Ajouter les légumes et cuire jusqu'à ce que les légumes et le poulet soient cuits et tendre (même moins, si l'on préfère les légumes plus crousillants).
+    Ajouter les autres ingrédients et brasser.
+    Faire cuire à feu doux pendant environ 8 minutes en brassant de temps en temps.
+    Égoutter les spaghetti, y ajouter le beurre et le fromage et remuer.
+    Mettre la sauce sur les spaghetti et servir.
+    Un spaghetti moins plate, qui fait différent et que les enfants adorent!
+  ]]>
+  </preparation>
+</recette>

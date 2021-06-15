@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26346">
+  <titre>Aubergines en fleur</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 grosses aubergines</p>
+    <p>100 g de champignons</p>
+    <p>100 g de riz</p>
+    <p>2 cuillerées à soupe de fromage râpé</p>
+    <p>10 g de beurre</p>
+    <p>12 olives noires</p>
+    <p>1 citron</p>
+    <p>huile de friture</p>
+    <p>Pour la béchamel: </p>
+    <p>40 g de beurre</p>
+    <p>30 g de farine</p>
+    <p>20 cl de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les aubergines en deux dans le sens de la longueur et les faire frire dans l'huile chaude pendant 10 minutes environ. 
+    Creuser légèrement les aubergines, réserver la chair. Disposer les coques en étoile, dans le fond d'un plat à gratin rond.
+    Préparer la sauce béchamel sur feu doux : mélanger la farine dans le beurre fondu puis verser le lait et laisser épaissir. Assaisonner.
+    Faire cuire le riz.
+    Emincer les champignons et les faire revenir dans le beurre sur feu vif avec la chair des aubergines.
+    Préchauffer le four à 210°C (thermostat 7).
+    Mélanger ensemble le riz, les champignons et la sauce béchamel. Remplir les coques d'aubergines avec cette farce. Parsemer de fromage râpé et faire gratiner pendant 15 minutes environ.
+    Décorer d'olives noires et de quartiers de citron.
+  ]]>
+  </preparation>
+</recette>

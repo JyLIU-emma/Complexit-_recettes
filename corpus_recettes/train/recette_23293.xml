@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23293">
+  <titre>Feuilletés d'épinards</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>350 g de pâte feuilletée</p>
+    <p>3 oignons</p>
+    <p>25 g de beurre</p>
+    <p>300 g d'épinards cuits et hachés</p>
+    <p>3 cuillères à soupe de persil haché</p>
+    <p>150 g de fromage frais type ricotta </p>
+    <p>3 oeufs (2 entiers + 1 jaune d'oeuf)</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 200°C (thermostat 6-7).
+    Faites fondre les oignons émincés dans le beurre jusqu'à ce qu'ils soient tendres puis ajoutez les épinards et le persil. Laissez mijoter 3-4 minutes en remuant.
+    Ajoutez le fromage frais puis les oeufs entiers un par un, hors du feu (le mélange doit être assez dense). Salez et poivrez.
+    Etalez la pâte au rouleau sur une planche farinée, coupez-la en carrés de 10 à 12 cm de côté.
+    Disposez une cuillère à soupe de farce sur chacun des carrés et roulez la pâte tout autour en ramenant les 4 coins au centre.
+    Faites cuire 30 minutes.
+  ]]>
+  </preparation>
+</recette>

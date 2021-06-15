@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27456">
+  <titre>Fleurs d'acacia en beignets</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 grappes de fleurs d'acacia</p>
+    <p>60 g de sucre fin</p>
+    <p>1 cuillère à soupe de rhum</p>
+    <p>huile de friture</p>
+    <p>100 g de beurre</p>
+    <p>4 oeufs </p>
+    <p>200 g de farine</p>
+    <p>20 cl de lait</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Saupoudrez les grappes de fleurs d'acacia de 40 g de sucre et de rhum.
+    Mixez le beurre avec le sucre et le sel. Incorporez les oeufs, la farine puis le lait en un mince filet.
+    La pâte ne doit pas être trop fluide.
+    Faites chauffer l'huile de friture.
+    Plongez les grappes de fleurs dans la pâte, laissez-les s'égoutter quelques secondes puis plongez-les dans la friture.
+     
+    Egouttez dès coloration et dressez sur une serviette ou un papier absorbant.
+  ]]>
+  </preparation>
+</recette>

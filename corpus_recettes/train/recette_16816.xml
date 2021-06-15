@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16816">
+  <titre>La bouse de vache</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de sucre</p>
+    <p>3 oeufs</p>
+    <p>150 g de farine</p>
+    <p>1 sachet de levure chimique</p>
+    <p>1 pincée de sel</p>
+    <p>lait</p>
+    <p>huile</p>
+    <p>rhum</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Casser les 3 oeufs dans un saladier
+    Ajouter les 150 g de sucre, et bien remuer
+    Ajouter les 150 g de farine, avec la levure et le sel - Bien mélanger
+    Ajouter 9 cuillères à soupe de lait et 3 cuillères à soupe d'huile, plus une ou deux cuillères de rhum. Bien remuer
+    Beurrer puis fariner un moule à gateau et y verser la pâte.
+    Mettre à four tiède à feu moyen pendant 40 min en surveillant la cuisson.
+     cidre
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14214">
+  <titre>Boulettes 'di riso' (Sicile)</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de riz cuit</p>
+    <p>70 cl de sauce tomate </p>
+    <p>2 oeufs</p>
+    <p>parmesan</p>
+    <p>chapelure</p>
+    <p>farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger 1 oeuf, le parmesan râpé, un peu de chapelure, la sauce tomate et le riz cuit.
+    Former des boulettes avec cette
+    préparation. Les tremper dans de la farine, 
+    dans un oeuf battu, puis dans de la chapelure.
+    Faire frire.Vous pouvez varier et ajouter au centre des boulettes un petit morceau de gruyère.
+  ]]>
+  </preparation>
+</recette>

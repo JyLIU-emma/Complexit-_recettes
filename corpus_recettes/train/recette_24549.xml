@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24549">
+  <titre>Choco Pépit'Cake</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 yaourt nature</p>
+    <p>2 oeufs</p>
+    <p>1 pot de yaourt de sucre</p>
+    <p>1 sachet de levure</p>
+    <p>1 demi pot de yaourt d'huile</p>
+    <p>4 pots de yaourt de farine</p>
+    <p>des pépites de chocolat</p>
+    <p>des raisins secs (facultatif) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Séparer les blancs des jaunes et les mettre dans 2 saladiers. 
+    Dans les jaunes, ajouter le yaourt nature et mélanger avec un fouet non électrique. 
+    Ajouter le pot de yaourt de sucre. 
+    Mettre par petites doses, les 4 pots de yaourt de farine avec le sachet de levure. Bien mélanger la pâte. 
+    Terminer par le pot d'huile et les pépites de chocolat (et de raisins secs si on veut). 
+    Mettre une pincée de sel dans les blancs et les monter en neige, très fermes. 
+    Délicatement, les incorporer dans la pâte obtenue. 
+    Beurrer le moule à cake et verser toute la pâte. 
+    Faire cuire 30 mn entre 180°C et 200°C
+    Super pour les enfants.
+  ]]>
+  </preparation>
+</recette>

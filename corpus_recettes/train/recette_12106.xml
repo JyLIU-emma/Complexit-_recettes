@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12106">
+  <titre>Coulant tiède au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>95g de beurre</p>
+    <p>90g de chocolat</p>
+    <p>50g de farine</p>
+    <p>100g de sucre</p>
+    <p>3 œufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites fondre au bain marie le chocolat puis le beurre en fouettant doucement.
+    Ajoutez le sucre, les œufs et la farine.
+    Versez dans des cercles à tarte ou des petits moules en aluminium. 
+    Faites cuire à four chaud (200°C) pendant 6 min.
+    Servez avec une crème anglaise ou de la glace à la vanille.
+     Madiran
+  ]]>
+  </preparation>
+</recette>

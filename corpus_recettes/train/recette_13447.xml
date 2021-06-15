@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13447">
+  <titre>Soupe du cultivateur</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 carottes en rondelles</p>
+    <p>1 poivron vert coupé en carrés de 2 cm</p>
+    <p>2 pommes de terres en tranches fines</p>
+    <p>2 gousses d'ail entières</p>
+    <p>6 tasses de bouillon de poulet</p>
+    <p>Beurre, sel et poivre</p>
+    <p>1 feuille de laurier</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les légumes dans le beurre. Ajouter le bouillon de poulet et laisser mijoter.
+    Présentée au Québec il y a plusieurs années par Pol Martin (Télé-Cuisine), cette soupe, très simple à réaliser et très bon marché n'en est pas moins surprenante.
+  ]]>
+  </preparation>
+</recette>

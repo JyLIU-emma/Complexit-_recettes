@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20321">
+  <titre>Crème de carottes à l'orange et aux pétoncles</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de carottes</p>
+    <p>20 noix de pétoncles</p>
+    <p>1 oignon</p>
+    <p>2 pincées de sucre</p>
+    <p>1 orange</p>
+    <p>75 cl de bouillon de légumes</p>
+    <p>10 cl de crème</p>
+    <p>40 g de beurre</p>
+    <p>1 cuillère à soupe d’huile</p>
+    <p>sel, poivre</p>
+    <p>muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les carottes en dés et oignon haché dans l’huile et 20 g de beurre. 
+    Arroser avec le bouillon et cuire 12 mn. 
+    Mixer les légumes et le bouillon. 
+    Ajouter le jus d’orange, la muscade, la crème, le sucre. 
+    Faire dorer les pétoncles dans le reste de beurre. Saler et poivrer. 
+    Faire chauffer sans bouillir la crème de carottes. 
+    Servir dans les assiettes, ajouter les noix de pétoncles et du cerfeuil.
+    A défaut de pétoncles, j’utilise des crevettes décortiquées que je fais revenir de la même manière dans le beurre.
+  ]]>
+  </preparation>
+</recette>

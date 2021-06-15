@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14367">
+  <titre>Tagliatelles  fraîches au saumon fumé</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de tagliatelles fraîches</p>
+    <p>1 boîte de fromage au poivre (type boursin)</p>
+    <p>5 tranches de saumon fumé</p>
+    <p>1 gousse d'ail</p>
+    <p>20 cl de crème fraîche</p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Éplucher la gousse d'ail, faire fondre à feu doux le fromage + la crème fraîche. Mettre cuire les tagliatelles.
+    Couper en dés le saumon fumé et ajouter à la sauce.
+    Lorsque les tagliatelles sont cuites al dente, ajouter la sauce et servir. chianti
+  ]]>
+  </preparation>
+</recette>

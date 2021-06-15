@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24893">
+  <titre>Pâtes aux poireaux</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 blancs de poireaux</p>
+    <p>180 g de pâtes courtes</p>
+    <p>huile d'olive</p>
+    <p>Parmesan râpé</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler les blancs de poireaux bien lavés en rondelles pas trop fines (1 cm environ). 
+    Les jeter dans une casserolet d'eau bouillante salée. 
+    Au bout de quelques minutes (5 ou 6 depuis la reprise de l'ébullition), y ajouter les pâtes. 
+    Egoutter tout ensemble quand les pâtes sont prêtes, assaisonner avec huile et Parmesan, sel et poivre, servir.
+  ]]>
+  </preparation>
+</recette>

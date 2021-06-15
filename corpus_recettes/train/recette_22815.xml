@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22815">
+  <titre>Cake aux pruneaux et aux raisins (au miel et sirop d'érable)</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 oeufs calibre moyen</p>
+    <p>2 cuillères à soupe de miel oranger d'espagne (liquide) </p>
+    <p>1 cuillère à soupe de sirop d'érable</p>
+    <p>15 pruneaux d'Agen géants</p>
+    <p>1 poignée de raisins secs sultaninés (de Turquie) </p>
+    <p>1 sachet de levure chimique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 190°C. 
+    Couper les pruneaux en deux et les mettre à tremper avec les raisins dans le lait tiède additionné de miel. 
+    Pendant ce temps, mélanger dans un saladier la farine, la levure et la cassonade. 
+    Ajouter ensuite les oeufs et battre. 
+    Incorporer ensuite le beurre très mou (voir fondu), le sirop d'érable, puis le lait du mélange pruneaux-raisins. 
+    Bien mélanger et ajouter pour finir les pruneaux et les raisins en continuant de mélanger. 
+    Mettre dans un grand moule à cake et laisser cuire pendant environ 50 mn.
+  ]]>
+  </preparation>
+</recette>

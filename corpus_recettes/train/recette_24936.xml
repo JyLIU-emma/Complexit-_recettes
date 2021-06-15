@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24936">
+  <titre>Gratin d'épinards</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 kg d'épinards</p>
+    <p>150 g de beurre</p>
+    <p>3 cuillères à soupe de farine</p>
+    <p>45 cl de lait</p>
+    <p>210 g de gruyère râpé</p>
+    <p>3 oeufs</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 210°C (thermostat 7).
+    Ebouillantez les épinards 5 minutes puis pressez-les pour extraire l'eau qu'ils contiennent. 
+    Faites les revenir dans 20 g de beurre.
+    Mélangez la farine dans 30 g de beurre fondu puis versez le lait. Laissez épaissir sur feu doux sans cesser de remuer puis ajoutez 75 g de gruyère. Rectifiez l'assaisonnement.
+    Incorporez les épinards puis les deux jaunes d'oeufs et les blancs battus en neige ferme.
+    Disposez dans un plat à gratin beurré, recouvrez de gruyère râpé et versez de beurre fondu sur le dessus. 
+    Enfournez 15 minutes.
+  ]]>
+  </preparation>
+</recette>

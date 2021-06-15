@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10632">
+  <titre>Croque curry au carré frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tranches de pain de mie</p>
+    <p>4 carré frais (portions individuelles)</p>
+    <p>1 tomate</p>
+    <p>curry</p>
+    <p>2 noisettes de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre le beurre dans la poêle et faire dorer les tranches de pain de mie sur une seule face : 1 min chacune environ.
+    Réserver les tranches et tartiner le côté doré de carré frais, saupoudrer de curry suivant vos goûts.
+    Replacer les tranches dans la poêle avec une noisette de beurre fondue pour faire dorer l'autre face (celle qui n'est pas dorée/tartinée).
+    Pendant ce temps couper la tomate en fines tranches, saler et poivrer.
+    Sortir les tranches de pain de mie de la poêle et composer les croques en plaçant les tranches de tomates sur deux tranches puis refermer les sandwichs.
+    Déguster tout de suite, (pain chaud croustillant, tomates froides, fromage tiède)...mmmm...
+  ]]>
+  </preparation>
+</recette>

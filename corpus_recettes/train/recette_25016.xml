@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25016">
+  <titre>Coq au vin d'Alsace</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 coq découpé en 8 morceaux + les chutes</p>
+    <p>50 cl de Riesling (Vin blanc d'Alsace)</p>
+    <p>200 g de champignons</p>
+    <p>1 échalote</p>
+    <p>2 gousses d'ail</p>
+    <p>1 cuillère à soupe d'estragon haché</p>
+    <p>1 cuillère à soupe de persil haché</p>
+    <p>20 cl de crème fraîche</p>
+    <p>farine</p>
+    <p>beurre, huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les chutes du coq dans une casserole avec l'échalote et 25 cl d'eau salée.
+    Porter à ébullition et laisser bouillir 20 min.
+    Faire dorer les morceaux de coq dans un mélange beurre-huile dans une cocotte.
+    Ajouter les gousses d'ail et les herbes hachées.
+    Mouiller avec le bouillon préparé au début et filtré et le vin.
+    Laisser mijoter 30 min.
+    Nettoyer et émincer les champignons.
+    Les faire sauter au beurre et saupoudrer de farine.
+    Ajouter ces champignons au coq et laisser mijoter encore 15 min. 
+    Retirer les morceaux de coq de la cocotte, les disposer sur un plat chaud.
+    Ajouter la crème fraîche dans la cocotte, rectifier l'assaisonnement et napper les morceaux de coq.
+    Servir aussitôt.
+    Pour accompagner vous n'avez que l'embarras su choix : pâtes fraîches, spätzle, riz, purée ou pommes dauphines, ravioles au fromage...
+  ]]>
+  </preparation>
+</recette>

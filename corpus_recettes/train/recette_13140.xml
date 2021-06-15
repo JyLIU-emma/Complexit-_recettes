@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13140">
+  <titre>Tarte congolaise</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de farine</p>
+    <p>1 sachet de levure</p>
+    <p>80 g de sucre</p>
+    <p>1 oeuf</p>
+    <p>5 cuillerées à soupe d'huile</p>
+    <p>5 cuillerées à soupe de lait ou +</p>
+    <p>1 boite 4/4 d'ananas en morceaux</p>
+    <p>Pour la crème :</p>
+    <p>80 g de noix de coco rapée</p>
+    <p>80 g de sucre</p>
+    <p>80 g de beurre fondu</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>2 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Egoutter les ananas.
+    Mélanger tous les ingrédients (sauf les ananas) pour avoir une pâte lisse.
+    Mettre la pâte dans un moule à manqué beurré.
+    Etaler les ananas sur la pâte.
+    Mettre au four Th 5/6 jusqu'à l'obtention d'une croûte légère (10 mn).
+    Faire la crème (noix de coco, sucre, beurre fondu, sucre vanillé, oeufs) et la verser dans le moule sur la pâte et les ananas.
+    Remettre au four pendant environ 20 mn.
+  ]]>
+  </preparation>
+</recette>

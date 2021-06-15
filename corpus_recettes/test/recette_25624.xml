@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25624">
+  <titre>Soupe acidulée au potiron</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,5 kg de potiron</p>
+    <p>1 pomme (boskoop ou reinette) </p>
+    <p>50 cl d'eau</p>
+    <p>4 cuillères à soupe de jus d'orange</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le potiron et la pomme épluchés en morceaux, les cuire ensemble dans l'eau froide salée et poivrée jusqu'à ce qu'ils soient tendres. 
+    Egoutter et remettre le tout dans la casserole ou la cocotte avec le lait froid, cuire 10 min. 
+    Ajouter le jus d'orange, rectifier l'assaisonnement à votre goût et mixer !
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16455">
+  <titre>Bavarois aux framboises</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>50 cl de lait</p>
+    <p>6 jaunes d'oeufs</p>
+    <p>125 g sucre</p>
+    <p>9 feuilles de gélatine</p>
+    <p>1 kg de framboises (peut se faire avec des fraises)</p>
+    <p>25 cl de crème liquide très froide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire une crème anglaise avec le sucre, les oeufs et le lait bouillant.
+    Faire gonfler la gélatine dans de l'eau froide puis l'essorer soigneusement.
+    Ajouter la gélatine dans la crème chaude et laisser refroidir.
+    Mixer 700 g de fruits et incorporer ce coulis à la crème refroidie. Ajouter en soulevant délicatement la crème fouettée.
+    Verser la moitié de la crème dans un moule à bord amovible et laisser prendre au frais 10 minutes.
+    Mettre le reste des fruits émincés puis la fin de la crème et remettre au frais pour 12h.
+  ]]>
+  </preparation>
+</recette>

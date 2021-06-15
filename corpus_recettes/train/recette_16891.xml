@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16891">
+  <titre>Tourte pyrénéenne</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>200 g de sucre</p>
+    <p>4 oeufs</p>
+    <p>1/4 de sachet de levure</p>
+    <p>12,5 cl de lait</p>
+    <p>75 g de beurre</p>
+    <p>1/2 sachet de sucre vanillé et un parfum au choix (rhum, cognac, pastis...)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier mélanger la farine, le sucre, les jaunes d'oeufs, la levure, le lait, et le beurre fondu. Mettre le parfum que vous avez choisi.
+    Battre les blanc en neige et les incorporer au mélange précédent.
+    Mettre dans un moule à tourte (haut bords 15 cm) et laisser cuire 25 mn à four moyen (thermostat 6/180°C).
+    Vérifier la cuisson en plantant la pointe d'un couteau dans la tourte... elle doit ressortir sèche.
+    Ce gâteau s'accompagne très bien de crème anglaise.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18924">
+  <titre>Fondue vigneronne au veau et champagne</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 bouteille et demie de Champagne</p>
+    <p>800 g de noix de veau</p>
+    <p>2 cuillères à soupe de sel</p>
+    <p>1 cuillère à soupe de sel de céleri</p>
+    <p>1 cuillère à soupe de sucre</p>
+    <p>1 bâton de cannelle</p>
+    <p>1 gousse de vanille</p>
+    <p>6 clous de girofle</p>
+    <p>10 grains de coriandre</p>
+    <p>12 grains de poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire macérer la viande (coupée en morceaux comme une pour une pierrade mais un peu plus épais) dans un caquelon durant une demi journée puis passer la marinade au chinois. 
+    Porter à ébullition la marinade puis faire cuire la viande sur un service à fondue bourguignonne, chaque convive faisant cuire sa viande (inutile d'accompagner la viande avec des sauces). 
+    Ce plat peut-être accompagné de pommes de terre rissolées cannelle/pruneaux.
+    Cette recette est proposée par la Sté Georges SOHET & Fils 51500 LUDES Champagne 
+  ]]>
+  </preparation>
+</recette>

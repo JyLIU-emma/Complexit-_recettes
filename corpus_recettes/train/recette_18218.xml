@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18218">
+  <titre>Filet de Colin au pesto</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 filets de colin</p>
+    <p>150 g de parmesan ou du pecorino </p>
+    <p>des feuilles de basilic</p>
+    <p>des pignons de pin</p>
+    <p>1 aubergine</p>
+    <p>1 courgette</p>
+    <p>2 tomates</p>
+    <p>1 oignon</p>
+    <p>1 sachet de tagliatelles</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez la sauce au pesto : hachez finement du basilic frais, de l’ail et des pignons de pin. Ajoutez du parmesan ou du pecorino fraîchement rapé. Salez et poivrez. Liez le tout avec de l’huile d’olive jusqu'à obtenir un mélange homogène.
+    Faites revenir dans une poêle avec deux cuillères à soupe d’huile d’olive, des aubergines des courgettes et des tomates coupées en dés. Ajoutez des oignons émincés.
+    Incorporez des filets de colin coupés en morceaux.
+    Faites cuire les tagliatelles fraîches à l’eau bouillante salée jusqu'à ce qu’elle soient «al dente» et égouttez-les.
+    Mélangez délicatement les légumes, le poisson et les tagliatelles au pesto. Servez.
+  ]]>
+  </preparation>
+</recette>

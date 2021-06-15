@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25502">
+  <titre>Croustillants au saumon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g de saumon</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>3 pommes de terre</p>
+    <p>ciboulette</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>Pour la sauce et accompagnement :</p>
+    <p>3 cuillères à soupe de vinaigre de vin blanc</p>
+    <p>2 cuillères à soupe d'huile de noix</p>
+    <p>1 cuillère à soupe de miel</p>
+    <p>2 pincées de poivre</p>
+    <p>1 yaourt nature</p>
+    <p>1 gros oignon rouge</p>
+    <p>1 botte de petits oignons de printemps</p>
+    <p>1 concombre</p>
+    <p>cerneaux de noix</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pommes de terre et les écraser en purée. 
+    Passer le saumon au mixeur, ajouter les 2 jaunes d'oeufs et la ciboulette finement hachée. Mélanger et pétrir le tout. 
+    Former ensuite des petites galettes plates et les saupoudrer de farine. 
+    Laisser reposer 20 min (de préférence).
+    Faire cuire les galettes dans l'huile d'olive à la poêle jusqu'à ce qu'elles soient légèrement dorées.
+    Couper les oignons en fines rondelles et le concombre en petits morceaux.
+    Mélanger le yaourt, le sel, le miel, le poivre, l'huile de noix et le vinaigre à part.
+    Verser les rondelles d'oignon et les morceaux de concombre sur ou à côté des galettes, et arroser le tout de la sauce.
+    A faire de préférence avec la sauce, le concombre, les oignons et les noix !
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11503">
+  <titre>Purée verte</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>pommes de terre</p>
+    <p>cresson</p>
+    <p>lait</p>
+    <p>noix de beurre</p>
+    <p>1 jaune d'oeuf</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pommes de terre.
+    Pendant ce temps, mixer du cresson avec du lait, la noix de beurre, le jaune d'oeuf, le sel, le poivre et la muscade.Égoutter les pommes de terre et en faire une purée avec la préparation.
+    Servir avec du poisson et une tomate grillée.Les enfants adorent ! blanc
+  ]]>
+  </preparation>
+</recette>

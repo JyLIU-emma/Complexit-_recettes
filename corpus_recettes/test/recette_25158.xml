@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25158">
+  <titre>Flammenküche aux fruits</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>900 g de fruits frais au choix : pommes, poires, bananes, ananas</p>
+    <p>1 pâte à pizza</p>
+    <p>150 g de crème fraîche</p>
+    <p>150 g de fromage blanc à 40 % de matière grasse</p>
+    <p>2 cuillères à café de rhum</p>
+    <p>4 cuillères à soupe de cassonade</p>
+    <p>50 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etalez la pâte à pizza sur la plaque du four. 
+    Epluchez les fruits, coupez-les en fines tranches ou en rondelles (pour les bananes). 
+    Dans une poêle, faites revenir les fruits dans le beurre, le rhum et la cassonade. 
+    Laissez cuire à feu doux, jusqu'à ce que les fruits soient bien tendres : environ 15 min pour les pommes, 10 min pour les poires, un peu moins pour les autres fruits. 
+    Mélangez la crème avec le fromage blanc, puis étalez ce mélange sur la pâte à pizza. 
+    Répartir les fruits sur la pâte; éventuellement, saupoudrez de cannelle ou de pépites de chocolat. 
+    Enfournez environ 35 min à 180°C (th 6). 
+    Et servez tiède !
+    Cette flammenkücke est un dessert très agréable qui permet de renouveller la traditionnelle tarte aux fruits. En plus elle témoigne du fait que la pâte à pizza est parfaite dans les desserts !Bien sûr vous pouvez inventez des variantes à cette recette...
+  ]]>
+  </preparation>
+</recette>

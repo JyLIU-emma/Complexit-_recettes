@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21246">
+  <titre>Pain de poisson (au thon)</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>120 g de farine</p>
+    <p>1 sachet de levure chimique</p>
+    <p>3 oeufs</p>
+    <p>1 boîte de thon</p>
+    <p>1 boîte de concentré de tomates</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 175/180°C 1 0 mn environ. 
+    Mélanger la farine et la levure, ajouter les oeufs, le thon non égoutté et le concentré de tomates avec un fouet (très important). 
+    Beurrer un moule à cake. 
+    Y déposer la préparation et faire cuire pendant 25 mn. 
+    Servir frais avec une mayonnaise (maison).
+    c'est très facile à faire et c'est très bon vin d'alsace
+  ]]>
+  </preparation>
+</recette>

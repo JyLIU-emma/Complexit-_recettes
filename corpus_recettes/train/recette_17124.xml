@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17124">
+  <titre>Gâteau sans oeuf à l'orange et au kiwi</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de farine</p>
+    <p>120 g de sucre</p>
+    <p>120 ml de lait</p>
+    <p>1/2 sachet de levure</p>
+    <p>1 orange</p>
+    <p>1 kiwi</p>
+    <p>1/2 cuillère à café de cannelle</p>
+    <p>10 g de beurre pour le moule</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C pendant 10 mn.
+    Dans une terrine, mélanger la farine, le sucre,le lait,la levure chimique et la cannelle et mélanger soigneusement.
+    Peler et couper l'orange et le kiwi en petits morceaux, les ajouter à la préparation.
+    Graisser un moule à cake avec le beurre. Verser la préparation dans le moule à cake.
+    Cuire au four 180°C pendant 35 à 40 minutes, sans ouvrir la porte du four.
+    Démouler et déguster tiède ou froid.
+  ]]>
+  </preparation>
+</recette>

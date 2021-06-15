@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13491">
+  <titre>Côtes de porc au café</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 côtes de porc</p>
+    <p>2 cuillères à soupe de beurre</p>
+    <p>10 grains de café</p>
+    <p>6 cl de bouillon de volaille</p>
+    <p>10 cl de café</p>
+    <p>3 pincées de sucre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre jusqu'à ce qu'il soit couleur noisette.
+    Ajouter les côtes de porc préalablement salées et poivrées.
+    Faire cuire 6 mn de chaque côté. Mettre les côtes de côté sur une assiette retournée pour garder le jus.
+    Augmenter la température et ajouter les grains de café et le bouillon. Faire réduire, puis ajouter le café et le sucre. Faire réduire.
+    Eteindre le feu et remettre les côtes.
+    Verser le jus de l'assiette sur les côtes, puis servir immédiatement.
+  ]]>
+  </preparation>
+</recette>

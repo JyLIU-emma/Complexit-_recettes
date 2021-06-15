@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20040">
+  <titre>Pommes de terre sautées à la lyonnaise</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de pommes de terre</p>
+    <p>4 oignons moyens</p>
+    <p>100 g de beurre</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>sel, poivre, muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pommes de terre entières à l'eau.
+    Egoutter, peler et les couper en tranches régulières.
+    Peler et hacher les oignons, les faire dorer dans 50 g de beurre et une cuillère à soupe d'huile.
+    Dans une autre poêle, faire sauter les pommes de terre avec le reste du beurre. Ajouter les oignons dorés, du sel, du poivre, de la muscade, couvrir et laisser mijoter 15 min environ.
+  ]]>
+  </preparation>
+</recette>

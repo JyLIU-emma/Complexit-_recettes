@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23041">
+  <titre>Poulet pané à la sauce moutarde</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet de 1,8 kg</p>
+    <p>100 g pain de mie sec</p>
+    <p>100 g de beurre</p>
+    <p>2 cuillères à soupe de moutarde </p>
+    <p>4 filets d'anchois à l'huile</p>
+    <p>4 jaunes d'œufs durs</p>
+    <p>10 cl d'huile d'olive</p>
+    <p>3 cuillère à soupe de vinaigre</p>
+    <p>1 cuillère à soupe de persil </p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper les ailerons et les cuisses du poulet. Embrocher le poulet sur deux brochettes en X pour le maintenir à plat. Faire cuire au barbecue pendant 20 min sur les deux faces, en le badigeonnant régulièrement d'un peu de beurre.
+    Écraser le pain de mie sec et assaisonner. Rouler le poulet dans la chapelure et continuer à le faire cuire pendant 30 min, en le retournant de temps en temps et en le badigeonnant de beurre.
+    Dans un bol, mélanger les filets d'anchois pilés et les jaunes d’œufs. Ajouter la moutarde, l'huile d'olive et le vinaigre. Saupoudrer de persil ciselé et mélanger.
+    Servir le poulet avec la sauce à part.
+  ]]>
+  </preparation>
+</recette>

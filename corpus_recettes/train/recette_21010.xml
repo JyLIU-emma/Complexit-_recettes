@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21010">
+  <titre>Caviar de courgettes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de courgettes</p>
+    <p>1 boîte de tomates en dés</p>
+    <p>1 gros oignon</p>
+    <p>50 g de farine</p>
+    <p>1/4 de litre de lait</p>
+    <p>2 cuillères d'huile d'olive</p>
+    <p>ail</p>
+    <p>sel</p>
+    <p>piment fort</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les courgettes dans de l'eau légèrement salée. 
+    Dès qu'elles sont cuites, les égoutter. 
+    Faire revenir un oignon avec l'huile d'olive dans une sauteuse, en évitant la coloration de l'oignon. Quand l'oignon est translucide, ajouter les tomates en dés et les courgettes. 
+    Faire revenir pendant une dizaine de minutes à feu vif, ajouter ensuite la farine et le lait froid. 
+    Tout en remuant énergiquement, écraser avec une cuillère en bois tous les ingrédient dans la sauteuse jusqu'à obtenir un appareil ni trop liquide ni trop compact.
+    Manger chaud, tiède ou froid avec des toasts, ou accompagné d'une salade ou d'une viande blanche. Rosé de Provence
+  ]]>
+  </preparation>
+</recette>

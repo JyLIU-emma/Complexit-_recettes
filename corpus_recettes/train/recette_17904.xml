@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17904">
+  <titre>Gâteau de thon aux asperges</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boîte moyenne d'asperges</p>
+    <p>1 boîte moyenne de thon</p>
+    <p>3 gros oeufs</p>
+    <p>1 boîte de lait concentré non sucré</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un robot, mixer les asperges avec le thon. Ajouter les oeufs battus en omelette, puis le lait concentré non sucré. Salez et poivrer.
+    Mettre dans un moule à manquer au four thermostat 6 (180°C) pendant 20 min.
+    Servir très frais.
+    On peut recouvrir le gâteau démoulé de mayonnaise.
+  ]]>
+  </preparation>
+</recette>

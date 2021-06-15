@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27214">
+  <titre>Fondant aux blancs d'oeufs</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de farine</p>
+    <p>7 blancs d'oeufs</p>
+    <p>220 g de sucre</p>
+    <p>125 g de beurre</p>
+    <p>2 sachets de sucre vanillé</p>
+    <p>1 sachet de levure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Battre les blancs en neige très fermes. 
+    2) Y mélanger doucement le beurre fondu, les sucres et la farine. 
+    3) Terminer en mettant la levure. 
+    4) Cuire à four chaud (180°C) dans un moule à manqué beurré pendant 30 mn environ.
+    Ce gâteau est idéal quand il reste des blancs d'oeufs dont on ne sait que faire. Ca change des meringues !
+  ]]>
+  </preparation>
+</recette>

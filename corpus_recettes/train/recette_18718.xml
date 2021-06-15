@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18718">
+  <titre>Tarte riz et pommes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de riz blanc</p>
+    <p>6 dl de lait demi-écrémé</p>
+    <p>4 sachets de sucre vanillé (ou 2 cuillères à soupe bombées) </p>
+    <p>2 pommes</p>
+    <p>50 g de sucre en poudre</p>
+    <p>2 oeufs</p>
+    <p>facultatif: une pâte sablée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre dans une casserole le lait, le riz, les pommes (épluchées et coupées en dés) et le sucre vanillé... Laisser 10-15 mn à frémissement pour que le lait soit absorbé et le riz tendre. 
+    Hors du feu ajouter les oeufs et le sucre, bien mélanger. 
+    Préchauffer le four à 180°C (Th 6). 
+    Verser la préparation dans un moule à tarte en porcelaine beurré (sur la pâte si vous en mettez) et enfourner 20 mn toujours à 180°C.
+  ]]>
+  </preparation>
+</recette>

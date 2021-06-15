@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20210">
+  <titre>Foie gras mi-cuit simple</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de foie gras de canard cru</p>
+    <p>5 g de sucre</p>
+    <p>8 g de sel</p>
+    <p>1 g de poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La prépartion suivante est à effectuer au minimum 12h avant la cuisson du foie gras (24h c'est mieux). 
+    Dans un premier temps il faut dénerver le fois gras : l'astuce consiste à sortir le foie gras du frigo au moins 2 heures avant de le dénerver. Ensuite on part des nerfs centraux puis on va vers les nerfs plus petits. 
+    Quand le foie est dénervé, on l'assaisonne avec le mélange sucre, sel et poivre (une astuce pour peser des doses aussi minuscules, n'hésitez pas à peser le double de ce que vous avez besoin puis pesez la moitié du mélange obtenu). 
+    Ensuite, emballez le foie dans du papier film et mettez le au frigo pendant au moins 12h. 
+    Au moment de le cuire, mettez le foie dans un moule (par exemple un bocal à confiture ou un moule à cake si vous faîtes 1 kg de foie) et tassez de façon à ce qu'il n'y aie pas de trou. 
+    Ensuite le faire cuire 30 mn au bain-marie, dans le four à 100°C. 
+    Moi j'ai mis l'eau du bain-marie à 80°C. 
+    Bon appétit.
+    - On peut remplacer le sucre par  du vin moelleux mais je n'ai pas les mesures.
+    quel que soit le moule utlisé, il faut que la haut du moule soit au moins aussi large que le bas du moule. De cette façon le démoulage du foie ne pose pas de pb.
+    si on n'aime le foie un peu plus cuit, on le fait cuire un peu plus longtemps. Blanc moelleux (Sauternes)
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19484">
+  <titre>Gâteau de gorgonzola</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de pommes de terre</p>
+    <p>250 g de Gorgonzola</p>
+    <p>100 g de beurre + 15 g pour le moule</p>
+    <p>25 cl de lait</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les pommes de terre et les cuire à l'eau bouillante salée. Les égoutter puis les mixer en purée en ajoutant le lait, un verre d'eau et 50 g de beurre. Saler et poivrer. 
+    Beurrer un plat à gratin, puis étaler la moitié de la purée. Ajouter le Gorgonzola coupé en morceaux et recouvrir de la purée restante. Parsemer du reste de beurre. 
+    Faire gratiner environ 20 mn à four 180°C (Th 6).
+    Pour aller plus vite, on peut utiliser de la purée en sachet.
+    En plat principal, servir avec une salade. En accompagnement, servir avec des biftecks.
+  ]]>
+  </preparation>
+</recette>

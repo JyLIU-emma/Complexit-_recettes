@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24904">
+  <titre>Soupe auvergnate au chou</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 chou vert</p>
+    <p>2 petits oignons</p>
+    <p>2 clous de girofle</p>
+    <p>4 pommes de terre</p>
+    <p>130 g de lard fumé en tranches</p>
+    <p>4 tranches de pain rassis</p>
+    <p>130 g de cantal</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Blanchir le chou 5 min à l'eau bouillante.
+    Egoutter, le coupez en quartiers et le remettre dans une marmite avec les oignons piqués de clous de girofle.
+    Verser 2,5 l d'eau, saler et poivrer et laisser mijoter 1 h.
+    Ajouter les pommes de terre pelées, prolonger la cuisson de 30 min.
+    Dorer le lard à la poêle.
+    Dans chaque assiette, déposer 1 tranche de pain, 1 tranche de lard et quelques lamelles de cantal. Verser la soupe bien chaude par-dessus.
+  ]]>
+  </preparation>
+</recette>

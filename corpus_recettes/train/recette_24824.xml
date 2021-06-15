@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24824">
+  <titre>Duo de Pâtisson et de Saumon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâtisson</p>
+    <p>2 pavés de saumon</p>
+    <p>1 cuillère à soupe de poivre vert en grains</p>
+    <p>3-4 cuillères à soupe de crème fraîche allégée</p>
+    <p>1 cuillère à soupe huile d'olive</p>
+    <p>poivre noir moulu, sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le pâtisson en petits dés (1 cm3 environ) et le saumon en cubes légèrement plus gros. 
+    Faire revenir le pâtisson à l'huile d'olive, avec le poivre vert, pendant 5 à 10 mn, à feu assez vif pour qu'il dore bien. 
+    Dans un coin de la poêle, ajouter le saumon salé et poivré, attendre qu'il devienne rose pâle, puis le mélanger au pâtisson, et continuer la cuisson pendant 5 mn. 
+    Baisser le feu, ajouter la crème fraîche et laisser cuire 3 mn en mélangeant pour qu'une sauce se forme. 
+    Servir sur un lit de riz.
+    Il est possible de remplacer le pâtisson par de la courgette ou toutes sortes de courges du jardin. vin blanc sec
+  ]]>
+  </preparation>
+</recette>

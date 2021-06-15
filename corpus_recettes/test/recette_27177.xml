@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27177">
+  <titre>Aubergines au pesto</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>2 aubergines</p>
+    <p>2 grosses tomates</p>
+    <p>2 boules de mozzarella</p>
+    <p>8 tranches de jambon cuit (coppa) </p>
+    <p>un sachet de parmesan en poudre</p>
+    <p>un bouquet de basilic frais (ou du pesto préparé) </p>
+    <p>quelques pignons de pin</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les aubergines en deux, dans le sens de la longueur. Les placer dans un plat avec bords, et les strier avec une fourchette. Verser un peu d'huile d'olive dans les sillons, et ajouter des tranches de tomates sur toute la longueur des aubergines. 
+    Mettre au four à température douce (150°C). Les aubergines doivent en sortir relativement fondantes. 
+    Pendant ce temps, préparer le pesto : mixer le bouquet de basilic, un peu d'huile d'olive, le parmesan et les pignons de pin. 
+    Lorsque les aubergines sont fondantes, rajouter des tranches de mozzarella sur les tomates, deux tranches de jambon par aubergine, et étaler le pesto sur le tout. 
+    Faire cuire jusqu'à ce que la mozzarella ait fondu. Sortir les aubergines et servir bien chaud.
+  ]]>
+  </preparation>
+</recette>

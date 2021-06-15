@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26570">
+  <titre>Riz grillé aux merguez et bananes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de riz</p>
+    <p>8 merguez</p>
+    <p>4 bananes</p>
+    <p>100 g de raisins secs</p>
+    <p>2 oignons</p>
+    <p>10 cl d'huile</p>
+    <p>1/2 cuillerée à café de cannelle</p>
+    <p>1 dose de safran</p>
+    <p>1 pincée de gingembre</p>
+    <p>poivre, sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites tremper les raisins dans de l'eau tiède.
+    Pelez et émincez les oignons.
+    Découpez les bananes en tronçons.
+    Rincez le riz plusieurs fois à l'eau fraîche.
+    Faites-le cuire avec 2 fois son volume d'eau bouillante salée.
+    Faites chauffer l'huile dans une sauteuse, faites-y blondir les oignons puis ajoutez les bananes.
+    Laissez dorer puis retirez-les de la casserole ainsi que les oignons.
+    Egouttez bien le riz.
+    Faites-le revenir dans la sauteuse où sont revenus les oignons et bananes.
+    Remuez bien et ajoutez les raisins égouttés, la cannelle, le safran, le gingembre et le poivre.
+    Salez et remuez, laissez chauffer à feu vif.
+    Versez le tout dans un plat allant au four, répartissez les bananes aux oignons et les merguez piquées à la fourchette sur le tout.
+    Faites cuire sous le grill chaud environ 15 minutes (retournez les merguez à mi-cuisson) et servez.
+  ]]>
+  </preparation>
+</recette>

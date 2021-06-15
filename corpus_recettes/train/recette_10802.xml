@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10802">
+  <titre>Pain au tofu</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de tofu ferme (nature ou aux fines herbes)</p>
+    <p>60 ml de graines de tournesol (4 cuillères à soupe)</p>
+    <p>30 ml de graines de sésame (2 cuillères à soupe)</p>
+    <p>60 ml de purée de tomates (ou 156 ml de pâte tomate)</p>
+    <p>125 ml de mozzarella partiellement écrémée (1/2 tasse)</p>
+    <p>4 cuillères à soupe de Parmesan (ou de Romano râpé)</p>
+    <p>250 ml de flocons d'avoine</p>
+    <p>2 oeufs</p>
+    <p>1 gousse d'ail émincé</p>
+    <p>½ cuillère à thé d'estragon séché</p>
+    <p>½ cuillère à thé de marjolaine séchée</p>
+    <p>½ cuillère à thé de thym séché</p>
+    <p>sel et poivre au goût</p>
+    <p>4 gouttes de Tabasco</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Passer tous les ingrédients ensemble au mixer ou au robot culinaire.
+    Huiler légèrement un moule à pain. Y verser la mélange. Servir avec une sauce tomate. Cuire à 350°F (180°C ou thermostat 6) de 35 à 40 min.
+  ]]>
+  </preparation>
+</recette>

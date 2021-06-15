@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164895">
+  <titre>Compotée d'endives confites</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 belles endives</p>
+    <p>1 sachet de gelée</p>
+    <p>1 cuillère à soupe de cognac</p>
+    <p>1/2 pot de compote d'ananas</p>
+    <p>1 grand pot de sauce pimenté à la citronnelle (SUZI WAN)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Découper les endives en petits tronçons
+    2) Pendant ce temps mettre à bouillir 50 cl d'eau mélangée au cognac et 1/2 sachet de gelée
+    3) A ébullition, diminuer la cuisson et incorporer les mini tronçons d'endives, la sauce à la citronnelle et la compte d'ananas
+    4) Retirer du feu lorsqueles endives sont confites et suffisamment cuites
+    5) Mettre au réfrigérateur pendant environ 2 heuresCe plat peut se manger chaud pour accompagner une viande (par exemple des magrets ou aiguillettes de canard) ou froid dans une petite verrine ou une feuille d'endives. Bonne dégustation Moelleux 
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  1 ) <OPER id="o_1">Découper</OPER> les <INGRED id="1">endives</INGRED> en <INGRED id="3">petits</INGRED> tronçons 2 ) Pendant ce temps <OPER id="o_2">mettre</OPER> à <OPER id="o_3">bouillir</OPER> 50 cl d'eau mélangée au <INGRED id="3">cognac</INGRED> et 1/2 sachet de <INGRED id="2">gelée</INGRED> 3 ) A ébullition, <OPER id="o_4">diminuer</OPER> la cuisson et <OPER id="o_5">incorporer</OPER> les mini tronçons d'<INGRED id="1">endives</INGRED>, la <INGRED id="4">sauce</INGRED> à la citronnelle et la compte d'<INGRED id="2">ananas</INGRED> 4 ) <OPER id="o_6">Retirer</OPER> du feu lorsqueles <INGRED id="1">endives</INGRED> sont confites et suffisamment cuites 5 ) <OPER id="o_7">Mettre</OPER> au réfrigérateur pendant environ 2 heuresCe plat peut se <OPER id="o_8">manger</OPER> chaud pour accompagner une <INGRED id="1">viande</INGRED> ( par exemple des magrets ou aiguillettes de canard ) ou froid dans une <INGRED id="2">petite</INGRED> verrine ou une feuille d'<INGRED id="1">endives</INGRED>. Bonne dégustation Moelleux
+  </annotation>
+  <annotation methode="crf">
+  1 ) Découper les <INGRED>endives</INGRED> en <INGRED>petits</INGRED> tronçons 2 ) Pendant ce temps mettre à bouillir 50 cl d'<INGRED>eau</INGRED> mélangée au <INGRED>cognac</INGRED> et <INGRED>1/2</INGRED> sachet de <INGRED>gelée</INGRED> 3 ) A ébullition <INGRED>,</INGRED> diminuer la cuisson et incorporer les <INGRED>mini</INGRED> tronçons d'endives <INGRED>,</INGRED> la <INGRED>sauce</INGRED> à la citronnelle et la compte d'ananas 4 ) Retirer du feu lorsqueles endives sont confites et suffisamment cuites 5 ) Mettre au réfrigérateur pendant <INGRED>environ</INGRED> 2 heuresCe plat peut se manger chaud pour accompagner une <INGRED>viande</INGRED> ( par exemple des magrets <INGRED>ou</INGRED> aiguillettes de <INGRED>canard</INGRED> ) <INGRED>ou</INGRED> froid dans une <INGRED>petite</INGRED> verrine <INGRED>ou</INGRED> une feuille d'<INGRED>endives</INGRED> <INGRED>.</INGRED> Bonne dégustation Moelleux
+  </annotation>
+  <complexite>
+    <temps>f(X) = 21.6*X + 2.4</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 9*X + 5</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['endives']	 id:1	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['gelée']	 id:2	 quantité:1	 unité:sachet de	 denombrable:True	 recipient:1*X
+ingredient:['cognac']	 id:3	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:["compote d'ananas", 'compote']	 id:4	 quantité:1/2	 unité:pot de	 denombrable:False	 recipient:1
+ingredient:['sauce pimenté à la citronnelle', 'sauce']	 id:5	 quantité:1	 unité:pot de	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:découper	 id:o_1	 ingrédients_ralatifs:['1', '3', '3', '2', '1', '4', '2']	 nombre_opération_atomique:6*X+1*X+1*X+1*X+6*X+1+1*X	 temps:6*X*1+1*X*1+1*X*1+1*X*1+6*X*1+1*X*1+1*X*1	 recipient:1
+operation:mettre	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:bouillir	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:diminuer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_5	 ingrédients_ralatifs:['1', '4', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_6	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_7	 ingrédients_ralatifs:['1', '2', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:manger	 id:o_8	 ingrédients_ralatifs:['1', '2', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

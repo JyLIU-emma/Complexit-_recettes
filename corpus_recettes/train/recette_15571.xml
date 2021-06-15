@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15571">
+  <titre>Flan de courgettes au saumon fumé et ciboulette</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de courgettes</p>
+    <p>3 oeufs</p>
+    <p>4 tranches de saumon fumé</p>
+    <p>1 verre de lait</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les courgettes en cubes à la vapeur.
+    Les écraser pour obtenir une purée. Ajouter 3 oeufs, saler et poivrer.
+    Dans un plat à cake (ou couronne) beurré, mettre une couche de préparation, puis mettre les tranches de saumon et le restant de la préparation.
+    Cuire 35 min à 160°C (thermostat 5*6).Servir froid accompagné d'une sauceau yaourt fjord et de la ciboulette.
+  ]]>
+  </preparation>
+</recette>

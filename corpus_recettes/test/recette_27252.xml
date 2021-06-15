@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27252">
+  <titre>Pâtes au thon et au vin blanc</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de pâtes</p>
+    <p>300 g de thon à l'huile</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>4 cuillères à soupe d'huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les pâtes "al dente", c'est-à-dire encore légèrement fermes.
+    Faire revenir le thon émietté avec son huile et l'huile d'olive dans une poêle.
+    Verser le vin blanc et laisser mijoter à feu doux.
+    Lorsque les pâtes sont cuites, les égoutter et les mettre dans la sauce.
+    Laisser réchauffer quelques minutes puis servir.
+  ]]>
+  </preparation>
+</recette>

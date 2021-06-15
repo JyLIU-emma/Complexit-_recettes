@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="3371">
+  <titre>Carré frais d'avocat</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 avocats</p>
+    <p>crevettes fraîches</p>
+    <p>8 portion de Carré Frais</p>
+    <p>1 citron</p>
+    <p>1 sauce au yaourt et fines herbes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les avocats en 2. 
+    Confectionner des boules avec la chair d'avocat (avec le même ustensile que pour les boules de melon). 
+    Citronner les boules. 
+    Couper les Carrés Frais en petits cubes. 
+    Mettre le tout dans des coupes à glace. Décorer avec les crevettes fraîches. 
+    Et déguster avec la sauce au yaourt et fines herbes, c'est délicieux!
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Couper</OPER> les <INGRED id="1">avocats</INGRED> en 2. <OPER id="o_2">Confectionner</OPER> des boules avec la chair d'avocat ( avec le même ustensile que pour les boules de melon ). <OPER id="o_3">Citronner</OPER> les boules. <OPER id="o_4">Couper</OPER> les <INGRED id="1">Carrés Frais</INGRED> en petits cubes. <OPER id="o_5">Mettre</OPER> le tout dans des coupes à glace. <OPER id="o_6">Décorer</OPER> avec les <INGRED id="2">crevettes fraîches</INGRED>. Et déguster avec la <INGRED id="5">sauce au yaourt</INGRED> et fines <INGRED id="6">herbes</INGRED>, c'est délicieux !
+  </annotation>
+  <annotation methode="crf">
+  Couper les <INGRED>avocats</INGRED> en 2. Confectionner des <INGRED>boules</INGRED> avec la <INGRED>chair</INGRED> d'avocat ( avec le même ustensile que pour les <INGRED>boules</INGRED> de <INGRED>melon</INGRED> ). Citronner les <INGRED>boules</INGRED> <INGRED>.</INGRED> Couper les <INGRED>Carrés Frais</INGRED> en <INGRED>petits</INGRED> cubes <INGRED>.</INGRED> Mettre le tout dans des coupes à glace. Décorer avec les <INGRED>crevettes fraîches</INGRED> <INGRED>.</INGRED> Et déguster avec la <INGRED>sauce</INGRED> au <INGRED>yaourt</INGRED> et <INGRED>fines</INGRED> <INGRED>herbes</INGRED> <INGRED>,</INGRED> c'est délicieux !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 5.14285714285714*X + 0.857142857142857</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 12*X + 5</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['avocats']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['crevettes fraîches', 'crevettes']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['Carré Frais', 'Carré']	 id:3	 quantité:8	 unité:portion de	 denombrable:True	 recipient:8*X
+ingredient:['citron']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sauce au yaourt', 'sauce']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['herbes']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:couper	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:2*X*1	 recipient:1
+operation:confectionner	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:citronner	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_4	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:2*X*1	 recipient:1
+operation:mettre	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:décorer	 id:o_6	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24423">
+  <titre>POTAGE GLACÉ AU FENOUIL</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 bulbes de fenouil</p>
+    <p>1/2 litre de bouillon de volaille dégraissé ou bouillon de légumes</p>
+    <p>1 yaourt velouté maigre</p>
+    <p>1 cuillère à soupe d'huile d olive</p>
+    <p>1 cuillère à soupe de jus de citron</p>
+    <p>1 cuillère à soupe d'aneth (ciselée) </p>
+    <p>1 cuillère à soupe de menthe (ciselée) </p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les fenouils et séparer les feuilles. 
+    Chauffer le bouillon de volaille et cuire les fenouils jusqu'à ce qu'ils soient tendres (environ 10 mn). 
+    Poivrer, laisser refroidir. 
+    Mixer le fenouil avec le bouillon pour obtenir un potage lisse. 
+    Ajouter le yaourt, l'huile d'olive et le jus de citron. Mixer le tout. 
+    Verser le potage dans une soupière et parsemer des herbes ciselées. 
+    Servir très frais.
+    Recette légère, rapide à préparer et très rafraîchissante. Essayez-là, c'est très velouté et parfumé. Vous m'en direz des nouvelles !
+  ]]>
+  </preparation>
+</recette>

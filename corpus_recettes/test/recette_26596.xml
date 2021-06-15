@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26596">
+  <titre>Casse-dents</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 oeufs</p>
+    <p>180 g de sucre</p>
+    <p>180 g de farine</p>
+    <p>100 g de noix concassées</p>
+    <p>1 cuillère à soupe de rhum</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les ingrédients dans un saladier. 
+    Huiler un plat (type plat à gratin) à l'aide d'un papier absorbant. 
+    Verser la préparation dans le plat, mettre 20 mn dans un four préchauffé à 210°C . 
+    Démoulez et coupez en carrés, peut se manger encore tiède mais c'est meilleur froid. 
+    Se conserve quelques jours dans un récipient hermétique...
+    On sait pas pourquoi ce nom de 'casse-dents' car c'est pas justifié...
+    Facile à faire même avec des enfants, et c'est vite fait.
+  ]]>
+  </preparation>
+</recette>

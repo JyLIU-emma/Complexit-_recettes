@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20968">
+  <titre>Mousse au café</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>60 g de sucre en poudre</p>
+    <p>1 cuillère à soupe d'extrait de café</p>
+    <p>3 oeufs</p>
+    <p>15 cl de crème fraîche liquide entière</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Fouettez les jaunes d'oeufs avec le sucre jusqu'à ce que le mélange blanchisse. Versez la crème fraîche, portez sur le feu et faites cuire doucement sans faire bouillir.
+    Quand la crème a bien épaissi, retirez du feu et mettez-la dans un saladier. Versez y l'extrait de café et fouettez.
+    Battez les blancs en neige pour qu'ils soient très ferme et mélangez-les doucement à la crème.
+    Réfrigérer le mélange pendant 4 h dans un grand récipient ou partagé dans des coupes individuelles.
+  ]]>
+  </preparation>
+</recette>

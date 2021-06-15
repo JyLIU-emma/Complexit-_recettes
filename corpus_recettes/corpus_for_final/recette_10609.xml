@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10609">
+  <titre>Calamars farcis au carré frais</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 gros calamars (Prêts à l'emploi, demandez à votre poissonnier)</p>
+    <p>6 carrés frais</p>
+    <p>100 g de riz rond</p>
+    <p>3 tomates</p>
+    <p>1 oignon</p>
+    <p>2 goussses d'ail</p>
+    <p>1 feuille de laurier</p>
+    <p>sel, poivre</p>
+    <p>origan</p>
+    <p>1 cube de bouillon de poule</p>
+    <p>huile d'olive</p>
+    <p>jus de citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire le riz rond dans un bouillon de poule, puis réservez-le.
+    Pelez les tomates, épépinez-les et mixez-les avec les carrés frais.
+    Faites revenir l'oignon et l'ail dans l'huile d'olive.
+    Rajoutez-les au mélange tomates-carrés frais et enfin mélangez avec le riz cuit, salez, poivrez à votre goût.
+    Farcissez chaque calamar généreusement et fermez avec des cure-dents.
+    Mettez dans un plat à four, nappez d'huile d'olive et saupoudrez d'origan. Ajoutez 1/2 tasse d'eau et couvrez de papier aluminium. Enfournez 50 min dans four préchauffé à 180°C (thermostat 6).
+    Dégustez avec du jus de citron.
+  ]]>
+  </preparation>
+</recette>

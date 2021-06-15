@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13392">
+  <titre>Soufflé de foies de volailles</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de foies de volailles</p>
+    <p>1/2 litre de béchamel</p>
+    <p>4 oeufs</p>
+    <p>1 gousse d'ail + 1 bouquet de persil</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les foies puis les hacher avec l'ail et le persil.
+    Séparer les blancs des jaunes d'oeufs. 
+    Ajouter à la béchamel le hachis de foies et les jaunes d'oeufs.
+    Battre les blancs en neige. Les incorporer.
+    Bien poivrer et saler.
+    Mettre à four chaud pendant une 1/2 heure, en surveillant la coloration.
+    Servir avec une sauce tomate à part.
+  ]]>
+  </preparation>
+</recette>

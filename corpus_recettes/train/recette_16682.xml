@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16682">
+  <titre>Tarte frangipane au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 poires bien mûres</p>
+    <p>100 g de chocolat à dessert</p>
+    <p>1 pâte feuilletée toute prête</p>
+    <p>2 oeufs </p>
+    <p>100 g de beurre mou</p>
+    <p>125 g de poudre d'amande</p>
+    <p>125 g de sucre fin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à température moyenne. Dans un saladier, mélanger le beurre mou, la poudre d'amande et le sucre jusqu'à l'obtention d'un mélange lisse.
+    Ajouter les 2 oeufs préalablement battus, puis bien mélanger.
+    Dérouler la pâte dans un moule à tarte en conservant la feuille de cuisson. La piquer sur les bords et le fond à l'aide d'une fourchette.
+    Laver et peler les poires. Les couper en deux et les épépiner.
+    Faire fondre le chocolat au bain-marie puis napper le fond de tarte. Verser la préparation à l'amande dessus et disposer les poires.
+    Faire cuire votre tarte 30 mn environ.
+    Variante : remplacer la poudre d'amande par dela noix de coco râpée.
+  ]]>
+  </preparation>
+</recette>

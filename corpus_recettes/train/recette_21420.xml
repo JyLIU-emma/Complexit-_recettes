@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21420">
+  <titre>Potage haricots mange-tout persil</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de haricots mange-tout</p>
+    <p>500 g de pommes de terre</p>
+    <p>2 oignons</p>
+    <p>1 bouquet de persil</p>
+    <p>1 grosse noix de beurre</p>
+    <p>1 cuillère à café de marjolaine</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites fondre les oignons hachés et le persil dans le beurre. 
+    Ajoutez les haricots mange-tout coupés en morceaux et les pommes de terre coupées en dés.
+    Mouillez de 2 litres d'eau. Assaisonnez de sel, de poivre et de marjolaine.
+    Laissez cuire pendant 1 h 30.
+    Passez la soupe au moulin à légumes puis réchauffez la soupe sur feu doux.
+  ]]>
+  </preparation>
+</recette>

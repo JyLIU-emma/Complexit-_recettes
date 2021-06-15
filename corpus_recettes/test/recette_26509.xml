@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26509">
+  <titre>Tarte méditerranéenne aux légumes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>6 tomates</p>
+    <p>20 filets d'anchois</p>
+    <p>1/2 poivron vert</p>
+    <p>1/2 poivron rouge</p>
+    <p>2 échalotes</p>
+    <p>2 gousses d'ail</p>
+    <p>quelques olives vertes et noires dénoyautées</p>
+    <p>50 g de gruyère en lamelles</p>
+    <p>thym, laurier, marjolaine, romarin</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etalez la pâte dans un moule à tarte, réservez au frais.
+    Pelez et concassez les tomates, hachez les échalotes. Faites-les fondre à feu doux dans une poêle huilée.
+    Détaillez les poivrons en lanières, épépinez-les. 
+    Couvrez la pâte avec les tomates aux échalotes, pressez l'ail et répartissez-le dessus. Saupoudrez des herbes émiettées. Déposez les lanières de poivrons et les filets d'anchois sur le tout. Enfin ajoutez le fromage et les olives.
+    Faites cuire à four à 220°C (thermostat 7-8), pendant 20 minutes. Servez chaud ou froid.
+  ]]>
+  </preparation>
+</recette>

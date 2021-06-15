@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19744">
+  <titre>Aubergines à la Landaise</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 grosses aubergines</p>
+    <p>8 chipolatas</p>
+    <p>4 cuillères à soupe de purée de tomates</p>
+    <p>3 brins de persil</p>
+    <p>4 cuillères à soupe de farine</p>
+    <p>un peu de chapelure</p>
+    <p>4 cuillères à soupe d'huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez les aubergines. Coupez-les en rondelles et passez-les dans la farine. Dans une poêle, faites chauffer l'huile, salez et poivrez. 
+    Mettez-y les aubergines et faites-les cuire jusqu'à ce qu'elles soient bien dorées. Préchauffez le four à Th 7 . 
+    Faites griller les chipolatas. Mettez les aubergines dans plat au four et disposez dessus les chipolatas. 
+    Faites chauffer la purée de tomates et versez-la sur les chipolatas. Parsemez la préparation de chapelure. 
+    Faites gratiner au four.
+  ]]>
+  </preparation>
+</recette>

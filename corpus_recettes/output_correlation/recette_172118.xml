@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172118">
+  <titre>Gnocchis aux trois saveurs</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de pommes de terre</p>
+    <p>2 œufs</p>
+    <p>30 g de beurre fondu</p>
+    <p>300 g de farine</p>
+    <p>80 g de parmesan râpé</p>
+    <p>120 g de double concentré de tomates</p>
+    <p>2 cuillères à soupe de pesto</p>
+    <p>huile d'olive</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pommes de terre à la vapeur. Pendant ce temps, mélanger à la spatule les œufs, le beurre, la farine et 20 g de parmesan.
+    Une fois les pommes de terre cuites, les écraser en purée dans un saladier et saler. Incorporer la purée au mélange œufs, beurre, farine et parmesan toujours avec la spatule. Séparer la pâte obtenue dans trois saladiers. Verser dans le premier le reste de parmesan, dans le deuxième le concentré de tomates et dans le troisième le pesto.Mélanger pour obtenir trois pâtes homogènes. Vérifier les assaisonnements. Former 2 boudins avec chacune des pâtes et les couper en morceaux de 1 à 2 cm. Les rouler en boudin sur une fourchette pour obtenir des rainures. 
+    Déposer les gnocchis sur une plaque et les laisser reposer au réfrigérateur pendant 1h.
+    Pour cuire les gnocchis, les plonger dans un grand volume d'eau bouillante salée. Les retirer à l'aide d'une écumoire dès qu'ils remontent à la surface.
+    Dans une grande poêle, faire chauffer
+    un peu d'huile d'olive et faire griller les gnocchis environ 10 min à feu moyen/doux.A déguster chaud et accompagné de parmesan. 
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">cuire</OPER> les pommes de terre à la vapeur. Pendant ce temps, <OPER id="o_2">mélanger</OPER> à la spatule les <INGRED id="2">œufs</INGRED>, le <INGRED id="7">beurre</INGRED>, la <INGRED id="9">farine</INGRED> et 20 <INGRED id="1">g</INGRED> de <INGRED id="3">parmesan</INGRED>. Une fois les pommes de terre cuites, les <OPER id="o_3">écraser</OPER> en <INGRED id="5">purée</INGRED> dans un <INGRED id="1">saladier</INGRED> et <OPER id="o_4">saler</OPER>. <OPER id="o_5">Incorporer</OPER> la purée au <INGRED id="7">mélange</INGRED> <INGRED id="7">œufs</INGRED>, beurre, farine et <INGRED id="6">parmesan</INGRED> toujours avec la spatule. <OPER id="o_6">Séparer</OPER> la pâte obtenue dans trois saladiers. <OPER id="o_7">Verser</OPER> dans le premier le <INGRED id="1">reste</INGRED> de <INGRED id="5">parmesan</INGRED>, dans le deuxième le <INGRED id="6">concentré</INGRED> de <INGRED id="2">tomates</INGRED> et dans le troisième le <INGRED id="7">pesto</INGRED>. <OPER id="o_8">Mélanger</OPER> pour obtenir trois <INGRED id="2">pâtes</INGRED> homogènes. <OPER id="o_9">Vérifier</OPER> les assaisonnements. Former 2 boudins avec chacune des <INGRED id="2">pâtes</INGRED> et les <OPER id="o_10">couper</OPER> en <INGRED id="1">morceaux</INGRED> de 1 à 2 cm. Les <OPER id="o_11">rouler</OPER> en boudin sur une fourchette pour obtenir des rainures. <OPER id="o_12">Déposer</OPER> les gnocchis sur une plaque et les laisser <OPER id="o_13">reposer</OPER> au réfrigérateur pendant 1h. Pour cuire les gnocchis, les <OPER id="o_14">plonger</OPER> dans un grand volume d'eau bouillante salée. Les <OPER id="o_15">retirer</OPER> à l'aide d'une écumoire dès qu'ils remontent à la surface. Dans une grande poêle, <INGRED id="4">faire</INGRED> <OPER id="o_16">chauffer</OPER> un peu d'huile d'olive et faire <OPER id="o_17">griller</OPER> les gnocchis <INGRED id="1">environ</INGRED> 10 min à feu moyen / doux. A déguster chaud et accompagné de <INGRED id="6">parmesan</INGRED>.
+  </annotation>
+  <annotation methode="crf">
+  Faire cuire les <INGRED>pommes de terre</INGRED> à la vapeur. Pendant ce temps <INGRED>,</INGRED> mélanger à la spatule les <INGRED>œufs</INGRED> <INGRED>,</INGRED> le <INGRED>beurre</INGRED> <INGRED>,</INGRED> la <INGRED>farine</INGRED> et 20 <INGRED>g</INGRED> de <INGRED>parmesan</INGRED>. Une fois les <INGRED>pommes de terre</INGRED> cuites <INGRED>,</INGRED> les écraser en <INGRED>purée</INGRED> dans un saladier et saler <INGRED>.</INGRED> Incorporer la <INGRED>purée</INGRED> au <INGRED>mélange</INGRED> <INGRED>œufs</INGRED> <INGRED>,</INGRED> <INGRED>beurre</INGRED> <INGRED>,</INGRED> <INGRED>farine</INGRED> et <INGRED>parmesan</INGRED> toujours avec la spatule <INGRED>.</INGRED> Séparer la <INGRED>pâte</INGRED> obtenue dans trois saladiers. Verser dans le premier le <INGRED>reste</INGRED> de <INGRED>parmesan</INGRED> <INGRED>,</INGRED> dans le deuxième le <INGRED>concentré de tomates</INGRED> et dans le troisième le pesto. Mélanger pour obtenir trois <INGRED>pâtes</INGRED> homogènes. Vérifier les assaisonnements. Former 2 <INGRED>boudins</INGRED> avec chacune des <INGRED>pâtes</INGRED> et les couper en <INGRED>morceaux</INGRED> de 1 à 2 <INGRED>cm</INGRED> <INGRED>.</INGRED> Les rouler en boudin sur une fourchette pour obtenir des rainures. Déposer les gnocchis sur une plaque et les laisser reposer au réfrigérateur pendant 1h <INGRED>.</INGRED> Pour cuire les gnocchis <INGRED>,</INGRED> les plonger dans un grand <INGRED>volume d'eau</INGRED> bouillante salée. Les retirer à l'aide d'une écumoire dès qu'ils remontent à la surface <INGRED>.</INGRED> Dans une grande poêle <INGRED>,</INGRED> faire chauffer un peu d'<INGRED>huile d'olive</INGRED> et faire griller les gnocchis <INGRED>environ</INGRED> 10 min à feu moyen / doux. A déguster chaud et accompagné de <INGRED>parmesan</INGRED>.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 6.18181818181818*X + 10.8181818181818</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 4*X + 15</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pommes de terre', 'pommes']	 id:1	 quantité:1	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['œufs']	 id:2	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['beurre fondu', 'beurre']	 id:3	 quantité:30	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:4	 quantité:300	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['parmesan râpé', 'parmesan']	 id:5	 quantité:80	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['double concentré de tomates', 'concentré']	 id:6	 quantité:120	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['pesto']	 id:7	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:["huile d'olive", 'huile']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:cuire	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:mélanger	 id:o_2	 ingrédients_ralatifs:['2', '7', '9', '1', '3']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:écraser	 id:o_3	 ingrédients_ralatifs:['5', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_5	 ingrédients_ralatifs:['7', '7', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:séparer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_7	 ingrédients_ralatifs:['1', '5', '6', '2', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_8	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:vérifier	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_10	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1*X	 temps:1*X*1	 recipient:1
+operation:rouler	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déposer	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:reposer	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:plonger	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_16	 ingrédients_ralatifs:['4', '1']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:griller	 id:o_17	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1*X	 temps:1*X*5	 recipient:1
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16456">
+  <titre>Chiche-kebab</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de steak haché</p>
+    <p>200 g d'agneau haché</p>
+    <p>1 gousse ail</p>
+    <p>1 oignon</p>
+    <p>1 citron</p>
+    <p>2 cuillères à soupe d'huile olive</p>
+    <p>1 yaourt type bulgare</p>
+    <p>menthe fraîche</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et hacher très fin ail et oignon. Les mettre dans une jatte avec le jus de citron, le yaourt, l'huile, les viandes hachées, sel et poivre.
+    Laisser mariner 10 minutes puis façonner des boulettes allongées à piquer sur des baguettes en bois.
+    Griller 5 minutes au grill ou au barbecue, en retournant régulièrement.
+    Servir avec la marinade assaisonnée avec la menthe fraîche.
+  ]]>
+  </preparation>
+</recette>

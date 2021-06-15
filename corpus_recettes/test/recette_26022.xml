@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26022">
+  <titre>Asperges à la mayonnaise pimentée</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg d'asperges blanches</p>
+    <p>4 oeufs (2 jaunes d'oeufs durs + 2 jaunes d'oeufs crus)</p>
+    <p>1 cuillère à café de moutarde</p>
+    <p>20 cl d'huile</p>
+    <p>1 cuillère à café de citron</p>
+    <p>1 pincée de piment</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez, pelez et liez soigneusement les asperges en bottillons.
+    Faites les cuire dans une grande quantité d'eau bouillante durant 20 à 30 minutes : les asperges doivent être tendres. Egouttez et déficelez les asperges et laissez refroidir sur un linge afin d'ôter l'excédent d'eau.
+    Pendant ce temps, préparez la sauce : faites cuire des oeufs durs. Dans un mortier, écrasez les jaunes d'oeufs durs. Puis ajoutez les jaunes d'oeufs crus, la moutarde, le sel et le poivre. Versez l'huile très doucement et faites monter au fouet comme pour une mayonnaise. Pour finir, ajoutez le citron et le piment.
+    Servez les asperges avec la sauce à part.
+  ]]>
+  </preparation>
+</recette>

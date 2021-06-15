@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164877">
+  <titre>Cookies américains au beurre de cacahuète</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de beurre de cacahuète</p>
+    <p>100 g de beurre</p>
+    <p>175 g de farine</p>
+    <p>70 g de sucre roux</p>
+    <p>1 oeuf</p>
+    <p>1 cuillère à café de levure</p>
+    <p>quelques bouts d'écorces d'orange</p>
+    <p>raisins secs et pépites de chocolat à volonté</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Sortez du four une plaque de cuisson et sulfurisez-la. Préchauffez le four à 180°C. Pendant ce temps mettez le beurre pendant 10 secondes au micro-ondes pour qu'il ramollisse, versez-le dans un récipient avec le sucre. Ajoutez le beurre de cacahuète, la farine puis l'oeuf. Mélangez bien. La pâte doit être homogène. Avec une cuillère formez de petits tas de pâte sur la plaque, enfoncez-y les raisins secs, les pépites de chocolat et les bouts d'écorces d'orange. Enfournez pour 15 min(cookies moelleux)ou 20 min(cookies croquants). Bon appétit!! Un chocolat chaud
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Sortez</OPER> du four une plaque de cuisson et sulfurisez - la. <OPER id="o_2">Préchauffez</OPER> le four à 180 ° C. Pendant ce temps <OPER id="o_3">mettez</OPER> le <INGRED id="8">beurre</INGRED> pendant 10 secondes au micro-ondes pour qu'il ramollisse, <OPER id="o_4">versez</OPER> - le dans un récipient avec le <INGRED id="4">sucre</INGRED>. <OPER id="o_5">Ajoutez</OPER> le <INGRED id="1">beurre de cacahuète</INGRED>, la <INGRED id="4">farine</INGRED> puis l'<INGRED id="5">oeuf</INGRED>. <OPER id="o_6">Mélangez</OPER> bien. La <INGRED id="1">pâte</INGRED> doit être homogène. Avec une cuillère formez de <INGRED id="3">petits</INGRED> tas de <INGRED id="1">pâte</INGRED> sur la plaque, <OPER id="o_7">enfoncez</OPER> - y les <INGRED id="7">raisins secs</INGRED>, les <INGRED id="9">pépites</INGRED> de <INGRED id="4">chocolat</INGRED> et les <INGRED id="7">bouts d'écorces d'orange</INGRED>. <OPER id="o_8">Enfournez</OPER> pour 15 min(cookies moelleux)ou 20 min(cookies croquants ). Bon appétit ! ! Un <INGRED id="7">chocolat</INGRED> chaud
+  </annotation>
+  <annotation methode="crf">
+  Sortez du four une plaque de cuisson et sulfurisez - la <INGRED>.</INGRED> Préchauffez le four à 180 ° C <INGRED>.</INGRED> Pendant ce temps mettez le <INGRED>beurre</INGRED> pendant 10 secondes au micro-ondes pour qu'il ramollisse <INGRED>,</INGRED> versez - le dans un récipient avec le <INGRED>sucre</INGRED>. Ajoutez le <INGRED>beurre</INGRED> de cacahuète <INGRED>,</INGRED> la <INGRED>farine</INGRED> puis l'<INGRED>oeuf</INGRED> <INGRED>.</INGRED> Mélangez bien <INGRED>.</INGRED> La <INGRED>pâte</INGRED> doit être homogène <INGRED>.</INGRED> Avec une cuillère formez de petits tas de <INGRED>pâte</INGRED> sur la plaque <INGRED>,</INGRED> enfoncez - y les <INGRED>raisins secs</INGRED> <INGRED>,</INGRED> les pépites de <INGRED>chocolat</INGRED> et les bouts d'<INGRED>écorces d'orange</INGRED> <INGRED>.</INGRED> Enfournez pour 15 min(cookies moelleux)ou 20 min(cookies croquants ). Bon appétit ! ! Un <INGRED>chocolat</INGRED> chaud
+  </annotation>
+  <complexite>
+    <temps>f(X) = 1.77777777777778*X + 6.22222222222222</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 2*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['beurre de cacahuète', 'beurre']	 id:1	 quantité:125	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:2	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:3	 quantité:175	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre roux', 'sucre']	 id:4	 quantité:70	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oeuf']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['levure']	 id:6	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+ingredient:["bouts d'écorces d'orange", 'bouts']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['raisins secs', 'raisins']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['pépites de chocolat à volonté', 'pépites']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:sortir	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préchauffer	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:mettre	 id:o_3	 ingrédients_ralatifs:['8', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:verser	 id:o_4	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['1', '4', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:enfoncer	 id:o_7	 ingrédients_ralatifs:['7', '9', '4', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfourner	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

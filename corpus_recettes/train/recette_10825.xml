@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10825">
+  <titre>Kougelhopf marbré au Munster</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la pâte à kougelhopf :</p>
+    <p>1 kg de farine</p>
+    <p>250 g de beurre</p>
+    <p>3 œufs</p>
+    <p>45 cl de lait</p>
+    <p>30 g de levure de boulanger</p>
+    <p>2 cuillères à soupe de sucre</p>
+    <p>Pour la garniture :</p>
+    <p>1 munster</p>
+    <p>300 g de noix</p>
+    <p>1 cuillère à soupe de kirsch ou de crème</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire une pâte à kougelhopf assez ferme. En faire une boule de pâte, puis la rouler sous les mains pour obtenir un boudin de 40 cm environ.
+    Préparer la garniture : émietter finement le munster, ajouter 150 g de noix moulues et 150 g hachées. Poivrer, aromatiser au kirch. Si la farce est trop sèche, ajouter 1 à 2 cuillères de crème.
+    Couper le boudin en tranches. Sur ces tranches, étaler la garniture.
+    Tartiner en appuyant pour enfoncer légèrement dans la pâte. Beurrer le moule à Kougelhopf, garnir les rainures de noix entières. Remplir le moule à mi-hauteur  avec les tranches tartinées. Les disposer en les faisant chevaucher. Tasser les couches en pressant un peu avec les mains. Laisser monter la pâte jusqu’au bord.
+    Cuire à 180/185°C pendant 40 min.
+    Recette typiquement alsacienne. Riesling
+  ]]>
+  </preparation>
+</recette>

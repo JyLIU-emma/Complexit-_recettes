@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13246">
+  <titre>Salade de pissenlits</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de pissenlits verts achetés au marché</p>
+    <p>200 g de lard fumé (à la paysanne de préférence)</p>
+    <p>huile, vinaigre, sel, poivre </p>
+    <p>ail</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Bien laver dans plusieurs eaux les pissenlits dont vous ne coupez que le pieds. Couper le lard en lardons. 
+    Faire rissoler ceux-ci dans une grand poêle. Les tenir au chaud.
+    Préparer la vinaigrette en mélangeant 4 cuillères à soupe d'huile pour 2 et demi de vinaigre, sel (pas trop : attention au lard fumé), poivre et ail finement haché.
+    Variante : rajouter une cuillère de moutarde.
+    Déposer les pissenlits sur cette vinaigrette et jeter dessus les lardons bien chauds !
+     vin gris de Toul ou vin de Moselle
+  ]]>
+  </preparation>
+</recette>

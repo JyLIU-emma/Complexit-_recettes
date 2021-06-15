@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25097">
+  <titre>Consommé de volaille au porto</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 l de bouillon de volaille (en tablettes ou maison)</p>
+    <p>2 petites branches de céleri</p>
+    <p>2 cuillères à soupe de concentré de tomate</p>
+    <p>2 cuillères à soupe de tapioca</p>
+    <p>10 cl de crème fraîche</p>
+    <p>8 cl de porto</p>
+    <p>40 g de beurre</p>
+    <p>1 pincée de poivre de Cayenne</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez et émincez le céleri. Faites-les fondre dans le beurre cahud dans une grande cocotte, pendant une dizaine de minutes.
+    Versez le bouillon dessus. 
+    Délayez le concentré de tomates avec 1 louche de bouillon et reversez dans la marmite en mélangeant bien.
+    Laissez frémir 10 min puis ajoutez le tapioca.
+    Laissez épaissir en remuant pendant 10 min.
+    Mélangez la crème avec le porto, versez dans la soupe et mélangez.
+    Laissez chauffer quelques minutes à feu très doux, ajoutez une pointe de Cayenne et servez bien chaud.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25588">
+  <titre>Penne au thon et au chou-fleur</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de penne rigate</p>
+    <p>1 chou-fleur</p>
+    <p>2 oignons rouges émincés</p>
+    <p>2 gousses d'ail</p>
+    <p>300 g de thon fumé</p>
+    <p>100 g de pignons de pin</p>
+    <p>150 g d'olives vertes</p>
+    <p>basilic</p>
+    <p>parmesan</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le chou-fleur. Le faire cuire 3 mn dans l'eau bouillante. 
+    Faire revenir dans l'huile d'olive l'oignon, l'ail et le thon. Verser 4 cuillères d'eau de cuisson et le chou-fleur et laisser cuire encore 5 mn. 
+    Ajouter les pignons et les olives et laisser encore 5 mn. 
+    Saler, poivrer. Faire cuire les penne al dente et mélanger le tout avec le basilic, le parmesan et un trait d'huile d'olive.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12829">
+  <titre>Farfalle à la sauce de poivrons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de mascarpone</p>
+    <p>250 g de farfalles</p>
+    <p>120 g de poivrons</p>
+    <p>1 oignon</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixez les poivrons avec l'oignon, le mascarpone, le sel et le poivre.
+    Faites cuire les pâtes "al dente" et assaisonnez-les avec la préparation obtenue.
+  ]]>
+  </preparation>
+</recette>

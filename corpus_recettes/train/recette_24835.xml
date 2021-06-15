@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24835">
+  <titre>Croque-monsieur perdu</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tranches de pain de mie large (peut être rassi) </p>
+    <p>2 tranches de jambon</p>
+    <p>150 g d'emmental râpé</p>
+    <p>1 oeuf</p>
+    <p>1/2 verre de lait</p>
+    <p>noix de beurre</p>
+    <p>sel</p>
+    <p>huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Déposez un peu de fromage sur 2 tranches de pain de mie. Recouvrez chaque tranche avec une tranche de jambon pliée en deux, puis étalez le reste de gruyère et fermez les croque-monsieur avec les 2 dernières tranches de pain de mie. 
+    Dans une assiette creuse, battez l'oeuf en omelette et incorporez le lait. Salez et mélangez jusqu'à ce que le mélange soit homogène. 
+    Faites chauffer le beurre et l'huile dans une large poêle. 
+    Trempez chaque face d'un croque dans le mélange en maintenant fermement pour que le fromage et le jambon ne s'échappent pas. Le pain de mie doit être bien imbibé mais pas détrempé. Egouttez et déposez dans la poêle chaude. 
+    Faites de même pour l'autre. 
+    Faites cuire sur chaque face jusqu'à ce qu'elles soit bien dorées (pour les retourner, utilisez de préférence une large spatule et une seconde pour maintenir bien fermé !). 
+    Servez chaud avec une salade par exemple.
+    Vous pouvez varier à volonté le contenu, mais cette technique à la "pain perdu" donne un croque-monsieur fondant et croustillant à la fois. 
+  ]]>
+  </preparation>
+</recette>

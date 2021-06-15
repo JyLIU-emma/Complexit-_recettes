@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26099">
+  <titre>Soupe du berger</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>pain de campagne de la veille coupé en tranches fines</p>
+    <p>50 g de jambon de pays</p>
+    <p>6 oeufs</p>
+    <p>2 poivrons rouges</p>
+    <p>250 g de tomates pelées</p>
+    <p>1 oignon</p>
+    <p>2 gousses d'ail</p>
+    <p>1 litre de bouillon de poulet</p>
+    <p>persil, 1 petit piment, huile d'olive et sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Eplucher oignon et ail, passer au mixer pas trop fin ainsi que le petit piment. 
+    2) Dans une poêle, faire chauffer 2 cuillères à soupe d'huile et faire revenir le mélange, oignon, ail et piment. Ajouter les tomates en morceaux. 
+    3) Pendant ce temps placer les poivrons dans le four pour faire griller leur peau. Peler, enlever les graines et couper en morceaux. 
+    Les ajouter dans la poêle et salez. 
+    4) Passer le tout au presse-purée fin, ajouter le bouillon. 
+    6) dans une soupière pouvant aller au four, mettre les tranches de pain, arroser avec le bouillon, ajouter les oeufs crus et le jambon coupé en petits morceaux. 
+    7) Mettre au four à 150ºC quelques minutes et servir.
+    Pour aller plus vite on peut faire cette soupe avec des tomates concassées en boite, des poivrons rouges en boîte et du bouillon en cube.
+  ]]>
+  </preparation>
+</recette>

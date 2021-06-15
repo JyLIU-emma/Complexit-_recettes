@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12149">
+  <titre>Soufflé au saumon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>50 cl de lait</p>
+    <p>80g de beurre</p>
+    <p>6 oeufs</p>
+    <p>25g de fécule de pomme de terre</p>
+    <p>100g de farine</p>
+    <p>200g de saumon fumé</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre à feu doux dans une casserole. Ajoutez la farine et la fécule. 
+    Mélangez le tout.
+    Versez peu à peu le lait chaud tout en fouettant. Saler et poivrer.
+    Hors du feu, incorporer les jaunes d'oeufs un par un et le saumon finement haché.
+    Monter les blancs en neige bien ferme et les mélanger délicatement à la préparation.
+    Verser dans un moule à soufflé beurré et fariné, et faire cuire dans un four préchauffé à 200°C pendant 25 mn.
+    Servir immédiatement au sortir du four sinon le soufflé "tombe". On peut l'accompagner d'une salade verte.
+  ]]>
+  </preparation>
+</recette>

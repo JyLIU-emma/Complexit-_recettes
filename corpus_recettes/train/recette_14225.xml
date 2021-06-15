@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14225">
+  <titre>Farci poitevin</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de poitrine de porc fumée</p>
+    <p>250 g de porc frais</p>
+    <p>500 g d'oseille</p>
+    <p>500 g d'épinards</p>
+    <p>1 chou</p>
+    <p>bettes</p>
+    <p>3 oeufs</p>
+    <p>sel, poivre</p>
+    <p>saindoux</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hachez le porc fumé et le porc frais, hachez l'oseille, les épinards, le choux et quelques feuilles de bettes.Mélangez viandes et légumes, ajoutez les oeufs battus, salez et poivrez, bien malaxer.
+    Placez ceci dans une cocotte graissée au saindoux, laissez cuire doucement pendant trois heures.
+    On fait également un farci au pain, c'est-à-dire que l'on ajoute aux légumes et à 500 g de lard en dés, 250 g de mie de pain émietté.En Vendée, un 'Far à herves' ou 'jottes' (jeunes feuilles de bettes) ressemble comme un frère au farci Poitevin, mais on ajoute aux herbes au lard et aux oeufs, une tasse de crème.
+    Le farci Charentais enfin, est fait de feuilles de choux blanc, de bettes et d'oseille.
+  ]]>
+  </preparation>
+</recette>

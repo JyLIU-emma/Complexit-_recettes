@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26044">
+  <titre>Sorbet à l'avocat (salé)</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 gros avocats</p>
+    <p>jus de 2 citrons verts</p>
+    <p>25 cl de vin blanc sec</p>
+    <p>25 cl d'eau</p>
+    <p>35 g de sucre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Passer au mixer la chair des avocats avec le jus des citrons verts, l'eau, le vin blanc et le sucre. 
+    Saler et poivrer. Mettre en sorbetière.Servir avec du saumon fumé ou des poissons fumés.
+  ]]>
+  </preparation>
+</recette>

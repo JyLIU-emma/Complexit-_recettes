@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20356">
+  <titre>Thon maïs gratiné</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 baguette</p>
+    <p>1 boîte de thon</p>
+    <p>de la mayonnaise</p>
+    <p>du fromage râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper un morceau de baguette de la taille d'un sandwich normal, puis le trancher sur le dessus en longueur. 
+    Mélanger le maïs à la mayonnaise et ajouter le thon (au naturel ou à l'huile.) Incorporer le mélange dans le sandwich puis étaler le fromage dessus. 
+    Mettre au four ensuite jusqu'à ce que le fromage fonde et dore un peu. 
+    Puis déguster c'est prêt !
+  ]]>
+  </preparation>
+</recette>

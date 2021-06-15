@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22425">
+  <titre>Omelette aux lardons, champignons....</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 oeufs</p>
+    <p>125 g de lardons nature</p>
+    <p>125 g de champignons frais (girolle, champignon de Paris...) </p>
+    <p>5 pommes de terre cuites</p>
+    <p>1 oignon</p>
+    <p>sel et du poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez en morceaux : les pommes de terres, l'oignon et les champignons. Mettez le tout dans une poêle avec un filet d'huile d'olive. Préparez les oeufs dans un saladier, battez-les et ensuite mettez un peu de sel et de poivre. Versez les oeufs dans la poêle. Servez-la chaude ou froide avec de la sauce tomate.Vous pouvez ajouter du persil. vin rouge
+  ]]>
+  </preparation>
+</recette>

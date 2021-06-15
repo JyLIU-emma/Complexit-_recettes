@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25880">
+  <titre>Pommes d'automne en papillote</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 pommes</p>
+    <p>200 g de miel liquide</p>
+    <p>2 cuillères à soupe de jus d'orange</p>
+    <p>100 g de raisins secs hachés</p>
+    <p>100 g de cerneaux de noix concassés</p>
+    <p>1 cuillère à soupe de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les pommes, ôter le coeur mais pas la peau. Faire des rondelles assez épaisses sans les mélanger, de manière à pouvoir reconstituer les pommes en empilant les rondelles.
+    Mélanger le miel, le jus d'orange, les raisins et les noix. 
+    Etaler cette préparation sur les rondelles de pommes, en les empilant au fur et à mesure pour les reconstituer.
+    Poser les pommes reconstituées sur des feuilles de papier d'aluminium ou sulfurisé, avec une noisette de beurre dessus et fermer les papillotes.
+    Faire cuire pendant 25 min au four à 180°C (thermostat 6).
+    Laisser tiédir et servir.
+  ]]>
+  </preparation>
+</recette>

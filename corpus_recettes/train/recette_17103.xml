@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17103">
+  <titre>Raie à la sauce rose</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,5 kg de raie</p>
+    <p>1 sachet de court-bouillon instantané </p>
+    <p>40 g de beurre</p>
+    <p>3 cuillères à soupe de farine</p>
+    <p>1/3 de l de lait</p>
+    <p>1 petit pot de crème fraîche (20 cl)</p>
+    <p>1 cuillère à soupe de concentré de tomate additionné de quelques gouttes de vinaigre ou d'un filet de jus de citron</p>
+    <p>3 cuillères à soupe de câpres</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer le court-bouillon selon la notice. Y plnger le poisson. Porter à abullition et laisser frémir environ 10 minutes.
+    Pendant ce temps, faire une sauce béchamel avec le beurre, le lait et la farine. Ajouter en tournant le concentré de tomate mélangé avec un peu de citron, les câpres, puis la crème fraîche. Couvrir et tenir au chaud.
+    Egoutter le poisson avec soin. Retirer la peau. Disposer dans un plat de service bien chaud.
+    Napper avec la sauce.
+    Cette recette change de la sempiternelle 'raie au beurre noir'. La couleur rose de la sauce est agréable.
+  ]]>
+  </preparation>
+</recette>

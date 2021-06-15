@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165960">
+  <titre>Gâteau canadien au sirop d'érable</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour les biscuits :</p>
+    <p>1/2 tasse de beurre </p>
+    <p>1/2 tasse de sucre</p>
+    <p>2 oeufs</p>
+    <p>3 tasses de farine</p>
+    <p>2 c. à c. de levure</p>
+    <p>1 tasse de levure</p>
+    <p>1/2 tasse de lait</p>
+    <p>Pour le glaçage :</p>
+    <p>6 c. à s. de beurre</p>
+    <p>2 tasses de sucre glace (cette quantité peut varier selon les goûts)</p>
+    <p>7 c. à s. de sirop d'érable</p>
+    <p>1/3 tasse de noix de grenoble hâchées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer le gâteau :- Préchauffer le four à 200°.
+    Défaire le beurre en crème (étape très importante pour donner du moelleux au gâteau, à ne pas bâcler).- Ajouter graduellement le sucre et battre jusqu-à ce que la préparatio soit bien lisse (cela peut prendre du temps).- Ajouter les oeufs, un à la fois, en battant après chaque addition.- Tamiser ensemble la farine et la levure.- Incorporer ensuite les poudres tamisées au mélange en alternant avec le sirop d'érable et le lait. Commencer et terminer par les ingrédients secs.- Beurrer et fariner deux moules de mêmes dimensions.- Verser la pâte dans les deux moules et cuire env. 35 min.- Sortir les gâteaux, attendre 10 min, démouler, refroidr sur grille.
+    Préparation du glaçage :- Défaire le beurre en crème.- Ajouter graduellement le sucre glace, en alternant avec le sirop d'érable.- Battre après chaque addition, jusqu'à épuisement des ingrédients puis jusqu'à ce que le mélange soit bien lisse.
+    Garnir un gâteau de cette glace et parsemer de noix hâchées. Placer le deuxième gâteau dessus et le glacer entièrement.
+    Astuce décoration : on peut parsemer de noix entières.Excellent gâteau, mais très lourd et consistant. A servir après un repas peu copieux ou prendre de très petites parts, elles suffisent ! Café ou chocolat.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Préparer</OPER> le gâteau : - <OPER id="o_2">Préchauffer</OPER> le four à 200 °. <OPER id="o_3">Défaire</OPER> le <INGRED id="5">beurre</INGRED> en crème ( étape très importante pour donner du moelleux au gâteau, à ne pas <OPER id="o_4">bâcler).-</OPER> <OPER id="o_5">Ajouter</OPER> graduellement le <INGRED id="9">sucre</INGRED> et <OPER id="o_6">battre</OPER> jusqu - à ce que la préparatio soit bien lisse ( cela peut <OPER id="o_7">prendre</OPER> du temps).- <OPER id="o_8">Ajouter</OPER> les <INGRED id="3">oeufs</INGRED>, un à la fois, en battant après chaque addition.- <OPER id="o_9">Tamiser</OPER> ensemble la <INGRED id="1">farine</INGRED> et la levure.- <OPER id="o_10">Incorporer</OPER> ensuite les poudres tamisées au <INGRED id="7">mélange</INGRED> en alternant avec le <INGRED id="4">sirop</INGRED> d'<INGRED id="4">érable</INGRED> et le <INGRED id="4">lait</INGRED>. <OPER id="o_11">Commencer</OPER> et terminer par les ingrédients secs.- <OPER id="o_12">Beurrer</OPER> et <OPER id="o_13">fariner</OPER> deux moules de mêmes dimensions.- <OPER id="o_14">Verser</OPER> la <INGRED id="5">pâte</INGRED> dans les deux <INGRED id="10">moules</INGRED> et <OPER id="o_15">cuire</OPER> env. 35 min.- <OPER id="o_16">Sortir</OPER> les gâteaux, <OPER id="o_17">attendre</OPER> 10 min, <OPER id="o_18">démouler</OPER>, <OPER id="o_19">refroidr</OPER> sur grille. Préparation du glaçage : - <OPER id="o_20">Défaire</OPER> le <INGRED id="10">beurre</INGRED> en crème.- <OPER id="o_21">Ajouter</OPER> graduellement le <INGRED id="9">sucre glace</INGRED>, en alternant avec le <INGRED id="4">sirop</INGRED> d'érable.- <OPER id="o_22">Battre</OPER> après chaque addition, jusqu'à épuisement des ingrédients puis jusqu'à ce que le <INGRED id="7">mélange</INGRED> soit bien lisse. <OPER id="o_23">Garnir</OPER> un gâteau de cette glace et <OPER id="o_24">parsemer</OPER> de <INGRED id="6">noix</INGRED> hâchées. <OPER id="o_25">Placer</OPER> le deuxième gâteau dessus et le <OPER id="o_26">glacer</OPER> entièrement. Astuce décoration : on peut <OPER id="o_27">parsemer</OPER> de <INGRED id="10">noix</INGRED> entières. Excellent gâteau, mais très lourd et consistant. A servir après un repas peu copieux ou prendre de très petites parts, elles suffisent ! Café ou <INGRED id="2">chocolat</INGRED>.
+  </annotation>
+  <annotation methode="crf">
+  Préparer le gâteau <INGRED>:</INGRED> - Préchauffer le four à 200 °. Défaire le <INGRED>beurre</INGRED> en <INGRED>crème</INGRED> ( étape très importante pour donner du moelleux au gâteau <INGRED>,</INGRED> à ne pas bâcler).- Ajouter graduellement le <INGRED>sucre</INGRED> et battre jusqu - à ce que la préparatio soit bien lisse ( cela peut prendre du temps).- Ajouter les <INGRED>oeufs</INGRED> <INGRED>,</INGRED> un à la fois <INGRED>,</INGRED> en battant après chaque addition.- Tamiser ensemble la <INGRED>farine</INGRED> et la levure.- Incorporer ensuite les poudres tamisées au <INGRED>mélange</INGRED> en alternant avec le <INGRED>sirop</INGRED> d'érable et le <INGRED>lait</INGRED> <INGRED>.</INGRED> Commencer et terminer par les ingrédients secs.- Beurrer et fariner deux moules de mêmes dimensions.- Verser la <INGRED>pâte</INGRED> dans les <INGRED>deux</INGRED> <INGRED>moules</INGRED> et cuire env <INGRED>.</INGRED> 35 min.- Sortir les gâteaux <INGRED>,</INGRED> attendre 10 min, démouler <INGRED>,</INGRED> refroidr sur grille. Préparation du glaçage <INGRED>:</INGRED> - Défaire le <INGRED>beurre</INGRED> en crème.- Ajouter graduellement le <INGRED>sucre glace</INGRED> <INGRED>,</INGRED> en alternant avec le <INGRED>sirop</INGRED> d'érable.- Battre après chaque addition <INGRED>,</INGRED> jusqu'à épuisement des ingrédients puis jusqu'à ce que le <INGRED>mélange</INGRED> soit bien lisse <INGRED>.</INGRED> Garnir un gâteau de cette <INGRED>glace</INGRED> et parsemer de <INGRED>noix hâchées</INGRED> <INGRED>.</INGRED> Placer le deuxième gâteau dessus et le glacer entièrement <INGRED>.</INGRED> Astuce décoration <INGRED>:</INGRED> on peut parsemer de <INGRED>noix entières</INGRED> <INGRED>.</INGRED> Excellent gâteau <INGRED>,</INGRED> mais très lourd et consistant <INGRED>.</INGRED> A servir après un repas peu copieux <INGRED>ou</INGRED> prendre de très petites parts <INGRED>,</INGRED> elles suffisent ! <INGRED>Café</INGRED> <INGRED>ou</INGRED> <INGRED>chocolat</INGRED> <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 23.0*X + 4.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 23*X + 5</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['beurre']	 id:1	 quantité:1/2	 unité:tasse de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:2	 quantité:1/2	 unité:tasse de	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:3	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['farine']	 id:4	 quantité:3	 unité:tasses de	 denombrable:True	 recipient:3*X
+ingredient:['c. à c. de levure', 'c']	 id:5	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['levure']	 id:6	 quantité:1	 unité:tasse de	 denombrable:True	 recipient:1*X
+ingredient:['lait']	 id:7	 quantité:1/2	 unité:tasse de	 denombrable:False	 recipient:1
+ingredient:['c. à s. de beurre', 'c']	 id:8	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['sucre glace', 'sucre']	 id:9	 quantité:2	 unité:tasses de	 denombrable:True	 recipient:2*X
+ingredient:["c. à s. de sirop d'érable", 'c']	 id:10	 quantité:7	 unité:non_precis	 denombrable:True	 recipient:7*X
+ingredient:['noix de grenoble hâchées', 'noix']	 id:11	 quantité:1/3	 unité:tasse de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préparer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:préchauffer	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:défaire	 id:o_3	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:bâcler).-	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:prendre	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['3', '1', '7', '4', '4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tamiser	 id:o_9	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_10	 ingrédients_ralatifs:['7', '4', '4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:commencer	 id:o_11	 ingrédients_ralatifs:['5', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:beurrer	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fariner	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_14	 ingrédients_ralatifs:['5', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:sortir	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:attendre	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:démouler	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidr	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:défaire	 id:o_20	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_21	 ingrédients_ralatifs:['9', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_22	 ingrédients_ralatifs:['9', '4', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garnir	 id:o_23	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:parsemer	 id:o_24	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:glacer	 id:o_26	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:parsemer	 id:o_27	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

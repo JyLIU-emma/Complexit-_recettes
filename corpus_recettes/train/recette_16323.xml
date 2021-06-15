@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16323">
+  <titre>Spaghetti à l'ail et au basilic</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de spaghetti</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>2 belles tomates</p>
+    <p>1 gros bouquet de basilic</p>
+    <p>2 ou 3 gousses d'ail, selon vos goûts</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les spaghetti al dente. Pendant ce temps, mixer les tomates, l'ail et le basilic.
+    Ajouter l'huile d'olive, du sel et du poivre. Mettre la sauce dans les pâtes, puis mélanger. Vous pouvez ajouter du gruyère si vous aimez.
+    Ce plat peut se manger chaud ou froid. Si vous le dégustez froid, ajoutez du beurre après la cuisson des spaghetti. Côtes de Provence rouge ou rosé
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25900">
+  <titre>Charlotte glacée au citron vert</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 citrons verts</p>
+    <p>2 oeufs</p>
+    <p>165 g de sucre en poudre</p>
+    <p>80 g de beurre</p>
+    <p>12 biscuits à la cuillère</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et brosser les citrons verts sous l’eau, les essuyer, en extraire le zeste et le râper.
+    Presser le jus des citrons et le réserver.
+    Dans un saladier, battre les jaunes d’oeufs avec le sucre jusqu’à ce que le mélange blanchisse, puis y incorporer les zestes râpés.
+    Verser le mélange dans une casserole et le faire épaissir sur feu doux.
+    Filtrer la sauce pour en ôter les zestes puis ajouter le beurre en pommade.
+    Incorporer délicatement les blancs battus en neige ferme.
+    Verser un peu de préparation au fond d'un moule à charlotte puis alterner les couches de biscuit et de crème en terminant par une couche de biscuit.
+    Recouvrir d’une feuille de papier sulfurisé, puis déposer un poids au dessus et déposer la charlotte au réfrigérateur durant 1 nuit entière, le temps de la laisser prendre.
+    Le lendemain, la démouler sur un plat de service et servir.
+  ]]>
+  </preparation>
+</recette>

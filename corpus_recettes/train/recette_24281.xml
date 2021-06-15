@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24281">
+  <titre>Rillettes de thon ou de sardine</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>50 g de beurre</p>
+    <p>1 boîte de thon ou de sardines nature</p>
+    <p>un peu de jus de citron</p>
+    <p>5 cornichons</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixer ensemble tous les ingrédients dans un mixer. 
+    Former un dôme dans une assiette et entourer ce dôme de salade et/ou autres crudités. 
+    Servir avec des toasts.
+  ]]>
+  </preparation>
+</recette>

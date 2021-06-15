@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12490">
+  <titre>Gâteau au chocolat au micro-ondes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de beurre coupé en dés</p>
+    <p>200 g de chocolat à croquer en morceaux</p>
+    <p>200 g de sucre</p>
+    <p>200 g de farine</p>
+    <p>1 sachet de levure chimique</p>
+    <p>6 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Déposez le chocolat et le beurre dans un récipient(bien haut), couvrez et chauffez au micro-onde 2 mn à pleine puissance.
+    Ajoutez le sucre en remuant, les oeufs un à un, puis la farine tamisée mêlée à la levure.
+    Faites cuire 8 mn à pleine puissance et à découvert.
+    Excellente base de forêt noire.
+  ]]>
+  </preparation>
+</recette>

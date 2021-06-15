@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21353">
+  <titre>Biscuit glacé aux fruits secs et aux pépites de chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>450 g de sucre roux</p>
+    <p>675 g de farine</p>
+    <p>22,5 cl d'eau chaude</p>
+    <p>1 cuillère à café de bicarbonate de soude</p>
+    <p>1 cuillère à café de cannelle</p>
+    <p>1 cuillère à café de levure chimique</p>
+    <p>1 cuillère à café de sel</p>
+    <p>2 oeufs battus</p>
+    <p>22,5 cl d'huile</p>
+    <p>225 g de raisins et de noisettes</p>
+    <p>200 g de chocolat en dés</p>
+    <p>225 g de sucre glace + quelques cuillères à soupe d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C (thermostat 6).
+    Fouettez les jaunes avec le sucre puis incorporez la farine et le sel.
+    Délayez le bicarbonate, la levure et les épices dans l'eau chaude puis versez ce mélange dans la préparation précédente. 
+    Incorporez l'huile puis ajoutez les noisettes et le chocolat.
+    Huilez la lèchefrite et disposez dessus un papier sulfurisé huilé également. Versez la pâte dessus et enfournez pour 15 minutes de cuisson.
+    Pendant ce temps, réalisez le glaçage en délayant le sucre glace avec quelques cuillères à soupe d'eau jusqu'à l'obtention d'une pâte lisse et brillante.
+    Etalez le glaçage sur le biscuit dès la sortie du four. 
+  ]]>
+  </preparation>
+</recette>

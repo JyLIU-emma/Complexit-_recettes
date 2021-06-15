@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19127">
+  <titre>Gâteau de crêpes au fromage</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>3 oeufs</p>
+    <p>sel</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>1/2 l de lait</p>
+    <p>beurre</p>
+    <p>sel et poivre</p>
+    <p>150 g de mimolette</p>
+    <p>150 g d'edam</p>
+    <p>150 g de gouda</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire la pâte à crêpe, et faire les crêpes. 
+    Beurrer un moule à manquer, poser une crêpe et recouvrir de fromage râpé, saler poivrer et mettre une autre crêpe, le deuxième fromage et ainsi de suite en alternant les fromages. 
+    A la fin recouvrir d'une feuille de papier d'aluminium beurrée et mettre au four thermostat 6 pendant 20 min. 
+    Servir avec une salade verte.
+  ]]>
+  </preparation>
+</recette>

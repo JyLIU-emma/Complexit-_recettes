@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24456">
+  <titre>Salade d'artichauts aux crevettes et olives</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 fonds d'artichaut cuits</p>
+    <p>50 g d'olives vertes et noires</p>
+    <p>4 tomates</p>
+    <p>1 botte de radis roses</p>
+    <p>250 g de crevettes</p>
+    <p>15 cl d'huile d'olive</p>
+    <p>15 cl de vin blanc sec</p>
+    <p>1 citron</p>
+    <p>sel et poivre</p>
+    <p>200 g de riz</p>
+    <p>1 pincée de pistils de safran</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laisser macérer les fonds d'artichaut dans un saladier avec le citron, l'huile, le vin blanc, du sel et du poivre, pendant 2 heures.
+    Faire cuire le riz à l'eau bouillante avec le safran.
+    Plonger les tomates 30 secondes dans l'eau bouillante, ôter la peau et les détailler en quartiers. Eplucher et laver les radis.
+    Mélanger les fonds d'artichauts égouttés aux tomates et radis, ajouter les olives. Rectifier l'assaisonnement si nécessaire.
+    Présenter la salade en dôme au centre du riz façonné en couronne.
+  ]]>
+  </preparation>
+</recette>

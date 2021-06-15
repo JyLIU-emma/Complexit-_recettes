@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18354">
+  <titre>GATEAU AU CHOCOLAT AU MICRO-ONDE</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de sucre en poudre</p>
+    <p>125 g de beurre </p>
+    <p>125 g de poudre de noix de coco (ou d'amande)</p>
+    <p>50 g de farine</p>
+    <p>125 g de chocolat (noir ou au lait)</p>
+    <p>3 oeufs</p>
+    <p>sel</p>
+    <p>film transparent</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le chocolat et le beurre au micro-onde. Ajoutez le sucre, la poudre d'amande ou de noix de coco, la farine, les oeufs, la pincée de sel.
+    Beurrer un plat allant au micro-onde. Verser la préparation. Recouvrir du film plastique mais en laissant un espace pour que la gâteau puisse "souffler". Faire cuire 3 minutes au micro-onde. Sortir 3 minutes du micro-onde. Recuire 3 minutes au micro-onde. Voilà, BON APETIT !
+    La poudre d'amande est moins lourde que la poudre de noix de coco. 
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16976">
+  <titre>Rôti de lotte au saumon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1 lotte de 1,2 kg</p>
+    <p>200 g de saumon frais sans la peau</p>
+    <p>15 cl de vin blanc sec</p>
+    <p>20 g de beurre</p>
+    <p>30 cl de crème fraîche</p>
+    <p>1 bouquet de ciboulette</p>
+    <p>sel et poivre</p>
+    <p>1 bouquet garni</p>
+    <p>Pour la garniture :</p>
+    <p>300 g de tagliatelles</p>
+    <p>50 g de beurre</p>
+    <p>1 cuillère à soupe d'huile </p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à thermostat 6 (180°C). 
+    A l'aide d'un couteau pointu, dégagez l'os central de la lotte, à la place farcissez le poisson avec le saumon.
+    Ficelez la lotte 'façon rôti', puis mettez-la dans plat beurré, salez, poivrez, ajoutez le vin blanc, le bouquet garni et enfournez 40 à 45 min.
+    A peu près 10 min avant la fin de la cuisson, plongez les pâtes. Mettez la crème fraîche dans une casserole et faites-la réduire sur feu doux avec sel et poivre. Egouttez les pâtes. Placez celles-ci dans un plat et couchez la lotte en tranches.
+    Ajoutez la ciboulette dans la crème, que vous servirez à part.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24379">
+  <titre>Patiences</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pot de 500 g de crème fraîche épaisse</p>
+    <p>1 pot de farine</p>
+    <p>1 pot de sucre cristallisé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Le pot de crème fraîche sert de mesure. 
+    Mélanger tous les ingrédients. 
+    Sur une plaque beurrée (ou une feuille d'aluminum beurrée pour que la vaisselle soit plus vite faite). 
+    Faire des petits tas de pâte à la petite cuillère, assez espacés car la pâte s'étale à la cuisson. 
+    Cuisson environ 20 mn à four chaud (surveiller et sortir dès que les contour brunissent).
+    Recette de mon arrière grand mère.
+    À l'époque, on se servait de crème récoltée sur le pot de lait cru de la ferme, il fallait donc plusieurs jours pour avoir la quantité de crème nécessaire, d'où le nom : Patiences.
+  ]]>
+  </preparation>
+</recette>

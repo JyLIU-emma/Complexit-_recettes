@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16016">
+  <titre>Bouille express au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 litre de lait</p>
+    <p>4 cuillères à soupe de chocolat en poudre</p>
+    <p>4 cuillères à soupe de sucre en poudre</p>
+    <p>4 cuillères à soupe de Maïzena</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger dans un saladier, le chocolat, le sucre et la maïzena. Délayer avec un peu de lait froid.
+    Faire chauffer le lait, puis lorsqu'il est chaud, verser la préparation dans la casserole et remuer jusqu'à l'épaississement voulu.
+    Verser dans des coupes individuelles ou dans un plat creux, puis mettre au frais.
+    Très utiles pour les allergiques au gluten.
+    Pour une personne diviser les doses par 4 (soit 1/4 l de lait).
+  ]]>
+  </preparation>
+</recette>

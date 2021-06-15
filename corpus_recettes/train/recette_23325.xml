@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23325">
+  <titre>Nems vietnamiens aux porc et aux crevettes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 crêpes de riz</p>
+    <p>30 g de champignons noirs déshydratés</p>
+    <p>200 g de porc</p>
+    <p>100 g de crabe en boîte</p>
+    <p>50 g de vermicelle chinois</p>
+    <p>50 g de crevettes décortiquées</p>
+    <p>1 oeuf</p>
+    <p>1 oignon haché</p>
+    <p>1 pincée de coriandre moulue</p>
+    <p>1 gousse d’ail</p>
+    <p>quelques feuilles de menthe</p>
+    <p>2 cuillères à soupe d’huile d’olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer l’eau et la verser dans 2 récipients dans lesquelles vous ferez tremper d’un côté les champignons noirs et de l’autre les vermicelles, pendant 20 min environ.
+    Pendant ce temps, hacher le porc finement et le mettre à cuire dans une poêle huilée avec les l’oignon et l’ail  hachés.
+    Laisser revenir pendant 5 min puis ajouter les crevettes décortiquées (sans la queue), le crabe émietté et les champignons hachés.
+    Battre l’œuf avec le sel, le poivre et la coriandre, puis faire ramollir les cèpes dans des linges propres humides.
+    Incorporer l’œuf battu dans la poêle avec les cèpes coupés en dés puis laisser cuire encore quelques minutes en remuant.
+    Etaler les crêpes, puis les farcir de la préparation et les rouler.
+    Dans une poêle huilée, les faire dorer de chaque côté, puis les servir à l’assiette avec la sauce soja et saupoudrés de menthe ciselée.
+  ]]>
+  </preparation>
+</recette>

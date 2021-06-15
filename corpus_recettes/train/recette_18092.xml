@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18092">
+  <titre>PAVE DE SAUMON EN PAPILLOTTE</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 pavés de saumon </p>
+    <p>2 blancs de poireaux</p>
+    <p>2 carottes</p>
+    <p>1 petite courgette</p>
+    <p>1 tomate</p>
+    <p>Huile d'olive</p>
+    <p>Jus de citron</p>
+    <p>Herbe de provence et aromates</p>
+    <p>Papier sulfurisé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire préchauffer le four à 210°C pendant 10 min. 
+    Eplucher, laver et couper finement les légumes. 
+    Couper deux feuilles de papier sulfurisé. 
+    Déposer, sur chaque feuille, en couches successives :
+        - 1 blanc de poireaux,
+        - 1 carotte,
+        - 1/2courgette,
+        - 1  pavé de saumon,
+        - 1/2 tomate,
+        - herbe de provence et aromate
+    Rabattre légèrement le papier sulfurisé et ajouter un filet d'huile d'olive et le jus de citron. 
+    Fermer les papillotes en repliant le papier de chaque côté du rectangle comme pour en faire un bonbon.
+    Mettre au four pendant 20 min
+    Le plat peut être accompagné de riz blanc ou de pâtes fraîches.
+    Si vous avez peur que les légumes ne soient pas cuits vous pouvez les ébouillanter avant de les placer dans les papillottes. Tavel
+  ]]>
+  </preparation>
+</recette>

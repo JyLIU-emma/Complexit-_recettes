@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14071">
+  <titre>Saumon a l'huile d'olive et aux herbes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 filets de saumon fumé</p>
+    <p>8 cuillères à soupe d'huile d'olive</p>
+    <p>2 cuillères à soupe d'herbes de Provence et une d'aneth</p>
+    <p>poivre du moulin</p>
+    <p>quelques gouttes de tabasco</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger l'huile, les herbes, le poivre et le tabasco, mettre le saumon avec et laisser mariner pendant 2 heures au frais.
+    Dresser le saumon et l'huile dans des assiettes et servir frais avec du pain un peu tiède et très croustillant.
+     vin blanc sec
+  ]]>
+  </preparation>
+</recette>

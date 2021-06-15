@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18878">
+  <titre>Poulet à l'espagnol</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 cuisses de poulet</p>
+    <p>1 oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>2 poivrons</p>
+    <p>1 boîte de tomates 400 g concassées</p>
+    <p>3 cuillères à soupe de vin blanc</p>
+    <p>1 cuillère à soupe de paprika</p>
+    <p>75 g de chorizo</p>
+    <p>25 g d'olives noires</p>
+    <p>sel, poivre, herbes de provences</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper en 2 les cuisses de poulet. 
+    Faire revenir les cuisses de poulet dans l'huile d'olive dans une grande sauteuse. 
+    Ajouter l'oignon émincé et l'ail pressé. 
+    Ajouter les poivrons découpés en rondelles. Poursuivre la cuisson jusqu'à ce que les légumes deviennent tendres. 
+    Ajoutez vin, paprika, tomates, portez à ébullition. 
+    Ajoutez le chorizo découpé en tranches. 
+    Laissez mijoter 15 mn. 
+    Coupez les olives en 2 et ajoutez-les. 
+    Assaisonnez, c'est prêt!
+     Rioja
+  ]]>
+  </preparation>
+</recette>

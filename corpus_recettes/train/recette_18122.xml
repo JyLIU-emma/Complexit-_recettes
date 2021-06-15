@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18122">
+  <titre>Potage de légumes au basilic</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 oignon</p>
+    <p>3 tomates </p>
+    <p>2 carottes</p>
+    <p>1 branche de céleri</p>
+    <p>1 courgette</p>
+    <p>1 pomme de terre</p>
+    <p>4 feuilles de basilic</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez tous ces petits légumes en petits cubes, la tomate ébouillantée et épluchée coupée en petits cubes, mettez dans un faitout et couvrez largement d'eau. Faites cuire, salez avant la fin de cuisson.
+    En fin de cuisson, éteignez le feu mettre le basilic et l'huile d'olive. Laissez infuser.
+    On peut manger ce potage tiède (pour le céleri mettre les feuilles, ou si on aime plus craquant mettre la branche coupée en petits cubes).
+    un potage trés peu calorique rosé
+  ]]>
+  </preparation>
+</recette>

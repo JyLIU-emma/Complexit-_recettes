@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10791">
+  <titre>Courgettes niçoises</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 courgettes</p>
+    <p>210 g de coulis de tomates</p>
+    <p>sel, poivre</p>
+    <p>basilic</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler de petites courgettes sans graines. Les couper en deux ou trois.
+    Faire un épais coulis de tomates et y cuire les courgettes pendant vingt
+    minutes.
+    Assaisonner (sel, poivre).Poudrer de basilic ciselé avant de servir.Peut se manger froid.
+  ]]>
+  </preparation>
+</recette>

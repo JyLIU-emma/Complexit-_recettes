@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15490">
+  <titre>Filet de dinde aux lardons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 escalopes de dinde </p>
+    <p>200 g de lardons fumés </p>
+    <p>1 petite boîte de champignons émincés</p>
+    <p>25 cl de crème fraîche</p>
+    <p>2 cuillères à soupe de fond de veau</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper en lamelles les escalopes de dinde. Les faire revenir avec les lardons.
+    Mettre la crème fraîche et le fond de veau. Mettre ensuite les champignons.
+    Servir avec du riz ou des pommes de terres sautées.
+    Plat très apprécié des enfants. vin rouge (sauf pour les enfants)
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17943">
+  <titre>Pommes 'au four'</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 pommes à cuire</p>
+    <p>Pour le 1er mélange : </p>
+    <p>4 cuillères à café de sucre</p>
+    <p>4 cuillères à café de raisins secs</p>
+    <p>4 cuillères à café de beurre</p>
+    <p>Pour le 2ème mélange :</p>
+    <p>1/4 de tasse de cassonade</p>
+    <p>1/4 de tasse d'eau</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>1 cuillère à soupe de cannelle moulue</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Retirez le coeur des pommes en laissant une mince base. Remplissez chaque pomme du 1er mélange sucre raisins, déposez le beurre par dessus. 
+    Enfournez à feu doux 10 min. 
+    Faîtes le second mélange dans un bol. Déposez à la cuillère dans et sur les pommes, réenfournez 5 à 10 min.
+    Bonne transition entre un repas déjà conséquent et un digestif genre petit calva ! Cette recette peut se faire au four ou en cuisson à la vapeur.
+  ]]>
+  </preparation>
+</recette>

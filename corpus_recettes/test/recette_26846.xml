@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26846">
+  <titre>Concombre à la crème de thon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 gros concombre</p>
+    <p>300 g de thon à l’huile</p>
+    <p>75 g de beurre ramolli</p>
+    <p>1 citron vert</p>
+    <p>2 cornichons</p>
+    <p>2 blancs d’oeuf durs</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver, découper le concombre en 2 dans le sens de la longueur puis lui ôter ses graines.
+    Egoutter le thon puis le passer au mixeur avec le jus de citron vert, le sel et le poivre. Verser la purée de thon dans un saladier et réserver.
+    Ajouter les cornichons et les blancs d'oeufs hachés.
+    Farcir le concombre de ce mélange et mettre au frais durant 30 minutes.
+  ]]>
+  </preparation>
+</recette>

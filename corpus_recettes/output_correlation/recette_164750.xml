@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164750">
+  <titre>Sauce spaghetti à ma façon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>un bouteille de coulis de tomates</p>
+    <p>un morceau de +/- 10 cm de saucisson </p>
+    <p>un peu de sucre</p>
+    <p>2-3 éclats d'ail</p>
+    <p>1 oignon</p>
+    <p>cognac</p>
+    <p>sel, poivre</p>
+    <p>huile d'olive</p>
+    <p>basilic frais,et persil italien</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) verser de l'huile d'olive dans une casserole
+    2) couper le saucisson en petits morceaux; en général, je le coupe en tranches de 0,5 cm et ces tranches là encore en 2.
+    3) couper l'oignon en petits morceaux, ainsi que le persil italien.
+    4) mettre le tout dans la casserole avec l'huile et faire chauffer.
+    5) verser l'équivalent  de 2-3 cuillère à soupe de cognac attendre qu'il s'évapore presque en totalité.
+    6) quand l'oignon est devenu presque transparent, ajouter l'ail en morceaux lui aussi et enfin le coulis de tomates
+    7) laisser cuire à bouillon pendant  une grosse demi-heure (mais si c'est plus, ça ne peut que faire du bien)
+    8) goûter afin de mettre vos épices (sucre, sel, poivre), presque à la fin de la cuisson, ajouter y le basilic ciselé.
+    9)à mélanger avec vos pâtes et ajouter dessus du parmesan râpé.
+    bon appétit!
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  1 ) <OPER id="o_1">verser</OPER> de l'<INGRED id="4">huile d'olive</INGRED> dans une casserole 2 ) <OPER id="o_2">couper</OPER> le <INGRED id="3">saucisson</INGRED> en <INGRED id="3">petits</INGRED> morceaux ; en général, je le <INGRED id="2">coupe</INGRED> en tranches de 0,5 cm et ces tranches là encore en 2. 3 ) <OPER id="o_3">couper</OPER> l'<INGRED id="6">oignon</INGRED> en <INGRED id="3">petits</INGRED> morceaux, ainsi que le <INGRED id="12">persil italien</INGRED>. 4 ) <OPER id="o_4">mettre</OPER> le tout dans la casserole avec l'<INGRED id="10">huile</INGRED> et faire <OPER id="o_5">chauffer</OPER>. 5 ) <OPER id="o_6">verser</OPER> l'équivalent de 2 - 3 cuillère à soupe de <INGRED id="7">cognac</INGRED> <OPER id="o_7">attendre</OPER> qu'il s'évapore presque en totalité. 6 ) quand l'<INGRED id="6">oignon</INGRED> est devenu presque transparent, <OPER id="o_8">ajouter</OPER> l'<INGRED id="4">ail</INGRED> en morceaux lui aussi et enfin le <INGRED id="1">coulis de tomates</INGRED> 7 ) laisser <OPER id="o_9">cuire</OPER> à <INGRED id="11">bouillon</INGRED> pendant une grosse demi-heure ( mais si c'est plus, ça ne peut que faire du bien ) 8) <OPER id="o_10">goûter</OPER> afin de <OPER id="o_11">mettre</OPER> vos <INGRED id="9">épices</INGRED> ( <INGRED id="12">sucre</INGRED>, <INGRED id="7">sel</INGRED>, <INGRED id="8">poivre</INGRED> ), presque à la fin de la cuisson, <OPER id="o_12">ajouter</OPER> y le <INGRED id="11">basilic</INGRED> ciselé. 9)à <OPER id="o_13">mélanger</OPER> avec vos pâtes et <OPER id="o_14">ajouter</OPER> dessus du <INGRED id="3">parmesan</INGRED> râpé. bon appétit !
+  </annotation>
+  <annotation methode="crf">
+  1 ) verser de l'<INGRED>huile d'olive</INGRED> dans une casserole 2 ) couper le saucisson en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> ; en général <INGRED>,</INGRED> je le coupe en tranches de 0,5 cm et ces tranches là encore en 2 <INGRED>.</INGRED> 3 ) couper l'<INGRED>oignon</INGRED> en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> <INGRED>,</INGRED> ainsi que le <INGRED>persil</INGRED> italien <INGRED>.</INGRED> 4 ) mettre le tout dans la casserole avec l'<INGRED>huile</INGRED> et faire chauffer <INGRED>.</INGRED> 5 ) verser l'équivalent de 2 - 3 cuillère à soupe de <INGRED>cognac</INGRED> attendre qu'il s'évapore presque en totalité. 6 ) quand l'<INGRED>oignon</INGRED> est devenu presque transparent <INGRED>,</INGRED> ajouter l'<INGRED>ail</INGRED> en <INGRED>morceaux</INGRED> lui aussi et enfin le <INGRED>coulis</INGRED> de <INGRED>tomates</INGRED> 7 ) laisser cuire à <INGRED>bouillon</INGRED> pendant une grosse demi-heure ( mais si c'est plus <INGRED>,</INGRED> ça ne peut que faire du bien ) 8) goûter afin de mettre vos <INGRED>épices</INGRED> ( <INGRED>sucre</INGRED> <INGRED>,</INGRED> <INGRED>sel</INGRED> <INGRED>,</INGRED> poivre ) <INGRED>,</INGRED> presque à la fin de la cuisson <INGRED>,</INGRED> ajouter y le <INGRED>basilic</INGRED> ciselé <INGRED>.</INGRED> 9)à mélanger avec vos <INGRED>pâtes</INGRED> et ajouter dessus du <INGRED>parmesan râpé</INGRED>. bon appétit !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 3.92307692307692*X + 13.0769230769231</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 3*X + 17</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['coulis de tomates', 'coulis']	 id:1	 quantité:non_precis	 unité:bouteille de	 denombrable:False	 recipient:1
+ingredient:['morceau de', 'morceau']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['saucisson']	 id:3	 quantité:10	 unité:cm de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["éclats d'ail", 'éclats']	 id:5	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['oignon']	 id:6	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['cognac']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["huile d'olive", 'huile']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['basilic frais', 'basilic']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['persil italien', 'persil']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:verser	 id:o_1	 ingrédients_ralatifs:['4', '3', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_2	 ingrédients_ralatifs:['3', '3']	 nombre_opération_atomique:1+1	 temps:1*X*1+1*X*1	 recipient:1
+operation:couper	 id:o_3	 ingrédients_ralatifs:['6', '3', '12']	 nombre_opération_atomique:1*X+1+1	 temps:1*X*1+1*X*1+1*X*1	 recipient:1
+operation:mettre	 id:o_4	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:chauffer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:verser	 id:o_6	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:attendre	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_9	 ingrédients_ralatifs:['11']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:goûter	 id:o_10	 ingrédients_ralatifs:['9', '12', '7', '8', '11']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_11	 ingrédients_ralatifs:['9', '12', '7', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:['11']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_13	 ingrédients_ralatifs:['9', '12', '7', '8', '11', '3']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_14	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21107">
+  <titre>Emincé d'endives au jambon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 endives</p>
+    <p>80 g de dés de jambon</p>
+    <p>8 cuillères à café de crème fraîche allégée</p>
+    <p>1 cuillère à café de fond de veau</p>
+    <p>1 cuillère à café d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les endives et les émincer. 
+    Faire chauffer l'huile dans une poêle, une fois bien chaude y mettre les endives. Remuer et ajouter les dés de jambon. 
+    Dans une tasse mélanger la crème et le fond de veau. 
+    Verser le mélange sur les endives. 
+    Mélanger le tout pour bien répartir la crème sur les endives. 
+    Cuire durant 3 à 4 mn et servir aussitôt.
+  ]]>
+  </preparation>
+</recette>

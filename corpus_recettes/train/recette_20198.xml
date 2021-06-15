@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20198">
+  <titre>Bûche aux deux chocolats sans cuisson</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la crème au chocolat noir :</p>
+    <p>300 g de chocolat noir</p>
+    <p>200 g de beurre</p>
+    <p>4 oeufs</p>
+    <p>Pour la crème au chocolat blanc :</p>
+    <p>200 g de chocolat blanc</p>
+    <p>3 cuillères à soupe de crème fraîche</p>
+    <p>3 feuilles de gélatine</p>
+    <p>2 blancs d'oeufs</p>
+    <p>Pour les copeaux de chocolat :</p>
+    <p>50 g de chocolat noir</p>
+    <p>50 g de chocolat blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour la crème au chocolat noir :
+    Mettre le chocolat noir à fondre au bain-marie. Séparer les blancs des jaunes, puis fouetter les jaunes d'oeufs avec le chocolat noir fondu. Monter les blancs en neige puis les incorporer délicatement au chocolat fondu avec le beurre en pommade.
+    Bien mélanger puis mettre la gélatine à ramollir dans l'eau froide.
+    Pour la crème au chocolat blanc :
+    Pendant ce temps, râper le chocolat blanc puis le mettre à fondre au bain-marie avec la crème fraîche. Ajouter ensuite les 2 blancs montés en neige, puis les feuilles de gélatine égouttées et bien mélanger le tout pour obtenir une pâte parfaitement lisse. Placer la préparation au frais.
+    Pour le gâteau :
+    Verser les 2/3 de la crème au chocolat noir dans un moule à cake beurré, puis former une fontaine au centre du moule.
+    Placer le moule au réfrigérateur et laisser épaissir au frais.
+    Verser ensuite la crème au chocolat blanc dans la fontaine, puis replacer au frais. Couvrir le dessus de la bûche du reste de crème au chocolat noir, puis laisser reposer 5 h au réfrigérateur.
+    Pour la décoration :
+    Râper le chocolat noir et le chocolat blanc et les placer au frais pour qu'ils restent durs.
+    Démouler la bûche sur un plat de service, puis la recouvrir de copeaux de chocolats.
+  ]]>
+  </preparation>
+</recette>

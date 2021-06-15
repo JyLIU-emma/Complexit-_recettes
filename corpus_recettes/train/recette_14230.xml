@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14230">
+  <titre>Poulet pané aux fines herbes</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de chapelure</p>
+    <p>30 g de parmesan râpé</p>
+    <p>45 g de cheddar doux rapé</p>
+    <p>1 pincée de thym, marjolaine, estragon, romarin, persil frais</p>
+    <p>85 g de beurre</p>
+    <p>30 g d'échalotes hachées</p>
+    <p>6 poitrines / blancs de poulet</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Bien mélanger la chapelure, les fromages, fines herbes et assaisonements.
+    Faire suer les échalotes au beurre. Tremper les morceaux de poulet dans beurre fondu  et les échalotes. Enrober les morceaux de poulet de chapelure.
+    Faire griller au four à 180°C (350°F) pendant environ 45 mn, jusqu'à cuisson complète.  
+    Badigeonner avec le reste du beurre fondu au cours de la cuisson. Servir chaud.
+  ]]>
+  </preparation>
+</recette>

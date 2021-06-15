@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15288">
+  <titre>Grâtin de pâtes aux champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de pâtes (par exemple de penne)</p>
+    <p>1/2 à 3/4 l de lait</p>
+    <p>30g de beurre ou de margarine</p>
+    <p>30 g de farine</p>
+    <p>300 g de champignons de Paris</p>
+    <p>1 pot de sauce tomate (400 ou 500 g)</p>
+    <p>fromage râpé (selon vos goûts)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pâtes dans de l'eau salée. Eplucher et laver les champignons.
+    Préparer la béchamel : faire fondre le beurre dans un casserolle, ajouter petit à petit la farine et bien mélanger, ajouter progressivement le lait en tournant pour éviter les grumeaux (on peut utiliser un fouet).
+    Ajouter les champigons coupés en morceaux (la sauce doit être moyennement liquide donc rajouter du lait si elle est trop épaisse). Ajouter la sauce tomate.
+    Dans un plat à gratin, verser les pâtes et la sauce en tournant pour bien la répartir. Parsemer de fromage et mettre au four. Le gratin doit être bien doré.
+    Les enfants et les adolescents adorent ça et c'est un plat complet et nourissant qui apporte du calcium et peu de graisse. Et qui impressionne!
+  ]]>
+  </preparation>
+</recette>

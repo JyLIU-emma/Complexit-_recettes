@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23095">
+  <titre>Lapin provençal</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 cuisses de lapin</p>
+    <p>4 grosses tomates bien mûres</p>
+    <p>2 oignons</p>
+    <p>1 gousse d'ail</p>
+    <p>thym, romarin</p>
+    <p>basilic</p>
+    <p>huile d'olive </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et épépiner les tomates. 
+    Peler les oignons et l'ail. 
+    Dans un mixer, hacher grossièrement les légumes, ajouter du sel, du poivre, les herbes et une cuillère à soupe d'huile d'olive. Mettre les cuisses de lapin dans un plat allant au four. Les enrober avec les tomates concassées. 
+    Mettre au frais une nuit. Le lendemain, mettre le plat à four chaud (240 degrés) pendant environ 45 min. Parsemer de basilic ciselé et servir avec des pommes vapeur.Au moment d'enfourner, vous risquez de constater que les tomates ont rendu de l'eau dans le fond du plat. Il vaut mieux la jeter pour ne pas que le plat soit trop aqueux. rosé
+  ]]>
+  </preparation>
+</recette>

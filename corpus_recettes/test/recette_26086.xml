@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26086">
+  <titre>Salade thaïlandaise</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 pamplemousses roses</p>
+    <p>20 grosses crevettes roses entières cuites</p>
+    <p>4 brins de coriandre fraîche</p>
+    <p>Pour la sauce :</p>
+    <p>4 cuillères à soupe de jus de citron vert</p>
+    <p>2 cuillères à café de sucre en poudre</p>
+    <p>2 échalotes</p>
+    <p>2 gousses d’ail</p>
+    <p>2 pincées de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la sauce : mélanger le sucre et le jus de citron, jusqu’à ce que le sucre fonde. Ajouter l’ail et l’échalote hachés. La sauce peut être préparée à l’avance. 
+    Peler les pamplemousses à vif (en gardant autant que possible les quartiers en bon état), répartir les quartiers dans 4 coupelles. 
+    Eplucher les crevettes, en disposer 5 dans chaque coupelle. Napper de sauce, parsemer de coriandre ciselée et servir immédiatement.
+     blanc sec ou bière thaïlandaise
+  ]]>
+  </preparation>
+</recette>

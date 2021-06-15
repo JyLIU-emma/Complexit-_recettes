@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21322">
+  <titre>Poulet au citron et aux oignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poulet de 1,6 kg coupé en 8 morceaux</p>
+    <p>2 citrons</p>
+    <p>1 citron confit</p>
+    <p>1 botte d'oignons nouveaux</p>
+    <p>20 cl de bouillon de volaille</p>
+    <p>5 cuillères à soupe d'huile d'olive</p>
+    <p>3 feuilles de sauge</p>
+    <p>1 brin de thym</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille, salez, poivrez les morceaux de poulet. Mettez-les dans un plat creux.
+    Pressez les 2 citrons, mélangez le jus avec 2 cuillères à soupe d'huile d'olive et versez ce mélange sur le poulet, retournez bine les morceaux pour qu'ils soient imprégnés de marinade sur toute les faces. Laissez mariner toute la nuit au frais et couvert.
+    Le lendemain, égouttez les morceaux de poulet.
+    Faites chauffer le reste d'huile dans une cocotte, mettez-y les morceaux de poulet et laissez-les dorer. Retirez-les de la cocotte et mettez à la place les oignons nouveaux juste pelés. Laissez-les revenir 5 min en secouant la cocotte, ils ne doivent pas dorer.
+    Remettez les morceaux de poulet dans la cocotte avec la sauge et le thym émiettés. Ajoutez la marinade au citron et le bouillon. Couvrez et laissez cuire à feu doux pendant 30 minutes.
+    Coupez le citron confit en rondelles, ajoutez-le dans la cocotte et laissez cuire encore 30 minutes.
+  ]]>
+  </preparation>
+</recette>

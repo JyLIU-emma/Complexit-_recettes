@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12616">
+  <titre>Bacalhau (gratin de morue)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>350 g de morue dessalée</p>
+    <p>2 oignons moyens</p>
+    <p>300 g de pommes de terre</p>
+    <p>1 gousse d'ail</p>
+    <p>poivre (pas de sel)</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler la morue en lamelles. Emincer les oignons. Couper les pommes de terre en rondelles.
+    Dans une cocotte, faire un lit d'oignon (avec une gousse d'ail hachée). Par-dessus la morue puis les pommes de terre. Ajouter un peu de poivre.
+    Couvrir presque complètement d'huile d'olive.
+    Cuire à feu doux une demi-heure environ, c'est-à-dire jusqu'à cuisson des pommes de terre.
+  ]]>
+  </preparation>
+</recette>

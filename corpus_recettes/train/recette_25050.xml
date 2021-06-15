@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25050">
+  <titre>Moelleux caramélisé à l'ananas</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 ananas frais coupé en rondelles ou 1 grosse boîte d'ananas en tranches</p>
+    <p>3 oeufs</p>
+    <p>100 g de sucre</p>
+    <p>100 g de beurre mou</p>
+    <p>100 g de farine</p>
+    <p>1/2 sachet de levure en poudre</p>
+    <p>1 cuillère à soupe de rhum</p>
+    <p>15 morceaux de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Egouttez les tranches d'ananas.
+    Faites fondre les morceaux de sucre avec une cuillère à soupe d'eau. Laissez juste blondir, dès que le caramel est prêt, versez-le dans le fond d'un moule à manqué en l'inclinant pour bien répartir le caramel. Posez aussitôt 5 tranches d'ananas dessus.
+    Préchauffez le four à 180°C (thermostat 6).
+    Fouettez les jaunes d'oeufs avec le sucre jusqu'à ce que le mélange mousse et blanchisse. Ajoutez le beurre mou, mélangez bien et rajoutez la farine tamisée et la levure. 
+    Battez les blancs en neige et incorporez-les délicatement.
+    Coupez le reste des tranches d'ananas en dés, ajoutez-les dans la pâte ainsi que le rhum. Versez dans le moule et faites cuire 35 minutes.
+    Démoulez le gâteau tiède.
+  ]]>
+  </preparation>
+</recette>

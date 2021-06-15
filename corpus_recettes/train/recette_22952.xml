@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22952">
+  <titre>Tranches de viande cuites marinées</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 tranches de viande cuite</p>
+    <p>2 oignons</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>1 cuillère à soupe bombée de fines herbes hachées (persil, cerfeuil, sauge, romarin et/ou basilic)</p>
+    <p>1 cuillère à soupe de vinaigre de vin</p>
+    <p>15 cl de vin blanc</p>
+    <p>1 cuillère à café de sucre</p>
+    <p>2 gousses d'ail écrasées</p>
+    <p>15 cl de bouillon</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hachez les oignons et faites-les blondir oignons hachés dans l'huile. Puis ajoutez les herbes, l'ail, le sucre, le vin blanc et le vinaigre. Laissez réduire jusqu'à ce que le mélange ait la consistance d'un sirop.
+    Mouillez avec le bouillon et laissez mijoter 5 minutes.
+    Réchauffez la viande et déposez-la dans un plat creux. Arrosez de la sauce. Laissez mariner pendant 12 heures.
+    Egouttez et servir avec des cornichons, des olives et autres pickles conservés au vinaigre.
+  ]]>
+  </preparation>
+</recette>

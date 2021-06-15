@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14890">
+  <titre>Anchoïade provençale</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la sauce :</p>
+    <p>2 verres d'huile d'olive</p>
+    <p>200 g d'anchois à l'huile</p>
+    <p>1 cuillère à soupe de câpres</p>
+    <p>1 petite cuillère à soupe de vinaigre</p>
+    <p>poivre</p>
+    <p>3 gousses d'ail</p>
+    <p>Pour les légumes : </p>
+    <p>1 céleri</p>
+    <p>1 betterave rouge</p>
+    <p>2 tomates</p>
+    <p>3 carottes</p>
+    <p>4 chou-fleur</p>
+    <p>6 pommes de terre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la sauce : verser dans une petite poêle 1 verre d'huile d'olive, faire chauffer doucement, puis y ajouter les anchois. 
+    Bien remuer jusqu'à ce que tout soit fondu. 
+    Ajouter le poivre, les câpres, rincés et écrasés, l'ail râpé et le 2ème verre d'huile.
+    Disposer dans un grand plat les légumes crus : céleris en branche coupés en morceaux, tomates en quartiers, bâtons de carottes crues... 
+    Puis ajouter les légumes cuits : chou-fleur (on peut mettre quelques bouquets crus), les carottes, quartiers de betterave rouge (la betterave doit être cuite 3/4 d'h à la cocotte minute), les pommes de terre.
+    La sauce à l'anchois sera servie à part dans des ramequins, les convives y trempent leur légumes.
+    On peut présenter également quelques tartines de tapenade.
+    Ce plat peut être considéré comme entrée si on le réalise en petite quantité. Il peut très bien être considéré comme plat pricipal le soir.suivi du fromage et du dessert. Rosé de Provence
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10928">
+  <titre>Tarte aux poivrons</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 carrés frais</p>
+    <p>4 poivrons rouges</p>
+    <p>3 tomates</p>
+    <p>1 oignon</p>
+    <p>1 pâte feuilletée</p>
+    <p>200 g de lardons fumés</p>
+    <p>10 cl de vin blanc</p>
+    <p>poivre</p>
+    <p>origan</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les poivrons en deux, les épépiner et les mettre dans un plat sous le grill du four environ 20 min. 
+    Pendant ce temps, éplucher les tomates, les couper en dés et les mettre dans une casserole.
+    Ajouter l'oignon émincé, le vin blanc. Poivrer et ajouter 1/2 cuillère à café d'origan.
+    Verser 10 cl d'eau, porter à ébullition et laisser cuire à découvert à feu plus doux pendant 20 min. Ajouter les 2 carrés frais, passer le mélange au mixer et réserver.
+    Lorsque les poivrons sont bien grillés, retirer la peau et couper chaque moitié en deux puis réserver.
+    Etaler la pâte feuilletée dans un moule à tare et faire pré-cuire la pâte.
+    Verser dessus la crème tomate-oignon-carré frais, ajouter les poivrons en étoile puis parsemer de lardons préalablement grillés à la poêle et enfourner 15 min à 180°C (thermostat 6).
+  ]]>
+  </preparation>
+</recette>

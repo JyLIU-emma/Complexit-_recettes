@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16869">
+  <titre>Flan aux poires rapide</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 litre de lait</p>
+    <p>4 oeufs</p>
+    <p>1 paquet de sucre vanillé</p>
+    <p>8 cuillères à soupe de farine</p>
+    <p>8 cuillères à soupe de sucre</p>
+    <p>1 boîte de poires au sirop (petit format)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger sucre, oeufs, lait, farine et sucre vanillé.Graissez et farinez un plat allant au four, puis disposez-y les poires coupées en quatre. Ajoutez la pâte (qui doit être assez liquide).Faire cuire à 200°C pendant 30 ou 40 minutes (le temps de cuisson plus ou moins long donne un flan plus ou moins moelleux).On peut sucrer moins pour les régimes hypocaloriques.
+  ]]>
+  </preparation>
+</recette>

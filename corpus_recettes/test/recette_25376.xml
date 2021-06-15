@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25376">
+  <titre>Omelette aux foies de volaille</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 oeufs</p>
+    <p>200 g de foies de poulet</p>
+    <p>1 gros oignon</p>
+    <p>125 ml de crème fraîche normale (ou allégée) </p>
+    <p>15 g de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyez les foies de poulet et coupez-les en petits morceaux. Emincez finement l'oignon. 
+    Faites fondre le beurre dans une poêle anti-adhésive et dès qu'il est chaud ajoutez les foies de poulet, mélangez et laissez cuire pendant 10 mn. 
+    A ce moment retirez les foies de la poêle, salez et poivrez-les et réservez-les au chaud. 
+    Mettez l'oignon émincé dans la poêle et faites-le revenir jusqu'à ce qu'il devienne translucide (attention à ne pas les laissez brunir, cela gâcherait le goût). Remettre les foies de poulet dans la poêle et faire revenir le tout ensemble. 
+    Pendant ce temps, battez les oeufs en omelette avec le sel, le poivre et la crème fraîche. Retirez la poêle du feu, versez en une seule fois le mélange aux oeufs et remettez la poêle sur le gaz à feu vif pendant 3 mn, continuez ensuite la cuisson normalement jusqu'à obtention de la texture désirée.
+    Accompagnez votre omelette d'une salade verte et d'une baguette à l'ail.
+  ]]>
+  </preparation>
+</recette>

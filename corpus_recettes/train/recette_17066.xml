@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17066">
+  <titre>Poulet à l'ananas et aux courgettes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 escalopes de poulet</p>
+    <p>450 g de courgettes</p>
+    <p>1 oignon</p>
+    <p>40 g de beurre</p>
+    <p>250 g d'ananas au sirop</p>
+    <p>2 dl de lait de coco</p>
+    <p>estragon</p>
+    <p>1 cuillère à soupe de curry</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte, faire cuire dans du beurre les rondelles de courgettes 5 mn de chaque côté. Salez et poivrez, puis les réserver.
+    Dans la même cocotte, faire saisir les escalopes de poulet 10 mn. Salez, poivrez et réservez.
+    Toujours dans la même cocotte, faire revenir 5 mn l'oignon émincé. Verser ensuite le lait de coco, le sirop d'ananas (1dl), et le curry.
+    Salez, poivrez et faire réchauffer 5 mn à couvert.
+    Ajoutez l'estragon, les escalopes coupées en grosses lanières, les courgettes et les tranches d'ananas coupées en 4.
+    Poursuivez le réchauffage encore 5 mn et régalez-vous.
+  ]]>
+  </preparation>
+</recette>

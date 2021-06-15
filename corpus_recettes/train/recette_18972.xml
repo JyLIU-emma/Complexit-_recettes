@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18972">
+  <titre>Tarte au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de chocolat fondant</p>
+    <p>100 g de beurre</p>
+    <p>3 oeufs</p>
+    <p>50 g de farine fermentante (farine avec levure)</p>
+    <p>100 g de sucre glace</p>
+    <p>3 cuillères à soupe de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger dans un récipient : 3 oeufs, 50 g de farine avec levure et 100 g de sucre glace. 
+    Dans un autre plat, faire fondre 100 g de chocolat (au micro-ondes) et 100 g de beurre, et mélanger. 
+    Ajouter au chocolat et beurre fondu le mélange oeufs, farine, sucre glace, et bien mélanger le tout. 
+    Cuire dans un moule à tarte à 180°C (th 6), pendant 25 min. 
+    Faire fondre les 100 g de chocolat restant, avec un peu de lait, et napper la tarte lorsqu'elle est refroidie. 
+    Placer au frigo.
+  ]]>
+  </preparation>
+</recette>

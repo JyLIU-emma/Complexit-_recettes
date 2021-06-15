@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27452">
+  <titre>Thon rôti au safran et confit de légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de thon frais</p>
+    <p>300 g de tomates</p>
+    <p>2 poivrons rouges</p>
+    <p>2 gousses d'ail</p>
+    <p>2 échalotes</p>
+    <p>1 citron</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>15 cl d'huile d'olive</p>
+    <p>50 g de beurre</p>
+    <p>1 branche de thym</p>
+    <p>1 feuille de laurier</p>
+    <p>1 capsule de safran</p>
+    <p>1/2 cuillère à café de sucre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Arrosez le thon de jus de citron, salez-le, poivrez-le et saupoudrez-le de safran.
+    Laissez reposer 3 heures au frais.
+    Pelez et hachez les tomates, les poivrons, l'ail et les échalotes. Faites chauffer 2 cuillères à soupe d'huile, jetez-y les légumes et laissez confire à feu doux pendant 1 h environ.
+    Salez, poivrez. Ajoutez le thym et le laurier, mouillez de vin blanc et saupoudrez de sucre. Laissez réduire à feu moyen jusqu'à ce que le liquide soit évaporé.
+    Faites fondre le beurre, enduisez le thon de beurre fondu et mettez-le dans un plat allant au four. Faites cuire 15 minutes à 200°C (thermostat 6-7).
+    Servez le thon rôti et arrosé du reste de beurre chaud, accompagné des légumes confits.
+  ]]>
+  </preparation>
+</recette>

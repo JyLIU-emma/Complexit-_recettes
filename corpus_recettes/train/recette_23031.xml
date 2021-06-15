@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23031">
+  <titre>Kouign amann tiède</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>25 g de levure</p>
+    <p>2 dl d'eau tiède</p>
+    <p>250 g de sucre en poudre</p>
+    <p>500 g de farine</p>
+    <p>250 g de beurre demi-sel</p>
+    <p>1 oeuf battu</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    pâte à pain : 
+    Délayez la levure dans l'eau tiède avec une pincée de sucre. Incorporez la farine et pétrissez jusqu'à obtenir une pâte lisse et homogène. 
+    Laissez la pâte lever pendant au moins une heure à l'abri des courants d'air dans un endroit tempéré. 
+    Préchauffez votre four à 200°C. 
+    Etalez une première fois la pâte et répartissez le beurre en petits morceaux sur toute sa surface. 
+    Saupoudrez de sucre et pliez en quatre comme pour une pâte feuilletée. 
+    Réabaissez de nouveau la pâte et recommencez l'opération quatre fois. 
+    Placez la pâte dans un moule bien beurré, badigeonnez la surface avec l'oeuf battu et mettez au four pour 25 mn. 
+    Laissez refroidir le kouign-amann, dégustez-le tiède.
+     cidre
+  ]]>
+  </preparation>
+</recette>

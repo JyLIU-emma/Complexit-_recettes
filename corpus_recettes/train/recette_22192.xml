@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22192">
+  <titre>Travers de porc grillés à la sauce barbecue</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de travers de porc</p>
+    <p>10 cl de coulis de tomate</p>
+    <p>2 cuillerées à soupe de ketchup</p>
+    <p>2 cuillères à café de vinaigre de cidre</p>
+    <p>1 cuillère à soupe de moutarde</p>
+    <p>1 cuillerée à soupe d'huile</p>
+    <p>1 cuillère à soupe de sucre ou de miel</p>
+    <p>sel, poivre</p>
+    <p>1 pincée de piment de Cayenne</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découpez les travers en 4.
+    Mélangez tous les ingrédients et faites mariner la viande dedans au moins 30 min.
+    Egouttez et faites cuire les travers 45 min au four à 180°C (thermostat 6) ou au barbecue (ou grill) en arrosant de temps en temps avec la marinade.
+    Retournez-les à mi-cuisson.
+    Les "Spare ribs" iront très bien avec des frites mais aussi du riz ou de la polenta.
+  ]]>
+  </preparation>
+</recette>

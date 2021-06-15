@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19834">
+  <titre>Lapin au cacao</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 lapin découpé en morceaux</p>
+    <p>150 g de lardons fumés</p>
+    <p>250 g de petits oignons blancs (grelots à défaut) </p>
+    <p>40 g d'échalotes hachées</p>
+    <p>15 cl de vinaigre de vin</p>
+    <p>15 g de cacao amer en poudre</p>
+    <p>30 cl de vin blanc sec (genre Sauvignon) </p>
+    <p>4 cuillères à soupe d'huile</p>
+    <p>5 clous de girofle</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un faitout, faire dorer les morceaux de lapin 10 mn avec 2 cuillères à soupe d'huile. Les retourner à mi-cuisson. 
+    Ajouter les échalotes, remuer 2 mn puis verser vin, vinaigre, clous de girofle et 25 cl d'eau bouillante. 
+    Saler, poivrer et laisser cuire 10 mn à découvert et 30 mn à couvert à petit feu. 
+    Pendant ce temps, dans une poêle avec les restes d'huile, faire dorer les oignons, ajuter les lardons et laisser cuire 5 mn. 
+    Ajouter 10 cl d'eau et poursuivre la cuisson 5 mn. 
+    Retirer les morceaux de lapin, les réserver au chaud. 
+    Verser dans le faitout, le mélange oignns, lardons. 
+    Laisser réduire 5 mn à découvert à feu assez vif. 
+    Verser le cacao en poudre, et rectifier l'assaisonnement.
+    Servir avec des pommes vapeur ou du riz.
+  ]]>
+  </preparation>
+</recette>

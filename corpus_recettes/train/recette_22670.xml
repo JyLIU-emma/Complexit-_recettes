@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22670">
+  <titre>Salade de concombre/feta/ olives noires</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la salade :</p>
+    <p>1 concombre</p>
+    <p>200 g de feta</p>
+    <p>1 bonne poignée d’olives noires</p>
+    <p>Pour la sauce :</p>
+    <p>1 cuillère à soupe de jus de citron</p>
+    <p>3 cuillères à soupe d’huile d’olive</p>
+    <p>1 bouquet de ciboulette</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et détailler le concombre en fines rondelles.
+    Découper la feta en gros cubes.
+    Sur un plat de service, dresser les rondelles de concombre en soignant la présentation.
+    Parsemer de dés de feta et d’olives noires.
+    Préparer ensuite la sauce au citron :
+    Dans un bol, battre l’huile d’olive avec le jus de citron, la ciboulette finement ciselée, le sel et le poivre.
+    Quelques minutes avant de servir, napper le plat de sauce.
+  ]]>
+  </preparation>
+</recette>

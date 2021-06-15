@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15474">
+  <titre>Rillettes de maquereaux</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 maquereaux moyens</p>
+    <p>2 oignons</p>
+    <p>1 échalote</p>
+    <p>15 cl de vin blanc</p>
+    <p>4 cuillères à soupe de crème fraîche</p>
+    <p>2 cuillères à soupe de moutarde</p>
+    <p>1 cuillères à soupe d'huile d'olive</p>
+    <p>1 cuillère à soupe de vinaigre de cidre</p>
+    <p>1 oeuf (le jaune)</p>
+    <p>1/2 citron</p>
+    <p>sel, poivre</p>
+    <p>herbes de Provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire au four les maquereaux après les avoir mis en filets avec les oignons et l'échalote coupés en rondelles.
+    Après cuisson enlever la peau et les arêtes restantes.
+    Mettre tous les ingrédients avec les maquereaux, les oignons et l'échalote dans un récipiend.
+    Mixer le tout pendant environ dix secondes.Répartir dans des terrines en grès et mettre au four (thermostat 5) pendant 45 mn.
+  ]]>
+  </preparation>
+</recette>

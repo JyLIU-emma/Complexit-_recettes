@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18117">
+  <titre>Terrine de chèvre aux betteraves rouges</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 betteraves rouges cuites</p>
+    <p>250 g de chèvre mi-frais</p>
+    <p>150 g de mesclun ou autre salade</p>
+    <p>3 cuillères à soupe d'huile de noix</p>
+    <p>1 cuillère à soupe de vinaigre balsamique</p>
+    <p>sel et poivre </p>
+    <p>cerneaux de noix</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détaillez les betteraves en tranches de 5 mm environ et les étaler sur du papier absorbant.
+    Chemisez un moule à cake (pas trop grand) de film alimentaire et alternez 1 couche de betteraves et 1 de tranches de fromage.
+    Salez, poivrez entre les couches et arrosez d'huile jusqu'à épuisement des ingrédients.
+    Rabattez le film, disposez un poids sur la terrine et laissez au frais environ 12h.
+    Coupez la terrine en tranches et servir avec le mesclun assaisonné du reste d'huile, du vinaigre et des noix.
+  ]]>
+  </preparation>
+</recette>

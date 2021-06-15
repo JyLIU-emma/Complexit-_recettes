@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20131">
+  <titre>Pavés de truite saumonée au safran</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>4 pavés de truite</p>
+    <p>1 court bouillon en sachet pour poisson </p>
+    <p>3 doses de safran en poudre</p>
+    <p>20 cl de crème liquide</p>
+    <p>125 g de beurre</p>
+    <p>riz basmati</p>
+    <p>poivre</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparation du court bouillon : verser 1 sachet de court bouillon dans 2 litres d'eau froide et faire chauffer. 
+    Plonger le poisson dans le court bouillon et porter à ébullition, ensuite baisser le feu et laisser frémir de 5 à 7 mn pour des filets plats. 
+    Pendant ce temps, faire fondre le beurre à feu très doux, y incorporer les 3 doses de safran, une pincée de sel, le poivre ; remuer, ajouter la crème liquide et faire bouillir 2 mn. 
+    Disposer les pavés sur une assiette chaude, les napper de sauce et servir. 
+    Servir avec le riz basmati.
+     Muscadet, Bourgogne blanc
+  ]]>
+  </preparation>
+</recette>

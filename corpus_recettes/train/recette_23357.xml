@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23357">
+  <titre>Ragoût de blettes au thon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de blettes émincées</p>
+    <p>1 petite boîte de miettes de thon à l'huile</p>
+    <p>12 olives vertes et noires</p>
+    <p>2 anchois</p>
+    <p>1 cuillère à soupe de concentré de tomate</p>
+    <p>1 gros oignon émincé</p>
+    <p>3 gousses d'ail</p>
+    <p>4 cuillères à soupe huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir l'oignon dans l'huile, ajouter les blettes, les anchois et l'ail écrasés puis le concentré de tomate.
+    Ebouillanter les olives coupées en 4 pendant 2 minutes puis les ajouter au mélange précédent. Cuire 15 minutes puis ajouter le thon égoutté. Poursuivre la cuisson 20 minutes et servir.
+  ]]>
+  </preparation>
+</recette>

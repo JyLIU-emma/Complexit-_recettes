@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26662">
+  <titre>Poulet aux fruits secs</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 morceaux de poulet (avec os) </p>
+    <p>1 gros oignon</p>
+    <p>1 poignée de raisins secs</p>
+    <p>1 poignée d'amandes</p>
+    <p>1 poignée de pruneaux</p>
+    <p>2 verres de vin cuit</p>
+    <p>1 piment sec</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les raisins secs à tremper dans un verre de vin. 
+    Fariner les morceaux de poulet, les faire dorer dans de l'huile, puis réserver. 
+    Emincer l'oignon et le faire revenir doucement dans une cocotte, jusqu'à ce qu'il soit translucide. 
+    Ajouter alors le poulet, saler et poivrer, émietter le piment. Mouiller avec le vin, ajouter 2 ou 3 verres d'eau puis les fruits secs. 
+    Laisser mijoter 1/2 heure environ (ou plus si vous aimez que la viande tombe toute seule des os). 
+    Servir avec du riz (que l'on peut agrémenter avec des raisins et des abricots secs et des amandes effilées grillées).
+  ]]>
+  </preparation>
+</recette>

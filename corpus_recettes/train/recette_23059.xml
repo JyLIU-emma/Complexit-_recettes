@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23059">
+  <titre>Pâté de poisson</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de lotte ou de filet</p>
+    <p>7 oeufs</p>
+    <p>sel, poivre</p>
+    <p>1 pot de 20 cl de crème fraîche</p>
+    <p>une petite boîte de concentré de tomate</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire le poisson au court bouillon la veille si possible. 
+    L'écraser à la fourchette légèrement, ajouter les oeufs entiers, la crème fraîche, le sel, le poivre, le concentré de tomate. Mettre dans un moule beurré la préparation qui doit avoir la consistance d'une crème épaisse. 
+    Faire cuire à four moyen (Th 6) pendant 40 mn maximum. Attendre une heure et démouler tiède.
+    Froid avec de la mayonnaise et une salade. vin blanc
+  ]]>
+  </preparation>
+</recette>

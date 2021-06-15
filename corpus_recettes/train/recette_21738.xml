@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21738">
+  <titre>Farce au foie et au lard pour volailles</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de foies de volaille</p>
+    <p>150 g de lard frais</p>
+    <p>50 g de champignons de Paris</p>
+    <p>2 échalotes</p>
+    <p>1 brindille de thym</p>
+    <p>1 feuille de laurier</p>
+    <p>1 pincée de quatre-épices</p>
+    <p>5 cl de cognac</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hachez les champignons.
+    Emincez finement le lard et les échalotes.
+    Faites rissoler le lard dans une sauteuse, ajoutez les foies de volaille, les échalotes et les champignons.
+    Ajoutez également le thym, le laurier, sel, poivre et quatre-épices.
+    Faites sauter le tout à feu vif quelques minutes et flambez au cognac.
+    Laissez refroidir et réservez au frais dans du film alimentaire jusqu'au moment de farcir la volaille.
+  ]]>
+  </preparation>
+</recette>

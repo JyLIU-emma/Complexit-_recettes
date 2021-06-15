@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23678">
+  <titre>Gnocchi au coulis de tomate au basilic</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,5 kg de pommes de terre farineuses</p>
+    <p>300 g de farine</p>
+    <p>1 oeuf</p>
+    <p>400 g de tomates</p>
+    <p>2 gousses d'ail</p>
+    <p>2 cuillères à soupe de basilic frais haché</p>
+    <p>50 g de beurre</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les pommes de terre et les faire cuire à l'eau salée ou à la vapeur.
+    Une fois cuites, les égoutter et écraser en purée fine.
+    Ajouter l'oeuf battu puis de la farine (quantité à doser à la texture) peu à peu de manière à obtenir une pâte souple mais ferme.
+    Sur un plan fariné, former des boudins et les couper en petits tronçons (3-4 cm).
+    Les applatir légèrement en pressant avec une fourchette pour faire les stries, réserver dans un linge fariné jusqu'au moment de les cuire.
+    Peler et épépiner les tomates.
+    Les écraser avec l'ail pilé, l'huile, sel, poivre et le basilic haché.
+    Réserver.
+    Faire cuire les gnocchi à l'eau bouillante salée : les retirer quand ils remontent à la surface.
+    Egoutter et les faire revenir dans une poêle avec du beurre.
+    Mélanger avec le coulis de tomates froid et servir aussitôt.
+    Rajouter selon les goûts du parmesan ou des morceaux de mozzarella.
+  ]]>
+  </preparation>
+</recette>

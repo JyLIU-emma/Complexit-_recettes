@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22477">
+  <titre>Bananes au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 bananes</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 verre à liqueur de liqueur à l'orange</p>
+    <p>100 g de crème fraîche</p>
+    <p>100 g de chocolat</p>
+    <p>3 cuillerées à soupe d'eau</p>
+    <p>1 cuillerée à soupe de sucre fin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez et coupez les bananes en rondelles régulières.
+    Rangez-les dans un compotier.
+    Parfumez avec la liqueur et saupoudrez de sucre vanillé. Fouettez la crème fraîche avec le sucre fin en Chantilly. Faites fondre le chocolat avec de l'eau. 
+    Nappez les bananes avec la sauce au chocolat et garnissez au moment de servir avec la Chantilly.
+  ]]>
+  </preparation>
+</recette>

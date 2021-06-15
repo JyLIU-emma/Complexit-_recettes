@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16137">
+  <titre>Ravioli au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de pâte à ravioli</p>
+    <p>1 cuillère à soupe de cacao</p>
+    <p>100 g de chocolat amer</p>
+    <p>80 g de crème fraîche</p>
+    <p>20 g de sirop de sucre</p>
+    <p>20 g de beurre</p>
+    <p>4 jaunes d'oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la pâte à ravioli en y ajoutant une cuillère à soupe de cacao.
+    Faire fondre le chocolat au bain marie. Ajouter la crème, le sirop de sucre, le beurre, puis les jaunes d'oeufs un à un, en fouettant sur feu doux. Laisser refroidir le mélange.
+    Etaler finement la pâte en deux abaisses égales. Disposer sur la première des noix de farce, à intervalles de 2 cm environ. Recouvrir avec la seconde, et découper les ravioli à la roulette. Jeter les ravioli dans l'eau bouillante. Les laisser cuire 3 minutes, puis les égoutter soigneusement.
+    Servir avec une crème anglaise. Malvasia blanc
+  ]]>
+  </preparation>
+</recette>

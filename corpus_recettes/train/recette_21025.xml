@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21025">
+  <titre>Gratin montagnard au jambon cru</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>700 g de pommes de terre</p>
+    <p>200 g de jambon cru</p>
+    <p>100 g de gruyère râpé</p>
+    <p>3 à 4 cuillères à soupe de crème fraîche</p>
+    <p>40 cl de lait</p>
+    <p>2 gousses d'ail</p>
+    <p>huile et beurre</p>
+    <p>noix de muscade</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez et coupez les pommes de terres en rondelles.
+    Faites-les dorer à la poêle dans un mélange beurre-huile.
+    Versez dessus le lait bouillant, salez, poivrez et parsemez noix de muscade râpée. Ajoutez l'ail haché et laissez cuire environ 15 minutes à feu doux.
+    Hachez le jambon cru, ajoutez-le aux pommes de terre et laissez cuire encore 10-15 minutes.
+    Versez le tout dans un plat à gratin beurré et frotté avec l'autre gousse d'ail. Répartissez la crème et le gruyère râpé et faites gratiner au four.
+  ]]>
+  </preparation>
+</recette>

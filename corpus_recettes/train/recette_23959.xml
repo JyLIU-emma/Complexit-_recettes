@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23959">
+  <titre>Cassolettes de pétoncles gratinées</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>24 noix de pétoncles avec leur corail</p>
+    <p>100 g de mie de pain rassis</p>
+    <p>10 cl de lait</p>
+    <p>1 jaune d'oeuf</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>2 gousses d'ail</p>
+    <p>1 bouquet de persil</p>
+    <p>30 g de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites tremper le pain dans le lait.
+    Pilez l'ail et le persil, puis mixez-les avec le pain essoré. Mélangez avec le beurre mou, la crème fraîche et le jaune d'oeuf.
+    Salez, poivrez.
+    Déposez les pétoncles dans 4 cassolettes beurrées allant au four. Répartissez la préparation dessus.
+    Passez au four à 210°C (thermostat 7) pendant 10 minutes.
+  ]]>
+  </preparation>
+</recette>

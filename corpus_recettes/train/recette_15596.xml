@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15596">
+  <titre>Soupe au concombre (Moyen-Orient)</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>40 cl de bouillon de volaille</p>
+    <p>15 cl de jus de tomate</p>
+    <p>30 cl de yaourt entier nature</p>
+    <p>15 cl de crème fraîche</p>
+    <p>2 gousses d'ail</p>
+    <p>1 petit concombre</p>
+    <p>1 oeuf dur</p>
+    <p>sel, poivre, menthe fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre tous les ingrédients, sauf le concombre, la menthe et l'oeuf dans un mixer, et réduire en purée fine et homogène. Mettre au frais 30 minutes au moins.
+    Une heure avant de servir, éplucher le concombre, l'épépiner, le couper en très petits dés, le saler égèrement et le laisser dégorger 1 h. Hacher l'oeuf dur. L'ajouter à la soupe avec les dés de concombre égouttés, parsemer de menthe hachée.
+    Servir glacé.Le mélange mixé (bouillon, tomate, yaourt et crème fraûche) se conserve très bien au congélateur. Il suffit, une fois décongelé, de lui rajouter le concombre, l'oeuf et la menthe.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164614">
+  <titre>Hamburger light sans pain et plein de saveurs (régime)</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 tranches d'aubergine coupée dans sa largeur (environ 1cm d'épaisseur et au moins le diamètre d'un steack haché)</p>
+    <p>1 steack haché ou blanc de poulet ou morceau de tofu voire de feta !</p>
+    <p>1 belle rondelle d'oignon rouge</p>
+    <p>3 rondelles de tomate</p>
+    <p>laitue</p>
+    <p>1 cornichon russe coupé en rondelles</p>
+    <p>1 cuillère à soupe de concentré de tomate (Ou ketchup light ou ketchup traditionnel, comme vous préférez !)</p>
+    <p>1 cuillère à soupe de cancoillotte</p>
+    <p>1 courgette râpée en lanières</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les deux rondelles d'aubergine sur le grill ou au four th 7 sur du papier sulfurisé jusqu'à ce que la chair soit tendre.
+     
+    Pendant ce temps saisir le steack sur une poelle anti-adhésive (il faut qu'il ne soit pas assez cuit...)
+     
+    Quand les auberbines sont tendres, les sortir du four et assembler votre hamburger : une rondelle d'aubergine, puis le steack, puis l'oignon, puis le concentré, le cornichon et la tomate.
+    Utiliser un pic à brochette pour maintenir le tout.
+      Disposer la deuxième tranche d'aubergine à coté de votre première pile avec la cuillère de concoillote et les lanières de courgette (un joli tas parcequ'elles vont bien réduire).
+     Remettre au four th 7 5 à dix minutes (jusqu'à ce que la courgette ait "gratiné". ) 
+    Rajouter la laitue sur la pile avec le steack ainsi que la tranche d'aubergine avec les courgettes. Déguster !Ça n'a pas du tout le gout d'un hamburger, mais c'est très bon si on aime les légumes. Et c'est un excellent palliatif à la "junk food" quand on est au régime...
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Mettre</OPER> les deux rondelles d'<INGRED id="1">aubergine</INGRED> sur le grill ou au four th 7 sur du papier sulfurisé jusqu'à ce que la chair soit tendre. Pendant ce temps <OPER id="o_2">saisir</OPER> le <INGRED id="2">steack</INGRED> sur une poelle anti-adhésive ( il faut qu'il ne soit pas assez cuit... ) Quand les auberbines sont tendres, les <OPER id="o_3">sortir</OPER> du four et <OPER id="o_4">assembler</OPER> votre hamburger : une rondelle d'<INGRED id="1">aubergine</INGRED>, puis le <INGRED id="2">steack</INGRED>, puis l'<INGRED id="2">oignon</INGRED>, puis le <INGRED id="3">concentré</INGRED>, le <INGRED id="6">cornichon</INGRED> et la tomate. <OPER id="o_5">Utiliser</OPER> un pic à brochette pour maintenir le tout. <OPER id="o_6">Disposer</OPER> la deuxième tranche d'<INGRED id="1">aubergine</INGRED> à coté de votre première pile avec la cuillère de concoillote et les lanières de <INGRED id="4">courgette</INGRED> ( un joli tas parcequ'elles vont bien réduire ). <OPER id="o_7">Remettre</OPER> au four th 7 5 à dix minutes ( jusqu'à ce que la <INGRED id="2">courgette</INGRED> ait " gratiné ". ) <OPER id="o_8">Rajouter</OPER> la <INGRED id="5">laitue</INGRED> sur la pile avec le <INGRED id="2">steack</INGRED> ainsi que la tranche d'<INGRED id="1">aubergine</INGRED> avec les courgettes. Déguster ! Ça n'a pas du tout le gout d'un hamburger, mais c'est très bon si on aime les légumes. Et c'est un excellent palliatif à la " junk food " quand on est au régime...
+  </annotation>
+  <annotation methode="crf">
+  Mettre les <INGRED>deux</INGRED> rondelles d'aubergine sur le grill <INGRED>ou</INGRED> au four th 7 sur du papier sulfurisé jusqu'à ce que la <INGRED>chair</INGRED> soit tendre <INGRED>.</INGRED> Pendant ce temps saisir le <INGRED>steack</INGRED> sur une poelle anti-adhésive ( il faut qu'il ne soit pas assez cuit... ) Quand les <INGRED>auberbines</INGRED> sont tendres, les sortir du four et assembler votre hamburger <INGRED>:</INGRED> une rondelle d'aubergine <INGRED>,</INGRED> puis le <INGRED>steack</INGRED> <INGRED>,</INGRED> puis l'<INGRED>oignon</INGRED> <INGRED>,</INGRED> puis le <INGRED>concentré</INGRED> <INGRED>,</INGRED> le <INGRED>cornichon</INGRED> et la <INGRED>tomate</INGRED> <INGRED>.</INGRED> Utiliser un pic à brochette pour maintenir le tout <INGRED>.</INGRED> Disposer la deuxième tranche d'aubergine à coté de votre première pile avec la cuillère de <INGRED>concoillote</INGRED> et les lanières de <INGRED>courgette</INGRED> ( un joli tas parcequ'elles vont bien réduire ). Remettre au four th 7 5 à dix minutes ( jusqu'à ce que la <INGRED>courgette</INGRED> ait " gratiné ". ) Rajouter la <INGRED>laitue</INGRED> sur la pile avec le <INGRED>steack</INGRED> ainsi que la tranche d'aubergine avec les <INGRED>courgettes</INGRED> <INGRED>.</INGRED> Déguster ! Ça n'<INGRED>a</INGRED> pas du tout le gout d'un hamburger <INGRED>,</INGRED> mais c'est très bon si on aime les <INGRED>légumes</INGRED> <INGRED>.</INGRED> Et c'est un excellent palliatif à la " junk food " quand on est au régime...
+  </annotation>
+  <complexite>
+    <temps>f(X) = 7.33333333333333*X + 0.666666666666667</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 11*X + 4</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['aubergine coupée dans sa largeur', 'aubergine']	 id:1	 quantité:2	 unité:tranches d'	 denombrable:True	 recipient:2*X
+ingredient:['steack haché ou blanc de poulet ou morceau de tofu voire de feta', 'steack']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['oignon rouge', 'oignon']	 id:3	 quantité:1	 unité:rondelle d'	 denombrable:True	 recipient:1*X
+ingredient:['tomate']	 id:4	 quantité:3	 unité:rondelles de	 denombrable:True	 recipient:3*X
+ingredient:['laitue']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['cornichon russe coupé en rondelles', 'cornichon']	 id:6	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['concentré de tomate', 'concentré']	 id:7	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['cancoillotte']	 id:8	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['courgette râpée en lanières', 'courgette']	 id:9	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mettre	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:saisir	 id:o_2	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:sortir	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:assembler	 id:o_4	 ingrédients_ralatifs:['1', '2', '2', '3', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:utiliser	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_6	 ingrédients_ralatifs:['1', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:remettre	 id:o_7	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:rajouter	 id:o_8	 ingrédients_ralatifs:['5', '2', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

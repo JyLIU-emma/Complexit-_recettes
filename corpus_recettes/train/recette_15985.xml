@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15985">
+  <titre>Darnes de saumon au fromage</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 darnes de saumon (surgelé ou pas)</p>
+    <p>1 échalote</p>
+    <p>3 éclats d'ail</p>
+    <p>2 tomates</p>
+    <p>2 poignées de poireaux finement ciselés</p>
+    <p>quelques noix de beurre</p>
+    <p>1 fromage au poivre ou aux fines herbes</p>
+    <p>10 cl de crème fraîche</p>
+    <p>persil haché (pour la garniture)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer tous les légumes : éplucher, laver, ciseler.
+    Graisser un plat en pyrex. Y placer le poisson. Parsemer de légumes: échalote, ail, tomates coupées en tranches, poireaux, noix de beurre.
+    Faire cuire au micro-ondes 30 à 45 mn (si surgelé) recouvert d'un film spécial (750 W).
+    Vérifier la cuisson à l'aide d'une aiguille à tricoter.
+    Récupérer le jus de cuisson dans un poêlon (tenir le poisson au chaud). Y ajouter le fromage et faire chauffer jusqu'à dissolution complète. Ajouter la crème fraîche. Goûter et rectifier l'assaisonnement.
+    Verser sur le poisson. Parsemer de persil haché, puis servir.
+    Servir avec des tagliatelles fines.
+  ]]>
+  </preparation>
+</recette>

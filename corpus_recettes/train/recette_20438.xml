@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20438">
+  <titre>Soupe au chou</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 navet</p>
+    <p>1 beau poireau</p>
+    <p>1 branche de céleri</p>
+    <p>4 pomme de terre</p>
+    <p>1 chou</p>
+    <p>1 cuillère à soupe de graisse de canard</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un fait-tout faire bouillir de l'eau salée. 
+    Pendant ce temps nettoyer le poireau, épluchez le navet, lavez le céleri et mettez le tout à cuire dans l'eau bouillante en ayant pris soin de les avoir coupé. Laisser mijoter pendant 1 heure et demi, puis ajouter les pommes de terres et le chou, après les avoir lavé épluché et coupé en petit quartier. Laissez cuire au minimum une demi-heure. Ajoutez la cuillerée de graisse de canard.
+  ]]>
+  </preparation>
+</recette>

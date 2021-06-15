@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21708">
+  <titre>Soufflé à la banane</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 bananes</p>
+    <p>20 cl de lait</p>
+    <p>70 g de sucre</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>30 g de beurre</p>
+    <p>3 jaunes d'oeufs + 4 blancs</p>
+    <p>2 cuillères à soupe de rhum</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les bananes en rondelles, les arroser de rhum et laisser mariner.
+    Préchauffer le four à 180°C (thermostat 6).
+    Délayer la farine dans 2 cuillères à soupe de lait froid. Amener le reste du lait à ébullition avec le sucre et verser d'un seul coup le mélange farine-lait tout en remuant. Laisser épaissir 2 minutes puis, hors du feu, ajouter le beurre et les jaunes d'oeufs.
+    Ajouter les bananes et les blancs d'oeufs montés en neige. Verser dans un moule beurré.
+    Cuire 20 minutes, servir dès la sortie du four.
+  ]]>
+  </preparation>
+</recette>

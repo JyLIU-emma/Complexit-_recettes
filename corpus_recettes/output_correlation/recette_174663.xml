@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="174663">
+  <titre>Sushis basques</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de riz à sushis</p>
+    <p>12 tranches de chiffonnade de jambon de Bayonne (3 tranches par rouleau)</p>
+    <p>fromage de brebis Basque</p>
+    <p>2 à 3 piments verts doux des Landes</p>
+    <p>vinaigre de cidre</p>
+    <p>ail en poudre</p>
+    <p>poudre de piment d'Espelette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour changer un peu et pour faire plaisir à ceux que l'algue nori rebute, j'ai fait quelques sushis "locaux".Faire cuire le riz selon la méthode habituelle de cuisson pour le riz à sushi.
+    Le mettre à reposer dans un tamis (en bois si possible).Pour l'assaisonnement, faire une sauce basque en mélangeant du vinaigre de cidre, du piment d'Espelette et de l'ail en poudre.
+    Prendre 3 tranches de jambon de Bayonne, les mettre les unes sur les autres à plat puis y déposer le riz au milieu, à la main, les doigts bien humidifiés par une eau vinaigrée ou citronnée. Cela va former par la suite un grand rouleau.
+    Ajouter un morceau de fromage de brebis, des piments verts (taillés finement) en longueur,
+    puis rouler délicatement sans trop serrer pour faciliter la découpe du rouleau.
+    Le mettre 5 min au congélateur et découper ensuite avec un couteau humide.
+    Pour continuer dans le local, servir avec une piperade froide, pour tremper le sushi.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Pour changer un peu et pour <INGRED id="4">faire</INGRED> plaisir à ceux que l'algue nori rebute, j'ai fait quelques sushis " locaux". Faire <OPER id="o_1">cuire</OPER> le <INGRED id="3">riz</INGRED> selon la méthode habituelle de cuisson pour le <INGRED id="1">riz</INGRED> à sushi. Le <OPER id="o_2">mettre</OPER> à <OPER id="o_3">reposer</OPER> dans un tamis ( en bois si possible).Pour l'assaisonnement, faire une sauce basque en mélangeant du <INGRED id="5">vinaigre de cidre</INGRED>, du piment d'Espelette et de l'<INGRED id="6">ail en poudre</INGRED>. <OPER id="o_4">Prendre</OPER> 3 <INGRED id="4">tranches</INGRED> de <INGRED id="7">jambon</INGRED> de Bayonne, les <OPER id="o_5">mettre</OPER> les unes sur les autres à plat puis y <OPER id="o_6">déposer</OPER> le riz au milieu, à la main, les doigts bien humidifiés par une <INGRED id="2">eau</INGRED> vinaigrée ou citronnée. Cela va former par la suite un grand rouleau. <OPER id="o_7">Ajouter</OPER> un <INGRED id="2">morceau de</INGRED> fromage de brebis, des <INGRED id="4">piments</INGRED> verts ( taillés finement ) en longueur, puis <OPER id="o_8">rouler</OPER> délicatement sans trop <OPER id="o_9">serrer</OPER> pour faciliter la découpe du rouleau. Le <OPER id="o_10">mettre</OPER> 5 min au congélateur et <OPER id="o_11">découper</OPER> ensuite avec un couteau humide. Pour continuer dans le local, servir avec une piperade froide, pour tremper le sushi.
+  </annotation>
+  <annotation methode="crf">
+  Pour changer un peu et pour faire plaisir à ceux que l'algue nori rebute <INGRED>,</INGRED> j'ai fait quelques sushis " locaux". Faire cuire le <INGRED>riz</INGRED> selon la méthode habituelle de cuisson pour le <INGRED>riz</INGRED> à sushi. Le mettre à reposer dans un tamis ( en bois si possible).Pour l'assaisonnement <INGRED>,</INGRED> faire une <INGRED>sauce</INGRED> basque en mélangeant du <INGRED>vinaigre de cidre</INGRED> <INGRED>,</INGRED> du <INGRED>piment d'Espelette</INGRED> et de l'<INGRED>ail en poudre</INGRED> <INGRED>.</INGRED> Prendre 3 tranches de <INGRED>jambon de Bayonne</INGRED> <INGRED>,</INGRED> les mettre les <INGRED>unes</INGRED> sur les autres à plat puis y déposer le <INGRED>riz</INGRED> au milieu <INGRED>,</INGRED> à la main <INGRED>,</INGRED> les doigts bien humidifiés par une <INGRED>eau</INGRED> vinaigrée ou citronnée. Cela va former par la suite un grand <INGRED>rouleau</INGRED> <INGRED>.</INGRED> Ajouter un <INGRED>morceau</INGRED> de <INGRED>fromage de brebis</INGRED> <INGRED>,</INGRED> des <INGRED>piments verts</INGRED> ( taillés finement ) en longueur <INGRED>,</INGRED> puis rouler délicatement sans trop serrer pour faciliter la découpe du <INGRED>rouleau</INGRED> <INGRED>.</INGRED> Le mettre 5 min au congélateur et découper ensuite avec un couteau humide. Pour continuer dans le <INGRED>local</INGRED> <INGRED>,</INGRED> servir avec une piperade froide <INGRED>,</INGRED> pour tremper le sushi.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 8.10526315789474*X + 2.89473684210526</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 14*X + 12</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['riz à sushis', 'riz']	 id:1	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['chiffonnade de jambon de Bayonne', 'chiffonnade']	 id:2	 quantité:12	 unité:tranches de	 denombrable:True	 recipient:12*X
+ingredient:['fromage de brebis Basque', 'fromage']	 id:3	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['piments verts doux des Landes', 'piments']	 id:4	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['vinaigre de cidre', 'vinaigre']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['ail en poudre', 'ail']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["poudre de piment d'Espelette", 'poudre']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:cuire	 id:o_1	 ingrédients_ralatifs:['3', '1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:mettre	 id:o_2	 ingrédients_ralatifs:['5', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:reposer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:prendre	 id:o_4	 ingrédients_ralatifs:['4', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_5	 ingrédients_ralatifs:['4', '7', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:déposer	 id:o_6	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:['2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rouler	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:serrer	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:découper	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+]]>
+</operation_trouve>
+</recette>

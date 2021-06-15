@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25741">
+  <titre>Mijoté de thon à la tomate et au poivron</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 tranches de thon</p>
+    <p>1,2 kg de tomates bien mûres</p>
+    <p>6 poivrons verts</p>
+    <p>6 gousses d'ail</p>
+    <p>2 oignons</p>
+    <p>1 cuillère à café de thym</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les tomates après les avoir ébouillantées, retirer les graines et les concasser.
+    Hacher les oignons et l'ail puis couper les poivrons en dés.
+    Mettre l'oignon, l'ail, la tomate et les poivrons dans une cocotte avec le thym. Saler, poivrer, couvrir et laisser cuire à feu doux durant 1 heure.
+    Disposer le thon dans la sauce et laisser cuire 20 minutes.
+  ]]>
+  </preparation>
+</recette>

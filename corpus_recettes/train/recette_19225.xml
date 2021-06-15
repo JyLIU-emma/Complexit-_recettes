@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19225">
+  <titre>Halva aux fruits secs</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 tasses de semoule</p>
+    <p>2 pincées de sel</p>
+    <p>2 cuillères café levure</p>
+    <p>100 g beurre</p>
+    <p>1 tasse de sucre</p>
+    <p>3 œufs</p>
+    <p>1 tasse de jus d'orange</p>
+    <p>1 zeste de citron</p>
+    <p>1 tasse de noix</p>
+    <p>1 tasse d'amandes</p>
+    <p>1 tasse de pignons</p>
+    <p>Pour le sirop :</p>
+    <p>1 tasse de sucre</p>
+    <p>1 tasse de miel</p>
+    <p>2 tasses d'eau citronnée</p>
+    <p>cannelle </p>
+    <p>2 clous de girofle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les ingrédients.
+    Griller légèrement les fruits secs puis réduire en poudre grossière.
+    Incorporer à la préparation avec le jus d'orange et le zeste de citron.
+    Verser dans un moule beurré. Cuire 45 min à four Th 3 . Arroser avec le sirop, en plusieurs fois (conserver éventuellement un peu de sirop pour remouiller le lendemain).
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15354">
+  <titre>Champignons à la Grecque</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>750 g de champignons de Paris</p>
+    <p>15 petits oignons blancs</p>
+    <p>1/4 litre de vin blanc sec</p>
+    <p>1 verre d'eau</p>
+    <p>1dl d'huile d'olive</p>
+    <p>1 petite boîte de concentré de tomates</p>
+    <p>2 citrons</p>
+    <p>15 graines de coriandre</p>
+    <p>laurier et thym</p>
+    <p>2 morceaux de sucre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole, mettre l'eau, le vin, l'huile, la sauce tomate, le jus des deux citrons, les 2 morceaux de sucre et les aromates. 
+    Porter à ébullition puis laisser mijoter doucement une dizaine de minutes.
+    Pendant ce temps, laver les champignons, les couper en 4 et éplucher les oignons. Les ajouter dans la casserole et cuire doucement à couvert pendant 15 à 20 min. Servir frais.
+  ]]>
+  </preparation>
+</recette>

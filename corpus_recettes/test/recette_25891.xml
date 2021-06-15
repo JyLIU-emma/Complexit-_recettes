@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25891">
+  <titre>Quiche épaisse au poulet et champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>des restes de poulet rôti</p>
+    <p>6 tranches fines de lard fumé</p>
+    <p>150 g de champignons</p>
+    <p>25 cl de crème</p>
+    <p>3 oeufs</p>
+    <p>40 g de gruyère râpé</p>
+    <p>30 g de beurre</p>
+    <p>1 oignon</p>
+    <p>muscade</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etalez la pâte dans un moule à tarte, faites-la cuire à blanc 10 minutes au four à 180°C (thermostat 6).
+    Pendant ce temps, faites suer l'oignon haché dans le beurre. Ajoutez les tranches de lard et les champignons nettoyés et émincés.
+    Laissez dorer le tout quelques minutes en remuant.
+    Versez la garniture sur le fond de pâte, disposez les tranches de lard en étoile.
+    Répartissez les restes de poulet coupés en morceaux sur le tout.
+    Battez la crème et les oeufs, salez, poivrez et parfumez de muscade.
+    Versez le tout sur la tarte et parsemez de fromage.
+    Faites cuire 20 min au four chaud à 200°C (thermostat 6-7).
+    Cette quiche est bien consistante, accompagnée d'une salade elle fait un plat complet.
+  ]]>
+  </preparation>
+</recette>

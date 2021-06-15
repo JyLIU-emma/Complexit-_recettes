@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21617">
+  <titre>Crème glacée aux abricots</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,2 kg d’abricots</p>
+    <p>250 g de sucre glace</p>
+    <p>200 g de crème fraîche</p>
+    <p>1 poignée d’amandes effilées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ebouillantez les abricots dans de l’eau bouillante 1 minute et les peler immédiatement. Enlever les noyaux et mixer la chair. 
+    Dans un saladier, fouetter la crème fraîche et y incorporer le sucre glace et la purée d’abricot.
+    Faire glacer en sorbetière et couvrir d’amande au moment de servir.
+  ]]>
+  </preparation>
+</recette>

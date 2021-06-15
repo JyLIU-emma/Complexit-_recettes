@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16277">
+  <titre>Pâté de thon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de pommes de terre</p>
+    <p>6 oeufs</p>
+    <p>1 grosse boîte de thon</p>
+    <p>1 petite boîte de concentré de tomate</p>
+    <p>ketchup</p>
+    <p>mayonnaise aux oeufs</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pommes de terre.
+    Cuire les oeufs afin qu'ils soient durs.
+    Dans une grande terrine, mettre les pommes de terre et les oeufs, puis les écraser en purée. Ajouter le thon et le concentré tomate. Bien mélanger le tout.
+    Ajouter ensuite ketchup et mayonnaise pour obtenir un pâté orangé. Saler et poivrer.
+    Présenter dans un plat le pâté façonné à la fourchette. Vous pouvez le présenter entouré avec des oeufs mimosas.
+  ]]>
+  </preparation>
+</recette>

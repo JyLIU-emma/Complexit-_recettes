@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24657">
+  <titre>Poulet provençal aux citrons confits</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet d'environ 2 kg</p>
+    <p>5 petites courgettes</p>
+    <p>2 petites aubergine</p>
+    <p>12 gousses d'ail</p>
+    <p>2 poivrons rouge</p>
+    <p>12 rondelles de citrons confits</p>
+    <p>8 cl de Noilly Prat</p>
+    <p>2 grands brins de thym</p>
+    <p>1 cuillère à café de graines de fenouil</p>
+    <p>huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites chauffer une cocotte avec de l'huile, mettez-y les gousses d'ail pelées. Ajoutez le poulet salé et poivré, laissez-le dorer sur toutes ses faces pendant 10 min.
+    Ajoutez les rondelles de citrons, le thym émietté, et le Noilly Prat. Mouillez avec 5 cl d'eau, puis couvrez.
+    Laissez mijoter 50 min à feu doux en retournant le poulet de temps en temps.
+    Pendant ce temps, découpez les légumes en morceaux et faites-les revenir dans une cocotte avec de l'huile pendant environ 10 min.
+    Salez, poivrez et ajoutez-les dans la cocotte avec le poulet ainsi que les graines de fenouil.
+    Laissez cuire encore 15 min avant de servir.
+  ]]>
+  </preparation>
+</recette>

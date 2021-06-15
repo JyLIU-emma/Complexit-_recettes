@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22512">
+  <titre>Filet de dindonneau sauce sucré-salé</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 boursins au poivre</p>
+    <p>25 cl de crème fraîche</p>
+    <p>4 poires cuites</p>
+    <p>4 filets de dindonneau ou filets de poulet</p>
+    <p>4 tranches d'ananas</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire brunir les filets de dindonneau dans un peu de matière grasse, salez et poivrez. Quand ils sont cuits, réservez. 
+    Dans le jus de cuisson, faites fondre les boursins au poivre et rajoutez ensuite la crème fraîche + les dés de poires et d'ananas. 
+    Lorsque la sauce est terminée, trempez les filets de dindonneau dedans et dressez sur l'assiette. Accompagnez de tagliatelles.
+  ]]>
+  </preparation>
+</recette>

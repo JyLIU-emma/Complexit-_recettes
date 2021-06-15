@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23806">
+  <titre>Flan allégé</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>30 cl de lait écrémé</p>
+    <p>6 cuillères à soupe d'édulcorant</p>
+    <p>30 g de beurre allégé</p>
+    <p>1 gousse de vanille</p>
+    <p>2 œufs</p>
+    <p>10 cl de crème liquide légère</p>
+    <p>80 g de farine</p>
+    <p>250 g de fruits au choix (abricot, pêche, cerises, framboise, pruneaux...)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites chauffer sans ébullition le lait avec la crème liquide, le beurre allégé et la chair de la gousse de vanille préalablement fendue et grattée. 
+    Faites préchauffer votre four à 150°C (thermostat 5). 
+    Mélangez les œufs avec l’édulcorant et la farine. Versez le liquide tiède sur ce mélange en remuant rapidement. 
+    Hachez grossièrement les fruits. Ajoutez-les au mélange précédent.
+    Beurrez légèrement un plat à gratin, versez-y la préparation et mettez au four pendant 30 minutes environ. 
+    Servez tiède.
+    C'est très très allégé comme dessert! :)
+  ]]>
+  </preparation>
+</recette>

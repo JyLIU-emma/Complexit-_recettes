@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14995">
+  <titre>Crevettes sauce aigre-douce</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de crevettes moyennes crues surgelées</p>
+    <p>1 oignon</p>
+    <p>1 courgette</p>
+    <p>champignons de paris</p>
+    <p>soja (de préférence frais)</p>
+    <p>poivrons au choix</p>
+    <p>vinaigre</p>
+    <p>sucre en morceaux</p>
+    <p>sauce de poisson</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un wok (de préférence) ou une sauteuse, faire revenir les oignons et les crevettes après les avoir passée sous l'eau chaude.
+    Dans un bol, mettre la moitié de vinaigre et 4 sucres, puis mélanger jusqu'à ce que le sucre soit dissous.
+    Ajouter le vinaigre aux crevettes quand ces dernières sont roses.
+    Ajouter les légumes coupés en morceaux et laisser mijoter quelques minutes. Ajouter la sauce de poisson.
+    A la fin, lier la sauce avec un peu de farine. Servir chaud avec du riz.
+  ]]>
+  </preparation>
+</recette>

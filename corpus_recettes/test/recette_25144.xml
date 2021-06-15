@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25144">
+  <titre>Navets glacés au lard et au vin blanc</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,5 kg de petits navets nouveaux</p>
+    <p>45 g de beurre</p>
+    <p>2 cuillères à soupe d’huile</p>
+    <p>300 g de poitrine fumée</p>
+    <p>5 échalotes </p>
+    <p>30 cl de vin blanc</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et nettoyer les navets sous l’eau, puis les plonger dans une casserole d’eau bouillante salée et les faire blanchir 20 minutes.
+    Les mettre ensuite à égoutter.
+    Pendant ce temps, ôter la couenne du lard, puis le détailler en petits lardons et hacher les échalotes.
+    Les faire fondre dans le beurre jusqu'à ce qu'ils soient dorés puis verser le vin blanc et ajouter les navets, du sel et du poivre.
+    Laisser cuire à feu doux jusqu'à ce qu'il ne reste plus de liquide et déguster.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14533">
+  <titre>Panais vinaigrette</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de panais</p>
+    <p>1 échalote rose fraîche</p>
+    <p>1 cuillère à soupe d'aneth ciselé</p>
+    <p>4 cuillères à soupe d'huile d'olive</p>
+    <p>2 cuillères à soupe de vinaigre balsamique</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez les panais et coupez-les en quatre dans la longueur, puis en tronçons de 1 cm.
+    Faites boullir de l'eau dans la partie basse d'une marmite à vapeur et posez dessus la partie perforée. Mettez-y les panais et salez-les. Couvrez et laissez cuire 20 mn environ, jusqu'à ce que les panais soient tendres.
+    Pelez l'échalote et hachez-la finement. Mettez-la dans un plat creux avec l'huile et le vinaigre. Poivrez et mélangez.
+    Lorsque les panais sont cuits, plongez-les dans la vinaigrette. Mélangez. Parsemez d'aneth et servez tiède.
+    Le panais est une longue racine blanche. Sont goût à mi-chemin entre la carotte, pour la douceur et le céleri-rave, pour le fruité, en fait un légume excellent rapé cru, cuit en purée ou dans un pot au feu.
+  ]]>
+  </preparation>
+</recette>

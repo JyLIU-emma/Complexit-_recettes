@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24124">
+  <titre>Epinards à la chapelure de persil</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg d'épinards</p>
+    <p>4 échalotes</p>
+    <p>40 g de beurre</p>
+    <p>1 oeuf dur</p>
+    <p>2 cuillères à soupe de chapelure</p>
+    <p>1 bouquet de persil</p>
+    <p>noix de muscade</p>
+    <p>sel, poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites fondre les échalotes dans 20 g de beurre puis ajoutez les épinards, du sel, du poivre et de la muscade. Couvrez et laissez cuire 5 minutes.
+    Faites dorer la chapelure dans le reste de beurre puis mélangez-la à l'oeuf et au persil hachés.
+    Saupoudrez les épinards de ce mélange avant de servir.
+  ]]>
+  </preparation>
+</recette>

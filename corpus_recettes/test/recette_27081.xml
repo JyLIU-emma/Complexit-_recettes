@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27081">
+  <titre>Tarte Allemande</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de farine</p>
+    <p>3 cuillerées à soupe de sucre</p>
+    <p>1 oeuf</p>
+    <p>100 + 50 g de beurre fondu</p>
+    <p>environ 40 g d'amandes effilées</p>
+    <p>1/2 paquet de levure</p>
+    <p>2 à 3 pommes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la farine et le sucre. 
+    Ajouter l'oeuf entier puis les 100 g de beurre fondu et enfin la levure. 
+    Mettre dans un plat à gâteau beurré et fariné. 
+    Couper les ponmmes en lamelles et les disposer sur la pâte. 
+    Cuire 20 mn thermostat 6 (180°C). 
+    Faire fondre les 50 g de beurre. 
+    Parsemer le gâteau encore chaud d'amandes et verser le beurre. 
+    Remettre 5 à 10 mn à four très chaud pour gratiner.
+    Recette réalisée en classe de maternelle.
+  ]]>
+  </preparation>
+</recette>

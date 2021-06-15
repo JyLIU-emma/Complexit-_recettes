@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21512">
+  <titre>Tarte provençale</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>1 courgette</p>
+    <p>2 tomates</p>
+    <p>1 petite boîte ratatouille niçoise</p>
+    <p>2 oeufs entier</p>
+    <p>40 cl de crème fraîche</p>
+    <p>1/2 verre de lait</p>
+    <p>300 g gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) étaler la pâte feuilletée dans le moule. 
+    2) recouvrir de 100 g de gruyère. 
+    3) étaler la boîte de ratatatouille niçoise (avec le dos d'une grande cuillère). 
+    4) recouvrir de 100 g de gruyère. 
+    5) découper 7 rondelles de courgettes, et les placer au dessus de la couche de gruyère. 
+    6) recouvrir de 100 g de gruyère. 
+    7) découper 7 rondelles de tomates et les placer au dessus de la couche de gruyère (superposer par rapport aux courgettes). 
+    8) battre les 2 oeufs dans un bol, et mélanger avec la crème fraîche, rajouter 1/2 verre de lait, verser le mélange sur la tarte. 
+    9) mettre au four préchauffé (Th 6/7 moyen) pendant 40 mn.
+     rouge
+  ]]>
+  </preparation>
+</recette>

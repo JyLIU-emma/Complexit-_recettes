@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24656">
+  <titre>Purée de potiron et pommes de terre</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de potiron</p>
+    <p>500 g de pommes de terre</p>
+    <p>10 cl de crème fraîche</p>
+    <p>1 branche de thym</p>
+    <p>30 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez les pommes de terre et le potiron, coupez-les en cubes.
+    Faites-les cuire à la vapeur avec le thym environ 30 min.
+    Ecrasez le tout en purée, sans le thym et rajoutez le beurre, du sel, du poivre et la crème fraîche.
+    Réchauffez à feu doux et servez.
+  ]]>
+  </preparation>
+</recette>

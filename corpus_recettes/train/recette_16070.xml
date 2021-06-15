@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16070">
+  <titre>Poulet au citron</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 cuisses de poulet (ou 2 blancs ou 2 ailes, au choix)</p>
+    <p>1 citron et demi non traité</p>
+    <p>1 cuillère à soupe d'huile d'olive	</p>
+    <p>6 feuilles de laurier</p>
+    <p>1 jaune d'oeuf</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Oter la peau des cuisses de poulet. Disposer les cuisses dans un plat allant au four. Les saler et les poivrer légèrement.
+    Disposer sur chaque cuisse 3 feuilles de laurier. Couper 1 citron en rondelles et les disposer de la meme facon sur le poulet.
+    Arroser l'ensemble de la cuillère à soupe d'huile d'olive, couvrir le plat d'une feuille de papier aluminium et mettre à réfrigérer jusqu'au lendemain (ou jusqu'au soir si vous le faites le matin).
+    Percer un petit trou dans la feuille de papier aluminium et enfourner le plat a four chaud (thermostat 7, environ 215 degres) au moins de 45 a 50 mn.
+    Disposer les cuisses recouvertes de laurier et de tranches de citron dans un autre plat.
+    Verser la sauce restante dans une casserole, ajouter le jaune d'oeuf, le jus du demi citron, gouter et rectifier l'assaisonnement, puis faire chauffer a feu tres doux (il ne faut surtout pas que la sauce bouille) en remuant constamment. 
+    Lorsque la sauce a épaissi, la retirer du feu.
+    Napper les cuisses de poulet de sauce et servir.
+    A préparer la veille.
+  ]]>
+  </preparation>
+</recette>

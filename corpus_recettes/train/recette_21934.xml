@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21934">
+  <titre>Crème brûlée au pain d'épice</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>50 g de pain d'épice</p>
+    <p>40 cl de crème liquide</p>
+    <p>5 cl de lait entier</p>
+    <p>4 jaunes d'oeufs</p>
+    <p>1 oeuf</p>
+    <p>80 g de sucre</p>
+    <p>50 g de cassonade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre le lait et la crème liquide dans une casserole et chauffer jusqu'à ébullition. 
+    Battre énergiquement les jaunes d'oeufs, l'oeuf entier et le sucre. Ajouter le mélange obtenu dans la casserole, et le pain d'épices que vous aurez émietté. 
+    Verser la préparation dans des ramequins et faire cuire au bain-marie (four à thermostat 3/4, soit environ 100°C) pendant une heure environ. 
+    Une fois cuits et refroidis, mettre les ramequins au réfrigérateur. 
+    Avant de servir, saupoudrer les crèmes bien froides de cassonade et les mettre 2/3 mn dans le four (position grill) à 250°C. Vos crèmes seront prêtes à être dégustées!
+  ]]>
+  </preparation>
+</recette>

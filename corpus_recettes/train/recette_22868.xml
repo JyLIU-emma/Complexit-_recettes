@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22868">
+  <titre>Gâteau breton</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>10 jaunes d'oeufs</p>
+    <p>+ 1 autre jaune d'oeuf pour dorure</p>
+    <p>300 g de sucre</p>
+    <p>370 g de beurre demi-sel à température ambiante (ramolli) </p>
+    <p>1/2 paquet de levure chimique</p>
+    <p>450 g de farine</p>
+    <p>1 petit verre de rhum (2 cuillères à soupe de fleur d'oranger</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 250°c. 
+    Beurrer et fariner légèrement le moule et le mettre au frais. 
+    Malaxer à la main les jaunes, le sucre, la levure et le beurre. Y imcorporer la farine en deux fois pour optenir une pâte bien lisse et homogéne. 
+    Etaler la pâte dans le moule. 
+    Battre le jaune d'oeuf avec un peu d'eau et un tout petit peu de sel, dorer le gâteau. 
+    Piquer le gâteau de temps en temps pour permettre à la pâte de lever pendant la cuisson. 
+    Baisser la température du four à 200°C et faire cuire de 30 à 35 mn. 
+    Laisser tiédir et démouler. 
+     un cidre Brut
+  ]]>
+  </preparation>
+</recette>

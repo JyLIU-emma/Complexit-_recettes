@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22958">
+  <titre>Sauce aigre-douce aux échalotes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>vinaigre de vin</p>
+    <p>1 filet d’eau</p>
+    <p>sauce soja</p>
+    <p>sucre</p>
+    <p>1 bocal d’échalotes orientales</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Les doses sont à ajuster selon l’usage de la sauce et les quantités.
+    Dans une casserole, faire chauffer le vinaigre coupé à l’eau puis ajouter le sauce soja et saupoudrer d’un peu de sucre.
+    Incorporer ensuite la fondue d’échalotes asiatiques avec un peu de sel et poivre.
+    Laisser mijoter quelques minutes à feu doux en remuant souvent.Idéal pour accompagner du porc ou du poulet.
+  ]]>
+  </preparation>
+</recette>

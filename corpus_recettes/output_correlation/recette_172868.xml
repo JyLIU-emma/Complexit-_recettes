@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172868">
+  <titre>Ravioles au porc et aux champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 œufs</p>
+    <p>400 g de farine</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>350 g viande de porc</p>
+    <p>4 rosées des prés (ou 50 g de champignons de Paris)</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour la pâte: On mélange la farine avec les œufs, l'huile et la pincée de sel !!! Si la pâte parait sèche pas d'inquiétude c'est normal. Faire une boule de pâte, la mettre sous cellophane et au frais le temps de faire le reste !Pour la farce: 
+    Hacher le porc avec les champignons.
+    Maintenant la confection (plusieurs solutions)Méthode 1 :
+    Fariner le plan de travail. Étaler la pâte au rouleau couper des carrés. Sur la moitié des carrés, disposer un peu de farce. Utiliser les autres carrés pour former les ravioles. Pour souder les deux parties utiliser de l'eau.Méthode 2 :
+    Avec une machine à pâte, faire des plaques à lasagnes. Utilisez ensuite des moules pour faire des chaussons...
+    Maintenant la cuisson : Plonger les ravioles dans de l'eau bouillante additionnée d'huile d'olive. Les ravioles sont cuites quand elles remontent à la surface (très rapide)Fait cette fois-ci avec en accompagnement de la citrouille à la crème.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Pour la <INGRED id="1">pâte</INGRED> : On <INGRED id="2">mélange</INGRED> la farine avec les <INGRED id="1">œufs</INGRED>, l'huile et la pincée de sel ! ! ! Si la <INGRED id="5">pâte</INGRED> parait sèche pas d'inquiétude c'est normal. Faire une <INGRED id="1">boule</INGRED> de <INGRED id="1">pâte</INGRED>, la <OPER id="o_1">mettre</OPER> sous cellophane et au frais le temps de faire le <INGRED id="1">reste</INGRED> ! Pour la farce : <OPER id="o_2">Hacher</OPER> le <INGRED id="4">porc</INGRED> avec les champignons. Maintenant la confection ( plusieurs solutions)Méthode 1 : <OPER id="o_3">Fariner</OPER> le plan de travail. <OPER id="o_4">Étaler</OPER> la <INGRED id="5">pâte</INGRED> au rouleau <OPER id="o_5">couper</OPER> des <INGRED id="2">carrés</INGRED>. Sur la moitié des <INGRED id="6">carrés</INGRED>, <OPER id="o_6">disposer</OPER> un peu de farce. <OPER id="o_7">Utiliser</OPER> les autres <INGRED id="6">carrés</INGRED> pour former les ravioles. Pour souder les <INGRED id="6">deux</INGRED> parties <OPER id="o_8">utiliser</OPER> de l'<INGRED id="4">eau</INGRED>. Méthode 2 : Avec une machine à pâte, <INGRED id="4">faire</INGRED> des plaques à lasagnes. <OPER id="o_9">Utilisez</OPER> ensuite des moules pour faire des chaussons... Maintenant la cuisson : <OPER id="o_10">Plonger</OPER> les ravioles dans de l'eau bouillante additionnée d'huile d'olive. Les ravioles sont cuites quand elles remontent à la surface ( très rapide)Fait cette fois - ci avec en accompagnement de la citrouille à la crème.
+  </annotation>
+  <annotation methode="crf">
+  Pour la <INGRED>pâte</INGRED> <INGRED>:</INGRED> On mélange la <INGRED>farine</INGRED> avec les <INGRED>œufs</INGRED> <INGRED>,</INGRED> l'<INGRED>huile</INGRED> et la pincée de <INGRED>sel</INGRED> ! ! ! Si la <INGRED>pâte</INGRED> parait sèche pas d'inquiétude c'est normal <INGRED>.</INGRED> Faire une boule de <INGRED>pâte</INGRED> <INGRED>,</INGRED> la mettre sous cellophane et au <INGRED>frais</INGRED> le temps de faire le <INGRED>reste</INGRED> ! Pour la farce <INGRED>:</INGRED> Hacher le <INGRED>porc</INGRED> avec les <INGRED>champignons</INGRED> <INGRED>.</INGRED> Maintenant la confection ( plusieurs solutions)Méthode 1 <INGRED>:</INGRED> Fariner le plan de travail. Étaler la <INGRED>pâte</INGRED> au <INGRED>rouleau</INGRED> couper des <INGRED>carrés</INGRED> <INGRED>.</INGRED> Sur la moitié des <INGRED>carrés</INGRED> <INGRED>,</INGRED> disposer un peu de farce <INGRED>.</INGRED> Utiliser les autres <INGRED>carrés</INGRED> pour former les ravioles. Pour souder les <INGRED>deux</INGRED> parties utiliser de l'<INGRED>eau</INGRED> <INGRED>.</INGRED> Méthode 2 <INGRED>:</INGRED> Avec une machine à <INGRED>pâte</INGRED> <INGRED>,</INGRED> faire des plaques à lasagnes. Utilisez ensuite des <INGRED>moules</INGRED> pour faire des chaussons... Maintenant la cuisson <INGRED>:</INGRED> Plonger les ravioles dans de l'<INGRED>eau</INGRED> bouillante additionnée d'<INGRED>huile d'olive</INGRED> <INGRED>.</INGRED> Les ravioles sont cuites quand elles remontent à la surface ( très rapide)Fait cette fois - ci avec en accompagnement de la citrouille à la <INGRED>crème</INGRED>.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 524.769230769231*X + 233.230769230769</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 9*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['œufs']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['farine']	 id:2	 quantité:400	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["huile d'olive", 'huile']	 id:3	 quantité:1	 unité:cuillère à soupe d'	 denombrable:True	 recipient:1*X
+ingredient:['porc']	 id:4	 quantité:350	 unité:g viande de	 denombrable:False	 recipient:1
+ingredient:['rosées des prés', 'rosées']	 id:5	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['sel']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mettre	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:hacher	 id:o_2	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:350*X	 temps:1*X*5	 recipient:1
+operation:fariner	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étaler	 id:o_4	 ingrédients_ralatifs:['5', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_5	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:400*X	 temps:1*X*1	 recipient:1
+operation:disposer	 id:o_6	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:utiliser	 id:o_7	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:utiliser	 id:o_8	 ingrédients_ralatifs:['6', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:utiliser	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:plonger	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21479">
+  <titre>Bûche au café glacé</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de boudoirs</p>
+    <p>10 cl de café corsé</p>
+    <p>5 cl de cognac</p>
+    <p>150 g de beurre</p>
+    <p>2 oeufs</p>
+    <p>100 g de sucre en poudre</p>
+    <p>200 g de crème de marrons vanillée</p>
+    <p>10 cl de crème épaisse</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>50 g de noix de coco râpée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Passer les boudoirs au mixeur jusqu'à l'obtention d'une poudre de biscuits.
+    Dans une casserole, verser le cognac et le café puis les faire chauffer sans ébullition. D'autre part, faire fondre le beurre coupé en morceaux au bain-marie.
+    Dans un saladier, battre les jaunes d'oeufs, 75 g de sucre, la préparation café/cognac chaude et le beurre fondu. Bien mélanger le tout.
+    Verser ce mélange, la crème de marrons et la crème fraîche sur la poudre de boudoirs et mélanger de nouveau jusqu'à l'obtention d’une pâte lisse.
+    Battre les blancs en neige avec 75 g de sucre et les incorporer délicatement à la préparation précédente.
+    Dans un moule à bûche beurré, verser la pâte et mettre au congélateur pendant 2 ou 3 h.
+    Démouler seulement au moment de servir et saupoudrer de noix de coco râpée.
+    Pour démouler facilement, frottez les parois du moule avec un torchon imbibé d'eau très chaude. Couper les extrémités de la bûche en biseau et façonnez les chutes en imitant les noeuds de bois. Décorez de petits lutins, sapins et Père Noël.
+  ]]>
+  </preparation>
+</recette>

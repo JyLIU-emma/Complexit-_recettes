@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15787">
+  <titre>Filet américain (tartare de boeuf à la mode de  Belgique)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de filet de boeuf haché (américain nature)</p>
+    <p>3 cuillères à café de persil haché</p>
+    <p>1 échalote</p>
+    <p>2 cuillères à café de moutarde de Dijon</p>
+    <p>1 cuillère à café de mayonnaise</p>
+    <p>1 jaune d'oeuf</p>
+    <p>1 cuillère à café de câpres</p>
+    <p>1 cuillère à soupe de sauce worcestershire</p>
+    <p>25 tours à moulin de poivre</p>
+    <p>1/3 de cuillère à café de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler,laver et hacher finement l'échalote.
+    Dans un récipient, mélanger l'américain et le jaune d'oeuf. Ajouter la moutarde, l'échalote, la mayonnaise, le persil et la sauce Worcester. Saler et poivrer.
+    Bien mélanger à la fourchette, puis incorporer délicatement les câpres. Servir frais.
+    Cette recette doit se préparer en quelques minutes avant de passer à table. Elle s'accompagne d'une salade de tomates, ou d'une laitue et de frites.
+  ]]>
+  </preparation>
+</recette>

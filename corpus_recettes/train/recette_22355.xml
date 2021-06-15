@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22355">
+  <titre>Semoule au chocolat meringuée</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>100 g de semoule</p>
+    <p>50 cl de lait</p>
+    <p>100 g de chocolat pâtissier</p>
+    <p>50 g de sucre en poudre</p>
+    <p>3 oeufs</p>
+    <p>2 sachets de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Portez le lait à ébullition. Jetez-y la semoule en pluie, laissez cuire 5 bonnes minutes en remuant. Retirez du feu, ajoutez le sucre en poudre laissez tiédir.
+    A part, faites fondre le chocolat. Réservez.
+    Battez les blancs d'oeufs en neige. Incorporez 1/3 des blancs battus au chocolat fondu refroidi.
+    Ajoutez les jaunes d'oeufs à la semoule, mélangez bien. Incorporez la mousse au chocolat, puis répartissez dans 6 ramequins.
+    Incorporez le sucre vanillé aux 2/3 restants des blancs en neige. Déposez cette meringue sur les ramequins à l'aide d'une poche à douille ou une cuillère.
+    Faîtes dorer 5 minutes au four à 200°C (thermostat 6) en surveillant.
+  ]]>
+  </preparation>
+</recette>

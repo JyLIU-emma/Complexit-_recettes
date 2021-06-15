@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10548">
+  <titre>Pavé de saumon grillé à la confiture de safran</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de filet de saumon avec la peau</p>
+    <p>1 citron vert</p>
+    <p>250 g d'échalotes</p>
+    <p>200 g de beurre salé</p>
+    <p>100 g de beurre doux</p>
+    <p>1 bouteille de Noilly</p>
+    <p>2 pincées de safran</p>
+    <p>sel de Guérande, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper le filet de saumon en pavés de 150 g environ. Côté chair, saler au sel de Guérande, poivrer, et arroser d'un filet de citron vert. Réserver.
+    Emincer les échalotes. Dans une casserole en cuivre assez large, les faire fondre dans le beurre salé. Mouiller progressivement avec le Noilly. Tout le Noilly doit être évaporé, en plusieurs fois, de façon à fondre complètement les échalotes dans le beurre. Ajouter un jus de citron vert et fouetter çà chaud avec 100 g de beurre doux. En fin de liaison, ajouter le safran. Poivrer et corriger l'assaisonnement. Tenir au chaud.
+    Griller les pavés de saumon à l'unilatéral (côté peau ).
+    Servir en nappant les pavés avec la confiture de safran.
+    Ne pas choisir de trop petits saumons : plus le saumon est gros, meilleur il est. Bien entendu le saumon de ligne est meilleur que le saumon d'élevage... Ecrivez-moi si vous avez aimé. Chassagne Montraché blanc.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Découper</OPER> le <INGRED id="1">filet</INGRED> de saumon en pavés de 150 g environ. Côté chair, <OPER id="o_2">saler</OPER> au <INGRED id="8">sel de Guérande</INGRED>, <OPER id="o_3">poivrer</OPER>, et <OPER id="o_4">arroser</OPER> d'un <INGRED id="1">filet</INGRED> de <INGRED id="2">citron vert</INGRED>. Réserver. <OPER id="o_5">Emincer</OPER> les <INGRED id="3">échalotes</INGRED>. Dans une casserole en cuivre assez large, les faire <OPER id="o_6">fondre</OPER> dans le <INGRED id="4">beurre salé</INGRED>. <OPER id="o_7">Mouiller</OPER> progressivement avec le <INGRED id="6">Noilly</INGRED>. Tout le <INGRED id="6">Noilly</INGRED> doit être évaporé, en plusieurs fois, de façon à <OPER id="o_8">fondre</OPER> complètement les <INGRED id="3">échalotes</INGRED> dans le beurre. <OPER id="o_9">Ajouter</OPER> un <INGRED id="5">jus de citron</INGRED> vert et <OPER id="o_10">fouetter</OPER> çà chaud avec 100 g de <INGRED id="5">beurre doux</INGRED>. En fin de liaison, <OPER id="o_11">ajouter</OPER> le <INGRED id="7">safran</INGRED>. <OPER id="o_12">Poivrer</OPER> et <OPER id="o_13">corriger</OPER> l'assaisonnement. Tenir au chaud. <OPER id="o_14">Griller</OPER> les pavés de saumon à l'unilatéral ( côté peau ). Servir en nappant les pavés avec la confiture de <INGRED id="7">safran</INGRED>. Ne pas choisir de trop petits saumons : plus le saumon est gros, meilleur il est. Bien entendu le saumon de ligne est meilleur que le saumon d'élevage... Ecrivez -moi si vous avez aimé. Chassagne Montraché blanc.
+  </annotation>
+  <annotation methode="crf">
+  Découper le <INGRED>filet</INGRED> de saumon en pavés de 150 <INGRED>g</INGRED> <INGRED>environ</INGRED>. Côté <INGRED>chair</INGRED> <INGRED>,</INGRED> saler au <INGRED>sel de Guérande</INGRED> <INGRED>,</INGRED> poivrer <INGRED>,</INGRED> et arroser d'un <INGRED>filet</INGRED> de <INGRED>citron</INGRED> vert. Réserver. Emincer les <INGRED>échalotes</INGRED> <INGRED>.</INGRED> Dans une casserole en cuivre assez large <INGRED>,</INGRED> les faire fondre dans le <INGRED>beurre</INGRED> salé. Mouiller progressivement avec le Noilly. Tout le Noilly doit être évaporé <INGRED>,</INGRED> en plusieurs fois <INGRED>,</INGRED> de façon à fondre complètement les <INGRED>échalotes</INGRED> dans le <INGRED>beurre</INGRED> <INGRED>.</INGRED> Ajouter un <INGRED>jus de citron vert</INGRED> et fouetter çà chaud avec 100 <INGRED>g</INGRED> de <INGRED>beurre</INGRED> doux. En fin de liaison <INGRED>,</INGRED> ajouter le <INGRED>safran</INGRED> <INGRED>.</INGRED> Poivrer et corriger l'assaisonnement <INGRED>.</INGRED> Tenir au chaud <INGRED>.</INGRED> Griller les pavés de saumon à l'unilatéral ( côté peau ). Servir en nappant les pavés avec la <INGRED>confiture</INGRED> de <INGRED>safran</INGRED> <INGRED>.</INGRED> Ne pas choisir de trop <INGRED>petits</INGRED> saumons <INGRED>:</INGRED> plus le <INGRED>saumon</INGRED> est <INGRED>gros</INGRED> <INGRED>,</INGRED> meilleur il est <INGRED>.</INGRED> Bien entendu le <INGRED>saumon</INGRED> de ligne est meilleur que le <INGRED>saumon</INGRED> d'élevage... Ecrivez -moi si vous avez aimé <INGRED>.</INGRED> Chassagne Montraché <INGRED>blanc</INGRED> <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 344.8*X + 517.2</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 4*X + 12</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['filet de saumon avec la peau', 'filet']	 id:1	 quantité:600	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['citron vert', 'citron']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['échalotes']	 id:3	 quantité:250	 unité:g d'	 denombrable:False	 recipient:1
+ingredient:['beurre salé', 'beurre']	 id:4	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre doux', 'beurre']	 id:5	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['Noilly']	 id:6	 quantité:1	 unité:bouteille de	 denombrable:True	 recipient:1*X
+ingredient:['safran']	 id:7	 quantité:2	 unité:pincées de	 denombrable:True	 recipient:2*X
+ingredient:['sel de Guérande', 'sel']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:découper	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:600*X	 temps:1*X*1	 recipient:1
+operation:saler	 id:o_2	 ingrédients_ralatifs:['8', '1', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:arroser	 id:o_4	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:emincer	 id:o_5	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:250*X	 temps:1*X*1	 recipient:1
+operation:fondre	 id:o_6	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:mouiller	 id:o_7	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:3	 recipient:0
+operation:fondre	 id:o_8	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:['5', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fouetter	 id:o_10	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_11	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:corriger	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:griller	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5*X	 recipient:1
+]]>
+</operation_trouve>
+</recette>

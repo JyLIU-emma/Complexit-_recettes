@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15927">
+  <titre>Soupe de poisson aux lardons</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de cabillaud</p>
+    <p>3 gros oignons</p>
+    <p>1 litre de lait</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>200 g de lardons salés</p>
+    <p>sel, poivre, thym</p>
+    <p>6 à 7 pommes de terre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les lardons (les égoutter sur papier absorbant).
+    Dans la poêle, faire revenir les oignons.
+    Dans une grande casserole, verser oignons cuits, cabillaud, pommes de terre (précuites 5 mn à l'eau), thym, sel, poivre. Saupoudrez avec la farine et mélanger lentement.
+    Ajouter le lait (1l) et laisser cuire pendant 1h30 sans mélanger (à feu très doux).
+    Au moment de servir, ajouter les lardons.
+    En accompagnement, un pain grillé beurré à l'ail.
+    Ce plat est considéré comme entrée mais peut être facilement servi en plat principal.
+  ]]>
+  </preparation>
+</recette>

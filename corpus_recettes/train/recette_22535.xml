@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22535">
+  <titre>Curry de pois chiches</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 cuillère à soupe d'huile de tournesol</p>
+    <p>2 oignons émincés</p>
+    <p>4 gousses d'ail (écrasées) </p>
+    <p>800 g de pois chiches en boîte égouttés</p>
+    <p>450 g de tomates en boîte en morceaux</p>
+    <p>1 cuillère à café de sel</p>
+    <p>2 à 3 cuillères à soupe de pâte de curry ou bien le mélange suivant :</p>
+    <p>1 cuillère à café de chili en poudre</p>
+    <p>1 cuillère à café de paprika</p>
+    <p>1 cuillère à café de curcuma (ou curry en poudre) </p>
+    <p>1 cuillère à soupe de cumin moulu</p>
+    <p>1 cuillère à soupe de coriandre moulue</p>
+    <p>1 cuillère à café de guaram massala</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Chauffer l'huile dans une casserole ou une cocotte, y faire revenir les oignons et l'ail, remuer. 
+    Ajouter les épices et remuer. 
+    Ajouter les pois chiches puis les tomates avec leur jus, mélanger. 
+    Couvrir et laisser mijoter 20 min à feu doux. 
+    Saler, ajouter le guaram massala, remuer et prolonger la cuisson de 20 min. 
+    Servir très chaud avec des naans ou des chapatis.
+  ]]>
+  </preparation>
+</recette>

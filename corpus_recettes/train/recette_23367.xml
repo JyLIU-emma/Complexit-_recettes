@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23367">
+  <titre>Biscotti aux amandes</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de farine</p>
+    <p>250 g de sucre</p>
+    <p>1 pincée de sel</p>
+    <p>1 cuillère à soupe de poudre à pâte</p>
+    <p>100 g d'amandes effilées</p>
+    <p>100 g d'amandes moulues</p>
+    <p>100 g de noisettes hachées grossièrement</p>
+    <p>3 oeufs battus</p>
+    <p>1 once d'Amaretto (liqueur d'amandes) </p>
+    <p>1 cuillère à soupe d'extrait d'amandes</p>
+    <p>zestes de 1 citron 1/2 </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tamiser la farine, le sucre, le sel et la poudre à pâte, puis mélanger. Ajouter les amandes et les noisettes. Mélanger et former un puit au centre. Ajouter les oeufs, l'Amaretto, l'extrait d'amande et les zestes. 
+    Façonner la pâte en 3 rouleaux de 3 cm de diamètre et les aplatir pour leur donner une forme légèrement ovale. Dans un four préchauffé, faire cuire au moins 20 mn ou jusqu'à ce que le dessus soit doré sur du papier sulfurisé et déposé sur une plaque. 
+    Ensuite, couper les rouleaux en rondelles de 1 cm d'épaisseur et poursuivre la cuisson des rondelles pendant au moins 5 mn d'un côté, retourner les rondelles et poursuivre la cuisson pendant encore au moins 5 mn. 
+    Finalement, laisser refroidir sur une grille avant de consommer.
+    Ces biscuits croquants sont très bons trempés dans un café fumant.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164751">
+  <titre>Gâteau au yahourt noisettes-framboises</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>30 g de beurre</p>
+    <p>130 g de farine</p>
+    <p>125 g de noisettes en poudre</p>
+    <p>3 oeufs</p>
+    <p>150 g de sucre en poudre</p>
+    <p>1 yaourt nature type Velouté</p>
+    <p>1/2 de sachet de levure chimique</p>
+    <p>150 g de framboises (si vous utilisez des framboises surgelées, faites les décongeler avant, et retirez le jus)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, faites mousser les oeufs et le sucre.
+    Ajoutez le beurre fondu et le yaourt. Mélangez bien.
+    Dans un plat à part, mélangez la farine, la levure et les noisettes en poudre. Puis incorporez-les petit à petit au mélange précédent.
+    Préchauffer votre four à 180°C (Thermostat 6).Dans un moule à tarte recouvert de papier sulfurisé, versez la moitié de la préparation.
+    Disposez les framboises, puis recouvrez de la fin de la préparation.
+    Enfournez pendant environ 30 min (piquez avec un couteau, il doit ressortir sec et net).
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Dans un <INGRED id="1">saladier</INGRED>, faites <OPER id="o_1">mousser</OPER> les <INGRED id="4">oeufs</INGRED> et le <INGRED id="2">sucre</INGRED>. <OPER id="o_2">Ajoutez</OPER> le <INGRED id="2">beurre fondu</INGRED> et le <INGRED id="6">yaourt</INGRED>. <OPER id="o_3">Mélangez</OPER> bien. Dans un plat à part, <OPER id="o_4">mélangez</OPER> la <INGRED id="5">farine</INGRED>, la <INGRED id="3">levure</INGRED> et les <INGRED id="3">noisettes en poudre</INGRED>. Puis <OPER id="o_5">incorporez</OPER> - les petit à petit au mélange précédent. <OPER id="o_6">Préchauffer</OPER> votre four à 180 ° C ( Thermostat 6).Dans un moule à tarte recouvert de papier sulfurisé, <OPER id="o_7">versez</OPER> la moitié de la préparation. <OPER id="o_8">Disposez</OPER> les <INGRED id="8">framboises</INGRED>, puis recouvrez de la fin de la préparation. <OPER id="o_9">Enfournez</OPER> pendant environ 30 min ( piquez avec un couteau, il doit <OPER id="o_10">ressortir</OPER> sec et net ).
+  </annotation>
+  <annotation methode="crf">
+  Dans un saladier <INGRED>,</INGRED> faites mousser les <INGRED>oeufs</INGRED> et le <INGRED>sucre</INGRED>. Ajoutez le <INGRED>beurre fondu</INGRED> et le <INGRED>yaourt</INGRED> <INGRED>.</INGRED> Mélangez bien <INGRED>.</INGRED> Dans un plat à part <INGRED>,</INGRED> mélangez la <INGRED>farine</INGRED> <INGRED>,</INGRED> la <INGRED>levure</INGRED> et les <INGRED>noisettes en poudre</INGRED> <INGRED>.</INGRED> Puis incorporez - les <INGRED>petit</INGRED> à <INGRED>petit</INGRED> au <INGRED>mélange</INGRED> précédent <INGRED>.</INGRED> Préchauffer votre four à 180 ° C ( Thermostat 6).Dans un moule à tarte recouvert de papier sulfurisé <INGRED>,</INGRED> versez la moitié de la préparation <INGRED>.</INGRED> Disposez les <INGRED>framboises</INGRED> <INGRED>,</INGRED> puis recouvrez de la fin de la préparation <INGRED>.</INGRED> Enfournez pendant <INGRED>environ</INGRED> 30 min ( piquez avec un couteau, il doit ressortir sec et net ).
+  </annotation>
+  <complexite>
+    <temps>f(X) = 4.0*X + 6.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 4*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['beurre']	 id:1	 quantité:30	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:2	 quantité:130	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['noisettes en poudre', 'noisettes']	 id:3	 quantité:125	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:4	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['sucre en poudre', 'sucre']	 id:5	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['yaourt nature type Velouté', 'yaourt']	 id:6	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['levure chimique', 'levure']	 id:7	 quantité:non_precis	 unité:sachet de	 denombrable:False	 recipient:1
+ingredient:['framboises']	 id:8	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mousser	 id:o_1	 ingrédients_ralatifs:['1', '4', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['2', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mélanger	 id:o_4	 ingrédients_ralatifs:['5', '3', '3']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:incorporer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préchauffer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:verser	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_8	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:enfourner	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ressortir	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

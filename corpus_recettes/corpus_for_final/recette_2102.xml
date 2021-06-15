@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="2102">
+  <titre>Aumônières de saumon au Carré Frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tranches de saumon fumé sauvage</p>
+    <p>lamelles de tomates confites en pot</p>
+    <p>4 petits Carrés Frais</p>
+    <p>4 cuillères d'oeufs de lump noirs</p>
+    <p>sel, poivre, ciboulette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, malaxer avec précaution les Carrés Frais, les tomates confites, ainsi que les oeufs de lump.
+    Saler modérément, poivrer, puis mettre cette préparation dans chaque tranche de saumon.
+    Nouer avec les brins de ciboulette.
+    Présenter avec des tranches de citron vert.
+    Et mettre au frais!
+  ]]>
+  </preparation>
+</recette>

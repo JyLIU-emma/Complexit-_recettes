@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21067">
+  <titre>Baba trompeur pour gourmands pressés</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>12 biscottes</p>
+    <p>confiture d’abricot</p>
+    <p>500 g de sucre</p>
+    <p>50 cl d’eau</p>
+    <p>10 cl de rhum</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Badigeonner les biscottes de confiture et former un sandwich à 3 niveaux.
+    Dans une casserole, faire chauffer l’eau et le sucre afin d’obtenir un sirop. Ajouter 10 cl de rhum et y tremper les biscottes.
+    Servir dans un plat lorsqu’elles sont bien imbibées.
+  ]]>
+  </preparation>
+</recette>

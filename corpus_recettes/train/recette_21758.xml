@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21758">
+  <titre>Oeufs farcis aux épinards</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 œufs</p>
+    <p>100 g d'épinards cuits</p>
+    <p>mayonnaise</p>
+    <p>quelques feuilles de laitue</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire des œufs durs en les plongeant 8 min dans l’eau bouillante.
+    Les rincer sous l’eau froide, puis les couper en 2 dans le sens de la longueur.
+    Oter les jaunes et les écraser avec les épinards cuites salées et poivrées.
+    Garnir les blancs d’œufs de cette préparation et les dresser sur un plat de service tapissé de feuilles de laitue.
+    Napper les œufs de mayonnaise et réserver au réfrigérateur pendant 30 min.
+    Servir et déguster très frais.
+  ]]>
+  </preparation>
+</recette>

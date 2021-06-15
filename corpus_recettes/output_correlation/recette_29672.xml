@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29672">
+  <titre>Pains au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de farine de blé t55</p>
+    <p>500 g de farine de gruau t45</p>
+    <p>500 g de beurre</p>
+    <p>600 ml d'eau</p>
+    <p>100 g de sucre</p>
+    <p>20 g de sel</p>
+    <p>30 g de levure</p>
+    <p>100 g de chocolat</p>
+    <p>1 oeuf (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Suivre la recette des croissants. [NDchef: par exemple celle-ci, celle-ci, ou  celle-ci] Une fois que le feuilletage est fait et que vous avez étalé la pâte, il ne faut pas détailler des triangles, mais des petits rectangles de la largeur d'une barrette de chocolat. Mettre la barrette de chocolat sur le rectangle de pâte et enroulez le.
+    Comme pour les croissants, vous pouvez congeler les pains au chocolat à ce stade.
+    Mettre les pains au chocolat sur une plaque en prenant soin d'appuyer un peu avec la main pour ne pas qu'ils se déroulent en gonflant. Laisser gonfler 1h30 à 2h30 à température ambiante jusqu'à ce qu'ils doublent presque de volume.
+    Dorer les pains au chocolat et les mettre dans le four chaud à 230°C pendant 15 à 20 minutes.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Suivre</OPER> la recette des croissants. [ NDchef : par exemple celle-ci, celle-ci, ou celle-ci ] Une fois que le feuilletage est fait et que vous avez étalé la <INGRED id="9">pâte</INGRED>, il ne faut pas <OPER id="o_2">détailler</OPER> des triangles, mais des <INGRED id="3">petits</INGRED> rectangles de la largeur d'une barrette de chocolat. <OPER id="o_3">Mettre</OPER> la barrette de <INGRED id="4">chocolat</INGRED> sur le rectangle de <INGRED id="9">pâte</INGRED> et enroulez le. Comme pour les croissants, vous pouvez <OPER id="o_4">congeler</OPER> les pains au <INGRED id="2">chocolat</INGRED> à ce stade. <OPER id="o_5">Mettre</OPER> les pains au <INGRED id="2">chocolat</INGRED> sur une plaque en prenant soin d'<OPER id="o_6">appuyer</OPER> un peu avec la main pour ne pas qu'ils se déroulent en gonflant. Laisser <OPER id="o_7">gonfler</OPER> 1h30 à 2h30 à température ambiante jusqu'à ce qu'ils doublent presque de volume. <OPER id="o_8">Dorer</OPER> les pains au <INGRED id="1">chocolat</INGRED> et les <OPER id="o_9">mettre</OPER> dans le four chaud à 230 ° C pendant 15 à 20 minutes.
+  </annotation>
+  <annotation methode="crf">
+  Suivre la recette des croissants. [ NDchef <INGRED>:</INGRED> par exemple celle-ci <INGRED>,</INGRED> celle-ci <INGRED>,</INGRED> <INGRED>ou</INGRED> celle-ci ] Une fois que le feuilletage est fait et que vous avez étalé la <INGRED>pâte</INGRED> <INGRED>,</INGRED> il ne faut pas détailler des triangles <INGRED>,</INGRED> mais des <INGRED>petits</INGRED> rectangles de la largeur d'une barrette de <INGRED>chocolat</INGRED> <INGRED>.</INGRED> Mettre la barrette de <INGRED>chocolat</INGRED> sur le rectangle de <INGRED>pâte</INGRED> et enroulez le <INGRED>.</INGRED> Comme pour les croissants <INGRED>,</INGRED> vous pouvez congeler les <INGRED>pains</INGRED> au <INGRED>chocolat</INGRED> à ce stade. Mettre les <INGRED>pains</INGRED> au <INGRED>chocolat</INGRED> sur une plaque en prenant soin d'appuyer un peu avec la main pour ne pas qu'ils se déroulent en gonflant <INGRED>.</INGRED> Laisser gonfler 1h30 à 2h30 à température ambiante jusqu'à ce qu'ils doublent presque de <INGRED>volume</INGRED>. Dorer les <INGRED>pains</INGRED> au <INGRED>chocolat</INGRED> et les mettre dans le four chaud à 230 ° C pendant 15 à 20 minutes.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 502.151315789474*X + 5.84868421052632</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 601*X + 10</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['farine de blé t55', 'farine']	 id:1	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine de gruau t45', 'farine']	 id:2	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:3	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["ml d'eau", 'ml']	 id:4	 quantité:600	 unité:non_precis	 denombrable:True	 recipient:600*X
+ingredient:['sucre']	 id:5	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:6	 quantité:20	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['levure']	 id:7	 quantité:30	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['chocolat']	 id:8	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oeuf']	 id:9	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:suivre	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:détailler	 id:o_2	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_3	 ingrédients_ralatifs:['4', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:congeler	 id:o_4	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_5	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:appuyer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:gonfler	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dorer	 id:o_8	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:500*X	 temps:1*X*1	 recipient:0
+operation:mettre	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

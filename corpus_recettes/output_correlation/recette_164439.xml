@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164439">
+  <titre>Pizza aux poireaux Sucré Salé</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte à pizza</p>
+    <p>1 beau poireau</p>
+    <p>15 cl de crème fraîche épaisse</p>
+    <p>100 gr de sauce aux tomates fraiches</p>
+    <p>160 gr de lardons</p>
+    <p>1 petit oignon</p>
+    <p>1 c. à c. de miel (selon votre goût)</p>
+    <p>1/2 c. à c. de moutarde (selon votre goût)</p>
+    <p>épices pour pizza (dose selon votre goût)</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Cuire le poireau en petits morceaux au préalable
+    Faire revenir les oignons dans une poêle- Préparer la pâte à pizza comme indiquée sur l'emballage ou selon votre préparation habituelle- Pour la sauce tomate, dans un bol : 
+       - mélanger, au fouet, la sauce tomate avec le miel liquide
+       - assaisonner avec le sel, le poivre
+       - ajouter la moutarde
+       - mélanger bien afin d'obtenir une sauce homogène
+    Etaler la sauce sur la pâte à pizza en couche uniforme- Faire cuire les lardons afin d'enlever la graisse- Pour la sauce avec la crème fraîche, dans un bol : 
+       - mélanger la crème fraîche avec les épices pour pizza, un peu de sel et du poivre
+       - ajouter les lardons chauds à la crème fraîche.
+    Etaler le mélange obtenu sur la couche de sauce tomate  de manière homogène sur toute la pâte- Mélanger dans un plat le poireau et les oignons
+    Etaler sur la pâte à pizza de manière homogène.- Enfourner à thermostat 6 (180°) pendant environ 25 min Savenière Demi-sec
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  - <OPER id="o_1">Cuire</OPER> le <INGRED id="2">poireau</INGRED> en petits morceaux au préalable Faire <OPER id="o_2">revenir</OPER> les <INGRED id="5">oignons</INGRED> dans une poêle- <OPER id="o_3">Préparer</OPER> la <INGRED id="1">pâte à pizza</INGRED> comme indiquée sur l'emballage ou selon votre préparation habituelle- Pour la <INGRED id="4">sauce</INGRED> <INGRED id="4">tomate</INGRED>, dans un bol : - <OPER id="o_4">mélanger</OPER>, au fouet, la <INGRED id="4">sauce</INGRED> <INGRED id="4">tomate</INGRED> avec le <INGRED id="2">miel</INGRED> liquide - <OPER id="o_5">assaisonner</OPER> avec le <INGRED id="8">sel</INGRED>, le <INGRED id="8">poivre</INGRED> - <OPER id="o_6">ajouter</OPER> la <INGRED id="2">moutarde</INGRED> - <OPER id="o_7">mélanger</OPER> bien afin d'obtenir une <INGRED id="4">sauce</INGRED> homogène <OPER id="o_8">Etaler</OPER> la <INGRED id="4">sauce</INGRED> sur la <INGRED id="1">pâte à pizza</INGRED> en couche uniforme- Faire <OPER id="o_9">cuire</OPER> les <INGRED id="5">lardons</INGRED> afin d'<OPER id="o_10">enlever</OPER> la graisse- Pour la <INGRED id="4">sauce</INGRED> avec la <INGRED id="6">crème</INGRED> fraîche, dans un bol : - <OPER id="o_11">mélanger</OPER> la <INGRED id="6">crème</INGRED> fraîche avec les <INGRED id="9">épices</INGRED> pour pizza, un peu de <INGRED id="10">sel</INGRED> et du <INGRED id="11">poivre</INGRED> - <OPER id="o_12">ajouter</OPER> les <INGRED id="5">lardons</INGRED> chauds à la <INGRED id="6">crème</INGRED> fraîche. <OPER id="o_13">Etaler</OPER> le mélange obtenu sur la couche de <INGRED id="4">sauce</INGRED> <INGRED id="4">tomate</INGRED> de manière homogène sur toute la pâte- <OPER id="o_14">Mélanger</OPER> dans un plat le <INGRED id="2">poireau</INGRED> et les <INGRED id="5">oignons</INGRED> <OPER id="o_15">Etaler</OPER> sur la <INGRED id="1">pâte à pizza</INGRED> de manière homogène.- <OPER id="o_16">Enfourner</OPER> à thermostat 6 ( 180 ° ) pendant environ 25 min Savenière Demi-sec
+  </annotation>
+  <annotation methode="crf">
+  - Cuire le <INGRED>poireau</INGRED> en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> au préalable Faire revenir les <INGRED>oignons</INGRED> dans une poêle- Préparer la <INGRED>pâte</INGRED> à pizza comme indiquée sur l'emballage <INGRED>ou</INGRED> selon votre préparation habituelle- Pour la <INGRED>sauce</INGRED> <INGRED>tomate</INGRED> <INGRED>,</INGRED> dans un bol <INGRED>:</INGRED> - mélanger <INGRED>,</INGRED> au fouet <INGRED>,</INGRED> la <INGRED>sauce</INGRED> <INGRED>tomate</INGRED> avec le <INGRED>miel</INGRED> liquide - assaisonner avec le <INGRED>sel</INGRED> <INGRED>,</INGRED> le <INGRED>poivre</INGRED> - ajouter la <INGRED>moutarde</INGRED> - mélanger bien afin d'obtenir une <INGRED>sauce</INGRED> homogène Etaler la <INGRED>sauce</INGRED> sur la <INGRED>pâte</INGRED> à pizza en couche uniforme- Faire cuire les <INGRED>lardons</INGRED> afin d'enlever la graisse- Pour la <INGRED>sauce</INGRED> avec la <INGRED>crème fraîche</INGRED> <INGRED>,</INGRED> dans un bol <INGRED>:</INGRED> - mélanger la <INGRED>crème fraîche</INGRED> avec les <INGRED>épices</INGRED> pour pizza <INGRED>,</INGRED> un peu de <INGRED>sel</INGRED> et du <INGRED>poivre</INGRED> - ajouter les <INGRED>lardons</INGRED> chauds à la <INGRED>crème fraîche</INGRED> <INGRED>.</INGRED> Etaler le <INGRED>mélange</INGRED> obtenu sur la couche de <INGRED>sauce</INGRED> <INGRED>tomate</INGRED> de manière homogène sur toute la pâte- Mélanger dans un plat le <INGRED>poireau</INGRED> et les <INGRED>oignons</INGRED> Etaler sur la <INGRED>pâte</INGRED> à pizza de manière homogène.- Enfourner à thermostat 6 ( 180 ° ) pendant <INGRED>environ</INGRED> 25 min Savenière Demi-sec
+  </annotation>
+  <complexite>
+    <temps>f(X) = 6.85714285714286*X + 9.14285714285714</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 5*X + 16</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pâte à pizza', 'pâte']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['poireau']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['crème fraîche épaisse', 'crème']	 id:3	 quantité:15	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['sauce aux tomates fraiches', 'sauce']	 id:4	 quantité:100	 unité:gr de	 denombrable:False	 recipient:1
+ingredient:['lardons']	 id:5	 quantité:160	 unité:gr de	 denombrable:False	 recipient:1
+ingredient:['oignon']	 id:6	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['c. à c. de miel', 'c']	 id:7	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['c. à c. de moutarde', 'c']	 id:8	 quantité:1/2	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['épices']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:cuire	 id:o_1	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:revenir	 id:o_2	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:préparer	 id:o_3	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:mélanger	 id:o_4	 ingrédients_ralatifs:['4', '4', '2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:assaisonner	 id:o_5	 ingrédients_ralatifs:['8', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_7	 ingrédients_ralatifs:['4', '4', '1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:etaler	 id:o_8	 ingrédients_ralatifs:['4', '1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:cuire	 id:o_9	 ingrédients_ralatifs:['5', '4', '6']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:enlever	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_11	 ingrédients_ralatifs:['6', '9', '10', '11']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:['5', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:etaler	 id:o_13	 ingrédients_ralatifs:['4', '4']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mélanger	 id:o_14	 ingrédients_ralatifs:['2', '5']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:etaler	 id:o_15	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:enfourner	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

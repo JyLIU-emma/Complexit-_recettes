@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12057">
+  <titre>Gaufres au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de beurre fondu</p>
+    <p>55 g de poudre de cacao pur</p>
+    <p>300 g de sucre</p>
+    <p>4 oeufs battus</p>
+    <p>260 g de farine</p>
+    <p>2 cuillerées à soupe de lait</p>
+    <p>2 cuillerées à soupe d'extrait de vanille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Bien mélanger le beurre et le cacao. Ajouter le sucre et les oeufs. Ajouter la farine, le lait et la vanille.
+    Cuire au gaufrier de la même façon que tout autre gaufre.
+    Se mange souvent avec un glaçage chocolat :
+    5 cuillères à soupe de poudre de cacao pur
+    85 ml de lait
+    75g de beurre
+    1 cuillère à café d'extrait de vanille
+    400g de sucre glace
+    Faire fondre le beurre avec le lait et le cacao.
+    Ajouter la vanille et le sucre et bien mélanger.
+  ]]>
+  </preparation>
+</recette>

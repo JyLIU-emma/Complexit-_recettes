@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25039">
+  <titre>Rôti de porc au lard et petits oignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 rôti de porc de 800 g</p>
+    <p>300 g de lard fumé</p>
+    <p>200 g de petits oignons</p>
+    <p>1 gros oignon</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>75 g de beurre</p>
+    <p>thym, laurier, persil</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre le rôti dans un plat beurré, saler, poivrer et ajouter le thym, le laurier et l'oignon haché.
+    Enfourner 1 h au four à 200°C (thermostat 6-7).
+    Pendant ce temps, découper le lard en lardons.
+    Les faire revenir à la poêle dans le beurre avec les petits oignons.
+    Laisser dorer et les rajouter dans le plat de cuisson du rôti à mi-cuisson.
+    Une fois le la viande cuite, la sortir du plat et déglacer celui-ci avec le vin blanc.
+    Gratter les sucs et verser la sauce sur le rôti tranché.
+    Servir saupoudré de persil frais haché.
+    Accompagnez de pommes noisettes et de purée de carottes par exemple.
+  ]]>
+  </preparation>
+</recette>

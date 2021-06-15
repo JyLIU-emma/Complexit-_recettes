@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13031">
+  <titre>Hamburger au tofu</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>un bloc de tofu </p>
+    <p>6 cas de sauce soja </p>
+    <p>6 cas d'amandes entières</p>
+    <p>6 cas de graines de sésame</p>
+    <p>3 cas de noisettes moulues</p>
+    <p>1 oeuf</p>
+    <p>8 cas de farine</p>
+    <p>poivre, sel, chili en poudre, paprika...</p>
+    <p>-huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le tofu en morceaux. Le mixer avec la sauce soja.
+    Hâcher grossièrement les amandes. Ajouter tout le reste, sauf l'huile. Mélanger et assaisonner selon vos goûts et couleurs.
+    Faire chauffer l'huile dans une poêle. 
+    Prélever des portions à l'aide d'une cuillère à glace et les mette dans la poêle, puis les aplatir.
+    Saisir brièvement les hamburgers de chaque côté et les laisser tiédir.
+    Servir dans un pain spécial hamburger avec des tomates, de la salade, des oignons, de gros cornichons et napper de ketchup ou moutarde selon les envies du moment !
+    Pas de risque de vache folle ! Chianti
+  ]]>
+  </preparation>
+</recette>

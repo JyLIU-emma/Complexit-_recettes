@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167360">
+  <titre>Couscous algérien</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de semoule moyenne</p>
+    <p>Viande : 5 cuisses de poulet coupées en 2, 1 épaule d’agneau découpée (à votre convenance). Si vous faites les 2 viandes vous n’aurez pas assez de place dans 1 cocotte donc partagez : mettre le poulet dans le couscoussier sous la semoule et faire le même mélange d’épices puis répartissez les légumes. Le couscoussier ne doit pas être trop plein pour ne pas déborder sur la semoule.</p>
+    <p>2 poignées de pois chiches secs (faire tremper la veille dans un récipient d’eau chaude avec 1 cuill à café de gros sel)</p>
+    <p>2 oignons moyens</p>
+    <p>1 kg de navets </p>
+    <p>1 kg de courgettes</p>
+    <p>1 kg de carottes</p>
+    <p>1 quart de chou </p>
+    <p>6 cuill à soupe d’huile </p>
+    <p>2 cuill à soupe de sauce tomate concentrée ou ½ bocal de sauce cuisinée</p>
+    <p>2 cuill à café bombées de piment rouge doux (paprika)</p>
+    <p>2 cuill à café de raz el hanout (mélange de 5 épices)</p>
+    <p>1 cuill à café de cumin</p>
+    <p>1 sachet et demi de colorant alimentaire, Sel: ½ cuill à soupe environ, poivre.</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1-Eplucher tous les légumes, les couper (en quatre pour les navets) tous de la même grosseur et réserver.2-Emincer les oignons les mettre dans la cocotte avec l’huile faire blondir.3-Ajouter la viande et les pois chiches, laisser dorer la viande.4-Ajouter la sauce tomate, le sel, le poivre puis les autres épices, remuer.5-Ajouter les légumes coupés puis tout recouvrir d’eau.6-Attendre l’ébullition puis fermer la cocotte. Laisser tourner environ 30 min, 40 min si la cocotte est pleine. L’odeur des pois chiches doit ressortir pour être sure de leur cuisson.7-Préparer le bas du couscoussier pour accueillir la semoule, il ne doit pas être en ébullition.8-Pendant ce temps préparer 1 récipient d’eau froide pour mouiller la semoule. verser la semoule dans un grand plat large mettre l’eau par petites poignées tout en travaillant la semoule avec les mains, il faut que toute la semoule soit humidifiée mais surtout pas trempée !!
+     
+    9-Déposer la semoule sur le haut du couscoussier, pour la cuisson vapeur, pendant 15 minutes à grand feu. après ce temps, baisser le feu et vérifier la quantité de liquide, ajouter de l’eau dans le bas du couscoussier s’il le faut. déposer la semoule sur votre plat laisser 1 peu tiedir avant de la travailler à nouveau avec de l’eau ; il faut bien l’humidifier cette fois ci ajouter 1 pincée de sel.10-Renouveler la cuisson vapeur 2 autre fois avec la même manipulation entre les 2.11-Des que la semoule est prête ajouter 1 filet d’huile d’olive, mélanger à l’aide d’une cuillère, c’est prêt…   Bon appétit.Il faut compter la matinée pour préparer ce couscous mais ca en vaut vraiment la peine vous verrez...
+    Bonne dégustation ! Coteau de Tlemcen ou Sidi Brahim
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">1-Eplucher</OPER> tous les légumes, les <OPER id="o_2">couper</OPER> ( en <INGRED id="1">quatre</INGRED> pour les <INGRED id="4">navets</INGRED> ) tous de la même grosseur et <OPER id="o_3">réserver.2-Emincer</OPER> les <INGRED id="13">oignons</INGRED> les <OPER id="o_4">mettre</OPER> dans la <INGRED id="3">cocotte</INGRED> avec l’ <INGRED id="9">huile</INGRED> <INGRED id="4">faire</INGRED> <OPER id="o_5">blondir.3-Ajouter</OPER> la viande et les <INGRED id="3">pois</INGRED> chiches, <INGRED id="12">laisser</INGRED> <OPER id="o_6">dorer</OPER> la <OPER id="o_7">viande.4-Ajouter</OPER> la sauce <INGRED id="2">tomate</INGRED>, le <INGRED id="5">sel</INGRED>, le <INGRED id="10">poivre</INGRED> puis les autres épices, <OPER id="o_8">remuer.5-Ajouter</OPER> les légumes <INGRED id="11">coupés</INGRED> puis tout <OPER id="o_9">recouvrir</OPER> d’ eau.6-Attendre l’ ébullition puis <OPER id="o_10">fermer</OPER> la <INGRED id="3">cocotte</INGRED>. Laisser <OPER id="o_11">tourner</OPER> <INGRED id="1">environ</INGRED> 30 min, 40 min si la <INGRED id="3">cocotte</INGRED> est pleine. L’ odeur des <INGRED id="3">pois</INGRED> chiches doit <OPER id="o_12">ressortir</OPER> pour être sure de leur <OPER id="o_13">cuisson.7-Préparer</OPER> le bas du couscoussier pour accueillir la <INGRED id="1">semoule</INGRED>, il ne doit pas être en ébullition.8-Pendant ce temps <OPER id="o_14">préparer</OPER> 1 récipient d’ <INGRED id="5">eau froide</INGRED> pour mouiller la <INGRED id="1">semoule</INGRED>. <OPER id="o_15">verser</OPER> la <INGRED id="1">semoule</INGRED> dans un grand <INGRED id="9">plat</INGRED> large <OPER id="o_16">mettre</OPER> l’ <INGRED id="10">eau</INGRED> par petites <INGRED id="5">poignées</INGRED> tout en travaillant la <INGRED id="1">semoule</INGRED> avec les mains, il faut que toute la <INGRED id="1">semoule</INGRED> soit humidifiée mais surtout pas trempée ! ! <OPER id="o_17">9-Déposer</OPER> la <INGRED id="1">semoule</INGRED> sur le haut du couscoussier, pour la cuisson vapeur, pendant 15 minutes à grand feu. après ce temps, <OPER id="o_18">baisser</OPER> le feu et <OPER id="o_19">vérifier</OPER> la quantité de liquide, <OPER id="o_2016">ajouter</OPER> de l’ <INGRED id="5">eau</INGRED> dans le bas du couscoussier s’ il le faut. <OPER id="o_21">déposer</OPER> la <INGRED id="1">semoule</INGRED> sur votre <INGRED id="9">plat</INGRED> <INGRED id="12">laisser</INGRED> 1 peu <OPER id="o_22">tiedir</OPER> avant de la <OPER id="o_23">travailler</OPER> à nouveau avec de l’ <INGRED id="10">eau</INGRED> ; il faut bien l’ <OPER id="o_24">humidifier</OPER> cette fois ci <OPER id="o_2516">ajouter</OPER> 1 pincée de <OPER id="o_26">sel.10-Renouveler</OPER> la cuisson vapeur 2 autre fois avec la même manipulation entre les 2.11-Des que la <INGRED id="1">semoule</INGRED> est prête <OPER id="o_2716">ajouter</OPER> 1 <INGRED id="7">filet</INGRED> d’ <INGRED id="8">huile</INGRED> d’ <INGRED id="13">olive</INGRED>, <OPER id="o_28">mélanger</OPER> à l’ aide d’ une cuillère, c’ est prêt … Bon appétit. Il faut <OPER id="o_29">compter</OPER> la matinée pour préparer ce couscous mais ca en vaut vraiment la peine vous verrez... Bonne dégustation ! Coteau de Tlemcen ou Sidi Brahim
+  </annotation>
+  <annotation methode="crf">
+  1-Eplucher tous les <INGRED>légumes</INGRED> <INGRED>,</INGRED> les couper ( en <INGRED>quatre</INGRED> pour les <INGRED>navets</INGRED> ) tous de la même grosseur et réserver.2-Emincer les <INGRED>oignons</INGRED> les mettre dans la cocotte avec l’ <INGRED>huile</INGRED> faire blondir.3-Ajouter la <INGRED>viande</INGRED> et les <INGRED>pois</INGRED> chiches <INGRED>,</INGRED> laisser dorer la viande.4-Ajouter la <INGRED>sauce</INGRED> <INGRED>tomate</INGRED> <INGRED>,</INGRED> le <INGRED>sel</INGRED> <INGRED>,</INGRED> le <INGRED>poivre</INGRED> puis les autres <INGRED>épices</INGRED> <INGRED>,</INGRED> remuer.5-Ajouter les <INGRED>légumes</INGRED> coupés puis tout recouvrir d’ eau.6-Attendre l’ ébullition puis fermer la cocotte. Laisser tourner <INGRED>environ</INGRED> 30 min <INGRED>,</INGRED> 40 min si la cocotte est pleine. L’ odeur des <INGRED>pois chiches</INGRED> doit ressortir pour être sure de leur cuisson.7-Préparer le bas du couscoussier pour accueillir la <INGRED>semoule</INGRED> <INGRED>,</INGRED> il ne doit pas être en ébullition.8-Pendant ce temps préparer 1 récipient d’ <INGRED>eau</INGRED> froide pour mouiller la <INGRED>semoule</INGRED> <INGRED>.</INGRED> verser la <INGRED>semoule</INGRED> dans un grand plat large mettre l’ <INGRED>eau</INGRED> par petites poignées tout en travaillant la <INGRED>semoule</INGRED> avec les mains <INGRED>,</INGRED> il faut que toute la <INGRED>semoule</INGRED> soit humidifiée mais surtout pas trempée ! ! 9-Déposer la <INGRED>semoule</INGRED> sur le haut du couscoussier <INGRED>,</INGRED> pour la cuisson vapeur <INGRED>,</INGRED> pendant 15 minutes à grand feu <INGRED>.</INGRED> après ce temps <INGRED>,</INGRED> baisser le feu et vérifier la quantité de liquide <INGRED>,</INGRED> ajouter de l’ <INGRED>eau</INGRED> dans le bas du couscoussier s’ il le faut <INGRED>.</INGRED> déposer la <INGRED>semoule</INGRED> sur votre plat laisser 1 peu tiedir avant de la travailler à nouveau avec de l’ <INGRED>eau</INGRED> ; il faut bien l’ humidifier cette fois ci ajouter 1 pincée de sel.10-Renouveler la cuisson vapeur 2 autre fois avec la même manipulation entre les 2.11-Des que la <INGRED>semoule</INGRED> est prête ajouter 1 <INGRED>filet</INGRED> d’ <INGRED>huile</INGRED> d’ olive <INGRED>,</INGRED> mélanger à l’ aide d’ une cuillère <INGRED>,</INGRED> c’ est prêt … Bon appétit. Il faut compter la matinée pour préparer ce couscous mais ca en vaut vraiment la peine vous verrez... Bonne dégustation ! Coteau de Tlemcen <INGRED>ou</INGRED> Sidi Brahim
+  </annotation>
+  <complexite>
+    <temps>f(X) = 40.1515151515151*X + 12.8484848484848</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 25*X + 13</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['semoule moyenne', 'semoule']	 id:1	 quantité:1	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['cuisses de poulet coupées en 2', 'cuisses']	 id:2	 quantité:5	 unité:non_precis	 denombrable:True	 recipient:5*X
+ingredient:['cocotte donc partagez : mettre le poulet dans le couscoussier sous la semoule', 'cocotte']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:["faire le même mélange d'épices puis répartissez les légumes . Le couscoussier ne doit pas être trop plein", 'faire']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poignées de pois chiches secs', 'poignées']	 id:5	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['oignons moyens', 'oignons']	 id:6	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['navets']	 id:7	 quantité:1	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['courgettes']	 id:8	 quantité:1	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['carottes']	 id:9	 quantité:1	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['quart de chou', 'quart']	 id:10	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:["cuill à soupe d'huile", 'cuill']	 id:11	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['cuill à soupe de sauce tomate concentrée ou ½ bocal de sauce cuisinée', 'cuill']	 id:12	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['cuill à café bombées de piment rouge doux', 'cuill']	 id:13	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['cuill à café de raz el hanout', 'cuill']	 id:14	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['cuill à café de cumin', 'cuill']	 id:15	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sachet']	 id:16	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['demi de colorant alimentaire', 'demi']	 id:17	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['Sel : ½ cuill à soupe environ', 'Sel']	 id:18	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:19	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:1-eplucher	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_2	 ingrédients_ralatifs:['1', '4', '13', '3', '9', '4', '3', '12', '2', '5', '10', '11', '3']	 nombre_opération_atomique:1+1+2*X+1*X+1+1+1*X+2*X+5*X+2*X+1*X+6*X+1*X	 temps:1*X*1+1*X*1+2*X*1+1*X*1+1*X*1+1*X*1+1*X*1+2*X*1+5*X*1+2*X*1+1*X*1+6*X*1+1*X*1	 recipient:1
+operation:réserver.2-emincer	 id:o_3	 ingrédients_ralatifs:['13']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_4	 ingrédients_ralatifs:['3', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:blondir.3-ajouter	 id:o_5	 ingrédients_ralatifs:['4', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dorer	 id:o_6	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:2*X*1	 recipient:0
+operation:viande.4-ajouter	 id:o_7	 ingrédients_ralatifs:['2', '5', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer.5-ajouter	 id:o_8	 ingrédients_ralatifs:['11']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recouvrir	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fermer	 id:o_10	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1*X*1	 recipient:0
+operation:tourner	 id:o_11	 ingrédients_ralatifs:['1', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ressortir	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuisson.7-préparer	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparer	 id:o_14	 ingrédients_ralatifs:['5', '1']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:verser	 id:o_15	 ingrédients_ralatifs:['1', '9', '10', '5', '1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_16	 ingrédients_ralatifs:['10', '5', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:9-déposer	 id:o_17	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:baisser	 id:o_18	 ingrédients_ralatifs:['16', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:vérifier	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_20	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déposer	 id:o_21	 ingrédients_ralatifs:['1', '9', '12', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:tiedir	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:travailler	 id:o_23	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:humidifier	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:sel.10-renouveler	 id:o_26	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_27	 ingrédients_ralatifs:['7', '8', '13']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_28	 ingrédients_ralatifs:['1', '7', '8', '13']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:compter	 id:o_29	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20474">
+  <titre>Sorbet au citron</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 citrons et 1 zeste</p>
+    <p>40 cl de sirop (préparé avec 140 g de sucre)</p>
+    <p>2 blancs d'oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Récuperer le jus des citron et râper le zeste d'un des fruits.
+    Le sirop se prépare en mettant le sucre ajouté de 45 cl d'eau et en chauffant ce mélange pour faire fondre le sucre.
+    Faire réduire légèrement et laisser refroidir.
+    Réunir jus de citron, zeste et sirop avant de mettre le tout dans un bac à glace gardé au congélateur.
+    Après 6 à 10 h de prise, battre le mélange pour le rendre mousseux.
+    Ajouter enfin les blancs d'oeufs et remettre à glacer.
+  ]]>
+  </preparation>
+</recette>

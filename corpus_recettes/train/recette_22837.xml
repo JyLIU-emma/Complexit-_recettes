@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22837">
+  <titre>Daube de boeuf</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 kg de boeuf (gîte ou morceau à bourguignon)</p>
+    <p>500 g de belles tomates</p>
+    <p>500 g d'oignons</p>
+    <p>3 gousses d'ail</p>
+    <p>1 couenne de lard</p>
+    <p>1 bouquet garni</p>
+    <p>75 cl de vin rouge type Côtes-du-rhône</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler la viande en dés et la faire mariner dans un saladier avec le bouquet garni, du sel, du poivre et le vin rouge pendant une nuit. Assaisonner.
+    Le lendemain, remplir une cocotte d'un morceau de couenne, d'une couche de viande égouttée et d'une couche d'oignons émincés. Continuer l'opération jusqu'à ce que la cocotte soit remplie. Ajouter les tomates coupées en dés, le bouquet garni et l'ail.
+    Arroser d'un peu de marinade tamisée. Puis porter à ébullition et laisser mijoter pendant 4 h à feu doux.
+    Servir avec des pâtes fraîches ou de la purée à l'huile d'olive et au thym.
+  ]]>
+  </preparation>
+</recette>

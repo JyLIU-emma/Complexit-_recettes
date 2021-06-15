@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22558">
+  <titre>Tarte à la ricotta et au café</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>350 g de pâte brisée, à acheter ou à faire soi même</p>
+    <p>500 g de ricotta</p>
+    <p>200 g de sucre</p>
+    <p>4 oeufs</p>
+    <p>2 cuillères à café de café moulu (celui avec lequel on fait l'expresso en Italie) </p>
+    <p>un peu de rhum (pour les adultes!)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la pâte briseée dans un moule beurré et fariné. 
+    Bien écraser la ricotta avec une fourchette. 
+    Mélanger le sucre et les oeufs, puis ajouter la ricotta, le café moulu, le rhum. 
+    Verser la préparation dans le moule. 
+    Enfourner à 180°C (Th 6) pendant 30 à 45 min.
+    Le café fait vraiment la différence!
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11958">
+  <titre>Tarte à la tomate et au chèvre</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de farine</p>
+    <p>75 g de beurre</p>
+    <p>1/2 verre d'eau</p>
+    <p>sel</p>
+    <p>3 belles tomates</p>
+    <p>1 fromage de chèvre frais</p>
+    <p>du basilic frais</p>
+    <p>huile d'olive</p>
+    <p>moutarde</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez le fond de tarte en mélangeant la farine et le sel avec le beurre coupé en petits morceaux.
+    Emiettez rapidement pour obtenir un gros sable, ajoutez l'eau petit à petit. Il faut veiller à travailler la pâte le moins possible.
+    Laissez reposer 15 minutes.
+    Pendant ce temps, lavez et coupez les tomates en tranches, ciselez le basilic et coupez le chèvre en petits morceaux.
+    Etalez la pâte dans un moule préalablement beurré (ou recouvert de papier sulfurisé). Badigeonnez le fond de moutarde (plus ou moins selon les gouts, mais on perd du piquant en cuisant). 
+    Disposez les rondelles de tomate pour recouvrir la pâte, puis les morceaux de chèvre.
+    Parsemez de basilic, nappez d'huile d'olive.
+    Faites cuire à thermostat 6 (180°C) pendant 25 à 30 mn.
+  ]]>
+  </preparation>
+</recette>

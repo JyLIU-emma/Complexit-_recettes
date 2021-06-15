@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23663">
+  <titre>Gâteau aux amandes (sans blé, sans lait, sans soja, sans gluten)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g d'amandes en poudre</p>
+    <p>100 g de farine sans gluten</p>
+    <p>70 g de fécule de pomme de terre</p>
+    <p>80 g de sucre en poudre</p>
+    <p>3 jaunes + blancs d'oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C. Préparer un moule à manqué de 15 cm de diamètre avec du papier sulfurisé. 
+    Mélanger la farine, la fécule de pommes de terre et la poudre d'amandes. 
+    Blanchir au fouet les jaunes d'oeufs et le sucre, ajouter ensuite le mélange précédent.
+    Monter les blancs en neige très ferme. Incorporer délicatement à la préparation précédente.
+    Verser dans le moule et enfourner. Cuire pendant 25 mn.
+    Le démouler encore chaud et laisser refroidir.
+  ]]>
+  </preparation>
+</recette>

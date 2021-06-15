@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25277">
+  <titre>Dinde en cocotte et sa jardinière de légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 dinde entière de 3 kg environ</p>
+    <p>20 petits oignons blancs</p>
+    <p>10 belles carottes</p>
+    <p>500 g de petits pois en boite</p>
+    <p>100 g de beurre</p>
+    <p>3 cl de cognac</p>
+    <p>1 cube de bouillon de volaille</p>
+    <p>1 l de bouillon</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Retirer la tête et les pattes de la dinde si nécessaire.
+    Dans une grande cocotte en fonte, faire fondre le beurre et y déposer la dinde à cuire. La faire dorer sur toutes ses faces à feu vif.
+    Peler les oignons et détailler les carottes en rondelles. Les incorporer dans la cocotte avec la dinde puis les faire rissoler.
+    Saler, poivrer, puis mouiller avec le bouillon et laisser cuire à feu doux à couvert en arrosant de bouillon de temps en temps.
+    Au bout d'1h30 de cuisson, flamber la dinde avec le cognac et laisser mijoter de nouveau 1 h avec les petits pois égouttés.
+    Filtrer la sauce, découper la dinde et la servir sur un plat, entourée de ses petits légumes avec la sauce en saucière.
+  ]]>
+  </preparation>
+</recette>

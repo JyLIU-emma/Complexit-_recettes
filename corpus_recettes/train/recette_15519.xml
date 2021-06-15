@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15519">
+  <titre>Foie gras sur lit chaud</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1 endive</p>
+    <p>1 tranche de foie gras</p>
+    <p>1 tranche de pain de mie grillée </p>
+    <p>poivre</p>
+    <p>beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyez les endives, coupez-les en petits morceaux , faites les cuire dans une casserole au beurre environ 20 mn.
+    Faitez très rapidement griller les toasts, déposez-y les endives en une couche ni trop fine ni trop épaisse, poivrez (selon le goût)et posez-y la tranche de foie gras...
+    Servir très rapidement !!!Endive ou chicon selon le pays. Le temps de cuisson n'est pas très précis, mais varie selon la quantité.
+  ]]>
+  </preparation>
+</recette>

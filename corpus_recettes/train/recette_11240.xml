@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11240">
+  <titre>Poulet au citron vert</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de blancs de poulet émincés</p>
+    <p>4 citrons verts</p>
+    <p>vin blanc</p>
+    <p>sel, poivre</p>
+    <p>gingembre en poudre</p>
+    <p>coriandre (et autres épices chinoises en poudre)</p>
+    <p>crème épaisse pour sauces (ou demi-crème-25%).</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Râper le zeste et presser le jus des citron verts.
+    Faire dorer l'émincé de poulet une dizaine de minutes. Le saupoudrer de sel, poivre, gingembre et épices. Laisser dorer un petit peu plus et baisser le feu.
+    Glacer le tout au vin blanc et laisser évaporer.
+    Verser le jus des citrons verts et laisser évaporer un peu.
+    Quand c'est bien chaud, verser la crème et laisser chauffer.
+    Juste avant de servir, saupoudrer du zeste de citron vert pour faire ressortir le goût.
+    Servir avec du riz (Basmati par exemple).Il paraît qu'il ne faut absolument pas essayer avec des citrons jaunes : ce n'est pas bon !
+  ]]>
+  </preparation>
+</recette>

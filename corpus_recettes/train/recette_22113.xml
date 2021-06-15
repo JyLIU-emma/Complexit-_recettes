@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22113">
+  <titre>Quenelles de brochet, sauce au beurre d'écrevisses</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>12 quenelles de brochet en boîte</p>
+    <p>50 g de beurre d'écrevisse</p>
+    <p>30 g de beurre</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>50 cl de lait</p>
+    <p>10 cl de crème fraîche</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 200°C (thermostat 6-7).
+    Dans une petite casserole, faites fondre le beurre avec le beurre d'écrevisse. Saupoudrez de farine, puis laissez cuire 5 minutes en tournant.
+    Arrosez de lait. Ajoutez la crème fraîche, laissez épaissir une dizaine de minutes en remuant.
+    Egouttez les quenelles et disposez-les dans un plat allant au four. Versez la sauce dessus et enfournez pour 15 minutes.
+    Si vous voulez faire les quenelles vous-mêmes, prenez 500 g de chair de brochet. Mélangez-la avec 175 g de beurre ramolli, les jaunes et les blancs en neige de 3 oeufs. Laissez reposer pendant 3 heures. Façonnez ensuite 12 quenelles, roulez-les sur une planche farinée et finalement, faites-les pocher pendant 20 minutes dans de l'eau frémissante salée.
+    Vous pouvez décorer le plat avec des queues d'écrevisses ou des petites crevettes et une truffe en lamelles.
+  ]]>
+  </preparation>
+</recette>

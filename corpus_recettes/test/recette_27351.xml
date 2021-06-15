@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27351">
+  <titre>Tarte fondante aux poireaux et oignons</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rouleau de pâte brisée</p>
+    <p>3 poireaux</p>
+    <p>4 oignons</p>
+    <p>1 gousse d'ail</p>
+    <p>50 cl de bière blonde</p>
+    <p>80 g de gruyère râpé</p>
+    <p>80 g de beurre</p>
+    <p>des fines herbes hachées</p>
+    <p>du sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etalez la pâte dans un moule, piquez à la fourchette et faites cuire 12 min au four à 180°C(thermostat 6).
+    Nettoyez et coupez les poireaux en tronçons, émincez les oignons, hachez l'ail.
+    Faites fondre les légumes dans une casserole large avec le beurre chaud, laissez à feu doux environ 5min.
+    Assaisonnez, salez, poivrez, saupoudrez de fines herbes.
+    Versez la bière, couvrez et laissez cuire jusqu'à évaporation complète du liquide.
+    Ajoutez le fromage râpé et mélangez.
+    Etalez la garniture sur le fond de tarte et mettez au four environ 30 min à 210°C (thermostat 7).
+  ]]>
+  </preparation>
+</recette>

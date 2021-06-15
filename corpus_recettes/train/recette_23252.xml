@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23252">
+  <titre>Esturgeon aux girolles</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 bel esturgeon</p>
+    <p>5 échalotes</p>
+    <p>500 g de girolles</p>
+    <p>5 cuillères à soupe d'huile</p>
+    <p>5 cl de vin blanc sec</p>
+    <p>1 pincée de gingembre en poudre (facultatif)</p>
+    <p>2 cuillères à soupe de ciboulette hachée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Plongez le poisson dans l'eau bouillante salée pendant 2 minutes, de préférence dans une poissonnière. Egouttez l'esturgeon, ôtez la peau et levez les filets.
+    Faites fondre les échalotes hachées dans l'huile puis ajoutez les girolles, du sel et du poivre.
+    Faites revenir les filets de poisson dans l'huile 30 secondes de chaque côté. Mouillez ensuite avec le vin blanc et saupoudrez de gingembre. Laissez réduire.
+    Déposez les filets d'esturgeon sur les assiettes chaudes avec leur sauce. Recouvrez de girolles saupoudrées de ciboulette.
+  ]]>
+  </preparation>
+</recette>

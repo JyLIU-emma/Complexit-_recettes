@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="7896">
+  <titre>Douceur de pommes sautées</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de petites pommes de terre</p>
+    <p>fines tranches de lard</p>
+    <p>6 Carrés frais</p>
+    <p>thym et laurier</p>
+    <p>2 gousses d'ail</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les pommes de terre. Les faire cuire 10 min dans de l'eau bouillante salée. Les égoutter, et laisser refroidir. 
+    Les enrouler dans les tranches de lard.
+    Les faire revenir dans une grande poêle, avec 1 cuillère à soupe d'huile d'olive, de chaque côté, jusqu'à ce qu'elles soient bien dorées.
+    Les mettre ensuite dans un plat à gratin. Parsemer d'ail pelé et haché, de thym effeuillé et de feuilles de laurier.
+    Emietter les Carrés frais. Les disperser sur les pommes de terre.
+    Placer au four, à 180°C (th 6), pendant 15 min.
+    Servir chaud, accompagné de salade verte.
+  ]]>
+  </preparation>
+</recette>

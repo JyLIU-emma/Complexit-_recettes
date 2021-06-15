@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11099">
+  <titre>Poulet à la moambé</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 gros poulet</p>
+    <p>1 boîte (800 g environ) de sauce de moambé (en vente au rayon "exotique" des supermarchés)</p>
+    <p>huile d'arachide</p>
+    <p>1 gros oignon</p>
+    <p>sel, poivre</p>
+    <p>pili pili (facultatif)</p>
+    <p>laurier</p>
+    <p>Pour l'accompagnement :</p>
+    <p>1 petite boîte de saka saka (feuilles de manioc émincées, dans le même rayon que la sauce)</p>
+    <p>riz</p>
+    <p>banane</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le poulet en morceaux et le faire frire dans un peu d'huile. Saler et poivrer.
+    Mettre dans une casserole assez grande pouvant contenir le poulet avec la sauce.
+    Dans la poêle où a rôti le poulet, faire fondre un gros oignon émincé puis le rajouter dans la casserole avec une belle feuille de laurier.
+    Verser sur le tout la sauce moambe et mettre à feu doux.
+    L'ensemble doit mijoter tout doucement pendant environ 45 min (le poulet doit être bien cuit).
+    Assaisonner de sel et poivre selon votre goût et, éventuellement, mettre du pili pili (pour palais avertis seulement !).
+    Pendant la cuisson du poulet, vous noterez que de l'huile remonte à la surface : ayez soin d'en prélever environ une louche moyenne que vous 
+    verserez dans une petite casserole.
+    Faites-y fondre un petit oignon émincé et ajoutez le saka saka,une feuille de laurier, salez, poivrez et faites chauffer à feu doux (le légume est déja cuit quand il est mis en boîte).
+    Servir le poulet avec du riz pilaf, les légumes, la sauce (plus il y en a, meilleur c'est !).
+    Proposez des bananes en rondelles en accompagnement. Recette PAS LIGHT du tout, mais un vrai régal.
+    La sauce moambé est obtenue après pilage des noix de palme.
+  ]]>
+  </preparation>
+</recette>

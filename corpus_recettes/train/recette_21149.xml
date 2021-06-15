@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21149">
+  <titre>Côtes de porc marinées et flambées au rhum et aux épices</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 côtes de porc</p>
+    <p>15 cl de rhum</p>
+    <p>3 clous de girofle émiettés</p>
+    <p>1/2 cuillère à café de muscade râpée</p>
+    <p>1/2 cuillère à café de cannelle en poudre</p>
+    <p>3 cuillères à soupe de jus d'orange</p>
+    <p>1 zeste de citron râpé</p>
+    <p>40 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez 10 cl de rhum avec les clous de girofle, la cannelle, la muscade, le citron, le jus d'orange, sel et poivre.
+    Faites mariner la viande 20 min dans le mélange, retournez au bout de 10 min.
+    Egouttez les côtes.
+    Faites chauffer le beurre et faites-y cuire les côtes de porc environ 5 min de chaque côté.
+    Retirez les côtes, disposez-les dans un plat.
+    Versez la marinade dans la poêle pour déglacer, laissez réduire à feu vif et versez sur la viande. 
+    Faites chauffer le rhum restant, flambez et versez sur la viande à table.
+    Accompagnez ce plat de riz blanc ou de purée de pomme de terre pour contrer la force du rhum !
+  ]]>
+  </preparation>
+</recette>

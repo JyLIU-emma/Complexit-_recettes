@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19078">
+  <titre>Amour caché (gâteau antillais)</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de farine</p>
+    <p>200 g de beurre</p>
+    <p>120 g de sucre</p>
+    <p>3 oeufs</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 sachet de levure</p>
+    <p>cannelle + un zeste de citron vert</p>
+    <p>1 pâte à tarte sablée</p>
+    <p>100 g de confiture de noix de coco</p>
+    <p>100 de confiture de goyave ou banane (épicerie antillaise ou asiatique) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le sucre + sucre vanillé + les oeufs rajouter le beurre fondu, mélanger jusqu'à ce que le mélange blanchisse. 
+    Rajouter la farine mélangée à la levure. 
+    Ajouter la cannelle moulue + zeste de citron. 
+    Garder ce mélange de côté. 
+    Étaler la pâte à tarte mettre la confiture de coco, puis par dessus la confiture de goyave. 
+    Rajouter la pâte à gâteaux par dessus. 
+    Mettre au four pendant 20 mn à feu doux.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14478">
+  <titre>Hachis Parmentier</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g de viande hachée porc/veau</p>
+    <p>1 kg Pommes de terres à chair farineuse (type Bintje)</p>
+    <p>4 tomates</p>
+    <p>150 g de fromage râpé (émmenthal)</p>
+    <p>1 oeuf</p>
+    <p>10 cl de crème fraîche</p>
+    <p>poivre, sel, beurre, noix muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer une purée de pommes de terre en y incorporant l'oeuf, la crème fraîche, sel, poivre, beurre et noix de muscade râpée. Réserver la purée au chaud.
+    Cuire le hachis en détachant bien la viande pour obtenir un granulé de viande peu compact. Saler, poivrer.
+    Etaler la viande dans le fonds d'un plat à gratin, recouvrir uniformément de purée. Découper les tomates en quartier et les répartir au dessus de la purée. Couvrir le tout de fromage râpé.
+    Passer le plat pendant 5 mn à la salamandre pour gratiner le fromage et servir immédiatement.
+    Je remplace parfois les tomates par des épinards en branche cuits. La suite des couches devient alors viande, épinards, purée, fromage. Une bière Blanche bien fraîche
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14903">
+  <titre>Zucchini Bread (pavé aux courgettes)</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 oeufs</p>
+    <p>16 cl d'huile</p>
+    <p>1 cuillère à soupe de miel</p>
+    <p>200 g de sucre</p>
+    <p>2 cuillères à café d'extrait de vanille</p>
+    <p>500 g de courgettes</p>
+    <p>100 g de noix (facultatif)</p>
+    <p>300 g de farine</p>
+    <p>1 cuillère à café de bicarbonate de soude.</p>
+    <p>1 cuillère a café de levure</p>
+    <p>1 pincée de cardamome en poudre</p>
+    <p>1 pincée de clous de girofle en poudre</p>
+    <p>1/2 cuillère à café de noix de muscade moulue</p>
+    <p>1 cuillère à café de gingembre en poudre moulu</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à thermostat 5. Beurrer un moule a cake de 27,5 x 11 x 8 cm.
+    Mélanger les ingredients secs. Par ailleurs, battre les oeufs, l'huile et le sucre, jusqu'à ce que le mélange soit céemeux. Râper (grille moyenne) les courgettes et les ajouter, ainsi que la vanille et les noix grossièrement hachées. 
+    Faire cuire environ 1 heure, ou jusqu'à ce qu'une brochette piquée ressorte sèche. Démouler après 1 heure.
+    Le zucchini bread se conserve bien, il peut etre accompagné d'un coulis de tomates.
+  ]]>
+  </preparation>
+</recette>

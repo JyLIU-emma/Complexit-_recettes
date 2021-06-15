@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10619">
+  <titre>Tarte au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte (sablée ou brisée) pour un plat de 28 cm</p>
+    <p>150 g de chocolat</p>
+    <p>100 g de sucre</p>
+    <p>100 g de beurre</p>
+    <p>50 g de farine</p>
+    <p>3 oeufs</p>
+    <p>1 sachet de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le chocolat avec une cuillère à soupe d'eau. 
+    Ajouter le beurre (fondu), les 2/3 du sucre ainsi que les jaunes d'oeufs.
+    Battre le blancs d'oeufs, y ajouter le sucre vanillé et le 1/3 de sucre restants.
+    Ajouter les blancs d'oeufs au mélange chocolat. Ajouter la farine.
+    Mettre au four à 150°C (thermostat 5) pendant environ 15 à 20 mn.
+    Cuisson à surveiller, la tarte ne doit pas être trop cuite. Si vous utilisez une pâte sablée, faites-la précuire 15 mn à four moyen (en posant des haricots dessus pour ne pas qu'elle se gondole).
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">fondre</OPER> le <INGRED id="2">chocolat</INGRED> avec une cuillère à soupe d'<INGRED id="2">eau</INGRED>. <OPER id="o_2">Ajouter</OPER> le <INGRED id="1">beurre</INGRED> ( fondu ), les 2/3 du <INGRED id="7">sucre</INGRED> ainsi que les jaunes d'<INGRED id="2">oeufs</INGRED>. <OPER id="o_3">Battre</OPER> le <INGRED id="1">blancs</INGRED> d'<INGRED id="2">oeufs</INGRED>, y <OPER id="o_4">ajouter</OPER> le <INGRED id="7">sucre vanillé</INGRED> et le 1/3 de <INGRED id="7">sucre</INGRED> restants. <OPER id="o_5">Ajouter</OPER> les <INGRED id="1">blancs</INGRED> d'<INGRED id="2">oeufs</INGRED> au mélange <INGRED id="2">chocolat</INGRED>. <OPER id="o_6">Ajouter</OPER> la <INGRED id="4">farine</INGRED>. <OPER id="o_7">Mettre</OPER> au four à 150 ° C ( thermostat 5 ) pendant environ 15 à 20 mn. Cuisson à <OPER id="o_8">surveiller</OPER>, la tarte ne doit pas être trop cuite. Si vous utilisez une <INGRED id="5">pâte</INGRED> sablée, faites - la <OPER id="o_9">précuire</OPER> 15 mn à four moyen ( en posant des <INGRED id="5">haricots</INGRED> dessus pour ne pas qu'elle se gondole ).
+  </annotation>
+  <annotation methode="crf">
+  Faire fondre le <INGRED>chocolat</INGRED> avec une cuillère à soupe d'<INGRED>eau</INGRED> <INGRED>.</INGRED> Ajouter le <INGRED>beurre</INGRED> ( fondu ) <INGRED>,</INGRED> les 2/3 du <INGRED>sucre</INGRED> ainsi que les <INGRED>jaunes d'oeufs</INGRED> <INGRED>.</INGRED> Battre le <INGRED>blancs d'oeufs</INGRED> <INGRED>,</INGRED> y ajouter le <INGRED>sucre vanillé</INGRED> et le <INGRED>1/3</INGRED> de <INGRED>sucre</INGRED> restants. Ajouter les <INGRED>blancs d'oeufs</INGRED> au <INGRED>mélange</INGRED> <INGRED>chocolat</INGRED> <INGRED>.</INGRED> Ajouter la <INGRED>farine</INGRED>. Mettre au four à 150 ° C ( thermostat 5 ) pendant <INGRED>environ</INGRED> 15 à 20 mn <INGRED>.</INGRED> Cuisson à surveiller <INGRED>,</INGRED> la tarte ne doit pas être trop cuite <INGRED>.</INGRED> Si vous utilisez une <INGRED>pâte</INGRED> sablée <INGRED>,</INGRED> faites - la précuire 15 mn à four moyen ( en posant des <INGRED>haricots</INGRED> dessus pour ne pas qu'elle se gondole ).
+  </annotation>
+  <complexite>
+    <temps>f(X) = 5.0*X + 4.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 5*X + 6</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pâte']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['chocolat']	 id:2	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:3	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:4	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:5	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:6	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['sucre vanillé', 'sucre']	 id:7	 quantité:1	 unité:sachet de	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:fondre	 id:o_1	 ingrédients_ralatifs:['2', '2']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['1', '7', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_3	 ingrédients_ralatifs:['1', '2', '7', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_4	 ingrédients_ralatifs:['7', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['1', '2', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:surveiller	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:précuire	 id:o_9	 ingrédients_ralatifs:['5', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164434">
+  <titre>Poires aux amandes et épices douces</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 poires bien mûres.</p>
+    <p>le jus d'un citron</p>
+    <p>100g de poudre d'amande</p>
+    <p>100g de sucre brun</p>
+    <p>80g de beurre</p>
+    <p>1 cuillère à café d'épices à pain d'épice</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°CÉplucher les poires, les couper en deux et les évider légèrement.
+    Arroser les poires avec le jus du citron pour éviter qu'elles ne brunissent.Mélanger le beurre ramolli, la poudre d'amande, le sucre et les épices.Répartir le mélange obtenu sur les demi-poires. Disposer le tout dans un plat à gratin.
+    Enfourner pour une durée de 20 à 25 mn (la poire doit être cuite et le mélange légèrement grillé).A servir chaud, avec une boule de glace à la vanille (par exemple) et un vin blanc moelleux.On peut éventuellement utiliser des poires au sirop, mais il faudra en tenir compte au moment de la cuisson.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Préchauffer</OPER> le four à 200 ° <OPER id="o_2">CÉplucher</OPER> les <INGRED id="1">poires</INGRED>, les <OPER id="o_3">couper</OPER> en deux et les <OPER id="o_4">évider</OPER> légèrement. <OPER id="o_5">Arroser</OPER> les <INGRED id="1">poires</INGRED> avec le <INGRED id="2">jus</INGRED> du citron pour éviter qu'elles ne brunissent. <OPER id="o_6">Mélanger</OPER> le beurre ramolli, la <INGRED id="3">poudre d'amande</INGRED>, le <INGRED id="5">sucre</INGRED> et les <INGRED id="6">épices</INGRED>. <OPER id="o_7">Répartir</OPER> le mélange obtenu sur les demi-poires. <OPER id="o_8">Disposer</OPER> le tout dans un plat à gratin. <OPER id="o_9">Enfourner</OPER> pour une durée de 20 à 25 mn ( la poire doit être cuite et le mélange légèrement grillé).A servir chaud, avec une boule de glace à la vanille ( par exemple ) et un vin blanc moelleux. On peut éventuellement <OPER id="o_10">utiliser</OPER> des <INGRED id="1">poires</INGRED> au sirop, mais il faudra en tenir compte au moment de la cuisson.
+  </annotation>
+  <annotation methode="crf">
+  Préchauffer le four à 200 ° CÉplucher les <INGRED>poires</INGRED> <INGRED>,</INGRED> les couper en <INGRED>deux</INGRED> et les évider légèrement <INGRED>.</INGRED> Arroser les <INGRED>poires</INGRED> avec le <INGRED>jus</INGRED> du <INGRED>citron</INGRED> pour éviter qu'elles ne brunissent <INGRED>.</INGRED> Mélanger le <INGRED>beurre ramolli</INGRED> <INGRED>,</INGRED> la <INGRED>poudre d'amande</INGRED> <INGRED>,</INGRED> le <INGRED>sucre</INGRED> et les <INGRED>épices</INGRED> <INGRED>.</INGRED> Répartir le <INGRED>mélange</INGRED> obtenu sur les demi-poires. Disposer le tout dans un plat à gratin <INGRED>.</INGRED> Enfourner pour une durée de 20 à 25 mn ( la <INGRED>poire</INGRED> doit être cuite et le <INGRED>mélange</INGRED> légèrement grillé).A servir chaud <INGRED>,</INGRED> avec une boule de <INGRED>glace</INGRED> à la <INGRED>vanille</INGRED> ( par exemple ) et un <INGRED>vin blanc</INGRED> moelleux. On peut éventuellement utiliser des <INGRED>poires</INGRED> au <INGRED>sirop</INGRED> <INGRED>,</INGRED> mais il faudra en tenir compte au moment de la cuisson.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 4.28571428571429*X + 5.71428571428571</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 3*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['poires bien mûres', 'poires']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:["jus d'un citron", 'jus']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["poudre d'amande", 'poudre']	 id:3	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre brun', 'sucre']	 id:4	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:5	 quantité:80	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["épices à pain d'épice", 'épices']	 id:6	 quantité:1	 unité:cuillère à café d'	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préchauffer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:céplucher	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:évider	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:2	 recipient:0
+operation:arroser	 id:o_5	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_6	 ingrédients_ralatifs:['3', '5', '6']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:répartir	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:enfourner	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:utiliser	 id:o_10	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

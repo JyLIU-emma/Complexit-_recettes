@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25057">
+  <titre>Cake ardéchois à la crème de marrons</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>un sachet de levure</p>
+    <p>3 oeufs</p>
+    <p>150 g de beurre mou</p>
+    <p>100 g de sucre</p>
+    <p>1 petite boîte de crème de marrons</p>
+    <p>5 cl de rhum</p>
+    <p>80 g de raisins secs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites tremper les raisins dans le rhum. 
+    Dans une terrine, travaillez le beurre avec le sucre et la crème de marrons. Ajoutez ensuite les oeufs battus en omelette, la farine, la levure et le sel. Mélangez soigneusement puis incorporez les raisins secs avec le rhum de macération. 
+    Versez la pâte dans un moule à cake beurré puis laissez reposer 30 mn à température ambiante. 
+    Préchauffez le four sur Th 7 (210°C). 
+    Mettez au four et laissez cuire 20 mn, baissez la température sur Th 6 (180°C) et poursuivez la cuisson 20 mn. 
+    Laissez tiédir avant de démouler.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17674">
+  <titre>Flan aux poires sauce chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 poires</p>
+    <p>50 g de beurre</p>
+    <p>175 g de sucre</p>
+    <p>50 cl de lait</p>
+    <p>7 oeufs</p>
+    <p>Pour la sauce chocolat :</p>
+    <p>200 g de chocolat amer</p>
+    <p>25 g de beurre</p>
+    <p>3 cuillères à soupe de crème fraîche</p>
+    <p>3 cuillères à soupe de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C.
+    Eplucher les poires et les couper en lamelles.les poeler dans le beurre avec 4 cuillères à soupe de sucre. Les laisser refroidir.
+    Dans un récipient, verser le lait, les oeufs,et le reste du sucre. Mélanger. Verser un peu de cet appareil dans un moule (de préference un moule à cake). Y ranger harmonieusement les poires. Verser le reste de l'appareil.
+    Disposer le moule dans un bain-marie, puis enfourner 45 mn.
+    15 min avant la fin de la cuisson râper le chocolat, le disposer avec le beurre dans une jatte placée sur un bain-marie frémissant. Laisser fondre. Ajouter crème fraîche et sucre. Faire chauffer le mélange sans cesser de remuer.
+    Servir le flan aux poires avec la sauce au chocolat.
+  ]]>
+  </preparation>
+</recette>

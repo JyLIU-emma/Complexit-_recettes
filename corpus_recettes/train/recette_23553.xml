@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23553">
+  <titre>Pavé au chocolat et aux noix</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 oeufs</p>
+    <p>70 g Maïzena</p>
+    <p>100 g sucre</p>
+    <p>80 g chocolat noir</p>
+    <p>50 g de cerneaux de noix</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Allumer le four à 180°C (thermostat 6). Faire fondre le chocolat avec une cuillère à soupe d’eau. 
+    Mélanger les oeufs, le sucre et la Maïzena. 
+    Ajouter le chocolat fondu et mélanger jusqu'à obtenir une pâte lisse. 
+    Emietter les cerneaux et les incorporer à la pâte. Verser la pâte dans un moule à cake. 
+    Faire cuire pendant 20 min. Servir tiède ou froidChoisir un plat rectangulaire style plat à gratin pour des brownies.
+  ]]>
+  </preparation>
+</recette>

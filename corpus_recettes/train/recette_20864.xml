@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20864">
+  <titre>Soupe à l'oignon gratinée</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>12 oignons moyens</p>
+    <p>45 g de beurre</p>
+    <p>2 gousses d'ail</p>
+    <p>15 g de farine</p>
+    <p>1.5 l de bouillon</p>
+    <p>1 feuille de laurier</p>
+    <p>poivre et sel</p>
+    <p>6 tranches de pain</p>
+    <p>60 g de fromage râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le gril du four.
+    Hacher les oignons et les faire fondre dans le beurre durant 15 minutes.
+    Saupoudrer ensuite de farine et ajouter l'ail. Lorsque la farine a pris de la couleur, verser le bouillon chaud, ajouter le laurier et laisser cuire 15 minutes.
+    Rectifier l'assaisonnement.
+    Répartir le fromage sur les tranches de pain et les faire gratiner au four.
+    Déposer sur la soupe et servir bien chaud.
+  ]]>
+  </preparation>
+</recette>

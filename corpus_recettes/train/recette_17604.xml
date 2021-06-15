@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17604">
+  <titre>Galette au beurre de l'ouest</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>125 g de sucre en poudre </p>
+    <p>200 g de beurre</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>1 zeste de citron</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une terrine, mélangez le beurre fondu et la farine. Ajoutez une pincée de sel.
+    D'autre part, battez les jaunes d'oeufs (gardez-en un peu pour dorer la galette) avec le sucre. 
+    Lorsque le mélange a blanchi mêlez-le au contenu de la terrine. Si le mélange est trop ferme, humectez-le légèrement. Ajoutez à la pâte le zeste de citron râpé.
+    Sur un moule beurré étendez la pâte avec la paume de la main. Aplatissez le dessus pour égaliser la surface. Tracez quelques lignes ondulées en croisillons avec une fourchette pour decorer. Dorez avec un peu de jaune d'oeuf délayé.
+    Enfournez à four moyen (180°C, thermostat 5/6) pendant 45 mn.
+    La pâte s'étend difficilement.
+  ]]>
+  </preparation>
+</recette>

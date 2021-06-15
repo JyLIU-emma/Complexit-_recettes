@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26810">
+  <titre>Pâtes Complètes au maïs et aux oeufs</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de pâtes complètes</p>
+    <p>200 g de grains de maïs en boîte</p>
+    <p>6 oeufs</p>
+    <p>30 g de pignons</p>
+    <p>basilic</p>
+    <p>sel, poivre</p>
+    <p>huile d'olive</p>
+    <p>parmesan (facultatif) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Egoutter le maïs. Faire cuire les pâtes. 
+    Pendant ce temps, mettre 2 cuillères à soupe d'huile d'olive dans une casserole, y faire cuire les oeufs très doucement, en remuant. Quand ils sont brouillés mais encore bien mousseux, verser les grains de maïs, saler et bien poivrer. 
+    Faire dorer, dans une poêle sèche, les pignons. Egoutter les pâtes, verser 2 cuillères à soupe d'huile d'olive. Bien mélanger. 
+    Verser la préparation sur les pâtes, saupoudrer de parmesan (éventuellement), de basilic et éparpiller les pignons.
+  ]]>
+  </preparation>
+</recette>

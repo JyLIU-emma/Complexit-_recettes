@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14739">
+  <titre>Escalopes de veau flambées au calvados</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 escalopes d'environ 150 g chacune</p>
+    <p>40 g de beurre</p>
+    <p>200 g de champignons de paris</p>
+    <p>4 cuillerées à soupe de calvados</p>
+    <p>4 cuillerées à soupe de crème fraiche</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer le beurre dans une sauteuse et y faire cuire les escalopes de veau. Saler, poivrer.
+    Ajouter les champignons préparés, lavés et émincés.
+    Verser le calvados et flamber. Ajouter la crème.Vérifier l'assaisonnement et servir bien chaud.
+  ]]>
+  </preparation>
+</recette>

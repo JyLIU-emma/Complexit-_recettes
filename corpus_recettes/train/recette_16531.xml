@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16531">
+  <titre>Risotto aux asperges</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>riz rond</p>
+    <p>asperges déjà cuites</p>
+    <p>oignon</p>
+    <p>huile</p>
+    <p>beurre</p>
+    <p>parmesan</p>
+    <p>sel et poivre</p>
+    <p>1 bouillon cube</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les asperges en 5 (réserver les pointes), puis couper l'oignon en petits cubes.  
+    Faire chauffer 1 cuillère à soupe d'huile et de beurre. Faire fondre 1/2 oignon, sans le faire brunir!
+    Ajouter le riz passé sous l'eau au préalable, les morceaux d'asperges et laisser revenir quelque minutes jusqu'à ce que le riz devienne translucide.
+    Mouiller avec de l'eau et ajouter le sel, le poivre et le bouillon cube. Ne pas mettre trop d'eau, et mouiller le riz de temps en temps.
+    Une fois le riz cuit (al dente), le sortir du feu. Ajouter une noix de beurre, une bonne poignée de parmesan; puis laisser reposer 5 min.  
+    Servir et ajouter sur le dessus les pointes d'asperges, que vous aurez fait légèrement revenir dans du beurre.
+    Eventuellement, saupoudrer de persil fraîchement haché.
+    Tourner souvent dans la préparation afin que celle-ci n'accroche pas au fond du plat. La cuisson se fait à feu moyen.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24803">
+  <titre>Rillettes au saumon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de saumon frais</p>
+    <p>300 g de saumon fumé</p>
+    <p>100 g d'oeufs de saumon</p>
+    <p>200 g de beurre</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>citron, ciboulette, persil hachéPour le court-bouillon :</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>75 cl d'eau</p>
+    <p>2 carottes</p>
+    <p>1 oignon</p>
+    <p>1 bouquet garni</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire un court-bouillon avec l'eau, le vin, les carottes coupées en rondelles, l'oignon entier, le bouquet garnie, du sel et du poivre.
+    Laisser cuire 20 min.
+    Pocher le saumon 12 min dans ce court-bouillon. Couper le feu et laisser refroidir dans le court-bouillon.
+    Egoutter le saumon, retirer la peau et les arêtes, puis émietter la chair.
+    Mixer le saumon fumé au mixeur avec les oeufs de saumon. Ajouter le le beurre ramolli, les jaunes d'oeufs et l'huile.
+    Ajouter le saumon cuit émietté et verser la préparation dans une terrine.
+    Réserver au frais au moins 2 h, et sortir 15 min avant de servir avec du pain grillé, du citron et des herbes fraîches hachées.
+  ]]>
+  </preparation>
+</recette>

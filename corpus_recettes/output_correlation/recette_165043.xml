@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165043">
+  <titre>Gratin de quenelles au fruits de mers</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>18 quenelles </p>
+    <p>500 g de fruits de mer </p>
+    <p>crème fraiche épaisse</p>
+    <p>fromage râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    couper les quenelles en rondelles et les faire frire a la poelle.
+    ensuite dans un plat a gratin mettre une epaisseur de quennelles une epaisseur de fruit de mer mettre du gruyere.
+    mettre de la creme fraiche pour recouvrir l epaisseur
+    ensuite refaite une autre epaisseur quenelles fruit de mer et fromages.
+    vous pouvez rajouter un peu de lait pour que le gatin soit entoure de liquide. 
+    sale poivre epice a votre guise.
+    ensuite faite cuire et serve chaud.
+    vous pouvez accompagne de riz c est delicieu.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">couper</OPER> les <INGRED id="1">quenelles</INGRED> en rondelles et les faire <OPER id="o_2">frire</OPER> a la poelle. ensuite dans un plat a gratin <OPER id="o_3">mettre</OPER> une epaisseur de quennelles une epaisseur de fruit de mer <OPER id="o_4">mettre</OPER> du gruyere. <OPER id="o_5">mettre</OPER> de la creme fraiche pour recouvrir l epaisseur ensuite refaite une autre epaisseur <INGRED id="1">quenelles</INGRED> fruit de mer et fromages. vous pouvez <OPER id="o_6">rajouter</OPER> un peu de lait pour que le gatin soit entoure de liquide. sale poivre epice a votre guise. ensuite faite <OPER id="o_7">cuire</OPER> et serve chaud. vous pouvez accompagne de riz c est delicieu.
+  </annotation>
+  <annotation methode="crf">
+  couper les quenelles en rondelles et les faire frire <INGRED>a</INGRED> la poelle. ensuite dans un plat <INGRED>a</INGRED> gratin mettre une epaisseur de quennelles une epaisseur de fruit de mer mettre du gruyere. mettre de la creme fraiche pour recouvrir l epaisseur ensuite refaite une autre epaisseur quenelles fruit de mer et <INGRED>fromages</INGRED> <INGRED>.</INGRED> vous pouvez rajouter un peu de <INGRED>lait</INGRED> pour que le gatin soit entoure de liquide. sale poivre epice <INGRED>a</INGRED> votre guise. ensuite faite cuire et serve chaud <INGRED>.</INGRED> vous pouvez accompagne de <INGRED>riz</INGRED> <INGRED>c</INGRED> est delicieu <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 6.0*X + 1.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 18*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['quenelles']	 id:1	 quantité:18	 unité:non_precis	 denombrable:True	 recipient:18*X
+ingredient:['fruits de mer', 'fruits']	 id:2	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crème fraiche épaisse', 'crème']	 id:3	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fromage râpé', 'fromage']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:couper	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:18*X*1	 recipient:1
+operation:frire	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_5	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:rajouter	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+]]>
+</operation_trouve>
+</recette>

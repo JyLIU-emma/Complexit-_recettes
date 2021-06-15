@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15719">
+  <titre>Mousse de semoule</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de semoule</p>
+    <p>50 cl de lait</p>
+    <p>150 g de sucre</p>
+    <p>80 g de beurre</p>
+    <p>4 oeufs</p>
+    <p>50 g de raisins de Corinthe</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire la semoule dans le lait. Y ajouter le sucre, le beurre, et hors du feu les jaunes d'oeufs.
+    Ensuite, battre les blancs en neige très ferme, et les ajouter dans le mélange ainsi que les raisins.
+    Mettre le mélange dans un moule à manqué, et faire cuire au four (thermostat moyen: 5/6) pendant 25 minutes. Servir chaud.
+  ]]>
+  </preparation>
+</recette>

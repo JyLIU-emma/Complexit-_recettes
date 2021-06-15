@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23852">
+  <titre>Cake italien tomate et mozzarella</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>170 g de farine</p>
+    <p>2 ou 3 oeufs</p>
+    <p>1 sachet de levure chimique</p>
+    <p>20 cl d'huile d'olive</p>
+    <p>1 verre de lait</p>
+    <p>100 g de fromage râpé (gruyère ou comté, que vous pouvez mélaner à un peu ou parmesan)</p>
+    <p>200 g de mozzarella (le vrai, de bufflonne, évidemment)</p>
+    <p>2 tomates bien mûres</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>1 bouquet de basilic frais</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez et épépinez les tomates et coupez les en petits dés que vous mettrez dans une poêle avec la moitié de l'huile, du sel et du poivre.
+    Asséchez les tomates et laissez-les refroidir. Coupez la mozzarella en morceaux et mélangez-la aux tomates et au basilic ciselé.
+    Parallèlement, fouettez les oeufs, la farine et la levure, puis incorporez l'huile et le lait légèrement tiédi (mais ce n'est pas obligatoire, juste si vous avez le temps!).
+    Ajoutez le fromage et mélangez le tout.
+    Versez le tout dans un moule à cake, sur un papier sulfurisé, puis glissez au four préchauffé et laissez cuire environ 40 mn à thermostat 6 (180°C).
+    C'est un plat très estival. Accompagné d'une salade verte parfumé au vinaigre de framboise ou balsamique + huile d'olivre, c'est un véritable régal.
+  ]]>
+  </preparation>
+</recette>

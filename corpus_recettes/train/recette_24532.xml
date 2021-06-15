@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24532">
+  <titre>Tarte purée de pommes de terre au chèvre</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 rouleau de pâte de brisée</p>
+    <p>1 kg de pommes de terre</p>
+    <p>350 g de chèvre frais</p>
+    <p>3 oeufs</p>
+    <p>20 cl de crème fraîche</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les pommes de terre à l'eau bouillante.
+    Pelez les et écrasez-les en purée sauf 3.
+    Etalez la pâte dans un moule beurré.
+    Mélangez à la fourchette le fromage de chèvre avec les oeufs, salez et poivrez. Ajoutez la purée et mélangez. Répartissez le tout sur le fond de pâte.
+    Faites cuire au four à 120°C (thermostat 4) pendant 1h30.
+    Pendant ce temps, découpez les 3 pommes de terre restantes en fines rondelles.
+    Disposez-les sur la purée 10 minutes avant la fin de cuisson, et couvrez avec la crème fraîche fouettée avec du sel et du poivre.
+    Laissez reposer 5 minutes avant de servir.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14137">
+  <titre>Filets de Sébaste</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 filets de sébaste (600 grammes)</p>
+    <p>1 petite courgette</p>
+    <p>1 gousse d'ail</p>
+    <p>3 grosses tomates coupées en dés (ou 1 boîte de tomates concassées)</p>
+    <p>sel et poivre</p>
+    <p>un petit oignon émincé</p>
+    <p>huile d'olive</p>
+    <p>4 feuilles d'aluminium</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 190°C.
+    Dans une casserole, faire revenir les oignons dans de l'huile d'olive.
+    Mettre les tranches de courgettes finement coupées et laisser cuire à feu doux pendant 8 minutes.
+    Saler, poivrer, mettre l'ail.
+    Verser les tomates concassées, faire cuire le tout pendant 15 minutes.
+    Répartir les filets de sébaste sur les 4 feuilles d'aluminium
+    Nappez-les de la préparation aux tomates et courgettes.
+    Refermer les feuilles d'aluminium en forme de papillotes et déposer sur une plaque à biscuits ou dans un plat.
+    Cuire au four environ 12 mn.
+    Peut être servi avec de la purée de pommes de terre, des pommes vapeur ou du riz.
+    <I>[ND Chef : le sébaste est un poisson proche de la rascasse]</I>
+  ]]>
+  </preparation>
+</recette>

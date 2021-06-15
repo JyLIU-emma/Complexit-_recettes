@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24322">
+  <titre>Pâte à crêpes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de farine</p>
+    <p>3 œufs</p>
+    <p>35 cl de lait</p>
+    <p>1 pincée de sel</p>
+    <p>1 cuillère à soupe d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, versez la farine en fontaine et cassez 3 œufs au milieu. 
+    Incorporez-les à la farine, en remuant avec une cuillère en bois. 
+    Versez ensuite le lait et l'huile, en délayant progressivement de manière à éviter les grumeaux. 
+    Si vous faites des crêpes sucrées, ajoutez 2 cuillères à soupe de sucre. Ajoutez une pincée de sel
+    Laissez reposer la pâte si possible 1 h avant de l'utiliser. 
+    Si vous voulez des crêpes plus fines, mettez moitié eau, moitié lait.
+    Si vous les désirez plus légères, remplacez 1 verre de lait par un verre de bière.
+    Si vous les aimez plus moelleuses, incorporez 1 blanc d'œuf battu en neige à la pâte, au moment de confectionner les crêpes.
+  ]]>
+  </preparation>
+</recette>

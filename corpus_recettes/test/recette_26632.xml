@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26632">
+  <titre>Concombres gratinés au chèvre</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 concombre</p>
+    <p>1 crottin de chèvre sec</p>
+    <p>1 brin de thym</p>
+    <p>1 gousse d'ail</p>
+    <p>10 cl de crème liquide</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 240°C (thermostat 8).Laver le concombre puis lui ôter les imperfections de la peau à l’aide d’un économe.
+    Le détailler en rondelles et les disposer sur du papier absorbant.
+    Dans une casserole, porter à ébullition la crème avec quelques grains de poivre, l’ail en chemise, le thym et le sel.
+    Laisser réduire 4 minutes après l’ébullition puis y mettre les rondelles de concombre à cuire pendant 4 minutes.
+    Verser les concombres dans un plat à gratin et parsemer de chèvre émiétté.Faire gratiner 10 minutes au four et servir.
+  ]]>
+  </preparation>
+</recette>

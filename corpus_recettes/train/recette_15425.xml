@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15425">
+  <titre>Potage aux légumes rapide</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>poireaux (en rondelles)</p>
+    <p>courgettes (en rondelles)</p>
+    <p>haricots</p>
+    <p>petits pois.</p>
+    <p>1 oignon</p>
+    <p>4 carottes</p>
+    <p>1 pomme de terre</p>
+    <p>ail</p>
+    <p>estragon</p>
+    <p>Pour l'accompagnement : </p>
+    <p>fromage blanc</p>
+    <p>mayonnaise</p>
+    <p>gruyère. </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre une poignée de haricots, une poignée de petits pois, deux de poireaux et deux de courgettes à cuire dans l'eau salée.
+    Rajouter l'oignon coupé fin les carottes et la pommes de terre en cubes.
+    Préparer dans un bol, le mélange suivant : une cuillère à café de mayonnaise, trois cuillères de fromage blanc, ail coupé fin et estragon, sel et poivre, et gruyère mixé en granulés.
+    On sert le potage, légumes entiers, avec suffisamment de bouillon, et on rajoute dans l'assiette une cuillère du mélange du bol.Parfumé et diététique.
+  ]]>
+  </preparation>
+</recette>

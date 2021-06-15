@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18714">
+  <titre>Chèvre sur lit de poireaux</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 blancs de poireaux</p>
+    <p>2 petites bûches de chèvre</p>
+    <p>huile d'olive de très bonne qualité</p>
+    <p>poivre aux baies au moulin</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les blancs de poireaux dans de l'eau salée. 
+    Bien les égoutter et les poser encore chauds sur les assiettes. Couper le chèvre en tranches et poser sur le lit de poireaux. 
+    Verser l'huile d'olive sur le chèvre puis saler et poivrer. 
+    Servir de suite.
+    Très économique et rapide
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12392">
+  <titre>Loup grillé</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 loup (bar)</p>
+    <p>3 oignons</p>
+    <p>15 cl de vin blanc sec</p>
+    <p>1 citron pressé</p>
+    <p>1 feuille de laurier</p>
+    <p>2 branches d'estragon</p>
+    <p>4 carottes</p>
+    <p>1 bouillon cube</p>
+    <p>3 pommes de terre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher menu-menu les oignons.
+    Prendre le loup vidé et écaillé, le farcir avec l'estragon, les oignons, la feuille de laurier, un filet de jus de citron et poivrer.
+    Recoudre.
+    Cuire au feu de bois de préférence, 25 min. de chaque côté.Faire cuire le reste d'oignons revenus au beurre.
+    Mouiller au vin blanc, ajouter le reste de citron, le bouillon cube et 1/3 de litre d'eau.
+    Faire réduire.
+    Couper les légumes en brunoise et les cuire à l'eau.
+    Servir le bar grillé entouré des légumes à l'eau et accompagné de la sauce.C'est une recette toute simple àa réaliser en été, sur un barbecue.
+    Les herbes et l'oignon de la farce parfument la chair du poisson. Un blanc sec, type Bordeaux Entre-deux-mers
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14595">
+  <titre>Crème de noisettes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 oeufs </p>
+    <p>2 cuillères à café de rhum (facultatif)</p>
+    <p>100 g de crème à 15%</p>
+    <p>125 g de beurre en pommade</p>
+    <p>125 g de poudre de noisettes</p>
+    <p>125 g de sucre glace</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Placer au robot les oeufs, le rhum, la crème, démarrer l'appareil et ajouter un à un, le beurre, la poudre de noisettes, le sucre à glacer et le sel.Dès que le mélange est homogène, arrêter le robot, et mettre au réfrigérateur.
+  ]]>
+  </preparation>
+</recette>

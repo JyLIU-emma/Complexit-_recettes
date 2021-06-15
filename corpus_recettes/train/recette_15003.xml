@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15003">
+  <titre>Poulet au citron</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poulet</p>
+    <p>1,5 kg de pommes de terre fermes</p>
+    <p>3 citrons</p>
+    <p>3/4 l de bouillon de légumes</p>
+    <p>5 gousses d'ail</p>
+    <p>huile d'olive</p>
+    <p>origan</p>
+    <p>1 feuille de laurier</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Disposer les pommes de terre en rondelles moyennes dans un grand plat à four. Les saler légèrement.
+    Y verser le jus des citrons, ainsi que le bouillon.
+    Saler et poivrer l'intérieur du poulet, puis y jeter les gousses d'ail épluchées.
+    Poser le poulet sur les pommes de terre. Saler et poivrer. Arroser d'huile d'olive.
+    Cuire 1h à 180 °C (thermostat 6). Vérifier la cuisson, si cela ne suffit pas, laisser au moins 1/4 d'h de plus (la durée de cuisson dépend de la taille du poulet).
+    Si les pommes de terre sont trop fermes, d'abord les faire cuire dans leur bouillon au four, avant d'y poser le poulet.
+    Il faut bien sûr arroser la viande régulièrement.
+    Comme je fais tout cuire au four à air pulsé, le temps de cuisson est plus long.
+  ]]>
+  </preparation>
+</recette>

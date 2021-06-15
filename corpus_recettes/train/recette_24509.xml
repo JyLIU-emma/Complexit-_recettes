@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24509">
+  <titre>Tartines chaudes à la ricotta</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 tranches de pain de campagne</p>
+    <p>1 pot de ricotta</p>
+    <p>8 tomates cerise</p>
+    <p>parmesan</p>
+    <p>ciboulette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le grill du four. 
+    Tartiner les tranches de pain avec la ricotta. 
+    Saupoudrez de Parmesan râpé ou en copeau. 
+    Couper les tomates cerises en 2 et répartir sur les tranches de pain. 
+    Garnir de ciboulette ciselée. 
+    Passez 10 mn sous le grill du four.
+  ]]>
+  </preparation>
+</recette>

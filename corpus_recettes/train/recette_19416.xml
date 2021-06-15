@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19416">
+  <titre>Cheese cake aux fraises</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la "base" :</p>
+    <p>225 g de biscuits type "petits beurres" écrasés</p>
+    <p>25 g de sucre</p>
+    <p>75 g de beurre fondu</p>
+    <p>Pour la garniture :</p>
+    <p>175 g de sucre</p>
+    <p>100 ml d'eau</p>
+    <p>450 g de fromage blanc</p>
+    <p>2 oeufs battus</p>
+    <p>15 cl de crème liquide entière</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la base en mélangeant les biscuits, le sucre et le beurre. 
+    Etaler cette base au fond du moule (moule conseillé : assez profond, 20 cm de diamètre). Préparer la garniture : Mettre dans une casserole les fraises, 100 g de sucre et l'eau. Cuire à feu doux. 
+    Puis mélanger le fromage blanc, les oeufs, les 85 g de sucre restant et la crème liquide battue en chantilly. 
+    Mélanger cette préparation aux 3/4 des fraises cuites. 
+    Ajouter la garniture ainsi prête dans le moule, par dessus la base. Cuisson : 30 à 40 min dans un four préchauffé à 160°C. Le cake doit resortir ferme. Mettre au réfrigérateur. Servir frais, après l'avoir démoulé et ajouté quelques fraises au sommet.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="194480">
+  <titre>Dômes aux deux chocolats mangue et poivre de Sichuan et tuile de carambar</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>100 g de chocolat noir</p>
+    <p>30 cl de crème liquide entière</p>
+    <p>1 mangue</p>
+    <p>12 noix de cajou</p>
+    <p>200 g de chocolat blanc</p>
+    <p>1 gousse de vanille</p>
+    <p>quelques baies de Sichuan entières</p>
+    <p>4 feuilles de gélatine</p>
+    <p>1 cuillerée à soupe de sucre en poudre</p>
+    <p>4 carambars</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le chocolat noir au bain-marie.Émincer une mangue en dés.
+    Réserver une douzaine de dés, et mixer le reste (très peu, de façon à obtenir une substance grumeleuse).Dans de l’eau froide, faire ramollir les feuilles de gélatine.
+    Dans une poêle, torréfier les noix de cajou.
+     
+    Pour les dômes en chocolat :A l’aide d’un pinceau, et d’un moule adapté de préférence en silicone, réaliser les dômes.Réaliser trois épaisseurs de chocolat afin de consolider le dôme en réservant l’appareil au congélateur entre chaque couche.Réserver au congélateur.pour la mousse au chocolat blanc :Monter la crème liquide en chantilly. Y ajouter un peu de sucre (une cuillère à soupe maximum) ainsi que le caviar d’une gousse de vanille. Séparer la chantilly en deux parties. Réserver au frais.
+    Dans une casserole, faire bouillir trois cuillères à soupe d’eau, avec les baies de Sichuan. Y ajouter la mangue mixée, la gélatine, ainsi que le chocolat blanc. Mélanger délicatement.Mélanger une partie de la chantilly avec cet appareil. Réserver au frais.
+    Pour remplir les dômes : Dans chaque dôme, insérer 3 cubes de mangue fraîche, une ou deux baies de Sichuan, puis 3 noix de cajou, et finir par la mousse. Réserver au frais.
+    Pour la tuile de Carambar : Préchauffer le four à 180°C (thermostat 6). Tordre les carambars en U et bien les espacer sur une feuille de papier sulfurisé.Surveiller la cuisson (entre 5 et 10 minutes: il faut que les tuiles fassent des petites bulles.)Sortir du four et laisser refroidir.
+    Pour le dressage : Lorsque l’intérieur des dômes s’est solidifié, les démouler.
+    Poser la tuile de Carambar. Faire une quenelle de chantilly glacée.
+    Bon appétit !
+    Vous pouvez réaliser des dômes aux deux chocolats, en faisant une première couche, grossière, en chocolat noir, et une deuxième en chocolat blanc (puis consolider avec d’autres couches). Ainsi les dômes seront bicolores.
+    S’il reste du chocolat fondu, vous pouvez réaliser des feuilles en chocolat.
+    Verser à l’aide d’une louche du chocolat fondu sur du papier sulfurisé. Le replier (ou poser une nouvelle feuille de papier sulfurisé) et étaler le chocolat à l’aide d’une spatule. Réserver au frais.
+    Vous pouvez couper ces fines feuilles de chocolat en formes régulières ou au contraire les morceler grossièrement.
+    Si vous souhaitez relever un peu son goût, je pense qu’y ajouter du gingembre serait très agréable!
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">fondre</OPER> le <INGRED id="4">chocolat noir</INGRED> au bain - marie. <OPER id="o_2">Émincer</OPER> une <INGRED id="3">mangue</INGRED> en <INGRED id="4">dés</INGRED>. Réserver une douzaine de <INGRED id="3">dés</INGRED>, et <OPER id="o_3">mixer</OPER> le <INGRED id="1">reste</INGRED> ( très peu, de façon à obtenir une substance grumeleuse).Dans de l’ <INGRED id="5">eau froide</INGRED>, faire <OPER id="o_4">ramollir</OPER> les <INGRED id="4">feuilles</INGRED> de <INGRED id="5">gélatine</INGRED>. Dans une poêle, <OPER id="o_5">torréfier</OPER> les <INGRED id="4">noix de cajou</INGRED>. Pour les dômes en <INGRED id="7">chocolat</INGRED> : A l’ aide d’ un pinceau, et d’ un moule adapté de préférence en silicone, <OPER id="o_6">réaliser</OPER> les dômes. <OPER id="o_7">Réaliser</OPER> trois épaisseurs de <INGRED id="3">chocolat</INGRED> afin de <OPER id="o_8">consolider</OPER> le dôme en réservant l’ appareil au congélateur entre chaque couche. Réserver au congélateur.pour la mousse au <INGRED id="7">chocolat blanc</INGRED> : <OPER id="o_9">Monter</OPER> la <INGRED id="1">crème liquide</INGRED> en chantilly. Y <OPER id="o_10">ajouter</OPER> un <INGRED id="10">peu</INGRED> de sucre ( une cuillère à <INGRED id="9">soupe</INGRED> maximum ) ainsi que le caviar d’ une gousse de <INGRED id="10">vanille</INGRED>. <OPER id="o_11">Séparer</OPER> la chantilly en <INGRED id="6">deux</INGRED> parties. Réserver au frais. Dans une casserole, faire <OPER id="o_12">bouillir</OPER> trois cuillères à <INGRED id="5">soupe</INGRED> d’ eau, avec les <INGRED id="3">baies</INGRED> de Sichuan. Y <OPER id="o_13">ajouter</OPER> la <INGRED id="3">mangue</INGRED> mixée, la <INGRED id="6">gélatine</INGRED>, ainsi que le <INGRED id="5">chocolat blanc</INGRED>. <OPER id="o_14">Mélanger</OPER> délicatement. <OPER id="o_15">Mélanger</OPER> une partie de la chantilly avec cet appareil. Réserver au frais. Pour remplir les dômes : Dans chaque dôme, <OPER id="o_16">insérer</OPER> 3 cubes de <INGRED id="1">mangue</INGRED> fraîche, une ou <INGRED id="6">deux</INGRED> <INGRED id="8">baies</INGRED> de Sichuan, puis 3 <INGRED id="4">noix de cajou</INGRED>, et <OPER id="o_17">finir</OPER> par la mousse. Réserver au frais. Pour la tuile de Carambar : <OPER id="o_18">Préchauffer</OPER> le four à 180 ° C ( thermostat 6 ). <OPER id="o_19">Tordre</OPER> les <INGRED id="1">carambars</INGRED> en U et bien les <OPER id="o_20">espacer</OPER> sur une feuille de papier sulfurisé. <OPER id="o_21">Surveiller</OPER> la cuisson ( entre 5 et 10 minutes : il faut que les tuiles fassent des petites <OPER id="o_22">bulles.)Sortir</OPER> du four et laisser <OPER id="o_23">refroidir</OPER>. Pour le dressage : Lorsque l’ intérieur des dômes s’ est solidifié, les <OPER id="o_24">démouler</OPER>. <OPER id="o_25">Poser</OPER> la tuile de Carambar. Faire une quenelle de chantilly glacée. Bon appétit ! Vous pouvez <OPER id="o_26">réaliser</OPER> des dômes aux <INGRED id="6">deux</INGRED> <INGRED id="7">chocolats</INGRED>, en faisant une première couche, grossière, en <INGRED id="10">chocolat noir</INGRED>, et une deuxième en <INGRED id="7">chocolat blanc</INGRED> ( puis <OPER id="o_27">consolider</OPER> avec d’ autres couches ). Ainsi les dômes seront bicolores. S’ il <INGRED id="1">reste</INGRED> du <INGRED id="9">chocolat</INGRED> fondu, vous pouvez <OPER id="o_28">réaliser</OPER> des <INGRED id="4">feuilles</INGRED> en <INGRED id="6">chocolat</INGRED>. <OPER id="o_29">Verser</OPER> à l’ aide d’ une louche du <INGRED id="9">chocolat</INGRED> fondu sur du papier sulfurisé. Le <OPER id="o_30">replier</OPER> ( ou poser une nouvelle feuille de papier sulfurisé ) et <OPER id="o_31">étaler</OPER> le <INGRED id="5">chocolat</INGRED> à l’ aide d’ une spatule. Réserver au frais. Vous pouvez <OPER id="o_32">couper</OPER> ces fines <INGRED id="4">feuilles</INGRED> de chocolat en formes régulières ou au contraire les morceler grossièrement. Si vous souhaitez <OPER id="o_33">relever</OPER> un <INGRED id="10">peu</INGRED> son <INGRED id="7">goût</INGRED>, je pense qu’ y <OPER id="o_34">ajouter</OPER> du <INGRED id="9">gingembre</INGRED> serait très agréable !
+  </annotation>
+  <annotation methode="crf">
+  Faire fondre le <INGRED>chocolat noir</INGRED> au bain - marie <INGRED>.</INGRED> Émincer une mangue en dés <INGRED>.</INGRED> Réserver une douzaine de dés <INGRED>,</INGRED> et mixer le <INGRED>reste</INGRED> ( très peu <INGRED>,</INGRED> de façon à obtenir une substance grumeleuse).Dans de l’ <INGRED>eau</INGRED> froide <INGRED>,</INGRED> faire ramollir les feuilles de <INGRED>gélatine</INGRED> <INGRED>.</INGRED> Dans une poêle <INGRED>,</INGRED> torréfier les <INGRED>noix</INGRED> de cajou. Pour les dômes en <INGRED>chocolat</INGRED> <INGRED>:</INGRED> A l’ aide d’ un pinceau <INGRED>,</INGRED> et d’ un moule adapté de préférence en silicone <INGRED>,</INGRED> réaliser les dômes. Réaliser trois épaisseurs de <INGRED>chocolat</INGRED> afin de consolider le dôme en réservant l’ appareil au congélateur entre chaque couche. Réserver au congélateur.pour la mousse au <INGRED>chocolat</INGRED> <INGRED>blanc</INGRED> <INGRED>:</INGRED> Monter la <INGRED>crème liquide en chantilly</INGRED>. Y ajouter un peu de <INGRED>sucre</INGRED> ( une cuillère à soupe maximum ) ainsi que le caviar d’ une gousse de <INGRED>vanille</INGRED> <INGRED>.</INGRED> Séparer la chantilly en <INGRED>deux</INGRED> parties. Réserver au <INGRED>frais</INGRED> <INGRED>.</INGRED> Dans une casserole <INGRED>,</INGRED> faire bouillir trois <INGRED>cuillères à soupe</INGRED> d’ <INGRED>eau</INGRED> <INGRED>,</INGRED> avec les <INGRED>baies de Sichuan</INGRED> <INGRED>.</INGRED> Y ajouter la mangue mixée <INGRED>,</INGRED> la <INGRED>gélatine</INGRED> <INGRED>,</INGRED> ainsi que le <INGRED>chocolat</INGRED> <INGRED>blanc</INGRED> <INGRED>.</INGRED> Mélanger délicatement. Mélanger une partie de la chantilly avec cet appareil <INGRED>.</INGRED> Réserver au <INGRED>frais</INGRED> <INGRED>.</INGRED> Pour remplir les dômes <INGRED>:</INGRED> Dans chaque dôme <INGRED>,</INGRED> insérer 3 cubes de mangue fraîche <INGRED>,</INGRED> une <INGRED>ou</INGRED> <INGRED>deux</INGRED> <INGRED>baies</INGRED> de Sichuan <INGRED>,</INGRED> puis 3 <INGRED>noix</INGRED> de cajou <INGRED>,</INGRED> et finir par la mousse. Réserver au <INGRED>frais</INGRED> <INGRED>.</INGRED> Pour la tuile de Carambar <INGRED>:</INGRED> Préchauffer le four à 180 ° C ( thermostat 6 ). Tordre les carambars en U et bien les espacer sur une feuille de <INGRED>papier sulfurisé</INGRED> <INGRED>.</INGRED> Surveiller la cuisson ( entre 5 et 10 minutes <INGRED>:</INGRED> il faut que les tuiles fassent des petites bulles.)Sortir du four et laisser refroidir <INGRED>.</INGRED> Pour le dressage <INGRED>:</INGRED> Lorsque l’ intérieur des dômes s’ est solidifié <INGRED>,</INGRED> les démouler <INGRED>.</INGRED> Poser la tuile de Carambar. Faire une quenelle de chantilly glacée <INGRED>.</INGRED> Bon appétit ! Vous pouvez réaliser des dômes aux <INGRED>deux</INGRED> chocolats <INGRED>,</INGRED> en faisant une première couche <INGRED>,</INGRED> grossière <INGRED>,</INGRED> en <INGRED>chocolat noir</INGRED> <INGRED>,</INGRED> et une deuxième en <INGRED>chocolat</INGRED> <INGRED>blanc</INGRED> ( puis consolider avec d’ autres couches ). Ainsi les dômes seront bicolores. S’ il reste du <INGRED>chocolat fondu</INGRED> <INGRED>,</INGRED> vous pouvez réaliser des feuilles en <INGRED>chocolat</INGRED> <INGRED>.</INGRED> Verser à l’ aide d’ une louche du <INGRED>chocolat fondu</INGRED> sur du <INGRED>papier sulfurisé</INGRED> <INGRED>.</INGRED> Le replier ( <INGRED>ou</INGRED> poser une nouvelle feuille de papier sulfurisé ) et étaler le <INGRED>chocolat</INGRED> à l’ aide d’ une spatule <INGRED>.</INGRED> Réserver au <INGRED>frais</INGRED> <INGRED>.</INGRED> Vous pouvez couper ces fines feuilles de <INGRED>chocolat</INGRED> en formes régulières <INGRED>ou</INGRED> au contraire les morceler grossièrement <INGRED>.</INGRED> Si vous souhaitez relever un peu son goût <INGRED>,</INGRED> je pense qu’ y ajouter du <INGRED>gingembre</INGRED> serait très agréable !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 28.962962962963*X + 5.03703703703704</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 23*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['chocolat noir', 'chocolat']	 id:1	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crème liquide entière', 'crème']	 id:2	 quantité:30	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['mangue']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['noix de cajou', 'noix']	 id:4	 quantité:12	 unité:non_precis	 denombrable:True	 recipient:12*X
+ingredient:['chocolat blanc', 'chocolat']	 id:5	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['vanille']	 id:6	 quantité:1	 unité:gousse de	 denombrable:True	 recipient:1*X
+ingredient:['baies de Sichuan entières', 'baies']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['gélatine']	 id:8	 quantité:4	 unité:feuilles de	 denombrable:True	 recipient:4*X
+ingredient:['cuillerée à soupe de sucre en poudre', 'cuillerée']	 id:9	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['carambars']	 id:10	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:fondre	 id:o_1	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:émincer	 id:o_2	 ingrédients_ralatifs:['3', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mixer	 id:o_3	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ramollir	 id:o_4	 ingrédients_ralatifs:['3', '1', '5', '4', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:torréfier	 id:o_5	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:réaliser	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:réaliser	 id:o_7	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:consolider	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:monter	 id:o_9	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:['10', '9', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:séparer	 id:o_11	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:bouillir	 id:o_12	 ingrédients_ralatifs:['5', '3']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_13	 ingrédients_ralatifs:['3', '6', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mélanger	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:insérer	 id:o_16	 ingrédients_ralatifs:['1', '6', '8', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:finir	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préchauffer	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:tordre	 id:o_19	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:espacer	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:surveiller	 id:o_21	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:bulles.)sortir	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_23	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:démouler	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poser	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:réaliser	 id:o_26	 ingrédients_ralatifs:['6', '7', '10', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:consolider	 id:o_27	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:réaliser	 id:o_28	 ingrédients_ralatifs:['4', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_29	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:replier	 id:o_30	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étaler	 id:o_31	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_32	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:12*X*1	 recipient:1
+operation:relever	 id:o_33	 ingrédients_ralatifs:['10', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_34	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

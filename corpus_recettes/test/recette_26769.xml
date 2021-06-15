@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26769">
+  <titre>Poires façon flan à la sauce chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 poires</p>
+    <p>50 g de crème liquide</p>
+    <p>75 g de sucre</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>120 g de chocolat noir</p>
+    <p>1 cuillère à soupe rase de farine</p>
+    <p>1 gousse de vanille</p>
+    <p>1 grosse noix de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez, épépinez et coupez les poires en tranches fines.
+    Faites-les revenir au beurre à la poêle.
+    Saupoudrez la farine. Mélangez délicatement puis ajoutez un verre d'eau, le sucre et la gousse de vanille fendue.
+    Laissez cuire jusqu'à ce que les poires soient bien tendres.
+    Sortez les poires et mettez-les dans un plat. Réservez le sirop de cuisson.
+    Battez les jaunes d'oeufs avec 2 cuillères à soupe de sirop de cuisson.
+    Versez ce mélange dans une casserole et laissez épaissir à feu doux en remuant jusqu'à la consistance d'une crème.
+    Otez la gousse de vanille et versez le tout sur les poires. Mélangez un peu et réservez au frais.
+    Faites chauffer la crème avec le chocolat en morceaux.
+    Mélangez et versez sur les parts de flan au poires.
+  ]]>
+  </preparation>
+</recette>

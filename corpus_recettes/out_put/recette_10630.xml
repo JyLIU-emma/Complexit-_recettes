@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10630">
+  <titre>Endives bonne femme</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 endives</p>
+    <p>100 g de lardons</p>
+    <p>4 pommes de terre moyennes</p>
+    <p>1 oignon</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Effeuiller les endives, les couper en deux, les laver.
+    Peler les pommes de terre, laver et couper en rondelles
+    Faire revenir les oignons émincés et les lardons dans une sauteuse. Ajouter endives et pommes de terre.
+    Laisser cuire à couvert sur feu doux pendant 15 min environ.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Effeuiller</OPER> les <INGRED id="1">endives</INGRED>, les <OPER id="o_2">couper</OPER> en deux, les <OPER id="o_3">laver</OPER>. <OPER id="o_4">Peler</OPER> les <INGRED id="1">pommes de terre</INGRED>, <OPER id="o_5">laver</OPER> et <OPER id="o_6">couper</OPER> en rondelles Faire <OPER id="o_7">revenir</OPER> les <INGRED id="4">oignons</INGRED> émincés et les <INGRED id="4">lardons</INGRED> dans une sauteuse. <OPER id="o_8">Ajouter</OPER> <INGRED id="1">endives</INGRED> et <INGRED id="5">pommes de terre</INGRED>. Laisser <OPER id="o_9">cuire</OPER> à couvert sur feu doux pendant 15 min environ.
+  </annotation>
+  <annotation methode="crf">
+  Effeuiller les <INGRED>endives</INGRED> <INGRED>,</INGRED> les couper en <INGRED>deux</INGRED> <INGRED>,</INGRED> les laver. Peler les <INGRED>pommes de terre</INGRED> <INGRED>,</INGRED> laver et couper en rondelles Faire revenir les <INGRED>oignons émincés</INGRED> et les <INGRED>lardons</INGRED> dans une sauteuse <INGRED>.</INGRED> Ajouter endives et <INGRED>pommes de terre</INGRED>. Laisser cuire à couvert sur feu doux pendant 15 min <INGRED>environ</INGRED>.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 7.2*X + 1.8</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 8*X + 6</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['endives']	 id:1	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['lardons']	 id:2	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['pommes de terre moyennes', 'pommes']	 id:3	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['oignon']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['poivre']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:effeuiller	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:laver	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:peler	 id:o_4	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:3*X*1	 recipient:0
+operation:laver	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:couper	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:revenir	 id:o_7	 ingrédients_ralatifs:['4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['1', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+]]>
+</operation_trouve>
+</recette>

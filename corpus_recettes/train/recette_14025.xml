@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14025">
+  <titre>Pain à la polonaise</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de farine</p>
+    <p>20 g de levure de boulanger</p>
+    <p>125 g de beurre (ou huile)</p>
+    <p>2 oeufs entiers</p>
+    <p>25 cl de lait</p>
+    <p>une pincée de sucre</p>
+    <p>1/2 cuillére à café de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une terrine, faire fondre le beurre dans le lait chaud. Diluer la levure dans un peu de lait, l'ajouter à la préparation.
+    Incorporer le sucre et le sel.
+    Battre les oeufs entiers et les mettre dans la pâte. Ajouter un peu de farine et mélanger puis incorporer le reste de la farine. Mélanger le tout et laisser reposer dans un endroit tiède pendant environ 40 mn.
+    Beurrer et fariner un moule à manqué et y verser la pâte. Faire cuire au four pendant environ 40 mn à 160°C (thermostat 6-7).
+  ]]>
+  </preparation>
+</recette>

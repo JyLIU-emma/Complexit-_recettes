@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17500">
+  <titre>Soupe veloutée au camembert</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 pommes de terre</p>
+    <p>3 oignons</p>
+    <p>3 tranches de pain mie</p>
+    <p>1 camembert</p>
+    <p>1 goussse ail</p>
+    <p>1 jaune d'oeuf</p>
+    <p>20 cl de crème fraîche</p>
+    <p>persil haché</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper tous les ingrédients en petits morceaux, puis ajouter 2,5 l d'eau.
+    Faire bouillir le tout pendant 20 mn, puis assaisonner et passer au mixer.
+    Ajouter ensuite le persil, le jaune d'oeuf et la crème fraîche. Servir.
+  ]]>
+  </preparation>
+</recette>

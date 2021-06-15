@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21849">
+  <titre>Tarte au citron</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de lait concentré sucré </p>
+    <p>20 cl de petits beurre (volume après mixage !)</p>
+    <p>5 citrons verts</p>
+    <p>5 jaunes d'oeufs</p>
+    <p>100 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre dans un robot les petits beurre et le beurre. Mixer le tout jusqu'à l'obtention d'une pâte. Verser dans un plat à manqué beurré et faire cuire 10 min au four à 200°C (thermostat 6-7).Pendant ce temps mélanger les jaunes d'oeufs, le lait concentré et le jus des citrons verts. Ajouter sur le fond de pâte (une fois celui-ci cuit) et remettre le tout au four 20 min. Laisser refroidir et mettre au réfrigérateur environ 3 heures.
+  ]]>
+  </preparation>
+</recette>

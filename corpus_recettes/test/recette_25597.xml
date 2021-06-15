@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25597">
+  <titre>Potée lorraine au porc</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de porc dans l'échine</p>
+    <p>350 g de lard fumé maigre</p>
+    <p>4 saucisses fumées</p>
+    <p>1/2 chou frisé</p>
+    <p>4 navets</p>
+    <p>4 carottes</p>
+    <p>4 pommes de terre</p>
+    <p>100 g de haricots verts cuits</p>
+    <p>100 g de petits pois cuits</p>
+    <p>75 g de saindoux</p>
+    <p>poivre</p>
+    <p>muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Blanchir séparément le chou coupé en quatre, les navets et les carottes coupés en rondelles ou bâtonnets à l'eau salée 10 minutes environ, à feu vif. Egoutter les légumes.
+    Dans une grande cocotte, faire fondre le saindoux et y faire dorer l'échine de porc et le lard. Ôter l'excès de matière grasse, verser de l'eau à hauteur et porter à ébullition. Baisser le feu et laisser cuire à feu doux 1 h.
+    Ecumer, ajouter les légumes, poivrer et ajouter un peu de muscade. Couvrir d'eau et laisser mijoter à couvert 1h30.
+    Au bout de 30 minutes, réouvrir la cocotte pour ajouter les pommes de terre et les saucisses. Ecoper ou retirer l'excès d'eau si besoin et laisser cuire 30 minutes. Enfin, ajouter les petits pois et les haricots verts, laisser chauffer 5 à 10 minutes.
+    Servir la viande découpée entourée des légumes.
+  ]]>
+  </preparation>
+</recette>

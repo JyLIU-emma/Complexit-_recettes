@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15317">
+  <titre>Gratin de potiron sucré</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 oeufs </p>
+    <p>150 à 200 g de sucre</p>
+    <p>800 g à 1 kg de potiron cuit</p>
+    <p>10 cl de crème</p>
+    <p>cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez le potiron avec les oeufs, un à un, puis ajoutez le sucre. Mélangez bien pour que la préparation soit homogène.
+    Rajoutez la crème et la cannelle.
+    Versez dans un plat non beurré, et enfournez dans un four préchauffé à 180°C (thermostat 6), pendant environ 40 min.
+    Retirez quand le dessus est doré et que la lame d'un couteau sortant du gratin est nette (sans morceau de gâteau, mais pas sèche).
+  ]]>
+  </preparation>
+</recette>

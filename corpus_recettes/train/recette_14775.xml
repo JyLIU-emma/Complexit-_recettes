@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14775">
+  <titre>Kébbé au four facile</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de viande d'agneau </p>
+    <p>200 à 250 g de bourghoul (boulgour) à cuire</p>
+    <p>3 oignons moyens</p>
+    <p>1 échalote</p>
+    <p>2 ou 3 gousses d'ail</p>
+    <p>125 g de pignons</p>
+    <p>huile d'olive</p>
+    <p>60 g de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir à blanc les oignons hachés à la poêle sans coloration. Laisser refroidir.
+    Hacher grossièrement 1 épaule d'agneau. Pétrir la viande hachée avec sel, poivre, ail, échalote, oignons cuits.
+    Ajouter le bourghoul, puis le beurre fondu, puis les pignons. Bien mélanger.
+    Mettre dans un plat en terre un peu haut. Recouvrir d'un peu d'huile d'olive.
+    Cuire 45 min à four chaud pendant 20 min (220°C - thermostat 6-7), puis moyen pendant 25 min (180°C - thermostat 6).
+    C'est assez gras, donc à déconseiller pour les régimes amaigrissants ! [NDChef : En principe le Kebbé au four est composé d'une couche de viande, une couche de blé et une dernière couche de viande. Mais ici, la recette est simplifiée pour aller plus vite !]
+  ]]>
+  </preparation>
+</recette>

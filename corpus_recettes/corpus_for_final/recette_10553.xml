@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10553">
+  <titre>Pigeons à la bière</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 pigeons</p>
+    <p>40 g de beurre</p>
+    <p>450 g de tomates</p>
+    <p>2 oignons</p>
+    <p>2 échalotes</p>
+    <p>1 bouquet garni</p>
+    <p>20 cl de crème fraîche</p>
+    <p>25 cl de bière blonde ou brune</p>
+    <p>1 pincée de sel</p>
+    <p>-1 pincée de poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire rôtir les pigeons au beurre.
+    Lorsqu’ils sont bien dorés, les retirer de la casserole et enlever la graisse de celle-ci.
+    Remettre les pigeons, les beurrer de nouveau, mettre les légumes coupés en morceaux, les faire revenir tout doucement. Mettre les tomates en morceaux. Lorsque le tout commence à cuire, ajouter une demi bouteille de bière et laisser mijoter. Rajouter au fur et à mesure de la bière lorsque la cuisson se fait et qu’il vous semble que la sauce s’épaissit. Les pigeons peuvent être cuits de manière plus ou moins longue suivant leur âge.
+    Lorsqu’ils commencent à être faits, la chair se détache partiellement, retirer les au fur et à mesure et réserver au chaud dans une autre casserole. La cuisson terminée, passez la sauce au chinois, vérifier l’assaisonnement, y ajouter un peu de crème fraîche. Nappez en les pigeons et servez bien chauds avec des frites et des champignons. La même bière que celle qui a servi à cuire
+  ]]>
+  </preparation>
+</recette>

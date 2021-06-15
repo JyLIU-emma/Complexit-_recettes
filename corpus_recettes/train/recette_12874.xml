@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12874">
+  <titre>Soupe d'automne aux légumes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 beau poireau</p>
+    <p>1 tomate</p>
+    <p>6 pommes de terre</p>
+    <p>8 carottes</p>
+    <p>sel/poivre</p>
+    <p>bouquet garni</p>
+    <p>1 oignon</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez et épluchez les pommes de terre et les carottes, coupez les en 4 et mettez les dans la cocotte minute remplie d'eau salée.
+    Lavez le poireau et n'utilisez que le blanc que vous coupez en rondelles.
+    Ajoutez la tomate pelée et lavée puis l'oignon coupé en 4. Salez et poivrez. Ajoutez le bouquet garni.
+    Mettez sur le feu à mijoter pendant 1 heure.
+    Si vous la voulez encore meilleure, ajoutez un morceau de poitrine salée (pour la potée)
+    ainsi que quelques saucisses fumées.
+    Vous laisserez la viande pendant tout le temps de la cuisson. Lorsque c'est cuit, retirez la viande et ôtez le bouquet garni.
+    Moulinez le tout et dégustez.
+    N'oubliez pas de conserver le reste de soupe au frais dans un récipient adapté.
+  ]]>
+  </preparation>
+</recette>

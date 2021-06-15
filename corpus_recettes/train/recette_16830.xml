@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16830">
+  <titre>Papeton d'aubergines</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de caviar d'aubergine</p>
+    <p>4 oeufs</p>
+    <p>20 cl de crème</p>
+    <p>1 poignée de basilic haché</p>
+    <p>25 cl de coulis de tomate</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le caviar d'aubergine, les oeufs et la crème. Assaisonner, puis en remplir un moule à cake huilé et cuire à four chaud, au bain-marie, pendant une petite demi-heure.
+    Se sert froid nappé des coulis de tomate froid au basilic.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27215">
+  <titre>Moules divines</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 litres de moules</p>
+    <p>2 oignons</p>
+    <p>250 g de lardons</p>
+    <p>1 boîte de concentré de tomate</p>
+    <p>20 cl de crème</p>
+    <p>ail</p>
+    <p>persil</p>
+    <p>thym</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les moules dans une grande casserole d'eau avec une branche de thym, faire bouillir ; une fois que les moules baillent, les réserver ainsi que l'eau de cuisson. 
+    Faire revenir les oignons émincés et les lardons. Rajouter le concentré de tomates et le jus de cuisson. Faire réduire à petit feu. 
+    Rajouter les moules, la crème, le persil haché et l'ail pressé. Bien mélanger. Servir.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11185">
+  <titre>Muffins à la rhubarbe</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de farine</p>
+    <p>1 cuillère à soupe de poudre à pâte</p>
+    <p>1 pincée de sel</p>
+    <p>100 g de sucre</p>
+    <p>100 g de cassonade</p>
+    <p>12 cl d’huile</p>
+    <p>3 œufs</p>
+    <p>25 cl de lait</p>
+    <p>2 cuillères à café d’essence d’amande</p>
+    <p>100 g de rhubarbe (ou de fraises) en morceaux</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un bol, tamiser la farine avec la poudre a pâte et le sel. Incorporer le sucre et la cassonade.
+    Dans un autre bol, mélanger l’huile, les œufs, le lait, l’essence d’amande. Ajouter aux ingrédients secs.
+    Incorporer la rhubarbe ou les fraises.
+    Verser dans 12 moules à muffins [cela devrait dépasser des bords des moules, car ce sont de très gros muffins].Cuire au four préchauffé à 400°F [200°C], pendant 20 minutes.(recette valable également avec des fraises)
+  ]]>
+  </preparation>
+</recette>

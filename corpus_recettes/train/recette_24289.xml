@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24289">
+  <titre>Paniers au chèvre</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tranches de jambon blanc assez larges</p>
+    <p>4 fromages Saint Marcellin</p>
+    <p>4 petites pommes de terre</p>
+    <p>herbes de Provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les pommes de terre à l'eau. 
+    Une fois cuites, les couper en fines rondelles. Etaler les tranches de jambon. 
+    Couper les Saint Marcellin en deux verticalement. 
+    Déposer une tranche de saint marcellin au milieu de la tranche de jambon. 
+    Placer quelques rondelles de pommes de terre sur cette partie de fromage et déposer l'autre moitié du fromage par dessus afin de former une sorte de sandwich. Replier la tranche de jambon sur le côté et attachez-la à l'aide de cures-dents sur le haut du fromage, ce qui formera un panier. Saupoudrez les fromages d'herbes de Provence selon le goût. 
+    Placer dans un four chaud et faites cuire 10 min thermostat 8.[NDchef : le Saint Marcellin était à l'origine un fromage de chèvre. Depuis le 18ème siècle, suite à son succès et à la diminution des troupeaux de chèvres dans la région, il existe également au lait de vache] rouge
+  ]]>
+  </preparation>
+</recette>

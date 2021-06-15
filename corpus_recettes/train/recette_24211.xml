@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24211">
+  <titre>Riz au lait tout simple</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>150 g de riz</p>
+    <p>75 cl de lait</p>
+    <p>1/2 gousse de vanille</p>
+    <p>100 g de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Rincer le riz, le mettre dans une casserole et couvrir d'eau.
+    Saler et porter à ébullition 3-4 minutes.
+    Faire bouillir le lait avec le sucre et la gousse de vanille fendue en 2.
+    Jeter le riz égoutté dans le lait, laisser bouillir et baisser le feu.
+    Faire cuire 40 min à feu très doux en remuant souvent.
+    Retirer du feu, retirer la gousse de vanille et laisser refroidir.
+  ]]>
+  </preparation>
+</recette>

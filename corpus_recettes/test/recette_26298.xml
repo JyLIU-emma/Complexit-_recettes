@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26298">
+  <titre>Tarte oignon comté</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>1 kg d'oignons</p>
+    <p>80 g de beurre</p>
+    <p>20 cl de bière</p>
+    <p>1 bouquet garni</p>
+    <p>2 oeufs</p>
+    <p>sel, poivre</p>
+    <p>150 g de comté râpé</p>
+    <p>100 g de comté coupé en fines tranches</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6-7).
+    Etaler la pâte dans un moule et piquer le fond à la fourchette.
+    Faire fondre les oignons émincés dans 50 g de beurre. Lorsqu'ils sont tendres ajouter la bière et le bouquet garni. Laisser cuire jusqu'à ce que le liquide soit évaporé, soit environ 25 minutes. Retirer le bouquet garni.
+    Battre les oeufs avec le fromage râpé et les oignons. Verser cette préparation sur le fond de tarte.
+    Recouvrir de tranches de comté et du reste du beurre coupé en dés.
+    Enfourner pour 35 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="3702">
+  <titre>Tartelettes aux 2 fromages</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tranches de pain de mie</p>
+    <p>4 Carrés Frais </p>
+    <p>1 bûchette de chèvre</p>
+    <p>compote de pommes</p>
+    <p>cannelle en poudre</p>
+    <p>beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (th. 7).
+    Pendant ce temps, faire réchauffer au grille-pain les tranches de pain de mie (sans les faire dorer), et les beurrer légèrement.
+    Déposer dessus une rondelle fine de chèvre, et un Carré Frais.
+    Recouvrir de deux cuillerés à soupe de compote de pommes, et saupoudrer généreusement de cannelle. 
+    Déposer au four 5 minutes. Et déguster tiède.
+  ]]>
+  </preparation>
+</recette>

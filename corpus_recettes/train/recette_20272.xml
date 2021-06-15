@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20272">
+  <titre>Curry d'agneau</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,800 kg d’épaule d’agneau sans os coupée en morceaux</p>
+    <p>2 pommes acides</p>
+    <p>2 tomates</p>
+    <p>2 oignons</p>
+    <p>6 cuillères à soupe de yaourt</p>
+    <p>3 dl de bouillon de volaille</p>
+    <p>3 cuillères à soupe de curry</p>
+    <p>1 c 1/2 à café de gingembre</p>
+    <p>6 cuillères à café d’huile</p>
+    <p>1 cuillère à café de cannelle</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>Pour la décoration :</p>
+    <p>noix de coco</p>
+    <p>pommes en quartiers revenus dans du beurre</p>
+    <p>oranges en rondelles crues</p>
+    <p>bananes en rondelles</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un plat, mélanger le gingembre, le poivre, le sel et 3 cuillères d’huile. Mettre les morceaux à macérer pendant 1 h 30 . 
+    A part, faire dorer la viande avec le reste d’huile. La sortir et faire dorer les oignons émincés puis ajouter les tomates en dés. Laisser cuire 6 à 7 mn. 
+    Ajouter les pommes en dés, la cannelle et le curry. 
+    Mouiller avec le bouillon, couvrir et laisser cuire à feu moyen 1 h 15 environ. 
+    En fin de cuisson, ajouter le yaourt. 
+    Servir avec du riz ou de la semoule de couscous, entouré de quelques ingrédients ci-dessus qui servent à la décoration.
+    Le yaourt remplace la crème fraîche, il est plus léger.
+  ]]>
+  </preparation>
+</recette>

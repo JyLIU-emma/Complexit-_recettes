@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27284">
+  <titre>Cailles farcies aux cèpes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 grosses cailles</p>
+    <p>6 cèpes</p>
+    <p>300 g de chair à saucisse</p>
+    <p>2 œufs</p>
+    <p>3 tranches de pain rassi</p>
+    <p>4 échalotes</p>
+    <p>persil</p>
+    <p>1 grosse noix de beurre</p>
+    <p>15 cl de porto</p>
+    <p>15 cl de vin blanc</p>
+    <p>75 cl de fond de veau léger</p>
+    <p>lait</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et hacher les cèpes, les échalotes et le persil.
+    Faire tremper le pain rassi dans un peu de lait tiède.
+    Les faire revenir dans une poêle avec la chair à saucisse, les échalotes, le persil, et la mie de pain pour constituer la farce.
+    Saler, poivrer et lier cette farce avec le jaune d’œuf.
+    Enlever l’os du bréchet et garnir les cailles avec la farce.
+    Faire dorer les cailles dans une cocotte beurrée, puis dégraisser avec le vin et le porto.
+    Préparer un fond de veau, l’incorporer aux cailles et les laisser cuire 15 min en les arrosant régulièrement.
+    Passer la sauce et l’épaissir en incorporant une noisette de beurre, puis terminer la cuisson des cailles au four préchauffé à 150°C (thermostat 5) pendant 10 minutes.
+    Servir avec des pommes de terre vapeur ou des pommes paille.
+  ]]>
+  </preparation>
+</recette>

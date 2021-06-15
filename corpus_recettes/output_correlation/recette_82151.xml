@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82151">
+  <titre>Pièce montée vanille-chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour le gâteau au yaourt :</p>
+    <p>1 paquet de levure</p>
+    <p>20 cl de yaourt</p>
+    <p>10 cl d'huile</p>
+    <p>150 g de sucre</p>
+    <p>220 g de farine</p>
+    <p>4 œufs</p>
+    <p>2 zestes de citron</p>
+    <p>Pour le gâteau au chocolat :</p>
+    <p>125 g de chocolat</p>
+    <p>125 g de beurre</p>
+    <p>125 g de sucre</p>
+    <p>60 g de farine</p>
+    <p>3 œufs</p>
+    <p>Pour le glaçage et la déco :</p>
+    <p>140 g de sucre glace</p>
+    <p>2 sachets de sucre vanillé</p>
+    <p>3 jaunes d'œufs</p>
+    <p>100 g de chocolat blanc</p>
+    <p>100 g de chocolat au lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour le gâteau au yaourt :
+    Mélanger tout simplement la moitié des ingrédients un à un, dans l'ordre ci-dessus. 
+    Verser la pâte dans un moule à gâteau, garder en un peu et en mettre dans des petits moules pour muffins. 
+    Pour le gâteau au chocolat :
+    Faire fondre le chocolat dans un peu d'eau ou de lait.
+    Une fois le chocolat fondu, ajouter le beurre. 
+    Une fois le tout fondu et mélangé, ajouter le sucre. 
+    Lorsque le mélange est homogène, ajouter les jaunes des 3 œufs un à un, puis enfin la farine.
+     
+    Laisser reposer un peu, puis ajouter les blancs des 3 œufs montés en neige. 
+    Verser la pâte dans deux moules, l'un plus grand que le moule du gâteau au yaourt et l'autre plus petit .
+    Faire cuire les 4 gâteaux à 165°C (thermostat 5/6) pendant 35 minutes . 
+    Pour le montage :
+    Une fois refroidi empiler les gâteau du plus petit au plus grand .
+    Mélanger le sucre glace, le sucre vanillé et les jaunes d'œufs vigoureusement jusqu'à ce que le mélange soit homogène puis étaler sur la pile de gâteau.
+    Faire fondre le chocolat blanc et râper le chocolat au lait.
+    Pour décorer le gâteau, utiliser un stylo pâtissier.
+    Très compliquer à réaliser mais vraiment magnifique et délicieux . Régalez-vous bien !!! Champagne
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Pour le gâteau au <INGRED id="6">yaourt</INGRED> : <OPER id="o_1">Mélanger</OPER> tout simplement la moitié des ingrédients un à un, dans l'ordre ci - dessus. <OPER id="o_2">Verser</OPER> la <INGRED id="9">pâte</INGRED> dans un moule à gâteau, <OPER id="o_3">garder</OPER> en un <INGRED id="14">peu</INGRED> et en <OPER id="o_4">mettre</OPER> dans des <INGRED id="9">petits</INGRED> <INGRED id="5">moules</INGRED> pour muffins. Pour le gâteau au <INGRED id="2">chocolat</INGRED> : Faire <OPER id="o_5">fondre</OPER> le <INGRED id="7">chocolat</INGRED> dans un <INGRED id="10">peu</INGRED> d'<INGRED id="8">eau</INGRED> ou de <INGRED id="3">lait</INGRED>. Une fois le <INGRED id="16">chocolat</INGRED> fondu, <OPER id="o_616">ajouter</OPER> le <INGRED id="12">beurre</INGRED>. Une fois le tout fondu et mélangé, <OPER id="o_716">ajouter</OPER> le sucre. Lorsque le <INGRED id="7">mélange</INGRED> est homogène, <OPER id="o_816">ajouter</OPER> les <INGRED id="6">jaunes</INGRED> des 3 <INGRED id="12">œufs</INGRED> un à un, puis enfin la <INGRED id="12">farine</INGRED>. Laisser <OPER id="o_9">reposer</OPER> un <INGRED id="14">peu</INGRED>, puis <OPER id="o_1016">ajouter</OPER> les <INGRED id="3">blancs</INGRED> des 3 <INGRED id="1">œufs</INGRED> montés en neige. <OPER id="o_11">Verser</OPER> la <INGRED id="15">pâte</INGRED> dans <INGRED id="6">deux</INGRED> <INGRED id="10">moules</INGRED>, l'un plus grand que le moule du gâteau au <INGRED id="6">yaourt</INGRED> et l'autre plus petit. Faire <OPER id="o_12">cuire</OPER> les 4 <INGRED id="1">gâteaux</INGRED> à 165 ° C ( thermostat 5/6 ) pendant 35 minutes. Pour le montage : Une fois refroidi <OPER id="o_13">empiler</OPER> les gâteau du plus petit au plus grand. <OPER id="o_14">Mélanger</OPER> le <INGRED id="3">sucre glace</INGRED>, le <INGRED id="13">sucre vanillé</INGRED> et les <INGRED id="6">jaunes d'œufs</INGRED> vigoureusement jusqu'à ce que le <INGRED id="7">mélange</INGRED> soit homogène puis <OPER id="o_15">étaler</OPER> sur la pile de gâteau. Faire <OPER id="o_16">fondre</OPER> le <INGRED id="16">chocolat blanc</INGRED> et <OPER id="o_17">râper</OPER> le <INGRED id="11">chocolat au lait</INGRED>. Pour décorer le gâteau, <OPER id="o_18">utiliser</OPER> un <INGRED id="4">stylo pâtissier</INGRED>. Très compliquer à <OPER id="o_19">réaliser</OPER> mais vraiment magnifique et délicieux. <OPER id="o_20">Régalez</OPER> -vous bien ! ! ! Champagne
+  </annotation>
+  <annotation methode="crf">
+  Pour le gâteau au <INGRED>yaourt</INGRED> <INGRED>:</INGRED> Mélanger tout simplement la moitié des ingrédients un à un <INGRED>,</INGRED> dans l'ordre ci - dessus. Verser la <INGRED>pâte</INGRED> dans un moule à gâteau <INGRED>,</INGRED> garder en un peu et en mettre dans des petits moules pour muffins. Pour le gâteau au <INGRED>chocolat</INGRED> <INGRED>:</INGRED> Faire fondre le <INGRED>chocolat</INGRED> dans un peu d'<INGRED>eau</INGRED> <INGRED>ou</INGRED> de <INGRED>lait</INGRED> <INGRED>.</INGRED> Une fois le <INGRED>chocolat fondu</INGRED> <INGRED>,</INGRED> ajouter le <INGRED>beurre</INGRED> <INGRED>.</INGRED> Une fois le tout fondu et mélangé <INGRED>,</INGRED> ajouter le <INGRED>sucre</INGRED>. Lorsque le <INGRED>mélange</INGRED> est homogène <INGRED>,</INGRED> ajouter les <INGRED>jaunes</INGRED> des 3 <INGRED>œufs</INGRED> un à un <INGRED>,</INGRED> puis enfin la <INGRED>farine</INGRED>. Laisser reposer un peu <INGRED>,</INGRED> puis ajouter les <INGRED>blancs</INGRED> des 3 <INGRED>œufs</INGRED> montés en neige <INGRED>.</INGRED> Verser la <INGRED>pâte</INGRED> dans <INGRED>deux</INGRED> <INGRED>moules</INGRED> <INGRED>,</INGRED> l'un plus grand que le moule du gâteau au <INGRED>yaourt</INGRED> et l'autre plus <INGRED>petit</INGRED> <INGRED>.</INGRED> Faire cuire les 4 gâteaux à 165 ° C ( thermostat 5/6 ) pendant 35 minutes. Pour le montage <INGRED>:</INGRED> Une fois refroidi empiler les gâteau du plus <INGRED>petit</INGRED> au plus grand. Mélanger le <INGRED>sucre glace</INGRED> <INGRED>,</INGRED> le <INGRED>sucre vanillé</INGRED> et les <INGRED>jaunes</INGRED> d'<INGRED>œufs</INGRED> vigoureusement jusqu'à ce que le <INGRED>mélange</INGRED> soit homogène puis étaler sur la pile de gâteau. Faire fondre le <INGRED>chocolat</INGRED> <INGRED>blanc</INGRED> et râper le <INGRED>chocolat</INGRED> au <INGRED>lait</INGRED> <INGRED>.</INGRED> Pour décorer le gâteau <INGRED>,</INGRED> utiliser un stylo pâtissier. Très compliquer à réaliser mais vraiment magnifique et délicieux <INGRED>.</INGRED> Régalez -vous bien ! ! ! Champagne
+  </annotation>
+  <complexite>
+    <temps>f(X) = 11.5384615384615*X + 8.46153846153846</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 15*X + 18</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['levure']	 id:1	 quantité:1	 unité:paquet de	 denombrable:True	 recipient:1*X
+ingredient:['yaourt']	 id:2	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['huile']	 id:3	 quantité:10	 unité:cl d'	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:4	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:5	 quantité:220	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['œufs']	 id:6	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['zestes de citron', 'zestes']	 id:7	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['chocolat']	 id:8	 quantité:125	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:9	 quantité:125	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:10	 quantité:125	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:11	 quantité:60	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['œufs']	 id:12	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['sucre glace', 'sucre']	 id:13	 quantité:140	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre vanillé', 'sucre']	 id:14	 quantité:2	 unité:sachets de	 denombrable:True	 recipient:2*X
+ingredient:["jaunes d'œufs", 'jaunes']	 id:15	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['chocolat blanc', 'chocolat']	 id:16	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['chocolat au lait', 'chocolat']	 id:17	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mélanger	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:verser	 id:o_2	 ingrédients_ralatifs:['9', '14', '9', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garder	 id:o_3	 ingrédients_ralatifs:['14', '9', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_4	 ingrédients_ralatifs:['9', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:fondre	 id:o_5	 ingrédients_ralatifs:['7', '10', '8', '3']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['16', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['7', '6', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_9	 ingrédients_ralatifs:['14', '16', '3', '1']	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:['3', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_11	 ingrédients_ralatifs:['15', '6', '10', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_12	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:empiler	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_14	 ingrédients_ralatifs:['3', '13', '6', '7']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:étaler	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fondre	 id:o_16	 ingrédients_ralatifs:['16', '11']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:râper	 id:o_17	 ingrédients_ralatifs:['11']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:utiliser	 id:o_18	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:réaliser	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:régaler	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

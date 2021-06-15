@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21351">
+  <titre>Frisée aux oeufs mollets</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 salade frisée</p>
+    <p>4 oeufs</p>
+    <p>130 g de poitrine fumée</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>1 cuillère à soupe de vinaigre de vieux vin</p>
+    <p>15 cl de vinaigre blanc</p>
+    <p>sel, poivre</p>
+    <p>huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour cuire les oeufs mollets :
+    Casser chaque oeuf dans une louche et les pocher à l'eau frémissante salée et parfumée du vinaigre blanc pendant 3 minutes. L'oeuf est mollet quand le blanc est cuit et que le jaune reste souple. Vite l'arroser d'eau froide pour stopper la cuisson et l'égoutter en le posant sur un papier absorbant.
+    Renouveler cette opération pour les 3 autres oeufs.
+    Détailler la poitrine de lard en lanières pour en faire des lardons et les faire revenir à la poêle sans matière grasse.
+    Emulsionner l'huile avec le vinaigre de vin, du sel et du poivre puis en arroser la salade.
+    Déposer dessus les oeufs pochés et les lardons puis servir sans attendre.
+  ]]>
+  </preparation>
+</recette>

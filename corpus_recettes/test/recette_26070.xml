@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26070">
+  <titre>Crème de brocoli</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 tasses de brocoli coupé en fleurons</p>
+    <p>3 carottes tranchées, environ 2 tasses</p>
+    <p>2 gousses d'ail hachées</p>
+    <p>1 cuillère à soupe de beurre (15 ml) </p>
+    <p>2 tasses de bouillon de poulet (500 ml) </p>
+    <p>-3 tasses de lait (750 ml) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les légumes et l'ail dans le beurre durant 3 mn. Saler et poivrer. 
+    Ajouter le bouillon de poulet et poursuiver la cuisson jusqu'à ce que les légumes soient tendres, environ 15 mn. 
+    Ajoutez le lait. Verser dans la jarre du mélangeur et liquéfier. 
+    Réchauffer et rectifier l'assaisonnement.
+    Dans ma recettes ils disent de mettre des poireaux (2) et seulement 4 tasses de brocoli ! J'ai rectifié un peu et c'est un pur délice.
+  ]]>
+  </preparation>
+</recette>

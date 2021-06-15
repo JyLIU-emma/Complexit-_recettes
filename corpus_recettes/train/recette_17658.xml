@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17658">
+  <titre>Poisson pané (merlan)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 filets de merlan</p>
+    <p>1 jaune d'oeuf</p>
+    <p>chapelure ou biscottes écrasées</p>
+    <p>lait (3 cuillerées à soupe) </p>
+    <p>sel poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le jaune d'oeuf et le lait. 
+    Pour obtenir un mélange homogène :
+    Saler et poivrer le mélange. 
+    Plonger le poisson dans le mélange puis dans la chapelure et faire frire dans la poêle avec une noisette de beurre. 
+    Bon appétit!
+  ]]>
+  </preparation>
+</recette>

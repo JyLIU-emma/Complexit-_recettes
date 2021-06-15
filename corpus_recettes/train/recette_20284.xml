@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20284">
+  <titre>Maquereaux au four aux oignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 petits maquereaux</p>
+    <p>5 à 6 de beaux oignons</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>100 g de crème fraîche</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver, et préparer les maquereaux : en retirant les têtes et en détachant l'arête centrale.
+    Emincer les oignons, et les faire fondre doucement et sans les colorer dans un mélange beurre-huile. Saler et poivrer.
+    Etaler ensuite les oignons dans un plat allant au four et sur ce lit disposer les filets.
+    Délayer la crème dans le vin, arroser les filets de ce mélange.
+    Enfourner à 210°C (thermostat 7) pendant 20 min.
+    C'est prêt !
+  ]]>
+  </preparation>
+</recette>

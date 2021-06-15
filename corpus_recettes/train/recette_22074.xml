@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22074">
+  <titre>Quiche aux courgettes et au chèvre</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>3 courgettes</p>
+    <p>2 oeufs</p>
+    <p>25 cl de lait</p>
+    <p>25 cl de crème fraîche</p>
+    <p>150 g de chèvre frais</p>
+    <p>herbes de Provence</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites sauter les courgettes en rondelles 15 mn environ dans une poêle avec les herbes de Provence. 
+    Préparer l'appareil : battre les oeufs, ajouter le lait, la crème, le sel et poivre. 
+    Etendre la pâte ajouter les courgettes et l'appareil, puis les rondelles de chèvre frais dessus.
+    Cuire 40 mn à four préchauffé à thermostat 7/8 (230°C). Vérifier la cuisson à partir de 30 mn.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25568">
+  <titre>Tarte aux poireaux façon Phanie</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 poireaux</p>
+    <p>2 tranches de jambon cuit</p>
+    <p>2 tranches de jambon cru</p>
+    <p>60 g de gruyère</p>
+    <p>20 cl de crème fraîche en brique</p>
+    <p>250 g de feta</p>
+    <p>sel, poivre et muscade</p>
+    <p>1 pâte feuilletée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C. 
+    Nettoyer les poireaux, les couper en rondelles et les faire revenir dans du beurre jusqu'à ce qu'il n'y ait plus d'eau. 
+    Pendant ce temps, couper les tranches de jambon en dés, ainsi que le gruyère. 
+    Quand les poireaux commencent à roussir, arrêter la cuisson, mélanger les dés de jambon et de gruyère. 
+    Mettre la pâte dans un plat à tarte, étaler dedans la préparation de poireaux. ajouter par dessus la crème fraîche au préalable poivrée, salée, muscadée et à laquelle on a ajouté la feta émiettée. 
+    Faire cuire pendant environ 30 mn.
+  ]]>
+  </preparation>
+</recette>

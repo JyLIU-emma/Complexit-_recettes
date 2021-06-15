@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26515">
+  <titre>Moelleux au chocolat (micro-ondes)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de chocolat</p>
+    <p>3 oeufs</p>
+    <p>75 g de sucre</p>
+    <p>72,5 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les jaunes d'oeufs avec le sucre. 
+    Battre les blancs en neige très ferme et réserver. Faire fondre le chocolat avec le beurre puis incorporer ce mélange avec la préparation jaunes d'oeufs - sucre. 
+    Incorporer ensuite délicatement les blancs avec ce mélange. Beurrer un moule (le prendre suffisamment épais, au moins le double d'épaisseur de la préparation) et y verser le mélange final. Cuire 6 min à 800 W.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22730">
+  <titre>Cannelloni d'aubergine</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour les lasagnes :</p>
+    <p>8 petites feuilles de lasagnes (ou 4 grandes coupées en 2) </p>
+    <p>8 tranches d'aubergines grillés</p>
+    <p>250 g de ricotta</p>
+    <p>300/400 g de Mozzarella</p>
+    <p>feuilles entières de basilic frais</p>
+    <p>sel, poivre</p>
+    <p>Pour la sauce :</p>
+    <p>600 g de pulpe tomate</p>
+    <p>40 cl de béchamel maison</p>
+    <p>50 g de gruyère râpé et parmesan</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Si vos lasagnes sont sèches, les ébouillanter 2 min afin de les ramollir. 
+    Disposer au centre de chaque feuille de lasagne une tranche d'aubergine. 
+    Tartiner de ricotta, puis saler (légèrement) et poivrer. Recouvrir d'une ou plusieurs feuilles de basilic, selon les goûts. 
+    Découper la mozzarella en morceaux de 5 de longueur sur 2 de diamètre environ. Positionner sur chaque aubergine un morceau de mozzarella, puis rouler l'ensemble. 
+    Disposer chaque cannelloni ainsi composé dans un plat allant au four, et recouvrir l'ensemble de la pulpe de tomate (agrémenter selon les goûts d'herbes, poivre, oignons revenus). Recouvrir l'ensemble de béchamel, puis parsemer de gruyère râpé et de parmesan. Enfournez 35 à 40 min à 210°C. Chianti, valpolicella
+  ]]>
+  </preparation>
+</recette>

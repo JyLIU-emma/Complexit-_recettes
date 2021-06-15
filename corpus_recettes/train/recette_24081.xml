@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24081">
+  <titre>Gâteau de semoule rhum raisins</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de semoule de blé</p>
+    <p>150 g de raisins secs</p>
+    <p>10 cl de rhum</p>
+    <p>1 L de lait</p>
+    <p>100 g de sucre</p>
+    <p>3 oeufs</p>
+    <p>20 morceaux de sucre.</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laissez tremper les raisins dans le rhum.
+    Portez le lait à ébullition avec le sucre en poudre. Jetez-y la semoule en pluis, laissez cuire en remuant pendant 10 minutes.
+    Battez les oeufs en omelette, incorporez-les à la semoule au lait hors du feu.
+    Rajoutez les raisins secs égouttés.
+    Faites fondre les morceaux de sucre avec 2 cuillères à soupe d'eau à feu doux, ne remuez pas mais inclinez la casserole de temps en temps.
+    Versez le caramel aussitôt dans un moule à savarin ou un moule rond à bords hauts.
+    Versez la semoule dans le moule. Faites cuire 15 min au four à 180°C (thermostat 6).
+    Laissez refroidir et démoulez.
+  ]]>
+  </preparation>
+</recette>

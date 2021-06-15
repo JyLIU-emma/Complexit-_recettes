@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24169">
+  <titre>Boeuf et pommes de terre au curry</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>750 g de boeuf à braiser coupé en cubes</p>
+    <p>4 cuillères à soupe d'huile</p>
+    <p>2 oignons hachés</p>
+    <p>2 gousses d'ail hachées</p>
+    <p>1 cuillère à soupe de curry en poudre</p>
+    <p>2 cm de gingembre haché</p>
+    <p>2 cuillères à soupe de concentré de tomates</p>
+    <p>350 g de pommes de terre nouvelles</p>
+    <p>1 piment vert</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et couper les oignons et les pommes de terre. Ecraser l'ail.
+    Faire fondre les oignons, l'ail et le gingembre dans l'huile d'olive. Ajouter le curry, laisser chauffer quelques instants. Ajouter le boeuf et le faire dorer sur toutes ses faces. Mouiller d'eau à hauteur, incorporer le concentré de tomate, du sel et couvrir.
+    Laisser mijoter à frémissement durant 1 heure.
+    Ajouter les pommes de terre coupées en 4 ainsi que le piment vert.
+    Poursuivre la cuisson jusqu'à ce que les pommes de terre soient cuites.
+    Vous pouvez mettre plus de curry pour plus de goût.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="112847">
+  <titre>Fondant au chocolat, ou plutôt, fondant au toblerone</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 œuf</p>
+    <p>25 g de sucre </p>
+    <p>20 g de farine</p>
+    <p>25 g de beurre </p>
+    <p>50 g de toblerone</p>
+    <p>20 g de chocolat noir 70%   </p>
+    <p>10 g de beurre pour beurrer les ramequins</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre l'œuf avec le sucre jusqu'à ce que le mélange devienne onctueux. Ajouter la farine et continuer à battre. Faire fondre le toblerone et le chocolat noir 70% au bain marie, ajouter le beurre et remuer doucement jusqu'à ce que le mélange devienne homogène.
+    Préchauffer le four à 200°C.
+    Verser le chocolat dans le mélange œuf-sucre-farine et mélanger jusqu'à ce que le mélange soit homogène. Beurrer des ramequins et y verser cette pâte. Faire cuire 10 minutes. Démouler dès la sortie du four. Et on peut accompagner d'une crème anglaise
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Battre</OPER> l'<INGRED id="1">œuf</INGRED> avec le <INGRED id="2">sucre</INGRED> jusqu'à ce que le mélange devienne onctueux. <OPER id="o_2">Ajouter</OPER> la <INGRED id="5">farine</INGRED> et <OPER id="o_3">continuer</OPER> à <OPER id="o_4">battre</OPER>. Faire <OPER id="o_5">fondre</OPER> le <INGRED id="5">toblerone</INGRED> et le <INGRED id="6">chocolat noir 70</INGRED> % au bain marie, <OPER id="o_6">ajouter</OPER> le <INGRED id="4">beurre</INGRED> et <OPER id="o_7">remuer</OPER> doucement jusqu'à ce que le mélange devienne homogène. <OPER id="o_8">Préchauffer</OPER> le four à 200 ° C. <OPER id="o_9">Verser</OPER> le <INGRED id="4">chocolat</INGRED> dans le mélange <INGRED id="1">œuf</INGRED> - <INGRED id="5">sucre</INGRED> - <INGRED id="3">farine</INGRED> et <OPER id="o_10">mélanger</OPER> jusqu'à ce que le mélange soit homogène. <OPER id="o_11">Beurrer</OPER> des ramequins et y <OPER id="o_12">verser</OPER> cette pâte. Faire <OPER id="o_13">cuire</OPER> 10 minutes. <OPER id="o_14">Démouler</OPER> dès la sortie du four. Et on peut accompagner d'une <INGRED id="6">crème</INGRED> anglaise
+  </annotation>
+  <annotation methode="crf">
+  Battre l'<INGRED>œuf</INGRED> avec le <INGRED>sucre</INGRED> jusqu'à ce que le <INGRED>mélange</INGRED> devienne onctueux. Ajouter la <INGRED>farine</INGRED> et continuer à battre <INGRED>.</INGRED> Faire fondre le toblerone et le <INGRED>chocolat</INGRED> noir 70 <INGRED>%</INGRED> au bain marie <INGRED>,</INGRED> ajouter le <INGRED>beurre</INGRED> et remuer doucement jusqu'à ce que le <INGRED>mélange</INGRED> devienne homogène <INGRED>.</INGRED> Préchauffer le four à 200 ° C <INGRED>.</INGRED> Verser le <INGRED>chocolat</INGRED> dans le <INGRED>mélange</INGRED> <INGRED>œuf</INGRED> - <INGRED>sucre</INGRED> - <INGRED>farine</INGRED> et mélanger jusqu'à ce que le <INGRED>mélange</INGRED> soit homogène <INGRED>.</INGRED> Beurrer des ramequins et y verser cette <INGRED>pâte</INGRED> <INGRED>.</INGRED> Faire cuire 10 minutes. Démouler dès la sortie du four <INGRED>.</INGRED> Et on peut accompagner d'une <INGRED>crème anglaise</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 2.0*X + 12.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['œuf']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sucre']	 id:2	 quantité:25	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:3	 quantité:20	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:4	 quantité:25	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['toblerone']	 id:5	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['chocolat noir 70', 'chocolat']	 id:6	 quantité:20	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:7	 quantité:10	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:battre	 id:o_1	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:continuer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fondre	 id:o_5	 ingrédients_ralatifs:['5', '6', '4']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préchauffer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:verser	 id:o_9	 ingrédients_ralatifs:['4', '1', '5', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:beurrer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:démouler	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

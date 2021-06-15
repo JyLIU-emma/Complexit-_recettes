@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13981">
+  <titre>Filet mignon au curry</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 filets mignon</p>
+    <p>2 oignons</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>curry (selon votre goût)</p>
+    <p>bouillon</p>
+    <p>1 verre de vin blanc</p>
+    <p>sel, poivre</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les filets mignon en morceaux, les faire revenir dans une cocotte avec les oignons émincés.
+    Quand ils sont dorés, ajouter la farine, mélanger et mouiller avec du bouillon, le vin blanc et le curry (le bouillon doit juste recouvrir la viande).
+    Laisser mijoter environ 20 mn. En fin de cuisson épaissir la sauce avec la crème fraîche.
+    Servir avec de la semoule à couscous.
+     J'ai un faible pour le sancerre blanc
+  ]]>
+  </preparation>
+</recette>

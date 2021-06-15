@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15455">
+  <titre>Bricks au jambon et aux oeufs</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 feuilles de brick</p>
+    <p>8 tranches de jambon</p>
+    <p>4 oeufs</p>
+    <p>125 g de gruyère</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battez les oeufs en omelette. Sur chaque feuille de brick, mettre une tranche de jambon, du fromage et un peu d'oeuf battu. Refermez.
+    Faites cuire à la poêle 10 mn avec un peu d'huile.
+  ]]>
+  </preparation>
+</recette>

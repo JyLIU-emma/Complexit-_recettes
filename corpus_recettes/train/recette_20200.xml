@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20200">
+  <titre>Pâtes au chèvre, thym et lardons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 bûchette de fromage de chèvre</p>
+    <p>400 g de pâtes (de préférence striées) </p>
+    <p>150 g de lardons fumés</p>
+    <p>1 cuillère à café de thym</p>
+    <p>5 cuillères à soupe de crème fraîche épaisse</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer l'eau de pâtes avec de l'huile d'olive. 
+    Dans une casserole ayant une soeur de taille supérieure (pour faire un bain-marie), mettez la crème fraîche et le chèvre coupés en petits morceaux, ainsi que le sel, le poivre et le thym. Mettez à chauffer au bain-marie. 
+    Faites cuire les pâtes 'al dente'. 
+    Pendant ce temps faites revenir les lardons à la poêle. 
+    Mélangez le tout et servir chaud.
+    Comme plat basses calories on fait mieux mais c'est moins bon...!!! Je fais ça le soir quand des amis restent à diner à l'improviste et tout le monde apprécie. un petit rouge sympathique et sans prétention
+  ]]>
+  </preparation>
+</recette>

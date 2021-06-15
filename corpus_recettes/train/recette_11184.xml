@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11184">
+  <titre>Key lime pie (Floride)</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>350 g de lait concentré sucré</p>
+    <p>15 cl de jus de citron vert</p>
+    <p>1 pâte sablée cuite</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger en battant les jaunes d'oeuf, le lait et le citron, puis mettre dans le fond de tarte.
+    Battre les blancs avec un peu de sucre, puis étaler les blancs en neige sur la tarte.
+    Mettre au four à 140°C jusqu'à ce que le blanc d'oeuf soit doré.
+  ]]>
+  </preparation>
+</recette>

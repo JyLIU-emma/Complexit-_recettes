@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167987">
+  <titre>Veau à la sauce au vin et à la tomate</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>550/650g de viande de veau à blanquette</p>
+    <p>7 Gros Champignons de paris</p>
+    <p>2 échalotes</p>
+    <p>1 oignon</p>
+    <p>5 carottes fraîches avec leurs fanes</p>
+    <p>3 Brins de persil</p>
+    <p>280g de Tomates pelés avec jus</p>
+    <p>6 grosses Pommes de terre</p>
+    <p>2 verres de vin rouge "Côte du Rhône"</p>
+    <p>2 feuilles de lauriers</p>
+    <p>Herbe de Provence (un tout petit peu)</p>
+    <p>2 gousses d'ail</p>
+    <p>Huile d'olive</p>
+    <p>2 cuillère à café de fond de veau</p>
+    <p>1/2 cube de bouillon de volaille</p>
+    <p>1 cuillère à soupe de Farine</p>
+    <p>Sel / poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Verser la farine sur la viande et imprégner tout les morceaux.Éplucher, couper en 5 les carottes, garder et laver les fanes.Éplucher et couper en 3 les pommes de terre.
+    Couper les échalotes en fine tranches. couper l'oignon en 4.Dans petit mixeur, mettre l'ail, les feuille de fanes de carottes, le persil; hacher finement.
+    Dans une cocotte faire chauffer à feu vif, 2 cuillère à soupe d'huile d'olive. Quand l'huile rissole, à feu moyen, verser la viande et la faire dorée.
+    Retiré la viande, rajouter un peu d'huile si besoin, verser les échalotes et l'oignon, les faire suer, rajouter la viande et le mélange à l'ail ...Faire un peu revenir la viande ainsi 3/4 min, puis verser un verre de vin rouge. Laisser bouillonner, il faut beaucoup remuer. Quand le vin est a demi évaporer, rajouter les carottes.
+    Verser le cube de bouillon de volaille et 50 cl d'eau environ.
+    Bien mélanger, incorporer les tomates pelées et le jus, puis le deuxième verre de vin. 
+    Bien mélanger, saler, poivrer, mettre les deux feuilles de lauriers, les herbes de Provence. Laisser mijoter 45 min.
+    Peler, puis couper en tranche les champignons.
+    Au bout de 45 min , rajouter les champignons et incorporer le fond de veau, afin d'épaissir la sauce.
+    Laisser encore mijoter 35/40 min environ.
+    Faire cuir les pommes de terres à la vapeur ou au micro ondes.
+    Servir chaud avec les pommes de terres, tous de suite ou réserver pour le soir et faire réchauffer tout doucement pendant 15 min. Bon appétit!!Avec les reste de ce plat, vous pouvez le mixer et en faire une sauce pour un plat de pâte avec du fromage, c'est délicieux.  Vin rouge "Côte du rhône"
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Verser</OPER> la <INGRED id="1">farine</INGRED> sur la <INGRED id="1">viande</INGRED> et <OPER id="o_2">imprégner</OPER> tout les <INGRED id="1">morceaux</INGRED>. <OPER id="o_3">Éplucher</OPER>, <OPER id="o_4">couper</OPER> en 5 les <INGRED id="7">carottes</INGRED>, <OPER id="o_5">garder</OPER> et <OPER id="o_6">laver</OPER> les fanes. <OPER id="o_7">Éplucher</OPER> et <OPER id="o_8">couper</OPER> en 3 les <INGRED id="5">pommes de terre</INGRED>. <OPER id="o_9">Couper</OPER> les <INGRED id="6">échalotes</INGRED> en fine <INGRED id="4">tranches</INGRED>. <OPER id="o_10">couper</OPER> l'<INGRED id="10">oignon</INGRED> en 4.Dans petit mixeur, <OPER id="o_11">mettre</OPER> <INGRED id="1">l'ail</INGRED>, les feuille de fanes de <INGRED id="1">carottes</INGRED>, le <INGRED id="7">persil</INGRED> ; <OPER id="o_12">hacher</OPER> finement. Dans une <INGRED id="3">cocotte</INGRED> <INGRED id="10">faire</INGRED> <OPER id="o_13">chauffer</OPER> à feu vif, 2 cuillère à <INGRED id="6">soupe d'huile d'olive</INGRED>. Quand l'<INGRED id="5">huile</INGRED> rissole, à feu moyen, <OPER id="o_14">verser</OPER> la <INGRED id="1">viande</INGRED> et la <INGRED id="4">faire</INGRED> dorée. Retiré la <INGRED id="2">viande</INGRED>, <OPER id="o_15">rajouter</OPER> un peu d'<INGRED id="2">huile</INGRED> si besoin, <OPER id="o_16">verser</OPER> les <INGRED id="3">échalotes</INGRED> et l'<INGRED id="1">oignon</INGRED>, les <INGRED id="10">faire</INGRED> <OPER id="o_17">suer</OPER>, <OPER id="o_18">rajouter</OPER> la viande et le <INGRED id="2">mélange</INGRED> à <INGRED id="1">l'ail</INGRED>... Faire un peu <OPER id="o_19">revenir</OPER> la <INGRED id="1">viande</INGRED> ainsi 3/4 min, puis <OPER id="o_20">verser</OPER> un verre de <INGRED id="3">vin rouge</INGRED>. Laisser <OPER id="o_21">bouillonner</OPER>, il faut beaucoup <OPER id="o_22">remuer</OPER>. Quand le <INGRED id="3">vin</INGRED> est a <INGRED id="17">demi</INGRED> <OPER id="o_23">évaporer</OPER>, <OPER id="o_24">rajouter</OPER> les <INGRED id="5">carottes</INGRED>. <OPER id="o_25">Verser</OPER> le cube de <INGRED id="3">bouillon de volaille</INGRED> et <INGRED id="3">50</INGRED> <INGRED id="2">cl</INGRED> d'<INGRED id="1">eau</INGRED> <INGRED id="1">environ</INGRED>. Bien <OPER id="o_26">mélanger</OPER>, <OPER id="o_27">incorporer</OPER> les <INGRED id="1">tomates</INGRED> pelées et le <INGRED id="3">jus</INGRED>, puis le deuxième verre de <INGRED id="3">vin</INGRED>. Bien <OPER id="o_28">mélanger</OPER>, <OPER id="o_29">saler</OPER>, <OPER id="o_30">poivrer</OPER>, <OPER id="o_31">mettre</OPER> les deux <INGRED id="4">feuilles</INGRED> de <INGRED id="10">lauriers</INGRED>, les <INGRED id="9">herbes de Provence</INGRED>. Laisser <OPER id="o_32">mijoter</OPER> 45 min. <OPER id="o_33">Peler</OPER>, puis <OPER id="o_34">couper</OPER> en tranche les <INGRED id="10">champignons</INGRED>. Au bout de 45 min, <OPER id="o_35">rajouter</OPER> les champignons et <OPER id="o_36">incorporer</OPER> le <INGRED id="4">fond de veau</INGRED>, afin d'<OPER id="o_37">épaissir</OPER> la <INGRED id="4">sauce</INGRED>. Laisser encore <OPER id="o_38">mijoter</OPER> 35/40 min <INGRED id="1">environ</INGRED>. Faire <OPER id="o_39">cuir</OPER> les <INGRED id="2">pommes de terres</INGRED> à la vapeur ou au micro ondes. Servir chaud avec les <INGRED id="2">pommes de terres</INGRED>, tous de suite ou réserver pour le soir et <INGRED id="14">faire</INGRED> <OPER id="o_40">réchauffer</OPER> tout doucement pendant 15 min. Bon appétit!!Avec les <INGRED id="1">reste</INGRED> de ce <INGRED id="9">plat</INGRED>, vous pouvez le <OPER id="o_41">mixer</OPER> et en <INGRED id="4">faire</INGRED> une <INGRED id="6">sauce</INGRED> pour un <INGRED id="9">plat</INGRED> de pâte avec du <INGRED id="8">fromage</INGRED>, c'est délicieux. <INGRED id="5">Vin</INGRED> rouge " Côte du rhône "
+  </annotation>
+  <annotation methode="crf">
+  Verser la <INGRED>farine</INGRED> sur la <INGRED>viande</INGRED> et imprégner tout les <INGRED>morceaux</INGRED> <INGRED>.</INGRED> Éplucher <INGRED>,</INGRED> couper en 5 les <INGRED>carottes</INGRED> <INGRED>,</INGRED> garder et laver les <INGRED>fanes</INGRED> <INGRED>.</INGRED> Éplucher et couper en 3 les <INGRED>pommes de terre</INGRED>. Couper les <INGRED>échalotes</INGRED> en fine tranches. couper l'<INGRED>oignon</INGRED> en 4.Dans <INGRED>petit</INGRED> mixeur, mettre l'<INGRED>ail</INGRED> <INGRED>,</INGRED> les feuille de <INGRED>fanes</INGRED> de <INGRED>carottes</INGRED> <INGRED>,</INGRED> le <INGRED>persil</INGRED> ; hacher <INGRED>finement</INGRED> <INGRED>.</INGRED> Dans une cocotte faire chauffer à feu vif <INGRED>,</INGRED> 2 cuillère à soupe d'<INGRED>huile d'olive</INGRED> <INGRED>.</INGRED> Quand l'<INGRED>huile</INGRED> rissole <INGRED>,</INGRED> à feu moyen <INGRED>,</INGRED> verser la <INGRED>viande</INGRED> et la faire dorée <INGRED>.</INGRED> Retiré la <INGRED>viande</INGRED> <INGRED>,</INGRED> rajouter un peu d'<INGRED>huile</INGRED> si besoin <INGRED>,</INGRED> verser les <INGRED>échalotes</INGRED> et l'<INGRED>oignon</INGRED> <INGRED>,</INGRED> les faire suer <INGRED>,</INGRED> rajouter la <INGRED>viande</INGRED> et le <INGRED>mélange</INGRED> à l'<INGRED>ail</INGRED>... Faire un peu revenir la <INGRED>viande</INGRED> ainsi 3/4 min <INGRED>,</INGRED> puis verser un <INGRED>verre</INGRED> de <INGRED>vin rouge</INGRED> <INGRED>.</INGRED> Laisser bouillonner <INGRED>,</INGRED> il faut beaucoup remuer. Quand le <INGRED>vin</INGRED> est <INGRED>a</INGRED> <INGRED>demi</INGRED> évaporer <INGRED>,</INGRED> rajouter les <INGRED>carottes</INGRED>. Verser le cube de <INGRED>bouillon de volaille</INGRED> et 50 cl d'<INGRED>eau</INGRED> <INGRED>environ</INGRED>. Bien mélanger <INGRED>,</INGRED> incorporer les <INGRED>tomates pelées</INGRED> et le <INGRED>jus</INGRED> <INGRED>,</INGRED> puis le deuxième <INGRED>verre</INGRED> de <INGRED>vin</INGRED>. Bien mélanger <INGRED>,</INGRED> saler <INGRED>,</INGRED> poivrer <INGRED>,</INGRED> mettre les <INGRED>deux</INGRED> feuilles de lauriers <INGRED>,</INGRED> les <INGRED>herbes de Provence</INGRED>. Laisser mijoter 45 min. Peler <INGRED>,</INGRED> puis couper en tranche les <INGRED>champignons</INGRED> <INGRED>.</INGRED> Au bout de 45 min <INGRED>,</INGRED> rajouter les <INGRED>champignons</INGRED> et incorporer le <INGRED>fond de veau</INGRED> <INGRED>,</INGRED> afin d'épaissir la <INGRED>sauce</INGRED>. Laisser encore mijoter 35/40 min <INGRED>environ</INGRED>. Faire cuir les <INGRED>pommes</INGRED> de terres à la vapeur <INGRED>ou</INGRED> au micro ondes. Servir chaud avec les <INGRED>pommes</INGRED> de terres <INGRED>,</INGRED> tous de suite <INGRED>ou</INGRED> réserver pour le soir et faire réchauffer tout doucement pendant 15 min. Bon appétit!!Avec les <INGRED>reste</INGRED> de ce plat <INGRED>,</INGRED> vous pouvez le mixer et en faire une <INGRED>sauce</INGRED> pour un plat de <INGRED>pâte</INGRED> avec du <INGRED>fromage</INGRED> <INGRED>,</INGRED> c'est délicieux <INGRED>.</INGRED> Vin rouge " Côte du rhône "
+  </annotation>
+  <complexite>
+    <temps>f(X) = 512.769230769231*X + 93.2307692307692</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 33*X + 22</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['viande de veau à blanquette', 'viande']	 id:1	 quantité:non_precis	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['Champignons de paris', 'Champignons']	 id:2	 quantité:7	 unité:non_precis	 denombrable:True	 recipient:7*X
+ingredient:['échalotes']	 id:3	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['oignon']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['carottes fraîches avec leurs fanes', 'carottes']	 id:5	 quantité:5	 unité:non_precis	 denombrable:True	 recipient:5*X
+ingredient:['persil']	 id:6	 quantité:3	 unité:Brins de	 denombrable:True	 recipient:3*X
+ingredient:['Tomates pelés avec jus', 'Tomates']	 id:7	 quantité:280	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['Pommes de terre', 'Pommes']	 id:8	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['vin rouge " Côte du Rhône "', 'vin']	 id:9	 quantité:2	 unité:verres de	 denombrable:True	 recipient:2*X
+ingredient:['lauriers']	 id:10	 quantité:2	 unité:feuilles de	 denombrable:True	 recipient:2*X
+ingredient:['Herbe de Provence', 'Herbe']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['ail']	 id:12	 quantité:2	 unité:gousses d'	 denombrable:True	 recipient:2*X
+ingredient:["Huile d'olive", 'Huile']	 id:13	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fond de veau', 'fond']	 id:14	 quantité:2	 unité:cuillère à café de	 denombrable:True	 recipient:2*X
+ingredient:['bouillon de volaille', 'bouillon']	 id:15	 quantité:1/2	 unité:cube de	 denombrable:False	 recipient:1
+ingredient:['Farine']	 id:16	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['Sel-poivre', 'Sel']	 id:17	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:verser	 id:o_1	 ingrédients_ralatifs:['1', '1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:imprégner	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:éplucher	 id:o_3	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:280*X	 temps:1*X*1	 recipient:0
+operation:couper	 id:o_4	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:280*X	 temps:1*X*1	 recipient:1
+operation:garder	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:laver	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:éplucher	 id:o_7	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:5*X*1	 recipient:0
+operation:couper	 id:o_8	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:5*X*1	 recipient:1
+operation:couper	 id:o_9	 ingrédients_ralatifs:['6', '4']	 nombre_opération_atomique:3*X+1*X	 temps:3*X*1+1*X*1	 recipient:1
+operation:couper	 id:o_10	 ingrédients_ralatifs:['10', '1', '1', '7']	 nombre_opération_atomique:2*X+1+1+1	 temps:2*X*1+1*X*1+1*X*1+1*X*1	 recipient:1
+operation:mettre	 id:o_11	 ingrédients_ralatifs:['1', '1', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:hacher	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5*X	 recipient:1
+operation:chauffer	 id:o_13	 ingrédients_ralatifs:['3', '10', '6']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:verser	 id:o_14	 ingrédients_ralatifs:['1', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rajouter	 id:o_15	 ingrédients_ralatifs:['2', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_16	 ingrédients_ralatifs:['2', '2', '3', '1', '10', '2', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:suer	 id:o_17	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rajouter	 id:o_18	 ingrédients_ralatifs:['2', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:revenir	 id:o_19	 ingrédients_ralatifs:['1', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:verser	 id:o_20	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:bouillonner	 id:o_21	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:évaporer	 id:o_23	 ingrédients_ralatifs:['3', '17']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rajouter	 id:o_24	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_25	 ingrédients_ralatifs:['3', '3', '2', '1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_26	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:incorporer	 id:o_27	 ingrédients_ralatifs:['1', '3', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_28	 ingrédients_ralatifs:['4', '10', '9']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:saler	 id:o_29	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_30	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_31	 ingrédients_ralatifs:['4', '10', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mijoter	 id:o_32	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:peler	 id:o_33	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:2*X*1	 recipient:0
+operation:couper	 id:o_34	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:2*X*1	 recipient:1
+operation:rajouter	 id:o_35	 ingrédients_ralatifs:['4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_36	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:épaissir	 id:o_37	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_38	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:cuir	 id:o_39	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:réchauffer	 id:o_40	 ingrédients_ralatifs:['14']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mixer	 id:o_41	 ingrédients_ralatifs:['4', '6', '9', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

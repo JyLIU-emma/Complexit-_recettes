@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24197">
+  <titre>Petits gâteaux meringués au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de chocolat</p>
+    <p>3 blancs d'oeufs</p>
+    <p>250 g de sucre en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixez le chocolat ou râpez-le. Mélangez-le au sucre en poudre.
+    Fouettez les blancs à la fourchette pour les faire un peu mousser. Ajoutez-y le chocolat et le sucre progressivement.
+    Déposez des petits tas sur une plaque recouverte de papier sulfurisé. Faites cuire 20 minutes environ au four à 120°C (thermostat 4).
+  ]]>
+  </preparation>
+</recette>

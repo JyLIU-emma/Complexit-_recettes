@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57156">
+  <titre>Maki california (Japon)</titre>
+  <type>Plat principal</type>
+  <niveau>Difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1 cuillère à soupe de mayonnaise</p>
+    <p>1 cuillère à soupe de sésame grillé</p>
+    <p>40 g d'avocat</p>
+    <p>2 surimi</p>
+    <p>30 g d'oeufs de poisson (tobiko)</p>
+    <p>2 feuilles d'algues nori</p>
+    <p>170 g de riz à sushi</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Poser dans une natte de bambou dans la moitié supérieure une demi feuille d'algue nori, mettre le riz assez régulièrement sur l'algue.
+    Mettre un peu de sésame sur le riz.
+    Recouvrir le riz avec la deuxième moitié de la natte de bambou et retourner la natte de bambou et la rouvrir.
+    Mettre dans le milieu de la feuille d'algue de la mayonnaise.
+    Mettre des morceaux de surimi et d'avocat.
+    Rouler le tout (dans le sens de la longueur) comme un maki avec la natte de bambou.
+    Retirer la natte de bambou et découper le rouleau en 6 morceaux.
+    Et voilà c'est prêt!!!S'accompagne très bien de sauce soja et pour les gros appétits avec du riz à sushi.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Poser</OPER> dans une natte de bambou dans la moitié supérieure une <INGRED id="2">demi</INGRED> feuille d'algue nori, <OPER id="o_2">mettre</OPER> le riz assez régulièrement sur l'algue. <OPER id="o_3">Mettre</OPER> un peu de <INGRED id="2">sésame</INGRED> sur le riz. <OPER id="o_4">Recouvrir</OPER> le <INGRED id="3">riz</INGRED> avec la deuxième moitié de la natte de bambou et <OPER id="o_5">retourner</OPER> la natte de bambou et la <OPER id="o_6">rouvrir</OPER>. <OPER id="o_7">Mettre</OPER> dans le milieu de la feuille d'algue de la <INGRED id="5">mayonnaise</INGRED>. <OPER id="o_8">Mettre</OPER> des <INGRED id="2">morceaux</INGRED> de <INGRED id="4">surimi</INGRED> et d'avocat. <OPER id="o_9">Rouler</OPER> le tout ( dans le sens de la longueur ) comme un maki avec la natte de bambou. <OPER id="o_10">Retirer</OPER> la natte de bambou et <OPER id="o_11">découper</OPER> le <INGRED id="2">rouleau</INGRED> en 6 <INGRED id="1">morceaux</INGRED>. Et voilà c'est prêt!!!S'accompagne très bien de <INGRED id="6">sauce soja</INGRED> et pour les gros appétits avec du <INGRED id="7">riz à sushi</INGRED>.
+  </annotation>
+  <annotation methode="crf">
+  Poser dans une natte de bambou dans la moitié supérieure une <INGRED>demi</INGRED> feuille d'algue nori <INGRED>,</INGRED> mettre le <INGRED>riz</INGRED> assez régulièrement sur l'algue. Mettre un peu de sésame sur le <INGRED>riz</INGRED> <INGRED>.</INGRED> Recouvrir le <INGRED>riz</INGRED> avec la deuxième moitié de la <INGRED>natte de bambou</INGRED> et retourner la <INGRED>natte de bambou</INGRED> et la rouvrir <INGRED>.</INGRED> Mettre dans le milieu de la feuille d'algue de la <INGRED>mayonnaise</INGRED>. Mettre des <INGRED>morceaux</INGRED> de <INGRED>surimi</INGRED> et d'avocat. Rouler le tout ( dans le sens de la longueur ) comme un maki avec la <INGRED>natte de bambou</INGRED> <INGRED>.</INGRED> Retirer la <INGRED>natte de bambou</INGRED> et découper le <INGRED>rouleau</INGRED> en 6 <INGRED>morceaux</INGRED> <INGRED>.</INGRED> Et voilà c'est prêt!!!S'accompagne très bien de <INGRED>sauce soja</INGRED> et pour les <INGRED>gros</INGRED> appétits avec du <INGRED>riz</INGRED> à sushi.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 8.0*X + 4.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 6*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['mayonnaise']	 id:1	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['sésame grillé', 'sésame']	 id:2	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['avocat']	 id:3	 quantité:40	 unité:g d'	 denombrable:False	 recipient:1
+ingredient:['surimi']	 id:4	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['oeufs de poisson', 'oeufs']	 id:5	 quantité:30	 unité:g d'	 denombrable:False	 recipient:1
+ingredient:['algues nori', 'algues']	 id:6	 quantité:2	 unité:feuilles d'	 denombrable:True	 recipient:2*X
+ingredient:['riz à sushi', 'riz']	 id:7	 quantité:170	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:poser	 id:o_1	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_2	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_3	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:recouvrir	 id:o_4	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retourner	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rouvrir	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_7	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_8	 ingrédients_ralatifs:['2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:rouler	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_10	 ingrédients_ralatifs:['2', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:découper	 id:o_11	 ingrédients_ralatifs:['2', '1']	 nombre_opération_atomique:1*X+1*X	 temps:1*X*1+1*X*1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

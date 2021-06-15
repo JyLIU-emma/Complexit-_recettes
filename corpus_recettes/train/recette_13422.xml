@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13422">
+  <titre>Tourte d'Auvergne au cantal jeune</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>100 g de cantal jeune</p>
+    <p>400 g de pâte feuilletée</p>
+    <p>1/2 chou vert</p>
+    <p>125 g de jambon d'Auvergne</p>
+    <p>10 cl de crème fraîche</p>
+    <p>1 oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>1 jaune d'oeuf</p>
+    <p>beurre</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 220°C (thermostat 7). 
+    Etalez les 3/4 de la pâte feuilletée dans un grand moule beurré et faites précuire 5 mn au four.
+    Coupez le demi-chou en quatre, plongez-le 15 mn dans de l'eau bouillante salée puis égouttez et hachez-le très fin.
+    Dans une sauteuse à feu vif, faites dorer à l'huile  l'ail et l'oignon hachés, puis incorporez le chou en remuant.
+    Assaisonnez, garnissez-en le fond de la tarte, ajouter le jambon, le cantal jeune coupé en lamelles et la crème.
+    Recouvrez la tourte avec le reste de la pâte. Badigeonnez la surface avec le jaune d'oeuf délayé avec un peu d'eau. Creusez un petit trou au centre de la tourte et enfournez-la 20-25 mn à 220°C (thermostat 7).
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25134">
+  <titre>St Jacques à la bretonne</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,2 kg de St Jacques</p>
+    <p>4 échalotes</p>
+    <p>120 g de beurre 1/2 sel</p>
+    <p>1 grosse cuillère de persil haché</p>
+    <p>1 pointe de fenouil en poudre</p>
+    <p>2 tranches de pain de mie</p>
+    <p>3 cuillères à soupe de muscadet ou gros plant</p>
+    <p>2 grosses cuillères à soupe de chapelure</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ouvrir les St Jacques à cru.
+    Jeter la coquille plate et garder la creuse.
+    Mixer en purée les barbes lavées et la moitié des coraux.
+    Garder 4 à 8 coquilles (1 à 2 par personne) et 4 à 8 coraux pour la décoration.
+    Couper le reste en petits morceaux, puis la noix en 4.
+    Hacher les échalotes et les faire fondre avec 80 g de beurre pendant 5 min.
+    Ajouter le hachis de barbes, le sel, le poivre et le fenouil. Cuire 5 min.
+    Mouiller avec le vin et le pain de mie écrasé, puis ajouter le persil. Cuire 1 min.
+    Mélanger les noix et les coraux.
+    Allumer le four à 200°C (thermostat 6/7).
+    Remplir les coquilles creuses que l'on a lavées. Remplir de la préparation. Saupoudrer de chapelure, poser le corail et le beurre restant.
+    Cuire 20 min au four.
+    Peut être servi en entrée.
+  ]]>
+  </preparation>
+</recette>

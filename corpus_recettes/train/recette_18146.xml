@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18146">
+  <titre>Salade Feta Raisins</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boîte de maïs en grains</p>
+    <p>1 salade feuille de chêne rouge</p>
+    <p>4 petites tomates</p>
+    <p>1 bocal de feta aux herbes de Provence</p>
+    <p>25 g de poignée de raisins secs</p>
+    <p>2 avocats</p>
+    <p>5 cl de vinaigrette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper les tomates, les avocats en petits morceaux. Laver la salade et la préparer.
+    Mettre tous les ingrédients dans un grand saladier.
+    Préparer la vinaigrette à l'aide de l'huile du bocal de feta.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14493">
+  <titre>Gratin de panais</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de racines de panais </p>
+    <p>200 g de pommes de terre </p>
+    <p>150 g de gruyère râpé </p>
+    <p>2 gousses d'ail </p>
+    <p>sel, poivre </p>
+    <p>150 g de crème fraiche</p>
+    <p>30 g de chapelure </p>
+    <p>25 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Brosser et laver soigneusement les racines de panais. Les couper en rondelles épaisses et les faire précuire à l'eau salée pendant une
+    dizaine de minutes. Faire cuire à moitié les pommes de terre dans de l'eau, les éplucher et les couper en rondelles. Graisser un plat à gratin et y disposer les rondelles de panais et de pommes de terre
+    en couches alternées, en ajoutant entre les couches un peu de fromage râpé et d'ail écrasé.
+    Saler et poivrer.
+    Napper de crème, recouvrir du reste de fromage puis de chapelure, parsemer la surface de quelques morceaux de beurre et faire gratiner une vingtaine de minutes à four chaud.Le panais est un légume très ancien, que l'on accomodait souvent en pot-au-feu!Son goût presque sucré est à mi chemin entre la carotte et le navet. Il est d'ailleurs nommé 'carotte sauvage'.
+  ]]>
+  </preparation>
+</recette>

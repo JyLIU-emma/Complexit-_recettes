@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12154">
+  <titre>La tarte au cottage cheese</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>pâte brisée</p>
+    <p>500 g de fromage blanc (faisselle)</p>
+    <p>3 oeufs</p>
+    <p>quelques poignées de gruyère râpé</p>
+    <p>herbes (fraîches c'est mieux) : persil, ciboulette, estragon, cerfeuil, etc.</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à thermostat 7-8.
+    Mélangez vigoureusement le cottage cheese, les oeufs, le gruyèe et les herbes.
+    Etalez la pâte, placez dessus le mélange au fromage.
+    Enfournez et laissez dorer 30 à 40min, la garniture doit être légèrement soufflée.
+    Servir avec une méga salade verte aux herbes.
+  ]]>
+  </preparation>
+</recette>

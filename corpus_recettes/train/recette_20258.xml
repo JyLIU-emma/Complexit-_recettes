@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20258">
+  <titre>Gâteau aux mars</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 barres de 'Mars'</p>
+    <p>110 g de riz soufflé (type rice krispies)</p>
+    <p>90 g de margarine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre les barres de mars avec la margarine puis ajouter le riz soufflé. 
+    Bien mélanger et mettre au freezer pendant au moins 2 heures ou au congélateur pendant 1 heure. 
+    Bon appétit
+  ]]>
+  </preparation>
+</recette>

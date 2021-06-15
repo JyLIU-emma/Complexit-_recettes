@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19513">
+  <titre>Canouga</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>peser 2 oeufs</p>
+    <p>Pour le reste, rendre le même poids de:</p>
+    <p>sucre</p>
+    <p>beurre</p>
+    <p>chocolat à croquer</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre au bain-marie le chocolat dans un peu d'eau ou de lait. 
+    Ajouter doucement, hors du feu, le beurre, le sucre et les oeufs entiers. Remettre sur le bain-marie et tourner sans arrêt pendant une vingtaine de minutes environ. 
+    Verser dans un joli plat, laisser refroidir et mettre au réfrigérateur. 
+    Servir froid accompagné d'une crème anglaise. 
+    Le chocolat doit être très onctueux et fondre sous la langue.... exquis!
+  ]]>
+  </preparation>
+</recette>

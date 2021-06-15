@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14215">
+  <titre>Pastis landais (brioche)</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>350 g de farine</p>
+    <p>3 oeufs</p>
+    <p>80 g de beurre</p>
+    <p>120 g de sucre</p>
+    <p>1/2 verre de lait</p>
+    <p>10 g de levure de boulanger</p>
+    <p>1 cuillère à café de vanille liquide</p>
+    <p>1 cuillère à soupe de pastis ou de Marie-Brizard (toutefois, si on n'aime pas l'anis, on peut remplacer par du rhum! Ce n'est alors plus du 'vrai' pastis, mais c'est très bon quand même)</p>
+    <p>1 cuillère à soupe d'eau de fleur d'oranger</p>
+    <p>2 pincées de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer un levain avec la levure délayée dans un peu de lait tiède, 1 oeuf, 1 pincée de sel, 100 g de farine. Laisser monter 1 à 2 heures.
+    Dans un récipient profond, battre les 2 autres oeufs et mettre le sucre, 1 pincée de sel, le beurre fondu, le lait, le levain, les parfums, puis le reste de farine.
+    Pétrir jusqu'à ce que la pâte soit homogène et non collante.
+    Placer dans un moule beurré, laisser monter dans un endroit tiède durant 6 h.
+    Mettre au four 30 min à four moyen.
+  ]]>
+  </preparation>
+</recette>

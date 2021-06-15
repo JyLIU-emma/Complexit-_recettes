@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21877">
+  <titre>Quiche au camembert</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>une pâte feuilletée</p>
+    <p>4 cuillères à soupe de crème fraîche</p>
+    <p>3 oeufs</p>
+    <p>sel, poivre</p>
+    <p>un camembert</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etalez la pâte feuilletée, disposez au fond des tranches de camembert afin de remplir le fond de la pâte de fromage. Mélangez dans un saladier les oeufs, la crème fraîche. Salez et poivrez selon votre goût. Versez la préparation sur la pâte. Faites cuire environ 30 min, thermostat 6-7 (200°C).Le camembert peut se remplacer par du brie ou encore de la brique. vin rouge de préférence
+  ]]>
+  </preparation>
+</recette>

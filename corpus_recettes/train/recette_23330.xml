@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23330">
+  <titre>TOURTE AUX AIRELLES ET AUX POMMES</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 pâtes brisées</p>
+    <p>300 g de pommes à cuire</p>
+    <p>100 g d'airelles (à blanchire 5 min dans de l'eau bouillante</p>
+    <p>100 g de cassonade blonde</p>
+    <p>1 cuillère à café de farine</p>
+    <p>1 jaune d'oeuf</p>
+    <p>du sucre en poudre.</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Foncer un moule beurré avec une des pâtes brisées.
+    Détailler les pommes épluchées en dés et les mélanger aux airelles blanchies, au sucre et à la farine. Bien mélanger et verser dans le plat. Recouvrir la préparation de la seconde pâte et sceller la tourte avec un peu d’eau.
+    Badigeonner la pâte du jaune d’oeuf, parsemer de sucre et enfourner à 210°C (thermostat 7) pendant 20 min.
+    Démouler et replacer dans le four 5 min pour dorer et durcir le fond et les bords de la pâte.
+  ]]>
+  </preparation>
+</recette>

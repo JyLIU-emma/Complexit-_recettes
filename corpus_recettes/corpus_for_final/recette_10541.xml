@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10541">
+  <titre>Coq au Vin facile</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>10 blancs de volailles</p>
+    <p>200 gr de lardons sans couennes</p>
+    <p>500 g de champignons de Paris</p>
+    <p>75 cl de vin rouge</p>
+    <p>2 cubes dégraissés de bouillon de volaille</p>
+    <p>sel, poivre </p>
+    <p>herbes de provence</p>
+    <p>10 cl de cognac</p>
+    <p>10 cl de Porto</p>
+    <p>1 morceau de sucre</p>
+    <p>2 cuillères à soupe de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire dorer les blancs de volaille dans le beurre bien chaud.
+    Ajouter le verre de Cognac. Flamber (facultatif)
+    Ajouter les lardons, sel, poivre, cubes de bouillon, herbes, porto, et la bouteille de vin.
+    Laisser mijoter 40 minutes (pas plus, sinon la viande se défait).Laver les champignons, les couper en 2  ou en 4. Les faire dorer dans 1 cas de beurre.
+    Pour lier la sauce, faire un beurre manié, c'est à dire même quantité de beurre que de farine... Le beurre doit être bien mou pour cela.
+    Bien mélanger avec une fourchette dans un bol.
+    Mettre la viande, les champignons et les lardons dans un plat de service.
+    Faire réchauffer la sauce. Y ajouter le beurre manié. Bien fouetter.
+    Se sert avec des mini-croquettes de pommes de terre ou de la purée. Saint Emilion
+  ]]>
+  </preparation>
+</recette>

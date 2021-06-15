@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23053">
+  <titre>Soupe froide au yaourt à l'aneth (Turquie) - cacik</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 yaourts veloutés type yaourts à la grecque</p>
+    <p>100 g de riz blanc cuit à l'eau</p>
+    <p>15 cl de bouillon de volaille</p>
+    <p>25 g de beurre</p>
+    <p>1 gousse d'ail</p>
+    <p>1 cuillère à soupe d'aneth ciselée</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire le riz à l'eau le temps indiqué. 
+    Faire blondir l'ail pressé avec le beurre dans une casserole une trentaine de seconde. 
+    Ajouter le bouillon et autant d'eau ainsi que le riz et faire chauffer une ou deux minutes. 
+    Retirer du feu. 
+    Pendant ce temps lissez les yaourts et assaisonnez-les à votre goût. 
+    Verser le bouillon et le riz sur les yaourts et mélanger. 
+    Ajouter l'aneth. 
+    Réserver au frais.
+    Ce plat est utilisé en Turquie pour briser le jeûne du ramadan. Cette soupe est à la fois rafraîchissante et nourrissante, aussi elle peut servir de plat principal selon votre appétit.
+    Ce plat se nomme 'Cacik' en turc, qui se lit en francais 'djadjik'.
+  ]]>
+  </preparation>
+</recette>

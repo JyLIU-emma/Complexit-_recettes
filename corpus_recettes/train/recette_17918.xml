@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17918">
+  <titre>Poulet au curry et tomates</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 blancs de poulet</p>
+    <p>1 boîte de chair à tomate</p>
+    <p>1 oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>1 bouquet garni (persil, thym, laurier) </p>
+    <p>curry, sel, poivre</p>
+    <p>1 pomme</p>
+    <p>25 cl de crème</p>
+    <p>huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les blancs de poulet en dés. 
+    Faites chauffer l'huile dans une poêle et faites-y revenir l'oignon, la gousse d'ail et les dés de poulet. Ajoutez la chair de tomates, la pomme coupée en dés et la crème. Salez, poivrez, ajoutez le bouquet garni et le curry. 
+    Faites cuire 20-25 min à feu très doux. Accompagnez de riz. 
+    Recette pouvant être cuite au four à micro-ondes. 
+    Dans ce cas, cuire 2 min à 750 W, l'oignon, la gousse d'ail et le poulet. Salez, poivrez, ajoutez le bouquet garni et le curry. 
+    Faites cuire 10-13 min à 750 W.
+    On peut toujours rajouter quelques morceaux de pomme cuite à part dans un peu d'huile pour décorer. vin blanc
+  ]]>
+  </preparation>
+</recette>

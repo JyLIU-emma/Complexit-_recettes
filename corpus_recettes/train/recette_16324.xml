@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16324">
+  <titre>Gâteau à la casserole</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de beurre margarine</p>
+    <p>500 g de sucre de canne</p>
+    <p>250 g de farine patissière</p>
+    <p>4 cuillères à soupe de chocolat en poudre (pour petit-déjeuner)</p>
+    <p>1 tasse (240 ml) de lait entier</p>
+    <p>4 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre sur le feu, dans une casserole, le lait et le chocolat, puis fouetter jusqu'à épaississement.
+    Hors du feu, ajouter un par un les jaunes d'oeuf, puis le beurre, le sucre, la farine (d'un coup) et finalement les blancs d'oeufs battus au batteur à main.
+    Mettre dans un moule beurré au four pendant 45 mn en ayant soin de commencer par 100°C, 15 mn après, passer à 120°C, puis encore 15 mn après, à 140°C.
+    Les enfants l'adorent.
+  ]]>
+  </preparation>
+</recette>

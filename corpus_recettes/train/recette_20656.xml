@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20656">
+  <titre>FIADONE</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 rouleau de pâte brisée pur beurre</p>
+    <p>400 g de brousse (fromage frais) </p>
+    <p>80 g de sucre en poudre</p>
+    <p>20 g de farine</p>
+    <p>1/2 orange (non traitée) </p>
+    <p>1/2 citron (non traité) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une terrine, mélanger la brousse, le sucre et la farine. 
+    Ajouter les zeste et les jus d'orange et de citron. 
+    Bien mélanger. 
+    Etaler la pâte brisée dans un moule à tarte, puis y verser le mélange. 
+    Enfourner à four chaud (200°C, Th 7), pendant 20 mn.
+    Très facile, rapide, et délicieux ...
+  ]]>
+  </preparation>
+</recette>

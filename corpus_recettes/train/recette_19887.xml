@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19887">
+  <titre>Cake au chocolat au lait</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de farine</p>
+    <p>200 g de sucre</p>
+    <p>100 g de beurre</p>
+    <p>3 oeufs</p>
+    <p>1 dl de lait</p>
+    <p>6 g de levure alsacienne</p>
+    <p>120 g de chocolat noir</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 175°C. 
+    Dans un plat, mélanger la farine, le sucre et la levure. 
+    Séparer les jaunes des blancs d'oeufs. 
+    Ajouter les jaunes à la préparation puis battre le tout en versant le lait et le beurre fondu. 
+    Faire fondre le chocolat au bain-marie (ou encore au micro-ondes) puis l'intégrer à la pâte. 
+    Battre les blancs d'oeufs en neige avec une pincée de sel, puis mélanger délicatement à la pâte. 
+    Beurrer un moule à cake ou le couvrir de papier sulfurisé. Verser la pâte dans le moule puis mettre au four pendant une heure à 175°C.
+  ]]>
+  </preparation>
+</recette>

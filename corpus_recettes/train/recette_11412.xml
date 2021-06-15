@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11412">
+  <titre>Soupe au potiron</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de potiron</p>
+    <p>2 pommes de terre Bintje</p>
+    <p>2 gousses d'ail</p>
+    <p>persil, sel et poivre</p>
+    <p>10 cl de crème fraîche </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez le potiron et coupez-le en morceaux pas trop gros, épluchez les pommes de terre, lavez-les et coupez-les en morceaux.
+    Dans une cocotte, faites sauter le potiron et les pommes de terre dans du beurre. Ajoutez l'ail et le persil, salez au gros sel et poivrez, recouvrez d'eau et laissez cuire environ 25 min.
+    Mixez le potage. Servez avec de la crème fraîche.
+    Pour faire plus joli, servez dans le potiron que vous aurez évidé afin d'en prendre la chair.C'est déliciex lorqu'il fait froid.
+  ]]>
+  </preparation>
+</recette>

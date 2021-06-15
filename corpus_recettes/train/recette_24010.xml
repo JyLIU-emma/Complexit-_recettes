@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24010">
+  <titre>Flan aux mirabelles</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de mirabelles dénoyautées</p>
+    <p>20 g de beurre pour le moule</p>
+    <p>125 g de farine</p>
+    <p>4 oeufs</p>
+    <p>25 cl de lait</p>
+    <p>100 g de sucre</p>
+    <p>50 g de beurre</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Beurrer un moule rond en terre, disposez les mirabelles dénoyautées.
+    Dans un bol, mélanger énergiquement la farine, les oeufs et le sucre. Incorporer le lait tiède, le sel, le beurre fondu. Verser la prépartion sur les mirabelles.
+    Glisser le moule à four chaud pendant 35 à 40 mn. Laisser cuire. Saupoudrer de sucre glace et servir tiède.
+    Vous pouvez parfumer la préparation avec une cuillère à soupe d'eau-de-vie de mirabelle.
+  ]]>
+  </preparation>
+</recette>

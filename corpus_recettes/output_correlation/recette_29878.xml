@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29878">
+  <titre>Soufflé glacé aux noisettes</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>15 jaunes d'oeuf</p>
+    <p>500 g de sucre semoule</p>
+    <p>12,5 cl d'eau</p>
+    <p>1,5 l de crème fraîche liquide</p>
+    <p>200 g de noisettes entières</p>
+    <p>300 g de praliné en poudre</p>
+    <p>liqueur de noisette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille, mélanger les 15 jaunes d'oeuf avec 300 g de sucre semoule et 12,5 cl d'eau, puis faire cuire doucement au bain-marie environ 2h (le mélange doit prendre la consistance d'une crème épaisse).
+    Réserver au froid.
+    Faire une nougatine an faisant cuire au caramel 200 g de sucre semoule et 3 cuillères à soupe d'eau. Une fois le caramel fait, y ajouter les 200 g de noisettes entières, puis faire durcir sur une plaque huilée en l'étalant sur une épaisseur d'un centimètre.
+    Le lendemain, monter la crème fraîche comme une chantilly, y ajouter les oeufs cuits, le praliné et la nougatine préalablement hachée finement, ainsi qu'un peu de liqueur de noisette (mélanger délicatement).
+    Mettre la préparation dans un cercle de 8 cm de hauteur ou dans un moule à génoise et faire prendre 12h au congélateur.
+    Démouler au moment de servir en passant le moule sur une flamme et saupoudrer généreusement de chocolat amer en poudre.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  La veille, <OPER id="o_1">mélanger</OPER> les 15 <INGRED id="1">jaunes d'oeuf</INGRED> avec 300 g de <INGRED id="2">sucre semoule</INGRED> et 12,5 <INGRED id="2">cl</INGRED> d'<INGRED id="2">eau</INGRED>, puis faire <OPER id="o_2">cuire</OPER> doucement au bain - marie <INGRED id="1">environ</INGRED> 2h ( le <INGRED id="7">mélange</INGRED> doit <OPER id="o_3">prendre</OPER> la consistance d'une <INGRED id="5">crème épaisse</INGRED> ). Réserver au froid. Faire une nougatine an faisant <OPER id="o_4">cuire</OPER> au caramel 200 <INGRED id="2">g</INGRED> de <INGRED id="1">sucre semoule</INGRED> et 3 cuillères à <INGRED id="3">soupe</INGRED> d'eau. Une fois le caramel fait, y <OPER id="o_5">ajouter</OPER> les 200 <INGRED id="2">g</INGRED> de <INGRED id="5">noisettes entières</INGRED>, puis faire <OPER id="o_6">durcir</OPER> sur une plaque huilée en l'étalant sur une épaisseur d'un centimètre. Le lendemain, <OPER id="o_7">monter</OPER> la crème fraîche comme une chantilly, y <OPER id="o_8">ajouter</OPER> les <INGRED id="3">oeufs</INGRED> cuits, le <INGRED id="6">praliné</INGRED> et la nougatine préalablement hachée finement, ainsi qu'un peu de <INGRED id="7">liqueur de noisette</INGRED> ( <OPER id="o_9">mélanger</OPER> délicatement ). <OPER id="o_10">Mettre</OPER> la <INGRED id="4">préparation</INGRED> dans un cercle de 8 cm de hauteur ou dans un moule à génoise et <INGRED id="4">faire</INGRED> <OPER id="o_11">prendre</OPER> 12h au congélateur. <OPER id="o_12">Démouler</OPER> au moment de servir en passant le moule sur une flamme et <OPER id="o_13">saupoudrer</OPER> généreusement de <INGRED id="2">chocolat</INGRED> amer en <INGRED id="4">poudre</INGRED>.
+  </annotation>
+  <annotation methode="crf">
+  La veille <INGRED>,</INGRED> mélanger les 15 <INGRED>jaunes d'oeuf</INGRED> avec 300 <INGRED>g</INGRED> <INGRED>de sucre semoule</INGRED> et 12,5 cl d'<INGRED>eau</INGRED> <INGRED>,</INGRED> puis faire cuire doucement au bain - marie <INGRED>environ</INGRED> 2h ( le <INGRED>mélange</INGRED> doit prendre la consistance d'une <INGRED>crème</INGRED> épaisse ). Réserver au froid <INGRED>.</INGRED> Faire une nougatine an faisant cuire au <INGRED>caramel</INGRED> 200 <INGRED>g</INGRED> <INGRED>de sucre semoule</INGRED> et 3 <INGRED>cuillères à soupe</INGRED> d'<INGRED>eau</INGRED> <INGRED>.</INGRED> Une fois le <INGRED>caramel</INGRED> fait <INGRED>,</INGRED> y ajouter les 200 <INGRED>g</INGRED> de <INGRED>noisettes</INGRED> entières <INGRED>,</INGRED> puis faire durcir sur une plaque huilée en l'étalant sur une épaisseur d'un centimètre. Le lendemain <INGRED>,</INGRED> monter la <INGRED>crème fraîche</INGRED> comme une chantilly <INGRED>,</INGRED> y ajouter les <INGRED>oeufs</INGRED> cuits, le <INGRED>praliné</INGRED> et la nougatine préalablement hachée finement <INGRED>,</INGRED> ainsi qu'un peu de <INGRED>liqueur</INGRED> de noisette ( mélanger délicatement ). Mettre la préparation dans un cercle de 8 <INGRED>cm</INGRED> de hauteur <INGRED>ou</INGRED> dans un moule à génoise et faire prendre 12h au congélateur. Démouler au moment de servir en passant le <INGRED>moule</INGRED> sur une flamme et saupoudrer généreusement de <INGRED>chocolat</INGRED> amer en <INGRED>poudre</INGRED> <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 9.28571428571429*X + 3.71428571428571</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 15*X + 11</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:["jaunes d'oeuf", 'jaunes']	 id:1	 quantité:15	 unité:non_precis	 denombrable:True	 recipient:15*X
+ingredient:['sucre semoule', 'sucre']	 id:2	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['eau']	 id:3	 quantité:12,5	 unité:cl d'	 denombrable:False	 recipient:1
+ingredient:['crème fraîche liquide', 'crème']	 id:4	 quantité:1,5	 unité:l de	 denombrable:False	 recipient:1
+ingredient:['noisettes entières', 'noisettes']	 id:5	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['praliné en poudre', 'praliné']	 id:6	 quantité:300	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['liqueur de noisette', 'liqueur']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mélanger	 id:o_1	 ingrédients_ralatifs:['1', '2', '2', '2', '1', '7', '5']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:cuire	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:prendre	 id:o_3	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_4	 ingrédients_ralatifs:['2', '1', '3']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['2', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:durcir	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:monter	 id:o_7	 ingrédients_ralatifs:['3', '6', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['3', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mettre	 id:o_10	 ingrédients_ralatifs:['4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:prendre	 id:o_11	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:démouler	 id:o_12	 ingrédients_ralatifs:['2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saupoudrer	 id:o_13	 ingrédients_ralatifs:['2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

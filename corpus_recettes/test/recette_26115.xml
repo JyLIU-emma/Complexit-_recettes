@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26115">
+  <titre>Blettes mijotées au lard</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,5 kg de côtes de blettes</p>
+    <p>200 g de lard fumé</p>
+    <p>50 g de beurre</p>
+    <p>2 belles échalotes</p>
+    <p>15 cl de de bouillon</p>
+    <p>2 cuillères à soupe bien pleines de crème fraîche</p>
+    <p>1 cuillère à soupe de persil haché</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détaillez le lard en lardons et faites revenir dans le beurre pendant 10 minutes. Ajoutez les échalotes hachées, les blettes coupées en tronçons et mouillez de bouillon.
+    Couvrez et laissez mijoter 40 minutes.
+    Au moment de servir, incorporez la crème fraîche à la sauce et saupoudrez de persil.
+  ]]>
+  </preparation>
+</recette>

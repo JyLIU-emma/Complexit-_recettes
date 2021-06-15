@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26634">
+  <titre>Flan aux artichauts et légumes au jambon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de fonds d'artichauts</p>
+    <p>250 g de jambon cuit</p>
+    <p>200 g de haricots verts </p>
+    <p>200 g de carottes</p>
+    <p>100 g de crème fraîche</p>
+    <p>4 oeufs entiers + 3 blancs</p>
+    <p>1 filet de citron</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire séparément les carottes et les haricots verts à la vapeur pendant 15 min. 
+    Mixer les artichauts avec le jambon, les œufs et la crème fraîche. Assaisonner et verser un filet de citron. Incorporer délicatement les blancs d'œufs montés en neige. 
+    Beurrer une terrine et y verser les farce d'artichauts, de carottes et de haricots verts en superposant les couches. 
+    Enfourner à 150°C (thermostat 5) au bain-marie pendant 40 min.
+    Servir bien froid avec de la mayonnaise.
+  ]]>
+  </preparation>
+</recette>

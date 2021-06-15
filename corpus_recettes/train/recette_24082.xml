@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24082">
+  <titre>Epinards en beignets</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g d'épinards</p>
+    <p>50 g de farine</p>
+    <p>1 oeuf</p>
+    <p>5 cl de lait</p>
+    <p>1 petite cuillère à café d'huile</p>
+    <p>sel et poivre</p>
+    <p>huile de friture</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez la pâte à beignet en mélangeant la farine avec le lait, l'huile et les oeufs battus en omelette. Salez, poivrez.
+    Faites cuire les épinards à couvert dans une sauteuse puis pressez-les soigneusement afin d'extraire toute l'eau qu'ils contiennent.
+    Chauffez l'huile de friture.
+    Coupez grossièrement les épinards en morceaux et jetez-les par noix dans la pâte à beignet.
+    Plongez les boules d'épinards obtenues dans la friture et égouttez-les lorsqu'ils sont bien gonflés et dorés.
+    Accompagnez d'une poêlée de champignons et/ou de sauce tomate.
+  ]]>
+  </preparation>
+</recette>

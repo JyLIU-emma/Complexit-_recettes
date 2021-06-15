@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10671">
+  <titre>Coq au vin de Mme Maigret</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 coq</p>
+    <p>30 g de beurre</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>4 échalotes</p>
+    <p>2 carottes</p>
+    <p>2 gousses d'ail</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>5 cl d'eau de vie de prunelles</p>
+    <p>10 cl de bouillon de volaille</p>
+    <p>10 cl de Riesling</p>
+    <p>1 bouquet garni</p>
+    <p>sel, poivre</p>
+    <p>noix de muscade</p>
+    <p>1 jaune d'oeuf</p>
+    <p>10 cl de crème liquide</p>
+    <p>1 citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper le coq à cru.
+    Faire rissoler les morceaux dans moitié beurre, moitié huile et les retirer une fois colorés.
+    Dans la même cocotte faire revenir 2 carottes émincées, 4 échalotes hachées, 2 gousses d'ail écrasées, puis remettre les morceaux du coq.
+    Fariner légèrement.
+    Faire brunir et flamber à l'eau-de-vie de prunelles.
+    Mouiller d'1 dl de bouillon d'abattis et d'autant de Riesling. Ajouter un bouquet garni, sel et poivre, muscade râpée. Amener à ébullition.
+    Couvrir et cuire à feu doux trente à quarante minutes.
+    Retirer les morceaux de la volaille sur un plat chaud.
+    Passer la cuisson. Lier d'un jaune d'oeuf délayé dans un peu de crème fraîche sans laisser bouillir.
+    Ajouter un jus de citron. Réchauffer les morceaux de coq dans cette sauce, au bain-marie.
+    Au moment de servir, ajouter encore un soupçon de prunelle... d'Alsace, bien sûr !
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Découper</OPER> le <INGRED id="1">coq</INGRED> à cru. Faire <OPER id="o_2">rissoler</OPER> les morceaux dans moitié <INGRED id="12">beurre</INGRED>, moitié <INGRED id="10">huile</INGRED> et les <OPER id="o_3">retirer</OPER> une fois colorés. Dans la même cocotte faire <OPER id="o_4">revenir</OPER> 2 <INGRED id="5">carottes</INGRED> émincées, 4 <INGRED id="3">échalotes</INGRED> hachées, 2 gousses d'<INGRED id="3">ail</INGRED> écrasées, puis <OPER id="o_5">remettre</OPER> les morceaux du <INGRED id="1">coq</INGRED>. <OPER id="o_6">Fariner</OPER> légèrement. Faire <OPER id="o_7">brunir</OPER> et <OPER id="o_8">flamber</OPER> à l'eau-de-vie de prunelles. <OPER id="o_9">Mouiller</OPER> d'1 dl de <INGRED id="9">bouillon</INGRED> d'abattis et d'autant de <INGRED id="10">Riesling</INGRED>. <OPER id="o_10">Ajouter</OPER> un <INGRED id="9">bouquet garni</INGRED>, <INGRED id="7">sel</INGRED> et <INGRED id="10">poivre</INGRED>, muscade râpée. <OPER id="o_11">Amener</OPER> à ébullition. <OPER id="o_12">Couvrir</OPER> et <OPER id="o_13">cuire</OPER> à feu doux trente à quarante minutes. <OPER id="o_14">Retirer</OPER> les morceaux de la volaille sur un plat chaud. <OPER id="o_15">Passer</OPER> la cuisson. <OPER id="o_16">Lier</OPER> d'un <INGRED id="15">jaune d'oeuf</INGRED> délayé dans un peu de <INGRED id="7">crème fraîche</INGRED> sans laisser <OPER id="o_17">bouillir</OPER>. <OPER id="o_18">Ajouter</OPER> un <INGRED id="13">jus de citron</INGRED>. <OPER id="o_19">Réchauffer</OPER> les morceaux de <INGRED id="1">coq</INGRED> dans cette <INGRED id="5">sauce</INGRED>, au bain - marie. Au moment de servir, <OPER id="o_20">ajouter</OPER> encore un soupçon de prunelle... d'Alsace, bien sûr !
+  </annotation>
+  <annotation methode="crf">
+  Découper le <INGRED>coq</INGRED> à cru. Faire rissoler les <INGRED>morceaux</INGRED> dans moitié <INGRED>beurre</INGRED> <INGRED>,</INGRED> moitié <INGRED>huile</INGRED> et les retirer une fois colorés. Dans la même cocotte faire revenir 2 <INGRED>carottes émincées</INGRED> <INGRED>,</INGRED> 4 <INGRED>échalotes</INGRED> <INGRED>hachées</INGRED> <INGRED>,</INGRED> 2 gousses d'<INGRED>ail</INGRED> écrasées <INGRED>,</INGRED> puis remettre les <INGRED>morceaux</INGRED> du <INGRED>coq</INGRED> <INGRED>.</INGRED> Fariner légèrement <INGRED>.</INGRED> Faire brunir et flamber à l'eau-de-vie de prunelles. Mouiller d'1 dl de <INGRED>bouillon d'abattis</INGRED> et d'autant de Riesling. Ajouter un <INGRED>bouquet garni</INGRED> <INGRED>,</INGRED> <INGRED>sel</INGRED> et <INGRED>poivre</INGRED> <INGRED>,</INGRED> <INGRED>muscade râpée</INGRED>. Amener à ébullition <INGRED>.</INGRED> Couvrir et cuire à feu doux trente à quarante minutes. Retirer les <INGRED>morceaux</INGRED> de la volaille sur un plat chaud <INGRED>.</INGRED> Passer la cuisson. Lier d'un <INGRED>jaune d'oeuf</INGRED> délayé dans un peu de <INGRED>crème fraîche</INGRED> sans laisser bouillir <INGRED>.</INGRED> Ajouter un <INGRED>jus de citron</INGRED> <INGRED>.</INGRED> Réchauffer les <INGRED>morceaux</INGRED> de <INGRED>coq</INGRED> dans cette <INGRED>sauce</INGRED> <INGRED>,</INGRED> au bain - marie <INGRED>.</INGRED> Au moment de servir <INGRED>,</INGRED> ajouter encore un soupçon de prunelle... d'Alsace <INGRED>,</INGRED> bien sûr !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 13.3333333333333*X + 6.66666666666667</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 16*X + 14</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['coq']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['beurre']	 id:2	 quantité:30	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['huile']	 id:3	 quantité:3	 unité:cuillères à soupe d'	 denombrable:True	 recipient:3*X
+ingredient:['échalotes']	 id:4	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['carottes']	 id:5	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['ail']	 id:6	 quantité:2	 unité:gousses d'	 denombrable:True	 recipient:2*X
+ingredient:['farine']	 id:7	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['eau de vie de prunelles', 'eau']	 id:8	 quantité:5	 unité:cl d'	 denombrable:False	 recipient:1
+ingredient:['bouillon de volaille', 'bouillon']	 id:9	 quantité:10	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['Riesling']	 id:10	 quantité:10	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['bouquet garni', 'bouquet']	 id:11	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:13	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['noix de muscade', 'noix']	 id:14	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["jaune d'oeuf", 'jaune']	 id:15	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['crème liquide', 'crème']	 id:16	 quantité:10	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['citron']	 id:17	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:découper	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1*X*1	 recipient:1
+operation:rissoler	 id:o_2	 ingrédients_ralatifs:['12', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:revenir	 id:o_4	 ingrédients_ralatifs:['5', '3', '3', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:remettre	 id:o_5	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:fariner	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:brunir	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:flamber	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mouiller	 id:o_9	 ingrédients_ralatifs:['9', '10']	 nombre_opération_atomique:1	 temps:3	 recipient:0
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:['9', '7', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:amener	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:retirer	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:passer	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:lier	 id:o_16	 ingrédients_ralatifs:['15', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:bouillir	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_18	 ingrédients_ralatifs:['13']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:réchauffer	 id:o_19	 ingrédients_ralatifs:['1', '5']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173679">
+  <titre>Aumonière crevette-ananas au lait de coco</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 feuilles de bricks</p>
+    <p>10 grosses crevettes décortiquées</p>
+    <p>1 ananas</p>
+    <p>20 cl de lait de coco</p>
+    <p>20 g de beurre</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>un peu de maïzena ou de sauceline</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (thermostat 7).Beurrer les feuilles de briques et les disposer en aumônière.
+    Les nouer avec une ficelle de manière à laisser un large trou au milieu.
+    Les passer au four 10 min à 210°C.Ensuite, éplucher et trancher l'ananas puis le découper en cubes. Les faire revenir dans une poêle avec 10 g de beurre puis réserver.
+    Faire fondre 10 g de beurre dans une poêle et saisir les crevettes décortiquées avec le jus de l'ananas.(en garder pour la décoration).Dans une casserole faire chauffer le lait de coco et ajouter un peu de maïzena ou de sauceline pour l'épaissir.
+    Sortir du four les feuilles de briques, retirer la ficelle et les fourrer avec la préparation ananas et crevettes.
+    Remplir de la sauce au lait de coco préalablement assaisonnée (sel et poivre).Disposer quelques crevettes à côté des aumônières.C'est délicieux, on peut remplacer le lait de coco par une crème anglaise à la mandarine. Bon appétit !
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Préchauffer</OPER> le four à 210 ° C ( thermostat <OPER id="o_2">7).Beurrer</OPER> les <INGRED id="4">feuilles</INGRED> de briques et les <OPER id="o_3">disposer</OPER> en aumônière. Les <OPER id="o_4">nouer</OPER> avec une ficelle de manière à laisser un large trou au milieu. Les <OPER id="o_5">passer</OPER> au four 10 min à 210 ° C.Ensuite, <OPER id="o_6">éplucher</OPER> et <OPER id="o_7">trancher</OPER> l'<INGRED id="3">ananas</INGRED> puis le <OPER id="o_8">découper</OPER> en cubes. Les <INGRED id="4">faire</INGRED> <OPER id="o_9">revenir</OPER> dans une poêle avec 10 <INGRED id="1">g</INGRED> de beurre puis réserver. Faire <OPER id="o_10">fondre</OPER> 10 <INGRED id="4">g</INGRED> de <INGRED id="5">beurre</INGRED> dans une poêle et <OPER id="o_11">saisir</OPER> les <INGRED id="4">crevettes décortiquées</INGRED> avec le <INGRED id="6">jus</INGRED> de l'ananas.(en <OPER id="o_12">garder</OPER> pour la décoration).Dans une casserole <INGRED id="4">faire</INGRED> <OPER id="o_13">chauffer</OPER> le <INGRED id="4">lait de coco</INGRED> et <OPER id="o_14">ajouter</OPER> un peu de <INGRED id="8">maïzena ou de sauceline</INGRED> pour l'épaissir. <OPER id="o_15">Sortir</OPER> du four les <INGRED id="4">feuilles</INGRED> de briques, <OPER id="o_16">retirer</OPER> la ficelle et les <OPER id="o_17">fourrer</OPER> avec la <INGRED id="4">préparation</INGRED> ananas et crevettes. <OPER id="o_18">Remplir</OPER> de la sauce au <INGRED id="4">lait de coco</INGRED> préalablement assaisonnée ( <INGRED id="8">sel</INGRED> et poivre).Disposer quelques <INGRED id="3">crevettes</INGRED> à côté des aumônières. C'est délicieux, on peut <OPER id="o_19">remplacer</OPER> le <INGRED id="4">lait de coco</INGRED> par une crème anglaise à la mandarine. Bon appétit !
+  </annotation>
+  <annotation methode="crf">
+  Préchauffer le four à 210 ° C ( thermostat 7).Beurrer les feuilles de briques et les disposer en aumônière. Les nouer avec une ficelle de manière à laisser un large trou au milieu <INGRED>.</INGRED> Les passer au four 10 min à 210 ° C.Ensuite <INGRED>,</INGRED> éplucher et trancher l'<INGRED>ananas</INGRED> puis le découper en cubes <INGRED>.</INGRED> Les faire revenir dans une poêle avec 10 <INGRED>g</INGRED> de <INGRED>beurre</INGRED> puis réserver <INGRED>.</INGRED> Faire fondre 10 <INGRED>g</INGRED> de <INGRED>beurre</INGRED> dans une poêle et saisir les <INGRED>crevettes</INGRED> décortiquées avec le <INGRED>jus</INGRED> de l'ananas.(en garder pour la décoration).Dans une casserole faire chauffer le <INGRED>lait de coco</INGRED> et ajouter un peu de <INGRED>maïzena</INGRED> <INGRED>ou</INGRED> de sauceline pour l'épaissir <INGRED>.</INGRED> Sortir du four les feuilles de briques <INGRED>,</INGRED> retirer la ficelle et les fourrer avec la préparation ananas et <INGRED>crevettes</INGRED> <INGRED>.</INGRED> Remplir de la <INGRED>sauce</INGRED> au <INGRED>lait</INGRED> de coco préalablement assaisonnée ( <INGRED>sel</INGRED> et poivre).Disposer quelques <INGRED>crevettes</INGRED> à côté des aumônières. C'est délicieux <INGRED>,</INGRED> on peut remplacer le <INGRED>lait</INGRED> de coco par une <INGRED>crème anglaise</INGRED> à la mandarine. Bon appétit !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 15.0416666666667*X + 3.95833333333333</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 19*X + 11</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['bricks']	 id:1	 quantité:8	 unité:feuilles de	 denombrable:True	 recipient:8*X
+ingredient:['crevettes décortiquées', 'crevettes']	 id:2	 quantité:10	 unité:non_precis	 denombrable:True	 recipient:10*X
+ingredient:['ananas']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['lait de coco', 'lait']	 id:4	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:5	 quantité:20	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['maïzena ou de sauceline', 'maïzena']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préchauffer	 id:o_1	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:7).beurrer	 id:o_2	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:nouer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:passer	 id:o_5	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:éplucher	 id:o_6	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1*X*1	 recipient:0
+operation:trancher	 id:o_7	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:découper	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:revenir	 id:o_9	 ingrédients_ralatifs:['4', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:fondre	 id:o_10	 ingrédients_ralatifs:['4', '5', '4', '6']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:saisir	 id:o_11	 ingrédients_ralatifs:['4', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garder	 id:o_12	 ingrédients_ralatifs:['4', '5', '4', '6', '4', '4', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_13	 ingrédients_ralatifs:['4', '4', '8']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:ajouter	 id:o_14	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:sortir	 id:o_15	 ingrédients_ralatifs:['4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fourrer	 id:o_17	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remplir	 id:o_18	 ingrédients_ralatifs:['4', '8', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:remplacer	 id:o_19	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

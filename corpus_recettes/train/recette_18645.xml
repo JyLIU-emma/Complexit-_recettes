@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18645">
+  <titre>Marmelade de pêches au melon</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de pêches dénoyautées</p>
+    <p>500 g de melon en dés</p>
+    <p>1,250 kg de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Garder une dizaine de noyaux de pêches pour en extraire les amandes. 
+    Mettre les fruits à macérer 10 h avec le sucre. 
+    Porter le mélange à ébullition, laisser cuire à feu très doux, en remuant de temps en temps. 
+    La marmelade est prête lorsque les fruits sont devenus translucides et le jus épais.
+    C'est une recette de marmelade mais elle doit pouvoir être adaptée en confiture.
+  ]]>
+  </preparation>
+</recette>

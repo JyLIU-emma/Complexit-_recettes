@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16611">
+  <titre>Keftas à la tunisienne</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 pommes de terre</p>
+    <p>1 oignon</p>
+    <p>1/2 botte de persil</p>
+    <p>100g de viande hachée</p>
+    <p>2 oeufs</p>
+    <p>100 g de chapelure</p>
+    <p>1 c à soupe de tomate concentrée</p>
+    <p>1 pincée de sel et de poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les pommes de terre et les faire cuire à l'eau.
+    Eplucher l'oignons et le couper en dés.
+    Faire revenir la viande hachée.
+    Hacher le persil.
+    Mélanger la viande, les pommes de terre écrasées, le persil l'oignon. 
+    Y ajouter la chapelure. 
+    Bien malaxer pour faire une purée. 
+    Ajouter les oeufs, le concentré de tomate et bien mélanger (il faut que cela face une pâte moelleuse).
+    Faire chauffer de l'huile dans une poêle.
+    Quand l'huile est assez chaude prendre un peu de la pâte, la rouler dans la main, l'aplatir comme une galette et la mettre dans l'huile. 
+    Faire dorer.
+    Laisser reposer une minute puis déguster (se mange chaud ou tiède).
+    Si la pâte colle un peu trop dans la main on peut la mouiller avec un peu d'eau.
+  ]]>
+  </preparation>
+</recette>

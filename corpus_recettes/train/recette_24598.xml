@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24598">
+  <titre>Kedgeree</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g riz basmati</p>
+    <p>300 g haddock</p>
+    <p>80 g beurre</p>
+    <p>1 jaune d'oeuf</p>
+    <p>muscade </p>
+    <p>1 cuillère à soupe de curry</p>
+    <p>sel et poivre</p>
+    <p>persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire le riz. 
+    Cuire le haddock dans un mélange eau-lait. 
+    Dans une casserole, mettre le beurre et le riz, le haddock en morceaux, le jaune d'oeuf, le curry, la muscade et le persil. 
+    Saler (un peu) et poivrer. 
+    Faire réchauffer et servir brûlant.
+  ]]>
+  </preparation>
+</recette>

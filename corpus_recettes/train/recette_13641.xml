@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13641">
+  <titre>Duc blanc</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 blancs d'oeuf  </p>
+    <p>140 g de sucre </p>
+    <p>100 g de farine </p>
+    <p>50 g de beurre fondu </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger d'abord les blancs battus en neige ferme avec le sucre pendant quelques minutes.Y ajouter le beurre fondu (pas brun) puis la farine.
+    Mettre au four pas trop chaud et surveiller (cuisinière électrique : thermostat 5). La cuisson dure 30 minutes environ.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26498">
+  <titre>Poulet aux citrons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 blancs de poulet</p>
+    <p>3 oignons</p>
+    <p>250 ml de crème fraîche</p>
+    <p>2 citrons</p>
+    <p>beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire mariner les blancs de poulet dans le jus des citrons pendans 1 heure. 
+    Emincer les oignons et les faire revenir dans une poêle avec le beurre. Les retirer et les mettre de côté. 
+    Emincer les blancs de poulet d'un centimètre environ dans la même poêle, sans le jus de citron. (Ajouter un peu de beurre si nécessaire). 
+    A la fin de la cuisson verser le jus des citrons, la crème fraîche et les oignons. Saler et poivrer. 
+    Laisser cuire sur feu doux pendant quelques minutes pour lier les ingrédients.
+    Vous pouvez l'accompagner avec du riz, des pâtes, pommes de terre à la vapeur etc...
+  ]]>
+  </preparation>
+</recette>

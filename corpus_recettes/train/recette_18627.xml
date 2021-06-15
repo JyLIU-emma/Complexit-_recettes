@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18627">
+  <titre>Omelette d'automne</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>une boîte de haricots verts</p>
+    <p>3 oeufs</p>
+    <p>1 yaourt blanc</p>
+    <p>tomates concassées</p>
+    <p>ciboulette, sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer l'omelette avec une cuillère à soupe de yaourt. Mettre la ciboulette, le sel, le poivre. 
+    Préparer dans une poêle, les haricots avec les tomates concassées. 
+    Lorsque cela frémit y ajouter l'omelette, mélanger, couvrir et baisser le feu. 
+    Vous pouvez servir quand l'omelette est un peu crémeuse sur le dessus.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="112783">
+  <titre>Mousseline de saumon fumé façon tulipe</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>125 gr de saumon fumé (j'ai utilisé des chutes)</p>
+    <p>4 feuilles de brick</p>
+    <p>1 bel avocat bien mûr</p>
+    <p>25 cl de crème fraîche liquide</p>
+    <p>3 tomates séchées au soleil</p>
+    <p>1 citron vert</p>
+    <p>2 c.à s. de Riesling</p>
+    <p>1 feuille de gélatine</p>
+    <p>1 c.à s. de 5 baies</p>
+    <p>quelques brins d'aneth</p>
+    <p>quelques brins de ciboulette</p>
+    <p>crevettes cuites décortiquées (pour la déco)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1- Chemisez les feuilles de brick dans des moules tulipes, découper autour des bords pour qu'elles aient la même taille que les moules. Faites cuire à blanc pendant 5-10 minutes TH4/5 jusqu'à ce que les feuille soient dorées. Retirez les du four (autrement elles risquent de continuer à cuire avec la chaleur. Réservez.2- Dans un mixer, mettre le saumon fumé, les herbes, le jus du citron vert, le Riesling et mixez jusqu'à obtenir une purée bien lisse et bien épaisse.3- Battez la crême fraîche afin de la rendre bien mousseuse et plus épaisse (pour ceux qui ne veulent pas utiliser de gélatine, montez la carrément en chantilly, ajouter le saumon, les tomates et laisser reposer). Ajoutez à  la crème la purée de saumon, les tomates séchées préalablement coupées en dés. 4- Faire chauffer la crème au saumon (à ne surtout pas faire si vous faites la méthode sans gélatine) tout doucement et une fois chaude (elle doit encore être très mousseuse) y incorporer la feuille gélatine préalablement trempée dans l'eau froide et égouttée.5- Laissez prendre la mousseline au frigo (ou sur un rebord de fenêtre en hiver)pendant au moins une heure, la mousseline devrait avoir durcie.6- Juste avant de servir, découpez l'avocat en petit dés et répartissez le dans le fond des quatre "tulipes". A l'aide d'une poche à douille (pour que ça soit plus propre comme présentation)recouvrir les dés d'avocat de mousseline.7- Plantez une chips à la crevette au milieu de la tulipe, décorez avec les crevettes (voir photo) et servez aussitôt.J'ai fait cette entrée pour Noël et elle s'est avérée assez légère (ne pas trop remplir les tulipes de mousseline). je l'ai servie avec du pain de compagne toasté mais les invités se sont servis de la feuille de brick à la place du pain.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  1- <OPER id="o_1">Chemisez</OPER> les feuilles de <INGRED id="2">brick</INGRED> dans des moules tulipes, <OPER id="o_2">découper</OPER> autour des bords pour qu'elles aient la même taille que les <INGRED id="2">moules</INGRED>. Faites <OPER id="o_3">cuire</OPER> à <INGRED id="1">blanc</INGRED> pendant 5 - 10 minutes TH4/5 jusqu'à ce que les feuille soient dorées. <OPER id="o_4">Retirez</OPER> les du four ( autrement elles risquent de <OPER id="o_5">continuer</OPER> à <OPER id="o_6">cuire</OPER> avec la chaleur. Réservez.2- Dans un mixer, <OPER id="o_7">mettre</OPER> le saumon fumé, les <INGRED id="5">herbes</INGRED>, le <INGRED id="2">jus</INGRED> du <INGRED id="6">citron vert</INGRED>, le <INGRED id="7">Riesling</INGRED> et mixez jusqu'à obtenir une purée bien lisse et bien épaisse.3- <OPER id="o_8">Battez</OPER> la crême fraîche afin de la <OPER id="o_9">rendre</OPER> bien mousseuse et plus épaisse ( pour ceux qui ne veulent pas <OPER id="o_10">utiliser</OPER> de <INGRED id="8">gélatine</INGRED>, <OPER id="o_11">montez</OPER> la carrément en chantilly, <OPER id="o_12">ajouter</OPER> le <INGRED id="1">saumon</INGRED>, les <INGRED id="3">tomates</INGRED> et laisser <OPER id="o_13">reposer</OPER> ). <OPER id="o_14">Ajoutez</OPER> à la crème la purée de <INGRED id="2">saumon</INGRED>, les <INGRED id="2">tomates</INGRED> séchées préalablement coupées en <INGRED id="4">dés</INGRED>. 4- Faire <OPER id="o_15">chauffer</OPER> la crème au saumon ( à ne surtout pas faire si vous faites la méthode sans <INGRED id="8">gélatine</INGRED> ) tout doucement et une fois chaude ( elle doit encore être très mousseuse ) y <OPER id="o_16">incorporer</OPER> la feuille <INGRED id="8">gélatine</INGRED> préalablement trempée dans l'<INGRED id="8">eau</INGRED> froide et égouttée.5- Laissez <OPER id="o_17">prendre</OPER> la mousseline au frigo ( ou sur un rebord de fenêtre en hiver)pendant au moins une heure, la mousseline devrait <OPER id="o_18">avoir</OPER> durcie.6- Juste avant de servir, <OPER id="o_19">découpez</OPER> l'avocat en petit <INGRED id="3">dés</INGRED> et <OPER id="o_20">répartissez</OPER> le dans le fond des <INGRED id="2">quatre</INGRED> " tulipes ". A l'aide d'une poche à douille ( pour que ça soit plus propre comme <OPER id="o_21">présentation)recouvrir</OPER> les <INGRED id="4">dés</INGRED> d'avocat de mousseline.7- <OPER id="o_22">Plantez</OPER> une chips à la crevette au milieu de la tulipe, <OPER id="o_23">décorez</OPER> avec les crevettes ( <OPER id="o_24">voir</OPER> photo ) et servez aussitôt. J'ai fait cette entrée pour Noël et elle s'est avérée assez légère ( ne pas trop <OPER id="o_25">remplir</OPER> les tulipes de mousseline ). je l'ai servie avec du <INGRED id="1">pain</INGRED> de compagne toasté mais les invités se sont servis de la feuille de <INGRED id="2">brick</INGRED> à la place du <INGRED id="1">pain</INGRED>.
+  </annotation>
+  <annotation methode="crf">
+  1- Chemisez les feuilles de <INGRED>brick</INGRED> dans des moules tulipes <INGRED>,</INGRED> découper autour des bords pour qu'elles aient la même taille que les <INGRED>moules</INGRED> <INGRED>.</INGRED> Faites cuire à <INGRED>blanc</INGRED> pendant 5 - 10 minutes TH4/5 jusqu'à ce que les feuille soient dorées <INGRED>.</INGRED> Retirez les du four ( autrement elles risquent de continuer à cuire avec la chaleur. Réservez.2- Dans un mixer <INGRED>,</INGRED> mettre le <INGRED>saumon fumé</INGRED> <INGRED>,</INGRED> les <INGRED>herbes</INGRED> <INGRED>,</INGRED> le <INGRED>jus</INGRED> du <INGRED>citron</INGRED> vert <INGRED>,</INGRED> le Riesling et mixez jusqu'à obtenir une <INGRED>purée</INGRED> bien lisse et bien épaisse.3- Battez la crême fraîche afin de la rendre bien mousseuse et plus épaisse ( pour ceux qui ne veulent pas utiliser de <INGRED>gélatine</INGRED> <INGRED>,</INGRED> montez la carrément en chantilly <INGRED>,</INGRED> ajouter le <INGRED>saumon</INGRED> <INGRED>,</INGRED> les <INGRED>tomates</INGRED> et laisser reposer ). Ajoutez à la <INGRED>crème</INGRED> la <INGRED>purée</INGRED> de saumon <INGRED>,</INGRED> les <INGRED>tomates</INGRED> séchées préalablement <INGRED>coupées</INGRED> en dés <INGRED>.</INGRED> 4- Faire chauffer la <INGRED>crème</INGRED> au saumon ( à ne surtout pas faire si vous faites la méthode sans gélatine ) tout doucement et une fois chaude ( elle doit encore être très mousseuse ) y incorporer la feuille gélatine préalablement trempée dans l'<INGRED>eau</INGRED> froide et égouttée.5- Laissez prendre la mousseline au frigo ( <INGRED>ou</INGRED> sur un rebord de fenêtre en hiver)pendant au moins une heure <INGRED>,</INGRED> la mousseline devrait avoir durcie.6- Juste avant de servir <INGRED>,</INGRED> découpez l'<INGRED>avocat</INGRED> en <INGRED>petit</INGRED> dés et répartissez le dans le <INGRED>fond</INGRED> des <INGRED>quatre</INGRED> " tulipes ". A l'aide d'une <INGRED>poche</INGRED> à douille ( pour que ça soit plus propre comme présentation)recouvrir les dés d'avocat de mousseline.7- Plantez une chips à la crevette au milieu de la tulipe <INGRED>,</INGRED> décorez avec les <INGRED>crevettes</INGRED> ( voir <INGRED>photo</INGRED> ) et servez aussitôt. J'ai fait cette entrée pour Noël et elle s'est avérée assez légère ( ne pas trop remplir les tulipes de mousseline ). je l'ai servie avec du <INGRED>pain</INGRED> de compagne toasté mais les invités se sont servis de la feuille de brick à la place du <INGRED>pain</INGRED>.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 22.4090909090909*X + 6.59090909090909</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 17*X + 13</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['saumon fumé', 'saumon']	 id:1	 quantité:125	 unité:gr de	 denombrable:False	 recipient:1
+ingredient:['brick']	 id:2	 quantité:4	 unité:feuilles de	 denombrable:True	 recipient:4*X
+ingredient:['avocat bien mûr', 'avocat']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['crème fraîche liquide', 'crème']	 id:4	 quantité:25	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['tomates séchées au soleil', 'tomates']	 id:5	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['citron vert', 'citron']	 id:6	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['Riesling']	 id:7	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['gélatine']	 id:8	 quantité:1	 unité:feuille de	 denombrable:True	 recipient:1*X
+ingredient:['baies']	 id:9	 quantité:5	 unité:non_precis	 denombrable:True	 recipient:5*X
+ingredient:['aneth']	 id:10	 quantité:non_precis	 unité:brins d'	 denombrable:False	 recipient:1
+ingredient:['ciboulette']	 id:11	 quantité:non_precis	 unité:brins de	 denombrable:False	 recipient:1
+ingredient:['crevettes cuites décortiquées', 'crevettes']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:chemiser	 id:o_1	 ingrédients_ralatifs:['2', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:découper	 id:o_2	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:4*X*1	 recipient:1
+operation:cuire	 id:o_3	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:retirer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:continuer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:mettre	 id:o_7	 ingrédients_ralatifs:['5', '2', '6', '7', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:battre	 id:o_8	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rendre	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:utiliser	 id:o_10	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:monter	 id:o_11	 ingrédients_ralatifs:['5', '2', '6', '7', '8', '1', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:['1', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:ajouter	 id:o_14	 ingrédients_ralatifs:['2', '2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_15	 ingrédients_ralatifs:['8', '8', '8']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:incorporer	 id:o_16	 ingrédients_ralatifs:['8', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:prendre	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:avoir	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:découper	 id:o_19	 ingrédients_ralatifs:['3', '2']	 nombre_opération_atomique:1*X+4*X	 temps:1*X*1+4*X*1	 recipient:1
+operation:répartir	 id:o_20	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:présentation)recouvrir	 id:o_21	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:planter	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:décorer	 id:o_23	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:voir	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remplir	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

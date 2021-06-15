@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25476">
+  <titre>Pâte à pizza traditionnelle</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>10 g de levure fraîche du boulanger</p>
+    <p>10 cl d'eau tiède</p>
+    <p>160 g de farine</p>
+    <p>3 cl d'huile d'olive</p>
+    <p>1/2 cuillère à café de sel fin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la levure dans un peu d'eau à 20°C.
+    Tamiser la farine et la placer en puits sur le plan de travail. Déposer au centre l'huile et la levure.
+    Pétrir du bout de doigts puis malaxer énergiquement avec la paumes des mains afin de l'étirer. Fariner le plan de travail à mesure que la pâte s'étale.
+    Travailler pendant 10 min pour obtenir une boule souple qui n'attache pas.
+    Mettre dans un bol fariné et recouvert d'un linge et laisser reposer entre 24 et 25 °C pendant 1 à 2 h pour faire doubler le volume de pâte.
+    Partager la pâte en le nombre de pizzas à préparer.
+    Etirer la pâte après s'être fariné les mains et l'écraser. Terminer au rouleau à pâtisserie pour avoir une épaisseur de 0,5 cm.
+    Sur une plaque recouverte de papier cuisson, étirer du centre vers les bords pour amincir le milieu de la pizza.
+    Appliquer au pinceau un peu d'huile sur le dessus et disposer la garniture voulue en prenant soin de laisser des bords de'environ 2,5 cm.
+  ]]>
+  </preparation>
+</recette>

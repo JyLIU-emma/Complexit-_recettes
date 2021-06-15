@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25112">
+  <titre>Salade de roquette au parmesan et pignons</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de roquette</p>
+    <p>1 morceau de parmesan de 50 g</p>
+    <p>pignons ou noix à volonté</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer la roquette. Y ajouter dans un saladier des lamelles de parmesan (faciles à faire avec un économe). Mettre des pignons ou des noix. 
+    Arroser d'une vinaigrette classique faite avec du vinaigre balsamique. 
+    En été, on peut rajouter des lamelles de melon, c'est délicieux.
+  ]]>
+  </preparation>
+</recette>

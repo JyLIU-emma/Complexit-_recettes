@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15299">
+  <titre>Pancakes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>30 g de sucre</p>
+    <p>2 œufs</p>
+    <p>1 sachet de levure traditionnelle</p>
+    <p>65 g de beurre</p>
+    <p>1 pincée de sel</p>
+    <p>30 cl de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prévoir 1 h de repos.
+    Mettez la farine, la levure et le sucre dans un saladier. Rajoutez ensuite les œufs entiers et mélangez.
+    Ajoutez ensuite le beurre que vous aurez préalablement fait fondre, puis délayez progressivement le mélange avec le lait afin d'éviter les grumeaux.
+    Laissez reposer au minimum 1h au réfrigérateur.
+    Faire cuire comme des crêpes, mais en les faisant plus petites.
+    Ce plat est supposé être dégusté au petit déjeuner mais convient aussi comme dessert.
+    Les pancakes sont traditionnellement accommodés avec du sirop d'érable et une noix de beurre mais rien n'empêche de les dévorer au sucre, au jus de citron ou au nutella.
+  ]]>
+  </preparation>
+</recette>

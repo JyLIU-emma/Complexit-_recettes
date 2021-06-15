@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22734">
+  <titre>Tarte Normande amandine</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>120 g de beurre</p>
+    <p>240 g farine</p>
+    <p>5 cuillères à soupe d'eau</p>
+    <p>6 grosses pommes</p>
+    <p>30 g de beurre pour faire revenir les pommes</p>
+    <p>cannelle, sucre vanilléPour l'amandine:</p>
+    <p>50 g sucre</p>
+    <p>50 g poudre d'amande</p>
+    <p>1 poignée amandes effilées</p>
+    <p>1 oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez, coupez et émincez les pommes. Les faire revenir dans le beurre avec la cannelle et le sucre vanillé pendant 4 mn en remuant. 
+    Faire fondre le beurre avec l'eau et y jetez la farine. Remuez énergiquement. Etalez cette pâte dans le moule à tarte. Etalez les pommes dessus. Mettre à four chaud Th 6 ou 180°C , pendant 30 mn. 
+    Préparez l'amandine en battant l'oeuf avec la poudre d'amande. Etalez sur les pommes et parsemez d'amandes effilées. 
+    Ré-enfournez 15 mn: le dessus doit être pris et doré.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17672">
+  <titre>Poisson aux crevettes et aux olives</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>120 g poisson (darne de cabillaud ou saumon) </p>
+    <p>1-2 pommes de terre</p>
+    <p>50 g crevettes cuites</p>
+    <p>1 belle tomate</p>
+    <p>4-6 olives noires</p>
+    <p>1 cuillère à café de ciboulette hachée</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les pommes de terre, les tailler en petits cubes et les cuire à feu doux 10 mn environ. 
+    Ajouter la tomate pelée et coupée en 4 et le poisson coupé en dés. Saler poivrer. laisser cuire encore 10 mn. 
+    Ajouter les crevettes et les olives, réchauffer. 
+    Saupoudrer de ciboulette hachée avant de servir.
+  ]]>
+  </preparation>
+</recette>

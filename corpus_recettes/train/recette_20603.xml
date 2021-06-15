@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20603">
+  <titre>Oeufs à l'Alexandrine (Recette égyptienne)</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 oeufs durs</p>
+    <p>1 verre de purée de tomate</p>
+    <p>1/2 verre d'eau</p>
+    <p>2 cuillères à soupe de beurre</p>
+    <p>3 cuillères à soupe d'oignon haché</p>
+    <p>1 cuillère à soupe de persil</p>
+    <p>sel poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire dorer dans une poêle l'oignon et le beurre. 
+    Incorporer la purée de tomate. 
+    Ajouter l'eau, le persil, le sel et le poivre. 
+    Remuer et laisser bouillir 4 mn. 
+    Ajouter les oeufs durs. 
+    Laisser sur feu doux pendant 5 mn en remuant. 
+    Retirer les oeufs. 
+    Les couper en deux dans le sens de la longueur. 
+    Les placer sur un plat. 
+    Assaisonner avec la sauce. 
+    Servir chaud.
+  ]]>
+  </preparation>
+</recette>

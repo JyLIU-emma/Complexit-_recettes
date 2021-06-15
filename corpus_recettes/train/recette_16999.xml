@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16999">
+  <titre>Marmite de l'ouest</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 cuillères à soupe d'huile </p>
+    <p>750 g de boeuf à braiser</p>
+    <p>3 gousses d'ail</p>
+    <p>2 gros oignons</p>
+    <p>2 poivrons verts</p>
+    <p>1 poivron rouge</p>
+    <p>1 piment vert</p>
+    <p>1 petite boîte de concentré de tomates</p>
+    <p>1 cuillère à café de cumin en poudre</p>
+    <p>2 pincées de piment de cayenne en poudre</p>
+    <p>500 g de haricots rouges en boîte</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 150°C (thermostat 5), faire chauffer l'huile dans une cocotte allant au four. Y faire revenir 10 mn la viande coupée en morceaux de 3 cm de côté en la retournant souvent.
+    Ajouter l'ail écrasé, les oignons coupés en petits quartiers, les poivrons coupés en dés, le piment émincé, le concentré de tomates, le cumin, le piment de cayenne, ainsi que 10 cl d'eau. Saler puis mélanger.
+    Amener à petits frémissements sur feu moyen. Couvrir et enfourner 45 mn.
+    Ajouter les haricots soigneusement égouttés. Mélanger. Enfourner à nouveau 15 mn.
+    Rectifier l'assaisonnement, puis servir aussitôt très chaud dans la marmite de cuisson.
+    On peut remplacer le boeuf par de l'échine de porc désossée: cela donne également un excellent mariage.
+  ]]>
+  </preparation>
+</recette>

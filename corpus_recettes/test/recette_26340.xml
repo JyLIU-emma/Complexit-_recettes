@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26340">
+  <titre>Tarte à la purée, chèvre et menthe</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>1 kg de pommes de terre</p>
+    <p>4 oeufs</p>
+    <p>300 g de fromage de chèvre frais</p>
+    <p>1 bouquet de menthe et de persil</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Mettre les pommes de terre à cuire à la vapeur, puis les peler et les réduire en purée.
+    Ajouter les oeufs, le fromage de chèvre et les herbes ciselées. Assaisonner.
+    Foncer un plat à tarte de la pâte feuilletée et y verser la préparation. Enfourner 40 min.
+    Démouler et servir tiède avec une salade verte. 
+  ]]>
+  </preparation>
+</recette>

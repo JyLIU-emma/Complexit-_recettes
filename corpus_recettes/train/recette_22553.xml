@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22553">
+  <titre>Risotto au safran et à la mortadelle</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>deux cuillère à soupe d'huile d'olive</p>
+    <p>1 oignon, émincé</p>
+    <p>une cuillère à soupe d'origan séché</p>
+    <p>100 g de champignons, coupés en lamelles</p>
+    <p>375 g de riz pour risotto (type arborio) </p>
+    <p>sel et poivre</p>
+    <p>75 cl de bouillon (poule ou volaille) </p>
+    <p>un verre de vin blanc sec</p>
+    <p>une capsule de safran en poudre</p>
+    <p>200 g de mortadelle, coupée en fine lamelles</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole, faire revenir l'oignon avec l'origan dans l'huile d'olive pendant 3 mn à feu moyen ou jusqu'à ce qu'ils deviennent transparents. Ajouter les champignons et continuer la cuisson pendant 2 mn. 
+    Ajouter le riz et s'assurer qu'il soit bien enduit de toute l'huile d'olive. Très légèrement saler (la mortadelle et le bouillon contiennent déjà une bonne quantité de sel par eux-mêmes) et poivrer. 
+    Verser le bouillon et le vin blanc. Ajouter le safran, bien mélanger. Ajouter la mortadelle. Bien mélanger et porter à ébullition. Recouvrir. 
+    Laisser cuire à feux doux pendant 20 mn où jusqu'à ce que le riz soit et cuit et le liquide absorbé dans se grande majorité. 
+    Servir bien chaud, saupoudré de parmesan fraîchement râpé.
+  ]]>
+  </preparation>
+</recette>

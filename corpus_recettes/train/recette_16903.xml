@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16903">
+  <titre>Flan aux bananes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 bananes (environ 600 g)</p>
+    <p>50 cl de lait écrémé</p>
+    <p>4 oeufs</p>
+    <p>1 gousse de vanille</p>
+    <p>20 g de beurre (environ)</p>
+    <p>80 g de sucre (environ)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Éplucher les bananes et les couper en fines rondelles.
+    Préparer le flan avec le lait (dans lequel on aura fait infuser la vanille) et les oeufs et le sucre.Déposer les bananes bien rangées dans un plat à gratin beurré.Verser délicatement le flan refroidi ou tiédi sur les bananes et faire cuire à chaleur modérée (175°C), pendant 20 mn environ. Le flan doit coaguler, colorer légèrement, mais non gonfler. Peut se servir chaud.
+  ]]>
+  </preparation>
+</recette>

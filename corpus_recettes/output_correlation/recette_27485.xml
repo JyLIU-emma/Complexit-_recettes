@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27485">
+  <titre>Fondant terrifiant au chocolat (sans cuisson)</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>10 jaunes d’oeuf</p>
+    <p>330 g de sucre glace</p>
+    <p>330 g de chocolat noir à 72 %</p>
+    <p>350 g de beurre</p>
+    <p>120 g de poudre de cacao sucrée</p>
+    <p>330 g de crème fleurette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les jaunes et le sucre glace en un mélange mousseux (5 mn). 
+    Faire fondre au bain-marie le chocolat et le beurre. 
+    Mélanger les deux préparations en ajoutant délicatement la poudre de cacao tamisée. 
+    Battre la crème fraîche pour la faire monter. 
+    Incorporer la crème fraîche montée à la préparation au chocolat. 
+    Chemiser un moule à cake avec un film plastique. 
+    Couler l’appareil dans le moule. 
+    Laisser au froid une journée. 
+    Démouler. 
+    Couper avec un couteau chaud.
+    Fondant réservé aux fondus de chocolat !!! Un vin blanc liquoreux (vin de dessert)
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Mettre</OPER> les <INGRED id="1">jaunes</INGRED> et le sucre glace en un mélange mousseux ( 5 mn ). Faire <OPER id="o_2">fondre</OPER> au bain - marie le <INGRED id="1">chocolat</INGRED> et le <INGRED id="4">beurre</INGRED>. <OPER id="o_3">Mélanger</OPER> les <INGRED id="6">deux</INGRED> préparations en ajoutant délicatement la <INGRED id="1">poudre</INGRED> de cacao tamisée. <OPER id="o_4">Battre</OPER> la crème fraîche pour la faire monter. <OPER id="o_5">Incorporer</OPER> la crème fraîche montée à la <INGRED id="4">préparation</INGRED> au <INGRED id="4">chocolat</INGRED>. <OPER id="o_6">Chemiser</OPER> un moule à cake avec un film plastique. <OPER id="o_7">Couler</OPER> l’ appareil dans le moule. Laisser au froid une journée. <OPER id="o_8">Démouler</OPER>. <OPER id="o_9">Couper</OPER> avec un couteau chaud. Fondant réservé aux fondus de <INGRED id="1">chocolat</INGRED> ! ! ! Un <INGRED id="4">vin blanc</INGRED> liquoreux ( <INGRED id="5">vin</INGRED> de dessert )
+  </annotation>
+  <annotation methode="crf">
+  Mettre les <INGRED>jaunes</INGRED> et le <INGRED>sucre glace</INGRED> en un <INGRED>mélange</INGRED> mousseux ( 5 mn ). Faire fondre au bain - marie le <INGRED>chocolat</INGRED> et le <INGRED>beurre</INGRED> <INGRED>.</INGRED> Mélanger les <INGRED>deux</INGRED> préparations en ajoutant délicatement la <INGRED>poudre</INGRED> de <INGRED>cacao tamisée</INGRED> <INGRED>.</INGRED> Battre la <INGRED>crème fraîche</INGRED> pour la faire monter <INGRED>.</INGRED> Incorporer la <INGRED>crème fraîche</INGRED> montée à la préparation au <INGRED>chocolat</INGRED> <INGRED>.</INGRED> Chemiser un moule à cake avec un film plastique. Couler l’ appareil dans le <INGRED>moule</INGRED> <INGRED>.</INGRED> Laisser au froid une journée. Démouler <INGRED>.</INGRED> Couper avec un couteau chaud <INGRED>.</INGRED> Fondant réservé aux fondus de <INGRED>chocolat</INGRED> ! ! ! Un <INGRED>vin blanc</INGRED> liquoreux ( <INGRED>vin</INGRED> de dessert )
+  </annotation>
+  <complexite>
+    <temps>f(X) = 6.0*X + 3.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 10*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:["jaunes d'oeuf", 'jaunes']	 id:1	 quantité:10	 unité:non_precis	 denombrable:True	 recipient:10*X
+ingredient:['sucre glace', 'sucre']	 id:2	 quantité:330	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['chocolat noir à 72', 'chocolat']	 id:3	 quantité:330	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:4	 quantité:350	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['poudre de cacao sucrée', 'poudre']	 id:5	 quantité:120	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crème fleurette', 'crème']	 id:6	 quantité:330	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mettre	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:fondre	 id:o_2	 ingrédients_ralatifs:['1', '4']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:['6', '1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:battre	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_5	 ingrédients_ralatifs:['4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chemiser	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couler	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:démouler	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+]]>
+</operation_trouve>
+</recette>

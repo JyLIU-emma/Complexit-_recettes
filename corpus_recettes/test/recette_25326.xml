@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25326">
+  <titre>Salade de pâtes au crabe et feta</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de tortellini multicolores</p>
+    <p>200 g de chair de crabe</p>
+    <p>150 g de saumon fumé</p>
+    <p>4 bâtonnets de surimi</p>
+    <p>1 tranche de feta</p>
+    <p>2 échalotes</p>
+    <p>4 cuillères à soupe vinaigre basalmique</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pâtes 'al dent'e. Rincer sous l'eau froide. 
+    Ecraser la fêta. Hacher les échalotes. 
+    Couper le surimi en rondelles. 
+    Couper le saumon en fines lanières. 
+    Mélanger les ingrédients précédents + chair de crabe + pâtes. 
+    Versez vinaigre + huile + sel + poivre (ajustez l'assaisonnement à votre goût)
+    La chair de crabe peut être remplacée par du "râpé de la mer" (surimi).
+  ]]>
+  </preparation>
+</recette>

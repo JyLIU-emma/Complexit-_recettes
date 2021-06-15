@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11901">
+  <titre>Feuilleté d'andouille sauce au cidre</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>18 tranches d'andouille épaisses</p>
+    <p>6 ronds de pâte feuilletée de 10 cm de diamètre</p>
+    <p>3 pommes</p>
+    <p>Pour la sauce : </p>
+    <p>50 cl de cidre </p>
+    <p>20 cl de crème fraîche</p>
+    <p>sel, poivre</p>
+    <p>30 g de beurre</p>
+    <p>30 g de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire réduire le cidre de moitié, ajouter la crème et le mélange de farine et de beurre.
+    Faire cuire 5 min les ronds de pâte feuilleté au four  10mn à thermostat 7 jusqu'à leur montée.
+    Faire cuire les pommes 5 min en morceaux dans une poele avec du beurre.
+    Faire ensuite chauffer l'andouille sur un coté pour eviter quelles se défasse.
+    Couper les ronds en deux poser les pommes puis les rondelles d'andouille. Napper de sauce et reposer le dessus du rond.
+    Servir chaud. Cidre
+  ]]>
+  </preparation>
+</recette>

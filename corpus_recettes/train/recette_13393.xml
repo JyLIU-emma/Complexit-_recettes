@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13393">
+  <titre>Quiche provençale</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>3 oeufs</p>
+    <p>un petit pot de crème fraîche</p>
+    <p>100 grammes de gruyère</p>
+    <p>2 oignons</p>
+    <p>un petit poivron</p>
+    <p>3 tomates</p>
+    <p>une boîte de thon</p>
+    <p>10 olives vertes dénoyautées</p>
+    <p>herbes de provence</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dérouler la pate feuilletée en gardant le papier sulfurisé, étaler-là dans un moule à tarte. 
+    Couper les 3 tomates en rondelles. Bien les disposer dans le plat. Mettre au frais.
+    Dans une terrine, couper l'oignon en petits dés ainsi que le poivron en fines lamelles.
+    Rajouter les miettes de thon, les 3 oeufs, la creme fraiche, le gruyère et les olives coupées en lamelles.
+    Saler, poivrer. Mettre un peu d'herbes de Provence.Mélanger.
+    Etaler la préparation dans le plat à tarte. Mettre au four 45 mn à thermostat 6 (180°C).
+    Servez légèrement tiède accompagnée d'une salade.
+     vin rosé
+  ]]>
+  </preparation>
+</recette>

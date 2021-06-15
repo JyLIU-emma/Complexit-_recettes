@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10607">
+  <titre>Tarte</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>200 g de lardons fumés</p>
+    <p>2 oignons</p>
+    <p>1 boîte de champignons de Paris</p>
+    <p>100 g de haricots verts</p>
+    <p>huile d'olive</p>
+    <p>4 oeufs entiers + 2 jaunes</p>
+    <p>20 cl de crème fraîche</p>
+    <p>25 cl de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire la pâte à blanc.
+    Faire revenir dans l'huile d'olive les oignons coupés en morceaux, ajouter les champignons, les lardons et enfin les haricots verts, pendant environ 15 à 20 min. Assaisonnez à votre convenance.
+    Dans un saladier m"langer les oeufs, la crème fraîche et le lait.
+    Déposer sur la pâte précuite la préparation poêlée et l'appareil à la crème.
+    Enfournez pendant 30 min.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165978">
+  <titre>Endives montagnardes</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 endives</p>
+    <p>jambon de poulet(6 tranches)</p>
+    <p>12 tranches trés fine de lard</p>
+    <p>-raclettes(24 tranches de raclettes)</p>
+    <p>-3 oignons</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    faire revenir les oignons ds de l'huile olive,ensuite faire braisé les endives.(vous devez les avoir lavées et couper en deux dans le sens de la longueur).
+    une fois que les endives sont braisées les laisser refroidir un peu.
+    Ensuite disposez une tranche de jambon de poulet,mettre dessus deux tranches de fromage raclette,placez deux moitiés d'endives dessus,et enroulez le tout.ensuite enroulez avec deux tranche de lard,disposez dans une petite terrine,sans oublier de rajoutez deux tranches de raclette et queques oignons grillés dessus.
+    renouvelez cette opération  afin de preparer 6 petites plats.PASSEZ AU FOUR PENDANT ENVIRON 20 MINUTES ?THERMOSTAT 180°.servir avec une petite salade verte .
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  faire <OPER id="o_1">revenir</OPER> les <INGRED id="4">oignons</INGRED> ds de l'huile olive, ensuite faire braisé les endives.(vous devez les <OPER id="o_2">avoir</OPER> lavées et <OPER id="o_3">couper</OPER> en deux dans le sens de la longueur ). une fois que les endives sont braisées les laisser <OPER id="o_4">refroidir</OPER> un peu. Ensuite <OPER id="o_5">disposez</OPER> une tranche de <INGRED id="2">jambon de poulet</INGRED>, <OPER id="o_6">mettre</OPER> dessus deux <INGRED id="4">tranches</INGRED> de <INGRED id="4">fromage</INGRED> raclette, <OPER id="o_7">placez</OPER> deux moitiés d'endives dessus, et enroulez le tout.ensuite <OPER id="o_8">enroulez</OPER> avec deux tranche de <INGRED id="5">lard</INGRED>, <OPER id="o_9">disposez</OPER> dans une <INGRED id="2">petite</INGRED> terrine, sans <OPER id="o_10">oublier</OPER> de <OPER id="o_11">rajoutez</OPER> deux <INGRED id="4">tranches</INGRED> de raclette et queques oignons grillés dessus. <OPER id="o_12">renouvelez</OPER> cette opération afin de <OPER id="o_13">preparer</OPER> 6 petites plats. <OPER id="o_14">PASSEZ</OPER> AU FOUR PENDANT ENVIRON 20 MINUTES ? THERMOSTAT <OPER id="o_15">180°.servir</OPER> avec une <INGRED id="2">petite</INGRED> salade verte.
+  </annotation>
+  <annotation methode="crf">
+  faire revenir les <INGRED>oignons ds de l'huile olive</INGRED> <INGRED>,</INGRED> ensuite faire braisé les endives.(vous devez les avoir lavées et couper en <INGRED>deux</INGRED> dans le sens de la longueur ). une fois que les <INGRED>endives</INGRED> sont braisées les laisser refroidir un peu. Ensuite disposez une tranche de <INGRED>jambon de poulet</INGRED> <INGRED>,</INGRED> mettre dessus <INGRED>deux</INGRED> tranches de <INGRED>fromage</INGRED> raclette <INGRED>,</INGRED> placez <INGRED>deux</INGRED> moitiés d'endives dessus <INGRED>,</INGRED> et enroulez le tout.ensuite enroulez avec <INGRED>deux</INGRED> tranche de <INGRED>lard</INGRED> <INGRED>,</INGRED> disposez dans une petite terrine <INGRED>,</INGRED> sans oublier de rajoutez <INGRED>deux</INGRED> tranches de raclette et queques <INGRED>oignons grillés</INGRED> dessus. renouvelez cette opération afin de preparer 6 petites plats. PASSEZ AU FOUR PENDANT ENVIRON 20 MINUTES ? THERMOSTAT 180°.servir avec une petite salade verte.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 12.8571428571429*X + 2.14285714285714</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 18*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['endives']	 id:1	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['jambon de poulet', 'jambon']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['lard']	 id:3	 quantité:12	 unité:tranches trés fine de	 denombrable:True	 recipient:12*X
+ingredient:['-raclettes']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['-3 oignons', '-3']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:revenir	 id:o_1	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:avoir	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:refroidir	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:disposer	 id:o_5	 ingrédients_ralatifs:['2', '4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_6	 ingrédients_ralatifs:['4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:placer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enrouler	 id:o_8	 ingrédients_ralatifs:['5', '2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_9	 ingrédients_ralatifs:['2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:oublier	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rajouter	 id:o_11	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:renouveler	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:preparer	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:passer	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:180°.servir	 id:o_15	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

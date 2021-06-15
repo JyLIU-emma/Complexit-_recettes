@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25301">
+  <titre>Tourte au munster et aux brocolis</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 Munster</p>
+    <p>2 pâtes feuilletées prêtes</p>
+    <p>200 g de brocolis</p>
+    <p>150 ml de lait</p>
+    <p>2 oeufs</p>
+    <p>1 jaune oeuf</p>
+    <p>cumin</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four Th 7 (210°C). 
+    Séparer les bouquets de brocolis et les précuire à la vapeur. 
+    Couper le Munster en petits dés en conservant la croûte. 
+    Mélanger les 2 oeufs avec le lait, le cumin et le Munster en dés, saler et poivrer. 
+    Mettre la pâte dans un moule de cuisson. Verser la préparation dessus. 
+    Parsemer les brocolis sur le dessus. 
+    Recouvrir la tarte avec l'autre pâte. Souder les bords. 
+    Badigeonner la tourte avec le jaune d'oeuf. Piquer la pâte avec la pointe d'un couteau. 
+    Faire cuire environ 25 mn.
+  ]]>
+  </preparation>
+</recette>

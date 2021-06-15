@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23944">
+  <titre>Ananas au basilic</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 ananas</p>
+    <p>basilic</p>
+    <p>jus d'ananas (prêt à l'emploi) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Versez le jus d'ananas dans une jatte. 
+    Coupez l'ananas en cubes. Ajoutez le basilic coupé grossièrement. 
+    N'utilisez pas d'ananas en boîte ou de mini-ananas (trop sucré).
+    Laissez macérer au réfrigérateur environ 12 heures.
+    Très frais tout au long de l'année. L'ananas est un mange graisse, alors quoi de plus idéal après un repas.
+  ]]>
+  </preparation>
+</recette>

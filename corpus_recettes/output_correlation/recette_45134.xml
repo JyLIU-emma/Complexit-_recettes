@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45134">
+  <titre>Saucisse de magret, foie gras et cèpes (37ème rencontre marmiton)</titre>
+  <type>Entrée</type>
+  <niveau>Difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1 magret frais viande et peau</p>
+    <p>2 tranches assez fines de poitrine de porc</p>
+    <p>200 g de cèpes frais ou surgelés</p>
+    <p>1 botte de persil</p>
+    <p>1 cuillère à soupe d'oignon haché et revenu dans un peu d'huile</p>
+    <p>1 cuillère et demi à café de sel fin</p>
+    <p>1 cuillère à café de piment d'espelette</p>
+    <p>la valeur d'un bouchon d'armagnac</p>
+    <p>100 g de foie frais dénervé et coupé en petits cubes</p>
+    <p>boyaux pour saucisse (type chipo), trempés dans l'eau pendant une heure</p>
+    <p>2 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ebouillanter le persil et le verser dans un saladier remplie d'eau glacée. Puis l'essorer, le presser et le couper grossièrement au couteau.
+    Faire revenir les cèpes dans de l'huile, les égoutter puis les couper au couteau en petits morceaux (pas de la bouillie!!)
+    Hacher le magret et la poitrine.
+    Mettre tous les ingrédients sauf le foie gras : viande, épices, oeufs , armagnac, oignon, persil dans un saladier, mélanger et laisser reposer 2 heures au frais.
+    Puis, le moment fatidique arrive : soit vous avez un embouchoir à saucisse et vous êtes sauvés!!
+    Ou vous prenez un entonnoir, vous enfilez un bout de boyau et vous vous amusez pendant un certain temps à faire vos saucisses....
+    Si vous n'êtes pas patient, il vous reste la porte de sortie de faire des crépines avec... de la crépine et la préparation.
+    Faire cuire pendant 15 minutes à feu pas trop fort.
+    Les arômes ressortent vraiment si l'on déguste la saucisse froide. Je l'incorpore dans une salade dite chalossaise (recette sur le site) Tursan
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Ebouillanter</OPER> le <INGRED id="6">persil</INGRED> et le <OPER id="o_2">verser</OPER> dans un <INGRED id="1">saladier</INGRED> remplie d'<INGRED id="14">eau</INGRED> glacée. Puis l'<OPER id="o_3">essorer</OPER>, le <OPER id="o_4">presser</OPER> et le <OPER id="o_5">couper</OPER> grossièrement au <INGRED id="8">couteau</INGRED>. Faire <OPER id="o_6">revenir</OPER> les <INGRED id="4">cèpes</INGRED> dans de l'<INGRED id="12">huile</INGRED>, les <OPER id="o_7">égoutter</OPER> puis les <OPER id="o_8">couper</OPER> au <INGRED id="8">couteau</INGRED> en <INGRED id="9">petits</INGRED> <INGRED id="1">morceaux</INGRED> ( pas de la bouillie ! ! ) <OPER id="o_9">Hacher</OPER> le <INGRED id="1">magret</INGRED> et la <INGRED id="4">poitrine</INGRED>. <OPER id="o_10">Mettre</OPER> tous les ingrédients sauf le <INGRED id="2">foie gras</INGRED> : <INGRED id="4">viande</INGRED>, <INGRED id="14">épices</INGRED>, <INGRED id="12">oeufs</INGRED>, armagnac, <INGRED id="10">oignon</INGRED>, <INGRED id="11">persil</INGRED> dans un <INGRED id="1">saladier</INGRED>, <OPER id="o_1111">mélanger</OPER> et <INGRED id="12">laisser</INGRED> <OPER id="o_12">reposer</OPER> 2 heures au frais. Puis, le moment fatidique arrive : soit vous avez un embouchoir à <INGRED id="3">saucisse</INGRED> et vous êtes sauvés ! ! Ou vous prenez un entonnoir, vous enfilez un bout de boyau et vous vous amusez pendant un certain temps à <INGRED id="14">faire</INGRED> vos <INGRED id="9">saucisses</INGRED>.... Si vous n'êtes pas patient, il vous <INGRED id="1">reste</INGRED> la porte de sortie de <INGRED id="4">faire</INGRED> des crépines avec... de la crépine et la <INGRED id="4">préparation</INGRED>. Faire <OPER id="o_13">cuire</OPER> pendant 15 minutes à feu pas trop fort. Les arômes ressortent vraiment si l'on déguste la <INGRED id="3">saucisse</INGRED> froide. Je l'incorpore dans une salade dite chalossaise ( recette sur le site ) Tursan
+  </annotation>
+  <annotation methode="crf">
+  Ebouillanter le <INGRED>persil</INGRED> et le verser dans un saladier remplie d'<INGRED>eau</INGRED> glacée <INGRED>.</INGRED> Puis l'essorer <INGRED>,</INGRED> le presser et le couper grossièrement au couteau. Faire revenir les <INGRED>cèpes</INGRED> dans de l'<INGRED>huile</INGRED> <INGRED>,</INGRED> les égoutter puis les couper au couteau en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> ( pas de la bouillie ! ! ) Hacher le <INGRED>magret</INGRED> et la <INGRED>poitrine</INGRED> <INGRED>.</INGRED> Mettre tous les ingrédients sauf le <INGRED>foie</INGRED> gras <INGRED>:</INGRED> <INGRED>viande</INGRED> <INGRED>,</INGRED> <INGRED>épices</INGRED> <INGRED>,</INGRED> <INGRED>oeufs</INGRED> <INGRED>,</INGRED> <INGRED>armagnac</INGRED> <INGRED>,</INGRED> <INGRED>oignon</INGRED> <INGRED>,</INGRED> <INGRED>persil</INGRED> dans un saladier <INGRED>,</INGRED> mélanger et laisser reposer 2 heures au <INGRED>frais</INGRED> <INGRED>.</INGRED> Puis <INGRED>,</INGRED> le moment fatidique arrive <INGRED>:</INGRED> soit vous avez un embouchoir à saucisse et vous êtes sauvés ! ! Ou vous prenez un entonnoir <INGRED>,</INGRED> vous enfilez un bout de boyau et vous vous amusez pendant un certain temps à faire vos <INGRED>saucisses</INGRED>.... Si vous n'êtes pas patient <INGRED>,</INGRED> il vous <INGRED>reste</INGRED> la porte de sortie de faire des crépines avec... de la crépine et la préparation <INGRED>.</INGRED> Faire cuire pendant 15 minutes à feu pas trop fort. Les arômes ressortent vraiment si l'on déguste la saucisse froide <INGRED>.</INGRED> Je l'incorpore dans une salade dite chalossaise ( recette sur le site ) Tursan
+  </annotation>
+  <complexite>
+    <temps>f(X) = 8.0*X + 8.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 9*X + 17</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['magret frais viande', 'magret']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['peau']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poitrine de porc', 'poitrine']	 id:3	 quantité:2	 unité:tranches assez fines de	 denombrable:True	 recipient:2*X
+ingredient:['cèpes frais', 'cèpes']	 id:4	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['botte de persil', 'botte']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['oignon haché', 'oignon']	 id:6	 quantité:1	 unité:cuillère à soupe d'	 denombrable:True	 recipient:1*X
+ingredient:["revenu dans un peu d'huile", 'revenu']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['cuillère']	 id:8	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['café de sel fin', 'café']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["piment d'espelette", 'piment']	 id:10	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+ingredient:["valeur d'un bouchon d'armagnac", 'valeur']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['foie frais dénervé', 'foie']	 id:12	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['coupé en petits cubes', 'coupé']	 id:13	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['boyaux']	 id:14	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["trempés dans l'eau pendant une heure", 'trempés']	 id:15	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:16	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:ebouillanter	 id:o_1	 ingrédients_ralatifs:['6', '1', '14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_2	 ingrédients_ralatifs:['1', '14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:essorer	 id:o_3	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:presser	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_5	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1*X*1	 recipient:1
+operation:revenir	 id:o_6	 ingrédients_ralatifs:['4', '12', '8', '9', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:égoutter	 id:o_7	 ingrédients_ralatifs:['8', '9', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_8	 ingrédients_ralatifs:['8', '9', '1']	 nombre_opération_atomique:1*X+1+1*X	 temps:1*X*1+1*X*1+1*X*1	 recipient:1
+operation:hacher	 id:o_9	 ingrédients_ralatifs:['1', '4']	 nombre_opération_atomique:1*X+1	 temps:1*X*5+1*X*5	 recipient:1
+operation:mettre	 id:o_10	 ingrédients_ralatifs:['2', '4', '14', '12', '10', '11', '1', '11', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mélanger	 id:o_11	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:reposer	 id:o_12	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:cuire	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+]]>
+</operation_trouve>
+</recette>

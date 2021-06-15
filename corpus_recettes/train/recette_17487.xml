@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17487">
+  <titre>Fondant au chocolat pour les nuls !</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200g de chocolat patissier noir</p>
+    <p>30g de beurre</p>
+    <p>150g de sucre</p>
+    <p>3 oeufs</p>
+    <p>1 cuillérée à soupe de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - faire fondre le chocolat dans une casserole avec un demi verre d'eau
+    retirer la casserole du feu et y ajouter le beurre
+    ajouter ensuite le sucre, les oeufs, et pour finir la farine
+    beurre un plat a tarte, y déposer la pâte (la pâte ne doit pas être épaisse)
+    faire cuire 20 mn a thermostat 7 ou 210°c
+    Ce gâteau est meilleur froid, cependant sortez le du frigo 10 mn avant de la servir.
+  ]]>
+  </preparation>
+</recette>

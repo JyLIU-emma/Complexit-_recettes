@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16291">
+  <titre>Raïta de concombre (Inde)</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 concombre</p>
+    <p>1 oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>2 yaourts natures (type yaourt grecs)</p>
+    <p>oignons nouveaux</p>
+    <p>cumin</p>
+    <p>piment</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le concombre en deux dans le sens de la longueur, le vider de ses graines et le râper sur une grosse grille.
+    Mettre le concombre dans une passoire, le laisser égoutter 10 min et le presser pour bien l'essorer.
+    Hacher l'oignon et l'ail, les incorporer au concombre, ajouter les 2 yaourts, sel, poivre, cumin et piment selon les goûts.
+    Garnir de rondelles d'oignons nouveaux.
+    Ce plat rafraîchissant se consomme seul en entrée ou en accompagnement de poulet tikka ou de poulet tandoori, servi avec pains indiens (nans). On peut y ajouter des dés de tomates pelées et épépinées.
+  ]]>
+  </preparation>
+</recette>

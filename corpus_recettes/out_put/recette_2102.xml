@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="2102">
+  <titre>Aumônières de saumon au Carré Frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tranches de saumon fumé sauvage</p>
+    <p>lamelles de tomates confites en pot</p>
+    <p>4 petits Carrés Frais</p>
+    <p>4 cuillères d'oeufs de lump noirs</p>
+    <p>sel, poivre, ciboulette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, malaxer avec précaution les Carrés Frais, les tomates confites, ainsi que les oeufs de lump.
+    Saler modérément, poivrer, puis mettre cette préparation dans chaque tranche de saumon.
+    Nouer avec les brins de ciboulette.
+    Présenter avec des tranches de citron vert.
+    Et mettre au frais!
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Dans un saladier, <OPER id="o_1">malaxer</OPER> avec précaution les <INGRED id="3">Carrés Frais</INGRED>, les <INGRED id="5">tomates</INGRED> confites, ainsi que les <INGRED id="6">oeufs</INGRED> de lump. <OPER id="o_2">Saler</OPER> modérément, <OPER id="o_3">poivrer</OPER>, puis <OPER id="o_4">mettre</OPER> cette préparation dans chaque tranche de <INGRED id="2">saumon</INGRED>. <OPER id="o_5">Nouer</OPER> avec les brins de <INGRED id="6">ciboulette</INGRED>. <OPER id="o_6">Présenter</OPER> avec des tranches de <INGRED id="2">citron vert</INGRED>. Et <OPER id="o_7">mettre</OPER> au frais !
+  </annotation>
+  <annotation methode="crf">
+  Dans un saladier <INGRED>,</INGRED> malaxer avec précaution les <INGRED>Carrés Frais</INGRED> <INGRED>,</INGRED> les <INGRED>tomates</INGRED> confites <INGRED>,</INGRED> ainsi que les <INGRED>oeufs de lump</INGRED> <INGRED>.</INGRED> Saler modérément <INGRED>,</INGRED> poivrer <INGRED>,</INGRED> puis mettre cette préparation dans chaque tranche de <INGRED>saumon</INGRED> <INGRED>.</INGRED> Nouer avec les brins de <INGRED>ciboulette</INGRED>. Présenter avec des tranches de <INGRED>citron</INGRED> vert. Et mettre au <INGRED>frais</INGRED> !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 5.25*X + 1.75</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 12*X + 6</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['saumon fumé sauvage', 'saumon']	 id:1	 quantité:4	 unité:tranches de	 denombrable:True	 recipient:4*X
+ingredient:['lamelles de tomates confites en pot', 'lamelles']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['Carrés Frais', 'Carrés']	 id:3	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['oeufs de lump noirs', 'oeufs']	 id:4	 quantité:4	 unité:cuillères d'	 denombrable:True	 recipient:4*X
+ingredient:['sel']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['ciboulette']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:malaxer	 id:o_1	 ingrédients_ralatifs:['3', '5', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_2	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_4	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:nouer	 id:o_5	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:présenter	 id:o_6	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

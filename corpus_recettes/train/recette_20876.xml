@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20876">
+  <titre>Filet de poulet au beurre de  cacahuètes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 filets de poulet</p>
+    <p>2 grosses cuillères à soupe de beurre de cacahuètes</p>
+    <p>20 cl de crème fraîche liquide</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle, faire cuire vos filets de poulet avec une pointe de beurre. 
+    Dans un bol, mélanger le beurre de cacahuètes et la crème afin d'obtenir un mélange liquide, ajouter du sel et du poivre. 
+    Sortir les filets de poulets, les recouvrir du nappage préalable réchauffé au micro onde. 
+    Servir avec du riz
+    Ce n'est pas du tout écoeurant malgré le beurre de cacahuètes.
+  ]]>
+  </preparation>
+</recette>

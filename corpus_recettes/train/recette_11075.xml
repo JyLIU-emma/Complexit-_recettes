@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11075">
+  <titre>Crème mic-mac (vanille et chocolat dans un même récipient)</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>5 œufs</p>
+    <p>1 litre de lait</p>
+    <p>125 g de chocolat à cuire</p>
+    <p>50 g de farine</p>
+    <p>50 g de beurre</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>150 g de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites bouillir le lait.
+    Faites fondre le chocolat avec 2 cuillerées à soupe d'eau, au bain-marie.Mélangez sans faire de grumeaux le sucre, la farine, 3 jaunes d'oeufs et 2 oeufs entiers.Délayez avec le lait chaud, remettez le tout dans la casserole et faites chauffer jusqu'au premier bouillon, en remuant.
+    Hors du feu, ajoutez le beurre par fractions, en remuant.Réservez dans un récipient la moitié de la crème, ajoutez-y le sucre vanillé et mélangez.
+    Dans l'autre moitié, versez le chocolat fondu et mélangez.
+    Versez en même temps les deux crèmes dans une coupe en verre. Elles ne se mélangent pas.
+    Servez froid mais non glacé.
+  ]]>
+  </preparation>
+</recette>

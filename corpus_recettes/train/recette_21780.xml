@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21780">
+  <titre>Salade de pamplemousse au saumon fumé</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 pamplemousses</p>
+    <p>1 petit concombre</p>
+    <p>2 tranches de saumon fumé</p>
+    <p>quelques radis</p>
+    <p>Sauce : 1 yaourt brassé, 1 cuillère à café de jus de citron, sel, paprika</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et couper le concombre en rondelles.
+    Laisser dégorger saupoudré de gros sel environ 30 min.
+    Rincez et séchez les rondelles sur du papier absorbant.
+    Peler les pamplemousses à vif, découper la chair en dés.
+    Détailler le saumon en lanières et émincer les radis.
+    Mélanger tous les ingrédients dans un saladier, préparer la sauce au yaourt et la mélanger avec.
+    Réserver au frais avant de servir.
+  ]]>
+  </preparation>
+</recette>

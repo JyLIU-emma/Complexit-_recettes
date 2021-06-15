@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20676">
+  <titre>Salade de riz rose</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de riz cuit (restes)</p>
+    <p>1 grosse boîte de saumon au naturel</p>
+    <p>4 tomates</p>
+    <p>1 citron</p>
+    <p>aneth</p>
+    <p>mayonnaise</p>
+    <p>vinaigre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez, épépinez et concassez les tomates.
+    Egouttez le saumon, émiettez-le et mélangez-le avec le riz et les tomates.
+    Mélangez 2 cuillères de mayonnaise avec de l'aneth, le jus du citron, sel, poivre et 1 trait de vinaigre.
+    Mélangez la salade de riz avec cette sauce et servez bien frais.
+  ]]>
+  </preparation>
+</recette>

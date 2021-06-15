@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24654">
+  <titre>Paté aux châtaignes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de foie de porc</p>
+    <p>300 g de lard gras</p>
+    <p>300 g de porc dans l’échine</p>
+    <p>1/2 verre de noix concassées</p>
+    <p>500 g de châtaignes naturelles entières</p>
+    <p>1 cuillère à soupe de thym</p>
+    <p>1 cuillère à café de poivre</p>
+    <p>10 g de sel pour 1 kg de mélange</p>
+    <p>1 dl de Cognac</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher les viandes et mélanger tous les ingrédients, casser grossièrement les châtaignes. 
+    Mettre dans une terrine au bain-marie 1 h30 . 
+    Sinon mettre en bocaux propres à stériliser pendant 3 h. Se garde plusieurs mois en enveloppant les bocaux dans de l’aluminium pour les protéger de la lumière.
+  ]]>
+  </preparation>
+</recette>

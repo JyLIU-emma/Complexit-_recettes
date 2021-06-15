@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15144">
+  <titre>Frappes</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de beurre</p>
+    <p>6 oeufs</p>
+    <p>400 g de sucre</p>
+    <p>1 paquet de levure chimique</p>
+    <p>1 paquet de sucre vanillé</p>
+    <p>500 g de farine</p>
+    <p>le zeste d'un citron et d'une orange</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire une fontaine avec la farine et mettre au millieu le beurre ramoli, les oeufs, le sucre,un peu de sel, du zeste de citron et d'orange, la levure et le sucre vanillé.
+    Mélanger le tout jusqu'à ce que vous obteniez une pâte ferme qui ne colle pas.
+    Fariner une planche et étendre la pâte au rouleau.
+    Avec une roulette, découper dans cette pâte de larges rectangles de 5cm, triangles ou rubans que l'on noue.
+    Faire frire dans de l'huile très chaude. Les égoutter et les saupoudrer de sucre.
+    Ces frappes se mangent froides.
+  ]]>
+  </preparation>
+</recette>

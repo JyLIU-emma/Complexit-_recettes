@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27033">
+  <titre>Crêpes sucrées au miel</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>125 g de farine</p>
+    <p>2 œufs</p>
+    <p>20 cl de lait</p>
+    <p>5 cl de bière</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>1 pincée de sel</p>
+    <p>Pour la garniture :</p>
+    <p>100 g de raisins secs</p>
+    <p>1 petit verre de rhum</p>
+    <p>4 cuillères à soupe de miel</p>
+    <p>100 g de noix</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pâte à crêpes :Dans un saladier, verser la farine en fontaine. Casser les œufs et les intégrer à la farine en remuant énergiquement à la cuillère en bois.
+    Ajouter un peu de lait pour délayer la pâte de façon à éviter les grumeaux.
+    Verser la bière et l'huile.
+    Mettre la pâte au repos pendant 1 h.
+    Dans le rhum, ajouter les raisins pour les faire gonfler et les imprégner.
+    Dans une casserole, peu avant de faire les crêpes, faire tiédir sur feu doux : les raisins, le rhum et les cerneaux de noix.
+     
+    Préparer vos crêpes et à la dernière minute, les fourrer avec la garniture.
+  ]]>
+  </preparation>
+</recette>

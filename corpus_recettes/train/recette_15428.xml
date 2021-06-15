@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15428">
+  <titre>Gâteau de Bourgogne</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>80 g de beurre</p>
+    <p>50 g de farine</p>
+    <p>1/2l de lait entier</p>
+    <p>1 gousse de vanille</p>
+    <p>125 g de sucre semoule</p>
+    <p>4 oeufs entiers</p>
+    <p>1 cuillerée de rhum</p>
+    <p>confiture au choix : abricots, groseille, cassis</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire une béchamel avec le beurre, la farine et le lait que l'on aura fait bouillir avant avec la gousse de vanille fendue et le sucre.
+    Ajouter hors du feu les oeufs entier battus et verser le tout dans un moule caramélisé.Faire cuire au bain-marie 1/2heure à 3/4 d'heure.
+    Laisser refroidir.Démouler et verser dessus de la confiture d'abricots ou autre délayée dans un peu d'eau avec le rhum.Recette de 1870 de mon arrière-grand-mère.
+  ]]>
+  </preparation>
+</recette>

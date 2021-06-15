@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21814">
+  <titre>Choux farcis</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 choux moyen</p>
+    <p>6 cuillères à café de margarine</p>
+    <p>3 carottes</p>
+    <p>3 oignons</p>
+    <p>sel</p>
+    <p>Pour la farce :</p>
+    <p>200 g de boeuf haché</p>
+    <p>200 g de veau haché</p>
+    <p>3 biscottes trempées dans le lait</p>
+    <p>ail, persil, sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Séparer les feuilles de choux. 
+    Faire blanchir les feuilles 10 mn dans l'eau bouillante. 
+    Préparer la farce du chou. 
+    Egoutter les feuilles du chou. 
+    Etaler par 2 ou 3 . 
+    Disposer dessus un quart de la farce. 
+    Rouler avec soin en enfermant bien la farce. 
+    Ficeler. 
+    Faire dorer ces paquets dans la cocotte avec la margarine. 
+    Peler les carottes, oignon et les ajouter. 
+    Mouiller avec de l'eau ou du vin blanc. 
+    Cuire à feu doux pendant 1 h15
+  ]]>
+  </preparation>
+</recette>

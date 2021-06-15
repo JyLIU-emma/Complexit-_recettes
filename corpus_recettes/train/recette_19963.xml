@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19963">
+  <titre>Escalopes de veau à la purée d'oignon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 escalopes de veau</p>
+    <p>1,2 kg d'oignons</p>
+    <p>30 g de farine</p>
+    <p>30 cl de bouillon</p>
+    <p>75 g de beurre</p>
+    <p>75 g de crème fraîche</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer les oignons et les faire fondre dans 30 g de beurre jusqu'à ce qu'ils soient bien tendres puis les saupoudrer de beurre.
+    Verser le bouillon et la crème et laisser épaissir à feu doux en remuant régulièrement.
+    Faire revenir les escalopes dans le beurre restant pendant 15 minutes.
+    Servir les escalopes avec la purée d'oignon.
+  ]]>
+  </preparation>
+</recette>

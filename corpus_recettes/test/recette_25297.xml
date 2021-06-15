@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25297">
+  <titre>Vermicelles chinois au crabe et aux champignons</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 crabe frais d'environ 1 kg</p>
+    <p>50 cl d'eau bouillante</p>
+    <p>4 oignons</p>
+    <p>4 gousses d'ail</p>
+    <p>120 g de vermicelles chinois</p>
+    <p>saindoux</p>
+    <p>40 g de champignons noirs</p>
+    <p>40 g de champignons parfumés</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer d'abord le crabe :
+    Dans un faitout, mettre 50 cl d'eau à bouillir avec 1 oignon pelé. Y plonger le crabe vivant et le laisser cuire pendant 25 min environ. 
+    Peler et hacher les 3 oignons, les émincer, peler et hacher l'ail. Mettre les champignons à tremper dans l'eau froide pour les faire gonfler. Puis les égoutter et les détailler en quartiers.
+    Après cuisson, sortir le crabe du faitout, filtrer et réserver le bouillon. Faire revenir à la poêle la chair, les oeufs et les viscères du crabe avec les oignons et l'ail hachés.
+    Dans une sauteuse, mettre les vermicelles avec le saindoux. Couvrir de bouillon de crabe et porter à ébullition. Ajouter les champignons et le crabe aillé. Laisser cuire pour bien bien faire réduire le liquide.
+    Saler, poivrer et servir bien chaud.
+  ]]>
+  </preparation>
+</recette>

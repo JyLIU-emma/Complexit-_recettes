@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13557">
+  <titre>Salade d'artichauts et champignons</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 petit artichaut violet</p>
+    <p>1 gros champignon de Paris très frais ou deux petits</p>
+    <p>copeaux de vieux parmesan</p>
+    <p>sel, poivre, huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les artichauts en quatre. Ôter le foin et les feuilles trop dures. Emincer finement le reste.
+    Couper le pieds des champignons. Les passer à l’eau. Emincer très finement.
+    Mélanger l’artichaut et les champignons émincés. Saler, poivrer, arroser d’un filet d’huile d’olive, saupoudrer de copeaux de parmesan.
+    Pour un plat plus luxueux, on peut ajouter de très fines lamelles de truffe blanche. rouge ou rosé léger 
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25817">
+  <titre>Gâteau au fromage blanc et aux pommes saveur amandes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 pommes vertes</p>
+    <p>200 g de fromage blanc</p>
+    <p>200 g de sucre ou édulcorant</p>
+    <p>15 g de sucre vanillé</p>
+    <p>2 cuillères à soupe de cannelle</p>
+    <p>250 g de farine</p>
+    <p>75 g d'amandes en poudre</p>
+    <p>4 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier battre les oeufs avec le sucre, le sucre vanillé et la poudre d'amandes. 
+    Ajouter le fromage blanc et la farine puis mélanger. 
+    Couper les pommes en tout petits cubes, les recouvrir de cannelle et les insérer dans la pâte pour mélanger à nouveau. 
+    Enfourner dans un moule rond, beurré et fariné à thermostat 7 (210°C) pendant 40 mn.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20192">
+  <titre>Coca</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 pâtes brisées à dérouler</p>
+    <p>6 poivrons rouges</p>
+    <p>3 oignons</p>
+    <p>1 grosse boîte de tomates pelées</p>
+    <p>quelques olives noires</p>
+    <p>huile d'olives</p>
+    <p>1 jaune d'oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Égrainer les poivrons et les couper en petits morceaux. 
+    Dans une sauteuse, faire revenir légèrement dans l'huile d'olives les oignons coupés fins. 
+    Rajouter les poivrons et laisser dorer une 1/2 heure environ en remuant de temps en temps. 
+    Incorporer les tomates pelées avec leur jus et laisser réduire en tournant régulièrement jusqu'à ce que la frita soit onctueuse. 
+    Ajouter enfin les olives noires dénoyautées et une peu d'huile d'olives. 
+    Abaisser la première pâte dans le moule. 
+    Napper avec la frita et recouvrir avec la deuxième pâte. 
+    Faire une cheminée sur la pâte afin qu'elle ne gonfle pas et passer un jaune d'oeuf pour la faire dorer. 
+    Laisser cuire une 1/2 heure au four thermostat 6 . 
+    C'est un peu long mais le résultat en vaut la chandellePlus les morceaux sont coupés petits et revenus dans la sauteuse, meilleur c'est.
+  ]]>
+  </preparation>
+</recette>

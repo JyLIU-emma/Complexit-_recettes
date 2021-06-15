@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16813">
+  <titre>Oeufs au plat rapides</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 oeufs</p>
+    <p>sel et poivre</p>
+    <p>herbes (de Provence, laurier, basilic...au choix)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Casser les oeufs dans une boîte à large fond pouvant aller au micro-onde (les oeufs doivent s'étaler sur tout le fond).
+    Parsemer avec sel, poivre et herbes.
+    Couvrir soit avec un couvercle (ne pas fermer hermétiquement), soit avec un film plastique percé.
+    Passer environ 1 minute au micro-ondes à pleine puissance. Réajuster la cuisson si nécessaire en prolongeant la cuisson quelques secondes.
+    Cette recette est ultra-facile, diététique et rapide.
+    Ce n'est pas aussi bon qu'à la poêle mais convient parfaitement au citadin pressé...
+  ]]>
+  </preparation>
+</recette>

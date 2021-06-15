@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20126">
+  <titre>Tourte Creusoise</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>pâte brisée (pour 1 tarte + couvercle) </p>
+    <p>1 kg pommes de terres à cuire au four</p>
+    <p>1 gros oignon et 1 petit</p>
+    <p>2 gousses d'ail</p>
+    <p>thym</p>
+    <p>2 feuilles de laurier</p>
+    <p>sel et poivre</p>
+    <p>2 pots de crème fraîche épaisse (50 cl) </p>
+    <p>1 noix de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire une pâte brisée pour le fond et le couvercle. 
+    Couper le petit oignon en morceaux. 
+    Peler le gros oignon des feuilles extérieures et le garder entier. 
+    Peler les pommes de terres, les couper en rondelles et les disposer sur la tarte en alternant entre chaque couche avec un peu de thym, une pincée sel et de poivre (une ou deux feuilles de laurier) et des morceaux du petit oignon. 
+    Une fois la tarte remplie de pommes de terres, parsemer de noix de beurre, poser au milieu le gros oignon entier. 
+    Recouvrir la tarte avec la pâte restante pour le couvercle. 
+    Sceller le couvercle avec un peu d'eau badigeonné sur la pâte (pas trop). 
+    Préchauffer le four 5 à 10 mn Thermostat 6/7 200°C environ. 
+    Une fois le four chaud enfourner la tourte et la faire cuire 30 à 35 mn. 
+    Une fois cuite, la sortir du four, découper le couvercle autour de l'oignon afin de faire un trou rond. Enlever l'oignon, et verser dans le trou la crème fraîche. S'assurer que la crème fraîche est bien toute étalée dans la tourte, reposer l'oignon et le couvercle de pâte et remettre au four 5 mn pour que la crème imprègne bien la tourte. 
+    Servir chaud
+    Plat typiquement creusois que l'on trouve dans beaucoup de boulangeries en creuse. Vin rouge Pays de Loire ou Bordeaux
+  ]]>
+  </preparation>
+</recette>

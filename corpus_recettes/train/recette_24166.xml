@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24166">
+  <titre>Pain de lotte à la tomate et sauce yaourt</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,2 kg de lotte</p>
+    <p>1 sachet de court-bouillon pour poisson</p>
+    <p>3 yaourts</p>
+    <p>2 citrons</p>
+    <p>130 g de concentré de tomates</p>
+    <p>12 feuilles de basilic</p>
+    <p>1/2 bouquet de ciboulette</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Dans une cocotte, faire mijoter la lotte 15 minutes dans le court-bouillon.
+    Faire une omelette avec les oeufs et y incorporer le jus d'1 citron et le concentré de tomate.
+    Ajouter le poisson coupé en morceaux.
+    Beurrer et fariner un moule. Y verser la préparation, mettre au bain-marie et enfourner pour 1 heure de cuisson.
+    Laisser refroidir.
+    Mélanger les yaourts avec le jus de citron, les herbes ciselées, du sel et du poivre.
+    Servir la terrine froide accompagnée de sauce.
+  ]]>
+  </preparation>
+</recette>

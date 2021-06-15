@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24768">
+  <titre>Quenelles de pain aux lardons</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de lardons fumé</p>
+    <p>4 petit pains ou 1 baguette de pain rassis</p>
+    <p>200 g de dés de jambon</p>
+    <p>4 oeufs</p>
+    <p>4 cuillerées de lait</p>
+    <p>4 cuillères à soupe de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les lardons dans une poêle.
+    Dans une terrine, déposer les petits pains coupés en cubes, le quart des lardons et le jambon. 
+    Dans un bol, battre les œufs en omelette avec le lait, et verser dans la terrine avec les bouts de pain. Réserver au chaud pendant 1 h.
+    Ajouter la farine et former des quenelles avec une cuillère à soupe. Les mettre à cuire dans une casserole d'eau bouillante salée pendant 12 min. 
+    Servir les quenelles avec le reste de lardons.
+  ]]>
+  </preparation>
+</recette>

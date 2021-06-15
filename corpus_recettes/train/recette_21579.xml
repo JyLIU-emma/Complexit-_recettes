@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21579">
+  <titre>Agneau aux carottes en cocotte</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>700 g d'épaule d'agneau désossée</p>
+    <p>700 g de carottes</p>
+    <p>2 gros oignons</p>
+    <p>1 tête d'ail</p>
+    <p>1 cuillère à café de sauge</p>
+    <p>25 cl de vin d'Anjou rouge</p>
+    <p>1 cube de bouillon (de boeuf)</p>
+    <p>2 cuillères à soupe de persil haché</p>
+    <p>2 cuillères à soupe d'huile </p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler la viande en gros dés épais, puis peler et hacher les oignons et l'ail.
+    Préparer ensuite les carottes : les peler et les couper en morceaux.
+    Faire chauffer l'huile dans une cocotte sur feu moyen, puis mettre l'agneau à dorer 5 min sans cesser de remuer.
+    Incorporer ensuite les oignons avec l'ail et la sauge, puis laisser cuire 2 min.
+    Arroser de vin rouge, puis ajouter le cube de bouillon préalablement émiétté et bien mélanger.
+    Terminer en joignant les carottes au reste de la préparation, assaisonner, puis laisser cuire à couvert sur feu doux pendant 30 min.
+    Saupoudrer de persil pour décorer juste avant de servir et déguster.
+  ]]>
+  </preparation>
+</recette>

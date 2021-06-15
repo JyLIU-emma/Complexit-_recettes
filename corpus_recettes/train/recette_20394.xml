@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20394">
+  <titre>Pommes meringuées</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 kg de pommes</p>
+    <p>1 dl d'eau</p>
+    <p>180 g de sucre</p>
+    <p>1 cuillère à café de vanille liquide</p>
+    <p>1 dl de vin blanc</p>
+    <p>2 blancs d'oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les pommes. Enlever les coeurs. Les couper en fines tranches. Les mettre dans une sauteuse avec l'eau, 80 g de sucre, la vanille et le vin. Cuire à découvert doucement pendant 25 mn. 
+    Etaler la compote dans un plat allant au four. Monter les blancs d'oeufs en neige ferme et ajouter le sucre restant. Répandre uniformément sur les pommes. Faire dorer à four doux. 
+    Servir chaud.
+    Facile et original avec la touche de vin blanc qui relève le plat et le rend un peu plus élaboré.
+  ]]>
+  </preparation>
+</recette>

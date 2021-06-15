@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27122">
+  <titre>Terrine chou-fleur jambon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de jambon cuit</p>
+    <p>10 fines tranches de poitrine fumée</p>
+    <p>3 oeufs entiers + 2 blancs d'oeufs</p>
+    <p>200 g de crème fraîche épaisse</p>
+    <p>300 g de chou-fleur</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 150°C (thermostat 5).
+    Mixer le jambon et assaisonner de poivre.
+    Incorporer les oeufs entiers puis la crème et les blancs d'oeufs battus en neige.
+    Détailler le chou-fleur en petits bouquets et les faire cuire 3 minutes à l'eau bouillante salée.
+    Les plonger dans l'eau froide pour stopper la cuisson puis égoutter soigneusement.
+    Tapisser la terrine de fines tranches de poitrine fumée.
+    En garder 2 tranches pour recouvrir le dessus de la terrine.
+    Verser la moitié de la préparation au jambon dans la terrine, déposer les bouquets de chou-fleur puis recouvrir du reste de la préparation.
+    Tasser la terrine en la tapotant sur le plan de travail.
+    Recouvrir des deux tranches de poitrine restantes puis d'une feuille d'aluminium.
+    Faire cuire au bain-marie au four pendant 1h30.
+    Sortir du four et démouler lorsque c'est refroidi.
+  ]]>
+  </preparation>
+</recette>

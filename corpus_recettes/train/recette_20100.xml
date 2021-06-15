@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20100">
+  <titre>Champignons farcis au jambon et au parmesan</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 gros champignons</p>
+    <p>6 tranches de jambon de pays (120 g)</p>
+    <p>3 tranches de pain de mie</p>
+    <p>2 oignons blancs</p>
+    <p>1 oeuf</p>
+    <p>1 bouquet de cerfeuil</p>
+    <p>huile d'olive</p>
+    <p>2 brins de thym</p>
+    <p>50 g de parmesan</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le bout terreux des champignons, les laver, les essuyer, puis séparer les pieds des chapeaux.
+    Préchauffer votre four à 180°C (thermostat 6).
+    Mettre ensuite les chapeaux à blanchir dans l'eau bouillante salée, puis les laisser égoutter.
+    Dans un mixeur : hacher le jambon, les pieds de champignon, une partie du parmesan (en réserver 2 cuillères à soupe), le pain, les oignons pelés, l'oeuf, le cerfeuil et l'assaisonnement. Bien mixer le tout jusqu'à l'obtention d'une farce fine et homogène.
+    Farcir les chapeaux avec puis les disposer sur la plaque beurrée du four. Les arroser d'un filet d'huile d'olive et les saupoudrer de thym et de parmesan.
+    Les faire cuire 20 min pour que la farce soit bien gratinée.
+    Utiliser un cuit-vapeur pour précuire les champignons afin de mieux préserver leur saveur et leur texture.
+  ]]>
+  </preparation>
+</recette>

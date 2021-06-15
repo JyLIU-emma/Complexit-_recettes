@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23246">
+  <titre>Soupe à l'ail</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 têtes d'ail</p>
+    <p>4 pommes de terre</p>
+    <p>huile d'olive</p>
+    <p>lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir doucement les gousses d'ail pelées (attention il faut les ouvrir en deux et enlever le germe) et les pommes de terre coupées en dés. 
+    Attention que cela ne colore pas trop, afin d'obtenir une jolie couleur au moment du service. 
+    Au bout de 10 mn recouvrir de lait et laisser cuire doucement 1 heure environ. 
+    Mixer et servir ce velouté accompagné de croûtons tartinés de tapenade noire. 
+    Un régal pour l'oeil et le palais.
+    Les proportions peuvent varier selon la taille des têtes d'ail et des pommes de terre. J'avoue beaucoup me servir de mon "pifomètre"
+  ]]>
+  </preparation>
+</recette>

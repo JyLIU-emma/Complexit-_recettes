@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20517">
+  <titre>Pâtes aux tomates et à la tapenade</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de pâtes torsadées ou farfalle</p>
+    <p>1 boîte de tomates pelées en cubes de 280 g</p>
+    <p>1 cuillère à soupe de concentré de tomates</p>
+    <p>1 oeuf</p>
+    <p>de la tapenade d'olives noires</p>
+    <p>sel, poivre</p>
+    <p>herbes de Provence, thym, romarin et origan</p>
+    <p>Tabasco</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pâtes. 
+    Pendant ce temps, mélanger le concentré de tomates avec les tomates en cubes. Faire cuire dans une casserole avec du sel, du poivre, les herbes et un peu de Tabasco pendant 10 mn environ. 
+    Casser l'oeuf dans une poêle et faire cuire en remuant constamment afin d'obtenir des oeufs brouillés. 
+    Servir les pâtes dans des bols, ajouter la sauce tomate, 2 ou 3 petites cuillères de tapenade et saupoudrer avec les oeufs brouillés. 
+    Servir aussitôt.
+  ]]>
+  </preparation>
+</recette>

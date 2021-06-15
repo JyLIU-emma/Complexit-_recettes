@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20919">
+  <titre>Cake   au  Saint Agur</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour un cake ou 6 mini cakes:</p>
+    <p>150 g de farine</p>
+    <p>3 oeufs</p>
+    <p>125 ml de lait</p>
+    <p>1 sachet de levure chimique</p>
+    <p>sel, poivre</p>
+    <p>cerfeuil</p>
+    <p>1 boîte de St Agur</p>
+    <p>150 g de cerneaux de noix</p>
+    <p>un petit filet d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    C'est très simple, il suffit de tout mélanger en ayant préalablement haché les noix et emietté le fromage. Mettre le tout dans un moule à cake beurré et enfourner dans le four préchauffé à 210 degrés pendant environ 35 mn ; surveiller la cuisson.
+    Vous pouvez déguster ce bon cake en plat principal le soir avec une salade verte. Autre solution,le découper et le servir en apéro: un régal!
+  ]]>
+  </preparation>
+</recette>

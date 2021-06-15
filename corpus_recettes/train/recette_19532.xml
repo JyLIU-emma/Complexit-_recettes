@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19532">
+  <titre>Noisettins   (petits fours)</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>125 g beurre</p>
+    <p>100 g sucre fin</p>
+    <p>1 œuf</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>150 g farine</p>
+    <p>100 g noisettes moulues</p>
+    <p>Pour le décor:</p>
+    <p>60 g noisettes entières</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre le beurre et le sucre en mousse. Ajouter l'oeuf, le sucre vanillé, les noisettes. Incorporer la farine. Travailler le tout. Disposer des petits tas sur une tôle recouverte de papier sulfurisé. 
+    Poser une noisette sur chacun. Faire cuire 10 mn à température moyenne (surveiller)
+  ]]>
+  </preparation>
+</recette>

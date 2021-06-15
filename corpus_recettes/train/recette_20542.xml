@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20542">
+  <titre>Daube de boeuf</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de macreuse</p>
+    <p>1,5 kg de carottes</p>
+    <p>250 g d’échalotes</p>
+    <p>250 g de lard fumé en dés</p>
+    <p>50 g de beurre</p>
+    <p>75 cl de vin rouge (une bouteille) </p>
+    <p>5 cl de Madère</p>
+    <p>8 tomates bien mûres (ou une grosse boîte de tomates pelées)</p>
+    <p>1 bouquet garni</p>
+    <p>sel, poivre à votre convenance</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez la viande en cubes. 
+    Les carottes en rondelles et les échalotes en dés. 
+    Dans une cocotte faites fondre le beurre. 
+    Mettre la viande et la faire dorer puis réserver. 
+    Mettre les échalotes et les lardons. 
+    Ajoutez les carottes. 
+    Remettez la viande et le reste des ingrédients. 
+    Amenez à ébullition. 
+    Couvrez baissez la source de chaleur et laissez cuire 3h avant de servir.Délicieux réchauffé
+  ]]>
+  </preparation>
+</recette>

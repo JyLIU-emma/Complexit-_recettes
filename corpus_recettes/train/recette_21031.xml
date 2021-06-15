@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21031">
+  <titre>Calamars à la tunisienne</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 calamars ou 4 seiches</p>
+    <p>2 poivrons rouges</p>
+    <p>2 tomates pelées</p>
+    <p>100 g d'oignons</p>
+    <p>2 gousses d'ail</p>
+    <p>10 cl d'huile d’olive</p>
+    <p>150 g de riz</p>
+    <p>safran</p>
+    <p>thym, laurier</p>
+    <p>piment de Cayenne</p>
+    <p>le jus d'1 citron vert</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les calamars à cuire pendant 1 heure dans une cocotte remplie avec 20 cl d'eau salée. Les égoutter et les faire frire dans de l'huile d'olive, puis réserver.
+    Peler et hacher les gousses d'ail, les oignons et peler les tomates. Réserver.
+    Dans une poêle huilée, faire fondre les oignons, l'ail les tomates, le thym, le laurier et le safran.
+    Faire cuire du riz, l'égoutter et l'incorporer au fondu d'oignons et de tomates.
+    Servir les calamars garnis de riz parfumé et arrosés de jus de citron vert.
+  ]]>
+  </preparation>
+</recette>

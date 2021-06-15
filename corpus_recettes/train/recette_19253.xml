@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19253">
+  <titre>GRATIN 3 COULEURS</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de hachis mélange porc/boeuf</p>
+    <p>500 g purée de pommes de terre</p>
+    <p>250 g poireaux</p>
+    <p>crème</p>
+    <p>emmenthal râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir le hachis dans une poêle jusq'à ce qu'il soit brun. Préparer une purée de pomme de terre. 
+    Dans un plat allant au four, disposer le hachis, les poireaux à la crème et la purée en 3 couches. Parsemez d'emmenthal râpé pour la croûte. 
+    Enfournez 10 mn à four chaud (220°C ) . 
+    Bon appétit.
+    Facile et pas cher.
+  ]]>
+  </preparation>
+</recette>

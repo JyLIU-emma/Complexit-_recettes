@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10597">
+  <titre>Papillote de poulet au bacon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 blanc de poulet</p>
+    <p>1 tranche de bacon</p>
+    <p>2 rondelles de tomate</p>
+    <p>1 champignon de Paris</p>
+    <p>sel, poivre, thym</p>
+    <p>1 cuillère à soupe de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez par personne une papillote (papier aluminium ou sulfurisé) avec un blanc de poulet, une tranche de bacon, 2 rondelles de tomate, des lamelles de champignons, sel, poivre, thym et une bonne cuillère de crème fraîche.
+    Cuire 25 minutes à 210°C (thermostat 7) dans un four préchauffé.
+    Très facile, très rapide, pas cher.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Préparez</OPER> par personne une papillote ( papier aluminium ou sulfurisé ) avec un <INGRED id="1">blanc de poulet</INGRED>, une tranche de <INGRED id="2">bacon</INGRED>, 2 rondelles de <INGRED id="3">tomate</INGRED>, des lamelles de <INGRED id="3">champignons</INGRED>, sel, <INGRED id="8">poivre</INGRED>, <INGRED id="7">thym</INGRED> et une bonne cuillère de <INGRED id="7">crème fraîche</INGRED>. <OPER id="o_2">Cuire</OPER> 25 minutes à 210 ° C ( thermostat 7 ) dans un four préchauffé. Très facile, très rapide, pas cher.
+  </annotation>
+  <annotation methode="crf">
+  Préparez par personne une papillote ( papier aluminium ou sulfurisé ) avec un <INGRED>blanc de poulet</INGRED> <INGRED>,</INGRED> une tranche de <INGRED>bacon</INGRED> <INGRED>,</INGRED> 2 rondelles de <INGRED>tomate</INGRED> <INGRED>,</INGRED> des <INGRED>lamelles</INGRED> de <INGRED>champignons</INGRED> <INGRED>,</INGRED> <INGRED>sel</INGRED> <INGRED>,</INGRED> <INGRED>poivre</INGRED> <INGRED>,</INGRED> thym et une bonne cuillère de <INGRED>crème fraîche</INGRED> <INGRED>.</INGRED> Cuire 25 minutes à 210 ° C ( thermostat 7 ) dans un four préchauffé <INGRED>.</INGRED> Très facile <INGRED>,</INGRED> très rapide <INGRED>,</INGRED> pas cher.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 1.33333333333333*X + 0.666666666666667</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 6*X + 4</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['blanc de poulet', 'blanc']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['bacon']	 id:2	 quantité:1	 unité:tranche de	 denombrable:True	 recipient:1*X
+ingredient:['tomate']	 id:3	 quantité:2	 unité:rondelles de	 denombrable:True	 recipient:2*X
+ingredient:['champignon de Paris', 'champignon']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['thym']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:8	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préparer	 id:o_1	 ingrédients_ralatifs:['1', '2', '3', '3', '8', '7', '7']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:cuire	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+]]>
+</operation_trouve>
+</recette>

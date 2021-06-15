@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23884">
+  <titre>Pâtes en sauce aux aubergines</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g de pâtes (penne, macaroni, papillons...)</p>
+    <p>750 g d'aubergines</p>
+    <p>375 g de tomates</p>
+    <p>75 g de beurre</p>
+    <p>persil</p>
+    <p>parmesan</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez et découpez les aubergines en cubes. Laissez-les dégorger avec du gros sel pendant 15 min.
+    Pelez et concassez les tomates, épépinez-les.
+    Faites chauffer le beurre, faites-y revenir les aubergines et les tomates à feu doux jsuqu'à l'obtention d'un coulis épais.
+    Salez, poivrez et rajoutez du persil frais haché.
+    Pendant ce temps, faites cuire les pâtes à l'eau bouillante salée.
+    Egouttez-les puis mélangez-les à la sauce.
+    Servez aussitôt avec le parmesan râpé.
+    Vous pouvez aussi faire gratiner les pâtes mélangées à la sauce et couverte de parmesan ou mozzarella.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13366">
+  <titre>Pâtes aux tomates fraîches</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 tomates bien mûres</p>
+    <p>5/6 cuil. à soupe d'huile d'olive</p>
+    <p>sel, poivre, basilic, herbes de provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ebouillanter les tomates 1 mn et les peler.
+    Passer les tomates au mixer afin d'obtenir une purée.
+    Ajouter l'huile d'olive, le sel, le poivre, le basilic et les herbes de provence selon votre goût.
+    Cuire les pâtes (spaghettis ou autres) selon votre goût.
+    Dès quisson, égoutter et servir dans un saladier. Servir la sauce à côté, avec un peu de basilic dessus si vous en disposez.
+    Vous pouvez remplacer les tomates fraîches par des tomates entières, concassées ou en purée en boîte (surtout pas de concentré de tomate). Vous ajouterez alors une cuillérée à café de sucre en poudre pour enlever l'acidité.
+  ]]>
+  </preparation>
+</recette>

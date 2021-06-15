@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18870">
+  <titre>Côtes de porc à la crème et aux pommes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 côtelettes de porc maigre</p>
+    <p>1/3 de tasse d'oignon haché</p>
+    <p>5 ml de mélange pour bouillon de boeuf</p>
+    <p>1 pincée de thym moulu</p>
+    <p>1/2 tasse de jus de pomme</p>
+    <p>6 tranches épaisses de pomme rouge</p>
+    <p>150 ml de crème à fouetter</p>
+    <p>sel et poivre</p>
+    <p>farine</p>
+    <p>beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Fariner les côtes de porc, les secouer pour enlever l'excédent de farine. 
+    Dans une grand poêle, faire fondre un peu de beurre à feu moyen-vif. Y dorer les côtes de porc sur les deux côtés ; le retirer de la poêle et réserver. 
+    Dans la même poêle, cuire l'oignon jusqu'à ce qu'il soit tendre, ajouter du beurre au besoin. Incorporer le mélange pour bouillon de boeuf et le thym ; ajouter le jus de pomme et bien remuer. 
+    Remettre la viande dans la poêle. Porter à ébulliton à feu moyen-vif. Réduire l'intensité, couvrir et laisser mijoter 50 mn ou jusqu'à ce que la viande soit tendre. 
+    15 mn avant la fin de cuisson, disposer les tranches de pomme sur la viande. Retirer la viande et les pommes de la poêle, garder au chaud. 
+    Verser la crème dans la poêle, bien remuer et porter à ébullition. Cuire à feu moyen en remuant sans cesse jusqu'à ce que la sauce ait la consistance désirée. 
+    Saler et poivrer au goût. Verser sur la viande et sur les pommes. Servir chaud
+  ]]>
+  </preparation>
+</recette>

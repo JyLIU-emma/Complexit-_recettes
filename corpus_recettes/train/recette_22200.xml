@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22200">
+  <titre>Potage au persil</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 l de bouillon </p>
+    <p>150 g de persil</p>
+    <p>60 g de beurre</p>
+    <p>2 cuillères à soupe de crème</p>
+    <p>1 cuillère à soupe bombée de farine</p>
+    <p>1 bouquet garni</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre le persil et le bouquet garni dans le bouillon froid.
+    Amener à ébullition et laisser cuire à petits frémissements durant 10 minutes.
+    Filtrer.
+    Mélanger la farine au beurre fondu sur feu doux jusqu'à ce qu'elle blondisse. Mouiller avec le bouillon et laisser à nouveau cuire 10 minutes.
+    Incorporer la crème et servir.
+  ]]>
+  </preparation>
+</recette>

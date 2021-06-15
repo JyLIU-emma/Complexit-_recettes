@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16947">
+  <titre>Oeufs à la hollandaise</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 oeufs</p>
+    <p>vin rouge</p>
+    <p>3 échalotes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    mettre ds trois ramequins les 3 oeufs, les faites cuire ds le four au thermostat 7.
+    Ensuite faire suer les échalotes sans coloration puis rajouter la quantité de vin rouge désirée ; n'attendez pas trop l'évaporation du vin car il n'y aurait pas assez de sauce sinon. 
+    Enlever les oeufs dont le blanc est ferme et le jaune est à moitié cuit puis rajouter le sauce par dessus le blanc mais pas sur le jaune. Servez tous de suite
+    ne laisser pas trop longtemps les oeufs  vin rouge sec
+  ]]>
+  </preparation>
+</recette>

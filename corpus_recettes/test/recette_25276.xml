@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25276">
+  <titre>Tourte chèvre pommes de terre</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de pommes de terre</p>
+    <p>1 noix de beurre</p>
+    <p>3 cuillères à soupe de crème fraîche</p>
+    <p>4 jaunes d'œuf</p>
+    <p>2 rouleaux de pâtes feuilletées</p>
+    <p>250 g de fromage de chèvre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Plonger les pommes de terre dans une casserole d'eau bouillante salée et les réduire en purée.
+    Incorporer dans la purée le beurre, la crème fraîche, 4 jaunes d'œuf et le fromage de chèvre émietté ; assaisonner.
+    Foncer un moule à tarte de pâte feuilletée, y verser la préparation et recouvrir de la deuxième pâte. Sceller les bords avec un peu d’eau et former une cheminée au milieu de la tourte.
+    Badigeonner d’un jaune d'œuf battu et enfourner pendant 1 h à 180°C (thermostat 6).
+  ]]>
+  </preparation>
+</recette>

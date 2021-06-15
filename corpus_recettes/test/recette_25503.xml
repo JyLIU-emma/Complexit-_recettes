@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25503">
+  <titre>Courgettes farcies à la béchamel et au fromage</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 courgettes de taille moyenne</p>
+    <p>10 g de beurre</p>
+    <p>5 cuillères à soupe de chapelure</p>
+    <p>croutons frits</p>
+    <p>Pour la sauce béchamel :</p>
+    <p>25 cl de lait</p>
+    <p>20 g de beurre</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>50 g de gruyère râpé</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 220°C (thermostat 7/8).Laver les courgettes et les plonger dans l’eau bouillante salée pendant 15 min environ.
+    Les laisser refroidir, puis couper les 2 extrémités et les vider de leur partie centrale (ou pulpe).Réserver la pulpe.
+    Préparer ensuite une béchamel en fouettant dans une casserole le beurre avec la farine et le lait.
+    Lorsque la sauce est lisse, ajouter le fromage râpé en continuant de remuer.
+    Incorporer la pulpe à la béchamel et bien mélanger.
+    Dans un plat à gratin beurré, placer les demi-courgettes, puis les farcir de béchamel à la pulpe de courgette.
+    Les saupoudrer de chapelure, et de noisettes de beurre, saler et poivrer.
+    Enfourner le plat à four chaud pendant 15 min pour les faire gratiner.
+    Les garnir de croutons frits dés la sortie du four, juste avant de servir.
+  ]]>
+  </preparation>
+</recette>

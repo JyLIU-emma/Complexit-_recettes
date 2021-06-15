@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24752">
+  <titre>Rôti de veau farci au jambon et poivron</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,2 kg de poitrine de veau </p>
+    <p>200 g de veau haché</p>
+    <p>100 g de jambon cuit haché</p>
+    <p>50 g de beurre </p>
+    <p>1/2 bouquet de persil haché </p>
+    <p>2 œufs durs </p>
+    <p>1 oignon </p>
+    <p>1 bouquet garni </p>
+    <p>1 poivron rouge en lamelles</p>
+    <p>10 cl de bouillon de bœufs</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, malaxer les œufs durs émiettés, le jambon cuit, le persil, le veau, le poivron émincé, le sel et le poivre.
+    Ouvrir la poitrine et la farcir de la préparation précédente.
+    Refermer la viande avec du fil de cuisine.
+    Poser le rôti dans une cocotte et ajouter l'oignon ciselé et le bouquet garni.
+    Assaisonner et recouvrir de beurre et de bouillon.
+    Enfourner pendant 1 h à 210°C (thermostat 7). 
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24280">
+  <titre>Côtes de porc moutardées au parmesan</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 côtes de porc</p>
+    <p>moutarde</p>
+    <p>1 jaune d'oeuf</p>
+    <p>6 cuillères à soupe de chapelure</p>
+    <p>4 cuillères à soupe de parmesan râpé</p>
+    <p>beurre</p>
+    <p>huile</p>
+    <p>1 citron</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Badigeonnez les côtes de porc de moutarde et laissez-les au réfrigérateur toute la nuit.
+    Battez le jaune d'oeuf avec un trait d'eau.
+    Mélangez la chapelure et le parmesan.
+    Passez les côtes dans le jaune d'oeuf, puis dans la chapelure au parmesan en faisant bien adhérer.
+    Faites chauffer un peu de beurre et d'huile dans une poêle et faites-y cuire les côtes de porc de chaque côté.
+    Servez avec 1 quartier de citron sur chaque côte.
+  ]]>
+  </preparation>
+</recette>

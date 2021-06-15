@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26615">
+  <titre>Côte de porc sur lit d'orange</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 oranges</p>
+    <p>2 oignons (de taille moyenne) </p>
+    <p>2 côtes de porc</p>
+    <p>2 cuillèrres à soupe d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez deux oranges, coupez-les en tranches pas trop épaisses. 
+    Epluchez les oignons et coupez-les en fines lamelles. 
+    Cans une poêle à larges bords, munie d'un couvercle, faites chauffer deux cuillères à soupes d'huile puis, ajoutez les oignons en les étalant. 
+    De la même façon, disposez ensuite la moitié des tranches d'orange puis les côtes de porc. 
+    Laissez cuire à feu doux durant 10 mn et retournez la viande. 
+    Recouvez-la du reste des tranches d'orange, salez et poivez. 
+    Mettez un couvercle et laissez cuire encore 10 mn.
+  ]]>
+  </preparation>
+</recette>

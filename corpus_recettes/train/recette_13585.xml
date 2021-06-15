@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13585">
+  <titre>Mousse au chocolat facile</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 oeufs</p>
+    <p>100 g chocolat (noir ou au lait)</p>
+    <p>1 sachet de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire ramollir le chocolat dans une terrine. 
+    Incorporer les jaunes et le sucre. 
+    Puis, battre les blancs en neige ferme et les ajouter délicatement au mélange à l'aide d'une spatule. 
+    Mettre au frais 1 heure ou 2 minimum.
+    Vous pouvez utiliser n'importe quel chocolat, Plus il sera noir, plus la mousse sera consistante.
+    Photo : Manina Hatzimichali
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18071">
+  <titre>Cake aux pépites de chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de beurre</p>
+    <p>150 g de sucre glace</p>
+    <p>3 œufs</p>
+    <p>220 g de farine </p>
+    <p>11 g de levure</p>
+    <p>250 g de pépites de chocolat (ou de chocolat émietté)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Travailler le beurre ramolli (le sortir au moins une ou deux heures à l'avance) avec le sucre et ajouter progressivement les œufs, la farine et la levure. 
+    Incorporer les pépites de chocolat. 
+    Beurrer un moule à cake. 
+    Faire cuire à 175°C (thermostat 6) pendant environ 45 minutes (la lame d'un couteau doit ressortir sèche).
+  ]]>
+  </preparation>
+</recette>

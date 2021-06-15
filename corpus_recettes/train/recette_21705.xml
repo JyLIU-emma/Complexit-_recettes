@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21705">
+  <titre>Feuilleté de veau</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de veau à rôtir</p>
+    <p>500 g de champignons frais</p>
+    <p>7 à 8 échalotes hachées</p>
+    <p>1 verre de vin blanc</p>
+    <p>1 verre de Porto rouge</p>
+    <p>2 verres de crème</p>
+    <p>50 g de beurre</p>
+    <p>400 g de pâte feuilletée</p>
+    <p>sel poivre </p>
+    <p>1 pincée de noix de muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper la viande en petits cubes et la faire revenir dans le beurre. 
+    Enlever la viande et faire blondir les échalotes. 
+    Faire jeter l'eau aux champignons en les faisant revenir dans la sauteuse. 
+    Mélanger la viande, les champignons les échalotes le vin blanc le Porto, sel poivre, muscade. Laisser cuire 30 mn. A la fin de la cuisson ajouter la crème. 
+    Mettre dans un plat allant au four recouvrir de pâte en faisant bien déborder sur les côtés du plat. Faire une cheminée sur le dessus, dorer à l'oeuf. 
+    Faire cuire 30 mn à four Th 8.
+    Peut se faire avec du filet de dinde.
+    Peut être préparé à l'avance et réchauffé
+  ]]>
+  </preparation>
+</recette>

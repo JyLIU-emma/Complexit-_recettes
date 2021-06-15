@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24926">
+  <titre>Flan de poivrons</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 poivrons rouges</p>
+    <p>4 oeufs</p>
+    <p>20 cl de crème fraîche</p>
+    <p>1 fromage de chèvre frais</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les poivrons en 2, les laver et épépiner. Les faire cuire au four (180°C) sur une plaque pendant 30 min. 
+    Peler et passer au mixer avec les oeufs et la crème. Saler et poivrer. Hors mixer, ajouter le fromage en petits morceaux. 
+    Cuire dans un plat à cake 45 mn à four 160°C. Servir chaud ou froid selon la saison.
+    Peut accompagner une viande, des pâtes,des pommes sautées.....
+  ]]>
+  </preparation>
+</recette>

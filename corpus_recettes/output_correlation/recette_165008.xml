@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165008">
+  <titre>Ramequins de poulet au four</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 boules de mozzarella</p>
+    <p>tomates concassées en boite</p>
+    <p>crème fraiche</p>
+    <p>2 escalopes de poulet</p>
+    <p>2 oeufs</p>
+    <p>sel, poivre, chapelure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper les escalopes en petits morceaux et les faire revenir dans une poele.
+    Recouvrir le fond des ramequins de mozzarella.
+    Dans un récipient, mélanger de la crème fraiche, les tomates, et les oeufs (doses de crème et tomates selon votre gout). Saler, poivrer.
+    Au dessus de la mozzarella, mettre les morceaux de poulet, puis rajouter le mélange crème/tomates/oeufs. 
+    Remettre une couche de mozzarella, puis de la chapelure.
+    Enfourner dans un four chaud, 10 min à 180°. Servir chaud à l'apéritif ou en entrée !
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Découper</OPER> les <INGRED id="4">escalopes</INGRED> en <INGRED id="3">petits</INGRED> morceaux et les faire <OPER id="o_2">revenir</OPER> dans une poele. <OPER id="o_3">Recouvrir</OPER> le fond des ramequins de mozzarella. Dans un récipient, <OPER id="o_4">mélanger</OPER> de la <INGRED id="2">crème fraiche</INGRED>, les <INGRED id="3">tomates</INGRED>, et les oeufs ( doses de crème et tomates selon votre gout ). <OPER id="o_5">Saler</OPER>, <OPER id="o_6">poivrer</OPER>. Au dessus de la mozzarella, <OPER id="o_7">mettre</OPER> les morceaux de poulet, puis <OPER id="o_8">rajouter</OPER> le mélange crème / <INGRED id="3">tomates</INGRED> / <INGRED id="5">oeufs</INGRED>. <OPER id="o_9">Remettre</OPER> une couche de mozzarella, puis de la <INGRED id="8">chapelure</INGRED>. <OPER id="o_10">Enfourner</OPER> dans un four chaud, 10 min à 180 °. Servir chaud à l'apéritif ou en entrée !
+  </annotation>
+  <annotation methode="crf">
+  Découper les <INGRED>escalopes</INGRED> en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> et les faire revenir dans une poele. Recouvrir le <INGRED>fond</INGRED> des ramequins de <INGRED>mozzarella</INGRED> <INGRED>.</INGRED> Dans un récipient <INGRED>,</INGRED> mélanger de la <INGRED>crème fraiche</INGRED> <INGRED>,</INGRED> les <INGRED>tomates</INGRED> <INGRED>,</INGRED> et les <INGRED>oeufs</INGRED> ( doses de <INGRED>crème</INGRED> et <INGRED>tomates</INGRED> selon votre gout ). Saler <INGRED>,</INGRED> poivrer. Au dessus de la <INGRED>mozzarella</INGRED> <INGRED>,</INGRED> mettre les <INGRED>morceaux</INGRED> de <INGRED>poulet</INGRED> <INGRED>,</INGRED> puis rajouter le <INGRED>mélange</INGRED> <INGRED>crème</INGRED> / <INGRED>tomates</INGRED> / <INGRED>oeufs</INGRED> <INGRED>.</INGRED> Remettre une couche de <INGRED>mozzarella</INGRED> <INGRED>,</INGRED> puis de la <INGRED>chapelure</INGRED> <INGRED>.</INGRED> Enfourner dans un four chaud <INGRED>,</INGRED> 10 min à 180 °. Servir chaud à l'apéritif <INGRED>ou</INGRED> en entrée !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 6.54545454545454*X + 5.45454545454545</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 6*X + 10</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['boules de mozzarella', 'boules']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['tomates concassées en boite', 'tomates']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraiche', 'crème']	 id:3	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['escalopes de poulet', 'escalopes']	 id:4	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['oeufs']	 id:5	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['sel']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['chapelure']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:découper	 id:o_1	 ingrédients_ralatifs:['4', '3']	 nombre_opération_atomique:2*X+1	 temps:2*X*1+1*X*1	 recipient:1
+operation:revenir	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:recouvrir	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_4	 ingrédients_ralatifs:['2', '3']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:saler	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_7	 ingrédients_ralatifs:['3', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:rajouter	 id:o_8	 ingrédients_ralatifs:['3', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remettre	 id:o_9	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:enfourner	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

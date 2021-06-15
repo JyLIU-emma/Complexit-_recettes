@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12259">
+  <titre>Paris-Brest</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte à choux :</p>
+    <p>1 tasse d'eau</p>
+    <p>100 g de beurre</p>
+    <p>6 œufs</p>
+    <p>160 g de farine</p>
+    <p>Pour la crème :</p>
+    <p>50 g sucre</p>
+    <p>1 cuillerée de maïzena</p>
+    <p>1/4 litre de lait</p>
+    <p>1 cuillerée de café en poudre</p>
+    <p>4 œufs (séparer les blancs des jaunes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire le beurre dans l'eau. Ajouter la farine d'un coup et mélanger vigoureusement. Retirer du feu et ajouter les œufs l'un après l'autre. Former une couronne avec la pâte et mettre à four moyen 15 minutes.
+    Laisser refroidir dans le four.
+    Crème :Battre les jaunes avec le sucre et la maïzena.  Faire bouillir le lait avec le café. Mélanger et remettre sur le feu.
+    Quand ça commence à bouillir, on retire du feu, on laisse refroidir et on ajoute les blancs bien fouettés.
+    Couper la couronne en deux moitiés. Farcir une moitié avec la crème et couvrir avec l'autre moitié.Décorer avec le sucre en poudre et les filets d'amandes.
+  ]]>
+  </preparation>
+</recette>

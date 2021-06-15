@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25556">
+  <titre>Crème anglaise micro-onde</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>0,5 l de lait</p>
+    <p>3 oeufs</p>
+    <p>150 g de sucre</p>
+    <p>25 g de farine</p>
+    <p>1 sachet sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir le lait dans le micro-onde 6 mn puissance maximum. 
+    Battre les jaunes oeufs avec le sucre, sucre vanillé, farine. 
+    Versez le lait sur la préparation, remettre le tout dans le micro-onde 2 mn puissance maximum. 
+    Sortir le plat, fouetter et remettre à nouveau 1 mn. 
+    Battre les blancs, les disposer sur une assiette plate en boule et les faire cuire 1 mn au micro-onde. 
+    Les ajouter sur votre crème refroidie, ajouter éventuellement un filet de caramel.
+    N'hésiter pas à rajouter le caramel, je prépare la crème dans un saladier.
+  ]]>
+  </preparation>
+</recette>

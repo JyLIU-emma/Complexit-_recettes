@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25729">
+  <titre>Pigeonneaux flambés au cognac et à l'orange</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 pigeonneaux</p>
+    <p>100 g de lard</p>
+    <p>50 cl de crème fraîche</p>
+    <p>50 g de beurre</p>
+    <p>2 cuillerées à soupe de cognac</p>
+    <p>1 orange</p>
+    <p>1/2 citron</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découpez le lard en lardons, ébouillantez-les 5 min.
+    Pressez le jsu de l'orange et du 1/2 citron.
+    Faites fondre le beurre dans une cocotte, faites-y dorer les pigeonneaux sur toutes leurs faces.
+    Rajoutez les lardons et flambez avec le cognac.
+    Versez le jus d'orange et de citron, salez et poivrez.
+    Couvrez et laissez mijoter 10 min.
+    Mouillez avec 2 verres d'eau et laissez mijoter encore 15 min en arrosant de temps en temps avec le jus de cuisson.
+    Retirez les pigeonneaux de la cocotte, videz le jus.
+    Déglacez la cocotte avec untrait de cognac, liez avec la crème fraîche.
+    Servez les pigeonneaux coupés en 2 et entourés de sauce.
+    A accompagner de légumes primeurs vapeurs ou de riz par exemple.
+  ]]>
+  </preparation>
+</recette>

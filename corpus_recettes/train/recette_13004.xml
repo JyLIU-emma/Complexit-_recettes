@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13004">
+  <titre>Lapin au basilic</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 lapin</p>
+    <p>150 g de lardons </p>
+    <p>4 tomates</p>
+    <p>1 bouquet de basilic</p>
+    <p>25 cl de vin blanc sec</p>
+    <p>150 g d'oignons grelots</p>
+    <p>3 à 4 gousses d'ail haché fin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper le lapin. Dorer les morceaux et les mettre de côté.
+    Dorer les oignons grelots et les mettre de côté. Faire revenir les lardons et les mettre de côté. Jeter la graisse.
+    Ciseler le basilic. Mettre le lapin, les oignons grelots, les lardons et les tomates coupées en 4 dans une cocotte. Parsemer d'ail et basilic. Ajouter le vin blanc et assaisonner.
+    Laisser cuire à feu doux environ 45 min (selon la taille du lapin).
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10655">
+  <titre>Gaudes comtoises</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>farine de maïs</p>
+    <p>lait</p>
+    <p>crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Délayer de la farine de maïs dans de l'eau froide en évitant les
+    grumeaux.
+    Mettre au feu et cuire tout en remuant sans arrêt d'une spatule de bois, et toujours dans le même sens.
+    A mesure que les gaudes épaississent, verser du lait.
+    Le tout doit durer une heure et demie au moins.
+    Ajouter de la crème fraîche et servir.N.B. Il y a des variantes, et certains émiettent en plus du pain dans les gaudes.Cette robuste bouillie de maïs au lard aurait des vertus prolifiques.
+    Un vieux dicton comtois assure qu'il y a plus d'enfants dans une mesurede gaudes que dans deux muids de vin.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Délayer</OPER> de la <INGRED id="1">farine de maïs</INGRED> dans de l'eau froide en évitant les grumeaux. <OPER id="o_2">Mettre</OPER> au feu et <OPER id="o_3">cuire</OPER> tout en remuant sans arrêt d'une spatule de bois, et toujours dans le même sens. A mesure que les gaudes épaississent, <OPER id="o_4">verser</OPER> du lait. Le tout doit <OPER id="o_5">durer</OPER> une heure et demie au moins. <OPER id="o_6">Ajouter</OPER> de la crème fraîche et servir. N.B. Il y a des variantes, et certains émiettent en plus du pain dans les gaudes. Cette robuste bouillie de maïs au <INGRED id="2">lard</INGRED> aurait des vertus prolifiques. Un vieux dicton comtois assure qu'il y a plus d'enfants dans une mesurede gaudes que dans deux muids de <INGRED id="2">vin</INGRED>.
+  </annotation>
+  <annotation methode="crf">
+  Délayer de la <INGRED>farine de maïs</INGRED> dans de l'<INGRED>eau</INGRED> froide en évitant les grumeaux <INGRED>.</INGRED> Mettre au feu et cuire tout en remuant sans arrêt d'une spatule de bois <INGRED>,</INGRED> et toujours dans le même sens. A mesure que les gaudes épaississent <INGRED>,</INGRED> verser du <INGRED>lait</INGRED> <INGRED>.</INGRED> Le tout doit durer une heure et demie au moins. Ajouter de la <INGRED>crème fraîche</INGRED> et servir <INGRED>.</INGRED> N.B. Il y a des variantes <INGRED>,</INGRED> et certains émiettent en plus du <INGRED>pain</INGRED> dans les gaudes. Cette robuste bouillie de <INGRED>maïs</INGRED> au <INGRED>lard</INGRED> aurait des vertus prolifiques. Un vieux dicton comtois assure qu'il y a plus d'enfants dans une mesurede gaudes que dans <INGRED>deux</INGRED> muids de <INGRED>vin</INGRED>.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 6.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 5</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['farine de maïs', 'farine']	 id:1	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:3	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:délayer	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cuire	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:verser	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:durer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

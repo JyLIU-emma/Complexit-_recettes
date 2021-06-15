@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15809">
+  <titre>Tarte aux bananes des îles</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 bananes figues mûres ou 3 grande bananes mûres</p>
+    <p>2 oeufs</p>
+    <p>30 g de sucre roux</p>
+    <p>2 cuillères à café d'essence de vanille</p>
+    <p>3 cuillères à soupe de gelée de groseilles</p>
+    <p>1 goutte de rhum vieux (facultatif)Pour la pâte brisée :</p>
+    <p>200 g de farine</p>
+    <p>100 g de beurre</p>
+    <p>1 oeuf</p>
+    <p>1 cuillère à café d'essence de vanille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la pâte brisée en mélangeant la farine au beurre ramolli, puis lier le tout avec l'oeuf et la vanille.
+    Ecraser les bananes (en garder 1 pour la déco et la couper en rondelles), puis les mélanger avec le sucre, la vanille et le rhum.
+    Mettre la 'compote' de bananes sur votre pâte brisée dans un moule à tarte et faire cuire 10 mn à four chaud (230°C / thermostat 8), puis 25 mn à four moyen (180°C / thermostat 6).
+    Lorsque la tarte est cuite et encore chaude, la napper de gelée de groseilles, puis laisser refroidir.
+  ]]>
+  </preparation>
+</recette>

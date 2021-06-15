@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20408">
+  <titre>Riz aux épices</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de riz blanc longs grains</p>
+    <p>1 oignon</p>
+    <p>1 boîte de tomates pelée</p>
+    <p>4 spirings de porc</p>
+    <p>Epices: safran ; poivre de cayenne ; cumin ; paprika ; sel ; une gousse d'ail écrasée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire l'oignon émincé et l'ail dans une casserole à fond large avec du beurre. 
+    Placer les spiring dans la casserole et ajouter les épices. 
+    Mettre le riz à cuire les 3/4 du temps de cuisson indiqué sur le paquet. 
+    Quand la viande à roussi des deux côtés, ajouter la boîte de tomate. 
+    Quand le tout bouillone mettre le riz cuit au trois-quarts dans la casserole. 
+    Ne pas cesser de remuer, quand tout le liquide des tomates est absorbé, c'est prêt.
+    Ce plat est trés nourrissant pour un prix minime sans doute meilleur avec une bière légère
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22429">
+  <titre>Tourte aux poireaux et chèvre</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>900 g de petits blancs de poireaux</p>
+    <p>200 g de fromage de chèvre </p>
+    <p>30 cl de crème fraîche épaisse</p>
+    <p>3 oeufs</p>
+    <p>50 g de beurre</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>Pour la pâte :</p>
+    <p>350 g de farine tamisée</p>
+    <p>175 g de beurre</p>
+    <p>2 cuillères à café de moutarde forte</p>
+    <p>1/2 cuillère à café de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 200°C (thermostat 6-7).
+    Préparez la pâte : mélanger la farine et le sel dans un saladier. Ajoutez le beurre mou en morceaux et la moutarde.
+    Emiettez du bout des doigts, ajoutez progressivement un peu d'eau pour former une boule souple non collante. 
+    Laissez reposer au frigo emballée dans un film plastique. 
+    Coupez les blancs de poireaux en tronçons de 6-7 cm. Faites-les fondre, dans le beurre et l'huile chauffés dans une sauteuse, environ 20 min à feu doux en les retournant de temps à autre.
+    Etalez la moitié de la pâte. Tapissez en un moule à tarte assez profond de 23 cm de diamètre. Etalez-y les poireaux. 
+    Emiettez le fromage de chèvre, ajoutez la crème, 2 oeufs, le sel et le poivre, et battez le tout. Versez le mélange sur les poireaux.
+    Etalez le reste de pâte en un disque. Posez-le dessus et soudez les bords en pinçant avec les doigts.
+    Badigeonnez d'oeuf battu. Piquez la tourte avec une fourchette.
+    Enfournez 40 min : la pâte doit être croustillante et dorée.
+  ]]>
+  </preparation>
+</recette>

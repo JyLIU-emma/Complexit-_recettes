@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25911">
+  <titre>Terrine de thon aux olives et à l'aïl</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 pommes de terre à purée</p>
+    <p>1 boîte de thon à l'huile d'olive</p>
+    <p>50 g d'olives noires dénoyautées</p>
+    <p>4 tomates bien mûres</p>
+    <p>1 poignée de basilic frais</p>
+    <p>3 citrons</p>
+    <p>4 gousses d'ail</p>
+    <p>25 cl d'huile d'olive</p>
+    <p>1 jaune d'oeuf</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les pommes de terre à l'eau bouillante salée pendant 25 minutes.
+    Pelez et pilez les gousses d'ail finement avec un peu de sel et de poivre. Ajoutez le jaune d'oeuf puis versez l'huile en fouettant comme pour une mayonnaise. Ajoutez enfin le jus d'1/2 citron.
+    Pelez et écrasez les pommes de terre en purée. Laissez refroidir.
+    Mixez le thon. Mélangez la purée de pommes de terre avec l'aïoli, puis incorporez le thon, les olives grossièrement hachées et le basilic ciselé.
+    Goûtez, rectifiez l'assaisonnement puis versez dans un moule à cake. Tassez bien et réservez au frais, couvert d'aluminium.
+    Servez la terrine démoulée entourée de tomates en cubes et de quartiers de citrons.
+  ]]>
+  </preparation>
+</recette>

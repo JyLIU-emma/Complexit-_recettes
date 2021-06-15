@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12913">
+  <titre>Saumon mariné au citron vert</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>10 tranches de saumon fumé</p>
+    <p>3 citrons verts</p>
+    <p>huile d'olive</p>
+    <p>poivre</p>
+    <p>baies roses (facultatif, mais meilleur)</p>
+    <p>aneth frais en branches</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Séparer délicatement chaque tranche de saumon à l'aide d'un couteau, disposer une première couche en rosace dans un plat.
+    Poivrer uniformément, ajouter les baies roses, quelques brins d'aneth coupés au ciseaux, ajouter le jus des citrons en répartissant bien sur toute la surface. 
+    Ajouter environ 1 cuillère à soupe d'huile d'olive (assez pour recouvrir, mais pas trop pour ne pas baigner !).
+    Recommencer l'opération pour chaque couche. 
+    Puis, laisser mariner au frigo en recouvrant d'un film plastique, pendant au moins une matinée ou après-midi : idéalement, préparer la veille pour le lendemain.
+    A déguster avec des blinis maison, tartinés de beurre frais...
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14251">
+  <titre>Aubergines panées</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 grandes aubergines ou 4 petites</p>
+    <p>2 oeufs</p>
+    <p>5 cuillères à soupe de lait </p>
+    <p>chapelure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez les aubergines.
+    Les couper dans le sens de la longueur, les plonger une par une dans le mélange oeufs-lait, puis dans la chapelure.
+    Les faire dorer dans une poêle très chaude avec de l'huile (d'olive de préférence).
+    Les faire égoutter sur un papier absorbant. Saler et poivrer à votre convenance.
+    Ne pas oulier de les retourner à mi-cuisson. Elles doivent être dorées.
+    On peut les manger chaudes ou froides, en accompagnement ou juste pour grignoter.
+  ]]>
+  </preparation>
+</recette>

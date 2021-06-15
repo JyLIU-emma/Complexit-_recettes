@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12211">
+  <titre>Quiche sans pâte</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 oeufs</p>
+    <p>50 cl de lait</p>
+    <p>100 g de farine</p>
+    <p>100 g de gruyère (ou de comté)</p>
+    <p>150 g de lard fumé (ou de saumon fumé ou du thon) </p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Casser les oeufs l'un après l'autre en les incorporant à la farine.
+    Ajouter le lait, le gruyère ou le comté.Verser dans une tourière beurée. Ajouter les lardons les autres ingrédients. Cuire à thermostat 7 pendant 30 minutes.
+  ]]>
+  </preparation>
+</recette>

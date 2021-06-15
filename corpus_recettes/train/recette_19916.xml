@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19916">
+  <titre>Saumon farci au lard et au cèpes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 saumon de 1,2 kg entier vidé</p>
+    <p>200 g de cèpes frais</p>
+    <p>200 g de lard frais</p>
+    <p>4 échalotes</p>
+    <p>2 tranches de pain de mie</p>
+    <p>10 cl de lait</p>
+    <p>beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Retirer l'arête centrale du saumon délicatement.
+    Faire tremper le pain dans le lait.
+    Couper les cèpes grossièrement, hacher les échalotes. Faire revenir le tout à la poêle avec du beurre. Saler et poivrer.
+    Hacher le lard, l'ajouter dans la poêle. Laisser dorer un peu et retirer du feu.
+    Essorer le pain de mie, l'ajouter au mélange et en farcir le saumon. Recoudre le saumon ou le maintenir fermé avec des pics en bois.
+    Faire cuire le saumon au four, 30 minutes à 220°C (thermostat 7-8).
+  ]]>
+  </preparation>
+</recette>

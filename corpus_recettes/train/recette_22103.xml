@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22103">
+  <titre>Riz bonzaï</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>2 carottes</p>
+    <p>180 g de petits-pois</p>
+    <p>300 g de crevettes décortiquées </p>
+    <p>200 g de riz (basmati de préférence) </p>
+    <p>safran</p>
+    <p>200 g de champignons noirs  </p>
+    <p>1 citron</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites chauffer le riz (environ 500 g pour 2 personnes). Dans une autre casserole faites chauffer les petits-pois. Pendant ce temps, râpez les carottes et assaisonez-les du jus de citron et découpez les champignons et fines lamelles. Lorsque les cuissons sont terminées mélangez les petits-pois aux crevettes fraîches et aux champignons, puis rajoutez en dernier les carottes râpées. Versez le riz dans un grand plat et "renversez" le mélange au dessus. Assaisonnez pour finir d'un peu de safran, de poivre et de sel. C'est prêt!! Bon appétit.
+  ]]>
+  </preparation>
+</recette>

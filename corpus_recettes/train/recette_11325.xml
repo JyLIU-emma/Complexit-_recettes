@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11325">
+  <titre>Cake au citron rapide</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>175 g de beurre ramolli</p>
+    <p>175 g de sucre cristallisé</p>
+    <p>40 g de sucre glace</p>
+    <p>175 g de farine à levure incorporée</p>
+    <p>3 œufs</p>
+    <p>1 citron (zeste)</p>
+    <p>2 citrons (jus)</p>
+    <p>2 cuillères à soupe de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans le bol d'un robot mixeur, mettre le beurre coupé en morceaux, le sucre cristallisé, les oeufs, la farine, le jus et le zeste d'un citron. Mixer 10 secondes, puis ajouter le lait, et battre quelques secondes encore pour obtenir un mélange lisse.
+    Enfourner à four chaud 230°C (thermostat 7/8), pendant 40 min.
+    Pendant ce temps, chauffer à feu doux le jus de citron restant et le sucre glace jusqu'à complète dissolution.
+    Etendre ce sirop au pinceau sur le dessus du cake, et poursuivre la cuisson 5 min. Démouler, dès que le glaçage s'est solidifié.
+  ]]>
+  </preparation>
+</recette>

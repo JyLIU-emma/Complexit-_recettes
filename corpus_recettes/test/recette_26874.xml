@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26874">
+  <titre>Poulet au curry et petits légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 cuiller à soupe d'huile d'olive</p>
+    <p>1 oignon</p>
+    <p>1 poivron (n'importe quelle couleur ; pour ma part, je préfère le jaune) </p>
+    <p>2 gros champignons de Paris</p>
+    <p>4 petites tomates</p>
+    <p>1 courgette</p>
+    <p>6 aiguillettes de poulet</p>
+    <p>1 cuiller à soupe de crème fraîche</p>
+    <p>25 cl de lait</p>
+    <p>curry</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une sauteuse, faites revenir l'oignon émincé dans l'huile d'olive. 
+    Emincez le reste des légumes. 
+    Dans la sauteuse, ajoutez le poivron, puis le champignon, puis les tomates, et enfin la courgette. 
+    Pendant que les légumes cuisent à couvert, mélangez dans un bol le lait avec la crème fraîche, salez, poivrez, puis ajoutez le curry (selon votre goût ; mais environ 2 cuillères à soupe, de manière à ce que le mélange jaunisse suffisamment). 
+    Coupez les aiguillettes en dés, et ajoutez-les aux légumes. 
+    Versez le mélange au curry par-dessus les légumes et le poulet. 
+    Mélangez bien le tout, et laissez cuire à feu doux pendant une quinzaine de minutes.
+    Le plat est léger et savoureux. Selon votre goût, vous pouvez varier les proportions de légumes, changer les légumes selon la saison, ajouter des fruits (la pomme ou la banane se marient bien avec le curry), etc.
+  ]]>
+  </preparation>
+</recette>

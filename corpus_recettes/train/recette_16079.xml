@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16079">
+  <titre>Socca  niçoise</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine de pois chiches</p>
+    <p>50 cl d'eau</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre l'eau froide dans une marmite. Y mélanger au fouet la farine de pois chiches, l'huile et une cuillère à café de sel fin. Battre jusqu'à ce que le mélange soit lisse.
+    Verser 2 à 3 mm de pâte dans une tourtière spéciale en cuivre légèrement huilée et cuire dans un four à bois très chaud.
+    Quand la surface de la socca est bien dorée, couper en petits carrés et bien poivrer.
+    A défaut de plaque spéciale, utiliser un plat à bords droits allant au four : faire chauffer le four, et au moment d'introduire la socca, allumer le grill. Mais le goût ne sera pas le même.
+  ]]>
+  </preparation>
+</recette>

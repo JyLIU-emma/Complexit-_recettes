@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22696">
+  <titre>Carrés de crevettes frits</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>16 cl de lait</p>
+    <p>40 g de beurre</p>
+    <p>50 g de farine</p>
+    <p>150 g de crevettes décortiquées</p>
+    <p>1/2 citron</p>
+    <p>Pour la panure :</p>
+    <p>1 oeuf</p>
+    <p>100 g de farine</p>
+    <p>100 g de chapelure</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole, préparer un roux blanc en mélangeant le beurre et la farine.
+    Arroser ensuite de lait en remuant à l’aide d’une cuillère en bois puis laisser mijoter 5 minutes sur feu doux.
+    Saler, poivrer, puis les crevettes et le jus de citron.
+    Verser la préparation sur la plaque huilée puis laisser refroidir à température ambiante avant de découper la pâte en carrés d’1 cm.
+    Faire chauffer un bain de friture.
+    Passer successivement les carrés dans la farine, puis dans l’oeuf battu et enfin dans la chapelure. Renouveler l'opération et plonger les carrés dans l'huile chaude.
+    Les éponger sur du papier absorbant après cuisson, puis déguster.
+  ]]>
+  </preparation>
+</recette>

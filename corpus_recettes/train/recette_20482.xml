@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20482">
+  <titre>Pâtes à la bolognaise facile</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de pâtes (spaghetti de préférence)</p>
+    <p>450 g de boeuf haché</p>
+    <p>2 cuillères à soupe de concentré de tomate</p>
+    <p>1 oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>quelques gouttes de sauce Worcester et de Tabasco</p>
+    <p>100 g de parmesan râpé</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer l'oignon.
+    Le faire suer dans l'huile. 
+    Ajouter ensuite l'ail, la viande hachée, les sauces et laisser revenir 10 min.
+    Rajouter le concentré de tomate, mouiller avec un peu d'eau, couvrir et laisser mijoter 1 h. 
+    Environ 20 min avant la fin de la cuisson, cuire les pâtes al dente à l'eau bouillante salée.
+    Les égoutter et les mélanger à la sauce dans la casserole.
+    Saupoudrer de parmesan et servir.
+  ]]>
+  </preparation>
+</recette>

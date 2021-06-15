@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12528">
+  <titre>Sashimi de thon express</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de thon rouge frais </p>
+    <p>1 flacon de sauce aux huîtres (produit asiatique)</p>
+    <p>ketchup</p>
+    <p>gingembre</p>
+    <p>1 gousse d'ail</p>
+    <p>un peu de ciboulette</p>
+    <p>sel poivre</p>
+    <p>huile</p>
+    <p>chou blanc</p>
+    <p>riz blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer le thon en tranches très fines, comme pour un carpaccio.
+    Mélanger 2/3 de ketchup à 1/3 de sauce aux huîtres, ajouter la ciboulette hachée finement, l'ail, sel et poivre, puis monter à l'huile comme une mayonnaise.
+    Servir les tranches de thon crues sur un lit de chou blanc râpé accompagné d'un riz vapeur chaud.
+    Dégustez le thon avec la sauce.
+     blanc ou Bandol rosé
+  ]]>
+  </preparation>
+</recette>

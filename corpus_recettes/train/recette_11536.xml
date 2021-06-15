@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11536">
+  <titre>Fefla (Maroc)</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 poivrons verts</p>
+    <p>5 tomates</p>
+    <p>3 gousses d'ail</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>paprika</p>
+    <p>cumin</p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire griller les poivrons et les tomates et les éplucher.
+    Les passer quelques secondes au mixer avec les gousses d'ail, l'huile d’olive, le paprika, le cumin, le sel et le poivre.
+    Faire cuire quelques minutes dans une casserole (très peu).Servir tiède.Accompagne très bien les tajines, comme petite salade à mettre autour.
+  ]]>
+  </preparation>
+</recette>

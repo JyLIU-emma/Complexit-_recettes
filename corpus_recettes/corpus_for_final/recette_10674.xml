@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10674">
+  <titre>Harengs saurs Lucifer</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 beaux harengs saurs</p>
+    <p>20 cl de lait</p>
+    <p>3 cuillères d'huile</p>
+    <p>2 cuillères de moutarde</p>
+    <p>50 g de chapelure</p>
+    <p>2 navets</p>
+    <p>sel, poivre</p>
+    <p>2 cl de vinaigre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Enlever la peau de beaux harengs saurs bien gonflés.
+    Les faire dessaler au lait, vingt-quatre heures, puis lever les filets.
+    Frotter les filets à l'huile, puis, avec de la moutarde.les tremper dans la chapelure et les faire griller.Râper 1 ou 2 navets. Egouter.
+    Ajouter du poivre et un filet de vinaigre.
+    Servir les harengs grillés sur cette purce de navets crus.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15492">
+  <titre>Délice aux noisettes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g beurre</p>
+    <p>200 g de sucre semoule</p>
+    <p>7.5 g de sucre vanillé </p>
+    <p>4 oeufs</p>
+    <p>2 cuillères à soupe de rhum</p>
+    <p>250 g de farine</p>
+    <p>11 g de levure chimique</p>
+    <p>150 g de noisettes</p>
+    <p>100 g de chocolat à croquer</p>
+    <p>Pour le glaçage :</p>
+    <p>100 g chocolat à croquer</p>
+    <p>20 g de beurre</p>
+    <p>100 g de sucre glace</p>
+    <p>3 cuillères à soupe de rhum</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Travailler le beurre en mousse. Ajouter peu à peu le sucre, les oeufs, le rhum.
+    Incorporer par petites quantités le mélange farine-levure, puis les noisettes et le chocolat râpé en petits morceaux.
+    Verser la pâte dans un moule à cake beurré et fariné.Faire cuire à four moyen pendant 60 mn environ (bien surveiller). Laisser refroidir et démouler.
+    Glaçage : faire fondre le chocolat de le beurre. Ajouter le sucre et rhum. Glacer le dessus et les bords du gâteau.NOTE: les noisettes peuvent être remplacées par des noix ou des amandes.
+  ]]>
+  </preparation>
+</recette>

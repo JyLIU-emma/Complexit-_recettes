@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12146">
+  <titre>Pierogi ruskie (au fromage)</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>350 g de farine</p>
+    <p>1 oeuf</p>
+    <p>125 ml d'eau tiède</p>
+    <p>sel</p>
+    <p>Pour la farce :</p>
+    <p>600 g de pommes de terre (pas des nouvelles, plutôt des bintje)</p>
+    <p>250 g de fromage blanc frais type faisselle</p>
+    <p>1 oignon moyen</p>
+    <p>1 cuillère à soupe de beurre</p>
+    <p>poivre, sel</p>
+    <p>2 cuillères à soupe de saindoux avec des lardons</p>
+    <p>2 ml de crème fraîche épaisse</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez la farce : épluchez les pommes de terre et faites-les cuire dans de l'eau salée.
+    Avec une fourchette, écrasez les pommes de terre encore chaudes et travaillez-les avec une spatule en bois.
+    Emincez les oignons et faites les  dorer dans une cas de beurre. Emiettez le fromage. Mélangez dans un saladier fromage, oignon, graisse de cuisson, sel, poivre.
+    Ne malaxez pas les ingrédients, car dans la farce doivent se trouver ds grumeaux de fromage blanc et de pommes de terre.
+    Préparez l'abaisse : dans un saladier, versez la farine en fontaine, ajoutez un oeuf, salez, arrosez d'eau tiède, pétrissez pour obtenir une pâte molle.
+    Divisez la pâte en deux parties. Etalez au rouleau en deux fois pour obtenir une abaisse fine. Détaillez des ronds de 7-8 cm de diamètre avec un verre.
+    Garnissez chaque rond d'une cuillère bombée de farce, pliez en deux et soudez bien les bords. Pas de farce entre les bords sinon ils se decollerons à la cuisson.
+    Jetez les dans une grande quantité d'eau bouillante salée. Ils sont cuits quand ils sont remontés à la surface + 2-3 mn. Sortez les avec une écumoire. Servez avec le lard fondu et les lardons ou du beurre fondu.
+    Servez la crème fraîche à part.Il existe toute sorte de farces : sucrées (myrtilles, cerises...) ou salées (viande, choux, cèpes...)Egouttez le fromage au maximum, le mieux c'est de le faire la veille, à moins de trouver du fromage blanc polonais très compact, non humide (à Paris, rue des rosiers).
+  ]]>
+  </preparation>
+</recette>

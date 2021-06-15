@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11915">
+  <titre>Soupe de poivrons</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 poivrons rouges</p>
+    <p>3 pommes de terre</p>
+    <p>3 oignons</p>
+    <p>huile d'olive</p>
+    <p>1,5 litre d'eau</p>
+    <p>sel, poivre</p>
+    <p>crème fraîche (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir dans un peu d'huile d'olive les poivrons et les oignons coupés en dés. Ajouter ensuite les pommes de terre également coupées en dés; saler, poivrer, verser l'eau.
+    Faire cuire doucement pendant 1 heure.
+    Passer au mixeur. Ajouter éventuellement un peu de crème fraîche, avant de servir bien chaud.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10935">
+  <titre>Croûtes au fromage</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 tranches de pain de campagne épaisses</p>
+    <p>4 cuillères à café de moutarde</p>
+    <p>5 cl de vin blanc</p>
+    <p>4 tranches de fromage à raclette</p>
+    <p>4 tranches de jambon cru ou cuit</p>
+    <p>2 cornichons</p>
+    <p>1 tomate</p>
+    <p>4 tranches de lard</p>
+    <p>30 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Beurrer les tranches de pain puis les enduire de moutarde.
+    Les disposer dans un plat à four et les arroser de vin blanc. Les recouvrir d'une tranche de jambon puis d'une tranche de fromage.
+    Coupez les cornichons en fines tranches et les disposer sur le fromage. Couper la tomate en 4 rondelles et en poser sur sur chaque croûte. Finir par une tranche de lard.
+    Cuire au four à 220°C (thermostat 7-8) jusqu'à ce que le fromage soit bien fondu.
+    Servir avec une salade verte ou mêlée bien assaisonnée.Hyper facile et excellent ! Un peu bourratif quand même... vin blanc sec, ou rouge.
+  ]]>
+  </preparation>
+</recette>

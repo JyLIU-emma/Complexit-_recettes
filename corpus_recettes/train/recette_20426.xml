@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20426">
+  <titre>Poulet aux épices</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>un bon poulet</p>
+    <p>jus de deux citrons</p>
+    <p>deux cuillères d'huile d'olive première pression</p>
+    <p>2 ou 3 gousses d'ail (selon votre goût) </p>
+    <p>une cuillère à café de : (tous en poudre) romarin, basilic, cumin</p>
+    <p>3 pincées de gingembre</p>
+    <p>1 pincée de piment de cayenne</p>
+    <p>1 pincée de poivre de cayennne</p>
+    <p>poivre et sel à votre goût</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyez le poulet au moins 5 heures à l'avance pour le mettre dans un plat avec la marinade. 
+    Marinade : 
+    mettez-y tous les ingrédients ci-dessus. 
+    Retourner le poulet une à deux fois dans cette marinade. 
+    Mettez-le à cuire dans un four à 180°C pendant une heure et demi. 
+    Au départ sans la marinade. 
+    Arroser de temps en temps avec cette marinade. 
+    C'est un régal.
+     vin rouge 
+  ]]>
+  </preparation>
+</recette>

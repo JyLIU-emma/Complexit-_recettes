@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11921">
+  <titre>Chèvre en feuilleté</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 bûche de fromage de chèvre</p>
+    <p>1 pâte feuilletée</p>
+    <p>1 oeuf</p>
+    <p>basilic</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper la bûche en 8 rondelles égales.
+    Avec un verre, couper 16 ronds dans la pâte feuilletée. 
+    Poser chaque rondelle de fromage sur un rond de pâte feuilletée, parsemer de basilic, et recouvrir avec la pâte feuilletée restante.
+    Fermer tout autour les petits pâtés ainsi réalisés. Dorer au jaune d'oeuf avant de passer au four (15 min à thermostat 7/210°C).
+    Se marie très bien avec une salade verte.
+     un vin rouge
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20449">
+  <titre>Lasagne bolognaise</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de haché porc/boeuf</p>
+    <p>plaques de lasagnes précuites</p>
+    <p>beurre</p>
+    <p>mélange de fromages pour gratin</p>
+    <p>1 boîte de tomates pelées (+/- 800 g) </p>
+    <p>1 boîte de concentré de tomates</p>
+    <p>250 g de mozzarella</p>
+    <p>1 petit verre de vin rouge</p>
+    <p>1 carotte</p>
+    <p>1 demi poivron rouge</p>
+    <p>1 petite boîte de champignons de Paris</p>
+    <p>2 échalotes, 2 gousses d'ail</p>
+    <p>sel, poivre, basilic, herbes de Provence, paprika doux, pili-pili, piment de Cayenne, ...</p>
+    <p>sauce béchamel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites revenir les échalotes dans le beurre, laisser fondre. 
+    Ajouter le haché et laisser cuire à feu moyen. 
+    Quand le haché à blanchi, ajouter la boîte de tomates pelées ainsi que le concentré de tomates, remuer et bien mélanger. 
+    Ajouter ensuite le poivron rouge coupé en dés, la carotte en dés, les champignons et l'ail pressée. 
+    Ajouter les épices selon votre goût ainsi que le vin, laisser s'évaporer. 
+    Laisser mijoter à feux moyen durant 45 min en mélangeant de temps en temps. 
+    Préparer la sauce béchamel. 
+    Couper la mozzarella en rondelles très fines. 
+    Dans un plat à gratin, disposer une couche de béchamel, une plaque, une couche de sauce bolognaise, une couche de béchamel, une couche de mozzarella, ainsi de suite... terminer par de la béchamel. 
+    Parsemer de gruyère, de parmesan et de petits morceaux de beurre. 
+    Laisser gratiner au four à 200°C durant +/- 30 min.
+     
+    Dès que le dessus est bien doré, servir
+    Vous pouvez ajouter à la sauce quelques gouttes de Tabasco pour ceux qui aiment "épicé" chianti
+  ]]>
+  </preparation>
+</recette>

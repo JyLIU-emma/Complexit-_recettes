@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11164">
+  <titre>Flan de courgettes au micro-ondes</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de courgettes</p>
+    <p>3 oeufs</p>
+    <p>20 cl de crème légère</p>
+    <p>sel, poivre</p>
+    <p>herbes de Provence (ou curry selon votre goût)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un plat en verre style moule à soufflé ou à cake, couper les cougettes en petits dés.
+    Mettre à cuire 5 mn au micro-ondes, pleine puissance.
+    Préparer le flan avec les oeufs battus, la crème légère, sel, poivre et herbes de Provence ou curry.
+    Verser sur les légumes et remettre à cuire 5 mn au micro-ondes.
+    Peut se faire avec d'autes légumes (tomates, aubergines, poivrons...).froid,accompagne très bien un barbecue rosé
+  ]]>
+  </preparation>
+</recette>

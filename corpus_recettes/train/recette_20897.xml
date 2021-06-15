@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20897">
+  <titre>Omelette aux fraises</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>75 g de sucre en poudre</p>
+    <p>50 g de beurre</p>
+    <p>300 g de fraises</p>
+    <p>9 cl d'eau-de-vie de mirabelle</p>
+    <p>2 cuillères à soupe de confiture de fraises liquide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Délayer la confiture avec 6 cl d'eau de vie et y faire macérer les fraises. Battre les oeufs en omelette avec le sucre.
+    Faire cuire les oeufs en omelette à la poêle dans du beurre fondu bien chaud.
+    Glisser l'omelette sur le plat de service, la garnir de fraises puis la plier en 2.
+    Réchauffer l'eau de vie à la confiture, en arroser l'omelette et flamber.
+    Pour une omelette plus légère, battez 2 des blancs d'oeuf en neige et incorporez-les délicatement aux oeufs battus juste avant la cuisson.
+  ]]>
+  </preparation>
+</recette>

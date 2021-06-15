@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22260">
+  <titre>Cabillaud gratiné aux oignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 tranches de cabillaud</p>
+    <p>3 à 5 cuillères à soupe de farine</p>
+    <p>120 g de beurre</p>
+    <p>4 oignons</p>
+    <p>3 citrons</p>
+    <p>3 cuillères à soupe de persil haché</p>
+    <p>20 cl de vin blanc</p>
+    <p>3 cuillères à soupe de chapelure</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 210°C (thermostat 7).
+    Egouttez le poisson sur du papier absorbant puis passez-le dans la farine, salez et poivrez.
+    Faites dorer le cabillaud dans 60 g de beurre puis déposez les morceaux dans un plat au four beurré.
+    Dans la même poêle, faites fondre les oignons émincés. Versez-les sur le poisson avec le persil et des rondelles de citron.
+    Arrosez de vin blanc, parsemez de chapelure et répartissez le reste du beurre coupé en cubes à la surface.
+    Enfournez et laissez gratiner pendant 15 minutes.
+  ]]>
+  </preparation>
+</recette>

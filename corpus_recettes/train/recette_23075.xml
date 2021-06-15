@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23075">
+  <titre>Chili verde (poulet au citron et au maïs)</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de blancs de poulet</p>
+    <p>4 citrons verts</p>
+    <p>300 g de maïs en grains</p>
+    <p>3 oignons blancs</p>
+    <p>2 poivrons rouges</p>
+    <p>5 cuillères à soupe d'huile d'olive</p>
+    <p>2 cuillères à soupe de vinaigre</p>
+    <p>cumin</p>
+    <p>tabasco</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper le poulet en grosses lanières.
+    Les faire mariner dans le jus des citrons + 2 cuillères d'huile, du sel et du poivre, pendant 2 h.
+    Peler et émincer les oignons en rondelles.
+    Epépiner et détailler les poivrons en lanières.
+    Rincer le maïs.
+    Faire chauffer le reste d'huile dans une cocotte.
+    Y faire revenir les oignons, les morceaux de poulet et les poivrons environ 10 min en remuant bien.
+    Baisser le feu, rajouter le maïs et arroser de vinaigre.
+    Saler, poivrer et saupoudrer de cumin et d'un trait de tabasco.
+    Couvrir et laisser mijoter 15-20 min à feu doux.
+  ]]>
+  </preparation>
+</recette>

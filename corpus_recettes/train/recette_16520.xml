@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16520">
+  <titre>Gâteau de crabe</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>240 g de chair de crabe cuite (ou 2 boîtes de chair de crabe)</p>
+    <p>2 tranches de pain blanc vieux du jour </p>
+    <p>1 oeuf</p>
+    <p>1 gousse d'ail</p>
+    <p>2 cuillères à soupe de ciboulette finement hachée</p>
+    <p>1/2 cuillère à café de sel</p>
+    <p>1 cuillère à café de poivre noir fraîchement moulu</p>
+    <p>1 cuillère à café d'écorce de citron finement râpée</p>
+    <p>1 cuillère à soupe de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Accompagnement :
+    mélange de salades
+    1 petite carotte
+    quartiers de citron
+    Retirer la chair de la carcasse. Pour le crabe en boite, l'égoutter à l'aide d'une passoire.
+    Enlever la croute du pain et le réduire en morceaux.Mélanger la chair de crabe, le pain, l'oeuf, la salade, l'ail pressé et la ciboulette.
+    Epicer avec le sel, poivre et écorce de citron. 
+    Faconner 8 boules. Les faire dorer, 2 minutes par côté, dans le beurre.
+    Servir avec la salade, carotte râpée et un quartier de citron.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21139">
+  <titre>Tomates farcies à la crème de thon aillée</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 tomates</p>
+    <p>3 pommes de terre cuites</p>
+    <p>1 boite de thon au naturel</p>
+    <p>2 gousses d'ail</p>
+    <p>18 cl d'huile</p>
+    <p>1 jaune d'oeuf</p>
+    <p>2 cuillères à soupe de jus de citron</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper un chapeau aux tomates et les vider de leur chair.
+    Réduire l'ail en purée, ajouter le jaune d'oeuf puis fouetter en versant l'huile en filet jusqu'à obtention d'une sauce émulsionnée relativement épaisse. Ajouter le jus de citron.
+    Ecraser les pommes de terre en purée, ajouter le thon, la sauce et malaxer jusqu'à obtention d'une préparation homogène.
+    Farcir les tomates de cette préparation et servir frais.
+  ]]>
+  </preparation>
+</recette>

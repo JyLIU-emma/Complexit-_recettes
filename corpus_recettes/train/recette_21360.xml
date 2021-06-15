@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21360">
+  <titre>Poulet kedjenou (Côte d'Ivoire)</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poulet entier</p>
+    <p>aubergine</p>
+    <p>1/2 courgette</p>
+    <p>3-4 tomates (facultatif car un peu plus long) </p>
+    <p>1 grosse boîte de tomates pelées</p>
+    <p>2 gousses d'ail</p>
+    <p>1 très gros oignon</p>
+    <p>laurier (5-7 feuilles) </p>
+    <p>thym (attention à ne pas mettre de branchettes, désagréable !)</p>
+    <p>gingembre (ingrédient très très important) </p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Beurrer jusqu'à mi-hauteur le fond d'une cocotte. 
+    Couper le poulet en morceaux (pilon, haut de cuisse, etc) et mettre dans une cocotte. Ebouillanter les tomates pour les &plucher, les couper en morceaux, couper (et éplucher ou non) les autres légumes, tout ajouter dans la cocotte. Hacher l'ail, ajouter. 
+    Ajouter les épices. 
+  ]]>
+  </preparation>
+</recette>

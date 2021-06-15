@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17217">
+  <titre>Quiche Jambon-cresson</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rouleau de pâte feuilletée</p>
+    <p>150 g de cresson</p>
+    <p>150 g de jambon de Paris</p>
+    <p>3 oeufs</p>
+    <p>20 cl de crème</p>
+    <p>1 cuillère à café de Maïzena</p>
+    <p>2 cuillères à café de moutarde forte</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez et essorez le cresson. 
+    Mixez les feuilles. 
+    Coupez le jambon en fines lanières. 
+    Fouettez les oeufs, la crème, la Maïzena, du sel et du poivre. 
+    Tapissez de pâte feuilletée un moule à tarte de 24 cm de diamètre. 
+    Piquez le fond à la fourchette. Tartinez-le d'une fine couche de moutarde forte. 
+    Eparpillez le cresson et le jambon. Recouvrez avec le mélange oeufs-crème. 
+    Faire cuivre 20 mn dans le four préchauffé Th 7 (210°C.). 
+    Démouler et servir chaud avec une salade de mâche et de cresson bien moutardée.
+  ]]>
+  </preparation>
+</recette>

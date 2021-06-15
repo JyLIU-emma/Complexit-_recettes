@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26709">
+  <titre>Omelette et sa menthe, au formage</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 oeufs</p>
+    <p>400 g de fromage frais (chèvre, par exemple)</p>
+    <p>1 bouquet de menthe fraîche</p>
+    <p>sel, poivre</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre les oeufs en omelette, assaisonner et ajouter un filet d'huile.
+    AJouter le fromage égoutté et coupé en gros cubes, puis une poignée de feuilles de menthe fraîche hachées.
+    Dans une poêle avec de l'huile d'olive, faire cuire les oeufs comme une omelette normale.
+  ]]>
+  </preparation>
+</recette>

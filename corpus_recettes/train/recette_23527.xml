@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23527">
+  <titre>Soufflé moelleux au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>50 g de chocolat</p>
+    <p>-10 cl de lait</p>
+    <p>25 g de farine</p>
+    <p>35 g de sucre</p>
+    <p>3 œufs</p>
+    <p>70 g de beurre</p>
+    <p>1 pincée de sel </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 180°C (thermostat 6).
+    Faire fondre le chocolat avec le lait en réservant un peu de lait pour délayer la farine.
+    Verser ensuite la farine délayée dans un peu de lait froid, puis fouetter et laisser chauffer 3 min sans cesser de remuer.
+    Incorporer ensuite les jaunes d’œufs avec le beurre ramolli hors du feu et bien mélanger.
+    Monter les blancs en neige bien ferme avec le sel, puis les incorporer délicatement au reste de la préparation.
+    Mélanger doucement de haut en bas à l’aide d’une spatule en bois, puis verser le tout dans un moule à soufflé beurré.
+    Lisser la surface avec la spatule puis enfourner 20 min à four chaud jusqu’à ce qu’ils soient bien gonflés.
+    Les déguster dès la sortie du four.
+  ]]>
+  </preparation>
+</recette>

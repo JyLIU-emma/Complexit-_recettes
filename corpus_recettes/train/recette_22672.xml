@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22672">
+  <titre>Hachis à la Milanaise</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de boeuf haché</p>
+    <p>200 g de nouilles</p>
+    <p>2 oignons</p>
+    <p>75 g de beurre</p>
+    <p>1 boîte de sauce tomate (concentré ou coulis) </p>
+    <p>75 g de gruyère</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les oignons (fin). Faire cuire les nouilles. Faire revenir la viande et les oignons (ensemble) pendant 10 mn environ. Saler et poivrer + ajouter de la noix de muscade. 
+    Mettre les nouilles dans un plat à gratin. Mettre dessus la viande et les oignons. Napper de sauce tomate. Ajouter du gruyère dessus. Faire gratiner au four.
+  ]]>
+  </preparation>
+</recette>

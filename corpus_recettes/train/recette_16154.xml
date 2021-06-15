@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16154">
+  <titre>Pissaladière</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte à pain achetée à la boulangerie (équivalent d'un pain ou une baguette et demie)</p>
+    <p>6 gros oignons</p>
+    <p>huile d'olive</p>
+    <p>20 anchois à l'huile d'olive</p>
+    <p>poivre</p>
+    <p>herbes de Provence</p>
+    <p>12 olives noires dénoyautées (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les oignons coupés assez fins dans l'huile d'olive (ajouter un fond d'eau s'ils brûlent).
+    Préchauffer le four. Bien beurrer la plaque et étaler la pâte dessus avec un rouleau (pour former un rectangle de 30 x 40 cm minimum.
+    Etaler les oignons dessus. Placer également une vingtaine d'anchois.
+    Ajouter le poivre, les herbes de Provence et de l'huile d'olive. Ajouter les olives noires coupées en 2 (facultatif).
+    Verser un petit filet d'huile d'olive sur l'ensemble.
+    Cuire à 200°C pendant 20 mn, puis 230°C pendant 5 mn.
+    Se consomme froid.
+  ]]>
+  </preparation>
+</recette>

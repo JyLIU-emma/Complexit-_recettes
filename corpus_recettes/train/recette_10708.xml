@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10708">
+  <titre>Carré frais contre velouté chaud</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kilo de potimarron</p>
+    <p>30 cl de crème fleurette</p>
+    <p>2 cuillères à soupe de miel</p>
+    <p>4 carrés frais</p>
+    <p>4 cuillères à café d'huile de noisettes</p>
+    <p>une pincée de sel</p>
+    <p>une pincée de poivre</p>
+    <p>noix de muscade</p>
+    <p>ciboulette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez et détaillez le potimarron, coupez-le en gros morceaux.
+    Faites-le cuire 10 minutes à l'autocuiseur. Une fois cuit, mettez-le dans un blender ou un mixer, rajoutez la crème fraiche, le miel, le sel, le poivre et la muscade.
+    Mixez le tout.
+    Ciselez la ciboulette, versez dans 4 bols le velouté de potimarron très chaud. Parsemez de ciboulette.
+    Enfin sortez du frigo les 4 carrés frais, posez-les délicatement sur chaque préparation.
+    Déposez sur les carrés frais un peu de fleur de sel et dégustez, le contraste du chaud et du frais ravira vos papilles !
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171949">
+  <titre>Soupe de wontons aux crevettes et au gingembre</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>30 feuilles de wontons (chez épicier spécialisé)</p>
+    <p>20 grosses crevettes de Madagascar à décortiquer</p>
+    <p>1 cuillère à café de gingembre mixé</p>
+    <p>150 g de châtaignes d'eau (chez épicier spécialisé)</p>
+    <p>1 cuillère à soupe de sauce soja salé</p>
+    <p>1 verre de ciboule (feuille+ bulbe) émincée (chez épicier spécialisé)</p>
+    <p>1 citron vert</p>
+    <p>du sel pour la première cuisson</p>
+    <p>3 cubes de bouillon de volaille</p>
+    <p>un peu de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un mixeur, placez les crevettes, que vous aurez décortiquées au préalable, les châtaignes d'eau (sans leur jus), un tiers du verre de ciboule, et la cuillère à soupe de sauce de soja salée. Mixez avec précaution. Ajoutez le jus du citron vert, puis tournez avec une cuillère pour bien mélanger les ingrédients. Goûtez et assaisonnez à votre convenance.
+    Au centre de chaque feuille de wonton, placez une cuillère à café bien tassée de farce, puis repliez en forme de petites bourses (rejoindre les 4 angles, puis les 4 plis formés de chaque côté), en les soudant avec vos doigts humidifiés avec du lait). Les bourses doivent être bien fermées pour ne pas que la farce s'échappe pendant le cuisson.
+    Dans une casserole, faites bouillir de l'eau salée et pochez les wontons durant 3 min. Procédez avec précaution. Dès la fin de la cuisson, stoppez la cuisson en retirant les wontons de l'eau salée et passez-les sous l'eau froide. Cette étape est importante pour que les wontons restent fermes. Dans une casserole, faites bouillir 3 cubes de volaille dans 1,5 litres d'eau. Au moment de servir, placez dans le bouillon chaud vos wontons (au tout dernier moment pour éviter qu'ils ne cuisent à nouveau) et le reste de la ciboule. On peut ajouter une cuillère à soupe d'huile de sésame dans le bouillon de volaille au moment de servir. Bon appétit !
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Dans un mixeur, <OPER id="o_1">placez</OPER> les crevettes, que vous aurez <INGRED id="2">décortiquées</INGRED> au préalable, les <INGRED id="4">châtaignes d'eau</INGRED> ( sans leur <INGRED id="7">jus</INGRED> ), un tiers du verre de <INGRED id="6">ciboule</INGRED>, et la cuillère à <INGRED id="9">soupe</INGRED> de sauce de soja salée. <OPER id="o_2">Mixez</OPER> avec précaution. <OPER id="o_3">Ajoutez</OPER> le <INGRED id="2">jus</INGRED> du <INGRED id="6">citron vert</INGRED>, puis tournez avec une cuillère pour bien mélanger les ingrédients. <OPER id="o_4">Goûtez</OPER> et assaisonnez à votre convenance. Au centre de chaque feuille de wonton, <OPER id="o_5">placez</OPER> une cuillère à <INGRED id="3">café</INGRED> bien tassée de farce, puis <OPER id="o_6">repliez</OPER> en forme de petites bourses ( <OPER id="o_7">rejoindre</OPER> les 4 angles, puis les 4 plis formés de chaque côté ), en les soudant avec vos doigts humidifiés avec du <INGRED id="2">lait</INGRED> ). Les bourses doivent être bien fermées pour ne pas que la farce s'échappe pendant le cuisson. Dans une casserole, faites <OPER id="o_8">bouillir</OPER> de l'<INGRED id="4">eau</INGRED> salée et <OPER id="o_9">pochez</OPER> les <INGRED id="1">wontons</INGRED> durant 3 min. <OPER id="o_10">Procédez</OPER> avec précaution. Dès la fin de la cuisson, <OPER id="o_11">stoppez</OPER> la cuisson en retirant les <INGRED id="1">wontons</INGRED> de l'<INGRED id="2">eau</INGRED> salée et <OPER id="o_12">passez</OPER> - les sous l'<INGRED id="5">eau froide</INGRED>. Cette étape est importante pour que les <INGRED id="1">wontons</INGRED> restent <INGRED id="4">fermes</INGRED>. Dans une casserole, faites <OPER id="o_13">bouillir</OPER> 3 cubes de <INGRED id="2">volaille</INGRED> dans 1,5 litres d'<INGRED id="1">eau</INGRED>. Au moment de servir, <OPER id="o_14">placez</OPER> dans le <INGRED id="9">bouillon</INGRED> chaud vos <INGRED id="1">wontons</INGRED> ( au tout dernier moment pour éviter qu'ils ne cuisent à nouveau ) et le <INGRED id="1">reste</INGRED> de la <INGRED id="6">ciboule</INGRED>. On peut <OPER id="o_15">ajouter</OPER> une cuillère à <INGRED id="4">soupe d'huile</INGRED> de sésame dans le bouillon de volaille au moment de servir. Bon appétit !
+  </annotation>
+  <annotation methode="crf">
+  Dans un mixeur <INGRED>,</INGRED> placez les <INGRED>crevettes</INGRED> <INGRED>,</INGRED> que vous aurez décortiquées au préalable <INGRED>,</INGRED> les <INGRED>châtaignes</INGRED> d'<INGRED>eau</INGRED> ( sans leur <INGRED>jus</INGRED> ) <INGRED>,</INGRED> un tiers du <INGRED>verre</INGRED> de ciboule <INGRED>,</INGRED> et la cuillère à soupe de <INGRED>sauce</INGRED> de soja salée. Mixez avec précaution. Ajoutez le <INGRED>jus</INGRED> du <INGRED>citron</INGRED> vert <INGRED>,</INGRED> puis tournez avec une cuillère pour bien mélanger les ingrédients. Goûtez et assaisonnez à votre convenance <INGRED>.</INGRED> Au centre de chaque feuille de wonton <INGRED>,</INGRED> placez une cuillère à <INGRED>café</INGRED> bien tassée de farce <INGRED>,</INGRED> puis repliez en forme de petites bourses ( rejoindre les 4 angles <INGRED>,</INGRED> puis les 4 <INGRED>plis</INGRED> formés de chaque côté ) <INGRED>,</INGRED> en les soudant avec vos doigts humidifiés avec du <INGRED>lait</INGRED> ). Les bourses doivent être bien fermées pour ne pas que la farce s'échappe pendant le cuisson. Dans une casserole <INGRED>,</INGRED> faites bouillir de l'<INGRED>eau</INGRED> salée et pochez les wontons durant 3 min. Procédez avec précaution. Dès la fin de la cuisson <INGRED>,</INGRED> stoppez la cuisson en retirant les wontons de l'<INGRED>eau</INGRED> salée et passez - les sous l'<INGRED>eau</INGRED> froide <INGRED>.</INGRED> Cette étape est importante pour que les <INGRED>wontons</INGRED> restent fermes. Dans une casserole <INGRED>,</INGRED> faites bouillir 3 cubes de volaille dans 1,5 litres d'<INGRED>eau</INGRED> <INGRED>.</INGRED> Au moment de servir <INGRED>,</INGRED> placez dans le <INGRED>bouillon</INGRED> chaud vos wontons ( au tout dernier moment pour éviter qu'ils ne cuisent à nouveau ) et le <INGRED>reste</INGRED> de la ciboule. On peut ajouter une cuillère à soupe d'<INGRED>huile</INGRED> de sésame dans le <INGRED>bouillon de volaille</INGRED> au moment de servir <INGRED>.</INGRED> Bon appétit !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 14.25*X + 0.75</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 57*X + 5</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['wontons']	 id:1	 quantité:30	 unité:feuilles de	 denombrable:True	 recipient:30*X
+ingredient:['crevettes de Madagascar à décortiquer', 'crevettes']	 id:2	 quantité:20	 unité:non_precis	 denombrable:True	 recipient:20*X
+ingredient:['gingembre mixé', 'gingembre']	 id:3	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+ingredient:["châtaignes d'eau", 'châtaignes']	 id:4	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sauce soja salé', 'sauce']	 id:5	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['ciboule   émincée', 'ciboule']	 id:6	 quantité:1	 unité:verre de	 denombrable:True	 recipient:1*X
+ingredient:['citron vert', 'citron']	 id:7	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['bouillon de volaille', 'bouillon']	 id:9	 quantité:3	 unité:cubes de	 denombrable:True	 recipient:3*X
+ingredient:['peu de lait', 'peu']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:placer	 id:o_1	 ingrédients_ralatifs:['2', '4', '7', '6', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mixer	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_3	 ingrédients_ralatifs:['2', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:goûter	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_5	 ingrédients_ralatifs:['3', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:replier	 id:o_6	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rejoindre	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:bouillir	 id:o_8	 ingrédients_ralatifs:['4', '1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:pocher	 id:o_9	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:procéder	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:3	 recipient:0
+operation:stopper	 id:o_11	 ingrédients_ralatifs:['1', '2', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:passer	 id:o_12	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:bouillir	 id:o_13	 ingrédients_ralatifs:['2', '1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:placer	 id:o_14	 ingrédients_ralatifs:['9', '1', '1', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_15	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

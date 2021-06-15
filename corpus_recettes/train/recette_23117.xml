@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23117">
+  <titre>Croque-monsieur au boursin</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 tranches de pain de mie</p>
+    <p>boursin (ail et fines herbes) </p>
+    <p>1/2 tranche de jambon</p>
+    <p>un peu de salade verte</p>
+    <p>gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four 10 mn. 
+    Faire griller légèrement au grille-pain les deux tranches de pain de mie. 
+    Etaler du boursin sur le premier pain. 
+    Ajouter un quart du jambon, puis un peu de salade. 
+    Prendre la secondre tranche de pain. 
+    Déposer un peu de boursin et le quart de jambon restant. 
+    Joindre les deux morceaux de pain. 
+    Parsemer le dessus du croque monsieur de gruyère râpé et passer au four environ 10 mn.
+  ]]>
+  </preparation>
+</recette>

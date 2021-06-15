@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14167">
+  <titre>Glace meringuée</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 grosses meringues ou 6 moyennes</p>
+    <p>4 beaux oeufs</p>
+    <p>30 g de sucre en poudre</p>
+    <p>200 g de crème fraîche épaisse</p>
+    <p>1 cuillère à soupe d'extrait de vanille</p>
+    <p>caramel liquide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le sucre avec les jaunes d'oeufs, la crème, la vanille et les blancs battus en neige.
+    Ajoutez à la préparation les meringues écrasées.
+    Verser le caramel dans le fond du moule puis ajouter la préparation.
+    Mettre au congélateur au moins 12 heures.Pour démouler, tremper le fond du moule dans l'eau bouillante.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26008">
+  <titre>Sauté d'agneau méditerranéen</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,5 kg de gigot d'agneau désossé</p>
+    <p>600 g de tomates</p>
+    <p>40 g de beurre</p>
+    <p>5 oignons</p>
+    <p>5 clous de girofle</p>
+    <p>10 cl de vin blanc</p>
+    <p>1 gousse d'ail</p>
+    <p>2 cuillère à café de sucre en poudre</p>
+    <p>11 bonne pincée de cannelle</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>huile</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle, faire revenir les oignons et l'ail émincés avec de l'huile et le beurre.
+    Ajouter l'agneau couper en gros dés et le faire revenir jusqu'à coloration. Assaisonner et saupoudrer de farine. Laisser mijoter 10 minutes. Mouiller de vin blanc et laisser réduire 10 min à feux doux.
+    Ajouter les tomates mondées et concassées ainsi que la cannelle, le sucre, et les clous de girofle.
+    Laisser cuire à couvert pendant 30 min. Au bout de 15 min, ajouter 2 cm d'eau.
+  ]]>
+  </preparation>
+</recette>

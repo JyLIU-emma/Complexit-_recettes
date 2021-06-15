@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12488">
+  <titre>Tagliatelles froides au saumon et à la feta</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de tagliatelles</p>
+    <p>400 g de saumon frais (coupé en fines tranches)</p>
+    <p>100 g de champignons de Paris</p>
+    <p>1 citron</p>
+    <p>20 cl d'huile d'olive</p>
+    <p>1/2 botte de basilic</p>
+    <p>1 grande boîte de tomates pelées</p>
+    <p>400 g de feta</p>
+    <p>1 gousse d'ail</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les tagliatelles 'al dente' dans l'eau bouillante salée. Les égoutter et les réserver.
+    Couper le saumon en fines lanières et les faire mariner 30 min dans le jus de citron et 10 cl d'huile d'olive.
+    Couper les champignons en fines lamelles. Couper les feuilles de basilic et écraser l'ail. 
+    Ajouter 10 cl d'huile, le sel, le poivre et les tomates pelées.
+    Mélanger le tout, rajouter la feta coupée en cubes, mélanger encore une fois puis servir.
+  ]]>
+  </preparation>
+</recette>

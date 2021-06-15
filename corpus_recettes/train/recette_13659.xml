@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13659">
+  <titre>Poivronnade de dinde à la crème</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>700 g de poitrine de dinde coupée en lanières.</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>1 poivron rouge</p>
+    <p>1 échalote</p>
+    <p>1 petite gousse d'ail</p>
+    <p>1 dl 1/2 de vin blanc sec</p>
+    <p>1 dl 1/2 d'eau</p>
+    <p>1 dl de crème entière</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler le poivron (plus digeste ainsi) et le débiter en très petits dés ou le hâcher, réserver.
+    Faire dorer les lanières de dinde dans l'huile, y ajouter l'échalote hâchée, saler et poivrer.
+    Lorsque la viande est bien colorée, saupoudrer avec la farine, bien mélanger et ajouter le vin, l'eau et les dés de poivron et l'ail pressé.
+    Laisser mijoter environ 10 mn et ajouter la crème avant de servir.
+    Convient pour le citadin pressé ou pour l'étudiant fauché. rouge léger ou rosé
+  ]]>
+  </preparation>
+</recette>

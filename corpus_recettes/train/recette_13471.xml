@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13471">
+  <titre>Gâteau du matin</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de sucre</p>
+    <p>350 g de farine </p>
+    <p>1 sachet de levure chimique </p>
+    <p>4 gros oeufs</p>
+    <p>100 g de beurre ou d'huile</p>
+    <p>25 cl de lait</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le sucre, la farine, la levure et le sel.
+    Ajouter les oeufs, le beurre fondu à peine tiède et le lait. Bien mélanger avec une spatule.
+    Verser dans un moule à manqué anti-adhérent et mettre au four pendant 55 mn à 170°C.
+    Recette hyper facile et c'est parfait le matin dans le café ou le chocolat.
+  ]]>
+  </preparation>
+</recette>

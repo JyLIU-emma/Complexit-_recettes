@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18669">
+  <titre>CROUSTILLANTS</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>20 g de farine</p>
+    <p>5 cl de jus d'orange (=1 orange) </p>
+    <p>100 g de sucre</p>
+    <p>60 g de beurre fondu</p>
+    <p>60 g de poudre d'amande</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire préchauffer le four à 160°C. 
+    Mélanger tous les ingrédients ensemble. 
+    Sur une plaque recouverte de papier sulfurisé, former avec une cuillère à café, des petites boules sur la plaque en prenant soin de les espacer. 
+    Laisser cuire 8 à 10 mn suivant le four, puis en les sortant, les déposer sur une surface froide afin de les durcir. 
+    Fantastique avec de la glace ou à l'heure du thé ou café.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13130">
+  <titre>Biscuit corse facile</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 verres et demi de farine chataigne</p>
+    <p>1 verre de sucre</p>
+    <p>1/2 verre d'huile</p>
+    <p>1 vrre de lait</p>
+    <p>3 oeufs</p>
+    <p>1 paquet de levure</p>
+    <p>rhum</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Bien mélanger le tout, verser dans un moule beurré.
+    Cuire à four mùoyen (thersmotat 6 / 180°C) pendant 30 à 45 mn, selon le four.
+  ]]>
+  </preparation>
+</recette>

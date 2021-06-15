@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12953">
+  <titre>Bananes au lait de coco avec perles du japon</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>30g de perles japon </p>
+    <p>25cl de lait de coco</p>
+    <p>autant de bananes et/ou ananas que voulu</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Verser en pluie 30g de perles japon dans 25 cl de lait de coco bouillant.
+    Cuire 30 mn, laisser refroidir.
+    Ajouter à volonté les bananes écrasées ou en morceaux + d'autres fruits si vous voulez (ananas,...).
+    Rafraichissant, goût pina colada.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13786">
+  <titre>Gâteau au vin rouge</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de beurre</p>
+    <p>250 g de sucre</p>
+    <p>250 g de farine</p>
+    <p>1 sachet de levure chimique</p>
+    <p>4 oeufs</p>
+    <p>1 cuillère à café de cacao non sucré</p>
+    <p>1 cuillère à café de cannelle</p>
+    <p>1/8 de Litre de vin rouge</p>
+    <p>100 g de chocolat râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le tout dans l'ordre indiqué des ingrédients. Beurrer un moule à Cake.
+    Mettre au four préchauffé à 185°C pendant 1 heure.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13252">
+  <titre>Salade aux St jacques et aux langoustines</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>12 coquilles St jacques</p>
+    <p>8 langoustines décortiquées</p>
+    <p>salades (mâche, feuille de chêne, trévise)</p>
+    <p>500 g de tomates cocktail</p>
+    <p>1 avocat mûr</p>
+    <p>Pour la vinaigrette :</p>
+    <p>1 cuillère à soupe de moutarde</p>
+    <p>2 cuillères à soupe de vinaigre balsamique (variante avec vinaigre de framboises)</p>
+    <p>3 cuillères à soupe d'huile d'olives de grande qualité</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Disposer le mélange de salades sur des assiettes individuelles, décorer de tomates cerise et de tranches fines d'avocat citronné.Faire revenir rapidement dans du beurre salé les coquilles et les langoustines (quelques mn suffisent).Les disposer sur la salade assaisonnée de vinaigrette. blanc fruité ou Brouilly
+  ]]>
+  </preparation>
+</recette>

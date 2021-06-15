@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21193">
+  <titre>Le meilleur gateau marbré au monde !</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>180 g de margarine</p>
+    <p>180 g de sucre cassonade</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>4 oeufs</p>
+    <p>200 g de farine</p>
+    <p>1/2 sachet de levure</p>
+    <p>2 cuillères à soupe de vanille liquide</p>
+    <p>125 g de chocolat</p>
+    <p>lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C. 
+    1) faire chauffer la margarine au bain-marie puis la mettre dans un récipient. 
+    2) ajouter à la margarine le sucre et le sachet de sucre vanillé. 
+    3) mélanger au fouet pour que la margarine et les sucres soient bien homogènes. 
+    4) ajouter les 4 jaunes d'ouefs un par un en mélangeant énergiquement avec le fouet. 
+    5) ajouter la farine et la levure puis remélanger bien. 
+    6) séparer ensuite le mélange en 2 parties égales. Dans la première partie, mettre la vanille liquide puis mélanger. Dans la seconde partie, mettre le chocolat que vous aurez chauffé au bain-marie avec du lait. 
+    7) battre les blancs en neige. 
+    8) incorporer la moitié des blancs en neige dans une partie puis la deuxième moitié dans l'autre partie. 
+    9) mettre du papier sulfurisé dans un moule à cake. 
+    10) dans le moule, verser en alternance une couche du mélange à la vanille puis une couche du mélange au chocolat. 
+    11) enfourner pendant 45 mn.
+    Tout le monde est sidéré par son merveilleux goût !
+  ]]>
+  </preparation>
+</recette>

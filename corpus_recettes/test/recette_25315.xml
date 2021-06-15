@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25315">
+  <titre>Daurade farcie aux champignons et crevettes grises</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2.5 kg de daurade écaillée et vidée</p>
+    <p>150 g de mie de pain</p>
+    <p>200 g de crevettes grises décortiquées</p>
+    <p>375 g de champignons</p>
+    <p>75 g de beurre frais</p>
+    <p>60 cl de vin blanc</p>
+    <p>3 tomates concassées</p>
+    <p>3 oignons</p>
+    <p>3 cuillères à soupe d’huile</p>
+    <p>citron</p>
+    <p>3 cuillères à soupe de persil haché</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Peler et hacher les oignons et les champignons, puis les faire revenir dans une poêle beurrée.
+    Mouiller avec le vin blanc et les tomates concassées.
+    Faire  réduire à feu doux, puis ajouter la mie de pain émiettée, les crevettes et le persil haché.
+    Assaisonner, puis napper un plat beurré d’un peu de farce.
+    Garnir la daurade du reste de farce puis la déposer dans le plat.
+    Parsemer la daurade de quelques noisettes de beure, mouiller avec un peu d’huile d’olive et de vin blanc, puis enfourner.
+    Laisser cuire 40 minutes.
+  ]]>
+  </preparation>
+</recette>

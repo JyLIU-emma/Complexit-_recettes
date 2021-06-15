@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11608">
+  <titre>Gâteau au chocolat et au citron</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>175 g de beurre ou margarine</p>
+    <p>175 g de sucre roux fin</p>
+    <p>3 oeufs</p>
+    <p>le zeste d'un citron râpée</p>
+    <p>225 g de farine à gâteaux (avec levure incorporée)</p>
+    <p>100 g de chocolat pâtissier</p>
+    <p>Pour le fourrage :</p>
+    <p>175 g de beurre</p>
+    <p>450 g de sucre glace tamisé</p>
+    <p>2 cuillères à soupe de jus de citron</p>
+    <p>Pour la décoration :</p>
+    <p>5 tranches d'oranges confites</p>
+    <p>5 tranches de citrons confits (au sucre !)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Beurrez et recouvrez un moule rectangulaire ou à cake au choix, pouvant contenir 1 kg avec du papier sulfurisée.
+    Battez le beurre et le sucre ensemble jusqu'à ce que le mélange soit léger et mousseux.
+    Ajoutez les oeufs, un à un en continuant à battre, et en ajoutant un peu de farine tamisée avec chaque oeuf.
+    Ajoutez le zeste, le reste de farine et le chocolat.
+    Versez dans le moule préparé.
+    Faites cuire à four 180°C (thermostat 6) pendant 40 à 45 min.
+    Retournez sur une grille pour laisser refroidir.
+    Fourrage :
+    Mettez tous les ingrédients ensemble et battez bien à la cuillère en bois, pour que le tout soit bien mélangé.
+    Coupez le gâteau en deux à l'horizontale et prenez la moitié de la crème au beurre pour mettre entre les deux morceaux.
+    Badigeonnez le reste de la crème sur le dessus du gâteau et décorez avec les tranches d'oranges et citrons confits (ou autre selon votre choix).
+  ]]>
+  </preparation>
+</recette>

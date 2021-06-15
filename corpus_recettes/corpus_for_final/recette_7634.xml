@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="7634">
+  <titre>Tartine sympa</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 Carrés Frais</p>
+    <p>4 belles tranches de pain de campagne d'environ 1 cm d'épaisseur</p>
+    <p>1 boîte de tapenade</p>
+    <p>1 boîte de purée de tomates confites</p>
+    <p>ciboulette</p>
+    <p>4 petits oignons frais</p>
+    <p>4 tomates cerises</p>
+    <p>4 olives noires</p>
+    <p>2 gousses d'ail</p>
+    <p>fleur de sel</p>
+    <p>poivre du moulin</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire griller les tranches de pain, afin de les rendre croustillantes.
+    Mettre sur chaque tartine un Carré Frais légèrement écrasé (à une extrémité de la tartine).
+    Parsemer le Carré avec l'ail finement haché, la fleur de sel, et le poivre du moulin.
+    Sur le reste de la tranche, étaler en part égale, de la tapenade et la purée de tomate.
+    Décorer chaque tranche avec 1 tomate cerise coupée en 2, 2 branches de ciboulette, et 1 olive. 
+    Couper finement l'oignon nouveau, en gardant un peu de vert pour finir la décoration sur la tartine.
+    Finir, en versant un filet d'huile d'olive.
+    Servir avec un vin rosé très frais.
+    Bon appétit
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171231">
+  <titre>Canette à la sauce douce</titre>
+  <type>Plat principal</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 canette (2 kg environ)</p>
+    <p>150 g de dattes</p>
+    <p>100 g de pistaches non salé</p>
+    <p>1 citron confit à la saumure</p>
+    <p>3 citrons verts</p>
+    <p>15 cl de vin blanc sec</p>
+    <p>25 cl d'eau</p>
+    <p>2 grosses cuillères à café de cannelle</p>
+    <p>sel</p>
+    <p>poivre-1 aiguille et du fil de cuisson</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Bien plumer la bête...
+    Puis, avec des ciseaux, ouvrez la peau de la canette sur toute sa longueur.
+    Avec un petit couteau bien aiguisé, enlevez les 2 filets et coupez les en lanières.
+    Coupez les dattes et le citron confit en très petit morceaux. Hachez les pistaches au mixer.
+    Dans une jatte, mélangez les morceaux de canette avec ces ingrédients. Ajoutez la cannelle, le sel et le poivre.
+    Reformez les filets de la canette avec une partie de cette farce et mettez le reste à l'intérieur de la carcasse. Recousez soigneusement la canette.
+    Préchauffez le four à 180°C (thermostat 6) et mettez la canette sur une plaque de cuisson.Mélangez le jus des citrons verts, le vin blanc, l'eau et la dernière grosse cuillère à café de cannelle.
+    Tout au long de la cuisson (1h30), arrosez la canette avec ce mélange.Dégustez (sans oublier la peau croustillante) avec une bonne purée de pomme de terre maison.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Bien <OPER id="o_1">plumer</OPER> la bête... Puis, avec des ciseaux, <OPER id="o_2">ouvrez</OPER> la peau de la <INGRED id="1">canette</INGRED> sur toute sa longueur. Avec un petit <INGRED id="8">couteau</INGRED> bien aiguisé, <OPER id="o_3">enlevez</OPER> les 2 <INGRED id="4">filets</INGRED> et <OPER id="o_4">coupez</OPER> les en lanières. <OPER id="o_5">Coupez</OPER> les <INGRED id="5">dattes</INGRED> et le citron confit en très petit <INGRED id="1">morceaux</INGRED>. <OPER id="o_6">Hachez</OPER> les <INGRED id="3">pistaches</INGRED> au mixer. Dans une jatte, <OPER id="o_7">mélangez</OPER> les <INGRED id="1">morceaux</INGRED> de <INGRED id="1">canette</INGRED> avec ces ingrédients. <OPER id="o_8">Ajoutez</OPER> la cannelle, le sel et le <INGRED id="10">poivre</INGRED>. <OPER id="o_9">Reformez</OPER> les <INGRED id="2">filets</INGRED> de la <INGRED id="1">canette</INGRED> avec une partie de cette farce et <OPER id="o_10">mettez</OPER> le <INGRED id="1">reste</INGRED> à l'intérieur de la carcasse. <OPER id="o_11">Recousez</OPER> soigneusement la <INGRED id="1">canette</INGRED>. <OPER id="o_12">Préchauffez</OPER> le four à 180 ° C ( thermostat 6 ) et mettez la <INGRED id="1">canette</INGRED> sur une plaque de cuisson. <OPER id="o_13">Mélangez</OPER> le jus des <INGRED id="4">citrons verts</INGRED>, le <INGRED id="9">vin blanc</INGRED>, l'<INGRED id="5">eau</INGRED> et la dernière grosse cuillère à <INGRED id="3">café</INGRED> de <INGRED id="9">cannelle</INGRED>. Tout au long de la cuisson ( 1h30 ), <OPER id="o_14">arrosez</OPER> la <INGRED id="1">canette</INGRED> avec ce <INGRED id="2">mélange</INGRED>. Dégustez ( sans <OPER id="o_15">oublier</OPER> la peau croustillante ) avec une bonne <INGRED id="5">purée</INGRED> de <INGRED id="1">pomme</INGRED> de terre maison.
+  </annotation>
+  <annotation methode="crf">
+  Bien plumer la bête... Puis <INGRED>,</INGRED> avec des ciseaux <INGRED>,</INGRED> ouvrez la peau de la canette sur toute sa longueur <INGRED>.</INGRED> Avec un <INGRED>petit</INGRED> couteau bien aiguisé <INGRED>,</INGRED> enlevez les 2 <INGRED>filets</INGRED> et coupez les en lanières <INGRED>.</INGRED> Coupez les dattes et le <INGRED>citron</INGRED> confit en très <INGRED>petit</INGRED> <INGRED>morceaux</INGRED> <INGRED>.</INGRED> Hachez les <INGRED>pistaches</INGRED> au mixer <INGRED>.</INGRED> Dans une jatte <INGRED>,</INGRED> mélangez les <INGRED>morceaux</INGRED> de canette avec ces ingrédients. Ajoutez la <INGRED>cannelle</INGRED> <INGRED>,</INGRED> le <INGRED>sel</INGRED> et le <INGRED>poivre</INGRED>. Reformez les <INGRED>filets</INGRED> de la canette avec une partie de cette farce et mettez le <INGRED>reste</INGRED> à l'intérieur de la carcasse. Recousez soigneusement la canette. Préchauffez le four à 180 ° C ( thermostat 6 ) et mettez la canette sur une plaque de cuisson. Mélangez le <INGRED>jus</INGRED> des <INGRED>citrons verts</INGRED> <INGRED>,</INGRED> le <INGRED>vin blanc</INGRED> <INGRED>,</INGRED> l'<INGRED>eau</INGRED> et la dernière grosse cuillère à <INGRED>café</INGRED> de <INGRED>cannelle</INGRED> <INGRED>.</INGRED> Tout au long de la cuisson ( 1h30 ) <INGRED>,</INGRED> arrosez la canette avec ce <INGRED>mélange</INGRED> <INGRED>.</INGRED> Dégustez ( sans oublier la peau croustillante ) avec une bonne <INGRED>purée</INGRED> de <INGRED>pomme de terre</INGRED> maison <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 58.5*X + 58.5</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 7*X + 13</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['canette']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['dattes']	 id:2	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['pistaches non salé', 'pistaches']	 id:3	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['citron confit à la saumure', 'citron']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['citrons verts', 'citrons']	 id:5	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['vin blanc sec', 'vin']	 id:6	 quantité:15	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['eau']	 id:7	 quantité:25	 unité:cl d'	 denombrable:False	 recipient:1
+ingredient:['cannelle']	 id:8	 quantité:2	 unité:cuillères à café de	 denombrable:True	 recipient:2*X
+ingredient:['sel']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre-1 aiguille', 'poivre-1']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['fil de cuisson', 'fil']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:plumer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ouvrir	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enlever	 id:o_3	 ingrédients_ralatifs:['8', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:couper	 id:o_5	 ingrédients_ralatifs:['5', '1']	 nombre_opération_atomique:3*X+1*X	 temps:3*X*1+1*X*1	 recipient:1
+operation:hacher	 id:o_6	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:100*X	 temps:1*X*5	 recipient:1
+operation:mélanger	 id:o_7	 ingrédients_ralatifs:['1', '1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reformer	 id:o_9	 ingrédients_ralatifs:['2', '1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_10	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:recoudre	 id:o_11	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préchauffer	 id:o_12	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:mélanger	 id:o_13	 ingrédients_ralatifs:['4', '9', '5', '3', '9']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:arroser	 id:o_14	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:oublier	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

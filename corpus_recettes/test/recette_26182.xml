@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26182">
+  <titre>Beignets de crevettes marinées au curry et au citron vert</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de farine</p>
+    <p>60 g de maïzena</p>
+    <p>2 échalotes</p>
+    <p>2 oeufs</p>
+    <p>30 cl de bière</p>
+    <p>2 cuillères à soupe d’huile</p>
+    <p>sel, poivre</p>
+    <p>huile pour la friture</p>
+    <p>Pour la garniture :</p>
+    <p>24 crevettes</p>
+    <p>2 citrons verts</p>
+    <p>1 cuillère à soupe de curry</p>
+    <p>sel, poivre</p>
+    <p>Pour la sauce :</p>
+    <p>1 radis noir</p>
+    <p>12 cuillères à soupe de nuoc-mam</p>
+    <p>4 gousses d’ail</p>
+    <p>1 cuillère à café de piment</p>
+    <p>2 cuillères à soupe de sucre</p>
+    <p>2 citrons verts</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Décortiquer les crevettes en ne laissant que le bout de la queue, puis les inciser sur le partie ventrale pour ôter le filament noir.
+    Les déposer dans un saladier, les saupoudrer de curry, de sel et de poivre, puis les arroser de jus de citron vert et les laisser mariner pendant 1 heure au frais.
+    Préparer ensuite la sauce : peler et hacher l’ail, puis presser le jus du citron vert.
+    Dans un bol, mélanger le nuoc-mam avec l’ail, le sucre, le piment en poudre et le jus du citron.
+    Peler le demi-radis noir puis le râper finement et le réserver dans un petit bol.
+    Préparer la pâte à beignets:Dans un saladier, délayer la farine et la maïzena dans la bière et l’huile.Y incorporer l’oeuf, l'échalote hachée saler et poivrer puis bien mélanger. Laisser reposer durant 1 heure.
+    Faire chauffer l’huile à 175°C.Egoutter les crevettes puis les enrober de pâte et les mettre à frire dans l’huile bien chaude, jusqu’à ce qu’elles soient bien dorées et bien gonflées.
+    Sortir les beignets frits à l’aide d’une écumoire, puis les essuyer à l’aide de papier absorbant pour en éliminer l’excès d’huile.
+    Servir les beignets de crevette avec la sauce et le radis noir.
+  ]]>
+  </preparation>
+</recette>

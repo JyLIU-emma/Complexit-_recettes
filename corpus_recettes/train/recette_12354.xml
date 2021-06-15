@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12354">
+  <titre>Salade de poulpe</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulpe roc de 1kg200</p>
+    <p>1 citron pressé</p>
+    <p>4 CAS d'huile d'olive</p>
+    <p>1 bouquet de persil haché</p>
+    <p>(facultatif : 1/2 oignon haché)</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer minutieusement le poulpe. Il faut nettoyer chaque ventouse.
+    Ouvrer le corps, et retirer les viscères ainsi que les 2 mandibules.
+    Une fois le poulpe nettoyé, le réserver.
+    Préparer une marmite d'eau salée bouillante.
+    Piquer le poulpe à l'aide d'une fourchette et le plonger dans l'eau pendant quelques secondes, ensuite le retirer.
+    Répéter ces opérations trois fois de suite, puis laisser le poulpe cuire entre 30 à 40min, il est cuit une fois que l'on peut le traverser facilement à l'aide d'une fourchette.
+    Dans un saladier, préparer la vinaigrette, en mettant le jus de citron, l'huile d'olive, le persil et l'oignon.
+    Une fois le poulpe cuit, le découper en petits morceaux et laisser le refoidir, incorporer les morceaux à la vinaigrette et mettre au frigo quelques heures.
+  ]]>
+  </preparation>
+</recette>

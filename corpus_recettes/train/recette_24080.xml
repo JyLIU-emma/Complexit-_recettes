@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24080">
+  <titre>Bar rôti à la tomate</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 bar de 1,2 kg</p>
+    <p>6 tomates</p>
+    <p>3 oignons moyens</p>
+    <p>1 gousse d'ail</p>
+    <p>5 cuillerées à soupe d'huile</p>
+    <p>2 cuillères à soupe de persil haché</p>
+    <p>chapelure</p>
+    <p>-sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez et concassez les tomates. Pelez l'ail, les oignons et hachez-les. Faites-les revenir dans une poêle dans 2 cuillères à soupe d'huile chaude. Ajoutez les tomates pelées et concassées ainsi que l'ail haché. Salez, poivrez et laissez cuire jusqu'à évaporation complète de l'eau rejetée par les tomates.
+    Préchauffez le four à 200°C (thermostat 6-7).
+    Ecaillez, videz, essuyez et assaisonnez le poisson. Versez la purée de tomate dans un plat à four huilé et déposez le bar dessus. Arrosez d'huile et saupoudrez de chapelure. Enfournez pour 20 minutes de cuisson.
+    Saupoudrez de persil et servez.
+  ]]>
+  </preparation>
+</recette>

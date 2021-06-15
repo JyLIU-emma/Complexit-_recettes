@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18889">
+  <titre>Boeuf bourguignon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 à 800 g de pièce à fondue pour bourguignon</p>
+    <p>4/5 oignons</p>
+    <p>4/5 carottes</p>
+    <p>1 bouquet garni</p>
+    <p>sel, poivre</p>
+    <p>1 bouteille de vin rouge assez bon</p>
+    <p>100 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler la viande en cubes de 3 cm de côté, enlever les gros morceaux de gras. 
+    Couper l'oignon en morceaux. Le faire revenir dans une poêle au beurre. Une fois transparent, versez le dans une cocotte en fonte de préférence. 
+    Procéder de même avec la viande mais en plusieurs fois, jusqu'à ce que tous les morceaux soient cuits. Les ajouter au fur et à mesure dans la cocotte. Ne pas avoir peur de rajouter du beurre entre chaque fournée. Quand toute la viande est dans la cocotte, déglacer la poêle avec de l'eau ou du vin et faire bouillir en raclant pour récupérer le suc. Saler, poivrer, ajouter au reste. 
+    Recouvrir le tout avec une partie du vin et faire mijoter quelques heures avec le bouquet garni et les carottes en rondelles. 
+    Le lendemain, faire mijoter au moins 2 heures en plusieurs fois, ajouter du vin ou de l'eau si nécessaire.
+    Le secret est de bien faire revenir la viande à feu fort pour qu'elle soit très dorée voire presque noire.
+    Plus le plat aura mijoté très doucement avec des phases de repos, meilleur il sera (3 jours c'est encore mieux). Bourgogne !
+  ]]>
+  </preparation>
+</recette>

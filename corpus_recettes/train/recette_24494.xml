@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24494">
+  <titre>Salsifis sautés à la sauce tomate</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de salsifis</p>
+    <p>1 verre de vinaigre</p>
+    <p>8 cl d'huile d'olive</p>
+    <p>2 gousses d'ail</p>
+    <p>1 bouquet de persil</p>
+    <p>50 cl de sauce tomate</p>
+    <p>gros sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les salsifis,les coupe en tronçons de 6 à 7 cm, puis les jeter dans une bassine d'eau vinaigrée.
+    Egoutter, puis faire cuire 1 h 30 à l'eau bouillante salée.
+    Egoutter.
+    Hacher l'ail et le persil. 
+    Faire revenir les salsifis dans une poêle chaude et huilée pendant 5 min. 
+    Ajouter la sauce tomate, l'ail et le persil hachés, poivrer et servir.
+  ]]>
+  </preparation>
+</recette>

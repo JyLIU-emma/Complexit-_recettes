@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21038">
+  <titre>Cocotte de pommes de terre paysanne rapide</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de pommes de terre</p>
+    <p>2 saucisses à cuire</p>
+    <p>100 g de lardons</p>
+    <p>2 oignons</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>2 cubes de bouillon de volaille</p>
+    <p>1 branche de thym</p>
+    <p>1 cuillère à soupe de persil hachés</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer les oignons.
+    Peler et couper les pommes de terre en gros cubes.
+    Faire chauffer 20 cl d'eau.
+    Dans une cocotte en fonte ou une grande sauteuse, faire rissoler les lardons et les oignons.
+    Une fois dorés, les retirer et mettre la farine en remuant à la cuillère en bois.
+    Laisser roussir et verser 10 cl d'eau chaude (1/2 verre) en remuant vivement, en rajouter si nécessaire.
+    Y délayer les cubes de bouillon de volaille émiettés.
+    Saler, poivrer et ajouter le thym et le persil.
+    Remettre les lardons, les oignons, ainsi que les pommes de terre et les saucisses à cuire piquées.
+    Couvrir et laisser cuire 25-30 min à feu doux.
+    Accompagnez de salade verte aux noix et au comté.Vous pouvez aussi ajouter un peu de vin blanc à la sauce pour relever.
+  ]]>
+  </preparation>
+</recette>

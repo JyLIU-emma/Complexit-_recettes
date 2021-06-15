@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23331">
+  <titre>Rougets aux tomates</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de tomates concassées</p>
+    <p>4 rougets</p>
+    <p>2 oignons</p>
+    <p>10 g de beurre</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210° (thermostat 7).
+    Déposer les poissons dans un plat allant au four, les recouvrir d'un filet d'huile d'olive et assaisonner.
+    Enfourner pendant 20 min. 
+    Dans une casserole, faire cuire pendant 20 min les oignons ciselés, les tomates mondées et le vin. Assaisonner et mixer. 
+    Incorporer le beurre et verser la sauce sur le poisson.
+  ]]>
+  </preparation>
+</recette>

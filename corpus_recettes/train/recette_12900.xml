@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12900">
+  <titre>Morue de l'Ogooué</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2kg de Morue</p>
+    <p>1 boîte(moyenne) de tomates entières</p>
+    <p>1 petite boîte de purée de tomates</p>
+    <p>500g de carottes</p>
+    <p>500g de choux blanc</p>
+    <p>1 oignon de 60g</p>
+    <p>8 c à soupe d'huile </p>
+    <p>poivre, ail, persil, 1 cube poulet, </p>
+    <p>1 piment en fruit, sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille, tremper la morue dans une marmite (l'eau doit noyer le poisson).
+    Le jour de la préparation, émietter la morue en enlevant la peau et les arêtes.
+    Laver le choux et les carottes, les égoutter puis le couper en fines lamelles de 3 cm pour le choux et en rondelles pour les carottes.
+    Faire cuire le choux et les carottes à la vapeur.
+    Pocher la morue (faire revenir) pour ramollir le poisson.
+    Peler et émincer l’oignon, ail. Passer au robot l’ail, oignon et le persil.
+    Dans une sauteuse, mettre l’huile à chauffer.
+    Lorsque l’huile est chaude, mettre dans la sauteuse : le mélange oignon, ail et persil, les tomates entières et en purée, un cube poulet, le poivre, puis mélanger.
+    Mettre la morue dans le mélange et laisser mijoter.
+    Ajouter le mélange choux / carottes dans la sauteuse et laisser mijoter le tout pendant 25 minutes à feu doux.
+    5 minutes avant la fin de la cuisson, jeter le piment entier dans la préparation.
+    Le plat est cuit. Servir aussitôt.
+    Servir avec du riz ou de la banane plantin cuite à la vapeur. Cabernet d'Anjou
+  ]]>
+  </preparation>
+</recette>

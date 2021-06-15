@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13674">
+  <titre>Raclette suisse</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de fromage à raclette en tranches</p>
+    <p>1 kg de petites pommes de terre fermes à la cuisson</p>
+    <p>Pour les accompagnements :</p>
+    <p>poivre</p>
+    <p>paprika</p>
+    <p>cornichons </p>
+    <p>petits oignons au vinaigre</p>
+    <p>petits épis de maïs</p>
+    <p>piments au vinaigre</p>
+    <p>charcuterie</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les pommes de terre, et les faire cuire en robe des champs avec du sel. Pendant que les pommes de terre cuisent, préparer le plat de fromage en coupant des tranches de la grandeur des poêlons. Quand les pommes de terre sont cuites, enclencher l'appareil à raclette... Chacun fait fondre son fromage dans le poêlon et le déguste ensuite avec une pomme de terre et les accompagnements de son choix. vin blanc suisse
+  ]]>
+  </preparation>
+</recette>

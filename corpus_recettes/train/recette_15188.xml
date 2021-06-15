@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15188">
+  <titre>Galettes de pommes de terre luxembourgeoises (grumpere kirchechen)</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de pommes de terre</p>
+    <p>2 oeufs</p>
+    <p>4 oignons</p>
+    <p>persil</p>
+    <p>1 ou 2 cuillères à soupe de farine</p>
+    <p>sel et poivre</p>
+    <p>beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez les pommes de terre, lavées, essuyées et râpées. Salez, poivrez et mélangez avec largement d'oignons et de persil hachés. Ajoutez la farine et les oeufs. Mélangez bien.
+    Formez les beignets et faites cuire dans une poêle avec du beurre ou du saindoux.
+    Cette recette de 'râpées' se fait également sans les oeufs.
+  ]]>
+  </preparation>
+</recette>

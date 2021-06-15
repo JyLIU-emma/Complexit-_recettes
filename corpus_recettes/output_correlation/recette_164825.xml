@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164825">
+  <titre>Tartiflette au chou fleur</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 chou fleur entier</p>
+    <p>3 pommes de terres</p>
+    <p>1 reblochon</p>
+    <p>lardons allumettes fumés</p>
+    <p>2 oignons</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire à la cocotte minute chou fleur et pomme de terre. (rendra moins d'eau)
+    Dans une poele faire revenir les lardons alumettes et les oignons jusqu'à ce qu'ils soient bien grillés.
+    Quand le chou fleur et pomme de terre sont cuits, verser dans un plat à gratin. Y disposer ensuite par dessus lardons et oignons.
+    Puis couper en deux le roblochon avec la peau et mettre chaque moitié de part et autre du plat.
+    Mettre le tout au four 15 mn jusqu'à ce que le fromage est completement fondu.
+    Duguster avec une salade verte. Vin de savoie
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">cuire</OPER> à la cocotte minute <INGRED id="1">chou</INGRED> fleur et pomme de terre. ( rendra moins d'eau ) Dans une poele faire <OPER id="o_2">revenir</OPER> les <INGRED id="2">lardons</INGRED> alumettes et les <INGRED id="5">oignons</INGRED> jusqu'à ce qu'ils soient bien grillés. Quand le <INGRED id="1">chou</INGRED> fleur et pomme de terre sont cuits, <OPER id="o_3">verser</OPER> dans un plat à gratin. Y <OPER id="o_4">disposer</OPER> ensuite par dessus <INGRED id="4">lardons</INGRED> et <INGRED id="5">oignons</INGRED>. Puis <OPER id="o_5">couper</OPER> en deux le roblochon avec la peau et <OPER id="o_6">mettre</OPER> chaque moitié de part et autre du plat. <OPER id="o_7">Mettre</OPER> le tout au four 15 mn jusqu'à ce que le <INGRED id="3">fromage</INGRED> est completement fondu. <OPER id="o_8">Duguster</OPER> avec une salade verte. <INGRED id="5">Vin</INGRED> de savoie
+  </annotation>
+  <annotation methode="crf">
+  Faire cuire à la cocotte minute <INGRED>chou fleur</INGRED> et <INGRED>pomme de terre</INGRED>. ( rendra moins d'<INGRED>eau</INGRED> ) Dans une poele faire revenir les <INGRED>lardons</INGRED> alumettes et les <INGRED>oignons</INGRED> jusqu'à ce qu'ils soient bien grillés <INGRED>.</INGRED> Quand le <INGRED>chou fleur</INGRED> et <INGRED>pomme de terre</INGRED> sont <INGRED>cuits</INGRED> <INGRED>,</INGRED> verser dans un plat à gratin <INGRED>.</INGRED> Y disposer ensuite par dessus <INGRED>lardons</INGRED> et <INGRED>oignons</INGRED>. Puis couper en <INGRED>deux</INGRED> le <INGRED>roblochon</INGRED> avec la peau et mettre chaque moitié de part et autre du plat <INGRED>.</INGRED> Mettre le tout au four 15 mn jusqu'à ce que le <INGRED>fromage</INGRED> est completement fondu. Duguster avec une salade verte. Vin de savoie
+  </annotation>
+  <complexite>
+    <temps>f(X) = 7.0*X + 1.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 7*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['chou fleur entier', 'chou']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['pommes de terres', 'pommes']	 id:2	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['reblochon']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['lardons allumettes fumés', 'lardons']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['oignons']	 id:5	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:cuire	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:revenir	 id:o_2	 ingrédients_ralatifs:['2', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:verser	 id:o_3	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_4	 ingrédients_ralatifs:['4', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:couper	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:mettre	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_7	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:duguster	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

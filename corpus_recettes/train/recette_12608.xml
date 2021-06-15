@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12608">
+  <titre>Palets des Dames</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125g de margarine (ou de beurre)</p>
+    <p>125g de sucre </p>
+    <p>2 oeufs</p>
+    <p>150g de farine</p>
+    <p>50g de raisin</p>
+    <p>1 verre à liqueur de Rhum</p>
+    <p>sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Travailler la margarine (ou le beurre) et le sucre. Ajouter les oeufs un à la fois, puis les raisins macérés dans le Rhum. Mélanger à la farine.
+    Poser des petits tas de pâte bien espacés sur une plaque beurrée. Cuire à four moyen jusqu'à ce que le pourtour soit doré et le dessus blond.
+    Laissez refroidir sur une grille, glacer le dessus avec du sucre glace, du rhum blanc et de l'eau.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24528">
+  <titre>Filet de poulet au cidre</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 filets de poulet</p>
+    <p>1 oignon</p>
+    <p>1/2 bouteille de cidre</p>
+    <p>thym</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper l'oignon assez finement. 
+    Couper les filets de poulets en morceaux. 
+    Cuire l'oignon dans une noix de beurre à feu assez fort. 
+    Une fois l'oignon cuit, ajouter les morceaux de poulet. 
+    Faire revenir les morceaux de poulet, puis y ajouter petit à petit le cidre. 
+    Il faut que le poulet prenne une couleur dorée et qu'il soit légèrement caramélisé. 
+    Assaisonnez avec le thym, sel et poivre.
+    C'est extrêmement simple à faire et très bon.
+  ]]>
+  </preparation>
+</recette>

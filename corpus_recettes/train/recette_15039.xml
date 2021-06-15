@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15039">
+  <titre>Poulet à la chinoise facile</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 filets de poulet</p>
+    <p>50 g de beurre environ</p>
+    <p>3 blancs de poireaux</p>
+    <p>10 carottes</p>
+    <p>1 bocal de pousses de soja (facultatif)</p>
+    <p>4 petits oignons</p>
+    <p>sel, poivre et curry</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer les poireaux et couper les carottes en lamelles (couteau économe) ainsi que les oignons. 
+    Faire blondir les blancs de poulet  dans le beurre, puis les retirer. Les couper alors en petits morceaux.
+    Mettre les légumes dans la cocotte, asini que les pousses de soja égouttées, le sel, le poivre et le curry.
+    Bien mélanger et laisser cuire a feu doux 1 heure environ.
+    Accompagner avec du riz.
+    Si vous voulez alléger, ne pas mettre de beurre.
+    Si vous n'etes pas contre une petite cuillère de crème fraîche, n'hésitez pas !
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21504">
+  <titre>Poulet aux pommes de terre au citron</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 poulets coupés en morceaux</p>
+    <p>3 citrons non traités</p>
+    <p>1 kg de pommes de terre</p>
+    <p>2 oignons</p>
+    <p>3 gousses d'ail</p>
+    <p>250 g d'olives</p>
+    <p>1 feuille de laurier</p>
+    <p>1 cube de bouillon de poule</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>1/4 de cuillère à café de cumin et de gingembre en poudre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Faire dorer le poulet et les oignons émincés dans une cocotte pendant 10 mn. 
+    Ajouter les gousses d'ail en lamelles et les épices. Remuer. 
+    Ajouter les pommes de terrecoupées en morceaux, le cube émietté 50 cl d'eau, le jus d'un citron et le laurier. 
+    Laisser mijoter à couvert pendant 30 mn. 
+    2) Couper les citrons restants en tranches ; les épépiner. 
+    Les plonger dans de l'eau frémissante pendant 2 mn. 
+    Les ajouter avec les olives dans la cocotte. 
+    Poursuivre la cuisson 10 mn à couvert puis 10 mn sans couvercle. 
+    3) Sortir le poulet et les pommes de terre de la cocotte et les garder au chaud. 
+    4) Faire réduire le jus de cuisson sur feu vif. 
+    Verser sur le poulet. 
+    Servir bien chaud.
+  ]]>
+  </preparation>
+</recette>

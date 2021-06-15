@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21987">
+  <titre>Veau crémeux aux champignons et à la ciboulette</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 fines escalopes de veau</p>
+    <p>120 g de beurre</p>
+    <p>225 g de champignons</p>
+    <p>5 cl de Cognac</p>
+    <p>120 g de crème</p>
+    <p>1 bouquet de ciboulette</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les escalopes dans 80 g de beurre. Lorsqu'elles sont bien dorées, flamber au Cognac et réserver au chaud.
+    Emincer les champignons et les faire revenir dans la même poêle que la viande avec le reste de beurre.
+    Lorsque les champignons sont dorés, ajouter la crème, la moitié de la ciboulette ciselée, du sel et du poivre.
+    Remettre les escalopes dans la poêle pour les réchauffer et les servir saupoudrées du reste de ciboulette ciselée.
+  ]]>
+  </preparation>
+</recette>

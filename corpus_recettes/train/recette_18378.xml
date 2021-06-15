@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18378">
+  <titre>Macarons</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>16 cuillères à soupe de farine</p>
+    <p>12 cuillères à soupe de sucre</p>
+    <p>6 cuillères à soupe de lait</p>
+    <p>1 oeuf</p>
+    <p>1 sachet de levure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (thermostat 7).
+    Bien mélanger le tout. 
+    Verser soit directement sur du papier sulfurisé, soit dans des moules à tartelettes ou une plaque à cookies. 
+    Mettre au four et retirer les macarons dès qu'ils sont dorés. 
+    Laisser refroidir.On peut varier en mettant au centre de chaque macarons de la noix de coco râpée ou des raisins secs. Servir avec de la compote ou une crème anglaise.
+  ]]>
+  </preparation>
+</recette>

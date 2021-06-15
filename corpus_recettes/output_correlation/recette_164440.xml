@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164440">
+  <titre>Huitres grillees aux bacon et chutney</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>-20 huitres fraiches</p>
+    <p>-250g lardons allumettes ou bacon coupe en petits morceaux</p>
+    <p>Chutney papaye/mangue</p>
+    <p>-sauce 'Worcestershire'</p>
+    <p>-poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    -Ouvrir les huitres et les vider de leurs eau.
+    -Parsemer de lardons allumette ou bacon.
+    -Ajouter 1 cuillere a cafe de chutney papaye /mangue (la confiture de mangue fait aussi l'affaire!)
+    -Arroser de sauce Worcestershire (la sauce soja ne donne pas le meme gout.. cette sauce est plus vinaigree!.. on la trouve dans les grandes surfaces.)
+    -poivrer selon gout et au four!
+    Attention mettre au grill 5min devrait suffire en fonction du grill verifier quqnt ca commence a bouillir et brunir comme du CARAMEL...Les personnes qui n'aiment pas les huitres sont très surprises et changent souvent d'avis ! Bon appétit
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">-Ouvrir</OPER> les huitres et les <OPER id="o_2">vider</OPER> de leurs eau. <OPER id="o_3">-Parsemer</OPER> de <INGRED id="5">lardons</INGRED> allumette ou bacon. <OPER id="o_4">-Ajouter</OPER> 1 cuillere a cafe de chutney papaye /mangue ( la confiture de mangue fait aussi l'affaire ! ) <OPER id="o_5">-Arroser</OPER> de <INGRED id="4">sauce</INGRED> Worcestershire ( la <INGRED id="4">sauce</INGRED> soja ne donne pas le meme gout.. cette <INGRED id="4">sauce</INGRED> est plus vinaigree !.. on la trouve dans les grandes surfaces. ) <OPER id="o_6">-poivrer</OPER> selon gout et au four ! Attention <OPER id="o_7">mettre</OPER> au grill 5min devrait <OPER id="o_8">suffire</OPER> en fonction du grill <OPER id="o_9">verifier</OPER> quqnt ca commence a <OPER id="o_10">bouillir</OPER> et <OPER id="o_11">brunir</OPER> comme du CARAMEL... Les personnes qui n'aiment pas les huitres sont très surprises et changent souvent d'avis ! Bon appétit
+  </annotation>
+  <annotation methode="crf">
+  -Ouvrir les huitres et les vider de leurs <INGRED>eau</INGRED> <INGRED>.</INGRED> -Parsemer de <INGRED>lardons</INGRED> allumette <INGRED>ou</INGRED> bacon. -Ajouter 1 cuillere <INGRED>a</INGRED> cafe de chutney papaye /mangue ( la <INGRED>confiture</INGRED> de mangue fait aussi l'affaire ! ) -Arroser de <INGRED>sauce</INGRED> Worcestershire ( la <INGRED>sauce</INGRED> soja ne donne pas le meme gout.. cette <INGRED>sauce</INGRED> est plus vinaigree !.. on la trouve dans les grandes surfaces. ) -poivrer selon gout et au four ! Attention mettre au grill 5min devrait suffire en fonction du grill verifier quqnt ca commence <INGRED>a</INGRED> bouillir et brunir comme du CARAMEL... Les personnes qui n'aiment pas les huitres sont très surprises et changent souvent d'avis ! Bon appétit
+  </annotation>
+  <complexite>
+    <temps>f(X) = 11.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['-20 huitres fraiches', '-20']	 id:1	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['lardons allumettes', 'coupe']	 id:2	 quantité:non_precis	 unité:g	 denombrable:False	 recipient:1
+ingredient:['Chutney papaye-mangue', 'Chutney']	 id:3	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["-sauce 'Worcestershire", '-sauce']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['-poivre']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:-ouvrir	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:vider	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:-parsemer	 id:o_3	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:-ajouter	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:-arroser	 id:o_5	 ingrédients_ralatifs:['4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:-poivrer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:suffire	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verifier	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:bouillir	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:brunir	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13458">
+  <titre>Carbonade Flamande (belgique)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>une noix de beurre</p>
+    <p>500 g de carbonade de boeuf</p>
+    <p>2 oignons</p>
+    <p>4 tranches de pains d'épice (sans morceaux de sucre)</p>
+    <p>50 cl de bière de table (ou de Gueuze)</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir dans une casserole la carbonnade de boeuf, lorsque les morceaux sont saisis, déverser la bière et ajouter les oignons coupé en lamelle.
+    Saler, poivrer et laisser mijoter à couvert 1/2 heure.
+    Ensuite, placer les tranches de pain d'épice sur la préparation (sans les casser ni les mélanger) et laisser mijoter à petit feu pendant minimum 1h30.
+    Lorsque le temps est écoulé, mélanger et rectifier l'assaisonnement.
+    Plus le plat mijote, plus la viande sera tendre.
+    Si vous n'avez pas de pain d'épice ou que vous n'aimez pas, vous pouvez le remplacer par une tranche de pain tartinée à la moutarde (à placer au-dessus également).
+  ]]>
+  </preparation>
+</recette>

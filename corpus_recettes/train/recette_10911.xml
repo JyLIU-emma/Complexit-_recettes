@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10911">
+  <titre>Pancakes (Etats-unis)</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,5 tasse de farine</p>
+    <p>7 g de levure de boulanger</p>
+    <p>25 cl de lait</p>
+    <p>2 oeufs</p>
+    <p>20 g de beurre</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettez la farine dans un saladier. Ajoutez du sel, la levure, le lait puis 2 jaunes d'oeufs.
+    Faites fondre le beurre et mélangez bien avec le reste.
+    Battez les 2 blancs d’oeufs en neige assez ferme.
+    Ajoutez le doucement à la pâte.
+    Faite cuire les pancakes sur une poêle très plate à feu moyen.
+    Laissez cuire la première face jusqu'à l'apparition de beaucoup de bulles (sur toute la surface du pancake).Retournez-le et laissez cuire beaucoup moins longtemps (moitié voire quart du temps). Si le dessous du pancake noircit trop avant l'apparition des bulles, réduisez le feu. Savourez avec du sirop d'érable, du beurre et/ou de la confiture.NB : Une tasse représente 240 ml.
+  ]]>
+  </preparation>
+</recette>

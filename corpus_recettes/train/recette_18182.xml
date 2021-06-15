@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18182">
+  <titre>Gâteau au fromage blanc</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de fromage blanc </p>
+    <p>20 cl de crème fraîche </p>
+    <p>100 g de sucre</p>
+    <p>20 g de maïzena ou de farine</p>
+    <p>3 oeufs</p>
+    <p>1 noix de beurre</p>
+    <p>Sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger au fouet le fromage blanc, la crème fraîche, le sucre, la maïzena (ou la farine) et les jaunes d'oeufs.
+    Monter les blancs d'oeufs en neige ferme et les incorporer délicatement avec une spatule au mélange ci-dessus.
+    Beurrer un moule à biscuit et le remplir aux 2/3 avec la pâte.
+    Cuire au four (thermostat 6) pendant 30 mns. Vérifier la cuisson avec la pointe d'un couteau.
+    Laisser refroidir 20 mn environ et démouler. Saupoudrer de sucre glace.
+    Vous pouvez l'accompagner de coulis de framboise.
+  ]]>
+  </preparation>
+</recette>

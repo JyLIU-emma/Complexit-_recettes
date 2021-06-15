@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10679">
+  <titre>Mousse de carottes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de carottes</p>
+    <p>3 oeufs</p>
+    <p>20 cl de crème fraîche</p>
+    <p>100 g fromage râpé (gruyère)</p>
+    <p>muscade, sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper les carottes et les faire cuire dans de l'eau salée, puis utiliser l'eau des carottes pour les passer au mixeur.
+    Battre les oeufs, y ajouter la crème fraîche, puis les carottes mixées, le fromage, puis sel, poivre et muscade.
+    Passer au four 30 minutes à 250°C (thermostat 8-9).
+    Servir tiède.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Découper</OPER> les <INGRED id="1">carottes</INGRED> et les faire <OPER id="o_2">cuire</OPER> dans de l'<INGRED id="2">eau</INGRED> salée, puis <OPER id="o_3">utiliser</OPER> l'eau des <INGRED id="5">carottes</INGRED> pour les passer au mixeur. <OPER id="o_4">Battre</OPER> les <INGRED id="6">oeufs</INGRED>, y <OPER id="o_5">ajouter</OPER> la crème fraîche, puis les <INGRED id="1">carottes</INGRED> mixées, le <INGRED id="3">fromage</INGRED>, puis <INGRED id="4">sel</INGRED>, poivre et <INGRED id="5">muscade</INGRED>. <OPER id="o_6">Passer</OPER> au four 30 minutes à 250 ° C ( thermostat 8 - 9 ). Servir tiède.
+  </annotation>
+  <annotation methode="crf">
+  Découper les <INGRED>carottes</INGRED> et les faire cuire dans de l'<INGRED>eau</INGRED> salée <INGRED>,</INGRED> puis utiliser l'<INGRED>eau</INGRED> des <INGRED>carottes</INGRED> pour les passer au mixeur. Battre les <INGRED>oeufs</INGRED> <INGRED>,</INGRED> y ajouter la <INGRED>crème fraîche</INGRED> <INGRED>,</INGRED> puis les <INGRED>carottes mixées</INGRED> <INGRED>,</INGRED> le <INGRED>fromage</INGRED> <INGRED>,</INGRED> puis <INGRED>sel</INGRED> <INGRED>,</INGRED> <INGRED>poivre</INGRED> et <INGRED>muscade</INGRED>. Passer au four 30 minutes à 250 ° C ( thermostat 8 - 9 ). Servir tiède.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 3.33333333333333*X + 6.66666666666667</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 3*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['carottes']	 id:1	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:2	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['crème fraîche', 'crème']	 id:3	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['fromage râpé']	 id:4	 quantité:100	 unité:g	 denombrable:False	 recipient:1
+ingredient:['muscade']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:découper	 id:o_1	 ingrédients_ralatifs:['1', '2', '5']	 nombre_opération_atomique:1+3*X+1	 temps:1*X*1+3*X*1+1*X*1	 recipient:1
+operation:cuire	 id:o_2	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:utiliser	 id:o_3	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_4	 ingrédients_ralatifs:['6', '1', '3', '4', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['1', '3', '4', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:passer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="105824">
+  <titre>Linguine aux palourdes, pétoncles et moules</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de palourdes surgelées</p>
+    <p>500 g de moules surgelées</p>
+    <p>500 g de "saint-Jacques" sans corail surgelée</p>
+    <p>500 g de linguine</p>
+    <p>2 tomates</p>
+    <p>1 cuillère à soupe de nuoc man</p>
+    <p>1 cuillère à soupe de concentré de tomate</p>
+    <p>1 cuillère à café de piment moulu</p>
+    <p>ail</p>
+    <p>échalote</p>
+    <p>sel, poivre.</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites décongeler vos palourdes la veille. Dans une casserole, faites chauffer vos palourdes jusqu'à ce qu'elles soient ouvertes. Pendant ce temps dans une sauteuse, faites revenir dans un peu d'huile d'olive, une échalote finement ciselée (moi j'utilise du surgelé) et un gousse d'ail. Après coloration ajoutez vos tomates coupées en dés. Ajoutez ensuite vos moules et vos saint-Jacques encore congelées. Laissez mijoter à couvert et à feu doux. Ajoutez l'eau de vos palourdes à la préparation et réservez les palourdes. Ajoutez à mi-cuisson une cuillère à soupe de nuoc man, le concentré de tomate et le piment. A la fin de la cuisson ajoutez les palourdes. Mélangez bien. Pendant ce temps, vous aurez pris soin de faire cuire vos linguines. Mélangez ensuite vos linguines à la préparation de moules, saint-Jacques et palourdes. Servez aussitôt.Il n'y a que des gros mangeurs à la maison alors mes quantités peuvent paraitre énormes. Désolée à l'avance.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faites <OPER id="o_1">décongeler</OPER> vos <INGRED id="1">palourdes</INGRED> la veille. Dans une casserole, faites <OPER id="o_2">chauffer</OPER> vos <INGRED id="1">palourdes</INGRED> jusqu'à ce qu'elles soient ouvertes. Pendant ce temps dans une sauteuse, faites <OPER id="o_3">revenir</OPER> dans un peu d'<INGRED id="8">huile d'olive</INGRED>, une <INGRED id="10">échalote</INGRED> finement ciselée ( moi j'utilise du surgelé ) et un gousse d'<INGRED id="7">ail</INGRED>. Après coloration <OPER id="o_4">ajoutez</OPER> vos <INGRED id="3">tomates</INGRED> coupées en <INGRED id="3">dés</INGRED>. <OPER id="o_5">Ajoutez</OPER> ensuite vos <INGRED id="2">moules</INGRED> et vos <INGRED id="3">saint-Jacques</INGRED> encore congelées. Laissez <OPER id="o_6">mijoter</OPER> à couvert et à feu doux. <OPER id="o_7">Ajoutez</OPER> l'<INGRED id="1">eau</INGRED> de vos <INGRED id="1">palourdes</INGRED> à la préparation et réservez les <INGRED id="1">palourdes</INGRED>. <OPER id="o_8">Ajoutez</OPER> à mi-cuisson une cuillère à soupe de <INGRED id="6">nuoc man</INGRED>, le <INGRED id="7">concentré de tomate</INGRED> et le <INGRED id="4">piment</INGRED>. A la fin de la cuisson <OPER id="o_9">ajoutez</OPER> les <INGRED id="1">palourdes</INGRED>. <OPER id="o_10">Mélangez</OPER> bien. Pendant ce temps, vous aurez pris soin de faire <OPER id="o_11">cuire</OPER> vos linguines. <OPER id="o_12">Mélangez</OPER> ensuite vos linguines à la préparation de <INGRED id="2">moules</INGRED>, <INGRED id="3">saint-Jacques</INGRED> et <INGRED id="1">palourdes</INGRED>. Servez aussitôt. Il n'y a que des gros mangeurs à la maison alors mes quantités peuvent <OPER id="o_13">paraitre</OPER> énormes. Désolée à l'avance.
+  </annotation>
+  <annotation methode="crf">
+  Faites décongeler vos palourdes la veille. Dans une casserole <INGRED>,</INGRED> faites chauffer vos palourdes jusqu'à ce qu'elles soient ouvertes. Pendant ce temps dans une sauteuse <INGRED>,</INGRED> faites revenir dans un peu d'<INGRED>huile d'olive</INGRED> <INGRED>,</INGRED> une <INGRED>échalote</INGRED> <INGRED>finement</INGRED> ciselée ( moi j'utilise du surgelé ) et un gousse d'<INGRED>ail</INGRED> <INGRED>.</INGRED> Après coloration ajoutez vos <INGRED>tomates</INGRED> <INGRED>coupées</INGRED> en dés <INGRED>.</INGRED> Ajoutez ensuite vos <INGRED>moules</INGRED> et vos saint-Jacques encore congelées <INGRED>.</INGRED> Laissez mijoter à couvert et à feu doux. Ajoutez l'<INGRED>eau</INGRED> de vos palourdes à la préparation et réservez les palourdes. Ajoutez à mi-cuisson une cuillère à soupe de nuoc man <INGRED>,</INGRED> le <INGRED>concentré de tomate</INGRED> et le <INGRED>piment</INGRED> <INGRED>.</INGRED> A la fin de la cuisson ajoutez les palourdes. Mélangez bien <INGRED>.</INGRED> Pendant ce temps <INGRED>,</INGRED> vous aurez pris soin de faire cuire vos <INGRED>linguines</INGRED> <INGRED>.</INGRED> Mélangez ensuite vos linguines à la préparation de <INGRED>moules</INGRED> <INGRED>,</INGRED> saint-Jacques et palourdes. Servez aussitôt. Il n'y a que des <INGRED>gros</INGRED> mangeurs à la maison alors mes quantités peuvent paraitre énormes. Désolée à l'avance <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 5.0*X + 8.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 5*X + 14</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['palourdes surgelées', 'palourdes']	 id:1	 quantité:1	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['moules surgelées', 'moules']	 id:2	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['" saint-Jacques " sans corail surgelée', 'saint-Jacques']	 id:3	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['linguine']	 id:4	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['tomates']	 id:5	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['nuoc man', 'nuoc']	 id:6	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['concentré de tomate', 'concentré']	 id:7	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['piment moulu', 'piment']	 id:8	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+ingredient:['ail']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['échalote']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:décongeler	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:revenir	 id:o_3	 ingrédients_ralatifs:['8', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_4	 ingrédients_ralatifs:['3', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['2', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:['1', '1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['6', '7', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:cuire	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:mélanger	 id:o_12	 ingrédients_ralatifs:['2', '3', '1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:paraitre	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165440">
+  <titre>Ravioles aux pleurotes</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>400 g de farine</p>
+    <p>500 g de pleurotes</p>
+    <p>3 tranches de pain de mie</p>
+    <p>3-4 échalotes (tout dépend de la taille</p>
+    <p>Persil</p>
+    <p>200 g de jambon Italien</p>
+    <p>Parmesan ou pecorino</p>
+    <p>3 cl de vin blanc</p>
+    <p>lait</p>
+    <p>50 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Les Pâtes :
+    Battre les oeufs.
+    Mettez la farine dans un saladier et creusez un puit. Ajouttez les oeufs et mélangez énergiquement jusqu'à obtenir une pâte homogène.
+    Il faut pétrir la pâte énergiquement, au besoin, vous pouvez utiliser un fouet électrique ou un robot.
+    Laissez reposer la pâte pendant environ 20 minutes.
+    La farce :Coupez les pleurottes en petits morceaux.
+    Coupez les échalottes finement.
+    Mettez les tranches de pain dans une assiette creuse et ajouttez du lait.
+    Ensuite, il faut cuire les pleurottes dans une poele avec du beurre.
+    Une fois, les pleurottes brunies, ajoutez le vin blanc, le persil et les échalottes.
+    Coupez le jambon finement et ajouttez le à la préparation.
+    Enfin, une fois le vin quasiment évaporé, ajoutez le pain dans la préparation et laissez revenir une ou deux minutes.
+    C'est important que la préparation reste humide, il ne faut pas laisser cuire trop longtemps sans quoi, le plat risque d'être trop sec.
+    Les ravioles :A l'aide d'une machine pour faire des pâtes, travaillez votre pâte pour obtenir deux feuilles bien lisses. Si vous ne disposez pas d'une telle machine, vous pouvez le faire avec un rouleau, mais cela vous demandera plus de temps et d'énergie.
+    Une fois, les feuilles obtenues, disposez en petits tas la farce sur une des deux feuilles. (un petit conseil, mettez de la farine sur votre plan de travail, ça évitera devoir vous battre pour récupérer les ravioles une fois qu'ils seront finis...)
+    Mouillez le contour de chaque petit tas. C'est l'eau qui permettra aux feuilles de coller et à la farce de ne pas terminer dans l'eau bouillante.
+    Déposez ensuite la deuxième feuille sur la première. A l'aide d'une roulette crantée, découpez vos ravioles.
+    La cuisson :Faites bouillir une casserole d'eau, ajouttez deux ou trois cubes de bouillon de viande de boeuf et plongez les ravioles dans l'eau bouillante.
+    La cuisson dure quelques minutes. (4-5 min environ).La sauce :Pour ce qui est de la sauce, je fais une sauce aux pleurottes ou bien à d'autres champignons des bois, il suffit de reprendre la recette de la farce en y mettant pas de jambon et de pain. Par contre, je termine ma sauce avec de la crème fraiche. Servez le tout dans une assiette chaude et saupoudrez votre repas de parmezan ou de pecorino... Succès garanti.Un plat qui demande un peu de travail, mais qui fera le bonheur de vos invités... un bourgogne aligoté
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Les Pâtes : <OPER id="o_1">Battre</OPER> les <INGRED id="1">oeufs</INGRED>. <OPER id="o_2">Mettez</OPER> la <INGRED id="1">farine</INGRED> dans un <INGRED id="1">saladier</INGRED> et creusez un puit. <OPER id="o_3">Ajouttez</OPER> les <INGRED id="10">oeufs</INGRED> et mélangez énergiquement jusqu'à obtenir une <INGRED id="1">pâte</INGRED> homogène. Il faut <OPER id="o_4">pétrir</OPER> la <INGRED id="1">pâte</INGRED> énergiquement, au besoin, vous pouvez <OPER id="o_5">utiliser</OPER> un fouet électrique ou un robot. Laissez <OPER id="o_6">reposer</OPER> la <INGRED id="5">pâte</INGRED> pendant <INGRED id="1">environ</INGRED> 20 minutes. La farce : <OPER id="o_7">Coupez</OPER> les pleurottes en <INGRED id="3">petits</INGRED> <INGRED id="1">morceaux</INGRED>. <OPER id="o_8">Coupez</OPER> les échalottes finement. <OPER id="o_9">Mettez</OPER> les <INGRED id="4">tranches</INGRED> de <INGRED id="4">pain</INGRED> dans une assiette creuse et ajouttez du <INGRED id="1">lait</INGRED>. Ensuite, il faut <OPER id="o_10">cuire</OPER> les pleurottes dans une <INGRED id="2">poele</INGRED> avec du <INGRED id="1">beurre</INGRED>. Une fois, les pleurottes brunies, <OPER id="o_11">ajoutez</OPER> le <INGRED id="7">vin blanc</INGRED>, le <INGRED id="3">persil</INGRED> et les échalottes. <OPER id="o_12">Coupez</OPER> le jambon finement et ajouttez le à la <INGRED id="4">préparation</INGRED>. Enfin, une fois le <INGRED id="4">vin</INGRED> quasiment évaporé, <OPER id="o_13">ajoutez</OPER> le <INGRED id="7">pain</INGRED> dans la <INGRED id="4">préparation</INGRED> et laissez <OPER id="o_14">revenir</OPER> une ou deux minutes. C'est important que la <INGRED id="4">préparation</INGRED> <INGRED id="1">reste</INGRED> humide, il ne faut pas laisser <OPER id="o_15">cuire</OPER> trop longtemps sans quoi, le plat risque d'être trop sec. Les ravioles : A l'aide d'une machine pour <INGRED id="10">faire</INGRED> des <INGRED id="2">pâtes</INGRED>, <OPER id="o_16">travaillez</OPER> votre <INGRED id="1">pâte</INGRED> pour obtenir deux <INGRED id="4">feuilles</INGRED> bien lisses. Si vous ne disposez pas d'une telle machine, vous pouvez le faire avec un rouleau, mais cela vous demandera plus de temps et d'énergie. Une fois, les <INGRED id="4">feuilles</INGRED> obtenues, <OPER id="o_17">disposez</OPER> en <INGRED id="3">petits</INGRED> tas la farce sur une des deux <INGRED id="4">feuilles</INGRED>. ( un petit conseil, <OPER id="o_18">mettez</OPER> de la <INGRED id="2">farine</INGRED> sur votre plan de travail, ça évitera <OPER id="o_19">devoir</OPER> vous <OPER id="o_20">battre</OPER> pour récupérer les ravioles une fois qu'ils seront finis... ) <OPER id="o_21">Mouillez</OPER> le contour de chaque petit tas. C'est l'<INGRED id="4">eau</INGRED> qui permettra aux <INGRED id="4">feuilles</INGRED> de <OPER id="o_22">coller</OPER> et à la farce de ne pas terminer dans l'<INGRED id="5">eau</INGRED> bouillante. <OPER id="o_23">Déposez</OPER> ensuite la deuxième feuille sur la première. A l'aide d'une roulette crantée, <OPER id="o_24">découpez</OPER> vos ravioles. La cuisson : Faites <OPER id="o_25">bouillir</OPER> une casserole d'eau, ajouttez deux ou trois cubes de <INGRED id="2">bouillon</INGRED> de <INGRED id="1">viande</INGRED> de <INGRED id="10">boeuf</INGRED> et <OPER id="o_26">plongez</OPER> les ravioles dans l'<INGRED id="4">eau</INGRED> bouillante. La cuisson dure quelques minutes. ( 4 - 5 min environ).La <INGRED id="5">sauce</INGRED> : Pour ce qui est de la <INGRED id="5">sauce</INGRED>, je fais une <INGRED id="4">sauce</INGRED> aux pleurottes ou bien à d'autres champignons des bois, il suffit de <OPER id="o_27">reprendre</OPER> la recette de la farce en y mettant pas de <INGRED id="5">jambon</INGRED> et de <INGRED id="7">pain</INGRED>. Par contre, je termine ma <INGRED id="4">sauce</INGRED> avec de la <INGRED id="2">crème fraiche</INGRED>. Servez le tout dans une assiette chaude et <OPER id="o_28">saupoudrez</OPER> votre repas de parmezan ou de pecorino... Succès garanti. Un plat qui demande un peu de travail, mais qui fera le bonheur de vos invités... un bourgogne aligoté
+  </annotation>
+  <annotation methode="crf">
+  Les Pâtes <INGRED>:</INGRED> Battre les <INGRED>oeufs</INGRED> <INGRED>.</INGRED> Mettez la <INGRED>farine</INGRED> dans un saladier et creusez un puit. Ajouttez les <INGRED>oeufs</INGRED> et mélangez énergiquement jusqu'à obtenir une <INGRED>pâte</INGRED> homogène <INGRED>.</INGRED> Il faut pétrir la <INGRED>pâte</INGRED> énergiquement <INGRED>,</INGRED> au besoin <INGRED>,</INGRED> vous pouvez utiliser un fouet électrique <INGRED>ou</INGRED> un robot. Laissez reposer la <INGRED>pâte</INGRED> pendant <INGRED>environ</INGRED> 20 minutes. La farce <INGRED>:</INGRED> Coupez les pleurottes en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> <INGRED>.</INGRED> Coupez les échalottes <INGRED>finement</INGRED> <INGRED>.</INGRED> Mettez les tranches de <INGRED>pain</INGRED> dans une assiette creuse et ajouttez du <INGRED>lait</INGRED> <INGRED>.</INGRED> Ensuite <INGRED>,</INGRED> il faut cuire les pleurottes dans une poele avec du <INGRED>beurre</INGRED> <INGRED>.</INGRED> Une fois <INGRED>,</INGRED> les pleurottes brunies <INGRED>,</INGRED> ajoutez le <INGRED>vin blanc</INGRED> <INGRED>,</INGRED> le <INGRED>persil</INGRED> et les échalottes. Coupez le <INGRED>jambon</INGRED> <INGRED>finement</INGRED> et ajouttez le à la préparation <INGRED>.</INGRED> Enfin <INGRED>,</INGRED> une fois le <INGRED>vin</INGRED> quasiment évaporé <INGRED>,</INGRED> ajoutez le <INGRED>pain</INGRED> dans la préparation et laissez revenir une <INGRED>ou</INGRED> <INGRED>deux</INGRED> minutes. C'est important que la préparation reste humide <INGRED>,</INGRED> il ne faut pas laisser cuire trop longtemps sans quoi <INGRED>,</INGRED> le plat risque d'être trop sec <INGRED>.</INGRED> Les ravioles <INGRED>:</INGRED> A l'aide d'une machine pour faire des <INGRED>pâtes</INGRED> <INGRED>,</INGRED> travaillez votre <INGRED>pâte</INGRED> pour obtenir <INGRED>deux</INGRED> feuilles bien lisses. Si vous ne disposez pas d'une telle machine <INGRED>,</INGRED> vous pouvez le faire avec un <INGRED>rouleau</INGRED> <INGRED>,</INGRED> mais cela vous demandera plus de temps et d'énergie. Une fois <INGRED>,</INGRED> les feuilles obtenues <INGRED>,</INGRED> disposez en petits tas la farce sur une des <INGRED>deux</INGRED> feuilles <INGRED>.</INGRED> ( un <INGRED>petit</INGRED> conseil <INGRED>,</INGRED> mettez de la <INGRED>farine</INGRED> sur votre plan de travail <INGRED>,</INGRED> ça évitera devoir vous battre pour récupérer les ravioles une fois qu'ils seront finis... ) Mouillez le contour de chaque <INGRED>petit</INGRED> tas. C'est l'<INGRED>eau</INGRED> qui permettra aux feuilles de coller et à la farce de ne pas terminer dans l'<INGRED>eau</INGRED> bouillante <INGRED>.</INGRED> Déposez ensuite la deuxième feuille sur la première. A l'aide d'une roulette crantée <INGRED>,</INGRED> découpez vos ravioles. La cuisson <INGRED>:</INGRED> Faites bouillir une casserole d'<INGRED>eau</INGRED> <INGRED>,</INGRED> ajouttez <INGRED>deux</INGRED> <INGRED>ou</INGRED> trois cubes de <INGRED>bouillon</INGRED> de <INGRED>viande</INGRED> de <INGRED>boeuf</INGRED> et plongez les ravioles dans l'<INGRED>eau</INGRED> bouillante <INGRED>.</INGRED> La cuisson dure quelques minutes. ( 4 - 5 min environ).La <INGRED>sauce</INGRED> <INGRED>:</INGRED> Pour ce qui est de la <INGRED>sauce</INGRED> <INGRED>,</INGRED> je fais une <INGRED>sauce</INGRED> aux pleurottes <INGRED>ou</INGRED> bien à d'autres <INGRED>champignons</INGRED> des bois <INGRED>,</INGRED> il suffit de reprendre la recette de la farce en y mettant pas de <INGRED>jambon</INGRED> et de <INGRED>pain</INGRED>. Par contre <INGRED>,</INGRED> je termine ma <INGRED>sauce</INGRED> avec de la <INGRED>crème fraiche</INGRED>. Servez le tout dans une assiette chaude et saupoudrez votre repas de parmezan <INGRED>ou</INGRED> de pecorino... Succès garanti. Un plat qui demande un peu de travail <INGRED>,</INGRED> mais qui fera le bonheur de vos invités... un bourgogne aligoté
+  </annotation>
+  <complexite>
+    <temps>f(X) = 17.7777777777778*X + 14.2222222222222</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 10*X + 22</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['oeufs']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['farine']	 id:2	 quantité:400	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['pleurotes']	 id:3	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['pain de mie', 'pain']	 id:4	 quantité:3	 unité:tranches de	 denombrable:True	 recipient:3*X
+ingredient:['échalotes ( tout dépend de la taille', 'échalotes']	 id:5	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['Persil']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['jambon Italien', 'jambon']	 id:7	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['Parmesan ou pecorino', 'Parmesan']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['vin blanc', 'vin']	 id:9	 quantité:3	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:11	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:battre	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_2	 ingrédients_ralatifs:['1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajoutter	 id:o_3	 ingrédients_ralatifs:['10', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:pétrir	 id:o_4	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:utiliser	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_6	 ingrédients_ralatifs:['5', '1']	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:couper	 id:o_7	 ingrédients_ralatifs:['3', '1']	 nombre_opération_atomique:1+4*X	 temps:1*X*1+4*X*1	 recipient:1
+operation:couper	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:mettre	 id:o_9	 ingrédients_ralatifs:['4', '4', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cuire	 id:o_10	 ingrédients_ralatifs:['2', '1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:ajouter	 id:o_11	 ingrédients_ralatifs:['7', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_12	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:3*X*1	 recipient:1
+operation:ajouter	 id:o_13	 ingrédients_ralatifs:['4', '7', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:revenir	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cuire	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:travailler	 id:o_16	 ingrédients_ralatifs:['10', '2', '1', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_17	 ingrédients_ralatifs:['4', '3', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_18	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:devoir	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mouiller	 id:o_21	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:3	 recipient:0
+operation:coller	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déposer	 id:o_23	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:découper	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:bouillir	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:plonger	 id:o_26	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reprendre	 id:o_27	 ingrédients_ralatifs:['5', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saupoudrer	 id:o_28	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

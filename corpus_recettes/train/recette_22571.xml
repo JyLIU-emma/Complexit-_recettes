@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22571">
+  <titre>Poulet  au vin blanc et oignons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 cuisses et hauts de poulet</p>
+    <p>2 oignons</p>
+    <p>20 cl de vin blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Retirer la peau des morceaux de poulet. 
+    Couper les oignons ou utiliser des oignons surgelés. 
+    Disposer dans un plat un lit d'oignons. 
+    Poser les morceaux de poulet dessus. 
+    Arroser avec le vin blanc. 
+    Ajouter sel, poivre et toutes herbes à votre convenance (thym, laurier ou basilic). Mettre au four pendant 50 min, arroser de temps en temps avec le jus de cuisson. Il est possible de rajouter quelques rondelles de tomates sur le lit d'oignons. 
+    Servez avec une purée.
+  ]]>
+  </preparation>
+</recette>

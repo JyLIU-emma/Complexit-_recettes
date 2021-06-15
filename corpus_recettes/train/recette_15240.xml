@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15240">
+  <titre>Gâteau aux noix et au miel</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de noix</p>
+    <p>3 oeufs</p>
+    <p>150 g de miel</p>
+    <p>5 cuillères d'huile</p>
+    <p>250 g de farine</p>
+    <p>15 cl de lait</p>
+    <p>2 cuillères à soupe de cassonade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Concasser les 500 g de noix, puis les mélanger avec les 3 jaunes d'oeuf, le miel, l'huile, la farine, le lait.
+    D'autre part, battre les blancs d'oeuf en neige et y ajouter la cassonade. Les incorporer délicatement au premier mélange.
+    Verser le tout dans un moule à manqué et laisser cuire à feu doux pendant 45 min.
+  ]]>
+  </preparation>
+</recette>

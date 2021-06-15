@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23126">
+  <titre>Oeufs cocotte au gruyère</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de gruyère râpé</p>
+    <p>50 g de beurre</p>
+    <p>4 oeufs</p>
+    <p>2 tranches de jambon</p>
+    <p>2 échalotes</p>
+    <p>1 tomate</p>
+    <p>brins d'estragon</p>
+    <p>4 cuillères à soupe de crème fraîche</p>
+    <p>2 cuillères à soupe de vin blanc sec</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6/7). 
+    Dans une poêle, faire fondre les échalotes ciselées et les placer dans 4 cassolettes. Parsemer de gruyère râpé et arroser de vin blanc. Ajouter  le jambon coupé en dés, la tomate mondée et coupée en morceaux, la crème fraîche et quelques feuilles d'estragon hachées. Assaisonner.
+    Faire cuire les cassolettes au bain-marie dans le four pendant 10 min. Ajouter les oeufs dans chaque cassolette et remettre au four pendant 5 min.
+  ]]>
+  </preparation>
+</recette>

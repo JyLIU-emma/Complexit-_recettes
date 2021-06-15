@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19243">
+  <titre>Escalopes de veau en portefeuille a la mozzarella</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 escalopes de veau</p>
+    <p>1 boule de mozzarella</p>
+    <p>100 g de petit salé</p>
+    <p>1 oignon</p>
+    <p>1 feuille de laurier</p>
+    <p>basilic</p>
+    <p>thym</p>
+    <p>10 cl de fond de veau</p>
+    <p>10 cl de vin blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les oignons et l'oignon coupé finement dans un faitout, avec un peu d'huile, durant 10 mn. 
+    Une fois les oignons cuits, les enlever du faitout. 
+    Aplatir les escalopes, placer un morceau de mozzarella au milieu, saupoudrer de sel, de poivre, de basilic, rouler les escalopes, et les faire tenir avec une pique. 
+    Les mettre dans le faitout avec un peu d'huile et les faire revenir sur feu un peu vif, de tous les côtés. 
+    Déglacer le faitout avec le vin blanc, attendre 2 mn, rajouter les oignons et le petit salé, le fond de veau, le thym et le laurier. 
+    Laisser mijoter à couvert durant un bon 1/4 d'heure.
+  ]]>
+  </preparation>
+</recette>

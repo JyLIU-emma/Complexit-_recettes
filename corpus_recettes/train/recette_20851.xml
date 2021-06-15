@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20851">
+  <titre>Poulet rôti aux herbes vertes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet coupé en morceaux</p>
+    <p>1 bouquet d'estragon</p>
+    <p>1 bouquet de persil</p>
+    <p>1 bouquet de ciboulette</p>
+    <p>3 échalotes</p>
+    <p>1 citron</p>
+    <p>2 cuillères à soupe de moutarde</p>
+    <p>25 cl de crème fraîche</p>
+    <p>80 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hachez toutes les herbes, émincez les échalotes.
+    Pressez le jus des citrons.
+    Mélangez les herbes (réservez 2 cuillères à soupe), les échalotes, 50 g de beurre mou, 1 cuillère de moutarde, le jus de citron, sel et poivre.
+    Laissez mariner les morceaux de poulet enduits de ce mélange pendant 1 h au frais.
+    Faites cuire les morceaux de poulet au four à 200°C (thermostat 6-7) pendant 35 min. 
+    Faites chauffer le beurre restant avec les herbes réserveés, 1 cuilère de moutarde, la crème, sel et poivre.
+    Nappez le poulet de sauce et servez.
+  ]]>
+  </preparation>
+</recette>

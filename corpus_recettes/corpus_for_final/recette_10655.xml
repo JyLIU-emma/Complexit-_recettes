@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10655">
+  <titre>Gaudes comtoises</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>farine de maïs</p>
+    <p>lait</p>
+    <p>crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Délayer de la farine de maïs dans de l'eau froide en évitant les
+    grumeaux.
+    Mettre au feu et cuire tout en remuant sans arrêt d'une spatule de bois, et toujours dans le même sens.
+    A mesure que les gaudes épaississent, verser du lait.
+    Le tout doit durer une heure et demie au moins.
+    Ajouter de la crème fraîche et servir.N.B. Il y a des variantes, et certains émiettent en plus du pain dans les gaudes.Cette robuste bouillie de maïs au lard aurait des vertus prolifiques.
+    Un vieux dicton comtois assure qu'il y a plus d'enfants dans une mesurede gaudes que dans deux muids de vin.
+  ]]>
+  </preparation>
+</recette>

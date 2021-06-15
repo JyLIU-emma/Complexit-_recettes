@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22147">
+  <titre>Carpe farcie sur lit de légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour le poisson et sa sauce :</p>
+    <p>1 carpe de 1,5 kg</p>
+    <p>50 cl de vin blanc sec</p>
+    <p>500 g de crème fraîche</p>
+    <p>250 g de girolles fraîches</p>
+    <p>4 oignons</p>
+    <p>2 carottes</p>
+    <p>sel, poivre</p>
+    <p>Pour la farce :</p>
+    <p>4 échalotes</p>
+    <p>2 gousses d'ail</p>
+    <p>persil</p>
+    <p>thym</p>
+    <p>200 g de chair à saucisse</p>
+    <p>50 g de mie de pain</p>
+    <p>15 cl de lait</p>
+    <p>2 oeufs entiers</p>
+    <p>50 cl de vin blanc sec</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver, écailler et vider la carpe, puis la passer sous l'eau du robinet. L'inciser sur le côté de manière à pouvoir la farcir puis réserver.
+    Préparer ensuite la farce :
+    Eplucher et hacher les échalotes, l'ail, le persil et le thym, puis les mélanger à la chair de saucisse. Saler, poivrer.
+    Mettre le pain de mie à tremper dans du lait puis battre les oeufs avec 50 cl de vin blanc.
+    Les incorporer à la farce et bien mélanger le tout de manière à obtenir une farce bien homogène.
+    Préchauffer votre four à 240°C (thermostat 8).
+    Faire revenir la farce dans une poêle légèrement beurrée, puis garnir l'intérieur du poisson et le recoudre.
+    Peler et émincer les carottes, les échalotes et les girolles, puis les mouiller avec le reste de vin blanc.
+    Dresser le poisson farci sur un plat allant au four puis l'entourer des légumes émincés. Rectifier l'assaisonnement, puis enfourner à four chaud pendant 1 h.
+    Filtrer ensuite le jus de cuisson à l'étamine, ajouter la crème fraîche et faire réduire cette sauce d'1/3.
+    Napper la carpe de sauce et la parsemer de persil ciselé avant de servir.
+  ]]>
+  </preparation>
+</recette>

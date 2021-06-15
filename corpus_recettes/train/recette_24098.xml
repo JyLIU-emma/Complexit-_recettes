@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24098">
+  <titre>Langouste épicée au gingembre</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 grosse queue de langouste</p>
+    <p>150 g de riz sauvage</p>
+    <p>15 g de gingembre frais</p>
+    <p>1 citron vert non traité</p>
+    <p>1/2 bouteille de Gewürztraminer (vin blanc d'Alsace)</p>
+    <p>25 cl de crème liquide</p>
+    <p>50 g de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Congeler la langouste (pour l'endormir, et éviter de l'ébouillanter). La couper ensuite en 2.
+    Faire cuire le riz à l'eau bouillante salée 20 minutes.
+    Râper le gingembre et le zeste du citron vert.
+    Faire fondre le beurre, y faire dorer les tronçons de langouste. Saler, poivrer. Ajouter le vin, le gingembre et le citron vert. Laisser réduire la sauce de moitiée à feu vif.
+    Ajouter la crème, laisser mijoter 10 min.
+    Servez les morceaux de langouste en sauce avec le riz sauvage.
+  ]]>
+  </preparation>
+</recette>

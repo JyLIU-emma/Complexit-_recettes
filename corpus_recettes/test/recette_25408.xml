@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25408">
+  <titre>Gâteau de pommes de terre au paprika</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de pommes de terre</p>
+    <p>2 oignons</p>
+    <p>2 cuillères à soupe de paprika</p>
+    <p>50 cl de bouillon</p>
+    <p>beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez et coupez les pommes de terre en fines rondelles.
+    Pelez et émincez les oignons également.
+    Beurrez un plat et disposez les légumes en alternant pommes de terre et oignons, saupoudrés de de paprika, sel et poivre entre chaque couche.
+    Versez le bouillon et faites cuire au four à 200°C (thermostat 6-7) environ 1 h, jusqu'à ce que les pommes de terre aient absorbé tout le liquide.
+    Parfait pour accompagner du veau.
+  ]]>
+  </preparation>
+</recette>

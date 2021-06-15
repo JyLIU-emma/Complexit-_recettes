@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17036">
+  <titre>Matelote de lotte</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de dés de lardons</p>
+    <p>900 g de lotte</p>
+    <p>37 cl de vin rouge</p>
+    <p>20 g de beurre</p>
+    <p>12 oignons blancs (petits)</p>
+    <p>1 cuillère à soupe de bouillon</p>
+    <p>persil</p>
+    <p>thym </p>
+    <p>laurier </p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>1 clou de girofle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte, faites rissoler les lardons et les petits oignons. Remplacez par la lotte coupée en morceaux. Laissez revenir, ajoutez le vin rouge et le cube de bouillon.
+    Remettez les lardons, les oignons, le thym, le laurier et le clou de girofle.
+    Portez à ébullition, baissez le feu et cuisez 15 mn. Malaxez la farine avec le beurre ramolli, incorporez à la préparation, poursuivez la cuisson 10mn
+    Salez,poivrez et servez parsemé de persil haché
+  ]]>
+  </preparation>
+</recette>

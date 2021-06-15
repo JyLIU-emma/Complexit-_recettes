@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16471">
+  <titre>Marinade de poulet balsamique</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 escalopes de poulet (ou de dinde)</p>
+    <p>huile d'olive</p>
+    <p>vinaigre balsmique de modène</p>
+    <p>herbes de provence</p>
+    <p>Pour le 'sel fou' :</p>
+    <p>sel</p>
+    <p>thym</p>
+    <p>oignon séché... (cette préparation condimentaire se trouve dans le commerce, à défaut le sel convient)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Comme c'est une marinade, ce plat se prépare la veille.Découpez en petits morceaux (pas trop fins, des lambeaux de 5 cm de côté maximum) les escalopes.
+    Dans un bol, plongez-les dans une marinade que vous aurez composée d'huile d'olive parfumée, de vinaigre balsamique et de sel fou. Couvrez d'un papier alu, laissez reposer une nuit au moins.
+    Faites dorer vos morceaux de poulet ainsi marinés, à la poële pendant 6 à 10 mn à feu moyen, sans ajouter toute la sauce. Une part de celle-ci peut être réservée pour accompagner à merveille des carottes râpées ou une salade variée.
+    Ce poulet mariné s'accompagnera très bien avec un riz blanc ou parfumé arrosé de la sauce ainsi mijotée.Ca ne paye pas de mine à première vue, mais le goût du poulet mariné dans du vinaigre balsamique, je vous assure que c'est quelque chose!
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21719">
+  <titre>Gâteau aux amandes fourré à la crème d'orange</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de poudre d'amandes</p>
+    <p>180 g de sucre</p>
+    <p>6 oeufs</p>
+    <p>4 oranges</p>
+    <p>3 moules ronds de 15 cm de diamètre</p>
+    <p>Pour la crème au beurre à l'orange :</p>
+    <p>250 g de beurre</p>
+    <p>150 g de sucre</p>
+    <p>2 oeufs</p>
+    <p>2 oranges</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez les biscuits :
+    Préchauffez le four à 180°C (thermostat 6).
+    Pressez le jus de 1 orange et râpez zeste râpé de 3 oranges.
+    Fouettez les 6 jaunes d'oeufs avec le sucre jusqu'à blanchiment.
+    Incorporez la poudre d'amandes, le jus et les zestes d'orange.
+    Fouettez les blancs en neige et incorporez-les.
+    Divisez la pâte en trois parts et versez chacune dans un moule beurré et fariné.
+    Faites cuire 20 minutes au four. Démoulez et laissez refroidir sur une grille.
+    Préparez la crème au beurre :
+    Râpez le zeste des 2 oranges.
+    Fouettez les oeufs avec le de sucre dans un saladier au bain-marie.
+    Laissez refroidir, puis incorporez peu à peu le beurre en morceaux.
+    Une fois la préparation bien lisse, ajoutez les zestes d'oranges.
+    Montez le gâteau :
+    Tartinez chaque gâteau de crème au beurre à l'orange et empilez-les.
+    Recouvrez le dessus du gâteau de crême et disposez dessus des tranches d'orange.
+  ]]>
+  </preparation>
+</recette>

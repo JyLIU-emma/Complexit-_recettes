@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20114">
+  <titre>Salade tiède de pommes de terre au cervelas</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 cervelas</p>
+    <p>2 oeufs</p>
+    <p>1 kg de pommes de terre</p>
+    <p>4 cornichons</p>
+    <p>1/2 bouquet de persil</p>
+    <p>1 échalote</p>
+    <p>5 cl de vin blanc sec</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>2 cuillères à soupe de vinaigre</p>
+    <p>1 cuillère à soupe de moutarde</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les pommes de terre à l'eau bouillante salée pendant 30 minutes.
+    Faites cuire les oeufs durs, 10 minutes à l'eau bouillante. Faites pocher les cervelas 10 minutes à l'eau bouillante également.
+    Hachez l'échalote, les cornichons et le persil. Mélangez la moutarde avec l'huile, le vinaigre, du sel et du poivre.
+    Pelez et coupez les pommes de terre en rondelles. Arrosez-les aussitôt de vin blanc. Ajoutez les oeufs durs coupés en quartiers et le cervelas pelé et coupé en cubes.
+    Parsemez de cornichons, échalote et persil hachés. Versez la vinaigrette et mélangez délicatement.
+  ]]>
+  </preparation>
+</recette>

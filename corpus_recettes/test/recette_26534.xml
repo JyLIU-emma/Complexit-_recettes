@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26534">
+  <titre>Brioche au fromage de Langres</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>une brioche ronde</p>
+    <p>un fromage de Langres</p>
+    <p>10 cl de crème fraîche</p>
+    <p>ciboulette</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper la brioche en deux horizontalement. 
+    Réserver la partie supérieure. 
+    Mettre de la crème, de la ciboulette ciselée, saler, poivrer. 
+    Disposer des lamelles de fromage de Langres de 5 mm d'épaisseur. 
+    Recouvrir de l'autre moitié de la brioche. 
+    Passer 10 mn à four chaud. 
+    Servir aussitôt avec une salade.
+    Peut être le plat principal le soir. Côtes du Jura ou Vacqueyras blanc ou pinot noir d'Alsace 
+  ]]>
+  </preparation>
+</recette>

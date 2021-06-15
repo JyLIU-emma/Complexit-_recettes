@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="112784">
+  <titre>Délice Choco-Poires Croustillant Praliné</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour le biscuit:</p>
+    <p>-120g de poudre d'amandes</p>
+    <p>-260g de sucre en poudre </p>
+    <p>-30g de farine</p>
+    <p>-2 blancs d'oeufs   </p>
+    <p>-1 cc de cacao en poudre non sucréPour le croustillant praliné:</p>
+    <p>-200g de pralinoise (tablette au rayon chocolat)</p>
+    <p>-9 petits paquets de crèpes dentelles type "gavottes"</p>
+    <p>-40g de pralin Pour la mousse au chocolat:</p>
+    <p>-120g de chocolat noir</p>
+    <p>-50g de beurre doux</p>
+    <p>-20 cl de crème liquide</p>
+    <p>-2 poires (fraiches pas trop mures ou bien au sirop)Pour la mousse de poire:</p>
+    <p>-6 feuilles de gélatine</p>
+    <p>-400g de purée de poires</p>
+    <p>-2 blancs d'oeufs</p>
+    <p>-130g de sucre</p>
+    <p>-3cl d'eau (30g)</p>
+    <p>-40cl de crème liquide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Biscuit:
+    Tamiser la farine, la moitié du sucre, la poudre d'amande et le cacao ensembles.
+    Battre les blancs en neige et y ajouter le reste du sucre, battre encore quelques instants puis incorporer les ingrédients secs doucement.
+    Cuire dans un moule a manquer beurrée et fariné 10min a 210°C.
+    Démouler et laisser refroidir sur une grille.
+    Croustillant praliné:
+    Ecraser les crêpes dentelles a la main ou a l'aide d'un rouleau a pâtisserie, attention a ne pas en faire de la poudre mais seulement des brisures!
+    Faire fondre doucement la pralinoise (bain marie ou micro onde a faible puissance), laisser tiédir puis ajouter les brisures de crêpes dentelles et le pralin.
+    Utiliser tout de suite, tant que la pâte est bien molle.
+    Mousse au chocolat:
+    Faire fondre ensemble le chocolat et le beurre.
+    Monter la crème en chantilly.
+    Mélanger doucement a la spatule.
+    Mousse de poires:
+    Faire ramollir la gelatine dans de l'eau froide.
+    Réchauffer la purée de poires et y ajouter la gélatine égouttée (attention a ne pas trop chauffer et a ne pas dessécher surtout!).
+    Laisser refroidir a température ambiante.
+    Battre les blancs en neige, chauffer le sucre avec l'eau a 120°C et verser le sucre sur les blancs en fouettant vite pour refroidir.
+    Monter la crème en chantilly.
+    Mélanger la "meringue" avec la purée de poires puis ajouter la crème fouettée doucement mais bien de manière bien homogène.
+    Montage:
+    Disposer le biscuit dans un cercle a pâtisserie garni de rhodoide posé sur une plaque a pâtisserie...
+    ou plus simplement dans un moule à bords amovibles garni de film alimentaire (pour faire coller le film au moule, il suffit de beurrer le moule avant).
+    Etaller le croustillant praliné sur le biscuit.
+    Bien attendre que ca ais bien refroidit.
+    Disposer la mousse au chocolat dessus.
+    Insérer des tranches de poires dans la mousse.
+    Disposer la mousse de poire au dessus.
+    Réfrigérer une nuit (environ 12h)
+    Décorer selon envie avec du cacao en poudre par exemple et une poire tranchée...On pourra évidement battre les blancs en neige ensemble et les séparer en deux parts égales, tout comme la crème fouettée mais las ce seras 2/3 1/3. Attention, si vous utilisez des poires bien mûres le gâteau sera à consommer rapidement, ce qui ne devrait pas poser de problème.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Biscuit : <OPER id="o_1">Tamiser</OPER> la <INGRED id="13">farine</INGRED>, la moitié du <INGRED id="1">sucre</INGRED>, la <INGRED id="3">poudre d'amande</INGRED> et le cacao ensembles. <OPER id="o_2">Battre</OPER> les <INGRED id="7">blancs</INGRED> en neige et y <OPER id="o_316">ajouter</OPER> le <INGRED id="1">reste</INGRED> du <INGRED id="3">sucre</INGRED>, <OPER id="o_4">battre</OPER> encore quelques instants puis <OPER id="o_5">incorporer</OPER> les ingrédients secs doucement. <OPER id="o_6">Cuire</OPER> dans un moule a <OPER id="o_7">manquer</OPER> beurrée et fariné 10min a 210 ° C. <OPER id="o_8">Démouler</OPER> et <INGRED id="12">laisser</INGRED> <OPER id="o_9">refroidir</OPER> sur une grille. Croustillant praliné : <OPER id="o_10">Ecraser</OPER> les <INGRED id="6">crêpes</INGRED> dentelles a la main ou a l'aide d'un rouleau a pâtisserie, attention a ne pas en <INGRED id="10">faire</INGRED> de la <INGRED id="1">poudre</INGRED> mais seulement des brisures ! Faire <OPER id="o_11">fondre</OPER> doucement la <INGRED id="6">pralinoise</INGRED> ( bain marie ou micro onde a faible puissance ), <INGRED id="12">laisser</INGRED> <OPER id="o_12">tiédir</OPER> puis <OPER id="o_1316">ajouter</OPER> les brisures de <INGRED id="6">crêpes</INGRED> dentelles et le <INGRED id="8">pralin</INGRED>. <OPER id="o_14">Utiliser</OPER> tout de suite, tant que la <INGRED id="5">pâte</INGRED> est bien molle. Mousse au <INGRED id="3">chocolat</INGRED> : Faire <OPER id="o_15">fondre</OPER> ensemble le <INGRED id="9">chocolat</INGRED> et le <INGRED id="5">beurre</INGRED>. <OPER id="o_16">Monter</OPER> la crème en chantilly. <OPER id="o_17">Mélanger</OPER> doucement a la spatule. Mousse de <INGRED id="3">poires</INGRED> : Faire <OPER id="o_18">ramollir</OPER> la gelatine dans de l'<INGRED id="5">eau froide</INGRED>. <OPER id="o_19">Réchauffer</OPER> la <INGRED id="14">purée de poires</INGRED> et y <OPER id="o_2016">ajouter</OPER> la <INGRED id="13">gélatine</INGRED> égouttée ( attention a ne pas trop <OPER id="o_21">chauffer</OPER> et a ne pas <OPER id="o_22">dessécher</OPER> surtout ! ). Laisser <OPER id="o_23">refroidir</OPER> a température ambiante. <OPER id="o_24">Battre</OPER> les <INGRED id="7">blancs</INGRED> en neige, <OPER id="o_25">chauffer</OPER> le <INGRED id="3">sucre</INGRED> avec l'<INGRED id="17">eau</INGRED> a 120 ° C et <OPER id="o_26">verser</OPER> le <INGRED id="3">sucre</INGRED> sur les <INGRED id="7">blancs</INGRED> en fouettant vite pour refroidir. <OPER id="o_27">Monter</OPER> la <INGRED id="15">crème</INGRED> en chantilly. <OPER id="o_28">Mélanger</OPER> la " meringue " avec la <INGRED id="14">purée de poires</INGRED> puis <OPER id="o_2916">ajouter</OPER> la crème fouettée doucement mais bien de manière bien homogène. Montage : <OPER id="o_30">Disposer</OPER> le biscuit dans un cercle a pâtisserie garni de rhodoide posé sur une plaque a pâtisserie... ou plus simplement dans un moule à bords amovibles garni de film alimentaire ( pour <INGRED id="10">faire</INGRED> coller le film au moule, il suffit de <OPER id="o_31">beurrer</OPER> le moule avant ). <OPER id="o_32">Etaller</OPER> le croustillant praliné sur le biscuit. Bien <OPER id="o_33">attendre</OPER> que ca ais bien refroidit. <OPER id="o_34">Disposer</OPER> la mousse au <INGRED id="9">chocolat</INGRED> dessus. <OPER id="o_35">Insérer</OPER> des <INGRED id="4">tranches</INGRED> de <INGRED id="1">poires</INGRED> dans la mousse. <OPER id="o_36">Disposer</OPER> la mousse de poire au dessus. <OPER id="o_37">Réfrigérer</OPER> une nuit ( <INGRED id="1">environ</INGRED> 12h ) <OPER id="o_38">Décorer</OPER> selon envie avec du cacao en <INGRED id="1">poudre</INGRED> par exemple et une poire tranchée... On pourra évidement <OPER id="o_39">battre</OPER> les <INGRED id="7">blancs</INGRED> en neige ensemble et les <OPER id="o_40">séparer</OPER> en deux parts égales, tout comme la crème fouettée mais las ce seras 2/3 1/3. Attention, si vous utilisez des <INGRED id="1">poires bien mûres</INGRED> le gâteau sera à <OPER id="o_41">consommer</OPER> rapidement, ce qui ne devrait pas <OPER id="o_42">poser</OPER> de problème.
+  </annotation>
+  <annotation methode="crf">
+  Biscuit <INGRED>:</INGRED> Tamiser la <INGRED>farine</INGRED> <INGRED>,</INGRED> la moitié du <INGRED>sucre</INGRED> <INGRED>,</INGRED> la <INGRED>poudre d'amande</INGRED> et le <INGRED>cacao</INGRED> ensembles. Battre les <INGRED>blancs</INGRED> en neige et y ajouter le <INGRED>reste</INGRED> du <INGRED>sucre</INGRED> <INGRED>,</INGRED> battre encore quelques instants puis incorporer les ingrédients secs doucement <INGRED>.</INGRED> Cuire dans un moule <INGRED>a</INGRED> manquer beurrée et <INGRED>fariné</INGRED> 10min a 210 ° C <INGRED>.</INGRED> Démouler et laisser refroidir sur une grille. Croustillant praliné <INGRED>:</INGRED> Ecraser les crêpes dentelles <INGRED>a</INGRED> la main <INGRED>ou</INGRED> <INGRED>a</INGRED> l'aide d'un <INGRED>rouleau</INGRED> <INGRED>a</INGRED> pâtisserie <INGRED>,</INGRED> attention <INGRED>a</INGRED> ne pas en faire de la <INGRED>poudre</INGRED> mais seulement des brisures ! Faire fondre doucement la pralinoise ( bain marie <INGRED>ou</INGRED> micro onde <INGRED>a</INGRED> faible puissance ) <INGRED>,</INGRED> laisser tiédir puis ajouter les brisures de crêpes dentelles et le <INGRED>pralin</INGRED> <INGRED>.</INGRED> Utiliser tout de suite <INGRED>,</INGRED> tant que la <INGRED>pâte</INGRED> est bien molle. Mousse au <INGRED>chocolat</INGRED> <INGRED>:</INGRED> Faire fondre ensemble le <INGRED>chocolat</INGRED> et le <INGRED>beurre</INGRED> <INGRED>.</INGRED> Monter la <INGRED>crème</INGRED> en chantilly. Mélanger doucement <INGRED>a</INGRED> la spatule <INGRED>.</INGRED> Mousse de <INGRED>poires</INGRED> <INGRED>:</INGRED> Faire ramollir la gelatine dans de l'<INGRED>eau</INGRED> froide <INGRED>.</INGRED> Réchauffer la <INGRED>purée</INGRED> de <INGRED>poires</INGRED> et y ajouter la <INGRED>gélatine</INGRED> égouttée ( attention <INGRED>a</INGRED> ne pas trop chauffer et <INGRED>a</INGRED> ne pas dessécher surtout ! ). Laisser refroidir <INGRED>a</INGRED> température ambiante. Battre les <INGRED>blancs</INGRED> en neige <INGRED>,</INGRED> chauffer le <INGRED>sucre</INGRED> avec l'<INGRED>eau</INGRED> <INGRED>a</INGRED> 120 ° C et verser le <INGRED>sucre</INGRED> sur les <INGRED>blancs</INGRED> en fouettant vite pour refroidir <INGRED>.</INGRED> Monter la <INGRED>crème</INGRED> en chantilly. Mélanger la " meringue " avec la <INGRED>purée</INGRED> de <INGRED>poires</INGRED> puis ajouter la <INGRED>crème fouettée</INGRED> doucement mais bien de manière bien homogène <INGRED>.</INGRED> Montage <INGRED>:</INGRED> Disposer le biscuit dans un cercle <INGRED>a</INGRED> pâtisserie garni de rhodoide posé sur une plaque <INGRED>a</INGRED> pâtisserie... <INGRED>ou</INGRED> plus simplement dans un moule à bords amovibles garni de film alimentaire ( pour faire coller le film au <INGRED>moule</INGRED> <INGRED>,</INGRED> il suffit de beurrer le <INGRED>moule</INGRED> avant ). Etaller le croustillant <INGRED>praliné</INGRED> sur le biscuit. Bien attendre que ca ais bien refroidit <INGRED>.</INGRED> Disposer la mousse au <INGRED>chocolat</INGRED> dessus. Insérer des tranches de <INGRED>poires</INGRED> dans la mousse. Disposer la mousse de <INGRED>poire</INGRED> au dessus. Réfrigérer une nuit ( <INGRED>environ</INGRED> 12h ) Décorer selon envie avec du <INGRED>cacao en poudre</INGRED> par exemple et une poire tranchée... On pourra évidement battre les <INGRED>blancs</INGRED> en neige ensemble et les séparer en <INGRED>deux</INGRED> parts égales <INGRED>,</INGRED> tout comme la <INGRED>crème fouettée</INGRED> mais las ce seras 2/3 1/3. Attention <INGRED>,</INGRED> si vous utilisez des <INGRED>poires</INGRED> bien mûres le gâteau sera à consommer rapidement <INGRED>,</INGRED> ce qui ne devrait pas poser de problème.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 42.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 29</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:["poudre d'amandes", 'poudre']	 id:1	 quantité:non_precis	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre en poudre', 'sucre']	 id:2	 quantité:non_precis	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:3	 quantité:non_precis	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["-2 blancs d'oeufs", '-2']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['-1 cc de cacao en poudre non sucréPour le croustillant praliné', '-1']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['pralinoise']	 id:6	 quantité:non_precis	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crèpes dentelles type " gavottes "', 'crèpes']	 id:7	 quantité:non_precis	 unité:paquets de	 denombrable:False	 recipient:1
+ingredient:['pralin Pour la mousse au chocolat', 'pralin']	 id:8	 quantité:non_precis	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['chocolat noir', 'chocolat']	 id:9	 quantité:non_precis	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre doux', 'beurre']	 id:10	 quantité:non_precis	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crème liquide', 'crème']	 id:11	 quantité:non_precis	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['-2 poires Pour la mousse de poire', '-2']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['gélatine']	 id:13	 quantité:non_precis	 unité:feuilles de	 denombrable:False	 recipient:1
+ingredient:['purée de poires', 'purée']	 id:14	 quantité:non_precis	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["-2 blancs d'oeufs", '-2']	 id:15	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:16	 quantité:non_precis	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['eau']	 id:17	 quantité:non_precis	 unité:cl d'	 denombrable:False	 recipient:1
+ingredient:['crème liquide', 'crème']	 id:18	 quantité:non_precis	 unité:cl de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:tamiser	 id:o_1	 ingrédients_ralatifs:['13', '1', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_2	 ingrédients_ralatifs:['7', '16', '1', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_3	 ingrédients_ralatifs:['1', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:manquer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:démouler	 id:o_8	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:ecraser	 id:o_10	 ingrédients_ralatifs:['6', '10', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fondre	 id:o_11	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:tiédir	 id:o_12	 ingrédients_ralatifs:['6', '12', '16', '6', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_13	 ingrédients_ralatifs:['6', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:utiliser	 id:o_14	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fondre	 id:o_15	 ingrédients_ralatifs:['9', '5']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:monter	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ramollir	 id:o_18	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:réchauffer	 id:o_19	 ingrédients_ralatifs:['14', '16', '13']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_20	 ingrédients_ralatifs:['13']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_21	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:dessécher	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_23	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:battre	 id:o_24	 ingrédients_ralatifs:['7', '3', '17', '3', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_25	 ingrédients_ralatifs:['3', '17']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:verser	 id:o_26	 ingrédients_ralatifs:['3', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:monter	 id:o_27	 ingrédients_ralatifs:['15']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_28	 ingrédients_ralatifs:['14', '16']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_29	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_30	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:beurrer	 id:o_31	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:etaller	 id:o_32	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:attendre	 id:o_33	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_34	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:insérer	 id:o_35	 ingrédients_ralatifs:['4', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_36	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:réfrigérer	 id:o_37	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:décorer	 id:o_38	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_39	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:séparer	 id:o_40	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:consommer	 id:o_41	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poser	 id:o_42	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

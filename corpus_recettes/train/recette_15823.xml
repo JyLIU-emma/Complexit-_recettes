@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15823">
+  <titre>Potage au poulet et aux poivrons</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 reste de poulet ou 2 blancs</p>
+    <p>2 poivrons verts</p>
+    <p>2 ou 3 pommes de terre</p>
+    <p>1 oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>1 bouquet garni</p>
+    <p>beurre</p>
+    <p>1 litre de bouillon de poulet (ou 1,5 litres)(ou d'eau salée selon consistance souhaitée)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher grossièrement l'oignon et écraser l'ail. Les faire revenir dans la matière grasse. Ajouter le poulet coupé en morceaux de la taille d'une noix, les poivrons en lamelles, les pommes de terre en gros cubes et le bouquet garni.
+    Mouiller avec le bouillon chaud et laisser frémir 30 minutes.
+    Mixer aprés avoir oté le bouquet garni.
+    Servir très chaud en ajoutant éventuellement une cuillère de crème fraîche dans l'assiette.
+  ]]>
+  </preparation>
+</recette>

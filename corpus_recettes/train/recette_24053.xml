@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24053">
+  <titre>Porc aux petits légumes et au soja</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de porc</p>
+    <p>1 oeuf</p>
+    <p>50 g de farine</p>
+    <p>10 cl de sauce soja (quantité selon vos goûts)</p>
+    <p>1 cuillère à café de gingembre en poudre (quantité selon vos goûts)</p>
+    <p>500 g de carottes coupées en rondelles (fines)</p>
+    <p>200 g de poireaux</p>
+    <p>200 g de pousses de soja</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer la viande finement, puis faire griller avec l'oeuf, la farine, la sauce soja et le gingembre.
+    En parallèle, faire revenir à part les carottes et les poireaux pendant 30 mn.
+    Mélanger le tout, ajouter de la sauce soja, du sel et du poivre et faire mijoter 30 mn supplémentaires.
+    Ajouter les pousses de soja en fin de cuisson.
+    Servir chaud.
+    Très bon également sans ajouter les pousses de soja à la fin, si certains convives n'aiment pas.
+  ]]>
+  </preparation>
+</recette>

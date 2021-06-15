@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50081">
+  <titre>Boulettes de viande farcies d’ Hilda</titre>
+  <type>Plat principal</type>
+  <niveau>Difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de viande hachée à 5% de matière grasse</p>
+    <p>500 g de viande hachée à 15% de matière grasse</p>
+    <p>250 g de boulgour haché fin</p>
+    <p>3 oignons</p>
+    <p>sel poivre 4 épices</p>
+    <p>huile de tournesol</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    C'est exactement la même recette que "lE Kébé au four d'Hilda", c’est la présentation et le mode de cuisson qui changent.
+    Donc, vous préparez la pâte de viande et la farce...
+    Puis, vous prenez une petite boule de pâte de viande de la grosseur d’une noix et vous la roulez entre les paumes de vos mains.
+     
+    Posez la boule de pâte de viande dans le creux de votre main gauche, avec l’index de la main droite, vous creusez un trou dans la boulette, vous allez avoir une sorte de puits. 
+    Ensuite, en appuyant toujours avec l’index sur les parois de ce puits, vous élargissez le trou (il faut que la cavité soit la plus grande possible et les parois du puits le plus fin possible, en faisant bien sûr attention de ne pas trouer la pâte). 
+    C’est là que réside la difficulté de cette recette; pour plus de facilité, trempez légèrement les mains dans de l’eau froide.
+    Enfin, remplissez à l’aide d’une cuillère à café avec un peu de farce, et refermez délicatement le trou en enserrant les bords du puits entre le pousse et les autres doigts de la main gauche et en tournant la boulette sur elle-même dans sa position verticale, en vous aidant de la main droite.
+    Rangez la boulette farcie sur une planche et recouvrez d’un film alimentaire, puis recommencez l’opération avec une autre noix de pâte de viande.
+    Une fois toutes les boulettes farcies, 2 présentations sont possibles :
+    1) Repas principal chaud : faites cuire les boulettes dans un bouillon de volaille chaud, ça cuit assez vite.
+    2) Buffet froid : faites chauffer un bain de friture et plongez rapidement les boulettes en plusieurs fois dans le bain de friture. Attention ça cuit très vite! Dès que les boulettes ont pris une jolie couleur marron clair, retirez-les avec une écumoire et rangez-les sur une assiette recouverte de papier absorbant.
+    Cette présentation es utilisée pour les buffets accompagnées de quartiers de citron.
+    Il faut avoir le coup de main pour creuser les boulettes mais le résultat en vaut la peine.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  C'est exactement la même recette que " lE Kébé au four d'Hilda ", c’ est la présentation et le mode de cuisson qui changent. Donc, vous préparez la pâte de <INGRED id="1">viande</INGRED> et la farce... Puis, vous prenez une <INGRED id="2">petite</INGRED> <INGRED id="1">boule</INGRED> de <INGRED id="5">pâte</INGRED> de <INGRED id="3">viande</INGRED> de la grosseur d’ une noix et vous la roulez entre les paumes de vos mains. <OPER id="o_1">Posez</OPER> la <INGRED id="1">boule</INGRED> de pâte de <INGRED id="4">viande</INGRED> dans le creux de votre main gauche, avec l’ index de la main droite, vous creusez un trou dans la boulette, vous allez <OPER id="o_2">avoir</OPER> une sorte de puits. Ensuite, en appuyant toujours avec l’ index sur les parois de ce puits, vous élargissez le trou ( il faut que la cavité soit la plus grande possible et les parois du puits le plus fin possible, en faisant bien sûr attention de ne pas <OPER id="o_3">trouer</OPER> la pâte ). C’ est là que réside la difficulté de cette recette ; pour plus de facilité, <OPER id="o_4">trempez</OPER> légèrement les mains dans de l’ <INGRED id="5">eau froide</INGRED>. Enfin, <OPER id="o_5">remplissez</OPER> à l’ aide d’ une cuillère à café avec un peu de farce, et refermez délicatement le trou en enserrant les bords du puits entre le pousse et les autres doigts de la main gauche et en tournant la boulette sur elle-même dans sa position verticale, en vous aidant de la main droite. <OPER id="o_6">Rangez</OPER> la boulette farcie sur une planche et recouvrez d’ un film alimentaire, puis recommencez l’ opération avec une autre noix de pâte de <INGRED id="1">viande</INGRED>. Une fois toutes les boulettes farcies, 2 présentations sont possibles : 1 ) Repas principal chaud : faites <OPER id="o_7">cuire</OPER> les boulettes dans un bouillon de volaille chaud, ça cuit assez vite. 2 ) Buffet froid : faites <OPER id="o_8">chauffer</OPER> un bain de friture et plongez rapidement les boulettes en plusieurs fois dans le bain de friture. Attention ça cuit très vite ! Dès que les boulettes ont pris une jolie couleur marron clair, <OPER id="o_9">retirez</OPER> - les avec une écumoire et rangez - les sur une assiette recouverte de papier absorbant. Cette présentation es utilisée pour les buffets accompagnées de quartiers de citron. Il faut <OPER id="o_10">avoir</OPER> le coup de main pour creuser les boulettes mais le résultat en vaut la peine.
+  </annotation>
+  <annotation methode="crf">
+  C'est exactement la même recette que " lE Kébé au four d'Hilda " <INGRED>,</INGRED> c’ est la présentation et le mode de cuisson qui changent <INGRED>.</INGRED> Donc <INGRED>,</INGRED> vous préparez la <INGRED>pâte</INGRED> de <INGRED>viande</INGRED> et la farce... Puis <INGRED>,</INGRED> vous prenez une <INGRED>petite</INGRED> <INGRED>boule</INGRED> de <INGRED>pâte</INGRED> de <INGRED>viande</INGRED> de la grosseur d’ une <INGRED>noix</INGRED> et vous la roulez entre les paumes de vos mains. Posez la <INGRED>boule</INGRED> de <INGRED>pâte</INGRED> de <INGRED>viande</INGRED> dans le creux de votre main gauche <INGRED>,</INGRED> avec l’ index de la main droite <INGRED>,</INGRED> vous creusez un trou dans la boulette <INGRED>,</INGRED> vous allez avoir une sorte de puits. Ensuite <INGRED>,</INGRED> en appuyant toujours avec l’ index sur les parois de ce puits <INGRED>,</INGRED> vous élargissez le trou ( il faut que la cavité soit la plus grande possible et les parois du puits le plus fin possible <INGRED>,</INGRED> en faisant bien sûr attention de ne pas trouer la <INGRED>pâte</INGRED> ). C’ est là que réside la difficulté de cette recette ; pour plus de facilité <INGRED>,</INGRED> trempez légèrement les mains dans de l’ <INGRED>eau</INGRED> froide <INGRED>.</INGRED> Enfin <INGRED>,</INGRED> remplissez à l’ aide d’ une cuillère à <INGRED>café</INGRED> avec un peu de farce <INGRED>,</INGRED> et refermez délicatement le trou en enserrant les bords du puits entre le pousse et les autres doigts de la main gauche et en tournant la boulette sur elle-même dans sa position verticale <INGRED>,</INGRED> en vous aidant de la main droite. Rangez la boulette farcie sur une planche et recouvrez d’ un film alimentaire <INGRED>,</INGRED> puis recommencez l’ opération avec une autre <INGRED>noix</INGRED> de <INGRED>pâte</INGRED> de <INGRED>viande</INGRED> <INGRED>.</INGRED> Une fois toutes les boulettes farcies <INGRED>,</INGRED> 2 présentations sont possibles <INGRED>:</INGRED> 1 ) Repas principal chaud <INGRED>:</INGRED> faites cuire les boulettes dans un <INGRED>bouillon</INGRED> de volaille chaud <INGRED>,</INGRED> ça cuit assez vite <INGRED>.</INGRED> 2 ) Buffet froid <INGRED>:</INGRED> faites chauffer un bain de friture et plongez rapidement les boulettes en plusieurs fois dans le bain de friture. Attention ça cuit très vite ! Dès que les boulettes ont pris une jolie couleur <INGRED>marron</INGRED> clair <INGRED>,</INGRED> retirez - les avec une écumoire et rangez - les sur une assiette recouverte de <INGRED>papier</INGRED> absorbant. Cette présentation es utilisée pour les buffets accompagnées de quartiers de <INGRED>citron</INGRED> <INGRED>.</INGRED> Il faut avoir le coup de main pour creuser les boulettes mais le résultat en vaut la peine.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 6.36363636363636*X + 3.63636363636364</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 7*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['viande hachée à 5 % de matière grasse', 'viande']	 id:1	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['viande hachée à 15 % de matière grasse', 'viande']	 id:2	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['boulgour haché fin', 'boulgour']	 id:3	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oignons']	 id:4	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['épices']	 id:5	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['huile de tournesol', 'huile']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:poser	 id:o_1	 ingrédients_ralatifs:['1', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:avoir	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:trouer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tremper	 id:o_4	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:remplir	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ranger	 id:o_6	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:chauffer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:retirer	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:avoir	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

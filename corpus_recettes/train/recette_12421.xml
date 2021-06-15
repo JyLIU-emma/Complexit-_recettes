@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12421">
+  <titre>Scampis à l'italienne</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>24 scampis</p>
+    <p>4 grandes tranches de jambon italien</p>
+    <p>vin blanc (et un peu d'eau si nécessaire)</p>
+    <p>une petite boîte de concentré de tomates</p>
+    <p>crème fraîche</p>
+    <p>poivre</p>
+    <p>un peu d'ail pressé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Enrouler les scampis avec le jambon italien.
+    Les saisir des deux côtés puis ajouter le poivre, l'ail, le vin blanc.
+    Cuire quelques minutes.
+    Ajouter le concentré de tomates et puis la crème fraîche.
+    Laisser épaissir selon le goût et garnir l'assiette avec un peu de persil hâché.
+    Servir avec une baguette.
+     vin blanc sec
+  ]]>
+  </preparation>
+</recette>

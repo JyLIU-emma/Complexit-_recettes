@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20447">
+  <titre>Gâteau de fromage et jambon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 cuillère à café d'huile d'olive</p>
+    <p>2 oeufs</p>
+    <p>poivre, sel</p>
+    <p>1/2 cuillère à café de paprika</p>
+    <p>1 cuillère à soupe de ciboulette</p>
+    <p>1 cuillère à soupe de moutarde</p>
+    <p>4 tranches de jambon blanc</p>
+    <p>90 g de gruyère</p>
+    <p>90 g de Maïzena</p>
+    <p>1 yaourt nature</p>
+    <p>1 petite boîte de champignons émincés</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre les oeufs en omelette avec l'huile d'olive, ajouter le poivre et le sel, le paprika, la ciboulette, la moutarde. Mélanger. Ajouter le jambon coupé en lanières, le gruyère, les champignons mélanger et ajouter la Maïzena. Délayer avec le yaourt. Verser dans un moule beurré. 
+    Cuire pendant 30 mn à four chaud (210°C). 
+    A déguster avec de la salade.
+  ]]>
+  </preparation>
+</recette>

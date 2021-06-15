@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24066">
+  <titre>Flan de carottes aux dés de jambon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de carottes</p>
+    <p>1 petit oignon</p>
+    <p>30 cl de bouillon de légumes</p>
+    <p>noix de muscade</p>
+    <p>60 g de dés de jambon</p>
+    <p>2 œufs</p>
+    <p>12 cl de lait</p>
+    <p>30 g de gruyère râpé</p>
+    <p>persil haché</p>
+    <p>sel, poivre de Cayenne </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et râper grossièrement les carottes et hacher l’oignon.
+    Dans une casserole, les faire revenir, les mouiller avec le bouillon et laisser cuire jusqu’à l’absorption quasi-complète du bouillon (environ 20 minutes).
+    Préchauffer votre four à 210°C (thermostat 7).
+    Pendant ce temps, battre dans un saladier les œufs avec le lait, le fromage râpé et la muscade.
+    Saler, poivrer.
+    Après cuisson des carottes, incorporer le mélange d’œufs avec les dés de jambon puis bien mélanger le tout.
+    Verser la préparation dans des ramequins beurrés puis enfourner 30 min à four chaud.
+    Idéal pour accompagner des viandes blanches ou en entrée.
+  ]]>
+  </preparation>
+</recette>

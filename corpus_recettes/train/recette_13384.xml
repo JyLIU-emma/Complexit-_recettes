@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13384">
+  <titre>Fondue normande</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1/2 camembert</p>
+    <p>1/2 pont-l'évêque</p>
+    <p>1/2 livarot</p>
+    <p>300 g de pain découpés en cube</p>
+    <p>1/4 de cuillère à café de fécule</p>
+    <p>50 g de crème</p>
+    <p>10 cl de lait</p>
+    <p>2 cl de calvados</p>
+    <p>1 échalote</p>
+    <p>Sel, poivre </p>
+    <p>muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Otez la croûte des fromages et coupez-les en petits dés.
+    Frottez le poêlon à fondue avec l'échalote écrasée et déposez les dés de fromage.
+    Dans une tasse, faire fondre la fécule dans le lait et ajouter le mélange dans le poêlon.
+    Chauffez à feu doux en remuant constamment.
+    Ajoutez la crème, salez, poivrez et ajoutez la muscade.
+    Quand l'ébullition commence, continuez à remuer délicatement pour obtenir un mélange homogène.
+    Portez le poêlon sur la table et dégustez comme une fondue classique.
+  ]]>
+  </preparation>
+</recette>

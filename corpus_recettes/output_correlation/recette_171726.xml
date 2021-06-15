@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171726">
+  <titre>Terrine de viande hachée</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 cuillères à soupe de Chapelure</p>
+    <p>1 oignon</p>
+    <p>1 ou 2 gousses d'ail selon goût</p>
+    <p>1 carotte râpée </p>
+    <p>sel </p>
+    <p>poivre </p>
+    <p>2 œufs</p>
+    <p>1 cuillère à soupe de sauce soja</p>
+    <p>2 cuillères à soupe de persil</p>
+    <p>2 grandes cuillères à soupe de Ketchup </p>
+    <p>750 g de viande hachée</p>
+    <p>1 cuillère à soupe de beurre</p>
+    <p>250 g de fromage râpé</p>
+    <p>1 cuillère à soupe d'huile d'olive Pour la Béchamel:- 1 cuillère à soupe de beurre</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>25 cl de lait </p>
+    <p>1 cuillère à soupe de crème fraîche</p>
+    <p>sel </p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper en petits morceaux l'oignon, ajouter du sel et du poivre et l'huile d'olive, le tout dans une poêle. Faire cuire jusqu'à ce que l'oignon devienne doré.Dans un récipient, mélanger la viande hachée, la chapelure, l'oignon, la carotte, le sel, le poivre, les œufs, la sauce soja, le persil, le ketchup et la viande hachée.Répartir le beurre dans le moule et y mettre la moitié du mélange. Pour la béchamel : Faire fondre le beurre dans une casserole. Ajouter la farine, et remuez. La farine doit juste épaissir.
+    Verser le lait progressivement, sans cesser de remuer, jusqu'à ce que la sauce épaississe. Ajouter sel et poivre à votre convenance.
+    Verser la béchamel sur le mélange et ajouter le fromage râpé.Mettre la 2ème moitié du mélange pour recouvrir la béchamel.
+    Couvrir le moule de papier aluminium. Mettre dans un bain marie et cuire a 200°C (thermostat 6) pendant 40 min.
+     
+    Bon appétit.A essayer absolument ! Délicieuse recette... Régalez-vous bien !
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Découper</OPER> en <INGRED id="3">petits</INGRED> <INGRED id="1">morceaux</INGRED> l'<INGRED id="3">oignon</INGRED>, <OPER id="o_216">ajouter</OPER> du <INGRED id="17">sel</INGRED> et du <INGRED id="13">poivre</INGRED> et l'<INGRED id="4">huile d'olive</INGRED>, le tout dans une poêle. Faire <OPER id="o_3">cuire</OPER> jusqu'à ce que l'<INGRED id="3">oignon</INGRED> devienne doré. Dans un récipient, <OPER id="o_4">mélanger</OPER> la <INGRED id="11">viande hachée</INGRED>, la <INGRED id="9">chapelure</INGRED>, l'<INGRED id="8">oignon</INGRED>, la <INGRED id="3">carotte</INGRED>, le <INGRED id="5">sel</INGRED>, le <INGRED id="10">poivre</INGRED>, les <INGRED id="1">œufs</INGRED>, la sauce soja, le <INGRED id="5">persil</INGRED>, le <INGRED id="5">ketchup</INGRED> et la <INGRED id="1">viande hachée</INGRED>. <OPER id="o_5">Répartir</OPER> le <INGRED id="14">beurre</INGRED> dans le moule et y <OPER id="o_6">mettre</OPER> la moitié du <INGRED id="7">mélange</INGRED>. Pour la béchamel : Faire <OPER id="o_7">fondre</OPER> le <INGRED id="3">beurre</INGRED> dans une casserole. <OPER id="o_8">Ajouter</OPER> la <INGRED id="3">farine</INGRED>, et remuez. La <INGRED id="2">farine</INGRED> doit juste <OPER id="o_9">épaissir</OPER>. <OPER id="o_10">Verser</OPER> le <INGRED id="2">lait</INGRED> progressivement, sans <OPER id="o_11">cesser</OPER> de <OPER id="o_12">remuer</OPER>, jusqu'à ce que la <INGRED id="6">sauce</INGRED> épaississe. <OPER id="o_13">Ajouter</OPER> <INGRED id="19">sel</INGRED> et poivre à votre convenance. <OPER id="o_14">Verser</OPER> la béchamel sur le <INGRED id="2">mélange</INGRED> et <OPER id="o_1516">ajouter</OPER> le <INGRED id="13">fromage râpé</INGRED>. <OPER id="o_16">Mettre</OPER> la 2ème moitié du <INGRED id="2">mélange</INGRED> pour recouvrir la béchamel. <OPER id="o_17">Couvrir</OPER> le moule de papier aluminium. <OPER id="o_18">Mettre</OPER> dans un bain marie et <OPER id="o_19">cuire</OPER> a 200 ° C ( thermostat 6 ) pendant 40 min. Bon appétit. A <OPER id="o_20">essayer</OPER> absolument ! Délicieuse recette... <OPER id="o_21">Régalez</OPER> -vous bien !
+  </annotation>
+  <annotation methode="crf">
+  Découper en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> l'<INGRED>oignon</INGRED> <INGRED>,</INGRED> ajouter du <INGRED>sel</INGRED> et du <INGRED>poivre</INGRED> et l'<INGRED>huile d'olive</INGRED> <INGRED>,</INGRED> le tout dans une poêle <INGRED>.</INGRED> Faire cuire jusqu'à ce que l'<INGRED>oignon</INGRED> devienne doré. Dans un récipient <INGRED>,</INGRED> mélanger la <INGRED>viande</INGRED> hachée <INGRED>,</INGRED> la <INGRED>chapelure</INGRED> <INGRED>,</INGRED> l'<INGRED>oignon</INGRED> <INGRED>,</INGRED> la <INGRED>carotte</INGRED> <INGRED>,</INGRED> le <INGRED>sel</INGRED> <INGRED>,</INGRED> le <INGRED>poivre</INGRED> <INGRED>,</INGRED> les <INGRED>œufs</INGRED> <INGRED>,</INGRED> la <INGRED>sauce soja</INGRED> <INGRED>,</INGRED> le <INGRED>persil</INGRED> <INGRED>,</INGRED> le <INGRED>ketchup</INGRED> et la <INGRED>viande</INGRED> hachée. Répartir le <INGRED>beurre</INGRED> dans le <INGRED>moule</INGRED> et y mettre la moitié du <INGRED>mélange</INGRED> <INGRED>.</INGRED> Pour la béchamel <INGRED>:</INGRED> Faire fondre le <INGRED>beurre</INGRED> dans une casserole <INGRED>.</INGRED> Ajouter la <INGRED>farine</INGRED> <INGRED>,</INGRED> et remuez <INGRED>.</INGRED> La <INGRED>farine</INGRED> doit juste épaissir <INGRED>.</INGRED> Verser le <INGRED>lait</INGRED> progressivement <INGRED>,</INGRED> sans cesser de remuer <INGRED>,</INGRED> jusqu'à ce que la <INGRED>sauce</INGRED> épaississe <INGRED>.</INGRED> Ajouter <INGRED>sel</INGRED> et poivre à votre convenance <INGRED>.</INGRED> Verser la <INGRED>béchamel</INGRED> sur le <INGRED>mélange</INGRED> et ajouter le <INGRED>fromage</INGRED> râpé. Mettre la 2ème moitié du <INGRED>mélange</INGRED> pour recouvrir la <INGRED>béchamel</INGRED> <INGRED>.</INGRED> Couvrir le <INGRED>moule</INGRED> de papier aluminium. Mettre dans un bain marie et cuire <INGRED>a</INGRED> 200 ° C ( thermostat 6 ) pendant 40 min. Bon appétit. A essayer absolument ! Délicieuse recette... Régalez -vous bien !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 21.6*X + 8.4</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 18*X + 15</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['Chapelure']	 id:1	 quantité:4	 unité:cuillères à soupe de	 denombrable:True	 recipient:4*X
+ingredient:['oignon']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['ail selon goût', 'ail']	 id:3	 quantité:1	 unité:gousses d'	 denombrable:True	 recipient:1*X
+ingredient:['carotte râpée', 'carotte']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['œufs']	 id:7	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['sauce soja', 'sauce']	 id:8	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['persil']	 id:9	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['Ketchup']	 id:10	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['viande hachée', 'viande']	 id:11	 quantité:750	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:12	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['fromage râpé', 'fromage']	 id:13	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:14	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['farine']	 id:15	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['lait']	 id:16	 quantité:25	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:17	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:18	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:19	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:découper	 id:o_1	 ingrédients_ralatifs:['3', '1', '3', '16', '17', '13', '4']	 nombre_opération_atomique:1*X+4*X+1*X+1+1*X+1+1*X	 temps:1*X*1+4*X*1+1*X*1+1*X*1+1*X*1+1*X*1+1*X*1	 recipient:1
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['17', '13', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_3	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:mélanger	 id:o_4	 ingrédients_ralatifs:['11', '9', '8', '3', '5', '10', '1', '5', '5', '1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:répartir	 id:o_5	 ingrédients_ralatifs:['14', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_6	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:fondre	 id:o_7	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:épaissir	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_10	 ingrédients_ralatifs:['2', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cesser	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_14	 ingrédients_ralatifs:['2', '16', '13']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_15	 ingrédients_ralatifs:['13']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_16	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:couvrir	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cuire	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:essayer	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:régaler	 id:o_21	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

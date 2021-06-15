@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14292">
+  <titre>Pain de légumes rapide</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 oeufs</p>
+    <p>1 boite 4/4 de macédoine de légumes</p>
+    <p>1 brique de crème fraîche</p>
+    <p>100 g de gruyère</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger tous les ingrédients.
+    Mettre le tout dans un moule à cake beurré et cuire au bain marie pendant 45 mn environ (tester la cuisson avec une lame de couteau).Servir frais, couper en tranches avec une salade, des tomates...Attention à couper délicatement si l'on veut des tranches entières.
+  ]]>
+  </preparation>
+</recette>

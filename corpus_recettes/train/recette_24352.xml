@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24352">
+  <titre>Chou rouge au roquefort et aux noix en salade</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1/2 chou rouge</p>
+    <p>Pour la sauce :</p>
+    <p>50 g de roquefort</p>
+    <p>1 cuillère à soupe d'huile de noix</p>
+    <p>1/2 cuillère à soupe d'huile d'arachide</p>
+    <p>1/2 cuillère à soupe d'eau-de-vie</p>
+    <p>1/2 cuillère à soupe de vinaigre</p>
+    <p>6 cerneaux de noix</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver le chou, lui retirer le trognon et les feuilles épaisses. Couper le reste en 4 puis le détailler en lanières. Les plonger dans l'eau bouillante et les faire blanchir 5 min.
+    Egoutter le chou et le déposer dans un saladier.
+    Emietter le roquefort, puis l'arroser du mélange d'huiles, d'eau de vie et de vinaigre ; saler et poivrer.
+    Une heure environ avant de servir, napper les feuilles de chou de sauce au roquefort et parsemer de cerneaux de noix.
+  ]]>
+  </preparation>
+</recette>

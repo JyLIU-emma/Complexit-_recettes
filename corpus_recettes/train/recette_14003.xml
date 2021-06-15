@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14003">
+  <titre>Potage aux orties</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 poignée d'orties</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>1 gros oignon</p>
+    <p>4 ou 5 pommes de terre</p>
+    <p>15 cl de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cueillez sans vous piquer, pour cela utilisez des gants, quatre ou cinq bonnes poignée d'orties.
+    Lavez-les soigneusement afin d'en retirer le pouvoir urticant.
+    Dans une cocote, versez 3 cuillères d'une bonne huile et faites revenir l'oignon émincé, ajoutez les pommes de terre taillées en petits cubes, puis les feuilles d'orties sans les tiges.
+    Couvrez d'eau salez, poivrez à votre goût portez à ébullition puis laissez cuire le temps qu'il faut.
+    Mixez, réchauffez en ajoutant la crème fraîche. Servez sans attendre.
+  ]]>
+  </preparation>
+</recette>

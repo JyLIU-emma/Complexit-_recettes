@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17285">
+  <titre>Mousse au champagne</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>12,5 cl de champagne (1 flûte)</p>
+    <p>2 cuillères à café de jus de citron</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>60 g de sucre</p>
+    <p>3 feuilles de gélatine</p>
+    <p>200 g de crème fraîche</p>
+    <p>1 pincée de poudre de cacao</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole, chauffer à feu doux le champagne et le jus de citron.
+    Déposer la gélatine dans un récipient d’eau froide.
+    Fouetter les jaunes d’oeufs avec le sucre, puis verser le champagne chaud en remuant.
+    Remettre sur le feu, sans faire bouillir, pendant 5 minutes.
+    Incorporez la gélatine égouttée, mélanger et laisser refroidir.
+    Fouetter le tout avec la crème fraîche bien froide. Parsemez de poudre de cacao, puis mettre au frais 2 heures.
+    Cette recette est très facile à réaliser. On y consacre peu de temps, préparer avant un repas pendant lequel le dessert repose tranquillement... Champagne
+  ]]>
+  </preparation>
+</recette>

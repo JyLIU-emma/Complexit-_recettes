@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25526">
+  <titre>Boulettes de poulet au fromage et aux amandes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de poulet cuit (restes)</p>
+    <p>3 oeufs</p>
+    <p>1 oignon</p>
+    <p>100 g de fromage fondu (cheddar ou autre)</p>
+    <p>4 cuillères à soupe d'amandes effilées</p>
+    <p>4 cuillères à soupe de chapelure</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>50 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites revenir l'oignon haché avec 15 g de beurre pendant 3 min.
+    Hachez le poulet, ajoutez l'oignon, le fromage coupé en morceaux et 1 oeuf.
+    Salez, poivrez et formez des boulettes.
+    Roulez les boulettes dans la farine, puis dans les 2 oeufs restants battus.
+    Passez-les dans la chapelure et les amandes mélangées.
+    Faites dorer les croquettes dans le beurre restant à la poêle en la secouant pour qu'elles soient bien dorées de toute part.
+    Servez bien chaud.
+    Accompagnez avec du riz, de la purée ou bien de la ratatouille.
+  ]]>
+  </preparation>
+</recette>

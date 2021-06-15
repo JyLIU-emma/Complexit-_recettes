@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164892">
+  <titre>Les Pancakes de Juju</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>280 g de farine</p>
+    <p>60 cl de lait</p>
+    <p>1 pincée de sel</p>
+    <p>1 sachet de levure</p>
+    <p>2 œufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez la farine, la levure et la pincée de sel dans un saladier ou un récipient quelconque.
+    Ajoutez les 2 oeufs, mélangez, mettre le lait petit à petit tout en tournant avec une cuillère en bois.
+    Laissez reposer pendant environ 5 minutes.
+    Faire chauffer une poêle avec une cuillère d'huile de tournesol.Déposer une louche de la pâte quand la poêle est chaude. Laissez cuire pendant 2 à 4 min par côté selon votre désir.Dégustez chaud ou froid, mais le meilleur c'est quand c'est chaud !!Vous pouvez les mangez avec du Nutella, du sucre glace ou en poudre, confiture...
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Mélangez</OPER> la <INGRED id="2">farine</INGRED>, la levure et la pincée de sel dans un <INGRED id="1">saladier</INGRED> ou un récipient quelconque. <OPER id="o_2">Ajoutez</OPER> les 2 <INGRED id="4">oeufs</INGRED>, <OPER id="o_3">mélangez</OPER>, <OPER id="o_4">mettre</OPER> le <INGRED id="2">lait</INGRED> petit à petit tout en tournant avec une cuillère en bois. Laissez <OPER id="o_5">reposer</OPER> pendant environ 5 minutes. Faire <OPER id="o_6">chauffer</OPER> une poêle avec une cuillère d'huile de tournesol. <OPER id="o_7">Déposer</OPER> une louche de la <INGRED id="1">pâte</INGRED> quand la poêle est chaude. Laissez <OPER id="o_8">cuire</OPER> pendant 2 à 4 min par côté selon votre désir. Dégustez chaud ou froid, mais le meilleur c'est quand c'est chaud ! ! Vous pouvez les <OPER id="o_9">mangez</OPER> avec du Nutella, du <INGRED id="2">sucre glace</INGRED> ou en <INGRED id="3">poudre</INGRED>, <INGRED id="4">confiture</INGRED>...
+  </annotation>
+  <annotation methode="crf">
+  Mélangez la <INGRED>farine</INGRED> <INGRED>,</INGRED> la <INGRED>levure</INGRED> et la pincée de <INGRED>sel</INGRED> dans un saladier <INGRED>ou</INGRED> un récipient quelconque. Ajoutez les 2 <INGRED>oeufs</INGRED> <INGRED>,</INGRED> mélangez <INGRED>,</INGRED> mettre le <INGRED>lait</INGRED> <INGRED>petit</INGRED> à <INGRED>petit</INGRED> tout en tournant avec une cuillère en bois <INGRED>.</INGRED> Laissez reposer pendant <INGRED>environ</INGRED> 5 minutes. Faire chauffer une poêle avec une cuillère d'<INGRED>huile</INGRED> de tournesol <INGRED>.</INGRED> Déposer une louche de la <INGRED>pâte</INGRED> quand la poêle est chaude <INGRED>.</INGRED> Laissez cuire pendant 2 à 4 min par côté selon votre désir. Dégustez chaud <INGRED>ou</INGRED> froid <INGRED>,</INGRED> mais le meilleur c'est quand c'est chaud ! ! Vous pouvez les mangez avec du Nutella <INGRED>,</INGRED> du <INGRED>sucre glace</INGRED> <INGRED>ou</INGRED> en <INGRED>poudre</INGRED> <INGRED>,</INGRED> <INGRED>confiture</INGRED>...
+  </annotation>
+  <complexite>
+    <temps>f(X) = 6.0*X + 3.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 4*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['farine']	 id:1	 quantité:280	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:2	 quantité:60	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:3	 quantité:1	 unité:pincée de	 denombrable:True	 recipient:1*X
+ingredient:['levure']	 id:4	 quantité:1	 unité:sachet de	 denombrable:True	 recipient:1*X
+ingredient:['œufs']	 id:5	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mélanger	 id:o_1	 ingrédients_ralatifs:['2', '1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['4', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mettre	 id:o_4	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:reposer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:chauffer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:déposer	 id:o_7	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cuire	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:manger	 id:o_9	 ingrédients_ralatifs:['2', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

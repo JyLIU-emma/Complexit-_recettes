@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27093">
+  <titre>Purée de haricots verts en croquettes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de haricots verts</p>
+    <p>125 g de fromage blanc</p>
+    <p>2 oeufs</p>
+    <p>50 g de farine</p>
+    <p>2 cuillères à soupe de ciboulette ciselée</p>
+    <p>4 cuillères à soupe de chapelure</p>
+    <p>sel, poivre</p>
+    <p>huile de friture</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les haricots verts 20 min à l'eau bouillante salée puis réduisez-les en purée.
+    Incorporez la farine, le fromage blanc, 1 oeuf, la ciboulette et assaisonnez. Rajoutez un peu de farine si nécessaire pour pouvoir façonner des croquettes.
+    Faites chauffer l'huile de friture. Passez les croquettes successivement dans l'oeuf battu et dans la chapelure.
+    Jetez-les dans l'huile et faites-les dorer.
+  ]]>
+  </preparation>
+</recette>

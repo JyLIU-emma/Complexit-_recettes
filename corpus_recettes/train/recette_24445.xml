@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24445">
+  <titre>Fromage blanc aux poires, oranges et miel</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de fromage blanc</p>
+    <p>2 belles poires mûres</p>
+    <p>2 belles oranges mûres</p>
+    <p>quelques feuilles de menthe fraîche</p>
+    <p>4 cuillères à soupe de miel liquide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Répartir le fromage blanc dans des coupes.
+    Peler les poires et les couper en fines tranches. Peler les oranges à vif avec un couteau puis détacher les quartiers d'orange.
+    Disposer les fruits sur le fromage blanc, napper de miel et décorer de feuilles de menthe.
+  ]]>
+  </preparation>
+</recette>

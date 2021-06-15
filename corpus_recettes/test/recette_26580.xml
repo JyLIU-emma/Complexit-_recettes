@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26580">
+  <titre>Langoustines sauce crémeuse au curry</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de langoustines crues</p>
+    <p>25 g de beurre</p>
+    <p>3 cl de cognac</p>
+    <p>2 échalotes</p>
+    <p>100 g de crème fraîche liquide</p>
+    <p>1/2 cuillère à café de curry en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Décortiquez les langoustines et faites-les sauter dans le beurre chaud 3-4 minutes. 
+    Arrosez de Cognac, flambez puis retirez de la poêle.
+    Disposez les échalotes hachées dans la poêle et laissez-les fondre doucement. Mélangez le curry à la crème puis versez-la sur les échalotes. Laissez réduire un peu pour que la sauce épaississe.
+    Réchauffez les langoustines dans la crème quelques minutes puis servez. 
+  ]]>
+  </preparation>
+</recette>

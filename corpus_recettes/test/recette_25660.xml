@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25660">
+  <titre>Gâteau au miel et aux épices</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>150 g de miel</p>
+    <p>30 g de beurre</p>
+    <p>2 oeufs</p>
+    <p>200 g de farine</p>
+    <p>2 cuillères à soupe de sucre</p>
+    <p>30 g d'amandes hachées</p>
+    <p>1 cuillère à café de bicarbonate de soude</p>
+    <p>1 cuillère à café de cannelle</p>
+    <p>1/2 cuillère à café de clous de girofle écrasés</p>
+    <p>zeste d'1 orange</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 175°C (thermostat 5-6).
+    Faites fondre le miel avec le beurre sur feu doux.
+    Hors du feu ajoutez le sucre, les oeufs battus en omelette, les épices, le zeste d'orange et les amandes. Incorporez la farine tamisée avec le bicarbonate.
+    Versez la préparation dans un moule à manqué beurré.
+    Enfournez pour 30 minutes de cuisson. Laissez refroidir avant de démouler. 
+  ]]>
+  </preparation>
+</recette>

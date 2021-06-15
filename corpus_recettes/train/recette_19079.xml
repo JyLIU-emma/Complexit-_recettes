@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19079">
+  <titre>Soupe de courgette</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 courgette</p>
+    <p>1 cube de bouillon de poule</p>
+    <p>1 kiri</p>
+    <p>1/2 litre d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Diluez le bouillon cube avec le demi litre d'eau. Coupez la courgette en morceaux et la recouvrir tout juste du bouillon obtenu. 
+    Après 15 mn de cuisson mixez le tout avec le kiri. 
+    Délicieuse recette de ma belle mère fort appréciée par toute la famille et qui dégage un petit goût d'asperge. Même les plus réticents y succomberont!!!
+  ]]>
+  </preparation>
+</recette>

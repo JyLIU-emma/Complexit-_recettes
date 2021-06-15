@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11804">
+  <titre>Salade d'avocats aux magrets de canard fumé</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 avocats bien mûrs</p>
+    <p>2 magrets de canard fumés émincés</p>
+    <p>quelques feuilles de laitue</p>
+    <p>1 bouquet de ciboulette</p>
+    <p>persil</p>
+    <p>1/2 citron</p>
+    <p>3 cuillères à soupe d'huile de tournesol</p>
+    <p>1 cuillère à soupe de vinaigre de vin blanc</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les avocats en deux, otez-en les noyaux, pelez-les et coupez-les en lamelles fines.
+    Mettez-les sur une assiette et arrosez-les du jus du 1/2 citron pour qu'ils ne noircissent pas. Réservez-les.
+    Préparez une vinaigrette avec l'huile, le sel, le vinaigre et le poivre. Ajoutez quelques brins de ciboulette ciselée.
+    Sur chaque assiette, disposez sur un lit de laitue les lamelles d'avocats, alternées de fines tranches de magret. Nappez légèrement de vinaigrette.
+    Décorez avec quelques brins de persil et de ciboulette.
+  ]]>
+  </preparation>
+</recette>

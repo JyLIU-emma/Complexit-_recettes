@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19925">
+  <titre>Millassou</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de farine de maïs</p>
+    <p>25 cl de lait</p>
+    <p>2 oeufs</p>
+    <p>50 g de beurre + 10 g pour le moule</p>
+    <p>150 g de sucre</p>
+    <p>2 cuillères à soupe d’eau de fleur d’oranger</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C . Remplissez d’eau très chaude un grand plat à four afin qu’il tiédisse. 
+    Dans une jatte, mélangez la farine de maïs avec la moitié du sucre, les oeufs et une pincée de sel. Incorporez le lait peu à peu, en mélangeant bien, pour obtenir une pâte liquide et homogène. 
+    Ajoutez l’eau de fleur d’oranger et laissez reposer cinq bonnes minutes. 
+    Essuyez le plat à four et beurrez-le. Versez la pâte dedans et mettez à cuire 20 m. 
+    Sortez le plat du four, saupoudrez avec le reste de sucre, parsemez de noisettes de beurre et remettez au four 10 mn. Vous pouvez éventuellement augmenter un peu la température, pour caraméliser la surface. Le millassou se mange chaud ou tiède.
+  ]]>
+  </preparation>
+</recette>

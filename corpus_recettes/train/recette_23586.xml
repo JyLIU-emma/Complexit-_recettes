@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23586">
+  <titre>Dorades royales à la croûte au sel</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 daurades roses de 700 g chacune</p>
+    <p>3 kg de gros sel gris de Guérande</p>
+    <p>Pour le confit de tomates :</p>
+    <p>1 botte de basilic</p>
+    <p>1,5 kg de tomates</p>
+    <p>6 cuillères à soupe d'huile d'olive</p>
+    <p>2 gousses d'ail</p>
+    <p>2 oignons</p>
+    <p>curry</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire vider votre dorade par votre poissonnier sans l'écailler.
+    Préchauffer votre four à 210°C (thermostat 7).
+    Tapisser un plat à gratin de gros sel et y déposer les dorades. Les recouvrir entièrement de gros sel, puis enfourner 20 min à four chaud.
+    Pendant ce temps, plonger les tomates dans l'eau bouillante pour les peler. Les épépiner et les réserver.
+    A l'aide d'un mixeur, hacher les tomates avec l'ail, le basilic frais et les oignons pelés. Assaisonner de sel, curry et huile d'olive, puis bien mélanger la préparation.
+    Verser la préparation dans une casserole et laisser mijoter 12 à 15 min à feu très doux pour confire le tout.
+    Sortir le plat du four, briser la croûte de sel puis sortir les dorades pour les peler.
+    Une fois la peau ôtée, dresser les filets sur un plat de service bien chaud et napper du confit de tomate.
+  ]]>
+  </preparation>
+</recette>

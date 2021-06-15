@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25330">
+  <titre>Pomme au four</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 pommes (type reinette, canada) </p>
+    <p>20 g de beurre mou</p>
+    <p>8 cuillères à soupe de cassonade brune</p>
+    <p>de la cannelle en poudre</p>
+    <p>4 biscottes</p>
+    <p>crème fraîche liquide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Diposer dans un plat ou sur une feuille d'aluminium, les biscottes. 
+    Epluchez et évider les pommes. 
+    Mettre une pomme sur chaque biscotte. 
+    Remplir chaque pomme évidée de cassonade, puis fermer par du beurre. 
+    Saupoudrer légérement de cannelle. 
+    Mettre au four, thermostat 6 ou 180°C pendant 30 mn. 
+    A la sortie du four, mettre une pomme par assiette (avec la biscotte) et ajouter la crème fraîche liquide dans le trou évidé de la pomme
+    La cassonade et le beurre se mêlent et forment sur la biscotte du caramel. On peut utiliser de la crème liquide allégée.
+    Plus savoureux avec la cassonade brune que blonde. eau plate
+  ]]>
+  </preparation>
+</recette>

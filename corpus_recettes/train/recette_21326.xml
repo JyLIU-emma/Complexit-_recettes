@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21326">
+  <titre>Aubergines gratinées au jambon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 aubergines</p>
+    <p>4 petites tranches de jambon</p>
+    <p>gruyère râpé</p>
+    <p>huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les aubergines en tranches (1 cm) dans le sens de la longueur. 
+    Placer une couche dans un plat allant au four. Ajouter de l'huile d'olive, sel et poivre. 
+    Couvrir cette couche avec une couche de jambon. Parsemer de gruyère râpé. 
+    Recommencer la même opération pour une deuxième couche et mettre le plat au four (Th 7) pendant une demi heure. 
+    Servir chaud.
+  ]]>
+  </preparation>
+</recette>

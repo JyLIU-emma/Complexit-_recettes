@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11004">
+  <titre>Tomates farcies au carré frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 cuillers à soupe d'huile d'olive</p>
+    <p>un peu de persil</p>
+    <p>sel, poivre</p>
+    <p>1 gousse d'ail</p>
+    <p>8 tomates</p>
+    <p>300 g de carré frais</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et essuyer les tomates, enlever le dessus, retirer la pulpe. 
+    Préchauffer le four à 180°C (thermostat 6).
+    Huiler un plat allant au four. Dans un bol, mélanger le persil haché, la gousse d'ail pilée, la pulpe de tomates et le carré frais.
+    Garnir les tomates avec cette préparation, mettre le chapeau découpé dessus et disposer dans le plat, arroser d'huile d'olive et faire cuire au four 15 minutes.
+    Servir de suite.
+  ]]>
+  </preparation>
+</recette>

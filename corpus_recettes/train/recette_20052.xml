@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20052">
+  <titre>Tarte au foie gras et aux châtaignes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 rouleau de pâte brisée</p>
+    <p>4 carottes cuites coupées en fines rondelles</p>
+    <p>100 g de châtaignes en bocal (environ)</p>
+    <p>6 fines tranches de foie gras (de préférence du foie gras entier)</p>
+    <p>3 oeufs</p>
+    <p>25 cl de crème fraîche </p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Huiler avec un sopalin et fariner légèrement un moule à tarte(ou de petits moules à tartelettes individuelles, y disposer la pâte brisée, la piquer à la fourchette et mettre au four à blanc pendant 7 mn environ à 200°C.
+    Laisser un peu refroidir et disposer les tranches de foie gras au fond puis les carottes et enfin terminer par les chataignes coupées en petits morceaux.
+    Battre les oeufs, la crème, le sel et le poivre et verser le mélange sur la tarte.
+    Cuire 20 à 30 mn au four à 200°C.
+  ]]>
+  </preparation>
+</recette>

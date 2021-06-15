@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24872">
+  <titre>Galettes aux flocons d'avoine</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de flocons d'avoine</p>
+    <p>250 g de sucre</p>
+    <p>150 g de farine</p>
+    <p>130 g de beurre</p>
+    <p>1/4 de verre de lait</p>
+    <p>1 paquet de levure chimique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire ramollir le beurre. 
+    Mélanger tous les ingrédients pour obtenir une pâte tendre. 
+    Faire des petits tas (belle noix) et mettre au four (Th 8 ou 230°C) 15 à 20 min.Pour les 4 heures, et même dans le sac à dos.
+  ]]>
+  </preparation>
+</recette>

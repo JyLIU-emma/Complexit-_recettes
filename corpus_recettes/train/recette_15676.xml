@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15676">
+  <titre>Chou pomme à la truite saumonnée</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 chou pomme moyen</p>
+    <p>400 g de truite saumonnnée</p>
+    <p>1 bouquet d'aneth, ou à défaut des graines</p>
+    <p>10 cl de vin blanc</p>
+    <p>20 cl + 5 cl de crème épaisse</p>
+    <p>2 cuillères à café de fumet de poisson</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Précuire le poisson à la vapeur, 5 à 6 mn, afin d'en éliminer la graisse. Autrement, à la poêle.
+    Emincer le chou et le cuire 18 mn à la vapeur.
+    Emietter et désarêter le poisson. Ajouter l'aneth et mélanger (si en graines: 2 à 3 pincées).
+    Préparer le mouillement : mélanger le vin blanc, 20 cl de crème, et le fumet. Chauffer.
+    Dans un plat, déposer le chou, puis la truite, et arroser du mouillement. Arroser du mouillement, un peu de sel, poivre.
+    Répartir les 5 cl de crème sur le poisson.
+    Passer 15 min au four à 200°C.
+    A défaut de fumet de poisson, on peut remplacer le mélange vin, crème, fumet, par 25 cl de bouillon de légumes.
+  ]]>
+  </preparation>
+</recette>

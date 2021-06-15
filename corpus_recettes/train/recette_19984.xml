@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19984">
+  <titre>Cuisses de grenouilles à la crème et à la ciboulette</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>24 cuisses de grenouilles</p>
+    <p>1 bouquet de ciboulette</p>
+    <p>30 g de crème fraîche </p>
+    <p>citron</p>
+    <p>50 g de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hachez finement la ciboulette et arrosez de jus de citron.
+    Dorez les cuisses de grenouille dans le beurre. Retirez-les lorsque les muscles se rétractent.
+    Réchauffez toutes les cuisses dans la poêle avec la crème fraîche et la ciboulette. Salez, poivrez, éteignez le feu, couvrez et laissez reposer 2 minutes.
+    Servez les cuisses de grenouilles sur des assiettes préchauffées.
+  ]]>
+  </preparation>
+</recette>

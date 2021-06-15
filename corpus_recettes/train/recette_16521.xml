@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16521">
+  <titre>Pommes de terre à la sauce béchamel et à l'aneth</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 pommes de terre moyennes, de préférence farineuses</p>
+    <p>1 cuillère à soupe de beurre (ou de margarine)</p>
+    <p>1/2 dl d'eau</p>
+    <p>1 cuillère à café de sel</p>
+    <p>3 cuillères à soupe de lait en poudre</p>
+    <p>1 dl d'eau</p>
+    <p>aneth </p>
+    <p>3 cuillères à soupe de crème fraîche (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les pommes de terre, les couper en dés d'1 gros cm.
+    Faire fondre la graisse dans une casserole, y faire revenir les pommes de terre. Ajouter le 1/2 dl d'eau et le sel.
+    Cuire avec couvercle, à feu doux, durant 7-8 mn.
+    Mélanger le lait en poudre avec l'eau et verser dans la casserole. Cuire quelques minutes, jusqu'à ce que les PDT soient tendres.
+    Ajouter l'aneth et éventuellement la crème.
+  ]]>
+  </preparation>
+</recette>

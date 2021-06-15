@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16711">
+  <titre>Lapin à la moutarde a l'ancienne</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 lapin coupé en morceaux</p>
+    <p>100g de crème fraiche</p>
+    <p> 5 tranches de lard fumé épaisses d'un 1/2 cm</p>
+    <p> 4 cuillères à soupe de moutarde à l'ancienne(celle avec les grains)</p>
+    <p> 4 cuillères à soupe de cognac</p>
+    <p> beurre, persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    dans une cocotte, faites fondre les morceaux de beurre. Faites revenir les morceux de lapin ainsi que le lard coupés en morceaux jusqu'à ce que les morceaux de lapin soient colorés. Ajouter la moutarde et la crème fraiche. Mélanger bien le tout.  Ciseler du persil et l'ajouter. Saler et poivrer. Ajouter le cognac et laisser cuire à feu doux 1h20 en remuant régulièrement.
+  ]]>
+  </preparation>
+</recette>

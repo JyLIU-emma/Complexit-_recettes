@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12852">
+  <titre>Pomme de terre Garnie</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 pommes de terre moyennes</p>
+    <p>1 oignon</p>
+    <p>100 g de lardons</p>
+    <p>2 tomates</p>
+    <p>4 petits oeufs</p>
+    <p>emmental râpé</p>
+    <p>poivre, sel et huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les pommes de terre. Les placer dans un plat creux avec environ 1 cm d'eau. 
+    Laisser au four environ 1h15 (à 210°C)en ajoutant de l'eau régulièrement.
+    Pendant ce temps, couper l'oignon en dés et faites les revenir dans un peu d'huile.
+    Lorsqu'ils commencent à dorer, ajouter les lardons.
+    Laisser cuir pendant 7 - 8 min
+    Retirer du feu tout en laissant un peu d'huile dans le fond. Couper les tomates en dés, puis les faire cuir dans l'huile des lardons (en ajouter si nécessaire).
+    Laisser mijouter pendant 4 - 5 min.
+    Une fois les pommes de terres cuites, creuser les, puis mélanger à cette purée les oignons, lardons tomates et émental à souhait.
+    Saler et poivrer.
+    Mettre le mélange dans les pommes de terres creuses. Laisser un trou pour y casser un oeuf.
+    Remttre au four pendant 30 min (210°C).
+    Complet pour un bon petit repas le soir... Cidre
+  ]]>
+  </preparation>
+</recette>

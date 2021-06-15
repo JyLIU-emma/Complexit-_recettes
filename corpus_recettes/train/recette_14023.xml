@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14023">
+  <titre>Tarte chocolat - poires facile</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte sablée</p>
+    <p>80 g de chocolat noir</p>
+    <p>2 cuillères à soupe de lait</p>
+    <p>3 oeufs</p>
+    <p>6 cuillères à soupe de crème fraîche</p>
+    <p>70 g de sucre</p>
+    <p>1 grosse boîte de demi-poires</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le chocolat avec le lait, dans une casserole (ou au micro-ondes).
+    Ajouter 3 bonnes cuillères de crème fraîche, mélanger, et verser sur la pâte.
+    Déposer ensuite les demi-poires sur le nappage.
+    Mélanger les oeufs, le sucre et les 3 cuillères à soupe de crème fraîche restantes, puis le déposer sur le tout.
+    Mettre au four pendant 30 min à thermostat 6 (180°C).
+  ]]>
+  </preparation>
+</recette>

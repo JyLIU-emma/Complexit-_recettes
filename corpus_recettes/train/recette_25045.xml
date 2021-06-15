@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25045">
+  <titre>Petites crèmes à la rhubarbe</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de rhubarbe</p>
+    <p>500 g de sucre</p>
+    <p>3 cuillères à soupe de farine</p>
+    <p>25 cl de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Grattez, pelez et coupez la rhubarbe en petits morceaux.
+    Mettez-les dans une casserole avec 2 verre d'eau, laissez cuire 15 min environ, jusqu'à ce que la rhubarbe soit bien tendre. 
+    Ajoutez alors le sucre et mélangez.
+    Délayez la farine dans le lait froid (mettez le tout dans un bocal et secouez énergiquement) et versez le tout dans la casserole.
+    Mélangez bien et laissez cuire 15 minutes en remuant.
+    Répartissez la crème dans 6 ramequins et laissez refroidir.
+    Servez ces crèmes bien froides avec des tuiles au amandes et un peu de crème fouettée.
+  ]]>
+  </preparation>
+</recette>

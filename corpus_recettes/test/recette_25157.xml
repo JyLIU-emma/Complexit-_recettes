@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25157">
+  <titre>Maquereaux aux oignons et au vin blanc</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 maquereaux</p>
+    <p>3 oignons émincés</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>25 cl de vin blanc sec</p>
+    <p>1 cuillère à soupe de moutarde</p>
+    <p>1 bouquet garni</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les maquereaux, peler et émincer les oignons.
+    Dans une sauteuse, faire fondre les oignons dans l'huile d'olive, puis les saupoudrer de farine sans cesser de remuer.
+    Délayer la moutarde dans le vin blanc et mouiller les oignons avec.
+    Ajouter ensuite les maquereaux au reste de la préparation avec le thym et le laurier.
+    Saler, poivrer puis laisser cuire 15 à 20 min à couvert à feu doux.
+    Déguster.
+  ]]>
+  </preparation>
+</recette>

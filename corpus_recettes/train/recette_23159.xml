@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23159">
+  <titre>Escalopes jurassiennes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 escalopes de veau fines</p>
+    <p>4 tranches de jambon</p>
+    <p>4 tranches fines de comté</p>
+    <p>chapelure</p>
+    <p>beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler les escalopes et bien les aplatir (au rouleau). Entre 2 morceaux d'escalope, intercaler 1 tranche de jambon et 1 tranche de Comté. Rouler le tout dans la chapelure. Faire cuire à la poêle dans du beurre fondu à feu doux.Attention, brûle facilement à la cuisson.
+  ]]>
+  </preparation>
+</recette>

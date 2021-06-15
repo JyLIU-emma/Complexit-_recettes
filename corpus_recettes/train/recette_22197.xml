@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22197">
+  <titre>Tarte pommes poires</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 pommes</p>
+    <p>2 poires</p>
+    <p>25 g de raisins secs</p>
+    <p>25 g d'amandes</p>
+    <p>1 oeuf</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>50 g de sucre</p>
+    <p>2 dl de lait</p>
+    <p>1 pâte brisée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une jatte, mélanger l'oeuf avec la farine et le sucre. 
+    Délayer avec le lait. 
+    Garnir le plat de la pâte brisée. 
+    Piquer le fond à l'aide d'une fourchette. 
+    Peler et couper les pommes et les poires en morceaux. Les étaler sur la pâte. Parsemer les raisins secs et les amandes. 
+    Verser la crème et enfourner à 200°C.
+  ]]>
+  </preparation>
+</recette>

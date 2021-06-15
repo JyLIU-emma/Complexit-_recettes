@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="3339">
+  <titre>Poivrons farcis en antipasti</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>12 piments doux (poivrons espagnols longs et fins) </p>
+    <p>60 g de tomates séchées</p>
+    <p>1 branche de basilic</p>
+    <p>6 tranches très fines de jambon cru</p>
+    <p>4 portions de 75 g de Carré Frais</p>
+    <p>10 cl d'huile d'olive</p>
+    <p>un peu de piment (facultatif) </p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Evidez les poivrons par le pédoncule. Ebouillantez-les, et refroidissez-les sous l'eau froide.
+    Hachez les tomates. Ecrasez les carrés frais, et mélangez-les avec les tomates séchées, le piment, le basilic, le sel et le poivre.
+    Emplissez-en les poivrons par le pédoncule.
+     
+    Enroulez-les dans 1/2 tranche de jambon cru.
+    Disposez dans un plat, et laissez macérer 3 h.
+    Bon appétit !!!
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Evidez</OPER> les <INGRED id="2">poivrons</INGRED> par le pédoncule. <OPER id="o_2">Ebouillantez</OPER> - les, et refroidissez - les sous l'<INGRED id="5">eau</INGRED> froide. <OPER id="o_3">Hachez</OPER> les tomates. <OPER id="o_4">Ecrasez</OPER> les <INGRED id="2">carrés frais</INGRED>, et <OPER id="o_5">mélangez</OPER> - les avec les <INGRED id="2">tomates séchées</INGRED>, le <INGRED id="5">piment</INGRED>, le <INGRED id="8">basilic</INGRED>, le <INGRED id="7">sel</INGRED> et le <INGRED id="4">poivre</INGRED>. <OPER id="o_6">Emplissez</OPER> -en les <INGRED id="9">poivrons</INGRED> par le pédoncule. <OPER id="o_7">Enroulez</OPER> - les dans 1/2 tranche de <INGRED id="4">jambon cru</INGRED>. <OPER id="o_8">Disposez</OPER> dans un plat, et laissez <OPER id="o_9">macérer</OPER> 3 h. Bon appétit ! ! !
+  </annotation>
+  <annotation methode="crf">
+  Evidez les <INGRED>poivrons</INGRED> par le pédoncule. Ebouillantez - les <INGRED>,</INGRED> et refroidissez - les sous l'<INGRED>eau</INGRED> froide <INGRED>.</INGRED> Hachez les <INGRED>tomates</INGRED> <INGRED>.</INGRED> Ecrasez les <INGRED>carrés</INGRED> <INGRED>frais</INGRED> <INGRED>,</INGRED> et mélangez - les avec les <INGRED>tomates</INGRED> séchées <INGRED>,</INGRED> le <INGRED>piment</INGRED> <INGRED>,</INGRED> le <INGRED>basilic</INGRED> <INGRED>,</INGRED> le <INGRED>sel</INGRED> et le <INGRED>poivre</INGRED>. Emplissez -en les <INGRED>poivrons</INGRED> par le pédoncule. Enroulez - les dans <INGRED>1/2</INGRED> tranche de <INGRED>jambon</INGRED> cru. Disposez dans un plat <INGRED>,</INGRED> et laissez macérer 3 h. Bon appétit ! ! !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 7.39285714285714*X + 1.60714285714286</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 23*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['piments doux', 'piments']	 id:1	 quantité:12	 unité:non_precis	 denombrable:True	 recipient:12*X
+ingredient:['tomates séchées', 'tomates']	 id:2	 quantité:60	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['basilic']	 id:3	 quantité:1	 unité:branche de	 denombrable:True	 recipient:1*X
+ingredient:['jambon cru', 'jambon']	 id:4	 quantité:6	 unité:tranches très fines de	 denombrable:True	 recipient:6*X
+ingredient:['Carré Frais', 'Carré']	 id:5	 quantité:4	 unité:portions de 75 g de	 denombrable:True	 recipient:4*X
+ingredient:["huile d'olive", 'huile']	 id:6	 quantité:10	 unité:cl d'	 denombrable:False	 recipient:1
+ingredient:['piment']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:evider	 id:o_1	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ebouillanter	 id:o_2	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:hacher	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5*X	 recipient:1
+operation:ecraser	 id:o_4	 ingrédients_ralatifs:['2', '2', '5', '8', '7', '4', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_5	 ingrédients_ralatifs:['2', '5', '8', '7', '4']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:emplir	 id:o_6	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enrouler	 id:o_7	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:macérer	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:60	 recipient:1
+]]>
+</operation_trouve>
+</recette>

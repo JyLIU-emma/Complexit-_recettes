@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="1578">
+  <titre>Cla-fou-ti "tomates"</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée </p>
+    <p>2 beaux oeufs + 1 blanc</p>
+    <p>200 à 250 g de tomates cerises  </p>
+    <p>4 Carrés frais</p>
+    <p>sel, poivre, basilic </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Précuire la pâte à blanc pendant 10 à 15 min à 180°C (thermostat 6).
+    Pendant ce temps, écraser les Carrés Frais à la fourchette, puis les mélanger aux oeufs et au blanc. 
+    Saler, poivrer, et ajouter quelques pincées de basilic.
+    Sortir du four le fond de pâte, et diposer les tomates dessus, de façon harmonieuse, puis verser la préparation fromagère. 
+    Enfourner encore 10-15 min, à 210°C (thermostat 7).
+    Ré-ga-lez-vous avec une salade... le tout, sans prendre 1 gramme!!!!!
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Précuire</OPER> la <INGRED id="1">pâte</INGRED> à <INGRED id="1">blanc</INGRED> pendant 10 à 15 min à 180 ° C ( thermostat 6 ). Pendant ce temps, <OPER id="o_2">écraser</OPER> les <INGRED id="5">Carrés</INGRED> Frais à la fourchette, puis les <OPER id="o_3">mélanger</OPER> aux <INGRED id="4">oeufs</INGRED> et au <INGRED id="1">blanc</INGRED>. <OPER id="o_4">Saler</OPER>, <OPER id="o_5">poivrer</OPER>, et <OPER id="o_6">ajouter</OPER> quelques pincées de <INGRED id="5">basilic</INGRED>. <OPER id="o_7">Sortir</OPER> du four le fond de <INGRED id="1">pâte</INGRED>, et <OPER id="o_8">diposer</OPER> les <INGRED id="4">tomates</INGRED> dessus, de façon harmonieuse, puis <OPER id="o_9">verser</OPER> la préparation fromagère. <OPER id="o_10">Enfourner</OPER> encore 10 - 15 min, à 210 ° C ( thermostat 7 ). <OPER id="o_11">Ré-ga-lez-vous</OPER> avec une salade... le tout, sans <OPER id="o_12">prendre</OPER> 1 gramme ! ! ! ! !
+  </annotation>
+  <annotation methode="crf">
+  Précuire la <INGRED>pâte</INGRED> à <INGRED>blanc</INGRED> pendant 10 à 15 min à 180 ° C ( thermostat 6 ). Pendant ce temps <INGRED>,</INGRED> écraser les <INGRED>Carrés Frais</INGRED> à la fourchette <INGRED>,</INGRED> puis les mélanger aux <INGRED>oeufs</INGRED> et au <INGRED>blanc</INGRED> <INGRED>.</INGRED> Saler <INGRED>,</INGRED> poivrer <INGRED>,</INGRED> et ajouter quelques pincées de <INGRED>basilic</INGRED> <INGRED>.</INGRED> Sortir du four le <INGRED>fond</INGRED> de <INGRED>pâte</INGRED> <INGRED>,</INGRED> et diposer les <INGRED>tomates</INGRED> dessus <INGRED>,</INGRED> de façon harmonieuse <INGRED>,</INGRED> puis verser la préparation fromagère. Enfourner encore 10 - 15 min <INGRED>,</INGRED> à 210 ° C ( thermostat 7 ). Ré-ga-lez-vous avec une salade... le tout <INGRED>,</INGRED> sans prendre 1 gramme ! ! ! ! !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 8.0*X + 4.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 8*X + 5</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pâte feuilletée', 'pâte']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['oeufs']	 id:2	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['blanc']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['tomates cerises', 'tomates']	 id:4	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['Carrés frais', 'Carrés']	 id:5	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['sel']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['basilic']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:précuire	 id:o_1	 ingrédients_ralatifs:['1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:écraser	 id:o_2	 ingrédients_ralatifs:['5', '4', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:['4', '1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:saler	 id:o_4	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:sortir	 id:o_7	 ingrédients_ralatifs:['1', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:diposer	 id:o_8	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfourner	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ré-ga-lez-vous	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:prendre	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

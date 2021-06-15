@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20274">
+  <titre>Fondue de poissons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de poissons en gros dés (mérou, cabillaud, limande, lotte, lieu...) </p>
+    <p>100 g de fruits de mer (moules, crevettes, coquilles st Jacques- pétoncles) </p>
+    <p>huile pour friture</p>
+    <p>8 oeufs battus en omelette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Idées pour diverses sauces :
+    mayonnaise à l’ail
+    tartare
+    aux anchois
+    béarnaise
+    à l’américaine
+    rouille
+    Faire chauffer l’huile dans une casserole. 
+    La mettre dans le caquelon avec l’alcool à brûler que l’on allume. Chaque convive met un morceau de poisson sur sa fourchette, le trempe dans l’oeuf battu et le met délicatement dans l’huile. Attention à ce que cela ne saute pas pour les premiers morceaux. Servir avec du riz.Surprenant mais délicieux
+  ]]>
+  </preparation>
+</recette>

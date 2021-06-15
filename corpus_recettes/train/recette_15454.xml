@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15454">
+  <titre>Salade crevettes et pamplemousse</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>100 g crevettes</p>
+    <p>1 avocat</p>
+    <p>quelques feuilles de salade</p>
+    <p>1/2 pamplemousse rose</p>
+    <p>1 pot de crème acidulée (15%) ou de fromage blanc battu (0%)</p>
+    <p>1 jus de citron</p>
+    <p>poivre et paprika</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver la salade, répatir quelques feuilles dans les assiettes.
+    Peler l'avocat, enlever le noyau, le couper dans la longueur en fines lanières. Citronner pour pas qu'il noircisse. Déposer les lanières en rosace sur la salade.
+    Mettre la crème dans un grand bol, poivrer, ajouter le paprika, le jus de citron et les crevettes.
+    Peler les pamplemousse, enlever la peau blanche des quartiers afin de ne garder que la 'chair'. Ajouter délicatement aux crevettes.
+    Garnir sur les feuilles de salade.
+    Ajouter une tombée de cognac aux crevettes.
+    La recette peut aussi être préparée avec une orange ou une pomme acide. Vin blanc
+  ]]>
+  </preparation>
+</recette>

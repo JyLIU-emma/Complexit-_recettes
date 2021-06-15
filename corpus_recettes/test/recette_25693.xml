@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25693">
+  <titre>Fondue d'endive aux petits lardons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>12 endives</p>
+    <p>4 échalotes (ou oignons) </p>
+    <p>200 g de crème fraîche épaisse</p>
+    <p>1 citron</p>
+    <p>100 g de petits lardons fumés</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper en fines lamelles les endives et les citronner. Dans une sauteuse, faire revenir dans du beurre les échalotes émincées, puis ajouter les lardons. 
+    Ajouter les endives, couvrir et laisser cuire le tout 15 mn en remuant de temps en temps. 
+    Ajouter la crème fraîche en fin de cuisson. 
+    Saler et poivrer à votre convenance. 
+    Décorer avec du cerfeuil et servir chaud.
+    Ce plat accompagne parfaitement un rôti de porc.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23068">
+  <titre>Tarte courgette/basilic</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>5 courgettes</p>
+    <p>2 gousses d’ail</p>
+    <p>2 cuillères à soupe d’huile</p>
+    <p>4 oeufs</p>
+    <p>120 g de crème</p>
+    <p>120 g de gruyère râpé</p>
+    <p>6 cuillères à soupe de basilic haché</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (thermostat 7).
+    Laver et détailler les courgettes en petits dés, puis les plonger dans l’eau bouillante salée pendant 10 minutes.
+    Les égoutter, les essuyer dans un linge propre et les laisser tiédir à température ambiante.
+    Peler la gousse d’ail, puis la faire revenir dans une sauteuse huilée jusqu’à ce qu’il fonde.
+    Y ajouter ensuite les dés de courgettes, laisser cuire 5 minutes puis les mixer.
+    Dans un saladier, battre les oeufs au fouet avec la crème, puis ajouter le fromage râpé, le sel et le poivre.
+    Verser ce mélange sur les courgettes, puis saupoudrer de basilic et bien mélanger.
+    Etaler la pâte dans le moule et y verser la préparation.
+    Laisser cuire 35 minutes et déguster dès la sortie du four.
+  ]]>
+  </preparation>
+</recette>

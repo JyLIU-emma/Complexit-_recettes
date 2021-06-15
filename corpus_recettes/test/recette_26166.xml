@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26166">
+  <titre>Rillettes aux deux saumons</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>400 g de filet saumon frais</p>
+    <p>300 g de saumon fumé</p>
+    <p>300 g de Saint moret</p>
+    <p>3 cuillers à soupe d'huile d'olive</p>
+    <p>1 pincée de semoule d'ail</p>
+    <p>1 grosse pincée de thym</p>
+    <p>1 pincée de poivre (5 baies) </p>
+    <p>1 pincée de gros sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer l'huile dans un poêle. 
+    Y griller le saumon en gros cubes après l'avoir assaisonné d'ail, de thym, de poivre et de sel. Il doit être bien grillé ! 
+    Mettre le saumon fumé, le St Môret, et le saumon grillé au mixeur (en morceaux homogènes et bien répartis). 
+    Mixer le tout à volonté. 
+    Laisser refroidir avant de servir.
+    - Ne pas trop mixer pour avoir de vraies rillettes et non une mousse.
+    Servir à température ambiante. Blanc liquoreux: Sauternes, Jurançon, etc.
+  ]]>
+  </preparation>
+</recette>

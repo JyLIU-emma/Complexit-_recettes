@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17241">
+  <titre>CHOCOLAMANDINE</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>150 g chocolat noir</p>
+    <p>150 g beurre</p>
+    <p>150 g sucre glace</p>
+    <p>125 g amandes en poudre</p>
+    <p>1 sachet sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Allumez le four à Th 5 (175°C). 
+    Beurrez un moule à manqué. 
+    Cassez les oeufs en séparant les blancs des jaunes. 
+    Mettez le chocolat dans une deuxiéme terrine et ajoutez le beurre. 
+    Faire fondre le chocolat, lissez à la spatule. 
+    Incorporez au mélange chocolat-beurre les jaunes d'oeufs en battant au fouet à main. 
+    Ajoutez le sucre glace et les amandes en poudre. 
+    Cessez de battre. 
+    Battez les blancs d'oeufs en neige ferme puis y ajouter le sucre vanillé sans cesser de battre jusqu'à ce qu'ils soient lisses et brillants. 
+    Les incorporer à la préparation au chocolat en soulevant délicatement. 
+    Mettre au four 30 mn ; le centre du gâteau piqué avec un couteau doit être encore moelleux. 
+    Laissez refroidir puis démoulez.
+  ]]>
+  </preparation>
+</recette>

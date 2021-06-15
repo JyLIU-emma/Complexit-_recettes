@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16872">
+  <titre>Chichis-frégi</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de farine</p>
+    <p>10 g de levure de boulanger</p>
+    <p>1 cuillère à soupe de fleur d'oranger</p>
+    <p>une pincée de sel</p>
+    <p>sucre en poudre + un sachet de sucre vanillé (pour l'enrobage)</p>
+    <p>eau tiède</p>
+    <p>un bain de friture</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettez la farine dans un cul de poule et faites-y une fontaine. Ajoutez dans la fontaine la pincée de sel et la fleur d'oranger.
+    Délayez la levure dans un verre d'eau tiède et ajoutez-la à la farine. Mélanger le tout afin d'obtenir une pâte molle et souple qui se détache de la main (ajoutez un peu d'eau tiède si besoin).
+    Couvrez le cul de poule avec un torchon et laissez la pâte reposer pendant environ 2 heures dans un endroit tiède, afin qu'elle double de volume.
+    Faites chauffer l'huile de friture, remplissez une poche à patisserie avec la pâte. 
+    Pressez la poche en partant du centre de la bassine et faites couler la pâte en cercles dans la bassine (si vous n'avez pas de poche, faites des petits boudins en faisant rouler la pâte entre vos mains). 
+    Lorsque le boudin est bien doré, retirez-le, et roulez-le dans le mélange sucre + sucre vanillé. 
+    Servez tiède.
+    IMPORTANT : Attention à ne pas trop monter l'huile en température ! Si vous dépassez les 200°C, les chichis que vous plongez dans le bain de friture peuvent "exploser" et vous blesser. De manière générale, faites attention avec la friture : plonger des ingrédients froids dans un bain d'huile bouillante crée un choc thermique. Protégez-vous les mains et faites attention aux projections.
+  ]]>
+  </preparation>
+</recette>

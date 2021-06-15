@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22232">
+  <titre>Pommes dauphines</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de pommes de terre</p>
+    <p>125 g de farine</p>
+    <p>75 g de beurre</p>
+    <p>100 g ou 10 cl d'eau</p>
+    <p>4 oeufs</p>
+    <p>sel</p>
+    <p>huile de friture</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les pommes de terre à l'eau bouilante salée environ 30 minutes (selon la taille).
+    Pendant ce temps, préparez la pâte à choux : portez à ébullition 10 cl d'eau avec le beurre.
+    Salez et versez d'un coup la farine, remuez énergiquement à la cuillère en bois jusqu'à ce que la pâte se détache des birds de la casserole.
+    Laissez tiédir puis ajoutez les oeufs un à un, en mélangeant bien à chaque fois.
+    Egouttez et pelez les pommes de terre, écrasez-les en purée fine et ajoutez-les à la pâte à choux. Salez et poivrez, puis laissez refroidir.
+    Formez ensuite des petites boules de la taille d'une noix avec vos mains farinées, ou utilisez une poche à douille.
+    Jetez-les dans l'huile de friture bien chaude par petites quantités et laissez dorer 1 min environ.
+  ]]>
+  </preparation>
+</recette>

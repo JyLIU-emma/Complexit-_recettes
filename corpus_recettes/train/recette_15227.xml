@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15227">
+  <titre>Tarte aux pommes, miel et amandes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de pâte feuilletée</p>
+    <p>6 petites pommes</p>
+    <p>70 g de beurre</p>
+    <p>2 cuillères à soupe de miel</p>
+    <p>100 g de sucre</p>
+    <p>100 g d'amandes effilées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C.
+    Granir un moule à tarte avec la pâte feuilletée.
+    Couper les pommes en lamelles moyennes et les disposer sur la pâte.
+    Mettre au four une vingtaine de minutes.
+    Dans une casserole, faire fondre le beurre à feu doux. Ajouter le miel, le sucre et les amandes.
+    Napper le dessus de la tarte avec l'appareil encore chaud, et remettre au four quelques minutes pour faire dorer le tout.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16896">
+  <titre>Quatre-quart pomme et chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de farine</p>
+    <p>4 oeufs</p>
+    <p>1 sachet de levure chimique</p>
+    <p>100 g de sucre de canne ou 200 g de sucre blanc</p>
+    <p>4 pommes au choix de taille moyenne</p>
+    <p>15 morceaux de sucre en morceaux</p>
+    <p>15 cl de rhum</p>
+    <p>200 g de chocolat noir</p>
+    <p>100 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un casserole, faire un caramel avec le sucre en morceaux et un verre d'eau.
+    Pendant ce temps, mélanger dans un saladier
+    la farine, les oeufs, la levure, le sucre, le chocolat (préalablement fondu), le beurre et 3 pommes.
+    Lorsque le caramel commence à brunir, beurrer un moule à gâteau, y verser le caramel. Disposer ensuite sur le caramel la dernière pomme coupée en rondelles. Verser la pâte par dessus.
+    Laisser cuire 25 mn à 200°C (thermostat 6-7).On peut remplacer les pommes par de l'ananas.
+    Pour démouler plus facilement, passer le moule à la flamme.
+  ]]>
+  </preparation>
+</recette>

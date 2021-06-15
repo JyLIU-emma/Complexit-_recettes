@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17148">
+  <titre>Tarte au fromage blanc et à la rhubarbe</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 abaisse de pâte brisée de 33 cm environ de diamètre</p>
+    <p>250 g de fromage blanc</p>
+    <p>1 oeuf</p>
+    <p>1 cuillère à soupe de sucre</p>
+    <p>1 cuillère à café de sucre vanillé</p>
+    <p>1 citron</p>
+    <p>1 pomme</p>
+    <p>500 g de rhubarbe</p>
+    <p>1 cuillère à café de sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le fromage blanc, l'oeuf, le sucre et le sucre vanillé. Laver le citron sous l'eau chaude et l'essuyer. Râper l'équivalent d'une cuillère à café de zeste directement au-dessus du mélange. Râper la pomme au-dessus du mélange.
+    Effiler la rhubarbe et la débiter en troncons de 1 cm. Etaler le mélange sur le fond de tarte et répartir la rhubarbe dessus.
+    Faire cuire environ 40 mn dans le bas du four préchauffé à 200°C.
+    Quand la tarte est cuite, saupoudrer de sucre glace.
+    On peut servir cette tarte avec des fraises.
+  ]]>
+  </preparation>
+</recette>

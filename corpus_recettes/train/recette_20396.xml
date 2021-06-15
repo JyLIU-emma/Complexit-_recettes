@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20396">
+  <titre>Brochette de St Jacques et gambas</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>2 coquilles st jacques</p>
+    <p>2 gambas</p>
+    <p>2 pruneaux</p>
+    <p>2 tranches de lard</p>
+    <p>1 morceau de tomate</p>
+    <p>1 morceau d'oignon</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+    <p>herbes de provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Enroulez les coquilles st jacques dans des tranches de lard, puis enfilez tous les ingrédients sur des piques en alternant : coquille st jacques - pruneau - gambas - tomate - oignon - coquille st jacques - pruneau - gambas. Mettez toutes les brochettes dans un plat, arrosez d'huile d'olive selon le goût puis d'un peu d'herbes de Provence (pas trop pour ne pas dénaturer le goût - si vous les faites cuire au barbecue mettez plutôt les herbes de Provence dans les braises). Faites cuire ces brochettes soit au barbecue soit dans une poêle à poisson à peu près 10 mn.
+  ]]>
+  </preparation>
+</recette>

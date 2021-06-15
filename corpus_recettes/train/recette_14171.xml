@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14171">
+  <titre>Frissure d'agneau</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 frissure d'agneau de 500 g</p>
+    <p>2 oignons </p>
+    <p>1 gousse d'ail</p>
+    <p>300 g de tomates pelées</p>
+    <p>1 verre de vin blanc (20 cl)</p>
+    <p>3 feuilles de laurier</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer et couper la frissure, la faire revenir dans de l'huile d'arachide.
+    Couper finement les oignons et l'ail ajouter,à la préparation et faire dorer, puis ajouter le vin blanc et laisser évaporer.
+    Terminer avec les tomates pelées et le laurier. Saler et poivrer à votre convenance.
+    Ce plat s'accompagne de riz ou de pâtes.
+     rouge
+  ]]>
+  </preparation>
+</recette>

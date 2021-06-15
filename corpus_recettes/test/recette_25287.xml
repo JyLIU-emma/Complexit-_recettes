@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25287">
+  <titre>Chili con carne rapide</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>750 g de steak haché</p>
+    <p>6 cuillères à soupe d'huile d'arachide</p>
+    <p>4 oignons</p>
+    <p>3 gousses d'ail</p>
+    <p>4 cuillères à soupe de poudre de Chili</p>
+    <p>2 cuillère à café de cumin en poudre</p>
+    <p>6 cuillères à soupe de concentré de tomates</p>
+    <p>1 l de bouillon de bœuf</p>
+    <p>750 g de haricots rouges</p>
+    <p>sel, poivre moulu</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les haricots à l'autocuiseur pendant 45 min à partir de la rotation de la soupape.
+    Dans une grande casserole, faire dorer à grand feu la viande, les oignons coupés finement et l'ail écrasé.
+    Mettre les épices et assaisonner.
+    Mélanger le bouillon de boeuf avec le concentré de tomate et l'ajouter dans la casserole. 
+    Recouvrir et cuire 20 min à feu moyen.
+    Ajouter ensuite les haricots cuits et égouttés et continuer la cuisson pendant 15 min.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18134">
+  <titre>Gâteau au thés bruns</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g chocolat noir pâtissier</p>
+    <p>3 œufs </p>
+    <p>1 boîte et demi de thé bruns (environ)</p>
+    <p>50 g de beurre</p>
+    <p>1 cuillère à soupe de sucre</p>
+    <p>20 cl de café très fort</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre, et le chocolat en morceaux. Ajouter le sucre. Retirer du feu et incorporer les roux d'oeufs. Battre les blancs en neige et les incorporer à la crème précédemment obtenue. Préparer du café.
+    Tremper les biscuits un à un dans du café chaud et les déposer dans un plat rectangulaire. Napper d'une bonne couche de crème. Alterner une couche de biscuits, une couche de crème.
+    Mettre au frais. Sortir une demi-heure avant de servir.
+    Bon appétitAttention, les biscuits fondent dans le café chaud ;-)
+  ]]>
+  </preparation>
+</recette>

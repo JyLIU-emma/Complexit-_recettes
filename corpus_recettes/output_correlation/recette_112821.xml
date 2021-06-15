@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="112821">
+  <titre>Côtes de chevreuil en sauce douce des bois</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>4 petites côtes de chevreuil</p>
+    <p>50 g de gelée de groseilles</p>
+    <p>1/2 petit verre de Porto rouge</p>
+    <p>25 cl de fond de veau</p>
+    <p>env. 250 g (4 pièces)de petites chicorées witloof (endives en France; chicons en Belgique)</p>
+    <p>beurre, jus de citron, sel, poivre, cannelle, crème fraîche, 1 petite poignée de myrtilles, éventuellement margarine végétale</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparation de la garniture:
+    creuser la base amère des chicorées, les laver rapidement, les sécher et les cuire à couvert et à petit feu avec 12 g de beurre, 25 ml d'eau, un filet de jus de citron et du sel pendant environ 30-35 min. Les retirer, ajouter au jus de cuisson 2,5 c à soupe de crème, faire réduire jusqu'à bonne consistance, ajouter 
+    10 g de beurre, remettre les chicorées pour les réchauffer.
+    Préparation de la sauce:
+    faire réduire de moitié (environ)le fond de veau avec la gelée de groseilles.
+    Cuisson de la viande:
+    saupoudrer les côtes de chevreuil d'une (très)petite pincée de cannelle, de sel et de poivre. Les cuire dans du beurre ou de la margarine végétale à feu vif tout d'abord, à feu plus modéré par la suite. Les garder rosées (comme de l'agneau). Réserver au chaud. Déglacer les sucs de cuisson avec le fond réduit et le Porto et faire évaporer jusqu'à bonne consistance. Ensuite, y jeter les myrtilles pour les chauffer légèrement (attention, ne pas les laisser trop longtemps, sinon elles cuiront et se déferont!)Dresser les côtes sur des assiettes chaudes, les napper de sauce, y disposer les chicorées et accompagner de pommes de terre nature, croquettes ou ce qui vous plaira.La sauce accompagnant la viande n'est pas très abondante, mais elle est goûteuse et se mélange délicatement à la crème nappant les légumes. Bourgogne Hautes-Côtes de Nuit
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Préparation de la garniture : <OPER id="o_1">creuser</OPER> la base amère des <INGRED id="5">chicorées</INGRED>, les <OPER id="o_2">laver</OPER> rapidement, les <OPER id="o_3">sécher</OPER> et les <OPER id="o_4">cuire</OPER> à couvert et à petit feu avec 12 <INGRED id="1">g</INGRED> de <INGRED id="2">beurre</INGRED>, 25 <INGRED id="3">ml</INGRED> d'<INGRED id="8">eau</INGRED>, un <INGRED id="7">filet de jus de citron</INGRED> et du <INGRED id="3">sel</INGRED> pendant environ 30 - 35 min. Les <OPER id="o_5">retirer</OPER>, <OPER id="o_6">ajouter</OPER> au <INGRED id="9">jus</INGRED> de cuisson 2,5 <INGRED id="8">c</INGRED> à <INGRED id="5">soupe</INGRED> de crème, faire réduire jusqu'à bonne consistance, <OPER id="o_7">ajouter</OPER> 10 <INGRED id="1">g</INGRED> de <INGRED id="5">beurre</INGRED>, <OPER id="o_8">remettre</OPER> les <INGRED id="5">chicorées</INGRED> pour les réchauffer. Préparation de la <INGRED id="4">sauce</INGRED> : faire réduire de moitié ( environ)le <INGRED id="4">fond de veau</INGRED> avec la <INGRED id="9">gelée de groseilles</INGRED>. Cuisson de la <INGRED id="2">viande</INGRED> : <OPER id="o_9">saupoudrer</OPER> les <INGRED id="1">côtes de chevreuil</INGRED> d'une ( très)petite pincée de <INGRED id="8">cannelle</INGRED>, de <INGRED id="4">sel</INGRED> et de <INGRED id="12">poivre</INGRED>. Les <OPER id="o_10">cuire</OPER> dans du <INGRED id="4">beurre</INGRED> ou de la <INGRED id="13">margarine végétale</INGRED> à feu vif tout d'abord, à feu plus modéré par la suite. Les <OPER id="o_11">garder</OPER> rosées ( comme de l'agneau ). Réserver au chaud. <OPER id="o_12">Déglacer</OPER> les sucs de cuisson avec le <INGRED id="4">fond</INGRED> réduit et le <INGRED id="3">Porto</INGRED> et faire <OPER id="o_13">évaporer</OPER> jusqu'à bonne consistance. Ensuite, y <OPER id="o_14">jeter</OPER> les myrtilles pour les chauffer légèrement ( attention, ne pas les laisser trop longtemps, sinon elles cuiront et se <OPER id="o_15">déferont!)Dresser</OPER> les <INGRED id="1">côtes</INGRED> sur des assiettes chaudes, les <OPER id="o_16">napper</OPER> de <INGRED id="5">sauce</INGRED>, y <OPER id="o_17">disposer</OPER> les <INGRED id="5">chicorées</INGRED> et accompagner de <INGRED id="3">pommes de terre</INGRED> nature, croquettes ou ce qui vous plaira. La <INGRED id="4">sauce</INGRED> accompagnant la viande n'est pas très abondante, mais elle est goûteuse et se <INGRED id="7">mélange</INGRED> délicatement à la <INGRED id="7">crème</INGRED> nappant les légumes. Bourgogne Hautes-Côtes de Nuit
+  </annotation>
+  <annotation methode="crf">
+  Préparation de la garniture <INGRED>:</INGRED> creuser la base amère des <INGRED>chicorées</INGRED> <INGRED>,</INGRED> les laver rapidement <INGRED>,</INGRED> les sécher et les cuire à couvert et à <INGRED>petit</INGRED> feu avec 12 <INGRED>g</INGRED> de <INGRED>beurre</INGRED> <INGRED>,</INGRED> 25 ml d'<INGRED>eau</INGRED> <INGRED>,</INGRED> un <INGRED>filet</INGRED> de <INGRED>jus de citron</INGRED> et du <INGRED>sel</INGRED> pendant <INGRED>environ</INGRED> 30 - 35 min. Les retirer <INGRED>,</INGRED> ajouter au <INGRED>jus</INGRED> de cuisson 2,5 <INGRED>c</INGRED> à soupe de <INGRED>crème</INGRED> <INGRED>,</INGRED> faire réduire jusqu'à bonne consistance <INGRED>,</INGRED> ajouter 10 <INGRED>g</INGRED> de <INGRED>beurre</INGRED> <INGRED>,</INGRED> remettre les <INGRED>chicorées</INGRED> pour les réchauffer <INGRED>.</INGRED> Préparation de la <INGRED>sauce</INGRED> <INGRED>:</INGRED> faire réduire de moitié ( environ)le <INGRED>fond de veau</INGRED> avec la <INGRED>gelée de groseilles</INGRED> <INGRED>.</INGRED> Cuisson de la <INGRED>viande</INGRED> <INGRED>:</INGRED> saupoudrer les <INGRED>côtes</INGRED> de <INGRED>chevreuil</INGRED> d'une ( très)petite pincée de <INGRED>cannelle</INGRED> <INGRED>,</INGRED> de <INGRED>sel</INGRED> et de <INGRED>poivre</INGRED>. Les cuire dans du <INGRED>beurre</INGRED> <INGRED>ou</INGRED> de la <INGRED>margarine</INGRED> végétale à feu vif tout d'abord <INGRED>,</INGRED> à feu plus modéré par la suite <INGRED>.</INGRED> Les garder rosées ( comme de l'agneau ). Réserver au chaud <INGRED>.</INGRED> Déglacer les sucs de cuisson avec le <INGRED>fond</INGRED> réduit et le Porto et faire évaporer jusqu'à bonne consistance <INGRED>.</INGRED> Ensuite <INGRED>,</INGRED> y jeter les <INGRED>myrtilles</INGRED> pour les chauffer légèrement ( attention <INGRED>,</INGRED> ne pas les laisser trop longtemps, sinon elles cuiront et se déferont!)Dresser les <INGRED>côtes</INGRED> sur des assiettes chaudes <INGRED>,</INGRED> les napper de <INGRED>sauce</INGRED> <INGRED>,</INGRED> y disposer les <INGRED>chicorées</INGRED> et accompagner de <INGRED>pommes de terre</INGRED> nature <INGRED>,</INGRED> croquettes <INGRED>ou</INGRED> ce qui vous plaira <INGRED>.</INGRED> La <INGRED>sauce</INGRED> accompagnant la <INGRED>viande</INGRED> n'est pas très abondante <INGRED>,</INGRED> mais elle est goûteuse et se <INGRED>mélange</INGRED> délicatement à la <INGRED>crème</INGRED> nappant les <INGRED>légumes</INGRED> <INGRED>.</INGRED> Bourgogne Hautes-Côtes de Nuit
+  </annotation>
+  <complexite>
+    <temps>f(X) = 5.3125*X + 11.6875</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 5*X + 15</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['côtes de chevreuil', 'côtes']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['gelée de groseilles', 'gelée']	 id:2	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['Porto rouge', 'Porto']	 id:3	 quantité:1/2	 unité:verre de	 denombrable:False	 recipient:1
+ingredient:['fond de veau', 'fond']	 id:4	 quantité:25	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['petites chicorées witloof', 'chicorées']	 id:5	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['jus de citron', 'jus']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['cannelle']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poignée de myrtilles', 'poignée']	 id:12	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['margarine végétale', 'margarine']	 id:13	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:creuser	 id:o_1	 ingrédients_ralatifs:['5', '1', '2', '3', '8', '7', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:laver	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:sécher	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_4	 ingrédients_ralatifs:['1', '2', '3', '8', '7', '3']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:retirer	 id:o_5	 ingrédients_ralatifs:['9', '8', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['9', '8', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:['9', '8', '5', '1', '5', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remettre	 id:o_8	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:saupoudrer	 id:o_9	 ingrédients_ralatifs:['1', '8', '4', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_10	 ingrédients_ralatifs:['4', '13']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:garder	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déglacer	 id:o_12	 ingrédients_ralatifs:['4', '3']	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:évaporer	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:jeter	 id:o_14	 ingrédients_ralatifs:['1', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déferont!)dresser	 id:o_15	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:napper	 id:o_16	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_17	 ingrédients_ralatifs:['1', '5', '5', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16033">
+  <titre>Bugnes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>1 gros oeuf</p>
+    <p>1,5 cuillères à soupe de sucre.</p>
+    <p>1/2 sachet de levure</p>
+    <p>1/2 sachet de sucre vanillé</p>
+    <p>1,5 cuillère à soupe de rhum</p>
+    <p>8 cl  de lait</p>
+    <p>1 pincée de sel</p>
+    <p>75 g de beurre fondu</p>
+    <p>le zeste d'un citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger dans le robot ménager la farine, la pincée de sel, la levure, le sucre et le sucre vanillé.
+    Ajouter l'oeuf, le beurre fondu... et pour finir, le zeste de citron, le rhum et le 1/2 verre de lait.
+    Travailler la pâte jusqu'à l'obtention d'une boule. La pâte doit être élastique : si elle est trop molle rajouter un peu de farine ; si elle est trop dure rajouter un peu de lait.
+    Laisser reposer la pâte 1/2 heure.
+    Abaisser la pâte sur une épaisseur de 5 mm. Détailler en bandes de 10 cm sur 4 cm et pratiquer une incision sur 5 cm au centre.
+    Plonger les bugnes dans la friture, les retourner 1 fois et les égoutter sur du papier absorbant.
+    Saupoudrer de sucre glace et servir chaud.
+  ]]>
+  </preparation>
+</recette>

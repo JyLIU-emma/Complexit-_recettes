@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21851">
+  <titre>Tourte au jambon, champignons et comté</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 pâtes brisées</p>
+    <p>300 g de jambon</p>
+    <p>250 g de champignons</p>
+    <p>200 g de comté ou gruyère</p>
+    <p>5 cl de crème fraîche</p>
+    <p>30 g de beurre</p>
+    <p>1 jaune d'oeuf pour dorer</p>
+    <p>1 filet de citron</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler l'une des pâtes brisées dans un moule à tarte beurré et la piquer avec une fourchette. 
+    Laver et couper en tranches les champignons, et les faire revenir dans une poêle avec du beurre pendant 10 min. Assaisonner et arroser d'un jus de citron.
+    Détailler le jambon et le comté en dés.
+    Dans un saladier, mélanger les champignons, le jambon, le comté et la crème. Assaisonner. 
+    Verser la préparation dans le moule à tarte et recouvrir de la deuxième pâte brisée. Souder les bords avec un peu d'eau et faire un trou au milieu de la pâte pour laisser l'air s'échapper. Badigeonner de jaune d'oeuf et enfourner à 200°C(thermostat 6-7) pendant 1 h.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22493">
+  <titre>Beignets à la noix de coco</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de crème fraîche</p>
+    <p>200 g de farine</p>
+    <p>100 g de noix de coco râpé </p>
+    <p>100 g de sucre</p>
+    <p>60 g de beurre</p>
+    <p>5 oeufs</p>
+    <p>4 cuillères à soupe de rhum</p>
+    <p>3 cuillerées à soupe de rhum</p>
+    <p>15 cl de lait de coco</p>
+    <p>huile de friture </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger dans une terrine la farine et la noix de coco. Y incorporer les œufs et ajouter une pincée de sel, le beurre et le rhum. Arroser de lait de coco et faire reposer pendant 1 h.
+    Plonger des noix de pâte dans la friteuse avec 2 cuillères. Égoutter et servir chaud avec de la crème fraîche froide, sucrée et parfumée au rhum.
+  ]]>
+  </preparation>
+</recette>

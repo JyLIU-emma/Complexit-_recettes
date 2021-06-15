@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25758">
+  <titre>Côtes de porc au vin blanc et olives</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 côtes de porc</p>
+    <p>1 grand verre de vin blanc sec</p>
+    <p>20 olives dénoyautées</p>
+    <p>amandes</p>
+    <p>bouillon</p>
+    <p>romarin</p>
+    <p>sel, poivre, beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Fourrez les olives avec les amandes.
+     
+    Dans une poêle avec du beurre faites dorer les côtes 10 min, puis les réserver hors du feu.
+    Avec le vin blanc déglacez la poêle et jetez dedans les olives farcies aux amandes. Laisser bouillir quelques secondes puis ajouter le romarin et assaisonnez.
+     
+    Dressez un plat, disposez les côtes et versez la sauce.
+  ]]>
+  </preparation>
+</recette>

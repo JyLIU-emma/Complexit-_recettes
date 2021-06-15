@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14111">
+  <titre>Sorbet au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>40 cl d'eau de source</p>
+    <p>60 g de cacao amer</p>
+    <p>100 g de chocolat</p>
+    <p>80 g de sucre en poudre</p>
+    <p>10 cl crème liquide</p>
+    <p>1/2 cuillère à café de vanille liquide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Râper le chocolat. Porter l'eau 3 min à frémissement avec le sucre en remuant hors du feu. Ajouter le chocolat, mélanger puis incorporer la crème liquide, le cacao et la vanille. Laisser refroidir.
+    Verser en sorbetière et turbiner 3-4 h.Avec une tarte au chocolat, c'est un vrai délice !
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11897">
+  <titre>Mini pizzas</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 pain 'pitta'</p>
+    <p>un peu de chair de tomate</p>
+    <p>4 tranches de jambon</p>
+    <p>quelques champignons</p>
+    <p>une quainzaine d'olives noires</p>
+    <p>200 g de mozzarella</p>
+    <p>un peu d'huile d'olive</p>
+    <p>sel et poivre</p>
+    <p>herbes de provence selon goût</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 220°C.
+    Disposez sous la grille du four une feuille de papier aluminium, afin de le préserver si l'huile ou le fromage coule...
+    Disposez sur cette même grille vos pains 'pitta', face lisse au-dessus.
+    Sur chaque pain, mettre une cuillère à soupe de chair de tomate, saler, poivrer (ajouter éventuellement les herbes de provence).
+    Ensuite, ajouter le jambon émincé, les champignons émincés et disposer quelques olives.
+    Recouvrir chaque pizza de fines tranches de mozzarella, y verser un filet d'huile d'olive.
+    Cuire à four chaud une petite demi-heure.
+    Vous pouvez bien entendu varier les garnitures à l'infini ! (poivrons, anchois, coeurs d'artichauts, saucisson,ananas...).
+    En augmentant les quantités, vous pouvez en faire un repas principal. Les enfants en raffolent !
+  ]]>
+  </preparation>
+</recette>

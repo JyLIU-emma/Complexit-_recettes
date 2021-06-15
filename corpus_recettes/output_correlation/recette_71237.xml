@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71237">
+  <titre>Pizza de la rose avec son gorgonzola</titre>
+  <type>Plat principal</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>500 g de farine</p>
+    <p>200 cl d'eau tiède</p>
+    <p>sel</p>
+    <p>1 sachet de levure à pain</p>
+    <p>Pour la garniture :</p>
+    <p>100 g de gorgonzola</p>
+    <p>1 petite boîte de concentré de tomate</p>
+    <p>quelques feuilles de roquette</p>
+    <p>1 tomate</p>
+    <p>4 petites tranches jambon de Parme</p>
+    <p>1 petite boîte de champignon</p>
+    <p>basilic frais </p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparation de la pâte : dans une assiette, mettre la farine, faire un puits et y verser l'eau tiède. Incorporer 1 petite cuillère à café de sel et le sachet de levure. Former une boule de pâte et les reposer 30 minutes. Une fois le temps écoulé, malaxer en tirant la pâte et laisser encore reposer durant 30 minutes. Une fois le temps écouler remalaxer et étaler la pâte en un disque.
+    Préchauffer le four à 200°C (thermostat 6-7).
+    Préparation pour la garniture : mélanger le concentré de tomate avec de l'eau pour en faire un sauce pas trop épaisse. Chauffer la sauce dans une casserole et y mettre les champignons, le basilic haché et un filet d'huile d'olive. Couper le morceau de gorgonzola en dés.
+    Etaler la sauce sur la pâte (plus ou moins cela dépend si la pâte est trop humide), y mettre les tranches de jambon de Parme et les morceaux de gorgonzola.
+    Pour le décor, épluchez la tomate en grosses pelures et avec, former une tomate au centre de la pizza. Enfourner pour 15 minutes de cuisson. Ajouter les feuilles de roquette sur le dessus avant de servir bien chaud.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Préparation de la <INGRED id="5">pâte</INGRED> : dans une assiette, <OPER id="o_1">mettre</OPER> la farine, faire un puits et y <OPER id="o_2">verser</OPER> l'<INGRED id="2">eau tiède</INGRED>. <OPER id="o_3">Incorporer</OPER> 1 <INGRED id="2">petite</INGRED> <INGRED id="8">cuillère</INGRED> à <INGRED id="3">café de sel</INGRED> et le sachet de <INGRED id="1">levure</INGRED>. Former une <INGRED id="5">boule</INGRED> de <INGRED id="9">pâte</INGRED> et les <OPER id="o_4">reposer</OPER> 30 minutes. Une fois le temps écoulé, <OPER id="o_5">malaxer</OPER> en tirant la <INGRED id="2">pâte</INGRED> et <INGRED id="12">laisser</INGRED> encore <OPER id="o_6">reposer</OPER> durant 30 minutes. Une fois le temps <OPER id="o_7">écouler</OPER> <OPER id="o_8">remalaxer</OPER> et <OPER id="o_9">étaler</OPER> la pâte en un disque. <OPER id="o_10">Préchauffer</OPER> le four à 200 ° C ( thermostat 6 - 7 ). Préparation pour la garniture : <OPER id="o_1111">mélanger</OPER> le <INGRED id="6">concentré de tomate</INGRED> avec de l'eau pour en <INGRED id="10">faire</INGRED> un sauce pas trop épaisse. <OPER id="o_12">Chauffer</OPER> la sauce dans une casserole et y <OPER id="o_13">mettre</OPER> les <INGRED id="5">champignons</INGRED>, le basilic haché et un <INGRED id="4">filet d'huile d'olive</INGRED>. <OPER id="o_14">Couper</OPER> le <INGRED id="2">morceau de</INGRED> <INGRED id="5">gorgonzola</INGRED> en <INGRED id="4">dés</INGRED>. <OPER id="o_15">Etaler</OPER> la <INGRED id="6">sauce</INGRED> sur la <INGRED id="5">pâte</INGRED> ( plus ou moins cela dépend si la <INGRED id="7">pâte</INGRED> est trop humide ), y <OPER id="o_16">mettre</OPER> les <INGRED id="4">tranches</INGRED> de jambon de <INGRED id="9">Parme</INGRED> et les <INGRED id="1">morceaux</INGRED> de <INGRED id="5">gorgonzola</INGRED>. Pour le décor, <OPER id="o_17">épluchez</OPER> la tomate en grosses pelures et avec, former une tomate au centre de la pizza. <OPER id="o_18">Enfourner</OPER> pour 15 minutes de cuisson. <OPER id="o_19">Ajouter</OPER> les <INGRED id="4">feuilles</INGRED> de <INGRED id="7">roquette</INGRED> sur le dessus avant de servir bien chaud.
+  </annotation>
+  <annotation methode="crf">
+  Préparation de la <INGRED>pâte</INGRED> <INGRED>:</INGRED> dans une assiette <INGRED>,</INGRED> mettre la <INGRED>farine</INGRED> <INGRED>,</INGRED> faire un puits et y verser l'<INGRED>eau</INGRED> tiède. Incorporer 1 petite cuillère à <INGRED>café</INGRED> de <INGRED>sel</INGRED> et le sachet de <INGRED>levure</INGRED> <INGRED>.</INGRED> Former une boule de <INGRED>pâte</INGRED> et les reposer 30 minutes. Une fois le temps écoulé <INGRED>,</INGRED> malaxer en tirant la <INGRED>pâte</INGRED> et laisser encore reposer durant 30 minutes. Une fois le temps écouler remalaxer et étaler la <INGRED>pâte</INGRED> en un disque. Préchauffer le four à 200 ° C ( thermostat 6 - 7 ). Préparation pour la garniture <INGRED>:</INGRED> mélanger le <INGRED>concentré de tomate</INGRED> avec de l'<INGRED>eau</INGRED> pour en faire un <INGRED>sauce</INGRED> pas trop épaisse <INGRED>.</INGRED> Chauffer la <INGRED>sauce</INGRED> dans une casserole et y mettre les <INGRED>champignons</INGRED> <INGRED>,</INGRED> le <INGRED>basilic haché</INGRED> et un <INGRED>filet</INGRED> d'<INGRED>huile d'olive</INGRED> <INGRED>.</INGRED> Couper le <INGRED>morceau</INGRED> de <INGRED>gorgonzola</INGRED> en dés <INGRED>.</INGRED> Etaler la <INGRED>sauce</INGRED> sur la <INGRED>pâte</INGRED> ( plus <INGRED>ou</INGRED> moins cela dépend si la <INGRED>pâte</INGRED> est trop humide ) <INGRED>,</INGRED> y mettre les tranches de <INGRED>jambon</INGRED> de Parme et les <INGRED>morceaux</INGRED> de <INGRED>gorgonzola</INGRED> <INGRED>.</INGRED> Pour le décor <INGRED>,</INGRED> épluchez la <INGRED>tomate</INGRED> en grosses pelures et avec <INGRED>,</INGRED> former une <INGRED>tomate</INGRED> au centre de la pizza. Enfourner pour 15 minutes de cuisson. Ajouter les feuilles de roquette sur le dessus avant de servir bien chaud <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 11.2*X + 9.8</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 8*X + 16</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['farine']	 id:1	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['eau tiède', 'eau']	 id:2	 quantité:200	 unité:cl d'	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:3	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['levure à pain', 'levure']	 id:4	 quantité:1	 unité:sachet de	 denombrable:True	 recipient:1*X
+ingredient:['gorgonzola']	 id:5	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['concentré de tomate', 'concentré']	 id:6	 quantité:1	 unité:boîte de	 denombrable:True	 recipient:1*X
+ingredient:['roquette']	 id:7	 quantité:non_precis	 unité:feuilles de	 denombrable:False	 recipient:1
+ingredient:['tomate']	 id:8	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['Parme']	 id:9	 quantité:4	 unité:tranches jambon de	 denombrable:True	 recipient:4*X
+ingredient:['champignon']	 id:10	 quantité:1	 unité:boîte de	 denombrable:True	 recipient:1*X
+ingredient:['basilic frais', 'basilic']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["huile d'olive", 'huile']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mettre	 id:o_1	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:verser	 id:o_2	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_3	 ingrédients_ralatifs:['2', '8', '3', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:malaxer	 id:o_5	 ingrédients_ralatifs:['2', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:écouler	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remalaxer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étaler	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préchauffer	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:mélanger	 id:o_11	 ingrédients_ralatifs:['6', '10']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:chauffer	 id:o_12	 ingrédients_ralatifs:['5', '4']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:mettre	 id:o_13	 ingrédients_ralatifs:['5', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:couper	 id:o_14	 ingrédients_ralatifs:['2', '5', '4']	 nombre_opération_atomique:1+1+1*X	 temps:1*X*1+1*X*1+1*X*1	 recipient:1
+operation:etaler	 id:o_15	 ingrédients_ralatifs:['6', '5', '7']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mettre	 id:o_16	 ingrédients_ralatifs:['6', '5', '7', '4', '9', '1', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:éplucher	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:enfourner	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_19	 ingrédients_ralatifs:['4', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

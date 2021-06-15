@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19937">
+  <titre>Estouffade d'endives au lard et aux légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g d'endives</p>
+    <p>10 tranches de poitrine fumée</p>
+    <p>1 carotte</p>
+    <p>1 gros oignon</p>
+    <p>1 petit bouquet garni</p>
+    <p>25 g de beurre</p>
+    <p>25 cl de bouillon de pot-au-feu</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer les endives, leur couper le bout amer, puis les mettre à blanchir dans l'eau bouillante salée pendant 5 minutes. Les égoutter, les rincer, puis les essuyer.
+    Laver, peler et émincer la carotte et l'oignon ; découper la poitrine fumée en lardons. Faire revenir tous ces ingrédients dans une sauteuse avec le beurre. Laisser suer le mélange sur feu moyen sans coloration et ajouter le petit bouquet garni pour parfumer.
+    Déposer les endives par-dessus le tout en les serrant les unes contre les autres.
+    Couvrir de bouillon à hauteur puis laisser cuire à couvert pendant 30 minutes.
+  ]]>
+  </preparation>
+</recette>

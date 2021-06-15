@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16447">
+  <titre>Tarte aux 2 citrons  (vert et jaune)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>350 g de pâte brisée </p>
+    <p>50 g de farine </p>
+    <p>4 oeufs</p>
+    <p>80 g de beurre (+ 15 g pour le moule)</p>
+    <p>50 g de sucre semoule</p>
+    <p>2 cuillères à soupe de sucre glace</p>
+    <p>2 citrons verts</p>
+    <p>2 citrons jaunes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à thermostat 6 (180°C).
+    Râpez un citons jaune et un citron vert, puis prélever le zeste des 2 citrons. Versez les 2 jus dans une casserole.
+    Ajoutez les oeufs entiers, le sucre et le beurre en petits morceaux. Mettez la casserole sur feu très doux.
+    Fouettez continuellement jusqu'à obtenir une crème de citrons assez épaisse. Laissez refroidir.
+    Dans un moule beurré, étalez la pâte, posez un disque de papier aluminium sur le fond, puis remplissez de légumes sec. Faites cuire pendant 20 mn.
+    Débarrassez le fond de tarte du papier et des légumes secs. Etalez la crème de citrons, poudrez de sucre glace et placez quelques minutes sous le gril du four pour faire caraméliser.
+    Décorez la tarte avec les 2 derniers citrons finement tranchés.
+    Servez tiède ou froid.
+  ]]>
+  </preparation>
+</recette>

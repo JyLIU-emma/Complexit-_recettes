@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25992">
+  <titre>Cuisses de grenouilles panées</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>40 cuisses de grenouilles</p>
+    <p>farine</p>
+    <p>oeufs</p>
+    <p>chapelure</p>
+    <p>ail et persil séché</p>
+    <p>sel poivre</p>
+    <p>huile et beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Saler et poivrer les cuisses. 
+    Les fariner et les passer dans l'oeuf battu. 
+    Ensuite mélanger la chapelure avec l'ail et le persil. 
+    Passer les cuisses dans ce mélange. 
+    Les faire cuire dans une sauteuse avec le beurre et l'huile pendant environ 5 mn de chaque côté.
+  ]]>
+  </preparation>
+</recette>

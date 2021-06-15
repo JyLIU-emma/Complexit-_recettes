@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18591">
+  <titre>Boeuf des mariniers</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 kg de macreuse de bœuf</p>
+    <p>4 à 5 gros oignons</p>
+    <p>150 g d'anchois</p>
+    <p>100 g de beurre</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>1 petit bouquet de persil</p>
+    <p>2 gousses d'ail</p>
+    <p>3 cuillères soupe d'huile d'olive</p>
+    <p>1 cuillère à soupe de vinaigre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Demandez à votre boucher de découper la viande en fines escalopes. 
+    Epluchez les oignons et coupez les ensuite en très fines rondelles. 
+    Dans une cocotte en terre ou en fonte légèrement huilée, disposez, en les alternant, plusieurs couches d'oignons en rondelles et de viande. Terminez par un lit de rondelles d'oignons. Salez et poivrez entre chaque couche. 
+    Préparez un beurre manié en mélangeant intimement le beurre ramolli et la farine. Parsemez la surface de la préparation de petites noisettes de beurre manié. 
+    Couvrez la cocotte et faites cuire à feu doux pendant 30 mn environ. 
+    Entre temps hachez finement le persil, l'ail et les anchois. Mélangez-les au vinaigre et à l'huile d'olive. 
+    Au bout de 30 mn de cuisson, versez cette pâte d'anchois dans la cocotte. 
+    Couvrez et laissez cuire à nouveau pendant 1h30. 
+    Servez avec des pommes de terre sautées.
+  ]]>
+  </preparation>
+</recette>

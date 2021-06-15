@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25925">
+  <titre>Pâtes à la crème de poireaux</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de pâtes</p>
+    <p>3 poireaux</p>
+    <p>60 g de beurre</p>
+    <p>15 cl de vin blanc</p>
+    <p>5 cl de crème fraîche</p>
+    <p>1 échalote</p>
+    <p>ciboulette hachée</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez et émincez les poireaux en rondelles.
+    Faites-les fondre à feu doux dans 40 g de beurre avec l'échalote hachée.
+    Mouillez avec le vin, salez et poivrez.
+    Laissez suer 20 min environ, puis ajoutez la crème fraîche et la ciboulette.
+    Pendant ce temps, faites cuire les pâtes à l'eau bouillante salée al dente.
+    Egouttez-les, mélangez-les avec le reste de beurre puis versez la sauce aux poireaux. Mélangez et servez.Vous pouvez également ajouter du curry dnas la fondue de poireaux.
+  ]]>
+  </preparation>
+</recette>

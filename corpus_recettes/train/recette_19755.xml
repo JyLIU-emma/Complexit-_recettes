@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19755">
+  <titre>Compote de bananes à la cannelle</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 bananes</p>
+    <p>1/2 citron</p>
+    <p>cannelle</p>
+    <p>2 cuillères à soupe sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un plat adapté à la cuisson micro-onde : 
+    Coupez les bananes en fines lamelles, pressez le jus d'un demi citron, parsemez de 2 cuillères à soupe de sucre, et ajoutez la cannelle. 
+    Cuire environ 5 mn au micro-onde, puis servir encore tiède. 
+    PS : assaisonner selon votre goût. 
+    Bon appétit.
+  ]]>
+  </preparation>
+</recette>

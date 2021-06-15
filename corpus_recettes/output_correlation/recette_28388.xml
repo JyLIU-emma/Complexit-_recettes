@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28388">
+  <titre>Danish pastries</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>500 g de farine</p>
+    <p>1/2 cuillère à café de sel</p>
+    <p>375 g de beurre</p>
+    <p>7 g de levure</p>
+    <p>60 g de sucre en poudre</p>
+    <p>150 ml de lait tiède</p>
+    <p>2 oeufs battus</p>
+    <p>1 oeuf battu pour le glaçage</p>
+    <p>Pour la garniture :</p>
+    <p>250 g de pâte d'amande blanche</p>
+    <p>2 abricots coupés en 2 </p>
+    <p>2 cuillères à café d'eau</p>
+    <p>125 g de sucre glace</p>
+    <p>60 g d'amandes effilées</p>
+    <p>4 cerises confites</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger farine, sel et 60 g de beurre dans un saladier. Remuer avec la levure et le sucre. Faire un puits au milieu. Ajouter le lait tiède et les oeufs et mélanger le tout. Pétrir la pâte pendant 10 mn, en faire une boule et la laisser reposer dans un saladier beurré pendant 1 h00 (le temps que la pâte double de volume). Couvrir avec un chiffon et mettre dans un endroit chaud. 
+    Etaler la pâte sur le plan de travail fariné. Y ajouter les 2/3 restant du beurre. Pétrir et étaler la pâte. Ajouter le beurre restant et mettre au frais pendant 15 mn. Pétrir encore et mettre à nouveau au frais 15 mn. 
+    Diviser la pâte en 4 morceaux égaux. 
+    Faire les pâtisseries : 
+    1er morceau de pâte pour les 4 croissants : étendre la pâte en un cercle d'environ 23 cm de diamètre et découper ce cercle en 4 . Placer un rouleau de pâte d'amande dans la partie la plus large de chaque part et enrouler. Courber pour donner la forme d'un croissant. 
+    2ème morceau de pâte pour les 4 feuilletés abricots : étendre la pâte en un carré d'environ 20 cm de diamètre. Le découper en 4 carrés égaux. Pour chaque carré, placer un rond de pâte d'amande au centre du carré et une moitié d'abricot par-dessus. Replier 2 bords opposés sous l'abricot. 
+    3ème morceau de pâte pour les 4 feuilletés amande : étendre la pâte en un carré d'environ 20 cm de diamètre. Le découper en 4 carrés égaux. Pour chaque carré, couper la pâte à 1 cm du bord, en prenant soin de ne pas joindre les coupures pour 2 bords opposés. Placer un rond de pâte d'amande au centre du carré. Décoller les 2 bords coupés et venir les coller sur les bords opposés (bord extérieur à venir coller sur le bord intérieur opposé). 
+    -4ème morceau de pâte pour les rosaces : étendre la pâte en un carré d'environ 20 cm de diamètre. Le découper en 4 carrés égaux. Pour chaque carré, placer un rond de pâte d'amande au centre du carré. Entailler les 4 pointes quasiment jusqu'à atteindre la pâte d'amande. Pour 1 pointe de pâte sur 2 , venir coller la pointe sur la pâte d'amande. Placer une cerise confite au centre, au dessus des 4 pointes regroupées. 
+    Faire lever la pâte au chaud pendant 20 mn. Dorer avec 1 oeuf battu et faire cuire dans le four préchauffé à 220°C pendant 15 mn jusqu'à ce que la pâte soit dorée. 
+    Mélanger l'eau et le sucre glace, et en disperser sur chaque pâtisserie quand elles sont encore chaudes. Décorer avec des amandes effilées et des cerises confites. Mettre au frais et enfin, dégustez ces bonnes pâtisseries feuilletées !
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Mélanger</OPER> <INGRED id="12">farine</INGRED>, <INGRED id="5">sel</INGRED> et 60 <INGRED id="2">g</INGRED> de <INGRED id="12">beurre</INGRED> dans un <INGRED id="1">saladier</INGRED>. <OPER id="o_2">Remuer</OPER> avec la <INGRED id="4">levure</INGRED> et le <INGRED id="13">sucre</INGRED>. Faire un puits au milieu. <OPER id="o_3">Ajouter</OPER> le lait tiède et les <INGRED id="4">oeufs</INGRED> et <OPER id="o_4">mélanger</OPER> le tout. <OPER id="o_5">Pétrir</OPER> la <INGRED id="9">pâte</INGRED> pendant 10 mn, en <INGRED id="4">faire</INGRED> une <INGRED id="5">boule</INGRED> et la <INGRED id="12">laisser</INGRED> <OPER id="o_6">reposer</OPER> dans un <INGRED id="1">saladier</INGRED> beurré pendant 1 h00 ( le temps que la <INGRED id="9">pâte</INGRED> double de volume ). <OPER id="o_7">Couvrir</OPER> avec un chiffon et <OPER id="o_8">mettre</OPER> dans un endroit chaud. <OPER id="o_9">Etaler</OPER> la <INGRED id="2">pâte</INGRED> sur le plan de travail fariné. Y <OPER id="o_10">ajouter</OPER> les 2/3 restant du <INGRED id="12">beurre</INGRED>. <OPER id="o_11">Pétrir</OPER> et <OPER id="o_12">étaler</OPER> la <INGRED id="2">pâte</INGRED>. <OPER id="o_13">Ajouter</OPER> le <INGRED id="7">beurre</INGRED> restant et <OPER id="o_14">mettre</OPER> au frais pendant 15 mn. <OPER id="o_15">Pétrir</OPER> encore et <OPER id="o_16">mettre</OPER> à nouveau au frais 15 mn. <OPER id="o_17">Diviser</OPER> la <INGRED id="9">pâte</INGRED> en 4 <INGRED id="1">morceaux</INGRED> égaux. Faire les pâtisseries : 1er <INGRED id="2">morceau de</INGRED> <INGRED id="2">pâte</INGRED> pour les 4 croissants : <OPER id="o_18">étendre</OPER> la pâte en un cercle d'<INGRED id="1">environ</INGRED> 23 cm de <INGRED id="10">diamètre</INGRED> et <OPER id="o_19">découper</OPER> ce cercle en 4. <OPER id="o_20">Placer</OPER> un <INGRED id="2">rouleau</INGRED> de pâte d'amande dans la partie la plus large de chaque part et <OPER id="o_21">enrouler</OPER>. <OPER id="o_22">Courber</OPER> pour donner la forme d'un croissant. 2ème <INGRED id="2">morceau de</INGRED> <INGRED id="7">pâte</INGRED> pour les 4 feuilletés <INGRED id="10">abricots</INGRED> : <OPER id="o_23">étendre</OPER> la <INGRED id="9">pâte</INGRED> en un <INGRED id="1">carré</INGRED> d'<INGRED id="1">environ</INGRED> 20 cm de <INGRED id="10">diamètre</INGRED>. Le <OPER id="o_24">découper</OPER> en 4 <INGRED id="2">carrés</INGRED> égaux. Pour chaque <INGRED id="1">carré</INGRED>, <OPER id="o_25">placer</OPER> un rond de <INGRED id="2">pâte</INGRED> d'amande au centre du <INGRED id="1">carré</INGRED> et une moitié d'abricot par - dessus. <OPER id="o_26">Replier</OPER> 2 bords opposés sous l'abricot. 3ème <INGRED id="2">morceau de</INGRED> <INGRED id="7">pâte</INGRED> pour les 4 feuilletés amande : <OPER id="o_27">étendre</OPER> la <INGRED id="5">pâte</INGRED> en un <INGRED id="1">carré</INGRED> d'<INGRED id="1">environ</INGRED> 20 cm de <INGRED id="10">diamètre</INGRED>. Le <OPER id="o_28">découper</OPER> en 4 <INGRED id="2">carrés</INGRED> égaux. Pour chaque <INGRED id="1">carré</INGRED>, <OPER id="o_29">couper</OPER> la <INGRED id="7">pâte</INGRED> à 1 cm du bord, en prenant soin de ne pas <OPER id="o_30">joindre</OPER> les coupures pour 2 bords opposés. <OPER id="o_31">Placer</OPER> un rond de <INGRED id="7">pâte</INGRED> d'amande au centre du <INGRED id="1">carré</INGRED>. <OPER id="o_32">Décoller</OPER> les 2 bords <INGRED id="11">coupés</INGRED> et <OPER id="o_33">venir</OPER> les <OPER id="o_34">coller</OPER> sur les bords opposés ( bord extérieur à <OPER id="o_35">venir</OPER> <OPER id="o_36">coller</OPER> sur le bord intérieur opposé ). -4ème <INGRED id="2">morceau de</INGRED> <INGRED id="5">pâte</INGRED> pour les rosaces : <OPER id="o_37">étendre</OPER> la <INGRED id="5">pâte</INGRED> en un <INGRED id="1">carré</INGRED> d'<INGRED id="1">environ</INGRED> 20 cm de <INGRED id="10">diamètre</INGRED>. Le <OPER id="o_38">découper</OPER> en 4 <INGRED id="6">carrés</INGRED> égaux. Pour chaque <INGRED id="1">carré</INGRED>, <OPER id="o_39">placer</OPER> un rond de <INGRED id="5">pâte</INGRED> d'amande au centre du <INGRED id="1">carré</INGRED>. <OPER id="o_40">Entailler</OPER> les 4 pointes quasiment jusqu'à <OPER id="o_41">atteindre</OPER> la <INGRED id="2">pâte</INGRED> d'amande. Pour 1 pointe de <INGRED id="5">pâte</INGRED> sur 2, <OPER id="o_42">venir</OPER> <OPER id="o_43">coller</OPER> la pointe sur la <INGRED id="7">pâte</INGRED> d'amande. <OPER id="o_44">Placer</OPER> une cerise confite au centre, au dessus des 4 pointes regroupées. Faire <OPER id="o_45">lever</OPER> la <INGRED id="2">pâte</INGRED> au chaud pendant 20 mn. <OPER id="o_46">Dorer</OPER> avec 1 <INGRED id="8">oeuf battu</INGRED> et <INGRED id="10">faire</INGRED> <OPER id="o_47">cuire</OPER> dans le four préchauffé à 220 ° C pendant 15 mn jusqu'à ce que la <INGRED id="7">pâte</INGRED> soit dorée. <OPER id="o_48">Mélanger</OPER> l'eau et le <INGRED id="7">sucre glace</INGRED>, et en <OPER id="o_49">disperser</OPER> sur chaque pâtisserie quand elles sont encore chaudes. <OPER id="o_50">Décorer</OPER> avec des <INGRED id="5">amandes effilées</INGRED> et des <INGRED id="14">cerises confites</INGRED>. <OPER id="o_51">Mettre</OPER> au frais et enfin, dégustez ces bonnes pâtisseries feuilletées !
+  </annotation>
+  <annotation methode="crf">
+  Mélanger <INGRED>farine</INGRED> <INGRED>,</INGRED> <INGRED>sel</INGRED> et 60 <INGRED>g</INGRED> de <INGRED>beurre</INGRED> dans un saladier <INGRED>.</INGRED> Remuer avec la <INGRED>levure</INGRED> et le <INGRED>sucre</INGRED>. Faire un puits au milieu <INGRED>.</INGRED> Ajouter le <INGRED>lait</INGRED> tiède et les <INGRED>oeufs</INGRED> et mélanger le tout <INGRED>.</INGRED> Pétrir la <INGRED>pâte</INGRED> pendant 10 mn <INGRED>,</INGRED> en faire une <INGRED>boule</INGRED> et la laisser reposer dans un saladier beurré pendant 1 h00 ( le temps que la <INGRED>pâte</INGRED> double de <INGRED>volume</INGRED> ). Couvrir avec un chiffon et mettre dans un endroit chaud <INGRED>.</INGRED> Etaler la <INGRED>pâte</INGRED> sur le plan de travail fariné. Y ajouter les 2/3 restant du <INGRED>beurre</INGRED> <INGRED>.</INGRED> Pétrir et étaler la <INGRED>pâte</INGRED> <INGRED>.</INGRED> Ajouter le <INGRED>beurre</INGRED> restant et mettre au <INGRED>frais</INGRED> pendant 15 mn <INGRED>.</INGRED> Pétrir encore et mettre à nouveau au <INGRED>frais</INGRED> 15 mn <INGRED>.</INGRED> Diviser la <INGRED>pâte</INGRED> en 4 <INGRED>morceaux</INGRED> égaux. Faire les pâtisseries <INGRED>:</INGRED> 1er <INGRED>morceau</INGRED> de <INGRED>pâte</INGRED> pour les 4 croissants <INGRED>:</INGRED> étendre la <INGRED>pâte</INGRED> en un cercle d'<INGRED>environ</INGRED> 23 <INGRED>cm de diamètre</INGRED> et découper ce cercle en 4. Placer un <INGRED>rouleau</INGRED> de <INGRED>pâte d'amande</INGRED> dans la partie la plus large de chaque part et enrouler <INGRED>.</INGRED> Courber pour donner la forme d'un croissant. 2ème <INGRED>morceau</INGRED> de <INGRED>pâte</INGRED> pour les 4 feuilletés abricots <INGRED>:</INGRED> étendre la <INGRED>pâte</INGRED> en un <INGRED>carré</INGRED> d'<INGRED>environ</INGRED> 20 <INGRED>cm</INGRED> de diamètre. Le découper en 4 <INGRED>carrés</INGRED> égaux. Pour chaque <INGRED>carré</INGRED> <INGRED>,</INGRED> placer un rond de <INGRED>pâte d'amande</INGRED> au centre du <INGRED>carré</INGRED> et une moitié d'abricot par - dessus. Replier 2 bords opposés sous l'abricot. 3ème <INGRED>morceau</INGRED> de <INGRED>pâte</INGRED> pour les 4 feuilletés amande <INGRED>:</INGRED> étendre la <INGRED>pâte</INGRED> en un <INGRED>carré</INGRED> d'<INGRED>environ</INGRED> 20 <INGRED>cm</INGRED> de diamètre. Le découper en 4 <INGRED>carrés</INGRED> égaux. Pour chaque <INGRED>carré</INGRED> <INGRED>,</INGRED> couper la <INGRED>pâte</INGRED> à 1 <INGRED>cm</INGRED> du bord <INGRED>,</INGRED> en prenant soin de ne pas joindre les coupures pour 2 bords opposés <INGRED>.</INGRED> Placer un rond de <INGRED>pâte d'amande</INGRED> au centre du <INGRED>carré</INGRED> <INGRED>.</INGRED> Décoller les 2 bords coupés et venir les coller sur les bords opposés ( bord extérieur à venir coller sur le bord intérieur opposé ). -4ème <INGRED>morceau</INGRED> de <INGRED>pâte</INGRED> pour les rosaces <INGRED>:</INGRED> étendre la <INGRED>pâte</INGRED> en un <INGRED>carré</INGRED> d'<INGRED>environ</INGRED> 20 <INGRED>cm</INGRED> de diamètre. Le découper en 4 <INGRED>carrés</INGRED> égaux. Pour chaque <INGRED>carré</INGRED> <INGRED>,</INGRED> placer un rond de <INGRED>pâte d'amande</INGRED> au centre du <INGRED>carré</INGRED> <INGRED>.</INGRED> Entailler les 4 pointes quasiment jusqu'à atteindre la <INGRED>pâte d'amande</INGRED> <INGRED>.</INGRED> Pour 1 pointe de <INGRED>pâte</INGRED> sur 2 <INGRED>,</INGRED> venir coller la pointe sur la <INGRED>pâte d'amande</INGRED> <INGRED>.</INGRED> Placer une cerise confite au centre <INGRED>,</INGRED> au dessus des 4 pointes regroupées <INGRED>.</INGRED> Faire lever la <INGRED>pâte</INGRED> au chaud pendant 20 mn <INGRED>.</INGRED> Dorer avec 1 <INGRED>oeuf</INGRED> battu et faire cuire dans le four préchauffé à 220 ° C pendant 15 mn jusqu'à ce que la <INGRED>pâte</INGRED> soit dorée <INGRED>.</INGRED> Mélanger l'<INGRED>eau</INGRED> et le <INGRED>sucre glace</INGRED> <INGRED>,</INGRED> et en disperser sur chaque pâtisserie quand elles sont encore chaudes. Décorer avec des <INGRED>amandes effilées</INGRED> et des <INGRED>cerises</INGRED> confites <INGRED>.</INGRED> Mettre au <INGRED>frais</INGRED> et enfin <INGRED>,</INGRED> dégustez ces bonnes pâtisseries feuilletées !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 54.301775147929*X + 2.69822485207101</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 161*X + 23</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['farine']	 id:1	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:2	 quantité:1/2	 unité:cuillère à café de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:3	 quantité:375	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['levure']	 id:4	 quantité:7	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre en poudre', 'sucre']	 id:5	 quantité:60	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['ml de lait tiède', 'ml']	 id:6	 quantité:150	 unité:non_precis	 denombrable:True	 recipient:150*X
+ingredient:['oeufs battus', 'oeufs']	 id:7	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['oeuf battu', 'oeuf']	 id:8	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:["pâte d'amande blanche", 'pâte']	 id:9	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['abricots coupés en 2', 'abricots']	 id:10	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['eau']	 id:11	 quantité:2	 unité:cuillères à café d'	 denombrable:True	 recipient:2*X
+ingredient:['sucre glace', 'sucre']	 id:12	 quantité:125	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['amandes effilées', 'amandes']	 id:13	 quantité:60	 unité:g d'	 denombrable:False	 recipient:1
+ingredient:['cerises confites', 'cerises']	 id:14	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mélanger	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:remuer	 id:o_2	 ingrédients_ralatifs:['4', '13']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_3	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:pétrir	 id:o_5	 ingrédients_ralatifs:['9', '4', '5', '12', '1', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_6	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:couvrir	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:etaler	 id:o_9	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:pétrir	 id:o_11	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étaler	 id:o_12	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_13	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:pétrir	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:diviser	 id:o_17	 ingrédients_ralatifs:['9', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étendre	 id:o_18	 ingrédients_ralatifs:['1', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:découper	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:placer	 id:o_20	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enrouler	 id:o_21	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:courber	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étendre	 id:o_23	 ingrédients_ralatifs:['9', '1', '1', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:découper	 id:o_24	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1*X	 temps:1*X*1	 recipient:1
+operation:placer	 id:o_25	 ingrédients_ralatifs:['1', '2', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:replier	 id:o_26	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étendre	 id:o_27	 ingrédients_ralatifs:['5', '1', '1', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:découper	 id:o_28	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1*X	 temps:1*X*1	 recipient:1
+operation:couper	 id:o_29	 ingrédients_ralatifs:['1', '7']	 nombre_opération_atomique:1+2*X	 temps:1*X*1+2*X*1	 recipient:1
+operation:joindre	 id:o_30	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_31	 ingrédients_ralatifs:['7', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:décoller	 id:o_32	 ingrédients_ralatifs:['11', '2', '5', '5', '1', '1', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:venir	 id:o_33	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:coller	 id:o_34	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:venir	 id:o_35	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:coller	 id:o_36	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étendre	 id:o_37	 ingrédients_ralatifs:['5', '1', '1', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:découper	 id:o_38	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:150*X*1	 recipient:1
+operation:placer	 id:o_39	 ingrédients_ralatifs:['1', '5', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:entailler	 id:o_40	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:atteindre	 id:o_41	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:venir	 id:o_42	 ingrédients_ralatifs:['5', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:coller	 id:o_43	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_44	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:lever	 id:o_45	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dorer	 id:o_46	 ingrédients_ralatifs:['8', '10', '7']	 nombre_opération_atomique:1*X+2*X+2*X	 temps:1*X*1+2*X*1+2*X*1	 recipient:0
+operation:cuire	 id:o_47	 ingrédients_ralatifs:['10', '7']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:mélanger	 id:o_48	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:disperser	 id:o_49	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:décorer	 id:o_50	 ingrédients_ralatifs:['5', '14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_51	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12003">
+  <titre>Soupe a la banane</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 bananes </p>
+    <p>476 g de tomates pelées</p>
+    <p>2 cubes bouillon de volaille</p>
+    <p>farine</p>
+    <p>beurre</p>
+    <p>1 litre d'eau</p>
+    <p>sel (un peu)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire un roux avec du beurre et de la farine.
+    Ajouter les tomates, les bananes coupées en rondelles, les bouillons cubes, le sel, l'eau.
+    Cuire 30 mn en auto-cuiseur. Mixer.
+    Les enfants adorent...
+    Les parents aussi...
+  ]]>
+  </preparation>
+</recette>

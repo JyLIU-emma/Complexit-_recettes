@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10717">
+  <titre>Soleil d'Hawaii</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 jaunes d'oeufs</p>
+    <p>340 g d'ananas </p>
+    <p>100 g de sucre</p>
+    <p>1 cuillère à soupe de fécule</p>
+    <p>3 dl de crème fouettée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Battre les 4 jaunes d'oeufs
+    Ajouter le jus d'ananas
+    Ajouter le sucre
+    Ajouter la fécule
+    Porter à ébullition le tout
+    Laisser refroidir
+    Ajouter la crème fouettée
+    Couper les ananas en dés
+    Mélanger le tout
+    Servir fraisPeut se préparer la veille et se garder au frais.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24896">
+  <titre>Tarte potiron et noix de coco</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte sablée</p>
+    <p>400 g de citrouille cuite réduite en purée</p>
+    <p>200 g de crème fraîche épaisse</p>
+    <p>100 g de sucre roux</p>
+    <p>3 oeufs</p>
+    <p>3 bonnes pincées de cannelle</p>
+    <p>10 cl de jus d'orange</p>
+    <p>50 g de coco râpée</p>
+    <p>1 zeste d'orange</p>
+    <p>100 g de raisins secs</p>
+    <p>1 cuillère à soupe de rhum</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez tous les ingrédients de la garniture. Répartissez la garniture sur la tarte. 
+    Faites cuire 45 mn à 200°C. Servez tiède ou froid.
+  ]]>
+  </preparation>
+</recette>

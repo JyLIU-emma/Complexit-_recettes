@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22361">
+  <titre>Magret de canard épicé à l'orange</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 magret de canard</p>
+    <p>jus d'une orange</p>
+    <p>1 cuillère à café de miel</p>
+    <p>1 brique de lait de coco</p>
+    <p>Pour la marinade :</p>
+    <p>1 gousse d'ail</p>
+    <p>1 cuillère à café de gingembre</p>
+    <p>1 cuillère à soupe de sauce au soja</p>
+    <p>harissa</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparation de la marinade :
+    Mettre la viande à mariner quelques heures et retourner de temps en temps. 
+    Cuisson :
+    Dans une poêle très chaude, côté gras faire cuire 2 à 3 mn, puis retourner et laisser cuire à feu moins fort 5 mn environ. 
+    Mettre le magret sur une assiette et retirer l'excès de graisse. 
+    Mettre la marinade dans la poêle, ainsi que le jus d'orange, le miel et éventuellement le lait de coco. Faire mijoter 5 mn à feu doux. 
+    Couper le magret en tranches et remettre dans la poêle. 
+    Servir simplement avec du riz basmati.
+  ]]>
+  </preparation>
+</recette>

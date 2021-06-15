@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15950">
+  <titre>Cari de poulet</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poulet en morceaux ou des des morceaux de poulet (cuisse, blanc, pignon)</p>
+    <p>3 gousses d'ail</p>
+    <p>1 gros oignon</p>
+    <p>1 morceau de gingembre</p>
+    <p>sel et poivre</p>
+    <p>1 poivron</p>
+    <p>thym, curcuma</p>
+    <p>un peu d'huile d'olive</p>
+    <p>1 tomate(facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire frire dans un peu d'huile les morceaux de poulet (ils doivent être bien dorés).
+    Faire revenir l'ail écrasé, l'oignon haché fin et le gingembre écrasé. C'est à ce moment qu'il faut ajouter la tomate émincée (facultatif). Ajouter le curcuma ainsi que 25 cl d'eau.
+    Faire mijoter le mélange avec les morceaux de poulet, ajouter une branche de thym frais, saler, couvrir et laisser cuire encore 20mn.
+    Ce plat ce déguste avec du riz blanc. St Joseph rouge
+  ]]>
+  </preparation>
+</recette>

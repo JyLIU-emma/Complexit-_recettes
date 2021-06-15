@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="3247">
+  <titre>Carré à l'orange et à la cannelle</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 Carrés Frais</p>
+    <p>1 orange</p>
+    <p>2 cuillères à café de miel</p>
+    <p>une pointe de couteau de cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Disposer 2 Carrés Frais dans une assiette.
+    Ajouter la moité du jus d'1 orange, 1 cuillère de miel, et un peu de cannelle.
+    Un dessert bien frais et équilibré... Bon appétit!
+  ]]>
+  </preparation>
+</recette>

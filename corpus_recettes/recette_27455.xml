@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27455">
+  <titre>Salade de chou-fleur au crabe</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 poignées de salade</p>
+    <p>1 boîte de miettes de crabe</p>
+    <p>200 g de champignons frais</p>
+    <p>2 oeufs durs</p>
+    <p>1/2 chou-fleur</p>
+    <p>1 échalote</p>
+    <p>2 brins d'estragon</p>
+    <p>1 cuillère à café de moutarde</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>1 cuillère à soupe de vinaigre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler le chou-fleur en petits bouquets et émincer les champignons.
+    Couper les oeufs en quartiers et émietter le crabe.
+    Mélanger délicatement les légumes avec les oeufs et le crabe.
+    Emulsionner l'huile avec la moutarde, le vinaigre, l'échalote et l'estragon haché, du sel et du poivre.
+    En arroser la salade et servir.
+  ]]>
+  </preparation>
+</recette>

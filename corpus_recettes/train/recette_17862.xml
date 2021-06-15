@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17862">
+  <titre>Entrecôtes marinées</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 belles entrecôtes</p>
+    <p>1 tomate bien mûre</p>
+    <p>1 gros oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>1 cuillère à soupe de poivre vert</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>2 verres de vin rouge</p>
+    <p>1 cuillère à soupe de Cognac</p>
+    <p>1 branche de thym</p>
+    <p>1 petite feuille de laurier</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez et émincez l'oignon et l'ail. 
+    Coupez la tomate en quatre. Mettez tous les ingrédients dans un mixer et réduisez en purée. 
+    Posez les entrecôtes dans un plat et couvrez avec la marinade. Fermez avec un papier alu et laissez le plat au frigo pendant 24 h. 
+    Epongez les entrecôtes et faites cuire à feu vif dans une poêle, sans aucune matière grasse. Salez à ce moment-là.
+    Ce plat s'accompagne de grosses frites, d'une sauce béarnaise et d'une salade mixte. Le vin ayant servi à la marinade
+  ]]>
+  </preparation>
+</recette>

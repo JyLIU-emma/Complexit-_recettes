@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15793">
+  <titre>Poulet au citron</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poulet entier</p>
+    <p>4 échalotes</p>
+    <p>50 cl de crème fraîche</p>
+    <p>10 cl de vin blanc </p>
+    <p>20 cl d'eau </p>
+    <p>1 citron</p>
+    <p>1 cuillère à soupe de farine de froment</p>
+    <p>sel, poivre</p>
+    <p>beurre demi-sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Commencer par découper le poulet (il est evidemment possible de n'acheter que des blancs...), émincer les échalotes.
+    Dans une marmite, faire revenir les morceaux de poulet dans le beurre à feux moyen. Quand ils sont colorés, ajouter les échalotes.
+    Au bout de 2 mn, ajouter la farine, le vin et l'eau.Mélanger le tout pour obtenir une sauce homogène, couvrir et laisser cuire 30 mn.
+    Ajouter le jus de citron et la crème fraîche, mélanger et laisser mijoter 10 mn. Servir accompagné de riz ou de pâtes fraîches.
+  ]]>
+  </preparation>
+</recette>

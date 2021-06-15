@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24637">
+  <titre>Spaghetti aux crevettes et à la menthe</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de crevettes décortiquées et cuites assez grosses</p>
+    <p>200 g de pois gourmand</p>
+    <p>500 g de spaghetti</p>
+    <p>3 cuillères à soupe de menthe ciselée fraîche</p>
+    <p>20 cl de crème fraîche liquide</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>ail</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les spaghetti 'al dente'. 
+    Faire revenir l'ail et les pois dans l'huile d'olive. 
+    Ajouter les crevettes, puis la crème fraîche et l'assaisonnement. Laisser cuire 3 mn puis ajouter les pâtes bien chaudes. 
+    Servir aussitôt.
+    Délicieux, facile et joli.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22435">
+  <titre>Beignets de gougères au fromage</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>35 cl d'eau</p>
+    <p>75 g de beurre</p>
+    <p>225 g de farine</p>
+    <p>225 g de gruyère râpé</p>
+    <p>6 oeufs</p>
+    <p>sel</p>
+    <p>1 à 2 pincée(s) de poivre de Cayenne</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer une friteuse à 120°C (thermostat 4).
+    Dans une casserole, porter à ébullition l'eau, le beurre et le sel. Incorporer la farine d'un seul coup et remuer rigoureusement jusqu'à ce que la pâte n'adhère plus.
+    Hors du feu, ajouter les oeufs un à un, puis le gruyère et le poivre.
+    A l'aide d'une grande cuillère, former des boulettes avec la pâte et les frire dans la friteuse. Lorsqu'elles commencent à gonfler, augmenter progressivement la température jusqu'à 175°C (thermostat 5-6).
+    Egoutter et servir avec une salade.
+  ]]>
+  </preparation>
+</recette>

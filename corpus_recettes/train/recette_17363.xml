@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17363">
+  <titre>Lasagnes au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 litre de lait</p>
+    <p>300 g de chocolat</p>
+    <p>150 g de sucre</p>
+    <p>40 g de maïzena</p>
+    <p>4 oeufs</p>
+    <p>400 g de pâte à lasagnes précuites</p>
+    <p>Pour la crème:</p>
+    <p>1 verre de crème fraîche</p>
+    <p>1 oeuf</p>
+    <p>1 cuillère à soupe de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir le lait.
+    Dans une terrine, mélanger le sucre, la maïzena et les oeufs jusqu'à ce que le mélange blanchisse.
+    Verser le chocolat en morceau dans le lait bouillant, remuer jusqu'à ce soit bien fondu.
+    Verser sur le mélange sucre-oeuf en remuant vivement. Remettre dans la casserole et cuire jusqu'à épaississement.
+    Huiler un plat à four rectangulaire.
+    Mettre une couche de lasagnes en plaque, recouvrir de crème au chocolat (1 cm). 
+    Alterner pâte, crème pour terminer par une couche de pâte.
+    Mélanger les ingrédients de la crème: crème, sucre, oeuf et les verser sur la dernière couche de pâte.
+    Faire cuire 20 min environ à four th 6.
+    Faire refroidir et servir frais en fines tranches, nappé de crème anglaise.
+    Ce dessert se conserve 8 jours sans problème au réfrigérateur.
+  ]]>
+  </preparation>
+</recette>

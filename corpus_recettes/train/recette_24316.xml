@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24316">
+  <titre>Beignets de bananes épicés</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 bananes</p>
+    <p>100 g de farine</p>
+    <p>1 pincée de sel</p>
+    <p>2 oeufs</p>
+    <p>2 cuillerées à soupe d'huile</p>
+    <p>30 cl de lait</p>
+    <p>2 cuillerées à soupe de sucre</p>
+    <p>1 pincée de cannelle</p>
+    <p>1 pincée de vanille en poudre</p>
+    <p>3 cuillères à soupe de rhum</p>
+    <p>huile de friture</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez et coupez les bananes en 4 ou 5 tronçons. Déposez-les dans un saladier, saupoudrez de sucre semoule, ajoutez la cannelle, la vanille et le rhum. Laissez mariner 1 heure au moins.
+    Mélangez la farine, le sel, les deux jaunes d'oeufs, l'huile, le lait et une cuillère à café de rhum.
+    Laissez reposer la pâte une heure.
+    Battez les blancs en neige, incorporez-les à la pâte.
+    Egouttez les moorceaux de bananes, plongez-les dans la pâte, puis faites-les frire dans l'huile.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26062">
+  <titre>Pennes au poulet et aux lardons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de pennes</p>
+    <p>2 escalopes de poulet</p>
+    <p>150 g de lardons</p>
+    <p>1 boîte de champignons émincés</p>
+    <p>50 cl de crème fraîche semi-épaisse</p>
+    <p>150 g de parmesan</p>
+    <p>2 gros oignons</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les oignons et les lardons et réserver. 
+    Puis faire de même avec les escalopes de poulet (préalablement coupés en gros dés) et les champignons. 
+    Pendant ce temps faire cuire les pennes dans de l'eau salée (avec de l'huile pour éviter que les penne ne collent). 
+    Veiller à réchauffer la garniture (ensemble lardons + poulet)  vers la fin de cuisson des pennes. 
+    Dans un saladier, mélanger la crème fraîche avec le parmesan. 
+    Dès que les pennes sont cuites, versez-les sur la crème fraîche et ajoutez la garniture. 
+    Mélangez et consommez rapidement.
+    Ce sont les pâtes et la garniture qui cuisent la crème et le parmesan.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20846">
+  <titre>Gigot grillé mariné à l'huile arômatisée</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 tranches de gigot d'agneau</p>
+    <p>1 l d'huile d'olive</p>
+    <p>50 g de beurre ramolli</p>
+    <p>6 branches de thym</p>
+    <p>6 feuilles de laurier</p>
+    <p>4 gousses d'ail</p>
+    <p>2 échalotes</p>
+    <p>1 branche de romarin</p>
+    <p>2 cuillères à café de basilic haché</p>
+    <p>1 cuillère à café de poivre</p>
+    <p>huile aromatisée</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer l'huile 30 jours avant.
+    Dans un bocal, mettre l'huile d'olive, l'ail, les échalotes, le thym, le romarin, le laurier et le poivre.
+    Laisser macérer pendant 30 jours.
+    Le jour de la dégustation, ciseler les gousses d'ail et les incorporer au beurre. Ajouter le basilic et en badigeonner les tranches de gigot.
+    Recouvrir les tranches de gigot d'huile aromatisée et faire griller les tranches de gigot au barbecue.
+  ]]>
+  </preparation>
+</recette>

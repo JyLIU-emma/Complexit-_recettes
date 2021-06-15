@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13129">
+  <titre>Julienne en croûte d'amandes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>700 g de filets de julienne</p>
+    <p>100 g d'amandes effilées</p>
+    <p>2 cuillères à soupe de persil frais haché</p>
+    <p>50 g de beurre</p>
+    <p>2 cuillères à café de jus de citron</p>
+    <p>le zeste d'un citron finement râpé</p>
+    <p>sel, poivre</p>
+    <p>bouquets de persil pour décorer</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Disposer les filets sur le fond d'un plat rectangulaire.
+    Saler et poivrer les filets et recouvrir régulièrement des amandes effilées pour former la croûte.
+    Faire fondre le beurre à feu doux, y ajouter le zeste et le jus de citron et répandre régulièrement à la surface du plat.
+    Cuire à four chaud 190°C (thermostat 5) pendant 25 min. Il faut que les amandes soient légèrement brunies.
+    Servir dans le plat de cuisson décoré de persil.
+    Servir avec des pommes de terre sautées. Coteaux du Layon
+  ]]>
+  </preparation>
+</recette>

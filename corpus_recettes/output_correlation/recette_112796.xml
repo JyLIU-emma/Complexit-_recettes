@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="112796">
+  <titre>Paupiettes de canard au foie gras</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>4 magrets de canard moyen</p>
+    <p>200 g de foie gras en bloc (cuit)</p>
+    <p>1 verre (30 cl) de Beaume de Venise (ou porto blanc, à défaut)</p>
+    <p>bouquet garni</p>
+    <p>sel, poivre</p>
+    <p>Pour la sauce: une base de sauce hollandaise (voir recette sur Marmiton.org)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prévoir :
+    ficelle culinaireDétailler les magrets en fines escalopes (on en "coupe" 3 en moyenne par magret); conserver les peaux. Faire mariner 2-3 heures les escalopes dans le Beaume de Venise avec sel poivre et bouquet garni.
+    Poêler les peaux à feu vif et récolter régulièrement la graisse de canard (avant coloration). Vous disposerez ainsi de la matière grasse pour saisir vos paupiettes. Couper le bloc de foie gras en tranches puis en bâtonnets (Les trop petits morceaux seront incorporés dans la sauce hollandaise).Sortir les escalopes de la marinade que vous conservez. Enrouler chaque bâtonnet de foie gras d'une escalope marinée(éviter de tripler l'épaisseur pour une cuisson homogène). Fermer les extrémités de la paupiette en utilisant la ficelle culinaire (type "paquet cadeau").Rôtir les paupiettes dans la graisse de canard très chaude. Napper de la sauce hollandaise dans laquelle vous faites fondre le foie gras et vous incorporez la marinade. Monter cette sauce au beurre et rectifier l'assaisonnement (sel et poivre).Bon appétit. Un Cahors servi frais.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Prévoir</OPER> : ficelle <OPER id="o_2">culinaireDétailler</OPER> les <INGRED id="1">magrets</INGRED> en fines <INGRED id="4">escalopes</INGRED> ( on en " <INGRED id="2">coupe</INGRED> " 3 en moyenne par magret ) ; conserver les peaux. Faire <OPER id="o_3">mariner</OPER> 2 - 3 heures les <INGRED id="4">escalopes</INGRED> dans le <INGRED id="3">Beaume de Venise</INGRED> avec sel poivre et bouquet garni. <OPER id="o_4">Poêler</OPER> les peaux à feu vif et <OPER id="o_5">récolter</OPER> régulièrement la graisse de canard ( avant coloration ). Vous disposerez ainsi de la matière grasse pour saisir vos paupiettes. <OPER id="o_6">Couper</OPER> le bloc de <INGRED id="2">foie</INGRED> gras en <INGRED id="4">tranches</INGRED> puis en <INGRED id="6">bâtonnets</INGRED> ( Les trop <INGRED id="3">petits</INGRED> <INGRED id="1">morceaux</INGRED> seront incorporés dans la sauce <OPER id="o_7">hollandaise).Sortir</OPER> les <INGRED id="4">escalopes</INGRED> de la marinade que vous conservez. <OPER id="o_8">Enrouler</OPER> chaque bâtonnet de <INGRED id="2">foie</INGRED> gras d'une <INGRED id="1">escalope</INGRED> marinée(éviter de <OPER id="o_9">tripler</OPER> l'épaisseur pour une cuisson homogène ). <OPER id="o_10">Fermer</OPER> les extrémités de la paupiette en utilisant la ficelle culinaire ( type " paquet <OPER id="o_11">cadeau").Rôtir</OPER> les paupiettes dans la graisse de canard très chaude. <OPER id="o_12">Napper</OPER> de la <INGRED id="6">sauce</INGRED> hollandaise dans laquelle vous faites <OPER id="o_13">fondre</OPER> le <INGRED id="3">foie</INGRED> gras et vous incorporez la marinade. <OPER id="o_14">Monter</OPER> cette <INGRED id="5">sauce</INGRED> au <INGRED id="2">beurre</INGRED> et <OPER id="o_15">rectifier</OPER> l'assaisonnement ( sel et poivre).Bon appétit. Un Cahors servi frais.
+  </annotation>
+  <annotation methode="crf">
+  Prévoir <INGRED>:</INGRED> ficelle culinaireDétailler les magrets en fines escalopes ( on en " coupe " 3 en moyenne par <INGRED>magret</INGRED> ) ; conserver les peaux. Faire mariner 2 - 3 heures les <INGRED>escalopes</INGRED> dans le Beaume de Venise avec <INGRED>sel poivre</INGRED> et <INGRED>bouquet garni</INGRED> <INGRED>.</INGRED> Poêler les peaux à feu vif et récolter régulièrement la <INGRED>graisse de canard</INGRED> ( avant coloration ). Vous disposerez ainsi de la <INGRED>matière grasse</INGRED> pour saisir vos paupiettes <INGRED>.</INGRED> Couper le <INGRED>bloc</INGRED> de <INGRED>foie</INGRED> gras en tranches puis en bâtonnets ( Les trop <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> seront incorporés dans la <INGRED>sauce</INGRED> hollandaise).Sortir les <INGRED>escalopes</INGRED> de la marinade que vous conservez <INGRED>.</INGRED> Enrouler chaque bâtonnet de <INGRED>foie</INGRED> gras d'une escalope marinée(éviter de tripler l'épaisseur pour une cuisson homogène ). Fermer les extrémités de la paupiette en utilisant la ficelle culinaire ( type " paquet cadeau").Rôtir les paupiettes dans la <INGRED>graisse de canard</INGRED> très chaude <INGRED>.</INGRED> Napper de la <INGRED>sauce</INGRED> hollandaise dans laquelle vous faites fondre le <INGRED>foie</INGRED> gras et vous incorporez la marinade <INGRED>.</INGRED> Monter cette <INGRED>sauce</INGRED> au <INGRED>beurre</INGRED> et rectifier l'assaisonnement ( <INGRED>sel</INGRED> et poivre).Bon appétit. Un Cahors servi <INGRED>frais</INGRED> <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 12.2222222222222*X + 9.77777777777778</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 5*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['magrets de canard moyen', 'magrets']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['foie gras en bloc', 'foie']	 id:2	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['Beaume de Venise', 'Beaume']	 id:3	 quantité:1	 unité:verre  de	 denombrable:True	 recipient:1*X
+ingredient:['bouquet garni', 'bouquet']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:prévoir	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:culinairedétailler	 id:o_2	 ingrédients_ralatifs:['1', '4', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mariner	 id:o_3	 ingrédients_ralatifs:['4', '3']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:poêler	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:récolter	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_6	 ingrédients_ralatifs:['2', '4', '6', '3', '1']	 nombre_opération_atomique:1+1+1+1*X+4*X	 temps:1*X*1+1*X*1+1*X*1+1*X*1+4*X*1	 recipient:1
+operation:hollandaise).sortir	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enrouler	 id:o_8	 ingrédients_ralatifs:['2', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tripler	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fermer	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:cadeau").rôtir	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:napper	 id:o_12	 ingrédients_ralatifs:['6', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fondre	 id:o_13	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:monter	 id:o_14	 ingrédients_ralatifs:['5', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rectifier	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

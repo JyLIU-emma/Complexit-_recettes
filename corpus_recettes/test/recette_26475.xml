@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26475">
+  <titre>Moussaka aux 2 viandes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,5 kg d'aubergines</p>
+    <p>300 g de boeuf haché</p>
+    <p>300 g de viande d'agneau hachée</p>
+    <p>3 tomates</p>
+    <p>3 oignons</p>
+    <p>1 beau bouquet de persil</p>
+    <p>30 cl de bouillon de boeuf</p>
+    <p>huile d'olive</p>
+    <p>farine</p>
+    <p>muscade, cannelle</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les aubergines en longues tranches pas trop épaisses. Salez-les et laissez dégorger 1 h.
+    Hachez les oignons, pelez et coupez les tomate en cubes. Lavez, séchez et ciselez le persil.
+    Faites chauffer une sauteuse avec un peu d'huile, faites-y dorer les oignons. Ajoutez les tomates, la viande et le persil.
+    Salez, poivrez, saupoudrez d'une pointe de muscade et de cannelle.
+    Saupoudrez de farine et ajoutez la moitié du bouillon. Remuez et laissez mijoter 10 min à feu moyen.
+    Rincez et épongez les aubergines. Farinez-les et faites-les frire dans une poêle avec un fond d'huile. Egouttez sur du papier absorbant.
+    Préchauffez le four à 180°C (thermostat 6).
+    Dans un moule à gratin, alternez des couches d'aubergines et de viande, en terminant par les aubergines. Versez le reste du bouillon, saupoudrez d'un peu de cannelle.
+    Faites cuire 25 min au four.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164483">
+  <titre>Escargots à la normande</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>36 escargots décoquillés</p>
+    <p>2 échalotes hachées finement</p>
+    <p>20 cl de cidre brut</p>
+    <p>40 g de beurre</p>
+    <p>20 cl de crème liquide</p>
+    <p>1 gousse d'ail hachée</p>
+    <p>1 cuillère de persil plat</p>
+    <p>20 g de chapelure</p>
+    <p>sel, poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte, faites suer vos échalotes dans le beurre, puis ajouter les escargots, assaisonnez sel + poivre et laisser étuver 5 min
+    Aouter le cidre, faites réduire de moitié puis mettre la crème. Lorsque l'ensemble est de bonne consistance, mélangez avec l'ail + persil
+    Préchauffer votre four pour le grill
+    Versez dans un plat allant au four,  mettez la chapelure et passez en position grill pendant 5 min.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Dans une cocotte, faites <OPER id="o_1">suer</OPER> vos <INGRED id="6">échalotes</INGRED> dans le <INGRED id="2">beurre</INGRED>, puis <OPER id="o_2">ajouter</OPER> les <INGRED id="1">escargots</INGRED>, assaisonnez <INGRED id="6">sel</INGRED> + <INGRED id="9">poivre</INGRED> et laisser <OPER id="o_3">étuver</OPER> 5 min <OPER id="o_4">Aouter</OPER> le <INGRED id="3">cidre</INGRED>, faites réduire de moitié puis <OPER id="o_5">mettre</OPER> la crème. Lorsque l'ensemble est de bonne consistance, <OPER id="o_6">mélangez</OPER> avec l'<INGRED id="3">ail</INGRED> + persil <OPER id="o_7">Préchauffer</OPER> votre four pour le grill <OPER id="o_8">Versez</OPER> dans un plat allant au four, <OPER id="o_9">mettez</OPER> la <INGRED id="8">chapelure</INGRED> et passez en position grill pendant 5 min.
+  </annotation>
+  <annotation methode="crf">
+  Dans une cocotte <INGRED>,</INGRED> faites suer vos <INGRED>échalotes</INGRED> dans le <INGRED>beurre</INGRED> <INGRED>,</INGRED> puis ajouter les escargots, assaisonnez <INGRED>sel</INGRED> + <INGRED>poivre</INGRED> et laisser étuver 5 min Aouter le <INGRED>cidre</INGRED> <INGRED>,</INGRED> faites réduire de moitié puis mettre la <INGRED>crème</INGRED>. Lorsque l'ensemble est de bonne consistance <INGRED>,</INGRED> mélangez avec l'<INGRED>ail</INGRED> + <INGRED>persil</INGRED> Préchauffer votre four pour le grill Versez dans un plat allant au four <INGRED>,</INGRED> mettez la <INGRED>chapelure</INGRED> et passez en position grill pendant 5 min.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 7.82608695652174*X + 1.17391304347826</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 40*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['escargots décoquillés', 'escargots']	 id:1	 quantité:36	 unité:non_precis	 denombrable:True	 recipient:36*X
+ingredient:['échalotes hachées finement', 'échalotes']	 id:2	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['cidre brut', 'cidre']	 id:3	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:4	 quantité:40	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crème liquide', 'crème']	 id:5	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['ail hachée', 'ail']	 id:6	 quantité:1	 unité:gousse d'	 denombrable:True	 recipient:1*X
+ingredient:['persil plat', 'persil']	 id:7	 quantité:1	 unité:cuillère de	 denombrable:True	 recipient:1*X
+ingredient:['chapelure']	 id:8	 quantité:20	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre du moulin', 'poivre']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:suer	 id:o_1	 ingrédients_ralatifs:['6', '2', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étuver	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:aouter	 id:o_4	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mélanger	 id:o_6	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:préchauffer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:verser	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_9	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

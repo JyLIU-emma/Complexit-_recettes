@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19307">
+  <titre>Poulet au curry et pruneaux</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 cuisse de poulet fermier</p>
+    <p>8 échalotes</p>
+    <p>2 cuillères à soupe de curry en poudre</p>
+    <p>12 pruneaux</p>
+    <p>1 petite boîte de concentré de tomate</p>
+    <p>1 verre de vin blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Enlever la peau des cuisses et couper les en deux. 
+    Faire revenir les échalotes coupées dans une cocotte en fonte avec un peu de matière grasse (huile d'olive ou mélange beurre/huile). 
+    Les sortir lorsqu'elles ont blondi et faire revenir les morceaux de poulet (si nécessaire, jeter le surplus de gras). 
+    Saupoudrer le curry, bien remuer et laisser s'imprégner 2/3 mn. 
+    Rajouter les échalotes, le vin blanc, les pruneaux, le concentré de tomates et compléter avec de l'eau à hauteur des cuisses. Saler (pas besoin de poivre avec le curry). 
+    Laisser mijoter à feu doux 30 mn et réduire un peu la sauce pendant 10 mn environ. 
+    Servir avec du riz basmati.
+    Facile et délicat de parfum rouge frais
+  ]]>
+  </preparation>
+</recette>

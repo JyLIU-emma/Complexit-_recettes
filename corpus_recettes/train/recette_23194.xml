@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23194">
+  <titre>Salade de tomates poulet et gingembre</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 tomates</p>
+    <p>2 blancs de poulet</p>
+    <p>1 oignon rouge</p>
+    <p>1 bouquet de coriandre</p>
+    <p>1 cuillère à café de curry en poudre</p>
+    <p>3 cm de racine de gingembre</p>
+    <p>1 citron vert</p>
+    <p>6 cuillères à soupe d'huile d'olive</p>
+    <p>sel poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le poulet en petites lamelles. 
+    Saler et poivrer. Y ajouter le curry en poudre et 1 cuillère à soupe d'huile d'olive. Laisser mariner 30 mn.
+    Faire revenir 5 mn à feu vif dans une poêle. Laisser refroidir. 
+    Laver et couper en quartier les tomates. 
+    Couper l'oignon rouge en fines tranches. Râper le gingembre. 
+    Mélanger le tout dans un saladier. 
+    Saler poivrer, arroser du jus du citron vert ainsi que du reste d'huile d'olive. 
+    Ajouter la coriandre selon le goût. Mélanger. C'est prêt.
+  ]]>
+  </preparation>
+</recette>

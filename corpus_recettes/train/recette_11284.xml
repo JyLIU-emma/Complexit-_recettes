@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11284">
+  <titre>Dinde à la Patate douce</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 hauts de cuisses de dinde</p>
+    <p>5 tomates</p>
+    <p>1 gros oignon</p>
+    <p>5 gousses d'ail</p>
+    <p>1 pincée de safran</p>
+    <p>1 branche de thym</p>
+    <p>3 patates douces</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire frire la dinde dans une marmite, mettre les oignons émincés, l'ail écrasé, les tomates en morceaux, les patates douces coupées en tranches et le safran. Ajouter du sel et du thym.
+    Laisser mijoter et réduire.Plat originaire de l'île de la Réunion.
+  ]]>
+  </preparation>
+</recette>

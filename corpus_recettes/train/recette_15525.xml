@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15525">
+  <titre>Salade de choux</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de choux blanc </p>
+    <p>3 branches de céleri</p>
+    <p>4 pommes golden</p>
+    <p>ciboulette hachée</p>
+    <p>50 g noix de cajou</p>
+    <p>persil haché</p>
+    <p>230 g de mayonnaise</p>
+    <p>1 yaourt bio nature</p>
+    <p>sel, poivre</p>
+    <p>sauce soja (ou autre sauce au choix)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Émincer les pommes, couper le céleri en dés, ainsi que les pommes. Rajouter tous les autres ingrédients.
+    Ingrédients à moduler en fonction de ses goûts.
+    Excellent, même pour les personnes qui n'aiment pas le sucré-salé.
+  ]]>
+  </preparation>
+</recette>

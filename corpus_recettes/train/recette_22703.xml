@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22703">
+  <titre>Entrecôte aux anchois et aux olives vertes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 belles entrecôtes de 350 g environ (3 cm d'épaisseur)</p>
+    <p>200 g d'olives vertes</p>
+    <p>8 anchois au sel</p>
+    <p>75 g de beurre</p>
+    <p>poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Rincez les anchois sous l'eau et ôtez l'arête centrale.
+    Faites griller la viande au barbecue 2 à 4 minutes de chaque côté selon la cuisson désirée. A défaut d'avoir un barbecue faites cuire dans une poêle bien chaude avec un peu de matière grasse.
+    Faites revenir les anchois et les olives dans le beurre quelques minutes. Versez sur la viande. Poivrez à volonté.
+  ]]>
+  </preparation>
+</recette>

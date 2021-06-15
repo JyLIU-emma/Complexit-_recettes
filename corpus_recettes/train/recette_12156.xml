@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12156">
+  <titre>Moules au pastis</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 litres de moules</p>
+    <p>un verre de pastis</p>
+    <p>herbes de Provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Enlevez la barbe des moules. Jetez avec amour vos moules dans une grande poêle (au feu de bois, c'est encore mieux) sans matière grasse.
+    Régulièrement, enlevez le jus de cuisson que rendent les moules. Ajoutez les herbes de Provence. 
+    Chauffez le pastis et faites flambez le tout. C'est facile et délicieux !
+     Picpoul de Pinet
+  ]]>
+  </preparation>
+</recette>

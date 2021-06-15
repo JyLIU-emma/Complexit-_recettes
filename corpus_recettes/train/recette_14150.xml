@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14150">
+  <titre>Tarte  à l'ananas facile</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 cuillères à soupe de sucre</p>
+    <p>4 cuillères à soupe de farine</p>
+    <p>250ml de lait</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>2 cuillères a soupe de crème épaisse</p>
+    <p>4 oeufs bien battus</p>
+    <p>30 tranches d'ananas en boîte</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire préchauffer le four à feu très doux (100°C).
+    Mélangez le sucre et la farine, versez peu à peu les ingrédients liquides : lait, huile, crème et oeufs.
+    Recouvrez le fond du moule avec les tranches d'ananas, puis versez la préparation dessus.
+    Cuire 35 à 40 mn.
+    Vous pouvez servir avec une boule de glace vanille ou autre, selon les goûts de vos convives !
+  ]]>
+  </preparation>
+</recette>

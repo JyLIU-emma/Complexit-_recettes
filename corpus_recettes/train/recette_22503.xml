@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22503">
+  <titre>Penne à la sicilienne</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de penne</p>
+    <p>1 aubergine de petite taille</p>
+    <p>1/2 chorizo</p>
+    <p>50 g de pignons</p>
+    <p>1 oignon</p>
+    <p>herbes de Provence</p>
+    <p>200 g de feta</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper l'aubergine en petits carrés, le chorizo en rondelles, l'oignon en lamelles, les pignons.
+    Faire revenir dans l'huile d'olive, ajouter un peu d'herbes de Provence, laisser cuire à feu doux pendant que l'eau pour les pâtes chauffent. Cuire les pâtes 11 min, puis les égoutter. Ajouter le mélange aubergine chorizo aux pâte. Servir et ajouter la fêta à l'assiette.
+  ]]>
+  </preparation>
+</recette>

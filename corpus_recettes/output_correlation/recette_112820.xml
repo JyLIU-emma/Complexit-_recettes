@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="112820">
+  <titre>Dessert glacé chocolat vanille</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>40 cL de crème liquide</p>
+    <p>3 cuillers à soupe de mascarpone</p>
+    <p>4 cuillers de sucre glace</p>
+    <p>Extrait de vanille</p>
+    <p>75 gramme de chocolat noir</p>
+    <p>1 paquet de crêpes dentelle (gavottes)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour l'étage à la vanille:
+    	Battre 20 cL de crème fraiche avec 2 cuillers à soupe de sucre glace jusqu'à obtenir une crème chantilly.
+    	Ajouter 1 cuiller à soupe de mascarpone et l'extrait de vanille.
+    	Battre à nouveau pour homogénéiser.
+    	Verser dans le moule à cake tapissé de film alimentaire.
+    	Placer au congélateur.
+    Pour l'étage à la chocolat:
+    	Faire fondre au bain marie le chocolat avec 2 cuillers à soupe de mascarpone.
+    	Battre 20 cL de crème fraiche avec 2 cuillers à soupe de sucre glace jusqu'à obtenir une crème chantilly.
+    	Ajouter le chocolat fondu à la chantilly.
+    	Battre à nouveau pour homogénéiser.
+    	Recouvrer la couche de vanille de crêpe dentelle placer dans le sens de la longueur.
+    	Enfin ajouter la préparation chocolatée sur les crêpes dentelles.
+    	Placer la préparation 3 heures au congélateur.La bûche est meilleure lorsqu'elle est sortie quelques instants avant de la déguster.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Pour l'étage à la vanille : 	 <OPER id="o_1">Battre</OPER> 20 cL de <INGRED id="2">crème fraiche</INGRED> avec 2 cuillers à <INGRED id="5">soupe</INGRED> de sucre glace jusqu'à obtenir une crème chantilly. 	 <OPER id="o_2">Ajouter</OPER> 1 cuiller à <INGRED id="4">soupe</INGRED> de <INGRED id="1">mascarpone</INGRED> et l'extrait de <INGRED id="4">vanille</INGRED>. 	 <OPER id="o_3">Battre</OPER> à nouveau pour homogénéiser. 	 <OPER id="o_4">Verser</OPER> dans le moule à cake tapissé de film alimentaire. 	 <OPER id="o_5">Placer</OPER> au congélateur. Pour l'étage à la <INGRED id="1">chocolat</INGRED> : 	 Faire <OPER id="o_6">fondre</OPER> au bain marie le chocolat avec 2 cuillers à <INGRED id="5">soupe</INGRED> de <INGRED id="2">mascarpone</INGRED>. 	 <OPER id="o_7">Battre</OPER> 20 cL de <INGRED id="2">crème fraiche</INGRED> avec 2 cuillers à <INGRED id="4">soupe</INGRED> de sucre glace jusqu'à obtenir une crème chantilly. 	 <OPER id="o_8">Ajouter</OPER> le <INGRED id="4">chocolat</INGRED> fondu à la chantilly. 	 <OPER id="o_9">Battre</OPER> à nouveau pour homogénéiser. 	 <OPER id="o_10">Recouvrer</OPER> la couche de vanille de crêpe dentelle <OPER id="o_11">placer</OPER> dans le sens de la longueur. 	 Enfin <OPER id="o_12">ajouter</OPER> la préparation chocolatée sur les <INGRED id="6">crêpes</INGRED> dentelles. 	 <OPER id="o_13">Placer</OPER> la préparation 3 heures au congélateur. La <INGRED id="3">bûche</INGRED> est meilleure lorsqu'elle est sortie quelques instants avant de la déguster.
+  </annotation>
+  <annotation methode="crf">
+  Pour l'étage à la <INGRED>vanille</INGRED> <INGRED>:</INGRED> 	 Battre 20 cL de <INGRED>crème fraiche</INGRED> avec 2 cuillers à soupe de <INGRED>sucre glace</INGRED> jusqu'à obtenir une <INGRED>crème chantilly</INGRED>. 	 Ajouter 1 cuiller à soupe de <INGRED>mascarpone</INGRED> et l'<INGRED>extrait de vanille</INGRED> <INGRED>.</INGRED> 	 Battre à nouveau pour homogénéiser <INGRED>.</INGRED> 	 Verser dans le <INGRED>moule</INGRED> à cake tapissé de film alimentaire. 	 Placer au congélateur. Pour l'étage à la <INGRED>chocolat</INGRED> <INGRED>:</INGRED> 	 Faire fondre au bain marie le <INGRED>chocolat</INGRED> avec 2 cuillers à soupe de <INGRED>mascarpone</INGRED> <INGRED>.</INGRED> 	 Battre 20 cL de <INGRED>crème fraiche</INGRED> avec 2 cuillers à soupe de <INGRED>sucre glace</INGRED> jusqu'à obtenir une <INGRED>crème chantilly</INGRED>. 	 Ajouter le <INGRED>chocolat fondu</INGRED> à la chantilly. 	 Battre à nouveau pour homogénéiser <INGRED>.</INGRED> 	 Recouvrer la couche de <INGRED>vanille</INGRED> de crêpe dentelle placer dans le sens de la longueur <INGRED>.</INGRED> 	 Enfin ajouter la préparation chocolatée sur les crêpes dentelles. 	 Placer la préparation 3 heures au congélateur. La bûche est meilleure lorsqu'elle est sortie quelques instants avant de la déguster <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 12.48*X + 0.52</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 48*X + 3</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['crème liquide', 'crème']	 id:1	 quantité:40	 unité:cL de	 denombrable:True	 recipient:40*X
+ingredient:['mascarpone']	 id:2	 quantité:3	 unité:cuillers à soupe de	 denombrable:True	 recipient:3*X
+ingredient:['sucre glace', 'sucre']	 id:3	 quantité:4	 unité:cuillers de	 denombrable:True	 recipient:4*X
+ingredient:['Extrait de vanille', 'Extrait']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['chocolat noir', 'chocolat']	 id:5	 quantité:75	 unité:gramme de	 denombrable:False	 recipient:1
+ingredient:['crêpes dentelle', 'crêpes']	 id:6	 quantité:1	 unité:paquet de	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:battre	 id:o_1	 ingrédients_ralatifs:['2', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['4', '1', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fondre	 id:o_6	 ingrédients_ralatifs:['5', '2']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:battre	 id:o_7	 ingrédients_ralatifs:['2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recouvrer	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

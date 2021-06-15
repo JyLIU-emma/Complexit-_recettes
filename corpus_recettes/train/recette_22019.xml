@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22019">
+  <titre>Côtes de porc gratinées au vin blanc</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 côtes de porc</p>
+    <p>3 oignons</p>
+    <p>1 gousses d'ail </p>
+    <p>2 tranches de bacon</p>
+    <p>25 cl de vin blanc</p>
+    <p>1 bouquet garni</p>
+    <p>10 cl de crème fraîche</p>
+    <p>50 g de fromage râpé</p>
+    <p>10 g de beurre</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer les oignons et l'ail : les peler, les émincer et les faire suer doucement dans une poêle avec l'huile d'olive.
+    Lorsque les oignons sont translucides, ajouter le vin blanc, le bouquet garni et assaisonner au sel et au poivre. Arrêter le feu, verser dans un plat à gratin et laisser infuser.
+    Pendant ce temps, faire dorer les côtes de porcs dans le beurre. Les poser sur les oignons.
+    Etaler une 1/2 tranche de bacon sur chaque côte, déposer une couche crème fraîche, poivrer puis saupoudrer de fromage.
+    Mettre à cuire dans un four chaud pendant 20 min à 210° (thermostat 7).
+  ]]>
+  </preparation>
+</recette>

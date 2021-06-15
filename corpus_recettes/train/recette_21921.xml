@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21921">
+  <titre>Filets de cabillaud à la méridionale</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de filet de cabillaud</p>
+    <p>100 g de champignons en lamelles</p>
+    <p>100 g de crevettes décortiquées</p>
+    <p>coulis de tomates</p>
+    <p>huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Chauffer l'huile dans une poêle. 
+    Faire revenir les filets de cabillaud avec les champignons en lamelles et les crevettes. 
+    Ajouter un peu de coulis de tomates. 
+    Saler, poivrer selon votre goût. 
+    Laisser mijoter 10/12 mn en retournant de temps en temps
+    servir avec du riz ou du blé.Le cabillaud peut être remplacé par un autre poisson à chair blanche (colin par exemple)
+  ]]>
+  </preparation>
+</recette>

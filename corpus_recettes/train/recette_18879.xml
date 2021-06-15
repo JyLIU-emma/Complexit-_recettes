@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18879">
+  <titre>Profiterolles aux 2 foies gras</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de foie gras frais</p>
+    <p>200 g de foie gras mi cuit</p>
+    <p>200 g de pleurotes</p>
+    <p>1/4 de litre de fond brun clair</p>
+    <p>50 g de beurre</p>
+    <p>12 mini choux</p>
+    <p>sel, poivre</p>
+    <p>Cognac</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et émincer les pleurotes. 
+    Les faire sauter jusqu'à ce qu'elles perlent, les égoutter pour réserver le jus de cuisson. 
+    Garnir les mini choux de foie gras mi-cuit, en réserver un petit peu pour la sauce. Mettre au frais. 
+    Assaisonner le foie gras frais et ajouter une goutte de Cognac. 
+    Pôeler le foie gras 1 mn de chaque côté et le mettre au fond de l'assiette. 
+    Déglacer au Cognac, ajouter le 1/4 l de fond, le jus de champignon ainsi que le foie gras et laisser réduire. Monter au beurre puis joindre les pleurotes. 
+    Rajouter les profiterolles et napper de sauce les mini choux.
+  ]]>
+  </preparation>
+</recette>

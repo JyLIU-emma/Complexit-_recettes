@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15350">
+  <titre>Sauté de veau printanier</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 sautés de veau </p>
+    <p>2 tomates</p>
+    <p>2 tranches de jambon</p>
+    <p>1/2 concombre</p>
+    <p>2 tranches de gouda</p>
+    <p>1/4 l de crème</p>
+    <p>moutarde</p>
+    <p>poivre et sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir la viande dans la poêle. Lorsqu'elle est bien saisie, mettre les tranches dans un plat allant au four (garder le jus pour la suite de la préparation).
+    Sur chaque sauté, placer 1 morceau de jambon, 2 ou 3 rondelles de tomates, quelques rondelles de concombre et pour finir recouvrir d'une 1/2 tranche de gouda.
+    Dans la poêle, faire chauffer le jus de cuisson de viande en ajoutant 2 cuillères à café de moutarde et la crème. Salez et poivrez selon le goût.
+    Verser la sauce sur la préparation et mettre à gratiner 5 min. Accompagner de pâtes ou de riz.
+    Si vous désirez faire meilleur marché, remplacez les tranches de veau par des tranches de porc ou des filets de poulet.
+  ]]>
+  </preparation>
+</recette>

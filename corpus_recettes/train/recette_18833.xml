@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18833">
+  <titre>Panacotta</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 l de crème liquide lleurette allégée </p>
+    <p>300 ml de lait</p>
+    <p>150 g de sucre</p>
+    <p>8 feuilles de gélatine</p>
+    <p>coulis de fruits rouges</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    A préparer la veille.
+    Faire chauffer la crème, le lait, le sucre, en tournant toujours sur feu doux avec une spatule en bois. Incorporer les feuilles de gélatine. 
+    Quand le mélange commence à bouillir, arrêter le feu et laisser refroidir en tournant toujours pour ne pas qu'une peau se forme à la surface. 
+    Mettre au frais dans le plat de service où dans des ramequins. 
+    Server avec un coulis décongelé.
+    Ultra-rapide à faire avec un robot multifonctions qui cuit en même temps.
+  ]]>
+  </preparation>
+</recette>

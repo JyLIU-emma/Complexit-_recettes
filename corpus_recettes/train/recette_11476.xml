@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11476">
+  <titre>Gâteau au chocolat spécial micro-ondes</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de chocolat</p>
+    <p>200 g de sucre</p>
+    <p>200 g de beurre</p>
+    <p>100 g de farine</p>
+    <p>100 g de maïzena</p>
+    <p>6 oeufs</p>
+    <p>1 sachet de levure</p>
+    <p>2 à 4 cuillère à soupe de rhum</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier mettre le beurre et le chocolat, faire fondre au micro onde, mélanger puis ajouter le sucre, la maïzena, la farine, la levure, mélanger.
+    Ajouter les oeufs, mélanger, puis le rhum. Mélanger à nouveau.
+    Faire cuire au micro-ondes pendant 5 à 7 minutes puissance maximale.
+    Plonger la lame d'un couteau. Le gâteau doit être crémeux au milieu.  
+  ]]>
+  </preparation>
+</recette>

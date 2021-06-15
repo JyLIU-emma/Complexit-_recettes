@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21068">
+  <titre>Caramel liquide (se conserve sans durcir)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 cuillère à soupe de vinaigre</p>
+    <p>500 g de sucre en poudre</p>
+    <p>12,5 cl + 25 cl d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre le vinaigre + le sucre + 12,5 cl d'eau dans 1 casserole. 
+    Faire chauffer à feu vif environ 15 min. Quand le caramel blondit, baisser un peu le feu et ajouter très, très, très doucement 25 cl d'eau froide (attention aux éclaboussures). Refaire chauffer 1 min à feu vif.
+  ]]>
+  </preparation>
+</recette>

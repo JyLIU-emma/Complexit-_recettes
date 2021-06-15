@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11988">
+  <titre>Gratin à la tomate et aux saucisses à cuire</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>-1 kg de pomme de terre (cuites en robe des champs)</p>
+    <p>sel poivre muscade</p>
+    <p>4 tomates </p>
+    <p>1 oignon</p>
+    <p>3 saucisses à cuire</p>
+    <p>200 g de gruyère</p>
+    <p>1 brique de crème fraiche liquide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Beurrer un plat à gratin. Couper et émincer l'oignon. Le faire revenir dans une poele avec un peu de matière grasse. Couper les pommes de terre, les saucisses et les tomates en rondelles. Les superposer dans le plat avec les oignons. Arroser de creme et recouvrir de gruyère. Enfourner et laisser dorer à four moyen environ 30 mn.
+  ]]>
+  </preparation>
+</recette>

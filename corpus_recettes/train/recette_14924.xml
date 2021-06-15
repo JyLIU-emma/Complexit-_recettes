@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14924">
+  <titre>Rougail de saucissons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 saucisson sec</p>
+    <p>2 gros oignons émincés</p>
+    <p>10 gousses d'ail écrasées ou pilées</p>
+    <p>4 tomates olivettes</p>
+    <p>1 branche de thym</p>
+    <p>1 pincée de safran</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Enlever la membrane du saucisson et le couper en rondelles assez fines.
+    Dans une marmite légèrement huilée, faire revenir les tranches de saucisson jusqu'à ce qu'elles brunissent. Enlever de la marmite et réserver.
+    Si il y a peu trop d'huile, en jeter un peu. Remettre la marmite au feu. Faire dorer les oignons eminces et l'ail écrasé. Ajouter le thym et le safran, puis tourner.
+    Ajouter les tomates coupées, puis faire fondre à feu doux. Quand les épices sont bien fondues, y ajouter les tranches de saucisson.
+    Laisser mijoter 10 mn à feu doux en tournant de temps en temps.
+    Se mange avec du riz blanc.
+  ]]>
+  </preparation>
+</recette>

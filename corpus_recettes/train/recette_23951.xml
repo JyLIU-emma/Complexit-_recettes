@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23951">
+  <titre>Poulet à la crème et fricassée de girolles</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1 poulet</p>
+    <p>600 g de girolles</p>
+    <p>12 petits oignons</p>
+    <p>2 gousses d'ail</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>20 cl de crème fraîche</p>
+    <p>50 g de beurre</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites chauffer l'huile et le beurre dans une cocotte.
+    Faites-y revenir les petits oignons pelés.
+    Découpez le poulet en morceaux.
+    Retirez les oignons dorés de la cocotte et faites-y revenir les morceaux de poulet sur toutes leurs faces environ 15 min.
+    Salez, poivrez et saupoudrez de farine. Versez le vin blanc et remettez les petits oignons dans la cocotte. Couvrez et laissez mijoter 40 min à feu doux.
+    Pendant ce temps, nettoyez les girolles, égouttez-les et faites-les revenir à la poêle dans du beurre, 15 min à feu doux.
+    Une fois l'eau rendue et évaporée, salez, poivrez et saupoudrez d'ail hachés. Laissez rissoler quelques minutes.
+    Ajoutez la crème dans la cocotte du poulet et réchauffez quelques instants de manière à obtenir une sauce onctueuse.
+    Servez le poulet à la crème avec la fricassée de girolles, et éventuellement quelques pommes de terre Bintje cuites à la vapeur.
+  ]]>
+  </preparation>
+</recette>

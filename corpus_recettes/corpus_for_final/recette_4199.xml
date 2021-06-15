@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="4199">
+  <titre>Apéro marin</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 Carrés Frais Gervais grand format</p>
+    <p>1 yaourt "Perle de lait" (ou 1/2 yaourt à la grec)</p>
+    <p>1 boîte de sardines aux piments (très important!)</p>
+    <p>2 tranches de saumon fumé</p>
+    <p>aneth</p>
+    <p>1 jus de citron</p>
+    <p>du bon pain</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ouvrir la boîte de sardines. Enlever l'arrête centrale des sardines.
+    Enlever les piments, et conserver l'huile de la boîte.
+    Ecraser les sardines, et les ajouter aux Carrés Frais écrasé. 
+    Selon les goûts et selon la boîte (certaines boîtes sont très pimentées, et d'autres moins), ajouter l'huile contenue dans la boîte.
+    Bien mélanger.
+    Hacher le saumon et l'aneth, et les mélanger aux Carrés frais écrasés. Ajouter le jus de citron et le yaourt.
+    Déguster à l'apéritif, avec du bon pain.
+    Je le sers souvent avec de la tapenade et un bon guewurstraminer!
+  ]]>
+  </preparation>
+</recette>

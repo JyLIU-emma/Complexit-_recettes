@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24086">
+  <titre>Pigeons farcis et petits pois</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 pigeons</p>
+    <p>250 g de farce (hachis de porc)</p>
+    <p>500 g de petits pois frais écossés</p>
+    <p>2 oeufs</p>
+    <p>1 oignon</p>
+    <p>1 morceau de sucre</p>
+    <p>quelques feuilles de laitue</p>
+    <p>2 cuillères à soupe de persil</p>
+    <p>beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battez les oeufs en omelette avec sel, poivre et persil.
+    Mélangez-les avec la farce de porc.
+    Farcissez les pigeons avec et recousez-les.
+    Disposez-les dans un plat beurré allant au four.
+    Déposez un petit morceau de beurre sur chaque.
+    Salez-les et poivrez-les puis mettez au four à 220°C (thermostat 7-8) pour 1 h.
+    Hachez les oignons et la laitue. Faites-les fondre dans une sauteuse avec du beurre.
+    Ajoutez les petits pois, le morceau de sucre, sel et poivre. 
+    Mouillez avec 50 cl d'eau et laisser mijoter 20 min.
+    Egouttez les petits pois, disposez-les dans un plat.
+    Posez les pigeons dessus coupés en deux et servez.
+  ]]>
+  </preparation>
+</recette>

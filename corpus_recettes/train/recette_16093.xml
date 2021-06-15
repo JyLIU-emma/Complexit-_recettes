@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16093">
+  <titre>Pommes de terre farcies à la crème de champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 grosses pommes de terre farineuses</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>2 échalotes roses</p>
+    <p>150 g de champignons de Paris</p>
+    <p>persil ciselé</p>
+    <p>basilic ciselé</p>
+    <p>60 ml de crème fraîche (épaisse de préférence)</p>
+    <p>30 g de beurre</p>
+    <p>gruyère râpé</p>
+    <p>sel et poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210 °C pendant 10 minutes.
+    Envelopper les pommes de terre dans du papier aluminium et les piquer avec les dents d'une fourchette à plusieurs endroits.
+    Quand les pommes de terre sont cuites, trancher dans la longueur un guart supérieur puis les vider de leur pulpe et réserver dans un bol. Conserver les parties vides.
+    Dans une poêle, faire chauffer l'huile à feu moyen et y faire revenir les échalotes et les champignons finement hachées avec le persil pendant 6 mn. Bien assaisonner.
+    Baisser le gaz à feu doux et ajouter la moitié de la crème, prolonger la cuisson 2 minutes. Incorporer la pulpe des pommes de terre, le beurre et le retse de crème, assaisonner et mélanger.
+    Farcir les pommes de terre vides de la préparation et parsemer de fromage râpé et de basilic, puis faire gratiner au four 5 minutes. 
+    Servir aussitôt.
+    Rajouter selon son goût plus ou moins de persil. Servir deux pommes de terre par personne. vin rouge
+  ]]>
+  </preparation>
+</recette>

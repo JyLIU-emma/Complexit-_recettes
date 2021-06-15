@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23605">
+  <titre>Mozaïque au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de chocolat noir à dessert</p>
+    <p>125 g de beurre</p>
+    <p>150 g de sucre glace</p>
+    <p>1 oeuf</p>
+    <p>2 cuillères à soupe de rhum (ou de cointreau)</p>
+    <p>250 g de biscuits secs type sablés ou petits beurre</p>
+    <p>Pour l'orange confite :</p>
+    <p>1 orange</p>
+    <p>100 g de sucre cristallisé</p>
+    <p>125 ml d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper l'écorce de l'orange en lanières de 1 cm de large puis en petits dés d'1/2 cm.
+    Dans une poêle, faire fondre les dés d'écorce avec l'eau et le sucre. Ils doivent confire tout en restant tendres.
+    Faire fondre le chocolat 1 min au micro-ondes ou au bain marie puis ajouter le beurre et le sucre glace. Remuer pendant 1 min.
+    Ajouter l'oeuf, le rhum, les écorces confites et les sablés cassés en trois.
+    Disposer la préparation sur une feuille d'alu de 30 cm de long. 
+    Replier l'alu tout autour de la préparation pour lui donner la forme d'une bûche. Mettre au réfrigérateur sur une plaque pendant 6 heures.
+    Après avoir retiré l'alu, découper la bûche en tranches d'environ 1 cm d'épaisseur.
+    Variante (+ rapide) : remplacer les écorces d'orange confites par des raisins secs imbibés de cointreau. café
+  ]]>
+  </preparation>
+</recette>

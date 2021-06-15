@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24874">
+  <titre>Soupe de champignons</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 barquette de champignons de Paris </p>
+    <p>4 pommes de terres moyennes</p>
+    <p>1 oignon</p>
+    <p>4 gousses d'ail</p>
+    <p>sel, poivre</p>
+    <p>muscade</p>
+    <p>persil</p>
+    <p>1 Kub Or</p>
+    <p>crème liquide (environ 20 cl) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte, faire revenir dans un peu de beurre : les champignons, les pommes de terres, l'oignon émincé et l'ail émincé. 
+    Laisser revenir quelques minutes pour faire "suer" les champignons en remuant bien. 
+    Une fois le tout revenu, mettre un peu plus d'eau que le niveau de légumes et laisser frémir à feu doux en mélangeant de temps en temps. 
+    Ajouter sel, poivre, muscade et persil ainsi que le bouillon émietté. 
+    Une fois la soupe cuite, ajouter la crème mélanger et mixer la soupe. 
+    Servir chaud.
+    Une bonne soupe automnale que vous pouvez accompagner de croûtons de pain grillé.
+  ]]>
+  </preparation>
+</recette>

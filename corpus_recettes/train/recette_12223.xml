@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12223">
+  <titre>Vite fait aux fruits</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>10 cuillères à soupe de farine</p>
+    <p>8 cuillères à soupe de sucre</p>
+    <p>4 cuillères à soupe d'huile</p>
+    <p>2 verres de lait </p>
+    <p>3 oeufs (pour la pâte)</p>
+    <p>1 fruit (pomme, poire, pêche, banane.......)</p>
+    <p>1 oeuf</p>
+    <p>1 cuillère à soupe de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prendre 1 saladier, y mettre la farine, le sucre, les 3 oeufs, l'huile et le lait. Remuer le tout.
+    Mettre dans un plat à tarte beurré, ajouter le fruit en petits dés, puis faire cuire à four moyen.
+    Aux trois quarts de la cuisson, ajouter l'oeuf battu avec 4 cuillères de sucre.
+    Manger tiède ou froid.
+    Idéal pour un dessert avec les enfants en toute saison.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16599">
+  <titre>Scampis à l'aneth</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>+/- 30 scampis</p>
+    <p>25 cl de crème fraîche</p>
+    <p>2 oignons</p>
+    <p>aneth frais</p>
+    <p>15 cl de vin blanc</p>
+    <p>taglietelles ou riz (en accompagnement)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les oignons en petits dés. Les faire jaunir dans un peu d'huile d'olive.
+    Ajouter les scampis. Quand ils sont cuits, déglacer avec le vin blanc. Attendre qu'il soit réduit de moitié et ajouter la crème fraîche.
+    En dernière minute, ajouter l'aneth.
+    Servir directement avec l'accompagnement.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13980">
+  <titre>Cheesecake aux fruits rouges</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de biscuits (type LU) écrasés</p>
+    <p>100 g de sucre</p>
+    <p>150 g de beurre</p>
+    <p>10 petits suisses</p>
+    <p>1 cuillerée a café de sel</p>
+    <p>un jus de citron</p>
+    <p>6 oeufs</p>
+    <p>coulis de fruits rouges</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre au bain marie.
+    Mélanger biscuits et beurre fondu.
+    Tasser cette préparation dans le fond d'un petit moule et mettre au réfrigérateur.
+    Mélanger les oeufs aux petits suisses un par un.
+    Battre et ajouter jus de citron et sucre.
+    Attendre 2 heures.
+    Cuire à 180°C (thermostat 6) durant 1 heure.
+    Ajouter le coulis sur le tout et démouler.
+    Mettre au à nouveau au réfrigérateur.
+    Les puristes pourront ajouter au coulis de fruits rouges un cube de 'jelly.'
+  ]]>
+  </preparation>
+</recette>

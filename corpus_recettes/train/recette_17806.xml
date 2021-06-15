@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17806">
+  <titre>Sandwichs frais quand il fait chaud</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 pains à pita</p>
+    <p>melon, champignons de Paris</p>
+    <p>fromage blanc</p>
+    <p>4 tranches de jambon serrano</p>
+    <p>Pour les herbes : </p>
+    <p>ciboulette</p>
+    <p>persil...</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le melon en dés et émincer les champignons.
+    Ciseler les herbes.
+    Mélanger le tout avec du fromage blanc (40%, c'est meilleur!), ajouter du sel et du poivre.
+    Garnir les pains de la sauce, ajouter une tranche de jambon, et voilà!miammiam!c'est bon quand il fait  chaud comme en ce moment... rosé Côtes de Provence
+  ]]>
+  </preparation>
+</recette>

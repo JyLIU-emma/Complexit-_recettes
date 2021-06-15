@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20971">
+  <titre>Langue de veau à l'italienne</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 langue de veau</p>
+    <p>125 g de lardons</p>
+    <p>75 cl vin blanc sec</p>
+    <p>35 cl d’eau</p>
+    <p>50 g de carottes émincés + 6 carottes en rondelles</p>
+    <p>50 g d'oignons + 1 oignon émincé</p>
+    <p>1 bouquet garni</p>
+    <p>1 poivron rouge en lamelles</p>
+    <p>4 tomates</p>
+    <p>250 g de spaghetti</p>
+    <p>100 g de gruyère râpé</p>
+    <p>beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les langues à tremper une nuit dans un saladier rempli d’eau froide. Les brosser et les plonger 10 min dans une casserole d’eau  bouillante. Les égoutter et enlever la peau.
+    Dans une casserole, verser l’eau avec autant de vin blanc. Ajouter les 6 carottes, le bouquet garni, l'oignon et les langues. Laisser mijoter pendant 1 h 30.
+    Faire revenir les lardons, les oignons et les carottes émincés dans une cocotte avec du beurre. Déposer la viande sur cette préparation et arroser du reste de vin blanc et de 20 cl de bouillon. Assaisonner et laisser mijoter pendant 45 min.
+    Pendant ce temps, faire cuire les tomates arrosées d'huile 30 min au four à 180°C (thermostat 6).
+    Faire revenir les poivrons à la poêle dans un mélange beurre-huile jusqu'à ce qu'ils soient fondants.
+    Préparer les spaghettis comme à l’accoutumée et y incorporer les lamelles de poivrons et le gruyère râpé.
+    Faire réduire la sauce de cuisson des langues.
+    Disposer les pâtes aux poivrons dans un plat, poser les langues émicées par dessus et les tomtaes grillées.
+    Arroser avec le jus de cuisson réduit et servir.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26800">
+  <titre>Rôti de porc à la crème à la moutarde</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 rôti de porc d'environ 800 g</p>
+    <p>2 cuillerées à soupe de moutarde</p>
+    <p>1 oignon</p>
+    <p>20 cl de crème</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>50 g de beurre</p>
+    <p>1 cuillère à soupe de fines herbes</p>
+    <p>sel et du poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°.
+    Salez et poivrez le rôti, faites-le revenir dans du beurre à la cocotte.
+    Emincez l'oignon et tapissez le fond d'un plat allant au four. 
+    Y déposez le rôti de porc, arrosez-le de son jus de cuisson et de fines herbes. Enfournez le rôti pour 45 min.
+    Au bout de ce temps, sortez le rôti, vérifiez la cuisson et réservez la viande.
+    Dégraissez le jus de cuisson, déglacez le plat avec le vin blanc. Passez la sauce au chinois.
+    Délayez la moutarde dans le jus obtenu, remettre sur le feu et détendre avec de la crème.
+    Accompagnez de pommes de terre vapeur et de choux de Bruxelles.
+  ]]>
+  </preparation>
+</recette>

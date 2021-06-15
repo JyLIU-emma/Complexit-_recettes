@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20367">
+  <titre>Colombo de poulet (ou de porc)</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g de poulet</p>
+    <p>80 g d'oignons hachés</p>
+    <p>1 aubergine</p>
+    <p>250 g de haricots verts</p>
+    <p>1 mangue verte ou 2 tomates</p>
+    <p>2 gousses d’ail écrasées</p>
+    <p>sel, poivre</p>
+    <p>1 bouquet garni</p>
+    <p>2 cuillères à soupe de poudre de colombo</p>
+    <p>1 jus de citron vert</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir le poulet ou porc. 
+    Couper tomates, aubergine, ail, légumes en cubes. 
+    Faire dorer la viande puis les oignons et l’ail, puis les légumes. 
+    Retirer le poulet. 
+    Ajouter de l’eau chaude mélanger et recouvrir. 
+    Ajouter sel, poivre, bouquet garni. 
+    Cuire doucement pendant 1 heure. 
+    En fin de cuisson, ajouter le colombo. 
+    Laisser mijoter 5 à 10 mn. 
+    Arroser avec le jus de citron.
+    Servir avec du riz.
+  ]]>
+  </preparation>
+</recette>

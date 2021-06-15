@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25011">
+  <titre>Brandade de thon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de pommes de terre</p>
+    <p>250 g de thon à l'huile d'olive</p>
+    <p>25 à 30 cl de lait tiède</p>
+    <p>3 gousse d'ail</p>
+    <p>1 cuillère à soupe de persil haché</p>
+    <p>12 olives noires</p>
+    <p>chapelure</p>
+    <p>30 g de beurre</p>
+    <p>sel, poivre</p>
+    <p>muscade râpée</p>
+    <p>une pointe de couteau de harissa</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pommes de terre (pelées et coupées en quartiers) dans de l'eau bouillante salée pendant 15-20 mn. 
+    Pendant ce temps, hacher le thon grossièrement (penser à récupérer l'huile d'olive de la boîte) avec l'ail écrasé, le persil et les olives préalablement hachées. Poivrer. 
+    Faire une purée avec les pommes de terre cuites, le lait tiède, une cuiller à soupe d'huile d'olive (on peut pour un gain de temps utiliser de la purée en sachet), le sel et la muscade. 
+    Mélanger la purée et la préparation de thon, rajouter du sel si besoin et l'harissa. 
+    Mettre la brandade dans un plat en terre, recouvrir de chapelure et de petites noisettes de beurre. 
+    Faire gratiner pendant 15-20 mn au four.
+    On peut accompagner le plat d'une salade verte (mâche par exemple).
+  ]]>
+  </preparation>
+</recette>

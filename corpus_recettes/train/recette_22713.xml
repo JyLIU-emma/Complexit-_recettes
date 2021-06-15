@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22713">
+  <titre>Curry de dinde au lait de coco</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 escalopes de dinde</p>
+    <p>1 oignon</p>
+    <p>20 cl lait de coco</p>
+    <p>1 cuillère à soupe de curry indien</p>
+    <p>1 cuillère à café de gingembre</p>
+    <p>20 cl de bouillon de volaille</p>
+    <p>sel, poivre</p>
+    <p>piment de cayenne</p>
+    <p>1 tete d'ail, huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer la dinde, les oignons et l'ail. Les faire revenir dans l'huile. Ajouter le curry + le gingembre, le lait de coco + le bouillon. Laisser mijoter 25 mn. 
+    5 mn avant la fin saler, poivrer, pimenter à votre convenance.
+     tavel
+  ]]>
+  </preparation>
+</recette>

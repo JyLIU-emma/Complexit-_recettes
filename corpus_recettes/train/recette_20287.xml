@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20287">
+  <titre>Salade d'artichauts à la crème de cresson</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 fonds d'artichauts cuits</p>
+    <p>4 oeufs</p>
+    <p>1 citron</p>
+    <p>2 tomates</p>
+    <p>sel, poivre du moulin</p>
+    <p>Pour la crème de cresson :</p>
+    <p>200 g de fromage blanc</p>
+    <p>2 jaunes d'oeufs durs</p>
+    <p>1 cuillère à soupe de moutarde</p>
+    <p>100 g de feuilles de cresson ou autre salade corsée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire et écaler les oeufs durs, peler et épépiner les tomates, couper le tout en quartiers. Emincer les fonds d'artichauts en fines lamelles. Les citronner.
+    Pour faire la sauce : mixer le cresson avec le fromage blanc et la moutarde. Ajouter les jaunes d'oeufs durs grossièrement émiettés et assaisonner de sel et de poivre.
+    Disposer les oeufs, les lamelles d'artichauts et les tomates sur un plat de service. Napper de la sauce au cresson.
+  ]]>
+  </preparation>
+</recette>

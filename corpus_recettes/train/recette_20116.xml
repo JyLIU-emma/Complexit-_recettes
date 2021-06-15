@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20116">
+  <titre>Mousse au biscuit</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boîte de lait condensé sucré</p>
+    <p>60 cl de crème fraîche</p>
+    <p>1/2 paquet de biscuits type 'petits beurres'</p>
+    <p>50 g de chocolat noir râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre la crème fraîche. Passer les biscuits à la moulinette et les ajouter. Ajouter le lait condensé sucré et bien mélanger. Parsemer de chocolat noir râpé et mettre au congélateur (pour que la mousse prenne rapidement) puis au frigo pour qu'elle soit plus onctueuse. 
+    En été, on peut remplacer les biscuits par une grande boîte de pulpe de mangue et un tiers de la crème fraîche par du yaourt nature. 
+    C'est plus frais et moins calorique.
+  ]]>
+  </preparation>
+</recette>

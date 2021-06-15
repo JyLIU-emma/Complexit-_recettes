@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164489">
+  <titre>Crumble de thon mariné</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 boites de thon</p>
+    <p>1 paquet de tuc </p>
+    <p>1 citron</p>
+    <p>huile d'olive</p>
+    <p>persil</p>
+    <p>ciboulette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    écrasé les tucs en miettes
+    emietter le thon , puis le faire mariné avec l'huile la ciboulette le persil et le filet d'huile d'olive et le citron pendant 3 h au frigo 
+    ensuite dans 4 petis ramequins , déposé le thon mariné au fond , et finir avec les tucs émiettés par dessus Blanc moelleux.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  écrasé les tucs en miettes <OPER id="o_1">emietter</OPER> le thon, puis le faire mariné avec l'huile la <INGRED id="6">ciboulette</INGRED> le <INGRED id="5">persil</INGRED> et le filet d'huile d'olive et le citron pendant 3 h au frigo ensuite dans 4 petis ramequins, déposé le thon mariné au fond, et <OPER id="o_2">finir</OPER> avec les tucs émiettés par dessus Blanc moelleux.
+  </annotation>
+  <annotation methode="crf">
+  écrasé les tucs en miettes emietter le <INGRED>thon</INGRED> <INGRED>,</INGRED> puis le faire mariné avec l'<INGRED>huile</INGRED> la <INGRED>ciboulette</INGRED> le <INGRED>persil</INGRED> et le <INGRED>filet</INGRED> d'<INGRED>huile d'olive</INGRED> et le <INGRED>citron</INGRED> pendant 3 <INGRED>h</INGRED> au frigo ensuite dans 4 petis ramequins <INGRED>,</INGRED> déposé le <INGRED>thon</INGRED> mariné au <INGRED>fond</INGRED> <INGRED>,</INGRED> et finir avec les tucs émiettés par dessus Blanc moelleux.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 1.14285714285714*X + 0.857142857142857</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 4*X + 3</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['boites de thon', 'boites']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['tuc']	 id:2	 quantité:1	 unité:paquet de	 denombrable:True	 recipient:1*X
+ingredient:['citron']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:["huile d'olive", 'huile']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['persil']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['ciboulette']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:emietter	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:finir	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

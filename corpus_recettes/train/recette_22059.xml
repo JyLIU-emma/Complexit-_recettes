@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22059">
+  <titre>Crème dessert aux pommes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 pommes acidulées</p>
+    <p>160 g de sucre en poudre</p>
+    <p>25 cl de lait</p>
+    <p>1 cuillère à soupe de Maïzena</p>
+    <p>1 sachet de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les pommes pelées, épépinées et coupées en quartiers avec 10 cl d'eau. Laisser compoter.
+    Ajouter 100 g de sucre et battre la compote pour qu'elle soit bien homogène.
+    Mettre le lait froid et la Maïzena dans un bocal, secouer énergiquement puis verser dans une casserole.
+    Porter à ébullition en fouettant sans arrêt, retirer du feu dès l'ébullition.
+    Verser le reste du sucre et le sucre vanillé et mélanger.
+    Mélanger cette préparation à la compote de pommes.
+    Répartir dans 6 coupes et réserver au frais.
+  ]]>
+  </preparation>
+</recette>

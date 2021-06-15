@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26128">
+  <titre>Quiche colorée</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>1 boîte de thon</p>
+    <p>2 tomates</p>
+    <p>1 courgette</p>
+    <p>1 chèvre en rouleau</p>
+    <p>3 oeufs</p>
+    <p>20 cl de crème liquide</p>
+    <p>un peu de lait (1/2 verre) </p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les oeufs le sel le poivre la crème liquide et le lait. 
+    Poser la pâte brisée dans un plat à tarte et y disposer le thon, la courgette, les tomates et le chèvre coupés en rondelles fines. 
+    Y verser la préparation et enfourner à 180-200°C pendant une vingtaine de minutes.
+    Simple et succulent.
+  ]]>
+  </preparation>
+</recette>

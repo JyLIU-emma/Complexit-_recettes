@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18060">
+  <titre>Framboisines</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 feuilles de gélatines</p>
+    <p>50 g de sucre</p>
+    <p>1 citron</p>
+    <p>200 g de fromage blanc</p>
+    <p>2 crèmes de yaourt</p>
+    <p>2 blancs d'oeufs</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>300 g de framboises</p>
+    <p>quelques feuilles de menthe fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faîtes tremper 2 feuilles de gélatine dans un bol d'eau froide. Faîtes dissoudre 50 g de sucre dans le jus d’1 citron, portez à frémissements.
+    Hors du feu, ajoutez la gélatine essorée, faîtes-la dissoudre, laissez tiédir.
+    Battez 200 g de fromage blanc avec 2 pots de crème de yaourt, incorporez le sirop de citron tiédi et réservez.
+    Dès que la crème est ferme, incorporez 2 blancs d’œufs montés en neige ferme avec 1 sachet de sucre vanillé.
+    Versez très délicatement 200 g de framboises mixées pour obtenir un marbré. Versez dans une coupe en ajoutant 100 g  de framboises entières.
+    Mettez au réfrigérateur au moins 2 h. Pour servir, piquez de menthe fraîche.
+    On peut aussi faire cette recette avec des myrtilles, des fraises.
+  ]]>
+  </preparation>
+</recette>

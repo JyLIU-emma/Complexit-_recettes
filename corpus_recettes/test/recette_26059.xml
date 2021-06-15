@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26059">
+  <titre>Asperges et mayonnaise aux petits-suisses</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g d'asperges blanches</p>
+    <p>2 jaunes d'oeufs crus</p>
+    <p>3 petits-suisses</p>
+    <p>15 cl d'huile</p>
+    <p>1 cuillère à soupe de jus de citron</p>
+    <p>sel, poivre</p>
+    <p>1 cuillère à soupe de cerfeuil haché</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les asperges et les cuire pendant 20 minutes dans de l'eau bouillante salée.
+    Faire cuire des oeufs durs. Puis, dans un bol, écraser les jaunes d'oeufs crus avec les petits-suisses, assaisonner de sel et de poivre.
+    Fouetter en versant l'huile en un mince filet comme pour une mayonnaise. La sauce est terminée lorsqu'elle est bien prise et compacte. Ajouter le jus de citron et le cerfeuil haché.
+    Servir les asperges avec la sauce à part.
+  ]]>
+  </preparation>
+</recette>

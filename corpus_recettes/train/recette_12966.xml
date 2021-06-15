@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12966">
+  <titre>Pâtes au thon, crème à l'ail et au citron</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>une boîte de thon (200-300 g)</p>
+    <p>jus de citron (1/2 à 1 citron)</p>
+    <p>crème liquide (selon le goût)</p>
+    <p>1 à 2 gousses d'ail</p>
+    <p>origan</p>
+    <p>sel et poivre (selon le goût)</p>
+    <p>400 g de spaghetti ou autres pâtes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle, faire revenir le thon dans le jus de citron jusqu'à ce que celui-ci l'ait absorbé.
+    Ajouter l'ail coupé en petits morceaux, puis l'origan. Saler légèrement et poivrer selon le goût.
+    Enfin, en dernière touche, ajouter la crème.
+    Laiser mijoter un court instant et recouvrir les pâtes cuites précédemment avec la préparation.
+    Plat idéal pour étudiant sans le sou.
+  ]]>
+  </preparation>
+</recette>

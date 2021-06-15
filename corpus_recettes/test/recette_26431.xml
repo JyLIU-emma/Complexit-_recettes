@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26431">
+  <titre>Pomme de terre gratinées</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 grosses pommes de terre</p>
+    <p>40 g de beurre</p>
+    <p>10 cl de lait</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>1 sachet de gruyère râpé</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pommes de terre au four, 1h à 200°C (enveloppez-les dans du papier aluminium). 
+    Couper les pommes de terre en 2 dans la longueur, évider la chair à la cuillère sans abîmer la "coque".
+    Ecraser la chair avec le beurre, le lait, la moitié du fromage, la crème fraîche, sel et poivre.
+    Remplir les coques, parsemer de gruyère et faire gratiner 10 min au four à 240°C (thermostat 8).
+    Vous pouvez ajouter du curry ou des herbes dans la purée pour parfumer.
+  ]]>
+  </preparation>
+</recette>

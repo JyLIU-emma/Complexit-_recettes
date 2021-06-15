@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24184">
+  <titre>Cramique aux raisins secs</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>15 g de levure fraîche</p>
+    <p>2 cuillères à soupe de lait tiède</p>
+    <p>1 cuillères à soupe de sucre</p>
+    <p>1 pincée de sel</p>
+    <p>1 oeufs</p>
+    <p>10 cl de lait</p>
+    <p>50 g de beurre mou</p>
+    <p>75 g de raisins secs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Délayer la levure dans le lait.
+    Tamiser la farine dans un saladier, mettre au centre la levure fraîche délayée. 
+    Former une petite boule de pâte et laisser reposer 30 min. 
+    Rajouter le sucre, le sel, les oeufs, le lait et le beurre. 
+    Pétrir longuement, de manière à obtenir une pâte élastique. 
+    Incorporer les raisins secs et verser la préparation dans un moule à cake. 
+    Enfourner pour 1 heure de cuisson.
+  ]]>
+  </preparation>
+</recette>

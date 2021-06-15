@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14342">
+  <titre>Soupe à l'orge</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 oignon</p>
+    <p>1 carotte</p>
+    <p>1 morceau de céleri-rave</p>
+    <p>50 g de beurre</p>
+    <p>150 g de viande séchée</p>
+    <p>100 g d'orge</p>
+    <p>1 gousse d'ail écrasée</p>
+    <p>1 litre 1/2 de bouillon</p>
+    <p>1 pointe de noix de muscade</p>
+    <p>1 cuillère à soupe de persil haché</p>
+    <p>sel et poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyez les légumes et coupez-les en brunoise.
+    Coupez la viande en morceaux.
+    Faites revenir les légumes, l'ail, la viande et l'orge dans le beurre. Recouvrez de bouillon, ajoutez le sel, le poivre et la noix de muscade. Portez à ébullition puis baissez le feu et laissez mijoter doucement jusqu'à ce que l'orge soit bien tendre. 
+    Versez dans une soupière et saupoudrez de persil haché au moment de servir.
+    Remuez la soupe de temps à autre car elle a tendance à coller au fond.
+  ]]>
+  </preparation>
+</recette>

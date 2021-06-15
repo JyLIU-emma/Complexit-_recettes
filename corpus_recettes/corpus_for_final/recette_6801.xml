@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="6801">
+  <titre>Toasts surprise à ma façon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tranches de pain de mie</p>
+    <p>100 g de Carré Frais</p>
+    <p>4 tranches de jambon fumé</p>
+    <p>1 échalote</p>
+    <p>un petit bouquet de persil</p>
+    <p>2 gousses d'ail</p>
+    <p>2 kiwis</p>
+    <p>sel, poivre, paprika</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites griller légèrement les tranches de pain de mie.
+    Mélangez dans un bol le Carré frais, les gousses d'ail et l'échalote finement hâchées, le sel, le poivre, et le paprika.
+    Déposez ce mélange 1/4 h au réfrigérateur.
+    Tartinez les toasts grillés de ce mélange.
+    Garnissez avec une tranche de jambon fumé roulée, dans laquelle vous aurez "caché" des petits morceaux de kiwi.
+    Décorez avec du persil. 
+     
+  ]]>
+  </preparation>
+</recette>

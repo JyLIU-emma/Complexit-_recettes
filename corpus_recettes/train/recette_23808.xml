@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23808">
+  <titre>Salade croquante de chou-fleur à l'avocat et au cresson</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 chou-fleur</p>
+    <p>1 grande boîte de coeurs de palmier</p>
+    <p>3 avocats</p>
+    <p>2 bottes de cresson</p>
+    <p>1 citron</p>
+    <p>6 cuillères à soupe d'huile</p>
+    <p>2 cuillères à soupe de vinaigre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détaillez le chou-fleur en petits bouquets et faites-les blanchir 5 minutes dans l'eau bouillante salée puis égouttez-le.
+    Détaillez les coeurs de palmier et les avocats en morceaux, arrosez-les de citron pour ne pas qu'ils noircissent.
+    Répartissez le cresson, l'avocat, le chou-fleur et les coeurs de palmiers dans les assiettes.
+    Emulsionnez l'huile, le vinaigre, le sel et le poivre puis arrosez-en la salade.
+  ]]>
+  </preparation>
+</recette>

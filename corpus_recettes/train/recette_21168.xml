@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21168">
+  <titre>Boule de coco</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g farine de riz gluant</p>
+    <p>60 g lait</p>
+    <p>60 g lait concentré sucré</p>
+    <p>40 g crème pâtissière</p>
+    <p>6 jaunes d'oeuf</p>
+    <p>60 g beurre</p>
+    <p>70 g sucre</p>
+    <p>100 g noix de coco râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger dans un petit saladier le lait + lait concentré + jaunes d'oeufs. 
+    Placer le saladier dans le panier d'un cuit-vapeur, couvrez et faites cuire pendant 3h à feu très doux en mélangeant régulièrement. 
+    Quand la cuisson est terminée, incorporez le beurre coupé en parcelles, puis la crème pâtissière. 
+    Placez au frais jusqu'à ce que la crème soit durcie et malléable. 
+    Pendant ce temps, mélanger la farine + sucre, puis versez de l'eau en fouettant jusqu'à obtention d'une pâte homogène. 
+    Faites cuire cette préparation à la vapeur jusqu'à épaississement. 
+    Versez-la dans un plat de manière à avoir une couche d'environ un demi-centimètre. Placez au frais. 
+    Quand la préparation aux oeufs est dure, faites-en de petites boulettes équivalentes à une cuillère à café. 
+    Découpez ensuite la pâte de farine de riz en petits ronds. Posez au milieu de chacun une boulette de crème et refermez la pâte de farine de riz de façon à enrober entièrement la boulette. 
+    Roulez les boulettes dans la noix de coco et gardez-les au frais. 
+    Avant de servir, passez les boulettes quelques secondes au micro-onde.
+    Apparement beaucoup de monde recherche cette recette je l'ai trouvé dans un catalogue "Champion" mais pas encore testée. Ca a l'air assez long et il faut un cuit vapeur. Avis aux courageux! J'attends vos remarques.
+  ]]>
+  </preparation>
+</recette>

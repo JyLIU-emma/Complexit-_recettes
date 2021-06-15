@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18158">
+  <titre>Gâteau noix de coco</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de lait concentré sucré</p>
+    <p>125 g de noix de coco râpée</p>
+    <p>3 oeufs</p>
+    <p>28 cl de lait</p>
+    <p>15 cl de caramel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Verser le lait concentré sucré dans un saladier.
+    Y ajouter la de noix de coco râpée.
+    Puis les 3 jaunes d'oeufs.
+    Ajouter le lait.
+    Battre les blancs en neige et les ajouter.
+    Au fond du moule, verser le caramel.
+    Verser ensuite la pâte.
+    Cuire au four (au bain marie ou non)  à 180°C (thermostat 6) pendant 30 min.
+    (Piquer pour vérifier)
+  ]]>
+  </preparation>
+</recette>

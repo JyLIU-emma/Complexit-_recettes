@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17787">
+  <titre>Tarte aux framboises</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la pâte brisée:</p>
+    <p>300 g de farine tamisée</p>
+    <p>250 g de beurre demi-sel</p>
+    <p>Pour la crème:</p>
+    <p>250 g de Mascarpone</p>
+    <p>100 g de fromage blanc à 40 % de MG</p>
+    <p>100 g de sucre</p>
+    <p>Pour la garniture:</p>
+    <p>300 g de framboises</p>
+    <p>un jus de citron</p>
+    <p>50 g de sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez une pâte sablée avec la farine et le beurre ramolli. 
+    Etalez-la à la main dans un plat à tarte préalablement beurré. 
+    Faire cuire à blanc pendant environ 30 mn à 160°C. Laissez refroidir. 
+    Dans le bol du mixeur, mélangez la Mascarpone, le fromage blanc et le sucre. 
+    Lorsque la pâte est refroidie, étalez la crème. Disposez dessus 250 g de framboises. 
+    Mixez les 50 g de framboises restantes, le jus de citron et le sucre glace pour obtenir un coulis de framboise que vous servirez à part. 
+    Laissez refroidir au réfrigérateur environ 2 heures.
+  ]]>
+  </preparation>
+</recette>

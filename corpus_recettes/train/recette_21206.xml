@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21206">
+  <titre>Salade d'asperges aux crustacés</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,5 kg de langoustines</p>
+    <p>300 g de crevettes roses cuites et décortiquées</p>
+    <p>7 cl de vinaigre</p>
+    <p>1 l d'eau chaude</p>
+    <p>Pour la salade :</p>
+    <p>600 g de noix de pétoncles</p>
+    <p>600 g de pointes d'asperges</p>
+    <p>3 coeurs de laitue</p>
+    <p>1 citron</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>6 brins de cerfeuil</p>
+    <p>sel et poivre</p>
+    <p>Pour la sauce :</p>
+    <p>225 g de mayonnaise</p>
+    <p>15 cl de crème liquide</p>
+    <p>9 cl de ketchup</p>
+    <p>2 cuillères à soupe de cognac</p>
+    <p>3 gouttes de Tabasco</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole, porter de l'eau salée et vinaigrée à ébullition et y plonger les langoustines 4 à 5 min. Les égoutter et les décortiquer.
+    D'autre part, cuire les pointes d'asperges pendant 5 min à l'eau bouillante salée dans une autre casserole. Laver les noix de pétoncles et les faire revenir 2 min à la poêle avec un peu d'huile d'olive. Assaisonner de sel et poivre, puis verser un filet de citron.
+    Laver et essorer les coeurs de laitue. Les mettre dans 6 coupes et y disposer les langoustines, les pétoncles, les crevettes et les pointes d'asperges égouttées. Garnir de cerfeuil.
+    Dans un bol, mélanger la mayonnaise, le ketchup, le cognac et le Tabasco. Battre la crème liquide et l'incorporer à la sauce.
+    Servir la salade et la sauce à part.
+  ]]>
+  </preparation>
+</recette>

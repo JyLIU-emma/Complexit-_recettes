@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20219">
+  <titre>GRATIN DE TAGLIATELLES</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>320 g de tagliatelles</p>
+    <p>50 g de raisins secs blonds</p>
+    <p>1 oeuf</p>
+    <p>20 cl de crème fraîche</p>
+    <p>60 g de ricotta</p>
+    <p>40 g de parmesan râpé</p>
+    <p>5 cl d'Armagnac</p>
+    <p>20 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire tremper pendant 1 heure les raisins secs dans 5 cl d'Armagnac coupé d'une cuillère à soupe d'eau. 
+    Cuire les pâtes "al dente". Les égoutter. 
+    Préchauffer le four à 220°C. Dans un saladier, mélanger l'oeuf, la crème, la ricotta, le parmesan, poivrer généreusement, saler. 
+    Ajouter les raisins secs, 1/2 cuillères à soupe d'Armagnac, puis bien mélanger les pâtes. 
+    Beurrer un plat à gratin, répartir les pâtes, parsemer de noisettes de beurre et faire gratiner 15 mn environ. 
+    Servir bien chaud, accompagné de fines tranches de jambon cru (Parme, Bayonne, Auvergne ou Forêt Noire).
+    Plat sympa et délicieux pour le soir avec une bonne salade verte.
+    Pour un goût plus prononcé, vous pouvez remplacer la ricotte par du gorgonzola.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10553">
+  <titre>Pigeons à la bière</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 pigeons</p>
+    <p>40 g de beurre</p>
+    <p>450 g de tomates</p>
+    <p>2 oignons</p>
+    <p>2 échalotes</p>
+    <p>1 bouquet garni</p>
+    <p>20 cl de crème fraîche</p>
+    <p>25 cl de bière blonde ou brune</p>
+    <p>1 pincée de sel</p>
+    <p>-1 pincée de poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire rôtir les pigeons au beurre.
+    Lorsqu’ils sont bien dorés, les retirer de la casserole et enlever la graisse de celle-ci.
+    Remettre les pigeons, les beurrer de nouveau, mettre les légumes coupés en morceaux, les faire revenir tout doucement. Mettre les tomates en morceaux. Lorsque le tout commence à cuire, ajouter une demi bouteille de bière et laisser mijoter. Rajouter au fur et à mesure de la bière lorsque la cuisson se fait et qu’il vous semble que la sauce s’épaissit. Les pigeons peuvent être cuits de manière plus ou moins longue suivant leur âge.
+    Lorsqu’ils commencent à être faits, la chair se détache partiellement, retirer les au fur et à mesure et réserver au chaud dans une autre casserole. La cuisson terminée, passez la sauce au chinois, vérifier l’assaisonnement, y ajouter un peu de crème fraîche. Nappez en les pigeons et servez bien chauds avec des frites et des champignons. La même bière que celle qui a servi à cuire
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">rôtir</OPER> les <INGRED id="1">pigeons</INGRED> au <INGRED id="2">beurre</INGRED>. Lorsqu’ ils sont bien dorés, les <OPER id="o_2">retirer</OPER> de la casserole et <OPER id="o_3">enlever</OPER> la graisse de celle-ci. <OPER id="o_4">Remettre</OPER> les <INGRED id="1">pigeons</INGRED>, les <OPER id="o_5">beurrer</OPER> de nouveau, <OPER id="o_6">mettre</OPER> les légumes coupés en morceaux, les faire <OPER id="o_7">revenir</OPER> tout doucement. <OPER id="o_8">Mettre</OPER> les <INGRED id="4">tomates</INGRED> en morceaux. Lorsque le tout commence à <OPER id="o_9">cuire</OPER>, <OPER id="o_10">ajouter</OPER> une demi bouteille de <INGRED id="8">bière</INGRED> et laisser <OPER id="o_11">mijoter</OPER>. <OPER id="o_12">Rajouter</OPER> au fur et à mesure de la <INGRED id="8">bière</INGRED> lorsque la cuisson se fait et qu’ il vous semble que la sauce s’ épaissit. Les <INGRED id="1">pigeons</INGRED> peuvent être cuits de manière plus ou moins longue suivant leur âge. Lorsqu’ ils commencent à être faits, la chair se détache partiellement, <OPER id="o_13">retirer</OPER> les au fur et à mesure et réserver au chaud dans une autre casserole. La cuisson terminée, <OPER id="o_14">passez</OPER> la sauce au chinois, <OPER id="o_15">vérifier</OPER> l’ assaisonnement, y <OPER id="o_16">ajouter</OPER> un peu de <INGRED id="3">crème fraîche</INGRED>. <OPER id="o_17">Nappez</OPER> en les <INGRED id="1">pigeons</INGRED> et servez bien chauds avec des frites et des <INGRED id="3">champignons</INGRED>. La même <INGRED id="8">bière</INGRED> que celle qui a servi à <OPER id="o_18">cuire</OPER>
+  </annotation>
+  <annotation methode="crf">
+  Faire rôtir les <INGRED>pigeons</INGRED> au <INGRED>beurre</INGRED> <INGRED>.</INGRED> Lorsqu’ ils sont bien dorés <INGRED>,</INGRED> les retirer de la casserole et enlever la <INGRED>graisse</INGRED> de celle-ci. Remettre les <INGRED>pigeons</INGRED> <INGRED>,</INGRED> les beurrer de nouveau <INGRED>,</INGRED> mettre les <INGRED>légumes</INGRED> coupés en <INGRED>morceaux</INGRED> <INGRED>,</INGRED> les faire revenir tout doucement <INGRED>.</INGRED> Mettre les <INGRED>tomates</INGRED> en <INGRED>morceaux</INGRED> <INGRED>.</INGRED> Lorsque le tout commence à cuire <INGRED>,</INGRED> ajouter une <INGRED>demi</INGRED> bouteille de <INGRED>bière</INGRED> et laisser mijoter <INGRED>.</INGRED> Rajouter au fur et à mesure de la <INGRED>bière</INGRED> lorsque la cuisson se fait et qu’ il vous semble que la <INGRED>sauce</INGRED> s’ épaissit <INGRED>.</INGRED> Les <INGRED>pigeons</INGRED> peuvent être cuits de manière plus <INGRED>ou</INGRED> moins longue suivant leur âge. Lorsqu’ ils commencent à être faits <INGRED>,</INGRED> la <INGRED>chair</INGRED> se détache partiellement <INGRED>,</INGRED> retirer les au fur et à mesure et réserver au chaud dans une autre casserole <INGRED>.</INGRED> La cuisson terminée <INGRED>,</INGRED> passez la <INGRED>sauce</INGRED> au chinois <INGRED>,</INGRED> vérifier l’ assaisonnement <INGRED>,</INGRED> y ajouter un peu de <INGRED>crème fraîche</INGRED> <INGRED>.</INGRED> Nappez en les <INGRED>pigeons</INGRED> et servez bien chauds avec des <INGRED>frites</INGRED> et des <INGRED>champignons</INGRED> <INGRED>.</INGRED> La même bière que celle qui <INGRED>a</INGRED> servi à cuire
+  </annotation>
+  <complexite>
+    <temps>f(X) = 14.6666666666667*X + 7.33333333333333</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 10*X + 13</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pigeons']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['beurre']	 id:2	 quantité:40	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['tomates']	 id:3	 quantité:450	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oignons']	 id:4	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['échalotes']	 id:5	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['bouquet garni', 'bouquet']	 id:6	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['crème fraîche', 'crème']	 id:7	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['bière blonde', 'bière']	 id:8	 quantité:25	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:9	 quantité:1	 unité:pincée de	 denombrable:True	 recipient:1*X
+ingredient:['poivre']	 id:10	 quantité:non_precis	 unité:pincée de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:rôtir	 id:o_1	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:4*X+1	 temps:4*X*5+1*X*5	 recipient:1
+operation:retirer	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enlever	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remettre	 id:o_4	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:beurrer	 id:o_5	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:revenir	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_8	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cuire	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:rajouter	 id:o_12	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:passer	 id:o_14	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:vérifier	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_16	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:napper	 id:o_17	 ingrédients_ralatifs:['1', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+]]>
+</operation_trouve>
+</recette>

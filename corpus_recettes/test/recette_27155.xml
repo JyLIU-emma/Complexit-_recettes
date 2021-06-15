@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27155">
+  <titre>Riz au lait à la cannelle au four</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de riz rond</p>
+    <p>100 g de sucre</p>
+    <p>1 l de lait (ou de lait de soja ou de lait de soja à la vanille) </p>
+    <p>cannelle en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180-200°C (thermostat 6-7).
+    Ensuite mettre dans une casserole ou un plat à four avec un couvercle, le riz, le lait et le sucre, bien mélanger.
+    Saupoudrer de cannelle en poudre, refermer le plat ou la casserole et mettre au four pendant 1 h 30 minimum (surveiller).
+    À manger froid.
+  ]]>
+  </preparation>
+</recette>

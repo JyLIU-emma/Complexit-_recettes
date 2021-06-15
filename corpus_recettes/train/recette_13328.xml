@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13328">
+  <titre>Pâté au thon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boîte de thon au naturel</p>
+    <p>300 g de pommes de terre (plutôt farineuses)</p>
+    <p>5 cuillères à soupe de mayonnaise</p>
+    <p>3 cuillères à soupe de fromage blanc lissé</p>
+    <p>sel (au besoin), poivre et muscade</p>
+    <p>facultatif : tomates cerises, concombres à la russe ou amandes pour décorer</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les pommes de terre,les couper en petits carrés  et les faire cuire dans peu d'eau pour ne pas délaver le goût.
+    Egoutter le thon, le mettre dans le mixer avec la mayonnaise et le fromage blanc, puis mixer.
+    Dès que les pommes de terre sont cuites et refroidies, les ajouter et mixer encore brièvement, juste assez pour obtenir une préparation lisse, assaisonner si besoin (attention le thon est souvent déjà salé).
+    Former un poisson sur un plat plat... On peut faire les yeux avec une tomate cerise (coupée en deux) et éventuellement des écailles avec des rondelles de concombres à la russe ou des amandes effilées.
+    Cette recette peut être confectionnée par des enfants qui seront très heureux de 'créer' un poisson !!! vin blanc sec
+  ]]>
+  </preparation>
+</recette>

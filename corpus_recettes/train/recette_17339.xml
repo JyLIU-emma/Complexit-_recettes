@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17339">
+  <titre>Crème brûlée à la crème de marrons</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 cuillères à soupe de miel </p>
+    <p>4 jaunes d'oeuf </p>
+    <p>1/2 litre de crème liquide (entière) </p>
+    <p>4 cuillères à café de crème de marron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer 4 ramequins, les disposer dans un plat allant au four.
+    Disposer dans chaque ramequin une cuillère à café de crème de marron. 
+    Dans un récipient, battre les jaunes, le miel puis la crème. Verser cette préparation dans les ramequins. 
+    Faire cuire au bain-marie en ajoutant de l'eau chaude à la louche dans le plat (150°C, pendant 45 à 50 mn). 
+    Après cuisson et refroidissement, saupoudrer de cassonade. Passer sous le grill.
+    Déguster froid ou tiède.
+  ]]>
+  </preparation>
+</recette>

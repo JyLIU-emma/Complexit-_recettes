@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22336">
+  <titre>Gratin de pommes de terre et cèpes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>450 g de pommes de terre</p>
+    <p>450 g de cèpes</p>
+    <p>150 g de crème fraîche</p>
+    <p>1 petite gousse d’ail</p>
+    <p>75 g de fromage râpé</p>
+    <p>beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver, essuyer, peler et détailler les cèpes ainsi que les pommes de terre en tranches.
+    Piler la gousse d’ail et la mélanger à la crème avec le sel et le poivre.
+    Préchauffer votre four à 180°C (thermostat 6).
+    Dans un plat à gratin beurré, faire plusieurs couches avec les légumes en alternant pommes de terre et cèpes.
+    Incorporer entre chaque couche de la crème aillée ainsi que du gruyère râpé.
+    Terminer par une couche de gruyère puis enfourner pendant 1h30 à four chaud.
+    Idéal pour accompagner des rôtis de viandes rouges ou blanches.
+  ]]>
+  </preparation>
+</recette>

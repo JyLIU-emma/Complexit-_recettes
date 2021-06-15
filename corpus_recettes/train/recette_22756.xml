@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22756">
+  <titre>Poutine (plat québecois)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 kg de pommes de terre</p>
+    <p>1 kg de brie</p>
+    <p>1 kg emmental râpé</p>
+    <p>1 fromage de vote choix (lait de vache conseillé) </p>
+    <p>500 g de crème fraîche</p>
+    <p>poivre noir moulu (assaisonné à votre goût) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire des frites.
+    Dans un plat, couper le Brie en lamelles et enlever la croûte, mettre au fond du plat, parsemer avec Emmental, ajouter une couche de frites (cuites), arroser avec sauce au poivre (crème fraîche + poivre), parsemer de fromage. 
+    Mettre au four et laisser gratiner. 
+    Prêt à déguster!
+    Très gras, tient au corps, excellent pour les hivers froids, délicieux.
+  ]]>
+  </preparation>
+</recette>

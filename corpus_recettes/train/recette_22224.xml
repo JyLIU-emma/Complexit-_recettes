@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22224">
+  <titre>Biscuits au gingembre</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 1/4 tasse de farine</p>
+    <p>2 cuillères à thé de bicarbonate de soude</p>
+    <p>2 cuillères à thé de gingembre moulu</p>
+    <p>1/2 cuillère à thé de cannelle moulue</p>
+    <p>1 pincée de sel</p>
+    <p>1/4 tasse de gingembre confit</p>
+    <p>3/4 tasse sucre</p>
+    <p>3/4 tasse huile</p>
+    <p>1/4 tasse de mélasse</p>
+    <p>1/4 tasse sirop d'érable</p>
+    <p>1 oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Couper le gingembre confit en petits morceaux. 
+    2) Mélanger dans un bol: farine, bicarbonate, gingembre, cannelle et sel. 
+    3) Mélanger dans un autre bol le reste des ingrédients. 
+    4) Ajouter graduellement les ingrédients secs. Utiliser une cuillère en bois. 
+    5) Façonner 12 boules avec la pâte obtenue et les rouler dans le sucre granulé. 
+    6) Placer sur 2 plaques à biscuits et cuire, une à la fois, au four, à 180ºC pendant 15 mn.
+    Mesurer l'huile avant la mélasse et le sirop et utiliser la même tasse.
+  ]]>
+  </preparation>
+</recette>

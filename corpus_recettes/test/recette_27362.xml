@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27362">
+  <titre>Le chiconopomme de Jean-Paul</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>400 g farine</p>
+    <p>150 g de beurre</p>
+    <p>3 cuillères à soupe de sucre</p>
+    <p>1/2 cuillère à café de sel</p>
+    <p>1/2 verre d'eau</p>
+    <p>un jaune d'oeuf (badigeon) Pour l'appareil</p>
+    <p>500 g de chicon (endive) </p>
+    <p>5 pommes</p>
+    <p>2 cuillères à soupe de miel</p>
+    <p>une pincée de cannelle</p>
+    <p>une pincée de gingembre</p>
+    <p>de l'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour la pâte : 
+    Mélanger la farine, le sucre et le sel. 
+    Ajouter le beurre coupé en petit morceaux. 
+    Mélanger pour obtenir un effet sablé. 
+    Ajouter l'eau et pétrir pour obtenir une boule de pâte. 
+    Laisser reposer 1/2 heure. 
+    Pendant ce temps : 
+    Émincer les chicons puis les braiser dans un peu d'huile. 
+    Ajouter les pommes coupées en morceaux. Faites revenir 10 mn. 
+    Verser le miel et les épices mélanger, laisser cuire à feux doux 5 mn. 
+    Séparer la pâte en deux parties (1/3 et 2/3), préparer un fond de tourte et son couvercle (ne pas oublier la cheminée). Foncer un plat, verser l'appareil, recouvrir du couvercle, souder les bord. Badigeonner avec du jaune d'oeuf. 
+    Faire cuire thermostat 7 (210°C) pendant 40 mn.
+    L'endive apporte un petit goût amer à une préparation sucrée.
+  ]]>
+  </preparation>
+</recette>

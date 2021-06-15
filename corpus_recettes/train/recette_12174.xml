@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12174">
+  <titre>Rollmops</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>12 filets de harengs frais</p>
+    <p>6 cornichons</p>
+    <p>1 feuille de laurier</p>
+    <p>4 baies de genièvre</p>
+    <p>4 grains de poivre</p>
+    <p>1/2 litre de vinaigre</p>
+    <p>1 oignon</p>
+    <p>24 petits oignons blancs</p>
+    <p>persil</p>
+    <p>1 bocal de capres</p>
+    <p>1/2 poivron rouge</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer les cornichons dans la longueur.
+    Dans 1 casserole, verser le vinaigre avec 2 verres d'eau, le laurier et les épices.
+    Cuire à gros bouillon pendant 5 mn.
+    Laisser refroidir. Sur chaque filet, déposer quelques morceaux de cornichons, quelques capres, 2 petits oignons.
+    Les rouler et les maintenir avec des piques en bois.
+    Ranger dans un bocal. Couvrir avec le vinaigre chaud, couvrir.
+    Laisser mariner 1 semaine.
+    Servir avec le persil, l'oignon émincé et des lanières de poivron.
+  ]]>
+  </preparation>
+</recette>

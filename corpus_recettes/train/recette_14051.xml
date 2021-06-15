@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14051">
+  <titre>Pain au lait</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g de farine </p>
+    <p>30 g de levure</p>
+    <p>150 g de beurre ramolli</p>
+    <p>20 g de sucre en poudre</p>
+    <p>25 cl de lait</p>
+    <p>10 cl de crème fraîche</p>
+    <p>1 cuillère à café de sel</p>
+    <p>1 jaune d'oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Verser dans une terrine 200g de farine
+    et la levure délayée dans le lait tiède. 
+    Mélanger et laisser reposer jusqu'à ce
+    que la pâte double de volume (30 mn)
+    Mettre la boule de levain sur le plan de travail
+    Ajouter le reste de la farine en pétrissant. Former un creux au milieu de la préparation, y
+    déposer sucre, sel, beurre et crème. Malaxer le tout très soigneusement.
+    Laisser reposer 2h30, dans un endroit tiède, et recouvert d'un linge.
+    Séparer la pâte en petites boules de 50 g
+    et leur donner la forme de navettes.
+    Poser sur une plaque farinée. Dorer au jaune.
+    Cuire à four chaud 230°C (thermostat 7) 30 à 40 mn.
+    La durée de cuisson dépend de la dimension des pains.
+  ]]>
+  </preparation>
+</recette>

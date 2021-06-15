@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24618">
+  <titre>Cabillaud à la sauce au curry</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de cabillaud</p>
+    <p>Pour la sauce :</p>
+    <p>30 g de beurre</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>1 cuillère à soupe de curry en poudre</p>
+    <p>1 cube de bouillon</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>33 cl de vin blanc demi-sec</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez le court-bouillon en plongeant le cube de bouillon dans 60 cl d’eau et 33 cl de vin blanc de votre choix.
+    Portez à ébullition, plongez-y le morceau de poisson et laissez cuire 20 min à petit feu.
+    Préparez la sauce.
+    Faites fondre le beurre, dès qu'il colore, ajoutez la farine en pluie et laissez cuire quelques minutes. Ajoutez le curry et remuez.
+    Egouttez le poisson, filtrez le court-bouillon. AJoutez des louches de bouillon dans la casserole où se trouve le roux au curry, remuez au fouet et laissez épaissir jusqu'à ce que la sauce soit nappante.A la fin, incorporez la crème fraîche dans la sauce, mélangez bien, salez, poivrez et servez avec le poisson.
+    Accompagnez de pommes de terre vapeur, julienne de légumes ou riz.
+  ]]>
+  </preparation>
+</recette>

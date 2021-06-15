@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15225">
+  <titre>Grenouilles à la crème</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>2 kg de grenouilles fraîches (si congelées, les faires décongeler dans du lait durant 12 heures, puis les éponger)</p>
+    <p>farine, sel, poivre, muscade, beurre</p>
+    <p>crème fraîche épaisse</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Bien éponger les grenouilles, les passer dans la farine. Un truc pour ne pas en mettre partout : remplir un sac plastique de farine, mettre une poignée de grenouilles dedans et secouer le sac.
+    Les passer au beurre sans les faire griller. 
+    Préchauffer le four à 150°C.
+    Dans un plat passant au four, mettre au fur et à mesure de la cuisson les cuisses de grenouilles, après les avoir salées et poivrées.
+    Ajouter à chaque fois une grosse cuillerée de crème fraîche et une râpure de muscade.
+    Bien assaisonner. un blanc fruité
+  ]]>
+  </preparation>
+</recette>

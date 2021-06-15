@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20568">
+  <titre>Carottes à la crème persillée</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de carottes</p>
+    <p>30 g de beurre</p>
+    <p>1 jaune d'œuf</p>
+    <p>100 g de crème fraîche</p>
+    <p>persil haché</p>
+    <p>eau</p>
+    <p>sel, poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et émincer les carottes.
+    Faire cuire la moitié dans l’eau bouillante salée pendant 15 min environ et l’autre dans une poêle beurrée.
+    Pendant ce temps, battre légèrement le jaune d’œuf avec la crème.
+    Egoutter les carottes cuites dans l’eau et les incorporer dans la poêle.
+    Verser la préparation œufs/crème sur les carottes dans la poêle, bien mélanger et les laisser mijoter quelques minutes à feu vif.
+    Saupoudrer grassement le tout de persil haché.
+    Servir en accompagnement d’une viande.
+  ]]>
+  </preparation>
+</recette>

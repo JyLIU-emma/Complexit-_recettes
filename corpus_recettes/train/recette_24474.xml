@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24474">
+  <titre>Lapin de Garenne aux saucisses, olives et  vin rouge</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 lapin de Garenne</p>
+    <p>10 cl d'huile d'olive</p>
+    <p>3 cl de cognac</p>
+    <p>75 cl de vin rouge</p>
+    <p>1 bouquet de persil, thym et laurier </p>
+    <p>1 bottes d'oignons grelot</p>
+    <p>150 g de saucisses </p>
+    <p>100 g d'olives noires</p>
+    <p>1 cuillère à café de fécule</p>
+    <p>1 cuillère à soupe de persil haché</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper le lapin en petits morceaux.
+    Faire chauffer de l'huile dans une sauteuse, ajouter les morceaux de lapin et les dorer sur toutes les faces. Ajouter sel et poivre. Faire flamber la préparation au cognac puis arroser de vin. Parsemer avec thym, laurier et persil.
+    Laisser mijoter 35 min.
+    Ajouter les oignons dans la sauteuse, les saucisses et les olives. Ajuster l'assaisonnement et poursuivre la cuisson à feu doux pendant 15 min environ.
+    Egoutter la préparation et disposer dans un plat creux.
+    Diluer la fécule dans 1 ou 2 cuillères de sauce et ajouter à la sauteuse. Epaissir le contenu à feu doux en remuant sans arrêt et verser sur le plat.
+    Parsemer d'une cuillère de persil haché et servir bien chaud.
+  ]]>
+  </preparation>
+</recette>

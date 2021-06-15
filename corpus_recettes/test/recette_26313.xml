@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26313">
+  <titre>Moussaka aubergine courgette</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g de viande de mouton ou d'agneau</p>
+    <p>200 g de tomates</p>
+    <p>150 g de champignons</p>
+    <p>1 kg d'aubergines</p>
+    <p>200 g de courgettes</p>
+    <p>50 g de beurre</p>
+    <p>2 gousses d'ail</p>
+    <p>2 échalotes</p>
+    <p>2 oignons moyens</p>
+    <p>2 cuillères à soupe de persil haché</p>
+    <p>huile d'olive</p>
+    <p>farine</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher la viande, les échalotes et l'ail. Emincer les oignons. Nettoyer et émincer les champignons. Peler et épépiner les tomates, les couper en cubes.
+    Laver et couper les aubergines et les courgettes en rondelles, les sécher sur du papier absorbant.
+    Faire dorer les oignons dans une sauteuse huilée, ajouter la viande, les échalotes et l'ail. Laisser dorer quelques minutes.
+    Ajouter les champignons et les tomates, saler, poivrer et laisser mijoter 20 minutes à feu doux, remuer de temps en temps.
+    Passer les aubergines et les courgettes dans la farine, puis les faire dorer sur chaque face dans une poêle avec un fond d'huile bien chaude. Les égoutter sur du papier absorbant.
+    Préchauffer le four à 180°C (thermostat 6).
+    Dans un plat à gratin, déposer des rondelles de courgettes et aubergines frites, recouvrir de viande à la tomate. Répéter l'opération jusqu'à épuisement.
+    Couvrir le plat de papier d'aluminium et faire cuire 40 minutes.
+    Retirer l'aluminium 10 minutes avant la fin, et saupoudrer de persil haché avant de servir.
+  ]]>
+  </preparation>
+</recette>

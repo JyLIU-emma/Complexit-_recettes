@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24215">
+  <titre>Gratin de pommes de terre aux épinards</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg d'épinards</p>
+    <p>750 g de pommes de terre</p>
+    <p>150 g de crème fraîche</p>
+    <p>50 g de gruyère râpé</p>
+    <p>30 g de beurre</p>
+    <p>sel, poivre et noix de muscade</p>
+    <p>quelques croûtons frits</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites fondre les épinards dans une sauteuse avec le beurre fondu en remuant avec une fourchette. Puis égouttez-les.
+    Faites cuire les pommes de terre non pelées à l'eau bouillante 15-20 minutes selon leur taille. Vérifiez la cuisson de la pointe du couteau. Pelez-les et coupez-les en rondelles.
+    Préchauffez le four à 210°C (thermostat 7).
+    Beurrez un plat à four et déposez-y les épinards puis un peu de crème. Recouvrez de rondelles de pommes de terre, salez, poivrez et saupoudrez de gruyère râpé. Versez le reste de la crème et enfournez 15 minutes.
+    Garnissez de croûtons et servez.
+  ]]>
+  </preparation>
+</recette>

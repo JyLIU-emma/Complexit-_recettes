@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16357">
+  <titre>Crème de céleri rave tomatée</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 céleri rave</p>
+    <p>500 ml de purée de tomate</p>
+    <p>1, 5 litre d'eau</p>
+    <p>3 bouillon cube de volaille</p>
+    <p>1 fromage à l'ail de type Boursin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler le céleri rave. Couper en gros dés.
+    Mettre dans la casserole avec 500 ml de purée de tomate, 1,5 litre d'eau et 3 bouillons cube de volaille.
+    Après 15 mn, ajouter le Boursin. Passer au mixer. C'est tout.
+    Les enfants en raffolent. Pour un potage plus doux ou pour ceux qui n'aiment pas l'ail, on peut remplacer le Boursin par 4 portions de crème de gruyère (type Vache qui rit).
+  ]]>
+  </preparation>
+</recette>

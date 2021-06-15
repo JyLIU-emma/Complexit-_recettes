@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="112832">
+  <titre>Tarte fruits de mer et curry</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>500 g de mélange de fruits de mer (congelés)</p>
+    <p>4 c. à soupe de crème épaisse</p>
+    <p>4 œufs</p>
+    <p>10 cl de vin blanc</p>
+    <p>2 échalotes</p>
+    <p>quelques brins de ciboulette</p>
+    <p>2-3 c. à café de curry en poudre</p>
+    <p>1 c. à café de fond de veau</p>
+    <p>1 c. à café de moutarde</p>
+    <p>sel, poivre, huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Étalez la pâte dans un plat à tarte et piquez avec une fourchette. Enfournez dans un four préchauffé à 200°C pour une pré-cuisson à 180°C, pendant 5 mn, puis réservez.- Chauffez dans une casserole (ou une poêle) une cuillère à soupe d'huile d'olive et faites revenir les échalotes ciselées.
+    Ajoutez les fruits de mer préalablement décongelés (et pressés de leur eau) et cuire 5 mn tout en remuant. 
+    Ajoutez le vin blanc et laissez l'alcool s'évaporer pendant quelques minutes.
+    Ajoutez la crème épaisse, la moutarde, la ciboulette ciselée, le curry et le fond de veau (que vous aurez préalablement dilué dans un tout petit peu d'eau chaude).
+    Salez et poivrez selon votre goût et sortez du feu puis laissez refroidir 5 mn.- Battez les œufs avec une pincée de sel, incorporez le mélange précédent et remuez.- Versez le tout dans le fond de tarte et enfournez pendant 25 minutes, toujours à 180°C. 
+    Lorsque le dessus de la tarte a un peu bruni de façon uniforme, c'est prêt.Il est important de retirer l'eau des fruits de mer; pressez-les dans une passoire afin d'évacuer un maximum d'eau.
+    Le curry utilisé ici est doux et d'une qualité très moyenne, c'est pourquoi on peut se permettre de forcer la dose. Riesling
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  - <OPER id="o_1">Étalez</OPER> la <INGRED id="1">pâte</INGRED> dans un plat à tarte et piquez avec une fourchette. <OPER id="o_2">Enfournez</OPER> dans un four préchauffé à 200 ° C pour une pré-cuisson à 180 ° C, pendant 5 mn, puis réservez.- <OPER id="o_3">Chauffez</OPER> dans une casserole ( ou une poêle ) une cuillère à <INGRED id="5">soupe</INGRED> d'<INGRED id="4">huile d'olive</INGRED> et faites <OPER id="o_4">revenir</OPER> les <INGRED id="3">échalotes</INGRED> ciselées. <OPER id="o_5">Ajoutez</OPER> les fruits de mer préalablement décongelés ( et pressés de leur <INGRED id="8">eau</INGRED> ) et <OPER id="o_6">cuire</OPER> 5 mn tout en remuant. <OPER id="o_7">Ajoutez</OPER> le <INGRED id="5">vin blanc</INGRED> et laissez l'alcool s'<OPER id="o_8">évaporer</OPER> pendant quelques minutes. <OPER id="o_9">Ajoutez</OPER> la crème épaisse, la <INGRED id="4">moutarde</INGRED>, la <INGRED id="11">ciboulette</INGRED> ciselée, le <INGRED id="9">curry</INGRED> et le <INGRED id="4">fond de veau</INGRED> ( que vous aurez préalablement dilué dans un tout petit peu d'<INGRED id="8">eau</INGRED> chaude ). <OPER id="o_10">Salez</OPER> et poivrez selon votre <INGRED id="7">goût</INGRED> et sortez du feu puis laissez <OPER id="o_11">refroidir</OPER> 5 mn.- <OPER id="o_12">Battez</OPER> les <INGRED id="4">œufs</INGRED> avec une pincée de <INGRED id="9">sel</INGRED>, incorporez le <INGRED id="2">mélange</INGRED> précédent et remuez.- <OPER id="o_13">Versez</OPER> le tout dans le <INGRED id="4">fond</INGRED> de tarte et enfournez pendant 25 minutes, toujours à 180 ° C. Lorsque le dessus de la tarte a un peu bruni de façon uniforme, c'est prêt. Il est important de <OPER id="o_14">retirer</OPER> l'<INGRED id="8">eau</INGRED> des fruits de mer ; <OPER id="o_15">pressez</OPER> - les dans une passoire afin d'<OPER id="o_16">évacuer</OPER> un maximum d'<INGRED id="8">eau</INGRED>. Le <INGRED id="9">curry</INGRED> utilisé ici est doux et d'une qualité très moyenne, c'est pourquoi on peut se permettre de <OPER id="o_17">forcer</OPER> la dose. <INGRED id="7">Riesling</INGRED>
+  </annotation>
+  <annotation methode="crf">
+  - Étalez la <INGRED>pâte</INGRED> dans un plat à tarte et piquez avec une fourchette <INGRED>.</INGRED> Enfournez dans un four préchauffé à 200 ° C pour une pré-cuisson à 180 ° C <INGRED>,</INGRED> pendant 5 mn <INGRED>,</INGRED> puis réservez.- Chauffez dans une casserole ( <INGRED>ou</INGRED> une poêle ) une cuillère à soupe d'<INGRED>huile d'olive</INGRED> et faites revenir les <INGRED>échalotes</INGRED> ciselées. Ajoutez les <INGRED>fruits</INGRED> de mer préalablement décongelés ( et pressés de leur <INGRED>eau</INGRED> ) et cuire 5 mn tout en remuant <INGRED>.</INGRED> Ajoutez le <INGRED>vin blanc</INGRED> et laissez l'<INGRED>alcool</INGRED> s'évaporer pendant quelques minutes. Ajoutez la <INGRED>crème</INGRED> épaisse <INGRED>,</INGRED> la <INGRED>moutarde</INGRED> <INGRED>,</INGRED> la <INGRED>ciboulette</INGRED> ciselée <INGRED>,</INGRED> le <INGRED>curry</INGRED> et le <INGRED>fond de veau</INGRED> ( que vous aurez préalablement dilué dans un tout <INGRED>petit</INGRED> peu d'<INGRED>eau</INGRED> chaude ). Salez et poivrez selon votre goût et sortez du feu puis laissez refroidir 5 mn.- Battez les <INGRED>œufs</INGRED> avec une pincée de <INGRED>sel</INGRED> <INGRED>,</INGRED> incorporez le <INGRED>mélange</INGRED> précédent et remuez.- Versez le tout dans le <INGRED>fond</INGRED> de tarte et enfournez pendant 25 minutes <INGRED>,</INGRED> toujours à 180 ° C <INGRED>.</INGRED> Lorsque le dessus de la tarte <INGRED>a</INGRED> un peu bruni de façon uniforme <INGRED>,</INGRED> c'est prêt. Il est important de retirer l'<INGRED>eau</INGRED> des <INGRED>fruits</INGRED> de mer ; pressez - les dans une passoire afin d'évacuer un maximum d'<INGRED>eau</INGRED> <INGRED>.</INGRED> Le <INGRED>curry</INGRED> utilisé ici est doux et d'une qualité très moyenne <INGRED>,</INGRED> c'est pourquoi on peut se permettre de forcer la dose. Riesling
+  </annotation>
+  <complexite>
+    <temps>f(X) = 12.1428571428571*X + 4.85714285714286</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 15*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pâte feuilletée', 'pâte']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['mélange de fruits de mer', 'mélange']	 id:2	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['c. à soupe de crème épaisse', 'c']	 id:3	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['œufs']	 id:4	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['vin blanc', 'vin']	 id:5	 quantité:10	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['échalotes']	 id:6	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['ciboulette']	 id:7	 quantité:non_precis	 unité:brins de	 denombrable:False	 recipient:1
+ingredient:['c. à café de curry en poudre', 'c']	 id:8	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['c. à café de fond de veau', 'c']	 id:9	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['c. à café de moutarde', 'c']	 id:10	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["huile d'olive", 'huile']	 id:13	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:étaler	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfourner	 id:o_2	 ingrédients_ralatifs:['5', '4', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:revenir	 id:o_4	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:évaporer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:['4', '11', '9', '4', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_10	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:battre	 id:o_12	 ingrédients_ralatifs:['4', '9', '2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_13	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_14	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:presser	 id:o_15	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:évacuer	 id:o_16	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:forcer	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27276">
+  <titre>Tarte abricots amandes</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>125 g de beurre</p>
+    <p>5 cl d'eau</p>
+    <p>1 pincée de sel</p>
+    <p>Pour la garniture :</p>
+    <p>500 g d'abricots frais</p>
+    <p>30 cl de lait</p>
+    <p>1/2 gousse de vanille</p>
+    <p>3 oeufs</p>
+    <p>60 g de sucre</p>
+    <p>60 g de farine</p>
+    <p>50 g de poudre d'amandes</p>
+    <p>1 poignée d'amandes effilées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la pâte :
+    Tamiser la farine et le sel. Creuser un puit au centre de la farine et y mettre le beurre coupé en dés. Malaxer du bout des doigts jusqu'à ce que le beurre soit incorporé. 
+    Verser l'eau, travailler la pâte à la main puis la rouler en boule. Laisser reposer au réfrigérateur pendant au moins 1 heure.
+    Préchauffer le four à 180°C (thermostat 6).
+    Etaler la pâte à l'aide d'un rouleau à pâtisserie et la mettre dans un moule à tarte beurré. 
+    A l'aide d'une fourchette, piquer la pâte. La recouvrir de papier d'aluminium et de haricots secs (c'est la cuisson à blanc) et enfourner 30 minutes.
+    Démouler et laisser refroidir le fond de tarte sur une grille.
+    Préparer la crème :
+    Faire bouillir le lait avec la gousse de vanille fendue et grattée. Fouetter les oeufs avec le sucre jusqu'à ce que le mélange mousse. Ajouter la farine et la poudre d'amande.
+    Retirer la gousse de vanille du lait bouillant et le verser en un mince filet sur les oeufs tout en remuant.
+    Remettre le mélange sur le feu doux afin de l'épaissir et ne pas cesser de remuer jusqu'à l'ébullition.
+    Retirer du feu et laisser refroidir.
+    Récouvrir le fond de tarte de crème. Dénoyauter les abricots et les disposer sur la crème.
+    Parsemer d'amandes effilées. 
+  ]]>
+  </preparation>
+</recette>

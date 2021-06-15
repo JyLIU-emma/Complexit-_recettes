@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26237">
+  <titre>Lapin à la moutarde et aux champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 lapin de 1,6 kg coupé en petits morceaux</p>
+    <p>4 cuillères à soupe d'huile</p>
+    <p>4 cuillères à soupe de moutarde blanche pas trop forte </p>
+    <p>40 g de beurre</p>
+    <p>300 g de petits champignons de Paris</p>
+    <p>4 cuillères à soupe de crème fraîche</p>
+    <p>1 cuillère à café de thym</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 220°C (thermostat 7-8)
+    Salez et poivrez les morceaux dc lapin. Enduisez-les de moutarde, saupoudrez-les de thym émietté et arrosez-les d'huile. 
+    Rangez-les au fur et a mesure dans un plat à four. 
+    Enfournez et réglez le four sur 180°C (thermostat 6).
+    Arrosez souvent les morceaux de lapin et retournez-les. Lorsqu'ils sont bien dorés, ajoutez le beurre et les champignons. Laissez s'achever la cuisson d'une durée d'environ 50 minutes en tout. 
+    Versez la crème dans le plat, au moment de servir. 
+  ]]>
+  </preparation>
+</recette>

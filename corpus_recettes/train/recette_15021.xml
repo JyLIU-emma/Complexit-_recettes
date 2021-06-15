@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15021">
+  <titre>Casse-museaux aux noisettes</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>250 g de sucre</p>
+    <p>100 g de beurre </p>
+    <p>3 oeufs</p>
+    <p>200 g de noisettes</p>
+    <p>2 cuillères à café de levure chimique</p>
+    <p>1/2 cuillère à café d'extrait de vanille liquide</p>
+    <p>1 pointe de muscade râpée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Travaillez le beurre mou et le sucre jusqu'à blanchiment. Ajoutez alors l'extrait de vanille, puis les oeufs entiers un par un.
+    Incorporez la farine, la levure, la muscade et une pincée de sel. Ajoutez ensuite les noisettes entières, puis mélangez bien le tout.
+    Formez 2 pains d'environ 25 sur 10 cm, puis régularisez et lissez avec une spatule trempée dans l'eau froide.
+    Posez-les sur une plaque à patisserie recouverte de papier sulfurisé.Enfournez 25 mn dans un four préchauffé à 180°C.Laissez refroidir puis les découper en tranches de 2 cm d'épaisseur, puis les remettre au four préchauffé à 90°C pendant 20 mn pour les faire sécher. Les retourner à mi-cuisson.Ces biscuits peuvent se conserver quelques jours dans une boite hermétique où l'on mettra une poignée de pop-corn pour absorber l'humidité.
+  ]]>
+  </preparation>
+</recette>

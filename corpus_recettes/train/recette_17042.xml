@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17042">
+  <titre>Curry de volaille</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de poulet en morceaux</p>
+    <p>200 g de carottes </p>
+    <p>100 g d'oignons</p>
+    <p>150 g de céleri en branche</p>
+    <p>2 gousses d'ail</p>
+    <p>200 g de pommes</p>
+    <p>400 g de tomates pelées au jus (conserve)</p>
+    <p>2 cuillères à soupe de fécule</p>
+    <p>200 g de fromage blanc</p>
+    <p>1 jus de citron</p>
+    <p>2 cuillère à café de curry</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Râper les carottes, couper le céleri en julienne et la pomme en dés. Dans une casserole à revêtement anti-adhésif, faire revenir l'oignon émincé et l'ail écrasé. Ajouter les légumes émincés et les morceaux de poulet. Saupoudrer de sel, poivre et curry. Ajouter les tomates pelées au jus. Bien mélanger, couvrir et laisser mijoter pendant 20 mn. A la fin de la cuisson, ajouter la fécule préalablement délayée dans un peu d'eau froide. Faire épaissir en remuant. Retirer du feu, ajouter le fromage blanc et le jus de citron. Bien mélanger.Le mélange des fruits et légumes est appréciable, et les couleurs du plat sont belles à voir !
+  ]]>
+  </preparation>
+</recette>

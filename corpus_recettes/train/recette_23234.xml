@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23234">
+  <titre>La tarte aux pêches de Manon</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rouleau pâte sablée</p>
+    <p>1 paquet palets pur beurre bretons</p>
+    <p>2 boîtes oreillons de pêche ou même quantité de fruits frais</p>
+    <p>sucre glace ou sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la pâte sablée et en garnir un moule à tarte. Marquer la pâte à l'aide d'une fourchette. Emietter les palets bretons et en tapisser le fond de tarte. Disposer par dessus les oreillons de pêche et saupoudrer de sucre glace ou sucre vanillé. Cuire à 20/25 min à 180°C (thermostat 6).Peut se servir tiède, accompagné d'une boule de glace vanille.
+  ]]>
+  </preparation>
+</recette>

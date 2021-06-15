@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15068">
+  <titre>Poisson au lait de coco et aux poivrons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 filets de poisson</p>
+    <p>lait de coco (1 boîte) </p>
+    <p>2 cuillères à soupe de noix de coco râpée</p>
+    <p>2 poivrons (1 rouges et 1 vert) coupés en petits dés</p>
+    <p>1 ou 2 cuillères à café de coriandre en poudre</p>
+    <p>1 petite cuillère à café de gingembre en poudre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les filets de poisson en petits morceaux. Les mélanger aux autres ingrédients et les mettre en papillotes (sans oublier le lait de coco).
+    Enfourner 45 min à 220°C.
+    Servir avec du riz basmati.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27029">
+  <titre>Feuilleté de bar farci</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de pâte feuilletée</p>
+    <p>1 bar de 1 kg vidé</p>
+    <p>100 g de foies de volaille</p>
+    <p>150 g de champignons de Paris</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>1 oeuf + 1 jaune d'oeuf</p>
+    <p>1 oignon </p>
+    <p>3 cuillères à soupe de lait</p>
+    <p>50 g de mie de pain</p>
+    <p>2 cuillères à soupe de persil haché</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C (thermostat 6).
+    Faites revenir les foies de volailles, l'oignon et les champignons hachés quelques minutes dans l'huile. Laissez refroidir puis incorporez l'oeuf entier, la mie de pain trempée dans 2 cuillères à soupe de lait et le persil. Assaisonnez.
+    Enlevez la peau du bar, salez et poivrez. Etalez la pâte feuilletée et posez le poisson dessus. Garnissez l'intérieur du poisson de farce.
+    Rabattez la pâte sur le poisson. Décorez de motifs à la pointe du couteau. Délayez le jaune avec le reste du lait et étalez au pinceau sur la pâte.
+    Enfournez pour 40 minutes.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="175724">
+  <titre>Ravioli au saumon et leur crème de fenouil (Rencontre Marmiton Le Mans-Nantes)</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de semoule de blé fine</p>
+    <p>50 g de farine</p>
+    <p>100 g d’épinards hachés surgelés, un peu d’eau</p>
+    <p>Pour la farce :</p>
+    <p>3 pavés de saumon (environ 600 g) sans la peau </p>
+    <p>2 tranches de saumon fumé</p>
+    <p>2 jaunes d’œuf</p>
+    <p>2 cuillères à soupe de crème fraîche épaisse </p>
+    <p>quelques brins d’aneth</p>
+    <p>sel et poivre</p>
+    <p>Pour la crème de fenouil :</p>
+    <p>2 bulbes de fenouil</p>
+    <p>1 cube de bouillon</p>
+    <p>20 cl de crème fleurette</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixer tous les ingrédients de la farce, elle doit rester assez ferme, ne pas être coulante. Réserver au frigo dans une poche à douille.
+    Cuire les épinards surgelés au micro-onde avec un peu d’eau. Bien mixer la préparation. Mélanger semoule fine et farine, ajouter la purée d’épinards, bien pétrir. Laisser reposer 1/2heure.
+    Laminer la pâte en ajoutant de la farine si besoin, elle ne doit pas coller aux rouleaux du laminoir.
+    Préparer les ravioli (j’utilise une plaque à ravioli, mais on peut s’en passer, voir la technique ici. )
+    La poche à douille permet de doser facilement la quantité de farce, très pratique quand on utilise un moule à ravioli.
+    Laver les bulbes de fenouil, éliminer la première épaisseur si elle est abîmée. Les émincer finement et les faire revenir dans un peu de beurre. Ajouter un verre d’eau, sel poivre et le cube de bouillon. Couvrir et laisser mijoter jusqu’à ce qu’ils soient bien tendres.
+    Les passer au blender avec 20 cl de crème fraîche liquide et un peu d’eau si besoin. On peut aussi passer ce velouté au chinois pour qu'il soit parfaitement lisse.
+    Cuire les ravioli quelques minutes dans un grand volume d’eau bouillante salée. Bien surveiller, en général quand ils commencent à remonter à la surface, ils ont cuits. Servir immédiatement avec la crème de fenouil.Quand je prépare des ravioli, je fais toujours une grande quantité, je les congèle aussitôt en les rangeant sur une plaque, séparés par une feuille de papier sulfurisé. Dès qu'ils sont congelés, je les rassemble dans un sac congélation.
+    Avec ces ingrédients j'ai préparé 220 ravioli de 3cm x 3cm.
+    Ne pas les garder plus de quelques heures au réfrigérateur (quand on les prépare l'après-midi pour le soir par exemple, ça va), c'est trop humide, cela les rend collants, même en les farinant bien. Mieux vaut les congeler.
+    Pour les cuire, je les jette encore gelés dans l'eau bouillante salée, la cuisson prendra quelques minutes de plus que pour des ravioli frais. Attention, cela va très vite quand même.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Mixer</OPER> tous les ingrédients de la farce, elle doit rester assez ferme, ne pas être coulante. Réserver au frigo dans une poche à douille. <OPER id="o_2">Cuire</OPER> les <INGRED id="3">épinards</INGRED> surgelés au micro-onde avec un <INGRED id="14">peu</INGRED> d’ <INGRED id="1">eau</INGRED>. Bien <OPER id="o_3">mixer</OPER> la <INGRED id="4">préparation</INGRED>. <OPER id="o_4">Mélanger</OPER> <INGRED id="1">semoule</INGRED> fine et <INGRED id="5">farine</INGRED>, <OPER id="o_516">ajouter</OPER> la <INGRED id="5">purée</INGRED> d’ épinards, bien <OPER id="o_6">pétrir</OPER>. Laisser <OPER id="o_7">reposer</OPER> 1/2heure. <OPER id="o_8">Laminer</OPER> la pâte en ajoutant de la <INGRED id="1">farine</INGRED> si besoin, elle ne doit pas <OPER id="o_9">coller</OPER> aux <INGRED id="1">rouleaux</INGRED> du laminoir. <OPER id="o_10">Préparer</OPER> les ravioli ( j’ utilise une plaque à ravioli, mais on peut s’ en <OPER id="o_11">passer</OPER>, <OPER id="o_12">voir</OPER> la technique ici. ) La poche à douille permet de <OPER id="o_13">doser</OPER> facilement la quantité de farce, très pratique quand on utilise un moule à ravioli. <OPER id="o_14">Laver</OPER> les <INGRED id="12">bulbes de fenouil</INGRED>, <OPER id="o_15">éliminer</OPER> la première épaisseur si elle est abîmée. Les <OPER id="o_169">émincer</OPER> finement et les <INGRED id="4">faire</INGRED> <OPER id="o_17">revenir</OPER> dans un <INGRED id="10">peu</INGRED> de <INGRED id="12">beurre</INGRED>. <OPER id="o_18">Ajouter</OPER> un verre d’ <INGRED id="5">eau</INGRED>, <INGRED id="5">sel poivre</INGRED> et le <INGRED id="4">cube</INGRED> de <INGRED id="11">bouillon</INGRED>. <OPER id="o_19">Couvrir</OPER> et <INGRED id="12">laisser</INGRED> <OPER id="o_20">mijoter</OPER> jusqu’ à ce qu’ ils soient bien tendres. Les <OPER id="o_21">passer</OPER> au blender avec 20 <INGRED id="2">cl</INGRED> de <INGRED id="4">crème fraîche liquide</INGRED> et un <INGRED id="14">peu</INGRED> d’ <INGRED id="10">eau</INGRED> si besoin. On peut aussi <OPER id="o_22">passer</OPER> ce velouté au chinois pour qu'il soit parfaitement lisse. <OPER id="o_23">Cuire</OPER> les ravioli quelques minutes dans un grand volume d’ <INGRED id="10">eau</INGRED> bouillante salée. Bien <OPER id="o_24">surveiller</OPER>, en général quand ils commencent à <OPER id="o_25">remonter</OPER> à la surface, ils ont cuits. Servir immédiatement avec la crème de <INGRED id="5">fenouil</INGRED>. Quand je prépare des ravioli, je fais toujours une grande quantité, je les congèle aussitôt en les rangeant sur une plaque, séparés par une feuille de papier sulfurisé. Dès qu'ils sont congelés, je les rassemble dans un sac congélation. Avec ces ingrédients j'ai préparé 220 ravioli de 3 cm x 3 cm. Ne pas les <OPER id="o_26">garder</OPER> plus de quelques heures au réfrigérateur ( quand on les prépare l'après-midi pour le soir par exemple, ça va ), c'est trop humide, cela les rend collants, même en les farinant bien. Mieux vaut les <OPER id="o_27">congeler</OPER>. Pour les cuire, je les jette encore gelés dans l'<INGRED id="11">eau</INGRED> bouillante salée, la cuisson prendra quelques minutes de plus que pour des ravioli frais. Attention, cela va très vite quand même.
+  </annotation>
+  <annotation methode="crf">
+  Mixer tous les ingrédients de la farce <INGRED>,</INGRED> elle doit rester assez ferme <INGRED>,</INGRED> ne pas être coulante. Réserver au frigo dans une <INGRED>poche</INGRED> à douille. Cuire les épinards surgelés au micro-onde avec un peu d’ <INGRED>eau</INGRED> <INGRED>.</INGRED> Bien mixer la préparation <INGRED>.</INGRED> Mélanger <INGRED>semoule</INGRED> fine et <INGRED>farine</INGRED> <INGRED>,</INGRED> ajouter la <INGRED>purée</INGRED> d’ épinards <INGRED>,</INGRED> bien pétrir <INGRED>.</INGRED> Laisser reposer 1/2heure. Laminer la <INGRED>pâte</INGRED> en ajoutant de la <INGRED>farine</INGRED> si besoin <INGRED>,</INGRED> elle ne doit pas coller aux rouleaux du laminoir. Préparer les <INGRED>ravioli</INGRED> ( j’ utilise une plaque à ravioli <INGRED>,</INGRED> mais on peut s’ en passer <INGRED>,</INGRED> voir la technique ici <INGRED>.</INGRED> ) La <INGRED>poche</INGRED> à douille permet de doser facilement la quantité de farce <INGRED>,</INGRED> très pratique quand on utilise un moule à ravioli <INGRED>.</INGRED> Laver les bulbes de <INGRED>fenouil</INGRED> <INGRED>,</INGRED> éliminer la première épaisseur si elle est abîmée. Les émincer <INGRED>finement</INGRED> et les faire revenir dans un peu de <INGRED>beurre</INGRED> <INGRED>.</INGRED> Ajouter un <INGRED>verre</INGRED> d’ <INGRED>eau</INGRED> <INGRED>,</INGRED> <INGRED>sel poivre</INGRED> et le cube de <INGRED>bouillon</INGRED> <INGRED>.</INGRED> Couvrir et laisser mijoter jusqu’ à ce qu’ ils soient bien tendres. Les passer au blender avec 20 cl de <INGRED>crème fraîche liquide</INGRED> et un peu d’ <INGRED>eau</INGRED> si besoin <INGRED>.</INGRED> On peut aussi passer ce velouté au chinois pour qu'il soit parfaitement lisse <INGRED>.</INGRED> Cuire les <INGRED>ravioli</INGRED> quelques minutes dans un grand <INGRED>volume</INGRED> d’ <INGRED>eau</INGRED> bouillante salée. Bien surveiller <INGRED>,</INGRED> en général quand ils commencent à remonter à la surface <INGRED>,</INGRED> ils ont cuits. Servir immédiatement avec la <INGRED>crème</INGRED> de <INGRED>fenouil</INGRED> <INGRED>.</INGRED> Quand je prépare des <INGRED>ravioli</INGRED> <INGRED>,</INGRED> je fais toujours une grande quantité <INGRED>,</INGRED> je les congèle aussitôt en les rangeant sur une plaque <INGRED>,</INGRED> séparés par une feuille de <INGRED>papier sulfurisé</INGRED> <INGRED>.</INGRED> Dès qu'ils sont congelés <INGRED>,</INGRED> je les rassemble dans un sac congélation <INGRED>.</INGRED> Avec ces ingrédients j'ai préparé 220 <INGRED>ravioli</INGRED> de 3 <INGRED>cm</INGRED> x 3 <INGRED>cm</INGRED> <INGRED>.</INGRED> Ne pas les garder plus de quelques heures au réfrigérateur ( quand on les prépare l'après-midi pour le soir par exemple <INGRED>,</INGRED> ça va ) <INGRED>,</INGRED> c'est trop humide, cela les rend collants <INGRED>,</INGRED> même en les farinant bien <INGRED>.</INGRED> Mieux vaut les congeler <INGRED>.</INGRED> Pour les cuire <INGRED>,</INGRED> je les jette encore gelés dans l'<INGRED>eau</INGRED> bouillante salée <INGRED>,</INGRED> la cuisson prendra quelques minutes de plus que pour des <INGRED>ravioli</INGRED> <INGRED>frais</INGRED> <INGRED>.</INGRED> Attention <INGRED>,</INGRED> cela va très vite quand même.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 14.7272727272727*X + 12.2727272727273</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 12*X + 16</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['semoule de blé fine', 'semoule']	 id:1	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:2	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['épinards hachés surgelés', 'épinards']	 id:3	 quantité:100	 unité:g d'	 denombrable:False	 recipient:1
+ingredient:['eau']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['pavés de saumon   sans la peau', 'pavés']	 id:5	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['saumon fumé', 'saumon']	 id:6	 quantité:2	 unité:tranches de	 denombrable:True	 recipient:2*X
+ingredient:["jaunes d'œuf", 'jaunes']	 id:7	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['crème fraîche épaisse', 'crème']	 id:8	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['aneth']	 id:9	 quantité:non_precis	 unité:brins d'	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['bulbes de fenouil', 'bulbes']	 id:12	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['bouillon']	 id:13	 quantité:1	 unité:cube de	 denombrable:True	 recipient:1*X
+ingredient:['crème fleurette', 'crème']	 id:14	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:15	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:16	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mixer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_2	 ingrédients_ralatifs:['3', '14', '1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:mixer	 id:o_3	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:pétrir	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:laminer	 id:o_8	 ingrédients_ralatifs:['1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:coller	 id:o_9	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparer	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:passer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:voir	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:doser	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:laver	 id:o_14	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:2*X*1	 recipient:0
+operation:éliminer	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:émincer	 id:o_16	 ingrédients_ralatifs:['4', '10', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:revenir	 id:o_17	 ingrédients_ralatifs:['4', '10', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_18	 ingrédients_ralatifs:['5', '5', '4', '11']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_19	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:passer	 id:o_21	 ingrédients_ralatifs:['2', '4', '14', '10']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:passer	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:cuire	 id:o_23	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:surveiller	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remonter	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garder	 id:o_26	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:congeler	 id:o_27	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

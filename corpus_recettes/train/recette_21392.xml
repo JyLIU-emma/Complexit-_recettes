@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21392">
+  <titre>Poulet  aux olives noires et au citron</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 beau poulet fermier</p>
+    <p>1 cuillère soupe de fond de volaille en poudre (sinon, 1 cube 1/2 de bouillon) </p>
+    <p>2 citrons</p>
+    <p>300 ml d'eau</p>
+    <p>12 petits oignons blancs ou 2 gros (coupés en rondelles) </p>
+    <p>4 cuillères à soupe d'olives noires</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte, faites revenir le poulet et les oignons dans un peu d'huile d'olive. 
+    Quand ils sont bien dorés, ajoutez l'eau, le jus d'un citron le fond de volaille. 
+    Pelez l'autre citron et le couper en rondelles. L'ajouter au poulet ainsi que les olives. 
+    Salez, poivrez. Couvrez et laissez cuire 35 mn à feu doux. 
+    Découpez le poulet et le servir avec la garniture citronnée.
+    Une recette facile et acidulée. Délicieux avec du riz, de la semoule  ou un gratin de courgettes.
+    Bon appétit!
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11709">
+  <titre>Salmorejo</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 grosses tomates bien mûres</p>
+    <p>1 demi-poivron</p>
+    <p>1 quart de concombre</p>
+    <p>du pain rassis mouillé</p>
+    <p>1 oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>huile d'olive</p>
+    <p>vinaigre</p>
+    <p>sel</p>
+    <p>1 œuf</p>
+    <p>jambon serrano</p>
+    <p>un peu de pain</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixer les tomates, le poivron, le concombre, le pain rassis, l'oignon et l'ail.
+    Assaisonner avec l'huile d'olive, le vinaigre et le sel.
+    Allonger d'eau jusqu'à contenance d'un potage.Détailler en très petits morceaux l'œuf dur, le jambon serrano et du pain.
+    Ajouter au potage.Déguster très frais.Le salmorejo est tout simplement un gazpacho auquel on ajoute de l'oeuf dur, du jambon serrano et du pain.
+  ]]>
+  </preparation>
+</recette>

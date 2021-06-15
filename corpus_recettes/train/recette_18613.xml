@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18613">
+  <titre>Curry japonais</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de porc coupé en morceaux de 3 cm sur 3 environ</p>
+    <p>4 carottes coupées en gros cubes</p>
+    <p>2 navets coupés en gros cubes</p>
+    <p>4 pommes de terre coupées en gros cubes</p>
+    <p>2 courgettes coupées en gros cubes</p>
+    <p>curry selon votre goût</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les morceaux de porc dans un peu d'huile jusqu'à ce qu'ils soient bien grillés. Les retirer et faire un roux avec la graisse qu'il y a dans la casserole (en rajouter si nécessaire). Ajouter de l'eau (un litre à un litre et demi), ainsi que le curry. Faire bouillir. Ajouter les morceaux de viande, les carottes et les navets. Après 10 minutes de cuisson ajouter les pommes de terre et les courgettes et laisser cuire sur feu doux encore 20 à 25 minutes.
+     
+    Le plat doit ressembler à une soupe que l'on servira avec un bol de riz blanc. Saler à convenance. 
+    On peut mettre aussi d'autres légumes comme haricots verts, poivrons…
+  ]]>
+  </preparation>
+</recette>

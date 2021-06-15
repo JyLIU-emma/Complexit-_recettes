@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25380">
+  <titre>Brochettes d'agneau marinées au yaourt épicé</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg d'épaule d'agneau désossée</p>
+    <p>1 yaourt nature</p>
+    <p>1 citron</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>1 pincée de curcuma</p>
+    <p>1 pincée de piment doux</p>
+    <p>1 pincée de quatre-épices</p>
+    <p>1 pincée de coriandre moulue</p>
+    <p>1/2 bouquet de coriandre fraîche</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez la viande en cube.
+    Mélangez le yaourt avec le jus de citron, l'huile d'olive et les épices. Ajoutez la moitié de la coriandre fraîche ciselée.
+    Faites mariner l'agneau dans ce mélange au moins 8 h au frais. Mélangez de temps en temps pour que les morceaux s'imprègnent bien.
+    Piquez les morceaux de viande égouttés sur des brochettes. Faites-les cuire 5 à 10 minutes en les retournant pour faire griller toutes les faces.
+  ]]>
+  </preparation>
+</recette>

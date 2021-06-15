@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15328">
+  <titre>Pierojki russes</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>350 g de farine</p>
+    <p>1 oeuf</p>
+    <p>13 cl d'eau tiède</p>
+    <p>sel</p>
+    <p>Pour la farce :</p>
+    <p>600 g de pommes de terre</p>
+    <p>250 g de fromage blanc frais</p>
+    <p>1 oignon</p>
+    <p>poivre</p>
+    <p>2 cuillères à soupe de beurre fondu</p>
+    <p>lardons (quantité selon vos goûts)</p>
+    <p>2 cl de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire la farce : pelez les pommes de terre et faites cuire dans de l'eau salée. Ecrasez-les et travaillez-les. Émincez l'oignon, faites-le dorer dans une cuillerée de beurre.Mélangez délicatement les pommes de terre, le fromage, l'oignon, avec le beurre, salez et poivrez.
+    Faites le pâte : versez la farine dans un saladier et ajoutez-y l'oeuf, salez, et arroser avec l'eau, pétrissez.Étalez la pâte au rouleau. Découpez-y avec un verre des ronds de 7 à 8 cm de diamètre. Garnissez chacun des ronds avec un peu de farce pliez en deux et soudez les bien les bords.
+    Faites cuire dans une grande quantité d'eau salée bouillante. Laissez cuire encore 2 à 3 minutes après flottaison.
+    Servez chaud avec du beurre fondu ou bien du lard fondu avec de gros lardons. Servez la crème fraîche à part.Très long à faire, très rapidement mangés.
+  ]]>
+  </preparation>
+</recette>

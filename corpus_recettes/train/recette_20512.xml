@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20512">
+  <titre>Mousse aux crevettes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de Philadelphia </p>
+    <p>1 petite boîte crème de tomate</p>
+    <p>1.5 sachets de gélatine neutre</p>
+    <p>1/2 tasse de céleri</p>
+    <p>1/2 oignon</p>
+    <p>1 tasse de crevette</p>
+    <p>1 tasse de mayonnaise</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le fromage avec la crème de tomate, diluer la gélatine dans de l'eau ajouter au mélange de fromage, retirer du feu. Ajouter le céleri, l'oignon, crevette et la mayonnaise, verser dans un moule huilé, laisser prendre au réfrigérateur de 3 à 4 heures. Servir avec des biscottes.
+  ]]>
+  </preparation>
+</recette>

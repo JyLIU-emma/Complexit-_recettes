@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26270">
+  <titre>Pâté en croûte aux olives</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>700 g de pâte brisée </p>
+    <p>400 g de viande de veau hachée </p>
+    <p>400 g d'échine de porc hachée</p>
+    <p>2 échalotes hachées</p>
+    <p>2 oeufs</p>
+    <p>1/2 bouquet de persil haché</p>
+    <p>1/2 bouquet de ciboulette haché</p>
+    <p>sel, poivre</p>
+    <p>3 pincées de noix de muscade râpée</p>
+    <p>1 pincée de quatre épices</p>
+    <p>200 g d'olives vertes </p>
+    <p>100 g de jambon cuit</p>
+    <p>1 jaune d'oeuf </p>
+    <p>5 cl de cognac</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°, thermostat 6-7.
+    Détailler le jambon en lanières.
+    Beurrer un moule à cake.
+    Etaler les 3/4 de la pâte sur 5 mm environ et habiller le moule en laissant déborder la pâte tout autour.
+    Mélanger tous les ingrédients sauf le jambon. Etaler cette farce dans le moule en alternant avec les lanières de jambon.
+    Etaler le dernier quart de pâte et le poser sur le pâté.
+    Bien fermer le pâté en roulant les bordures. Récupérer les chutes de pâte pour décorer le dessus du pâté.
+    Enfourner pour 1 h. Si la croûte brûle, la couvrir d'une feuille de papier aluminium.
+  ]]>
+  </preparation>
+</recette>

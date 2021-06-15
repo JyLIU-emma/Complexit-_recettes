@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26252">
+  <titre>Pigeons farcis au jambon cru et raisins</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 pigeons bardés</p>
+    <p>50 g de riz cuit</p>
+    <p>150 g de jambon cru</p>
+    <p>100 g de champignons</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>1 poignée de raisins secs</p>
+    <p>1 cuillère à soupe de sauce tomate</p>
+    <p>50 g de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites tremper les raisins dans de l'eau tiède environ 30 minutes.
+    Mélangez le riz avec 50 g de jambon haché et les raisins égouttés.
+    Salez, poivrez, ajoutez une cuillère à soupe de beurre fondu.  
+    Farcissez les pigeons et recousez l'ouverture.
+    Faites fondre le reste de beurre dans une cocotte.
+    Faites-y revenir le jambon coupé en dés puis ajoutez les pigeons et faites-les dorer sur toutes leurs faces pendant 10 min.
+    Salez, poivrez et ajoutez les champignons émincés.
+    Laissez mijoter 20 min en mouillant de temps en temps au peu vin blanc.
+    Délayez la sauce tomate dans la sauce et servez.
+    Accompagnez de riz ou de pommes dauphines.
+  ]]>
+  </preparation>
+</recette>

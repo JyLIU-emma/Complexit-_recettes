@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22320">
+  <titre>Cassoulet au saucisson et au canard</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>900 g de haricots blancs</p>
+    <p>3 ailes et 3 cuisses de canard confites</p>
+    <p>3 saucissons à cuire</p>
+    <p>4 gousses d'ail</p>
+    <p>225 g de lard fumé</p>
+    <p>1 bouquet de persil</p>
+    <p>9 brins de thym</p>
+    <p>1 oignon piqué de 2 clous de girofle</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille :
+    Faites tremper les haricots dans l'eau froide.
+    Le jour même :
+    Egouttez les haricots et mettez-les dans l'eau froide avec l'oignon clouté et le thym. Amenez à ébullition et laissez cuire 1 heure. Salez et poivrez en fin de cuisson.
+    Préchauffez le four à 180°C (thermostat 8).
+    Frottez d'ail un plat en terre à feu. Déposez-y le confit, les saucissons et le lard coupé en dés. Ajoutez les haricots égouttés et quelques louches de leur eau de cuisson.
+    Portez à ébullition puis enfournez pour 1h30 de cuisson.
+    Saupoudrez de persil haché avant de servir.
+  ]]>
+  </preparation>
+</recette>

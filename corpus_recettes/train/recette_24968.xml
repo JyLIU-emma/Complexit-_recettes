@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24968">
+  <titre>Tarte à la ricotta et aux fruits confits</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>150 g de beurre</p>
+    <p>3 oeufs + 1 jaune d'oeuf</p>
+    <p>110 g de sucre</p>
+    <p>300 g de ricotta</p>
+    <p>50 g de raisins secs</p>
+    <p>50 g de fruits confits hachés</p>
+    <p>5 cl de rhum</p>
+    <p>1 pincée de sel</p>
+    <p>4 cuillères à soupe d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Malaxez la farine avec le beurre coupé en dés, 1 oeuf entier, 10 g de sucre, le sel et l'eau. Travaillez jusqu'à l'obtention d'une pâte homogène. Roulez en boule et laissez reposer 1 heure.
+    Trempez les raisins et les fruits confits dans le rhum.
+    Préchauffez le four à 200°C (thermostat 6-7).
+    Etalez la pâte au rouleau et disposez-la dans un moule à tarte beurré.
+    Mélangez le fromage blanc avec les 2 oeufs entiers, le sucre, les raisins et les fruits confits égouttés.
+    Versez la préparation sur le fond de tarte et décorez le dessus de la tarte avec les chutes de pâte.
+    Dorez au jaune d'oeuf.
+    Enfournez pour 35 minutes de cuisson. 
+    La ricotta est un fromage frais italien.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22627">
+  <titre>Charlotte aux framboises et crème pâtissière</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>450 g de biscuits à la cuillère</p>
+    <p>3 cuillères à soupe de kirsch</p>
+    <p>37.5 cl de lait vanillé (lait infusé avec 1/2 gousse de vanille)</p>
+    <p>3 oeufs</p>
+    <p>75 g de sucre</p>
+    <p>2 cuillère à soupe de farine</p>
+    <p>225 g de crème fraîche</p>
+    <p>300 g de framboises</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tapissez le fond et les parois d'un moule à charlotte avec les biscuits puis les arroser de kirsch.
+    Préparez la crème pâtissière :
+    Chauffez le lait avec la vanille.
+    Fouettez les oeufs avec le sucre et la farine puis verser le lait chaud. Faites épaissir sur feu doux en remuant puis laisser refroidir.
+    Montez la crème froide en chantilly puis l'incorporez délicatement à la préparation précédente.
+    Remplissez en alternant les couches de fruits, de crème et de biscuits en terminant par les biscuits.
+    Placez au frais, avec une assiette et un léger poids par-dessus. Démoulez et décorez de fruits.
+  ]]>
+  </preparation>
+</recette>

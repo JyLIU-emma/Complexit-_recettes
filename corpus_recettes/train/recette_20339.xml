@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20339">
+  <titre>GÂTEAU SAVOUREUX AU RHUM ET AUX RAISINS</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de fromage blanc non granuleux</p>
+    <p>75 g de raisins secs</p>
+    <p>2 cuillères à soupe de rhum</p>
+    <p>125 g de sucre</p>
+    <p>1 oeuf</p>
+    <p>100 g de farine</p>
+    <p>1 cuillère à café de levure</p>
+    <p>10 g de beurre pour le plat</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Versez le fromage blanc dans une étamine, dans une passoire fine pour l'égoutter. Rincez les raisins secs et mettez-les dans un bol, puis arrosez-les avec le rhum. Laissez macérer 1 heure. 
+    Faites chauffer le four à 200°C (Th 7 ). Beurrez un petit plat à gratin. 
+    Travaillez l'oeuf avec le sucre, puis incorporez successivement la farine, la levure, le fromage blanc, les raisins et le rhum de la macération. 
+    Verser la préparation dans le plat beurré et lissez la surface. Glissez-le dans le four et laissez cuire pendant 30 mn. 
+    Lorsque le savoureux est cuit, sortez-le du four et laissez-le tiédir. Server tiède ou froid dans le plat de cuisson, mais pas glacé.
+    Vite fait et très bon.
+  ]]>
+  </preparation>
+</recette>

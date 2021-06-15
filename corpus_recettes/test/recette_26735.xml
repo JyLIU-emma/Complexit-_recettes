@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26735">
+  <titre>Veau au roquefort et au cognac</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 tranches de rôti de veau</p>
+    <p>75 g de pignons de pin</p>
+    <p>75 g de roquefort</p>
+    <p>45 g de beurre</p>
+    <p>4 échalotes</p>
+    <p>3 cl de cognac</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>15 cl de vin blanc sec</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer le beurre au roquefort : malaxer le beurre et le fromage pendant 5 min pour obtenir une crème.
+    Emincer finement les échalotes.
+    Dans une poêle faire dorer les tranches de veau. Ajouter les échalotes et le vin et laisser cuire doucement pendant 2 min.
+    Salez, poivrer et ajouter le beurre au roquefort, puis le cognac et les pignons de pin.
+  ]]>
+  </preparation>
+</recette>

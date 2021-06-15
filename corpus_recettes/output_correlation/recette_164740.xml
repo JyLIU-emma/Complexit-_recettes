@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164740">
+  <titre>Paupiettes sauce ail et vin blanc</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>-8 paupiettes de porc (2 par personnes)</p>
+    <p>-1 tete d'ail(petite) </p>
+    <p>-1/2 litre de vin blanc (vin ordinaire sec)</p>
+    <p>-3/4 cuillères a soupe d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    -marinade : placer les paupiettes dans un plat,verser le vin blanc sec sur les paupiettes et y ajouter l'ail coupée en petits morceaux (laisser une nuit au réfrigérateur)
+    -cuisson : dans votre plat(allant au four) mettre l'huile y placer les paupiettes et les rouler dans l'huile. Mettre a cuire pendant environ 20 a 25 min au four a 200°/210° en les tournants de temp en temp pour quelles soient dorées uniformément.
+    Une fois cuitent les mettre de coté dans un plat.
+    Versé la marinade(vin blanc et ail) dans le plat de cuisson toujours au four et laissé reduire la sauce jusqu'a votre convenance (qu'il ne reste plus qu'un quart de la marinade environ) et la verser sur les paupiettes
+    bon appetit !!!La cuisson des paupiettes et les quantités d'ail et de vin blanc sont modifiable selon le gout de chacun !!! Vin blanc
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  -marinade : <OPER id="o_1">placer</OPER> les paupiettes dans un plat, <OPER id="o_2">verser</OPER> le <INGRED id="4">vin blanc sec</INGRED> sur les paupiettes et y <OPER id="o_3">ajouter</OPER> l'<INGRED id="4">ail</INGRED> coupée en <INGRED id="3">petits</INGRED> <INGRED id="1">morceaux</INGRED> ( laisser une nuit au réfrigérateur ) -cuisson : dans votre plat(allant au four ) <OPER id="o_4">mettre</OPER> l'huile y <OPER id="o_5">placer</OPER> les paupiettes et les <OPER id="o_6">rouler</OPER> dans l'<INGRED id="4">huile</INGRED>. <OPER id="o_7">Mettre</OPER> a <OPER id="o_8">cuire</OPER> pendant environ 20 a 25 min au four a 200 ° /210 ° en les tournants de temp en temp pour quelles soient dorées uniformément. Une fois cuitent les <OPER id="o_9">mettre</OPER> de coté dans un plat. Versé la marinade(vin <INGRED id="1">blanc</INGRED> et ail ) dans le plat de cuisson toujours au four et laissé <OPER id="o_10">reduire</OPER> la sauce jusqu'a votre convenance ( qu'il ne <INGRED id="1">reste</INGRED> plus qu'un quart de la marinade environ ) et la <OPER id="o_11">verser</OPER> sur les paupiettes bon appetit ! ! ! La cuisson des paupiettes et les quantités d'<INGRED id="3">ail</INGRED> et de <INGRED id="2">vin blanc</INGRED> sont modifiable selon le gout de chacun ! ! ! Vin blanc
+  </annotation>
+  <annotation methode="crf">
+  -marinade <INGRED>:</INGRED> placer les paupiettes dans un plat <INGRED>,</INGRED> verser le <INGRED>vin blanc sec</INGRED> sur les paupiettes et y ajouter l'<INGRED>ail</INGRED> coupée en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> ( laisser une nuit au réfrigérateur ) -cuisson <INGRED>:</INGRED> dans votre plat(allant au four ) mettre l'<INGRED>huile</INGRED> y placer les paupiettes et les rouler dans l'<INGRED>huile</INGRED>. Mettre a cuire pendant <INGRED>environ</INGRED> 20 <INGRED>a</INGRED> 25 min au four <INGRED>a</INGRED> 200 ° /210 ° en les tournants de temp en temp pour quelles soient dorées uniformément <INGRED>.</INGRED> Une fois cuitent les mettre de coté dans un plat <INGRED>.</INGRED> Versé la marinade(vin <INGRED>blanc</INGRED> et <INGRED>ail</INGRED> ) dans le plat de cuisson toujours au four et laissé reduire la <INGRED>sauce</INGRED> jusqu'<INGRED>a</INGRED> votre convenance ( qu'il ne reste plus qu'un quart de la marinade <INGRED>environ</INGRED> ) et la verser sur les paupiettes bon appetit ! ! ! La cuisson des paupiettes et les quantités d'<INGRED>ail</INGRED> et de <INGRED>vin blanc</INGRED> sont modifiable selon le gout de chacun ! ! ! Vin blanc
+  </annotation>
+  <complexite>
+    <temps>f(X) = 11.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['-8 paupiettes de porc', '-8']	 id:1	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["-1 tete d'ail", '-1']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['vin blanc', 'vin']	 id:3	 quantité:non_precis	 unité:litre de	 denombrable:False	 recipient:1
+ingredient:["soupe d'huile", 'soupe']	 id:4	 quantité:non_precis	 unité:cuillères a	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:placer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_2	 ingrédients_ralatifs:['4', '4', '3', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_3	 ingrédients_ralatifs:['4', '3', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_4	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:placer	 id:o_5	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rouler	 id:o_6	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cuire	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:mettre	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:reduire	 id:o_10	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

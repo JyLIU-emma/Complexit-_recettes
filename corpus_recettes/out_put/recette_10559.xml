@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10559">
+  <titre>Beakaofa</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>350 g gîte de boeuf désossé</p>
+    <p>350 g longe de porc désossée</p>
+    <p>300 g épaule d'agneau s/os</p>
+    <p>1,5 kg de pommes de terre</p>
+    <p>500 g de carottes</p>
+    <p>1 poireau</p>
+    <p>1 oignon</p>
+    <p>laurier, thym, sel et poivre</p>
+    <p>1 litre de vin blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    24 H à l'avance couper les trois viandes en gros dés, émincez l'oignon dans un grand plat creux, mettre le tout avec les épices à mariner dans le vin blanc, saler et poivrer laisser reposer au réfrigérateur.
+    Le jour de la cuisson, éplucher les pommes de terre, les carottes et le poireau, puis couper les légumes en fines tranches. Dans une grande terrine en grès, disposer une couche de pommes de terre, puis de carottes puis de viandes et de poireaux, puis à nouveau une couche de pommes de terre, et ainsi de suite.
+    Ajouter le jus de la marinade et au besoin rajouter du vin blanc de manière à recouvrir le tout. Saler, poivrer et couvrir.
+    Cuire à 200°C (thermostat 6-7) pendant 3h environ. Vin blanc d'Alsace (Riesling)
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  24 H à l'avance <OPER id="o_1">couper</OPER> les trois viandes en gros dés, <OPER id="o_2">émincez</OPER> l'<INGRED id="7">oignon</INGRED> dans un grand plat creux, <OPER id="o_3">mettre</OPER> le tout avec les épices à <OPER id="o_4">mariner</OPER> dans le <INGRED id="12">vin blanc</INGRED>, <OPER id="o_5">saler</OPER> et <OPER id="o_6">poivrer</OPER> laisser <OPER id="o_7">reposer</OPER> au réfrigérateur. Le jour de la cuisson, <OPER id="o_8">éplucher</OPER> les <INGRED id="5">pommes de terre</INGRED>, les <INGRED id="5">carottes</INGRED> et le <INGRED id="6">poireau</INGRED>, puis <OPER id="o_9">couper</OPER> les légumes en fines tranches. Dans une grande terrine en grès, <OPER id="o_10">disposer</OPER> une couche de <INGRED id="4">pommes de terre</INGRED>, puis de <INGRED id="5">carottes</INGRED> puis de viandes et de poireaux, puis à nouveau une couche de <INGRED id="6">pommes de terre</INGRED>, et ainsi de suite. <OPER id="o_11">Ajouter</OPER> le <INGRED id="5">jus</INGRED> de la marinade et au besoin <OPER id="o_12">rajouter</OPER> du <INGRED id="12">vin blanc</INGRED> de manière à <OPER id="o_13">recouvrir</OPER> le tout. <OPER id="o_14">Saler</OPER>, <OPER id="o_15">poivrer</OPER> et <OPER id="o_16">couvrir</OPER>. <OPER id="o_17">Cuire</OPER> à 200 ° C ( thermostat 6 - 7 ) pendant 3h environ. Vin blanc d'Alsace ( Riesling )
+  </annotation>
+  <annotation methode="crf">
+  24 H à l'avance couper les trois viandes en <INGRED>gros</INGRED> dés <INGRED>,</INGRED> émincez l'<INGRED>oignon</INGRED> dans un grand plat creux <INGRED>,</INGRED> mettre le tout avec les <INGRED>épices</INGRED> à mariner dans le <INGRED>vin blanc</INGRED> <INGRED>,</INGRED> saler et poivrer laisser reposer au réfrigérateur. Le jour de la cuisson <INGRED>,</INGRED> éplucher les <INGRED>pommes de terre</INGRED> <INGRED>,</INGRED> les <INGRED>carottes</INGRED> et le <INGRED>poireau</INGRED> <INGRED>,</INGRED> puis couper les <INGRED>légumes</INGRED> en fines tranches. Dans une grande terrine en grès <INGRED>,</INGRED> disposer une couche de <INGRED>pommes de terre</INGRED> <INGRED>,</INGRED> puis de <INGRED>carottes</INGRED> puis de viandes et de <INGRED>poireaux</INGRED> <INGRED>,</INGRED> puis à nouveau une couche de <INGRED>pommes de terre</INGRED> <INGRED>,</INGRED> et ainsi de suite <INGRED>.</INGRED> Ajouter le <INGRED>jus</INGRED> de la marinade et au besoin rajouter du <INGRED>vin blanc</INGRED> de manière à recouvrir le tout <INGRED>.</INGRED> Saler <INGRED>,</INGRED> poivrer et couvrir <INGRED>.</INGRED> Cuire à 200 ° C ( thermostat 6 - 7 ) pendant 3h <INGRED>environ</INGRED>. Vin blanc d'Alsace ( Riesling )
+  </annotation>
+  <complexite>
+    <temps>f(X) = 3.33333333333333*X + 16.6666666666667</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 2*X + 17</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['boeuf désossé', 'boeuf']	 id:1	 quantité:350	 unité:g gîte de	 denombrable:False	 recipient:1
+ingredient:['porc désossée', 'porc']	 id:2	 quantité:350	 unité:g longe de	 denombrable:False	 recipient:1
+ingredient:['agneau s-os', 'agneau']	 id:3	 quantité:300	 unité:g épaule d'	 denombrable:False	 recipient:1
+ingredient:['pommes de terre', 'pommes']	 id:4	 quantité:1,5	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['carottes']	 id:5	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['poireau']	 id:6	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['oignon']	 id:7	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['laurier']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['thym']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['vin blanc', 'vin']	 id:12	 quantité:1	 unité:litre de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:couper	 id:o_1	 ingrédients_ralatifs:['7', '12']	 nombre_opération_atomique:1*X+1	 temps:1*X*1+1*X*1	 recipient:1
+operation:émincer	 id:o_2	 ingrédients_ralatifs:['7', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_3	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mariner	 id:o_4	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:saler	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:éplucher	 id:o_8	 ingrédients_ralatifs:['5', '5', '6']	 nombre_opération_atomique:1+1+1*X	 temps:1*X*1+1*X*1+1*X*1	 recipient:0
+operation:couper	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:disposer	 id:o_10	 ingrédients_ralatifs:['4', '5', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_11	 ingrédients_ralatifs:['5', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rajouter	 id:o_12	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recouvrir	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+]]>
+</operation_trouve>
+</recette>

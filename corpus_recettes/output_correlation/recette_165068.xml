@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165068">
+  <titre>Tiémont (gratin provençal viande / blettes)</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 paquets de blettes</p>
+    <p>500g de viande boeuf hachée</p>
+    <p>1 oignon</p>
+    <p>120g de fromage râpé</p>
+    <p>2 oeufs</p>
+    <p>20cl de lait</p>
+    <p>20g de beurre</p>
+    <p>chapelure</p>
+    <p>herbes de Provence</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Retirer la côte blanche des blettes, ne garder que le vert. Faire cuire le vert de blettes 20 minutes à la vapeur. 
+    Pendant ce temps, dans une grande poele, faire revenir l'oignon haché dans un peu d'huile d'olive. Lorsqu'il est blond, rajouter la viande hachée et faire cuire (env. 10 minutes).
+    Lorsque les blettes sont cuites, bien les essorer en les pressant. Les hacher manuellement (pas au hachoir électrique sinon ça fait de la purée).
+    Ajouter à l'oignon et la viande revenus dans la poele : les blettes, deux oeufs entiers battus, le fromage râpé, le lait, les herbes de Provence, du sel et du poivre. Bien mélanger le tout.
+    Mettre cette préparation dans un plat allant au four. Recouvrir de chapelure et parsemer de petits morceaux de beurre.
+    Mettre au four à 200° pendant 30 minutes.
+    A manger tiède avec une salade verte. Rouge de Provence
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Retirer</OPER> la côte blanche des <INGRED id="1">blettes</INGRED>, ne <OPER id="o_2">garder</OPER> que le <INGRED id="7">vert</INGRED>. Faire <OPER id="o_3">cuire</OPER> le <INGRED id="7">vert</INGRED> de <INGRED id="1">blettes</INGRED> 20 minutes à la vapeur. Pendant ce temps, dans une grande poele, <INGRED id="10">faire</INGRED> <OPER id="o_4">revenir</OPER> l'<INGRED id="4">oignon</INGRED> haché dans un peu d'<INGRED id="5">huile d'olive</INGRED>. Lorsqu'il est blond, <OPER id="o_5">rajouter</OPER> la viande hachée et <INGRED id="10">faire</INGRED> <OPER id="o_6">cuire</OPER> ( env. 10 minutes ). Lorsque les <INGRED id="1">blettes</INGRED> sont cuites, bien les <OPER id="o_7">essorer</OPER> en les pressant. Les <OPER id="o_8">hacher</OPER> manuellement ( pas au hachoir électrique sinon ça fait de la <INGRED id="5">purée</INGRED> ). <OPER id="o_9">Ajouter</OPER> à l'<INGRED id="3">oignon</INGRED> et la <INGRED id="1">viande</INGRED> revenus dans la poele : les <INGRED id="1">blettes</INGRED>, deux <INGRED id="2">oeufs</INGRED> entiers battus, le <INGRED id="4">fromage râpé</INGRED>, le <INGRED id="1">lait</INGRED>, les <INGRED id="9">herbes de Provence</INGRED>, du <INGRED id="4">sel</INGRED> et du <INGRED id="12">poivre</INGRED>. Bien <OPER id="o_10">mélanger</OPER> le tout. <OPER id="o_11">Mettre</OPER> cette <INGRED id="4">préparation</INGRED> dans un plat allant au four. <OPER id="o_12">Recouvrir</OPER> de <INGRED id="4">chapelure</INGRED> et <OPER id="o_13">parsemer</OPER> de <INGRED id="3">petits</INGRED> <INGRED id="1">morceaux</INGRED> de <INGRED id="8">beurre</INGRED>. <OPER id="o_14">Mettre</OPER> au four à 200 ° pendant 30 minutes. A <OPER id="o_15">manger</OPER> tiède avec une salade verte. Rouge de Provence
+  </annotation>
+  <annotation methode="crf">
+  Retirer la côte blanche des <INGRED>blettes</INGRED> <INGRED>,</INGRED> ne garder que le vert. Faire cuire le vert de blettes 20 minutes à la vapeur. Pendant ce temps <INGRED>,</INGRED> dans une grande poele <INGRED>,</INGRED> faire revenir l'<INGRED>oignon haché</INGRED> dans un peu d'<INGRED>huile d'olive</INGRED> <INGRED>.</INGRED> Lorsqu'il est blond <INGRED>,</INGRED> rajouter la <INGRED>viande</INGRED> hachée et faire cuire ( env <INGRED>.</INGRED> 10 minutes ). Lorsque les <INGRED>blettes</INGRED> sont cuites <INGRED>,</INGRED> bien les essorer en les pressant <INGRED>.</INGRED> Les hacher manuellement ( pas au hachoir électrique sinon ça fait de la <INGRED>purée</INGRED> ). Ajouter à l'<INGRED>oignon</INGRED> et la <INGRED>viande</INGRED> revenus dans la poele <INGRED>:</INGRED> les <INGRED>blettes</INGRED> <INGRED>,</INGRED> <INGRED>deux</INGRED> <INGRED>oeufs entiers</INGRED> battus <INGRED>,</INGRED> le <INGRED>fromage</INGRED> râpé <INGRED>,</INGRED> le <INGRED>lait</INGRED> <INGRED>,</INGRED> les <INGRED>herbes de Provence</INGRED> <INGRED>,</INGRED> du <INGRED>sel</INGRED> et du <INGRED>poivre</INGRED>. Bien mélanger le tout <INGRED>.</INGRED> Mettre cette préparation dans un plat allant au four <INGRED>.</INGRED> Recouvrir de <INGRED>chapelure</INGRED> et parsemer de <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> de <INGRED>beurre</INGRED> <INGRED>.</INGRED> Mettre au four à 200 ° pendant 30 minutes. A manger tiède avec une salade verte. Rouge de Provence
+  </annotation>
+  <complexite>
+    <temps>f(X) = 5.35714285714286*X + 9.64285714285714</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 5*X + 16</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['blettes']	 id:1	 quantité:2	 unité:paquets de	 denombrable:True	 recipient:2*X
+ingredient:['viande boeuf hachée', 'viande']	 id:2	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oignon']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['fromage râpé', 'fromage']	 id:4	 quantité:120	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:5	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['lait']	 id:6	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:7	 quantité:20	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['chapelure']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['herbes de Provence', 'herbes']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["huile d'olive", 'huile']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:retirer	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garder	 id:o_2	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_3	 ingrédients_ralatifs:['7', '1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:revenir	 id:o_4	 ingrédients_ralatifs:['10', '4', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:rajouter	 id:o_5	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_6	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:essorer	 id:o_7	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:hacher	 id:o_8	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:2*X*5	 recipient:1
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:['3', '1', '1', '2', '4', '1', '9', '4', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mettre	 id:o_11	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:recouvrir	 id:o_12	 ingrédients_ralatifs:['4', '3', '1', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:parsemer	 id:o_13	 ingrédients_ralatifs:['3', '1', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:manger	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

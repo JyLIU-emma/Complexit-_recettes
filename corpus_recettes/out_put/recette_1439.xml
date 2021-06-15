@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="1439">
+  <titre>Un amour de cheese au Carré Frais</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 barquette de Carré Frais au yahourt</p>
+    <p>1 citron</p>
+    <p>10 cl de crème fraîche entière épaisse</p>
+    <p>50 g de sucre en poudre</p>
+    <p>100 g de biscuits (type Petit beurre)</p>
+    <p>2 oeufs</p>
+    <p>30 g de beurre doux mou</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les Carrés Frais avec la crème fraîche, ajouter le zeste du citron (lavé), puis incorporer les oeufs entiers, le sucre et la pincée de sel.
+    Faire chauffer le four à 200°C (thermostat 6-7).
+    Pendant ce temps, écraser les biscuits, et les mélanger avec le beurre. 
+    Tapisser le fond d'un plat carré, pas trop grand, de ce mélange, et cuire environ 30 min... Vérifier la cuisson avec votre couteau.
+    Se déguste bien frais !
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Mélanger</OPER> les Carrés Frais avec la crème fraîche, <OPER id="o_2">ajouter</OPER> le <INGRED id="5">zeste</INGRED> du <INGRED id="7">citron</INGRED> ( lavé ), puis <OPER id="o_3">incorporer</OPER> les <INGRED id="7">oeufs entiers</INGRED>, le <INGRED id="2">sucre</INGRED> et la pincée de <INGRED id="4">sel</INGRED>. Faire <OPER id="o_4">chauffer</OPER> le four à 200 ° C ( thermostat 6 - 7 ). Pendant ce temps, <OPER id="o_5">écraser</OPER> les <INGRED id="5">biscuits</INGRED>, et les <OPER id="o_6">mélanger</OPER> avec le <INGRED id="2">beurre</INGRED>. <OPER id="o_7">Tapisser</OPER> le fond d'un plat <INGRED id="4">carré</INGRED>, pas trop grand, de ce mélange, et <OPER id="o_8">cuire</OPER> environ 30 min... <OPER id="o_9">Vérifier</OPER> la cuisson avec votre couteau. Se déguste bien frais !
+  </annotation>
+  <annotation methode="crf">
+  Mélanger les <INGRED>Carrés Frais</INGRED> avec la <INGRED>crème fraîche</INGRED> <INGRED>,</INGRED> ajouter le <INGRED>zeste</INGRED> du <INGRED>citron</INGRED> ( lavé ) <INGRED>,</INGRED> puis incorporer les <INGRED>oeufs entiers</INGRED> <INGRED>,</INGRED> le <INGRED>sucre</INGRED> et la pincée de <INGRED>sel</INGRED> <INGRED>.</INGRED> Faire chauffer le four à 200 ° C ( thermostat 6 - 7 ). Pendant ce temps <INGRED>,</INGRED> écraser les <INGRED>biscuits</INGRED> <INGRED>,</INGRED> et les mélanger avec le <INGRED>beurre</INGRED> <INGRED>.</INGRED> Tapisser le <INGRED>fond</INGRED> d'un plat <INGRED>carré</INGRED> <INGRED>,</INGRED> pas trop grand <INGRED>,</INGRED> de ce <INGRED>mélange</INGRED> <INGRED>,</INGRED> et cuire <INGRED>environ</INGRED> 30 min... Vérifier la cuisson avec votre couteau. Se déguste bien <INGRED>frais</INGRED> !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 5.0*X + 4.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 5*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['Carré Frais au yahourt', 'Carré']	 id:1	 quantité:1	 unité:barquette de	 denombrable:True	 recipient:1*X
+ingredient:['citron']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['crème fraîche entière épaisse', 'crème']	 id:3	 quantité:10	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['sucre en poudre', 'sucre']	 id:4	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['biscuits']	 id:5	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:6	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['beurre doux mou', 'beurre']	 id:7	 quantité:30	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:8	 quantité:1	 unité:pincée de	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mélanger	 id:o_1	 ingrédients_ralatifs:['5', '7', '7', '2', '4']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['5', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_3	 ingrédients_ralatifs:['7', '2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:écraser	 id:o_5	 ingrédients_ralatifs:['5', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_6	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:tapisser	 id:o_7	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:vérifier	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

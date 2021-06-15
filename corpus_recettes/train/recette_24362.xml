@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24362">
+  <titre>Sablé roulé aux pommes, raisins et noix</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>125 g de beurre</p>
+    <p>1 oeuf</p>
+    <p>750 g de pommes (reinettes de préférence)</p>
+    <p>100 g de sucre en poudre</p>
+    <p>1 sachet de cerneaux de noix</p>
+    <p>1 sachet de raisins secs</p>
+    <p>3 cuillerées à soupe de calvados</p>
+    <p>1 pincée de cannelle</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettez les raisins secs dans le calvados et laissez macérer au moins 30 min.
+    Mélangez la farine, l'oeuf, 1 pincée de sel et le beurre ramolli, formez une boule et laissez reposer.
+    Pelez, épépinez et coupez les pommes en morceaux.
+    Faites-les cuire avec le sucre et la cannelle.
+    Rajoutez les cerneaux de noix hachés et les raisins ainsi que le calvados où ils ont macéré. 
+    Etalez la pâte au rouleau, déposez le mélange pommes-noix-raisins et roulez la pâte sur elle-même.
+    Mettez-la sur une plaque à pâtisserie recouverte de papier sulfurisé et faites cuire 30 minutes au four à 200°C (thermostat 6-7).
+    Servez tiède et saupoudré de sucre glace.
+  ]]>
+  </preparation>
+</recette>

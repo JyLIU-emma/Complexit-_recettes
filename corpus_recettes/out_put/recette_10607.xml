@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10607">
+  <titre>Tarte</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>200 g de lardons fumés</p>
+    <p>2 oignons</p>
+    <p>1 boîte de champignons de Paris</p>
+    <p>100 g de haricots verts</p>
+    <p>huile d'olive</p>
+    <p>4 oeufs entiers + 2 jaunes</p>
+    <p>20 cl de crème fraîche</p>
+    <p>25 cl de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire la pâte à blanc.
+    Faire revenir dans l'huile d'olive les oignons coupés en morceaux, ajouter les champignons, les lardons et enfin les haricots verts, pendant environ 15 à 20 min. Assaisonnez à votre convenance.
+    Dans un saladier m"langer les oeufs, la crème fraîche et le lait.
+    Déposer sur la pâte précuite la préparation poêlée et l'appareil à la crème.
+    Enfournez pendant 30 min.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">cuire</OPER> la <INGRED id="5">pâte</INGRED> à <INGRED id="1">blanc</INGRED>. Faire <OPER id="o_2">revenir</OPER> dans l'<INGRED id="7">huile d'olive</INGRED> les <INGRED id="2">oignons</INGRED> coupés en morceaux, <OPER id="o_3">ajouter</OPER> les <INGRED id="4">champignons</INGRED>, les <INGRED id="2">lardons</INGRED> et enfin les <INGRED id="5">haricots verts</INGRED>, pendant environ 15 à 20 min. <OPER id="o_4">Assaisonnez</OPER> à votre convenance. Dans un saladier <OPER id="o_5">m"langer</OPER> les <INGRED id="5">oeufs</INGRED>, la <INGRED id="8">crème fraîche</INGRED> et le <INGRED id="8">lait</INGRED>. <OPER id="o_6">Déposer</OPER> sur la <INGRED id="1">pâte</INGRED> précuite la préparation poêlée et l'appareil à la <INGRED id="4">crème</INGRED>. <OPER id="o_7">Enfournez</OPER> pendant 30 min.
+  </annotation>
+  <annotation methode="crf">
+  Faire cuire la <INGRED>pâte</INGRED> à <INGRED>blanc</INGRED> <INGRED>.</INGRED> Faire revenir dans l'<INGRED>huile d'olive</INGRED> les <INGRED>oignons coupés</INGRED> en <INGRED>morceaux</INGRED> <INGRED>,</INGRED> ajouter les <INGRED>champignons</INGRED> <INGRED>,</INGRED> les <INGRED>lardons</INGRED> et enfin les <INGRED>haricots verts</INGRED> <INGRED>,</INGRED> pendant <INGRED>environ</INGRED> 15 à 20 min. Assaisonnez à votre convenance <INGRED>.</INGRED> Dans un saladier m"langer les <INGRED>oeufs</INGRED> <INGRED>,</INGRED> la <INGRED>crème fraîche</INGRED> et le <INGRED>lait</INGRED> <INGRED>.</INGRED> Déposer sur la <INGRED>pâte</INGRED> précuite la préparation poêlée et l'appareil à la <INGRED>crème</INGRED>. Enfournez pendant 30 min.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 4.66666666666667*X + 2.33333333333333</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 10*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pâte brisée', 'pâte']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['lardons fumés', 'lardons']	 id:2	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oignons']	 id:3	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['champignons de Paris', 'champignons']	 id:4	 quantité:1	 unité:boîte de	 denombrable:True	 recipient:1*X
+ingredient:['haricots verts', 'haricots']	 id:5	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["huile d'olive", 'huile']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['oeufs entiers', 'oeufs']	 id:7	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['jaunes']	 id:8	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['crème fraîche', 'crème']	 id:9	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:10	 quantité:25	 unité:cl de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:cuire	 id:o_1	 ingrédients_ralatifs:['5', '1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:revenir	 id:o_2	 ingrédients_ralatifs:['7', '2', '4', '2', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_3	 ingrédients_ralatifs:['4', '2', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:assaisonner	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:m"langer	 id:o_5	 ingrédients_ralatifs:['5', '8', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déposer	 id:o_6	 ingrédients_ralatifs:['1', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:enfourner	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

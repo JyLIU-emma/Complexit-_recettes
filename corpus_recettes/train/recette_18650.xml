@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18650">
+  <titre>Tarte aux noix et au roquefort</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>200 g de roquefort</p>
+    <p>200 g de noix</p>
+    <p>130 g de comté, salers ou autre fromage au choix de chacun</p>
+    <p>20 cl de crème fraîche</p>
+    <p>4 oeufs</p>
+    <p>poivre et muscade</p>
+    <p>1 pâte feuilletée ou brisée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Malaxer le roquefort avec la crème fraîche et les oeufs. 
+    Broyer les noix au mixer les ajouter à la préparation ainsi que le comté, poivrer, râper la muscade, ne pas saler (les fromages s'en chargent). 
+    Cuire 10 à 15 mn à thermostat 8 (250°C), puis 30 à 35 mn à thermostat 5 (150°C).
+    Cette tarte, dont on ne peut plus se passer, est bonne servie tiède avec une salade, elle est également déicieuse froide. Même ceux qui n'aiment pas le fromage en mangent! C'est une recette du sud-ouest. un Chardonnay ou un Sauvignon, je préfère le chardonnay
+  ]]>
+  </preparation>
+</recette>

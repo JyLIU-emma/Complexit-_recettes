@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10813">
+  <titre>Fruits frais flambés glacés</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>50 g de sucre</p>
+    <p>25 g de beurre</p>
+    <p>2 mangues, pêches ou autres fruits</p>
+    <p>5 cl de rhum brun</p>
+    <p>4 boules de glace rhum-raisin ou vanille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper les fruits en morceaux.
+    Faire un caramel avec le sucre, lorsqu'il est blond, ajouter le beurre et les fruits (attention aux projections).Mélanger pour envelopper les fruits de caramel.
+    Faire chauffer le rhum puis flamber.
+    Servir avec la glace. muscat ou un petit verre de rhum bien frais
+  ]]>
+  </preparation>
+</recette>

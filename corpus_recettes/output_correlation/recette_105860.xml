@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="105860">
+  <titre>Croque monsieur aux tomates et champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 tranche de pain de mie/personne voir 10 si 2 /pers</p>
+    <p>1 pot de creme fraiche</p>
+    <p>1 sachet de gruyere</p>
+    <p>1 paquet de 8 tranche de jambon</p>
+    <p>1 boite de champignons (grosse si on aime beaucoup les champignons)!!!!</p>
+    <p>-5 tomates</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    faire un melange creme fraiche avec le gruyere.
+    tartiner le melange sur les tranches de pain de mie.
+    mettre 1 demie tranche de jambon coupee en 2.
+    remettre un peu de creme fraiche gruyere.
+    mettre les champignons.
+    et ensuite mettre 1 rondelle de tomate.
+    mettre au four a 180° pendant au moins 10 min ensuite voir selon la tomate si pas assez cuit remettre 5 minutes.
+    et pour finir degusterAccompagné d'une salade verte avec une sauce à la moutarde ou au ketchup. Bon appétit!
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  faire un melange <INGRED id="2">creme fraiche</INGRED> avec le <INGRED id="3">gruyere</INGRED>. <OPER id="o_1">tartiner</OPER> le melange sur les tranches de <INGRED id="1">pain</INGRED> de mie. <OPER id="o_2">mettre</OPER> 1 demie tranche de <INGRED id="4">jambon</INGRED> coupee en 2. <OPER id="o_3">remettre</OPER> un peu de <INGRED id="2">creme fraiche</INGRED> <INGRED id="3">gruyere</INGRED>. <OPER id="o_4">mettre</OPER> les champignons. et ensuite <OPER id="o_5">mettre</OPER> 1 rondelle de <INGRED id="4">tomate</INGRED>. <OPER id="o_6">mettre</OPER> au four a 180 ° pendant au moins 10 min ensuite <OPER id="o_7">voir</OPER> selon la <INGRED id="4">tomate</INGRED> si pas assez cuit <OPER id="o_8">remettre</OPER> 5 minutes. et pour finir <OPER id="o_9">degusterAccompagné</OPER> d'une salade verte avec une sauce à la <INGRED id="6">moutarde</INGRED> ou au ketchup. Bon appétit !
+  </annotation>
+  <annotation methode="crf">
+  faire un melange creme fraiche avec le gruyere. tartiner le melange sur les tranches de <INGRED>pain de mie</INGRED> <INGRED>.</INGRED> mettre 1 demie tranche de <INGRED>jambon</INGRED> coupee en 2. remettre un peu de creme fraiche gruyere <INGRED>.</INGRED> mettre les <INGRED>champignons</INGRED> <INGRED>.</INGRED> et ensuite mettre 1 rondelle de <INGRED>tomate</INGRED> <INGRED>.</INGRED> mettre au four <INGRED>a</INGRED> 180 ° pendant au moins 10 min ensuite voir selon la <INGRED>tomate</INGRED> si pas assez cuit remettre 5 minutes. et pour finir degusterAccompagné d'une salade verte avec une <INGRED>sauce</INGRED> à la <INGRED>moutarde</INGRED> <INGRED>ou</INGRED> au ketchup <INGRED>.</INGRED> Bon appétit !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 8.1*X + 0.9</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 9*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pain de mie-personne voir 10 si 2 /pers', 'pain']	 id:1	 quantité:5	 unité:tranche de	 denombrable:True	 recipient:5*X
+ingredient:['creme fraiche', 'creme']	 id:2	 quantité:1	 unité:pot de	 denombrable:True	 recipient:1*X
+ingredient:['gruyere']	 id:3	 quantité:1	 unité:sachet de	 denombrable:True	 recipient:1*X
+ingredient:['jambon']	 id:4	 quantité:1	 unité:tranche de	 denombrable:True	 recipient:1*X
+ingredient:['boite de champignons ! ! !', 'boite']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['-5 tomates', '-5']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:tartiner	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_2	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:remettre	 id:o_3	 ingrédients_ralatifs:['2', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_5	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_6	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:voir	 id:o_7	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remettre	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:degusteraccompagner	 id:o_9	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

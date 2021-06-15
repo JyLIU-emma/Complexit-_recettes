@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16679">
+  <titre>Koroke [koloké]</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 steak de boeuf haché</p>
+    <p>gingembre</p>
+    <p>sauce de soja</p>
+    <p>sake (option)</p>
+    <p>chapelure</p>
+    <p>1 oeuf</p>
+    <p>huile de friture</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le boeuf haché avec un peu de gingembre rapé, quelques gouttes de sauce de soja et de sake, l'oeuf entier et la chapelure
+    Faconner des petites boulettes de viande de même grosseur pour une cuisson uniforme
+    Frire les boulettes de viande jusqu'à ce qu'elles soient bien dorées.
+    Servir avec du riz blanc bien chaud !Plat japonais de la cuisine quotidienne, économique, facile a faire.
+  ]]>
+  </preparation>
+</recette>

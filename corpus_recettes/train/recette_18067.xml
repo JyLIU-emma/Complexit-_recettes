@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18067">
+  <titre>Crème de lait</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 l de lait</p>
+    <p>4 cuillères à soupe de farine</p>
+    <p>3 cuillères à soupe de sucre (en rajouter selon le goût)</p>
+    <p>4 jaunes d'oeufs</p>
+    <p>1 citron (zeste)</p>
+    <p>15 g de beurre</p>
+    <p>1 cuillère à café de cannelle en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Chauffer 75 cl de lait, avec le citron, le sucre, et le beurre. Dans un bol mettre le reste du lait, et y dissoudre la farine. Verser ensuite dans le lait chaud. 
+    Remuer doucement sur feu doux. Hors du feu, mélangez les 4 jaunes d'oeufs à la préparation. Versez la crème dans un moule à tarte en verre. Saupoudrez de cannelle ou faire un caramel, et le mettre sur la crème.
+  ]]>
+  </preparation>
+</recette>

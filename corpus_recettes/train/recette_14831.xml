@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14831">
+  <titre>Escalopes de volaille à la chinoise</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 oignons</p>
+    <p>2 escalopes de dinde ou poulet</p>
+    <p>sauce de soja</p>
+    <p>sucre en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    A feu vif, faire dorer les oignons avec de l'huile d'olives et de la sauce de soja. Une fois que les oignons sont croquants et bien dorés, y jeter la viande préalablement coupée en dés. 
+    Laisser la vainde cuire à feu moyen, la saupoudrer de sucre en poudre pour la caraméliser et remettre un peu de sauce de soja.
+    Servir avec du riz.
+  ]]>
+  </preparation>
+</recette>

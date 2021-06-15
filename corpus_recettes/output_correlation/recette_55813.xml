@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55813">
+  <titre>Galette au sucre ardennaise (de ma marraine)</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>1/2 paquet de levure de boulanger (21 g)</p>
+    <p>125 g de beurre</p>
+    <p>2 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dissoudre la levure dans un demi verre d'eau tiède additionnée d'une cuillère à soupe de sucre.
+    Verser la farine dans une terrine, faire une fontaine, mettre une pincée de sel et y casser un oeuf.
+    Ajouter la levure.
+    Remuer puis ajouter le beurre fondu.
+    Travailler le tout à la main vigoureusement c’est-à-dire en étirant bien la pâte pendant au moins 10 minutes.
+    Laisser reposer la pâte 2 heures.
+    Etaler la pâte dans une tourtière préalablement beurrée.
+    Saupoudrer de sucre (selon vos goûts).
+    Mettre quelques noisettes de beurre ainsi qu’un œuf battu.
+    Disposer l’œuf battu, le beurre et le sucre pour faire de belles « glauyes » (patois ardennais : « agglomérats » de beurre et de sucre).
+    Mettre au four 15 min environ à thermostat 7 (210°C) ; la pâte doit rester « veûle » (patois ardennais : souple).
+     café ou thé
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Dissoudre</OPER> la <INGRED id="1">levure</INGRED> dans un demi verre d'eau tiède additionnée d'une cuillère à soupe de sucre. <OPER id="o_2">Verser</OPER> la <INGRED id="4">farine</INGRED> dans une terrine, <INGRED id="4">faire</INGRED> une fontaine, <OPER id="o_3">mettre</OPER> une pincée de sel et y <OPER id="o_4">casser</OPER> un oeuf. <OPER id="o_5">Ajouter</OPER> la <INGRED id="1">levure</INGRED>. <OPER id="o_6">Remuer</OPER> puis <OPER id="o_7">ajouter</OPER> le beurre fondu. <OPER id="o_8">Travailler</OPER> le tout à la main vigoureusement c’ est - à - dire en étirant bien la pâte pendant au moins 10 minutes. Laisser <OPER id="o_9">reposer</OPER> la <INGRED id="2">pâte</INGRED> 2 heures. <OPER id="o_10">Etaler</OPER> la pâte dans une tourtière préalablement beurrée. <OPER id="o_11">Saupoudrer</OPER> de sucre ( selon vos goûts ). <OPER id="o_12">Mettre</OPER> quelques noisettes de beurre ainsi qu’ un œuf battu. <OPER id="o_13">Disposer</OPER> l’ œuf battu, le beurre et le sucre pour <INGRED id="4">faire</INGRED> de belles « glauyes » ( patois ardennais : « agglomérats » de beurre et de sucre ). <OPER id="o_14">Mettre</OPER> au four 15 min <INGRED id="1">environ</INGRED> à thermostat 7 ( 210 ° C ) ; la pâte doit rester « veûle » ( patois ardennais : souple ). café ou <INGRED id="1">thé</INGRED>
+  </annotation>
+  <annotation methode="crf">
+  Dissoudre la <INGRED>levure</INGRED> dans un <INGRED>demi</INGRED> <INGRED>verre</INGRED> d'<INGRED>eau</INGRED> tiède additionnée d'une cuillère à soupe de <INGRED>sucre</INGRED>. Verser la <INGRED>farine</INGRED> dans une terrine <INGRED>,</INGRED> faire une fontaine <INGRED>,</INGRED> mettre une pincée de <INGRED>sel</INGRED> et y casser un <INGRED>oeuf</INGRED> <INGRED>.</INGRED> Ajouter la <INGRED>levure</INGRED> <INGRED>.</INGRED> Remuer puis ajouter le <INGRED>beurre fondu</INGRED>. Travailler le tout à la main vigoureusement c’ est - à - dire en étirant bien la <INGRED>pâte</INGRED> pendant au moins 10 minutes. Laisser reposer la <INGRED>pâte</INGRED> 2 heures. Etaler la <INGRED>pâte</INGRED> dans une tourtière préalablement beurrée. Saupoudrer de <INGRED>sucre</INGRED> ( selon vos goûts ). Mettre quelques <INGRED>noisettes</INGRED> de <INGRED>beurre</INGRED> ainsi qu’ un <INGRED>œuf</INGRED> battu <INGRED>.</INGRED> Disposer l’ <INGRED>œuf</INGRED> battu <INGRED>,</INGRED> le <INGRED>beurre</INGRED> et le <INGRED>sucre</INGRED> pour faire de belles « glauyes » ( patois ardennais <INGRED>:</INGRED> « agglomérats » de <INGRED>beurre</INGRED> et de <INGRED>sucre</INGRED> ). Mettre au four 15 min <INGRED>environ</INGRED> à thermostat 7 ( 210 ° C ) ; la <INGRED>pâte</INGRED> doit rester « veûle » ( patois ardennais <INGRED>:</INGRED> souple ). <INGRED>café</INGRED> <INGRED>ou</INGRED> thé
+  </annotation>
+  <complexite>
+    <temps>f(X) = 5.6*X + 8.4</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 2*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['farine']	 id:1	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['levure de boulanger', 'levure']	 id:2	 quantité:1/2	 unité:paquet de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:3	 quantité:125	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:4	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:dissoudre	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_2	 ingrédients_ralatifs:['4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:casser	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:travailler	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_9	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:etaler	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:saupoudrer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:disposer	 id:o_13	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_14	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

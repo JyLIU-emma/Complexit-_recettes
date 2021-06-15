@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15030">
+  <titre>Banane au chocolat (micro-ondes)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 banane</p>
+    <p>2 cuillères à café de cacao ou de crème de marrons (type Nutella)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper la bananne dans la longueur.
+    Placer le fruit dans une assiette. Saupoudrer de cacao.
+    Mettre au four à micro-ondes pleine puissance pendant 1 à 2 minutes. C'est prêt!
+    On peut varier l'accompagnement : confiture, crème de marron, sucre, caramel...
+    Le plat est peut-être peu présentable, mais génial lorsqu'on est pressé et 'étudiant fauché'!
+  ]]>
+  </preparation>
+</recette>

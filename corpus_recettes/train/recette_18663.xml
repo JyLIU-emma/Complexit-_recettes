@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18663">
+  <titre>Velouté de potiron</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 quartier de potiron</p>
+    <p>1 gros oignon</p>
+    <p>1 brique de crème fraîche liquide</p>
+    <p>sel, poivre</p>
+    <p>muscade en poudre</p>
+    <p>un peu d'huile</p>
+    <p>persil ciselé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper la chair de la courge en gros dés.
+    Couper l'oignon en lamelles et le faire revenir dans une cocotte avec un peu d'huile. 
+    Ajouter les dés de courge dans la cocotte et recouvrir d'eau (juste au niveau de la courge, pas plus).
+    Laisser bouillir environ 45 min à 1 h, quand la fourchette rentre facilement dans un dé de potiron.
+    Mixer le tout. Verser la crème liquide, saler, poivrer et ajouter de la muscade selon votre goût. 
+    Au moment de servir, parsemer de persil ciselé.
+    Pour une entrée plus sophistiquée, vous pouvez rajouter des noix de Saint-Jacques préalablement revenus dans un peu de beurre, dans l'assiette au moment de servir.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21381">
+  <titre>Blettes mijotées à la tomate</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de blettes (partie verte uniquement)</p>
+    <p>2 gousses d'ail</p>
+    <p>250 g de tomates concassées</p>
+    <p>6 filets d'anchois</p>
+    <p>6 cuillères à soupe d'huile</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les feuilles de blettes en tronçons et blanchir 5 minutes dans l'eau bouillante salée. Egouttez.
+    Chauffer 2 cuillères à soupe d'huile avec les gousses d'ail émincées. Ôter l'ail lorsqu'il est blond. 
+    Ecraser l'ail et les anchois à la fourchette en ajoutant de l'huile au fur et à mesure jusqu'à obtention d'un mélange homogène. Incorporer la tomate, saler, poivrer et cuire 10 minutes en remuant de temps en temps. 
+    Ajouter les blettes et laisser cuire 20 minutes.
+  ]]>
+  </preparation>
+</recette>

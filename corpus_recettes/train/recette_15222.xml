@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15222">
+  <titre>St Jacques aux poireaux</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 poireaux</p>
+    <p>1 ou 2 coquilles St Jacques par personne ou 400 g de pétoncles</p>
+    <p>250 g de champignons</p>
+    <p>150 g de crevettes</p>
+    <p>1 grand pot de crème fraîche</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les blancs de poireaux (si cuisson au micro-ondes : 10 mn à puissance 9)
+    Les disposer dans un grand plat allant au four.
+    Faire revenir dans du beurre les coquilles St Jacques. Les sortir de la casserolle, y placer les champignons, les crevettes, la crème fraiche, le sel et le poivre. Laisser mijoter pendant 15 mn.
+    Rajouter les st jacques et laisser mijoter 5 mn.
+    Disposer le tout sur les blancs de poireaux. Faire cuire 20 mn, à four thermostat 6.
+  ]]>
+  </preparation>
+</recette>

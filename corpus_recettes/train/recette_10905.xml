@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10905">
+  <titre>Aumonière de fondue de légumes au carré frais</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte à crêpes:</p>
+    <p>1 oeuf</p>
+    <p>3 cuillères à soupe de farine de blé</p>
+    <p>1 pincée de sel</p>
+    <p>lait 1/2 écrémé</p>
+    <p>1 noisette de beurre</p>
+    <p>Pour la fondue de légumes:</p>
+    <p>1 carotte</p>
+    <p>1/2 poireau </p>
+    <p>sel, poivre, muscade</p>
+    <p>2 à 3 tiges de ciboulette</p>
+    <p>2 carrés frais</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la pâte à crêpes et la laisser reposer.
+    Faire les crêpes.
+    Laver et éplucher les légumes. Les détailler en fins lamelles. Les faire cuire 10 minutes à feu moyen dans une poêle avec de l'eau. une fois l'eau totalement évaporée, arrêter la cuisson.
+    Assaisonner de poivre, sel et muscade.
+    Prendre une crêpe, déposer au centre 2 cuillères à soupe de fondue de légumes assaisonnés et un carré frais. Refermer la crêpe sous forme d'aumonière avec une tige de ciboulette.
+    Faire réchauffer au four à 150°C (thermostat 5) pendant 15 à 20 minutes. Servir associé avec un poisson en papillote.
+  ]]>
+  </preparation>
+</recette>

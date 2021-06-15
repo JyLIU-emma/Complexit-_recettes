@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23765">
+  <titre>Soupe glacée concombre et herbes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 concombre</p>
+    <p>3 yaourts </p>
+    <p>1 pot de yaourt rempli d’eau</p>
+    <p>1/2 citron vert</p>
+    <p>1 gousse d’ail</p>
+    <p>6 feuilles de menthe</p>
+    <p>1/2 bouquet d’estragon</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixer le concombre avec les yaourts, le jus de citron, l'ail haché et les herbes.
+    Saler, poivrer.
+    Servir très frais.
+  ]]>
+  </preparation>
+</recette>

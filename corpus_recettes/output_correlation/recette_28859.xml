@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28859">
+  <titre>Pâte à Strudel</titre>
+  <type>Plat principal</type>
+  <niveau>Difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g farine</p>
+    <p>2 jaunes d'oeuf (le deuxième sert à dorer le Strudel) </p>
+    <p>sel</p>
+    <p>1/8 l d'eau chaude</p>
+    <p>3 cuillères à soupe d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre la farine dans un saladier, creuser un puits. Y mettre un jaune d'oeuf, le sel, l'huile et l'eau. Travailler la pâte pour former une boule, puis terminer de la travailler sur le plan de travail enfariné. 
+    Lorsqu'on obtient une boule lisse qui ne colle plus, la laisser reposer avec le saladier posé à l'envers par-dessus 30 mn (elle doit rester au chaud). 
+    Placer un torchon humide sur le plan de travail, un sec par-dessus.
+    Enfariner.
+    Abaisser la pâte sur le torchon, l'étirer avec les mains sans la déchirer. On obtient un rectangle de 50x60 environ. L'abaisse devient transparente, on doit pouvoir lire le journal à travers la pâte.
+    L'enduire de blanc d'oeuf ou de beurre fondu pour qu'elle reste souple.
+    Etaler la farce sur la pâte en laissant une bordure de 2 cm tout autour. 
+    Enrouler la pâte (comme pour un biscuit roulé) en soulevant le torchon. Placer le Strudel sur la plaque à pâtisserie recouverte d'un papier sulfurisé. Dorer à l'oeuf. 
+    Enfourner 25 à 30 mn dans un four préchauffé à 225°C.
+    J'utilise de l'huile d'olive pour les Strudel salés, et de l'huile de pépins de raisin pour les Strudel sucrés.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Mettre</OPER> la farine dans un <INGRED id="1">saladier</INGRED>, <OPER id="o_2">creuser</OPER> un puits. Y <OPER id="o_3">mettre</OPER> un <INGRED id="5">jaune d'oeuf</INGRED>, le <INGRED id="2">sel</INGRED>, l'huile et l'eau. <OPER id="o_4">Travailler</OPER> la pâte pour former une <INGRED id="1">boule</INGRED>, puis terminer de la <OPER id="o_5">travailler</OPER> sur le plan de travail enfariné. Lorsqu'on obtient une <INGRED id="5">boule</INGRED> lisse qui ne colle plus, la laisser <OPER id="o_6">reposer</OPER> avec le <INGRED id="1">saladier</INGRED> posé à l'envers par - dessus 30 mn ( elle doit rester au chaud ). <OPER id="o_7">Placer</OPER> un torchon humide sur le plan de travail, un sec par - dessus. <OPER id="o_8">Enfariner</OPER>. <OPER id="o_9">Abaisser</OPER> la <INGRED id="1">pâte</INGRED> sur le torchon, l'<OPER id="o_10">étirer</OPER> avec les mains sans la <OPER id="o_11">déchirer</OPER>. On obtient un rectangle de 50x60 <INGRED id="1">environ</INGRED>. L'abaisse devient transparente, on doit <OPER id="o_12">pouvoir</OPER> <OPER id="o_13">lire</OPER> le journal à travers la pâte. L'<OPER id="o_14">enduire</OPER> de <INGRED id="4">blanc d'oeuf</INGRED> ou de <INGRED id="5">beurre fondu</INGRED> pour qu'elle <INGRED id="1">reste</INGRED> souple. <OPER id="o_15">Etaler</OPER> la farce sur la pâte en laissant une bordure de 2 cm tout autour. <OPER id="o_16">Enrouler</OPER> la pâte ( comme pour un biscuit roulé ) en soulevant le torchon. <OPER id="o_17">Placer</OPER> le Strudel sur la plaque à pâtisserie recouverte d'un papier sulfurisé. <OPER id="o_18">Dorer</OPER> à l'<INGRED id="2">oeuf</INGRED>. <OPER id="o_19">Enfourner</OPER> 25 à 30 mn dans un four préchauffé à 225 ° C. J'utilise de l'huile d'olive pour les Strudel salés, et de l'huile de pépins de raisin pour les Strudel sucrés.
+  </annotation>
+  <annotation methode="crf">
+  Mettre la <INGRED>farine</INGRED> dans un saladier <INGRED>,</INGRED> creuser un puits. Y mettre un <INGRED>jaune d'oeuf</INGRED> <INGRED>,</INGRED> le <INGRED>sel</INGRED> <INGRED>,</INGRED> l'<INGRED>huile</INGRED> et l'<INGRED>eau</INGRED> <INGRED>.</INGRED> Travailler la <INGRED>pâte</INGRED> pour former une <INGRED>boule</INGRED> <INGRED>,</INGRED> puis terminer de la travailler sur le plan de travail enfariné. Lorsqu'on obtient une <INGRED>boule</INGRED> lisse qui ne colle plus <INGRED>,</INGRED> la laisser reposer avec le saladier posé à l'envers par - dessus 30 mn ( elle doit rester au chaud ). Placer un torchon humide sur le plan de travail <INGRED>,</INGRED> un sec par - dessus. Enfariner. Abaisser la <INGRED>pâte</INGRED> sur le torchon <INGRED>,</INGRED> l'étirer avec les mains sans la déchirer <INGRED>.</INGRED> On obtient un rectangle de 50x60 <INGRED>environ</INGRED>. L'abaisse devient transparente <INGRED>,</INGRED> on doit pouvoir lire le journal à travers la <INGRED>pâte</INGRED> <INGRED>.</INGRED> L'enduire de <INGRED>blanc d'oeuf</INGRED> <INGRED>ou</INGRED> de <INGRED>beurre fondu</INGRED> pour qu'elle <INGRED>reste</INGRED> souple. Etaler la farce sur la <INGRED>pâte</INGRED> en laissant une bordure de 2 cm tout autour. Enrouler la <INGRED>pâte</INGRED> ( comme pour un biscuit roulé ) en soulevant le torchon. Placer le Strudel sur la plaque à pâtisserie recouverte d'un papier sulfurisé. Dorer à l'<INGRED>oeuf</INGRED> <INGRED>.</INGRED> Enfourner 25 à 30 mn dans un four préchauffé à 225 ° C <INGRED>.</INGRED> J'utilise de l'<INGRED>huile d'olive</INGRED> pour les Strudel salés <INGRED>,</INGRED> et de l'<INGRED>huile</INGRED> de pépins de <INGRED>raisin</INGRED> pour les Strudel sucrés.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 11.875*X + 7.125</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 5*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['farine']	 id:1	 quantité:250	 unité:g	 denombrable:False	 recipient:1
+ingredient:["jaunes d'oeuf", 'jaunes']	 id:2	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['sel']	 id:3	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['eau chaude', 'eau']	 id:4	 quantité:1/8	 unité:l d'	 denombrable:False	 recipient:1
+ingredient:['huile']	 id:5	 quantité:3	 unité:cuillères à soupe d'	 denombrable:True	 recipient:3*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mettre	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:creuser	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_3	 ingrédients_ralatifs:['5', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:travailler	 id:o_4	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:travailler	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_6	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:placer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfariner	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:abaisser	 id:o_9	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étirer	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déchirer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:pouvoir	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:lire	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enduire	 id:o_14	 ingrédients_ralatifs:['4', '5', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:etaler	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:enrouler	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dorer	 id:o_18	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:2*X*1	 recipient:0
+operation:enfourner	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26535">
+  <titre>Tagliatelles à la crème de basilic</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g de tagliatelles aux oeufs</p>
+    <p>1 bouquet de basilic</p>
+    <p>2 gousses d'ail</p>
+    <p>30 cl de crème fraîche</p>
+    <p>150 g de parmesan râpé</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les pâtes "al dente" (3-4 min si ce sont des pâtes fraîches).
+    Rincez le basilic, hachez-le avec l'ail écrasé. Ajoutez la crème, mélangez, salez et poivrez.
+    Egouttez les pâtes, mélangez-les avec la sauce et saupoudrez de parmesan avant de servir.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53122">
+  <titre>Haggis Ecossais</titre>
+  <type>Plat principal</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poumon de mouton</p>
+    <p>1 panse de mouton</p>
+    <p>1 coeur de mouton</p>
+    <p>1 foie de mouton</p>
+    <p>1/2 livre de graisse de boeuf</p>
+    <p>3/4 de tasse de farine d'avoine</p>
+    <p>3 oignons finement coupés</p>
+    <p>1 cuillère à thé de sel</p>
+    <p>1 cuillère à thé de poivre fraîchement moulu</p>
+    <p>1/2 cuillère à thé de poivre de cayenne</p>
+    <p>1/2 cuillère à thé de noix de muscade</p>
+    <p>3/4 de tasse de bouillon</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Bien laver le poumon et l'estomac, frotter avec du sel et rincer; enlever les membranes et l'excès de gras. Faire tremper dans de l'eau froide et salée pendant plusieurs heures, retourner la panse pour la remplir.
+    Placer le coeur et le foie dans une marmite, et recouvrir d'eau froide. Amener à ébullition, reduire le feu, couvrir et laisser mijoter à feu doux pendant 30 min. 
+    Couper en morceaux le coeur et émietter grossièrement le foie. Faire griller l'avoine dans un récipient, en haut du four, en tournant fréquemment jusqu'à ce qu'elle roussisse. Ajouter tous les ingrédients et bien mélanger.
+    Remplir, sans tasser, la panse avec le mélange aux trois quarts, car l'avoine prend du volume en cuisant. 
+    Enlever l'air de l'estomac et le fermer avec de la ficelle alimentaire. Mettre dans de l'eau bouillante de sorte qu'elle couvre la panse. Laisser mijoter pendant 3 h, à  découvert; ajouter de l'eau si nécessaire pour maintenir le niveau.
+    Piquer la panse plusieurs fois avec une aiguille fine, quand cela commence à gonfler, cela évite au sac d'éclater. 
+    Disposer sur un plat chaud, en enlevant les liens de fermeture. Servir avec une cuillère. Servir cérémonieusement avec des navets en purée (neeps), des pommes de terre en purée (tatties) et du whisky.
+     whisky
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Bien <OPER id="o_1">laver</OPER> le <INGRED id="1">poumon</INGRED> et l'estomac, <OPER id="o_2">frotter</OPER> avec du sel et <OPER id="o_3">rincer</OPER> ; <OPER id="o_4">enlever</OPER> les membranes et l'excès de gras. Faire <OPER id="o_5">tremper</OPER> dans de l'<INGRED id="5">eau froide</INGRED> et salée pendant plusieurs heures, <OPER id="o_6">retourner</OPER> la <INGRED id="2">panse</INGRED> pour la remplir. <OPER id="o_7">Placer</OPER> le <INGRED id="3">coeur</INGRED> et le <INGRED id="2">foie</INGRED> dans une marmite, et <OPER id="o_8">recouvrir</OPER> d'<INGRED id="5">eau froide</INGRED>. <OPER id="o_9">Amener</OPER> à ébullition, <OPER id="o_10">reduire</OPER> le feu, <OPER id="o_11">couvrir</OPER> et <INGRED id="12">laisser</INGRED> <OPER id="o_12">mijoter</OPER> à feu doux pendant 30 min. <OPER id="o_13">Couper</OPER> en <INGRED id="1">morceaux</INGRED> le <INGRED id="3">coeur</INGRED> et <OPER id="o_14">émietter</OPER> grossièrement le <INGRED id="2">foie</INGRED>. Faire <OPER id="o_15">griller</OPER> l'avoine dans un récipient, en haut du four, en tournant fréquemment jusqu'à ce qu'elle roussisse. <OPER id="o_16">Ajouter</OPER> tous les ingrédients et bien <OPER id="o_1711">mélanger</OPER>. <OPER id="o_18">Remplir</OPER>, sans <OPER id="o_19">tasser</OPER>, la <INGRED id="2">panse</INGRED> avec le <INGRED id="9">mélange</INGRED> aux trois quarts, car l'avoine prend du volume en cuisant. <OPER id="o_20">Enlever</OPER> l'air de l'estomac et le <OPER id="o_21">fermer</OPER> avec de la ficelle alimentaire. <OPER id="o_22">Mettre</OPER> dans de l'eau bouillante de sorte qu'elle couvre la <INGRED id="2">panse</INGRED>. Laisser <OPER id="o_23">mijoter</OPER> pendant 3 h, à découvert ; <OPER id="o_24">ajouter</OPER> de l'<INGRED id="8">eau</INGRED> si nécessaire pour maintenir le niveau. <OPER id="o_25">Piquer</OPER> la <INGRED id="2">panse</INGRED> plusieurs fois avec une aiguille fine, quand cela commence à <OPER id="o_26">gonfler</OPER>, cela évite au sac d'<OPER id="o_27">éclater</OPER>. <OPER id="o_28">Disposer</OPER> sur un <INGRED id="9">plat</INGRED> chaud, en enlevant les liens de fermeture. Servir avec une <INGRED id="8">cuillère</INGRED>. Servir cérémonieusement avec des <INGRED id="7">navets</INGRED> en purée ( neeps ), des <INGRED id="4">pommes de terre</INGRED> en <INGRED id="5">purée</INGRED> ( tatties ) et du <INGRED id="8">whisky</INGRED>. <INGRED id="8">whisky</INGRED>
+  </annotation>
+  <annotation methode="crf">
+  Bien laver le <INGRED>poumon</INGRED> et l'estomac <INGRED>,</INGRED> frotter avec du <INGRED>sel</INGRED> et rincer ; enlever les <INGRED>membranes</INGRED> et l'excès de gras. Faire tremper dans de l'<INGRED>eau</INGRED> froide et salée pendant plusieurs heures <INGRED>,</INGRED> retourner la panse pour la remplir <INGRED>.</INGRED> Placer le coeur et le <INGRED>foie</INGRED> dans une marmite <INGRED>,</INGRED> et recouvrir d'<INGRED>eau</INGRED> froide <INGRED>.</INGRED> Amener à ébullition <INGRED>,</INGRED> reduire le feu <INGRED>,</INGRED> couvrir et laisser mijoter à feu doux pendant 30 min. Couper en <INGRED>morceaux</INGRED> le coeur et émietter grossièrement le <INGRED>foie</INGRED> <INGRED>.</INGRED> Faire griller l'avoine dans un récipient <INGRED>,</INGRED> en haut du four <INGRED>,</INGRED> en tournant fréquemment jusqu'à ce qu'elle roussisse. Ajouter tous les ingrédients et bien mélanger. Remplir <INGRED>,</INGRED> sans tasser <INGRED>,</INGRED> la panse avec le <INGRED>mélange</INGRED> aux trois quarts <INGRED>,</INGRED> car l'avoine prend du <INGRED>volume</INGRED> en cuisant <INGRED>.</INGRED> Enlever l'air de l'estomac et le fermer avec de la ficelle alimentaire. Mettre dans de l'<INGRED>eau</INGRED> bouillante de sorte qu'elle couvre la panse. Laisser mijoter pendant 3 <INGRED>h</INGRED> <INGRED>,</INGRED> à découvert ; ajouter de l'<INGRED>eau</INGRED> si nécessaire pour maintenir le niveau. Piquer la panse plusieurs fois avec une aiguille fine <INGRED>,</INGRED> quand cela commence à gonfler <INGRED>,</INGRED> cela évite au sac d'éclater <INGRED>.</INGRED> Disposer sur un plat chaud <INGRED>,</INGRED> en enlevant les liens de fermeture. Servir avec une cuillère <INGRED>.</INGRED> Servir cérémonieusement avec des <INGRED>navets</INGRED> en <INGRED>purée</INGRED> ( neeps ) <INGRED>,</INGRED> des <INGRED>pommes de terre</INGRED> en <INGRED>purée</INGRED> ( tatties ) et du whisky. whisky
+  </annotation>
+  <complexite>
+    <temps>f(X) = 21.1111111111111*X + 8.88888888888889</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 10*X + 13</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['poumon de mouton', 'poumon']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['panse de mouton', 'panse']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['coeur de mouton', 'coeur']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['foie de mouton', 'foie']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['livre de graisse de boeuf', 'livre']	 id:5	 quantité:1/2	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:["farine d'avoine", 'farine']	 id:6	 quantité:3/4	 unité:tasse de	 denombrable:False	 recipient:1
+ingredient:['oignons finement coupés', 'oignons']	 id:7	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['sel']	 id:8	 quantité:1	 unité:cuillère à thé de	 denombrable:True	 recipient:1*X
+ingredient:['poivre fraîchement moulu', 'poivre']	 id:9	 quantité:1	 unité:cuillère à thé de	 denombrable:True	 recipient:1*X
+ingredient:['poivre de cayenne', 'poivre']	 id:10	 quantité:1/2	 unité:cuillère à thé de	 denombrable:False	 recipient:1
+ingredient:['noix de muscade', 'noix']	 id:11	 quantité:1/2	 unité:cuillère à thé de	 denombrable:False	 recipient:1
+ingredient:['bouillon']	 id:12	 quantité:non_precis	 unité:tasse de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:laver	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1*X*1	 recipient:0
+operation:frotter	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rincer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enlever	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tremper	 id:o_5	 ingrédients_ralatifs:['5', '2']	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:retourner	 id:o_6	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_7	 ingrédients_ralatifs:['3', '2', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recouvrir	 id:o_8	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:amener	 id:o_9	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reduire	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_11	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_12	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:couper	 id:o_13	 ingrédients_ralatifs:['1', '3', '2']	 nombre_opération_atomique:1*X+1*X+1*X	 temps:1*X*1+1*X*1+1*X*1	 recipient:1
+operation:émietter	 id:o_14	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:griller	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5*X	 recipient:1
+operation:ajouter	 id:o_16	 ingrédients_ralatifs:['11']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:remplir	 id:o_18	 ingrédients_ralatifs:['2', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:tasser	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enlever	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fermer	 id:o_21	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:mettre	 id:o_22	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mijoter	 id:o_23	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:ajouter	 id:o_24	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:piquer	 id:o_25	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:gonfler	 id:o_26	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:éclater	 id:o_27	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_28	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

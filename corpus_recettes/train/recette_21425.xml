@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21425">
+  <titre>Papillotes de mulet aux champignons et au fenouil</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 kg de filet de mulet </p>
+    <p>250 g de champignons</p>
+    <p>1 bulbe de fenouil</p>
+    <p>1/2 citron</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>10 cl d'eau</p>
+    <p>4 cuillères à soupe d'huile</p>
+    <p>1 cuillère à café d'herbes de Provence</p>
+    <p>1 cuillère à soupe de pastis</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 220°C (Thermostat 7-8).
+    Laver et découper les champignons et le bulbe de fenouil en dés. Les faire revenir à l'huile et ajouter le vin et l'eau. Assaisonner et laisser mijoter jusqu'à ce que le liquide soit évaporé. 
+    Poser les filets sur 6 rectangles de papier sulfurisé huilés et les recouvrir de champignons, d'herbes, d'un filet de citron et de quelques gouttes de pastis.
+    Fermer les papillotes et enfourner à 220°C pendant 8 min.
+  ]]>
+  </preparation>
+</recette>

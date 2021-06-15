@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12055">
+  <titre>Gateau à l'avoine</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>90g de flocons d'avoine</p>
+    <p>125g de beurre</p>
+    <p>315ml d'eau bouillante</p>
+    <p>2 oeufs</p>
+    <p>200 g de sucre</p>
+    <p>240 g de cassonade brune</p>
+    <p>un sachet de sucre vanille OU une cuillerée d'extrait de vanille</p>
+    <p>180g de farine</p>
+    <p>1 cuillerée à café de bicarbonate</p>
+    <p>1 cuillerée à café de cannelle</p>
+    <p>1/2 cuillerée à café de gingembre</p>
+    <p>1/2 cuillerée à café de poivre de la Jamaïque</p>
+    <p>1/2 cuillerée à café de sel</p>
+    <p>1/4 cuillerée à café de clous de girofle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 175°C.Combiner l'avoine, le beurre, et l'eau, mettre de côté pendant 20 minutes.
+    Bien battre les oeufs, puis y ajouter le sucre, la cassonade, et la vanille.
+    Ajouter le mélange d'avoine ainsi que les ingrédients secs (tout ce qui reste).Cuire sur une plaque beurrée environ 30-35 minutes.
+  ]]>
+  </preparation>
+</recette>

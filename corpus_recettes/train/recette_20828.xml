@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20828">
+  <titre>Sauté de lapin aux oignons caramélisés</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 lapin en morceaux </p>
+    <p>150 g de lardons</p>
+    <p>150 g de champignons </p>
+    <p>250 g de petits oignons</p>
+    <p>20 g de beurre</p>
+    <p>15 cl de vin blanc sec</p>
+    <p>10 cl de crème fraîche</p>
+    <p>1 bouquet garni</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les morceaux de lapin à dorer dans une cocotte avec 3 cuillères à soupe d'huile.
+    Remplacer les morceaux de viande par les lardons et les champignons, et les faire revenir. Replacer le lapin, mouiller de vin blanc, ajouter le bouquet garni et assaisonner.
+    Laisser mijoter 45 minutes à feu doux. 
+    Dans une casserole, mettre les oignons, le beurre, le sucre, le sel et le poivre. Recouvrir d'eau et laisser mijoter à feu doux jusqu'à ce que les oignons soient caramélisés et le liquide absorbé.
+    Verser la crème sur le lapin et réchauffer quelques minutes puis servir avec les oignons caramélisés.
+  ]]>
+  </preparation>
+</recette>

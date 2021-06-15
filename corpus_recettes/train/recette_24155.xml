@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24155">
+  <titre>Grimolle poitevine</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>7 cuillères à soupe de farine</p>
+    <p>1 sachet de levure</p>
+    <p>6 cuillères à soupe de sucre</p>
+    <p>2 oeufs entiers</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>3 cuillères à soupe de rhum</p>
+    <p>5 cuillères à soupe de lait</p>
+    <p>4 pommes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez la farine et la levure diluée dans un peu de lait tiède, puis ajoutez le sucre, les oeufs entiers, l'huile et le rhum. Versez peu à peu le lait pour obtenir une pâte onctueuse. Pelez, videz et coupez les pommes en lamelles épaisses.
+    Joignez les fruits à la pâte et versez le tout dans un moule à gâteau bien beurré. Mettez à cuire au four à 180°C (thermostat 6) pendant 45 minutes.
+    Ce gâteau était autrefois cuit au four à pain sur une feuille de chou.
+  ]]>
+  </preparation>
+</recette>

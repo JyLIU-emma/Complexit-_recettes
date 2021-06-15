@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25841">
+  <titre>Pâtes aux fruits de mer</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>500 g de pâtes</p>
+    <p>500 g de moules</p>
+    <p>500 g de coques</p>
+    <p>250 g de seiches</p>
+    <p>8 noix de Saint-Jacques</p>
+    <p>Pour la cuisson :</p>
+    <p>20 cl de vin blanc</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>20 g de beurre</p>
+    <p>Pour l'assaisonnement :</p>
+    <p>3 gousses d'ail</p>
+    <p>1 cuillère à café de thym</p>
+    <p>6 feuilles de basilic</p>
+    <p>6 brins de persil</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites ouvrir les moules et les coques dans le vin blanc sur feu vif.
+    Coupez les seiches en lanières et faites-les sauter dans l'huile chaude. Salez, poivrez et ajoutez l'ail haché, le thym, le basilic et le persil. Arrosez du jus de cuisson filtré et laissez ensuite cuire pendant 30 minutes sur feu doux.
+    Faites cuire les pâtes à l'eau bouillante salée puis égouttez-les.
+    Poêlez les noix de Saint-Jacques 2 minutes dans le beurre.
+    Versez les pâtes dans une sauteuse avec les fruits de mer, réchauffez l'ensemble, remuez et servez bien chaud.
+  ]]>
+  </preparation>
+</recette>

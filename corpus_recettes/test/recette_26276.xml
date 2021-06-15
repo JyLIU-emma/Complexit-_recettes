@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26276">
+  <titre>Queue de lotte aux aubergines et aux lardons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de queue de lotte</p>
+    <p>50 g de lardons fumés</p>
+    <p>3 aubergines</p>
+    <p>2 brins de thym</p>
+    <p>1 feuille de laurier</p>
+    <p>10 feuilles de basilic</p>
+    <p>5 cuillères à soupe de crème fraîche épaisse</p>
+    <p>15 cl de vin blanc sec</p>
+    <p>50 g de beurre</p>
+    <p>5 cuillères à soupe d'huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites revenir la lotte dans du beurre, ajoutez le vin blanc, assaisonnez, puis laissez cuire 15 min à feu doux. 
+    Coupez les aubergines en fines rondelles et faites-les revenir dans l'huile d'olive avec les lardons et les herbes. Assaisonner. Epongez les aubergines après cuisson.
+    Retirez la lotte de la cocotte.
+    Ajoutez dans la cocotte la crème fraîche, mélangez et remettez la lotte avec les aubergines. Faites cuire à feu doux 5 min.
+    Servez la lotte sur un plat et disposez les légumes et les lardons tout autour.  
+  ]]>
+  </preparation>
+</recette>

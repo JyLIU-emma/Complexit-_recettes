@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21749">
+  <titre>Melon surprise aux fruits de saison</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 petits melons</p>
+    <p>des fruits de saison (fraises, framboises, groseilles…)</p>
+    <p>3 cuillères à soupe de sucre semoule</p>
+    <p>1 cuillère à soupe de kirsch</p>
+    <p>125 g de crème fraîche</p>
+    <p>1 cuillère à soupe de lait</p>
+    <p>1 boite de crème dessert à la vanille </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler les melons en 2, puis les épépiner et en extraire la chair à l'aide d'une cuillère à café.
+    Détailler la chair en morceaux, puis la déposer dans un saladier et la mélanger avec les autres fruits.
+    Saupoudrer de sucre, et arroser de kirsch, puis garnir ces 2 melons de la salade de fruits.
+    Napper de crème à la vanille.
+    Monter la crème fraîche avec le lait et le sucre en chantilly, puis former un dôme dans chaque melon et servir.
+    Vous pouvez réaliser cette recette avec des ananas, des pommes, des raisins...
+  ]]>
+  </preparation>
+</recette>

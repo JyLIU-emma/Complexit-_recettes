@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21036">
+  <titre>Tourte de gigot aux pommes de terre</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 pâtes brisées</p>
+    <p>1 gigot d'agneau en morceaux</p>
+    <p>6 bardes de lard salé</p>
+    <p>12 pommes de terre</p>
+    <p>persil haché</p>
+    <p>oignons</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (Thermostat 6).
+    Beurrer un plat à tarte et la foncer d'une pâte brisée. Barder de lard et y déposer les morceaux de gigot et les pommes de terre cuites découpées en tranches. Assaisonner et parsemer de persil haché et d'oignons frits.
+    Refermer la tourte de la deuxième pâte avec un peu d'eau.
+    Enfourner à 180° (thermostat 6) pendant 1 h 30 min.
+  ]]>
+  </preparation>
+</recette>

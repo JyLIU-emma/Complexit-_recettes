@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12766">
+  <titre>Boulettes à la liégeoise</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 gr de hâchis de porc</p>
+    <p>250 gr de hâchis de boeuf</p>
+    <p>2 oignons</p>
+    <p>1 oeuf</p>
+    <p>une feuille de laurier</p>
+    <p>une cuillère à soupe de sirop de liège </p>
+    <p>maizena</p>
+    <p>sucre</p>
+    <p>vinaigre</p>
+    <p>matière grasse</p>
+    <p>eau</p>
+    <p>chapelure</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger les hâchis, puis ajouter 1 oeuf entier et 1 oignon coupé en petit morceau.
+    Bien mélanger le tout et former des boulettes de la grosseur d'une grosse tomate. Les passer dans la chapelure.
+    Faire fondre la matiere grasse dans une marmite puis y faire rissoler les boulettes.
+    Ajouter la feuille de laurier ainsi que la cuillère à soupe de sirop.
+    Laisser cuire une demi-heure.
+    Retirer les boulettes, puis ajouter 4 cuillères a soupe de sucre et 1 cuillère a soupe de vinaigre. 
+    Lier avec de la maizena. Ajouter selon le goût du sucre et du vinaigre.
+    Y plonger les les boulettes, puis servir avec des frites ou pommes de terres en purée.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18072">
+  <titre>Pommes de terre au fromage et au cumin</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 pommes de terre (de grande taille)</p>
+    <p>150 g de gruyère (ou de fromage de montagne type Emmental ou Comté)</p>
+    <p>Huile (ou beurre pour la plaque)</p>
+    <p>Cumin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez les pommes de terre, brossez-les bien et faites-les cuire dans leur peau à l'eau salée jusqu'à ce qu'elles soient presque cuites.
+    Coupez-les en deux dans la longueur ; parsemez généreusement les faces tranchées du fromage râpé, puis disposez les sur une plaque de four graissée.
+    Faites gratiner dans le four préchauffé à 220°C (th 7), pendant 10 minutes environ jusqu'à ce que le fromage soit fondu, puis parsemez de cumin.déguster avec une belle salade verte.
+  ]]>
+  </preparation>
+</recette>

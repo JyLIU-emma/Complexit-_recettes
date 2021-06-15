@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164987">
+  <titre>Salade de fruits frais (imitation créole)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 papayes</p>
+    <p>1 pomme verte (granny)</p>
+    <p>500 g de litchi</p>
+    <p>3 oranges</p>
+    <p>1/2 ananas (Voir même moins pour éviter que l'ananas de donne trop de goût au jus)</p>
+    <p>6 bananes (une grappe)</p>
+    <p>1 litre de jus d'orange pur jus</p>
+    <p>Sucre de canne</p>
+    <p>200 mL de lait de coco en brique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Epluchez les papayes que vous couperez grossièrement; 
+    Puis coupez la pomme verte sans enlever la pelure (en effet, ça donnera de la couleur à la salade);
+    Epluchez et dénoyautez les litchi puis les couper en quatre;
+    Epluchez et coupez chaque quartier d'orange en quatre;
+    Epluchez et coupez l'ananas comme pour la papaye;
+    Enfin, épluchez et coupez en rondelle toutes les bananes;Mélangez le tout dans un grand saladier.
+    Pour le jus :
+    Videz la brique de jus d'orange dans le saladier avec les fruits, y ajouter 3/4 d'un verre de sucre de canne et les 200 mL de lait de coco en brique (Cela vous fera surement penser à un jus de fruits matinal que les enfants aiment bien).
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  - <OPER id="o_1">Epluchez</OPER> les <INGRED id="1">papayes</INGRED> que vous couperez grossièrement ; Puis <OPER id="o_2">coupez</OPER> la <INGRED id="2">pomme verte</INGRED> sans <OPER id="o_3">enlever</OPER> la pelure ( en effet, ça donnera de la couleur à la salade ) ; <OPER id="o_4">Epluchez</OPER> et dénoyautez les <INGRED id="3">litchi</INGRED> puis les <OPER id="o_5">couper</OPER> en quatre ; <OPER id="o_6">Epluchez</OPER> et coupez chaque quartier d'orange en quatre ; <OPER id="o_7">Epluchez</OPER> et coupez l'<INGRED id="2">ananas</INGRED> comme pour la papaye ; Enfin, <OPER id="o_8">épluchez</OPER> et coupez en rondelle toutes les bananes;Mélangez le tout dans un grand <INGRED id="1">saladier</INGRED>. Pour le <INGRED id="7">jus</INGRED> : <OPER id="o_9">Videz</OPER> la brique de <INGRED id="9">jus d'orange</INGRED> dans le <INGRED id="1">saladier</INGRED> avec les fruits, y <OPER id="o_10">ajouter</OPER> 3/4 d'un verre de sucre de canne et les 200 <INGRED id="9">mL de lait de coco en brique</INGRED> ( Cela vous fera surement <OPER id="o_11">penser</OPER> à un <INGRED id="9">jus</INGRED> de fruits matinal que les enfants aiment bien ).
+  </annotation>
+  <annotation methode="crf">
+  - Epluchez les papayes que vous couperez grossièrement ; Puis coupez la <INGRED>pomme</INGRED> verte sans enlever la pelure ( en effet <INGRED>,</INGRED> ça donnera de la couleur à la salade ) ; Epluchez et dénoyautez les litchi puis les couper en <INGRED>quatre</INGRED> ; Epluchez et coupez chaque quartier d'orange en <INGRED>quatre</INGRED> ; Epluchez et coupez l'<INGRED>ananas</INGRED> comme pour la papaye ; Enfin <INGRED>,</INGRED> épluchez et coupez en rondelle toutes les bananes;Mélangez le tout dans un grand saladier <INGRED>.</INGRED> Pour le <INGRED>jus</INGRED> <INGRED>:</INGRED> Videz la brique de <INGRED>jus d'orange</INGRED> dans le saladier avec les <INGRED>fruits</INGRED> <INGRED>,</INGRED> y ajouter 3/4 d'un <INGRED>verre</INGRED> de <INGRED>sucre de canne</INGRED> et les 200 mL de <INGRED>lait</INGRED> de coco en brique ( Cela vous fera surement penser à un <INGRED>jus</INGRED> de <INGRED>fruits</INGRED> matinal que les enfants aiment bien ).
+  </annotation>
+  <complexite>
+    <temps>f(X) = 11.8329466357309*X + 0.167053364269142</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 213*X + 5</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['papayes']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['pomme verte', 'pomme']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['litchi']	 id:3	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oranges']	 id:4	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['ananas']	 id:5	 quantité:1/2	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['bananes']	 id:6	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:["jus d'orange pur jus", 'jus']	 id:7	 quantité:1	 unité:litre de	 denombrable:False	 recipient:1
+ingredient:['Sucre de canne', 'Sucre']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['mL de lait de coco en brique', 'mL']	 id:9	 quantité:200	 unité:non_precis	 denombrable:True	 recipient:200*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:eplucher	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_2	 ingrédients_ralatifs:['2', '3']	 nombre_opération_atomique:1*X+1	 temps:1*X*1+1*X*1	 recipient:1
+operation:enlever	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:eplucher	 id:o_4	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:eplucher	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:eplucher	 id:o_7	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:éplucher	 id:o_8	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:2*X*1	 recipient:0
+operation:vider	 id:o_9	 ingrédients_ralatifs:['9', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:['9', '1', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:penser	 id:o_11	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

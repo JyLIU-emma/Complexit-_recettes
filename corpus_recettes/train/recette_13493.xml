@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13493">
+  <titre>Gâteau aux pommes facile</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>220 g de sucre</p>
+    <p>1 paquet de sucre vanillé</p>
+    <p>3 oeufs</p>
+    <p>1/2 paquet de levure chimique</p>
+    <p>125 g de farine</p>
+    <p>1/2 verre d'huile </p>
+    <p>3 à 4 pommes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger tout les ingrédients, puis rajouter les pommes coupées en petits morceaux. Mélanger le tout à nouveau.
+    Mettre dans un moule beurré et cuire pendant 40 à 50 mn à 160°C. vin blanc légèrement sucré ou Champagne
+  ]]>
+  </preparation>
+</recette>

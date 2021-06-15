@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14783">
+  <titre>Gâteau pommes et coco</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>180 g de farine</p>
+    <p>3 oeufs</p>
+    <p>150 g de beurre ramolli</p>
+    <p>150 g de sucre</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>2 pommes</p>
+    <p>2 cuillères à soupe de compote de pomme</p>
+    <p>2 cuillères à soupe de noix de coco râpée</p>
+    <p>1 cuillère à soupe de rhum</p>
+    <p>2 cuillères à soupe de confiture d'abricot</p>
+    <p>1 cuillère à café de levure chimique</p>
+    <p>Pour le moule :</p>
+    <p>20 g de beurre</p>
+    <p>2 cuillères à café de farine</p>
+    <p>2 cuillères à café de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Beurrez un moule à cake et placez le 10 mn au réfrigérateur. Saupoudrez le fond et les bords de farine et de sucre mélangés. Retournez le moule pour faire tomber le surplus.
+    Préchauffez le four à thermostat 6 (180°C).
+    Dans un saladier, battez le beurre, le sucre et le sucre vanillé, jusqu'à ce que le mélange blanchisse.
+    Incorporez les oeufs l'un après l'autre. Le mélange doit devenir lisse.
+    Ajoutez le rhum, la farine et la levure. Puis la compote et la noix de coco. Mélangez pour obtenir une pâte crémeuse. Epluchez les pommes puis coupez-les en dés.
+    Versez les 2/3 de la pâte dans le moule. Parsemez les dés de pomme. Recouvrez du reste de la pâte. Enfournez et laissez cuire pendant 45 mn.
+    Démoulez sur un plat ou sur une grille. Chauffez un peu la confiture pour la liquéfier et badigeonnez-en le dessus du biscuit. Parsemez du reste de noix de coco.
+    Servez tiède ou froid.
+  ]]>
+  </preparation>
+</recette>

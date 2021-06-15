@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13573">
+  <titre>Rôti à l'italienne</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>un rôti (de dinde ou de porc)</p>
+    <p>une grosse boule de mozzarella</p>
+    <p>huit petites tranches de jambon cru</p>
+    <p>deux ou trois tomates</p>
+    <p>basilic</p>
+    <p>huile d'olive, sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Comme pour un roti orloff, trancher dans la viande et y insérer rondelles de tomates et jambon.
+    Couper la mozzarella en tranches, en recouvrir le rôti. Verser un bon filet d'huile d'olive et parsemer de feuilles de basilic. Saler, poivrer (éventuellement ficeler s'il 'baille').
+    Mettre 20 à 30 mn au four à feu moyen (selon grosseur) et accompagner de pâtes ou de riz.
+    Si les tomates sont trop juteuses, les essuyer avec de l'essuie-tout avant.  rouge léger, style Loire ou italien
+  ]]>
+  </preparation>
+</recette>

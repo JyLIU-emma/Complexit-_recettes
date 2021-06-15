@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224653">
+  <titre>Risotto mi-italien, mi franc-comtois</titre>
+  <type>Plat principal</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>huile d'olive</p>
+    <p>1 oignon</p>
+    <p>1 échalote</p>
+    <p>1 gousse d'ail</p>
+    <p>1 saucisse de Montbéliard par personne</p>
+    <p>100 g comté</p>
+    <p>200 g riz pour risotto</p>
+    <p>10 cl vin blanc ou du Jurançon</p>
+    <p>1 poivron</p>
+    <p>1 cube de bouillon</p>
+    <p>basilic</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir dans l'huile d'olive, l'oignon, l'échalote et l'ail finement haché.Ajouter ensuite le poivron en petits dés et faire cuire pendant 5 min.Déglacer avec du vin blanc.Découper les saucisses en morceaux puis les ajouter dans le plat une fois que le vin blanc est presque évaporé.Dans une petite casserole faire dissoudre le bouillon cube dans 1 litre d'eau bouillante. Ajouter le riz dans le plat et remuer jusqu'à ce qu'il soit translucide puis  ajouter le bouillon louche après louche sans cesser de remuer et en attendant que le bouillon soit bu avant d'en ajouter. 
+    La cuisson dure ainsi 17 minutes environ, la totalité du bouillon ne sera pas utilisée. Le riz est cuit lorsqu'il est fondant avec un coeur encore très légèrement croquant.A ce stade, incorporer le comté coupé en morceaux et le basilic puis servir une fois le fromage fondu.Après avoir déglacé avec du vin blanc, je vous conseille de faire cuire à feu doux.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">revenir</OPER> dans l'huile d'olive, l'<INGRED id="1">oignon</INGRED>, l'<INGRED id="8">échalote</INGRED> et <INGRED id="1">l'ail</INGRED> finement haché. <OPER id="o_2">Ajouter</OPER> ensuite le <INGRED id="7">poivron</INGRED> en <INGRED id="3">petits</INGRED> <INGRED id="3">dés</INGRED> et <INGRED id="4">faire</INGRED> <OPER id="o_3">cuire</OPER> pendant 5 min. <OPER id="o_4">Déglacer</OPER> avec du <INGRED id="4">vin blanc</INGRED>. <OPER id="o_5">Découper</OPER> les <INGRED id="9">saucisses</INGRED> en <INGRED id="1">morceaux</INGRED> puis les <OPER id="o_6">ajouter</OPER> dans le <INGRED id="9">plat</INGRED> une fois que le <INGRED id="8">vin blanc</INGRED> est presque évaporé. Dans une <INGRED id="2">petite</INGRED> casserole <INGRED id="4">faire</INGRED> <OPER id="o_7">dissoudre</OPER> le <INGRED id="9">bouillon</INGRED> <INGRED id="4">cube</INGRED> dans 1 <INGRED id="1">litre</INGRED> d'<INGRED id="5">eau</INGRED> bouillante. <OPER id="o_8">Ajouter</OPER> le riz dans le <INGRED id="9">plat</INGRED> et <OPER id="o_9">remuer</OPER> jusqu'à ce qu'il soit translucide puis <OPER id="o_10">ajouter</OPER> le <INGRED id="9">bouillon</INGRED> louche après louche sans <OPER id="o_11">cesser</OPER> de <OPER id="o_12">remuer</OPER> et en attendant que le <INGRED id="10">bouillon</INGRED> soit bu avant d'en <OPER id="o_13">ajouter</OPER>. La cuisson dure ainsi 17 minutes <INGRED id="1">environ</INGRED>, la totalité du <INGRED id="3">bouillon</INGRED> ne sera pas utilisée. Le riz est cuit lorsqu'il est fondant avec un coeur encore très légèrement croquant. A ce stade, <OPER id="o_14">incorporer</OPER> le <INGRED id="2">comté</INGRED> coupé en <INGRED id="1">morceaux</INGRED> et le basilic puis servir une fois le fromage fondu. Après <OPER id="o_15">avoir</OPER> déglacé avec du <INGRED id="8">vin blanc</INGRED>, je vous conseille de <INGRED id="4">faire</INGRED> <OPER id="o_16">cuire</OPER> à feu doux.
+  </annotation>
+  <annotation methode="crf">
+  Faire revenir dans l'<INGRED>huile d'olive</INGRED> <INGRED>,</INGRED> l'<INGRED>oignon</INGRED> <INGRED>,</INGRED> l'<INGRED>échalote</INGRED> et l'<INGRED>ail</INGRED> <INGRED>finement</INGRED> <INGRED>haché</INGRED>. Ajouter ensuite le <INGRED>poivron</INGRED> en <INGRED>petits</INGRED> dés et faire cuire pendant 5 min. Déglacer avec du <INGRED>vin blanc</INGRED> <INGRED>.</INGRED> Découper les <INGRED>saucisses</INGRED> en <INGRED>morceaux</INGRED> puis les ajouter dans le plat une fois que le <INGRED>vin blanc</INGRED> est presque évaporé <INGRED>.</INGRED> Dans une <INGRED>petite</INGRED> casserole faire dissoudre le <INGRED>bouillon</INGRED> cube dans 1 litre d'<INGRED>eau</INGRED> bouillante <INGRED>.</INGRED> Ajouter le <INGRED>riz</INGRED> dans le plat et remuer jusqu'à ce qu'il soit translucide puis ajouter le <INGRED>bouillon</INGRED> louche après louche sans cesser de remuer et en attendant que le <INGRED>bouillon</INGRED> soit bu avant d'en ajouter <INGRED>.</INGRED> La cuisson dure ainsi 17 minutes <INGRED>environ</INGRED> <INGRED>,</INGRED> la totalité du <INGRED>bouillon</INGRED> ne sera pas utilisée <INGRED>.</INGRED> Le <INGRED>riz</INGRED> est cuit lorsqu'il est fondant avec un coeur encore très légèrement croquant <INGRED>.</INGRED> A ce stade <INGRED>,</INGRED> incorporer le <INGRED>comté</INGRED> coupé en <INGRED>morceaux</INGRED> et le <INGRED>basilic</INGRED> puis servir une fois le <INGRED>fromage</INGRED> fondu. Après avoir déglacé avec du <INGRED>vin blanc</INGRED> <INGRED>,</INGRED> je vous conseille de faire cuire à feu doux.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 10.3636363636364*X + 8.63636363636364</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 6*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:["huile d'olive", 'huile']	 id:1	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['oignon']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['échalote']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['ail']	 id:4	 quantité:1	 unité:gousse d'	 denombrable:True	 recipient:1*X
+ingredient:['saucisse de Montbéliard par personne', 'saucisse']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['comté']	 id:6	 quantité:100	 unité:g	 denombrable:False	 recipient:1
+ingredient:['riz']	 id:7	 quantité:200	 unité:g	 denombrable:False	 recipient:1
+ingredient:['Jurançon']	 id:8	 quantité:10	 unité:cl vin blanc ou du	 denombrable:False	 recipient:1
+ingredient:['poivron']	 id:9	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['bouillon']	 id:10	 quantité:1	 unité:cube de	 denombrable:True	 recipient:1*X
+ingredient:['basilic']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:revenir	 id:o_1	 ingrédients_ralatifs:['1', '8', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['7', '3', '3', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_3	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:déglacer	 id:o_4	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:découper	 id:o_5	 ingrédients_ralatifs:['9', '1', '9', '8']	 nombre_opération_atomique:1*X+1+1*X+1	 temps:1*X*1+1*X*1+1*X*1+1*X*1	 recipient:1
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['9', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dissoudre	 id:o_7	 ingrédients_ralatifs:['2', '4', '9', '4', '1', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['9', '9', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cesser	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_14	 ingrédients_ralatifs:['2', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:avoir	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_16	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+]]>
+</operation_trouve>
+</recette>

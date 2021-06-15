@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16064">
+  <titre>Mermouma (ou marmouma)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 kg de tomates</p>
+    <p>1 kg de poivrons rouge/jaune/vert</p>
+    <p>2 têtes d'ail</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les légumes. Les couper en dés sans les éplucher.
+    Au fond d'une sauteuse, mettre l'huile d'olive.
+    Y répartir tomates + poivrons + têtes d'ail entières.
+    Cuire à feu fort pendant 20 mn pour laisser réduire.
+    Baisser le feu puis laisser mijoter environ 2h (il ne doit plus y avoir de jus, ni d'eau). Remuer toutes les 5 minutes.Déguster froid ou chaud.
+  ]]>
+  </preparation>
+</recette>

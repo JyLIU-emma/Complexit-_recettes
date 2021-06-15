@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52519">
+  <titre>Choux à la crème vanille et chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte à choux :</p>
+    <p>1/2 litre d'eau</p>
+    <p>4 morceaux de sucre</p>
+    <p>1 grosse pincée de sel</p>
+    <p>200 g de beurre</p>
+    <p>400 g de farine</p>
+    <p>9 oeufs</p>
+    <p>Pour la crème :</p>
+    <p>1 litre de lait </p>
+    <p>4 jaunes d'oeufs</p>
+    <p>300 g de sucre en poudre</p>
+    <p>120 g de farine</p>
+    <p>1 gousse de vanille </p>
+    <p>80 g de chocolat</p>
+    <p>4 sachets de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparation de la pâte :
+    Dans une casserole assez grosse, portez à ébullition l'eau, avec le sucre, le sel et le beurre en morceaux. Remuez sans cesse, jusqu'à ce que le beurre soit fondu.
+    Versez toute la farine et remuez de nouveau pendant une dizaine de minutes jusqu'à l'obtention d'une pâte homogène.
+    Hors du feu, ajoutez les oeufs un à un, en les mélangeant à chaque fois à la pâte. Laissez reposer 1/2 h ou 1 nuit.
+    Sur une plaque de four, à l'aide d'une grosse cuillère à soupe, confectionnez des petits tas de pâte de la grosseure adéquate.
+    Enfournez à 150°C (thermostat 5), tout en surveillant pendant 1 heure.
+    Préparation des crèmes :
+    Versez le lait dans une casserole avec la vanille fendue en 2, et portez à ébullition.
+    D'autre part, mettre les jaunes d'oeufs, le sucre dans un saladier et remuez le tout pour obtenir une mousse blanche. Ajouter a cette mousse la farine, tout en remuant énergiquement.
+    Versez cette préparation dans le lait bouillant et remettez à ébulition 2 à 3 min, tout en remuant, jusqu'à l'épaississement de cette dernière.
+    Partagez en 2 la crème obtenue; dans une moitié, ajoutez-y le sucre vanillé; et dans l'autre moitié, ajoutez-y le chocolat préalablement fondue au bain-marie.
+    Une fois les choux cuits et légèrement refroidis, fendez-les pour y glisser les crèmes vanille et chocolat à l'intérieur.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Préparation de la <INGRED id="5">pâte</INGRED> : Dans une casserole assez grosse, <OPER id="o_1">portez</OPER> à ébullition l'<INGRED id="8">eau</INGRED>, avec le <INGRED id="13">sucre</INGRED>, le <INGRED id="12">sel</INGRED> et le <INGRED id="9">beurre</INGRED> en <INGRED id="2">morceaux</INGRED>. <OPER id="o_2">Remuez</OPER> sans cesse, jusqu'à ce que le <INGRED id="6">beurre</INGRED> soit fondu. <OPER id="o_3">Versez</OPER> toute la <INGRED id="13">farine</INGRED> et remuez de nouveau pendant une dizaine de minutes jusqu'à l'obtention d'une pâte homogène. Hors du feu, <OPER id="o_4">ajoutez</OPER> les oeufs un à un, en les mélangeant à chaque fois à la <INGRED id="7">pâte</INGRED>. Laissez <OPER id="o_5">reposer</OPER> 1/2 h ou 1 nuit. Sur une plaque de four, à l'aide d'une grosse <INGRED id="8">cuillère</INGRED> à <INGRED id="4">soupe</INGRED>, <OPER id="o_6">confectionnez</OPER> des <INGRED id="3">petits</INGRED> tas de <INGRED id="5">pâte</INGRED> de la grosseure adéquate. <OPER id="o_7">Enfournez</OPER> à 150 ° C ( thermostat 5 ), tout en surveillant pendant 1 heure. Préparation des crèmes : <OPER id="o_8">Versez</OPER> le <INGRED id="2">lait</INGRED> dans une casserole avec la <INGRED id="6">vanille</INGRED> fendue en 2, et portez à ébullition. D'autre part, <OPER id="o_9">mettre</OPER> les <INGRED id="13">jaunes d'oeufs</INGRED>, le <INGRED id="13">sucre</INGRED> dans un <INGRED id="1">saladier</INGRED> et remuez le tout pour obtenir une <INGRED id="11">mousse</INGRED> blanche. <OPER id="o_10">Ajouter</OPER> a cette <INGRED id="11">mousse</INGRED> la <INGRED id="3">farine</INGRED>, tout en remuant énergiquement. <OPER id="o_11">Versez</OPER> cette <INGRED id="4">préparation</INGRED> dans le <INGRED id="7">lait</INGRED> bouillant et <OPER id="o_12">remettez</OPER> à ébulition 2 à 3 min, tout en remuant, jusqu'à l'épaississement de cette dernière. <OPER id="o_13">Partagez</OPER> en 2 la crème obtenue ; dans une moitié, <OPER id="o_14">ajoutez</OPER> - y le <INGRED id="5">sucre vanillé</INGRED> ; et dans l'autre moitié, <OPER id="o_15">ajoutez</OPER> - y le <INGRED id="1">chocolat</INGRED> préalablement fondue au <INGRED id="8">bain</INGRED> - marie. Une fois les <INGRED id="6">choux</INGRED> cuits et légèrement refroidis, <OPER id="o_16">fendez</OPER> - les pour y glisser les crèmes <INGRED id="12">vanille</INGRED> et <INGRED id="8">chocolat</INGRED> à l'intérieur.
+  </annotation>
+  <annotation methode="crf">
+  Préparation de la <INGRED>pâte</INGRED> <INGRED>:</INGRED> Dans une casserole assez grosse <INGRED>,</INGRED> portez à ébullition l'<INGRED>eau</INGRED> <INGRED>,</INGRED> avec le <INGRED>sucre</INGRED> <INGRED>,</INGRED> le <INGRED>sel</INGRED> et le <INGRED>beurre</INGRED> en <INGRED>morceaux</INGRED> <INGRED>.</INGRED> Remuez sans cesse <INGRED>,</INGRED> jusqu'à ce que le <INGRED>beurre</INGRED> soit fondu. Versez toute la <INGRED>farine</INGRED> et remuez de nouveau pendant une dizaine de minutes jusqu'à l'obtention d'une <INGRED>pâte</INGRED> homogène <INGRED>.</INGRED> Hors du feu <INGRED>,</INGRED> ajoutez les <INGRED>oeufs</INGRED> un à un <INGRED>,</INGRED> en les mélangeant à chaque fois à la <INGRED>pâte</INGRED> <INGRED>.</INGRED> Laissez reposer <INGRED>1/2</INGRED> <INGRED>h</INGRED> <INGRED>ou</INGRED> 1 nuit. Sur une plaque de four <INGRED>,</INGRED> à l'aide d'une grosse cuillère à soupe <INGRED>,</INGRED> confectionnez des petits tas de <INGRED>pâte</INGRED> de la grosseure adéquate. Enfournez à 150 ° C ( thermostat 5 ) <INGRED>,</INGRED> tout en surveillant pendant 1 heure. Préparation des crèmes <INGRED>:</INGRED> Versez le <INGRED>lait</INGRED> dans une casserole avec la <INGRED>vanille</INGRED> fendue en 2 <INGRED>,</INGRED> et portez à ébullition <INGRED>.</INGRED> D'autre part <INGRED>,</INGRED> mettre les <INGRED>jaunes d'oeufs</INGRED> <INGRED>,</INGRED> le <INGRED>sucre</INGRED> dans un saladier et remuez le tout pour obtenir une mousse blanche. Ajouter <INGRED>a</INGRED> cette mousse la <INGRED>farine</INGRED> <INGRED>,</INGRED> tout en remuant énergiquement. Versez cette préparation dans le <INGRED>lait</INGRED> bouillant et remettez à ébulition 2 à 3 min, tout en remuant <INGRED>,</INGRED> jusqu'à l'épaississement de cette dernière. Partagez en 2 la <INGRED>crème</INGRED> obtenue ; dans une moitié <INGRED>,</INGRED> ajoutez - y le <INGRED>sucre vanillé</INGRED> ; et dans l'autre moitié <INGRED>,</INGRED> ajoutez - y le <INGRED>chocolat</INGRED> préalablement fondue au bain - marie <INGRED>.</INGRED> Une fois les <INGRED>choux</INGRED> cuits et légèrement refroidis <INGRED>,</INGRED> fendez - les pour y glisser les crèmes vanille et <INGRED>chocolat</INGRED> à l'intérieur.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 12.2666666666667*X + 3.73333333333333</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 23*X + 10</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['eau']	 id:1	 quantité:1/2	 unité:litre d'	 denombrable:False	 recipient:1
+ingredient:['morceaux de sucre', 'morceaux']	 id:2	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['sel']	 id:3	 quantité:1	 unité:pincée de	 denombrable:True	 recipient:1*X
+ingredient:['beurre']	 id:4	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:5	 quantité:400	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:6	 quantité:9	 unité:non_precis	 denombrable:True	 recipient:9*X
+ingredient:['lait']	 id:7	 quantité:1	 unité:litre de	 denombrable:False	 recipient:1
+ingredient:["jaunes d'oeufs", 'jaunes']	 id:8	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['sucre en poudre', 'sucre']	 id:9	 quantité:300	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:10	 quantité:120	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['vanille']	 id:11	 quantité:1	 unité:gousse de	 denombrable:True	 recipient:1*X
+ingredient:['chocolat']	 id:12	 quantité:80	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre vanillé', 'sucre']	 id:13	 quantité:4	 unité:sachets de	 denombrable:True	 recipient:4*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:porter	 id:o_1	 ingrédients_ralatifs:['8', '13', '12', '9', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_2	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_3	 ingrédients_ralatifs:['13']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_4	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:confectionner	 id:o_6	 ingrédients_ralatifs:['8', '4', '3', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfourner	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_8	 ingrédients_ralatifs:['2', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_9	 ingrédients_ralatifs:['13', '13', '1', '11']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:['11', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_11	 ingrédients_ralatifs:['4', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remettre	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:partager	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_14	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_15	 ingrédients_ralatifs:['1', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fendre	 id:o_16	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

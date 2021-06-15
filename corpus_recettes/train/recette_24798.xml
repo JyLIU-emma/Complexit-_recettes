@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24798">
+  <titre>Mousse au citron facile</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boîte de lait concentré non sucré (410 g) </p>
+    <p>10 cuillères à soupe de sucre semoule</p>
+    <p>2 citrons</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre la boîte de lait concentré au frigo la veille (ou 30 mn au congélateur). 
+    Battre le sucre et le lait au batteur électrique jusqu'à ce que les fouets laissent leurs traces (environ 5 mn puissance maximum). 
+    Ajouter les jus de citron et les zestes râpés : la mousse durcit. 
+    Verser dans le plat de service et laisser au freezer au moins 3 h avant de servir.
+    A déguster le jour même, car le lendemain la mousse retombe et se liquéfie (on peut alors la rebattre légèrement au fouet à main et la faire glacer au congélateur pour transformer en un nouveau dessert !)
+  ]]>
+  </preparation>
+</recette>

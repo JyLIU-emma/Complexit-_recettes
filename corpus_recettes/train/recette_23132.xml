@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23132">
+  <titre>Fricassée de poulet au vin blanc</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet découpé en morceaux</p>
+    <p>40 cl de vin blanc</p>
+    <p>3 échalotes</p>
+    <p>200 g de champignons</p>
+    <p>3 cuillères à soupe de persil haché</p>
+    <p>1 cuillère à soupe de concentré de tomate</p>
+    <p>huile</p>
+    <p>beurre</p>
+    <p>piment en poudre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer 30 g de beurre et 2 cuillerées d'huile dans une cocotte.
+    Y faire revenir les morceaux de poulet.
+    Saler, poivrer et mouiller avec le vin blanc.
+    Rajouter les échalotes, les champignons et le persil hachés, ainsi que le concentré de tomate.
+    Saupoudrer de piment et laisser mijoter 30 min à feu très doux.
+  ]]>
+  </preparation>
+</recette>

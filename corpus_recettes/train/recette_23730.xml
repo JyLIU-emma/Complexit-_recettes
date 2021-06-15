@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23730">
+  <titre>Ratatouille aux foies de volaille</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 aubergines</p>
+    <p>6 tomates</p>
+    <p>500 g de foies de volailles</p>
+    <p>100 g de lardons</p>
+    <p>3 gousses d'ail</p>
+    <p>100 g d'olives noires</p>
+    <p>2 branches de thym</p>
+    <p>2 feuilles de laurier</p>
+    <p>huile d'olive</p>
+    <p>beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer et couper les aubergines et les tomates en cubes.
+    Les faire revenir à la sauteuse avec un bonne dose d'huile (5-6 cuillères à soupe), les gousses d'ail entières, le thym, le laurier, sel et poivre.
+    Laisser mijoter et évaporer le jus.
+    Faire chauffer un beau morceau de beurre à la poêle, y faire sauter les foies, saler, poivrer.
+    Rajouter les olives dans la ratatouille, ainsi que les foies.
+    Laisser mijoter encore 10 min et servir avec du pain grillé.
+  ]]>
+  </preparation>
+</recette>

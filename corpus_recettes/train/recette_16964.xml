@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16964">
+  <titre>Pizza 4 saisons</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de pâte brisée</p>
+    <p>150 g de champignons de Paris</p>
+    <p>1 boîte de purée de tomates</p>
+    <p>2 tranches fines de jambon blanc</p>
+    <p>1 aubergine</p>
+    <p>3 tomates</p>
+    <p>quelques rondelle de chorizo</p>
+    <p>4 cuillères à soupe d'huile d'olive</p>
+    <p>50 g de parmesan</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les champignons, les émincer et les faire dorer légèrement dans l'huile.
+    Laver l'aubergine la couper, l'éplucher et la faire dorer dans l'huile.
+    Couper le jambon en fines lamelles ainsi que les tomates et le chorizo.
+    Etaler la pâte sur une plaque et verser la purée de tomates, puis les préparations des ingrédients ci-dessus.
+    Saupoudrer de parmesan râpé, puis cuire 15 mn à thermostat 7/8 (230°C).
+     Chianti
+  ]]>
+  </preparation>
+</recette>

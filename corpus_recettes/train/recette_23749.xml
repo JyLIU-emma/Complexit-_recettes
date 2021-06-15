@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23749">
+  <titre>Salade mixte aux champignons</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de champignons</p>
+    <p>200 g de dés de jambon</p>
+    <p>150 g de dés de gruyère</p>
+    <p>1/2 boîte de coeurs de palmiers</p>
+    <p>1/2 boîte de maïs en grains</p>
+    <p>1 poivron vert en lanières</p>
+    <p>1 pied de céleri en morceaux</p>
+    <p>radis</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, préparer une vinaigrette classique et y ajouter  les champignons coupés en lamelles, les cœurs de palmiers coupés en rondelles, le maïs, le poivron vert, le pied de céleri, quelques radis, le jambon et le gruyère.
+    Bien mélanger et servir frais.
+  ]]>
+  </preparation>
+</recette>

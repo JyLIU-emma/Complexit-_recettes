@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21014">
+  <titre>Filets de maquereaux marinés à la purée d'ail de Provence</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 filets de maquereaux</p>
+    <p>6 pommes de terre</p>
+    <p>15 têtes d'ail</p>
+    <p>30 cl de crème fraîche</p>
+    <p>1 petit verre d'huile d'olive</p>
+    <p>2 branchettes de thym</p>
+    <p>2 feuilles de laurier</p>
+    <p>persil frais</p>
+    <p>3 branches de romarin frais</p>
+    <p>sel et poivre</p>
+    <p>1 cuillère à soupe de vinaigre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un plat creux, verser l'huile d'olive et les herbes fraiches lavées avec un peu de sel et poivre.
+    Y déposer les maquereaux et les laisser mariner 2 h.
+    Pendant ce temps, porter l'eau salée à ébullition, puis y faire cuire les pommes de terre pendant 15 min.
+    Dans une petite casserole d'eau salée vinaigrée, déposer les gousses d'ail non pelées et les blanchir 10 min.
+    Peler les pommes de terre et les gousses d'ail, puis les écraser au presse-purée ou à la fourchette.
+    Déposer la purée de pomme de terre aillée dans une casserole sur feu doux, puis incorporer la crème en remuant vivement.
+    Saler, poivrer, puis laisser mijoter 10 min à feu modéré en remuant régulièrement.
+    Poêler les filets de maquereaux 5 min de chaque côté sur feu vif, puis saler et poivrer. Les napper de marinade filtré.
+    Dresser les filets de maquereaux sur un plat de service chaud et l'entourer de pommes de terre aillées écrasées.
+  ]]>
+  </preparation>
+</recette>

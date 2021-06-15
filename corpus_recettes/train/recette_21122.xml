@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21122">
+  <titre>Omelette norvégienne</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 oeufs</p>
+    <p>120 g de farine</p>
+    <p>120 g de sucre</p>
+    <p>120 g de beurre mou</p>
+    <p>1 cuillère à café de levure</p>
+    <p>5 cl de rhum</p>
+    <p>Pour la glace vanille : </p>
+    <p>150 g de sucre</p>
+    <p>6 jaunes d'oeufs</p>
+    <p>50 cl de lait</p>
+    <p>1 gousse de vanille</p>
+    <p>Pour la meringue cuite : </p>
+    <p>4 blancs d'oeufs</p>
+    <p>250 g de sucre glace ou de sucre semoule</p>
+    <p>Pour le sirop :</p>
+    <p>150 g de sucre</p>
+    <p>7 cl d'eau</p>
+    <p>3 cuillères à soupe de rhum ambré</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez la glace vanille à l'avance : amenez le lait à ébullition avec la vanille. Fouettez les jaunes d'oeufs avec le sucre puis versez le lait bouillant en un mince filet. Remettez sur feu doux et laissez épaissir jusqu'à ce que la crème nappe la cuillère.
+    Laissez refroidir puis faites prendre en sorbetière.
+    Préchauffez le four à 180°C (thermostat 6).
+    Préparez le gâteau : travaillez le beurre en pommade puis incorporez le sucre et les oeufs un par un en fouettant énergiquement. Ajoutez la levure puis la farine. 
+    Versez la préparation dans un moule ovale beurré et fariné. 
+    Enfournez 35 à 40 minutes en prenant soin de le couvrir d'un papier mouillé en cours de cuisson. 
+    Disposer le gâteau sur un plat de service en métal. 
+    Préparez la meringue cuite : fouettez les blancs d'oeufs avec le sucre dans un saladier placé au bain-marie. La meringue est prête lorsqu'elle est assez ferme pour ne pas s'étaler toute seule.
+    Préparez le sirop en faisant bouillir le sucre avec l'eau durant 10 minutes. Ajoutez ensuite le rhum puis arrosez-en le gâteau.  
+    Préchauffez le gril du four et faites chauffer le rhum.
+    Déposez la glace à la vanille sur le gâteau et recouvrez de meringue cuite. 
+    Passez quelques minutes sous le gril du four pour colorer la meringue. Attention toutefois, la glace ne doit pas avoir le temps de fondre.
+    Flambez le rhum chaud sur l'omelette norvégienne et servez immédiatement.
+  ]]>
+  </preparation>
+</recette>

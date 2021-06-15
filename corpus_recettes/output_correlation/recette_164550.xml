@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164550">
+  <titre>Coupe lactée à la mangue</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 mangue bien mure</p>
+    <p>2 pommes golden</p>
+    <p>1 cuillère à soupe de miel</p>
+    <p>4 pots de fromage blanc type gervitas</p>
+    <p>2 sachets de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire à feu doux pendant une dizaine de minutes la mangue et les pommes coupées en morceaux dans une casserole, avec deux cuillères à soupe d'eau et le miel, en remuant de temps en temps. Mixer ensuite le tout pour obtenir une compote. Remplir le fond des coupes avec cette compote et laisser refroidir. Recouvrir ensuite de gervitas préalablement parfumés au sucre vanillé. Mettre au frais. Déguster éventuellement avec des cigarettes russes ou langues de chat...Déguster éventuellement avec des cigarettes russes ou langues de chat...
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">cuire</OPER> à feu doux pendant une dizaine de minutes la <INGRED id="1">mangue</INGRED> et les <INGRED id="4">pommes</INGRED> coupées en morceaux dans une casserole, avec deux cuillères à soupe d'eau et le <INGRED id="3">miel</INGRED>, en remuant de temps en temps. <OPER id="o_2">Mixer</OPER> ensuite le tout pour obtenir une compote. <OPER id="o_3">Remplir</OPER> le fond des coupes avec cette compote et laisser <OPER id="o_4">refroidir</OPER>. <OPER id="o_5">Recouvrir</OPER> ensuite de gervitas préalablement parfumés au <INGRED id="5">sucre vanillé</INGRED>. <OPER id="o_6">Mettre</OPER> au frais. Déguster éventuellement avec des cigarettes russes ou langues de chat... Déguster éventuellement avec des cigarettes russes ou langues de chat...
+  </annotation>
+  <annotation methode="crf">
+  Faire cuire à feu doux pendant une dizaine de minutes la mangue et les <INGRED>pommes</INGRED> <INGRED>coupées</INGRED> en <INGRED>morceaux</INGRED> dans une casserole <INGRED>,</INGRED> avec <INGRED>deux</INGRED> <INGRED>cuillères à soupe</INGRED> d'<INGRED>eau</INGRED> et le <INGRED>miel</INGRED> <INGRED>,</INGRED> en remuant de temps en temps. Mixer ensuite le tout pour obtenir une <INGRED>compote</INGRED> <INGRED>.</INGRED> Remplir le <INGRED>fond</INGRED> des coupes avec cette <INGRED>compote</INGRED> et laisser refroidir <INGRED>.</INGRED> Recouvrir ensuite de gervitas préalablement parfumés au <INGRED>sucre vanillé</INGRED> <INGRED>.</INGRED> Mettre au <INGRED>frais</INGRED> <INGRED>.</INGRED> Déguster éventuellement avec des cigarettes russes <INGRED>ou</INGRED> langues de chat... Déguster éventuellement avec des cigarettes russes <INGRED>ou</INGRED> langues de chat...
+  </annotation>
+  <complexite>
+    <temps>f(X) = 6.0*X</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 10*X + 3</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['mangue bien mure', 'mangue']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['pommes golden', 'pommes']	 id:2	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['miel']	 id:3	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['fromage blanc type gervitas', 'fromage']	 id:4	 quantité:4	 unité:pots de	 denombrable:True	 recipient:4*X
+ingredient:['sucre vanillé', 'sucre']	 id:5	 quantité:2	 unité:sachets de	 denombrable:True	 recipient:2*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:cuire	 id:o_1	 ingrédients_ralatifs:['1', '4', '3']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:mixer	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remplir	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:refroidir	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:recouvrir	 id:o_5	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

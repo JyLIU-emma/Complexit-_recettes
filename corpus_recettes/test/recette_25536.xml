@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25536">
+  <titre>Pavé aux marrons et chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de châtaignes pelées</p>
+    <p>200 g de chocolat noir</p>
+    <p>100 g de beurre</p>
+    <p>100 g de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faîtes cuire les chataîgnes à la vapeur 20 à 30 minutes. Ecrasez-les en purée fine, ajoutez le sucre et mélangez.
+    Faîtes fondre le chocolat, incorporez le beurre coupé en dés hors du feu. Mélangez le tout avec la purée de marrons. Versez dans un moule carré nappé de papier sulfurisé ou de film alimentaire.
+    Réservez au frais au moins 5 h.
+    Démoulez et servez nappé de crème anglaise ou de crème chantilly.
+  ]]>
+  </preparation>
+</recette>

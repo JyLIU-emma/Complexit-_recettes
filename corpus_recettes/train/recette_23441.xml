@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23441">
+  <titre>Biscuit mousseline</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 oeufs de 70 g</p>
+    <p>240 g de sucre</p>
+    <p>60 g de farine</p>
+    <p>60 g de Maïzena</p>
+    <p>1 cuillère à café de vanille en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Séparez les blancs des jaunes. 
+    Mélangez les jaunes avec le sucre jusqu'à ce que le mélange blanchisse. 
+    Battez les blancs en neige. 
+    Incorporez la moitié des blancs au mélange jaunes-sucre. 
+    Ajoutez la farine, la Maïzena et la vanille. 
+    Ajoutez le reste des blancs en neige en soulevant la pâte plutôt qu'en la tournant. 
+    Mettez la pâte dans un moule à manqué beurré. 
+    Faites cuire 35 min thermostat 5 (150°C). 
+    Vérifiez la cuisson : la lame d'un couteau plongée dans le gâteau doit ressortir sèche.
+    Ce biscuit est inratable ! Il remplace avantageusement les génoises ou autres biscuits de Savoie.
+    Il est délicieux fourré avec de la confiture ou d'un mélange crème de marron-chantilly. Il est encore meilleur fourré à la mousse au chocolat !
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26871">
+  <titre>Tarte aux tomates</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>5 tomates moyennes</p>
+    <p>2 cuillerées à soupe d'huile d'olive</p>
+    <p>ail</p>
+    <p>basilic</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C. 
+    Étaler la pâte dans un plat à tarte. 
+    Couper les tomates en rondelles et les disposer sur le fond de tarte. 
+    Verser un filet d'huile d'olive. 
+    Saupoudrer d'ail et basilic (éventuellement surgelés). 
+    Enfourner 30 min, c'est prêt !
+    Base de recettes très variées.
+  ]]>
+  </preparation>
+</recette>

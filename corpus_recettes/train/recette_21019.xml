@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21019">
+  <titre>Maquereaux marinés au cidre rapides</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 maquereaux</p>
+    <p>1 citron vert</p>
+    <p>sel, poivre</p>
+    <p>Pour la marinade :</p>
+    <p>1 carotte</p>
+    <p>1 oignon</p>
+    <p>3 cuillères à soupe de vinaigre de cidre</p>
+    <p>33 cl de cidre brut</p>
+    <p>1 feuille de laurier</p>
+    <p>3 branches d'estragon frais</p>
+    <p>1 brin de thym frais</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer et vider les filets de maquereaux puis les rouler dans un mélange de sel et poivre. Disposer les maquereaux sur un plat à haut bords et les arroser du jus du citron.
+    Peler et émincer l'oignon, puis détailler la carotte en rondelles.
+    Dans une casserole, mettre le cidre et le vinaigre à chauffer avec la carotte, l'oignon, la feuille de laurier le brin de thym et les branches d’estragon.
+    Porter le tout à ébullition, puis laisser mijoter 2 min après ébullition. Verser ensuite ce mélange sur les maquereaux et laisser mariner 24 h avant dégustation.
+  ]]>
+  </preparation>
+</recette>

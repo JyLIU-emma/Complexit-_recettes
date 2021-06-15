@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21022">
+  <titre>Curry d'agneau et noix de coco à l'africaine</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,5 kg d'épaule d'agneau désossée</p>
+    <p>1 noix de coco fraîche</p>
+    <p>1 gros oignon</p>
+    <p>2 gousses d'ail</p>
+    <p>60 g de beurre</p>
+    <p>1 concentré de bouillon en cube</p>
+    <p>persil, thym et laurier</p>
+    <p>5 cl de liqueur de Grand-Marnier</p>
+    <p>1 pincée de noix de muscade</p>
+    <p>3 pincées de curry</p>
+    <p>moutarde fine</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Enduire la viande préparée par votre boucher de moutarde, puis la découper en morceaux de la taille d'un oeuf.
+    Peler et hacher l'ail et les oignons, puis les jeter dans une poêle beurré bien chaude.
+    Y ajouter les morceaux de viande et les faire dorer dans le beurre et les oignons.
+    Préparer un bouillon dans une cocotte, ajouter le curry, la muscade, le sel et le poivre, les herbes, puis y plonger les morceaux de viande dorés et les oignons.
+    Laisser cuire 50 min.
+    Pendant ce temps, ouvrir la noix de coco pour en extraire le lait et râper la chair.
+    Verser le lait de coco dans la cocotte avec la viande, puis arroser de Grand-Marnier en remuant.
+    Prolonger la cuisson de 15 min, puis faire réduire le jus de cuisson à feu vif.
+    Servir la cocotte de viande avec la noix de coco râpée dans sa coque à côté.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23202">
+  <titre>Ramequins au roquefort</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 portions de Roquefort</p>
+    <p>béchamel</p>
+    <p>4 oeufs</p>
+    <p>chapelure</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire une béchamel assez épaisse en y ajoutant le Roquefort. 
+    Séparer le blanc et le jaune des oeufs, monter les blancs en neige. 
+    Prendre 4 ramequins, les saupoudrer de chapelure, verser la béchamel au Roquefort, recouvrir avec les blanc en neige, faire un petit trou pour y insérer le jaune pour chaque ramequin. 
+    Surveiller le temps de cuisson pour ne pas que les jaunes d'oeufs durcissent.
+    Mangé avec du pain, c'est un délice !
+  ]]>
+  </preparation>
+</recette>

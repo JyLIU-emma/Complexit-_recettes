@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23368">
+  <titre>Gratin de courgettes au surimi</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de courgettes en rondelles</p>
+    <p>15 bâtonnets de surimi</p>
+    <p>1 oignon émincé</p>
+    <p>1 gousse d'ail hachée</p>
+    <p>Pour la béchamel :</p>
+    <p>1/2 litre de lait</p>
+    <p>2 cuillères à café de curry en poudre</p>
+    <p>30 g de beurre</p>
+    <p>30 g de farine</p>
+    <p>100 g de gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites revenir les courgettes avec les oignons et l'ail dans une poêle, jusqu'à ce que les courgettes soient tendres; salez et poivrez. 
+    Ajoutez le surimi coupés en rondelles, et mélangez. 
+    Disposez la préparation dans un plat à gratin. 
+    Préparez la béchamel : 
+    Mélangez la matière grasse et la farine, sur feu doux. Ajoutez le lait, et laissez cuire jusqu'à épaississement sans cesser de remuer (attention aux grumeaux). 
+    Salez, poivrez généreusement et ajoutez le curry et le gruyère râpé; mélangez bien. 
+    Nappez les courgettes avec la béchamel, et enfournez pendant 20 min à 180°C (th 6).
+    Il ne faut pas que la béchamel soit trop épaisse. Si c'est le cas, rajoutez du lait.
+  ]]>
+  </preparation>
+</recette>

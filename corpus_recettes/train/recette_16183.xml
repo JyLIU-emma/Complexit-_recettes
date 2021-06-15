@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16183">
+  <titre>Tarte amandine aux fruits</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>1 grosse boîte de fruits au sirop (abricots, pêches, poires...)</p>
+    <p>4 oeufs</p>
+    <p>200 g de sucre en poudre</p>
+    <p>100 g de poudre d'amandes</p>
+    <p>250 g de crème fraîche</p>
+    <p>quelques gouttes d'extrait de vanille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la pâte dans moule à tarte. Battre oeufs + sucre jusqu'à obtention d'un mélange blanc et mousseux.
+    Ajouter délicatement poudre d'amandes, crème fraîche et vanille. Verser ce mélange sur le fond de tarte cru. Y disposer les fruits.
+    Cuire à four moyen (thermostat 6/180°C) pendant 45 mn.
+  ]]>
+  </preparation>
+</recette>

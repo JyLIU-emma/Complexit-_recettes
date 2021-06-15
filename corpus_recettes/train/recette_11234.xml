@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11234">
+  <titre>Gondoles de courgettes aux oeufs</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 petites courgettes</p>
+    <p>4 oeufs durs</p>
+    <p>Pour la béchamel :</p>
+    <p>30 g de beurre</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>25 cl de lait</p>
+    <p>40 g de parmesan râpé</p>
+    <p>sel, poivre</p>
+    <p>curry</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les courgettes, couper chaque extrémité. Les plonger 8 mn dans de l'eau bouillante salée.
+    Pendant la cuisson, faire fondre le beurre dans une casserole. Jeter la farine en pluie, tourner vivement hors du feu, puis remettre sur le feu et mouiller peu à peu avec le lait en tournant jusqu'à épaississement. Ajouter sel, poivre et un peu de curry.
+    Egoutter les courgettes. Les passer sous l'eau froide et les couper en 2 dans le sens de la longueur. Prélever la pulpe à l'aide d'une petite cuillère et la couper en petits dés.
+    Ecaler et couper en dés les oeufs. Les ajouter aux dés de courgettes. Verser la béchamel et mélanger.
+    Farcir chaque demi courgette avec le mélange et parsemer de parmesan.
+    Faire gratiner à four chaud 250°C (th8) pendant 15 mn.Variante : On peut remplacer les oeufs par des miettes de poisson.
+  ]]>
+  </preparation>
+</recette>

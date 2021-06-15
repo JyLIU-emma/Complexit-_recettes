@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15760">
+  <titre>Crêpes à la bière</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de farine</p>
+    <p>sel</p>
+    <p>6 oeufs</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>2 cuillères à soupe de rhum</p>
+    <p>25 cl de bière</p>
+    <p>50 cl de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettez la farine dans un saladier. Faites-y un puits et ajoutez l'huile, le rhum et les oeufs. 
+    Mélangez, puis ajoutez petit à petit le lait, puis la bière.
+    Laissez reposer 1 heure avant de faire cuire les crêpes. Les déguster avec du sucre en poudre ou de la cassonade.
+    Vous pouvez diviser les ingrédients par 2 si vous voulez en faire moins. Essayez cette recette pour la chandeleur: le goût est différent des crêpes classiques et les enfants adorent.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11677">
+  <titre>Coquilles St-Jacques aux endives et au grain d'orge</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>12 coquilles saint-Jacques</p>
+    <p>4 endives</p>
+    <p>10 cl de fumet de poisson</p>
+    <p>10 cl de grain d'orge </p>
+    <p>100 g de beurre </p>
+    <p>1 pincées de sucre</p>
+    <p>muscade</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les endives dans une poêle avec une noix de beurre, du sel, du poivre, de la muscade et du sucre.
+    Poêler les coquilles environ 3 minutes, saler et poivrer.Mélanger le fumet et le beurre.
+    Monter au beurre.
+    Présentation :Dresser les endives au centre d'une assiette, disposer autour les coquilles, les napper de sauce et servir aussitôt.
+  ]]>
+  </preparation>
+</recette>

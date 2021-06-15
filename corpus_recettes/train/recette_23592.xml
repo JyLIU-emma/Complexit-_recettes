@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23592">
+  <titre>Tartines à la crème de champignons et au comté</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 belles tranches de pain de campagne </p>
+    <p>200 g de champignons de Paris</p>
+    <p>50 g de morilles déshydratées</p>
+    <p>25 cl de crème fraîche</p>
+    <p>250 g de comté</p>
+    <p>beurre</p>
+    <p>ciboulette hachée</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre les morilles à tremper 30 min à tremper dans l'eau froide pour les réhydrater.
+    Les détailler en 2 dans le sens de la longueur, les laver et bien les égoutter.
+    Laver et émincer ensuite les champignons de Paris, puis les faire sauter dans une poêle beurrée avec les morilles, la ciboulette hachée, le sel et le poivre.
+    Faire griller les tranches de pain des 2 côtés dans une poêle beurrée puis les réserver.
+    Incorporer la crème aux champignons puis laisser réduire à feu doux après avoir ajouté le comté râpé.
+    Lorsque le fromage est fondu, tartiner les tranches de pain grillé de la crème aux champignons, puis les passer sous le grill pour les faire dorer (environ 10 min).
+    Servir et déguster bien chaud.
+  ]]>
+  </preparation>
+</recette>

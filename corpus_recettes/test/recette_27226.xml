@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27226">
+  <titre>Petit salé aux lentilles et aux saucisses</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 tasses à café de lentilles</p>
+    <p>1 gros oignon</p>
+    <p>4 saucisses de Francfort</p>
+    <p>100 g de lardons</p>
+    <p>1 talon de jambon</p>
+    <p>1 ou 2 carottes</p>
+    <p>1 branche de céleri</p>
+    <p>du laurier et du thym</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans 1 litre d'eau, mettre les lentilles, l'oignon épluché et coupé en deux, la carotte épluchée et coupé en rondelles et le céleri coupé. Ajouter le laurier et le thym ainsi que le talon de jambon. 
+    Laisser cuire pendant environ 1 heure et rajouter de l'eau si besoin en cours de cuisson. 
+    Rajouter les lardons. Une fois les lentilles bien cuites, ajouter les saucisses de Francfort, et laisser cuire encore 10 mn à feu très doux. 
+    C'est prêt.
+     Ne pas saler car les saucisses, les lardons et le jambon salent suffisamment
+  ]]>
+  </preparation>
+</recette>

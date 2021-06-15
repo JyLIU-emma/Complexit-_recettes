@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21389">
+  <titre>Poulet au cognac et aux fruits secs</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet coupé en morceaux</p>
+    <p>150 g de lardons</p>
+    <p>50 g d'amandes</p>
+    <p>50 g de noisettes</p>
+    <p>12 petits oignons</p>
+    <p>4 gousses d'ail</p>
+    <p>2 échalotes</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>5 cl de cognac</p>
+    <p>10 cl de crème fraîche</p>
+    <p>60 g de beurre</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer 40 g de beurre et l'huile dans une cocotte, y faire dorer les morceaux de poulet.
+    Ajouter les lardons et les oignons pelés dans la cocotte et laisser dorer.
+    Rajouter l'ail et les échalotes hachés, saler et poivrer.
+    Verser le vin blanc et le cognac, couvrir et laisser mijoter 35 min à feu doux.
+    Faire dorer les amandes et les noisettes avec le beurre restant, les piler et les ajouter au poulet.
+    Laisser mijoter 10 min.
+    Sortir les morceaux de poulet, lier la sauce avec la crème et servir.
+    Accompagnez ce plat de riz aux champignons.
+  ]]>
+  </preparation>
+</recette>

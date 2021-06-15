@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12747">
+  <titre>Marinade sèche</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 cuillère à soupe de sucre en poudre</p>
+    <p>1 cuillère à café de sel</p>
+    <p>1 cuillère à café d'ail en poudre</p>
+    <p>2 cuillères à café de piment de Cayenne</p>
+    <p>2 cuillères à café de mélange d'herbes fines</p>
+    <p>2 cuillères à café de gingembre</p>
+    <p>1 cuillère à café de poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger puis appliquer sur les morceaux de viande.
+    Faire griller à la poêle 20 min sans graisse ou au barbecue 20 min, ou encore au four dans du papier aluminium à 120°C (plus longtemps, jusqu'à 4h).Un vrai régal ! vin rouge (Bordeaux)
+  ]]>
+  </preparation>
+</recette>

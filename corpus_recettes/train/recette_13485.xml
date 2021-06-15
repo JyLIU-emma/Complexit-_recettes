@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13485">
+  <titre>Maccheroni alla Teatina</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>350 g de pâtes</p>
+    <p>400 g de pommes de terre</p>
+    <p>1 morceau d'ail </p>
+    <p>1 piment</p>
+    <p>1 dl d'huile d'olive </p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez les pommes de terre, lavez-les et coupez-les en petits morceaux. Pelez l'ail, lavez-les et écrasez-les légèrement. Coupez le piment.
+    Dans une casserolle, mettez de l'eau et laissez-la bouillir. Mettez le sel et ajouter les petits morceaux de pomme de terre, puis faites-les revenir 2/3 mn. Ajouter ensuite les pâtes.
+    Pendant ce temps mettez dans une autre casserole l'huile et faites-y revenir l'ail et le piment.
+    Sortez les pâtes et les pommes de terre de l'eau, mettez-les dans la deuxième casserole avec l'ail et le piment, puis ajoutez quelques cuillères de l'eau utilisé pour la préparation des pâtes. Faites reposez quelques minutes et servez chaud.La présence de pommes de terre adoucit le goût du piment et de l'ail. Trebbiano d'Abruzzo (bianco) 
+  ]]>
+  </preparation>
+</recette>

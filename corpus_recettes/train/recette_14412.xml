@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14412">
+  <titre>Panais au four</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 panais</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Éplucher les panais les mettre dans l'eau froide salée et monter à ébullition. Egoutter.
+    Couper les panais en 2 dans la longueur et les diposer dans un plat à gratin avec de l'huile, saler et poivrer.
+    Faire cuire à four chaud (200°C) pendant 30 mn en arrosant avec l'huile du plat à mi-cuisson.
+    Cette recette marche très bien avec les pommes de terre.
+  ]]>
+  </preparation>
+</recette>

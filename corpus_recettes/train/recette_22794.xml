@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22794">
+  <titre>Cake aux amandes au sirop</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g de farine </p>
+    <p>1 oeuf </p>
+    <p>125 g de noix ou amandes moulues </p>
+    <p>1,5 yaourt </p>
+    <p>250 g de beurre </p>
+    <p>250 g de sucre</p>
+    <p>1 paquet de levure chimique </p>
+    <p>25 cl d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 230°C (thermostat 7-8).
+    Dans un saladier, mélanger 300 g de farine avec l'oeuf, le yaourt, la levure et la moitié du beurre fondu. Ajouter le reste de farine en formant des galettes. 
+    Dans un bol, mélanger le reste de beurre et les amandes.
+    Beurrer un moule et y déposer successivement une galette et une couche de beurre aux amandes. Terminer, si possible, par un galette. 
+    Enfourner pendant 30 min à 230°C (thermostat 7-8). 
+    Dans une casserole, porter l'eau à ébullition avec le sucre sans le caraméliser. Verser ce sirop sur le gâteau dès sa sortie du four.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23635">
+  <titre>Huîtres chaudes au beurre d'herbes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>24 huîtres</p>
+    <p>300 g de beurre mou</p>
+    <p>4 gousses d'ail</p>
+    <p>4 cuillères à soupe de persil haché</p>
+    <p>4 cuillères à soupe de cerfeuil haché</p>
+    <p>4 échalotes grises</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le gril du four.
+    Ouvrir les huîtres et les disposer sur une plaque à four recouverte de gros sel.
+    Hacher l'ail et l'échalote.
+    Malaxer le beurre avec l'ail, l'échalote, le persil, le cerfeuil, le sel et le poivre.
+    Répartir des noisettes de beurre aux herbes sur les huîtres et enfourner pour 2 à 3 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30113">
+  <titre>Foie gras cuit au porto</titre>
+  <type>Entrée</type>
+  <niveau>Difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1 foie gras d'oie frais et cru de 300 à 450 g (compter 50 à 75 g/personne)</p>
+    <p>1/4 cuillère à café de sel</p>
+    <p>1/2 cuillère à café de poivre</p>
+    <p>1 pincée de noix muscade râpée</p>
+    <p>2 cuillères à soupe de porto </p>
+    <p>25 cl de gelée au porto</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Le foie gras doit être mou, pour cela sortez-le du réfrigérateur 1 h avant de le nettoyer afin d'en faciliter le nettoyage. 
+    Retirez la membrane transparente qui entoure le foie, vérifiez que tout le fiel a bien été enlevé, et éliminez éventuellement toute trace verdâtre qui pourrait communiquer un mauvais goût au foie.
+    Retirez les nerfs du foie en les soulevant avec une lame de couteau et en tirant sans avoir peur de l'abîmer.
+    Le foie se reconstituera à la cuisson.
+    Mélangez les épices, frottez les deux lobes du foie sur toutes leurs faces avec ce mélange.
+    Arrosez-le de porto. 
+    Couvrez de papier d'aluminium, et placez au frais jusqu'au lendemain, en retournant le foie deux ou trois fois.
+    Le lendemain, retirez le foie de la marinade au moins 1 h avant de le cuire.
+    Mettez-le dans une terrine adaptée en tassant bien. Arrosez avec la marinade.
+    Placez la terrine dans un bain-marie dont l'eau aura été chauffée au préalable à 70°C.
+    Couvrez la terrine, et faites cuire à four à 125°C (thermostat 4) pendant 25 min minimum, voire 30 à 40 min selon les goûts.
+    Surveillez la cuisson selon le gras rendu : celui-ci doit être limpide.
+    Retirez la graisse rendue, conservez-la pour d'autres préparations.
+    Vous pourvez également la laisser et ne pas mettre de gelée.
+    Posez une planchette ou un plat avec un poids léger par-dessus, et laissez refroidir à température ambiante pendant 3 h. 
+    Coulez la gelée tiédie par-dessus, couvrez et mettez au réfrigérateur.
+    Pour servir, sortez la terrine de foie gras 15 min avant de la découper en tranches.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Le foie gras doit être mou, pour cela <OPER id="o_1">sortez</OPER> - le du réfrigérateur 1 h avant de le <OPER id="o_2">nettoyer</OPER> afin d'en <OPER id="o_3">faciliter</OPER> le nettoyage. <OPER id="o_4">Retirez</OPER> la membrane transparente qui entoure le <INGRED id="3">foie</INGRED>, <OPER id="o_5">vérifiez</OPER> que tout le fiel a bien été enlevé, et éliminez éventuellement toute trace verdâtre qui pourrait <OPER id="o_6">communiquer</OPER> un mauvais <INGRED id="7">goût</INGRED> au foie. <OPER id="o_7">Retirez</OPER> les nerfs du foie en les soulevant avec une lame de couteau et en tirant sans <OPER id="o_8">avoir</OPER> peur de l'<OPER id="o_9">abîmer</OPER>. Le <INGRED id="2">foie</INGRED> se reconstituera à la cuisson. <OPER id="o_10">Mélangez</OPER> les épices, <OPER id="o_11">frottez</OPER> les <INGRED id="6">deux</INGRED> lobes du <INGRED id="1">foie</INGRED> sur toutes leurs faces avec ce <INGRED id="2">mélange</INGRED>. <OPER id="o_12">Arrosez</OPER> - le de porto. <OPER id="o_13">Couvrez</OPER> de papier d'aluminium, et placez au frais jusqu'au lendemain, en retournant le foie <INGRED id="6">deux</INGRED> ou trois fois. Le lendemain, <OPER id="o_14">retirez</OPER> le <INGRED id="2">foie</INGRED> de la marinade au moins 1 h avant de le <OPER id="o_15">cuire</OPER>. <OPER id="o_16">Mettez</OPER> - le dans une terrine adaptée en tassant bien. <OPER id="o_17">Arrosez</OPER> avec la marinade. <OPER id="o_18">Placez</OPER> la terrine dans un bain - marie dont l'<INGRED id="4">eau</INGRED> aura été chauffée au préalable à 70 ° C. <OPER id="o_19">Couvrez</OPER> la terrine, et faites <OPER id="o_20">cuire</OPER> à four à 125 ° C ( thermostat 4 ) pendant 25 min minimum, voire 30 à 40 min selon les goûts. <OPER id="o_21">Surveillez</OPER> la cuisson selon le gras rendu : celui-ci doit être limpide. <OPER id="o_22">Retirez</OPER> la graisse rendue, conservez - la pour d'autres préparations. Vous pourvez également la laisser et ne pas <OPER id="o_23">mettre</OPER> de gelée. <OPER id="o_24">Posez</OPER> une planchette ou un plat avec un poids léger par - dessus, et laissez <OPER id="o_25">refroidir</OPER> à température ambiante pendant 3 h. <OPER id="o_26">Coulez</OPER> la gelée tiédie par - dessus, couvrez et mettez au réfrigérateur. Pour servir, <OPER id="o_27">sortez</OPER> la terrine de <INGRED id="1">foie gras</INGRED> 15 min avant de la <OPER id="o_28">découper</OPER> en <INGRED id="4">tranches</INGRED>.
+  </annotation>
+  <annotation methode="crf">
+  Le <INGRED>foie</INGRED> gras doit être mou <INGRED>,</INGRED> pour cela sortez - le du réfrigérateur 1 <INGRED>h</INGRED> avant de le nettoyer afin d'en faciliter le nettoyage. Retirez la membrane transparente qui entoure le <INGRED>foie</INGRED> <INGRED>,</INGRED> vérifiez que tout le <INGRED>fiel</INGRED> <INGRED>a</INGRED> bien été enlevé <INGRED>,</INGRED> et éliminez éventuellement toute trace verdâtre qui pourrait communiquer un mauvais goût au <INGRED>foie</INGRED> <INGRED>.</INGRED> Retirez les <INGRED>nerfs</INGRED> du <INGRED>foie</INGRED> en les soulevant avec une lame de couteau et en tirant sans avoir peur de l'abîmer <INGRED>.</INGRED> Le <INGRED>foie</INGRED> se reconstituera à la cuisson. Mélangez les <INGRED>épices</INGRED> <INGRED>,</INGRED> frottez les <INGRED>deux</INGRED> lobes du <INGRED>foie</INGRED> sur toutes leurs faces avec ce <INGRED>mélange</INGRED> <INGRED>.</INGRED> Arrosez - le de <INGRED>porto</INGRED> <INGRED>.</INGRED> Couvrez de papier d'aluminium <INGRED>,</INGRED> et placez au <INGRED>frais</INGRED> jusqu'au lendemain <INGRED>,</INGRED> en retournant le <INGRED>foie</INGRED> <INGRED>deux</INGRED> <INGRED>ou</INGRED> trois fois. Le lendemain <INGRED>,</INGRED> retirez le <INGRED>foie</INGRED> de la marinade au moins 1 <INGRED>h</INGRED> avant de le cuire <INGRED>.</INGRED> Mettez - le dans une terrine adaptée en tassant bien <INGRED>.</INGRED> Arrosez avec la marinade <INGRED>.</INGRED> Placez la terrine dans un bain - marie dont l'<INGRED>eau</INGRED> aura été chauffée au préalable à 70 ° C <INGRED>.</INGRED> Couvrez la terrine <INGRED>,</INGRED> et faites cuire à four à 125 ° C ( thermostat 4 ) pendant 25 min minimum <INGRED>,</INGRED> voire 30 à 40 min selon les goûts <INGRED>.</INGRED> Surveillez la cuisson selon le gras rendu <INGRED>:</INGRED> celui-ci doit être limpide. Retirez la <INGRED>graisse</INGRED> rendue <INGRED>,</INGRED> conservez - la pour d'autres préparations. Vous pourvez également la laisser et ne pas mettre de <INGRED>gelée</INGRED> <INGRED>.</INGRED> Posez une planchette <INGRED>ou</INGRED> un plat avec un poids léger par - dessus <INGRED>,</INGRED> et laissez refroidir à température ambiante pendant 3 h. Coulez la <INGRED>gelée</INGRED> tiédie par - dessus <INGRED>,</INGRED> couvrez et mettez au réfrigérateur. Pour servir <INGRED>,</INGRED> sortez la terrine de <INGRED>foie</INGRED> gras 15 min avant de la découper en tranches.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 27.7263843648208*X + 0.273615635179153</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 304*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:["foie gras d'oie frais", 'foie']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['g']	 id:2	 quantité:300	 unité:non_precis	 denombrable:True	 recipient:300*X
+ingredient:['sel']	 id:3	 quantité:1/4	 unité:cuillère à café de	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:4	 quantité:1/2	 unité:cuillère à café de	 denombrable:False	 recipient:1
+ingredient:['noix muscade râpée', 'noix']	 id:5	 quantité:1	 unité:pincée de	 denombrable:True	 recipient:1*X
+ingredient:['porto']	 id:6	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['gelée au porto', 'gelée']	 id:7	 quantité:25	 unité:cl de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:sortir	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:nettoyer	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:faciliter	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_4	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:vérifier	 id:o_5	 ingrédients_ralatifs:['3', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:communiquer	 id:o_6	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:avoir	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:abîmer	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_10	 ingrédients_ralatifs:['6', '1', '2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:frotter	 id:o_11	 ingrédients_ralatifs:['6', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:arroser	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_13	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_14	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:mettre	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:arroser	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_18	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:surveiller	 id:o_21	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_23	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:poser	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:couler	 id:o_26	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:sortir	 id:o_27	 ingrédients_ralatifs:['1', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:découper	 id:o_28	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1*X	 temps:1*X*1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

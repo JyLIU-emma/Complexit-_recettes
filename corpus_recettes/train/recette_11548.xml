@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11548">
+  <titre>Gâteau aux carottes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de carottes râpées</p>
+    <p>125 g de sucre</p>
+    <p>2 œufs</p>
+    <p>60 g de cerneaux de noix concassés</p>
+    <p>125 g de beurre fondu</p>
+    <p>200 g de farine</p>
+    <p>1 sachet de levure chimique</p>
+    <p>1/2 cuillère à café de cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à thermostat 5 (150°C).
+    Fouetter les œufs avec le sucre. Quand le mélange double de volume et devient mousseux, ajouter peu à peu la farine et le beurre fondu tout en continuant de fouetter puis la cannelle, la levure et enfin les carottes râpées et les noix sans arrêter de fouetter.
+    Bien mélanger, verser dans un moule a cake et faire cuire 1 heure.
+    Laisser tiédir avant de démouler.
+    On peu utiliser un demi-sachet de levure chimique et rajouter une pincée de bicarbonate de soude. Le bicarbonate fait lever les pâtes et rend les pâtisseries plus légères et plus digestes.
+    Ce gâteau est suprenant, car on ne soupçonne pas la présence des carottes!
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17006">
+  <titre>Fondant au chocolat simple</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>230 g de chocolat noir</p>
+    <p>4 oeufs</p>
+    <p>50 g de sucre semoule</p>
+    <p>60 g de farine</p>
+    <p>50 g de lait</p>
+    <p>50 g de crème épaisse</p>
+    <p>160 g de beurre </p>
+    <p>10 g de beurre pour le moule </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four therm 5. Beurrer un moule rond. Casser le chocolat en morceaux.
+    Séparer les jaunes des blancs d'oeufs.
+    Travailler les jaunes avec le sucre puis incorporer la farine, mélanger. Faire bouillir le lait, la crème et le beurre dans une casserole et hors du feu ajouter le chocolat. Laisser fondre, remettre sur feu si nécessaire.
+    Verser cette préparation sur le mélange jaunes d'oeufs + farine. Garnir le moule beurré et enfourner 10 mn. Laisser refroidir et déguster.
+  ]]>
+  </preparation>
+</recette>

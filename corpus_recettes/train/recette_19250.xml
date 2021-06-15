@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19250">
+  <titre>Polo de Parma</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 filets de poulet</p>
+    <p>500 g de tomates cerises</p>
+    <p>1 boîte de pesto vert</p>
+    <p>4 grandes tranches très fines de jambon de Parme (ou tranches de lard) </p>
+    <p>ail, sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Badigeonner les blancs de poulet de pesto puis les enrouler d'une tranche de jambon de Parme (ou de lard). Faire tenir le tout à l'aide d'un cure dent. 
+    Dans un plat, mettre les 4 filets, les tomates cerises coupées en deux, une gousse d'ail hachée ainsi que le reste du pesto. 
+    Faire cuire au four à 160-180°C pendant 30 mn.
+    Très bon avec des haricots verts que l'on peut faire revenir dans le jus obtenu après cuisson. chianti
+  ]]>
+  </preparation>
+</recette>

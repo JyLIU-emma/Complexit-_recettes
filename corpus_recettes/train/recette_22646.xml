@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22646">
+  <titre>Bouchées de la mer</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 bouchées en pâte feuilletée</p>
+    <p>1 échalote</p>
+    <p>8 cl de vin blanc sec</p>
+    <p>15 cl d'eau</p>
+    <p>4 noix de coquilles St-Jacques </p>
+    <p>40 g de champignons </p>
+    <p>140 g de crevettes cuites décortiquées</p>
+    <p>80 g de poisson blanc cuit</p>
+    <p>35 g de crème fraîche</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 150°C (thermostat 5) et mettez les feuilletés à réchauffer.
+    Faites cuire l'échalote hachée dans le vin blanc et l'eau pendant 10 minutes.
+     
+    Faites-y pocher les noix de St-Jacques et les champignons émincés durant 5 minutes. Ajoutez les crevettes et le poisson coupé en morceaux. Laissez-les se réchauffez, égouttez et réservez au chaud.
+    Laissez réduire le jus de cuisson puis ajoutez la crème et assaisonnez. Versez la sauce sur les fruits de mer et garnissez-en les bouchées feuilletées réchauffées. 
+  ]]>
+  </preparation>
+</recette>

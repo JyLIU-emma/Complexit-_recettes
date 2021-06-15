@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21889">
+  <titre>Beignets de banane, coulis aux abricot</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 bananes</p>
+    <p>200 g de farine</p>
+    <p>20 g de levure de boulanger</p>
+    <p>1/2 cuillerée à café de sel</p>
+    <p>25 cl d'eau tiède</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>2 blancs d'oeufs</p>
+    <p>7 cl de rhum</p>
+    <p>4 cuillères à soupe de sucre</p>
+    <p>1 gousse de vanille grattée et fendue</p>
+    <p>6 cuillères à soupe de confiture d'abricot</p>
+    <p>huile de friture</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Délayez la levure dans 5 cl d'eau tiède. Couvrez et laissez ce levain patienter 10 minutes.
+    Coupez 6 bananes en 4 et arrosez de rhum.
+    Détaillez les autres bananes en rondelles et mettez-les dans une casserole avec le sucre, la confiture d'abricot délayée dans 10 cl d'eau, les graines et la gousse de vanille. Amenez à ébullition et laissez cuire 25 minutes à frémissement. Laissez refroidir, ôtez la gousse de vanille et passez au mixeur pour obtenir un coulis.
+    Préparez la pâte à beignets en mélangeant le levain avec la farine tamisée, le sel et 15 cl d'eau tiède. Fouettez la pâte puis ajoutez le reste d'eau et l'huile. Laissez la pâte reposer 45 minutes. 
+    Faites chauffer le bain de friture. 
+    Montez les blancs d'oeufs en neige avec une pincée de sel puis incorporez-les à la pâte. 
+    Confectionnez les beignets de banane au dernier moment. Trempez les tranches de banane dans la pâte et faites-les frire dans l'huile jusqu'à ce que les beignets soient bien dorés. Egouttez-les sur du papier absorbant et accompagnez du coulis abricot-banane.  
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24326">
+  <titre>Bombe d'oeuf au fromage</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 oeufs</p>
+    <p>100 g de gruyère rapé</p>
+    <p>1 cuillère à soupe de crème fraîche</p>
+    <p>1 oignon</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ustensiles : un mug (ou une autre grosse tasse) et une petite assiette
+    Hacher l'oignon en morceaux très fins.
+    Mettre les 2 oeufs, sans éclater le jaune, dans le mug. Ajouter la crème fraiche, l'oignon, le poivre et le sel.
+    Homogénéiser le mélange (en gardant les jaunes intacts), puis ajouter le gruyère rapé, puis remélanger, toujours sans défaire les jaunes.
+    Recouvrir le mug de la petite assiette et mettre 3 minutes au micro-onde. Attention aux explosions, c'est une vrai petite bombe!A votre guise, ajouter viande, ou des restes de fromage 
+  ]]>
+  </preparation>
+</recette>

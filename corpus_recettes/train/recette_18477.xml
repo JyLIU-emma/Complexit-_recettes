@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18477">
+  <titre>Oeuf à la thaïlandaise</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>50 g de riz</p>
+    <p>75 g de crevettes roses</p>
+    <p>75 g de petits pois en boîte</p>
+    <p>sel, poivre</p>
+    <p>2 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire le riz dans une bonne quantité d'eau légèrement salée. 
+    Faites revenir les crevettes dans un peu de beurre et les mélanger aux petits pois. Réservez au chaud. 
+    Lorsque le riz est cuit, égouttez-le et passez-le rapidement sous l'eau froide. 
+    Beurrez deux petites poêle individuelles et faites frire dans chacune un oeuf sur le plat. Salez, poivrez. 
+    Pendant la cuisson des oeufs mélangez rapidement le riz avec le mélange crevettes-petits pois, en garnir deux assiettes et déposez délicatement un oeuf sur le plat sur cet appareil. Servez aussitôt.
+    C'est un petit plat typique et simple que j'ai eu l'occasion de découvrir en Thaïlande mais je n'en connais malheureusement pas le nom exact.
+  ]]>
+  </preparation>
+</recette>

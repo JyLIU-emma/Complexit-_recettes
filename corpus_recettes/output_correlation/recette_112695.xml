@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="112695">
+  <titre>Chaussons aux pommes et aux noisettes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 grammes de pâte feuilletée </p>
+    <p>3 pommes </p>
+    <p>50 grammes de noisettes décortiquées,mondées et concassées </p>
+    <p>1 jaune d'oeuf </p>
+    <p>20 grammes de beurre </p>
+    <p>50 grammes de sucre en poudre. </p>
+    <p>1 sachet de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1.Pelez et épépinez les pommes,coupez-les en lamelles et faites-les revenir à la poêle avec le beurre. 2.Ecrasez les pommes à la fourchette avec le sucre en poudre,le sucre vanillé et les noisettes concassées. 3.Préchauffez le four à thermostat 7 à 220°C.Abaissez la pâte sur une épaisseur de 3 à 4 mm et découpez 12 ovales au couteau.Répartissez les pommes sur la moitié de chaque pâton en laissant une marge de 2 cm sur le pourtour. 4.Humectez le pourtour,repliez la pâte sur les pommes et soudez les bords.
+    Laissez reposer 10 minutes sur la plaque du four humidifiée.
+    Badigeonnez les chaussons au jaune d'oeuf étendu d'un peu d'eau.
+    Enfournez à mi-hauteur à thermostat 6 à 200°C pour 20 à 25 minutes.
+    Servez tiède ou froid.Vous pouvez déguster ces délicieux chaussons aux pommes et aux noisettes tiède ou froid, mais selon moi, ces délicieux desserts doivent être dégustés tièdes.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">1.Pelez</OPER> et <OPER id="o_2">épépinez</OPER> les pommes, coupez - les en lamelles et faites - les <OPER id="o_3">revenir</OPER> à la poêle avec le <INGRED id="4">beurre</INGRED>. <OPER id="o_4">2.Ecrasez</OPER> les <INGRED id="3">pommes</INGRED> à la fourchette avec le <INGRED id="6">sucre en poudre</INGRED>, le <INGRED id="2">sucre vanillé</INGRED> et les <INGRED id="3">noisettes</INGRED> <INGRED id="4">concassées</INGRED>. <OPER id="o_5">3.Préchauffez</OPER> le four à thermostat 7 à 220 ° <OPER id="o_6">C.Abaissez</OPER> la <INGRED id="5">pâte</INGRED> sur une épaisseur de 3 à 4 mm et découpez 12 ovales au couteau. <OPER id="o_7">Répartissez</OPER> les pommes sur la moitié de chaque pâton en laissant une marge de 2 cm sur le pourtour. 4.Humectez le pourtour, <OPER id="o_8">repliez</OPER> la <INGRED id="5">pâte</INGRED> sur les pommes et soudez les bords. Laissez <OPER id="o_9">reposer</OPER> 10 minutes sur la plaque du four humidifiée. <OPER id="o_10">Badigeonnez</OPER> les chaussons au <INGRED id="5">jaune d'oeuf</INGRED> étendu d'un peu d'<INGRED id="1">eau</INGRED>. <OPER id="o_11">Enfournez</OPER> à mi-hauteur à thermostat 6 à 200 ° C pour 20 à 25 minutes. Servez tiède ou froid. Vous pouvez déguster ces délicieux chaussons aux pommes et aux <INGRED id="3">noisettes</INGRED> tiède ou froid, mais selon moi, ces délicieux desserts doivent être dégustés tièdes.
+  </annotation>
+  <annotation methode="crf">
+  1.Pelez et épépinez les <INGRED>pommes</INGRED> <INGRED>,</INGRED> coupez - les en <INGRED>lamelles</INGRED> et faites - les revenir à la poêle avec le <INGRED>beurre</INGRED> <INGRED>.</INGRED> 2.Ecrasez les <INGRED>pommes</INGRED> à la fourchette avec le <INGRED>sucre en poudre</INGRED> <INGRED>,</INGRED> le <INGRED>sucre vanillé</INGRED> et les <INGRED>noisettes</INGRED> concassées. 3.Préchauffez le four à thermostat 7 à 220 ° C.Abaissez la <INGRED>pâte</INGRED> sur une épaisseur de 3 à 4 mm et découpez 12 ovales au couteau. Répartissez les <INGRED>pommes</INGRED> sur la moitié de chaque pâton en laissant une marge de 2 <INGRED>cm</INGRED> sur le pourtour <INGRED>.</INGRED> 4.Humectez le pourtour <INGRED>,</INGRED> repliez la <INGRED>pâte</INGRED> sur les <INGRED>pommes</INGRED> et soudez les bords. Laissez reposer 10 minutes sur la plaque du four humidifiée <INGRED>.</INGRED> Badigeonnez les chaussons au <INGRED>jaune d'oeuf</INGRED> étendu d'un peu d'<INGRED>eau</INGRED> <INGRED>.</INGRED> Enfournez à mi-hauteur à thermostat 6 à 200 ° C pour 20 à 25 minutes. Servez tiède <INGRED>ou</INGRED> froid <INGRED>.</INGRED> Vous pouvez déguster ces délicieux chaussons aux <INGRED>pommes</INGRED> et aux <INGRED>noisettes</INGRED> tiède <INGRED>ou</INGRED> froid <INGRED>,</INGRED> mais selon moi <INGRED>,</INGRED> ces délicieux desserts doivent être dégustés tièdes.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 10.982428115016*X + 0.0175718849840256</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 625*X + 3</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pâte feuilletée', 'pâte']	 id:1	 quantité:500	 unité:grammes de	 denombrable:True	 recipient:500*X
+ingredient:['pommes']	 id:2	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['noisettes décortiquées , mondées', 'noisettes']	 id:3	 quantité:50	 unité:grammes de	 denombrable:True	 recipient:50*X
+ingredient:['concassées']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["jaune d'oeuf", 'jaune']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['beurre']	 id:6	 quantité:20	 unité:grammes de	 denombrable:True	 recipient:20*X
+ingredient:['sucre en poudre', 'sucre']	 id:7	 quantité:50	 unité:grammes de	 denombrable:True	 recipient:50*X
+ingredient:['sucre vanillé', 'sucre']	 id:8	 quantité:1	 unité:sachet de	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:1.peler	 id:o_1	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:épépiner	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:revenir	 id:o_3	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:2.ecraser	 id:o_4	 ingrédients_ralatifs:['3', '6', '2', '3', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:3.préchauffer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:c.abaisser	 id:o_6	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:répartir	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:replier	 id:o_8	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:badigeonner	 id:o_10	 ingrédients_ralatifs:['5', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfourner	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

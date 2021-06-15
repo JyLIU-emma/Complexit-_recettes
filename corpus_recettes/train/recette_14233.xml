@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14233">
+  <titre>Bouillie Grise (Bouillie Normande)</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de farine de sarrasin</p>
+    <p>2 l de lait</p>
+    <p>gros sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prenez un bol de farine de sarrasin, délayez avec 2 l de lait froid, petit à
+    petit, salez avec du gros sel.
+    Sur le feu, tournez jusqu'à ce qu'elle épaississe.
+    Goûtez et rectifiez l'assaisonnement.
+    Cette bouillie se fait la veille. Faites-la
+    refroidir dans un moule à cake. Découpez-la en tranches et passez-les au beurre sur une crêpière ou une poêle avant de servir.
+  ]]>
+  </preparation>
+</recette>

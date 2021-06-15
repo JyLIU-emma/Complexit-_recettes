@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22551">
+  <titre>Tourte au saumon et crevettes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 pâtes feuilletées</p>
+    <p>3 ou 4 petites pommes-de-terre</p>
+    <p>1 grosse darne de saumon</p>
+    <p>1 gros oignon</p>
+    <p>150 g de crevettes roses (grosses) </p>
+    <p>40 cl de crème fraîche semi-épaisse</p>
+    <p>sel, poivre, muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pommes de terre (en rondelles) et le poisson à la vapeur. 
+    Faire revenir l'oignon dans un peu d'huile pour le caraméliser. Etaler un disque de pâte feuilletée dans un plat à tarte, y installer les rondelles de pommes de terre, l'oignon, le saumon émietté et les grosses crevettes. Saler et poivrer la crème fraîche, ajouter un peu de muscade et verser sur le tout. 
+    Recouvrir de l'autre disque de pâte et dorer avec un jaune d'oeuf. 
+    Faire cuire thermostat 6 pendant 30 mn environ, pour que la pâte dore bien.
+    Servir avec une salade.
+  ]]>
+  </preparation>
+</recette>

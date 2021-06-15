@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13723">
+  <titre>Salade de poissons fumés sauce à l'orange</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 chicons émincés (endives)</p>
+    <p>100 g de saumon fumé</p>
+    <p>50 g de flétan fumé</p>
+    <p>1 orange</p>
+    <p>6 cuillères à soupe de sauce soja</p>
+    <p>sel et poivre</p>
+    <p>aneth</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyez les chicons et émincez-les. Coupez les poissons en lanières.
+    Zestez l'orange et prélevez-en le jus.
+    Pour la sauce, mélangez la sauce soja, le jus d'orange et les zestes. Salez et poivrez selon votre goût.Mélangez les chicons émincés et les poissons dans un grand plat.
+    Garnissez de pluches d'aneth et accompagnez de sauce.
+  ]]>
+  </preparation>
+</recette>

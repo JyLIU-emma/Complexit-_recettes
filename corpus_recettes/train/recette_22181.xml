@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22181">
+  <titre>Poulet mariné au citron vert</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet découpé en morceaux</p>
+    <p>2 citrons verts</p>
+    <p>1 échalote ou 1 oignon</p>
+    <p>10 cl de crème fraîche</p>
+    <p>10 cl de bouillon de volaille</p>
+    <p>huile</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pressez les citrons, faites macérer les morceaux de poulet dans leur jus pendant 2 h en les retournant de temps en temps.
+    Egouttez les morceaux de poulet et faites-les revenir avec l'échalote hachée dans une cocotte contenant 2 cuillères à soupe d'huile.
+    Salez, poivrez et ajoutez le jus des citrons et le bouillon. 
+    Couvrez et laissez cuire 30 min à feu doux.
+    Egouttez les morceaux de poulet et disposez-les sur un plat. 
+    Faites réduire la sauce quelques minutes et ajoutez la crème dans la cocotte.
+    Remuez bien et nappez le poulet de sauce.
+    A servir avec du riz bien sûr !
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12305">
+  <titre>Soupe au crabe et aux asperges</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,5 l de bouillon de volaille dégraissé</p>
+    <p>2 cuillères à soupe d'huile d'arachide</p>
+    <p>1 petit oignon haché</p>
+    <p>2 gousses d'ail hachées</p>
+    <p>2 échalotes vertes hachées</p>
+    <p>6 champignons tranchés</p>
+    <p>300 g de chair de crabe surgelée ou en conserve égouttée</p>
+    <p>15 g de maïzena</p>
+    <p>15 cl d'eau froide</p>
+    <p>2 cuillères à soupe de sauce de poisson ou de sauce soya</p>
+    <p>10 asperges fraîches ou surgelées, parées, coupées en morceaux moyens</p>
+    <p>20 g de coriandre fraîche, hachée</p>
+    <p>sel et poivre</p>
+    <p>1 oeuf</p>
+    <p>15 cl d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole, porter le bouillon à ébullition. Délayer la maïzena dans l'eau. Incorporer au bouillon en brassant.
+    Pendant ce temps, chauffer l'huile dans un wok ou une grand poêle. Y faire revenir l'oignon, l'ail, les échalotes et les champignons 2 à 3 minutes. Ajouter la chair de crabe effilée ou en morceaux.
+    Ajouter le mélange de crabe, la sauce de poisson ou la sauce soya, les asperges et la coriandre. Saler et poivrer.
+    Laisser mijoter en remuant de temps en autres, jusqu'à tendreté des asperges.
+    Dans un bol, fouetter l'oeuf et l'eau. Incorporer à la soupe en remuant, jusqu'à la formation de filaments. Servir chaud.
+    Cuisine orientale
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22880">
+  <titre>Macaronis aux trois fromages</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de macaronis longs ou de pennes</p>
+    <p>120 g de fromage à raclette sans sa croûte</p>
+    <p>100 g de gorgonzola (saint-Agur, bleu d'Auvergne...) </p>
+    <p>80 g de parmesan râpé</p>
+    <p>20 cl de crème liquide</p>
+    <p>1 pincée de noix de muscade</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les fromages en morceaux. Mettre la crème dans une casserole, la faire bouillir et réduire 3 mn à feu doux. Hors du feu, rajoutez les fromages mais seulement la moitié du parmesan en mélangeant vivement. 
+    Remettez à feu doux jusqu'à ce que le mélange soit lisse. Poivrez et relevez de muscade. 
+    Pendant ce temps, faîtes cuire les pâtes suivant le temps indiqué sur votre paquet (pâtes fraîches c'est encore meilleur). 
+    Egouttez les pâtes, versez-les dans la casserole contenant la sauce aux trois fromages. Mélangez rapidement, parsemez du reste de parmesan et servez.
+    On peut rajouter à la fin des dés de jambon ou des lardons, cuits à part.
+  ]]>
+  </preparation>
+</recette>

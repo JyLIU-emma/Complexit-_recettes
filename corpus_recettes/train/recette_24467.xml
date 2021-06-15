@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24467">
+  <titre>Lapin loulou ( sauce pain d'épices)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 beau lapin</p>
+    <p>4 tranches ou plus de pain d'épices</p>
+    <p>1 carré de bouillon cube</p>
+    <p>2 oignons</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir le lapin coupé en morceaux. 
+    Ajouter les oignons coupés en quartiers. 
+    Mouiller d'eau jusqu'à hauteur de la viande et mettre les tranches de pain d'épice. 
+    Délayer le bouillon cube à part et mettre dans la sauteuse. 
+    Saler, poivrer et faire cuire 1 heure. 
+    Servir avec du riz ou des pommes de terre vapeur...
+    C'est étonnamment délicieux!
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13023">
+  <titre>Spaghetti du soleil</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 portions de spaghetti</p>
+    <p>1 bocal de tomates séchées marinées dans l'huile (sun-dried tomatoes)</p>
+    <p>1 bocal de coeur d'artichauts rôtis, dans l'huile</p>
+    <p>100 g feta de brebis cubée en dés</p>
+    <p>huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les spaghetti. Une fois égouttés, y ajouter la feta, les tomates, les artichauts, le tout coupés en petit dés, un trait d'huile d'olive, sel, poivre. Servir chaud.
+  ]]>
+  </preparation>
+</recette>

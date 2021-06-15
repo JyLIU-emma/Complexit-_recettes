@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25787">
+  <titre>Pain de chou-fleur</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de chou-fleur</p>
+    <p>65 g de crème fraîche</p>
+    <p>1 tomate</p>
+    <p>2 cuillères à soupe de coriandre et ciboulette ciselées</p>
+    <p>2 oeufs</p>
+    <p>5 g de beurre pour le moule</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6-7).
+    Détailler le chou-fleur en bouquets et le faire cuire 15 minutes à l'eau bouillante salée.
+    Egoutter et réduire en purée.
+    Beurrer un moule à charlotte ou une couronne.
+    Recouvrir le fond de dés de tomates et de fines herbes.
+    Battre légèrement les oeufs avec la crème, le sel et le poivre. Incorporer la purée de chou et bien mélanger le tout de façon à obtenir un mélange homogène.
+    Verser la préparation dans le moule puis le placer dans un bain-marie.
+    Enfourner à four chaud et laisser cuire 45 à 50 minutes.
+    Sortir du four et laisser refroidir à température ambiante.
+    Réserver 1 heure au réfrigérateur avant de servir puis démouler le gâteau sur un plat de service.
+    Servir avec une sauce épicée.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26203">
+  <titre>Feuilletés aux épinards facile</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>pâte feuilletée</p>
+    <p>1 oignon</p>
+    <p>2 oeufs</p>
+    <p>60 g gruyère râpé</p>
+    <p>150 g feta</p>
+    <p>1 kg d'épinards hachés surgelés</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir l'oignon. 
+    Bien égoutter les épinards décongelés. 
+    Mélanger tous les ingrédients (sauf les oeufs) saler, poivrer. 
+    Mettre la préparation dans la pâte feuilletée (découpée en carrés). 
+    Badigeonner les feuilletés avec l'oeuf. 
+    Passer au four 20 mn à 200°C.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11199">
+  <titre>Spéculoos</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g cassonade brune</p>
+    <p>350 g farine tamisée</p>
+    <p>5 g bicarbonate de soude</p>
+    <p>1 oeuf</p>
+    <p>sel</p>
+    <p>250 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Reposer la pâte 12 heures.
+    Mettre 200 g de beurre à ramollir. Mélanger 300 g de farine, le sel et le bicarbonate.Mélanger le beurre mou avec cassonade et oeuf. Rassembler le tout et laisser reposer 12 h. 
+    Beurrer des plaques à four avec le beurre restant.
+    Etaler 1/3 de la pâte (2 à 3 mm d'épaisseur) et placer ensuite sur les plaques beurrées.
+    Recommencer 2 fois.
+    Mettre à four moyen à 140°C (thermostat 4-5) pendant 20 min.
+    Ils doivent être dorés lorsque sortis du four. 
+    Servir froids.
+  ]]>
+  </preparation>
+</recette>

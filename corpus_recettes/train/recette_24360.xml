@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24360">
+  <titre>Risotto à la menthe</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>350 g de riz</p>
+    <p>un oignon</p>
+    <p>huile</p>
+    <p>un verre de vin blanc</p>
+    <p>du bouillon bien chaud</p>
+    <p>une poignée de menthe finement émincée</p>
+    <p>parmesan râpé</p>
+    <p>beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer le risotto comme d'habitude (faire étuver l'oignon émincé, ajouter le riz, augmenter le feu et bien remuer, ajouter le vin et le faire évaporer, couvrir le riz avec le bouillon et en ajouter de temps en temps ...). 
+    Quatre ou cinq minutes avant la fin de la cuisson, ajouter la menthe. 
+    Quand le risotto est prêt, y mettre une noix de beurre, le parmesan, mélanger, couvrir, attendre deux minutes et servir.
+    Oubliez si vous n'aimez pas le goût de la menthe avec le salé.Sinon, c'est un plat frais et original. 
+  ]]>
+  </preparation>
+</recette>

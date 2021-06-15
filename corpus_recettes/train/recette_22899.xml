@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22899">
+  <titre>Scampis à la nage</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poireau</p>
+    <p>1 fenouil</p>
+    <p>4 carottes</p>
+    <p>1 céleri</p>
+    <p>1 litre de vin blanc sec</p>
+    <p>25 cl de crème fraîche</p>
+    <p>sel, poivre</p>
+    <p>20 scampis</p>
+    <p>12 coquilles saint jacques</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper tous les légumes en très fines lamelles, les cuire dans le vin blanc avec sel et poivre. 
+    Une fois que les légumes ont bu tout le vin, ajouter la crème plus ou moins selon les goûts, décortiquer les scampis, et les mettre dans les légumes avec les coquilles saint jacques, cuire une dizaine de minutes. 
+    Servir chaud, avec des croûtons
+     vin sec
+  ]]>
+  </preparation>
+</recette>

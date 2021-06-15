@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15331">
+  <titre>Soufflé de boudin blanc à la banane</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 bananes</p>
+    <p>5 boudins blancs</p>
+    <p>3 oeufs</p>
+    <p>20 cl de crème liquide</p>
+    <p>30 g de beurre</p>
+    <p>1/2 cuillère à café de mélange 4 épices</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle, faire dorer les rondelles de 2 boudins et de 2 bananes.
+    Mixer les autres boudins et bananes, la crème, les oeufs, les épices.
+    Faire chauffer un bain-marie (au four, à 190°C).
+    Dans des ramequins beurrés, disposer alternativement : couche de rondelles de boudin, préparation mixée, rondelles de bananes, rondelles boudin, préparation, rondelles de banane.
+    Cuire au bain-marie à 190°C, jusqu'à ce que la préparation se tienne et soit dorée.
+  ]]>
+  </preparation>
+</recette>

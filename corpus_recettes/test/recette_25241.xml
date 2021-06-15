@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25241">
+  <titre>Toasts aux oeufs pochés à la sauce tomate</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tranches de pain épaisses rassis</p>
+    <p>4 oeufs</p>
+    <p>sauce tomate épicée</p>
+    <p>vinaigre</p>
+    <p>beurre</p>
+    <p>eau</p>
+    <p>sel </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Creusez les morceaux de pain afin de créer des caissettes. Les faire dorer dans une poêle.
+    Plonger les œufs dans une casserole d’eau bouillante salée et vinaigrée pendant 4 min.
+    Déposer les oeufs dans les caissettes et les recouvrir de sauce tomate.
+  ]]>
+  </preparation>
+</recette>

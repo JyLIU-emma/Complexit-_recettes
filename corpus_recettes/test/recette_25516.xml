@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25516">
+  <titre>Pizza magarita</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de farine</p>
+    <p>20 g de levure de boulanger</p>
+    <p>10 cl d'eau tiède</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>1 cuillère à café de sucre</p>
+    <p>1 cuillère à café de sel</p>
+    <p>500 g de mozzarella</p>
+    <p>1,5 kg de tomates allongées (Roma)</p>
+    <p>2 gros oignons</p>
+    <p>2 gousses d'ail</p>
+    <p>1/2 bouquet de basilic frais</p>
+    <p>origan</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Délayer la levure dans l'eau tiède avec le sucre. Laisser doubler de volume.
+    Tamiser la farine et le sel. Ajouter le levain préparé précédemment et l'huile, pétrir la pâte énergiquement. La fariner et laisser reposer dans un endroit tiède pendant 1 h environ.
+    Peler les tomates et les épépiner. Les concasser.
+    Faire suer les oignons et l'ail hachés dans un casserole avec un peu d'huile. Ajouter les tomates, une pincée de sucre et laisser cuire à feu doux pendant 30 minutes. Ajouter le basilic ciselé et retirer du feu.
+    Séparer la pâte en deux boules. Etaler 2 disques, les recouvrir de sauce tomate puis de mozzarela coupée en morceaux. Arroser d'un filet d'huile et saupoudrer de poivre et d'origan.
+    Faire cuire les pizzas 10 à 15 minutes au four à 240°C (thermostat 8).
+  ]]>
+  </preparation>
+</recette>

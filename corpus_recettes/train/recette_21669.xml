@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21669">
+  <titre>Gratin de courgettes fondantes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>18 petites courgettes</p>
+    <p>30 cl d’eau</p>
+    <p>180 g de beurre</p>
+    <p>100 g de farine</p>
+    <p>6 cuillères à soupe de crème</p>
+    <p>150 g de fromage râpé</p>
+    <p>1 pincée de noix de muscade râpée</p>
+    <p>75 cl de lait</p>
+    <p>sel, poivre du moulin </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 240°C (thermostat 8).
+    Peler et détailler les courgettes en rondelles assez épaisses, puis les plonger dans une casserole d’eau bouillante salée.
+    Laisser cuire 10 min.
+    Pendant ce temps, mettre le beurre à fondre dans une casserole beurrée (avec 75 g de beurre), saupoudrer de farine en remuant puis laisser colorer.
+    Mouiller ensuite en versant le lait avec la crème et saupoudrer de noix de muscade, de sel et de poivre.
+    Laisser mijoter 10 min à feu très doux, puis beurrer (avec 20 g de beurre) le plat à gratin.
+    Egoutter les rondelles de courgettes, les presser pour les vider de l’eau absorbée, puis disposer la moitié des courgettes dans le plat à gratin.
+    Les napper de sauce, puis recouvrir de l’autre moitié des courgettes et du reste de sauce.
+    Saupoudrer le dessus du plat de fromage râpé et de noisettes de beurre, puis faire gratiner 10 min à four très chaud.
+    Déguster dès la sortie du four.
+  ]]>
+  </preparation>
+</recette>

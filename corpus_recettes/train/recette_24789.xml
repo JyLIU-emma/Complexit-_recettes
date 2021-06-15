@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24789">
+  <titre>Salade de pommes de terre au thon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g pommes de terre</p>
+    <p>400 g thon au naturel</p>
+    <p>3 oeufs</p>
+    <p>3 cornichons</p>
+    <p>3 tomates</p>
+    <p>1 cuillère à soupe de câpres</p>
+    <p>1 cuillère à soupe de ketchup</p>
+    <p>4 cuillères à soupe de mayonnaise</p>
+    <p>1 cuillère à soupe de sauce Worcestershire</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les oeufs durs, 10 minutes.
+    Faire cuire les pommes de terre à l'eau ou à la vapeur, environ 25 minutes.
+    Les laisser refroidir.
+    Laver et couper les tomates en quartiers. Emincer les cornichons en rondelles. Egoutter et émietter le thon.
+    Ecaler les oeufs et les couper en rondelles. Peler et couper les pommes de terre en rondelles.
+    Mélanger tous ces ingrédients délicatement.
+    Mélanger la mayonnaise avec le ketchup, la sauce Worcestershire, du sel et du poivre. Ajouter les câpres et verser la sauce dans la salade. Remuer délicatement et servir.
+  ]]>
+  </preparation>
+</recette>

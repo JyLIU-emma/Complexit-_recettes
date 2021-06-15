@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16118">
+  <titre>Gâteau au chocolat grande tradition</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de chocolat noir</p>
+    <p>200 g de beurre</p>
+    <p>6 oeufs</p>
+    <p>200 g de sucre</p>
+    <p>40 g de farine</p>
+    <p>150 g d'amandes moulues</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le chocolat au bain marie.
+    Travailler le beurre en pommade et incorporer dans l'ordre le chocolat, les 6 jaunes d'oeufs, le sucre, la farine et les amandes. Mélanger le tout.
+    Monter les blanc en neiges, puis les incorporer sélicatement.
+    Verser le mélange dans un plat beurré.
+    Faire cuire au four 40 à 45 min à 220°C .
+    Démouler, laisser refroidir  et saupoudrer de cacao ou appliquer un glaçage au chocolat.
+  ]]>
+  </preparation>
+</recette>

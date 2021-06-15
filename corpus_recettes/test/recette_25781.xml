@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25781">
+  <titre>Soupe de laitue</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1.3 l de bouillon </p>
+    <p>130 g de laitue</p>
+    <p>10 g de beurre</p>
+    <p>1 gros oignon</p>
+    <p>3 grosses pommes de terre</p>
+    <p>1 jaune d'oeuf</p>
+    <p>40 g de crème double </p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher la laitue et la faire fondre dans le beurre avec l'oignon émincé jusqu'à évaporation complète de l'eau de végétation. 
+    Mouiller du bouillon et ajouter les pommes de terre coupées en rondelles. Saler, poivrer puis amenez à ébullition. 
+    Couvrir et laisser cuire doucement pendant 45 minutes.
+    Mixer et réchauffer sur le feu en ajoutant une noix de beurre.
+    Fouetter le jaune d'oeuf avec la crème dans le fond de la soupière et verser la soupe par dessus tout en remuant. 
+  ]]>
+  </preparation>
+</recette>

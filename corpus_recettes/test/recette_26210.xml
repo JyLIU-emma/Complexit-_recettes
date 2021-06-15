@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26210">
+  <titre>Jambonneau aux lentilles vertes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 jambonneau cuit</p>
+    <p>250 g de lentilles vertes</p>
+    <p>1 oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>1 clou de girofle</p>
+    <p>1 bouquet garni</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettez les lentilles dans un faitout rempli d'eau froide et faites bouillir pendant 5 mn. 
+    Egouttez-les, remettez-les dans le faitout et recouvrez-les à hauteur d'eau. 
+    Ajoutez l'oignon piqué du clou de girofle, l'ail épluché et le bouquet garni. 
+    Portez à ébullition, salez, poivrez, couvrez et faites cuire à petit feu pendant 25 mn. 
+    10 mn avant la fin de la cuisson, ajoutez le jambonneau. 
+    Retirez l'ail et le bouquet garni et versez les lentilles vertes dans un plat creux. 
+    Disposez les morceaux de jambonneau sur les lentilles et servez chaud.
+  ]]>
+  </preparation>
+</recette>

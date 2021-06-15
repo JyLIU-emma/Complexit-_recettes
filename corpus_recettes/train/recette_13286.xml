@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13286">
+  <titre>Oeufs au lait</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 litre de lait entier</p>
+    <p>6 oeufs</p>
+    <p>6 cuillères à soupe de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    NE PAS PRECHAUFFER LE FOUR !!!
+    Faire chauffer le lait et le sucre jusqu'à ébullition.
+    Mélanger les oeufs dans un bol.
+    Dans un plat (qui va au four), mettre le lait sucré, puis ajouter les oeufs (mélanger vite il faut éviter de cuire les jaunes). 
+    Mettre au four respectivement :
+    => 20 minutes à thermostat 4 (120°C)
+    => 10 minutes à thermostat 6 (180°C)
+    => 5 minutes thermostat 8 (240°C)
+    Bien respecter les temps de cuisson.
+  ]]>
+  </preparation>
+</recette>

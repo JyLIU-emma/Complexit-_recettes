@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16683">
+  <titre>Petits gâteaux à la noix de coco</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 blancs d'oeufs</p>
+    <p>200 g sucre glace</p>
+    <p>250 g de noix de coco moulue</p>
+    <p>zeste de citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre les blancs d'oeufs en neige très ferme. Incorporer le sucre glace et la noix de coco moulue, le zeste de citron.
+    Placer au frais une heure.
+    Faire de petits tas espacés sur une plaque beurrée et enfourner à four doux 15 min environ.
+    Les retirer à peine dorés. Laisser refroidir.
+  ]]>
+  </preparation>
+</recette>

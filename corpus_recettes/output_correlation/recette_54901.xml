@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54901">
+  <titre>Beignets de la 1ere Ratounette</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>750 g de farine</p>
+    <p>5 cl de pastis</p>
+    <p>1 levure de boulanger en carré ou 2 levures boulangères en sachet</p>
+    <p>eau courante</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Diluer la levure de boulangère dans de l’eau chaude.
+    Mélanger la farine, la levure diluée et le pastis, y mettre de l’eau chaude au fur et à mesure. Utiliser un fouet si nécessaire mais un appareil électrique.
+    Il faut que la pâte soit moelleuse, assez liquide comme pour la pâte à beignet, elle ne doit pas coller aux doigts.
+    Bien travailler la pâte, la relever avec la main.
+    Laisser reposer la pâte 2 ou 3 heures.
+    Ensuite prendre une cuillère à soupe de pâte et la jeter dans l’huile bouillante, attendre qu’ils soient bien dorés, les mettre sur du papier absorbant.
+    Les mettre dans un saladier et y mettre du sucre en poudre.
+    C'est une recette assez difficile à faire quant on a pas l'habitude.C'est une tradition en Italie quand les bébés font leurs premières dents. 
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Diluer</OPER> la <INGRED id="1">levure</INGRED> de boulangère dans de l’ eau chaude. <OPER id="o_2">Mélanger</OPER> la farine, la <INGRED id="2">levure</INGRED> diluée et le <INGRED id="2">pastis</INGRED>, y <OPER id="o_3">mettre</OPER> de l’ <INGRED id="4">eau chaude</INGRED> au fur et à mesure. <OPER id="o_4">Utiliser</OPER> un fouet si nécessaire mais un appareil électrique. Il faut que la pâte soit moelleuse, assez liquide comme pour la pâte à beignet, elle ne doit pas <OPER id="o_5">coller</OPER> aux doigts. Bien <OPER id="o_6">travailler</OPER> la pâte, la <OPER id="o_7">relever</OPER> avec la main. Laisser <OPER id="o_8">reposer</OPER> la <INGRED id="2">pâte</INGRED> 2 ou 3 heures. Ensuite <OPER id="o_9">prendre</OPER> une cuillère à soupe de pâte et la <OPER id="o_10">jeter</OPER> dans l’ huile bouillante, <OPER id="o_11">attendre</OPER> qu’ ils soient bien dorés, les <OPER id="o_12">mettre</OPER> sur du papier absorbant. Les <OPER id="o_13">mettre</OPER> dans un <INGRED id="1">saladier</INGRED> et y <OPER id="o_14">mettre</OPER> du sucre en poudre. C'est une recette assez difficile à faire quant on a pas l'habitude. C'est une tradition en Italie quand les bébés font leurs premières dents.
+  </annotation>
+  <annotation methode="crf">
+  Diluer la <INGRED>levure</INGRED> de boulangère dans de l’ <INGRED>eau</INGRED> chaude <INGRED>.</INGRED> Mélanger la <INGRED>farine</INGRED> <INGRED>,</INGRED> la <INGRED>levure</INGRED> diluée et le <INGRED>pastis</INGRED>, y mettre de l’ <INGRED>eau</INGRED> chaude au fur et à mesure. Utiliser un fouet si nécessaire mais un appareil électrique. Il faut que la <INGRED>pâte</INGRED> soit moelleuse <INGRED>,</INGRED> assez liquide comme pour la <INGRED>pâte</INGRED> à beignet <INGRED>,</INGRED> elle ne doit pas coller aux doigts. Bien travailler la <INGRED>pâte</INGRED> <INGRED>,</INGRED> la relever avec la main. Laisser reposer la <INGRED>pâte</INGRED> 2 <INGRED>ou</INGRED> 3 heures. Ensuite prendre une cuillère à soupe de <INGRED>pâte</INGRED> et la jeter dans l’ <INGRED>huile</INGRED> bouillante <INGRED>,</INGRED> attendre qu’ ils soient bien dorés <INGRED>,</INGRED> les mettre sur du papier absorbant. Les mettre dans un saladier et y mettre du <INGRED>sucre en poudre</INGRED> <INGRED>.</INGRED> C'est une recette assez difficile à faire quant on a pas l'habitude. C'est une tradition en Italie quand les bébés font leurs premières dents.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 3.5*X + 10.5</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['farine']	 id:1	 quantité:750	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['pastis']	 id:2	 quantité:5	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['levures boulangères en sachet', 'levures']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['eau courante', 'eau']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:diluer	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_2	 ingrédients_ralatifs:['2', '2', '4']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mettre	 id:o_3	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:utiliser	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:coller	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:travailler	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:relever	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_8	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:prendre	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:jeter	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:attendre	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_13	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20915">
+  <titre>Rougets grillés au four</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 rougets</p>
+    <p>2 gros oignons </p>
+    <p>40 cl de vin blanc sec </p>
+    <p>10 g de beurre</p>
+    <p>1 cuillère à soupe de chapelure fine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer et vider les rougets. Les mettre dans un plat beurré.
+    Émincer les oignons et les ajouter aux rougets. Assaisonner.
+    Arroser de vin blanc sec et recouvrir de plusieurs noisettes de beurre. Parsemer de chapelure.
+    Enfourner à 180° (thermostat 6) pendant 15 min.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18544">
+  <titre>Madeleines</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g farine</p>
+    <p>2 gros oeufs</p>
+    <p>100 g sucre</p>
+    <p>125 g beurre</p>
+    <p>1 zeste de citron</p>
+    <p>1 pincée levure chimique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre en pommade. Beurrer et fariner les moules à madeleines. Travailler les oeufs avec le sucre pour obtenir une pâte blanchâtre coulante. Ajouter peu à peu la farine + levure, le beurre fondu et le zeste de citron. Bien mélanger. Mettre dans les moules et faire cuire environ 15 min au four à 170°C (thermostat 5-6) . Laisser refroidir sur une grille.
+  ]]>
+  </preparation>
+</recette>

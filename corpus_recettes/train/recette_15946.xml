@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15946">
+  <titre>Escalopes de dinde au vin rouge</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 escalopes de dinde</p>
+    <p>4 à 5 cuillères à soupe de vin rouge</p>
+    <p>thym</p>
+    <p>riz exotique (ou normal pour les petits budgets)</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper les escalopes de dinde en petits cubes.
+    Chauffer de l'huile dans une poêle.
+    Dorer les morceaux de viande, les saler et poivrer.
+    Pendant ce temps, cuire du riz dans une casserole à part.
+    Une fois que les morceaux sont bien dorés, ajouter le vin et le thym. Laisser cuire 5 à 10 minutes.
+    Losque le riz est cuit, c'est prêt. 
+    La sauce dans la poêle peut alors être versée sur le riz.
+    C'est à la fois léger et très parfumé. Un Bordeaux ou  pour les connaisseurs, un premières côtes de Blaye ou de Bourg
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20013">
+  <titre>Gratin dauphinois</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de pommes de terre</p>
+    <p>60 g de beurre</p>
+    <p>1/4 de litre de lait</p>
+    <p>10 cl de crème fraîche épaisse</p>
+    <p>sel, poivre</p>
+    <p>la pointe d'un couteau de noix de muscade râpée</p>
+    <p>120 g de gruyère râpé</p>
+    <p>1 oignon (facultatif) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les pommes de terre. Les laver (ne pas les essuyer). 
+    Les couper en très fines rondelles avec l'oignon coupé également en fines rondelles (facultatif). Les disposer dans un plat beurré. 
+    Porter le lait à ébulition, couper le feu et ajouter la crème fraîche, puis assaisonner. Verser le mélange sur les pommes de terre. 
+    Mettre au four (thermostat 6/180°C) pendant 30 à 40 mn. 
+    Si les pommes de terre semblent sèches, les retourner et les mélanger aux autres. Elles doivent être moelleuses au couteau. 
+    Lorsqu'elles sont cuites, mettre le beurre en petits morceaux ainsi que le gruyère râpé, enfourner sous le grill et laisser dorer. 
+    Servir très chaud.
+     Bourgogne rouge
+  ]]>
+  </preparation>
+</recette>

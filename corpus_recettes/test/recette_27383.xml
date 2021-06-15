@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27383">
+  <titre>Salade complète au pamplemousse</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de jambon blanc</p>
+    <p>50 g de gruyère</p>
+    <p>10 radis </p>
+    <p>10 champignons de Paris</p>
+    <p>10 cerneaux de noix </p>
+    <p>100 g de haricots verts cuits</p>
+    <p>4 cornichons</p>
+    <p>1 branche de céleri</p>
+    <p>1 salade </p>
+    <p>1 carotte </p>
+    <p>le jus d'1/2 pamplemousse</p>
+    <p>2 cuillères à soupe de mayonnaise </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le jambon et le gruyère en dés. Faire des lamelles avec le radis, les champignons, les cornichons, le céleri et la salade. Découper les haricots verts et râper la carotte.
+    Mélanger le tout dans un saladier et recouvrir des noix décortiquées.
+    Ajouter le jus du pamplemousse à la mayonnaise et assaisonner.
+    Servir la salade nappée de sauce.
+  ]]>
+  </preparation>
+</recette>

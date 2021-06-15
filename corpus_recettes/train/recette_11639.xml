@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11639">
+  <titre>Mousse de thon simple</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boîte de thon à l'huile</p>
+    <p>1 échalote</p>
+    <p>1 filet de jus de citron</p>
+    <p>persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    On mixe le tout (on peut éventuellement ajouter un filet d'huile d'olive).Meilleur réfrigéré 30 minutes avant consommation.Délicieux sur du pain grillé ! Blanc sec
+  ]]>
+  </preparation>
+</recette>

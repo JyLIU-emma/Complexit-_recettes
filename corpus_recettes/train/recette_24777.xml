@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24777">
+  <titre>Tomates farcies au pâté de foie</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>10 tomates bien fermes</p>
+    <p>100 g de jambon cru fumé</p>
+    <p>200 g de filets de poulet</p>
+    <p>300 g de foie de veau</p>
+    <p>400 g de hachis porc/veau</p>
+    <p>50 g de persil haché</p>
+    <p>50 g d’oignons émincés finement</p>
+    <p>sel, poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez un chapeau aux tomates et évidez-les. Salez l’intérieur et laissez dégorger. 
+    Passez la viande à la moulinette. 
+    Incorporer les oignons, le persil et les épices. 
+    Farcir les tomates avec le mélange. 
+    Cuire environ 30 mn à 180°C.
+    Accompagner le plat d'une tranche de pain de campagne toastée.
+  ]]>
+  </preparation>
+</recette>

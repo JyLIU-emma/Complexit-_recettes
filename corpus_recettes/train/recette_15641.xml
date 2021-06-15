@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15641">
+  <titre>Tarte au chocolat noir</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>200 g de farine</p>
+    <p>100 g de beurre</p>
+    <p>1 oeuf</p>
+    <p>40 g de sucre</p>
+    <p>1 pincée de sel</p>
+    <p>Pour la garniture :</p>
+    <p>200 g chocolat noir</p>
+    <p>20 cl crème fraîche liquide</p>
+    <p>8 cl de lait</p>
+    <p>1 oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prévoir - 1 moule à tarte de 26 cm
+    Préchauffer le four à 180° (thermostat 6).
+    Préparer la pâte et la faire cuire à blanc 15 min, avec une feuille d'aluminium et des légumes secs, pour empêcher la pâte de gonfler.
+    Faire fondre le chocolat avec la crème et le lait au micro-ondes. Remuer pour bien diluer le chocolat et laisser refroidir un peu.
+    Lorsque le fond de pâte est cuit, mélanger l'oeuf battu au mélange chocolat-crème. 
+    Verser le tout sur la pâte, et laisser cuire 10 minutes.
+    Pour les amateurs de chocolat noir, succès garanti.
+    NDLR : Une parfaite recette de Noel !
+  ]]>
+  </preparation>
+</recette>

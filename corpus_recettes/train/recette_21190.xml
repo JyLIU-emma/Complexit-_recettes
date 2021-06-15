@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21190">
+  <titre>Cake aux pépites de chocolat et aux écorces d'orange</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>165 g de beurre</p>
+    <p>125 g de sucre</p>
+    <p>3 œufs</p>
+    <p>60 g de pépites de chocolat</p>
+    <p>35 g d'écorces d'orange</p>
+    <p>2 cuillères à soupe de rhum</p>
+    <p>1 pincée de sel</p>
+    <p>1 sachet de levure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire ramollir le beurre auparavant. 
+    Le travailler avec le sucre puis les œufs entiers. 
+    Ajouter la farine et travailler énergiquement la pâte. 
+    Mettre la levure puis le rhum. 
+    Incorporer les pépites de chocolat et les écorces d'orange coupé en petits morceaux. 
+    Verser dans un moule à cake beurré et faire cuire à 190°C pendant 45 min environ.
+  ]]>
+  </preparation>
+</recette>

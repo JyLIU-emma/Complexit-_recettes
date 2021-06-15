@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22982">
+  <titre>Pain de viande à l'oignon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 lb boeuf haché</p>
+    <p>1/2 lb lard haché</p>
+    <p>1 boîte (10 onces) de crème de champignons</p>
+    <p>1 tasse de petits cubes de pain</p>
+    <p>1/4 tasse d'oignons hachés</p>
+    <p>1 oeuf légèrement battu</p>
+    <p>1/2 cuillères à thé de sel</p>
+    <p>pincée de poivre</p>
+    <p>1/4 tasse d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Bien mélanger le boeuf avec la moitié de la boîte de crème de champignons, les cubes de pain, l'oignon, l'oeuf, l'eau, le sel et le poivre. 
+    Façonner en forme de pain, le disposer dans un moule à pain beurré et le placer au four à 350°F (180°C) pendant 1h15. 
+    Mélanger le reste de la crème de champignons avec 2 à 3 c à table de jus de cuisson et faire chauffer à feu doux. 
+    Napper le pain de viande avec cette sauce et servir.
+    <b>Note Marmiton.org :</b>
+    1 lb = 453,59 g
+    1 once = 28,35 g
+  ]]>
+  </preparation>
+</recette>

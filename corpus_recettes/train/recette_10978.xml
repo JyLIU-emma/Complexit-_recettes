@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10978">
+  <titre>Quiche aux légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>3 oeufs</p>
+    <p>20 cl de crème fraîche</p>
+    <p>1 poireau</p>
+    <p>1 gros oignon jaune</p>
+    <p>100 g de petits pois précuits</p>
+    <p>100 g de maïs doux</p>
+    <p>1 ou 2 tranches de jambon</p>
+    <p>100 g de fromage (emmental, gouda ou parmesan)</p>
+    <p>sel, poivre</p>
+    <p>huile</p>
+    <p>herbes de Provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire précuire la pâte brisée à blanc.
+    Emincer le blanc du poireau et l'oignon,
+    et les faire revenir a la poêle avec un peu
+    d'huile pendant une dizaine de minutes.
+    Bien égoutter ensuite.Mélanger dans un saladier le poireau, l'oignon,
+    les petits pois, le maïs et le jambon coupé
+    en petits morceaux.
+    Par ailleurs, battre les 3 oeufs dans un bol, et rajouter la crème fraîche, une pincée de sel et de poivre.Râper le fromage.
+    Mettre le mélange de légumes et le fromage sur
+    le fond de tarte, puis verser le mélange
+    oeufs-crème dessus.
+    Saupoudrer d'herbes de Provence.
+    Cuire au four pendant 1/2 heure environ.On peut aussi remplacer la pâte briséepar des feuilles de brick.
+  ]]>
+  </preparation>
+</recette>

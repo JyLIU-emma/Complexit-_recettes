@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11719">
+  <titre>Clafoutis aux poires facile</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 poires</p>
+    <p>2 oeufs</p>
+    <p>25 cl de lait</p>
+    <p>15 g de beurre</p>
+    <p>60 g de sucre</p>
+    <p>40 g de farine</p>
+    <p>cannelle</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les poires, puis les disposer dans un plat.
+    Battre tous les ingrédients dans une terrine et verser le mélange sur les poires.
+    Cuire 35 min à thermostat 6/7 (200°C).Economique, très facile et léger
+  ]]>
+  </preparation>
+</recette>

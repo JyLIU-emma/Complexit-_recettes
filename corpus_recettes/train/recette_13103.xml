@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13103">
+  <titre>Oeufs à la Mexicaine</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 oeufs </p>
+    <p>1 cuillère à soupe d'huile </p>
+    <p>1 oignon coupé en carreaux </p>
+    <p>2 piments serranos coupés en carreaux </p>
+    <p>1 tomate coupée en carreaux </p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre les oeufs. Faire frire l'oignon jusqu'a ce qu'il soit doré. 
+    Mettre la tomate et les piments dans la poêle, puis les oeufs. Quand les oeufs commencent à prendre consistance en-dessous, retourner l'ensemble. 
+    Le tout doit être doré à l'extérieur et moelleux à l'intérieur. Servir chaud.
+    Retrouvez le Mexique et ses saveurs sur le site www.mexique-fr.com.
+  ]]>
+  </preparation>
+</recette>

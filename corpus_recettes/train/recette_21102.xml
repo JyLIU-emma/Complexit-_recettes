@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21102">
+  <titre>La chaussette</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3/4 tranches de jambon</p>
+    <p>10 tranches de salami danois</p>
+    <p>2 tomates</p>
+    <p>1 boîte de champignons émincés ou frais</p>
+    <p>1 oignon</p>
+    <p>1 rouleau de pâte feuilleté</p>
+    <p>Gruyère en lamellles</p>
+    <p>1 jaune d'oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Étaler la pâte feuilleté, sur une moitié et disposer dans cet ordre : 
+    Le jambon (coupé en tranches si nécessaire). 
+    Le salami. 
+    Les oignons. 
+    Les champignons émincés. 
+    Les tomates. 
+    Les lamelles de gruyère. 
+    Fermer la pâte comme un chausson, bien la souder avec de l'eau, dorer au jaune d'oeuf et enfourner à four moyen durant 15 à 20 mn. 
+    Servir avec une salade verte
+    On peut ajouter des lardons, ou les mettre en remplacement du salami.
+    Suivre l'ordre indiqué
+  ]]>
+  </preparation>
+</recette>

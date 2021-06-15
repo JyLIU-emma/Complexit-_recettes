@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24987">
+  <titre>Magrets de canard au vin blanc et poivre vert</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>2 filets ou magrets de canard</p>
+    <p>25 cl de vin blanc sec</p>
+    <p>2 cuillères à soupe de poivre vert en grains</p>
+    <p>50 g de beurre</p>
+    <p>5 cl de cognac</p>
+    <p>4 cuillères à soupe de crème fraîche</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille : faites mariner les filets de canard dans le vin blanc avec la moitié des grains de poivre vert.
+    Le lendemain : égouttez les filets de canard, essuyez-les. Faites-les dorer rapidement dans le beurre chaud pour les saisir. Retirez-les et gardez sous un papier aluminium.
+    Dans la poêle de cuisson, versez le cognac et grattez à la cuillère en bois pour décoller les sucs. Flambez.
+    Chauffez la marinade, prélevez-en une louche et ajoutez-la dans la poêle, ainsi que la crème fraîche et le reste du poivre.
+    Tranchez les magrets finement, nappez-les de sauce et servez.
+  ]]>
+  </preparation>
+</recette>

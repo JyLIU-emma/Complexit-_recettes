@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14231">
+  <titre>Cake moelleux à la noix de coco</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de beurre bien mou</p>
+    <p>1 sachet de levure</p>
+    <p>100 g de sucre</p>
+    <p>3 oeufs + 2 blancs d'oeufs</p>
+    <p>1 cuillère à café de vanille (liquide ou poudre)</p>
+    <p>125 g de farine</p>
+    <p>5 cuillères à soupe de lait</p>
+    <p>120 g de noix de coco râpée</p>
+    <p>2 cuillères à café d'arôme de noix de coco(magasins antillais). C'est facultatif, mais ça donne un très bon goût.</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 160°C.Beurrer un moule à cake.
+    Fouetter au batteur le beurre et le sucre pour obtenir un mélange clair et crémeux puis ajouter les 3 oeufs entiers un par un en fouettant sans cesse et ajouter la vanille l'arôme noix de coco.
+    Incorporer la farine délicatement à la spatule puis la levure et le lait.
+    Ajouter 100 g de noix de coco râpée, puis les blancs préalablement montés en neige avec une pincée de sel.
+    Verser le tout dans le moule et saupoudrer des 20 g de noix de coco restants.
+    Cuire 1 h à 160°C. Démouler chaud.
+    Servir tiède ou froid avec une crème anglaise à la vanille.
+  ]]>
+  </preparation>
+</recette>

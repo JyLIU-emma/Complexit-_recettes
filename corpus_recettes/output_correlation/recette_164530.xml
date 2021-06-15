@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164530">
+  <titre>Terrine de crustacés aux trois purées</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 pommes de terre Roseval</p>
+    <p>6 pommes de terre Bintje</p>
+    <p>2 patates douces</p>
+    <p>40 petites crevettes décortiquées</p>
+    <p>4 bâtons de crabe émiettés</p>
+    <p>8 noix de St. Jacques avec corail</p>
+    <p>1/3 de pamplemousse</p>
+    <p>1/3 d'orange</p>
+    <p>1/2 citron</p>
+    <p>œufs de lump rouge  </p>
+    <p>œufs de lump noir</p>
+    <p>1 petit filet de saumon</p>
+    <p>huile d'olive</p>
+    <p>sel de Guérande</p>
+    <p>poivre</p>
+    <p>piment de Cayenne en poudre</p>
+    <p>1 cuillère à café de curry</p>
+    <p>Pour la vinaigrette : </p>
+    <p>vinaigre balsamique</p>
+    <p>huile d'olive</p>
+    <p>moutarde</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1 cercle de montage D 80 H 45Faire une marinade avec le jus des tiers de pamplemousse, d'orange et du demi citron, une pincée de sel de Guérande, une pincée de poivre.Séparer les noix de St. Jacques de leur corail. Découper en lamelles les noix de St. Jacques et le filet de saumon, faire macérer dans la marinade couverte et mettre aux frais (trois heures minimum).Dans une petite casserole faire revenir avec une cuillère à soupe d'huile d'olive le corail deux minutes, saupoudrer en fin de cuisson d'une cuillère à café de curry. Réserver.
+    Peler les pommes de terre et les patates douces, les couper en dés et les faire cuire séparément dans de l'eau salée. Écraser en purée à la fourchette, toujours séparément.
+    Dans un cercle à monter, mettre une couche de Roseval avec dix petites crevettes, puis une couche de Bintje avec deux coraux, une petite couche de crabe émietté, finir le montage avec la patate douce que vous aurez assaisonné d'une pointe de piment de Cayenne.Démouler dans une assiette de service, déposer dessus une cuillère à café de lump rouge et une de lump noir. Égoutter les noix de St. Jacques et le saumon. Que vous repartirez autour du montage.
+    Recommencer l'opération pour les trois autres assiettes.
+    Accompagner (servi à part) d'une salade de mâche légèrement vinaigrée. Rosé des côtes de Provence
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  1 cercle de montage D 80 H <OPER id="o_1">45Faire</OPER> une marinade avec le <INGRED id="8">jus</INGRED> des tiers de <INGRED id="7">pamplemousse</INGRED>, d'<INGRED id="8">orange</INGRED> et du <INGRED id="2">demi</INGRED> <INGRED id="6">citron</INGRED>, une pincée de <INGRED id="14">sel de Guérande</INGRED>, une pincée de <INGRED id="9">poivre</INGRED>. <OPER id="o_2">Séparer</OPER> les <INGRED id="9">noix</INGRED> de St. Jacques de leur corail. <OPER id="o_3">Découper</OPER> en lamelles les noix de St. Jacques et le <INGRED id="2">filet de saumon</INGRED>, faire <OPER id="o_4">macérer</OPER> dans la marinade couverte et <OPER id="o_5">mettre</OPER> aux frais ( trois heures minimum).Dans une <INGRED id="2">petite</INGRED> casserole faire <OPER id="o_6">revenir</OPER> avec une cuillère à <INGRED id="6">soupe d'huile d'olive</INGRED> le corail deux minutes, <OPER id="o_7">saupoudrer</OPER> en fin de cuisson d'une cuillère à <INGRED id="3">café</INGRED> de <INGRED id="17">curry</INGRED>. Réserver. <OPER id="o_8">Peler</OPER> les <INGRED id="2">pommes de terre</INGRED> et les <INGRED id="3">patates douces</INGRED>, les <OPER id="o_9">couper</OPER> en <INGRED id="3">dés</INGRED> et les faire <OPER id="o_10">cuire</OPER> séparément dans de l'<INGRED id="8">eau</INGRED> salée. <OPER id="o_11">Écraser</OPER> en purée à la fourchette, toujours séparément. Dans un cercle à <OPER id="o_12">monter</OPER>, <OPER id="o_13">mettre</OPER> une couche de Roseval avec dix petites <INGRED id="12">crevettes</INGRED>, puis une couche de Bintje avec deux coraux, une <INGRED id="2">petite</INGRED> couche de crabe émietté, <OPER id="o_14">finir</OPER> le montage avec la <INGRED id="5">patate douce</INGRED> que vous aurez assaisonné d'une pointe de <INGRED id="4">piment</INGRED> de Cayenne. <OPER id="o_15">Démouler</OPER> dans une assiette de service, <OPER id="o_16">déposer</OPER> dessus une cuillère à <INGRED id="3">café</INGRED> de lump rouge et une de lump noir. <OPER id="o_17">Égoutter</OPER> les <INGRED id="9">noix</INGRED> de St. Jacques et le saumon. Que vous repartirez autour du montage. <OPER id="o_18">Recommencer</OPER> l'opération pour les trois autres assiettes. Accompagner ( servi à part ) d'une salade de mâche légèrement vinaigrée. Rosé des <INGRED id="1">côtes</INGRED> de Provence
+  </annotation>
+  <annotation methode="crf">
+  1 cercle de montage D 80 H 45Faire une marinade avec le <INGRED>jus</INGRED> des tiers de pamplemousse <INGRED>,</INGRED> d'orange et du <INGRED>demi</INGRED> <INGRED>citron</INGRED> <INGRED>,</INGRED> une pincée de <INGRED>sel de Guérande</INGRED> <INGRED>,</INGRED> une pincée de <INGRED>poivre</INGRED>. Séparer les <INGRED>noix</INGRED> de St. Jacques de leur <INGRED>corail</INGRED> <INGRED>.</INGRED> Découper en lamelles les <INGRED>noix</INGRED> de St. Jacques et le <INGRED>filet</INGRED> de saumon <INGRED>,</INGRED> faire macérer dans la marinade couverte et mettre aux <INGRED>frais</INGRED> ( trois heures minimum).Dans une <INGRED>petite</INGRED> casserole faire revenir avec une cuillère à soupe d'<INGRED>huile d'olive</INGRED> le <INGRED>corail</INGRED> <INGRED>deux</INGRED> minutes <INGRED>,</INGRED> saupoudrer en fin de cuisson d'une cuillère à <INGRED>café</INGRED> de <INGRED>curry</INGRED> <INGRED>.</INGRED> Réserver. Peler les <INGRED>pommes de terre</INGRED> et les <INGRED>patates douces</INGRED> <INGRED>,</INGRED> les couper en dés et les faire cuire séparément dans de l'<INGRED>eau</INGRED> salée. Écraser en <INGRED>purée</INGRED> à la fourchette <INGRED>,</INGRED> toujours séparément <INGRED>.</INGRED> Dans un cercle à monter <INGRED>,</INGRED> mettre une couche de Roseval avec dix petites <INGRED>crevettes</INGRED> <INGRED>,</INGRED> puis une couche de Bintje avec <INGRED>deux</INGRED> coraux <INGRED>,</INGRED> une <INGRED>petite</INGRED> couche de crabe émietté <INGRED>,</INGRED> finir le montage avec la patate douce que vous aurez assaisonné d'une pointe de <INGRED>piment de Cayenne</INGRED> <INGRED>.</INGRED> Démouler dans une assiette de service <INGRED>,</INGRED> déposer dessus une cuillère à <INGRED>café</INGRED> de lump rouge et une de lump noir <INGRED>.</INGRED> Égoutter les <INGRED>noix</INGRED> de St. Jacques et le <INGRED>saumon</INGRED> <INGRED>.</INGRED> Que vous repartirez autour du montage. Recommencer l'opération pour les trois autres assiettes. Accompagner ( servi à part ) d'une salade de mâche légèrement vinaigrée. Rosé des <INGRED>côtes</INGRED> de Provence
+  </annotation>
+  <complexite>
+    <temps>f(X) = 44.8329779673064*X + 5.83368869936034</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 71*X + 17</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pommes de terre Roseval', 'pommes']	 id:1	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['pommes de terre Bintje', 'pommes']	 id:2	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['patates douces', 'patates']	 id:3	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['crevettes décortiquées', 'crevettes']	 id:4	 quantité:40	 unité:non_precis	 denombrable:True	 recipient:40*X
+ingredient:['bâtons de crabe émiettés', 'bâtons']	 id:5	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['noix de St. Jacques avec corail', 'noix']	 id:6	 quantité:8	 unité:non_precis	 denombrable:True	 recipient:8*X
+ingredient:['pamplemousse']	 id:7	 quantité:1/3	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['orange']	 id:8	 quantité:1/3	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['citron']	 id:9	 quantité:1/2	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['œufs de lump rouge', 'œufs']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['œufs de lump noir', 'œufs']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['filet de saumon', 'filet']	 id:12	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:["huile d'olive", 'huile']	 id:13	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel de Guérande', 'sel']	 id:14	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:15	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['piment de Cayenne en poudre', 'piment']	 id:16	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['curry']	 id:17	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+ingredient:['vinaigre balsamique', 'vinaigre']	 id:18	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["huile d'olive", 'huile']	 id:19	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['moutarde']	 id:20	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:45faire	 id:o_1	 ingrédients_ralatifs:['8', '7', '8', '2', '6', '14', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:séparer	 id:o_2	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:découper	 id:o_3	 ingrédients_ralatifs:['2', '2', '6', '3', '17']	 nombre_opération_atomique:6*X+6*X+8*X+2*X+1*X	 temps:6*X*1+6*X*1+8*X*1+2*X*1+1*X*1	 recipient:1
+operation:macérer	 id:o_4	 ingrédients_ralatifs:['2', '6', '3', '17']	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:mettre	 id:o_5	 ingrédients_ralatifs:['2', '6', '3', '17']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:revenir	 id:o_6	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:saupoudrer	 id:o_7	 ingrédients_ralatifs:['3', '17']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:peler	 id:o_8	 ingrédients_ralatifs:['2', '3', '3', '8']	 nombre_opération_atomique:6*X+2*X+2*X+1/3*X	 temps:6*X*1+2*X*1+2*X*1+1/3*X*1	 recipient:0
+operation:couper	 id:o_9	 ingrédients_ralatifs:['3', '8']	 nombre_opération_atomique:2*X+1/3*X	 temps:2*X*1+1/3*X*1	 recipient:1
+operation:cuire	 id:o_10	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:écraser	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:monter	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_13	 ingrédients_ralatifs:['12', '2', '5', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:finir	 id:o_14	 ingrédients_ralatifs:['5', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:démouler	 id:o_15	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déposer	 id:o_16	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:égoutter	 id:o_17	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recommencer	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

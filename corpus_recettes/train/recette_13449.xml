@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13449">
+  <titre>Porc aux coques</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>350 g de filet mignon</p>
+    <p>3 litres de coques </p>
+    <p>1/2 litre de vin rouge </p>
+    <p>1 bonne poignée d'olives noires</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille, faire mariner le porc coupé en petit morceaux dans le vin.
+    Le jour même, faire bien dorer la viande (égouttée) dans de l'huile d'olive. Ajouter les coques bien rincées (attention au sable!!!). 
+    Quand les coques sont toutes ouvertes, ajouter les olives. C'est prêt! On sert en général ce plat avec des frites.
+  ]]>
+  </preparation>
+</recette>

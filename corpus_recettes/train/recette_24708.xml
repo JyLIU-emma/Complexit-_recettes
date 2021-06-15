@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24708">
+  <titre>Moules au Marsala</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>moules pour 4 personnes</p>
+    <p>1 gros oignon</p>
+    <p>5 brins de persil plat</p>
+    <p>1 verre de Marsala</p>
+    <p>15 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    * Préparation : 
+    Lavez les moules à l'eau froide en grattant bien les dépôts se trouvant sur la coquille. 
+    Coupez le persil en petits morceaux (ne pas hacher). 
+    Coupez l'oignon en petits dés. 
+    * Cuisson : 
+    Faire fondre le beure à feu doux. 
+    Verser les oignons et le persil dans la cocotte. Laisser transpirer 5 mn et verser les moules. 
+    Ensuite asperger les moules avec le verre de Marsala. 
+    Augmenter la température de cuisson et laisser mijoter 10 mn. 
+    Voilà c'est prêt !
+     vin blanc sec
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20071">
+  <titre>La frittata</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 oeufs</p>
+    <p>25 cl de lait</p>
+    <p>300 g d'épinards ou de bettes cuits et hachés</p>
+    <p>185 g de fromage râpé</p>
+    <p>40 g de chapelure</p>
+    <p>3 oignons hachés</p>
+    <p>persil</p>
+    <p>125 g de jambon en lanières</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6). Beurrer un moule à cake. Dans un saladier battre les oeufs puis ajouter les autres ingrédients, saler, poivrer et mettre ceci dans le moule.
+    Cuire au four à 180°C (thermostat 6) pendant 30 min environCela peut servir de plat principal pour le soir accompagné d'une salade verte. Vous pouvez aussi découper la frittata en cubes que vous servirez à l'apéro : original et bon.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13096">
+  <titre>Vol au vent à la brandade de morue</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 vols au vent</p>
+    <p>1 petite boite de brandade de morue</p>
+    <p>250 ml de lait 2 cuillère à soupe de farine</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire une béchamel (farine, lait, sel, poivre)
+    Y incorporer la brandade et mélanger.
+    Mettre cette préparation dans les vols au vent et faire chauffer au four 10 mn.
+  ]]>
+  </preparation>
+</recette>

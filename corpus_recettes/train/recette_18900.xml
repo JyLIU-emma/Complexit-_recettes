@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18900">
+  <titre>Pelmeni (raviolis russes)</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de farce (mélange de boeuf et porc) </p>
+    <p>1 gros oignon</p>
+    <p>500 g de farine</p>
+    <p>sel</p>
+    <p>eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La pâte: 
+    Sur un plan de travail versez la farine, faites un puit, ajoutez une grosse pincée de sel puis mélangez. Versez de l'eau petit à petit et mélangez jusqu'à ce que vous formiez une boule. Pétrissez la pâte longuement ; elle doit devenir élastique. 
+    La farce: 
+    Hâchez l'oignon et mélangez le à la farce. 
+    Etalez la pâte très finement et découpez des cercles à l'aide d'un verre. Dans chaque cercle déposez un peu de farce (pas trop !) et refermez en 2 le cercle en collant les bords avec de l'eau. 
+    Cuisson: 
+    Plongez les raviolis dans une grande casserole d'eau bouillante pendant 10 mn environ. 
+    Dégustez les pelmeni avec une noisette de beurre, une cuillère de crème fraîche ou de sauce tomate
+    Vous pouvez faire ces pelmenis en dessert en remplaçant la farce de viande par une purée de fruits rouges (fraises, framboises... par ex). Dégustez les avec de la crème fraîche et du sucre Une vodka
+  ]]>
+  </preparation>
+</recette>

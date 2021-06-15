@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15859">
+  <titre>Gratin de poisson aux fruits de mer</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 saumon moyen ou 1 grosse truite de mer ou des filets de poisson blanc (cabillaud ou autre)</p>
+    <p>1 litre de moules qu'on aura fait désabler dans de l'eau salée</p>
+    <p>200 ou 300 g de grosses crevettes</p>
+    <p>1 sachet de sauce beurre blanc</p>
+    <p>fromage râpé</p>
+    <p>1 ou 2 cuillères de maïzena</p>
+    <p>riz pour accompagner</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire le poisson au court bouillon. Quand il est cuit, enlever peau et arêtes, mettre la chair de côté, conserver un peu de court bouillon.
+    Faire ouvrir les moules, les sortir des coquilles et réserver. garder un peu de l'eau de cuisson.
+    Décortiquer les crevettes et les couper ou les garder entières.
+    Faire une sauce avec les eaux de cuisson et la maïzena, ajouter la sauce beurre blanc et asssaisonner.
+    Mélanger à la sauce les moules, les crevettes, le poisson un peu émietté.
+    Mettre dans un plat à four, parsemer de fromage râpé et mettre sous le gril du four pour gratiner.
+    Servir avec du riz et un peu de la sauce qu'on peut réserver.
+    Si on met le riz dans le plat et la préparation au poisson dessus, c'est très bon car le riz s'imprègne de sauce. Le saumon est un poisson un peu sec pour ce genre de recette: se méfier de la cuisson.
+    On peut varier les crustacés et les coquillages, et remplacer la sauce beurre blanc par une sauce champagne.
+  ]]>
+  </preparation>
+</recette>

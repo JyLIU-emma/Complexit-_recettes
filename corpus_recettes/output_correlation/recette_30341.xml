@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30341">
+  <titre>Charlotte meringuée aux amandes et café</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la crème anglaise :</p>
+    <p>5 oeufs</p>
+    <p>vanille</p>
+    <p>200 g de sucre en poudre</p>
+    <p>75 cl de lait</p>
+    <p>Pour le gâteau et la crème :</p>
+    <p>36 boudoirs</p>
+    <p>175 g de beurre </p>
+    <p>225 g d'amandes en poudre </p>
+    <p>5 cl de rhum</p>
+    <p>Pour le glaçage :</p>
+    <p>1 blanc d'oeuf</p>
+    <p>10 cl d'eau</p>
+    <p>175 g de sucre</p>
+    <p>un peu de vinaigre</p>
+    <p>24 g de café soluble (3 cuillères à café)</p>
+    <p>50 g d'amandes effilées </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la crème anglaise :
+    Fendre la gousse de vanille en deux. La mettre dans une casserole avec le lait, porter à ébullition. Séparer les blancs des jaunes. Battre les jaunes d'oeuf dans une autre casserole avec le sucre. Verser lentement le lait chaud sur les jaunes, remuer et remettre à cuire sur feu doux, jusqu'à ce que la crème soit liée et épaississe. Laisser refroidir.
+    Préparer le gâteau :
+    Pour la crème à gâteau, battre le beurre. Puis y ajouter le sucre, la poudre d'amandes et 5 à 6 cuillères à soupe de crème anglaise. Ensuite, recouvrir le fond d'un moule à Charlotte de papier sulfurisé. Dans un bol, mélanger le rhum et l'eau. Y tremper rapidement les boudoirs. En tapisser le fond du moule et recouvrir de crème. Répéter l'opération : alterner couches de biscuits et de crème. Terminer par une couche de biscuit. Couvrir d'une petite assiette, placer un poids sur le tout et placer au réfrigérateur pendant 12 heures.
+    Pour le glaçage :
+    Monter le blanc en neige. Puis y ajouter le café. Dans une casserole, faire bouillir de l'eau, du vinaigre et du sucre pendant 5 min - le mélange doit avoir l'aspect d'un sirop filandreux. Le verser sur le blanc en neige et bien mélanger.
+    Au bout des 12 heures, démouler le gâteau et le recouvrir du glaçage au sirop et blanc en neige. Servir avec le reste de crème anglaise.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Préparer</OPER> la crème anglaise : <OPER id="o_2">Fendre</OPER> la gousse de vanille en <INGRED id="6">deux</INGRED>. La <OPER id="o_3">mettre</OPER> dans une casserole avec le <INGRED id="2">lait</INGRED>, <OPER id="o_4">porter</OPER> à ébullition. <OPER id="o_5">Séparer</OPER> les <INGRED id="9">blancs</INGRED> des <INGRED id="13">jaunes</INGRED>. <OPER id="o_6">Battre</OPER> les <INGRED id="3">jaunes d'oeuf</INGRED> dans une autre casserole avec le sucre. <OPER id="o_7">Verser</OPER> lentement le <INGRED id="3">lait chaud</INGRED> sur les <INGRED id="3">jaunes</INGRED>, <OPER id="o_8">remuer</OPER> et <OPER id="o_9">remettre</OPER> à <OPER id="o_10">cuire</OPER> sur feu doux, jusqu'à ce que la crème soit liée et épaississe. Laisser <OPER id="o_11">refroidir</OPER>. <OPER id="o_12">Préparer</OPER> le gâteau : Pour la <INGRED id="3">crème</INGRED> à gâteau, <OPER id="o_13">battre</OPER> le <INGRED id="7">beurre</INGRED>. Puis y <OPER id="o_14">ajouter</OPER> le sucre, la <INGRED id="1">poudre d'amandes</INGRED> et 5 à 6 cuillères à <INGRED id="4">soupe</INGRED> de <INGRED id="7">crème</INGRED> anglaise. Ensuite, <OPER id="o_15">recouvrir</OPER> le <INGRED id="4">fond</INGRED> d'un moule à Charlotte de papier sulfurisé. Dans un bol, <OPER id="o_16">mélanger</OPER> le <INGRED id="2">rhum</INGRED> et l'<INGRED id="5">eau</INGRED>. Y <OPER id="o_17">tremper</OPER> rapidement les <INGRED id="5">boudoirs</INGRED>. En <OPER id="o_18">tapisser</OPER> le <INGRED id="14">fond</INGRED> du moule et <OPER id="o_19">recouvrir</OPER> de crème. <OPER id="o_20">Répéter</OPER> l'opération : <OPER id="o_21">alterner</OPER> couches de <INGRED id="5">biscuits</INGRED> et de crème. Terminer par une couche de biscuit. <OPER id="o_22">Couvrir</OPER> d'une <INGRED id="2">petite</INGRED> assiette, <OPER id="o_23">placer</OPER> un poids sur le tout et <OPER id="o_24">placer</OPER> au réfrigérateur pendant 12 heures. Pour le glaçage : <OPER id="o_25">Monter</OPER> le <INGRED id="4">blanc</INGRED> en neige. Puis y <OPER id="o_26">ajouter</OPER> le <INGRED id="13">café</INGRED>. Dans une casserole, <INGRED id="4">faire</INGRED> <OPER id="o_27">bouillir</OPER> de l'<INGRED id="2">eau</INGRED>, du vinaigre et du <INGRED id="3">sucre</INGRED> pendant 5 min - le <INGRED id="7">mélange</INGRED> doit <OPER id="o_28">avoir</OPER> l'aspect d'un <INGRED id="2">sirop</INGRED> filandreux. Le <OPER id="o_29">verser</OPER> sur le <INGRED id="9">blanc</INGRED> en neige et bien <OPER id="o_30">mélanger</OPER>. Au bout des 12 heures, <OPER id="o_31">démouler</OPER> le gâteau et le <OPER id="o_32">recouvrir</OPER> du glaçage au <INGRED id="4">sirop</INGRED> et <INGRED id="7">blanc</INGRED> en neige. Servir avec le <INGRED id="1">reste</INGRED> de crème anglaise.
+  </annotation>
+  <annotation methode="crf">
+  Préparer la <INGRED>crème anglaise</INGRED> <INGRED>:</INGRED> Fendre la gousse de <INGRED>vanille</INGRED> en <INGRED>deux</INGRED>. La mettre dans une casserole avec le <INGRED>lait</INGRED> <INGRED>,</INGRED> porter à ébullition <INGRED>.</INGRED> Séparer les <INGRED>blancs</INGRED> des <INGRED>jaunes</INGRED> <INGRED>.</INGRED> Battre les <INGRED>jaunes d'oeuf</INGRED> dans une autre casserole avec le <INGRED>sucre</INGRED>. Verser lentement le <INGRED>lait</INGRED> chaud sur les <INGRED>jaunes</INGRED> <INGRED>,</INGRED> remuer et remettre à cuire sur feu doux <INGRED>,</INGRED> jusqu'à ce que la <INGRED>crème</INGRED> soit liée et épaississe <INGRED>.</INGRED> Laisser refroidir <INGRED>.</INGRED> Préparer le gâteau <INGRED>:</INGRED> Pour la <INGRED>crème</INGRED> à gâteau <INGRED>,</INGRED> battre le <INGRED>beurre</INGRED> <INGRED>.</INGRED> Puis y ajouter le <INGRED>sucre</INGRED> <INGRED>,</INGRED> la <INGRED>poudre d'amandes</INGRED> et 5 à 6 <INGRED>cuillères à soupe</INGRED> de <INGRED>crème anglaise</INGRED>. Ensuite <INGRED>,</INGRED> recouvrir le <INGRED>fond</INGRED> d'un moule à Charlotte de <INGRED>papier sulfurisé</INGRED> <INGRED>.</INGRED> Dans un bol <INGRED>,</INGRED> mélanger le <INGRED>rhum</INGRED> et l'<INGRED>eau</INGRED> <INGRED>.</INGRED> Y tremper rapidement les boudoirs. En tapisser le <INGRED>fond</INGRED> du <INGRED>moule</INGRED> et recouvrir de <INGRED>crème</INGRED>. Répéter l'opération <INGRED>:</INGRED> alterner couches de <INGRED>biscuits</INGRED> et de <INGRED>crème</INGRED>. Terminer par une couche de biscuit. Couvrir d'une <INGRED>petite</INGRED> assiette <INGRED>,</INGRED> placer un poids sur le tout et placer au réfrigérateur pendant 12 heures. Pour le glaçage <INGRED>:</INGRED> Monter le <INGRED>blanc</INGRED> en neige <INGRED>.</INGRED> Puis y ajouter le <INGRED>café</INGRED> <INGRED>.</INGRED> Dans une casserole <INGRED>,</INGRED> faire bouillir de l'<INGRED>eau</INGRED> <INGRED>,</INGRED> du <INGRED>vinaigre</INGRED> et du <INGRED>sucre</INGRED> pendant 5 min - le <INGRED>mélange</INGRED> doit avoir l'aspect d'un <INGRED>sirop</INGRED> filandreux. Le verser sur le <INGRED>blanc</INGRED> en neige et bien mélanger. Au bout des 12 heures, démouler le gâteau et le recouvrir du glaçage au <INGRED>sirop</INGRED> et <INGRED>blanc</INGRED> en neige <INGRED>.</INGRED> Servir avec le <INGRED>reste</INGRED> de <INGRED>crème anglaise</INGRED>.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 25.3584905660377*X + 6.64150943396226</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 42*X + 18</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['oeufs']	 id:1	 quantité:5	 unité:non_precis	 denombrable:True	 recipient:5*X
+ingredient:['vanille']	 id:2	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sucre en poudre', 'sucre']	 id:3	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:4	 quantité:75	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['boudoirs']	 id:5	 quantité:36	 unité:non_precis	 denombrable:True	 recipient:36*X
+ingredient:['beurre']	 id:6	 quantité:175	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['amandes en poudre', 'amandes']	 id:7	 quantité:225	 unité:g d'	 denombrable:False	 recipient:1
+ingredient:['rhum']	 id:8	 quantité:5	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:["blanc d'oeuf", 'blanc']	 id:9	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['eau']	 id:10	 quantité:10	 unité:cl d'	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:11	 quantité:175	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['vinaigre']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['café soluble', 'café']	 id:13	 quantité:24	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['amandes effilées', 'amandes']	 id:14	 quantité:50	 unité:g d'	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préparer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:fendre	 id:o_2	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_3	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:porter	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:séparer	 id:o_5	 ingrédients_ralatifs:['9', '13']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_6	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_7	 ingrédients_ralatifs:['3', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remettre	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cuire	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:refroidir	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:préparer	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:battre	 id:o_13	 ingrédients_ralatifs:['3', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_14	 ingrédients_ralatifs:['1', '4', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recouvrir	 id:o_15	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_16	 ingrédients_ralatifs:['2', '5']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:tremper	 id:o_17	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:tapisser	 id:o_18	 ingrédients_ralatifs:['14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recouvrir	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:répéter	 id:o_20	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:36*X*5	 recipient:0
+operation:alterner	 id:o_21	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_22	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_23	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:monter	 id:o_25	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_26	 ingrédients_ralatifs:['13']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:bouillir	 id:o_27	 ingrédients_ralatifs:['4', '2', '3']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:avoir	 id:o_28	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_29	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_30	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:démouler	 id:o_31	 ingrédients_ralatifs:['4', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recouvrir	 id:o_32	 ingrédients_ralatifs:['4', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

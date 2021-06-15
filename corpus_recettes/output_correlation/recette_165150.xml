@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165150">
+  <titre>Diots de savoie et son gratin de crozet</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 diots de Savoie</p>
+    <p>50 cl de vin blanc (a défaut on peut aussi utiliser du vin rouge)</p>
+    <p>3 échalotes</p>
+    <p>beurre</p>
+    <p>farine</p>
+    <p>Pour le gratin de Crozets :</p>
+    <p>150 g de crozets nature</p>
+    <p>2 cuillères à soupe de crème fraîche épaisse</p>
+    <p>1 morceau de beaufort (à défaut prendre du gruyère râpé)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Les diots :
+    Peler les échalotes. Les couper en fines rodelles.
+    Dans une sauteuse, faire fondre le beurre, y faire revenir les échalottes. Ajouter les diots, les faire dorer. Saupoudrer de farine et ajouter le vin. Laisser cuire à feu doux entre 30 et 40 nmin. La sauce doit s'épaissir.
+    Le gratin :
+    Faire cuire les crozets 20 min dans de l'eau bouillante et salée.
+    Une fois cuit, les égoutter mais pas trop. Mélanger les crozets avec la crème et le fromage.
+    Poivrer et Faire gratiner au four.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Les <INGRED id="1">diots</INGRED> : <OPER id="o_1">Peler</OPER> les <INGRED id="3">échalotes</INGRED>. Les <OPER id="o_2">couper</OPER> en fines rodelles. Dans une sauteuse, faire <OPER id="o_3">fondre</OPER> le <INGRED id="2">beurre</INGRED>, y faire <OPER id="o_4">revenir</OPER> les échalottes. <OPER id="o_5">Ajouter</OPER> les <INGRED id="1">diots</INGRED>, les faire <OPER id="o_6">dorer</OPER>. <OPER id="o_7">Saupoudrer</OPER> de <INGRED id="1">farine</INGRED> et <OPER id="o_8">ajouter</OPER> le <INGRED id="2">vin</INGRED>. Laisser <OPER id="o_9">cuire</OPER> à feu doux entre 30 et 40 nmin. La <INGRED id="4">sauce</INGRED> doit s'<OPER id="o_10">épaissir</OPER>. Le gratin : Faire <OPER id="o_11">cuire</OPER> les <INGRED id="6">crozets</INGRED> 20 min dans de l'<INGRED id="1">eau</INGRED> bouillante et salée. Une fois cuit, les <OPER id="o_12">égoutter</OPER> mais pas trop. <OPER id="o_13">Mélanger</OPER> les <INGRED id="6">crozets</INGRED> avec la crème et le fromage. <OPER id="o_14">Poivrer</OPER> et Faire <OPER id="o_15">gratiner</OPER> au four.
+  </annotation>
+  <annotation methode="crf">
+  Les diots <INGRED>:</INGRED> Peler les <INGRED>échalotes</INGRED> <INGRED>.</INGRED> Les couper en fines rodelles. Dans une sauteuse <INGRED>,</INGRED> faire fondre le <INGRED>beurre</INGRED> <INGRED>,</INGRED> y faire revenir les échalottes. Ajouter les <INGRED>diots</INGRED> <INGRED>,</INGRED> les faire dorer. Saupoudrer de <INGRED>farine</INGRED> et ajouter le <INGRED>vin</INGRED>. Laisser cuire à feu doux entre 30 et 40 nmin. La <INGRED>sauce</INGRED> doit s'épaissir <INGRED>.</INGRED> Le gratin <INGRED>:</INGRED> Faire cuire les crozets 20 min dans de l'<INGRED>eau</INGRED> bouillante et salée. Une fois cuit <INGRED>,</INGRED> les égoutter mais pas trop <INGRED>.</INGRED> Mélanger les crozets avec la <INGRED>crème</INGRED> et le <INGRED>fromage</INGRED> <INGRED>.</INGRED> Poivrer et Faire gratiner au four <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 10.7142857142857*X + 4.28571428571429</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 10*X + 10</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['diots de Savoie', 'diots']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['vin blanc', 'vin']	 id:2	 quantité:50	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['échalotes']	 id:3	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['beurre']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crozets nature', 'crozets']	 id:6	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crème fraîche épaisse', 'crème']	 id:7	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['morceau de beaufort', 'morceau']	 id:8	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:peler	 id:o_1	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:3*X*1	 recipient:0
+operation:couper	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:fondre	 id:o_3	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:revenir	 id:o_4	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dorer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:saupoudrer	 id:o_7	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:épaissir	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_11	 ingrédients_ralatifs:['6', '1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:égoutter	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_13	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:poivrer	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:gratiner	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24116">
+  <titre>Pommes au four cévenoles</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 pommes à cuire</p>
+    <p>125 g de crème de marrons</p>
+    <p>4 marrons glacés</p>
+    <p>beurre, sucre en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez les pommes. Evidez-les. 
+    Remplissez les pommes avec de la crème de marrons.
+    Placez les pommes dans un plat à gratin beurré. Saupoudrez les pommes de sucre et de lamelles de beurre.
+    Faites cuire 50 mn à four doux jusqu'à ce que les pommes soient fondantes.
+    Servez tiède, en décorant chaque pomme d'un marron glacé
+    Un dessert de mamie revisité à la façon cévénole. De quoi réconforter les après-midi pluvieux d'automne!
+  ]]>
+  </preparation>
+</recette>

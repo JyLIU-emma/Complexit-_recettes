@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23919">
+  <titre>Poulet et truite chinois</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 escalopes de poulet</p>
+    <p>2 filets de truite</p>
+    <p>2 gousses d'ail</p>
+    <p>10 cl de vin blanc</p>
+    <p>2 cuillères à soupe de maïzena</p>
+    <p>nuoc mam</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer d'une part le poulet, d'autre part la truite.
+    Dans deux saladiers séparés, faire une marinade avec du vin blanc, une cuillère de maïzena, une gousse d'ail écrasée ou coupée en tout petits morceaux, du nuoc mam (les quantités ne sont pas précises, mais la marinade doit avoir un aspect brun et opaque, liquide).Mettre à mariner le poulet dans un saladier, la truite dans l'autre, puis laisser reposer une bonne heure au moins.
+    Pour cuire, faire frire dans 1,5 cm d'huile bien chaude, une dizaine de morceaux à  chaque fois, jusqu'à ce que les morceaux soient bien dorés et croustillants.Le poulet et la truite réduisent beaucoup en friture: attention à prévoir des quantités largement suffisantes.
+    Servir avec du riz thaï. vin blanc
+  ]]>
+  </preparation>
+</recette>

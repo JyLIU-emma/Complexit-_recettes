@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37241">
+  <titre>Gâteau lyna (meringue et mousse au chocolat)</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>9 blancs d'oeufs </p>
+    <p>3 jaunes d'oeufs </p>
+    <p>150 g de sucre glace </p>
+    <p>170 g de sucre semoule </p>
+    <p>35 g de poudre de cacao amer </p>
+    <p>120 g de chocolat à croquer </p>
+    <p>75 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer les meringues au cacao.
+    Mélanger et tamiser le cacao avec le sucre glace. Monter 5 blancs d'oeufs en neige ferme en incorporant à mi-parcours 20 g de sucre semoule.
+    Dès que les blancs sont montés, ajouter à nouveau 130 g de sucre semoule, en fouettant à petite vitesse. Incorporer alors rapidement et délicatement le mélange cacao-sucre glace à la spatule.
+    Préchauffer le four à 150°C (Thermostat 5). 
+    Beurrer puis fariner les plaques du four ou les recouvrir de papier sulfurisé.
+     
+    Dessiner 3 ovales de 26 cm par 14 environ sur les plaques et dresser 3 fonds de meringue au chocolat en suivant les schémas à l'aide d'une poche à douille d'1 cm de diamètre environ. 
+    Puis dresser le reste de meringue en bandes longues et étroites en évitant qu'elles ne se touchent, avec une douille plus petite (3 mm).
+    Faire cuire au four 1h15. 
+    Surveiller après 15 min de cuisson: la meringue ne doit pas roussir. 
+    Changer éventuellement la plaque de place pour obtenir une cuisson plus régulière.
+    Les doigts de fée (bandes de meringue fines) seront prêts les premiers. 
+    Compter 10 min de plus pour les fonds de meringue qui doivent pouvoir se détacher facilement de la plaque : le dessous ne doit pas être collant 
+    Préparer la mousse au chocolat.
+    Pendant la cuisson des meringues, faire fondre le chocolat à croquer au bain-marie. Hors du feu, ajouter le beurre en fouettant jusqu'à obtenir un mélange en pommade. Incorporer alors les jaunes d'oeufs.
+    Monter les 4 blancs d'oeufs en neige ferme, en ajoutant 20 g de sucre semoule à mi-parcours. 
+    Verser l'appareil chocolaté refroidi sur les blancs montés et mélanger délicatement. 
+    Réserver.
+     
+    Poser un fond de meringue refroidi sur un carton de même forme, étaler une couche de mousse au chocolat à l'aide d'une palette, puis poser le 2ème fond, une 2ème couche de mousse et le dernier fond. 
+    Masquer complètement le gâteau avec le reste de mousse.
+    Découper des bâtonnets de 1 cm de long environ dans les bandes de meringue. 
+    En couvrir la surface et le tour du gâteau.
+    Mettre le gâteau au froid 1 h.
+    A sa sortie, le saupoudrer de sucre glace en utilisant un cache en carton pour laisser une bande centrale foncée.
+     Champagne
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Préparer</OPER> les meringues au cacao. <OPER id="o_2">Mélanger</OPER> et <OPER id="o_3">tamiser</OPER> le cacao avec le <INGRED id="7">sucre glace</INGRED>. <OPER id="o_4">Monter</OPER> 5 <INGRED id="1">blancs d'oeufs</INGRED> en neige ferme en incorporant à mi-parcours 20 <INGRED id="4">g</INGRED> de <INGRED id="1">sucre semoule</INGRED>. Dès que les <INGRED id="6">blancs</INGRED> sont montés, <OPER id="o_5">ajouter</OPER> à nouveau 130 <INGRED id="2">g</INGRED> de <INGRED id="2">sucre semoule</INGRED>, en fouettant à <INGRED id="2">petite</INGRED> vitesse. <OPER id="o_6">Incorporer</OPER> alors rapidement et délicatement le mélange cacao - <INGRED id="7">sucre glace</INGRED> à la spatule. <OPER id="o_7">Préchauffer</OPER> le four à 150 ° C ( Thermostat 5 ). <OPER id="o_8">Beurrer</OPER> puis <OPER id="o_9">fariner</OPER> les plaques du four ou les recouvrir de papier sulfurisé. <OPER id="o_10">Dessiner</OPER> 3 ovales de 26 cm par 14 <INGRED id="1">environ</INGRED> sur les plaques et <OPER id="o_11">dresser</OPER> 3 <INGRED id="2">fonds</INGRED> de meringue au chocolat en suivant les schémas à l'aide d'une poche à douille d'1 cm de diamètre <INGRED id="1">environ</INGRED>. Puis <OPER id="o_12">dresser</OPER> le <INGRED id="1">reste</INGRED> de meringue en bandes longues et étroites en évitant qu'elles ne se touchent, avec une douille plus <INGRED id="2">petite</INGRED> ( 3 mm ). Faire <OPER id="o_13">cuire</OPER> au four 1h15. <OPER id="o_14">Surveiller</OPER> après 15 min de cuisson : la meringue ne doit pas <OPER id="o_15">roussir</OPER>. <OPER id="o_16">Changer</OPER> éventuellement la plaque de place pour obtenir une cuisson plus régulière. Les doigts de fée ( bandes de meringue fines ) seront prêts les premiers. <OPER id="o_17">Compter</OPER> 10 min de plus pour les <INGRED id="2">fonds</INGRED> de meringue qui doivent <OPER id="o_18">pouvoir</OPER> se <OPER id="o_19">détacher</OPER> facilement de la plaque : le dessous ne doit pas être collant <OPER id="o_20">Préparer</OPER> la mousse au chocolat. Pendant la cuisson des meringues, <INGRED id="4">faire</INGRED> <OPER id="o_21">fondre</OPER> le <INGRED id="6">chocolat à</INGRED> <OPER id="o_226">croquer</OPER> au bain - marie. Hors du feu, <OPER id="o_23">ajouter</OPER> le beurre en fouettant jusqu'à obtenir un <INGRED id="7">mélange</INGRED> en pommade. <OPER id="o_24">Incorporer</OPER> alors les <INGRED id="7">jaunes d'oeufs</INGRED>. <OPER id="o_25">Monter</OPER> les 4 blancs d'oeufs en neige ferme, en ajoutant 20 <INGRED id="1">g</INGRED> de <INGRED id="1">sucre semoule</INGRED> à mi-parcours. <OPER id="o_26">Verser</OPER> l'appareil chocolaté refroidi sur les blancs montés et <OPER id="o_27">mélanger</OPER> délicatement. Réserver. <OPER id="o_28">Poser</OPER> un fond de meringue refroidi sur un carton de même forme, <OPER id="o_29">étaler</OPER> une couche de mousse au <INGRED id="6">chocolat</INGRED> à l'aide d'une palette, puis <OPER id="o_30">poser</OPER> le 2ème fond, une 2ème couche de mousse et le dernier <INGRED id="4">fond</INGRED>. <OPER id="o_31">Masquer</OPER> complètement le gâteau avec le <INGRED id="1">reste</INGRED> de mousse. <OPER id="o_32">Découper</OPER> des <INGRED id="6">bâtonnets</INGRED> de 1 cm de long <INGRED id="1">environ</INGRED> dans les bandes de meringue. En <OPER id="o_33">couvrir</OPER> la surface et le tour du gâteau. <OPER id="o_34">Mettre</OPER> le gâteau au froid 1 h. A sa sortie, le <OPER id="o_35">saupoudrer</OPER> de sucre glace en utilisant un cache en carton pour laisser une bande centrale foncée. Champagne
+  </annotation>
+  <annotation methode="crf">
+  Préparer les <INGRED>meringues</INGRED> au <INGRED>cacao</INGRED> <INGRED>.</INGRED> Mélanger et tamiser le <INGRED>cacao</INGRED> avec le <INGRED>sucre glace</INGRED> <INGRED>.</INGRED> Monter 5 <INGRED>blancs d'oeufs</INGRED> en neige ferme en incorporant à mi-parcours 20 <INGRED>g</INGRED> <INGRED>de sucre semoule</INGRED> <INGRED>.</INGRED> Dès que les <INGRED>blancs</INGRED> sont montés <INGRED>,</INGRED> ajouter à nouveau 130 <INGRED>g</INGRED> <INGRED>de sucre semoule</INGRED> <INGRED>,</INGRED> en fouettant à <INGRED>petite</INGRED> vitesse <INGRED>.</INGRED> Incorporer alors rapidement et délicatement le <INGRED>mélange</INGRED> <INGRED>cacao</INGRED> - <INGRED>sucre glace</INGRED> à la spatule <INGRED>.</INGRED> Préchauffer le four à 150 ° C ( Thermostat 5 ). Beurrer puis fariner les plaques du four <INGRED>ou</INGRED> les recouvrir de papier sulfurisé <INGRED>.</INGRED> Dessiner 3 ovales de 26 <INGRED>cm</INGRED> par 14 <INGRED>environ</INGRED> sur les <INGRED>plaques</INGRED> et dresser 3 fonds de meringue au <INGRED>chocolat</INGRED> en suivant les schémas à l'aide d'une <INGRED>poche</INGRED> à douille d'1 cm de diamètre <INGRED>environ</INGRED>. Puis dresser le <INGRED>reste</INGRED> de meringue en bandes longues et étroites en évitant qu'elles ne se touchent <INGRED>,</INGRED> avec une douille plus <INGRED>petite</INGRED> ( 3 mm ). Faire cuire au four 1h15. Surveiller après 15 min de cuisson <INGRED>:</INGRED> la meringue ne doit pas roussir <INGRED>.</INGRED> Changer éventuellement la plaque de place pour obtenir une cuisson plus régulière. Les doigts de fée ( bandes de meringue <INGRED>fines</INGRED> ) seront prêts les premiers. Compter 10 min de plus pour les fonds de meringue qui doivent pouvoir se détacher facilement de la plaque <INGRED>:</INGRED> le dessous ne doit pas être collant Préparer la mousse au <INGRED>chocolat</INGRED> <INGRED>.</INGRED> Pendant la cuisson des <INGRED>meringues</INGRED> <INGRED>,</INGRED> faire fondre le <INGRED>chocolat</INGRED> à croquer au bain - marie <INGRED>.</INGRED> Hors du feu <INGRED>,</INGRED> ajouter le <INGRED>beurre</INGRED> en fouettant jusqu'à obtenir un <INGRED>mélange</INGRED> en pommade. Incorporer alors les <INGRED>jaunes d'oeufs</INGRED> <INGRED>.</INGRED> Monter les 4 <INGRED>blancs d'oeufs</INGRED> en neige ferme <INGRED>,</INGRED> en ajoutant 20 <INGRED>g</INGRED> <INGRED>de sucre semoule</INGRED> à mi-parcours. Verser l'appareil chocolaté refroidi sur les <INGRED>blancs</INGRED> montés et mélanger délicatement. Réserver. Poser un <INGRED>fond</INGRED> de meringue refroidi sur un carton de même forme <INGRED>,</INGRED> étaler une couche de mousse au <INGRED>chocolat</INGRED> à l'aide d'une palette <INGRED>,</INGRED> puis poser le 2ème <INGRED>fond</INGRED> <INGRED>,</INGRED> une 2ème couche de mousse et le dernier <INGRED>fond</INGRED> <INGRED>.</INGRED> Masquer complètement le gâteau avec le <INGRED>reste</INGRED> de mousse. Découper des bâtonnets de 1 <INGRED>cm</INGRED> de long <INGRED>environ</INGRED> dans les bandes de meringue <INGRED>.</INGRED> En couvrir la surface et le tour du gâteau. Mettre le gâteau au froid 1 h. A sa sortie <INGRED>,</INGRED> le saupoudrer de <INGRED>sucre glace</INGRED> en utilisant un cache en carton pour laisser une bande centrale foncée <INGRED>.</INGRED> Champagne
+  </annotation>
+  <complexite>
+    <temps>f(X) = 31.0588235294118*X + 12.9411764705882</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 12*X + 11</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:["blancs d'oeufs", 'blancs']	 id:1	 quantité:9	 unité:non_precis	 denombrable:True	 recipient:9*X
+ingredient:["jaunes d'oeufs", 'jaunes']	 id:2	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['sucre glace', 'sucre']	 id:3	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre semoule', 'sucre']	 id:4	 quantité:170	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['poudre de cacao amer', 'poudre']	 id:5	 quantité:35	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['chocolat à croquer', 'chocolat']	 id:6	 quantité:120	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:7	 quantité:75	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préparer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:mélanger	 id:o_2	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:tamiser	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:monter	 id:o_4	 ingrédients_ralatifs:['1', '4', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['6', '2', '2', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_6	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préchauffer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:beurrer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fariner	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dessiner	 id:o_10	 ingrédients_ralatifs:['1', '2', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dresser	 id:o_11	 ingrédients_ralatifs:['2', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dresser	 id:o_12	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:surveiller	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:roussir	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:changer	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:compter	 id:o_17	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:pouvoir	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:détacher	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparer	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:fondre	 id:o_21	 ingrédients_ralatifs:['4', '6']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:croquer	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_23	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_24	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:monter	 id:o_25	 ingrédients_ralatifs:['1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_26	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_27	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:poser	 id:o_28	 ingrédients_ralatifs:['6', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étaler	 id:o_29	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poser	 id:o_30	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:masquer	 id:o_31	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:découper	 id:o_32	 ingrédients_ralatifs:['6', '1']	 nombre_opération_atomique:1+9*X	 temps:1*X*1+9*X*1	 recipient:1
+operation:couvrir	 id:o_33	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_34	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:saupoudrer	 id:o_35	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21492">
+  <titre>Crêpes complètes sauce Mornay</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 galettes de blé noir</p>
+    <p>100 g de champignons émincés</p>
+    <p>4 tranches de jambon cuit</p>
+    <p>80 g de gruyère râpé</p>
+    <p>75 g de beurre </p>
+    <p>10 g de farine </p>
+    <p>12.5 cl de lait </p>
+    <p>sel, poivre, noix muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 240°C (thermostat 8).
+    Faire fondre les champignons émincés dans 15 g de beurre.
+    Saupoudrer la farine sur 60 g de beurre fondu. Remuer jusqu'à ce que le mélange soit blond puis verser doucement le lait. Remuer constamment jusqu'à ce que le mélange soit épais.
+    Incorporer les champignons.
+    Garnir les crèpes d'1 tranche de jambon et recouvrir de crème. Plier les crêpes en 2 et les mettre dans un plat à four beurré.
+    Parsemer de gruyère et enfourner pour 10 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

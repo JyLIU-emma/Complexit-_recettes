@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24604">
+  <titre>Gratin aubergine jambon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 aubergines</p>
+    <p>4 oignons</p>
+    <p>4 tomates</p>
+    <p>4 tranches de jambon</p>
+    <p>150 g de gruyère râpé</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les aubergines en tranches, saupoudrez de gros sel et laissez dégorger 30 minutes. Essuyez-les, puis faites-les dorer dans une poêle avec de l'huile.
+    Emincez les oignons, faites-les dorer dans une autre poêle huilée. Pelez les tomates après les avoir ébouillantées. Coupez-les en deux et faites-les revenir à feu vif 2 minutes sur chaque face.
+    Préchauffez le four à 180°C (thermostat 6).
+    Dans un plat allant au four, alternez des couches d'aubergines, d'oignons, de tomates et de jambon. Salez, poivrez.
+    Saupoudrez de gruyère râpé et faites gratiner 40 minutes au four.
+  ]]>
+  </preparation>
+</recette>

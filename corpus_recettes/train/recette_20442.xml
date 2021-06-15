@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20442">
+  <titre>Coq au vin</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1 coq d'1 kg environ</p>
+    <p>2 carottes</p>
+    <p>2 échalotes</p>
+    <p>3 gousses d'ail</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>1/2 citron</p>
+    <p>50 g de beurre</p>
+    <p>75 g de crème fraîche</p>
+    <p>1 jaune d'œuf</p>
+    <p>1 bouquet garni</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>1 grand verre à liqueur de kirsch</p>
+    <p>1/2 bouteille de Riesling</p>
+    <p>10 cl de bouillon</p>
+    <p>sel, poivre et muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler le coq en morceaux.
+    Dans une poêle avec de l'huile et du beurre, faire dorer sur chaque face les morceaux de coq détailler préablement en morceaux. Réserver hors du feu. Ajouter carottes, oignons émincés et ail broyé dans la poêle. Laisser colorer et remettre les morceaux de coq.
+    Parsemer la préparation de farine et faire roussir. Mouiller de kirsch er faire flamber. Verser enfin le Riesling, les herbes, le bouillon, la muscade et assaisonner. Porter à ébullition puis, faire cuire 40 min à couvert et à feu doux.
+    Réserver ensuite les morceaux et passer au chinois en 
+    pressant bien. Ajouter la crème, le jaune d'oeuf et le jus de citron. 
+    Dans la sauce, remettre les morceaux de volaille et faire un bain-marie pour maintenir au chaud jusqu'à la dernière minute.
+    Servir avec des pâtes fraîches ou de la purée de pomme de terre maison.
+  ]]>
+  </preparation>
+</recette>

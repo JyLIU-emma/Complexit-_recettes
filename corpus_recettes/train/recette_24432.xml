@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24432">
+  <titre>Garbure au confit de canard</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 cuisses de canard confites</p>
+    <p>6 tranches de pain rassis</p>
+    <p>500 g de carottes</p>
+    <p>500 g de poireaux</p>
+    <p>8 pommes de terre moyennes</p>
+    <p>1 petit chou vert</p>
+    <p>150 g de haricots blancs</p>
+    <p>2 oignons</p>
+    <p>4 gousses d'ail</p>
+    <p>3 brindilles de thym</p>
+    <p>1 bouquet de persil</p>
+    <p>2 cuillères à soupe de graisse de canard</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille, mettez les haricots à tremper dans une grande casserole d'eau.
+    Le lendemain, lavez, pelez et coupez les carottes, les pommes de terres et le poireau en morceaux. 
+    Faites bouillir un faitout avec 3 litres d'eau, salez et jetez-y tous les carottes, les pommes de terre et le poireau ainsi que les haricots.
+    Rajoutez l'ail pilé, les oignons émincés, le thym et le laurier. Laissez cuire 2 h à petits bouillons.
+    Coupez le chou en lanières fines, ajoutez-les dans le faitout. Ajoutez également les cuisses de confit et la graisse de canard.
+    Laissez cuire encore 1 h 30.
+    Déposez les tranches de pain dans les assiettes, les cuisses de canard dessus et servez la soupe. Dégustez bien chaud.
+  ]]>
+  </preparation>
+</recette>

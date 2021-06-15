@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10764">
+  <titre>Saumon aux tomates et poivrons</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>150 g de saumon</p>
+    <p>1 poivron rouge</p>
+    <p>1 tomate bien mûre</p>
+    <p>thym, romarin, herbes de Provence</p>
+    <p>sel et poivre</p>
+    <p>huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Huilez un carré d'alumimium et déposez-y le poisson. Salez et poivrez.
+    Ensuite, coupez en petits dés le poivron et la tomate et disposez les petits dés sur le saumon. Ajoutez les herbes de provence et enfournez au four (préchauffé) à 220°C pendant environ 20 minutes.une recette rapide, diététique et savoureuse!
+  ]]>
+  </preparation>
+</recette>

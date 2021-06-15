@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13509">
+  <titre>Frangipane facile</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de poudre d'amandes</p>
+    <p>11 œufs entiers</p>
+    <p>1 kg de beurre en pommade</p>
+    <p>1 kg de sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le sucre, la poudre d'amandes, ajouter le beurre en pommade et incorporer les œufs un à un.
+    Tourner jusqu'à complet blanchiment de l'appareil.Donne 4 kilos de frangipane, qui permettent de garnir 16 galettes environ.
+  ]]>
+  </preparation>
+</recette>

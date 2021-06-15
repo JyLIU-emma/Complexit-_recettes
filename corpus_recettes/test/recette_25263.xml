@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25263">
+  <titre>Pamplemousses gratinés à la cannelle</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 pamplemousses</p>
+    <p>50 g de beurre</p>
+    <p>50 g de sucre en poudre</p>
+    <p>1 cuillère à soupe de cannelle</p>
+    <p>1 trait de jus de citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Découpez les pamplemousses en deux, décolez les quartiers de la membrane.
+    Mélangez le beurre fondu, le sucre, la cannelle et le jus de citron.
+    Etalez sur les 4 pamplemousses et faites gratiner 5-10 min au four à 200°C (thermostat 6-7).
+    Dégustez tiède.
+  ]]>
+  </preparation>
+</recette>

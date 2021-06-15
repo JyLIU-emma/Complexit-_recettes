@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26053">
+  <titre>Croquettes de saumon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 à 400 g de restes de saumon cuit</p>
+    <p>3 tranches de pain de mie rassis</p>
+    <p>10 cl de lait</p>
+    <p>1 oeuf</p>
+    <p>2 citrons</p>
+    <p>1 cuillère à café d'estragon ou d'aneth haché</p>
+    <p>1 pincée de muscade</p>
+    <p>chapelure</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire tremper le pain coupé en morceaux dans le lait.
+    Emietter le saumon à la fourchette. Ajouter le pain essoré, le jaune d'oeuf, du sel, du poivre, l'estragon et la muscade.
+    Incorporer le blanc battu en neige.
+    Former des boulette ou des petits boudins, les passer dans la chapelure.
+    Faire dorer les croquette dans une sauteuse avec de l'huile ou du beurre chaud. Servir avec des quartiers de citron.
+    Accompagner de purée de brocolis ou de courgettes sautées.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25991">
+  <titre>Galette aux fruits secs et à la confiture d'abricots</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>125 g de beurre</p>
+    <p>1/2 cuillère à café de sel</p>
+    <p>7,5 cl d'eau</p>
+    <p>100 g de raisins de Corinthe</p>
+    <p>100 g de cerneaux de noix</p>
+    <p>100 g d'amandes</p>
+    <p>100 g de sucre</p>
+    <p>1 pincée de cannelle</p>
+    <p>6 cl de rhum</p>
+    <p>400 g de confiture d'abricots</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire tremper les raisins dans le rhum pendant 1 heure.
+    Pendant ce temps, préparer la pâte à tarte : mélanger la farine et le sel, former un puits et y mettre le beurre coupé en dés. Pétrir en ajoutant l'eau progressivement.
+    Couper 1/3 de la pâte et la mettre de côté au frais. Etaler le reste de la pâte sur une table farinée et en garnir un moule à manqué beurré et fariné.
+    Préchauffer le four à 150°C (thermostat 5).
+    Mixer les noix et les amandes avec le sucre, la cannelle, les raisins et le rhum jusqu'à obtention d'une pâte épaisse.
+    Dans le fond de tarte, alterner : confiture d'abricot, pâte aux fruits secs, confiture d'abricot, pâte aux fruits secs et pour finir mettre le reste de confiture d'abricot.
+    Sortir la pâte qui était au frais et l'étaler finement. En couvrir la tarte. Humecter légèrement les bords pour souder les deux pâtes.
+    Faire cuire 1 heure. Servir froid.
+  ]]>
+  </preparation>
+</recette>

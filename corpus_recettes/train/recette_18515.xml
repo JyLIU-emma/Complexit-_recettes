@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18515">
+  <titre>Amandine aux abricots</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>10 abricots</p>
+    <p>200 g d’amandes en poudre</p>
+    <p>200 g de beurre mou</p>
+    <p>200 g de sucre</p>
+    <p>4 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire blanchir tout le mélange. 
+    Beurrer un plat à gratin. 
+    Mettre les abricots côté bombé sur le plat. 
+    Recouvrir du mélange. 
+    Faire cuire 35 mn au four thermostat 5. 
+    Servir froid ou tiède.
+    Il est important de mettre les abricots côté bombé contre le plat car cela évite que le jus de l'abricot ne reste dans le fruit pendant la cuisson.
+  ]]>
+  </preparation>
+</recette>

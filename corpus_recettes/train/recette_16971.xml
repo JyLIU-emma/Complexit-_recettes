@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16971">
+  <titre>Rôti de veau à l'italienne</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rôti de veau de 800 g</p>
+    <p>4 tomates</p>
+    <p>30 g de beurre</p>
+    <p>1 oeuf entier et 1 jaune d'oeuf</p>
+    <p>3 cuillères à soupe de câpres</p>
+    <p>4 filets d'anchois à l'huile</p>
+    <p>150 g de miettes de thon à l'huile</p>
+    <p>1 citron</p>
+    <p>sel et poivre</p>
+    <p>1 verre à moutarde d'huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à thermostat 7. Disposez la viande dans un plat allant au four, salez et poivrez, parsemez de noix de beurre et glissez au four.
+    Retournez à mi-cuisson, laissez refroidir sur une assiette puis tranchez.
+    Dans un bol, mettez l'oeuf entier plus le jaune, les miettes de thon, les câpres, les anchois,le jus de citron. Mixez le tout en versant l'huile d'olive doucement. Vous devez obtenir une sauce bien lisse. Versez-la dans une saucière en attente.
+    Dans un plat, disposez les tranches de rôti, coupez les tomates en tranches, salez, poivrez et répartissez autour de la viande. Servez accompagné de la sauce.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23003">
+  <titre>Cocotte de petits pois ardéchoise</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 grosse boîte de petits pois</p>
+    <p>200 g de marrons en boîte</p>
+    <p>150 g de lardons</p>
+    <p>50 g de beurre</p>
+    <p>25 cl de bouillon de volaille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire rissoler les lardons dans une cocotte.
+    Les retirer et mettre le beurre à fondre dans la cocotte.
+    Mettre les petits pois et les marrons, laisser dorer puis verser le bouillon.
+    Laisser mijoter 10-15 min à feu doux.
+    Rajouter les lardons, laisser chauffer et servir.
+    On peut aussi ajouter un peu de crème fraîche.
+  ]]>
+  </preparation>
+</recette>

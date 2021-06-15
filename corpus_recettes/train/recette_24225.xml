@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24225">
+  <titre>Chou rouge et pommes à l'autocuiseur</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 chou rouge d’1kg environ</p>
+    <p>200 g de lard</p>
+    <p>30 g de beurre</p>
+    <p>250 g de pommes</p>
+    <p>4 oignons</p>
+    <p>1 verre de vin blanc sec</p>
+    <p>1 verre d’eau</p>
+    <p>sel, poivre </p>
+    <p>1 autocuiseur</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Porter l’eau à ébullition dans l’autocuiseur.
+    Pendant ce temps, couper le trognon du chou, ôter les cotes épaisses, l’effeuiller puis le détailler en quartiers.
+    Découper ensuite les feuilles en fines lanière puis les déposer dans l’autocuiseur avec le lard.
+    Dés que l’eau frémit de nouveau, égoutter les choux et le lard, puis le détailler en petits dés et le réserver.
+    Eplucher ensuite l’oignon et les pommes puis les détailler en fines lamelles.
+    Déposer dans l’autocuiseur les dés de lard avec l’oignon émincé et une noisette de beurre, puis laisser cuire en remuant jusqu’à ce qu’ils soient bien dorés.
+    Ajouter enfin le chou avec les pommes, puis mouiller de vin blanc et d’eau.
+    Saler, poivrer et refermer l’autocuiseur, pour achever la cuisson.
+    Laisser cuire 25 min à couvert, à feu doux dés mise en route de la soupape.
+    Déguster.
+  ]]>
+  </preparation>
+</recette>

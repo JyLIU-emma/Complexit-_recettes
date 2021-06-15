@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21196">
+  <titre>Gâteau aux petits-beurres et chocolat sans cuisson</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>300 g de crème fraîche</p>
+    <p>300 g de chocolat noir</p>
+    <p>2 paquets de petits beurre</p>
+    <p>25 cl de café fort et froid</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole, faire bouillir la crème fraîche.
+    Ajouter le chocolat concassé et mélanger jusqu'à ce qu'il soit fondu puis laisser refroidir.
+    Imbiber les biscuits de café et en déposer une couche au fond du moule.
+    Recouvrir de crème au chocolat, d'une couche de biscuit, d'une couche de crème et ainsi de suite jusqu'à épuisement des biscuits et de la crème.
+    Faire prendre au réfrigérateur pendant au moins 3 h.
+    Démouler et décorer éventuellement de chocolat râpé avant de servir.
+  ]]>
+  </preparation>
+</recette>

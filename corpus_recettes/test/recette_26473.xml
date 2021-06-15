@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26473">
+  <titre>Gâteau au chocolat aux épices</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>100 g de chocolat</p>
+    <p>30 g de cacao en poudre</p>
+    <p>125 g de beurre</p>
+    <p>100 g de sucre</p>
+    <p>150 g de farine</p>
+    <p>75 g de miel</p>
+    <p>2 oeufs</p>
+    <p>1/2 sachet de levure chimique</p>
+    <p>1 cuillère à café de vanille</p>
+    <p>1 cuillère à café de cannelle</p>
+    <p>1/2 cuillères à café de muscade</p>
+    <p>1 cuillère à café de gingembre en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Casser le chocolat en morceaux, puis faire fondre. Laisser tiédir. Ajouter le miel, les épices et le beurre ; mélanger. 
+    2) Dans 1 bol, travailler les jaunes d’oeufs avec le sucre. Ajouter la préparation au chocolat, puis la farine, le cacao et la levure. 
+    3) Fouetter les blancs en neige avec une pincée de sel ; incorporer à la préparation. 
+    4) Mettre au four, pendant 1 h15 à Th 5-6 (160°C).
+  ]]>
+  </preparation>
+</recette>

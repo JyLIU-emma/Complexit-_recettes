@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22094">
+  <titre>Eclairs au café</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la pâte à choux :</p>
+    <p>1/4 l d'eau</p>
+    <p>12 g de sucre</p>
+    <p>65 g de beurre</p>
+    <p>125 g de farine</p>
+    <p>4 oeufs</p>
+    <p>1 pincée de sel</p>
+    <p>Pour la crème pâtissière :</p>
+    <p>3/4 l de lait</p>
+    <p>4 jaunes d'oeuf</p>
+    <p>150 g de sucre</p>
+    <p>60 g de Maïzéna</p>
+    <p>1 cuillère à soupe d'extrait de caféPour la dorure et garniture :</p>
+    <p>200 g de fondant</p>
+    <p>1 oeuf</p>
+    <p>1 cuillère à café d'extrait de café</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pâte à choux : Faire bouillir l'eau, le beurre, le sucre et le sel. 
+    Hors du feu, verser d'un coup toute la farine, puis ajouter 3 oeufs un par un en mélangeant énergiquement, sur feu très doux, jusqu'à ce que la pâte n'attache plus au fond de la casserole.
+    Sur une plaque à pâtisserie, disposer cette pâte en bâtonnets de 5 cm de long sur 1 cm de large. Badigeonner d'oeuf battu avec 1 cuillère à soupe d'eau ; puis strier le dessus avec une fourchette. 
+    Laisser cuire 20 mn environ. Crème pâtissière : Faire bouillir le lait. 
+    Pendant ce temps, mélanger les jaunes d'oeuf, le sucre et la Maïzéna ; puis, verser dessus le lait bouillant en mélangeant. 
+    Remettre sur feu doux et mélanger jusqu'à épaississement. 
+    Ajouter l'extrait de café. Garnir les éclairs avec la crème. Faire chauffer le fondant. Quand il est bien chaud, ajouter l'extrait de café et glacer les éclairs.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25933">
+  <titre>Crêpes farcies à la méditerranéenne</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte à crêpe :</p>
+    <p>200 g de farine</p>
+    <p>4 œufs</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>sel et poivre</p>
+    <p>1 pincée de sucre</p>
+    <p>50 cl de lait</p>
+    <p>Pour la farce :</p>
+    <p>100 g d'olives noires dénoyautées</p>
+    <p>1 poivron vert</p>
+    <p>8 tomates</p>
+    <p>1 oignon</p>
+    <p>1 gousse d'ail</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire la pâte à crêpe en mélangeant tous les ingrédients. Les cuire à la poêle 1 min par farce.
+    Les garder au chaud en les plaçant au dessus d'une casserole d'eau chaude et couvertes d'une feuille de papier aluminium.
+    Hacher l'oignon et l'ail. Couper le poivron en fines lanières et peler les tomates.
+    Cuire la farce en commençant par faire revenir l'oignon et l'ail dans un peu d'huile d'olive. Ajouter le poivron et les tomates.
+    Laisser réduire quelques minutes, assaisonner et ajouter les tomates.
+    Garnir les crêpes de farce, les rouler et les disposer dans un plat pour le service.
+  ]]>
+  </preparation>
+</recette>

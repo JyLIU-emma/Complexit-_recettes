@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12651">
+  <titre>Gratin de fruits rapide</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400g de fruits du marché (par exemple fraises et pêches)</p>
+    <p>250g crème à fouettée</p>
+    <p>50g de poudre d'amande </p>
+    <p>50g de sucre</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>30 ml de liqueur fine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les fruits.
+    Fouetter la crème avec le sucre.
+    Ajouter les jaunes d'oeufs, la poudre d'amande et la liqueur.Déposer les fruits sur un plat creux allant au four.
+    Napper du mélange.
+    Faire dorer au four sur la grille du haut.
+  ]]>
+  </preparation>
+</recette>

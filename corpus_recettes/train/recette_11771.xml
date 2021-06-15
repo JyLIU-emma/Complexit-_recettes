@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11771">
+  <titre>Flan de saumon au coulis de concombre</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 tranches de saumon fumé</p>
+    <p>200 g de filet de saumon</p>
+    <p>2 gros oeufs</p>
+    <p>20 cl de crème fraîche</p>
+    <p>aneth, sel, poivre</p>
+    <p>2 concombres</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Passer le saumon au mixer avec les oeufs et et la crème. Assaisonner avec l'aneth.
+    Poivrer et saler. Beurrer des ramequins et les remplir aux 2/3 de la préparation.
+    Passer 10 min au micro-ondes. Piquer avec un couteau pour vérifier la cuisson (il doit ressortir sec).
+    Eplucher les concombres, retirer les pépins. Les couper très finement et mettre à dégorger avec du sel environ 20 min. Sécher sur du papier absorbant et mixer.
+    Servir le coulis très froid sur les flans tièdes.
+     pouilly-fumé
+  ]]>
+  </preparation>
+</recette>

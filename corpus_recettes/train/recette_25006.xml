@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25006">
+  <titre>Charlotte aux noix caramélisée</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>20 boudoirs environ</p>
+    <p>40 noix hachées</p>
+    <p>4 oeufs</p>
+    <p>125 g de sucre</p>
+    <p>50 cl de lait</p>
+    <p>20 cl de crème fraîche</p>
+    <p>10 cl caramel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Recouvrir le fond et les bords du moule à tarte de caramel et de boudoirs. 
+    Battre les oeufs en omelette avec le lait, le sucre, les noix hachées et la crème fraîche.
+    Verser dans le plat. Placer le plat pendant une nuit au réfrigérateur.
+  ]]>
+  </preparation>
+</recette>

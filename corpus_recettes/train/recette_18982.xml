@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18982">
+  <titre>Blanc de poulet au cognac</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 blancs de poulet (ou dinde si on veut) </p>
+    <p>1 cuillère à café de curry</p>
+    <p>1/2 bouchon de Cognac</p>
+    <p>1 grosse cuillère de crème fraîche</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découpez les blancs de poulet en petits morceaux, les faire revenir avec un peu d'huile dans une poêle. 
+    Lorsqu'ils sont légèrement dorés ajouter le curry puis une grosse cuillère de crème fraîche. Laissez cuire 5 mn. 
+    Ajouter ensuite le Cognac, le sel et le poivre.
+    On peut faire revenir 1/2 oignon émincé avant de mettre le poulet à cuire si on veut.
+  ]]>
+  </preparation>
+</recette>

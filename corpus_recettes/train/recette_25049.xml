@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25049">
+  <titre>Salade de champignons antiboise</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de champignons de Paris</p>
+    <p>3 tomates séchées à l'huile</p>
+    <p>persil frais</p>
+    <p>2 cuillerées d'herbes de Provence </p>
+    <p>huile d'olive</p>
+    <p>paprika</p>
+    <p>1 gousse d'ail</p>
+    <p>1 verre de vin blanc</p>
+    <p>1 jus de citron</p>
+    <p>1 peu de parmesan</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer les champignons en fines lamelles. 
+    Les faire revenir dans une sauteuse avec une gousse d'ail écrasée. 
+    Couper les tomates en petits morceaux, les rajouter aux champignons. 
+    Poivrer, ajouter 2 cuillerées d'herbes de Provence, 1 cuillerée à soupe de paprika, 2 cuillerées à soupe de persil frais ciselé, le verre de vin blanc. 
+    Laisser cuire jusqu'à évaporation complète de l'eau. 
+    Laisser refroidir, rajouter un petit jus de citron, rectifier l'assaisonnement. 
+    Servir avec une petite salade de mesclun parsemée de quelques copeaux de parmesan.
+    Un petit goût du pays niçois!
+  ]]>
+  </preparation>
+</recette>

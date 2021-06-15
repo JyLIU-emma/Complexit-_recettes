@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20261">
+  <titre>Viandes sauce à l'ancienne</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>De la viande ! (un lapin, un rôti de port, un roulé de dinde ou n'importe quoi d'autre) compter 200 g par personne</p>
+    <p>4 gros oignons</p>
+    <p>250 g de lardon</p>
+    <p>50 cl de vin blanc</p>
+    <p>Un petit pot de crème (optionnel) </p>
+    <p>1,250 g de pomme de terre</p>
+    <p>une boîte de champignon (optionnel) </p>
+    <p>une cuillère à soupe de farine (optionnel) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte minute : 
+    Faire dorer la viande quelques minutes, puis ajouter lardons et oignons coupés en quartier. 
+    Faire dorer lardons et oignons quelques minutes puis ajouter le vin blanc. 
+    Saler, poivrer, aromater, ajouter les champignons puis refermer la cocotte pour une quinzaine de minutes. 
+    Eplucher les pommes de terre et découper en gros morceaux (couper les patates moyenne en 2, les grosses en 3 ). 
+    Une fois les 15 mn écoulées ajouter les pommes de terre et ajouter de l'eau si certaines pommes de terre ne touchent pas l'eau. 
+    Refermer pour un nouveau quart d'heure. 
+    Ajouter de la crème et/ou de la farine pour épaissir un peu la sauce si cela vous tente.
+    C'est un plat passe-partout, et même les moins doués auront du mal à le rater.
+    Car tout ce qui est à base de lardons, oignons, vin blanc est réussi! Un blanc sec
+  ]]>
+  </preparation>
+</recette>

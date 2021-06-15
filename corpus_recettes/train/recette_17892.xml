@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17892">
+  <titre>Tarte trois fromages sauce tomate</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 Saint-Marcellin</p>
+    <p>1 petite boule de Mozzarella</p>
+    <p>1 bocal de sauce tomates et olives (il faut que la sauce soit épaisse, très peu liquide) </p>
+    <p>1 rouleau de pâte feuilletée</p>
+    <p>gruyère râpé</p>
+    <p>moutarde</p>
+    <p>herbes de Provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dérouler la pâte dans un moule (laisser le papier sulfurisé). 
+    Etaler une fine couche de moutarde, piquer la pâte avec une fourchette. 
+    Etaler la sauce tomate. 
+    Répartir le chèvre et la mozza coupés en lamelles. 
+    Parsemer de gruyère râpé et d'herbes de Provence. 
+    Cuire au four Th 7-8 pendant 25 à 30 mn. 
+    Laisser refroidir un peu avant de déguster.
+    C'est aussi très bon froid.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16312">
+  <titre>Poulet sauce allégée</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poulet</p>
+    <p>1 pot de yaourt</p>
+    <p>1 cuillère à soupe de moutarde</p>
+    <p>2 cuillères à soupe de jus de citron</p>
+    <p>1 cuillère à café de thym frais</p>
+    <p>20 grammes de gruyère râpé</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Poser le poulet sur un plat allant au four.
+    Mixer le yaourt avec le jus de citron, la moutarde, le thym, le sel et le poivre. Napper le poulet de cette sauce.
+    Cuire à four moyen (thermostat 6/180°C) pendant 45 mn à 1h. [NDchef: pour gros poulet, aller jusqu'à 1h30. Vérifier la cuisson: une pointe de couteau doit rentrer dans la chair (une fois passée la peau) sans trop de résistance]
+    Monter le thermostat à 7 (210°C), saupoudrer la surface de gruyère râpé et poursuivre la cuisson pendant 5 mn.
+    Servir decoré de rondelles de citron.
+  ]]>
+  </preparation>
+</recette>

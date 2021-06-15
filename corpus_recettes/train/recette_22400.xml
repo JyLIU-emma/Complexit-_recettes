@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22400">
+  <titre>Soupe à la betterave  rose</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 betteraves cuites</p>
+    <p>1 botte d'oignons nouveaux</p>
+    <p>1 concombre</p>
+    <p>1 kg de fromage blanc 20 %</p>
+    <p>4 oeufs</p>
+    <p>un brin d'aneth fraîche</p>
+    <p>sel et poivre</p>
+    <p>500 g de pommes de terre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper finement les oignons nouveaux ainsi que la ciboule, râper les betteraves, couper finement le concombre. 
+    Mélanger un verre d'eau avec le fromage blanc et les ingrédients. 
+    Ajouter le sel et le poivre et l'aneth pour décorer. 
+    Faire cuire les pommes de terre à l'eau et préparer les oeufs durs. 
+    Lorsque les pommes de terre sont cuites, coupez-les en dés puis les oeufs durs ; répartir dans 4 assiettes 2 pommes de terre tièdes par personne, 1 oeuf tiède par personne, puis ajouter la soupe bien fraîche.
+    Idéale pour une entrée d'été. SERVIR BIEN FRAIS
+  ]]>
+  </preparation>
+</recette>

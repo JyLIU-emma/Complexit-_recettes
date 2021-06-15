@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22874">
+  <titre>Chou farci cuit à l'autocuiseur</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 chou vert d'1 kg</p>
+    <p>Pour la farce :</p>
+    <p>4 ou 5 tomates</p>
+    <p>250 g de chair à saucisse</p>
+    <p>125 g de lard de poitrine </p>
+    <p>2 oignons</p>
+    <p>2 gousses d'ail</p>
+    <p>50 g de beurre</p>
+    <p>sel, poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un autocuiseur, porter de l'eau salée à ébullition et y faire cuire le chou en le plongeant dedans pendant 5 min. L'égoutter, le presser pour extraire le surplus d'eau, puis réserver les grandes feuilles.
+    Pour la farce :
+    Passer le coeur du chou au mixeur, réserver. Peler et hacher l'ail et les oignons, puis le faire revenir dans une sauteuse avec 40 g de beurre. Laver, épépiner et détailler les tomates puis le lard en petits dés et les jeter dans la sauteuse. Ajouter la chair à saucisse avec le hachis de chou, puis saler et poivrer.
+    Farcir le chou :
+    Tapisser le fond d'un saladier de 2 feuilles de papier aluminium en les disposant en forme de croix. Les recouvrir de feuilles de chou, sauf les grandes feuilles réservées, et les farcir.
+    Replier les feuilles de chou et couvrir avec les grandes feuilles de chou réservées.
+    Parsemer de 3 noisettes de beurre, puis rabattre les feuilles de papier aluminium sur le chou de façon à faire un panier hermétiquement fermé.
+    Déposer le paquet de chou dans le panier de l'autocuiseur, puis laisser cuire 45 min dès rotation de la soupape.
+    Accompagner de riz et/ou de petits pois.
+  ]]>
+  </preparation>
+</recette>

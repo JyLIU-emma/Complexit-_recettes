@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27384">
+  <titre>Riz rouge et bananes au lard</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 bananes</p>
+    <p>lard en tranches</p>
+    <p>1 oignon</p>
+    <p>1,5 tasse de riz</p>
+    <p>1 tasse de coulis de tomates</p>
+    <p>1 gousse d'ail</p>
+    <p>de l'huile d'olive</p>
+    <p>moutarde</p>
+    <p>herbes de Provence</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir l'oignon émincé dans l'huile dans un wok ou une petite cocotte. 
+    Eplucher les bananes et les enrouler dans les tranches de lard badigeonnées de moutarde. Les faire cuire à feux très doux dans une poêle avec un peu d'huile. 
+    Ajouter l'ail dans le wok, ainsi que le coulis de tomate, 2 tasses d'eau et du sel. Porter à ébullition. 
+    Ajouter le riz, couvrir en laissant entr'ouvert, mélanger de temps en temps et laisser mijoter 20 mn à feu très doux. 
+    En fin de cuisson ajouter les herbes de Provence et assaisonner suivant votre goût. 
+    Servir bien chaud accompagné des bananes au bacon.
+    Peut aussi être gratiné au fromage avant de servir. vin blanc sec
+  ]]>
+  </preparation>
+</recette>

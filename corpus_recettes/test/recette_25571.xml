@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25571">
+  <titre>Gratin dauphinois fondant au gruyère</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 kg de pommes de terre</p>
+    <p>40 cl de de crème fraîche</p>
+    <p>40 cl de lait</p>
+    <p>200 g de gruyère râpé</p>
+    <p>2 oeufs</p>
+    <p>2 cuillères à soupe d'ail haché</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 200°C (thermostat 6-7).
+    Mélangez l'oeuf, le lait, l'ail, sel et poivre.
+    Beurrez un plat à gratin.
+    Couvrez le fond de rondelles de pommes de terre, couvrez de gruyère puis versez le mélange oeuf-lait.
+    Disposez une deuxième couche de pommes de terre, couvrez de gruyère et nappez avec la crème fraîche. Salez, poivrez.
+    Répartissez le gruyère restant et parsemez des noisettes de beurre.
+    Enfournez pour 45 minutes environ, les pommes de terre doivent être fondantes et le gratin doré.
+  ]]>
+  </preparation>
+</recette>

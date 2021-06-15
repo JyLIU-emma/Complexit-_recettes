@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24212">
+  <titre>Tarte feuilletée verte et rouge</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 rouleau de pâte feuilletée pur beurre</p>
+    <p>1 pot de pesto tout prêt (env 150 g) </p>
+    <p>1 grosse poignée de roquette</p>
+    <p>3 tomates de taille moyenne</p>
+    <p>du parmesan en morceaux</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Mixer le pesto avec la roquette. 
+    2) Etaler le mélange sur la pâte feuilletée en laissant 1 cm sur le tour poor replier le bord de la pâte. 
+    3) plonger les tomates dans l'eau bouillante pour les éplucher et les couper en rondelles. Les mettre à égoutter sur du papier absorbant afin qu'elles perdent le maximum d'eau. 
+    4) Disposer les tomates sur la pâte et le pesto. 
+    5) Mettre au four 20 mn à 180°C. 
+    6) Quand c'est prêt couper de fines tranches de parmesan que vous parsèmerez sur la tarte.
+  ]]>
+  </preparation>
+</recette>

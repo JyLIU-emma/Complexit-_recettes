@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24153">
+  <titre>Tomates à l'ail et au persil</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 tomates</p>
+    <p>6 gousses d'ail</p>
+    <p>3 cuillères à soupe de chapelure</p>
+    <p>3 cuillères à soupe de persil haché</p>
+    <p>75 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher l'ail puis le malaxer avec 50 g de beurre mou, le persil et la chapelure.
+    Couper les tomates en 2 et répartir le mélange sur chacune d'entre elles.
+    Déposer les tomates côté peau dans une grande poêle avec le beurre restant et faire chauffer à feu doux, à couvert, pendant 30 minutes
+  ]]>
+  </preparation>
+</recette>

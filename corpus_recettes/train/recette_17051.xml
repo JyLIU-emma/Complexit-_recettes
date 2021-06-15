@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17051">
+  <titre>Tarte jambon gruyère</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de gruyère</p>
+    <p>150 g de jambon blanc</p>
+    <p>3 oeufs</p>
+    <p>50 cl de lait</p>
+    <p>1 pâte feuilletée</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à thermostat 7 (210°C).
+    Mélanger le gruyère, le jambon blanc coupé en fines lamelles, les oeufs et le lait. Salez, poivrez.
+    Verser sur la pâte en veillant à avoir de hauts rebords.
+    Enfourner 30 mn.
+    Encore plus simple qu'une quiche. Pratique pour un repas vite fait. 
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15608">
+  <titre>Hachis de boeuf au riz et aux courgettes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>450 g de steak haché</p>
+    <p>60 g du riz cru</p>
+    <p>3 courgettes moyennes</p>
+    <p>1,5 cuillère à café rases de margarine végétale</p>
+    <p>1 gros oignon</p>
+    <p>1/2 gros cube de bouillon de volaille</p>
+    <p>2 verres d'eau bouillante</p>
+    <p>60 g de gruyère râpé</p>
+    <p>1 cuillère à café de poudre de coriandre</p>
+    <p>2 brins de thym</p>
+    <p>1,5 cuillère à café d'huile d'olive</p>
+    <p>sel et poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Enduire un large moule à soufflé d'un peu de margarine. Verser le riz dans le fond.
+    Emincer l'oignon et le faire blondir dans une poêle à feu moyen, avec le reste de margarine. Ajouter le steack haché.
+    Mélanger quelques instants et retirer avant la fin de la cuisson de la viande. Tasser sur le riz.
+    Laver les courgettes. Sans les peler, les couper en tranches et ranger-les en plusieurs couches sur la viande hachée.
+    Délayer le 1/2 cube de bouillon dans l'eau bouillante. Ajouter la poudre de coriandre, l'huile d'olive, le thym effeuillé et poivrer généreusement. Verser sur les courgettes. Poudrer de gruyère râpé.
+    Cuire dans le four pendant 1 heure environ.
+    Servir chaud dans le plat de cuisson.
+  ]]>
+  </preparation>
+</recette>

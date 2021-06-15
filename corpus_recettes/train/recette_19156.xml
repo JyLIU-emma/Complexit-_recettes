@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19156">
+  <titre>Potage au potiron</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 potiron de taille moyenne</p>
+    <p>4 tomates</p>
+    <p>6 carottes</p>
+    <p>3 oignons</p>
+    <p>sel et poivre</p>
+    <p>piment (d'Espelette) </p>
+    <p>3 bouillons cube aux légumes dégraissés</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez le potiron en morceau, enlevez les pépins et les filaments. 
+    Coupez les tomates en 4 et pelez les carottes, puis coupez-les en rondelles grossières. Pelez les oignons et coupez-les. 
+    Mettez tous les légumes dans l'auto-cuiseur. Rajoutez de l'eau afin de couvrir largement les légumes. 
+    Salez et poivrez à votre goût. 
+    Rajoutez le piment et les bouillons cube. 
+    Dès sortie de la vapeur, laissez cuire une dizaine de minutes. 
+    Mixez et servez.
+    N'hésitez pas à ajouter de la crème ou des croûtons.
+  ]]>
+  </preparation>
+</recette>

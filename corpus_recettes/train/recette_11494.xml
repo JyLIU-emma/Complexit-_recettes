@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11494">
+  <titre>Tajine de mouton aux figues (Maroc)</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 kg de viande de mouton</p>
+    <p>500 g de figues sèches</p>
+    <p>2 oignons hâchés</p>
+    <p>1 bouquet de coriandre </p>
+    <p>1/2 verre d'huile de table</p>
+    <p>1/2 cuillerée de poivre</p>
+    <p>sel selon goût</p>
+    <p>1/2 cuillerée de gingembre</p>
+    <p>un peu de collorant alimentaire ou safran</p>
+    <p>1/2 cuillerée de cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre la viande, les oignons et toutes les épices dans une marmite, ajouter 1 grand verre d'eau, puis cuire à feu vif pendant 1 heure 30.
+    Pour garnir votre plat, bien laver les figues et les faire cuire (vapeur) un peu à feu doux.
+    Après avoir servi le plat chaud, mettre les figues sur la viande.
+     thé à la menthe
+  ]]>
+  </preparation>
+</recette>

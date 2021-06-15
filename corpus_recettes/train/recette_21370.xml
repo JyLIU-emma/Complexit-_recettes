@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21370">
+  <titre>Courgettes à la menthe</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 courgettes</p>
+    <p>menthe fraîche</p>
+    <p>ail</p>
+    <p>huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les courgettes en rondelles et les faire frire dans de l'huile. 
+    Lorsqu'elles sont cuites, les mettre sur du papier absorbant pour retirer le surplus d'huile. 
+    Couper grossièrement les feuilles de menthe fraîche et les mélanger aux courgettes dans un saladier. 
+    Ajouter l'ail, le sel, le poivre et l'huile (olive ou arachide selon les goûts). 
+    Mettre au frais et servir très frais.
+    Plat d'été provençal. On peut donc le déguster avec un rosé bien frais. rosé
+  ]]>
+  </preparation>
+</recette>

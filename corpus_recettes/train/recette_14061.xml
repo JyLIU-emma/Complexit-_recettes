@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14061">
+  <titre>Poulet au yaourt  kalia</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poulet découpé</p>
+    <p>1 pincée de safran</p>
+    <p>sel</p>
+    <p>1 yaourt</p>
+    <p>1 cuillère à soupe</p>
+    <p>un peu d'ail et de gingembre en poudre</p>
+    <p>5 tomates mondées</p>
+    <p>1 oignon émincé</p>
+    <p>1/2 tasse oignon frit (ducros)</p>
+    <p>50 g de beurre</p>
+    <p>facultatif : 3 pincées de poivre</p>
+    <p>facultatif : 3 clous de girofle</p>
+    <p>facultatif : 1/2 cuillère à café de cannelle</p>
+    <p>facultatif : 3 baises de cardamome</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettez le tout dans une marmite a fond épais.
+    Couvrir et cuire à feu doux. Rajouter 2 cuillères à soupe de crème fraîche et coriandre frais. Servir avec pain viennois ou du riz. Vite fait si l'oignon frit est préparé à l'avance.
+  ]]>
+  </preparation>
+</recette>

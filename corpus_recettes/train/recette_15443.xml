@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15443">
+  <titre>Lentilles d'Ordesa (Espagne)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de lentilles</p>
+    <p>2 poireaux</p>
+    <p>100 g de champignons</p>
+    <p>1 oignon</p>
+    <p>1 os de jambon (ou un bouillon cube)</p>
+    <p>2 tomates</p>
+    <p>200 grammes de boudin</p>
+    <p>eau</p>
+    <p>1 cuillère à café d'anis ou d'eau de vie, ou encore 1 verre de vin doux</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les lentilles avec le bouillon cube ou l'os.
+    Pendant ce temps, faire revenir, oignon, poireaux, champignons, tomates et boudin (les légumes bien émincés et le boudin coupé en morceaux).
+    Cuire pendant un bon quart d'heure à feu moyen.
+    Quand les lentilles sont cuites (attention à ce qu'elles gardent une bonne fermeté), ajouter alors le mélange et faire cuire encore 10 mn.
+    En fin de cuisson, ajouter l'alcool.
+    Cuisine simple bonne... avec un parfum d'Aragon. Rioja
+  ]]>
+  </preparation>
+</recette>

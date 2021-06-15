@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25323">
+  <titre>Fraises en coque d'ananas</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 ananas moyen</p>
+    <p>250 g de fraises</p>
+    <p>2 cuillères à soupe de sucre </p>
+    <p>1 orange</p>
+    <p>20 cl de crème fraîche entière</p>
+    <p>1 sachet de sucre vanillée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver, égoutter et équeuter les fraises. Puis, les couper en dés.
+    Couper l'ananas en deux. Retirer la chair à la cuillère et la couper en petits cubes (si besoin). Presser aussi le jus de l'orange.
+    Mélanger dans un saladier les dés de fraises et d'ananas, arroser du jus de l'orange. Saupoudrer de sucre. Enfin, fourrer l'ananas avec les fruits.
+    Fouetter la crème bien froide avec le sucre vanillé.
+    Servir très frais avec la crème fouettée.
+  ]]>
+  </preparation>
+</recette>

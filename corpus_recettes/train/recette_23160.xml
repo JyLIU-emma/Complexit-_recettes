@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23160">
+  <titre>Quiche aux oignons</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>7 oignons</p>
+    <p>5 oeufs</p>
+    <p>250 g de lardons</p>
+    <p>20 cl de crème fraîche</p>
+    <p>25 g de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 210°C (thermostat 7).
+    Etaler la pâte dans le moule à tarte et piquer le fond à l'aide d'une fourchette.
+    Emincer les oignons finement et les faire fondre dans le beurre jusqu'à ce qu'ils soient bien fondants.
+    Faire dorer les lardons.
+    Battre les oeufs avec la crème, saler, poivrer, ajouter les lardons et les oignons.
+    Verser la préparation sur le fond de tarte et enfourner pour 20 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

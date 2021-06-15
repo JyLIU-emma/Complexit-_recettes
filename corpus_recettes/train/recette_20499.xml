@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20499">
+  <titre>Tarte au fromage blanc et au kirsch</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de fromage blanc</p>
+    <p>20 cl de crème fraîche</p>
+    <p>4 oeufs</p>
+    <p>125 g de sucre</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>50 g de Maïzena</p>
+    <p>1 cuillère à soupe de Kirsch</p>
+    <p>300 g de pâte brisée</p>
+    <p>15 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Fouetter le fromage blanc avec la crème fraîche, les oeufs, les sucres, la Maïzena et le Kirsch. Mettez en attente. 
+    Préchauffer le four Th 130°C. 
+    Mettre la pâte dans un moule beurré. Garnir le fond de tarte avec la préparation au fromage blanc. 
+    Enfournez et cuire environ 30 mn. 
+    Laisser tiédir avant de démouler sur une grille. 
+    Après refroidissement, entreposer au réfrigérateur jusqu'au moment de servir.
+    Recette alsacienne, simple et très bonne.
+    Votre tarte se démoulera plus facilement si vous utilisez un moule à fond amovible.
+  ]]>
+  </preparation>
+</recette>

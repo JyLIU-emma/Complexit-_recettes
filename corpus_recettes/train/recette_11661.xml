@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11661">
+  <titre>Aillade de cheval</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 steaks de cheval</p>
+    <p>8 gousses d'ail ou plus selon les goûts</p>
+    <p>1 bouquet de persil</p>
+    <p>60 g de beurre fondu</p>
+    <p>50 g de beurre frais</p>
+    <p>sel, poivre.</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettez dans une poêle 60 g de beurre  fondu, chauffez vivement. 
+    Cuisez les steaks selon votre goût. 
+    Assaisonnez. Retirez les steaks et tenez-les au chaud.
+    Ajoutez dans la poêle le beurre frais, les gousses d'ail écrasées et le bouquet de persil finement haché.Laissez mijoter deux minutes puis nappez les steaks de ce jus parfumé.
+  ]]>
+  </preparation>
+</recette>

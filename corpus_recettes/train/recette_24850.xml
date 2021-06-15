@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24850">
+  <titre>Pizza au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>15 g de cacao pur en poudre</p>
+    <p>300 g de farine</p>
+    <p>125 g de beurre</p>
+    <p>3 oeufs</p>
+    <p>1 sachet de levure de boulanger déshydratée</p>
+    <p>20 g de sucre</p>
+    <p>Pour la garniture :</p>
+    <p>100 g de chocolat noir</p>
+    <p>40 g de cacao pur en poudre</p>
+    <p>75 g de sirop d'érable</p>
+    <p>1 dl de crème fraîche liquide</p>
+    <p>50 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laissez la levure de boulanger se réhydrater dans 2 cuillères à soupe d'eau tiède. Mêlez la farine, le sucre, la levure, le cacao en poudre et 1 pincée de sel dans le bol du robot à hélice. En mixant à vitesse moyenne, ajoutez les oeufs un à un. Quand la pâte se détache des parois, ajoutez le beurre coupé en morceaux. Posez la pâte en boule sur votre plan de travail fariné et laissez reposez 30 mn. 
+    Avec vos mains farinées, pétrissez la pâte quelques secondes ; faire un disque de 25 cm de diamétre environ et 1 cm d'épaisseur sur une plaque. Laissez gonfler au moins 30 mn au tiède : elle doit doubler de volume. 
+    Préchauffez le four à 180°C . 
+    Répartissez sur la pâte levée le sirop, le cacao et le beurre en noisettes. Enfournez 5 mn. Etalez la crème fraîche. Quand sirop, beurre et crème se sont bien mélangés (environ 10 mn), ajoutez le chocolat grossièrement concassé au robot, réenfournez 2 mn.
+  ]]>
+  </preparation>
+</recette>

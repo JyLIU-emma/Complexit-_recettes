@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23706">
+  <titre>Tarte tomate et moutarde</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée pur beurre</p>
+    <p>3 à 4 tomates</p>
+    <p>2 oignons</p>
+    <p>moutarde à l'ancienne</p>
+    <p>parmesan</p>
+    <p>gruyère râpé</p>
+    <p>huile d'olive</p>
+    <p>herbes de Provence</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dérouler la pâte dans un moule à tarte avec la feuille de papier cuisson et entreposer au congélateur pour qu'elle reste bien ferme.
+    Couper les tomates en fines tranches et les faire égoutter dans une passoire pour qu'elles perdent leur jus.
+    Emincer très finement les oignons et les faire revenir doucement dans 2 cuillères à soupe d'huile d'olive.
+    Sortir le fond de tarte du congélateur et mettre une couche de moutarde, puis les oignons en compote, les tomates, un filet d'huile d'olive, du sel et du poivre, une bonne couche de gruyère et des herbes de Provence.
+    Cuire 25 minutes à four moyen (thermostat6/180°C) et parsemer de copeaux de parmesan à la sortie du four.
+    Servir avec une salade aux herbes.
+    On peut également ajouter des lardons coupés très finement.
+  ]]>
+  </preparation>
+</recette>

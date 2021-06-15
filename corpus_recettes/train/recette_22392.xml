@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22392">
+  <titre>Gratin de pâtes à la crème de gruyère</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de pâtes (fettucinis, macaronis courts, coquillettes etc) </p>
+    <p>12 portions de crème de gruyère </p>
+    <p>75 g de gruyère râpé</p>
+    <p>3 jaunes d'oeufs</p>
+    <p>15 cl de crème liquide</p>
+    <p>15 cl de lait</p>
+    <p>sel, poivre</p>
+    <p>muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les pâtes dans l'eau bouillante 2 mn de moins que le temps indiqué sur le paquet. 
+    Préchauffer le four à 240°C (Th 8). 
+    Faire chauffer le lait avec la crème, ajouter la vache qui rit, saler et poivrer. Bien remuer pour faire fondre le fromage. 
+    Ajouter les pâtes bien égouttées et faire cuire 2 mn en remuant. 
+    Hors du feu, mélanger aux pâtes les jaunes d'oeufs battus avec un peu d'eau et un peu de muscade. 
+    Verser les pâtes dans un plat à gratin beurré et saupoudrer de gruyère. 
+    Faire gratiner et servir.
+    On peut ajouter à ce gratin du jambon, des lardons, des champignons.. et l'accompagner d'une salade verte pour un repas complet. Tavel(bien frais)
+  ]]>
+  </preparation>
+</recette>

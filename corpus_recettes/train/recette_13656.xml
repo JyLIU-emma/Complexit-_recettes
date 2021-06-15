@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13656">
+  <titre>Sauté de saumon au gingembre</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 pavés de saumon</p>
+    <p>gingembre frais</p>
+    <p>sauce soja</p>
+    <p>pousses de soja</p>
+    <p>2 cuillères à soupe d'huile d'arachide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un wok, faire revenir le gingembre râpé dans l'huile. Ajouter le saumon coupé en gros dés.
+    Faire revenir 5 mn.
+    Ajouter les pousses puis saler poivrer et arroser de quelques gouttes de sauce soja.
+    Couvrer et faire cuire encore 5 mn.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14369">
+  <titre>Chili con carne express</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>400 g viande hachée</p>
+    <p>400 g de haricots rouges en boîte</p>
+    <p>400 g de tomates pelées en boîte</p>
+    <p>2 cuillères à café de poudre de chili</p>
+    <p>sel et poivre</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher oignon et ail. Faire chauffer l'huile dans une cocotte, faire fondre l'oignon et l'ail.
+    Ajouter la viande hachée, la laisser prendre couleur. Ajouter la poudre a chili (suivant les goûts, + ou - pimenté).
+    Egoutter les haricots, les versez dans la cocotte avec les tomates. Remuer et assaisonner. Laisser frémir 20 minutes.
+    Si vous trouvez le plats trop epicé, servez avec une cuillère de crème fraîche.
+  ]]>
+  </preparation>
+</recette>

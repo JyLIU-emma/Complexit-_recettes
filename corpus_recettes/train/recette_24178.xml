@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24178">
+  <titre>Quiche aux champignons et jambon cru</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>400 g de champignons </p>
+    <p>100 g de jambon cru</p>
+    <p>1 poireau</p>
+    <p>100 g de comté râpé</p>
+    <p>20 cl de crème fraîche</p>
+    <p>3 oeufs</p>
+    <p>40 g de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver, essuyer et émincer les champignons et le poireau, puis détailler le jambon en dés.
+    Préchauffer votre four à 180°C (thermostat 6).
+    Dans une poêle beurrée, faire revenir les champignons et le poireau jusqu'à évaporation complète du jus de cuisson. Saler, poivrer.
+    Pendant ce temps, battre les oeufs avec la crème, le fromage râpé et les dés de jambon.
+    Etaler la pâte dans un moule à tarte beurré, puis garnir le fond du la préparation poireau/champignons.
+    Verser ensuite par-dessus le mélange aux oeufs et au jambon, faire cuire à four chaud pendant 1 h.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24113">
+  <titre>Cookies aux fruits secs</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>140 g de corn-flakes</p>
+    <p>100 g de raisins secs</p>
+    <p>100 g d'abricots secs (coupés en petits morceaux)</p>
+    <p>1 boîte de lait concentré sucré</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Verser tous les ingrédients dans un grand saladier et mélanger. Si le mélange vous semblent trop liquide, ajouter alors une poignée. 
+    Disposer une feuille de papier sulfurisé sur 2 plaques à cuisson et faire des petites tas.
+    Mettre au four (thermostat 6/180°C) pendant environ 25 mn, jusqu'à ce que les cookies aient pris une jolie teinte dorée.
+    Réussite assurée lors des goûters!
+  ]]>
+  </preparation>
+</recette>

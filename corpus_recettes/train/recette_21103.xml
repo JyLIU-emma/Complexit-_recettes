@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21103">
+  <titre>Brandade de morue facile</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de morue salée</p>
+    <p>20 cl de lait</p>
+    <p>20 cl d’huile d’olive</p>
+    <p>1/2 citron</p>
+    <p>1 gousse d’ail</p>
+    <p>1 pomme de terre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille, déposer la morue dans une passoire puis la plonger dans un bain d’eau froide pendant 20 minutes. Jeter l'eau et recommencer l'opération 3 fois.
+    La disposer dans l'eau fraîche jusqu'au lendemain.
+    Le jour J, égoutter la morue et la détailler en morceaux.
+    La mettre à cuire dans une casserole d'eau froide puis amener à ébullition. Laisser frémir 5 minutes puis égoutter et émietter la chair.
+    Dans 2 casseroles séparées, faire tiédir le lait et l’huile.
+    Mettre les pommes de terre à cuire 15 à 20 minutes dans l’eau bouillante.
+    Ecraser la morue en lui incorporant progressivement et alternativement l'huil et le lait jusqu'à obtention d'une masse blanche et crémeuse.
+    Incorporer alors le jus de citron puis l'ail et la pomme de terre réduits en purée.
+    Préchauffer le gril du four.
+    Disposer la préparation dans un plat à four huilé puis enfourner pour 15 minutes de cuisson jusqu'à ce que le dessus soit bien doré.
+  ]]>
+  </preparation>
+</recette>

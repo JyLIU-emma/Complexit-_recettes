@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16388">
+  <titre>Foie de lotte en terrine</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 foie de lotte</p>
+    <p>huile d'olive</p>
+    <p>1 court-bouillon</p>
+    <p>1 citron</p>
+    <p>aneth</p>
+    <p>sel</p>
+    <p>poivre noir entier</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Plongez le foie de lotte dans le court-bouillon bouillant. Laissez cuire pendant 7 à 10mn. Sortez le foie et laissez le refroidir.
+    Frottez le foie avec du sel fin, placez-le dans
+    une terrine, ajoutez l'aneth, le citron coupé en rondelles et le poivre. Terminez en couvrant le foie d'huile d'olive.Réservez au froid.
+    Servez avec des toasts pour l'apéritif ou en entrée.
+  ]]>
+  </preparation>
+</recette>

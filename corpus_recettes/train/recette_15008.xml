@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15008">
+  <titre>Croque-Monsieur à la niçoise</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 ou 4 tranches de pain de mie (selon que vous faites cette recette en entrée ou en plat principal)</p>
+    <p>tomates</p>
+    <p>anchois</p>
+    <p>câpres</p>
+    <p>fromage de chêvre (bûchette)</p>
+    <p>huile d'olive</p>
+    <p>gruyère</p>
+    <p>olives vertes et noires</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Disposer sur une plaque allant au four les tranches de mie de pain.
+    Bien recouvrir chaque tranche de : une rondelle de tomate, une rondelle de fromage de chêvre, 1 ou 2 anchois, du gruyère râpé, des câpres et quelques olives.
+    Saler, poivrer, et ajouter un léger filet d'huile d'olive.
+    Enfourner à four chaud et faire dorer sous le grill environ 5 minutes, en surveillant attentivement?
+    Le chêvre doit avoir fondu et le gruyère grillé.
+    Servir chaud nature ou accompagné d'une salade verte ou/et de tomates cerises.
+    Très facile à réaliser, ça change du jambon/gruyère! Dites moi ce que vous en pensez...
+  ]]>
+  </preparation>
+</recette>

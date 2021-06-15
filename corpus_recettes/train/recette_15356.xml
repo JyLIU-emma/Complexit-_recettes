@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15356">
+  <titre>Jambon sauce aurore</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 tranche de jambon blanc par personne </p>
+    <p>quelques champignons de paris </p>
+    <p>1 gros pot de crème fraîche </p>
+    <p>1 petite boîte de concentré de tomate</p>
+    <p>gruyère râpé</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez votre four à 180°C pendant 15 mn. Dans un plat beurré allant au four, roulez les tranches de jambon. Lavez les champignons, ôtez les pieds et émincez les têtes en fines lamelles. Ajoutez-les dans le plat.
+    Dans un petit saladier, mélangez la crème et le concentré de tomate. Salez et poivrez.
+    Ajoutez la sauce dans le plat et parsemez de gruyère râpé (à volonté pour les gourmands!!!).
+    Enfournez et laissez cuire environ 20 mn.
+    Idéal avec un riz basmati.
+  ]]>
+  </preparation>
+</recette>

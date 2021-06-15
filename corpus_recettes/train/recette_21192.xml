@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21192">
+  <titre>Toasts aux oeufs pochés</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>4 tranches de pain rassis</p>
+    <p>1 oignon</p>
+    <p>50 g de beurre</p>
+    <p>25 g de farine</p>
+    <p>30 cl de lait</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>1 cuillère à café de curry</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites fondre 30 g de beurre, jetez-y l'oignon émincé et laissez-le suer. Saupoudrez de curry et de farine. Laissez roussir en remuant. Ajoutez peu à peu le lait en remuant, laissez épaissir à feu doux. Incorporez la crème en fouettant.
+    Réservez au chaud.
+    Faites dorer les tranches de pain dans une poêle avec le beurre restant.
+    Pochez les oeufs 3 min dans une casserole d'eau frémissante vinaigrée, égouttez-les soigneusement et déposez-les sur les tranches de pain. Nappez de sauce et servez.
+  ]]>
+  </preparation>
+</recette>

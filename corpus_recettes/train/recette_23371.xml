@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23371">
+  <titre>Terrine de saumon simplissime</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 boîtes de saumon émietté</p>
+    <p>1 boîte de champignons de Paris</p>
+    <p>10 cornichons en rondelles</p>
+    <p>1 pot de crème fraîche (20 cl) </p>
+    <p>1 cuillère à café rase de moutarde</p>
+    <p>125 g de gruyère râpé</p>
+    <p>3 oeufs battus en omelette</p>
+    <p>1 petite boîte de lait concentré non sucré</p>
+    <p>1 cuillère à soupe de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger tous les ingrédients. Saler et poivrer. Mettre la terrine dans un moule à cake beurré. 
+    Cuire au bain-marie 3/4 h. 
+    Vérifier la cuisson avec la pointe d'un couteau. 
+    Servir avec une mayonnaise aux herbes ou un aïoli.
+    Délicieux et ultra-simple !
+  ]]>
+  </preparation>
+</recette>

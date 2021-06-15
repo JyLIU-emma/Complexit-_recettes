@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164984">
+  <titre>Francesinha a torgueda</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la sauce :</p>
+    <p>50 cl de bière</p>
+    <p>4 cuillères à soupe de beurre</p>
+    <p>1 bouillon de volaille</p>
+    <p>1/2 verre de whisky</p>
+    <p>570 g de ketchup</p>
+    <p>piri piri </p>
+    <p>1 tasse de lait </p>
+    <p>maïzena</p>
+    <p> </p>
+    <p>Pour le "sandwich" :</p>
+    <p>8 tranches de pain de mie épaisses</p>
+    <p>4 tranches de boeuf cuit</p>
+    <p>4 tranches de jambon</p>
+    <p>8 tranches de fromages </p>
+    <p>4 rondelles de chorizo</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour faire la sauce:
+    Dans une casserole mettre tous les ingredients sauf le lait et la maisena melanger et porter a ebulition a feu doux. Mettre le lait et laisser bouillir encore une fois mais a feu vif. Si la sauce est trop liquide diluer un peu de maisena dans peu d' eau et verser au reste de la sauce puis mélanger. Laisser bouillir une dernière fois.
+     
+    Pour faire le sandwich:
+    1 tranche de pain de mie, 1 tranche de fromage, le bife, 1 tranche de jambon, 1 tranche de pain de mie et pour finir 1 tranche de fromage.
+     
+    Mettre quelques secondes au micro-onde et verser la sauce par dessus. Pour finaliser disposer 1 rondelle de chorizo.Pour accompagner la Francesinha a Torgueda des frites sont le meilleur choix. Pas de vin mais "um fino", un mélange de bière et de 7up.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Pour <INGRED id="10">faire</INGRED> la <INGRED id="4">sauce</INGRED> : Dans une casserole <OPER id="o_1">mettre</OPER> tous les ingredients sauf le <INGRED id="5">lait</INGRED> et la maisena <OPER id="o_2">melanger</OPER> et <OPER id="o_3">porter</OPER> a ebulition a feu doux. <OPER id="o_4">Mettre</OPER> le <INGRED id="8">lait</INGRED> et <INGRED id="12">laisser</INGRED> <OPER id="o_5">bouillir</OPER> encore une fois mais a feu vif. Si la <INGRED id="6">sauce</INGRED> est trop liquide <OPER id="o_6">diluer</OPER> un peu de maisena dans peu d '<INGRED id="8">eau</INGRED> et <OPER id="o_7">verser</OPER> au <INGRED id="1">reste</INGRED> de la <INGRED id="4">sauce</INGRED> puis <OPER id="o_8">mélanger</OPER>. Laisser <OPER id="o_9">bouillir</OPER> une dernière fois. Pour <INGRED id="10">faire</INGRED> le sandwich : 1 tranche de <INGRED id="5">pain</INGRED> de mie, 1 tranche de fromage, le bife, 1 tranche de jambon, 1 tranche de <INGRED id="1">pain</INGRED> de mie et pour finir 1 tranche de fromage. <OPER id="o_10">Mettre</OPER> quelques secondes au micro-onde et <OPER id="o_11">verser</OPER> la <INGRED id="6">sauce</INGRED> par dessus. Pour finaliser <OPER id="o_12">disposer</OPER> 1 rondelle de chorizo. Pour accompagner la Francesinha a Torgueda des frites sont le meilleur choix. Pas de <INGRED id="6">vin</INGRED> mais " um fino ", un <INGRED id="2">mélange</INGRED> de <INGRED id="6">bière</INGRED> et de 7up.
+  </annotation>
+  <annotation methode="crf">
+  Pour faire la <INGRED>sauce</INGRED> <INGRED>:</INGRED> Dans une casserole mettre tous les ingredients sauf le <INGRED>lait</INGRED> et la <INGRED>maisena</INGRED> melanger et porter <INGRED>a</INGRED> ebulition <INGRED>a</INGRED> feu doux. Mettre le <INGRED>lait</INGRED> et laisser bouillir encore une fois mais <INGRED>a</INGRED> feu vif. Si la <INGRED>sauce</INGRED> est trop liquide diluer un peu de <INGRED>maisena</INGRED> dans peu d '<INGRED>eau</INGRED> et verser au <INGRED>reste</INGRED> de la <INGRED>sauce</INGRED> puis mélanger. Laisser bouillir une dernière fois. Pour faire le sandwich <INGRED>:</INGRED> 1 tranche de <INGRED>pain de mie</INGRED> <INGRED>,</INGRED> 1 tranche de <INGRED>fromage</INGRED> <INGRED>,</INGRED> le bife <INGRED>,</INGRED> 1 tranche de <INGRED>jambon</INGRED> <INGRED>,</INGRED> 1 tranche de <INGRED>pain de mie</INGRED> et pour finir 1 tranche de <INGRED>fromage</INGRED> <INGRED>.</INGRED> Mettre quelques secondes au micro-onde et verser la <INGRED>sauce</INGRED> par dessus. Pour finaliser disposer 1 rondelle de chorizo <INGRED>.</INGRED> Pour accompagner la Francesinha <INGRED>a</INGRED> Torgueda des <INGRED>frites</INGRED> sont le meilleur choix <INGRED>.</INGRED> Pas de <INGRED>vin</INGRED> mais " um fino " <INGRED>,</INGRED> un <INGRED>mélange</INGRED> de <INGRED>bière</INGRED> et de 7up.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 10.4615384615385*X + 1.53846153846154</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 34*X + 12</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['bière']	 id:1	 quantité:50	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:2	 quantité:4	 unité:cuillères à soupe de	 denombrable:True	 recipient:4*X
+ingredient:['bouillon de volaille', 'bouillon']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['whisky']	 id:4	 quantité:1/2	 unité:verre de	 denombrable:False	 recipient:1
+ingredient:['ketchup']	 id:5	 quantité:570	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['piri piri', 'piri']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:7	 quantité:1	 unité:tasse de	 denombrable:True	 recipient:1*X
+ingredient:['maïzena']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['pain de mie épaisses', 'pain']	 id:9	 quantité:8	 unité:tranches de	 denombrable:True	 recipient:8*X
+ingredient:['boeuf cuit', 'boeuf']	 id:10	 quantité:4	 unité:tranches de	 denombrable:True	 recipient:4*X
+ingredient:['jambon']	 id:11	 quantité:4	 unité:tranches de	 denombrable:True	 recipient:4*X
+ingredient:['fromages']	 id:12	 quantité:8	 unité:tranches de	 denombrable:True	 recipient:8*X
+ingredient:['chorizo']	 id:13	 quantité:4	 unité:rondelles de	 denombrable:True	 recipient:4*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mettre	 id:o_1	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:melanger	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:porter	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_4	 ingrédients_ralatifs:['8', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:bouillir	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:diluer	 id:o_6	 ingrédients_ralatifs:['8', '1', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_7	 ingrédients_ralatifs:['1', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:bouillir	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mettre	 id:o_10	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:verser	 id:o_11	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

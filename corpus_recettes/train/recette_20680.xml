@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20680">
+  <titre>Gratin d'épinards et carottes aux oignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g d’épinards</p>
+    <p>500 g de carottes</p>
+    <p>10 oignons blancs</p>
+    <p>6 gousses d’ail</p>
+    <p>3 brins d’estragon</p>
+    <p>20 g de beurre</p>
+    <p>1 cuillère à café de moutarde</p>
+    <p>10 cl de crème fraîche</p>
+    <p>50 g de gruyère râpé</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et détailler les oignons et les carottes en rondelles.
+    Les faire cuire au cuit-vapeur ainsi que les épinards pendant 10 min.
+    Préparer la sauce :
+    Dans une casserole, faire fondre le beurre avec la moutarde délayée dans la crème fraiche. Saler, poivrer.
+    Dans un plat à gratin, disposer les épinards au fond, les recouvrir de carottes aux oignons, puis napper de sauce.
+    Saupoudrer le dessus de gruyère râpé puis faire gratiner 10 min sur le grill.
+  ]]>
+  </preparation>
+</recette>

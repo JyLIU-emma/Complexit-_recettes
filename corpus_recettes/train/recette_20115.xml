@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20115">
+  <titre>Endives gratinées au poisson</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g d'endives</p>
+    <p>30 g de beurre</p>
+    <p>le jus d'1/2 citron</p>
+    <p>15 cl d'eau</p>
+    <p>250 g de filets de poisson à chair blanche</p>
+    <p>25 cl de court-bouillon</p>
+    <p>sel, poivre</p>
+    <p>Pour la sauce :</p>
+    <p>30 g de beurre</p>
+    <p>20 g de farine</p>
+    <p>20 cl de lait</p>
+    <p>noix de muscade</p>
+    <p>50 g de fromage râpé</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Nettoyer les endives sous l'eau froide, puis les déposer dans une casserole beurrée et chaude. Saler, poivrer, puis arroser du jus d'1/2 citron. Laisser cuire 30 min à couvert sur feu doux.
+    Pendant ce temps, faire pocher les filets de poisson pendant 10 min dans le court-bouillon en ébullition. Les égoutter et les réserver au chaud.
+    Préparer ensuite un roux blanc en mélangeant le beurre avec la farine, puis mouiller de lait et laisser épaissir sur feu doux sans cesser de remuer. Saler, poivrer puis ajouter le fromage et mélanger l'ensemble.
+    Tapisser le fond d'un moule à gratin avec les filets de poisson émiettés, puis les recouvrir d’endives.
+    Napper de sauce puis enfourner 15 min à 240°C (thermostat 8) pour faire gratiner.
+  ]]>
+  </preparation>
+</recette>

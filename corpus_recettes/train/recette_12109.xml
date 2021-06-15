@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12109">
+  <titre>Lasagnes aux poireaux</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>10 feuilles de lasagnes fraîches</p>
+    <p>500 g de ricotta</p>
+    <p>800 g de poireaux</p>
+    <p>40 g de parmesan</p>
+    <p>2 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer les poireaux et les faire revenir avec de l'huile d'olive.
+    Pendant ce temps, mélanger la ricotta, les 2 oeufs, sel, poivre et muscade.
+    Faire bouillir une grande casserole d'eau salée, et y tremper 3 mn les feuilles de pâtes fraiches. Les égoutter sur un linge pour qu'elles perdent leur eau.
+    Ajouter au mélange ricotta-oeufs les poireaux fondus et égouttés, bien mélanger.
+    Disposer dans un plat à gratin successivement : une couche de pâtes, une couche de mélange aux poireaux, saupoudrer de parmesan, puis pâtes... Terminer par une couche de pâtes, du parmesan et quelques gouttes d'huile d'olive.
+    Faire cuire 45 mn à four moyen-chaud (thermostat 6-7/200°C).
+    On pourrait ajouter selon la fantaisie, des lardons, et remplacer les poireaux par des courgettes, des champignons...
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21100">
+  <titre>Le tôt fait</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 jaunes d'oeuf</p>
+    <p>150 g de sucre</p>
+    <p>80 g de farine</p>
+    <p>1/4 l de lait</p>
+    <p>1 zeste de citron</p>
+    <p>3 blancs d'oeuf en neige</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une terrine, mélanger les trois jaunes d'oeufs, les 150 g de sucre, les 80 g de farine avec le 1/4 de litre de lait. 
+    Y ajouter le zeste de citron. 
+    Battez les oeufs en neige. 
+    Les incorporer délicatement au reste de la préparation. Beurrer un moule à manquer. 
+    Mettez-y la préparation ainsi obtenue.
+     
+    Mettez le tout au four thermostat 6 pendant 3/4 d'heure
+  ]]>
+  </preparation>
+</recette>

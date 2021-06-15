@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11025">
+  <titre>Croustillant cerises-chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de cerises dénoyautées (fraîches ou en conserves)</p>
+    <p>3 gouttes d'amande amère</p>
+    <p>300 g de carrés frais</p>
+    <p>70 g de sucre</p>
+    <p>2 oeufs</p>
+    <p>80 g de chocolat</p>
+    <p>1 rouleau de pâte brisée ou sablée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Poser la pâte dans un plat à tarte en marquant bien les angles.
+    Travailler les carrés frais à la fourchette pour les assouplir puis ajouter les oeufs, l'amande amère et le sucre. 
+    Concasser au robot le chocolat puis ajouter les morceaux obtenus à la crème. Etaler sur la pâte. 
+    Répartir les cerises et les enfoncer légèrement sur la crème aux pépites.
+    Enfourner dans le four préchauffé à 180°C (thermostat 6) et faire cuire 30 min.
+    Déguster tiède (le chocolat est fondant) ou froid (le chocolat est croquant)
+  ]]>
+  </preparation>
+</recette>

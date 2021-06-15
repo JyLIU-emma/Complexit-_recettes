@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24278">
+  <titre>Pizza aux légumes facile</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte à pizza</p>
+    <p>1 bulbe de fenouil</p>
+    <p>1 gros artichaut</p>
+    <p>2 oignons blancs</p>
+    <p>1 poignée de pignons de pin</p>
+    <p>1 poignée de raisins secs</p>
+    <p>parmesan ou chèvre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer les oignons et le bulbe de fenouil. Oter les feuilles et le foin de l'artichaut, enlever les filaments dur, rincer le coeur dans de l'eau citronnée puis le couper en lamelles. 
+    Faire revenir à feu doux, dans un peu d'huile d'olive, le fenouil, l'artichaut et les oignons, jusqu'à ce qu'ils soient translucides. 
+    Entre-temps, étaler 6 ronds de pâte à pizza (environ 10 cm de diam., mais on peut en faire une seule) sur une plaque. Répartir les légumes sur les petites pizzas, ajouter quelques pignons et raisins secs, ainsi que quelques copeaux de fromage. 
+    Cuire environ 12 mn à 180°C. 
+    Servir chaud.
+  ]]>
+  </preparation>
+</recette>

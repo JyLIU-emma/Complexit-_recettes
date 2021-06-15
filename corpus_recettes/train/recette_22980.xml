@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22980">
+  <titre>Fondue au fromage de Comté</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>900 g de Comté</p>
+    <p>50 cl de bon vin blanc sec (Côtes du Jura de préférence)</p>
+    <p>4 cl de kirsch</p>
+    <p>1 gousse d'ail écrasée</p>
+    <p>1 cuillère à soupe de maïzena</p>
+    <p>pain rassis à volonté</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Frotter la gousse d'ail sur les parois et le fond de la cocotte ou de l'appareil à fondue.
+    Détailler le fromage en petits dés et le mettre à fondre dans la cocotte avec 30 cl de vin blanc. Remuer constamment jusqu'à ce que le mélange soit bien homogène.
+    Rajouter du vin si nécessaire.
+    Mélanger le kirsch et la maïzena puis verser dans le fromage. Remuer et placer à table sur un réchaud.
+    Servir avec le pain coupé en morceaux. Les convives piquent un morceau de pain sur une fourchette et le trempent dans le fromage fondu.
+  ]]>
+  </preparation>
+</recette>

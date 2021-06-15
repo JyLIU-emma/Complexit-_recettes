@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10906">
+  <titre>Risotto poulet, saucisse, chorizo</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 blancs de poulet</p>
+    <p>4 saucisses aux herbes</p>
+    <p>4 saucisses natures</p>
+    <p>1/2 chorizo</p>
+    <p>2 oignons émincés</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>500 g de de riz sauvage</p>
+    <p>1 cuillère à café de curry</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites revenir les blancs de poulet, saucisses aux herbes et nature, chorizo dans une poêle.
+    Lorsqu'ils sont tous dorés, coupez-les en morceaux.
+    Dans une cocotte, versez l'huile d'olive et faite revenir les 2 oignons
+    Ajoutez ensuite le mélange (poulet, saucisses, chorizo) dans la cocotte.
+    Ajouter le riz, 75 cl d'eau, le curry, du sel et du poivre.
+    Fermer la cocotte et compter ensuite 6 minutes de cuisson lorsque la toupie commence à tourner.
+  ]]>
+  </preparation>
+</recette>

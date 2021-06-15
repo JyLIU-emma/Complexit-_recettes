@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26652">
+  <titre>Moules au curry</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 litres de moules</p>
+    <p>1 grosse cuillère à soupe de curry en poudre</p>
+    <p>1 verre d vin blanc</p>
+    <p>10 cl de crème fraîche</p>
+    <p>50 g de beurre</p>
+    <p>1 échalote</p>
+    <p>du persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre et y faire rissoler l'échalote hachée finement. 
+    Ajouter le vin et cuire 2 mn. 
+    Trier, rincer les moules. Les jeter dans la casserole, couvrir et laisser cuire 5 mn après le début de l'ébullition. 
+    Egoutter les moules, filtrer le jus puis mélanger ce dernier avec la crème fraîche et le curry. 
+    Laisser réduire de moitié. 
+    Verser les moules et servir aussitôt.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25705">
+  <titre>Fricassée de poulet pour tous les jours</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poulet découpé en morceaux</p>
+    <p>3 tomates pelées, épépinées (ou 1 boîte de concassé de tomates)</p>
+    <p>10 cl de vin blanc</p>
+    <p>10 cl de crème fraîche</p>
+    <p>1 oignon</p>
+    <p>1/2 cuillère à café de paprika</p>
+    <p>30 g de beurre</p>
+    <p>farine</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Salez et poivrez les morceaux de poulet, farinez-les.
+    Faites-les revenir avec l'oignon haché dans le beurre chaud, dans une cocotte.
+    Laissez dorer le tout et saupoudrez de paprika.
+    Versez le vin blanc et ajoutez les tomates grossièrement hachées. 
+    Laissez mijoter 30 min environ.
+    Retirez le poulet de la cocotte, délayez la crème dans la sauce et réchauffez quelques minutes.
+    Nappez le poulet de sauce et servez avec du riz blanc tout simplement, ou des pommes de terre râpées grillées.
+  ]]>
+  </preparation>
+</recette>

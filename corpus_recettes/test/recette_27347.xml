@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27347">
+  <titre>Veau crémeux aux champignons et au Chablis</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1,2 kg de noix de veau</p>
+    <p>2 oignons</p>
+    <p>22 cl de Chablis</p>
+    <p>30 cl de crème fraîche</p>
+    <p>300 g de champignons de Paris</p>
+    <p>75 g de beurre</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer finement la viande puis la faire sauter dans le mélange beurre et huile.
+    Lorsque la viande est dorée, la retirer de la poêle et la remplacer par les oignons émicés et les champignons émincés. Saler, poivrer et laisser cuire jusqu'à ce que toute l'eau de végétation soit évaporée.
+    Verser le vin, laisser cuire 10 minutes puis ajouter la crème. Laisser cuire 5 minutes puis ajouter la viande.
+    Poursuivre la cuisson 5 minutes et servir.
+  ]]>
+  </preparation>
+</recette>

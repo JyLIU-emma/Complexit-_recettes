@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="8921">
+  <titre>Croquettes de riz</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1  grand bol de riz déjà cuit (reste de la veille)</p>
+    <p>2 grands carrés frais (version familiale)</p>
+    <p>2 oeufs</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>sel et poivre</p>
+    <p>huile pour la cuisson</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger tous les ingrédients, former des petites galettes et faire frire à la poêle!
+    Déguster avec une salade verte et une tranche de jambon.
+  ]]>
+  </preparation>
+</recette>

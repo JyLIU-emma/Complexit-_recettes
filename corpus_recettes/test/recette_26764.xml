@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26764">
+  <titre>Pudding au pain d'épices, oranges et raisins secs</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de pain d'épices</p>
+    <p>50 cl de lait</p>
+    <p>3 oeufs</p>
+    <p>300 g de raisins secs</p>
+    <p>10 cl de rhum</p>
+    <p>2 oranges non traitées</p>
+    <p>40 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettez les raisins dans le rhum et laissez macérer au moins 3 h.
+    Tranchez le pain d'épices régulièrement.
+    Faites chauffer le lait, laissez tiédir.
+    Battez les oeufs en omelette, versez le lait dessus et fouettez.
+    Râpez le zeste des oranges.
+    Dans un moule beurré, disposez une poignée de raisins égouttés. 
+    Passez les tranches de pain d'épices dans le lait aux oeufs et recouvrez tout le fond avec.
+    Alternez ensuite raisins, zeste d'orange râpé et couches de pain d'épices.
+    Versez le reste de crème aux oeufs et faites 1 h au four à 180°C (thermostat 6).
+    Servir tiède ou bien froid.
+    Accompagnez de crème anglaise ou coulis de fruits, ou encore de glace à la vanille.
+  ]]>
+  </preparation>
+</recette>

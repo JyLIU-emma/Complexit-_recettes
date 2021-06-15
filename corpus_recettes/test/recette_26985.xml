@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26985">
+  <titre>Côtes de porc au four aux pommes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 côtes de porc</p>
+    <p>4 pommes acidulées type Granny Smith</p>
+    <p>2 pincée de cannelle en poudre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Salez et poivrez les côtes de porc. Les faire dorer dans une poêle dans le beurre fondue.
+    Epluchez et coupez les pommes en lamelles, disposez-les dans un plat à four beurré.
+    Poivrez, saupoudrez de cannelle et disposez les côtes de porc dessus en arrosant les pommes de leur jus.
+    Enfournez en couvrant d'aluminium au four à 200°C (thermostat 6-7), jusqu'à ce que la viande soit cuite et les pommes fondantes (environ 15 min).
+  ]]>
+  </preparation>
+</recette>

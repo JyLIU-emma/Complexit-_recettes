@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27166">
+  <titre>Velouté de champignons à la crème</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de champignons de Paris </p>
+    <p>1,5 l d’eau ou de bouillon</p>
+    <p>40 g de crème de riz</p>
+    <p>20 g de beurre</p>
+    <p>1 jaune d’oeuf</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>persil haché</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver, émincer les champignons et mettre à cuire les 3/4 de la quantité 45 min dans l’eau bouillante salée. Les égoutter et les mixer.
+    Faire revenir le 1/4 des champignons restant dans le beurre, puis les incorporer à la purée de champignons. Ajouter la crème de riz délayée dans un peu d’eau froide et laisser mijoter 5 min à feu doux.
+    Battre le jaune d'oeuf dans la soupière, puis verser la préparation dessus avec la crème fraîche.
+    Rectifier l’assaisonnement puis saupoudrer de persil haché.
+  ]]>
+  </preparation>
+</recette>

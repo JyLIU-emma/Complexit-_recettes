@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17318">
+  <titre>BOEUF DIANE</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de paleron de boeuf</p>
+    <p>1 cuillère à soupe d'huile d'olive</p>
+    <p>4 gousses d'ail écrasées</p>
+    <p>1 oignon haché</p>
+    <p>1 boîte de tomates pelées</p>
+    <p>125 ml d'eau</p>
+    <p>2 cubes de bouillon de boeuf</p>
+    <p>2 cuillères à soupe de sauce Worcestershire</p>
+    <p>125 ml de crème</p>
+    <p>2 cuillères à soupe de persil haché</p>
+    <p>1 cuillère à soupe de Cognac</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Coupez la viande en cubes. Faites chauffer l'huile dans une sauteuse et ajoutez la viande, en plusieurs fois si nécessaire, pour qu'elle soit dorée de toutes parts. Ajoutez l'ail et l'oignon, laissez fondre sans cesser de remuer. 
+    2) Ajoutez les tomates écrasées avec leur jus, l'eau, les cubes de bouillon émiettés, la sauce Worcestershire et le Cognac. Laissez mijoter à couvert pendant 1h30 . 
+    3) Ajoutez la crème et le persil et laissez mijoter à découvert jusqu'à ce que la sauce ait épaissi. Servez avec des pâtes.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172965">
+  <titre>Brick paysanne jambon pommes de terre</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 feuilles de brick</p>
+    <p>1kg de pommes de terre surgelées en carré</p>
+    <p>4 tranches de jambon blanc</p>
+    <p>1 oignon</p>
+    <p>1 cuillère à soupe de persil</p>
+    <p>4 oeufs</p>
+    <p>150 g de gruyère râpé</p>
+    <p>Sel et poivre</p>
+    <p>huile d'olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer l'oignon. Hacher le persil. Couper le jambon en petits dés.
+    Faire dorer les pommes de terre à l'huile d'olive.
+    A mi-cuisson ajouter les oignons. Saler, poivrer.
+    En fin de cuisson, ajouter les dés de jambon et le persil.
+    Retirer du feu et garder au chaud.
+    Faire chauffer une poêle antiadhésive avec un peu d'huile d'olive et, dans le même temps, poser sur une grande assiette la feuille de brick, mettre au milieu de la feuille une portion de pommes de terre, casser un oeuf au milieu, ajouter du fromage râpé, replier la feuille comme un chausson aux pommes.
+    Faire glisser la feuille de brick délicatement dans la poêle bien chaude.
+    Laisser rôtir 2 minutes, puis retourner.
+    Avant de faire la brick suivante, essuyer l'assiette avec de l'essuie-tout ou prendre une autre assiette.Accompagner d'une salade au vinaigre balsamique.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Emincer</OPER> l'<INGRED id="1">oignon</INGRED>. <OPER id="o_2">Hacher</OPER> le persil. <OPER id="o_3">Couper</OPER> le <INGRED id="1">jambon</INGRED> en <INGRED id="3">petits</INGRED> <INGRED id="4">dés</INGRED>. Faire <OPER id="o_4">dorer</OPER> les <INGRED id="2">pommes de terre</INGRED> à l'<INGRED id="8">huile d'olive</INGRED>. A mi-cuisson <OPER id="o_5">ajouter</OPER> les oignons. <OPER id="o_6">Saler</OPER>, <OPER id="o_7">poivrer</OPER>. En fin de cuisson, <OPER id="o_8">ajouter</OPER> les <INGRED id="3">dés de jambon</INGRED> et le <INGRED id="5">persil</INGRED>. <OPER id="o_9">Retirer</OPER> du feu et <OPER id="o_10">garder</OPER> au chaud. Faire <OPER id="o_11">chauffer</OPER> une poêle antiadhésive avec un <INGRED id="10">peu</INGRED> d'huile d'olive et, dans le même temps, <OPER id="o_12">poser</OPER> sur une grande assiette la feuille de <INGRED id="2">brick</INGRED>, <OPER id="o_13">mettre</OPER> au milieu de la feuille une portion de <INGRED id="5">pommes de terre</INGRED>, <OPER id="o_14">casser</OPER> un <INGRED id="8">oeuf</INGRED> au milieu, <OPER id="o_15">ajouter</OPER> du <INGRED id="4">fromage râpé</INGRED>, <OPER id="o_16">replier</OPER> la feuille comme un chausson aux <INGRED id="1">pommes</INGRED>. Faire <OPER id="o_17">glisser</OPER> la feuille de <INGRED id="1">brick</INGRED> délicatement dans la poêle bien chaude. Laisser <OPER id="o_18">rôtir</OPER> 2 minutes, puis <OPER id="o_19">retourner</OPER>. Avant de faire la <INGRED id="2">brick</INGRED> suivante, <OPER id="o_20">essuyer</OPER> l'assiette avec de l'essuie - tout ou prendre une autre assiette. Accompagner d'une salade au <INGRED id="4">vinaigre balsamique</INGRED>.
+  </annotation>
+  <annotation methode="crf">
+  Emincer l'<INGRED>oignon</INGRED>. Hacher le <INGRED>persil</INGRED> <INGRED>.</INGRED> Couper le <INGRED>jambon</INGRED> en <INGRED>petits</INGRED> dés <INGRED>.</INGRED> Faire dorer les <INGRED>pommes de terre</INGRED> à l'<INGRED>huile d'olive</INGRED> <INGRED>.</INGRED> A mi-cuisson ajouter les <INGRED>oignons</INGRED>. Saler <INGRED>,</INGRED> poivrer. En fin de cuisson <INGRED>,</INGRED> ajouter les dés de <INGRED>jambon</INGRED> et le <INGRED>persil</INGRED> <INGRED>.</INGRED> Retirer du feu et garder au chaud <INGRED>.</INGRED> Faire chauffer une poêle antiadhésive avec un peu d'<INGRED>huile d'olive</INGRED> et <INGRED>,</INGRED> dans le même temps <INGRED>,</INGRED> poser sur une grande assiette la feuille de <INGRED>brick</INGRED> <INGRED>,</INGRED> mettre au milieu de la feuille une portion de <INGRED>pommes de terre</INGRED> <INGRED>,</INGRED> casser un <INGRED>oeuf</INGRED> au milieu <INGRED>,</INGRED> ajouter du <INGRED>fromage</INGRED> râpé <INGRED>,</INGRED> replier la feuille comme un chausson aux <INGRED>pommes</INGRED> <INGRED>.</INGRED> Faire glisser la feuille de brick délicatement dans la poêle bien chaude <INGRED>.</INGRED> Laisser rôtir 2 minutes <INGRED>,</INGRED> puis retourner <INGRED>.</INGRED> Avant de faire la brick suivante <INGRED>,</INGRED> essuyer l'assiette avec de l'essuie - tout <INGRED>ou</INGRED> prendre une autre assiette <INGRED>.</INGRED> Accompagner d'une salade au <INGRED>vinaigre balsamique</INGRED> <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 21.3684210526316*X + 7.63157894736842</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 14*X + 11</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['brick']	 id:1	 quantité:4	 unité:feuilles de	 denombrable:True	 recipient:4*X
+ingredient:['pommes de terre surgelées en carré', 'pommes']	 id:2	 quantité:1	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['jambon blanc', 'jambon']	 id:3	 quantité:4	 unité:tranches de	 denombrable:True	 recipient:4*X
+ingredient:['oignon']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['persil']	 id:5	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['oeufs']	 id:6	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['gruyère râpé', 'gruyère']	 id:7	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['Sel']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["huile d'olive", 'huile']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:emincer	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:4*X*1	 recipient:1
+operation:hacher	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5*X	 recipient:1
+operation:couper	 id:o_3	 ingrédients_ralatifs:['1', '3', '4']	 nombre_opération_atomique:4*X+4*X+1*X	 temps:4*X*1+4*X*1+1*X*1	 recipient:1
+operation:dorer	 id:o_4	 ingrédients_ralatifs:['2', '8']	 nombre_opération_atomique:1+1	 temps:1*X*1+1*X*1	 recipient:0
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['3', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garder	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_11	 ingrédients_ralatifs:['10', '2', '5', '8', '4', '1']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:poser	 id:o_12	 ingrédients_ralatifs:['2', '5', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_13	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:casser	 id:o_14	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_15	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:replier	 id:o_16	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:glisser	 id:o_17	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rôtir	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5*X	 recipient:1
+operation:retourner	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:essuyer	 id:o_20	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

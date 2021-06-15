@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25282">
+  <titre>Gâteau macaron au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour le macaron :</p>
+    <p>300 g de sucre</p>
+    <p>175 g de poudre d'amande</p>
+    <p>4 blancs d'oeufs</p>
+    <p>100 g de chocolat noir à fondre</p>
+    <p>Pour la chantilly au chocolat :</p>
+    <p>40 cl de crème liquide</p>
+    <p>120 g de chocolat à fondre</p>
+    <p>200 g de sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prévoir 2 moules à gâteau rond de 23 cm.
+    Préparation du macaron : 1) Fondre au bain-marie les 100 g de chocolat. 
+    2) Mélanger la poudre d'amande + le sucre + les blancs d'oeufs. 
+    3) Une fois le chocolat fondu, l'incorporer au reste de la préparation. 
+    4) Diviser cette pâte en 2 parties égales et répartir chaque partie dans un moule garni de papier sulfurisé. 
+    5) Placer au four à 180°C durant 15-20 mn chaque partie. Elles constitueront le dessus et le dessous du gâteau. 
+    6) Laisser refroidir. Préparation de la chantilly : 1) Fondre au bain-marie les 120 g de chocolat. 
+    2) Battre la crème préalablement refroidie en Chantilly. 
+    3) Ajoutez le sucre puis le chocolat refroidi, et mélanger. 
+    4) Placer au réfrigérateur.
+     
+    Une fois que le gâteau macaron et la chantilly sont bien froids ; il suffit de tartiner de chantilly une des 2 parties du macaron et de le recouvrir avec l'autre partie.Attention, ce dessert est riche en calories mais c'est un tel régal... Champagne
+  ]]>
+  </preparation>
+</recette>

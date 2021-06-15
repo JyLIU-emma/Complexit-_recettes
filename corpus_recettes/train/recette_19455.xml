@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19455">
+  <titre>Gâteau des îles</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pot de yaourt nature</p>
+    <p>1 pot et demi de sucre en poudre</p>
+    <p>2 pots et demi de farine</p>
+    <p>1 pot d'huile</p>
+    <p>3 oeufs</p>
+    <p>1 sachet de levure chimique</p>
+    <p>1 pincée de sel</p>
+    <p>3 bananes bien mûres</p>
+    <p>1 mangue</p>
+    <p>125 g de noix de coco râpée</p>
+    <p>2 cuillères à soupe de rhum</p>
+    <p>vanille liquide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prechauffez le four à 150°c ou Th 5 . Le pot de yaourt sert de doseur. Mettez dans un mixeur les bananes avec le rhum, la vanille, le sucre et le pot de yaourt. Mixer le tout. Ajouter la farine, la levure, le sel, les oeufs, l'huile et la noix de coco. Remixer le tout. 
+    Dans une casserole, faites un caramel avec du sucre et un peu d'eau. Versez-le dans un moule à gâteau assez profond. Epluchez la mangue et coupez-la en petits cubes que vous répartirez dans le moule caramélisé. Versez la pâte dessus et enfournez 30 mn. 
+    Au bout de ce temps montez le Th à 180°C et laissez finir la cuisson 30 mn de plus. Vérifier la cuisson en plongeant une lame de couteau. 
+    Démoulez et laissez refroidir, puis mettez au réfrigérateur. Servir trés frais.
+  ]]>
+  </preparation>
+</recette>

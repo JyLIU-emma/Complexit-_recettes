@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18406">
+  <titre>Carbonade flamande (Belgique)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 livres de boeuf à braiser</p>
+    <p>3 livres d'oignons hachés</p>
+    <p>8 grosses pommes de terre</p>
+    <p>1 canette de bière (type 'Trappiste') </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir la viande dans une poêle. 
+    Enlever la viande. 
+    Dans le même poêle, faire blondir les oignons, puis ajouter la bière. 
+    Mettre la viande, les oignons et la sauce dans une casserole épaisse. 
+    Placer les pommes de terre au sommet et laisser cuire, à feu doux, pendant 2 heures.
+     bière....
+  ]]>
+  </preparation>
+</recette>

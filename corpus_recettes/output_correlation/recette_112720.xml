@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="112720">
+  <titre>Boulettes de viande à l'italienne</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de viande hachée de boeuf</p>
+    <p>200 g de viande hachée de porc</p>
+    <p>2 cuillères à soupe de parmesan rapé</p>
+    <p>1 cuillère à café de piment doux en poudre</p>
+    <p>1 cuillère à café d'herbes de provence</p>
+    <p>1 oignon</p>
+    <p>pulpe de tomates</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre.</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez ensemble la viande hachée de boeuf et la viande hachée de porc et y incorporer le piment doux, le parmesan,la moitié de l'oignon haché, les herbes de provence et un peu de sel et poivre selon votre goût. Une fois le mélange bien uniforme formez des boulettes de la taille que vous souhaitez.
+    Faites revenir l'autre moitié d'oignon haché dans l'huile d'olive puis y faire cuire les boulettes pendant une dizaine de minutes et y ajouter la pulpe de tomates une fois les boulettes bien dorées. Préchauffer votre four à 180 degré, placer les boulettes avec la sauce tomate dans un plat à gratin et passer au four pendant 10 minutes.
+    Accompagner de spaghettis ou de riz selon vos envies!
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Mélangez</OPER> ensemble la <INGRED id="1">viande hachée de boeuf</INGRED> et la <INGRED id="2">viande hachée de porc</INGRED> et y <OPER id="o_2">incorporer</OPER> le <INGRED id="4">piment</INGRED> doux, le <INGRED id="3">parmesan</INGRED>, la moitié de l'<INGRED id="6">oignon</INGRED> haché, les <INGRED id="5">herbes de provence</INGRED> et un peu de <INGRED id="8">sel</INGRED> et <INGRED id="9">poivre</INGRED> selon votre goût. Une fois le mélange bien uniforme formez des boulettes de la taille que vous souhaitez. Faites <OPER id="o_3">revenir</OPER> l'autre moitié d'<INGRED id="5">oignon</INGRED> haché dans l'<INGRED id="7">huile d'olive</INGRED> puis y faire <OPER id="o_4">cuire</OPER> les boulettes pendant une dizaine de minutes et y <OPER id="o_5">ajouter</OPER> la <INGRED id="7">pulpe de tomates</INGRED> une fois les boulettes bien dorées. <OPER id="o_6">Préchauffer</OPER> votre four à 180 degré, <OPER id="o_7">placer</OPER> les boulettes avec la sauce <INGRED id="4">tomate</INGRED> dans un plat à gratin et <OPER id="o_8">passer</OPER> au four pendant 10 minutes. Accompagner de spaghettis ou de riz selon vos envies !
+  </annotation>
+  <annotation methode="crf">
+  Mélangez ensemble la <INGRED>viande</INGRED> hachée de <INGRED>boeuf</INGRED> et la <INGRED>viande</INGRED> hachée de <INGRED>porc</INGRED> et y incorporer le <INGRED>piment</INGRED> doux <INGRED>,</INGRED> le <INGRED>parmesan</INGRED> <INGRED>,</INGRED> la moitié de l'<INGRED>oignon haché</INGRED> <INGRED>,</INGRED> les <INGRED>herbes de provence</INGRED> et un peu de <INGRED>sel</INGRED> et <INGRED>poivre</INGRED> selon votre goût <INGRED>.</INGRED> Une fois le <INGRED>mélange</INGRED> bien uniforme formez des boulettes de la taille que vous souhaitez <INGRED>.</INGRED> Faites revenir l'autre moitié d'<INGRED>oignon haché</INGRED> dans l'<INGRED>huile d'olive</INGRED> puis y faire cuire les boulettes pendant une dizaine de minutes et y ajouter la pulpe de <INGRED>tomates</INGRED> une fois les boulettes bien dorées <INGRED>.</INGRED> Préchauffer votre four à 180 degré <INGRED>,</INGRED> placer les boulettes avec la <INGRED>sauce</INGRED> <INGRED>tomate</INGRED> dans un plat à gratin et passer au four pendant 10 minutes. Accompagner de spaghettis <INGRED>ou</INGRED> de riz selon vos envies !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 3.63636363636364*X + 4.36363636363636</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 5*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['viande hachée de boeuf', 'viande']	 id:1	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['viande hachée de porc', 'viande']	 id:2	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['parmesan rapé', 'parmesan']	 id:3	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['piment doux en poudre', 'piment']	 id:4	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+ingredient:['herbes de provence', 'herbes']	 id:5	 quantité:1	 unité:cuillère à café d'	 denombrable:True	 recipient:1*X
+ingredient:['oignon']	 id:6	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['pulpe de tomates', 'pulpe']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["huile d'olive", 'huile']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mélanger	 id:o_1	 ingrédients_ralatifs:['1', '2', '4', '3', '6', '5', '8', '9']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:incorporer	 id:o_2	 ingrédients_ralatifs:['4', '3', '6', '5', '8', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:revenir	 id:o_3	 ingrédients_ralatifs:['5', '7', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cuire	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préchauffer	 id:o_6	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:placer	 id:o_7	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:passer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+]]>
+</operation_trouve>
+</recette>

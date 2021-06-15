@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16336">
+  <titre>Ragoût d'artichauts farcis</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de boeuf haché</p>
+    <p>1 cuillère à soupe de riz cru</p>
+    <p>3 gousses d'ail haché</p>
+    <p>3 cuillères à soupe de persil haché</p>
+    <p>1 oeuf</p>
+    <p>1 cuillère à café d'huile</p>
+    <p>8 fonds d'artichaut (frais ou surgelés)</p>
+    <p>2 oignons</p>
+    <p>1 kg de petits pois frais</p>
+    <p>laurier, safran, sel, poivre</p>
+    <p>1 sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer une farce avec la viande hachée, le riz cru, l'ail, le persil, l'oeuf entier, l'huile, sel, poivre. Remplir les fonds d'artichaut de la farce.
+    Faire dorer les oignons émincés dans un peu d'huile, ajouter 3 verres d'eau, du safran, le laurier, sel, poivre.
+    Quand ça bout, poser les fonds, réduire le feu, laisser cuire 20 min.
+    Ajouter les petits pois, le sucre, puis laisser cuire 30 min.
+    Servir avec du riz au safran.
+  ]]>
+  </preparation>
+</recette>

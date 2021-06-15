@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27164">
+  <titre>Poulet rôti à l'ail</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet</p>
+    <p>le foie et le gésier du poulet</p>
+    <p>15 gousses d'ail</p>
+    <p>250 g de mie de pain rassis</p>
+    <p>10 cl d'huile d'olive</p>
+    <p>1 bouquet de persil</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hachez les gousses d'ail, le persil, le gésier, le foie et la mie de pain.
+    Mélangez ces éléments, assaisonnez et ajoutez un peu d'huile pour former une boule de pâte. En farcir le poulet.
+    Recousez le poulet et massez-le avec un peu d'huile.
+    Faites-le cuire au four à 180°C (thermostat 6) environ 1 h 15 min, en salant et poivrant l'extérieur à mi-cuisson.
+    Servez bien chaud.
+    Accompagnez ce poulet d'une poêle de pommes de terre aux cèpes ou de fricassée d'aubergines et poivrons.
+  ]]>
+  </preparation>
+</recette>

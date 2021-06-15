@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15961">
+  <titre>Gâteau express à la banane</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 cuillères à soupe de farine</p>
+    <p>5 cuillères à soupe de sucre</p>
+    <p>2 cuillères à soupe de lait</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>2 oeufs</p>
+    <p>1/2 sachet de levure (ou une cuillère à café rase)</p>
+    <p>250 de poudre d'amandes</p>
+    <p>2 bananes très mûres</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le sucre, la farine, la levure et 250g d'amandes en poudre. Ajouter les oeufs, l'huile et le lait.
+    Mixer les bananes avec 2 cuillères à soupe de lait et les ajouter au mélange.
+    Verser dans un moule a cake et laisser cuire 45 à 50 mn au four, à 180°C.
+    Variante : au lieu des amandes, incorporer des pépites de chocolats, pommes et amandes effilees, c'est très bon aussi!!
+  ]]>
+  </preparation>
+</recette>

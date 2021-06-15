@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26065">
+  <titre>Salade de riz aux brocolis et au céleri</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de riz</p>
+    <p>3 branches de céleri</p>
+    <p>600 g de brocolis</p>
+    <p>1 oignon</p>
+    <p>1/2 bouquet de persil</p>
+    <p>1 cuillère à soupe de moutarde</p>
+    <p>2 cuillères à soupe de vinaigre</p>
+    <p>5 cuillères à soupe d'huile</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire le riz et les brocolis.
+    Pendant ce temps, détailler le céleri en fines tranches, hacher le persil.
+    Préparer la vinaigrette à la moutarde et jouter le persil.
+    Egouttez le riz et les brocolis, laissez refroidir puis mélangez-les avec le céléri et la sauce.
+  ]]>
+  </preparation>
+</recette>

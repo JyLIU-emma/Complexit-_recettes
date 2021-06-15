@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="4199">
+  <titre>Apéro marin</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 Carrés Frais Gervais grand format</p>
+    <p>1 yaourt "Perle de lait" (ou 1/2 yaourt à la grec)</p>
+    <p>1 boîte de sardines aux piments (très important!)</p>
+    <p>2 tranches de saumon fumé</p>
+    <p>aneth</p>
+    <p>1 jus de citron</p>
+    <p>du bon pain</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ouvrir la boîte de sardines. Enlever l'arrête centrale des sardines.
+    Enlever les piments, et conserver l'huile de la boîte.
+    Ecraser les sardines, et les ajouter aux Carrés Frais écrasé. 
+    Selon les goûts et selon la boîte (certaines boîtes sont très pimentées, et d'autres moins), ajouter l'huile contenue dans la boîte.
+    Bien mélanger.
+    Hacher le saumon et l'aneth, et les mélanger aux Carrés frais écrasés. Ajouter le jus de citron et le yaourt.
+    Déguster à l'apéritif, avec du bon pain.
+    Je le sers souvent avec de la tapenade et un bon guewurstraminer!
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Ouvrir</OPER> la boîte de <INGRED id="3">sardines</INGRED>. <OPER id="o_2">Enlever</OPER> l'arrête centrale des <INGRED id="3">sardines</INGRED>. <OPER id="o_3">Enlever</OPER> les <INGRED id="1">piments</INGRED>, et conserver l'huile de la boîte. <OPER id="o_4">Ecraser</OPER> les <INGRED id="3">sardines</INGRED>, et les <OPER id="o_5">ajouter</OPER> aux <INGRED id="1">Carrés Frais</INGRED> écrasé. Selon les goûts et selon la boîte ( certaines boîtes sont très pimentées, et d'autres moins ), <OPER id="o_6">ajouter</OPER> l'<INGRED id="3">huile</INGRED> contenue dans la boîte. Bien <OPER id="o_7">mélanger</OPER>. <OPER id="o_8">Hacher</OPER> le <INGRED id="2">saumon</INGRED> et l'<INGRED id="5">aneth</INGRED>, et les <OPER id="o_9">mélanger</OPER> aux <INGRED id="5">Carrés frais</INGRED> écrasés. <OPER id="o_10">Ajouter</OPER> le jus de citron et le <INGRED id="7">yaourt</INGRED>. Déguster à l'apéritif, avec du bon <INGRED id="7">pain</INGRED>. Je le sers souvent avec de la <INGRED id="6">tapenade</INGRED> et un bon guewurstraminer !
+  </annotation>
+  <annotation methode="crf">
+  Ouvrir la boîte de <INGRED>sardines</INGRED> <INGRED>.</INGRED> Enlever l'arrête centrale des <INGRED>sardines</INGRED> <INGRED>.</INGRED> Enlever les <INGRED>piments</INGRED> <INGRED>,</INGRED> et conserver l'<INGRED>huile</INGRED> de la boîte. Ecraser les <INGRED>sardines</INGRED> <INGRED>,</INGRED> et les ajouter aux <INGRED>Carrés Frais</INGRED> écrasé. Selon les goûts et selon la boîte ( certaines boîtes sont très pimentées <INGRED>,</INGRED> et d'autres moins ) <INGRED>,</INGRED> ajouter l'<INGRED>huile</INGRED> contenue dans la boîte. Bien mélanger. Hacher le <INGRED>saumon</INGRED> et l'<INGRED>aneth</INGRED> <INGRED>,</INGRED> et les mélanger aux <INGRED>Carrés</INGRED> <INGRED>frais</INGRED> écrasés <INGRED>.</INGRED> Ajouter le <INGRED>jus de citron</INGRED> et le <INGRED>yaourt</INGRED> <INGRED>.</INGRED> Déguster à l'apéritif <INGRED>,</INGRED> avec du bon <INGRED>pain</INGRED>. Je le sers souvent avec de la tapenade et un bon guewurstraminer !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 9.33333333333333*X + 2.66666666666667</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 7*X + 5</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['Carrés Frais Gervais grand format', 'Carrés']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['yaourt " Perle de lait "', 'yaourt']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sardines aux piments', 'sardines']	 id:3	 quantité:1	 unité:boîte de	 denombrable:True	 recipient:1*X
+ingredient:['saumon fumé', 'saumon']	 id:4	 quantité:2	 unité:tranches de	 denombrable:True	 recipient:2*X
+ingredient:['aneth']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['jus de citron', 'jus']	 id:6	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['pain']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:ouvrir	 id:o_1	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enlever	 id:o_2	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enlever	 id:o_3	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ecraser	 id:o_4	 ingrédients_ralatifs:['3', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:hacher	 id:o_8	 ingrédients_ralatifs:['2', '5', '5']	 nombre_opération_atomique:1*X+1+1	 temps:1*X*5+1*X*5+1*X*5	 recipient:1
+operation:mélanger	 id:o_9	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

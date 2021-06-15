@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18292">
+  <titre>Muffins à la banane faciles</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>360 g de sucre</p>
+    <p>220 g de beurre</p>
+    <p>300 g de farine</p>
+    <p>6 bananes écrasées</p>
+    <p>4 œufs</p>
+    <p>2 cuillères à café de levure</p>
+    <p>1 cuillères  à café de bicarbonate de soude (levure chimique)</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battez ensemble le beurre et le sucre, jusqu'à l’obtention d’une crème légère.   
+    Ajoutez les œufs puis les bananes.  Ajoutez les ingrédients secs.
+    Versez dans des moules à muffins (caissettes alimentaires en papier).
+    Faites cuire au four, thermostat 5/6 pendant 30 minutes, ou jusqu’à cuisson complète.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="175543">
+  <titre>Morue a "BRAZ" ( BACALHAU A BRAZ)</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg Morue</p>
+    <p>6 pommes de terre</p>
+    <p>2 gros oignons</p>
+    <p>8 œufs</p>
+    <p>huile d'olive</p>
+    <p>1/2 bouquet de persil</p>
+    <p>20 olives noires</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire la morue désalée dans une casserole avec moitié eau moitié lait. Une fois cuite, enlever les arêtes et l'émietter.
+    Faire des frites avec les patates. Faire revenir les oignons dans l'huile d'olive. Mélanger les oignons, la morue et les frites. Remuer très bien. Ajouter le sel et le poivre.
+    Battre les œufs en omelette et les ajouter au mélange en remuant très bien.
+    Une fois les œufs cuits mettre dans un plat et décorer avec le persil haché et des olives noires.
+    Accompagner avec une salade verte !
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">cuire</OPER> la morue désalée dans une casserole avec moitié <INGRED id="1">eau</INGRED> moitié <INGRED id="8">lait</INGRED>. Une fois cuite, <OPER id="o_2">enlever</OPER> les arêtes et l'<OPER id="o_3">émietter</OPER>. Faire des <INGRED id="9">frites</INGRED> avec les <INGRED id="3">patates</INGRED>. Faire <OPER id="o_4">revenir</OPER> les <INGRED id="9">oignons</INGRED> dans l'<INGRED id="5">huile d'olive</INGRED>. <OPER id="o_5">Mélanger</OPER> les <INGRED id="5">oignons</INGRED>, la morue et les <INGRED id="9">frites</INGRED>. <OPER id="o_6">Remuer</OPER> très bien. <OPER id="o_7">Ajouter</OPER> le <INGRED id="4">sel</INGRED> et le poivre. <OPER id="o_8">Battre</OPER> les <INGRED id="8">œufs</INGRED> en omelette et les <OPER id="o_9">ajouter</OPER> au <INGRED id="2">mélange</INGRED> en remuant très bien. Une fois les <INGRED id="7">œufs</INGRED> cuits <OPER id="o_10">mettre</OPER> dans un <INGRED id="9">plat</INGRED> et <OPER id="o_11">décorer</OPER> avec le <INGRED id="7">persil haché</INGRED> et des <INGRED id="7">olives noires</INGRED>. Accompagner avec une salade verte !
+  </annotation>
+  <annotation methode="crf">
+  Faire cuire la <INGRED>morue</INGRED> désalée dans une casserole avec moitié <INGRED>eau</INGRED> moitié <INGRED>lait</INGRED> <INGRED>.</INGRED> Une fois cuite <INGRED>,</INGRED> enlever les arêtes et l'émietter <INGRED>.</INGRED> Faire des <INGRED>frites</INGRED> avec les <INGRED>patates</INGRED> <INGRED>.</INGRED> Faire revenir les <INGRED>oignons</INGRED> dans l'<INGRED>huile d'olive</INGRED> <INGRED>.</INGRED> Mélanger les <INGRED>oignons,</INGRED> la <INGRED>morue</INGRED> et les <INGRED>frites</INGRED> <INGRED>.</INGRED> Remuer très bien <INGRED>.</INGRED> Ajouter le <INGRED>sel</INGRED> et le <INGRED>poivre</INGRED>. Battre les <INGRED>œufs</INGRED> en omelette et les ajouter au <INGRED>mélange</INGRED> en remuant très bien <INGRED>.</INGRED> Une fois les <INGRED>œufs</INGRED> cuits mettre dans un plat et décorer avec le <INGRED>persil haché</INGRED> et des <INGRED>olives noires</INGRED> <INGRED>.</INGRED> Accompagner avec une salade verte !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 9.91358024691358*X + 1.08641975308642</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 37*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['Morue']	 id:1	 quantité:1	 unité:kg	 denombrable:False	 recipient:1
+ingredient:['pommes de terre', 'pommes']	 id:2	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['oignons']	 id:3	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['œufs']	 id:4	 quantité:8	 unité:non_precis	 denombrable:True	 recipient:8*X
+ingredient:["huile d'olive", 'huile']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['bouquet de persil', 'bouquet']	 id:6	 quantité:1/2	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['olives noires', 'olives']	 id:7	 quantité:20	 unité:non_precis	 denombrable:True	 recipient:20*X
+ingredient:['sel']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:cuire	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:enlever	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:émietter	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:revenir	 id:o_4	 ingrédients_ralatifs:['9', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mélanger	 id:o_5	 ingrédients_ralatifs:['5', '9']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:remuer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_8	 ingrédients_ralatifs:['8', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_10	 ingrédients_ralatifs:['7', '9', '7', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:décorer	 id:o_11	 ingrédients_ralatifs:['7', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

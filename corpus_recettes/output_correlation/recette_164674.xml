@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164674">
+  <titre>Mitonnée de poulet à la bière</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet à rôtir de 1,300 kg découpé en morceaux</p>
+    <p>200 g de lardons fumés</p>
+    <p>800 g de brocoli</p>
+    <p>1 oignon</p>
+    <p>2 dl de crème fraîche</p>
+    <p>33 cl de bière belge blonde d'abbaye</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>2 cuillères à soupe de miel</p>
+    <p>1 cuillère à café de thym</p>
+    <p>1 feuille de laurier</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler le brocoli en bouquet.
+    Emincer l'oignon.
+    Faire chauffer l'huile d'olive dans une grande casserole et y faire dorer les morceaux de poulet de tous les côtés.
+    Eliminer l'excédant de graisse.
+    Ajouter le thym, le laurier, sel et poivre.
+    Saupoudrer avec la farine.
+    Ajouter l'oignon émincé et les lardons, verser la bière.
+    Laisser mijoter à feu doux pendant 1 heure à couvert.
+    Faire cuire le brocoli dans de l'eau bouillante pas trop salée pendant 8 minutes et l'égoutter.
+    Incorporer la crème et le miel à la préparation du poulet.
+    Ajouter les bouquets de brocoli pour les réchauffer.
+    Dresser le tout sur des assiettes et servir avec des pommes de terre nature.
+    Bon appétit.Bières d'abbaye conseillées pour cette préparation: Affligem ou Postel ou Leffe ou Florival ou toute autre bière belge blonde d'abbaye.
+    Si la sauce n'est pas suffisamment liée vous pouvez la lier avec un peu de liant instantané.Un plat chaud se sert sur une assiette chaude. Vin rouge: Languedoc Roussillon Saint Chinian, Sud-Ouest Madiran, Beaujolais Moulin à Vent / Bière: la même que celle de la préparation.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Détailler</OPER> le <INGRED id="3">brocoli</INGRED> en <INGRED id="12">bouquet</INGRED>. <OPER id="o_2">Emincer</OPER> l'<INGRED id="4">oignon</INGRED>. Faire <OPER id="o_3">chauffer</OPER> l'<INGRED id="10">huile d'olive</INGRED> dans une grande casserole et y faire <OPER id="o_4">dorer</OPER> les <INGRED id="1">morceaux</INGRED> de poulet de tous les côtés. <OPER id="o_5">Eliminer</OPER> l'excédant de graisse. <OPER id="o_6">Ajouter</OPER> le <INGRED id="8">thym</INGRED>, le <INGRED id="11">laurier</INGRED>, <INGRED id="3">sel</INGRED> et <INGRED id="5">poivre</INGRED>. <OPER id="o_7">Saupoudrer</OPER> avec la <INGRED id="5">farine</INGRED>. <OPER id="o_8">Ajouter</OPER> l'<INGRED id="2">oignon</INGRED> émincé et les <INGRED id="1">lardons</INGRED>, <OPER id="o_9">verser</OPER> la <INGRED id="6">bière</INGRED>. Laisser <OPER id="o_10">mijoter</OPER> à feu doux pendant 1 heure à couvert. Faire <OPER id="o_11">cuire</OPER> le <INGRED id="3">brocoli</INGRED> dans de l'<INGRED id="8">eau</INGRED> bouillante pas trop salée pendant 8 minutes et l'<OPER id="o_12">égoutter</OPER>. <OPER id="o_13">Incorporer</OPER> la crème et le <INGRED id="9">miel</INGRED> à la préparation du poulet. <OPER id="o_14">Ajouter</OPER> les bouquets de <INGRED id="3">brocoli</INGRED> pour les réchauffer. <OPER id="o_15">Dresser</OPER> le tout sur des assiettes et servir avec des <INGRED id="4">pommes de terre</INGRED> nature. Bon appétit. Bières d'abbaye conseillées pour cette préparation : Affligem ou Postel ou Leffe ou Florival ou toute autre <INGRED id="6">bière belge blonde d'abbaye</INGRED>. Si la <INGRED id="4">sauce</INGRED> n'est pas suffisamment liée vous pouvez la <OPER id="o_16">lier</OPER> avec un peu de liant instantané. Un plat chaud se sert sur une assiette chaude. <INGRED id="5">Vin</INGRED> rouge : Languedoc Roussillon Saint Chinian, Sud-Ouest Madiran, Beaujolais Moulin à Vent / Bière : la même que celle de la préparation.
+  </annotation>
+  <annotation methode="crf">
+  Détailler le <INGRED>brocoli</INGRED> en <INGRED>bouquet</INGRED> <INGRED>.</INGRED> Emincer l'<INGRED>oignon</INGRED>. Faire chauffer l'<INGRED>huile d'olive</INGRED> dans une grande casserole et y faire dorer les <INGRED>morceaux</INGRED> de <INGRED>poulet</INGRED> de tous les côtés. Eliminer l'excédant de <INGRED>graisse</INGRED>. Ajouter le <INGRED>thym</INGRED> <INGRED>,</INGRED> le <INGRED>laurier</INGRED> <INGRED>,</INGRED> <INGRED>sel</INGRED> et poivre. Saupoudrer avec la <INGRED>farine</INGRED>. Ajouter l'<INGRED>oignon émincé</INGRED> et les <INGRED>lardons</INGRED> <INGRED>,</INGRED> verser la <INGRED>bière</INGRED>. Laisser mijoter à feu doux pendant 1 heure à couvert. Faire cuire le <INGRED>brocoli</INGRED> dans de l'<INGRED>eau</INGRED> bouillante pas trop salée pendant 8 minutes et l'égoutter <INGRED>.</INGRED> Incorporer la <INGRED>crème</INGRED> et le <INGRED>miel</INGRED> à la préparation du <INGRED>poulet</INGRED> <INGRED>.</INGRED> Ajouter les bouquets de brocoli pour les réchauffer <INGRED>.</INGRED> Dresser le tout sur des assiettes et servir avec des <INGRED>pommes de terre</INGRED> nature <INGRED>.</INGRED> Bon appétit. Bières d'abbaye conseillées pour cette préparation <INGRED>:</INGRED> Affligem <INGRED>ou</INGRED> Postel <INGRED>ou</INGRED> Leffe <INGRED>ou</INGRED> Florival <INGRED>ou</INGRED> toute autre <INGRED>bière</INGRED> belge blonde d'abbaye <INGRED>.</INGRED> Si la <INGRED>sauce</INGRED> n'est pas suffisamment liée vous pouvez la lier avec un peu de liant instantané. Un plat chaud se sert sur une assiette chaude <INGRED>.</INGRED> Vin rouge <INGRED>:</INGRED> Languedoc Roussillon Saint Chinian <INGRED>,</INGRED> Sud-Ouest Madiran <INGRED>,</INGRED> Beaujolais Moulin à Vent / Bière <INGRED>:</INGRED> la même que celle de la préparation <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 9.0*X + 7.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 9*X + 11</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['découpé en morceaux']	 id:1	 quantité:1	 unité:kg	 denombrable:False	 recipient:1
+ingredient:['lardons fumés', 'lardons']	 id:2	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['brocoli']	 id:3	 quantité:800	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oignon']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['crème fraîche', 'crème']	 id:5	 quantité:2	 unité:dl de	 denombrable:False	 recipient:1
+ingredient:["bière belge blonde d'abbaye", 'bière']	 id:6	 quantité:33	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:["huile d'olive", 'huile']	 id:7	 quantité:2	 unité:cuillères à soupe d'	 denombrable:True	 recipient:2*X
+ingredient:['farine']	 id:8	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['miel']	 id:9	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['thym']	 id:10	 quantité:1	 unité:cuillère à café de	 denombrable:True	 recipient:1*X
+ingredient:['laurier']	 id:11	 quantité:1	 unité:feuille de	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:13	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:détailler	 id:o_1	 ingrédients_ralatifs:['3', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:emincer	 id:o_2	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1*X*1	 recipient:1
+operation:chauffer	 id:o_3	 ingrédients_ralatifs:['10', '1']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:dorer	 id:o_4	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1*X	 temps:1*X*1	 recipient:0
+operation:eliminer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['8', '11', '3', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saupoudrer	 id:o_7	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['2', '1', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_9	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:cuire	 id:o_11	 ingrédients_ralatifs:['3', '8']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:égoutter	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_13	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_14	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:dresser	 id:o_15	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:lier	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

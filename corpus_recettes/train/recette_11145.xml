@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11145">
+  <titre>Tourte pomme de terre et fromage de chèvre</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 pâtes feuilletées</p>
+    <p>1 kg de pommes de terre</p>
+    <p>50 cl de lait</p>
+    <p>200 g de chèvre frais</p>
+    <p>1 bûche de chèvre de 200 g</p>
+    <p>1 oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à thermostat 7-8.Prévoir deux grande feuilles de pâte feuilletée.
+    Eplucher un kg de pomme de terre, les couper en tranches fines, les faire pocher dans du lait pour qu'elles soient à moitié cuites.
+    Beurrer une plaque allant au four, étaler une première feuille de pâte feuilletée.
+    Placer une couche de pommes de terres, y ajouter du chèvre frais (style Chavroux) et quelques tranches de bûche de chèvre (style Ste Maure), faire une deuxième couche identique.
+    Placer la deuxième feuille de pate feuilletée, souder les feuilles l'une à l'autre en mouillant légèrement et en faisant pression sur le joint. recouvrir de jaune d'oeuf battu.
+    Faire cuire à thermostat 7 jusqu'à ce que la pâte soit dorée. vin blanc
+  ]]>
+  </preparation>
+</recette>

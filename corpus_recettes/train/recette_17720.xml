@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17720">
+  <titre>Velouté de courgettes simple</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 courgettes fraîches et brillantes</p>
+    <p>25 cl de crème fraîche semi-épaisse</p>
+    <p>2 jaunes d’œufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les courgettes avec soin, les tailler en fines lamelles avec la peau.
+    Faire suer dans une poêle avec un bon morceau de beurre à feu doux (l'eau des courgettes doit s'évaporer progressivement) et laisser cuire jusqu'à ce que les courgettes soient molles.
+    Mixer à l'aide d'un mixer plongeant et ajouter la crème fraîche jusqu'à l'obtention d'un mélange onctueux.
+    Au moment de servir ajouter les jaunes d’œufs et bien mélanger.Attention ce plat est à faire uniquement avec des courgettes jeunes.
+  ]]>
+  </preparation>
+</recette>

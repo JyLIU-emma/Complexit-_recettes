@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25590">
+  <titre>Quatre-quarts au chocolat maison</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>même poids de farine</p>
+    <p>même poids de sucre en poudre</p>
+    <p>même poids de beurre mou</p>
+    <p>100 g de chocolat noir à dessert</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Séparer les blancs des jaunes. 
+    Battre les jaunes avec le sucre (ajouté lentement pour que le mélange blanchisse et fasse un ruban). 
+    Battre avec le beurre ramolli (pour un résultat d'un moelleux appréciable). 
+    Ajouter le chocolat fondu (avec 2 cuillères à soupe d'eau). 
+    Ajouter la farine. 
+    Allumer le four 180-200°C. 
+    Battre les blancs en neige très ferme et les ajouter délicatement au mélange. 
+    Mettre le tout dans un moule à gâteaux en enfourner 45 min (à contrôler avec la lame d'un couteau).
+    NB : Le beurre ramolli est mon addition à la recette, je trouve que le résultat est plus moelleux.
+  ]]>
+  </preparation>
+</recette>

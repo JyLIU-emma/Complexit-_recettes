@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22120">
+  <titre>Tarte provençale au lapereau</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,5 à 1,8 kg de morceaux de lapereau (à défaut du lapin)</p>
+    <p>200 g de pâte feuilletée </p>
+    <p>150 g de tapenade (noire ou verte selon les goûts)</p>
+    <p>8 tomates </p>
+    <p>5 aubergines </p>
+    <p>3 échalotes</p>
+    <p>2 branchettes de thym</p>
+    <p>du basilic frais</p>
+    <p>1 gousse d'ail</p>
+    <p>huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir 1 échalote ciselée dans une casserole avec de l'huile d'olive. Ajouter 4 tomates mondées et en morceaux, l'ail ciselé, un peu de thym et de basilic. Faire revenir pendant 10 min et verser dans la tapenade.
+    Mettre les aubergines émincées à dorer dans une poêle avec de l'huile. Assaisonner et égoutter. 
+    Mettre le reste des échalotes à revenir dans une poêle avec de l'huile. Incorporer les morceaux de lapereau et faire dorer légèrement. 
+    Monder et couper en rondelles les tomates. 
+    Beurrer un moule à manquer et y placer les rondelles de tomates, les aubergines et les morceaux de viande. Ajouter une couche de tapenade et recouvrir du feuilletage en rabattant les bords. Piquer la pâte et laisser au frais pendant 10 min. 
+    Enfourner pendant 20 min à 210° (thermostat 7).
+  ]]>
+  </preparation>
+</recette>

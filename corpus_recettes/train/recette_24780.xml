@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24780">
+  <titre>Escalopes de veau crémeuses aux oeufs et aux champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 escalopes de veau coupées finement</p>
+    <p>6 fines tranches de jambon fumé</p>
+    <p>150 g de crème</p>
+    <p>30 cl de vin blanc</p>
+    <p>3 oeufs durs</p>
+    <p>150 g de champignons</p>
+    <p>3 échalotes hachées</p>
+    <p>1 cuillère à soupe d'estragon haché</p>
+    <p>30 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Saupoudrer les escalopes du mélange échalote et estragon puis les recouvrir d'1 tranche de jambon et d'1/2 oeuf dur.
+    Rouler les escalopes sur elles-mêmes et les maintenir fermées à l'aide d'une ficelle de cuisine.
+    Les faire dorer dans le beurre puis ajouter le vin blanc et les champignons grossièrement émincées.
+    Laisser cuire durant 15 minutes puis incorporer la crème.
+    Servir lorsque la crème est chaude.
+  ]]>
+  </preparation>
+</recette>

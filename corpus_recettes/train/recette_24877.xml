@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24877">
+  <titre>Fricassée d'artichauts, poireaux et tomates</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 petits artichauts pointus</p>
+    <p>2 blancs de poireaux</p>
+    <p>3 oignons nouveaux</p>
+    <p>1 grande boîte de tomates concassées</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>10 cl de bouillon</p>
+    <p>1 gousse d'ail</p>
+    <p>1 bouquet garni</p>
+    <p>beurre, huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Retirez les premières feuilles des artichauts, coupez le hauts et retirez le foin. Coupez les artichauts en 4. Pelez, nettoyez et émincez les oignons, et les poireaux finements.
+    Faites chauffer une cocotte avec un bon morceau de beurre et une cuillère d'huile. Mettez-y les légumes et laissez-le suer quelques minutes.
+    Rajoutez les tomates égouttées, le vin, le bouillon. Pilez l'ail, ajoutez-le ainsiq que le bouquet garni. Salez et poivrez, puis couvrez.
+    Laissez mijoter 30 minutes, rajoutez un peu du ju des tomates si la préparation se dessèche.
+    Retirez le bouquet garni avant de servir.
+  ]]>
+  </preparation>
+</recette>

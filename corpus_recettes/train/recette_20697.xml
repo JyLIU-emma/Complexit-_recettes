@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20697">
+  <titre>Tarte tomate ricotta</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>une pâte brisée</p>
+    <p>2 boîtes de tomates pelées ou 10 tomates fraîches</p>
+    <p>250 g de ricotta</p>
+    <p>2 oeufs</p>
+    <p>basilic</p>
+    <p>persil</p>
+    <p>sel, poivre</p>
+    <p>3 cuillers à soupe d'huile d'olive</p>
+    <p>40 g de parmesan râpé</p>
+    <p>2 gousses d'ail haché</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four Th 7 ; beurrrer un moule à tarte, étaler la pâte ; répartir sur cette pâte les tomates en mettant le moins de jus possible si vous utilisez des tomates en boîte. 
+    Dans un saladier, mélanger les oeufs, la ricotta, persil, basilic, sel, poivre, et les 3 cuillers d'huile d'olive et les gousses d'ail. Mettre ce mélange sur les tomates et saupoudrer de parmesan. 
+    Mettre au four Th 7 pendant 30 mn environ (surveillez la pâte doit être évidemment cuite et le haut de la tarte doit être dorée)
+    si vous avez le temps faites votre pâte brisée, la tarte n'en sera que meilleure.
+  ]]>
+  </preparation>
+</recette>

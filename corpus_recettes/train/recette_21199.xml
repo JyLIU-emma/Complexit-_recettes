@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21199">
+  <titre>Poires Belle-Hélène à croquer !</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de glace vanille</p>
+    <p>50 g de chocolat à croquer</p>
+    <p>1 jaune d'oeuf</p>
+    <p>2 cuillères à soupe de lait</p>
+    <p>200 g de sucre</p>
+    <p>25 cl d'eau</p>
+    <p>4 poires</p>
+    <p>1 citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites un sirop avec le sucre, l'eau et le jus de citron. Pochez-y les poires pelées 10 min environ. Réservez les fruits au frais.
+    Préparez un coulis de chocolat en faisant fondre le chocolat dans le lait. Une fois fondu, ajoutez le jaune d'oeuf.
+    Dressez les coupes glacées avec deux boules de glace à la vanille, une poire et le nappage au chocolat pour chaque coupe.
+  ]]>
+  </preparation>
+</recette>

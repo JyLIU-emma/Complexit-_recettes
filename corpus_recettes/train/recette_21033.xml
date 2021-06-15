@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21033">
+  <titre>Pudding aux fruits secs</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>50 g de pruneaux dénoyautés</p>
+    <p>50 g d'abricots secs</p>
+    <p>50 g de raisins secs</p>
+    <p>10 cl de rhum</p>
+    <p>400 g de mie de pain rassis</p>
+    <p>50 cl de lait </p>
+    <p>150 g de sucre</p>
+    <p>1 gousse de vanille</p>
+    <p>4 oeufs entiers + 2 blancs d'oeufs</p>
+    <p>1 pincée de sel</p>
+    <p>10 morceaux de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille:
+    Faire tremper les abricots et les pruneaux dans un peu d'eau tiède. Mettre les raisins dans le rhum.
+    Le lendemain :
+    Préchauffer le four à 160°C (thermostat 5-6).
+    Pour préparer la pâte :
+    Couper le pain en petits dés. Fendre la gousse de vanille et la gratter. Dans une casserole : porter à ébullition le lait avec la gousse de vanille et le sucre. Lorsque le lait est chaud, ôter la gousse de vanille et verser le lait sur le pain rassis. Ecraser à l'aide d'une fourchette. Ajouter les oeufs entiers ainsi que les abricots et les pruneaux égouttés. Ajouter les raisins et le rhum. Remuer. Monter les blancs en neige avec le sel et les incorporer au mélange à l'aide d'une spatule.
+    Préparer un caramel avec les 10 morceaux de sucre et le verser dans un moule à charlotte. Remuer le moule afin que le caramel s'étale sur toutes les parois.
+    Verser la pâte dans le moule à charlotte, enfourner et faire cuire au bain-marie durant 45 minutes à 180°C (thermostat 6).
+    Vérifier la cuisson à l'aide d'un couteau, la lame doit ressortir sèche.
+  ]]>
+  </preparation>
+</recette>

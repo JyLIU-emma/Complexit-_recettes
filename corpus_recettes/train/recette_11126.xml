@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11126">
+  <titre>Aumônière d'escargots</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 pâtes feuilletées</p>
+    <p>72 escargots cuits</p>
+    <p>2 gousses d'ail</p>
+    <p>1 échalote</p>
+    <p>1/2 bouquet de persil</p>
+    <p>100 g de beurre</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>1 cuillère à café de pastis</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prévoir 6 aumônières par personne
+    Découper des carrés de 8 cm environ de pâte feuilletée.
+    Dans chaque carré, disposez trois escargots de Bourgogne avec une noix de beurre persillé (beurre + échalotes + ail + persil + une goutte d'anis).
+    Refermez délicatement les bords de chaque aumônière avec un pinceau et un petit peu d'eau.
+    Dorer les aumônières avec du jaune d'oeuf.
+    Faire cuire 15 min dans un four à 210°C (thermostat 7).
+    Prévoyez de resservir du beurre persillé sur votre table.  Vin blanc sec, alligoté
+  ]]>
+  </preparation>
+</recette>

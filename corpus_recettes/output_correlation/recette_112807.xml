@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="112807">
+  <titre>Barquettes d'endives au roquefort</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 endives- 1 citron vert- 4c.à s.de crème fraîche- 80 g de roquefort- 100 g de cerneaux de noix- Poivre au moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1.Laver les endives,les éponger et les couper en deux.
+    Evider le coeur.
+    Les citronner et les réserver.
+    2.Disposer la crème dans un bol. Ajouter le roquefort.
+    Le malaxer avec la crème jusqu'à obtention d'une pommade. Poivrer généreusement.
+    3.Disposer les endives sur un plat de service.
+    Les garnir de ce mélange à l'aide d'une spatule.Décorer de cerneaux de noix.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">1.Laver</OPER> les endives, les <OPER id="o_2">éponger</OPER> et les <OPER id="o_3">couper</OPER> en deux. <OPER id="o_4">Evider</OPER> le coeur. Les <OPER id="o_5">citronner</OPER> et les réserver. <OPER id="o_6">2.Disposer</OPER> la crème dans un bol. <OPER id="o_7">Ajouter</OPER> le roquefort. Le <OPER id="o_8">malaxer</OPER> avec la crème jusqu'à obtention d'une pommade. <OPER id="o_9">Poivrer</OPER> généreusement. <OPER id="o_10">3.Disposer</OPER> les endives sur un plat de service. Les <OPER id="o_11">garnir</OPER> de ce mélange à l'aide d'une spatule. <OPER id="o_12">Décorer</OPER> de <INGRED id="1">cerneaux</INGRED> de noix.
+  </annotation>
+  <annotation methode="crf">
+  1.Laver les <INGRED>endives</INGRED> <INGRED>,</INGRED> les éponger et les couper en <INGRED>deux</INGRED> <INGRED>.</INGRED> Evider le coeur. Les citronner et les réserver <INGRED>.</INGRED> 2.Disposer la <INGRED>crème</INGRED> dans un bol <INGRED>.</INGRED> Ajouter le <INGRED>roquefort</INGRED>. Le malaxer avec la <INGRED>crème</INGRED> jusqu'à obtention d'une pommade. Poivrer généreusement <INGRED>.</INGRED> 3.Disposer les <INGRED>endives</INGRED> sur un plat de service <INGRED>.</INGRED> Les garnir de ce <INGRED>mélange</INGRED> à l'aide d'une spatule <INGRED>.</INGRED> Décorer de <INGRED>cerneaux de noix</INGRED>.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 12.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 2</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['cerneaux de noix- Poivre au moulin', 'cerneaux']	 id:1	 quantité:6	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:1.laver	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:éponger	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:evider	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:citronner	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:2.disposer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:malaxer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:3.disposer	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garnir	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:décorer	 id:o_12	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

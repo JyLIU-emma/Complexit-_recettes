@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14756">
+  <titre>Curry de poisson au coco</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 petits filets de colin</p>
+    <p>1 cuillère à café de cumin en poudre</p>
+    <p>quelques graines de fenouil</p>
+    <p>1/2 tasse (75 g) de noix de coco en poudre</p>
+    <p>1 bonne cuillère à café de gingembre</p>
+    <p>2 piments rouges séchés </p>
+    <p>2 gousses d'ail</p>
+    <p>1 oignon</p>
+    <p>1 petite cuillère à café de curcuma</p>
+    <p>2 cuillères à café de curry</p>
+    <p>huile (maïs ou olive)</p>
+    <p>1 cuillère à café de coriandre</p>
+    <p>eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Moudre le gingembre, les piments, l'ail et l'oignon jusqu'à l'obtention d'une pâte.
+    Faire frire cette pâte dans l'huile jusqu'à ce qu'elle prenne une douce couleur dorée et ajouter les épices. Laisser frire quelques minutes en tournant.
+    Ajouter l'eau et porter à ébullition. Laisser mijoter +/- 6 minutes.
+    Ajouter le poisson. Laisser mijoter une dizaine de minutes.
+    Servir avec du riz blanc.
+  ]]>
+  </preparation>
+</recette>

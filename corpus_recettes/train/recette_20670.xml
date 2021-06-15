@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20670">
+  <titre>Compotée de courgettes à l'oeuf et à la cannelle</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g courgettes</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>2 oignons</p>
+    <p>2 oeufs</p>
+    <p>sel, poivre, cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer finement les courgettes et les oignons puis les faire fondre dans l'huile.
+    Saler, poivrer.
+    Couvrir et laisser mijoter 15 minutes. Ôter le couvercle et laisser le jus de cuisson s'évaporer.
+    Battre les oeufs en omelette avec du sel, du poivre et de la cannelle.
+    Verser dans les courgettes et remuer doucement sur feu doux jusqu'à ce que l'oeuf soit cuit.
+    Rectifier l'assaisonnement si nécessaire et servir.
+  ]]>
+  </preparation>
+</recette>

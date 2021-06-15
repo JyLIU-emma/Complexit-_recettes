@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24108">
+  <titre>Petits pots de crème caramel</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 l de lait</p>
+    <p>180 g de sucre</p>
+    <p>10 oeufs</p>
+    <p>1 cuillère à soupe d'extrait de vanille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Caraméliser un moule avec du sucre. Faire chauffer 1 litre de lait avec 180 g de sucre. Battre 10 oeufs en omelette (calibre 60-65). Ajouter les oeufs et la vanille au lait, à 80° environ. Verser le tout en le passant dans le moule caramélisé. Cuire au bain-marie à th 4-5 (150°C).Mettre en pots.
+  ]]>
+  </preparation>
+</recette>

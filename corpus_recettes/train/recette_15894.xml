@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15894">
+  <titre>Roulades de mer aux endives</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 endives pas trop grosses</p>
+    <p>8 tranches de saumon fumé</p>
+    <p>crevettes grises (selon votre goût)Pour la sauce béchamel :</p>
+    <p>25 g de farine</p>
+    <p>25 g de beurre</p>
+    <p>30 cl de lait</p>
+    <p>sel, poivre et noix de muscade</p>
+    <p>fromage râpé (selon votre goût)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les endives dans de l'eau  
+    bouillante salée. Lorsque les endives sont cuites, les égoutter.
+    Pendant ce temps, préparer votre sauce béchamel.
+    Enrouler chaque tranche de saumon d'une endive. 
+    Mettre dans un plat à gratin et couvrir de sauce béchamel. Terminer par les crevettes selon votre goût et recouvrir tout le plat de fromage râpé.
+    Gratiner le tout quelques minutes, jusqu'à ce que le fromage fonde et prenne une bonne couleur.
+    A servir en entrée avec la de baguette et un verre de vin blanc.
+    Peut également être servi en plat principal avec une purée de pommes de terre. un vin blanc fruité très frais
+  ]]>
+  </preparation>
+</recette>

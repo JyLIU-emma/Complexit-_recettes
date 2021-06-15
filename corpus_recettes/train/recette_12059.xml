@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12059">
+  <titre>Emincé à la zurichoise</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>700 g d'émincé de veau</p>
+    <p>100 g de beurre</p>
+    <p>200 g de champignons de Paris</p>
+    <p>100 g d'échalotes</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>20 g de beurre manié : beurre et farine</p>
+    <p>10 cl de fond brun</p>
+    <p>1 cuillère à café de zeste de citron râpé</p>
+    <p>1 cuillère à soupe de persil haché</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire sauter la viande en plusieurs portions et la retirer. Hacher les échalotes, émincer les champignons et faire suer le tout.Déglacer au vin blanc, ajouter le fond brun et donner quelques bouillons.
+    Lier au beurre manié, puis ajouter l'émincé. Faire chauffer sans cuire, ajouter zestes de citron et persil.
+    Servir très chaud.Contrairement à une idée trop répandue, cet émincé ne comporte pas de crème. Vin blanc sec
+  ]]>
+  </preparation>
+</recette>

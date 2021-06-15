@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13534">
+  <titre>Tarte duo aux framboises et à la rhubarbe</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 fond de tarte brisée</p>
+    <p>1 bol de framboises</p>
+    <p>1 bol de rhubarbe coupée en dés</p>
+    <p>4 oeufs</p>
+    <p>2 sachets de sucre vanillé</p>
+    <p>125 g de sucre en poudre</p>
+    <p>2 cuillères à soupe de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer les framboises, écrasez les et réservez.
+    pendant ce temps, faites réduire la rhubarbe en compote dans une casserole avec 25 g de sucre.
+    Préparez la crème avec les oeufs, le sucre vanillé, la farine et les 100 g de sucre restants, en mélangeant avec un fouet.
+    Séparez cette crème à parts égales dans 2 saladier, et incorporez dans chacun les framboises et la rhubarbe.
+    Dans un plat à tarte, déroulez le fond de tarte puis versez y les 2 mélanges de façon à partager la tarte en deux, puis faites cuire 30 minutes à 200°C.
+  ]]>
+  </preparation>
+</recette>

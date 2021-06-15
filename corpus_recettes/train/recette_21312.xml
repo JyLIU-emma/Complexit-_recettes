@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21312">
+  <titre>Chaussons frits au cantal</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 pâtes brisées</p>
+    <p>250 g de fromage blanc</p>
+    <p>150 g de cantal râpé</p>
+    <p>3 jaunes d'oeuf</p>
+    <p>1 cuillère à soupe de pluches de cerfeuil</p>
+    <p>1 cuillère à soupe de ciboulette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour faire la farce : mélanger dans un saladier le fromage blanc, le cantal, 2 jaunes d'oeuf, le cerfeuil et la ciboulette hachés.
+    Découper les pâtes brisées en 8 disques avec un emporte-pièce et les garnir d'une cuillère de farce. Plier en chaussons en fermant les bords avec un peu d'eau. Badigeonner du jaune d'oeuf restant et laisser reposer pendant 1 h.
+    Plonger les chaussons dans une friteuse, jusqu'à ce qu'ils soient dorés.
+  ]]>
+  </preparation>
+</recette>

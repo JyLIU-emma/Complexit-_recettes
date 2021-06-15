@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25438">
+  <titre>Sauté de porc caramélisé au nuoc mam</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de porc (travers, échine)</p>
+    <p>100 g d'oignons</p>
+    <p>2 gousses d'ail</p>
+    <p>1 poivron</p>
+    <p>1 petit piment</p>
+    <p>20 cl de nuoc mam</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>2 dosettes de caramel</p>
+    <p>1 cuillère à café de sauce soja</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper la viandes en dés.
+    Faire bouillir 1 casserole d'eau, y blanchir la viande 5 min pour la dégraisser.
+    Egoutter, répéter l'opération dans de l'eau bouillante propre.
+    Mélanger le nuoc mam avec 20 cl d'eau et le caramel.
+    Peler et émincer les oignons et l'ail.
+    Peler, épépiner et couper le poivron en lamelles.
+    Les faire revenir avec l'huile dans une casserole, ajouter la sauce et chauffer.
+    Ajouter le piment finement émincé et les morceaux de viande. Laisser mijoter à feu doux 20 min environ.
+    Ajouter la sauce soja, remuer et servir.
+    Encore meilleur réchauffé !Accompagnez de riz ou de nouilles sautées.
+  ]]>
+  </preparation>
+</recette>

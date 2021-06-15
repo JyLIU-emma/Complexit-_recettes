@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169637">
+  <titre>Tajine de cuisses de canard</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 cuisses de canard</p>
+    <p>2 poivrons rouges</p>
+    <p>4 grosses aubergines</p>
+    <p>8 courgettes (pas trop grosses)</p>
+    <p>sel poivre</p>
+    <p>10 olives avec ou sans noyau + 10 cl du jus de conservation</p>
+    <p>3 cuillères à soupe de ras el hanout</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prendre une couscoussière, y déposer les 4 cuisses de canard, les faire dorer de chaque côté à feu moyen. Retirer l'excédent de graisse si nécessaire. Ajouter les 10 olives et leur jus de conservation. Mettre à feu doux, avec le couvercle et laisser mijoter.
+    Pendant ce temps , nettoyer et découper en rondelles un peu épaisses les aubergines et courgettes. Découper les poivrons en lamelles.
+    Mettre les cuisses de canard côté peau dans la couscoussière puis commencer à mettre les légumes sur les cuisses dans l'ordre suivant : poivrons, aubergines et courgettes.
+    Saler, poivrer, ajouter du ras el hanout. Verser de l'eau (environ 75 cl) sur toute la surface  de façon à ce que les épices descendent vers le fond. Cuire à feu doux sans mélanger le tout. Tout doit cuire de façon pyramidale. Les légumes doivent être cuit mais pas en purée. Les cuisses doivent être très moelleuses comme confites. En accompagnement cela peut-être du riz ou de la semoule. Bon appétit.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Prendre</OPER> une couscoussière, y <OPER id="o_2">déposer</OPER> les 4 <INGRED id="1">cuisses de canard</INGRED>, les faire <OPER id="o_3">dorer</OPER> de chaque côté à feu moyen. <OPER id="o_4">Retirer</OPER> l'excédent de graisse si nécessaire. <OPER id="o_5">Ajouter</OPER> les 10 olives et leur <INGRED id="7">jus de conservation</INGRED>. <OPER id="o_6">Mettre</OPER> à feu doux, avec le couvercle et laisser <OPER id="o_7">mijoter</OPER>. Pendant ce temps, <OPER id="o_8">nettoyer</OPER> et <OPER id="o_9">découper</OPER> en rondelles un peu épaisses les <INGRED id="3">aubergines</INGRED> et <INGRED id="8">courgettes</INGRED>. <OPER id="o_10">Découper</OPER> les poivrons en lamelles. <OPER id="o_11">Mettre</OPER> les <INGRED id="1">cuisses de canard</INGRED> côté peau dans la couscoussière puis <OPER id="o_12">commencer</OPER> à <OPER id="o_13">mettre</OPER> les légumes sur les <INGRED id="3">cuisses</INGRED> dans l'ordre suivant : <INGRED id="4">poivrons</INGRED>, aubergines et courgettes. <OPER id="o_14">Saler</OPER>, <OPER id="o_15">poivrer</OPER>, <OPER id="o_16">ajouter</OPER> du <INGRED id="8">ras el hanout</INGRED>. <OPER id="o_17">Verser</OPER> de l'<INGRED id="4">eau</INGRED> ( <INGRED id="1">environ</INGRED> 75 <INGRED id="2">cl</INGRED> ) sur toute la surface de façon à ce que les <INGRED id="6">épices</INGRED> descendent vers le fond. <OPER id="o_18">Cuire</OPER> à feu doux sans <OPER id="o_19">mélanger</OPER> le tout. Tout doit <OPER id="o_20">cuire</OPER> de façon pyramidale. Les légumes doivent être cuit mais pas en <INGRED id="5">purée</INGRED>. Les <INGRED id="2">cuisses</INGRED> doivent être très moelleuses comme confites. En accompagnement cela peut-être du <INGRED id="3">riz</INGRED> ou de la <INGRED id="1">semoule</INGRED>. Bon appétit.
+  </annotation>
+  <annotation methode="crf">
+  Prendre une couscoussière <INGRED>,</INGRED> y déposer les 4 <INGRED>cuisses</INGRED> de <INGRED>canard</INGRED> <INGRED>,</INGRED> les faire dorer de chaque côté à feu moyen <INGRED>.</INGRED> Retirer l'excédent de <INGRED>graisse</INGRED> si nécessaire. Ajouter les 10 <INGRED>olives</INGRED> et leur <INGRED>jus</INGRED> de conservation. Mettre à feu doux <INGRED>,</INGRED> avec le couvercle et laisser mijoter <INGRED>.</INGRED> Pendant ce temps <INGRED>,</INGRED> nettoyer et découper en rondelles un peu épaisses les <INGRED>aubergines</INGRED> et <INGRED>courgettes</INGRED> <INGRED>.</INGRED> Découper les <INGRED>poivrons</INGRED> en <INGRED>lamelles</INGRED> <INGRED>.</INGRED> Mettre les <INGRED>cuisses</INGRED> de <INGRED>canard</INGRED> côté peau dans la couscoussière puis commencer à mettre les <INGRED>légumes</INGRED> sur les <INGRED>cuisses</INGRED> dans l'ordre suivant <INGRED>:</INGRED> <INGRED>poivrons</INGRED> <INGRED>,</INGRED> <INGRED>aubergines</INGRED> et <INGRED>courgettes</INGRED> <INGRED>.</INGRED> Saler <INGRED>,</INGRED> poivrer <INGRED>,</INGRED> ajouter du ras el hanout. Verser de l'<INGRED>eau</INGRED> ( <INGRED>environ</INGRED> 75 cl ) sur toute la surface de façon à ce que les <INGRED>épices</INGRED> descendent vers le <INGRED>fond</INGRED> <INGRED>.</INGRED> Cuire à feu doux sans mélanger le tout <INGRED>.</INGRED> Tout doit cuire de façon pyramidale. Les <INGRED>légumes</INGRED> doivent être cuit mais pas en <INGRED>purée</INGRED> <INGRED>.</INGRED> Les <INGRED>cuisses</INGRED> doivent être très moelleuses comme confites <INGRED>.</INGRED> En accompagnement cela peut-être du <INGRED>riz</INGRED> <INGRED>ou</INGRED> de la <INGRED>semoule</INGRED> <INGRED>.</INGRED> Bon appétit.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 24.4242424242424*X + 1.57575757575758</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 31*X + 12</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['cuisses de canard', 'cuisses']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['poivrons rouges', 'poivrons']	 id:2	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['aubergines']	 id:3	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['courgettes']	 id:4	 quantité:8	 unité:non_precis	 denombrable:True	 recipient:8*X
+ingredient:['sel poivre', 'sel']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['olives avec ou sans noyau', 'olives']	 id:6	 quantité:10	 unité:non_precis	 denombrable:True	 recipient:10*X
+ingredient:['jus de conservation', 'jus']	 id:7	 quantité:10	 unité:cl du	 denombrable:False	 recipient:1
+ingredient:['ras el hanout', 'ras']	 id:8	 quantité:3	 unité:cuillères à soupe de	 denombrable:True	 recipient:3*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:prendre	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déposer	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:dorer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:retirer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mijoter	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:nettoyer	 id:o_8	 ingrédients_ralatifs:['3', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:découper	 id:o_9	 ingrédients_ralatifs:['3', '8']	 nombre_opération_atomique:4*X+3*X	 temps:4*X*1+3*X*1	 recipient:1
+operation:découper	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:mettre	 id:o_11	 ingrédients_ralatifs:['1', '3', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:commencer	 id:o_12	 ingrédients_ralatifs:['3', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_13	 ingrédients_ralatifs:['3', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:saler	 id:o_14	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_16	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_17	 ingrédients_ralatifs:['4', '1', '2', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:mélanger	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:cuire	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26953">
+  <titre>Soupe de pommes de terre au lait de coco</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g de pommes de terre à chair farineuse</p>
+    <p>1 oignon</p>
+    <p>2 gousses d'ail</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>80 cl de bouillon</p>
+    <p>18 cl de lait de coco</p>
+    <p>1/2 citron vert (zeste et jus) </p>
+    <p>sel et poivre</p>
+    <p>zeste de citron vert ou fines herbes pour le décor</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les pommes de terre et les couper en cubes. Hacher grossièrement l'oignon et l'ail. Faire revenir le tout 3 à 4 mn dans l'huile chaude. 
+    Mouiller de bouillon, porter à ébullition, couvrir et laisser bouillonner environ 20 mn. 
+    Passer au moulin à légumes. 
+    Ajouter le lait de coco, le zeste et le jus, donner un bouillon, saler et poivrer. 
+    Dresser la soupe dans 4 assiettes, apporter le décor.
+  ]]>
+  </preparation>
+</recette>

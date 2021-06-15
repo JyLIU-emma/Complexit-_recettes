@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26056">
+  <titre>Bar gratiné aux câpres</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de filets de bar</p>
+    <p>4 grosses pommes de terre</p>
+    <p>1 court-bouillon</p>
+    <p>25 g de beurre</p>
+    <p>25 cl de béchamel</p>
+    <p>1/2 pot de câpres</p>
+    <p>1/2 citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez les pommes de terre, coupez-les en 4 et mettez-les dans une cocotte minute. Recouvrez de court-bouillon et ajoutez les filets de bar. 
+    Fermez et laissez cuire 5 minutes à partir de la rotation de la soupape.
+    Sortez délicatement les filets à l'aide d'une écumoire et les mettre au centre d'un plat beurré allant au four. Disposer les pommes de terre autour. Nappez de la sauce béchamel additionnée du jus du demi-citron et des câpres.
+    Chauffez le gril du four et faites gratiner pendant 10 minutes.
+  ]]>
+  </preparation>
+</recette>

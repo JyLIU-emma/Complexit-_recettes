@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26962">
+  <titre>Gratin de chou-fleur à la créole</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 chou-fleur</p>
+    <p>1 oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>1 cuillère à soupe de concassé de tomate</p>
+    <p>1 pointe de safran</p>
+    <p>50 g de beurre</p>
+    <p>100 g de farine</p>
+    <p>250 ml de lait</p>
+    <p>fromage râpé</p>
+    <p>huile</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver le chou-fleur et le détailler en petits bouquets. 
+    Dans une marmite, faire revenir l'oignon et l'ail émincés. Ajouter la tomate et le safran. Mettre le chou-fleur et un peu d'eau (pour ne pas que ça brûle). 
+    Pendant ce temps, préparer une béchamel : faire fondre le beurre, lorsqu'il est fondu ajouter la farine et mélanger bien. Ajouter le lait et laisser épaissir sur feu doux en remuant constamment. La béchamel doit être assez épaisse. Salez, poivrez. 
+    Lorsque le chou fleur est cuit et qu'il n'y a plus d'eau, éteignez le feu. Ajouter la béchamel. Rectifier l'assaisonnement. 
+    Disposer dans un plat à gratin et recouvrir de fromage. 
+    Passer 5 à 10 mn sous le grill du four et laisser dorer.
+    On peut également ajouter au gratin des dés de jambon ou des lardons (préalablement cuits).
+  ]]>
+  </preparation>
+</recette>

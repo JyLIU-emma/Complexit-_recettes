@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25340">
+  <titre>Escalopes de poulet au yaourt et au vin blanc</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 escalopes de poulet</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>1 cuillère à soupe bombée de moutarde</p>
+    <p>150 g yaourt velouté</p>
+    <p>4 cuillères à soupe d’huile</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle huilé, faire dorer les escalopes 5 minutes de chaque côté, les assaisonner de sel et de poivre et les conserver au chaud.
+    Jeter le jus de cuisson puis verser le vin blanc dans la poêle. Remuer à l'aide d'une spatule en bois en grattant le fond de la poêle pour décoller les sucs de cuisson.
+    Mélanger la moutarde avec le yaourt puis l’ajouter dans la poêle.
+    Faire chauffer jusqu’à ébullition puis rectifier l’assaisonnement et napper les escalopes de cette sauce.
+  ]]>
+  </preparation>
+</recette>

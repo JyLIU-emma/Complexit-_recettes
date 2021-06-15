@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27096">
+  <titre>Boeuf au safran et au yaourt</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>450 g de paleron ou de noix de boeuf</p>
+    <p>15 cl de crème fraîche épaisse</p>
+    <p>2 doses de safran</p>
+    <p>1 cuillère à soupe de curry en poudre</p>
+    <p>2 oignons</p>
+    <p>1 yaourt</p>
+    <p>20 g de beurre</p>
+    <p>4 feuilles de laurier</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hachez les oignons et détaillez la viande en cubes.
+    Pilez la moitié des oignons hachés au mortier avec le curry, le sel et le poivre. Enrobez la viande de cette pâte et laissez-la s'en imprégner durant 2 h.
+    Faites fondre le reste de l'oignon dans le beurre avec le laurier. Incorporez le yaourt et faites épaissir 4 à 5 minutes en remuant. Ajoutez la viande et le safran délayé dans la crème fraîche. Mouillez avec 15 cl d'eau, couvrez et laissez frémir 1 h.
+    Vérifiez que la viande reste bien tendre avec la pointe d'un couteau. Rectifiez l'assaisonnement avant de servir.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22111">
+  <titre>Carré d’agneau aux agrumes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 carré d’agneau (12 à 16 côtes) </p>
+    <p>1 pamplemousse</p>
+    <p>1 citron</p>
+    <p>1 orange</p>
+    <p>2 cuillers à soupe de coriandre en poudre</p>
+    <p>1 cuiller à soupe de miel</p>
+    <p>1 gousse d’ail</p>
+    <p>1 oignon</p>
+    <p>persil</p>
+    <p>6 grosses courgettes</p>
+    <p>1 cube de bouillon de poule</p>
+    <p>beurre ou huile d’olive</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle, faire fondre l’oignon et l’ail émincés avec le persil dans 2 cuillers d’huile d’olive jusqu’à ce qu’ils deviennent translucides. 
+    Dans cette préparation, faire dorer le carré d’agneau sur toutes ses faces, le mettre dans un plat et réserver. 
+    Presser le pamplemousse avec le citron et débiter l’orange en morceaux avec sa peau. 
+    Faire fondre un bouillon de poule dans 1/2 litre d’eau. 
+    Mélanger le jus de fruit avec le bouillon. 
+    Mettre les morceaux d’orange dans le plat et arroser la viande d’un verre de la préparation obtenue. 
+    Mettre au four 20 mn à four très chaud (220°C). 
+    Pendant ce temps dans une grande sauteuse faire chauffer le reste du bouillon aux agrumes et ajouter la coriandre. 
+    Débiter les courgettes en gros dés sans les éplucher et faire cuire 10 mn dans ce jus. 
+    Egoutter en conservant le jus de cuisson. 
+    Sortir le carré d’agneau du four (sans l’éteindre) et récupérer le jus de cuisson et le mélanger au bouillon aux agrumes. 
+    Pour faire la sauce : 
+    Mettre le jus dans une casserole avec 1 cuiller à soupe de miel, faire chauffer et réduire (5 mn à gros bouillons). 
+    Couper le carré d’agneau, napper d’un peu de sauce, remettre au four 5 mn et servir avec les courgettes nappées du reste de sauce.
+  ]]>
+  </preparation>
+</recette>

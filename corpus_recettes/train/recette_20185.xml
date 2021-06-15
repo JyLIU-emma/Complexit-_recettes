@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20185">
+  <titre>Oeufs florentine</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 oeufs</p>
+    <p>1 sauce béchamel</p>
+    <p>1 kg d'épinards</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les oeufs durs ainsi que les épinards. 
+    Préparer une sauce béchamel et en napper les oeufs et les épinards.
+    Saler et poivrer.recette très rapide à réaliser.
+    Très bon moyen de faire manger des légumes aux enfants. Pour la béchamel je vous conseille la "béchamel express sans beurre" de Nanou.
+  ]]>
+  </preparation>
+</recette>

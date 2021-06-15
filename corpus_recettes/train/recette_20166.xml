@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20166">
+  <titre>Lapin à la catalane</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 beau lapin</p>
+    <p>1 livre de tomates</p>
+    <p>100 g de lard maigre</p>
+    <p>100 g d'olives noires</p>
+    <p>16 c à soupe de riz</p>
+    <p>2 verres de bouillon</p>
+    <p>-1 verre de vin blanc</p>
+    <p>-5 c à soupe d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites couper votre lapin en morceaux que vous ferez dorer à l'huile chaude dans une grande cocotte. Ajoutez les lardons pendant quelques minutes, puis les tomates coupées en quartiers, et laissez revenir encore quelques instants. 
+    Ajoutez les olives, salez modérément, poivrez, arrosez avec le bouillon chaud et le vin. Quand cela bouillonne, ajoutez en pluie le riz sec, couvrez et laissez mijoter à feu doux pendant 1 heure.
+    Ce plat se réchauffe bien.
+  ]]>
+  </preparation>
+</recette>

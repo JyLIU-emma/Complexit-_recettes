@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23813">
+  <titre>Beignets de pommes au rhum</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de farine tamisée</p>
+    <p>15 cl de bière</p>
+    <p>1 pincée de sel</p>
+    <p>1 cuillère à soupe de rhum</p>
+    <p>4 pommes reinettes</p>
+    <p>2 citrons</p>
+    <p>sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparez la pâte : mélangez la farine fine avec la bière, le sel et le rhum. Laissez reposer 2h.
+    Au bout de ce temps, épluchez les pommes, retirez le coeur à l'aide d'un vide-pommes et découpez-les en rondelles épaisses.
+    Arrosez-les de jus de citron et laissez reposer 30 minutes.
+    Trempez les rondelles de pommes égouttées dans la pâte et faites frire environ 2 à 3 min dans une huile chauffée à 180°C.
+    Egouttez sur un papier absorbant et servez saupoudré de sucre glace.
+  ]]>
+  </preparation>
+</recette>

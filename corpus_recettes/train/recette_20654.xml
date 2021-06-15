@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20654">
+  <titre>Gâteau au chocolat des écoliers</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de chocolat noir</p>
+    <p>4 oeufs</p>
+    <p>125 g de beurre</p>
+    <p>200 g de sucre en poudre</p>
+    <p>100 g de farine</p>
+    <p>1 sachet de levure</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C (Th 6). 
+    Faites fondre le chocolat au bain-marie ou au micro-ondes. Si vous le faites fondre au micro-ondes, ajoutez 3 cuillères à soupe d'eau pour 200 g de chocolat.
+     
+    Ajoutez le beurre. 
+    Dans un saladier, mélangez les oeufs et le sucre, la levure puis la farine. 
+    Versez le chocolat fondu, puis mélangez jusqu'à obtention d'une pâte homogène. 
+    Versez la préparation dans un moule à manqué beurré et fariné. 
+    Faites cuire environ 25 min (adaptez le temps de cuisson pour obtenir un coeur plus ou moins fondant).
+    Vous pouvez réaliser votre gâteau dans un moule à cake. Dans ce cas, le temps de cuisson sera de 45 minutes. Il se marie très bien avec de la crème anglaise! Faites attention à la cuisson! Vous laisserez le gâteau moins longtemps si vous voulez un vrai fondant au chocolat.
+  ]]>
+  </preparation>
+</recette>

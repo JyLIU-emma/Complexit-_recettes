@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21212">
+  <titre>Carbonnade de boeuf à la bière de tonton Hervé (autocuiseur)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de macreuse de boeuf (ou viande à bourguignon)</p>
+    <p>4 oignons</p>
+    <p>25 cl de bière</p>
+    <p>sel, poivre</p>
+    <p>1 bouquet garni (thym, laurier, persil) </p>
+    <p>facultatif : 1 kg de pommes de terre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dégraissez, dénervez le boeuf et coupez le en fines tranches. Faites le roussir dans la cocotte avec 2 cuillères à soupe d'huile. Videz la cocotte du "jus" et réservez la viande. A la place de la viande, faites dorer légèrement les oignons coupés en fines lamelles avec 2 cuillères à soupe d'huile. Replacez la viande avec les oignons, mouillez de bière à hauteur et faire cuire 36 mn à partir de la mise en pression.On peut faire cuire les pommes de terre en même temps : il suffit de les déposer épluchées et coupées en deux sur le panier au dessus de la viande 6 min avant la fin de la cuisson, et de continuer celle-ci ensuite (de 6 minutes).
+  ]]>
+  </preparation>
+</recette>

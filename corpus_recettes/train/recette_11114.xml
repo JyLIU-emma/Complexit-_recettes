@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11114">
+  <titre>Crème de moules au safran</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kilo de moules fraîches </p>
+    <p>50 cl de vin blanc </p>
+    <p>1 l de crème fraiche 35% </p>
+    <p>1 pincée de sel </p>
+    <p>1 pincée de poivre </p>
+    <p>1 pincée de safran </p>
+    <p>2 cuillères à soupe de fécule de maïs </p>
+    <p>2 gousses d'ail</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole, cuire les moules à la vapeur avec le vin blanc et l'ail.
+    Retirer les moules dès que les coquilles ouvrent.
+    Après environ 5 min : délayer la fécule dans la crème, verser dans la casserole avec une pincée de safran.
+    Laisser mijoter quelques minutes jusqu'à ce que le liquide épaississe et prend une texture crémeuse.
+    Remettre les moules décortiquées dans le liquide, juste le temps de les réchauffer quelques secondes. Saler et poivrer.
+    Servir chaud.Si vous désirez alléger la crème de moules en remplaçant la crème par le lait, doublez la quantité de fécule. La fécule donne une texture plus raffinée et plus légère que la farine. Votre vin blanc (sec ?)  préféré.
+  ]]>
+  </preparation>
+</recette>

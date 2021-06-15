@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23992">
+  <titre>Poulet aux poivrons et Banyuls</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 cuisses de poulet</p>
+    <p>2 poivrons rouges</p>
+    <p>1 poivron jaune</p>
+    <p>1 oignon</p>
+    <p>2 gousses d'ail</p>
+    <p>20 cl de Banyuls</p>
+    <p>une pincée de thym</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites dorer les cuisses. Pendant ce temps, couper les poivrons en lanières et émincer l'oignon et l'ail.
+    Une fois les cuisses bien dorées, les mettre de côté. 
+    A la place, faites blondir l'oignon.
+    Ajouter les poivrons et l'ail. Cuire 15 min à feu doux.
+    Ajoutez les cuisses, puis le Banyuls. Salez et poivrez. Rajoutez une pincée de thym.
+    Laissez mijotez 45 min à 1h sur feu moyen, en remuant de temps en temps.
+    Servir avec du riz, pour trancher avec la belle couleur des oignons. Si vous ne trouvez pas de Banyuls, un bon vin cuit sucré fera l'affaire!
+  ]]>
+  </preparation>
+</recette>

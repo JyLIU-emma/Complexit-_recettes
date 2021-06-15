@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15935">
+  <titre>Bouchées créoles</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de biscuits à la cuiller </p>
+    <p>200 g de crème fraîche</p>
+    <p>2 cuillères à café de café soluble</p>
+    <p>3 cuillères à soupe de rhum</p>
+    <p>1 pincée de cannelle</p>
+    <p>150 g de sucre glace</p>
+    <p>150 g de beurre mou</p>
+    <p>100 g d'amandes effilées et grillées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Réduire les biscuits en chapelure. Ajouter la crème et mélanger.
+    Ajouter le café délayé dans le rhum, la cannelle, le sucre glace et le beurre mou. Travailler la pâte.
+    Former des boulettes et les rouler dans les amandes. Mettre au réfrigérateur au minimum 12h.
+  ]]>
+  </preparation>
+</recette>

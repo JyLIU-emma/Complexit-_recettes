@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23407">
+  <titre>Terrines de brocolis nappées de sauce aux noix</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>450 g de brocolis</p>
+    <p>3 oeufs</p>
+    <p>9 cuillères à soupe de crème fraîche</p>
+    <p>1 kg de noix hachées</p>
+    <p>6 cerneaux de noix</p>
+    <p>3 cuillères à café d'huile de noix</p>
+    <p>noix de muscade</p>
+    <p>15 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 200°C (thermostat 6-7).
+    Faire bouillir les brocolis 3 à 4 minutes dans de l'eau salée, puis les passer dans de l'eau glacée pendant quelques instants : il s'agit d'arrêter la cuisson mais aussi de conserver leur couleur.
+    Mixer les brocolis avec les oeufs, 4 cuillères à soupe de crème fraîche, du sel, du poivre et de la muscade.
+    Beurrer des ramequins puis les remplir de la préparation aux brocolis. Cuire au bain-marie pendant 20-25 minutes.
+    Préparer une sauce aux noix en faisant revenir les noix dans le beurre. Ajouter le reste de crème, l'huile de noix, saler et poivrer puis porter à ébullition pendant 3 minutes.
+    Verser la sauce sur les terrines démoulées. Décorer d'un cerneau de noix.
+  ]]>
+  </preparation>
+</recette>

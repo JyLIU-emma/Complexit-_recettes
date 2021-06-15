@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14177">
+  <titre>Sashimi de poisson à la tahitienne</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de saumon frais</p>
+    <p>250 g de thon frais</p>
+    <p>3 citrons verts</p>
+    <p>2 citrons jaunes</p>
+    <p>1 poivron rouge et 1 vert</p>
+    <p>3 carottes</p>
+    <p>1 brique de lait de coco</p>
+    <p>2 oignons</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les 2 tranches de poissons en lamelles assez fines et en morceaux de taille moyenne (4/5 cm).
+    Les mettre dans un saladier assez profond. Y verser le jus des 3 citrons verts et laissez macérer 20 mn.
+    Le temps de pause passé, rincez délicatement un à un les morceaux de poissons sous l'eau froide (ils sont desormais 'cuits').
+    Videz le saladier de son jus, remettre les morceaux de poissons, mettre les poivrons coupés en fines lamelles, les oignons en fines lamelles, les carottes en lamelles, puis terminer en incorporant le lait de coco et le jus des 2 citrons jaunes.
+    Bien remuer délicatement et laissez refroidir au réfrigérateur au moins 30 mn. A manger frais!
+     vin blanc sec
+  ]]>
+  </preparation>
+</recette>

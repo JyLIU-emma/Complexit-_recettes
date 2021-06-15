@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13132">
+  <titre>Kakis en marmelade</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de kakis</p>
+    <p>750 g de sucre roux</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les kakis non épluchés avec 15 cl d'eau pendant 15 à 20mn en remuant régulièrement.
+    Passer le tout au presse purée et mélanger la purée obtenue, avec le sucre.
+    Laisser mijoter à feu doux jusqu'à ce que le sucre se dissolve complètement.
+    Faire cuire à feux vif en remuant sans cesse à l'aide d'une cuillère de bois.
+    Au bout de 20 à 25 mn, la marmelade doit être à point.
+    Mettre en pots et couvrir lorsque la marmelade est refroidie.
+  ]]>
+  </preparation>
+</recette>

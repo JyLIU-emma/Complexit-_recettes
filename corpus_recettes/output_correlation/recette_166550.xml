@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166550">
+  <titre>Caramels facile à faire</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>700g sucre blanc</p>
+    <p>1 boite de lait condensé sucré (400g)</p>
+    <p>Lait</p>
+    <p>Beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Verser dans une casserole à fond épais, le sucre et le lait condensé sucré.
+    Ensuite remplir la boite de lait condensé à la moitié de lait. Rincer la boite avec le lait et verser dans la casserole.
+    Beurrer 2 plaques rondes.
+    Commencer à faire cuire la casserole à feu maximum, dès que les premières bulles apparaissent, baisser le feu au minimum.
+    Dès le départ de la cuisson, vous devez continuellement brasser le mélange à l'aide d'une spatule en bois (de préférence) jusqu'à l'obtention d'une masse caramel qui se détache de la casserole.
+    A ce moment-là, lorsque que la masse commence à se détacher de la casserole, mettez-y 2-3cs de beurre, continuer à tourner.
+    Dès que la masse se sépare bien de la casserole (env. 45-50min de brassage), verser la masse sur les 2 plaques préalablement beurrées.
+    Laisser refroidir un moment, et couper vos caramels en carré, puis refaite refroidir.C'est une recette quasiment "inratable", il faut juste beaucoup d'huile de coude sachant qu'il faut brasser dès le début et ceci jusqu'à la fin.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  - <OPER id="o_1">Verser</OPER> dans une casserole à <INGRED id="4">fond</INGRED> épais, le <INGRED id="1">sucre</INGRED> et le lait condensé sucré. Ensuite <OPER id="o_2">remplir</OPER> la <INGRED id="2">boite</INGRED> de lait condensé à la moitié de <INGRED id="1">lait</INGRED>. <OPER id="o_3">Rincer</OPER> la <INGRED id="4">boite</INGRED> avec le <INGRED id="1">lait</INGRED> et <OPER id="o_4">verser</OPER> dans la casserole. <OPER id="o_5">Beurrer</OPER> 2 plaques <INGRED id="2">rondes</INGRED>. <OPER id="o_6">Commencer</OPER> à faire <OPER id="o_7">cuire</OPER> la casserole à feu maximum, dès que les premières bulles apparaissent, <OPER id="o_8">baisser</OPER> le feu au minimum. Dès le départ de la cuisson, vous devez continuellement <OPER id="o_9">brasser</OPER> le <INGRED id="2">mélange</INGRED> à l'aide d'une spatule en bois ( de préférence ) jusqu'à l'obtention d'une masse caramel qui se détache de la casserole. A ce moment -là, lorsque que la masse commence à se <OPER id="o_10">détacher</OPER> de la casserole, <OPER id="o_11">mettez</OPER> - y 2 - 3cs de <INGRED id="1">beurre</INGRED>, <OPER id="o_12">continuer</OPER> à <OPER id="o_13">tourner</OPER>. Dès que la masse se sépare bien de la casserole ( env. 45 - 50min de brassage ), <OPER id="o_14">verser</OPER> la masse sur les 2 plaques préalablement beurrées. Laisser <OPER id="o_15">refroidir</OPER> un moment, et <OPER id="o_16">couper</OPER> vos caramels en <INGRED id="1">carré</INGRED>, puis refaite <OPER id="o_17">refroidir</OPER>. C'est une recette quasiment " inratable ", il faut juste beaucoup d'huile de coude sachant qu'il faut <OPER id="o_18">brasser</OPER> dès le début et ceci jusqu'à la fin.
+  </annotation>
+  <annotation methode="crf">
+  - Verser dans une casserole à <INGRED>fond</INGRED> épais <INGRED>,</INGRED> le <INGRED>sucre</INGRED> et le <INGRED>lait</INGRED> condensé sucré <INGRED>.</INGRED> Ensuite remplir la <INGRED>boite</INGRED> de <INGRED>lait condensé</INGRED> à la moitié de <INGRED>lait</INGRED> <INGRED>.</INGRED> Rincer la <INGRED>boite</INGRED> avec le <INGRED>lait</INGRED> et verser dans la casserole <INGRED>.</INGRED> Beurrer 2 plaques rondes. Commencer à faire cuire la casserole à feu maximum <INGRED>,</INGRED> dès que les premières bulles apparaissent <INGRED>,</INGRED> baisser le feu au minimum. Dès le départ de la cuisson <INGRED>,</INGRED> vous devez continuellement brasser le <INGRED>mélange</INGRED> à l'aide d'une spatule en bois ( de préférence ) jusqu'à l'obtention d'une masse <INGRED>caramel</INGRED> qui se détache de la casserole <INGRED>.</INGRED> A ce moment -là <INGRED>,</INGRED> lorsque que la masse commence à se détacher de la casserole <INGRED>,</INGRED> mettez - y 2 - 3cs de <INGRED>beurre</INGRED> <INGRED>,</INGRED> continuer à tourner. Dès que la masse se sépare bien de la casserole ( env <INGRED>.</INGRED> 45 - 50min de brassage ) <INGRED>,</INGRED> verser la masse sur les 2 plaques préalablement beurrées <INGRED>.</INGRED> Laisser refroidir un moment <INGRED>,</INGRED> et couper vos caramels en <INGRED>carré</INGRED> <INGRED>,</INGRED> puis refaite refroidir <INGRED>.</INGRED> C'est une recette quasiment " inratable " <INGRED>,</INGRED> il faut juste beaucoup d'<INGRED>huile</INGRED> de coude sachant qu'il faut brasser dès le début et ceci jusqu'à la fin.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 179.25*X + 537.75</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['sucre blanc']	 id:1	 quantité:700	 unité:g	 denombrable:False	 recipient:1
+ingredient:['boite de lait condensé sucré', 'boite']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['Lait']	 id:3	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['Beurre']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:verser	 id:o_1	 ingrédients_ralatifs:['4', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remplir	 id:o_2	 ingrédients_ralatifs:['2', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:rincer	 id:o_3	 ingrédients_ralatifs:['4', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:beurrer	 id:o_5	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:commencer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:baisser	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:brasser	 id:o_9	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:détacher	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_11	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:continuer	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tourner	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:couper	 id:o_16	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:700*X	 temps:1*X*1	 recipient:1
+operation:refroidir	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:brasser	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10634">
+  <titre>Roulades de saumon fumé au carré frais et crevettes grises</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tranches de saumon fumé</p>
+    <p>200 g de carré frais </p>
+    <p>15 cl de crème fraîche</p>
+    <p>50 g de crevettes grises</p>
+    <p>1 citron</p>
+    <p>ciboulette</p>
+    <p>1 échalote</p>
+    <p>sel, poivre noir</p>
+    <p>1 cuillère à soupe d'huile de noix</p>
+    <p>poivre concassé</p>
+    <p>cerneaux de noix pilées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ecraser à la fourchette le carré frais avec le poivre noir, le jus de citron, la ciboulette ciselée. Y ajouter la crème fraîche, les crevettes grises et les cerneaux de noix pilées.
+    Tartiner chaque tranche de saumon fumé de la préparation et les rouler. Garnir l'assiette de salade type mâche, aromatisée d'huile de noix, sel, poivre.Y déposer la roulade et garnir des cerneaux de noix restants et de quelques brins de ciboulette. Servir frais, bon appétit.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Ecraser</OPER> à la fourchette le <INGRED id="2">carré frais</INGRED> avec le <INGRED id="9">poivre noir</INGRED>, le jus de citron, la <INGRED id="7">ciboulette</INGRED> ciselée. Y <OPER id="o_2">ajouter</OPER> la <INGRED id="8">crème fraîche</INGRED>, les <INGRED id="4">crevettes grises</INGRED> et les <INGRED id="12">cerneaux de noix pilées</INGRED>. <OPER id="o_3">Tartiner</OPER> chaque tranche de <INGRED id="6">saumon fumé</INGRED> de la préparation et les <OPER id="o_4">rouler</OPER>. <OPER id="o_5">Garnir</OPER> l'assiette de salade type mâche, aromatisée d'<INGRED id="10">huile de noix</INGRED>, <INGRED id="9">sel</INGRED>, poivre. Y <OPER id="o_6">déposer</OPER> la roulade et <OPER id="o_7">garnir</OPER> des <INGRED id="12">cerneaux</INGRED> de <INGRED id="11">noix</INGRED> restants et de quelques brins de <INGRED id="7">ciboulette</INGRED>. Servir frais, bon appétit.
+  </annotation>
+  <annotation methode="crf">
+  Ecraser à la fourchette le <INGRED>carré</INGRED> frais avec le <INGRED>poivre noir</INGRED> <INGRED>,</INGRED> le <INGRED>jus de citron</INGRED> <INGRED>,</INGRED> la <INGRED>ciboulette</INGRED> ciselée. Y ajouter la <INGRED>crème fraîche</INGRED> <INGRED>,</INGRED> les <INGRED>crevettes grises</INGRED> et les <INGRED>cerneaux de noix pilées</INGRED>. Tartiner chaque tranche de <INGRED>saumon fumé</INGRED> de la préparation et les rouler <INGRED>.</INGRED> Garnir l'assiette de salade type mâche <INGRED>,</INGRED> aromatisée d'<INGRED>huile de noix</INGRED> <INGRED>,</INGRED> <INGRED>sel</INGRED> <INGRED>,</INGRED> poivre. Y déposer la roulade et garnir des <INGRED>cerneaux de noix</INGRED> restants et de quelques brins de <INGRED>ciboulette</INGRED>. Servir <INGRED>frais</INGRED> <INGRED>,</INGRED> bon appétit.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 3.26666666666667*X + 3.73333333333333</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 7*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['saumon fumé', 'saumon']	 id:1	 quantité:4	 unité:tranches de	 denombrable:True	 recipient:4*X
+ingredient:['carré frais', 'carré']	 id:2	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:3	 quantité:15	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['crevettes grises', 'crevettes']	 id:4	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['citron']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['ciboulette']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['échalote']	 id:7	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre noir', 'poivre']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['huile de noix', 'huile']	 id:10	 quantité:1	 unité:cuillère à soupe d'	 denombrable:True	 recipient:1*X
+ingredient:['poivre concassé', 'poivre']	 id:11	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['cerneaux de noix pilées', 'cerneaux']	 id:12	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:ecraser	 id:o_1	 ingrédients_ralatifs:['2', '9', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['8', '4', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tartiner	 id:o_3	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rouler	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garnir	 id:o_5	 ingrédients_ralatifs:['10', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déposer	 id:o_6	 ingrédients_ralatifs:['12', '11', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:garnir	 id:o_7	 ingrédients_ralatifs:['12', '11', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

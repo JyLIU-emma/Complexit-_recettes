@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22993">
+  <titre>Emincé de Poulet Thaï</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de blanc de poulet</p>
+    <p>6 échalotes</p>
+    <p>5 citrons verts</p>
+    <p>100 g de noix de cajou</p>
+    <p>30 g de gingembre frais</p>
+    <p>1 piment frais</p>
+    <p>4 cuillères à soupe de nuoc-mam (ou sauce soja, à défaut)</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>quelques feuilles de menthe</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir le poulet dans l'huile sans le faire griller. Hacher les noix de cajou, les échalotes, et le gingembre. 
+    Couper le piment en fines rondelles.
+    Hacher le poulet cuit et ajouter le nuoc-mam (ou la sauce soja), les jus des citrons, les échalotes, les noix de cajou, le piment et le gingembre (hors du feu, ne pas faire recuire). Parsemer de menthe ciselée.Servir tiède ou froid. Accompagner d'un peu de riz basmati.
+  ]]>
+  </preparation>
+</recette>

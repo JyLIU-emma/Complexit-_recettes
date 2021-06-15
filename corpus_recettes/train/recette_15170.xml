@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15170">
+  <titre>Crème fondante au chocolat et aux marrons</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de chocolat noir</p>
+    <p>230 g de crème de marrons sucrée</p>
+    <p>10 cl de crème fraîche liquide</p>
+    <p>150 ml de lait</p>
+    <p>2 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez la crème de marrons et les oeufs.
+    Dans une casserole, faites fondre le chocolat avec le lait et la crème fraîche.
+    Lorsque le chocolat est fondu, versez cette préparation sur la crème de marrons en remuant bien.
+    Mettez à cuire au bain-marie 45 mn environ à 200°C.
+    Laissez refroidir et mettez à reposer au réfrigérateur.
+    Il faut mettre un peu plus de crème de marrons que de chocolat, sous peine de ne plus sentir le goût des marrons...
+    Cette crème est exquise mais serait également délicieuse sur un fond de pâte sablée.
+  ]]>
+  </preparation>
+</recette>

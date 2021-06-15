@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11423">
+  <titre>Langoustines sur fondue de poireaux</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>42 langoustines</p>
+    <p>6 poireaux</p>
+    <p>6 carottes</p>
+    <p>15 cl de Pineau rouge</p>
+    <p>7 cl de cognac</p>
+    <p>safran, sel, poivre</p>
+    <p>25 cl de crème fraîche</p>
+    <p>1 cuillère à soupe de beurre</p>
+    <p>huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les poireaux et carottes en allumettes et faire revenir dans le beurre - couvrir et cuire 20 min à l'étouffée.
+    Verser le verre de pineau et cuire 5 min. Réserver sur un plat de service.
+    Faire revenir les langoustines dans une poêle avec l'huile. Retirer et réserver sur un plat de service.
+    Avec une spatule, gratter la poêle et verser le cognac. Porter à ébullition et verser la crème fraîche.
+    Retirer du feu avec la reprise de l'ébullition et verser sur les langoustines. Roussillon blanc ou chablis 8 à 9°)
+  ]]>
+  </preparation>
+</recette>

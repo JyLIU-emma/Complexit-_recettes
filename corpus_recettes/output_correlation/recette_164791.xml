@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164791">
+  <titre>Pôelé de carottes pommes de terre aux ST Jacques</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 à 8 carottes</p>
+    <p>4 pommes de terre</p>
+    <p>1 oignon</p>
+    <p>150 g de saint-Jacques sans corail</p>
+    <p>2 kub or</p>
+    <p>20 cl de crème liquide</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez les carottes et pommes de terre, taillez les en dés,(réservez).
+    Dans une pôéle ou un wok mettez un peu de matiére grasse faites revenir l'oignon. Qand l'oignon devient translucide mettez-y les carottes et P de Terre, émiéttez les cub-or sur vos légumes. Laisser mijoter une dizaines de minutes a couvert, incorpoez la créme puis les st jacques, poivrez et gôutez avant saler a votre convenance.
+    Laissez cuire 10 Minutes et votre recette est prête.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Pelez</OPER> les <INGRED id="2">carottes</INGRED> et <INGRED id="2">pommes de terre</INGRED>, <OPER id="o_2">taillez</OPER> les en dés,(réservez ). Dans une pôéle ou un wok <OPER id="o_3">mettez</OPER> un peu de matiére grasse faites <OPER id="o_4">revenir</OPER> l'<INGRED id="2">oignon</INGRED>. Qand l'<INGRED id="1">oignon</INGRED> devient translucide <OPER id="o_5">mettez</OPER> - y les <INGRED id="4">carottes</INGRED> et P de Terre, <OPER id="o_6">émiéttez</OPER> les cub - or sur vos légumes. Laisser <OPER id="o_7">mijoter</OPER> une dizaines de minutes a couvert, <OPER id="o_8">incorpoez</OPER> la créme puis les st jacques, <OPER id="o_9">poivrez</OPER> et gôutez avant <OPER id="o_10">saler</OPER> a votre convenance. Laissez <OPER id="o_11">cuire</OPER> 10 Minutes et votre recette est prête.
+  </annotation>
+  <annotation methode="crf">
+  Pelez les <INGRED>carottes</INGRED> et <INGRED>pommes de terre</INGRED> <INGRED>,</INGRED> taillez les en dés,(réservez ). Dans une pôéle <INGRED>ou</INGRED> un wok mettez un peu de matiére grasse faites revenir l'<INGRED>oignon</INGRED>. Qand l'<INGRED>oignon</INGRED> devient translucide mettez - y les <INGRED>carottes</INGRED> et P de Terre <INGRED>,</INGRED> émiéttez les cub - or sur vos <INGRED>légumes</INGRED> <INGRED>.</INGRED> Laisser mijoter une dizaines de minutes <INGRED>a</INGRED> couvert <INGRED>,</INGRED> incorpoez la créme puis les st jacques <INGRED>,</INGRED> poivrez et gôutez avant saler <INGRED>a</INGRED> votre convenance <INGRED>.</INGRED> Laissez cuire 10 Minutes et votre recette est prête.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 13.7647058823529*X + 4.23529411764706</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 13*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['carottes']	 id:1	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['pommes de terre', 'pommes']	 id:2	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['oignon']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['saint-Jacques sans corail', 'saint-Jacques']	 id:4	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['kub or', 'kub']	 id:5	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['crème liquide', 'crème']	 id:6	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:peler	 id:o_1	 ingrédients_ralatifs:['2', '2']	 nombre_opération_atomique:4*X+4*X	 temps:4*X*1+4*X*1	 recipient:0
+operation:tailler	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_3	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:revenir	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_5	 ingrédients_ralatifs:['1', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:émiétter	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:incorpoer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+]]>
+</operation_trouve>
+</recette>

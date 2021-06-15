@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12139">
+  <titre>Le Farcément</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800g de choux vert</p>
+    <p>1,2 kg de pommes de terre,</p>
+    <p>500 g de poire Passe Crassanne</p>
+    <p>500 g de marrons </p>
+    <p>200 g de marrons</p>
+    <p>200 g de pruneaux d'Agen dénoyautés</p>
+    <p>200 g de raisins secs</p>
+    <p>20 cl de marc de savoie</p>
+    <p>2 oeufs</p>
+    <p>100 g de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Râper les pommes de terre, le chou à la grille moyenne. Lier avec les oeufs et la farine. Ajouter tous les fruits coupés en morceaux, puis le marc de Savoie.
+    Faire cuire au bain marie four 4 à 5 heures à 150°C. Servir accompagné de diots (saucisses ou cotty). Pinot de Savoie
+  ]]>
+  </preparation>
+</recette>

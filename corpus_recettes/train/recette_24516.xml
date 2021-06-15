@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24516">
+  <titre>Aile de raie et beurre aux câpres</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de raie </p>
+    <p>1 l de court-bouillon</p>
+    <p>2 jaunes d'oeufs durs</p>
+    <p>2 cuillères à soupe de persil haché</p>
+    <p>2 cuillères à soupe de câpres</p>
+    <p>1/2 citron</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire la raie au court-bouillon environ 20 min.
+    Égoutter, retirer la peau et réservez la raie au chaud.
+    Écraser les jaunes d'oeufs à la fourchette avec le persil.
+    Saler, poivrer et ajouter le beurre fondu, les câpres et le jus du citron.
+    Bien mélanger et napper la raie de sauce.
+  ]]>
+  </preparation>
+</recette>

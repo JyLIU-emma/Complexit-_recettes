@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13718">
+  <titre>Tarte aux courgettes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée à dérouler</p>
+    <p>2 gros oignons</p>
+    <p>3 belles courgettes</p>
+    <p>1 grosse boîte de tomates pelées</p>
+    <p>3 tranches de jambon blanc maigre</p>
+    <p>10 cl de crème fraîche à 15 %</p>
+    <p>50 g de gruyère râpé</p>
+    <p>sel et Poivre</p>
+    <p>beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire préchauffer le four à thermostat 7.Eplucher les courgettes et les coupées en deux puis en quartier, éplucher les oignons et les couper en lamelles.
+    Faire revenir les oignons dans du beurre ainsi que les courgettes. Les faire brunir.
+    Egoutter les tomates pelées et les couper en morceaux, ajouter les aux courgettes et oignons et laisser réduire pendant 10 minutes. Saler et poivrer.
+    Etaler la pâte dans un moule à tarte, ajouter la préparation sur la pâte puis disposer les trois tranches de jambon afin de recouvrir toute la préparation.
+    Recouvrir de gruyère râpé puis enfourner pendant 25 min environ.
+  ]]>
+  </preparation>
+</recette>

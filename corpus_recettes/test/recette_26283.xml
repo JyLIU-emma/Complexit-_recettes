@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26283">
+  <titre>CRUMBLE D'ANANAS</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 ananas frais</p>
+    <p>185 g de farine</p>
+    <p>125 g de noix de coco en poudre</p>
+    <p>150 g de sucre de canne</p>
+    <p>150 g de beurre mou</p>
+    <p>1 cuillère à café de cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les ananas, couper en petits morceaux, et les mettre dans un plat à gratin. 
+    Faire le crumble en mélangeant dans un bol la farine, la noix de coco, le sucre, la cannelle, puis ajouter le beurre en petits morceaux et pétrir aux doigts. 
+    Mettre le crumble sur l'ananas et mettre le plat au four pendant 45 mn à 200°C. 
+    Servir tiède avec de la crème fouettée.
+  ]]>
+  </preparation>
+</recette>

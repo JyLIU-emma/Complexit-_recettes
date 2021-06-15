@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21098">
+  <titre>Gratin d'endives aux champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>9 endives</p>
+    <p>300 g de petits champignons de couche</p>
+    <p>7 échalotes</p>
+    <p>3 œufs entiers</p>
+    <p>30 cl de crème fraîche</p>
+    <p>parmesan râpé</p>
+    <p>chapelure</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer les champignons sous l’eau froide, puis leur couper le bout terreux.
+    Peler et émincer les échalotes, puis les faire revenir dans une poêle beurré avec les champignons.
+    Détailler les endives en tronçons, puis les mettre à chauffer dans une autre poêle avec un peu de beurre.
+    Pendant ce temps, battre les œufs dans un saladier avec la crème.
+    Saler, poivrer.
+    Préchauffer votre four à 180°C (thermostat 6).
+    Dans un plat à gratin beurré, réunir les endives avec la poêlée de champignons et d’échalotes, puis les napper du mélange d’œufs.
+    Saupoudrer le dessus du plat de chapelure et de parmesan à volonté, puis enfourner à four chaud pendant 35 min.
+    Terminer la cuisson 5 min à 240°C (thermostat 8) pour gratiner et servir immédiatement.
+    Vous pouvez y ajouter des lardons.
+  ]]>
+  </preparation>
+</recette>

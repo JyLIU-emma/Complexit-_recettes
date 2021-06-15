@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10671">
+  <titre>Coq au vin de Mme Maigret</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 coq</p>
+    <p>30 g de beurre</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>4 échalotes</p>
+    <p>2 carottes</p>
+    <p>2 gousses d'ail</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>5 cl d'eau de vie de prunelles</p>
+    <p>10 cl de bouillon de volaille</p>
+    <p>10 cl de Riesling</p>
+    <p>1 bouquet garni</p>
+    <p>sel, poivre</p>
+    <p>noix de muscade</p>
+    <p>1 jaune d'oeuf</p>
+    <p>10 cl de crème liquide</p>
+    <p>1 citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper le coq à cru.
+    Faire rissoler les morceaux dans moitié beurre, moitié huile et les retirer une fois colorés.
+    Dans la même cocotte faire revenir 2 carottes émincées, 4 échalotes hachées, 2 gousses d'ail écrasées, puis remettre les morceaux du coq.
+    Fariner légèrement.
+    Faire brunir et flamber à l'eau-de-vie de prunelles.
+    Mouiller d'1 dl de bouillon d'abattis et d'autant de Riesling. Ajouter un bouquet garni, sel et poivre, muscade râpée. Amener à ébullition.
+    Couvrir et cuire à feu doux trente à quarante minutes.
+    Retirer les morceaux de la volaille sur un plat chaud.
+    Passer la cuisson. Lier d'un jaune d'oeuf délayé dans un peu de crème fraîche sans laisser bouillir.
+    Ajouter un jus de citron. Réchauffer les morceaux de coq dans cette sauce, au bain-marie.
+    Au moment de servir, ajouter encore un soupçon de prunelle... d'Alsace, bien sûr !
+  ]]>
+  </preparation>
+</recette>

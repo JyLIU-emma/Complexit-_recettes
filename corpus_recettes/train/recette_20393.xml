@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20393">
+  <titre>Cassolette d'escargots au Chablis</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 boîte d'escargots (4 douzaines de très gros calibre)</p>
+    <p>150 g de champignons de Paris</p>
+    <p>150 g de cèpes coupés en morceaux</p>
+    <p>40 cl de Chablis</p>
+    <p>50 cl de fond de volaille</p>
+    <p>2 échalotes hachées</p>
+    <p>1 gousse d'ail</p>
+    <p>20 g de beurre</p>
+    <p>3 cuillères à soupe de crème fraîche</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    • Dans une sauteuse, faites fondre échalotes et beurre avec les escargots. 
+    • Ajoutez le Chablis, le fond de volaille, les champignons et les cèpes. Faites mijoter pendant 10 mn. 
+    • Ajoutez la crème fraîche et l'ail. Laissez mijoter encore 5 mn. 
+    • Rectifiez l'assaisonnement. 
+    • Servez dans une cassolette avec un peu de persil haché.
+     Chablis
+  ]]>
+  </preparation>
+</recette>

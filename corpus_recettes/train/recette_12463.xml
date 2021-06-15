@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12463">
+  <titre>Tarte aux aubergines</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée (déjà prête ou faite maison)</p>
+    <p>4 aubergines moyennes</p>
+    <p>lardons fumés ou poitrine fumée</p>
+    <p>2 gros champignons de Paris frais</p>
+    <p>20cl de crème liquide</p>
+    <p>2 oeufs</p>
+    <p>sel, poivre </p>
+    <p>herbes de provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les aubergines, les faire cuire à la cocotte 15 mn. Ecraser ensuite les aubergines pour faire dégorger l'eau.
+    Faire revenir les lardons.
+    Cuisson à blanc de la pâte feuilletée 10 mn à four chaud.
+    Disposer les aubergines écrasées sur le fond de pâte, puis y disperser les lardons. Emincer les champignons sur les lardons.
+    Battre crème, oeufs, sel, poivre, herbes de provence et verser sur la préparation.
+    Selon le goût, mettre du fromage râpé, ou parmesan. Cuire 30 à 40 mn à 200°C (thermostat 7).Parfaite pour le soir accompagnée de mâche et d'une vinaigrette à la moutarde à l'ancienne.
+  ]]>
+  </preparation>
+</recette>

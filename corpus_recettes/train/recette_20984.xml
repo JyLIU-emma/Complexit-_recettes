@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20984">
+  <titre>Fromage blanc vosgien aux myrtilles</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de fromage blanc</p>
+    <p>4 cuillère à soupe de sucre</p>
+    <p>1 yaourt</p>
+    <p>2 pommes</p>
+    <p>200 g de myrtilles</p>
+    <p>2 citrons pressés</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le fromage blanc, le sucre et le yaourt.
+    Peler et râper les pommes, les arroser immédiatement de jus de citron et incorporer au fromage blanc.
+    Ajouter enfin les myrtilles et servir frais.
+  ]]>
+  </preparation>
+</recette>

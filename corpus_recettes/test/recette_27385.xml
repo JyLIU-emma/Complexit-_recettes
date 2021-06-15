@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27385">
+  <titre>Baklavas</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>400 g de farine</p>
+    <p>125 g de beurre</p>
+    <p>40 cl d'huile</p>
+    <p>3 cuillères à soupe d'eau</p>
+    <p>3 oeufs</p>
+    <p>1 pincée de sel</p>
+    <p>150 g de poudre d'amandes</p>
+    <p>150 g de sucre en poudre</p>
+    <p>1 ou 2 cuillères à café de cannelle (selon votre goût)</p>
+    <p>3 cuillères à soupe d'eau de fleur d'oranger</p>
+    <p>30 cl de miel liquide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, mélanger la poudre d'amandes avec le sucre et l'eau de fleur d'oranger.
+    Dans un second saladier, battre les oeufs, puis y incorporer la farine, le sel, le beurre fondu, l'huile et l'eau. Bien mélanger, puis séparer en de petites noix.
+    Aplatir chaque noix pour en faire une feuille assez mince, puis l'enduir de beurre mou.
+    Empiler cinq de ces feuilles, constituer une couche de pâte d'amandes et ajouter encore cinq feuilles (toujours beurrées).
+    Couper en formes de losanges, puis dorer à l'oeuf battu.
+    Préchauffer le four à 180°C (thermostat 6). Cuire pendant 1 heure.
+    Faire chauffer le miel à feu doux, en arroser les baklavas dès leur sortie du four et laisser égoutter et refroidir sur une grille.
+  ]]>
+  </preparation>
+</recette>

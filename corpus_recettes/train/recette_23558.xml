@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23558">
+  <titre>Crevettes au riz et à l'avocat en coque de tomate</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 tomates</p>
+    <p>180 g de crevettes</p>
+    <p>3 oignons</p>
+    <p>2 branches de céleri</p>
+    <p>180 g de riz long grain</p>
+    <p>180 g de petits pois surgelé</p>
+    <p>1 avocat</p>
+    <p>4 cuillères à soupe de mayonnaise</p>
+    <p>2 cuillères à soupe de crème</p>
+    <p>10 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer finement les oignons et le céleri dans le beurre puis ajouter le riz. Lorsque le riz est translucide, mouiller avec de l'eau et laisser cuire jusqu'à ce que tout le liquide soit absorbé.
+    Faire cuire les petits pois dans l'eau bouillante salée durant 5 minutes, les égoutter et les mélanger au riz.
+    Couper un chapeau aux tomates et les vider.
+    Ajouter la chair de tomates au riz ainsi que les crevettes.
+    Ecraser la chair d'avocat avec la mayonnaise et la crème. Saler, poivrer et en assaisonner le riz aux crevettes.
+    Farcir les tomates de ce mélange et servir frais.
+  ]]>
+  </preparation>
+</recette>

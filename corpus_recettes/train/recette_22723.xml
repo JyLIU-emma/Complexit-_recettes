@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22723">
+  <titre>Curry de poulet au yaourt</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 blancs de poulet</p>
+    <p>5 oignons</p>
+    <p>2 pommes</p>
+    <p>2 yaourts (ou l'équivalent en crème fraîche) </p>
+    <p>2 cuillerées à soupe de curry en poudre</p>
+    <p>3 cuillerées à soupe d'huile</p>
+    <p>1 branche de coriandre</p>
+    <p>1/2 citron</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1) Coupez les blancs de poulet en petits morceaux. 
+    2) Epluchez, pelez les oignons et émincez-les. Epluchez les pommes, coupez-les en quartiers. Epépinez-les, puis hachez-les. Citronnez le hachis pour éviter qu'il ne noircisse. 
+    3) Faites chauffer l'huile dans une cocotte. Mettez les oignons et les morceaux de poulet à revenir doucement. (si la préparation rend de l'eau, mettez le feu à vif afin que le liquide s'évapore et revenez à feu moyen). 
+    4) Ajoutez ensuite le hachis de pommes et le curry. Mélangez hors du feu. Ajoutez 2 verres d'eau et les yaourts (ou la crème fraîche). Salez et poivrez. Mélangez et remettez à cuire sur feu doux. Laissez mijoter 45 mn. 
+    5) Versez le curry dans un plat, parsemez-le de feuilles de coriandre. Servez avec du riz basmati, par exemple.
+     A votre guise !
+  ]]>
+  </preparation>
+</recette>

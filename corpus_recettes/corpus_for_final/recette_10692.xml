@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10692">
+  <titre>Bruschetta de carré frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 tranches de pain</p>
+    <p>huile d'olive en quantité suffisante</p>
+    <p>origan frais</p>
+    <p>150 g de carré frais</p>
+    <p>4 tomates séchéss</p>
+    <p>1 gousse d'ail</p>
+    <p>3 feuilles d'estragon</p>
+    <p>poivre au moulin (au goût)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un bol du robot culinaire, déposer 3 tomates, 30 ml (2 c. à soupe) d'huile et l'ail, puis les broyer.
+    Ajouter le fromage carré frais et homogénéiser.
+    Ciseler la tomate sèche restante et déposer sur chaque tranche de pain la valeur de 5 ml (1 c. à thé) du mélange obtenu à l'étape n° 2, ainsi que 2 filaments de tomate séchée, et les placer sous le grill du four durant environ 2 minutes.
+    Saupoudrer d'origan frais, arroser légèrement de quelques gouttes d'huile et servir.
+  ]]>
+  </preparation>
+</recette>

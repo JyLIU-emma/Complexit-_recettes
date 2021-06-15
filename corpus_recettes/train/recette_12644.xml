@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12644">
+  <titre>Salade Alsacienne</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 laitue ou autre salade tendre</p>
+    <p>6 tranches de jambon blanc</p>
+    <p>4 saucisses de Strasbourg</p>
+    <p>2 tomates moyennes</p>
+    <p>200 g d'emmental en dés</p>
+    <p>4 œufs durs</p>
+    <p>400 g de pommes de terre à chair ferme (ratte, charlotte...)</p>
+    <p>1 oignon</p>
+    <p>vinaigrette</p>
+    <p>persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver la salade en laissant les feuilles entières.
+    Couper le jambon et l'emmental en dés. Couper les œufs et les tomates en quartiers.
+    Faire cuire les pommes de terre à la vapeur, les éplucher et les couper en rondelles.
+    Disposer dans 4 grandes assiettes : un lit de laitue sur les bords, puis les pommes de terre encore chaudes.
+    Continuer avec le jambon ,l'emmenthal, les saucisses en rondelles (préalablement réchauffées)Décorer avec les quartiers de tomates et d'œufs, quelques rondelles d'oignon, puis napper de vinaigrette.
+    Servir immédiatement.Cette salade tiède est très copieuse et agréable en toute saison.
+  ]]>
+  </preparation>
+</recette>

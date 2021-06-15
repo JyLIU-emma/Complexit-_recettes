@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20102">
+  <titre>Salade crevettes pamplemousse</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 tête de salade feuille de chêne rouge ou verte</p>
+    <p>200 g de crevettes roses</p>
+    <p>2 pamplemousses</p>
+    <p>huile, vinaigre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    * Eplucher les pamplemousses à vif, couper en quartiers, les mettre dans un bol, placer au frais jusqu'à la fin de la préparation.  
+    *Détacher les feuilles de la salade, laver, égoutter soigneusement et réserver. 
+    *Décortiquer les crevettes, réserver au frais. 
+    * A la dernière minute : dans un saladier, préparer une vinaigrette avec huile, un peu de vinaigre et le jus des pamplemousses recueilli dans le bol, sel et poivre. 
+    Y verser les feuilles de salade, les crevettes et les quartiers de pamplemousses. Mélanger délicatement et servir sans attendre
+    variante pour la sauce : mélanger le jus des pamplemousses à de la mayonnaise  vin blanc ou rosé en été 
+  ]]>
+  </preparation>
+</recette>

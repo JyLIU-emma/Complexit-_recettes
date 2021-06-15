@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14587">
+  <titre>Pain de thon et pommes de terre</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 grosse boîte de thon au naturel </p>
+    <p>3 grosses pommes de terre</p>
+    <p>5 cuillères à soupe de mayonnaise</p>
+    <p>estragon, sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    A préparer la veille.
+    Faire cuire les pommes de terre et les tranformer en purée.
+    Pendant ce temps, émietter le thon et le mélanger avec la mayonnaise, les herbes, le sel et le poivre.
+    Lorsque la purée est froide, l'incorporer au mélange de thon.
+    Mettre dans un moule à cake beurré, mettre au frais pendant 12 h minimun.
+    Servir bien frais, en entrée (en tranches) ou à l'apéritif.
+  ]]>
+  </preparation>
+</recette>

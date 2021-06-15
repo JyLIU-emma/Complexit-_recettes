@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11838">
+  <titre>Lapin sauté chasseur</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 lapin</p>
+    <p>beurre</p>
+    <p>farine</p>
+    <p>10 échalotes</p>
+    <p>2 tomates</p>
+    <p>2 gousses d'ail</p>
+    <p>1 bouquet garni</p>
+    <p>vin blanc sec</p>
+    <p>1 bouillon de volaille</p>
+    <p>sel, poivre</p>
+    <p>200 g de champignons</p>
+    <p>120 g de lardons facultatif</p>
+    <p>estragon</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découpez le lapin en morceaux. Assaisonnez-les, farinez-les. Faites-les rissoler en cocotte dans du beurre fondu. Farinez légèrement, remuez et passez au four à découvert 5 minutes.
+    Ajoutez alors les échalotes hachées, les champignons émincés, les lardons blanchis (si vous en mettez) et faites suer à feu doux. Ajoutez les tomates pelées, épépinées, concassées.
+    Mouillez de moitié vin blanc et moitié bouillon à mi-hauteur. Ajoutez l'ail écrasé et le bouquet garni. Portez à ébullition, puis cuire doucement à couvert.A cuisson, retirez le bouquet garni, rectifiez l'assaisonnement, saupoudrez d'estragon ciselé et servez.
+  ]]>
+  </preparation>
+</recette>

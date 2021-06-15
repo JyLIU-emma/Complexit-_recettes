@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169221">
+  <titre>Risotto Poulet-Citron</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 tasses à expresso de riz rond</p>
+    <p>une cs d'huile d'olive</p>
+    <p>5cl de vin blanc</p>
+    <p>1 cube pour bouillon</p>
+    <p>7 tasses à expresso d'eau</p>
+    <p>deux escalopes de poulet</p>
+    <p>un demi citron</p>
+    <p>une cs de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Verser l'eau dans une casserole, la faire chauffer puis dissoudre le cube. Ajouter le jus d'un demi citron. 
+    Verser en même temps le riz rond dans un faitout puis ajouter la cuiller d'huile d'olive. Remuer jusqu'à ce que le riz soit translucide. 
+    Mettre sur feu fort puis ajouter le vin blanc. Verser le bouillon petit à petit. Ajuster la dose d'eau dans le riz jusqu'à ce qu'il soit cuit. 
+    Faire cuire une escalope et demi puis la hacher. Cuire la demi escalope restante puis la couper en dés. 
+    Lorsque le riz est cuit, et toujours sur le feu, ajouter la crème fraiche puis le poulet haché. 
+    Servir avec les dés de poulet.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Verser</OPER> l'<INGRED id="1">eau</INGRED> dans une casserole, la <INGRED id="4">faire</INGRED> <OPER id="o_2">chauffer</OPER> puis <OPER id="o_3">dissoudre</OPER> le <INGRED id="4">cube</INGRED>. <OPER id="o_4">Ajouter</OPER> le <INGRED id="8">jus d'un demi citron</INGRED>. <OPER id="o_5">Verser</OPER> en même temps le <INGRED id="1">riz rond</INGRED> dans un faitout puis <OPER id="o_6">ajouter</OPER> la cuiller d'<INGRED id="5">huile d'olive</INGRED>. <OPER id="o_7">Remuer</OPER> jusqu'à ce que le riz soit translucide. <OPER id="o_8">Mettre</OPER> sur feu fort puis <OPER id="o_9">ajouter</OPER> le <INGRED id="5">vin blanc</INGRED>. <OPER id="o_10">Verser</OPER> le <INGRED id="2">bouillon</INGRED> petit à petit. <OPER id="o_11">Ajuster</OPER> la dose d'<INGRED id="5">eau</INGRED> dans le <INGRED id="1">riz</INGRED> jusqu'à ce qu'il soit cuit. Faire <OPER id="o_12">cuire</OPER> une <INGRED id="1">escalope</INGRED> et <INGRED id="2">demi</INGRED> puis la <OPER id="o_13">hacher</OPER>. <OPER id="o_14">Cuire</OPER> la demi <INGRED id="1">escalope</INGRED> restante puis la <OPER id="o_15">couper</OPER> en <INGRED id="4">dés</INGRED>. Lorsque le riz est cuit, et toujours sur le feu, <OPER id="o_16">ajouter</OPER> la <INGRED id="4">crème fraiche</INGRED> puis le poulet haché. Servir avec les <INGRED id="4">dés</INGRED> de poulet.
+  </annotation>
+  <annotation methode="crf">
+  Verser l'<INGRED>eau</INGRED> dans une casserole <INGRED>,</INGRED> la faire chauffer puis dissoudre le cube. Ajouter le <INGRED>jus</INGRED> d'un <INGRED>demi</INGRED> <INGRED>citron</INGRED> <INGRED>.</INGRED> Verser en même temps le <INGRED>riz</INGRED> rond dans un faitout puis ajouter la cuiller d'<INGRED>huile d'olive</INGRED> <INGRED>.</INGRED> Remuer jusqu'à ce que le <INGRED>riz</INGRED> soit translucide. Mettre sur feu fort puis ajouter le <INGRED>vin blanc</INGRED> <INGRED>.</INGRED> Verser le <INGRED>bouillon</INGRED> <INGRED>petit</INGRED> à <INGRED>petit</INGRED> <INGRED>.</INGRED> Ajuster la dose d'<INGRED>eau</INGRED> dans le <INGRED>riz</INGRED> jusqu'à ce qu'il soit cuit. Faire cuire une escalope et <INGRED>demi</INGRED> puis la hacher <INGRED>.</INGRED> Cuire la <INGRED>demi</INGRED> escalope restante puis la couper en dés <INGRED>.</INGRED> Lorsque le <INGRED>riz</INGRED> est cuit <INGRED>,</INGRED> et toujours sur le feu <INGRED>,</INGRED> ajouter la <INGRED>crème fraiche</INGRED> puis le <INGRED>poulet haché</INGRED>. Servir avec les dés de <INGRED>poulet</INGRED> <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 10.6666666666667*X + 5.33333333333333</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 10*X + 11</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['expresso de riz rond', 'expresso']	 id:1	 quantité:2	 unité:tasses à	 denombrable:True	 recipient:2*X
+ingredient:["huile d'olive", 'huile']	 id:2	 quantité:non_precis	 unité:cs d'	 denombrable:False	 recipient:1
+ingredient:['vin blanc', 'vin']	 id:3	 quantité:5	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['cube']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:["expresso d'eau", 'expresso']	 id:5	 quantité:7	 unité:tasses à	 denombrable:True	 recipient:7*X
+ingredient:['deux escalopes de poulet', 'deux']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['citron']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['crème fraîche', 'crème']	 id:8	 quantité:non_precis	 unité:cs de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:verser	 id:o_1	 ingrédients_ralatifs:['1', '4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_2	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:dissoudre	 id:o_3	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_4	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_5	 ingrédients_ralatifs:['1', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_8	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_10	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajuster	 id:o_11	 ingrédients_ralatifs:['5', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_12	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:hacher	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5*X	 recipient:1
+operation:cuire	 id:o_14	 ingrédients_ralatifs:['1', '4']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:couper	 id:o_15	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1*X*1	 recipient:1
+operation:ajouter	 id:o_16	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24892">
+  <titre>Maïs en soufflé fromager</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>55 g de comté</p>
+    <p>40 g de farine</p>
+    <p>65 g de beurre</p>
+    <p>40 cl de lait</p>
+    <p>4 oeufs</p>
+    <p>120 g maïs doux en grains</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 200°C (thermostat 6-7). 
+    Mixer le maïs.
+    Faire cuire la farine dans le beurre jusqu'à ce qu'elle soit blonde puis verser le lait progressivement.
+    Laisser épaissir sur feu doux en remuant constamment.
+    Lorsque le mélange est épais, ajouter le maïs, saler et poivrer.
+    Incorporer les jaunes d'oeufs et le fromage puis les blancs montés en neige ferme.
+    Verser la préparation dans un moule à soufflé beurré et fariné.
+    Enfourner pour 35 minutes de cuisson sans ouvrir la porte du four.
+  ]]>
+  </preparation>
+</recette>

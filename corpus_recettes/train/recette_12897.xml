@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12897">
+  <titre>Mérou en papillote de lard au jus de poulet rôti</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 filets de mérou (ou de lotte)</p>
+    <p>8 tranches de lard non fumé fines</p>
+    <p>250 g d'ailerons de poulet</p>
+    <p>1 oignon</p>
+    <p>beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Jus de poulet roti : préchauffer le four à 300 degrés. Mettre les ailerons avec l'oignon emincé dans un plat allant au four. Ajouter un demi verre d'eau.
+    Cuire à 200°C pendant 1 heure.
+    A la fin de la cuisson, déglacer le plat a l'eau froide,
+    reduire, ajouter une noix de beurre, réserver
+    Entourer chaque filet de mérou avec deux tranches de lard en croix, maintenir les deux tranches avec une pique en bois.
+    Cuire à four très chaud pendant 5 minutes, le mérou ne doit surtout pas être trop cuit, sinon il devient caoutchouteux.
+    Servir sur une assiette bien chaude, avec un filet de jus de poulet rôti.
+  ]]>
+  </preparation>
+</recette>

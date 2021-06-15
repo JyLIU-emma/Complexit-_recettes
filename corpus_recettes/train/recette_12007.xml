@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12007">
+  <titre>Brioche surprise</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 brioches au beurre rondes</p>
+    <p>100 g de petits pois très fins cuits</p>
+    <p>200 g de chair de crabe</p>
+    <p>2 cuillères à soupe de crème épaisse</p>
+    <p>1 citron vert</p>
+    <p>1/2 cuillère à soupe de curry</p>
+    <p>4 brins de coriandre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Effeuiller la chair du crabe et mettre dans un bol, râper finement au-dessus le zeste du citon vert.
+    Presser le jus du citron et le verser sur le crabe. Ciseler la coriandre.
+    Mettre la crème dans un autre bol, poivrer et ajouter le curry et fouetter.
+    Verser cette crème sur le crabe, mélanger,ajouter les petits pois,la coriandre et mélanger encore.
+    Retirer le chapeau des brioches et creuser délicatement.Répartir la préparation dans les brioches et servir aussitôt.Cette farce peut être préparée à l'avance et réserver eu réfrigérateur.
+  ]]>
+  </preparation>
+</recette>

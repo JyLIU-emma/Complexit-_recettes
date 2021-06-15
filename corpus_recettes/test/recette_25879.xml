@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25879">
+  <titre>Tarte aux pommes crémeuse</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>125 g de beurre</p>
+    <p>4 pommes</p>
+    <p>3 oeufs</p>
+    <p>100 g de sucre</p>
+    <p>20 cl crème fraîche</p>
+    <p>2 cuillères à soupe de rhum</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélangez la farine, une pincée de sel, le beurre coupé en morceaux et 10 cl d'eau. Pétrir rapidement, rouler en boule et laisser reposer au frais.
+    Peler et couper les pommes en lamelles.
+    Les disposer sur la pâte étalée dans un moule à tarte. Verser le rhum et saupoudrer de 2 cuillères de sucre.
+    Enfourner au four à 200°C (thermostat 6-7) pour 20 minutes.
+    Battre les jaunes d'oeufs avec la crème fraîche et le sucre restant. Incorporer les blancs battus en neige et verser le tout sur la tarte. Poursuivre la cuisson encore 20 minutes.
+  ]]>
+  </preparation>
+</recette>

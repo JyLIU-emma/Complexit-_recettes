@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13783">
+  <titre>Glace aux meringues</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>50 cl de crème à 25%</p>
+    <p>100 g de meringues</p>
+    <p>20 cl de coulis de fruits (par exemple framboises)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre la crème en chantilly, émietter les meringues, mélanger les deux.
+    Mettre dans le moule et congeler une nuit.
+    Servir avec un coulis tiède de fruits rouges.
+  ]]>
+  </preparation>
+</recette>

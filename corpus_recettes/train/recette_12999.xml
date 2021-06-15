@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12999">
+  <titre>Galette de goumeau (Franche-Comté)</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>1 oeuf</p>
+    <p>50g de sucre</p>
+    <p>6 cuillères à soupe de crème épaisse ou de peau de lait</p>
+    <p>1 dl de lait</p>
+    <p>1/2 cuillère à café de sel</p>
+    <p>15g de levure de bière</p>
+    <p>1 cuillère à soupe d'eau de fleur d'oranger</p>
+    <p>200g de farine</p>
+    <p>Pour le goumeau :</p>
+    <p>5 cuillères à soupe rases de crème fraiche épaisse</p>
+    <p>1 jaune d'oeuf</p>
+    <p>5 cuillères à soupe de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Délayez la levure dans 3 cuillères à soupe de lait à peine tiède.
+    Dans une terrine, mélangez l'oeuf entier avec le sucre puis ajouter le sel, la crème, l'eau d'oranger, le reste de lait tiède et enfin la farine (parfois un peu plus de 200g) pour obtenir une pâte assez molle.
+    Ajouter en dernier lieu la levure délayée dans le lait.Pétrir à la main quelques minutes.
+    Beurrer et fariner un moule à tarte à fond plein, puis étaler la pâte à la main dans ce moule (environ 1,5 cm épaisseur).Laisser lever au tiède pendant 2 à 3 heures.
+    Juste avant la cuisson, préparer le goumeau en mélangeant la crème, le jaune d'oeurf et le sucre.
+    Etendre cette crème sur la pâte et faire cuire à four chaud.
+    Immédiatement à la sortie du four, soupoudrer le gâteau de sucre en poudre.On peut servir la galette de Goumeau avec de la glace à la vanille.
+  ]]>
+  </preparation>
+</recette>

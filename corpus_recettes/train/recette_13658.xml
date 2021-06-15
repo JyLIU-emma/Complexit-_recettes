@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13658">
+  <titre>Massepain facile</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125g de sucre</p>
+    <p>60g de fécule de pomme de terre</p>
+    <p>2 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Séparer le blanc des jaunes. Mélanger les jaunes et le sucre jusqu'à obtenir une pâte liquide, puis ajouter la fécule.
+    Monter les blancs en neige (bien durs). Les mélanger au reste.
+    Mettre dans un moule beurré et cuire à 200°C.
+    Possibilité d'accompagner de crème anglaise ou confiture.
+  ]]>
+  </preparation>
+</recette>

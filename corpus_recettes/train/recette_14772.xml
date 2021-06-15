@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14772">
+  <titre>Pain d'épice rapide</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 oeufs</p>
+    <p>200 ml de miel</p>
+    <p>1 cuillère à soupe de cacao amer</p>
+    <p>1 cuillère à soupe de cannelle</p>
+    <p>1 pointe de couteau de clou de girofle en poudre</p>
+    <p>80 g de beurre fondu</p>
+    <p>120 ml de crème fraîche</p>
+    <p>200 g de farine </p>
+    <p>1 paquet de levure chimique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger tous les ingrédients dans l'ordre. 
+    Verser dans un moule et faire cuire 20 mn au four, thermostat 6 (180°C).
+     vin moelleux
+  ]]>
+  </preparation>
+</recette>

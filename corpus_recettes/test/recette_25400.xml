@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25400">
+  <titre>Blettes à l'ail et aux anchois</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>750 g de côtes de blette</p>
+    <p>1 tête d'ail</p>
+    <p>12 à 15 filets d'anchois au sel ou à l'huile</p>
+    <p>1 bouquet de persil</p>
+    <p>1 gros oignon</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>20 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les côtes (la partie blanche) de blettes en tronçons. Les plonger dans une grande quantité d'eau bouillante avec une petite cuillère à café de sel et 2 gousses d'ail non pelées. Cuisez 15 minutes à frémissement. 
+    Rincez les anchois sous l'eau et ôtez les arêtes.
+    Hachez menu l'oignon et faites-le fondre dans l'huile et le beurre. Lorsqu'il est tendre, ajoutez 6 filets d'anchois.
+    Egouttez les blettes. Ecrasez 2 autres gousses d'ail et mettez cette purée dans la casserole avec les anchois. Ajoutez les blettes, mélangez et poivrez. Saupoudrez de persil haché et déposez dessus des filets d'anchois et des gousses d'ail restantes. Laissez mijoter 20 minutes puis servez, décoré de pluches de persil.
+  ]]>
+  </preparation>
+</recette>

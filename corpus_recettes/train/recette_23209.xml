@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23209">
+  <titre>Chèvres chauds et salade tiède d'épinards et de poivrons confits</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g épinards frais</p>
+    <p>3 poivrons (1 vert, 1 rouge, 1 jaune) </p>
+    <p>2 crottins de Chavignol</p>
+    <p>4 petites tomates confites (à acheter ou à faire soi même) </p>
+    <p>4 tranches de pain de campagne</p>
+    <p>huile d'olive</p>
+    <p>4 feuilles de basilic</p>
+    <p>ail</p>
+    <p>sel, poivre</p>
+    <p>vinaigre balsamique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper les 3 poivrons en petites lanières. Hachez finement l'ail. 
+    Dans une poêle, faites chauffer de l'huile d'olive et faites-y cuire doucement les poivrons et l'ail jusqu'à ce que les poivrons soient bien confits (20 mn environ). Salez. 
+    Pendant ce temps, lavez les épinards et égouttez-les bien. 
+    Dans une casserole, faire revenir les épinards dans un peu d'huile d'olive et dès qu'ils ramollissent un peu, arrêtez la cuisson et réservez-les dans un plat. Salez et poivrez. 
+    Sur les tranches de pain de campagne, disposez successivement : une tomate confite, une feuille de basilic, un demi-crottin, un filet d'huile, sel et poivre et enfournez à 180°C pendant 5 à 10 mn (quand les fromages coulent bien). 
+    Sur une assiette, disposez au centre les épinards légèrement cuits et tièdes puis les tranches de pain de campagne avec le fromage de chèvre au dessus et tout autour des poivrons confits en prenant soin de les égouttez de leur huile. Versez un filet de vinaigre balsamique.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12603">
+  <titre>Escargots aux lardons et à l'estragon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>4 douzaines d'escargots de Bourgogne décoquillés et précuits.</p>
+    <p>3 tranches de poitrine fumée </p>
+    <p>4 échalotes moyennes</p>
+    <p>1/2 botte d'estragon</p>
+    <p>3 cuillères à soupe de vin blanc</p>
+    <p>1 cuillère à soupe de crème fraiche</p>
+    <p>150 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez et ciselez l'estragon. Hachez les échalotes.
+    Dans une casserole, mettez le vin blanc, l'estragon et les échalotes. Faites bouillir pendant 3 minutes environ.
+    Ajoutez la crème et le beurre en morceaux; fouettez jusqu'à ébullition. Ajoutez les escargots. Laisser sur feu doux.
+    Taillez la poitrine fumée en lardons, puis faites-les revenir.
+    Mélangez le tout et servez très chaud.
+    N'hésitez pas à ajouter de la crème fraîche. Cet ingrédient ne gache pas la sauce, au contraire ...Vous pouvez servir dans des petits plats individuels. Saint Romain Blanc
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164990">
+  <titre>Gâteau très moelleux choco-café</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 œufs</p>
+    <p>200 g de sucre</p>
+    <p>100 g de farine</p>
+    <p>150 g de beurre</p>
+    <p>125 g d'amandes en poudre</p>
+    <p>150 g de chocolat</p>
+    <p>1 petite tasse de café très serré</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Séparer les blancs des jaunes. Mélanger le sucre et les jaunes jusqu'à obtention d'une base blanchie et mousseuse.
+    Rajouter la farine, mélanger. Puis le beurre fondu, mélanger encore. Mettre sur la préparation les amandes en poudre, le chocolat fondu et le café fort, puis mélanger le tout.
+    Monter les blancs en neige avec une pincée de sel (ils doivent être très très fermes), puis incorporer à la préparation sans remuer (mélanger en soulevant la pâte avec un fouet).Mettre le tout dans un moule beurré.Mettre au four (chaleur tournante) préchauffé à 180°C (thermostat 6), et le laisser une bonne demi heure.
+    Piquer le gâteau, si le couteau sort propre, c'est prêt!Démouler une dizaine de minutes plus tard et quand il est prêt à servir, saupoudrer de sure glace (pour la déco!)C'est un gâteau qui a toujours eu beaucoup de succès au fil des générations (transmission grand mère, mère et fille !)
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Séparer</OPER> les <INGRED id="7">blancs</INGRED> des jaunes. <OPER id="o_2">Mélanger</OPER> le sucre et les <INGRED id="3">jaunes</INGRED> jusqu'à obtention d'une base blanchie et mousseuse. <OPER id="o_3">Rajouter</OPER> la farine, <OPER id="o_4">mélanger</OPER>. Puis le <INGRED id="2">beurre fondu</INGRED>, <OPER id="o_5">mélanger</OPER> encore. <OPER id="o_6">Mettre</OPER> sur la <INGRED id="4">préparation</INGRED> les amandes en poudre, le <INGRED id="2">chocolat</INGRED> fondu et le <INGRED id="3">café</INGRED> fort, puis <OPER id="o_7">mélanger</OPER> le tout. <OPER id="o_8">Monter</OPER> les <INGRED id="7">blancs</INGRED> en neige avec une pincée de <INGRED id="4">sel</INGRED> ( ils doivent être très très fermes ), puis <OPER id="o_9">incorporer</OPER> à la <INGRED id="4">préparation</INGRED> sans <OPER id="o_10">remuer</OPER> ( <OPER id="o_11">mélanger</OPER> en soulevant la <INGRED id="1">pâte</INGRED> avec un <OPER id="o_12">fouet).Mettre</OPER> le tout dans un moule beurré. <OPER id="o_13">Mettre</OPER> au four ( chaleur tournante ) préchauffé à 180 ° C ( thermostat 6 ), et le laisser une bonne <INGRED id="2">demi</INGRED> heure. <OPER id="o_14">Piquer</OPER> le gâteau, si le couteau sort propre, c'est <OPER id="o_15">prêt!Démouler</OPER> une dizaine de minutes plus tard et quand il est prêt à servir, <OPER id="o_16">saupoudrer</OPER> de sure glace ( pour la déco!)C'est un gâteau qui a toujours eu beaucoup de succès au fil des générations ( transmission grand mère, mère et fille ! )
+  </annotation>
+  <annotation methode="crf">
+  Séparer les <INGRED>blancs</INGRED> des <INGRED>jaunes</INGRED> <INGRED>.</INGRED> Mélanger le <INGRED>sucre</INGRED> et les <INGRED>jaunes</INGRED> jusqu'à obtention d'une base blanchie et mousseuse. Rajouter la <INGRED>farine</INGRED> <INGRED>,</INGRED> mélanger. Puis le <INGRED>beurre fondu</INGRED> <INGRED>,</INGRED> mélanger encore. Mettre sur la préparation les <INGRED>amandes en poudre</INGRED> <INGRED>,</INGRED> le <INGRED>chocolat fondu</INGRED> et le <INGRED>café</INGRED> fort <INGRED>,</INGRED> puis mélanger le tout <INGRED>.</INGRED> Monter les <INGRED>blancs</INGRED> en neige avec une pincée de <INGRED>sel</INGRED> ( ils doivent être très très fermes ) <INGRED>,</INGRED> puis incorporer à la préparation sans remuer ( mélanger en soulevant la <INGRED>pâte</INGRED> avec un fouet).Mettre le tout dans un moule beurré. Mettre au four ( chaleur tournante ) préchauffé à 180 ° C ( thermostat 6 ) <INGRED>,</INGRED> et le laisser une bonne <INGRED>demi</INGRED> heure. Piquer le gâteau <INGRED>,</INGRED> si le couteau sort propre <INGRED>,</INGRED> c'est prêt!Démouler une dizaine de minutes plus tard et quand il est prêt à servir <INGRED>,</INGRED> saupoudrer de sure glace ( pour la déco!)C'est un gâteau qui <INGRED>a</INGRED> toujours eu beaucoup de succès au fil des générations ( transmission grand mère <INGRED>,</INGRED> mère et fille ! )
+  </annotation>
+  <complexite>
+    <temps>f(X) = 8.0*X + 8.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 5*X + 12</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['œufs']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['sucre']	 id:2	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:3	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:4	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['amandes en poudre', 'amandes']	 id:5	 quantité:125	 unité:g d'	 denombrable:False	 recipient:1
+ingredient:['chocolat']	 id:6	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['café très serré', 'café']	 id:7	 quantité:1	 unité:tasse de	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:séparer	 id:o_1	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_2	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:rajouter	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mélanger	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mettre	 id:o_6	 ingrédients_ralatifs:['4', '2', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mélanger	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:monter	 id:o_8	 ingrédients_ralatifs:['7', '4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_9	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_11	 ingrédients_ralatifs:['7', '4', '4', '1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:fouet).mettre	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_13	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:piquer	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:prêt!démouler	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saupoudrer	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

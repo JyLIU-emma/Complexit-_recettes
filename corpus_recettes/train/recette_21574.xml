@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21574">
+  <titre>Veau à la crème de 2 moutardes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de viande de veau</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>20 cl de crème fraîche</p>
+    <p>2 cuillères à soupe de moutarde</p>
+    <p>1 cuillère à soupe de moutarde blanche</p>
+    <p>10 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper la viande en cubes de 2 cm d'épaisseur, fariner et faire dorer à la cocotte dans le beurre.
+    Assaisonner de sel, poivre, moutarde et arroser de vin. Laisser mijoter 1 h 30.
+    Au bout de ce temps, ajouter la crème fraîche et remettre à chauffer sans bouillir.
+  ]]>
+  </preparation>
+</recette>

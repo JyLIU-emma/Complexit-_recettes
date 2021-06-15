@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19332">
+  <titre>Tomates farcies aux pâtes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>160 g de coquillettes</p>
+    <p>1 poivron</p>
+    <p>8 tomates</p>
+    <p>200 g de fromage blanc à 0 %</p>
+    <p>1 gousse d'ail</p>
+    <p>1 bouquet de basilic</p>
+    <p>20 g de filet d'anchois à l'huile</p>
+    <p>8 olives noires dénoyautées</p>
+    <p>se, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les pâtes 'al dente', les rincer à l'eau froide afin qu'elles ne collent pas entre elles, puis bien les égoutter. 
+    Griller le poivron, le peler, l'épépiner et le couper en lanières. 
+    Couper les tomates au 2/3 . Les évider, saler l'intérieur, les retourner et les laisser dégorger. 
+    Mixer le fromage blanc, l'ail, le basilic, les anchois, et le poivre. 
+    Ajouter les pâtes, le poivron, et les olives concassées. 
+    En farcir les tomates. 
+    Servir bien frais.
+  ]]>
+  </preparation>
+</recette>

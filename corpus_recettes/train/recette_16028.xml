@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16028">
+  <titre>Civet de marcassin</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>800 g de marcassin</p>
+    <p>1 litre de vin rouge</p>
+    <p>1 dl de sang de porc</p>
+    <p>0,5 cuillère à soupe de vinaigre</p>
+    <p>1 l de marinade crue pour gibier</p>
+    <p>60 g de beurre</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>1 verre à liqueur de cognac</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Demander au boucher de désosser le marcassin (entre 800 g et 1 kg) et de le couper en morceaux de 50 g environ. Mélanger le sang et le vinaigre. 
+    Préparer la marinade, y mettre les morceaux de marcassin et les laisser ainsi de 24 à 48 h au réfrigérateur.
+    Égoutter les morceaux de marcassin et les essuyer avec un papier absorbant. Passer la marinade dans un saladier. Saler et poivrer le marcassin. Faire fondre 40 g de beurre avec l'huile dans une cocotte et cuire le marcassin à feu vif pendant 2 ou 3 mn en retournant sans arrêt les morceaux. 
+    Égoutter ceux-ci et jeter le gras de la cocotte. Verser dans celle-ci la garniture aromatique de la marinade et cuire 2 mn en mélangeant. 
+    Remettre le marcassin dans la cocotte, saupoudrer de farine et cuire encore 2 ou 3 mn en remuant.
+    Chauffer le cognac, le verser dans la cocotte et flamber. Ajouter le liquide de la marinade et le vin rouge, porter à ébullition, couvrir puis cuire à feu doux pendant 1h30.
+    Égoutter le marcassin et le garder au chaud. Passer la sauce. Mettre le sang dans un bol, le délayer avec 2 ou 3 cuillerées de sauce puis, hors du feu, verser le contenu du bol dans la sauce et bien mélanger, puis ajouter les 20 g de beurre restant en fouettant.
+    Goûter et rectifier l'assaisonnement. Remettre le marcassin dans la sauce et servir dans la cocotte.
+    Utilisez de l'épaule de haut de carré ou de la poitrine de marcassin. [NDchef: le sang de porc n'est pas évident à trouver... Passez commande chez votre charcutier un peu à l'avance!]
+  ]]>
+  </preparation>
+</recette>

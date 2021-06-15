@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18042">
+  <titre>Roulé au chocolat ganache</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>125 g de sucre</p>
+    <p>100 g de farine</p>
+    <p>50 g de beurre</p>
+    <p>1 cuillère à café de sucre en poudre</p>
+    <p>Pour la ganache :</p>
+    <p>125 g de chocolat pâtissier</p>
+    <p>100 g de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer le gâteau : séparer les blancs des jaunes d'oeufs. Travailler les jaunes avec le sucre longuement. Incorporer la farine, le beurre fondu, la levure. Terminer par les blancs d'oeufs battus en neige. Etaler cette pâte sur 1 cm d'épaisseur, la déposer sur une plaque de cuisson rectangulaire et enfourner à 250°C pendant environ 8 mn.A la sortie du four, rouler le gâteau : le rouleau doit être long et mince. Préparer alors la ganache : faire fondre le chocolat avec une cuillére à café de lait dans une casserole. Retirer et ajouter la crème fraîche. Mélanger.Dérouler le gâteau avec précaution et recouvrir de crème ganache. Rouler à nouveau et laisser complètement refroidir, puis mettre au réfrigérateur.
+    Couper en tranches, puis servir.
+  ]]>
+  </preparation>
+</recette>

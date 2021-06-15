@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15336">
+  <titre>Hot-dogs de courgettes verts</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 courgettes</p>
+    <p>moutarde</p>
+    <p>6 saucisses de Strasbourg ou de Francfort</p>
+    <p>150 g de gruyère râpé</p>
+    <p>un peu de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les courgettes en deux dans le sens de la longueur. Faites-les cuire 10 min à la vapeur, puis épépinez-les.
+    Garnissez 4 demi-courgettes avec les saucisses, badigeonnez-les de moutarde, placez-les dans un plat beurré, puis couvrez-avec les 4 moitiés restantes. Saupoudrez de gruyère râpé.
+    Passez 10 min à four préchauffé à thermostat 8 (250°C).
+    Recette plus particulierement destinée aux enfants, qui aide à leur faire aimer les courgettes autrement.
+  ]]>
+  </preparation>
+</recette>

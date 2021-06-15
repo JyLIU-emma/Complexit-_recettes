@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25986">
+  <titre>Tourte de poisson au gingembre et raisins</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,6 kg de filets de saumon frais</p>
+    <p>700 g de beurre</p>
+    <p>2 pâtes feuilletée</p>
+    <p>60 g de beurre</p>
+    <p>50 g de raisins secs</p>
+    <p>3 échalotes</p>
+    <p>3 jaunes d'œufs</p>
+    <p>2 morceaux de gingembre confit hachés </p>
+    <p>1/2 citron</p>
+    <p>cerfeuil et estragon hachés</p>
+    <p>30 cl de crème fraîche</p>
+    <p>2 cuillères à soupe de persil</p>
+    <p>1 cuillère à soupe de lait</p>
+    <p>1 cuillère à café de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (thermostat 7).
+    Foncer un plat à tarte avec la pâte feuilletée.
+    Assaisonner le saumon et le placer sur la pâte. Pétrir le beurre avec le gingembre et les raisins, et en tartiner le poisson. Recouvrir le tout de la seconde pâte et bien la fermer avec un peu d’eau.
+    Mélanger le jaune d'oeuf et le lait, et en badigeonner la tourte.
+    Enfourner pendant 40 min à 210° (thermostat 7).
+    Dans un poêle, faire revenir les échalotes avec le beurre pendant 10 min. Ajouter la farine et la crème fraîche. Faire chauffer le tout à feu doux pour que la sauce épaississe.
+    Incorporer les jaunes d'oeufs, le jus de citron et les herbes à la sauce, hors du feu, et assaisonner.
+    Servir le poisson avec la sauce.
+  ]]>
+  </preparation>
+</recette>

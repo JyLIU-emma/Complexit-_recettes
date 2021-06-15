@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13338">
+  <titre>Poulet velouté au miel</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 cuillère à soupe d'huile (ou de beurre)</p>
+    <p>250 ml de crème à 35 % </p>
+    <p>2 oignons hachés</p>
+    <p>5 ml de romarin frais, haché</p>
+    <p>30 ml de miel liquide (ou de sirop d'érable)</p>
+    <p>4 branches de romarin frais pour la garniture</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C. Dans une grande poêle, faire chauffer l'huile et y colorer le poulet sur tous les côté, environ 5 minutes. Déposer dans un plat allant au four et cuire environ 20 minutes.
+    Retirer le gras de la poêle et y verser la crème. Laisser réduire à feu moyen. Ajouter le romarin, l'oignon et le miel. Fouetter et laisser mijoter 2 minutes à feu moyen. Remettre le poulet dans la poêle et l'enrober de sauce. Servir décoré de branches de romarin.
+  ]]>
+  </preparation>
+</recette>

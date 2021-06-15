@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22122">
+  <titre>Asperges blanches, crème à la ciboulette</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg d'asperges blanches</p>
+    <p>3 jaunes d'oeufs</p>
+    <p>100 g de crème fraîche fleurette</p>
+    <p>1 citron</p>
+    <p>1 botte de ciboulette</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez les asperges et liez-les en petites bottes. 
+    Plongez-les dans l'eau bouillante salée et laissez cuire une 20 à 30 à partir de la reprise d'ébullition (le temps de cuisson dépend de leur grosseur). 
+    Elles sont cuites quand la pointe du couteau s'enfonce facilement dans la queue de l'asperge.
+    Egouttez-les et disposez-les sur le plat de service recouvert d'un linge pour absorber l'excédent d'eau. 
+    Préparez la sauce en mélangeant les jaunes d'oeufs avec la crème.
+    Placez le mélange dans un bain-marie chaud, assaisonnez de sel, de poivre et de citron.
+    Lorsque la sauce est chaude, ajoutez la ciboulette ciselée et servez avec les asperges.
+  ]]>
+  </preparation>
+</recette>

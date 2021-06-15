@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20777">
+  <titre>Caponata sicilienne</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 branche de céleri</p>
+    <p>8 petits oignons nouveaux</p>
+    <p>3 aubergines</p>
+    <p>1 poivron rouge</p>
+    <p>1 poivron vert</p>
+    <p>4 tomates</p>
+    <p>3 gousses d'ail</p>
+    <p>5 cl de vinaigre</p>
+    <p>3 cuillères à soupe de câpres</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détaillez le céleri en dés, les oignons en quartiers, les poivrons en lamelles et les aubergines en dés. 
+    Faites chauffer 4 cuillères à soupe d'huile, faites-y revenir les aubergines quelques minutes. Ajoutez les oignons, les poivrons et l'ail haché. Laissez mijoter pendant 20 minutes environ.
+    Ebouillantez les tomates 30 secondes, pelez-les et concassez-les en cubes. Ajoutez-les aux légumes, ainsi que le vinaigre et les câpres. Assaisonnez, couvrez et prolongez la cuisson de 10 minutes.
+    Laissez refroidir et servez bien frais.
+    C'est un plat d'origine sicilienne qui se sert froid en entrée ou en accompagnement d'une viande froide. On peut ajouter 1 morceau de sucre pour atténuer l'acidité et des filets d'anchois. Plus on laisse cuire longtemps et à feu doux, meilleur c'est , car les légumes sont confits.
+  ]]>
+  </preparation>
+</recette>

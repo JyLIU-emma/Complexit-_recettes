@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165110">
+  <titre>Purée de pois cassés à l'orientale</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de pois cassés </p>
+    <p>20 cl d'huile d'olive </p>
+    <p>2 c.c de cumin en poudre </p>
+    <p>2 gousses d'ail pressées</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Rincez les pois cassés et les mettre dans une casserole suffisamment grande pour pouvoir bien remuer.
+    Couvrir d'eau et surveiller la cuisson de manière à faire fondre les pois cassés sans qu'il attachent le fond de la casserole, ne pas hésiter à rajouter de l'eau en cours de cuisson (il faut que ça boive!).
+    Si il reste des petits morceaux ce n'est que meilleur. 
+    En fin de cuisson ajouter l'huile d'olive, l'ail pressé et le cumin en poudre. Rectifier sel, poivre.Servi avec des boulettes (à l'orientale bien sûr !) un vrai régal  Côte du Rhone type Rasteau
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Rincez</OPER> les <INGRED id="1">pois cassés</INGRED> et les <OPER id="o_2">mettre</OPER> dans une casserole suffisamment grande pour pouvoir bien <OPER id="o_3">remuer</OPER>. <OPER id="o_4">Couvrir</OPER> d'<INGRED id="2">eau</INGRED> et <OPER id="o_5">surveiller</OPER> la cuisson de manière à faire <OPER id="o_6">fondre</OPER> les <INGRED id="1">pois cassés</INGRED> sans qu'il attachent le <INGRED id="4">fond</INGRED> de la casserole, ne pas <OPER id="o_7">hésiter</OPER> à <OPER id="o_8">rajouter</OPER> de l'<INGRED id="5">eau</INGRED> en cours de cuisson ( il faut que ça boive ! ). Si il <INGRED id="1">reste</INGRED> des <INGRED id="3">petits</INGRED> <INGRED id="1">morceaux</INGRED> ce n'est que meilleur. En fin de cuisson <OPER id="o_9">ajouter</OPER> l'<INGRED id="6">huile d'olive</INGRED>, <INGRED id="1">l'ail</INGRED> pressé et le cumin en poudre. <OPER id="o_10">Rectifier</OPER> sel, poivre. Servi avec des boulettes ( à l'orientale bien sûr ! ) un vrai régal Côte du Rhone type Rasteau
+  </annotation>
+  <annotation methode="crf">
+  Rincez les <INGRED>pois</INGRED> cassés et les mettre dans une casserole suffisamment grande pour pouvoir bien remuer. Couvrir d'<INGRED>eau</INGRED> et surveiller la cuisson de manière à faire fondre les <INGRED>pois</INGRED> cassés sans qu'il attachent le <INGRED>fond</INGRED> de la casserole <INGRED>,</INGRED> ne pas hésiter à rajouter de l'<INGRED>eau</INGRED> en cours de cuisson ( il faut que ça boive ! ). Si il reste des <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> ce n'est que meilleur. En fin de cuisson ajouter l'<INGRED>huile d'olive</INGRED> <INGRED>,</INGRED> l'<INGRED>ail</INGRED> pressé et le <INGRED>cumin</INGRED> en <INGRED>poudre</INGRED> <INGRED>.</INGRED> Rectifier <INGRED>sel</INGRED> <INGRED>,</INGRED> poivre. Servi avec des boulettes ( à l'orientale bien sûr ! ) un vrai régal Côte du Rhone type Rasteau
+  </annotation>
+  <complexite>
+    <temps>f(X) = 2.85714285714286*X + 7.14285714285714</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 2*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['pois cassés', 'pois']	 id:1	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["huile d'olive", 'huile']	 id:2	 quantité:20	 unité:cl d'	 denombrable:False	 recipient:1
+ingredient:['cumin en poudre', 'cumin']	 id:3	 quantité:2	 unité:c de	 denombrable:False	 recipient:1
+ingredient:['ail pressées', 'ail']	 id:4	 quantité:2	 unité:gousses d'	 denombrable:True	 recipient:2*X
+ingredient:['sel']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:rincer	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:remuer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_4	 ingrédients_ralatifs:['2', '1', '4', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:surveiller	 id:o_5	 ingrédients_ralatifs:['1', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fondre	 id:o_6	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:hésiter	 id:o_7	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rajouter	 id:o_8	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:['6', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rectifier	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

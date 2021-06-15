@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15534">
+  <titre>Pâté de foie sans four</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de foie de volaille</p>
+    <p>200 g de beurre</p>
+    <p>6 gousses d'ail</p>
+    <p> - 3 oeufs durs</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire pocher les foies dans de l'eau salée, une bonne cuillerée à soupe de cognac ou d'eau de vie et beaucoup de poivre.
+    Les mouliner très finement avec les oeufs et l'ail. Malaxer avec le beurre légèrement ramolli, puis mettre le tout dans un moule ou le former à la main.
+    Préparer la veille, conserver au réfrigérateur et démouler juste avant le service.
+  ]]>
+  </preparation>
+</recette>

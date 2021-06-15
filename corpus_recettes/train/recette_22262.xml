@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22262">
+  <titre>Compote de poivrons</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poivron vert, 2 jaunes, 2 rouges</p>
+    <p>1/2 oignon</p>
+    <p>2 gousses d'ail</p>
+    <p>1 petite boîte de concentré de tomate</p>
+    <p>1 petit piment</p>
+    <p>huile d'olive</p>
+    <p>15 cl d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper un quart des poivrons en carrés d'1 cm. Mixer le reste des poivrons et le piment. 
+    Faire revenir l'oignon et l'ail hachés dans un peu d'huile. Ajouter le concentré de tomate et cuire 2 mn à feu doux tout en remuant. Ajouter les poivrons mixés, le piment et l'eau, salez. 
+    Laisser cuire 40 mn sur feu doux et remuer de temps en temps. 
+    Faire sauter les carrés de poivron avec un peu d'huile. Les incorporer à la compote à la fin de la cuisson. 
+    Déguster tiède ou froid, accompagné de pain grillé.
+  ]]>
+  </preparation>
+</recette>

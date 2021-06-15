@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="4102">
+  <titre>Terrine de tomates au Carré Frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>7 grosses  tomates</p>
+    <p>200 g de Carrés Frais</p>
+    <p>4 feuilles de gélatine</p>
+    <p>huile d'olive (2 ou 3 cuillères à soupe)</p>
+    <p>basilic, persil, ciboulette, menthe fraîche, sel et poivre (à volonté selon les goûts)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tremper les tomates dans l'eau bouillante pour retirer la peau. Les couper en lanières, et récupérer le jus.
+    Filtrer le jus. Réserver.
+    Mettre les feuilles de gélatine à tremper dans de l'eau froide.
+    Faire chauffer le jus de tomate, y faire fondre la gélatine essorée, laisser refroidir.
+    Ecraser les Carrés Frais avec l'huile d'olive et les herbes fraîches (si possible), ciselées, sel et poivre.
+    Dans un plat à cake (ou terrine), tapissé d'un film plastique, déposer un lit de lanières de tomates, arroser d'un peu de jus, et laisser prendre 10 min au frais. 
+    Quand ça a "figé", déposer une couche de fromage, puis une autre couches de tomates, etc. 
+    Terminer par une couche de tomates, arroser de jus de tomate, et laisser prendre au frais quelques heures.
+    A consommer très frais, avec des tranches de pain de campagne grillées.
+  ]]>
+  </preparation>
+</recette>

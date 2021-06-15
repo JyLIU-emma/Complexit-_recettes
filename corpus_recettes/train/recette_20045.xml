@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20045">
+  <titre>Petits choux à la crème de café</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte à choux :</p>
+    <p>75 g de farine</p>
+    <p>60 g de beurre</p>
+    <p>2 oeufs</p>
+    <p>10 cl d'eau</p>
+    <p>5 cl de lait</p>
+    <p>1 cuillère à café de sucre semoule</p>
+    <p>2 pincées de sel fin</p>
+    <p>Pour la crème au café :</p>
+    <p>50 cl de lait</p>
+    <p>125 g de sucre</p>
+    <p>45 g de farine ou de maïzena</p>
+    <p>6 oeufs</p>
+    <p>50 g de beurre mou</p>
+    <p>10 cl de café (ou 6 gouttes d'extrait de café)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparation de la pâte à choux :
+    Dans une casserole, verser l'eau, le lait, le beurre en morceau, le sucre et le sel. Porter le tout à ébullition en remuant puis retirer du feu. Incorporer ensuite la farine tamisée en continuant de remuer jusqu'à obtention d'une pâte bien lisse.
+    Remettre la casserole sur le feu pendant 1 min puis couper le feu. Ajouter les 2 oeufs en continuant de tourner jusqu’à ce que la pâte soit bien homogène.
+    Préchauffer le four à 210°C (thermostat 7) et mettre du papier sulfurisé sur une plaque à pâtisserie.
+    Verser la pâte à choux dans une poche à douille (de gros diamètre et à fines cannelures). Faire des choux d'environ 4 cm sur la plaque en les espaçant de 3 cm.
+    Faire cuire à four chaud pendant 15 à 20 min jusqu'à ce que les choux soient bien gonflés et bien dorés, puis les laisser refroidir.
+    Préparation de la crème :
+    Dans une casserole, verser 60 g de sucre et 20 g de farine délayée dans 50 cl de lait, puis mélanger à l'aide d'un fouet. Porter à ébullition à feu doux en continuant de remuer puis couper le feu.
+    Dans un saladier, blanchir le reste des jaunes d'oeufs avec le sucre en fouettant. Hors du feu, verser le mélange oeuf/sucre dans la casserole, puis laisser tiédir avec le beurre.
+    Laisser refroidir la préparation et la déposer au réfrigérateur pendant 2 heures.
+    Découper les choux aux 3/4 de la hauteur et les garnir de crème à l'aide d'une poche à douille.
+    Saupoudrer de café moulu et servir.
+  ]]>
+  </preparation>
+</recette>

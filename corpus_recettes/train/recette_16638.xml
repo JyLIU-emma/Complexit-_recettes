@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16638">
+  <titre>Gratin de pommes de terre à la paysanne</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de pommes de terre</p>
+    <p>5 tranches de jambon blanc</p>
+    <p>3 beaux oignons</p>
+    <p>moutarde forte</p>
+    <p>1/2 bol de crème fraîche</p>
+    <p>75 g de gruyère râpé</p>
+    <p>1/2 verre de lait</p>
+    <p>sel, poivre, persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pommes de terre dans un grand volume d'eau salée. Vérifier qu'elles restent un peu fermes au terme de leur cuisson. Peler et émincer les oignons, les faire fondre à la poêle dans un filet d'huile, jusqu'à ce qu'ils soient dorés. Couper le jambon en petits carrés (1cm) et le badigeonner de moutarde.
+    Mélanger la crème fraîche avec le gruyère. Peler les pommes de terre, les couper en rondelles. Mettre le four à chauffer à 220°C. Beurrer un plat à four, en tapisser le fond avec une 1ère couche de pommes de terre.
+    Recouvrir de la moitié du jambon puis de la moitié des oignons. Saler et poivrer. Recouvrir d'une seconde couche de pommes de terre, d'oignons et de jambon, assaisonner de nouveau.
+    Terminer par une couche de pommes de terre, recouvrir du mélange crème fraîche-gruyère et répandre le lait sur la surface. Saler, poivrer, saupoudrer de persil ciselé.
+    Mettre au four pour 20 à 30 mn, la surface doit être bien dorée.
+  ]]>
+  </preparation>
+</recette>

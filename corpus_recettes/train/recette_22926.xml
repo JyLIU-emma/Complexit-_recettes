@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22926">
+  <titre>Goulasche hongroise</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de boeuf à braiser (macreuse par exemple) </p>
+    <p>1 kg d'oignons</p>
+    <p>33 cl de bière</p>
+    <p>paprika</p>
+    <p>cumin</p>
+    <p>piment</p>
+    <p>Eventuellement un peu d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper la viande en gros dés de 5 cm environ. 
+    Hacher les oignons. 
+    Mettre de l'huile à chauffer dans une cocotte. Faire revenir les oignons et réserver, puis la viande. Remettre les oignons et quand le mélange est bien doré, ajouter les épices. Bien mélanger, saler et poivrer. 
+    Arroser le tout avec la bière, Couvrir et laisser mijoter au moins 45 mn (plus longtemps, la viande n'en sera que plus fondante). 
+    Ajouter éventuellement un peu d'eau en cours de cuisson, ainsi que des épices si nécessaire (tout dépend du goût de chacun...). 
+    Accompagner de pommes de terre vapeur ou d'un riz blanc.
+    Très sympa pour une grande tablée et peut facilement se laisser oublier sans risque sur le feu. un rouge corsé
+  ]]>
+  </preparation>
+</recette>

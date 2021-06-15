@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13133">
+  <titre>Tajine de poisson aux légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de tomates</p>
+    <p>3 poivrons verts</p>
+    <p>2 branches de basilic</p>
+    <p>1 gros poireaux</p>
+    <p>3 oignons</p>
+    <p>3 gousses d'ail</p>
+    <p>1/2 verre d'huile d'olive</p>
+    <p>1/2 cuillère à café de graines de céleri</p>
+    <p>1 cuillère à café de curcuma</p>
+    <p>6 darnes de lieu</p>
+    <p>1 citron</p>
+    <p>sel</p>
+    <p>1 cuillère à café de poivre blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les tomates en 8. Couper les poivrons en lanières. Hacher grossièrement le basilic. Emincer les poireaux. Emincer les oignons et presser l'ail.
+    Faire fondre le poireau, les oignons et l'ail dans l'huile d'olive. Ajouter les tomates, les poivrons, le céleri, le curcuma, le basilic, le poivre et le sel.
+    Mélanger, couvrir et laisser mijoter 15 mn.
+    Couper les darnes en 8 en enlevant la peau et l'arête centrale. Les ajouter aux légumes. Continuer la cuisson toujours sur feu doux et à couvert en arrosant de temps en temps le poisson avec le jus des légumes.
+    Verser le jus du citron 5 mn avant de retirer le poisson du feu.
+  ]]>
+  </preparation>
+</recette>

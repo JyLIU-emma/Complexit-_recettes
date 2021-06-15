@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22436">
+  <titre>Quiche aux lardons poireaux et oignons</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée </p>
+    <p>100 g de petits lardons </p>
+    <p>1 poireau </p>
+    <p>10 oignons nouveaux</p>
+    <p>150 g de fromage blanc</p>
+    <p>150 g de crème épaisse</p>
+    <p>2 pincées de muscade</p>
+    <p>1/2 bouquet de ciboulette</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210 (thermostat 7).
+     
+    Etaler la pâte dans un moule à tarte et mettre à cuire au four sans garniture durant 20 minutes.
+    Pendant ce temps, émincer le poireau et couper les oignons en 2.
+    Faire revenir les lardons à sec dans une poêle puis ajouter le poireau, les oignons et 5 cl d'eau. Couvrir et laisser cuire 10 minutes à feu doux.
+    Mélanger la crème, le fromage blanc et la ciboulette ciselée. Assaisonner de poivre et de muscade.
+    Disposer le mélange lardon, poireau et oignon sur le fond de tarte et recouvrir du mélange crémeux.
+    Enfourner pour 20 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25068">
+  <titre>Moussaka aux épices</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g d'agneau maigre haché</p>
+    <p>3 aubergines </p>
+    <p>2 oignons</p>
+    <p>4 cuillères à soupe de concentré de tomates</p>
+    <p>2 gousses d'ail</p>
+    <p>1 pincée de marjolaine</p>
+    <p>1 pincée de cannelle en poudre</p>
+    <p>3 cuillères à soupe de parmesan râpé</p>
+    <p>sel et poivre</p>
+    <p>huile d'olive</p>
+    <p>Pour la sauce :</p>
+    <p>30 g de beurre</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>3 dl de lait</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>2 cuillères à soupe de parmesan râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Faites dégorger les aubergines lavées, coupées en tranches et saupoudrées de gros sel pendant 1 h. Rincez-les, séchez-les. Faites-les dorer à la poêle dans de l'huile chaude des deux côtés, en plusieurs fois s'il faut. Egouttez-les au fur et à mesure sur du papier absorbant. 
+    Faites revenir les oignons hachés dans 4 cuillères à soupe d'huile. Ajoutez la viande et laissez-la cuire en remuant à la fourchette. Ajoutez le concentré de tomates, l'ail haché, l'assaisonnement et les épices.
+    Dans un plat allant au four, déposez une couche de viande, puis une couche d'aubergines, saupoudrez de fromage, remettez une couche de viande, d'aubergines... Finissez par des aubergines.
+    Préparez une sauce béchamel avec le lait, la farine et le beurre. Ajoutez-y les jaunes d'oeufs et le fromage, et versez-la dans le plat.
+    Faites cuire au four 40 min à 200°C (thermostat 6-7).
+  ]]>
+  </preparation>
+</recette>

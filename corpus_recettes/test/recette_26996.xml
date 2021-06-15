@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26996">
+  <titre>Selle d'agneau moutardée et sa purée</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 selle d'agneau d'1,5 kg</p>
+    <p>3 cuillères à soupe de moutarde</p>
+    <p>75 g de beurre</p>
+    <p>1 cuillère à soupe de vinaigre</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>sel, poivre</p>
+    <p>Pour accompagner :</p>
+    <p>purée de pommes de terre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 210°C (thermostat 7).
+    Inciser la selle à l'aide de la pointe d'un couteau, puis la badigeonner de moutarde.
+    Disposer la pièce de viande dans un plat à gratin beurré puis la faire cuire 45 min à four chaud.
+    Une fois le selle cuite, la sortir du four et déglacer le plat de cuisson avec le vinaigre et le vin blanc.
+    Laisser chauffer quelques minutes, saler, poivrer.
+    Dresser la viande sur un plat de service, la napper de sauce et servir avec une purée de pomme de terre maison.
+  ]]>
+  </preparation>
+</recette>

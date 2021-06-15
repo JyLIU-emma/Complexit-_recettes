@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24583">
+  <titre>Petits pains parfums tomates et origans</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>20 g de levure de boulanger</p>
+    <p>5 cl d'eau chaude</p>
+    <p>1 cuillère à café de sucre</p>
+    <p>22 cl de jus de tomate</p>
+    <p>450 g de farine</p>
+    <p>2 cuillères à café de sel</p>
+    <p>30 g de beurre</p>
+    <p>2 cuillères à café d'origan séché</p>
+    <p>oeufs battus pour dorer</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Diluer la levure et le sucre dans un peu d'eau chaude. Faire tiédir le jus de tomates.
+    Mélanger la farine, le sel et l'origan séché dans un récipient chauffé, incorporer le beurre. Faire un puits et verser la levure et le jus de tomates. Mélanger.
+    Pétrir la pâte sur une surface légèrement farinée pendant 10 min. Séparer en 4 boules ou plus et laisser reposer la pâte dans le récipient couvert. Laisser lever 1h à 1h30 : la pâte devra doubler de volume.
+    Pétrir de nouveau 5 min. Former 4 gros boudins, les placer sur du papier sulfurisé huilé. faire des entailles d'1 cm de profondeur environ. Couvrir le tout d'un plastique et laisser lever dans un endroit chaud pendant 45 min.
+    Préchauffer le four à 180°C (thermostat 6).
+    Enfourner les pains au milieu et laisser cuire 30 min.
+    Badigeonner avec l'oeuf battu (+ gros sel et origan) et ré-enfourner 30 min.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17792">
+  <titre>Extra-léger au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de chocolat</p>
+    <p>250 de sucre</p>
+    <p>125 g de farine</p>
+    <p>4 oeufs</p>
+    <p>20 cl de crème fraîche liquide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1- Râper ou mixer le chocolat. 
+    2- Mélanger le sucre et les oeufs jusqu'à ce que le mélange blanchisse. 
+    3- Rajouter crème, farine, chocolat et bien mélanger. 
+    4- Mettre le tout dans un moule bien beurré. 
+    5- Mettre au four durant 45 mn : thermostat 5 ou 160°C.
+    L'effet est surprenant: le chocolat reste au fond: Une surprise pour les invités!Le gâteau n'est pas sec grâce à la crème fraîche.
+  ]]>
+  </preparation>
+</recette>

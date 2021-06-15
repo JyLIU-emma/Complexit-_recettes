@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23000">
+  <titre>Cassolettes de St Jacques</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 assiette pleine de carottes râpées</p>
+    <p>1 assiette pleine de champignons émincés</p>
+    <p>1 assiette pleine de céleri râpé</p>
+    <p>5-6 feuilles d'estragon, hachées finements</p>
+    <p>1 oeuf</p>
+    <p>80 g de beurre</p>
+    <p>1 petit verre de Porto</p>
+    <p>1 sachet de noix de St Jacques</p>
+    <p>2 grosses cuillerées de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre, mettre les carottes et laisser cuire 3 mn. 
+    Ajouter le céleri, laisser cuire 3 mn, puis les champignons. Mettre l'estragon, le Porto. Mélanger et cuire 2 mn. 
+    Ajouter la crème fraîche, le jaune d'oeuf et cuire 5 mn. 
+    A la fin, mettre les noix de St Jacques et laisser cuire 5 mn.
+    Peut être préparé à l'avance et réchauffé au four, couvert avec un aluminium.
+  ]]>
+  </preparation>
+</recette>

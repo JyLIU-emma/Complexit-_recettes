@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25073">
+  <titre>Crème onctueuse au pamplemousse</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>20 cl jus de pamplemousse</p>
+    <p>1/2 citron</p>
+    <p>25 g de maïzena</p>
+    <p>3 oeufs</p>
+    <p>200 g de sucre en poudre</p>
+    <p>150 g de crème fraîche (20 cl)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettez le sucre dans une casserole avec 25 cl d'eau chaude.
+    Ajoutez le jus de pamplemousse, et le jus d'un demi-citron.
+    Délayez la maïzena dans un peu d'eau froide et ajoutez-la.
+    Faites épaissir à feu doux en remuant.
+    Hors du feu, ajoutez les oeufs battus en omelette.
+    Remettez la casserole sur le feu, faites épaissir en remuant et retirez au premier bouillon. 
+    Laissez refroidir en remuant de temps en temps pour éviter la formation d'une pellicule.
+    Fouettez la crème fraîche en Chantilly, incorporez-la à la préparation.
+    Versez dans 4 ramequins et réservez au frais.
+    Vous pouvez mettre les crème au freezer pour les servir frappées.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10656">
+  <titre>Soupe de poissons de Loire</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 poissons de Loire (brochet, carpe, barbillon, gros gardon et même un peu d'anguille)</p>
+    <p>50 cl de vin blanc de Loire</p>
+    <p>1 gros oignon</p>
+    <p>3 blancs de poireaux</p>
+    <p>10 pommes de terre</p>
+    <p>50 g de croûtons frits</p>
+    <p>sel, poivre</p>
+    <p>1 bouquet garni</p>
+    <p>3 cuillères à soupe d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ecailler, vider, étêter, tronçonner des poissons de Loire.
+    Les mettre à frémir avec le vin blanc, de l'eau à hauteur, 1 bouquet garni, du sel et du poivre.
+    Faire revenir à l'huile des blancs de poireaux et 1 gros oignon émincés sans laisser roussir.
+    Egoutter les poissons à l'écumoir et les poser par-dessus.
+    Les couvrir d'un lit de pommes de terre coupées en larges tranches.
+    Passer le bouillon de poisson, rectifier l'assaisonnement et verser sur les pommes de terre.
+    Ajouter de l'eau si besoin est.
+    Porter à ébullition le temps que les pommes de terre soient cuites.
+    Servir sur des croûtons frits.
+  ]]>
+  </preparation>
+</recette>

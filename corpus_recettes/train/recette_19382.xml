@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19382">
+  <titre>Tiramisu facile</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de crème de Mascarpone</p>
+    <p>100 g de crème fraîche allégée</p>
+    <p>2 oeufs</p>
+    <p>2 cuillères à soupe de sucre en poudre</p>
+    <p>café fort</p>
+    <p>1 boîte de biscuits à la cuillère</p>
+    <p>chocolat en poudre non sucré</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la Mascarpone, la crème fraîche, le sucre et les jaunes d'oeuf. 
+    Battre les blancs d'oeuf en neige, puis les incorporer délicatement au mélange. 
+    Imbiber les biscuits de café. 
+    Disposer dans un plat, en superposant une couche de biscuits, une couche du mélange, une couche de biscuits, une couche du mélange. 
+    Laisser reposer 12 à 24 heures au réfrigérateur. 
+    Avant de servir, saupoudrer de chocolat en poudre.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="105697">
+  <titre>Gratin de raie</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800g de raie </p>
+    <p>150g de gruyère râpé </p>
+    <p>4 échalotes</p>
+    <p>1 gousse d'ail</p>
+    <p>1 morceau de pain rassis ou des croûtons</p>
+    <p>40cl de crème entière liquide</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire la raie dans un court bouillon pendant une quinzaine de minutes environ, selon sa grosseur. Quand elle est cuite, égouttez-la et enlevez les cartilages. Mélangez la crème avec les échalotes et l'ail émincés. Salez et poivrez.
+    Nappez un plat à four avec un peu de cette sauce. Saupoudrez un peu de gruyère râpé. Posez les morceaux de raie. Dessus, répartissez les cubes de pain grillé ou croûtons.
+    Recouvrez cette préparation avec le reste de sauce. Saupoudrez le reste de gruyère râpé et placez 10 à 15mn à four chaud (th.7 - 210°C). Servez aussitôt.Ce plat peut être accompagnée de riz basmati cuisson pilaf. Un Sauvignon
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faites <OPER id="o_1">cuire</OPER> la <INGRED id="1">raie</INGRED> dans un court bouillon pendant une quinzaine de minutes environ, selon sa grosseur. Quand elle est cuite, <OPER id="o_2">égouttez</OPER> - la et enlevez les cartilages. <OPER id="o_3">Mélangez</OPER> la <INGRED id="6">crème</INGRED> avec les <INGRED id="3">échalotes</INGRED> et l'<INGRED id="4">ail</INGRED> émincés. <OPER id="o_4">Salez</OPER> et poivrez. <OPER id="o_5">Nappez</OPER> un plat à four avec un peu de cette sauce. <OPER id="o_6">Saupoudrez</OPER> un peu de <INGRED id="2">gruyère râpé</INGRED>. <OPER id="o_7">Posez</OPER> les morceaux de <INGRED id="1">raie</INGRED>. Dessus, <OPER id="o_8">répartissez</OPER> les cubes de pain grillé ou croûtons. <OPER id="o_9">Recouvrez</OPER> cette préparation avec le reste de sauce. <OPER id="o_10">Saupoudrez</OPER> le reste de <INGRED id="2">gruyère râpé</INGRED> et placez 10 à 15mn à four chaud ( th.7 - 210 ° C ). Servez aussitôt. Ce plat peut être accompagnée de riz basmati cuisson pilaf. Un Sauvignon
+  </annotation>
+  <annotation methode="crf">
+  Faites cuire la raie dans un court <INGRED>bouillon</INGRED> pendant une quinzaine de minutes <INGRED>environ</INGRED> <INGRED>,</INGRED> selon sa grosseur. Quand elle est cuite <INGRED>,</INGRED> égouttez - la et enlevez les cartilages. Mélangez la <INGRED>crème</INGRED> avec les <INGRED>échalotes</INGRED> et l'<INGRED>ail</INGRED> émincés <INGRED>.</INGRED> Salez et poivrez <INGRED>.</INGRED> Nappez un plat à four avec un peu de cette <INGRED>sauce</INGRED>. Saupoudrez un peu de <INGRED>gruyère râpé</INGRED>. Posez les <INGRED>morceaux</INGRED> de raie. Dessus <INGRED>,</INGRED> répartissez les cubes de <INGRED>pain</INGRED> grillé <INGRED>ou</INGRED> croûtons <INGRED>.</INGRED> Recouvrez cette préparation avec le <INGRED>reste</INGRED> de <INGRED>sauce</INGRED>. Saupoudrez le <INGRED>reste</INGRED> de <INGRED>gruyère râpé</INGRED> et placez 10 à 15mn à four chaud ( th.7 - 210 ° C ). Servez aussitôt. Ce plat peut être accompagnée de <INGRED>riz</INGRED> basmati cuisson pilaf. Un Sauvignon
+  </annotation>
+  <complexite>
+    <temps>f(X) = 5.45454545454545*X + 4.54545454545454</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 6*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['raie']	 id:1	 quantité:800	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['gruyère râpé', 'gruyère']	 id:2	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['échalotes']	 id:3	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['ail']	 id:4	 quantité:1	 unité:gousse d'	 denombrable:True	 recipient:1*X
+ingredient:['morceau de pain rassis ou des croûtons', 'morceau']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['crème entière liquide', 'crème']	 id:6	 quantité:40	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:cuire	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:égoutter	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:['6', '3', '4']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:saler	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:napper	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saupoudrer	 id:o_6	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poser	 id:o_7	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:répartir	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recouvrir	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saupoudrer	 id:o_10	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

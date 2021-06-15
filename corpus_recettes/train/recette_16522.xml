@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16522">
+  <titre>Soupe à l'ail</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 gousses d'ail</p>
+    <p>1,5 l de bouillon</p>
+    <p>4 oeufs</p>
+    <p>huile</p>
+    <p>sel, poivre</p>
+    <p>piment d'Espelette</p>
+    <p>thym </p>
+    <p>laurier</p>
+    <p>4 tranches de pain rassis</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les gousses d'ail et les faire revenir dans l'huile à feu doux jusqu`a ce qu'elles blondissent. Incoporer le bouillon et porter à ébullition.
+    Saler, poivrer, ajouter le piment, thym et laurier. Laisser cuire 30 mn à couvert.A la fin de la cuisson, incorporer les oeufs.
+    Les tranches de pain seront 'aillées' avant d'ètre passées dans un poêle avec un peu d'huile.
+    Au moment de servir, disposer les croûtons dans une soupière avant d'y verser le potage.
+  ]]>
+  </preparation>
+</recette>

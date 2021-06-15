@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17724">
+  <titre>Risotto au chorizo</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 verres à moutarde de riz pour risotto, ou riz rond tout simple (moins cher)</p>
+    <p>2 cubes de bouillon de poule</p>
+    <p>3 cuillères à soupe de crème épaisse</p>
+    <p>3 échalotes</p>
+    <p>1 petit sachet de parmesan râpé</p>
+    <p>10 tranches de chorizo doux</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>quelques pincées de paprika selon votre goût</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir 1,5 litre d'eau puis ajoutez les 2 cubes de bouillon.
+    Emincer les échalotes et couper le chorizo selon votre goût (en 2 ou en 4).
+    Dans un fait-tout faire chauffer l'huile, faire revenir les échalotes 2 min, puis ajoutez le riz cru. Laisser chauffez jusqu'à ce que les grains deviennent translucides.
+    Ajouter le bouillon au fur et à mesure jusqu'au raz du riz. Couvrir, et ajouter du bouillon quand le niveau du liquide est trop bas.
+    Goûter le riz de temps en temps et continuer jusqu'à épuisement du bouillon.
+    Ajouter la crème, le sel, le poivre, le paprika, le chorizo et le parmesan. Laisser cuire encore 5 min.
+    Servir bien chaud.
+  ]]>
+  </preparation>
+</recette>

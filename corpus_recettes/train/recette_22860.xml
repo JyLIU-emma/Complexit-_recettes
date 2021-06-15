@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22860">
+  <titre>Tarte aux carottes et au comté</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de pâte brisée</p>
+    <p>450 g de carottes</p>
+    <p>1 bel oignon</p>
+    <p>30 g de beurre</p>
+    <p>1 œuf</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>60 g de comté</p>
+    <p>sel, poivre  </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler la pâte à l’aide d’un rouleau à pâtisserie, puis la disposer dans un moule à tarte beurré.
+    Peler et détailler les carottes en rondelles, puis les plonger dans l’eau bouillante salée pendant 30 min environ.
+    Préchauffer votre four à 210°C (thermostat 7).
+    Dans un saladier, battre l’œuf avec la crème, le sel, le poivre et le fromage râpé, puis verser le mélange obtenu sur la pâte.
+    Egoutter les carottes et les poêler au beurre avec les oignons finement émincés.
+    Disposer les rondelles de carottes sur le dessus de la tarte avec les oignons, puis parsemer de comté râpé uniformément.
+    Enfourner à four chaud pendant 40 min et déguster chaud.
+  ]]>
+  </preparation>
+</recette>

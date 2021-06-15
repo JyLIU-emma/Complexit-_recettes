@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22843">
+  <titre>Terrine de poulet aux asperges</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de poulet cru</p>
+    <p>3 oeufs</p>
+    <p>3 cuillères à soupe de persil haché</p>
+    <p>150 g d'Edam râpé ou 3 "vache qui rit"</p>
+    <p>un bocal de 500 g de petites asperges</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixer le poulet, oeufs et persil. 
+    Ajouter l’Edam râpé (ou la vache qui rit). 
+    Dans un moule à cake, verser la moitié de la farce. Placer les asperges au-dessus. Verser l’autre moitié de la préparation. 
+    Cuisson : 11 mn puissance maximale au micro-onde ou 45 mn à thermostat 6 au four.
+  ]]>
+  </preparation>
+</recette>

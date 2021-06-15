@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24465">
+  <titre>Couscous aux petits pois</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de petits pois cuits (rincés et égouttés si en boîte)</p>
+    <p>200 g de semoule moyenne</p>
+    <p>125 g de beurre</p>
+    <p>10 feuilles de menthe fraîche</p>
+    <p>sel, poivre</p>
+    <p>sucre semoule</p>
+    <p>muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer le couscous comme indiqué sur le paquet.
+    Pendant qu'il cuit, blanchir les feuilles de menthe à l'eau bouillante 1 minute.
+    Dans une casserole, chauffer à feu doux 2 cuillerées à soupe rases de beurre, les feuilles de menthe blanchies et hachées et une pointe de muscade. Laisser mousser le beurre 2-3 min.
+    Ajouter les petits pois, le sel, 1 cuillerée à soupe de sucre. 
+    Laisser chauffer sans couvrir en remuant de temps en temps.
+    Une fois la semoule de couscous cuite, la verser dans un saladier.
+    Incorporer le reste du beurre coupé en cubes, égainer à la fourchette. Ajouter les petits pois, mélanger doucement et servir.
+  ]]>
+  </preparation>
+</recette>

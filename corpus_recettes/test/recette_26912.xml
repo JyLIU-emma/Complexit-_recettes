@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26912">
+  <titre>Escalopes de veau panées au beurre persillé</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 escalopes de veau</p>
+    <p>75 g de farine</p>
+    <p>2 oeufs</p>
+    <p>100 g de chapelure</p>
+    <p>50 g de beurre</p>
+    <p>1/2 bouquet de persil</p>
+    <p>huile de friture</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Saler et poivrer les escalopes de veau.
+    Les passer successivement dans la farine, l'oeuf battu et la chapelure.
+    Hacher le persil et le malaxer avec le beurre mou.
+    Faire frire les escalopes dans l'huile jusqu'à ce qu'elles soient bien dorées et les servir avec le beurre persillé.
+  ]]>
+  </preparation>
+</recette>

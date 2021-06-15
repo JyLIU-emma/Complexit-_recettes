@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12659">
+  <titre>Glace aux fruits confits</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de fruits confits</p>
+    <p>150 g d'amandes</p>
+    <p>75 g de pistaches</p>
+    <p>100 g de miel</p>
+    <p>3 oeufs</p>
+    <p>120 g de sucre</p>
+    <p>40 cl de crème liquide</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hachez les fruits confits. Faites dorer les amandes et les pistaches sur feu doux, puis ajoutez 50 g de sucre.Mélangez jusqu'à ce que les fruits sec caramélisent.
+    Laissez refroidir et hachez la préparation.
+    Battez les blancs en neige, puis ajoutez-y doucement le miel chaud sans cesser de remuer. Battez les jaunes avec le reste de sucre.
+    Ajoutez la crème fraîche fouettée, les fruits confits, les fruits caramélisés et les blancs en neige délicatement.
+    Versez dans un plat pouvant aller au congélateur et laissez durcir au minimum 3 heures.
+  ]]>
+  </preparation>
+</recette>

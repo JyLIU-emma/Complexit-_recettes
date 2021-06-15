@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15875">
+  <titre>Tarte tatin aux poires et aux épices</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 grosses boîtes de poires au sirop</p>
+    <p>1 pâte à tarte brisée</p>
+    <p>du caramel liquide</p>
+    <p>3 sachets de sucre vanillé</p>
+    <p>2 cuillères à café de cannelle en poudre</p>
+    <p>3 pincées de gingembre en poudre</p>
+    <p>2 pincées de noix de muscade en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Caraméliser le fond d'un moule à gâteau (ou plat à tarte aux bords hauts).
+    Dans une assiette creuse, mélanger le sucre vanillé, la cannelle, le gingembre, la muscade.
+    Passer chaque quartier de poire dans cette préparation d'épices, puis les disposer dans le moule.
+    Recouvrir le tout de la pâte et bien border. Faire un petit trou au milieu. Laisser cuire 25 min.
+    Attendre un peu pour démouler retourné.
+     vin blanc sucré (type Muscat)
+  ]]>
+  </preparation>
+</recette>

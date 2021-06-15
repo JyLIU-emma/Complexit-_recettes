@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23039">
+  <titre>Morue à la catalane</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>morue 1 kg</p>
+    <p>5 tomates ou à défault une boîte de tomates pelées</p>
+    <p>1 poivron vert et 1 rouge</p>
+    <p>2 oignons</p>
+    <p>2 à 3 aubergines</p>
+    <p>huile d'olive</p>
+    <p>farine</p>
+    <p>thym et laurier</p>
+    <p>ail</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire déssaler les morceaux de morue dans de grandes quantités d'eau, au moins 24 h. 
+    Préparer les tomates en les faisant cuire pour faire évaporer le jus. 
+    Faire revenir les oignons émincés. 
+    Tailler les poivrons en fines lamelles et les faire revenir avec les oignons. Y ajouter l'ail écrasé, le thym, le laurier, sel poivre, et piment. 
+    Y verser la tomate, remuer et laisser cuire 5 mn à feu doux. 
+    Fariner les morceaux de morue, après avoir enlevé la peau, les grosses arêtes et les avoir séchés. 
+    Les faires revenir dans de l'huile d'olive. 
+    Quand bien revenus, les mettre dans un plat allant au four. 
+    Laver les aubergines et les couper en rondelle d'épaisseur moyennes. 
+    Les faires dorer dans de l'huile d'olive, et les mettre sur les morceaux de morue. 
+    Recouvrir le tout de la préparation de tomates. 
+    Mettre au four chaud pendant 20 mn. 
+    Servir chaud.
+    Ne pas trop saler à cause de la morue. Rouge du Rousillon
+  ]]>
+  </preparation>
+</recette>

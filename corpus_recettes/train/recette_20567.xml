@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20567">
+  <titre>Tarte aux pommes et aux figues séchées</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>pâte feuilletée</p>
+    <p>6 belles pommes, plutôt acides</p>
+    <p>2 cuillères à soupe miel</p>
+    <p>10 figues sèches</p>
+    <p>1 gousse de vanille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les pommes et les couper en lamelles grossières. 
+    Racler les graines de vanille et couper la gousse en troncons d'un cm. 
+    Couper les figues en 4 ou 5 tranches. 
+    Dans une casserole, faire chauffer le mélange de fruits avec le miel en remuant bien pour que le miel et la vanille se répartissent uniformément. 
+    Abaisser la pâte feuilletee dans un moule à tarte et recouvrir du mélange de fruit (on peut laisser les tronçons de vanille, c'est plus joli). 
+    Mettre au four à 200°C jusqu'à ce que la pâte soit dorée (approx. 1/2 heure). 
+    Servir tiède avec une boule de glace vanille.
+  ]]>
+  </preparation>
+</recette>

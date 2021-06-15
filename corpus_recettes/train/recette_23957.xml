@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23957">
+  <titre>Quiche aux moules</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de chair de moule de boucheau (reste de moules marinières, par exemple)</p>
+    <p>10 cl de jus de cuisson de moules marinières</p>
+    <p>5 oeufs</p>
+    <p>125 g de crème fraiche épaisse</p>
+    <p>1 cuillère à soupe de curry</p>
+    <p>1 dose de safran en poudre</p>
+    <p>1 pâte feuilletée pur beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etalerla pâte et la placer dans un moule à tarte. Froncer les bords
+    Déposer la chair des moules décortiquées sur le fond.
+    Dans un saladier, mélanger les 5 oeufs avec la crème fraîche, le curry, le safran. Ajouter le jus de cuisson de moules. Bien battre, puis verser dans le moule à tarte.
+    Cuire environ 30 mn selon votre four.
+    Idéal pour finir un reste de moule marinières (personnellement, je fais plus de moules pour pouvoir réaliser la tarte!). Peut être servie en amuse-gueule froid pour l'apéro.
+    Je recommande la moule de boucheau pour son goût fin et particulier. gewurstraminer bien frais
+  ]]>
+  </preparation>
+</recette>

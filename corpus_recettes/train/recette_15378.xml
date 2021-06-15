@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15378">
+  <titre>Harrira (soupe marocaine)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de viande de boeuf et de mouton coupée en petits dés (1X1),</p>
+    <p>1 oignon</p>
+    <p>3 grosses tomates (on peut utiliser de la tomate en conserve avec son jus)</p>
+    <p>persil, céleri et coriandre</p>
+    <p>50 g de lentilles</p>
+    <p>100 g de pois chiches</p>
+    <p>sel et poivre</p>
+    <p>2 l d'eau</p>
+    <p>3 cuillères à soupe de farine</p>
+    <p>2 œufs</p>
+    <p>1 citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer un peu d'huile dans une casserole et y faire revenir la viande, l'oignon et les tomates pelées et hachées finement.
+    Incorporer le persil, le céleri et la coriandre hachés finement. Faire revenir le tout puis ajouter les lentilles et les pois chiches.
+    Ajouter le sel, le poivre et l'eau. Laissez cuire à feux doux pendant 3 h environ.
+    Ajouter la farine délayée dans un peu d'eau froide et laisser cuire une demie-heure encore.
+    Au moment de servir, compléter par 2 jaunes d'oeufs battus en omelette et incorporer le jus du citron au dernier moment.
+    Cette soupe se sert traditionnellement lors du Ramadan.
+  ]]>
+  </preparation>
+</recette>

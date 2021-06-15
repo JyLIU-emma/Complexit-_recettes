@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23882">
+  <titre>Purée de haricots blancs</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de haricots blancs frais</p>
+    <p>1 carotte</p>
+    <p>1 oignon</p>
+    <p>1 clou de girofle</p>
+    <p>1 bouquet garni avec, si possible, un brin de sarriette</p>
+    <p>120 g de beurre</p>
+    <p>2 tranches de pain</p>
+    <p>2 cuillères à soupe de crème</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Recouvrez les haricots d'eau froide et ajoutez le bouquet garni, la carotte et l'oignon piqué de clou de girofle.
+    Portez à ébullition pour 30 à 40 min de cuisson. Goûtez, ils doivent être tendres mais pas réduits en purée. Salez en fin de cuisson.
+    Ôtez la carotte, le bouquet garni et l'oignon des haricots égouttés. 
+    Réduisez les haricots en purée avec un moulin à légumes ou un tamis afin que les peaux soient éliminées. 
+    Incorporez la crème et la moitié du beurre. Bien mélangez pour obtenir une purée lisse.
+    Si la purée est trop épaisse, ajoutez un peu de bouillon chaud ou d'eau de cuisson des haricots. 
+    Remettez sur le feu et réchauffez doucement en mélangeant.
+    Servir sans attendre avec des croutons de pain. 
+  ]]>
+  </preparation>
+</recette>

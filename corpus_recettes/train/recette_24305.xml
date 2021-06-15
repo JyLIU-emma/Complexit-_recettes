@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24305">
+  <titre>Gâteau au fromage blanc aux fraises (light)</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de fromage blanc lisse 0%</p>
+    <p>50 g de farine</p>
+    <p>6 cuillères à soupe de fructose</p>
+    <p>4 oeufs</p>
+    <p>1 boîte de fraises au sirop</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire préchauffer le four à 200°C (thermostat 6/7). 
+    Dans un saladier, battre ensemble le fromage blanc avec le fructose, les jaunes d'oeufs et la farine. Battre les blancs en neige très ferme et les incorporer délicatement au mélange. 
+    Verser la pâte dans le moule à manqué et disposer les fraises en les enfonçant légèrement dans la pâte. 
+    Faire cuire environ 30 à 40 mn (en surveillant la cuisson).
+  ]]>
+  </preparation>
+</recette>

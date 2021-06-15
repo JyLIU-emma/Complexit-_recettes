@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26178">
+  <titre>Choux de Bruxelles à la savoyarde</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de choux de Bruxelles</p>
+    <p>250 g de jambon de montagne ou de saucisses fumées</p>
+    <p>200 g de gruyère</p>
+    <p>20 cl de crème liquide</p>
+    <p>50 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les choux 20 min dans de l'eau bouillante salée. 
+    Disposez-en la moitié au fond d'un plat beurré. 
+    Répartissez une couche de gruyère et de jambon, puis le restant de choux et de mélange jambon-gruyère. 
+    Arrosez de crème, salez, poivrez, parsemer de beurre et enfournez au four 10 min (thermostat 7, 210°C). 
+    Régalez-vous !
+  ]]>
+  </preparation>
+</recette>

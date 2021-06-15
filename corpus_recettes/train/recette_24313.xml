@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24313">
+  <titre>Gratin de poireaux à la béchamel</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>12 poireaux</p>
+    <p>150 g de lardons fumés</p>
+    <p>75 g de gruyère râpé</p>
+    <p>80 g de beurre</p>
+    <p>60 g de farine</p>
+    <p>75 cl de lait</p>
+    <p>huile</p>
+    <p>noix de muscade râpée</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer les poireaux, couper les feuilles vertes (les utiliser pour une soupe par exemple) et conserver les blancs.
+    Les faire cuire 30 minutes à l'eau bouillante salée ou à la vapeur.
+    Ebouillanter les lardons 2 minutes, les égoutter. 
+    Faire fondre 60 g de beurre dans une casserole, saupoudrer la farine en remuant pendant 4-5 minutes.
+    Verser le lait sans cesser de fouetter et porter à ébullition, toujours en fouettant.
+    Saler, poivrer et ajouter une pincée de muscade.
+    Laisser épaissir à feu doux en remuant.
+    Faire revenir les lardons à la poêle avec l'huile, à feu vif, les égoutter sur du papier absorbant.
+    Egoutter les poireaux sur un linge.
+    Dans un plat à gratin beurré, disposer les poireaux, répartir les lardons et napper de béchamel.
+    Parsemer de fromage râpé et faire gratiner au four 10 minutes à 220°C (thermostat 6-7).
+  ]]>
+  </preparation>
+</recette>

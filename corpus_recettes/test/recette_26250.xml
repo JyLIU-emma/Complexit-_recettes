@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26250">
+  <titre>Cocotte de cuisses de poulet à la bière</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 cuisses de poulet</p>
+    <p>600 g de pommes de terre</p>
+    <p>200 g d'oignons</p>
+    <p>200 g de poireaux</p>
+    <p>100 g de céleri</p>
+    <p>4 cuillerées à soupe de moutarde forte</p>
+    <p>50 cl de bière blonde</p>
+    <p>1 feuille de laurier</p>
+    <p>2 brins de thym</p>
+    <p>1 cuillerée à café de fond de veau</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C (thermostat 6).
+    Séparez les cuisses de poulet au niveau de l'articulation, de manière à obtenir 4 pilons et 4 hauts de cuisse.
+    Badigeonnez-les de moutarde. 
+    Pelez et émincez en rondelles fines les pommes de terre et les oignons.
+    Lavez et émincez le poireau. 
+    Dans une cocotte en terre allant au four, faites un lit avec les pommes de terre, oignons et poireaux.
+    Disposez les morceaux de poulet par-dessus et ajoutez les branches de céleri, le thym, le laurier et le fond de veau.
+    Salez, poivrez et versez la bière.
+    Couvrez la cocotte et faites cuire 1 h 30 au four.
+  ]]>
+  </preparation>
+</recette>

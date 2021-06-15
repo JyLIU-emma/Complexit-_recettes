@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13956">
+  <titre>Fondant de souris d'agneau au basilic</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 souris d'agneau (poids selon l'appétit)</p>
+    <p>1 poivron rouge</p>
+    <p>1 poivron vert</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>1 petit bouquet de basilic</p>
+    <p>1 cuillère à soupe de concentré de tomate</p>
+    <p>2 tomates fraîches non émondées, coupées en morceaux</p>
+    <p>1 verre de (bon) vin blanc sec</p>
+    <p>1 l d'eau</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un poêlon en fonte, faire chauffer l'huile afin de faire dorer très doucement la souris qui aura été salée, poivrée et farinée.
+    Pendant ce temps, préparer les poivrons en les découpant en grosses lamelles. Y ajouter le basilic, le concentré et les tomates en morceaux.
+    Ajouter cette dernière préparation à la souris dans le poêlon, avec le verre de vin blanc et le litre d'eau. 
+    Rectifier légèrement l'assaisonnement et laisser cuire très doucement une heure après la première ébullition.
+    Servir avec des pâtes fraîches légèrement parfumées au basilic.
+  ]]>
+  </preparation>
+</recette>

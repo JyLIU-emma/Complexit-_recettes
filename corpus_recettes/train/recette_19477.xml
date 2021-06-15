@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19477">
+  <titre>Salade Sofia</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 yaourts natures type brassé bulgare</p>
+    <p>1 orange dessert</p>
+    <p>1 banane</p>
+    <p>1 pomme</p>
+    <p>1 boîte de litchis au sirop ou 2 grosses poignées de litchis frais ou 2 kiwis</p>
+    <p>sucre en poudre, et 2 sachets de sucre vanillé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, battre les yourts avec le sucre et le sucre vanillé. 
+    Ajouter les fruits coupé en petits cubes. 
+    Bien mélanger et servir très frais. 
+    Encore meilleure avec des yaourts déjà sucrés et vanillés. A ce moment là, ne pas mettre du tout de sucre.
+    Recette qui s'adapte à tous les fruits (melon, pastèque, mangue, ananas, poire, carambole,...)
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164941">
+  <titre>Pâtes aux poivrons et à la pancetta</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de casarecce </p>
+    <p>300 g de poivrons marinés en bocal</p>
+    <p>3 tomates moyennes pelées, épépinées et coupées en morceaux</p>
+    <p>150 g de fines tranches de pancetta coupées en morceaux</p>
+    <p>1 cuillère à soupe de petites câpres</p>
+    <p>1 gousse d'ail pilée</p>
+    <p>persil plat</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les pâtes dans une casserole d'eau bouillante salée sans couvrir jusqu'à ce qu'elles soient al dente.
+    Pendant ce temps, faites chauffer  l'huile des poivrons marinés dans une poêle et faites-y dorer la pancetta. Ajoutez l'ail hachée, les tomates, les poivrons, les câpres. Faites cuir quelques minutes.
+    Versez les pâtes dans cette préparation et remuez. 
+    Ajoutez le persil ciselé et servez aussitôt.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faites <OPER id="o_1">cuire</OPER> les <INGRED id="2">pâtes</INGRED> dans une casserole d'<INGRED id="7">eau</INGRED> bouillante salée sans <OPER id="o_2">couvrir</OPER> jusqu'à ce qu'elles soient al dente. Pendant ce temps, faites <OPER id="o_3">chauffer</OPER> l'huile des poivrons marinés dans une poêle et faites - y <OPER id="o_4">dorer</OPER> la <INGRED id="6">pancetta</INGRED>. <OPER id="o_5">Ajoutez</OPER> l'<INGRED id="6">ail hachée</INGRED>, les <INGRED id="3">tomates</INGRED>, les poivrons, les câpres. Faites <OPER id="o_6">cuir</OPER> quelques minutes. <OPER id="o_7">Versez</OPER> les <INGRED id="2">pâtes</INGRED> dans cette <INGRED id="4">préparation</INGRED> et remuez. <OPER id="o_8">Ajoutez</OPER> le <INGRED id="3">persil</INGRED> ciselé et servez aussitôt.
+  </annotation>
+  <annotation methode="crf">
+  Faites cuire les <INGRED>pâtes</INGRED> dans une casserole d'<INGRED>eau</INGRED> bouillante salée sans couvrir jusqu'à ce qu'elles soient al dente. Pendant ce temps <INGRED>,</INGRED> faites chauffer l'<INGRED>huile</INGRED> des <INGRED>poivrons</INGRED> marinés dans une poêle et faites - y dorer la <INGRED>pancetta</INGRED> <INGRED>.</INGRED> Ajoutez l'<INGRED>ail</INGRED> hachée <INGRED>,</INGRED> les <INGRED>tomates</INGRED> <INGRED>,</INGRED> les <INGRED>poivrons</INGRED> <INGRED>,</INGRED> les <INGRED>câpres</INGRED> <INGRED>.</INGRED> Faites cuir quelques minutes. Versez les <INGRED>pâtes</INGRED> dans cette préparation et remuez <INGRED>.</INGRED> Ajoutez le <INGRED>persil ciselé</INGRED> et servez aussitôt.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 7.75*X + 0.25</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 155*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['casarecce']	 id:1	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['poivrons marinés en bocal', 'poivrons']	 id:2	 quantité:300	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['tomates moyennes pelées', 'tomates']	 id:3	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['épépinées']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['coupées en morceaux', 'coupées']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['pancetta coupées en morceaux', 'pancetta']	 id:6	 quantité:150	 unité:tranches de	 denombrable:True	 recipient:150*X
+ingredient:['petites câpres', 'câpres']	 id:7	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['ail pilée', 'ail']	 id:8	 quantité:1	 unité:gousse d'	 denombrable:True	 recipient:1*X
+ingredient:['persil plat', 'persil']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:cuire	 id:o_1	 ingrédients_ralatifs:['2', '7']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:couvrir	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:chauffer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:2	 recipient:1
+operation:dorer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['6', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuir	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_7	 ingrédients_ralatifs:['2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

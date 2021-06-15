@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21941">
+  <titre>Thon à la provençale</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de thon frais</p>
+    <p>1 kg de tomates bien mûres</p>
+    <p>3 gros poivrons rouges</p>
+    <p>100 g d'olives vertes et noires</p>
+    <p>3 gros oignons</p>
+    <p>4 gousses d'ail</p>
+    <p>1/2 bouquet de basilic</p>
+    <p>15 cl de vin blanc sec</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez et coupez les tomates en quartiers, les poivrons en lanières et les oignons en rondelles.
+    Pelez et pilez l'ail. Ciselez le basilic.
+    Ebouillantez les olives 2 minutes, et dénoyautez-les.
+    Faites chauffer 3 cuillères à soupe d'huile dans une cocotte. Jetez-y les oignons et les poivrons, laissez revenir 5 minutes en remuant.
+    Ajoutez l'ail, les tomates, salez et poivrez.
+    Faites dorer le thon salé et poivré dans une autre poêle, avec un fond d'huile. Une fois qu'il est bien doré, retirez-le.
+    Ajoutez les olives aux légumes, mouillez de vin blanc et posez le thon sur les légumes.
+    Couvrez et laissez mijoter 1 h à feu doux. Parsemez de basilic ciselé 5 minutes avant la fin de la cuisson.
+  ]]>
+  </preparation>
+</recette>

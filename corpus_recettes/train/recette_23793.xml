@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23793">
+  <titre>Moules à la pâte d'ail au curry et à la crème</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 kg de moules</p>
+    <p>50 g de beurre</p>
+    <p>Pour la pâte d'ail au curry :</p>
+    <p>5 gousses d'ail</p>
+    <p>4 cuillères à café de curry </p>
+    <p>huile d'olive</p>
+    <p>Pour la sauce :</p>
+    <p>15 cl de vin blanc sec</p>
+    <p>100 g de crème fraîche</p>
+    <p>persil haché</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer et gratter les moules, puis les plonger dans un faitout huilé.Laisser cuire à couvert à feu modéré, sans cesser de remuer jusqu'à ce que les moules soient ouvertes.
+    Pendant ce temps, éplucher les gousses d'ail, les piler avec le curry et de l'huile d'olive en quantité suffisante pour obtenir une pâte lisse.
+    Mettre ensuite les moules à égoutter dans une passoire et filtrer leur jus de cuisson.
+    Verser le jus filtré dans une petite casserole avec le vin blanc et faire réduire la sauce.Y incorporer la pâte d'ail au curry, en remuant et laisser chauffer 5 min.
+    Ajouter enfin la crème fraîche, un peu de sel et de poivre.
+    Ouvrir les moules et ne conserver que la coquille contenant la moule.
+    Une fois ouvertes, les dresser sur un plat de service bien chaud, puis les napper de sauce.
+    Parsemer enfin de persil haché pour la décoration et déguster aussitôt.
+  ]]>
+  </preparation>
+</recette>

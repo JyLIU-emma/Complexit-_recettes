@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22722">
+  <titre>Tarte au sucre rapide</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>250 g sucre en poudre</p>
+    <p>250 g crème fraîche épaisse</p>
+    <p>125 g noix hachées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une csserole, faire bouillir (mais doucement !) le sucre et la crème pendant 5 à 10 mn. ôter du feu et y ajouter les noix hachées. Elles doivent fondre très légèrement sous l'effet de la chaleur. 
+    Mettre la pâte brisée dans une tourtière et la piquer un peu partout avec une fourchette. Verser la préparation dessus. Enfourner à four chaud, 210°C , pendant 25 mn environ. 
+    La tarte prend une coloration "caramel".
+    Un peu calorique, mais trop délicieux !
+  ]]>
+  </preparation>
+</recette>

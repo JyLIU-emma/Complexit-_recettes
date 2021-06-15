@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18100">
+  <titre>Tarte au chèvre et aux poireaux</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la pâte :</p>
+    <p>300 g de farine</p>
+    <p>150 g de beurre</p>
+    <p>1 pincée de sel</p>
+    <p>Pour l'appareil :</p>
+    <p>40 cl de crème fraîche épaisse</p>
+    <p>4 oeufs</p>
+    <p>1 verre de lait</p>
+    <p>2 poireaux</p>
+    <p>1 bûche de chèvre (ou 150 gr de fromage de chèvre du même type)</p>
+    <p>emmental râpé</p>
+    <p>sel et poivre</p>
+    <p>2 cuillères à soupe de nigelle (épice orientale)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la pâte avec la farine, le beurre, le sel et de l'eau pour obtenir un mélange souple mais qui ne colle pas. Abaisser et poser dans un plat à tarte.
+    Sur la pâte, disposer le fromage de chèvre coupé en petites tranches.
+    Pendant ce temps, faire suer les poireaux coupés en rondelles dans un peu de beurre. Dans un saladier mélanger la crème, le lait, les oeufs, le râpé puis ajouter les poireaux. Saler, poivrer et ajouter la nigelle.
+    Préchauffer le four et faire cuire jusqu'à ce que le dessus soit bien doré.La nigelle n'est pas dans la recette classique, mais c'est vraiment bon (ça compense la légère amertume du poireau).
+  ]]>
+  </preparation>
+</recette>

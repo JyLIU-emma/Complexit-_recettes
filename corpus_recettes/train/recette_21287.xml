@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21287">
+  <titre>Fromage blanc aux copeaux de chocolat noir</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de fromage blanc à 20 ou 40 % de matières grasses</p>
+    <p>4 barres de chocolat noir à dessert</p>
+    <p>2 cuillères à soupe de sucre en poudre ou de fructose (dose pouvant être augmentée ou diminuée en fonction du goût) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un petit saladier, mélangez au fouet le fromage blanc avec le chocolat noir râpé et le sucre en poudre jusqu'à l'obtention d'une texture veloutée. 
+    Versez cette préparation dans des coupelles. 
+    Dégustez, c'est un régal !
+    Vous pouvez également ajouter des rondelles de banane ou des petits morceaux de poires ou de pommes pour un goûter au succès garanti
+  ]]>
+  </preparation>
+</recette>

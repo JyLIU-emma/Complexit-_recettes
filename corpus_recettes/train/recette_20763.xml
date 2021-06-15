@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20763">
+  <titre>Oeuf en fete</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 oeufs</p>
+    <p>persil haché</p>
+    <p>de la mayonnaise</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire des oeufs cuits durs. Retirer la coquille une fois cuit sans casser l'oeuf, coupez en deux et retirer le jaune que vous mélangerez avec les herbes la mayonnaise et un peu de sel, remetter le jaune dans le "blanc" et servez.
+     eau
+  ]]>
+  </preparation>
+</recette>

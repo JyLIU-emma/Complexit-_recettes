@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20813">
+  <titre>Haricots verts au four</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de haricots verts</p>
+    <p>150 g de jambon blanc</p>
+    <p>125 g de yaourt</p>
+    <p>50 g de pancetta</p>
+    <p>50 g de parmesan râpé</p>
+    <p>3 oeufs</p>
+    <p>1 gousse d'ail (facultative) </p>
+    <p>1 oignon</p>
+    <p>30 g beurre </p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    S'ils sont frais, éplucher, laver et faire blanchir les haricots.
+    Couper la pancetta en petits dés, puis les faire rissoler avec de l'ail et de l'oignon dans le beurre. Ajouter les haricots, puis laisser mijoter, avant d'incorporer le jambon préalablement découpé en lanières.
+    Cuire le tout 2 min, puis le verser dans un plat à feu beurré. 
+    Battre les oeufs dans une terrine, puis y incorporer une poignée de parmesan râpé, le yaourt, du sel et du poivre. Bien mélanger le tout. 
+    Napper les haricots de cette préparation, saupoudrer avec le reste du parmesan et passer le plat 10 min au four préchauffé à 200°C (thermostat 6/7).
+    Servir chaud.
+    Cette recette fonctionne aussi bien sans l'ail, et si vous désirez remplacer le parmesan par de la mozarella, c'est très bon, mais il vaut mieux alors multiplier par 2 les doses de fromage (ou prendre deux paquets de mozarella).
+  ]]>
+  </preparation>
+</recette>

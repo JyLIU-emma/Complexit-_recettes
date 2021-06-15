@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13070">
+  <titre>St Jacques aux pommes Granny</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de St Jacques </p>
+    <p>8 pommes Granny </p>
+    <p>1 Bouteille de cidre </p>
+    <p>50 g de beurre</p>
+    <p>farine</p>
+    <p>1 oignon</p>
+    <p>sel et poivre</p>
+    <p>8 coquilles vides</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les pommes granny en quatre, retirer les pépins, les faire cuire à feu doux dans du beurre.
+    Faire cuire les St Jacques dans une poèle avec du beurre pendant 10 mn.
+    Pour la sauce : faire revenir un peu d'oignon dans du beurre, ajouter de la farine et mouiller avec le cidre.
+    Verser les st jacques dans la sauce, mettre les pommes autour dans les coquilles.
+    Rectifier l'assaisonnement avec sel et poivre du moulin. Bon appétit, vous allez épater vos amis !
+     cidre
+  ]]>
+  </preparation>
+</recette>

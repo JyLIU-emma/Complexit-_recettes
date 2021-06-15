@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10852">
+  <titre>Colin sauce persil</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 morceaux de colin</p>
+    <p>1 court-bouillon</p>
+    <p>125 g de beurre</p>
+    <p>15 cl de jus de citron</p>
+    <p>1/2 bouquet de persil</p>
+    <p>5 gousses d'ail</p>
+    <p>15 cl de crème fraîche épaisse</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire le poisson au court-bouillon durant 10 minutes.
+    Faire fondre le beurre, faire chauffer avec l'ail écrasée=, sans faire brunir, et laisser cuire durant 5 minutes.
+    Ajouter le jus de citron et le persil haché. Poursuivre la cuisson 10 minutes puis ajouter la crème épaisse. Laisser fondre, ajouter le poisson et laisser réchauffer.
+    Servir quant tout est chaud.
+    En légume, prévoir du riz, c'est délicieux en le mélangeant avant la sauce versée sans modération. blanc sec
+  ]]>
+  </preparation>
+</recette>

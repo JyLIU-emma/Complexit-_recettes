@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43609">
+  <titre>Cailles farcies sauce mandarine</titre>
+  <type>Entrée</type>
+  <niveau>Difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>Pour la farce :</p>
+    <p>400 g de viande hachée porc/boeuf ou chair à saucisse  </p>
+    <p>2 petites mandarines</p>
+    <p>1/2 échalote rouge</p>
+    <p>2 sucres </p>
+    <p>30 g de beurre</p>
+    <p>2 branches de persil</p>
+    <p>sel et poivre</p>
+    <p>Pour la recette :</p>
+    <p>6 cailles</p>
+    <p>2 1/2 échalotes rouge</p>
+    <p>5 petites mandarines</p>
+    <p>10 cl d'alcool de mandarine (Fine Napoléon)</p>
+    <p>400 ml de fond de volaille</p>
+    <p>6 sucre</p>
+    <p>1 feuille de laurier</p>
+    <p>1 cuillère à soupe de cannelle</p>
+    <p>1 pot de crême fraîche allégée</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la farce. 
+    Dans un poêlon, faire une purée avec 20 g de beurre, les mandarines épluchées à vif au dessus du récipient et bien écrasées, et le sucre.
+    Dans un autre poêlon, faire blanchir la 1/2 échalote coupée finement. Laisser refroidir.
+    Incorporer à la viande les ingrédients ci-dessus, avec le persil haché très finement. Saler et poivrer.
+    Emplir les cailles de cette farce, et les fermer à l'aide d'un cure-dent.
+    Dans une casserole à fond épais, faire fondre 40 g de beurre, et faire dorer les cailles salée et poivrée. 
+    Quand elles sont bien dorées, les enlever et les réserver. 
+    A la place, faire blanchir les échalotes coupées finement. Et ajouter le fond de volaille, le jus d'1 mandarine, les autres mandarines épluchée en quartiers, 4 sucres, la cannelle, le laurier et l'alcool. Remettre les cailles, et laisser cuire 45 min.
+    Pendant ce temps, dans une poêle, mettre le restant de beurre, et saisir les quartiers des 2 mandarines, et les faire caraméliser avec le sucre restant.
+    A la fin de la cuisson, enlever les cailles, les mettre sur une assiette légèrement chauffée, et épaissir la sauce avec la crème fraîche. Napper les cailles, et les entourer de quartiers de mandarine.
+    Servir avec des petits pains.
+    Surtour, bien penser que ce n'est qu'une entrée chaude! Bon appétit.
+    Prendre des cailles pas trop grosses, sauf si c'est pour en faire un plat principal, alors l'accompagner de pomme de terres risolées. un bon rosé au choix
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Préparer</OPER> la farce. Dans un poêlon, <INGRED id="4">faire</INGRED> une <INGRED id="14">purée</INGRED> avec 20 <INGRED id="1">g</INGRED> de <INGRED id="10">beurre</INGRED>, les <INGRED id="11">mandarines</INGRED> épluchées à vif au dessus du récipient et bien <INGRED id="11">écrasées</INGRED>, et le <INGRED id="4">sucre</INGRED>. Dans un autre poêlon, <INGRED id="4">faire</INGRED> <OPER id="o_2">blanchir</OPER> la 1/2 <INGRED id="8">échalote</INGRED> coupée finement. Laisser <OPER id="o_3">refroidir</OPER>. <OPER id="o_4">Incorporer</OPER> à la <INGRED id="2">viande</INGRED> les ingrédients ci - dessus, avec le <INGRED id="13">persil haché</INGRED> très finement. <OPER id="o_513">Saler</OPER> et <OPER id="o_6">poivrer</OPER>. <OPER id="o_7">Emplir</OPER> les <INGRED id="9">cailles</INGRED> de cette farce, et les <OPER id="o_8">fermer</OPER> à l'aide d'un <INGRED id="12">cure</INGRED> - dent. Dans une casserole à <INGRED id="8">fond</INGRED> épais, <INGRED id="4">faire</INGRED> <OPER id="o_9">fondre</OPER> 40 <INGRED id="4">g</INGRED> de <INGRED id="12">beurre</INGRED>, et <INGRED id="14">faire</INGRED> <OPER id="o_10">dorer</OPER> les <INGRED id="9">cailles</INGRED> salée et poivrée. Quand elles sont bien dorées, les <OPER id="o_11">enlever</OPER> et les réserver. A la place, <INGRED id="4">faire</INGRED> <OPER id="o_12">blanchir</OPER> les <INGRED id="11">échalotes</INGRED> <INGRED id="5">coupées</INGRED> finement. Et <OPER id="o_1316">ajouter</OPER> le <INGRED id="8">fond</INGRED> de <INGRED id="2">volaille</INGRED>, le <INGRED id="2">jus</INGRED> d'1 mandarine, les autres <INGRED id="11">mandarines</INGRED> épluchée en quartiers, 4 <INGRED id="4">sucres</INGRED>, la <INGRED id="14">cannelle</INGRED>, le <INGRED id="9">laurier</INGRED> et l'<INGRED id="12">alcool</INGRED>. <OPER id="o_14">Remettre</OPER> les <INGRED id="9">cailles</INGRED>, et <INGRED id="12">laisser</INGRED> <OPER id="o_15">cuire</OPER> 45 min. Pendant ce temps, dans une poêle, <OPER id="o_16">mettre</OPER> le restant de <INGRED id="12">beurre</INGRED>, et <OPER id="o_17">saisir</OPER> les quartiers des 2 <INGRED id="2">mandarines</INGRED>, et les <INGRED id="14">faire</INGRED> <OPER id="o_18">caraméliser</OPER> avec le <INGRED id="5">sucre</INGRED> restant. A la fin de la cuisson, <OPER id="o_19">enlever</OPER> les <INGRED id="9">cailles</INGRED>, les <OPER id="o_20">mettre</OPER> sur une assiette légèrement chauffée, et <OPER id="o_21">épaissir</OPER> la <INGRED id="5">sauce</INGRED> avec la crème fraîche. <OPER id="o_22">Napper</OPER> les <INGRED id="9">cailles</INGRED>, et les <OPER id="o_23">entourer</OPER> de quartiers de mandarine. Servir avec des <INGRED id="9">petits</INGRED> pains. Surtour, bien <OPER id="o_24">penser</OPER> que ce n'est qu'une entrée chaude ! Bon appétit. <OPER id="o_25">Prendre</OPER> des <INGRED id="9">cailles</INGRED> pas trop grosses, sauf si c'est pour en <INGRED id="4">faire</INGRED> un <INGRED id="9">plat</INGRED> principal, alors l'accompagner de <INGRED id="12">pomme</INGRED> de terres risolées. un bon rosé au choix
+  </annotation>
+  <annotation methode="crf">
+  Préparer la farce <INGRED>.</INGRED> Dans un poêlon <INGRED>,</INGRED> faire une <INGRED>purée</INGRED> avec 20 <INGRED>g</INGRED> de <INGRED>beurre</INGRED> <INGRED>,</INGRED> les <INGRED>mandarines</INGRED> épluchées à vif au dessus du récipient et bien écrasées <INGRED>,</INGRED> et le <INGRED>sucre</INGRED>. Dans un autre poêlon <INGRED>,</INGRED> faire blanchir la <INGRED>1/2</INGRED> <INGRED>échalote</INGRED> coupée <INGRED>finement</INGRED> <INGRED>.</INGRED> Laisser refroidir <INGRED>.</INGRED> Incorporer à la <INGRED>viande</INGRED> les ingrédients ci - dessus <INGRED>,</INGRED> avec le <INGRED>persil haché</INGRED> très <INGRED>finement</INGRED> <INGRED>.</INGRED> Saler et poivrer. Emplir les <INGRED>cailles</INGRED> de cette farce <INGRED>,</INGRED> et les fermer à l'aide d'un <INGRED>cure</INGRED> - dent. Dans une casserole à <INGRED>fond</INGRED> épais <INGRED>,</INGRED> faire fondre 40 <INGRED>g</INGRED> de <INGRED>beurre</INGRED> <INGRED>,</INGRED> et faire dorer les <INGRED>cailles</INGRED> salée et poivrée. Quand elles sont bien dorées <INGRED>,</INGRED> les enlever et les réserver <INGRED>.</INGRED> A la place <INGRED>,</INGRED> faire blanchir les <INGRED>échalotes</INGRED> <INGRED>coupées</INGRED> finement <INGRED>.</INGRED> Et ajouter le <INGRED>fond</INGRED> de volaille <INGRED>,</INGRED> le <INGRED>jus</INGRED> d'1 mandarine <INGRED>,</INGRED> les autres mandarines épluchée en quartiers <INGRED>,</INGRED> 4 sucres <INGRED>,</INGRED> la <INGRED>cannelle</INGRED> <INGRED>,</INGRED> le <INGRED>laurier</INGRED> et l'<INGRED>alcool</INGRED> <INGRED>.</INGRED> Remettre les <INGRED>cailles</INGRED> <INGRED>,</INGRED> et laisser cuire 45 min. Pendant ce temps <INGRED>,</INGRED> dans une poêle <INGRED>,</INGRED> mettre le restant de <INGRED>beurre</INGRED> <INGRED>,</INGRED> et saisir les quartiers des 2 mandarines <INGRED>,</INGRED> et les faire caraméliser avec le <INGRED>sucre</INGRED> restant. A la fin de la cuisson <INGRED>,</INGRED> enlever les <INGRED>cailles</INGRED> <INGRED>,</INGRED> les mettre sur une assiette légèrement chauffée <INGRED>,</INGRED> et épaissir la <INGRED>sauce</INGRED> avec la <INGRED>crème fraîche</INGRED> <INGRED>.</INGRED> Napper les <INGRED>cailles</INGRED> <INGRED>,</INGRED> et les entourer de quartiers de mandarine. Servir avec des petits <INGRED>pains</INGRED> <INGRED>.</INGRED> Surtour <INGRED>,</INGRED> bien penser que ce n'est qu'une entrée chaude ! Bon appétit. Prendre des cailles pas trop grosses <INGRED>,</INGRED> sauf si c'est pour en faire un plat principal <INGRED>,</INGRED> alors l'accompagner de <INGRED>pomme</INGRED> de terres risolées. un bon rosé au choix
+  </annotation>
+  <complexite>
+    <temps>f(X) = 44.2766934557979*X + 0.723306544202067</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 429*X + 12</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['viande hachée porc-boeuf', 'viande']	 id:1	 quantité:400	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['mandarines']	 id:2	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['échalote rouge', 'échalote']	 id:3	 quantité:1/2	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sucres']	 id:4	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['beurre']	 id:5	 quantité:30	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['persil']	 id:6	 quantité:2	 unité:branches de	 denombrable:True	 recipient:2*X
+ingredient:['sel']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['cailles']	 id:9	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['échalotes rouge', 'échalotes']	 id:10	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['mandarines']	 id:11	 quantité:5	 unité:non_precis	 denombrable:True	 recipient:5*X
+ingredient:['alcool de mandarine', 'alcool']	 id:12	 quantité:10	 unité:cl d'	 denombrable:False	 recipient:1
+ingredient:['ml de fond de volaille', 'ml']	 id:13	 quantité:400	 unité:non_precis	 denombrable:True	 recipient:400*X
+ingredient:['sucre']	 id:14	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['laurier']	 id:15	 quantité:1	 unité:feuille de	 denombrable:True	 recipient:1*X
+ingredient:['cannelle']	 id:16	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['crême fraîche allégée', 'crême']	 id:17	 quantité:1	 unité:pot de	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:18	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:19	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préparer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:blanchir	 id:o_2	 ingrédients_ralatifs:['4', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:incorporer	 id:o_4	 ingrédients_ralatifs:['2', '13']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:emplir	 id:o_7	 ingrédients_ralatifs:['9', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fermer	 id:o_8	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:10*X	 temps:1*X*1	 recipient:0
+operation:fondre	 id:o_9	 ingrédients_ralatifs:['8', '4', '4', '12', '14', '9']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:dorer	 id:o_10	 ingrédients_ralatifs:['14', '9']	 nombre_opération_atomique:6*X+6*X	 temps:6*X*1+6*X*1	 recipient:0
+operation:enlever	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:blanchir	 id:o_12	 ingrédients_ralatifs:['4', '11', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_13	 ingrédients_ralatifs:['8', '2', '2', '11', '4', '14', '9', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remettre	 id:o_14	 ingrédients_ralatifs:['9', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cuire	 id:o_15	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:mettre	 id:o_16	 ingrédients_ralatifs:['12', '2', '14', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:saisir	 id:o_17	 ingrédients_ralatifs:['2', '14', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:caraméliser	 id:o_18	 ingrédients_ralatifs:['14', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enlever	 id:o_19	 ingrédients_ralatifs:['9', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:épaissir	 id:o_21	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:napper	 id:o_22	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:entourer	 id:o_23	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:penser	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:prendre	 id:o_25	 ingrédients_ralatifs:['9', '4', '9', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

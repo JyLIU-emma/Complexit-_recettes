@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28633">
+  <titre>Rôti de chevreuil mariné aux champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1 cuissot de chevreuil de 600 à 750 g</p>
+    <p>50 g de lard gras</p>
+    <p>Pour la marinade :</p>
+    <p>5 cuillères à soupe d'huile</p>
+    <p>5 cl de cognac</p>
+    <p>6 grains de poivre</p>
+    <p>6 baies de genévrier</p>
+    <p>2 clous de girofle</p>
+    <p>Pour la cuisson :</p>
+    <p>30 g de beurre</p>
+    <p>1 cuillère à café rase de sel</p>
+    <p>poivre blanc moulu</p>
+    <p>200 g de champignons</p>
+    <p>Pour la sauce :</p>
+    <p>20 cl de bouillon</p>
+    <p>2 cuillères à soupe de persil haché</p>
+    <p>les épices de la marinade</p>
+    <p>1 pincée de sucre ou de cassonade</p>
+    <p>1 cuillère à soupe de chapelure dorée</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>1 cuillère à soupe de cognac</p>
+    <p>à volonté quelques gouttes de sauce Tabasco au piment fort</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Envelopper la viande de lard.
+    Dans un plat, mélanger le poivre, les baies de genévrier et les clous de girofles, puis rouler la viande dans ce mélange d'épices. La mouiller d'huile et de cognac puis la faire mariner 1 h en la remuant souvent afin qu'elle soit parfaitement imprégnée de sa marinade.
+    Préchauffer votre four à 200°C (thermostat 6/7).
+    Au bout d'1 h, l'égoutter, l'assaisonner. La mettre à dorer pendant 15 min dans une cocotte beurrée (avec 30 g de beurre) allant au four. La retourner souvent de façon à ce qu'elle soit bien dorée de tous les côtés.
+    Filtrer la marinade et en ajouter ensuite 2 ou 3 cuillères dans la cocotte, couvrir et poursuivre la cuisson au four chaud pendant 40 min ou plus selon les goûts de cuisson.
+    En fin de cuisson, ajouter les champignons égouttés et les laisser cuire 5 min.
+    Sortir la viande du four et la réserver au chaud.
+    Dans une petite casserole, porter à ébullition le bouillon avec le sucre, les épices filtrées de la marinade et le persil haché. Laisser mijoter 5 min.
+    Parsemer les champignons de chapelure, les mouiller de bouillon et laisser mijoter 5 min. Ajouter ensuite le cognac et la crème. Retirer du feu dès ébullition et rectifier l'assaisonnement.
+    Découper le rôti en tranches que vous dresserez sur un plat de service chaud. L'entourer des champignons et servir avec la sauce filtrée en saucière.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Envelopper</OPER> la <INGRED id="1">viande</INGRED> de <INGRED id="3">lard</INGRED>. Dans un <INGRED id="9">plat</INGRED>, <OPER id="o_2">mélanger</OPER> le <INGRED id="14">poivre</INGRED>, les <INGRED id="6">baies de genévrier</INGRED> et les <INGRED id="10">clous</INGRED> de girofles, puis <OPER id="o_3">rouler</OPER> la <INGRED id="11">viande</INGRED> dans ce <INGRED id="16">mélange</INGRED> d'épices. La <OPER id="o_4">mouiller</OPER> d'<INGRED id="9">huile</INGRED> et de <INGRED id="3">cognac</INGRED> puis la <INGRED id="4">faire</INGRED> <OPER id="o_5">mariner</OPER> 1 h en la remuant souvent afin qu'elle soit parfaitement imprégnée de sa marinade. <OPER id="o_6">Préchauffer</OPER> votre four à 200 ° C ( thermostat 6/7 ). Au bout d'1 h, l'<OPER id="o_7">égoutter</OPER>, l'<OPER id="o_8">assaisonner</OPER>. La <OPER id="o_9">mettre</OPER> à <OPER id="o_10">dorer</OPER> pendant 15 min dans une <INGRED id="3">cocotte</INGRED> beurrée ( avec 30 <INGRED id="9">g</INGRED> de <INGRED id="17">beurre</INGRED> ) allant au four. La <OPER id="o_11">retourner</OPER> souvent de façon à ce qu'elle soit bien dorée de tous les côtés. <OPER id="o_12">Filtrer</OPER> la marinade et en <OPER id="o_1316">ajouter</OPER> ensuite 2 ou 3 cuillères dans la <INGRED id="3">cocotte</INGRED>, <OPER id="o_14">couvrir</OPER> et <OPER id="o_15">poursuivre</OPER> la cuisson au four chaud pendant 40 min ou plus selon les goûts de cuisson. En fin de cuisson, <OPER id="o_1616">ajouter</OPER> les <INGRED id="5">champignons</INGRED> égouttés et les <INGRED id="12">laisser</INGRED> <OPER id="o_17">cuire</OPER> 5 min. <OPER id="o_18">Sortir</OPER> la <INGRED id="1">viande</INGRED> du four et la réserver au chaud. Dans une <INGRED id="2">petite</INGRED> casserole, <OPER id="o_19">porter</OPER> à ébullition le <INGRED id="6">bouillon</INGRED> avec le <INGRED id="18">sucre</INGRED>, les <INGRED id="14">épices</INGRED> filtrées de la marinade et le <INGRED id="7">persil haché</INGRED>. Laisser <OPER id="o_20">mijoter</OPER> 5 min. <OPER id="o_21">Parsemer</OPER> les champignons de <INGRED id="8">chapelure</INGRED>, les <OPER id="o_22">mouiller</OPER> de <INGRED id="15">bouillon</INGRED> et <INGRED id="12">laisser</INGRED> <OPER id="o_23">mijoter</OPER> 5 min. <OPER id="o_24">Ajouter</OPER> ensuite le <INGRED id="18">cognac</INGRED> et la crème. <OPER id="o_25">Retirer</OPER> du feu dès ébullition et <OPER id="o_26">rectifier</OPER> l'assaisonnement. <OPER id="o_27">Découper</OPER> le rôti en <INGRED id="4">tranches</INGRED> que vous dresserez sur un <INGRED id="9">plat</INGRED> de service chaud. L'<OPER id="o_28">entourer</OPER> des champignons et servir avec la <INGRED id="6">sauce</INGRED> filtrée en saucière.
+  </annotation>
+  <annotation methode="crf">
+  Envelopper la <INGRED>viande</INGRED> de <INGRED>lard</INGRED> <INGRED>.</INGRED> Dans un plat <INGRED>,</INGRED> mélanger le <INGRED>poivre</INGRED> <INGRED>,</INGRED> les <INGRED>baies de genévrier</INGRED> et les <INGRED>clous de girofles</INGRED> <INGRED>,</INGRED> puis rouler la <INGRED>viande</INGRED> dans ce <INGRED>mélange d'épices</INGRED>. La mouiller d'<INGRED>huile</INGRED> et de <INGRED>cognac</INGRED> puis la faire mariner 1 <INGRED>h</INGRED> en la remuant souvent afin qu'elle soit parfaitement imprégnée de sa marinade <INGRED>.</INGRED> Préchauffer votre four à 200 ° C ( thermostat 6/7 ). Au bout d'1 <INGRED>h</INGRED> <INGRED>,</INGRED> l'égoutter <INGRED>,</INGRED> l'assaisonner <INGRED>.</INGRED> La mettre à dorer pendant 15 min dans une cocotte beurrée ( avec 30 <INGRED>g</INGRED> de <INGRED>beurre</INGRED> ) allant au four <INGRED>.</INGRED> La retourner souvent de façon à ce qu'elle soit bien dorée de tous les côtés. Filtrer la marinade et en ajouter ensuite 2 <INGRED>ou</INGRED> 3 <INGRED>cuillères</INGRED> dans la cocotte <INGRED>,</INGRED> couvrir et poursuivre la cuisson au four chaud pendant 40 min <INGRED>ou</INGRED> plus selon les goûts de cuisson. En fin de cuisson <INGRED>,</INGRED> ajouter les <INGRED>champignons</INGRED> égouttés et les laisser cuire 5 min. Sortir la <INGRED>viande</INGRED> du four et la réserver au chaud <INGRED>.</INGRED> Dans une <INGRED>petite</INGRED> casserole <INGRED>,</INGRED> porter à ébullition le <INGRED>bouillon</INGRED> avec le <INGRED>sucre</INGRED> <INGRED>,</INGRED> les <INGRED>épices</INGRED> filtrées de la marinade et le <INGRED>persil haché</INGRED>. Laisser mijoter 5 min. Parsemer les <INGRED>champignons</INGRED> de <INGRED>chapelure</INGRED> <INGRED>,</INGRED> les mouiller de <INGRED>bouillon</INGRED> et laisser mijoter 5 min. Ajouter ensuite le <INGRED>cognac</INGRED> et la <INGRED>crème</INGRED>. Retirer du feu dès ébullition et rectifier l'assaisonnement <INGRED>.</INGRED> Découper le <INGRED>rôti</INGRED> en tranches que vous dresserez sur un plat de service chaud <INGRED>.</INGRED> L'entourer des <INGRED>champignons</INGRED> et servir avec la <INGRED>sauce</INGRED> filtrée en saucière.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 22.5555555555556*X + 6.44444444444444</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 28*X + 15</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['g']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['lard gras', 'lard']	 id:2	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['huile']	 id:3	 quantité:5	 unité:cuillères à soupe d'	 denombrable:True	 recipient:5*X
+ingredient:['cognac']	 id:4	 quantité:5	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['grains de poivre', 'grains']	 id:5	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['baies de genévrier', 'baies']	 id:6	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['clous de girofle', 'clous']	 id:7	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['beurre']	 id:8	 quantité:30	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:9	 quantité:1	 unité:cuillère à café rase de	 denombrable:True	 recipient:1*X
+ingredient:['poivre blanc moulu', 'poivre']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['champignons']	 id:11	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['bouillon']	 id:12	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['persil haché', 'persil']	 id:13	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['épices de la marinade', 'épices']	 id:14	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:15	 quantité:1	 unité:pincée de	 denombrable:True	 recipient:1*X
+ingredient:['chapelure dorée', 'chapelure']	 id:16	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['crème fraîche', 'crème']	 id:17	 quantité:2	 unité:cuillères à soupe de	 denombrable:True	 recipient:2*X
+ingredient:['cognac']	 id:18	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['sauce Tabasco au piment fort', 'sauce']	 id:19	 quantité:non_precis	 unité:gouttes de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:envelopper	 id:o_1	 ingrédients_ralatifs:['1', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_2	 ingrédients_ralatifs:['9', '14', '6', '10', '11', '16']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:rouler	 id:o_3	 ingrédients_ralatifs:['11', '16']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mouiller	 id:o_4	 ingrédients_ralatifs:['9', '3', '4']	 nombre_opération_atomique:1	 temps:3	 recipient:0
+operation:mariner	 id:o_5	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:préchauffer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:égoutter	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:assaisonner	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_9	 ingrédients_ralatifs:['3', '9', '17']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:dorer	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:retourner	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:filtrer	 id:o_12	 ingrédients_ralatifs:['16', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_13	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poursuivre	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_16	 ingrédients_ralatifs:['5', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:sortir	 id:o_18	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:porter	 id:o_19	 ingrédients_ralatifs:['2', '6', '18', '14', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:parsemer	 id:o_21	 ingrédients_ralatifs:['8', '15', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mouiller	 id:o_22	 ingrédients_ralatifs:['15']	 nombre_opération_atomique:1	 temps:3	 recipient:0
+operation:mijoter	 id:o_23	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:ajouter	 id:o_24	 ingrédients_ralatifs:['18']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rectifier	 id:o_26	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:découper	 id:o_27	 ingrédients_ralatifs:['4', '9']	 nombre_opération_atomique:1+1*X	 temps:1*X*1+1*X*1	 recipient:1
+operation:entourer	 id:o_28	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171725">
+  <titre>Muffins aux mirabelles</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>150 g de farines</p>
+    <p>100 g de beurre fondu</p>
+    <p>100 g de sucre en poudre</p>
+    <p>1 œuf</p>
+    <p>200 g de mirabelles</p>
+    <p>1/2 sachet de levure chimique</p>
+    <p>20 cl de lait</p>
+    <p>1 pincée de sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210 °C (thermostat 7).Dans un saladier, mélanger la farine, le sucre, la levure chimique et le sel.
+    Dans un autre saladier, mélanger le beurre fondu, l'œuf et le lait.Mélanger cette préparation avec la farine puis remuer avec une cuillère en bois, le moins possible pour avoir une pâte homogène, ajouter les mirabelles coupées en dés.Répartir la pâte dans des moules à muffins ou des petits moules beurrés et farinés.
+    Laisser cuire en vérifiant la cuisson à l'aide d'une aiguille.A la sorti du four, laisser refroidir et démouler.Petits gâteaux qui plairont à toutes les personnes qui aiment le mirabelles. Crémant alsacien
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Préchauffer</OPER> le four à 210 ° C ( thermostat 7).Dans un <INGRED id="1">saladier</INGRED>, <OPER id="o_2">mélanger</OPER> la farine, le sucre, la <INGRED id="6">levure chimique</INGRED> et le sel. Dans un autre <INGRED id="1">saladier</INGRED>, <OPER id="o_3">mélanger</OPER> le <INGRED id="2">beurre fondu</INGRED>, l'<INGRED id="1">œuf</INGRED> et le <INGRED id="4">lait</INGRED>. <OPER id="o_4">Mélanger</OPER> cette <INGRED id="4">préparation</INGRED> avec la <INGRED id="5">farine</INGRED> puis <OPER id="o_5">remuer</OPER> avec une cuillère en bois, le moins possible pour avoir une pâte homogène, <OPER id="o_6">ajouter</OPER> les <INGRED id="5">mirabelles</INGRED> <INGRED id="5">coupées</INGRED> en <INGRED id="4">dés</INGRED>. <OPER id="o_7">Répartir</OPER> la <INGRED id="1">pâte</INGRED> dans des moules à muffins ou des <INGRED id="3">petits</INGRED> <INGRED id="2">moules</INGRED> beurrés et farinés. Laisser <OPER id="o_8">cuire</OPER> en vérifiant la cuisson à l'aide d'une aiguille. A la sorti du four, laisser <OPER id="o_9">refroidir</OPER> et <OPER id="o_10">démouler</OPER>. Petits gâteaux qui plairont à toutes les personnes qui aiment le <INGRED id="5">mirabelles</INGRED>. Crémant alsacien
+  </annotation>
+  <annotation methode="crf">
+  Préchauffer le four à 210 ° C ( thermostat 7).Dans un saladier <INGRED>,</INGRED> mélanger la <INGRED>farine</INGRED> <INGRED>,</INGRED> le <INGRED>sucre</INGRED> <INGRED>,</INGRED> la <INGRED>levure chimique</INGRED> et le <INGRED>sel</INGRED> <INGRED>.</INGRED> Dans un autre saladier <INGRED>,</INGRED> mélanger le <INGRED>beurre fondu</INGRED> <INGRED>,</INGRED> l'<INGRED>œuf</INGRED> et le <INGRED>lait</INGRED> <INGRED>.</INGRED> Mélanger cette préparation avec la <INGRED>farine</INGRED> puis remuer avec une cuillère en bois <INGRED>,</INGRED> le moins possible pour avoir une <INGRED>pâte</INGRED> homogène <INGRED>,</INGRED> ajouter les <INGRED>mirabelles</INGRED> <INGRED>coupées</INGRED> en dés <INGRED>.</INGRED> Répartir la <INGRED>pâte</INGRED> dans des <INGRED>moules</INGRED> à muffins <INGRED>ou</INGRED> des petits moules beurrés et farinés. Laisser cuire en vérifiant la cuisson à l'aide d'une aiguille. A la sorti du four <INGRED>,</INGRED> laisser refroidir et démouler <INGRED>.</INGRED> Petits gâteaux qui plairont à toutes les personnes qui aiment le mirabelles. Crémant alsacien
+  </annotation>
+  <complexite>
+    <temps>f(X) = 2.5*X + 7.5</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 2*X + 10</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['farines']	 id:1	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre fondu', 'beurre']	 id:2	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre en poudre', 'sucre']	 id:3	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['œuf']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['mirabelles']	 id:5	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['levure chimique', 'levure']	 id:6	 quantité:1/2	 unité:sachet de	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:7	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:8	 quantité:1	 unité:pincée de	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préchauffer	 id:o_1	 ingrédients_ralatifs:['1', '6']	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:mélanger	 id:o_2	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:['1', '2', '1', '4']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mélanger	 id:o_4	 ingrédients_ralatifs:['4', '5', '5', '5', '4']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:remuer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['5', '5', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:répartir	 id:o_7	 ingrédients_ralatifs:['1', '3', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:refroidir	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:démouler	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

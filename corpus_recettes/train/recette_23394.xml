@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23394">
+  <titre>Consommé de champignons et quenelles de volaille</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de champignons</p>
+    <p>200 g de riz blanc précuit</p>
+    <p>1/2 citron</p>
+    <p>1 cube de bouillon</p>
+    <p>1 l d'eau</p>
+    <p>1 à 2 cuillère(s) à café de maïzena</p>
+    <p>1 noix de beurre</p>
+    <p>4 quenelles de volaille</p>
+    <p>1 jaune d'oeuf</p>
+    <p>persil haché</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver et couper le bout terreux des champignons, puis les essuyer avec du papier absorbant. Délayer le cube de bouillon dans 1 litre d'eau.
+    Faire revenir les champignons dans une casserole beurrée. Puis ajouter le bouillon et la maïzena.
+    Laisser cuire à feu moyen jusqu'à ce que le jus de cuisson s'évapore, puis incorporer le jaune d'oeuf et le jus de citron.
+    Bien mélanger le tout pour lier la préparation, puis ajouter les quenelles de volaille et le riz précuit.
+    Laisser mijoter 15 à 25 min à couvert, à feu doux. Saupoudrer de persil haché et déguster.
+  ]]>
+  </preparation>
+</recette>

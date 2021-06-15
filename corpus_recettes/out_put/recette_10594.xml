@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10594">
+  <titre>Ramequin Morézien</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>50 g de beurre</p>
+    <p>4 gousses d'ail</p>
+    <p>8 tranches de pain</p>
+    <p>500 g de comté</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre de l'eau dans une casserole. Dès qu'elle bout, ajouter le beurre frais, du sel, du poivre et les gousses d'ail en petits morceaux ou hachées. Lorsque l'ail est cuit ou à peu près, ajouter les tranches de pain grillées; laisser bouillir encore et bien mélanger à l'aide d'une cuiller de bois.
+    Lorsque le tout forme une bouillie claire, verser le comté émincé très fin.
+    Bien mélanger encore sur le feu avec la cuiller et laisser cuire un
+    moment.
+    Servir très chaud.
+    Recette Franc-Comtoise d'avant 1927.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Mettre</OPER> de l'<INGRED id="2">eau</INGRED> dans une casserole. Dès qu'elle bout, <OPER id="o_2">ajouter</OPER> le beurre frais, du sel, du poivre et les gousses d'ail en petits morceaux ou hachées. Lorsque l'ail est cuit ou à peu près, ajouter les tranches de pain grillées ; laisser <OPER id="o_3">bouillir</OPER> encore et bien <OPER id="o_4">mélanger</OPER> à l'aide d'une cuiller de bois. Lorsque le tout forme une bouillie claire, <OPER id="o_5">verser</OPER> le <INGRED id="4">comté</INGRED> émincé très fin. Bien <OPER id="o_6">mélanger</OPER> encore sur le feu avec la cuiller et laisser <OPER id="o_7">cuire</OPER> un moment. Servir très chaud. Recette Franc-Comtoise d'avant 1927.
+  </annotation>
+  <annotation methode="crf">
+  Mettre de l'<INGRED>eau</INGRED> dans une casserole <INGRED>.</INGRED> Dès qu'elle bout <INGRED>,</INGRED> ajouter le <INGRED>beurre frais</INGRED> <INGRED>,</INGRED> du <INGRED>sel</INGRED> <INGRED>,</INGRED> du <INGRED>poivre</INGRED> et les gousses d'<INGRED>ail</INGRED> en <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> <INGRED>ou</INGRED> hachées. Lorsque l'ail est cuit <INGRED>ou</INGRED> à peu près <INGRED>,</INGRED> ajouter les tranches de <INGRED>pain</INGRED> grillées ; laisser bouillir encore et bien mélanger à l'aide d'une cuiller de bois <INGRED>.</INGRED> Lorsque le tout forme une bouillie claire <INGRED>,</INGRED> verser le <INGRED>comté</INGRED> émincé très fin. Bien mélanger encore sur le feu avec la cuiller et laisser cuire un moment. Servir très chaud <INGRED>.</INGRED> Recette Franc-Comtoise d'avant 1927.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 5.25*X + 1.75</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 12*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['beurre']	 id:1	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['ail']	 id:2	 quantité:4	 unité:gousses d'	 denombrable:True	 recipient:4*X
+ingredient:['pain']	 id:3	 quantité:8	 unité:tranches de	 denombrable:True	 recipient:8*X
+ingredient:['comté']	 id:4	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mettre	 id:o_1	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:bouillir	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mélanger	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:verser	 id:o_5	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:cuire	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+]]>
+</operation_trouve>
+</recette>

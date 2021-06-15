@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25577">
+  <titre>Blanquette de veau traditionnelle</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,2 kg de veau en morceaux (tendron, flanchet, épaule désossée)</p>
+    <p>2 carottes</p>
+    <p>1 oignon piqué d'1 clou de girofle</p>
+    <p>1 poireau</p>
+    <p>1 bouquet garni</p>
+    <p>2 jaunes d'oeuf</p>
+    <p>100 g de crème fraîche</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>1/2 citron</p>
+    <p>30 g de beurre</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer le beurre et l'huile dans une cocotte. Mettez-y la viande et laissez dorer sur toutes les faces. 
+    Saupoudrer de farine et remuer, puis mouiller d'eau à hauteur de la viande.
+    Ajouter les carottes et le poireau pelés et coupés en grosses rondelles, l'oignon piqué et le bouquet garni. Porter à ébullition, puis baisser le feu et laisser cuire 1 h 30 à feu doux.
+    Battre les jaunes d'oeuf en omelette avec la crème et le jus du 1/2 citron. Saler et poivrer.
+    Récupérer une louche de bouillon, délayer le mélange oeuf-crème avec le bouillon. Reverser dans une casserole et laisser réchauffer à feu doux. Rajouter du bouillon et laisser épaissir pour avoir une sauce assez nappante.
+    Egoutter la viande et les légumes, la mettre dans un plat chaud. Verser la sauce et servir.
+  ]]>
+  </preparation>
+</recette>

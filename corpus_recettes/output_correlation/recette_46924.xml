@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46924">
+  <titre>Kafta bil saniyeh (plat libanais)</titre>
+  <type>Plat principal</type>
+  <niveau>Difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de boeuf haché</p>
+    <p>500 g de pommes de terre</p>
+    <p>1 bouquet de persil</p>
+    <p>2 oignons moyens</p>
+    <p>sel, poivre</p>
+    <p>cannelle en poudre</p>
+    <p>coulis de tomates</p>
+    <p>riz cuit vapeur (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Passer le peril dans le mixeur puis malaxer la viande, le persil et les oignons hachés fins.
+    Etaler cette pâte dans un pyrex.
+    Trancher les pommes de terre, les cuire à moitié soit en les faisant bouillir, soit dans un peu d'huile puis les ajouter au dessus de la viande.
+    Ajouter le coulis de tomate dilué dans la même quantité d'eau en y ajoutant du sel.
+    Passer à four moyen à 180°C (thermostat 6) environ 40 minutes.
+    C'est un plat typiquement libanais.
+    Ce plat peut se manger ainsi mais si l'on désire le manger avec du riz (que l'on servira à côté), il faut augmenter la quantité de coulis pour que le riz puisse être imbibé de sauce)
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Passer</OPER> le peril dans le mixeur puis <OPER id="o_2">malaxer</OPER> la <INGRED id="1">viande</INGRED>, le persil et les oignons hachés fins. <OPER id="o_3">Etaler</OPER> cette pâte dans un pyrex. <OPER id="o_4">Trancher</OPER> les <INGRED id="3">pommes de terre</INGRED>, les <OPER id="o_5">cuire</OPER> à moitié soit en les faisant <OPER id="o_6">bouillir</OPER>, soit dans un peu d'huile puis les <OPER id="o_7">ajouter</OPER> au dessus de la viande. <OPER id="o_8">Ajouter</OPER> le <INGRED id="5">coulis de tomate</INGRED> dilué dans la même quantité d'eau en y ajoutant du sel. <OPER id="o_9">Passer</OPER> à four moyen à 180 ° C ( thermostat 6 ) <INGRED id="1">environ</INGRED> 40 minutes. C'est un <INGRED id="9">plat</INGRED> typiquement libanais. Ce <INGRED id="9">plat</INGRED> peut se <OPER id="o_10">manger</OPER> ainsi mais si l'on désire le <OPER id="o_11">manger</OPER> avec du <INGRED id="3">riz</INGRED> ( que l'on servira à côté ), il faut <OPER id="o_12">augmenter</OPER> la quantité de <INGRED id="8">coulis</INGRED> pour que le riz puisse être imbibé de sauce )
+  </annotation>
+  <annotation methode="crf">
+  Passer le peril dans le mixeur puis malaxer la <INGRED>viande</INGRED> <INGRED>,</INGRED> le <INGRED>persil</INGRED> et les <INGRED>oignons hachés fins</INGRED> <INGRED>.</INGRED> Etaler cette <INGRED>pâte</INGRED> dans un pyrex. Trancher les <INGRED>pommes de terre</INGRED> <INGRED>,</INGRED> les cuire à moitié soit en les faisant bouillir <INGRED>,</INGRED> soit dans un peu d'<INGRED>huile</INGRED> puis les ajouter au dessus de la <INGRED>viande</INGRED> <INGRED>.</INGRED> Ajouter le <INGRED>coulis</INGRED> de <INGRED>tomate</INGRED> dilué dans la même quantité d'<INGRED>eau</INGRED> en y ajoutant du <INGRED>sel</INGRED> <INGRED>.</INGRED> Passer à four moyen à 180 ° C ( thermostat 6 ) <INGRED>environ</INGRED> 40 minutes. C'est un plat typiquement libanais. Ce plat peut se manger ainsi mais si l'on désire le manger avec du <INGRED>riz</INGRED> ( que l'on servira à côté ) <INGRED>,</INGRED> il faut augmenter la quantité de <INGRED>coulis</INGRED> pour que le <INGRED>riz</INGRED> puisse être imbibé de <INGRED>sauce</INGRED> )
+  </annotation>
+  <complexite>
+    <temps>f(X) = 3.6*X + 8.4</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 3*X + 10</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['boeuf haché', 'boeuf']	 id:1	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['pommes de terre', 'pommes']	 id:2	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['bouquet de persil', 'bouquet']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['oignons moyens', 'oignons']	 id:4	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['sel']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['cannelle en poudre', 'cannelle']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['coulis de tomates', 'coulis']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['riz cuit vapeur', 'riz']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:passer	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:malaxer	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:etaler	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:trancher	 id:o_4	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:bouillir	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:passer	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:manger	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:manger	 id:o_11	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:augmenter	 id:o_12	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

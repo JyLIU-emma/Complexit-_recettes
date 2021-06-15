@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21795">
+  <titre>Quiche aux poireaux et  boursin</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>pâte feuilletée (en rouleau) </p>
+    <p>3 gros poireaux</p>
+    <p>1 boursin</p>
+    <p>2 oeufs</p>
+    <p>20 cl de crème fraîche</p>
+    <p>Emmental râpé</p>
+    <p>beurre</p>
+    <p>sel, poivre et noix de muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites préchauffer le four à 200°C. Coupez les poireaux en tronçons. 
+    Les cuire 10 min au micro-onde avec du beurre et un peu d'eau. 
+    Mélangez les oeufs et la crème fraîche. Salez, poivrez et noix de muscade. Quand les poireaux sont cuits, ajoutez-y le boursin. 
+    Mettez la pâte dans un moule et garnissez-la avec les poireaux et les oeufs. 
+    Saupoudrez d'emmental et enfournez jusqu'à ce qu'elle soit bien dorée.Bon appétit
+  ]]>
+  </preparation>
+</recette>

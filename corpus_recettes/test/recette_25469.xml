@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25469">
+  <titre>Filets de daurade à la mazarine</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 filets de daurade</p>
+    <p>200 g de champignons</p>
+    <p>2 oignons</p>
+    <p>100 g de beurre</p>
+    <p>persil haché</p>
+    <p>le jus d'1 citron</p>
+    <p>4 cuillères à soupe de farine</p>
+    <p>20 cl de vin banc</p>
+    <p>30 cl d'eau chaude</p>
+    <p>5 oeufs (4 oeufs durs + 1 jaune)</p>
+    <p>2 cuillères à soupe de moutarde</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et hacher l'oignon puis nettoyer les champignons et émincer finement.
+    Dans une poêle beurrée, faire fondre les oignons avec les champignons. Les arroser du jus du citron, puis laisser mijoter jusqu'à évaporation complète du jus de cuisson. Incorporer ensuite 1 jaune d'oeuf pour lier la préparation et bien mélanger.
+    Rouler les daurades dans la farine, puis les pocher dans un mélange de vin blanc et d'eau bouillante. Filtrer le bouillon.
+    Lorsque les filets sont cuits, les égoutter et les réserver au chaud.
+    Ecraser les oeufs durs avec la moutarde et le persil haché.
+    Remettre les daurades dans la poêle avec les champignons, puis les napper du mélange oeuf/moutarde/persil. Mouiller avec 3 cuillères à soupe du bouillon et laisser mijoter 5 min à feu doux.
+    Dresser les filets sur un plat de service chaud, puis les napper de légumes et de sauce.
+  ]]>
+  </preparation>
+</recette>

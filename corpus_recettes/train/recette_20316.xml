@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20316">
+  <titre>Poulet Grillé Fumé</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 cuisse ou blanc de poulet de 200g</p>
+    <p>1 C à S de moutarde</p>
+    <p>1 feuille de sauge (ou basilic)</p>
+    <p>6/7 tranches de poitrine de porc fumée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four th. 7 (220°C). 
+    Tartiner le poulet avec la moutarde. 
+    Placer la sauge ou basilic sur la cuisse. 
+    Recouvrir avec les tranches de poitrine de porc. 
+    Déposer le tout dans un plat au four pendant 25 mn. 
+    Le basilic séché peut faire l'affaire.
+    Recette minceur.
+  ]]>
+  </preparation>
+</recette>

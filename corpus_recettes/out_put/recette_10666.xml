@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10666">
+  <titre>Brochettes d'anguille</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 anguille</p>
+    <p>10 cl d'huile</p>
+    <p>sel, poivre</p>
+    <p>2 échalotes</p>
+    <p>1 feuille de laurier</p>
+    <p>6 tranches de pain de mie</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    L'anguille dépecée, parée, la découper en tronçons.
+    Faire mariner ceux-ci avec huile, sel, poivre, laurier, échalotes, quelques heures.
+    Enfiler les morceaux d'anguille sur une brochette en alternant avec des petits morceaux de mie de pain et faire rôtir au four. Servir avec une sauce poivrade.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  L'<INGRED id="1">anguille</INGRED> dépecée, parée, la <OPER id="o_1">découper</OPER> en tronçons. Faire <OPER id="o_2">mariner</OPER> ceux - ci avec <INGRED id="7">huile</INGRED>, sel, <INGRED id="4">poivre</INGRED>, <INGRED id="6">laurier</INGRED>, <INGRED id="3">échalotes</INGRED>, quelques heures. <OPER id="o_3">Enfiler</OPER> les morceaux d'<INGRED id="1">anguille</INGRED> sur une brochette en alternant avec des petits morceaux de mie de pain et faire <OPER id="o_4">rôtir</OPER> au four. Servir avec une <INGRED id="5">sauce</INGRED> poivrade.
+  </annotation>
+  <annotation methode="crf">
+  L'anguille dépecée <INGRED>,</INGRED> parée <INGRED>,</INGRED> la découper en tronçons. Faire mariner ceux - ci avec <INGRED>huile</INGRED> <INGRED>,</INGRED> <INGRED>sel</INGRED> <INGRED>,</INGRED> <INGRED>poivre</INGRED> <INGRED>,</INGRED> <INGRED>laurier</INGRED> <INGRED>,</INGRED> <INGRED>échalotes</INGRED> <INGRED>,</INGRED> quelques heures. Enfiler les <INGRED>morceaux</INGRED> d'anguille sur une brochette en alternant avec des <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> de mie de <INGRED>pain</INGRED> et faire rôtir au four <INGRED>.</INGRED> Servir avec une <INGRED>sauce</INGRED> poivrade.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 3.07692307692308*X + 0.923076923076923</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 10*X + 6</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['anguille']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['huile']	 id:2	 quantité:10	 unité:cl d'	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:3	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['échalotes']	 id:5	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['laurier']	 id:6	 quantité:1	 unité:feuille de	 denombrable:True	 recipient:1*X
+ingredient:['pain de mie', 'pain']	 id:7	 quantité:6	 unité:tranches de	 denombrable:True	 recipient:6*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:découper	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:mariner	 id:o_2	 ingrédients_ralatifs:['7', '4', '6', '3']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:enfiler	 id:o_3	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rôtir	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5*X	 recipient:1
+]]>
+</operation_trouve>
+</recette>

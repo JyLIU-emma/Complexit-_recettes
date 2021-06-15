@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16808">
+  <titre>Carbonade flamande</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>750 g de boeuf pour carbonade</p>
+    <p>2 cubes de bouillon de viande corsé</p>
+    <p>1 verre de bière (gueuze de préférence)</p>
+    <p>5 oignons</p>
+    <p>1 gousse d'ail</p>
+    <p>1 bouquet garni</p>
+    <p>1 tranche de pain</p>
+    <p>50 g de saindoux ou beurre</p>
+    <p>maïzena</p>
+    <p>1 cuillère à soupe de moutarde, sucre, vinaigre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler la viande en morceaux de ± 100 gr.
+    Faire revenir la viande avec le  saindoux ou le beurre.
+    Retirer la viande et la remplacer par les oignons émincés.
+    Quant ils sont attendris remettre la viande et asperger de vinaigre.
+    Ajouter l'ail haché, le bouquet garni, les 2 cubes de bouillon dilués dans un peu d'eau.
+    Couvrir d'une bière
+    Ajouter la moutarde et le sucre
+    Quand la préparation bout, couvrir et laisser mijoter pendant 2 heures à feu doux.1/4 d'heure avant la fin de la cuisson, ajouter la maïzena diluée dans un peu d'eau.
+    Rectifier éventuellement l'asaisonnement.
+  ]]>
+  </preparation>
+</recette>

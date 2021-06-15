@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20344">
+  <titre>Raie sauce à la crème</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 aile de raie de 800 g environ</p>
+    <p>1 carotte</p>
+    <p>1 oignon piqué de trois clous de girofle</p>
+    <p>1 bouquet garni</p>
+    <p>1 gousse d'ail pelée</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>5/6 gouttes de pastis</p>
+    <p>20 cl de crème fraîche</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>1 bouquet de persil plat</p>
+    <p>sel, poivre du moulin et en grains</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez et essuyez l'aile de raie, épluchez la carotte. Versez le vin et 1 litre d'eau dans une cocotte minute. 
+    Ajoutez le pastis, la carotte, l'ail, l'oignon piqué des clous de girofle, le bouquet garni, du sel et quelques grains de poivre concassés. 
+    Plongez-y l'aile de raie, fermez la cocotte minute. Dès la mise sous pression, laissez cuire 8 mn. 
+    Pendant ce temps, lavez, essuyez, et hachez le persil. Mettez la crème dans une petite casserole, incorporez-y le persil, un peu de sel et de poivre. Faites chauffer à feu doux jusqu'à ce que la sauce soit bien liée mais en évitant de la faire bouillir. Hors du feu, incorporez les jaunes d'oeufs l'un après l'autre. Gardez au besoin la sauce dans un bain-marie chaud retiré du feu. 
+    Hors du feu, faites tomber la pression et retirez l'aile de raie. 
+    Ôtez les deux peaux de la raie et effilochez la chair. Posez la chair de la raie sur un plat chaud et sevez-la nappée de la sauce au persil.
+    Accompagnez ce plat de pommes de terre vapeur.
+  ]]>
+  </preparation>
+</recette>

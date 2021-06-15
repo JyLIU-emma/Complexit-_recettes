@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23137">
+  <titre>Poires caramélisées flambées au rhum</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 poires</p>
+    <p>100 g de raisins secs</p>
+    <p>10 cl de rhum</p>
+    <p>150 g de sucre en poudre</p>
+    <p>1 gousse de vanille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Rincez les raisin à l'eau bouillante.
+    Laissez-les macérer dans le rhum environ 30 min.
+    Faites chauffer 25 cl d'eau avec 100 g de sucre et la gousse de vanille fendue en deux jusqu'à ébullition.
+    Laissez prendre la consistance d'un sirop.
+    Faites-y pocher les poires entières pelées pendant 25 min environ.
+    Egouttez-les et mettez-les dans 4 ramequins allant au four.
+    Faites chauffer le sirop pour réduire de moitié, versez-le sur les poires.
+    Saupoudrez du reste de sucre faites caraméliser 5 min au four à 240°C (thermostat 8).
+    Chauffez le rhum et les raisins, récupérez les raisins à l'écumoire, répartissez-les dans les ramequins.
+    Flambez le rhum et versez sur les poires.
+    Accompagnez de macarons ou de tuiles aux amandes.
+  ]]>
+  </preparation>
+</recette>

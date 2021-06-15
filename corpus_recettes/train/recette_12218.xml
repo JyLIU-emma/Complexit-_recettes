@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12218">
+  <titre>Saucisson en brioche</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250g de farine</p>
+    <p>1 paquet de levure </p>
+    <p>200 g de crème fraiche</p>
+    <p>3 oeufs battus</p>
+    <p>1 saucisson à l'ail de 500g environ, ou 1 saucisson de Lyon ou 1 saucisse de Morteau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pocher le saucisson quelques minutes et enlever la peau.
+    Verser tous les ingrédients dans un récipient et bien mélanger pour obtenir une pâte bien lisse.
+    Dans un plat à cake verser la moitié de la pâte, mettre le saucisson et verser le reste la pâte dessus.
+    Mettre au four pendant 30 min à 200°C (thermostat 6-7).
+    Démouler chaud.
+    Se mange tiède ou froid.
+    Si votre four est assez grand vous pouvez en faire plusieurs et les congeler quand ils sont bien froid. Un rosé de Chinon ou de Provence
+  ]]>
+  </preparation>
+</recette>

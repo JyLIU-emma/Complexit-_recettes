@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22817">
+  <titre>Soupe de châtaignes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de marrons</p>
+    <p>20 g de beurre</p>
+    <p>1 morceau de sucre</p>
+    <p>30 cl de bouillon</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les marrons et les plonger dans une cocotte remplie de bouillon salé et sucré.
+    Porter le tout à ébullition puis ajouter le beurre dès les premiers bouillons.
+    Laisser cuire à feu doux 1 h sans remuer.
+    Accompagne très bien un faisan ou du gibier.
+  ]]>
+  </preparation>
+</recette>

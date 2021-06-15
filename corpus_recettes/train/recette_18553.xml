@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18553">
+  <titre>ESCALOPES DE POULET A LA TOMATE</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 escalopes de poulet</p>
+    <p>2 oignons</p>
+    <p>1 gousse d'ail</p>
+    <p>200 g de chair de tomate</p>
+    <p>piment de cayenne</p>
+    <p>curry</p>
+    <p>herbes de Provence</p>
+    <p>3 cuillerées à soupe de sauce soja</p>
+    <p>1 ou 2 cuillerées à café de vinaigre</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger dans un plat la sauce soja avec le vinaigre, un oignon haché, du piment, une pointe de curry, des herbes de Provence, du sel et du poivre. Déposer les escalopes de poulet dans cette marinade, couvrir, et réserver une demi-journée au réfrigérateur. 
+    Faire dorer dans une poêle l'ail et l'oignon hachés dans un filet d'huile d'olive, puis cuire les escalopes à feu doux. Lorsqu'elles sont cuites, les retirer du feu et verser dans la poêle la marinade. Faire réduire de moitié. Ajouter ensuite la chair de tomate et laisser chauffer deux minutes environ. Verser la sauce sur le poulet et servir accompagné de riz.
+    Il est possible de remplacer la sauce soja et le vinaigre par un citron.
+  ]]>
+  </preparation>
+</recette>

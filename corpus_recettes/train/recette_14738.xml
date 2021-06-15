@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14738">
+  <titre>Gelato staciatella</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>50 cl de lait</p>
+    <p>50 cl de crème fraîche fleurette</p>
+    <p>200 g de sucre </p>
+    <p>100 g de chocolat</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le sucre dans un demi verre d'eau puis laisser refroidir.
+    Ajouter le lait et la crème fraîche. Laisser reposer un peu au frigo.
+    Faire prendre la glace dans la sorbetière, et, à la fin, verser le chocolat fondu en mince filet qui se brise au contact de la crème glacée.
+    Plus simplement, on peut râper le chocolat à l'aide d'un éplucheur dans la crème glacée quand la sorbetière a fini de tourner. Elémentaire! de l'eau ou un bon muscat, un banyuls, un café...
+  ]]>
+  </preparation>
+</recette>

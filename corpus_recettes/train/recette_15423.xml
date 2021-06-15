@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15423">
+  <titre>Quiche aux miettes de thon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>1 boîte de miettes de thon</p>
+    <p>2 tomates vidées et coupées en petits cubes</p>
+    <p>gruyère (quantité selon vos goûts)</p>
+    <p>4 oeufs</p>
+    <p>1/2 pot de crème fraîche et un peu de lait</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le tout comme pour une quiche.
+    Place la pâte dans un moule et la piquer avec une fourchette.
+    Verser le mélange sur la pâte et cuire au four à 200°C pendant 25 mn.
+    Servir avec une salade verte, pour un petit repas vite fait.
+  ]]>
+  </preparation>
+</recette>

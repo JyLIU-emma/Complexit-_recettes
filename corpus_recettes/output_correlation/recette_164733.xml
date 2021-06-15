@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164733">
+  <titre>Polenta express et moules</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de polenta</p>
+    <p>900 g d'eau</p>
+    <p>3 cubes de bouillon de volaille</p>
+    <p>1 feuille de laurier</p>
+    <p>2 feuilles de sauge</p>
+    <p>1 gousse d'ail en chemise</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>100 g de fromage râpé: comté et beaufort</p>
+    <p>1 kg de moules de bouchot ou équivalent</p>
+    <p>50 g de persil</p>
+    <p>2 gousses d'ail</p>
+    <p>3 cuillères à soupe huile d'olive</p>
+    <p> 2 bouchons de pastis</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Porter l'eau à ébullition avec les 3 cubes,l'ail,le laurier et la sauge. Ne pas saler. Ajouter la polenta en pluie. Faire cuire à feu doux 6 à 7mn.
+    Ajouter poivre , huile d'olive, fromage.
+     Pendant ce temps préparer la sauce des moules: mixer le persil, l'ail,le pastis et l'huile d'olive (le mélange doit être assez grossier)
+    Laver et gratter les moules,les faire ouvrir à feu vif dans une grande poêle (3 à 6mn), evacuer l'excés  d'eau( ne garder que la valeur de 3 cuillers à soupe), ajouter la sauce et continuer la cuisson 1 ou 2 minutes.
+     Servir chaud la polenta avec les moules. Edelzwiker
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Porter</OPER> l'<INGRED id="1">eau</INGRED> à ébullition avec les 3 cubes, <INGRED id="1">l'ail</INGRED>, le <INGRED id="9">laurier</INGRED> et la <INGRED id="5">sauge</INGRED>. Ne pas <OPER id="o_2">saler</OPER>. <OPER id="o_3">Ajouter</OPER> la <INGRED id="1">polenta</INGRED> en pluie. Faire <OPER id="o_4">cuire</OPER> à feu doux 6 à 7mn. <OPER id="o_5">Ajouter</OPER> <INGRED id="9">poivre</INGRED>, <INGRED id="12">huile d'olive</INGRED>, fromage. Pendant ce temps <OPER id="o_6">préparer</OPER> la sauce des <INGRED id="10">moules</INGRED> : <OPER id="o_7">mixer</OPER> le <INGRED id="3">persil</INGRED>, <INGRED id="1">l'ail</INGRED>, le pastis et l'<INGRED id="12">huile d'olive</INGRED> ( le <INGRED id="2">mélange</INGRED> doit être assez grossier ) <OPER id="o_8">Laver</OPER> et <OPER id="o_9">gratter</OPER> les <INGRED id="2">moules</INGRED>, les <INGRED id="10">faire</INGRED> <OPER id="o_10">ouvrir</OPER> à feu vif dans une grande poêle ( 3 à 6mn ), <OPER id="o_11">evacuer</OPER> l'excés d'eau ( ne <OPER id="o_12">garder</OPER> que la valeur de 3 cuillers à <INGRED id="3">soupe</INGRED> ), <OPER id="o_13">ajouter</OPER> la <INGRED id="6">sauce</INGRED> et <OPER id="o_14">continuer</OPER> la cuisson 1 ou 2 minutes. Servir chaud la <INGRED id="1">polenta</INGRED> avec les <INGRED id="8">moules</INGRED>. Edelzwiker
+  </annotation>
+  <annotation methode="crf">
+  Porter l'<INGRED>eau</INGRED> à ébullition avec les 3 cubes <INGRED>,</INGRED> l'<INGRED>ail</INGRED> <INGRED>,</INGRED> le <INGRED>laurier</INGRED> et la <INGRED>sauge</INGRED> <INGRED>.</INGRED> Ne pas saler <INGRED>.</INGRED> Ajouter la <INGRED>polenta</INGRED> en pluie <INGRED>.</INGRED> Faire cuire à feu doux 6 à 7mn. Ajouter <INGRED>poivre</INGRED> <INGRED>,</INGRED> <INGRED>huile d'olive</INGRED> <INGRED>,</INGRED> <INGRED>fromage</INGRED> <INGRED>.</INGRED> Pendant ce temps préparer la <INGRED>sauce</INGRED> des <INGRED>moules</INGRED> <INGRED>:</INGRED> mixer le <INGRED>persil</INGRED> <INGRED>,</INGRED> l'<INGRED>ail</INGRED> <INGRED>,</INGRED> le <INGRED>pastis</INGRED> et l'<INGRED>huile d'olive</INGRED> ( le <INGRED>mélange</INGRED> doit être assez grossier ) Laver et gratter les <INGRED>moules</INGRED> <INGRED>,</INGRED> les faire ouvrir à feu vif dans une grande poêle ( 3 à 6mn ) <INGRED>,</INGRED> evacuer l'excés d'<INGRED>eau</INGRED> ( ne garder que la valeur de 3 cuillers à soupe ) <INGRED>,</INGRED> ajouter la <INGRED>sauce</INGRED> et continuer la cuisson 1 <INGRED>ou</INGRED> 2 minutes. Servir chaud la <INGRED>polenta</INGRED> avec les <INGRED>moules</INGRED> <INGRED>.</INGRED> Edelzwiker
+  </annotation>
+  <complexite>
+    <temps>f(X) = 14.0434782608696*X + 4.95652173913043</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 17*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['polenta']	 id:1	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['eau']	 id:2	 quantité:900	 unité:g d'	 denombrable:False	 recipient:1
+ingredient:['bouillon de volaille', 'bouillon']	 id:3	 quantité:3	 unité:cubes de	 denombrable:True	 recipient:3*X
+ingredient:['laurier']	 id:4	 quantité:1	 unité:feuille de	 denombrable:True	 recipient:1*X
+ingredient:['sauge']	 id:5	 quantité:2	 unité:feuilles de	 denombrable:True	 recipient:2*X
+ingredient:['ail en chemise', 'ail']	 id:6	 quantité:1	 unité:gousse d'	 denombrable:True	 recipient:1*X
+ingredient:["huile d'olive", 'huile']	 id:7	 quantité:3	 unité:cuillères à soupe d'	 denombrable:True	 recipient:3*X
+ingredient:['fromage râpé : comté', 'fromage']	 id:8	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beaufort']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['moules de bouchot', 'moules']	 id:10	 quantité:1	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['persil']	 id:11	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['ail']	 id:12	 quantité:2	 unité:gousses d'	 denombrable:True	 recipient:2*X
+ingredient:['olive']	 id:13	 quantité:3	 unité:cuillères à soupe huile d'	 denombrable:True	 recipient:3*X
+ingredient:['bouchons de pastis', 'bouchons']	 id:14	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:porter	 id:o_1	 ingrédients_ralatifs:['1', '1', '9', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_3	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préparer	 id:o_6	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:mixer	 id:o_7	 ingrédients_ralatifs:['3', '1', '12', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:laver	 id:o_8	 ingrédients_ralatifs:['2', '10', '3', '6']	 nombre_opération_atomique:1+1+3*X+1*X	 temps:1*X*1+1*X*1+3*X*1+1*X*1	 recipient:0
+operation:gratter	 id:o_9	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ouvrir	 id:o_10	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:evacuer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garder	 id:o_12	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_13	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:continuer	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

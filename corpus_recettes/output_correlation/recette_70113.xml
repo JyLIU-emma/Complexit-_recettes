@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70113">
+  <titre>Mon gâteau d'anniversaire aux poires</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour le gâteau :</p>
+    <p>4 oeufs</p>
+    <p>115 g de sucre</p>
+    <p>55 g de farine</p>
+    <p>70 g de fécule de maïs</p>
+    <p>liqueur de poires Williams (facultatif)Pour la mousse de poires :</p>
+    <p>7 poires fraîches</p>
+    <p>110 g de sucre</p>
+    <p>6 feuilles de gélatine</p>
+    <p>20 cl de crème liquide entière très froide</p>
+    <p>1 blanc d'oeuf</p>
+    <p>50 g de chocolat noir</p>
+    <p>Pour les croquants aux amandes :</p>
+    <p>100 g d'amandes émondées</p>
+    <p>sucre en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer une feuille de papier cuisson que vous huilerez largement.
+    Prendre les amandes et les concasser en tout petits morceaux sans les rendre trop en miettes, les caraméliser dans une poêle avec le sucre. 
+    Une fois caramélisées, les disposer sur la feuille huilée et refermer en formant un boudin, attention c'est bouillant !
+    Une fois refroidi, concassez le boudin d'amande en tout petits morceaux.
+    Préchauffer le four à 180°C (thermostat 6).
+    Pour le gâteau, battre les jaunes d'oeufs avec les 3/4 de sucre jusqu'à blanchiment, incorporer ensuite la moitié des amandes caramélisées et réserver le reste dans un sachet hermétique.
+    Mélanger la farine et la fécule, puis tamiser.
+    Monter les blancs d'oeufs en neige très ferme en ajoutant le reste de sucre en fin d'opération. Mettre 2 cuillères à soupe dans le mélange jaunes-sucre en remuant bien avec une cuillère de bois, incorporer par cuillerées en alternant les blancs et le mélange farine-fécule versé en pluie.
+    Lorsqu'elle est bien homogène, répartir dans un moule beurré et fariné de 20 à 25 cm de diamètre. Cuire au four pendant 30 à 45 min.
+    Pour la mousse de poires, peler et couper les poires en deux. Les faire pocher dans 50 cl d'eau et 60 g de sucre.
+    Ramollir la gélatine dans l'eau froide pendant 15 min, râpez le chocolat.
+    Faire fondre la gélatine dans 10 cl du sirop des poires. 
+    Mixer 8 moitiés de poire et y ajouter le reste de sucre et la gélatine. A complet refroidissement, remuer énergiquement avant d'y incorporer délicatement la crème montée en chantilly, le blanc d'oeuf battu en neige très ferme et le chocolat râpé. Mettre au réfrigérateur.
+    Imbiber mais pas trop, le gâteau avec le reste de sirop des poires dans lequel on peut ajouter de la liqueur de poires. Couvrir le gâteau des poires restantes, moins une moitié ou deux pour la décoration.
+    Entourer le gâteau d'un cercle de 10 cm de haut de papier d'aluminium ou autre et garnir avec la mousse de poires bien prise. Laisser au réfrigérateur pendant au moins 6 h.
+    Avant de servir, retirer l'aluminium et décorer de la poire restante et des amandes caramélisées.
+    Bon appétit !
+    On peut très bien ne pas mettre d'amandes caramélisées et pour la décoration faire fondre du chocolat et faire couler en filet juste avant de servir. Crémant de bourgogne ou champagne
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Préparer</OPER> une feuille de papier cuisson que vous huilerez largement. <OPER id="o_2">Prendre</OPER> les amandes et les <OPER id="o_3">concasser</OPER> en tout <INGRED id="3">petits</INGRED> <INGRED id="2">morceaux</INGRED> sans les <OPER id="o_4">rendre</OPER> trop en miettes, les <OPER id="o_5">caraméliser</OPER> dans une poêle avec le sucre. Une fois caramélisées, les <OPER id="o_6">disposer</OPER> sur la feuille huilée et <OPER id="o_7">refermer</OPER> en formant un boudin, attention c'est bouillant ! Une fois refroidi, <OPER id="o_8">concassez</OPER> le boudin d'amande en tout <INGRED id="9">petits</INGRED> <INGRED id="2">morceaux</INGRED>. <OPER id="o_9">Préchauffer</OPER> le four à 180 ° C ( thermostat 6 ). Pour le gâteau, <OPER id="o_10">battre</OPER> les <INGRED id="8">jaunes d'oeufs</INGRED> avec les 3/4 de <INGRED id="3">sucre</INGRED> jusqu'à blanchiment, <OPER id="o_11">incorporer</OPER> ensuite la moitié des amandes caramélisées et réserver le <INGRED id="1">reste</INGRED> dans un sachet hermétique. <OPER id="o_12">Mélanger</OPER> la <INGRED id="5">farine</INGRED> et la <INGRED id="3">fécule</INGRED>, puis <OPER id="o_13">tamiser</OPER>. <OPER id="o_14">Monter</OPER> les blancs d'oeufs en neige très ferme en ajoutant le <INGRED id="1">reste</INGRED> de <INGRED id="2">sucre</INGRED> en fin d'opération. <OPER id="o_15">Mettre</OPER> 2 cuillères à <INGRED id="5">soupe</INGRED> dans le <INGRED id="7">mélange</INGRED> <INGRED id="3">jaunes</INGRED> - <INGRED id="12">sucre</INGRED> en remuant bien avec une <INGRED id="8">cuillère</INGRED> de bois, <OPER id="o_16">incorporer</OPER> par <INGRED id="7">cuillerées</INGRED> en alternant les <INGRED id="3">blancs</INGRED> et le <INGRED id="7">mélange</INGRED> <INGRED id="1">farine</INGRED> - fécule versé en pluie. Lorsqu'elle est bien homogène, <OPER id="o_17">répartir</OPER> dans un moule beurré et fariné de 20 à 25 cm de <INGRED id="10">diamètre</INGRED>. <OPER id="o_18">Cuire</OPER> au four pendant 30 à 45 min. Pour la <INGRED id="11">mousse</INGRED> de <INGRED id="8">poires</INGRED>, <OPER id="o_19">peler</OPER> et <OPER id="o_20">couper</OPER> les <INGRED id="1">poires</INGRED> en <INGRED id="6">deux</INGRED>. Les <INGRED id="10">faire</INGRED> <OPER id="o_21">pocher</OPER> dans <INGRED id="3">50</INGRED> <INGRED id="2">cl</INGRED> d'<INGRED id="10">eau</INGRED> et 60 <INGRED id="1">g</INGRED> de <INGRED id="13">sucre</INGRED>. <OPER id="o_22">Ramollir</OPER> la gélatine dans l'<INGRED id="5">eau froide</INGRED> pendant 15 min, râpez le <INGRED id="9">chocolat</INGRED>. Faire <OPER id="o_23">fondre</OPER> la <INGRED id="6">gélatine</INGRED> dans 10 <INGRED id="2">cl</INGRED> du <INGRED id="4">sirop</INGRED> des <INGRED id="6">poires</INGRED>. <OPER id="o_24">Mixer</OPER> 8 moitiés de poire et y <OPER id="o_25">ajouter</OPER> le <INGRED id="1">reste</INGRED> de <INGRED id="3">sucre</INGRED> et la <INGRED id="12">gélatine</INGRED>. A complet refroidissement, <OPER id="o_26">remuer</OPER> énergiquement avant d'y <OPER id="o_27">incorporer</OPER> délicatement la crème montée en chantilly, le <INGRED id="10">blanc d'oeuf</INGRED> battu en neige très ferme et le <INGRED id="3">chocolat</INGRED> râpé. <OPER id="o_28">Mettre</OPER> au réfrigérateur. <OPER id="o_29">Imbiber</OPER> mais pas trop, le gâteau avec le <INGRED id="1">reste</INGRED> de sirop des <INGRED id="6">poires</INGRED> dans lequel on peut <OPER id="o_30">ajouter</OPER> de la <INGRED id="6">liqueur</INGRED> de <INGRED id="8">poires</INGRED>. <OPER id="o_31">Couvrir</OPER> le gâteau des <INGRED id="1">poires</INGRED> restantes, moins une moitié ou <INGRED id="6">deux</INGRED> pour la décoration. <OPER id="o_32">Entourer</OPER> le gâteau d'un cercle de 10 cm de haut de papier d'aluminium ou autre et <OPER id="o_33">garnir</OPER> avec la <INGRED id="11">mousse</INGRED> de <INGRED id="1">poires</INGRED> bien prise. Laisser au réfrigérateur pendant au moins 6 h. Avant de servir, <OPER id="o_34">retirer</OPER> l'aluminium et <OPER id="o_35">décorer</OPER> de la poire restante et des <INGRED id="2">amandes</INGRED> caramélisées. Bon appétit ! On peut très bien ne pas <OPER id="o_36">mettre</OPER> d'<INGRED id="2">amandes</INGRED> caramélisées et pour la décoration <INGRED id="10">faire</INGRED> <OPER id="o_37">fondre</OPER> du <INGRED id="9">chocolat</INGRED> et <INGRED id="4">faire</INGRED> <OPER id="o_38">couler</OPER> en <INGRED id="2">filet</INGRED> juste avant de servir. Crémant de bourgogne ou <INGRED id="1">champagne</INGRED>
+  </annotation>
+  <annotation methode="crf">
+  Préparer une feuille de papier cuisson que vous huilerez largement <INGRED>.</INGRED> Prendre les <INGRED>amandes</INGRED> et les concasser en tout <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> sans les rendre trop en miettes <INGRED>,</INGRED> les caraméliser dans une poêle avec le <INGRED>sucre</INGRED>. Une fois caramélisées <INGRED>,</INGRED> les disposer sur la feuille huilée et refermer en formant un boudin <INGRED>,</INGRED> attention c'est bouillant ! Une fois refroidi <INGRED>,</INGRED> concassez le boudin d'amande en tout <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> <INGRED>.</INGRED> Préchauffer le four à 180 ° C ( thermostat 6 ). Pour le gâteau <INGRED>,</INGRED> battre les <INGRED>jaunes d'oeufs</INGRED> avec les 3/4 de <INGRED>sucre</INGRED> jusqu'à blanchiment <INGRED>,</INGRED> incorporer ensuite la moitié des <INGRED>amandes caramélisées</INGRED> et réserver le <INGRED>reste</INGRED> dans un sachet hermétique <INGRED>.</INGRED> Mélanger la <INGRED>farine</INGRED> et la <INGRED>fécule</INGRED> <INGRED>,</INGRED> puis tamiser <INGRED>.</INGRED> Monter les <INGRED>blancs d'oeufs</INGRED> en neige très ferme en ajoutant le <INGRED>reste</INGRED> de <INGRED>sucre</INGRED> en fin d'opération. Mettre 2 <INGRED>cuillères à soupe</INGRED> dans le <INGRED>mélange</INGRED> <INGRED>jaunes</INGRED> - <INGRED>sucre</INGRED> en remuant bien avec une cuillère de bois <INGRED>,</INGRED> incorporer par <INGRED>cuillerées</INGRED> en alternant les <INGRED>blancs</INGRED> et le <INGRED>mélange</INGRED> <INGRED>farine</INGRED> - fécule versé en pluie <INGRED>.</INGRED> Lorsqu'elle est bien homogène <INGRED>,</INGRED> répartir dans un moule beurré et <INGRED>fariné</INGRED> de 20 à 25 cm de diamètre. Cuire au four pendant 30 à 45 min. Pour la mousse de <INGRED>poires</INGRED> <INGRED>,</INGRED> peler et couper les <INGRED>poires</INGRED> en <INGRED>deux</INGRED> <INGRED>.</INGRED> Les faire pocher dans 50 cl d'<INGRED>eau</INGRED> et 60 <INGRED>g</INGRED> de <INGRED>sucre</INGRED>. Ramollir la <INGRED>gélatine</INGRED> dans l'<INGRED>eau</INGRED> froide pendant 15 min <INGRED>,</INGRED> râpez le <INGRED>chocolat</INGRED> <INGRED>.</INGRED> Faire fondre la <INGRED>gélatine</INGRED> dans 10 cl du <INGRED>sirop</INGRED> des <INGRED>poires</INGRED> <INGRED>.</INGRED> Mixer 8 moitiés de <INGRED>poire</INGRED> et y ajouter le <INGRED>reste</INGRED> de <INGRED>sucre</INGRED> et la <INGRED>gélatine</INGRED> <INGRED>.</INGRED> A complet refroidissement <INGRED>,</INGRED> remuer énergiquement avant d'y incorporer délicatement la <INGRED>crème montée</INGRED> en chantilly <INGRED>,</INGRED> le <INGRED>blanc d'oeuf</INGRED> battu en neige très ferme et le <INGRED>chocolat</INGRED> râpé. Mettre au réfrigérateur. Imbiber mais pas trop <INGRED>,</INGRED> le gâteau avec le <INGRED>reste</INGRED> de <INGRED>sirop</INGRED> des <INGRED>poires</INGRED> dans lequel on peut ajouter de la <INGRED>liqueur</INGRED> de <INGRED>poires</INGRED> <INGRED>.</INGRED> Couvrir le gâteau des <INGRED>poires</INGRED> restantes <INGRED>,</INGRED> moins une moitié <INGRED>ou</INGRED> <INGRED>deux</INGRED> pour la décoration <INGRED>.</INGRED> Entourer le gâteau d'un cercle de 10 <INGRED>cm</INGRED> de haut de papier d'aluminium <INGRED>ou</INGRED> autre et garnir avec la mousse de <INGRED>poires</INGRED> bien prise. Laisser au réfrigérateur pendant au moins 6 h. Avant de servir <INGRED>,</INGRED> retirer l'aluminium et décorer de la <INGRED>poire</INGRED> restante et des <INGRED>amandes caramélisées</INGRED> <INGRED>.</INGRED> Bon appétit ! On peut très bien ne pas mettre d'<INGRED>amandes caramélisées</INGRED> et pour la décoration faire fondre du <INGRED>chocolat</INGRED> et faire couler en <INGRED>filet</INGRED> juste avant de servir <INGRED>.</INGRED> Crémant de bourgogne <INGRED>ou</INGRED> champagne
+  </annotation>
+  <complexite>
+    <temps>f(X) = 43.3333333333333*X + 21.6666666666667</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 18*X + 18</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['oeufs']	 id:1	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['sucre']	 id:2	 quantité:115	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:3	 quantité:55	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['fécule de maïs', 'fécule']	 id:4	 quantité:70	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['liqueur de poires Williams Pour la mousse de poires', 'liqueur']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poires fraîches', 'poires']	 id:6	 quantité:7	 unité:non_precis	 denombrable:True	 recipient:7*X
+ingredient:['sucre']	 id:7	 quantité:110	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['gélatine']	 id:8	 quantité:6	 unité:feuilles de	 denombrable:True	 recipient:6*X
+ingredient:['crème liquide entière très froide', 'crème']	 id:9	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:["blanc d'oeuf", 'blanc']	 id:10	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['chocolat noir', 'chocolat']	 id:11	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['amandes émondées', 'amandes']	 id:12	 quantité:100	 unité:g d'	 denombrable:False	 recipient:1
+ingredient:['sucre en poudre', 'sucre']	 id:13	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préparer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:prendre	 id:o_2	 ingrédients_ralatifs:['3', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:concasser	 id:o_3	 ingrédients_ralatifs:['3', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rendre	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:caraméliser	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:refermer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:concasser	 id:o_8	 ingrédients_ralatifs:['9', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préchauffer	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:battre	 id:o_10	 ingrédients_ralatifs:['8', '3', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_11	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_12	 ingrédients_ralatifs:['5', '3']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:tamiser	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:monter	 id:o_14	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_15	 ingrédients_ralatifs:['5', '7', '3', '12', '8', '7', '3', '7', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:incorporer	 id:o_16	 ingrédients_ralatifs:['7', '3', '7', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:répartir	 id:o_17	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:peler	 id:o_19	 ingrédients_ralatifs:['11', '8', '1', '6']	 nombre_opération_atomique:1+6*X+4*X+7*X	 temps:1*X*1+6*X*1+4*X*1+7*X*1	 recipient:0
+operation:couper	 id:o_20	 ingrédients_ralatifs:['1', '6']	 nombre_opération_atomique:4*X+7*X	 temps:4*X*1+7*X*1	 recipient:1
+operation:pocher	 id:o_21	 ingrédients_ralatifs:['10', '3', '2', '10', '1', '13']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ramollir	 id:o_22	 ingrédients_ralatifs:['5', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fondre	 id:o_23	 ingrédients_ralatifs:['6', '2', '4', '6']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:mixer	 id:o_24	 ingrédients_ralatifs:['1', '3', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_25	 ingrédients_ralatifs:['1', '3', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_26	 ingrédients_ralatifs:['10', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_27	 ingrédients_ralatifs:['10', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_28	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:imbiber	 id:o_29	 ingrédients_ralatifs:['1', '6', '6', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_30	 ingrédients_ralatifs:['6', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_31	 ingrédients_ralatifs:['1', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:entourer	 id:o_32	 ingrédients_ralatifs:['11', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garnir	 id:o_33	 ingrédients_ralatifs:['11', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_34	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:décorer	 id:o_35	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_36	 ingrédients_ralatifs:['2', '10', '9', '4', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:fondre	 id:o_37	 ingrédients_ralatifs:['10', '9', '4', '2']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:couler	 id:o_38	 ingrédients_ralatifs:['4', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

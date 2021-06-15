@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27348">
+  <titre>Beignets aux pommes et au rhum</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>1 cuillère à café de levure</p>
+    <p>2 oeufs</p>
+    <p>2 cuillères à soupe d'huile</p>
+    <p>10 cl de lait</p>
+    <p>10-15 cl de rhum</p>
+    <p>2 pommes</p>
+    <p>1 poignée de raisins secs</p>
+    <p>1 poignée de fruits confits</p>
+    <p>1 pincée de sel</p>
+    <p>sucre glace ou sucre en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tamisez la farine avec le sel et la levure, ajoutez les jaunes d'oeufs, l'huile, le lait et mélangez.
+    Pelez et épépinez les pommes, coupez-les en dés.
+    Faites-les macérer dans le rhum avec les fruits confits et les raisins secs.
+    Laissez le tout reposer 2h.
+    Fouettez les blancs en neige, incorporez-les à la pâte ainsi que les fruits macérés et égouttés.
+    Faites frire des petites quantités de pâte prélevées à la cuillère et égouttez bien sur du papier absorbant.
+    Saupoudrez de sucre glace ou roulez dans le sucre en poudre avant de déguster.
+  ]]>
+  </preparation>
+</recette>

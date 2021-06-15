@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19694">
+  <titre>Noisettes de chevreuil au genièvre</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 noisettes de chevreuil</p>
+    <p>12 baies de genièvre</p>
+    <p>5 cl de gin</p>
+    <p>1 cuillère à café de fond de veau déshydraté</p>
+    <p>40 g de beurre</p>
+    <p>20 cl de crème fraîche</p>
+    <p>1/2 citron</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Chauffez le beurre dans une sauteuse. Faites-y griller les noisettes de chevreuil 2 mn sur chaque face, sur feu vif. 
+    Salez, poivrez. Retirez du feu et gardez au chaud. 
+    Déglacez la sauteuse avec le gin. Hors du feu, flambez. Replacez la sauteuse sur le feu et ajoutez 5 cl d'eau et le fond de veau. 
+    Faites bouillir et réduire 2 mn en grattant les sucs de viande. 
+    AJoutez la crème et le genièvre, cuisez encore 3 mn puis ajoutez un filet de citron. 
+    Nappez vos noisettes de sauce et servez chaud.
+    Servir avec des pâtes fraîches et une salade de mâche.
+  ]]>
+  </preparation>
+</recette>

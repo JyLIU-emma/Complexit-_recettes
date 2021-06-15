@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13971">
+  <titre>Pâtes au thon et maïs</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 à 150 g de pâtes (macaronis) par personne</p>
+    <p>300 g de thon au naturel</p>
+    <p>1 petite boîte de maïs</p>
+    <p>1 pomme acide</p>
+    <p>3 à 4 cuillères à soupe de mayonnaise</p>
+    <p>sel, poivre, ciboulette, gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les pâtes selon votre goût.
+    Egoutter le thon et l'émietter dans une assiette.
+    Ssaler et poivrer à votre goût. Ajouter 3 à 4 cuillères à soupe de mayonnaise, quelques pincées de ciboulette et mélanger le tout. Couper la pomme en petits dés.
+    Une fois les pâtes égouttées, dans leur casserole ou dans un gros plat creux, incorporez le thon, les dés de pomme, le maïs et le gruyère râpé. Mélanger.
+    Servir chaud ou froid.
+    Choix aux invités de mettre du fromage ou non.
+    Plus vous mettez de mayonnaise, moins le thon est sec. à choisir en fonction du thon ou de l'acidité de la pomme
+  ]]>
+  </preparation>
+</recette>

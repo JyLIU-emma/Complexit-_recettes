@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18536">
+  <titre>Coupe Corrézienne</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 cl de glace à la vanille</p>
+    <p>500 cl de glace au chocolat</p>
+    <p>2 cuillères à soupe d'amandes effilées</p>
+    <p>400 g de crème de marron</p>
+    <p>8 cuillères à soupe de chantilly</p>
+    <p>120 g de chocolat dessert</p>
+    <p>20 cl de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le chocolat et ajouter une cuillère à soupe de crème fraîche pour le rendre doux. Faire griller au four les amandes effilées. Dans chaque coupe, mettre une boule de glace vanille, une boule de glace chocolat, une cuillère à soupe de crème de marron, le coulis de chocolat, recouvrir de crème chantilly et saupoudrer d'amandes effilées grillées. Servir aussitôt.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25026">
+  <titre>Boeuf bourguignon express</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 kg de viande de bœuf dégraissée et coupée en gros cubes (jumeau ou macreuse)</p>
+    <p>250 g de lardons fumés</p>
+    <p>3 carottes</p>
+    <p>2 oignons </p>
+    <p>300 g de petits oignons nouveaux</p>
+    <p>2 gousses d'ail</p>
+    <p>3/4 de bouteille de vin rouge de Bourgogne</p>
+    <p>3 cuillerées à soupe d'huile</p>
+    <p>bouillon de bœuf en poudre (2 cubes) dilué dans 50 cl d'eau chaude</p>
+    <p>5 brins de persil lavés </p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher et hacher les oignons et l'ail mais garder une petite partie de la tige des oignons nouveaux sans les couper.
+    Couper les carottes épluchées et lavées en rondelles.
+    Faire revenir les lardons pendant 5 min dans une cocotte avec l'huile, puis ajouter l'ail, les oignons et les carottes.
+    Laisser colorer pendant 5 min et retirer les légumes à l'aide d'une écumoire pour y mettre à la place la viande coupée en cubes afin de la faire dorer.
+    Quand le boeuf est bien revenu, ajouter les lardons et les légumes mais pas les petits oignons.
+    Recouvrir le tout avec le vin et le bouillon. Assaisonner et mettre les brins de persil.
+    Cuire 2 h 30 à feu moyen et sous couvercle.
+    Terminer par mettre les petits oignons 15 min avant la fin de la cuisson.Le boeuf bourguignon se déguste bien chaud avec des pommes de terre à la vapeur ou des pâtes.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15987">
+  <titre>Beignets de carnaval antillais</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>25 cl d'eau</p>
+    <p>125 g de farine tamisée</p>
+    <p>75 g de beurre</p>
+    <p>cannelle, muscade</p>
+    <p>4 ou 5 œufs (selon grosseur)</p>
+    <p>2 à 3 cuillères à soupe de sucre</p>
+    <p>1 zeste de citron vert</p>
+    <p>bain de friture</p>
+    <p>sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettez dans une casserole l'eau,le beurre,la cannelle, la muscade et le zeste de citron vert.
+    Lorsque le mélange commence à bouillir, jetez-y la farine (d'un coup) et mélangez. Continuez à mélanger hors du feu. Ne vous inquiétez pas si le mélange n'est pas lisse. Laissez refroidir.
+    Ajoutez les œufs un à un avec une fourchette. Laissez reposer quelques minutes.
+    Avec deux petites cuillères, formez des petites boules de pâtes que vous mettrez dans le bain de friture chaud.
+    Lorsque les beignets sont bien dorés, égouttez-les sur du papier absorbant. Saupoudrez de sucre glace.
+  ]]>
+  </preparation>
+</recette>

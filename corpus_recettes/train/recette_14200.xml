@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14200">
+  <titre>Waldorf salad (salade Waldorf)</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g mayonnaise</p>
+    <p>2 cuillères à soupe 1/2 de vinaigre blanc</p>
+    <p>1 pomme pelée et coupée en morceaux</p>
+    <p>1 branche de céleri coupée ne dés</p>
+    <p>125 g raisins</p>
+    <p>125 g noix en morceaux</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un grand bol, battre la mayonnaise et le vinaigre. Ajouter les morceaux de pomme, de céleri, les raisins et les noix.
+    Saler et poivrer. Mélanger le tout et servir frais.
+    Salade de Thanksgiving
+  ]]>
+  </preparation>
+</recette>

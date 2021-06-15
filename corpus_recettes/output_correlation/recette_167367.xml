@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167367">
+  <titre>Hochepot gantois traditionnel, cwènes di gatte</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de poitrine de boeuf (plates côtes)</p>
+    <p>2 kg d'os de boeuf</p>
+    <p>1 queue de boeuf</p>
+    <p>4 pieds de porc crus</p>
+    <p>1 morceau d'échine de porc</p>
+    <p>500 g de lard salé en 1 seul morceau</p>
+    <p>1 saucisson à cuire</p>
+    <p>1 épaule de mouton</p>
+    <p>4 poireaux</p>
+    <p>3 gros oignons</p>
+    <p>1/2 céleri blanc</p>
+    <p>1 botte de navets</p>
+    <p>1/2 chou vert</p>
+    <p>500 g de choux de Bruxelles</p>
+    <p>2 grosses carottes</p>
+    <p>du beurre</p>
+    <p>2 branches de thym</p>
+    <p>2 feuilles de laurier</p>
+    <p>sel, poivre du moulin</p>
+    <p>moutarde (gantoise si possible)</p>
+    <p>1 kg de cwènes di gatte (ou Ratte du Touquet, ou autres pommes de terre)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Préparez ce bouillon la veille. Dans une marmite, déposez les os de boeuf et mouillez-les de 7 litres d'eau. Portez à ébullition et écumez. Ajoutez le laurier, le thym, les feuilles de céleri, le vert des poireaux, un oignon coupé en deux et un peu de sel. Laissez cuire 3 h à feu doux, en écumant de temps en temps. Passez au chinois et dégraissez.- Le lendemain, coupez séparément tous les autres légumes en gros morceaux (sauf le chou vert et les choux de Bruxelles).Reportez le bouillon à ébullition, plongez-y la poitrine de boeuf et laissez-la cuire tout doucement 30 mn. Ajoutez la queue de bœuf, les pieds de porc, l’échine et laissez cuire à nouveau 30 mn. Écumez.- Pendant ce temps, portez deux grandes casseroles d'eau à ébullition et blanchissez-y 2 mn le chou vert, d'une part, et les choux de Bruxelles, d'autre part. Égouttez-les. Ajoutez maintenant dans le hochepot lard, oignons, céleri, carottes et chou vert. Reportez à ébullition, écumez et laissez à nouveau cuire doucement 30 mn.- Ajoutez enfin les choux de Bruxelles, les navets, les poireaux, le saucisson à cuire et l'épaule de mouton. Ajoutez un peu d'eau si nécessaire et reportez encore à ébullition. Ecumez encore et laissez cuire doucement une dernière fois durant 30 mn. - Retirez les viandes du bouillon, déposez-les sur une grande plaque et gardez-les au chaud. Couvrez-les et laissez-les reposer. Goûtez le hochepot et rectifiez-le en sel et poivre. Découpez les viandes, déposez un morceau de chaque espèce dans de grandes assiettes creuses et bien chaudes, arrosez le tout du hochepot et de ses légumes bouillants. - Accompagnez, à part, de cwènes di gatte cuites avec leur peau et d’un bon pot de moutarde de Gand ou d’un assortiment de moutardes rustiques (Meaux, Brive…)Ce plat traditionnel flamand est hélas trop oublié. Il était cuit dans un pot de terre cuite, d'où son nom "hochepot" qui vient du flamand "hutspot", secouer le pot. 
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  - <OPER id="o_1">Préparez</OPER> ce <INGRED id="13">bouillon</INGRED> la veille. Dans une marmite, <OPER id="o_2">déposez</OPER> les <INGRED id="2">os de boeuf</INGRED> et <OPER id="o_3">mouillez</OPER> - les de 7 litres d'<INGRED id="10">eau</INGRED>. <OPER id="o_4">Portez</OPER> à ébullition et écumez. <OPER id="o_5">Ajoutez</OPER> le <INGRED id="4">laurier</INGRED>, le <INGRED id="8">thym</INGRED>, les <INGRED id="4">feuilles</INGRED> de <INGRED id="6">céleri</INGRED>, le <INGRED id="7">vert</INGRED> des <INGRED id="6">poireaux</INGRED>, un <INGRED id="6">oignon</INGRED> coupé en deux et un peu de <INGRED id="4">sel</INGRED>. Laissez <OPER id="o_6">cuire</OPER> 3 h à feu doux, en écumant de temps en temps. <OPER id="o_7">Passez</OPER> au chinois et dégraissez.- Le lendemain, <OPER id="o_8">coupez</OPER> séparément tous les autres légumes en gros <INGRED id="1">morceaux</INGRED> ( sauf le <INGRED id="13">chou vert</INGRED> et les <INGRED id="6">choux</INGRED> de <OPER id="o_9">Bruxelles).Reportez</OPER> le <INGRED id="7">bouillon</INGRED> à ébullition, <OPER id="o_10">plongez</OPER> - y la <INGRED id="1">poitrine de boeuf</INGRED> et laissez - la <OPER id="o_11">cuire</OPER> tout doucement 30 mn. <OPER id="o_12">Ajoutez</OPER> la <INGRED id="3">queue</INGRED> de bœuf, les <INGRED id="4">pieds</INGRED> de porc, l’ échine et laissez <OPER id="o_13">cuire</OPER> à nouveau 30 mn. Écumez.- Pendant ce temps, <OPER id="o_14">portez</OPER> deux grandes casseroles d'<INGRED id="2">eau</INGRED> à ébullition et <OPER id="o_15">blanchissez</OPER> - y 2 mn le <INGRED id="13">chou vert</INGRED>, d'une part, et les <INGRED id="14">choux de Bruxelles</INGRED>, d'autre part. <OPER id="o_16">Égouttez</OPER> - les. <OPER id="o_17">Ajoutez</OPER> maintenant dans le hochepot <INGRED id="6">lard</INGRED>, oignons, <INGRED id="6">céleri</INGRED>, <INGRED id="3">carottes</INGRED> et <INGRED id="13">chou vert</INGRED>. <OPER id="o_18">Reportez</OPER> à ébullition, <OPER id="o_19">écumez</OPER> et laissez à nouveau <OPER id="o_20">cuire</OPER> doucement 30 mn.- <OPER id="o_21">Ajoutez</OPER> enfin les <INGRED id="14">choux de Bruxelles</INGRED>, les <INGRED id="4">navets</INGRED>, les <INGRED id="6">poireaux</INGRED>, le <INGRED id="7">saucisson à</INGRED> <OPER id="o_227">cuire</OPER> et l'<INGRED id="8">épaule de mouton</INGRED>. <OPER id="o_23">Ajoutez</OPER> un peu d'<INGRED id="7">eau</INGRED> si nécessaire et reportez encore à ébullition. <OPER id="o_24">Ecumez</OPER> encore et laissez <OPER id="o_25">cuire</OPER> doucement une dernière fois durant 30 mn. - <OPER id="o_26">Retirez</OPER> les viandes du <INGRED id="2">bouillon</INGRED>, <OPER id="o_27">déposez</OPER> - les sur une grande plaque et <OPER id="o_28">gardez</OPER> - les au chaud. <OPER id="o_29">Couvrez</OPER> - les et laissez - les <OPER id="o_30">reposer</OPER>. <OPER id="o_31">Goûtez</OPER> le hochepot et rectifiez - le en <INGRED id="4">sel</INGRED> et <INGRED id="8">poivre</INGRED>. <OPER id="o_32">Découpez</OPER> les viandes, <OPER id="o_33">déposez</OPER> un <INGRED id="2">morceau de</INGRED> chaque espèce dans de grandes assiettes creuses et bien chaudes, <OPER id="o_34">arrosez</OPER> le tout du hochepot et de ses légumes bouillants. - Accompagnez, à part, de <INGRED id="22">cwènes di gatte</INGRED> cuites avec leur peau et d’ un bon pot de <INGRED id="21">moutarde</INGRED> de Gand ou d’ un assortiment de moutardes rustiques ( Meaux, Brive … )Ce <INGRED id="9">plat</INGRED> traditionnel flamand est hélas trop oublié. Il était cuit dans un pot de terre cuite, d'où son nom " hochepot " qui vient du flamand " hutspot ", <OPER id="o_35">secouer</OPER> le pot.
+  </annotation>
+  <annotation methode="crf">
+  - Préparez ce <INGRED>bouillon</INGRED> la veille. Dans une marmite <INGRED>,</INGRED> déposez les <INGRED>os de boeuf</INGRED> et mouillez - les de 7 litres d'<INGRED>eau</INGRED> <INGRED>.</INGRED> Portez à ébullition et écumez <INGRED>.</INGRED> Ajoutez le <INGRED>laurier</INGRED> <INGRED>,</INGRED> le <INGRED>thym</INGRED> <INGRED>,</INGRED> les feuilles de <INGRED>céleri</INGRED> <INGRED>,</INGRED> le vert des <INGRED>poireaux</INGRED> <INGRED>,</INGRED> un <INGRED>oignon</INGRED> coupé en <INGRED>deux</INGRED> et un peu de <INGRED>sel</INGRED> <INGRED>.</INGRED> Laissez cuire 3 <INGRED>h</INGRED> à feu doux <INGRED>,</INGRED> en écumant de temps en temps. Passez au chinois et dégraissez.- Le lendemain <INGRED>,</INGRED> coupez séparément tous les autres <INGRED>légumes</INGRED> en <INGRED>gros</INGRED> <INGRED>morceaux</INGRED> ( sauf le <INGRED>chou vert</INGRED> et les <INGRED>choux</INGRED> de Bruxelles).Reportez le <INGRED>bouillon</INGRED> à ébullition <INGRED>,</INGRED> plongez - y la <INGRED>poitrine de boeuf</INGRED> et laissez - la cuire tout doucement 30 mn <INGRED>.</INGRED> Ajoutez la queue de bœuf <INGRED>,</INGRED> les <INGRED>pieds de porc</INGRED> <INGRED>,</INGRED> l’ <INGRED>échine</INGRED> et laissez cuire à nouveau 30 mn <INGRED>.</INGRED> Écumez.- Pendant ce temps <INGRED>,</INGRED> portez <INGRED>deux</INGRED> grandes casseroles d'<INGRED>eau</INGRED> à ébullition et blanchissez - y 2 mn le <INGRED>chou vert</INGRED> <INGRED>,</INGRED> d'une part <INGRED>,</INGRED> et les <INGRED>choux</INGRED> de Bruxelles <INGRED>,</INGRED> d'autre part <INGRED>.</INGRED> Égouttez - les <INGRED>.</INGRED> Ajoutez maintenant dans le hochepot <INGRED>lard</INGRED> <INGRED>,</INGRED> <INGRED>oignons,</INGRED> <INGRED>céleri</INGRED> <INGRED>,</INGRED> <INGRED>carottes</INGRED> et <INGRED>chou vert</INGRED> <INGRED>.</INGRED> Reportez à ébullition <INGRED>,</INGRED> écumez et laissez à nouveau cuire doucement 30 mn.- Ajoutez enfin les <INGRED>choux</INGRED> de Bruxelles <INGRED>,</INGRED> les <INGRED>navets</INGRED> <INGRED>,</INGRED> les <INGRED>poireaux</INGRED> <INGRED>,</INGRED> le saucisson à cuire et l'<INGRED>épaule de mouton</INGRED> <INGRED>.</INGRED> Ajoutez un peu d'<INGRED>eau</INGRED> si nécessaire et reportez encore à ébullition <INGRED>.</INGRED> Ecumez encore et laissez cuire doucement une dernière fois durant 30 mn <INGRED>.</INGRED> - Retirez les viandes du <INGRED>bouillon</INGRED> <INGRED>,</INGRED> déposez - les sur une grande plaque et gardez - les au chaud <INGRED>.</INGRED> Couvrez - les et laissez - les reposer. Goûtez le hochepot et rectifiez - le en <INGRED>sel</INGRED> et <INGRED>poivre</INGRED>. Découpez les viandes <INGRED>,</INGRED> déposez un <INGRED>morceau</INGRED> de chaque espèce dans de grandes assiettes creuses et bien chaudes <INGRED>,</INGRED> arrosez le tout du hochepot et de ses légumes bouillants. - Accompagnez <INGRED>,</INGRED> à part <INGRED>,</INGRED> de <INGRED>cwènes</INGRED> di gatte cuites avec leur peau et d’ un bon pot de <INGRED>moutarde</INGRED> de Gand <INGRED>ou</INGRED> d’ un assortiment de moutardes rustiques ( Meaux <INGRED>,</INGRED> Brive … )Ce plat traditionnel flamand est hélas trop oublié <INGRED>.</INGRED> Il était cuit dans un pot de terre cuite <INGRED>,</INGRED> d'où son nom " hochepot " qui vient du flamand " hutspot " <INGRED>,</INGRED> secouer le pot.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 27.671875*X + 10.828125</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 24*X + 21</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['poitrine de boeuf', 'poitrine']	 id:1	 quantité:1	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['os de boeuf', 'os']	 id:2	 quantité:2	 unité:kg d'	 denombrable:False	 recipient:1
+ingredient:['queue de boeuf', 'queue']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['pieds de porc crus', 'pieds']	 id:4	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:["morceau d'échine de porc", 'morceau']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['lard salé en 1 seul morceau', 'lard']	 id:6	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['saucisson à cuire', 'saucisson']	 id:7	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['épaule de mouton', 'épaule']	 id:8	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['poireaux']	 id:9	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['oignons']	 id:10	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['céleri blanc', 'céleri']	 id:11	 quantité:1/2	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['botte de navets', 'botte']	 id:12	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['chou vert', 'chou']	 id:13	 quantité:1/2	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['choux de Bruxelles', 'choux']	 id:14	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['carottes']	 id:15	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['beurre']	 id:16	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['thym']	 id:17	 quantité:2	 unité:branches de	 denombrable:True	 recipient:2*X
+ingredient:['laurier']	 id:18	 quantité:2	 unité:feuilles de	 denombrable:True	 recipient:2*X
+ingredient:['sel']	 id:19	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre du moulin', 'poivre']	 id:20	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['moutarde']	 id:21	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['cwènes di gatte', 'cwènes']	 id:22	 quantité:1	 unité:kg de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préparer	 id:o_1	 ingrédients_ralatifs:['13']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:déposer	 id:o_2	 ingrédients_ralatifs:['2', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mouiller	 id:o_3	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:3	 recipient:0
+operation:porter	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['4', '8', '4', '6', '7', '6', '6', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:passer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:couper	 id:o_8	 ingrédients_ralatifs:['1', '13', '6', '7', '1']	 nombre_opération_atomique:1+1/2*X+1+1*X+1	 temps:1*X*1+1/2*X*1+1*X*1+1*X*1+1*X*1	 recipient:1
+operation:bruxelles).reporter	 id:o_9	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:plonger	 id:o_10	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:['3', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:porter	 id:o_14	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:blanchir	 id:o_15	 ingrédients_ralatifs:['13', '14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:égoutter	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_17	 ingrédients_ralatifs:['6', '6', '3', '13']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reporter	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:écumer	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:ajouter	 id:o_21	 ingrédients_ralatifs:['14', '4', '6', '7', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:ajouter	 id:o_23	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ecumer	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_25	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:retirer	 id:o_26	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déposer	 id:o_27	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:garder	 id:o_28	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_29	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:reposer	 id:o_30	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:goûter	 id:o_31	 ingrédients_ralatifs:['4', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:découper	 id:o_32	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:déposer	 id:o_33	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:arroser	 id:o_34	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:secouer	 id:o_35	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

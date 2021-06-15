@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21075">
+  <titre>Poireaux gratinés</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>12 poireaux</p>
+    <p>50 cl de lait</p>
+    <p>30 g de farine</p>
+    <p>60 g de beurre</p>
+    <p>3 jaunes d'oeufs</p>
+    <p>50 g de fromage râpé</p>
+    <p>muscade</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer les poireaux et les faire cuire 30 min à l'eau bouillante salée ou à la vapeur. 
+    Les égoutter sur un linge propre.
+    Faire fondre 30 g de beurre, saupoudrer la farine en remuant.
+    Verser le lait en fouettant, saler, poivrer et ajouter un peu de muscade.
+    Laisser épaissir à feu doux en fouettant.
+    Hors du feu, ajouter les jaunes d'oeufs.
+    Disposer les poireaux dans un plat beurré, napper de sauce et parsemer de fromage râpé.
+    Disposer quelques noisettes de beurre et faire gratiner 20 minutes au four à 180°C (thermostat 6).
+  ]]>
+  </preparation>
+</recette>

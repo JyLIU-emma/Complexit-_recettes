@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16840">
+  <titre>Porc laqué au barbecue</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>travers de porc, côtes de porc, morceaux de rouelle, tranches de poitrine fraiche pour 6 personnes selon goûts personnels (la poitrine fraiche est un must!) </p>
+    <p>4 gousses d'ail</p>
+    <p>10 cuillère à soupe de sauce soja</p>
+    <p>6 cuillère à soupe de sucre</p>
+    <p>1 cuillère à café d'huile de sésame</p>
+    <p>1/2 cuillère à café de 5 épices</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le travers en morceaux. Préparer la marinade en mélangeant les ingrédients + les gousses d'ail pressées.
+    Ajouter la viande et laisser mariner 6 heures au frigo en remuant de temps en temps pour que toutes les parties de la viande soient en contact avec la marinade.
+    Faire griller au barbecue.
+    Eventuellement, retremper la viande dans la martinade à mi-cuisson.
+    La marinade caramélise à la cuisson, et la sauce soja qui a pénétré dans la viande l'aide à garder son eau: au total une viande juteuse, à la fois sucrée et salée. Un délice!
+  ]]>
+  </preparation>
+</recette>

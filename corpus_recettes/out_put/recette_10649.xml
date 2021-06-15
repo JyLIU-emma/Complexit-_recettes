@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10649">
+  <titre>Grands-pères au sirop d'érable</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>75 cl de sirop d'érable</p>
+    <p>25 cl d'eau</p>
+    <p>sel</p>
+    <p>375 g de farine</p>
+    <p>1 cuillère à soupe de levure chimique</p>
+    <p>45 g de beurre</p>
+    <p>17.5 cl de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une grande casserole, faire mijoter à couvert pendant dix minutes, le sirop d'érable avec l'eau et une pincée de sel.
+    Tamiser ensemble la farine, la levure et une pincée de sel.À l'aide de deux couteaux, incorporer le beurre froid. Briser le mélange en grumeaux de la grosseur d'un pois. Ajouter le lait froid promptement, en manipulant le moins possible.
+    Laisser tomber la pâte ainsi formée, par cuillerées dans le sirop bouillant.
+    Faites cuire pendant 20 minutes sans découvrir la marmite.C'est un dessert typiquement Québécois. En ce moment, ici, c'est la saison des sucres. La période où les érables coulent et où on fabrique le merveilleux sirop d'érable et ses nombreux dérivés.C'est un dessert vite fait et très sucré. On le mange chaud ou tiède. Le secret de sa réussite réside dans la rapidité de son exécution et le fait de ne surtout pas découvrir la casserole, même si on en a très envie.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Dans une grande casserole, faire <OPER id="o_1">mijoter</OPER> à couvert pendant dix minutes, le <INGRED id="1">sirop d'érable</INGRED> avec l'<INGRED id="2">eau</INGRED> et une pincée de sel. <OPER id="o_2">Tamiser</OPER> ensemble la <INGRED id="1">farine</INGRED>, la <INGRED id="4">levure</INGRED> et une pincée de <INGRED id="3">sel</INGRED>. À l'aide de deux couteaux, <OPER id="o_3">incorporer</OPER> le <INGRED id="4">beurre</INGRED> froid. <OPER id="o_4">Briser</OPER> le mélange en grumeaux de la grosseur d'un pois. <OPER id="o_5">Ajouter</OPER> le lait froid promptement, en manipulant le moins possible. Laisser <OPER id="o_6">tomber</OPER> la <INGRED id="1">pâte</INGRED> ainsi formée, par cuillerées dans le <INGRED id="1">sirop</INGRED> bouillant. Faites <OPER id="o_7">cuire</OPER> pendant 20 minutes sans <OPER id="o_8">découvrir</OPER> la marmite. C'est un dessert typiquement Québécois. En ce moment, ici, c'est la saison des sucres. La période où les érables coulent et où on fabrique le merveilleux <INGRED id="1">sirop d'érable</INGRED> et ses nombreux dérivés. C'est un dessert vite fait et très sucré. On le mange chaud ou tiède. Le secret de sa réussite réside dans la rapidité de son exécution et le fait de ne surtout pas <OPER id="o_9">découvrir</OPER> la casserole, même si on en a très envie.
+  </annotation>
+  <annotation methode="crf">
+  Dans une grande casserole <INGRED>,</INGRED> faire mijoter à couvert pendant dix minutes <INGRED>,</INGRED> le <INGRED>sirop</INGRED> d'érable avec l'<INGRED>eau</INGRED> et une pincée de <INGRED>sel</INGRED> <INGRED>.</INGRED> Tamiser ensemble la <INGRED>farine</INGRED> <INGRED>,</INGRED> la <INGRED>levure</INGRED> et une pincée de <INGRED>sel</INGRED> <INGRED>.</INGRED> À l'aide de <INGRED>deux</INGRED> couteaux <INGRED>,</INGRED> incorporer le <INGRED>beurre</INGRED> froid <INGRED>.</INGRED> Briser le <INGRED>mélange</INGRED> en grumeaux de la grosseur d'un <INGRED>pois</INGRED> <INGRED>.</INGRED> Ajouter le <INGRED>lait</INGRED> froid promptement <INGRED>,</INGRED> en manipulant le moins possible <INGRED>.</INGRED> Laisser tomber la <INGRED>pâte</INGRED> ainsi formée <INGRED>,</INGRED> par <INGRED>cuillerées</INGRED> dans le <INGRED>sirop</INGRED> bouillant. Faites cuire pendant 20 minutes sans découvrir la marmite. C'est un dessert typiquement Québécois. En ce moment <INGRED>,</INGRED> ici <INGRED>,</INGRED> c'est la saison des sucres. La période où les érables coulent et où on fabrique le merveilleux <INGRED>sirop</INGRED> d'érable et ses nombreux dérivés. C'est un dessert vite fait et très sucré <INGRED>.</INGRED> On le mange chaud <INGRED>ou</INGRED> tiède. Le secret de sa réussite réside dans la rapidité de son exécution et le fait de ne surtout pas découvrir la casserole <INGRED>,</INGRED> même si on en <INGRED>a</INGRED> très envie.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 1.28571428571429*X + 7.71428571428572</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:["sirop d'érable", 'sirop']	 id:1	 quantité:75	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['eau']	 id:2	 quantité:25	 unité:cl d'	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:3	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['farine']	 id:4	 quantité:375	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['levure chimique', 'levure']	 id:5	 quantité:1	 unité:cuillère à soupe de	 denombrable:True	 recipient:1*X
+ingredient:['beurre']	 id:6	 quantité:45	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:7	 quantité:17.5	 unité:cl de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mijoter	 id:o_1	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:tamiser	 id:o_2	 ingrédients_ralatifs:['1', '4', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_3	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:briser	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tomber	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:découvrir	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:découvrir	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165159">
+  <titre>Muffins surprises au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 oeufs</p>
+    <p>50g de farine</p>
+    <p>75g de sucre</p>
+    <p>80g de chocolat noir</p>
+    <p>95g de beurre</p>
+    <p>12 carrés de chocolat blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four th6 (180°C).
+    Mélanger dans une terrine, les oeufs avec la farine et le sucre. 
+    Faire fondre le beurre avec le chocolat au bain-marie. Incorporer au mélange précédent.
+    Verser la préparation obtenue dans des moules à mini-muffins et déposer  un carré de chocolat blanc dans chaque empreinte.
+    Faire cuire 12 à 15 min. Laisser refroidir à température ambiante avant de tous les manger!
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Préchauffer</OPER> le four th6 ( 180 ° C ). <OPER id="o_2">Mélanger</OPER> dans une terrine, les oeufs avec la <INGRED id="3">farine</INGRED> et le sucre. Faire <OPER id="o_3">fondre</OPER> le <INGRED id="6">beurre</INGRED> avec le <INGRED id="4">chocolat</INGRED> au bain - marie. <OPER id="o_4">Incorporer</OPER> au mélange précédent. <OPER id="o_5">Verser</OPER> la préparation obtenue dans des moules à mini-muffins et <OPER id="o_6">déposer</OPER> un carré de <INGRED id="1">chocolat</INGRED> <INGRED id="1">blanc</INGRED> dans chaque empreinte. Faire <OPER id="o_7">cuire</OPER> 12 à 15 min. Laisser <OPER id="o_8">refroidir</OPER> à température ambiante avant de tous les <OPER id="o_9">manger</OPER> !
+  </annotation>
+  <annotation methode="crf">
+  Préchauffer le four th6 ( 180 ° C ). Mélanger dans une terrine <INGRED>,</INGRED> les <INGRED>oeufs</INGRED> avec la <INGRED>farine</INGRED> et le <INGRED>sucre</INGRED>. Faire fondre le <INGRED>beurre</INGRED> avec le <INGRED>chocolat</INGRED> au bain - marie <INGRED>.</INGRED> Incorporer au <INGRED>mélange</INGRED> précédent <INGRED>.</INGRED> Verser la préparation obtenue dans des <INGRED>moules</INGRED> à mini-muffins et déposer un <INGRED>carré</INGRED> de <INGRED>chocolat</INGRED> <INGRED>blanc</INGRED> dans chaque empreinte. Faire cuire 12 à 15 min. Laisser refroidir à température ambiante avant de tous les manger !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 7.10526315789474*X + 1.89473684210526</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 15*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['oeufs']	 id:1	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['farine']	 id:2	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:3	 quantité:75	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['chocolat noir', 'chocolat']	 id:4	 quantité:80	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:5	 quantité:95	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['carrés de chocolat blanc', 'carrés']	 id:6	 quantité:12	 unité:non_precis	 denombrable:True	 recipient:12*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préchauffer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:mélanger	 id:o_2	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:fondre	 id:o_3	 ingrédients_ralatifs:['6', '4']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:incorporer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_5	 ingrédients_ralatifs:['1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déposer	 id:o_6	 ingrédients_ralatifs:['1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cuire	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:refroidir	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:manger	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

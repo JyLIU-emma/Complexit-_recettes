@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18382">
+  <titre>Petits ramequins de courgettes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 courgette moyenne</p>
+    <p>2 cuillères d'huile d'olive</p>
+    <p>3 oeufs</p>
+    <p>50 ml de crème fraiche</p>
+    <p>1 petit sachet de gruyère râpé</p>
+    <p>ail, persil, basilic</p>
+    <p>sel, poivre</p>
+    <p>quelques noisettes de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6-7). 
+    Faire bouillir la courgette coupée en cubes 5 minutes, puis la laisser égoutter. Faire revenir les morceaux de courgettes avec l'huile d'olive (il ne faut pas qu'ils soient trop dorés). 
+    Battre les oeufs avec la crème, le gruyère râpé et les herbes.  Saler et poivrer. Mélanger avec la courgette et verser dans des ramequins.
+    Mettre une noisette de beurre sur chaque ramequin et enfourner 20 minutes.
+    Très bon aussi en légumes d'accompagnement
+  ]]>
+  </preparation>
+</recette>

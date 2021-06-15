@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25736">
+  <titre>Taboulé de mémé</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de semoule moyenne</p>
+    <p>1 concombre</p>
+    <p>3 tomates moyennes</p>
+    <p>1 poivron vert</p>
+    <p>1 oignon</p>
+    <p>1 citron</p>
+    <p>huile d'olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Placez 200 g de semoule dans un saladier, râpez le concombre. 
+    Mixez l'oignon et le poivron (pas en jus). Pelez les tomates et coupez-les en tous petits dés. 
+    Mélangez le tout, ajoutez 5 cuillères d'huile d'olive et le jus du citron, salez et poivrez. 
+    Mettez au réfrigérateur pendant 1 nuit.
+    Pour peler les tomates facilement, plongez-les dans l'eau bouillante 5 secondes.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19384">
+  <titre>Tarte aux poires et aux amandes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>120 g de poudre d'amande</p>
+    <p>2 oeufs</p>
+    <p>25 cl de crème fraîche</p>
+    <p>100 g de sucre</p>
+    <p>4 poires</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparation de la crème: battre les oeufs avec le sucre la poudre d'amande. 
+    Ajouter la crème fraîche. Dérouler la pâte feuilletée. 
+    Pelez les poires, coupez-les en deux, enlevez les pépins. 
+    Mettre les poires sur la pâte et verser la préparation dessus ; mettre au four 30 min à 200°C (thermostat 6-7).
+  ]]>
+  </preparation>
+</recette>

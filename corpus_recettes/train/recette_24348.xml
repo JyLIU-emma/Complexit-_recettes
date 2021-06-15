@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24348">
+  <titre>Truite aux champignons et à la crème</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 truite saumonée de 1,5 kg vidée</p>
+    <p>6 échalotes</p>
+    <p>75 g de beurre</p>
+    <p>375 g de champignons</p>
+    <p>75 cl de vin blanc sec</p>
+    <p>225 g de crème</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 6-7).
+    Emincer les champignons et les échalotes puis les mettre dans le fond d'un plat à four beurré.
+    Poser la truite dessus, saler, poivrer et arroser de vin blanc.
+    Enfourner pour 25 minutes de cuisson.
+    Egoutter le poisson, retirer la peau et le disposer sur le plat de service.
+    Récupérer le jus de cuisson et lui incorporer la crème.
+    Réchauffer rapidement.
+    Napper le poisson et les champignons de sauce.
+  ]]>
+  </preparation>
+</recette>

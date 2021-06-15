@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50079">
+  <titre>Kébé au four d’ Hilda</titre>
+  <type>Plat principal</type>
+  <niveau>Difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de viande hachée à 5% de matière grasse</p>
+    <p>500 g de viande hachée à 15% de matière grasse</p>
+    <p>250 g de boulgour haché fin</p>
+    <p>3 oignons, </p>
+    <p>sel, poivre, 4 épices</p>
+    <p>huile de tournesol</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mouillez le boulgour avec une bonne quantité d’eau, puis laissez tremper pendant 2 h.
+    Dans une terrine, versez le boulgour essoré entre vos mains, un peu de sel, la viande hachée à 5%... 
+    Et malaxez, en mouillant avec un peu d’eau froide, jusqu’à ce que le mélange prenne la consistance d’une pâte souple (le résultat de cette opération dépend de l’hydratation du boulgour (étape 1).
+    Versez cette préparation dans un robot mixeur, et mixez en ajoutant très peu d’eau froide jusqu’à ce que la pâte de viande forme une boule.
+    Remettez la pâte de viande dans la terrine et pétrissez à nouveau  avec les mains, en ajoutant un peu d’eau si nécessaire pour avoir une pâte de viande souple.
+    Divisez la préparation en deux, couvrez d’un film alimentaire ou d’un torchon mouillé; réservez.
+    Préparation de la farce :
+    Dans une sauteuse, versez un fond d’huile de tournesol. Faites revenir dans l’huile chaude les oignons coupés en tout petits dés, ajoutez la viande hachée à 15% de M.G., le sel le poivre et le quatre épices. 
+    Mélangez en écrasant avec le dos de la cuillère la viande pour la réduire en tout petits morceaux. Laissez cuire, jusqu’à ce qu’il n’y ait plus de liquide dans la sauteuse.
+    Préchauffez le four à 240°C (thermostat 8).
+    Dans un plat à gratin huilé légèrement, étalez uniformément  la moitié de la préparation de pâte de viande.
+    Etalez par-dessus la farce, puis recouvrez avec la deuxième partie de la pâte de viande.
+     
+     
+    Avec un grand couteau, découpez le kébé en petits carrés ou losanges;
+    versez un peu d’huile de tournesol sur toute la surface.
+    Enfournez pendant 40 à 45 minutes; servez avec une salade.
+    Variante : on peut ajouter à la farce des pignons de pin et du persil plat finement émincé.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Mouillez</OPER> le <INGRED id="3">boulgour</INGRED> avec une bonne quantité d’ eau, puis laissez <OPER id="o_2">tremper</OPER> pendant 2 h. Dans une terrine, <OPER id="o_3">versez</OPER> le <INGRED id="3">boulgour</INGRED> essoré entre vos mains, un <INGRED id="4">peu</INGRED> de <INGRED id="3">sel</INGRED>, la viande hachée à 5 %... Et <OPER id="o_4">malaxez</OPER>, en mouillant avec un <INGRED id="4">peu</INGRED> d’ <INGRED id="5">eau froide</INGRED>, jusqu’ à ce que le <INGRED id="7">mélange</INGRED> prenne la consistance d’ une <INGRED id="7">pâte</INGRED> souple ( le résultat de cette opération dépend de l’ hydratation du <INGRED id="3">boulgour</INGRED> ( étape 1 ). <OPER id="o_5">Versez</OPER> cette <INGRED id="4">préparation</INGRED> dans un robot mixeur, et mixez en ajoutant très <INGRED id="4">peu</INGRED> d’ <INGRED id="5">eau froide</INGRED> jusqu’ à ce que la <INGRED id="7">pâte</INGRED> de <INGRED id="2">viande</INGRED> forme une <INGRED id="5">boule</INGRED>. <OPER id="o_6">Remettez</OPER> la <INGRED id="5">pâte</INGRED> de <INGRED id="1">viande</INGRED> dans la terrine et <OPER id="o_7">pétrissez</OPER> à nouveau avec les mains, en ajoutant un peu d’ <INGRED id="2">eau</INGRED> si nécessaire pour avoir une <INGRED id="2">pâte</INGRED> de <INGRED id="1">viande</INGRED> souple. <OPER id="o_8">Divisez</OPER> la <INGRED id="4">préparation</INGRED> en <INGRED id="6">deux</INGRED>, couvrez d’ un film alimentaire ou d’ un torchon mouillé ; réservez. Préparation de la farce : Dans une sauteuse, <OPER id="o_9">versez</OPER> un fond d’ <INGRED id="8">huile de tournesol</INGRED>. Faites <OPER id="o_10">revenir</OPER> dans l’ huile chaude les oignons coupés en tout <INGRED id="3">petits</INGRED> <INGRED id="3">dés</INGRED>, <OPER id="o_11">ajoutez</OPER> la viande hachée à 15 % de M.G., le sel le poivre et le quatre épices. <OPER id="o_12">Mélangez</OPER> en écrasant avec le dos de la <INGRED id="8">cuillère</INGRED> la viande pour la réduire en tout petits <INGRED id="1">morceaux</INGRED>. Laissez <OPER id="o_13">cuire</OPER>, jusqu’ à ce qu’ il n’ y ait plus de liquide dans la sauteuse. <OPER id="o_14">Préchauffez</OPER> le four à 240 ° C ( thermostat 8). Dans un plat à gratin huilé légèrement, <OPER id="o_15">étalez</OPER> uniformément la moitié de la <INGRED id="4">préparation</INGRED> de pâte de <INGRED id="1">viande</INGRED>. <OPER id="o_16">Etalez</OPER> par - dessus la farce, puis <OPER id="o_17">recouvrez</OPER> avec la deuxième partie de la <INGRED id="2">pâte</INGRED> de <INGRED id="2">viande</INGRED>. Avec un grand <INGRED id="8">couteau</INGRED>, <OPER id="o_18">découpez</OPER> le kébé en <INGRED id="3">petits</INGRED> <INGRED id="2">carrés</INGRED> ou losanges ; <OPER id="o_19">versez</OPER> un peu d’ <INGRED id="8">huile de tournesol</INGRED> sur toute la surface. <OPER id="o_20">Enfournez</OPER> pendant 40 à 45 minutes ; servez avec une salade. Variante : on peut <OPER id="o_21">ajouter</OPER> à la farce des <INGRED id="4">pignons</INGRED> de pin et du persil plat finement émincé.
+  </annotation>
+  <annotation methode="crf">
+  Mouillez le boulgour avec une bonne quantité d’ <INGRED>eau</INGRED> <INGRED>,</INGRED> puis laissez tremper pendant 2 h. Dans une terrine <INGRED>,</INGRED> versez le boulgour essoré entre vos mains <INGRED>,</INGRED> un peu de <INGRED>sel</INGRED> <INGRED>,</INGRED> la <INGRED>viande</INGRED> hachée à 5 <INGRED>%</INGRED>... Et malaxez <INGRED>,</INGRED> en mouillant avec un peu d’ <INGRED>eau</INGRED> froide <INGRED>,</INGRED> jusqu’ à ce que le <INGRED>mélange</INGRED> prenne la consistance d’ une <INGRED>pâte</INGRED> souple ( le résultat de cette opération dépend de l’ hydratation du boulgour ( étape 1 ). Versez cette préparation dans un robot mixeur <INGRED>,</INGRED> et mixez en ajoutant très peu d’ <INGRED>eau</INGRED> froide jusqu’ à ce que la <INGRED>pâte</INGRED> de <INGRED>viande</INGRED> forme une <INGRED>boule</INGRED> <INGRED>.</INGRED> Remettez la <INGRED>pâte</INGRED> de <INGRED>viande</INGRED> dans la terrine et pétrissez à nouveau avec les mains <INGRED>,</INGRED> en ajoutant un peu d’ <INGRED>eau</INGRED> si nécessaire pour avoir une <INGRED>pâte</INGRED> de <INGRED>viande</INGRED> souple. Divisez la préparation en <INGRED>deux</INGRED> <INGRED>,</INGRED> couvrez d’ un film alimentaire <INGRED>ou</INGRED> d’ un torchon mouillé ; réservez <INGRED>.</INGRED> Préparation de la farce <INGRED>:</INGRED> Dans une sauteuse <INGRED>,</INGRED> versez un <INGRED>fond</INGRED> d’ <INGRED>huile</INGRED> de tournesol <INGRED>.</INGRED> Faites revenir dans l’ <INGRED>huile</INGRED> chaude les <INGRED>oignons coupés</INGRED> en tout <INGRED>petits</INGRED> dés <INGRED>,</INGRED> ajoutez la <INGRED>viande</INGRED> hachée à 15 <INGRED>%</INGRED> de M.G. <INGRED>,</INGRED> le <INGRED>sel</INGRED> le <INGRED>poivre</INGRED> et le <INGRED>quatre</INGRED> <INGRED>épices</INGRED> <INGRED>.</INGRED> Mélangez en écrasant avec le dos de la cuillère la <INGRED>viande</INGRED> pour la réduire en tout <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> <INGRED>.</INGRED> Laissez cuire <INGRED>,</INGRED> jusqu’ à ce qu’ il n’ y ait plus de liquide dans la sauteuse <INGRED>.</INGRED> Préchauffez le four à 240 ° C ( thermostat 8) <INGRED>.</INGRED> Dans un plat à gratin huilé légèrement <INGRED>,</INGRED> étalez uniformément la moitié de la préparation de <INGRED>pâte</INGRED> de <INGRED>viande</INGRED> <INGRED>.</INGRED> Etalez par - dessus la farce <INGRED>,</INGRED> puis recouvrez avec la deuxième partie de la <INGRED>pâte</INGRED> de <INGRED>viande</INGRED> <INGRED>.</INGRED> Avec un grand couteau <INGRED>,</INGRED> découpez le kébé en <INGRED>petits</INGRED> <INGRED>carrés</INGRED> <INGRED>ou</INGRED> losanges ; versez un peu d’ <INGRED>huile</INGRED> de tournesol sur toute la surface <INGRED>.</INGRED> Enfournez pendant 40 à 45 minutes ; servez avec une salade <INGRED>.</INGRED> Variante <INGRED>:</INGRED> on peut ajouter à la farce des <INGRED>pignons de pin</INGRED> et du <INGRED>persil</INGRED> plat <INGRED>finement</INGRED> <INGRED>émincé</INGRED> <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 12.3846153846154*X + 10.6153846153846</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 7*X + 13</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['viande hachée à 5 % de matière grasse', 'viande']	 id:1	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['viande hachée à 15 % de matière grasse', 'viande']	 id:2	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['boulgour haché fin', 'boulgour']	 id:3	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oignons']	 id:4	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['sel']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['épices']	 id:7	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['huile de tournesol', 'huile']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mouiller	 id:o_1	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:3	 recipient:0
+operation:tremper	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:verser	 id:o_3	 ingrédients_ralatifs:['3', '4', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:malaxer	 id:o_4	 ingrédients_ralatifs:['4', '5', '7', '7', '3', '4', '4', '5', '7', '2', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_5	 ingrédients_ralatifs:['4', '4', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remettre	 id:o_6	 ingrédients_ralatifs:['5', '1', '2', '2', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:pétrir	 id:o_7	 ingrédients_ralatifs:['2', '2', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:diviser	 id:o_8	 ingrédients_ralatifs:['4', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_9	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:revenir	 id:o_10	 ingrédients_ralatifs:['3', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_12	 ingrédients_ralatifs:['8', '1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:cuire	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:préchauffer	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:étaler	 id:o_15	 ingrédients_ralatifs:['4', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:etaler	 id:o_16	 ingrédients_ralatifs:['2', '2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:recouvrir	 id:o_17	 ingrédients_ralatifs:['2', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:découper	 id:o_18	 ingrédients_ralatifs:['8', '3', '2']	 nombre_opération_atomique:1+1+1	 temps:1*X*1+1*X*1+1*X*1	 recipient:1
+operation:verser	 id:o_19	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfourner	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_21	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

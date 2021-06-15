@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15185">
+  <titre>Terrine de lapin en conserve</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 gros lapin (lapine)</p>
+    <p>gorge de porc  (même poids que le lapin)</p>
+    <p>1 gousse d'ail</p>
+    <p>1 ou 2 échalotes</p>
+    <p>persil, thym et noix muscade</p>
+    <p>mélange '4 épices'</p>
+    <p>5 g de sel par kilo de farce</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Désosser le lapin cru, le hacher avec la gorge de porc, puis ajouter tout l'assaisonnement.
+    Bien malaxer à la main, goûter, ajuster si nécessaire.
+    Mettre dans des pots en verre bien nettoyés, avec des caoutchousc neufs que vous aurez fait bouillir.
+    Bien tasser, refermer, et mettre au four thermostat 2, pendant 2h30 pour 1 pot de 300g et 3h pour 1 pot de 500 g.
+  ]]>
+  </preparation>
+</recette>

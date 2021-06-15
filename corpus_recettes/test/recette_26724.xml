@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26724">
+  <titre>Pizza carbonara</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte à pizza</p>
+    <p>200 g de lardons fumés ou nature</p>
+    <p>200 g de crème fraîche</p>
+    <p>125 g de mozzarella</p>
+    <p>sel, poivre</p>
+    <p>un jaune d'oeuf</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 210 degrés. 
+    Faites revenir les lardons dans une poêle avec du beurre. 
+    Etaler votre pâte dans le moule à pizza beurré. 
+    Sortez la pâte du four, répartissez les lardons, recouvrez de façon régulière avec la crème fraîche, puis avec la mozzarella coupée en rondelles. 
+    Salez, poivrez. 
+    Mettre au four à 210 degrés pendant 20 mn puis baisser la température à 150 degré pendant 10 mn. 
+    A la sortie du four mettre le jaune sur la pizza au moment de servir. 
+    Astuce : pour les mini-fours, qui laissent malheureusement la chaleur s'échapper, vous pouvez précuire votre pâte pendant 5 mn en la recouvrant de papier sulfurisé et de haricots secs.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22213">
+  <titre>Croques au chèvre</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 tranches de pain de mie</p>
+    <p>1/2 tranche de jambon</p>
+    <p>fromage de chèvre frais</p>
+    <p>gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tartiner une tranche de pain de mie de fromage de chèvre en couche ni trop mince, ni trop épaisse. 
+    Poser la demi tranche de jambon et un peu de gruyère râpé. 
+    Recouvrir de la seconde tranche de pain de mie et cuire comme des croque-monsieur classiques.
+    Pour les gourmands amateur de chèvre, on peut tartiner les deux tranches de pain de mie.
+    Avec une salade, c'est mmmmmm....... Un petit rosé bien frais
+  ]]>
+  </preparation>
+</recette>

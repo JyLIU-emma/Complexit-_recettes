@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19884">
+  <titre>Filets de lieu panés au parmesan</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 filets de lieu</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>2 oeufs</p>
+    <p>24 g de chapelure</p>
+    <p>50 g de parmesan râpé</p>
+    <p>60 g de beurre</p>
+    <p>1 cuillère à café d'ail surgelé</p>
+    <p>1/2 feuille de sauge</p>
+    <p>3 cl d'huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un bol, battre les oeufs avec le sel, le poivre et l'ail.
+    Dans une assiette creuse, mélanger la chapelure avec le parmesan.
+    Saupoudrer les filets de farine, les passer dans le mélange d'oeufs, puis les rouler dans la chapelure et renouveler l'opération encore une fois.
+    Mettre l'huile avec 20 g de beurre à chauffer dans une poêle, puis y faire dorer les filets 2 min de chaque côté à feu vif.
+    Laisser ensuite mijoter pendant 10 min à feu réduit, puis dégraisser la poêle et réserver les filets au chaud.
+    Mettre le reste du beurre à fondre dans la poêle puis y incorporer les feuilles de sauge. Laisser colorer un peu le beurre avec la sauge, puis en napper les filets de lieu.
+    Servir accompagné de pâtes fraîches aux zestes de citron.
+  ]]>
+  </preparation>
+</recette>

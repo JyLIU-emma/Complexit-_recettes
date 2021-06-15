@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23654">
+  <titre>Rôti de boeuf au Madère</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,2 kg de rôti de boeuf</p>
+    <p>300 g de champignons de Paris</p>
+    <p>120 g de beurre</p>
+    <p>1 blanc de poireau</p>
+    <p>1 belle tomate</p>
+    <p>1 échalote</p>
+    <p>2 carottes</p>
+    <p>1 branche de céleri</p>
+    <p>1 bouquet garni</p>
+    <p>10 cl de bouillon</p>
+    <p>10 cl de Madère</p>
+    <p>1 cuillère à soupe de farine </p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour faire la sauce : émincez tous les légumes et faites les  revenir - sauf les champignons ! - dans 40 g de beurre pendant quelques minutes puis saupoudrez de farine. Laissez la farine se colorer puis versez le bouillon. Ajoutez le bouquet garni, salez et poivrez. Laissez cuire à petit feu pendant 15 minutes.
+    Dans une poêle, faites cuire les champignons dans 20 g de beurre.
+    Dans une grande cocotte, faites fondre le reste du beurre et dorez-y le rôti sur toutes les faces pendant 10 minutes. Assaisonnez de sel et de poivre. Ajoutez les champignons et la sauce filtrée. Laissez cuire 10 minutes supplémentaires puis versez le Madère. Poursuivez la cuisson 5 minutes et servez bien chaud.
+  ]]>
+  </preparation>
+</recette>

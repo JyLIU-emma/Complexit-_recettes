@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10529">
+  <titre>Terrine de foie de porc</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 grammes de foie de porc </p>
+    <p>200 grammes de lard gras </p>
+    <p>2 échalotes </p>
+    <p>1 gousse d'ail </p>
+    <p>1 oeuf </p>
+    <p>3 cuillères à soupe de lait </p>
+    <p>1 noix de muscade </p>
+    <p>2 feuilles de laurier </p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - hacher (pas trop fin) le foie, le lard, les échalotes et l'ail à l'aide d'un robot 
+    ajouter l'oeuf, le lait, 3/4 d'une cuillère à soupe de sel, raper un peu de noix muscade et bien mélanger 
+    disposer les feuilles de laurier au fond d'une terrine (une vraie en terre !) 
+    verser le mélange pas-dessus sans remplir entièrement la terrine et luter (c'est à dire étanchéïfier) le couvercle de la terrine avec une pâte farine + eau 
+    cuire à four moyen (thermostat 5-6) pendant 1 h 30 à 1 h 45 
+    laisser refroidir doucement  Un rouge bien charpenté : Madiran, cahors, Hermitage, Cornas ....
+  ]]>
+  </preparation>
+</recette>

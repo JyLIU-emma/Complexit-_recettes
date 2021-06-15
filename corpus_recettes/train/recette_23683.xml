@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23683">
+  <titre>Rillettes faciles aux deux saumons</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>800 g de saumon frais</p>
+    <p>3 ou 4 tranches de saumon fumé</p>
+    <p>30 g d'oeufs de saumon</p>
+    <p>75 g de beurre</p>
+    <p>150 g de crème fleurette</p>
+    <p>1 jus de citron</p>
+    <p>1 bouquet d'aneth</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire le saumon frais, l'émietter à la fourchette.
+    Couper le saumon fumé en fines lanières.
+    Dans une terrine, faire ramollir le beurre, y incorporer les saumons, les oeufs, l'aneth, le jus de citron et la crème battue en chantilly.
+    Mettre dans une terrine au frais pendant 24 h.
+     vin blanc sec
+  ]]>
+  </preparation>
+</recette>

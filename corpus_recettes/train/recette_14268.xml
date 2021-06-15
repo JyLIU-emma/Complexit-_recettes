@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14268">
+  <titre>Blancs de volaille sauce au boursin</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boursin ail et fines herbes de 150 g</p>
+    <p>4 blancs de volaille</p>
+    <p>1 belle carotte</p>
+    <p>1 oignon</p>
+    <p>1 verre de vin blanc</p>
+    <p>1 verre de lait</p>
+    <p>2 verres de bouilon de volaille (soit environ 40 cl)</p>
+    <p>1 cuillère à soupe d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher finement la carotte et l'oignon.
+    Chauffer l'huile dans une sauteuse, faire suer 2 min les légumes puis ajouter les blancs et les faire colorer.
+    Déglacer avec le vin, ajouter le lait et laisser réduire de moitié. Ajouter le bouillon et laisser mijoter 15-20 min.
+    Sortir les blancs et les réserver au chaud. 
+    Disperser le boursin pour obtenir une sauce onctueuse, portez légèrement à ébullition.
+    Servir les blancs nappés de sauce avec des coquillettes ou du riz basmati.
+    Bien faire réduire le mélande vin+lait+bouillon pour obtenir une sauce onctueuse avec l'ajout du boursin
+  ]]>
+  </preparation>
+</recette>

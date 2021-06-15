@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21465">
+  <titre>Tajine d'agneau aux pruneaux et à la cannelle</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g à 1 kg de mouton en morceaux</p>
+    <p>1 noisette de beurre</p>
+    <p>1 cuillère à soupe d'oignons hachés</p>
+    <p>1 cuillère à café de farine</p>
+    <p>1 cuillère à café de piment</p>
+    <p>1 bâton de cannelle</p>
+    <p>1 pincée de safran</p>
+    <p>200 g de pruneaux</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle, faire revenir les morceaux de mouton avec le beurre. Incorporer l'oignon et laisser dorer. Parsemer le tout de farine et recouvrir d'eau chaude. Assaisonner et faire mijoter à feu doux pendant 3 h. 
+    Ajouter le bâton de cannelle, le safran, le piment et les pruneaux au bout de 2 h de cuisson.
+  ]]>
+  </preparation>
+</recette>

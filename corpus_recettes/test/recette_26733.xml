@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26733">
+  <titre>Soufflés de soles au saumon et coulis d'asperges</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>500 g de saumon frais sans arêtes</p>
+    <p>6 filets de soles</p>
+    <p>2 blancs d'oeufs</p>
+    <p>10 cl de crème</p>
+    <p>beurre</p>
+    <p>sel, poivre</p>
+    <p>Pour la sauce :</p>
+    <p>500 g d'asperges vertes</p>
+    <p>10 cl de crème fraîche épaisse</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Beurrez 6 ramequins rond à bords hauts. Salez et poivrez les filets de soles, disposez-les en rond dans les ramequins, en les collant aux bords.
+    Mixez le saumon finement avec la crème, du sel et du poivre. Fouettez les blancs en neige et incorporez-les à la crème de saumon.
+    Répartissez cette préparation au centre des ramequins. Placez-les dans un bain-marie, faites cuire 25 minutes au four à 120°C (thermostat 4).
+    Pendant ce temps, grattez les asperges et faites-les cuire 15 minutes à l'eau bouillante salée. Egouttez-les et mixez-les en purée fine.
+    Ajoutez la crème fraîche et les jaunes d'oeufs toujours en mixant, puis réchauffez à feu doux.
+    Démoulez les soufflés et servez-les entourés de sauce.
+  ]]>
+  </preparation>
+</recette>

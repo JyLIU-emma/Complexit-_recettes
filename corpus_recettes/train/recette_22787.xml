@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22787">
+  <titre>Poulet Poivrons-paprika</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 escalopes de poulet</p>
+    <p>1 poivron rouge, une jaune</p>
+    <p>1 briquette de crème (20 cl)</p>
+    <p>paprika</p>
+    <p>sel, poivre</p>
+    <p>persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les escalopes de poulet émincées. 
+    Réserver. 
+    Dans la poêle contenant les sucs du poulet, faire cuire les poivrons coupés en lamelles. 
+    Dès qu'ils sont tendres, mettre la crème et assaisonner de paprika, sel, poivre (goûter pour estimer les proportions). 
+    Vous pouvez rajouter du persil pour faire joli et rafraîchir. 
+    Servir avec des pâtes.
+    Recette perso inventée un soir de désoeuvrement avec ce qui trainait dans le frigo. Rapide, simple, parfait pour un repas du soir en famille.
+  ]]>
+  </preparation>
+</recette>

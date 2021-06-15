@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12668">
+  <titre>Roti de veau au gouda</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de noix de veau</p>
+    <p>12 tranches minces de gouda</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>10 cl de crème fraîche</p>
+    <p>1 cuillere à café de maïzena</p>
+    <p>40 g de beurre</p>
+    <p>thym</p>
+    <p>sel et poivre</p>
+    <p>moutarde</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre dans une cocotte. Y faire dorer le rôti sur toute ses faces. Saler, poivrer, saupoudrer de thym.
+    Couvrir et faire cuire 1 h en retournant régulièrement et en ajoutant un peu d'eau si nécessaire.
+    Retirer le rôti et le couper en tranches sans détacher complètement celles-ci.
+    Tartiner le gouda de moutarde et insérer les tranches dans les intervalles. Déposer le roti dans un plat a four et le maintenir en disposant a chaque extrémité une boulette de papier alu froissé. Mettre 10 mn a four chaud.
+    Verser 2 verres d'eau dans la cocotte. Porter a ébullition en grattant bien le fond. Ajouter la maïzena délayée dans le vin blanc et faire épaissir sans cesser de remuer.
+    Ajouter la crème fraiche, donner un bouillon et retirer.
+    Servir le rôti et la sauce à part.
+  ]]>
+  </preparation>
+</recette>

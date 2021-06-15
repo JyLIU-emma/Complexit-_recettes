@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16378">
+  <titre>Croque-madame garni</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pain de mie tranché</p>
+    <p>4 oeufs</p>
+    <p>8 tranches de jambon</p>
+    <p>4 tranches fromage (gruyère)</p>
+    <p>assortiment de crudités : carottes, comcombres, tomates, céleri, macédoine...</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer les croques, en plaçant 1/2 tranche de jambon puis une tranche de fromage à l'intérieur de 2 tartines.
+    Passer les croques au gril, puis cuire des oeufs sur le plat.
+    Poser le croque dans une assiette, puis -sur le dessus- ajouter un oeuf sur le plat. Saler et poivrer.
+    Garnir les assiettes avec un assortiment de crudités à votre goût.
+    Vous pouvez essayer d'autres fromages, à l'intérieur du croque pour tester. Pour l'assortiment de crudités, inventez à votre guise pour rendre l'assiette bien plus décorative.
+  ]]>
+  </preparation>
+</recette>

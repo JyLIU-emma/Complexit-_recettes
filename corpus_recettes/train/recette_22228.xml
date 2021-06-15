@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22228">
+  <titre>Cake aux poivrons grillés à l'huile</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g farine</p>
+    <p>1 sachet levure</p>
+    <p>4 oeufs</p>
+    <p>100 g gruyère râpé</p>
+    <p>un bocal de 290 g de poivrons grillés à l'huile</p>
+    <p>10 cl huile (l'huile des poivrons) </p>
+    <p>15 cl lait</p>
+    <p>herbes de Provence</p>
+    <p>sel</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger l'huile, les oeufs, le lait, le sel, le poivre et les herbes de Provence. 
+    Ajouter la farine et la levure. 
+    Ajouter le gruyère, les poivrons coupés en petites lanières. 
+    Bien mélanger, versez la préparation dans un moule à cake. 
+    Cuire 1 heure à 180°C.
+  ]]>
+  </preparation>
+</recette>

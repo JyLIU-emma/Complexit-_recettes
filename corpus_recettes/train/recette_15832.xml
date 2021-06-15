@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15832">
+  <titre>Taboulé ultra-facile</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de semoule moyenne       </p>
+    <p>500 g de tomates environ (ébouillantées pour oter la peau et en quartier) </p>
+    <p>1 concombre (épluché et en gros morceaux) </p>
+    <p>5 oignons (épeluchés et coupé en 4) </p>
+    <p>5 branches de persil et de menthe </p>
+    <p>jus de 5 citrons et autant d'huile </p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    On mixe les légumes grossièrement dans un robot, on ajoute à la semoule (crue) et on ajoute l'assaisonnement. 
+    On place le tout au réfrigérateur et on consomme le lendemain.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25611">
+  <titre>Gratin de fruits au chocolat blanc</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de chocolat blanc</p>
+    <p>80 g de beurre</p>
+    <p>4 oeufs</p>
+    <p>40 g de sucre en poudre</p>
+    <p>40 g de farine</p>
+    <p>1 mangue</p>
+    <p>2 bananes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites fondre le chocolat blanc avec le beurre, au bain-marie ou au micro-ondes. 
+    Fouettez les oeufs au fouet électrique jusqu'à ce qu'ils soient bien mousseux. Incorporez le sucre tout en fouettant. Incorporez ensuite la farine et la préparation au chocolat blanc. 
+    Epluchez la mangue et coupez-la en cubes ; Epluchez les bananes et coupez-les en rondelles. 
+    Répartissez les fruits dans des plats à gratin individuels. Versez la préparation au chocolat dans chaque plat. 
+    Mettez à cuire à four chaud (210°C , Th 7 ) pendant 15 mn. Le dessus doit être doré. 
+    Laissez tiédir avant de servir.
+    Vous pouvez utiliser d'autres fruits : pommes, poires, fraises,...
+  ]]>
+  </preparation>
+</recette>

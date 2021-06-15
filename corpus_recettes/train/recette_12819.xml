@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12819">
+  <titre>Ragoût d'escargots à la provencale</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>150 escargots petits-gris</p>
+    <p>6 tomates</p>
+    <p>2 oignons</p>
+    <p>4 gousses d'ail</p>
+    <p>30 g de basilic</p>
+    <p>30 g de persil</p>
+    <p>2 pincées de fleur de thym</p>
+    <p>sel, poivre</p>
+    <p>8 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pour 100 petits-gris, faire saisir les escargots, puis ajouter 2 oignons moyens hachés finement, 3 gousses d'ail, 4 belles tomates épépinées.
+    Laisser cuire 10 minutes. Ajouter thym, basilic et persil, sel et poivre.
+    Avant de servir, mélanger 6 oeufs comme pour une omelette en battant vigoureusement.Recette rentrée par la Fontaine de Bernn.http://www.fontaine-escargots.com/
+  ]]>
+  </preparation>
+</recette>

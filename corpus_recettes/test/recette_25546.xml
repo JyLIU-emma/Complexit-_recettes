@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25546">
+  <titre>Salade de chèvres chauds</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de gésiers de volaille par personne</p>
+    <p>1 salade (de type frisée ou feuille de chêne)</p>
+    <p>3 chèvres frais par personne </p>
+    <p>2 oeufs</p>
+    <p>1 cuillère à soupe de chapelure</p>
+    <p>2 cuillères à soupe d'huile de pépin de raisin</p>
+    <p>1 cuillère à soupe de vinaigre balsamique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les gésiers, puis les faire revenir quelques minutes dans une poêle. Pendant ce temps tremper les chèvres dans l’oeuf puis dans la chapelure. Laver la salade et l'assaisonner avec 3 cuillères à soupe l'huile de pépin de raisin (ou d'arachide) et 2 cuillères à soupe de vinaigre balsamique. Faire revenir les chèvres dans une poêle avec un peu d'huile d'arachide. Servir dans de grandes assiettes en plaçant la salade au centre par exemple. Vous pouvez remplacer les gésiers de volaille par des lamelles de magrets de canard fumé ou du saumon fumé (dans ce cas faire une sauce au citron pour la salade).Cette "entrée" peut constituer un plat principal.
+  ]]>
+  </preparation>
+</recette>

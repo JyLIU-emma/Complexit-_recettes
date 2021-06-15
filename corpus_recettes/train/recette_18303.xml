@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18303">
+  <titre>Canard à la bière</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 canard de 1,5 kg à 2 kg découpé</p>
+    <p>5 tomates</p>
+    <p>2 gros oignons</p>
+    <p>5 gousses d'ail</p>
+    <p>1 morceau de gingembre</p>
+    <p>thym, poivre, sel</p>
+    <p>33 cl de bière Bourbon ou autre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincez les légumes.
+    Dans une marmite, faire revenir les morceaux de canard à feu vif jusqu'à ce qu'ils soient bien dorés de chaque côté.Jetez les 4/5 d'huile et remettre au feu, ajouter les oignons, l'ail laissez dorer, ajoutez les tomates, le thym et le poivre.
+    Incorporez environ 1,5 litre d'eau chaude et laisser cuire à feu moyen.
+    En fin de cuisson, ajoutez la bière et le sel. Laissez réduire un maximum et servez bien chaud.à déguster avec du riz.
+  ]]>
+  </preparation>
+</recette>

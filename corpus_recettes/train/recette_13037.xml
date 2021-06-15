@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13037">
+  <titre>Hamburger de Salford</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pain a hamburger de taille moyenne</p>
+    <p>1 steack de boeuf</p>
+    <p>quelques feuilles de salades</p>
+    <p>2 tomates cerises</p>
+    <p>1 tranche de mozzarella</p>
+    <p>1 tranche de gruyère</p>
+    <p>une lichette de roquefort</p>
+    <p>sel, poivre a votre convenance</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettez le steack dans une poele et faites-le cuire, pas trop longtemps afin qu'il ne devienne pas de la semelle.
+    Pendant que le steack cuit, coupez les deux tomates en fines tranches, puis lavez et découpez la salade en petits morceaux.
+    Passez le pain à hamburger coupé en 2 sous le grill du four pendant 2 min.
+    Lorsque le pain est un peu croustillant, mettez sur la partie du bas la tranche de mozzarella, les fines tranches de tomates et repassez au grill quelques instants afin que le fromage et les tomates fondent.
+    Sortez le steack de la poele et mettez le sur le pain ou il y  a la mozzarella et les tomates, mettez la tranche de gruyère et les morceaux de salade et badigeonnez le pain de dessus avec du roquefort.
+    Replacez le tout sous le grill pendant 1 mn.
+    Servez chaud et dégustez !!
+    Si vous avez du temps devant vous, preparez quelques frites maisons et des donuts pour le dessert, vous prendrez ainsi un repas de type américain fait avec des ingredients bien de chez nous !
+  ]]>
+  </preparation>
+</recette>

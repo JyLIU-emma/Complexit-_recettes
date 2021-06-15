@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26654">
+  <titre>Filets de poisson au pineau des Charentes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>900 g de filets de poisson (colin, cabillaud, daurade...)</p>
+    <p>60 g de beurre</p>
+    <p>150 g de petits champignons de couche</p>
+    <p>2 échalotes</p>
+    <p>2 belles carottes</p>
+    <p>2 tomates</p>
+    <p>3 cuillères à soupe de crème fraîche épaisse</p>
+    <p>20 cl de pineau des Charentes</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et hacher les échalotes, puis émincer les carottes et les champignons. Peler et concasser les tomates et les réserver.
+    Dans une cocotte beurrée, faire fondre le hachis d'échalotes avec les champignons et les carottes. Laisser cuire 5 min sans cesser de remuer puis ajouter les tomates.
+    Saler, poivrer et bien mélanger.
+    Arroser ensuite de pineau, laisser cuire 10 min puis déposer les filets de poisson et poursuivre la cuisson pendant 15 min à couvert à feu doux.
+    En fin de cuisson, ajouter 3 cuillères à soupe de crème fraîche, rectifier l'assaisonnement et servir.
+  ]]>
+  </preparation>
+</recette>

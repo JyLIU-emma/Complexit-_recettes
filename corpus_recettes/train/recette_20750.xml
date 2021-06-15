@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20750">
+  <titre>Tarte aux pommes à la compote</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>1 kg de pommes + 3 belles pommes</p>
+    <p>1 citron</p>
+    <p>75 g de sucre</p>
+    <p>2 cuillères à soupe de gelée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une marmite, mettre les pommes épluchées, le sucre et un verre d'eau. Laisser cuire en compote environ 30 min.
+    Eplucher et couper les trois pommes réservées en tranches très fines et régulières, les citronner et réserver.
+    Etaler la pâte dans un moule à tarte et verser la compote refroidie dessus. Disposer ensuite les tranches de pommes sur la compote.
+    Enfourner à 180°C (thermostat 6) pendant environ 25 min.
+    Badigeonner la tarte de gelée à la sortie du four.
+  ]]>
+  </preparation>
+</recette>

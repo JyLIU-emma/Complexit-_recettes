@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26412">
+  <titre>Velouté de chataîgnes au cantal</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de beaux marrons</p>
+    <p>3 oignons</p>
+    <p>1 blanc de poireau</p>
+    <p>3 gousses d'ail</p>
+    <p>2 petites branches de céleri</p>
+    <p>75 g de beurre</p>
+    <p>5 cl de crème fraîche</p>
+    <p>6 tranches de pain rassis</p>
+    <p>100 g de cantal</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les oignons, le poireau et le céleri, puis les émincer finement.
+    Eplucher les marrons et les mettre à cuire dans 2 l d’eau bouillante ave les autres légumes et l’ail haché.
+    Une fois les légumes cuits, les égoutter et les passer au mixeur, jusqu’à l’obtention d’une purée fine et relativement liquide. Réserver au chaud.
+    Pendant ce temps, faire dorer les tranches de pain dans une poêle beurrée. Les sortir de la poêle.
+    Servir le velouté mélangé avec le reste de beurre. Poser les tranches de pain dorées et le cantal en lamelles dessus.
+  ]]>
+  </preparation>
+</recette>

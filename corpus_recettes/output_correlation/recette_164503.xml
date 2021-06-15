@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164503">
+  <titre>Gâteau de mascarpone et confiture</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 grammes de mascarpone</p>
+    <p>20 cl de crème fraiche</p>
+    <p>30 boudoirs</p>
+    <p>1 pot de confiture de cerise.</p>
+    <p>liqueur de framboise</p>
+    <p>quelques framboises (décoratif)</p>
+    <p>1 grande cuillère de chocolat noir en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tremper les boudoirs dans la liqueur de framboise, puis les poser au fond d'un moule à tarte.
+    Dans un récipient, mélanger la mascarpone, la crème fraiche et la confiture.
+    Verser ensuite sur les boudoirs, dans le moule à tarte.
+    Répartir sur toute la surface.
+    Saupoudrer de chocolat.
+    Vous pouvez ajouter quelques framboises ou autre décoration.
+    Mettre au frais pendant 1 heure.
+    Des variantes sont possibles avec d'autres confitures et d'autres liqueurs.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Tremper</OPER> les <INGRED id="3">boudoirs</INGRED> dans la <INGRED id="5">liqueur de framboise</INGRED>, puis les <OPER id="o_2">poser</OPER> au fond d'un moule à tarte. Dans un récipient, <OPER id="o_3">mélanger</OPER> la <INGRED id="4">mascarpone</INGRED>, la <INGRED id="2">crème fraiche</INGRED> et la <INGRED id="4">confiture</INGRED>. <OPER id="o_4">Verser</OPER> ensuite sur les <INGRED id="3">boudoirs</INGRED>, dans le moule à tarte. <OPER id="o_5">Répartir</OPER> sur toute la surface. <OPER id="o_6">Saupoudrer</OPER> de <INGRED id="4">chocolat</INGRED>. Vous pouvez <OPER id="o_7">ajouter</OPER> quelques <INGRED id="6">framboises</INGRED> ou autre décoration. <OPER id="o_8">Mettre</OPER> au frais pendant 1 heure. Des variantes sont possibles avec d'autres confitures et d'autres liqueurs.
+  </annotation>
+  <annotation methode="crf">
+  Tremper les boudoirs dans la <INGRED>liqueur</INGRED> de framboise <INGRED>,</INGRED> puis les poser au <INGRED>fond</INGRED> d'un moule à tarte <INGRED>.</INGRED> Dans un récipient <INGRED>,</INGRED> mélanger la <INGRED>mascarpone</INGRED> <INGRED>,</INGRED> la <INGRED>crème fraiche</INGRED> et la <INGRED>confiture</INGRED> <INGRED>.</INGRED> Verser ensuite sur les boudoirs <INGRED>,</INGRED> dans le <INGRED>moule</INGRED> à tarte <INGRED>.</INGRED> Répartir sur toute la surface <INGRED>.</INGRED> Saupoudrer de <INGRED>chocolat</INGRED> <INGRED>.</INGRED> Vous pouvez ajouter quelques <INGRED>framboises</INGRED> <INGRED>ou</INGRED> autre décoration <INGRED>.</INGRED> Mettre au <INGRED>frais</INGRED> pendant 1 heure. Des variantes sont possibles avec d'autres confitures et d'autres liqueurs.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 7.95514018691589*X + 0.0448598130841122</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 532*X + 6</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['mascarpone']	 id:1	 quantité:500	 unité:grammes de	 denombrable:True	 recipient:500*X
+ingredient:['crème fraiche', 'crème']	 id:2	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['boudoirs']	 id:3	 quantité:30	 unité:non_precis	 denombrable:True	 recipient:30*X
+ingredient:['confiture de cerise', 'confiture']	 id:4	 quantité:1	 unité:pot de	 denombrable:True	 recipient:1*X
+ingredient:['liqueur de framboise', 'liqueur']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['framboises']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['chocolat noir en poudre', 'chocolat']	 id:7	 quantité:1	 unité:cuillère de	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:tremper	 id:o_1	 ingrédients_ralatifs:['3', '5']	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:poser	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:['4', '2', '4']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:verser	 id:o_4	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:répartir	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saupoudrer	 id:o_6	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

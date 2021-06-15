@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23904">
+  <titre>Sauté de veau aux tomates, lardons et rosé</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg d'épaule de veau désossé</p>
+    <p>750 g de tomates</p>
+    <p>125 g de lardons fumé</p>
+    <p>3 oignons</p>
+    <p>2 gousses d'ail</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>50 cl de vin rosé</p>
+    <p>1 pincée de basilic</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper la viande en cubes réguliers. Peler les tomates.
+    Mettre les morceaux de viande à dorer dans l'huile dans une cocotte.
+    Incorporer les lardons fumés, les oignons et l’ail ciselés. Arroser de vin et assaisonner. Saupoudrer de basilic.
+    Laisser mijoter 1 h à feu doux, puis incorporer les tomates mondées. Continuer la cuisson pendant 30 min.
+    Servir accompagné de riz ou de pommes de terre au four.
+  ]]>
+  </preparation>
+</recette>

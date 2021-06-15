@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21083">
+  <titre>Flan aux blettes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de feuilles de blettes</p>
+    <p>120 g de persil</p>
+    <p>200 g d'oseille</p>
+    <p>40 g de beurre</p>
+    <p>130 g de mie de pain</p>
+    <p>8 cl de lait</p>
+    <p>4 oeufs</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).Plonger les feuilles de blettes dans l'eau bouillante salée durant quelques minutes et mettre la mie de pain à hydrater dans le lait.
+    Egoutter les blettes, les hacher et les faire fondre avec le persil et l'oseille hachés dans le beurre chaud. Ajouter ma mie de pain émiettée, saler, poivrer.
+    Incorporer 3 jaunes d'oeuf et 1 oeuf entier puis les blancs montés en neige.
+    Verser la préparation dans un moule beurré et enfourner au bain-marie au four pendant 1 heure.
+  ]]>
+  </preparation>
+</recette>

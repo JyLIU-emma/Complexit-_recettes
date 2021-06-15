@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20471">
+  <titre>Sauté de poulet aux tomates et poivre vert</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de blanc de poulet (escalopes, filets)</p>
+    <p>5 tomates concassées</p>
+    <p>5 échalotes</p>
+    <p>2 gousses d'ail écrasées</p>
+    <p>4 cuillères à café de poivre vert</p>
+    <p>2 feuilles de laurier</p>
+    <p>4 cuillères à soupe d'huile</p>
+    <p>1 cuillère à soupe de nuoc mam</p>
+    <p>1 cuillère à café de sucre</p>
+    <p>sel, poivre blanc</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper le poulet en cubes. 
+    Faire dorer les échalotes et l'ail hachés dans l'huile 5 min à feu moyen. Ajouter les morceaux de poulet, laisser cuire 10 min en remuant.
+    Rajouter les tomates, le poivre, le laurier et mouillez avec 25 cl d'eau. Porter à ébullition et baisser le feu.
+    Laisser mijoter 30 min. 
+    Au dernier moment, ajouter le nuoc mam et le sucre, saler légèrement et poivrer.
+    Réchauffer 2 min et servir.
+  ]]>
+  </preparation>
+</recette>

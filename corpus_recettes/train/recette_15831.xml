@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15831">
+  <titre>Potage à la banane</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de beurre</p>
+    <p>1/2 cuillère à café de curry </p>
+    <p>60 g de farine (normale, non fermentante)</p>
+    <p>12,5 cl de crème fraîche</p>
+    <p>1 kg de tomates pelées</p>
+    <p>2 l d'eau</p>
+    <p>6 cubes de bouillon de boeuf</p>
+    <p>2 bananes</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites un roux brun avec beurre et farine. Ajoutez l'eau, les cubes de bouillon de boeuf, le curry, les bananes coupées en rondelles, 
+    les tomates pelées, le sel et le poivre.
+    Cuisez 10 mn et passez ensuite au mixer (très fort).Versez la crème et servez bien chaud.C'est absolument délicieux!!!!...
+  ]]>
+  </preparation>
+</recette>

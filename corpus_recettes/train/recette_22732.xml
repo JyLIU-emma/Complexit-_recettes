@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22732">
+  <titre>Veau aux Radis</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g d'épaule de veau ou 4 belles tranches de tendron (moins cher mais il y à plus de déchets) </p>
+    <p>1 botte de gros radis</p>
+    <p>1 oignon</p>
+    <p>1 verre de vin blanc</p>
+    <p>beurre et huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le veau en gros dés, les fariner et les faire dorer dans une cocotte avec beurre et huile (pour que le beurre ne noircisse pas). Saler, poivrer peu à cause des radis, émincer l'oignon, l'ajouter, laisser à nouveau dorer un peu puis verser le vin blanc, baisser le feu. 
+    Eplucher les radis, les laver (on peut laisser la peau, c'est selon le goût) les ajouter dans la cocotte, couvrir et laisser mijoter une heure. Veiller de temps en temps à ce qu'il reste toujours un peu de jus en rajoutant au besoin un peu d'eau ou de vin blanc.
+    Il ne faut pas que le vin soit trop sec ni trop "dur" compte tenu de la présence des radis déjà poivrés. C'est pourquoi il faut choisir un vin un peu fruité. Chardonnay, Sauvignon, de préférence le même que pour la sauce.
+  ]]>
+  </preparation>
+</recette>

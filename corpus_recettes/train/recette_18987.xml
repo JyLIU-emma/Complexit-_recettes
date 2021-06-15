@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18987">
+  <titre>Croque choco</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>5 carré de chocolat noir</p>
+    <p>du beurre</p>
+    <p>2 tranches de pain de mie</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Beurrer les 2 tranches de pain de mie sur une face. 
+    Mettre 4 carrés de chocolat au bord du pain et le dernier carré au milieu. 
+    Recouvrir de l'autre tranche de pain et mettre à cuire dans la machine à croque monsieur.
+    Il faut la machine à croque monsieur. vin blanc
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23945">
+  <titre>Tarte Pierrette aux reines-claudes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>500 g de reines-claudes </p>
+    <p>3 oeufs</p>
+    <p>4 cuillères à soupe de crème fraîche</p>
+    <p>2 cuillères à soupe de sucre en poudre</p>
+    <p>amandes effilées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C (thermostat 6).
+    Préparer une compote avec 100 g de reines-claudes.
+    Placer la pâte feuilletée dans le moule à tarte, la piquer avec une fourchette. Placer les reine-claudes coupées en deux sur la pâte.
+    Préparation de la crème : dans un saladier mettre les oeufs, la crème fraîche, le sucre en poudre et bien mélanger.
+    Incorporer 3 à 4 cuillères à soupe de compote de reines-claudes.
+    Verser ce mélange sur les fruits placés dans le plat à tarte.
+    Recouvrir le tout d'amandes effilées.
+    Faire cuire 45 minutes, puis servir tiède.
+  ]]>
+  </preparation>
+</recette>

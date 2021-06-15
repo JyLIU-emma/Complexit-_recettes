@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23104">
+  <titre>Gratiné de moules à la crème aillée</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 kg de moules</p>
+    <p>250 g de beurre demi-sel</p>
+    <p>1 échalote</p>
+    <p>2 gousses d'ail</p>
+    <p>1 bouquet de persil plat</p>
+    <p>50 cl de crème fraîche épaisse</p>
+    <p>50 cl  de vin blanc</p>
+    <p>100 g d'emmental</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 200°C (thermostat 6/7).
+    Peler l'ail et l'échalote, puis les hacher avec le persil plat après l'avoir lavé.
+    Ajouter le beurre en morceaux dans le bol de votre mixeur et remixer les herbes ave le beurre.
+    Verser le beurre d'escargot dans un récipient et le réserver au frais.
+    Nettoyer les moules en les brossant sous l'eau froide, puis les plonger dans une cocotte remplie de vin blanc.
+    Poivrer, puis les laisser cuire à couvert sur feu vif pour les faire ouvrir.
+    Dès qu'elles sont ouvertes, leur ôter les coquilles et ne conserver que celles contenant les moules.
+    Les dresser dans un plat à gratin, puis les parsemer de petits dés de beurre.
+    Les napper de crème fraîche et les saupoudrer d'emmental râpé.
+    Enfourner à four chaud et laisser cuire 10 à 15 min, jusqu'à ébullition de la crème et que le fromage soit doré.
+    Servir et déguster dès la sortie du four.
+    Choisir des moules de gros calibre pour effectuer cette recette.
+  ]]>
+  </preparation>
+</recette>

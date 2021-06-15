@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25878">
+  <titre>Truites à la crème d'oseille</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 truites</p>
+    <p>3 gros oignons</p>
+    <p>15 g de beurre</p>
+    <p>1 bouteille de vin blanc sec</p>
+    <p>450 g d'oseille</p>
+    <p>60 g de beurre</p>
+    <p>3 jaunes d'oeufs</p>
+    <p>150 g de crème fraîche</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C (thermostat 7).
+    Hacher les oignons et les faire fondre dans le beurre. Disposer dans un plat à four et mettre les truites dessus. Saler, poivrer, arroser de vin et couvrir.
+    Enfourner pour 15 minutes de cuisson.
+    Faire fondre l'oseille dans le beurre chaud puis saupoudrer de farine et assaisonner.
+    Récuperer le jus de cuisson et faire réduire de moitié le liquide sur feu vif. Ajouter ensuite les jaunes d'oeufs en fouettant vivement ainsi que la crème. Saler, poivrer.
+    Servir les truites avec l'oseille et la crème.
+  ]]>
+  </preparation>
+</recette>

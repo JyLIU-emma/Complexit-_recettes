@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17966">
+  <titre>Cake poire, chocolat et amandes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g farine</p>
+    <p>1 grosse boîte de poires en conserve</p>
+    <p>150 g beurre</p>
+    <p>50 g d'amandes en poudre</p>
+    <p>150 g de sucre</p>
+    <p>levure chimique : un sachet</p>
+    <p>3 œufs</p>
+    <p>100 g chocolat noir à cuire en pépites</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la farine, les œufs, le sucre, le beurre fondu et la poudre d'amandes. Couper les poires en petits dés les mélanger à la pâte. Incorporer les pépites de chocolat.
+    Verser dans un moule à cake beurré. 
+    Faire cuire 10 mn dans un four préchauffé thermostat 7 puis 30 mn à thermostat 6 (180°C).
+    Servir tiède.
+  ]]>
+  </preparation>
+</recette>

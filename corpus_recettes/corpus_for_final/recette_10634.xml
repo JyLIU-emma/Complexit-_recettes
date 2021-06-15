@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10634">
+  <titre>Roulades de saumon fumé au carré frais et crevettes grises</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tranches de saumon fumé</p>
+    <p>200 g de carré frais </p>
+    <p>15 cl de crème fraîche</p>
+    <p>50 g de crevettes grises</p>
+    <p>1 citron</p>
+    <p>ciboulette</p>
+    <p>1 échalote</p>
+    <p>sel, poivre noir</p>
+    <p>1 cuillère à soupe d'huile de noix</p>
+    <p>poivre concassé</p>
+    <p>cerneaux de noix pilées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ecraser à la fourchette le carré frais avec le poivre noir, le jus de citron, la ciboulette ciselée. Y ajouter la crème fraîche, les crevettes grises et les cerneaux de noix pilées.
+    Tartiner chaque tranche de saumon fumé de la préparation et les rouler. Garnir l'assiette de salade type mâche, aromatisée d'huile de noix, sel, poivre.Y déposer la roulade et garnir des cerneaux de noix restants et de quelques brins de ciboulette. Servir frais, bon appétit.
+  ]]>
+  </preparation>
+</recette>

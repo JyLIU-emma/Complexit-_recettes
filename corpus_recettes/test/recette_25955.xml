@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25955">
+  <titre>Saucisse de morteau et pomme de terre</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 saucisses de Morteau</p>
+    <p>pommes de terre</p>
+    <p>beurre</p>
+    <p>farine</p>
+    <p>eau</p>
+    <p>2 feuilles de laurier</p>
+    <p>sel, poivre</p>
+    <p>vinaigre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les saucisses de Morteau dans de l'eau bouillante pendant 15 à 20 mn avec les pommes de terre. 
+    Retirer les saucisses et les pommes de terre de l'eau et les laisser refroidir. 
+    Une fois froides, couper en rondelles les saucisses. Eplucher les pommes de terre et les couper en rondelles de 0,5 à 1 cm d'épaisseur. 
+    Préparer un roux blond. Mettre le même poids beurre=farine. 
+    Une fois le beurre et la farine mélangé, diluer avec de l'eau. Saler et poivrer. La sauce ne doit pas être trop liquide ni trop épaisse. 
+    La sauce prête remettre les saucisses en rondelles et les pommes de terre dans la sauce. 
+    Ajoutez 2 feuilles de laurier. 
+    Faire réchauffer quelques minutes. 
+    Juste avant de servir on peut rajouter un filet de vinaigre.
+  ]]>
+  </preparation>
+</recette>

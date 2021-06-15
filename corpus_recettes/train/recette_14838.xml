@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14838">
+  <titre>Salade Marco Polo</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de tagliatelles </p>
+    <p>15 bâtonnets de crabe </p>
+    <p>200 g de crevettes roses </p>
+    <p>150 g de gruyère </p>
+    <p>1 poivron vert (1/3)</p>
+    <p>3 cuillères à soupe de mayonnaise </p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les tagliatelles, les égoutter et les refroidir tout de suite en les passant sous l'eau froide (cela évitera aussi qu'elles ne collent trop).Dans un grand saladier, mélanger les tagliatelles et la mayonnaise. Décortiquer les crevettes, couper les bâtonnets de crabe en morceaux et le gruyère et le poivron en dés. Ajouter tous ces ingrédients aux tagliatelles.
+    Bien mélanger, saler, poivrer. Servir frais.
+  ]]>
+  </preparation>
+</recette>

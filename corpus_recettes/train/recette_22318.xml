@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22318">
+  <titre>Quiche crabe et paprika</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>200 g de chair de crabe</p>
+    <p>20 cl de crème fraîche liquide</p>
+    <p>3 oeufs</p>
+    <p>1 cuillère à café de paprika</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 210°C (thermostat 7).
+    Etaler la pâte dans un moule recouvert de papier sulfurisé.
+    La piquer à la fourchette, puis la recouvrir de quelques haricots secs avant de l’enfourner à four chaud.
+    Laisser cuire 10 minutes, la sortir du four et retirer les haricots secs avant de la faire refroidir.
+    Mixer la chair de crabe avec les jaunes oeufs et la crème. Assaisonner de sel, de poivre et de paprika.
+    Incorporer délicatement les blancs d'oeufs montés en neige.
+    Verser la préparation sur le fond de tarte et enfourner pour 25 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

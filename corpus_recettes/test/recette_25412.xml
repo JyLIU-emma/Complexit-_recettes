@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25412">
+  <titre>Lotte aux champignons facile</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1.2 kg de lotte coupée en tronçons</p>
+    <p>300 g de champignons</p>
+    <p>300 g de crevettes décortiquées</p>
+    <p>75 g de beurre</p>
+    <p>sel, poivre</p>
+    <p>30 cl de vin blanc sec</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchaufez le four à 180°C (thermostat 6).
+     
+    Emincer les champignons.
+    Disposer le poisson dans un plat à four beurré avec les crevettes et les champignons.
+    Parsemeer de dés de beurre et arroser de vin blanc.
+    Enfourner pour 30 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26256">
+  <titre>Lotte crémeuse à la fondue de poireau</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,2 kg de lotte coupée en tronçons</p>
+    <p>75 cl d'eau</p>
+    <p>3 carottes</p>
+    <p>3 oignons</p>
+    <p>1 branche de céleri</p>
+    <p>1 bouquet garni</p>
+    <p>1 capsule de safran</p>
+    <p>7 blancs de poireaux</p>
+    <p>50 g de beurre</p>
+    <p>150 g de fromage blanc</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couvrir les carottes, les oignons, la branche de céleri et le bouquet garni d'eau froide. Saler, poivrer et ajouter le safran.
+    Amener à ébullition et laisser frémir 20 minutes.
+    Pendant ce temps, émincer les poireaux avant de les faire fondre dans le beurre avec un peu de sel et de poivre.
+    Placer les morceaux de lotte dans un panier vapeur au dessus du court-bouillon et laisser cuire 10 à 15 minutes.
+    Répartir les poireaux dans les assiettes et placer un morceau de poisson dessus.
+    Récupérer 7 cl de court-bouillon et le mélanger au fromage blanc pour en faire une sauce.
+    Napper le poisson de sauce et servir.
+  ]]>
+  </preparation>
+</recette>

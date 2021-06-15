@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26122">
+  <titre>Pieds de porc croustillants</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 pieds de porc</p>
+    <p>1,5 l d'eau</p>
+    <p>1 oignon</p>
+    <p>1 carotte</p>
+    <p>1 poireau</p>
+    <p>1 branche de céleri</p>
+    <p>1 bouquet garni</p>
+    <p>1 oeuf battu</p>
+    <p>chapelure</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites bouillir l'eau avec les légumes pelés et coupés en morceaux, le bouquet garni, du sel et du poivre.
+    Mettez-y les pieds de porc enveloppés dans 4 mousselines et laissez cuire 5 h à frémissement.
+    Egouttez et laissez refroidir les pieds de porc.
+    Passez-les dans l'oeuf battu, puis dans la chapelure salée et poivrée.
+    Enfournez 30 min au four à 200°C (thermostat 6-7) en les retournant souvent pour qu'ils soient bien dorés.
+  ]]>
+  </preparation>
+</recette>

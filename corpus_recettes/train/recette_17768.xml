@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17768">
+  <titre>Brochettes de poulet à la menthe</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 blancs de poulet</p>
+    <p>feuilles de menthe</p>
+    <p>tomates cerises</p>
+    <p>6 cuillères à soupe d'huile d'olive</p>
+    <p>1/2 cuillère à café d'anis vert</p>
+    <p>1/2 cuillère à café d'origan</p>
+    <p>1/2 cuillère à café de noix de muscade rapée</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la marinade : dans une terrine, mélanger huile d'olive, anis vert, origan et noix de muscade.
+    Découper les blancs de poulet en dés (environ 1,5 cm de côté). Saler et poivrer.
+    Mettre les dés dans la marinade, tourner. Laisser mariner 30 min à 1h30.
+    Faire la brochette : enfiler une tomate cerise, une feuille de menthe, un dé de poulet, une feuille de menthe, une tomate, une feuille ...
+    Faire cuire au barbecue 10 min à 1/4 d'heure suivant la taille des dés.
+    Ne pas laisser trop mariner (par exemple, la veille), cela donne un goût amer aux brochettes et c'est moins bon !Vous pouvez servir avec du guacamole, ça fait un repas léger (!*), très estival.* ndlr
+  ]]>
+  </preparation>
+</recette>

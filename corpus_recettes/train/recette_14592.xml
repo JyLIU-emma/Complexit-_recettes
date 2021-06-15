@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14592">
+  <titre>Escalope valaisanne</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 escalopes de dinde</p>
+    <p>1 petit pot de concentré de tomates</p>
+    <p>1/2 reblochon</p>
+    <p>1/2 bouteille de vin blanc (type Apremont)</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les escalopes à la poêle. Assaisonez et arrêter la cuisson avent qu'elles ne dorent.
+    Les placer dans un plat de façon à ce qu'elle ne se chevauchent pas.
+    Tartiner chacunes d'entre elles avec du coulis de tomates.
+    Couper le reblochon en tranches et placer sur les escalopes. Arroser de vin blanc.
+    Faire gratiner au four 5 mn et servir aussitôt.
+    Se marie très bien avec un légume au naturel ou simplement des pommes vapeur car, grâce au vin, on récolte de la sauce. cotes du rhône ou autres rouges
+  ]]>
+  </preparation>
+</recette>

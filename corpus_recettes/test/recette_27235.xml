@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27235">
+  <titre>Gambas aux poivrons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 gambas</p>
+    <p>1 poivron rouge</p>
+    <p>200 g de crème fraîche épaisse</p>
+    <p>1 pointe de paprika</p>
+    <p>cognac</p>
+    <p>sel et poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les gambas dans un filet d'huile d'olive. 
+    Les flamber au Cognac. 
+    Lavez soigneusement le poivron rouge et épépinez-le. 
+    Le découper en morceau et le hacher finement jusqu'à obtenir une purée. 
+    Incorporer la purée de poivron aux gambas. Saler, poivrer et laisser la purée fondre dans la poêle sur feu doux. 
+    Ajouter la crème fraîche, assaisonner et ajouter une pointe de paprika. 
+    Réserver les gambas et faire réduire la sauce. 
+    Dresser rapidement et servir chaud accompagné de riz, par exemple.
+    Ce plat très original ravira à coup sûr vos invités!!!
+  ]]>
+  </preparation>
+</recette>

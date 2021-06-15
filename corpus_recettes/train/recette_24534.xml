@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24534">
+  <titre>Quatre quart aux bananes et aux amandes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>150 g de cassonade</p>
+    <p>100 g de sucre glace</p>
+    <p>4 oeufs entiers</p>
+    <p>250 g de beurre demi sel</p>
+    <p>un paquet de levure chimique</p>
+    <p>3 bananes bien mûres</p>
+    <p>100 g de poudre d'amande</p>
+    <p>50 g d'amandes effilées</p>
+    <p>2 cuillères à soupe de rhum brun</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire préchauffer le four thermostat 7/8. 
+    Mélanger le sucre, la farine et la levure ensemble. 
+    Ajouter les oeufs battus avec le rhum. 
+    Faire ramollir le beurre et l'incorporer. 
+    Couper les bananes en morceaux et les écraser avant de les incorporer. 
+    Ajouter la poudre d'amande. 
+    Verser dans le plat à cake et au moment d'enfourner verser les amandes effilées sur le dessus de la préparation.
+    Servir tiède avec une glace amande ou rhum raisin, c'est délicieux et tout simple. vin blanc moelleux
+  ]]>
+  </preparation>
+</recette>

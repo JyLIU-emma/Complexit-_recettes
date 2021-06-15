@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13243">
+  <titre>Gaufres au potiron</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de chair de potiron, </p>
+    <p>4 oeufs</p>
+    <p>1/2 l de lait</p>
+    <p>300 g de farine</p>
+    <p>75 g de sucre</p>
+    <p>100 g de beurre</p>
+    <p>1/2 sachet de levure</p>
+    <p>3 cuillères à soupe de rhum (pour les adultes !)</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Otez l'écorce du potiron, et épépinez le. Coupez la chair en dés, mettez-la dans une casserole avec 1 grand verre d'eau et du sel; laissez cuire à petit feu pendant 20 min. Lorsque la chair est cuite (elle doit bien s'écraser avec une fourchette), passez-la dans la passoire pour qu'elle s'égoutte.
+    Pendant ce temps, préparez la pâte à gaufre : 
+     Mettez dans une jatte la farine, le sel, le sucre, le beurre en morceaux, la levure, le rhum (facultatif) et les jaunes d'oeuf; mélangez à l'aide d'une spatule.
+    Faites tiédir le lait, ajoutez-y la purée de potiron, et versez le tout sur le mélange sans cesser de remuer; la préparation doit devenir homogène. Battez les blancs en neige, puis incorporez-les à la pâte à gaufres. Couvrez et laissez reposer la pâte pendant 1 h.
+    Faites chauffer le gaufrier, huilez, et faites cuire les gaufres selon votre habitude. Laisser cuire les gaufres 4 à 5 min.
+  ]]>
+  </preparation>
+</recette>

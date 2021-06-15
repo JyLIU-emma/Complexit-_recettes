@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18941">
+  <titre>Tarte rouille au poisson</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>500 g de filets de poisson frais</p>
+    <p>20 g de beurre</p>
+    <p>20 cl de crème liquide</p>
+    <p>100 g de concentré de tomates</p>
+    <p>1 verre à liqueur de whisky</p>
+    <p>2 oeufs</p>
+    <p>sel et poivre</p>
+    <p>50 g de gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les échalotes hachées avec une noix de beurre dans une poêle. 
+    Lorsque c'est doré, faite cuire le poisson cru en l'émiettant avec une cuillère en bois. 
+    Salez poivez. 
+    Ajoutez le whisky puis le concentré de tomates. 
+    Puis ajoutez la crème. 
+    Mélangez bien. 
+    Battez les oeufs, puis ajoutez y le râpé. 
+    Hors du feu ajoutez ce mélange au poisson puis versez le tout sur la pâte préalablement passée au four 10 mn. 
+    Saupoudrez d'un peu de râpé et faire cuire environ 40 mn à 200°C
+    peu servir de plat principal le soir avec une salade. un blanc sec
+  ]]>
+  </preparation>
+</recette>

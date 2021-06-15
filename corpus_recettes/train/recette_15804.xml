@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15804">
+  <titre>Velouté de brocolis simple</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 carotte</p>
+    <p>1 blanc de poireau</p>
+    <p>1 pomme de terre</p>
+    <p>2 échalotes</p>
+    <p>800 g de brocolis</p>
+    <p>35 cl de lait</p>
+    <p>25 cl de bouillon de boeuf</p>
+    <p>sel et poivre</p>
+    <p>20 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyez les légumes. Epluchez la carotte et la pomme de terre.
+    Coupez les légumes en morceaux, puis faites-les revenir avec le beurre et les deux échalotes pendant 5 mn environ.
+    Ajoutez-y le bouillon et faites cuire pendant une vingtaine de minutes à l'étouffée.
+    Mixez la préparation. Ajoutez le lait et assaisonnez selon votre goût.
+  ]]>
+  </preparation>
+</recette>

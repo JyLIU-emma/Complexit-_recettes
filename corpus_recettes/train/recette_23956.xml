@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23956">
+  <titre>Tarte méditerranéenne</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>1 poivron rouge</p>
+    <p>1 poivron vert</p>
+    <p>4 tomates pelées </p>
+    <p>1 petite boîte de champignons</p>
+    <p>1 boîte de thon au naturel </p>
+    <p>2 carottes</p>
+    <p>basilic</p>
+    <p>origan</p>
+    <p>thym </p>
+    <p>2 oeufs</p>
+    <p>parmesan (quantité selon goût de chacun)</p>
+    <p>2 cuillères à soupe de crème fraîche à 15% de matière grasse</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un plat à tarte étaler une pâte brisée en la piquant avec une fourchette.
+    La faire cuire 10-15 mn au four à 180°C.Pendant ce temps, couper les poivrons en petits dés, les cuire dans une poêle avec de l'huile d'olive environ 10 minutes
+    Ajouter les tomates pelées et leur jus, en écrasant bien les tomates avec une fourchette. Ajouter les champignons (coupés en dés également).Ajouter l boîte de thon (bien écraser avec une fourchette), puis les herbes de Provence. Laisser cuire 15 mn.
+    Couper les carottes en petits dés, puis les faire bouillir dans une casserole environ 10 mn.
+    Mettre les carottes cuites au fond de la tarte. Y ajouter le contenu de la poêle (poivrons, champignons, thon, tomates, herbes).Mélanger les œufs + la crème fraîche et le parmesan, puis recouvrir la tarte de ce mélange.
+    Cuire environ 40 minuttes à 200-220°C.
+  ]]>
+  </preparation>
+</recette>

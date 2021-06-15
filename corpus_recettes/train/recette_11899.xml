@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11899">
+  <titre>Côtes de porc à l'oignon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 côtes de porc dans l'échine</p>
+    <p>4 oignons moyens</p>
+    <p>1 verre à moutarde de vin blanc sec</p>
+    <p>sel, poivre, herbes de provence</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre en couches succesives dans un plat muni d'un couvercle et allant au four : un oignon coupé en rondelles, sel, poivre, herbes de provence, côtes de porc, puis arroser de vin blanc et mettre au four à 250°C pendant environ une heure.
+    Une fois refroidi, le placer dans le bas du réfrigérateur, et servir froid,accompagné d'une salade.
+  ]]>
+  </preparation>
+</recette>

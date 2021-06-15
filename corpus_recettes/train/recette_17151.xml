@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17151">
+  <titre>Les oeufs grenouilles</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 œuf cuit dur par personne</p>
+    <p>1 tranche de jambon</p>
+    <p>2 clous de girofle</p>
+    <p>1 salade verte (ou mâche ou cresson)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Il y a une recette très simple à faire avec les enfants, et qui a du chic : les œufs grenouille. Ecaler les œufs, puis couper légèrement la base de l'œuf en oblique pour qu'il penche un peu vers l'avant.
+    Piquer 2 clous de girofle pour faire les yeux.
+    Faire une petite entaille en dessous des yeux et enfoncer un petit morceau de jambon coupé en triangle pour faire la langue.
+    Disposer délicatement chaque grenouille sur un lit de verdure.
+    Servir avec une sauce mayonnaise ou tartare par exemple.
+    Succès garanti.
+  ]]>
+  </preparation>
+</recette>

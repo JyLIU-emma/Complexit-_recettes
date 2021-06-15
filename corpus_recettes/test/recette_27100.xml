@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27100">
+  <titre>Beignets aux raisins</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1/2 litre de lait</p>
+    <p>4 oeufs entiers</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 cuillère à soupe de sucre de canne</p>
+    <p>1 paquet de levure chimique</p>
+    <p>500 g de farine</p>
+    <p>100 g de raisins secs</p>
+    <p>100 g de sucre glace</p>
+    <p>1 zeste d'orange ou de citron</p>
+    <p>10 cl de rhum</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir le lait. 
+    Pendant ce temps battres les oeufs en incorporant le paquet de sucre vanillé, la cuillère à soupe de sucre de canne et le zeste de citon. 
+    Verser le lait bouillant sur les oeufs en fouettant vivement. 
+    Continuer à battre en incorporant la farine, le paquet de levure et les raisins secs préalablement macérés dans du rhum jusqu'à obtenir une pâte onctueuse. Laisser reposer 3 heures. 
+    Faire frire par boulettes de la grosseur d'une grosse noix, retourner le beignet quant il monte à la surface, et laisser cuire jusqu'à ce qu'il soit bien doré. 
+    Saupoudrer de sucre glace sitôt retiré de la friture. 
+    Déguster encore tiède.
+    Pour confectionner les boulettes utiliser une cuillère à café et avec le doigt mouillé faire glisser au dessus de la friture. Blanquette de Limoux  ou de Die
+  ]]>
+  </preparation>
+</recette>

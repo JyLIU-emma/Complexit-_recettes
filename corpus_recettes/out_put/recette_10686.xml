@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10686">
+  <titre>Storzapreti (Quenelles au bruccio - Corse)</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g d'épinards</p>
+    <p>150 g de feuilles de blettes</p>
+    <p>900 g de brocciu (brousse : fromage frais de brebis)</p>
+    <p>2 oeufs</p>
+    <p>bouillon de viande</p>
+    <p>parmesan râpé</p>
+    <p>sarriette</p>
+    <p>sel, poivre</p>
+    <p>muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire épinards et feuilles de blettes.
+    Les égoutter, puis les hâcher.
+    Leur ajouter trois fois leur poids de brocciu, 2 oeufs, de la sarriette, sel, poivre, noix muscade.
+    Pétrir à la main le mélange et en faire des petites quenelles.
+    Pocher ces quenelles à l'eau bouillante salée quelques minutes.
+    Egoutter.
+    Les ranger dans un plat huilé, les couvrir de jus de viande.
+    Semer du parmesan râpé par-dessus et faire gratiner.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">cuire</OPER> <INGRED id="1">épinards</INGRED> et feuilles de <INGRED id="2">blettes</INGRED>. Les <OPER id="o_2">égoutter</OPER>, puis les <OPER id="o_3">hâcher</OPER>. Leur <OPER id="o_4">ajouter</OPER> trois fois leur poids de <INGRED id="3">brocciu</INGRED>, 2 <INGRED id="3">oeufs</INGRED>, de la <INGRED id="7">sarriette</INGRED>, <INGRED id="7">sel</INGRED>, <INGRED id="8">poivre</INGRED>, noix <INGRED id="5">muscade</INGRED>. <OPER id="o_5">Pétrir</OPER> à la main le mélange et en faire des petites quenelles. <OPER id="o_6">Pocher</OPER> ces quenelles à l'<INGRED id="2">eau bouillante</INGRED> salée quelques minutes. <OPER id="o_7">Egoutter</OPER>. Les <OPER id="o_8">ranger</OPER> dans un plat huilé, les <OPER id="o_9">couvrir</OPER> de jus de viande. <OPER id="o_10">Semer</OPER> du <INGRED id="6">parmesan râpé</INGRED> par - dessus et faire <OPER id="o_11">gratiner</OPER>.
+  </annotation>
+  <annotation methode="crf">
+  Faire cuire <INGRED>épinards</INGRED> et feuilles de <INGRED>blettes</INGRED> <INGRED>.</INGRED> Les égoutter <INGRED>,</INGRED> puis les hâcher. Leur ajouter trois fois leur poids de <INGRED>brocciu</INGRED> <INGRED>,</INGRED> 2 <INGRED>oeufs</INGRED> <INGRED>,</INGRED> de la sarriette <INGRED>,</INGRED> <INGRED>sel</INGRED> <INGRED>,</INGRED> <INGRED>poivre</INGRED> <INGRED>,</INGRED> <INGRED>noix muscade</INGRED>. Pétrir à la main le <INGRED>mélange</INGRED> et en faire des petites quenelles. Pocher ces quenelles à l'<INGRED>eau</INGRED> bouillante salée quelques minutes. Egoutter. Les ranger dans un plat huilé <INGRED>,</INGRED> les couvrir de <INGRED>jus</INGRED> de <INGRED>viande</INGRED> <INGRED>.</INGRED> Semer du <INGRED>parmesan râpé</INGRED> par - dessus et faire gratiner <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 10.45*X + 0.55</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 152*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['épinards']	 id:1	 quantité:150	 unité:g d'	 denombrable:False	 recipient:1
+ingredient:['blettes']	 id:2	 quantité:150	 unité:feuilles de	 denombrable:True	 recipient:150*X
+ingredient:['brocciu']	 id:3	 quantité:900	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oeufs']	 id:4	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['bouillon de viande', 'bouillon']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['parmesan râpé', 'parmesan']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sarriette']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['muscade']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:cuire	 id:o_1	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:égoutter	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:hâcher	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_4	 ingrédients_ralatifs:['3', '3', '7', '7', '8', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:pétrir	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:pocher	 id:o_6	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:egoutter	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ranger	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:semer	 id:o_10	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:gratiner	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

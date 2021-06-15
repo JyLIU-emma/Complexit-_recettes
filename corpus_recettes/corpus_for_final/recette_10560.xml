@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10560">
+  <titre>Poulet au citron (Liban)</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poulet</p>
+    <p>3 citrons (jus)</p>
+    <p>1 tête d'ail</p>
+    <p>1 pincée de sel</p>
+    <p>1 pincée de poivre</p>
+    <p>1 cuillère à soupe de menthe fraîche (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Prendre un beau poulet jeune si possible. L'ouvrir en deux.
+    Le laisser macérer dans du jus de citron avec un belle tête d'ail écrasée pendant 12 heures (en remuant de temps en temps). Saler et poivrer, bien sûr.
+    Cuire le poulet sur un feu de braise en le retournant souvent. Attention, il cuit vite (environ 20 minutes).Il faut l'arroser durant la cuisson avec du jus de citron aillé.Servir chaud, éventuellement saupoudrer de menthe fraiche finement coupée.Recette d'origine libanaise. Rosé
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13563">
+  <titre>Charlotte aux framboises</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 paquet de biscuits à la cuillère</p>
+    <p>1 kg de fromage blanc à 40% (1gros pot)</p>
+    <p>800 g de framboises (fraiches ou surgelées)</p>
+    <p> 10 cl de liqueur de framboises</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire égoutter le fromage blanc dans une passoire habillée d'essuie-tout.
+    Pendant ce temps, humecter les biscuits de la liqueur et les disposer dans un moule à charlotte en tapissant le fond d'abord puis les côtés.Mélanger la moitié des framboises avec le fromage blanc.
+    Alterner une couche de framboises, une de biscuits, une de fromage blanc. Terminer par une couche de biscuits et mettre au frais toute la nuit sous un poids.
+  ]]>
+  </preparation>
+</recette>

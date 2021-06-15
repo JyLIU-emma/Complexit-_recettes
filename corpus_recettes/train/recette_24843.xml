@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24843">
+  <titre>Artichauts à la barigoule</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 petits artichauts à feuilles pointues</p>
+    <p>2 oignons</p>
+    <p>2 gousses d'ail</p>
+    <p>1 cuillère à soupe de persil</p>
+    <p>3 cuillères à soupe de chapelure</p>
+    <p>8 tranches de lard fines</p>
+    <p>sel et poivre</p>
+    <p>1 filet d'huile</p>
+    <p>15 cl d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ôtez les feuilles extérieures dures des artichauts, retirez le foin.
+    Hachez ensemble le lard, les oignons, les gousses d'ail et le persil. Mélangez à la chapelure et assaisonnez.
+    Farcissez les artichauts de ce mélange et entourez d'une tranche de lard.
+    Mettez-les dans une cocotte, arrosez d'huile et d'eau.
+    Faites cuire à feu doux à couvert pendant 45 min environ. Ajoutez un peu d'eau en cours de cuisson si besoin. 
+  ]]>
+  </preparation>
+</recette>

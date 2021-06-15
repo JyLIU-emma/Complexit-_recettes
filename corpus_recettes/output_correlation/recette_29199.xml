@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29199">
+  <titre>Tête de veau sauce champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 tête de veau</p>
+    <p>200 g de champignons</p>
+    <p>100 g de jambon fumé</p>
+    <p>100 g de cornichons</p>
+    <p>400 g de quenelles de veau</p>
+    <p>2 cuillerées à soupe de sauce tomate</p>
+    <p>3 cuillerées à soupe de farine</p>
+    <p>3 cuillerées à soupe de vinaigre</p>
+    <p>25 cl de bouillon</p>
+    <p>20 cl de madère</p>
+    <p>1 bouquet garni</p>
+    <p>1 oignon</p>
+    <p>2 oeufs</p>
+    <p>vinaigre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre la tête de veau à tremper dans de l'eau froide pendant une journée après avoir enlevé les os et la cervelle, et réserver les oreilles. La placer dans une marmite et la mettre à blanchir pendant 10 min dans de l'eau bouillante salée. Rafraichir sous une eau vive et froide.
+    Délayer la farine dans un peu d'eau froide et ajouter le vinaigre, l’oignon émincé, le bouquet garni et l'eau. Assaisonner et porter le tout à ébullition dans la cocotte. Déposer la viande dans la préparation et laisser mijoter 2 h 30 min.
+    Dans un autre récipient, mettre à cuire la cervelle au court-bouillon après l'avoir passé 15 min sous l'eau froide. Découper en dés.
+    Hacher le jambon et le mélanger au bouillon, au madère et à sauce tomate. Assaisonner et mettre à cuire 10 min. Incorporer la cervelle, les quenelles, les oeufs durs concassés, les champignons et les cornichons. Laisser mijoter pendant 10 min.
+    Égoutter la tête de veau, former un dôme avec les morceaux et piquer les deux oreilles au sommet. 
+    Servir avec la garniture.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Mettre</OPER> la <INGRED id="1">tête de veau</INGRED> à <OPER id="o_2">tremper</OPER> dans de l'<INGRED id="5">eau froide</INGRED> pendant une journée après <OPER id="o_3">avoir</OPER> enlevé les <INGRED id="2">os</INGRED> et la cervelle, et réserver les oreilles. La <OPER id="o_4">placer</OPER> dans une marmite et la <OPER id="o_5">mettre</OPER> à <OPER id="o_6">blanchir</OPER> pendant 10 min dans de l'<INGRED id="14">eau</INGRED> bouillante salée. <OPER id="o_7">Rafraichir</OPER> sous une <INGRED id="10">eau</INGRED> vive et froide. <OPER id="o_8">Délayer</OPER> la <INGRED id="13">farine</INGRED> dans un <INGRED id="10">peu</INGRED> d'<INGRED id="5">eau froide</INGRED> et <OPER id="o_916">ajouter</OPER> le <INGRED id="15">vinaigre</INGRED>, l’ <INGRED id="3">oignon émincé</INGRED>, le <INGRED id="8">bouquet garni</INGRED> et l'<INGRED id="10">eau</INGRED>. <OPER id="o_10">Assaisonner</OPER> et <OPER id="o_11">porter</OPER> le tout à ébullition dans la <INGRED id="3">cocotte</INGRED>. <OPER id="o_12">Déposer</OPER> la <INGRED id="4">viande</INGRED> dans la <INGRED id="4">préparation</INGRED> et <INGRED id="12">laisser</INGRED> <OPER id="o_13">mijoter</OPER> 2 h 30 min. Dans un autre récipient, <OPER id="o_14">mettre</OPER> à <OPER id="o_15">cuire</OPER> la cervelle au court-bouillon après l'<OPER id="o_16">avoir</OPER> passé 15 min sous l'<INGRED id="5">eau froide</INGRED>. <OPER id="o_17">Découper</OPER> en <INGRED id="3">dés</INGRED>. <OPER id="o_18">Hacher</OPER> le <INGRED id="7">jambon</INGRED> et le <OPER id="o_19">mélanger</OPER> au <INGRED id="2">bouillon</INGRED>, au <INGRED id="10">madère</INGRED> et à <INGRED id="8">sauce</INGRED> tomate. <OPER id="o_20">Assaisonner</OPER> et <OPER id="o_21">mettre</OPER> à <OPER id="o_22">cuire</OPER> 10 min. <OPER id="o_23">Incorporer</OPER> la cervelle, les <INGRED id="1">quenelles</INGRED>, les oeufs durs concassés, les champignons et les <INGRED id="7">cornichons</INGRED>. Laisser <OPER id="o_24">mijoter</OPER> pendant 10 min. <OPER id="o_25">Égoutter</OPER> la <INGRED id="1">tête de veau</INGRED>, former un dôme avec les <INGRED id="1">morceaux</INGRED> et <OPER id="o_26">piquer</OPER> les <INGRED id="6">deux</INGRED> oreilles au sommet. Servir avec la garniture.
+  </annotation>
+  <annotation methode="crf">
+  Mettre la tête de <INGRED>veau</INGRED> à tremper dans de l'<INGRED>eau</INGRED> froide pendant une journée après avoir enlevé les <INGRED>os</INGRED> et la cervelle <INGRED>,</INGRED> et réserver les oreilles. La placer dans une marmite et la mettre à blanchir pendant 10 min dans de l'<INGRED>eau</INGRED> bouillante salée. Rafraichir sous une <INGRED>eau vive</INGRED> et froide <INGRED>.</INGRED> Délayer la <INGRED>farine</INGRED> dans un peu d'<INGRED>eau</INGRED> froide et ajouter le <INGRED>vinaigre</INGRED> <INGRED>,</INGRED> l’ <INGRED>oignon émincé</INGRED> <INGRED>,</INGRED> le <INGRED>bouquet garni</INGRED> et l'<INGRED>eau</INGRED> <INGRED>.</INGRED> Assaisonner et porter le tout à ébullition dans la cocotte. Déposer la <INGRED>viande</INGRED> dans la préparation et laisser mijoter 2 <INGRED>h</INGRED> 30 min. Dans un autre récipient <INGRED>,</INGRED> mettre à cuire la cervelle au court-bouillon après l'avoir passé 15 min sous l'<INGRED>eau</INGRED> froide <INGRED>.</INGRED> Découper en dés <INGRED>.</INGRED> Hacher le <INGRED>jambon</INGRED> et le mélanger au <INGRED>bouillon</INGRED> <INGRED>,</INGRED> au madère et à <INGRED>sauce</INGRED> <INGRED>tomate</INGRED> <INGRED>.</INGRED> Assaisonner et mettre à cuire 10 min. Incorporer la cervelle <INGRED>,</INGRED> les quenelles <INGRED>,</INGRED> les <INGRED>oeufs durs</INGRED> concassés <INGRED>,</INGRED> les <INGRED>champignons</INGRED> et les <INGRED>cornichons</INGRED> <INGRED>.</INGRED> Laisser mijoter pendant 10 min. Égoutter la tête de <INGRED>veau</INGRED> <INGRED>,</INGRED> former un dôme avec les <INGRED>morceaux</INGRED> et piquer les <INGRED>deux</INGRED> oreilles au sommet. Servir avec la garniture.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 78.0*X + 54.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 13*X + 22</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['tête de veau', 'tête']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['champignons']	 id:2	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['jambon fumé', 'jambon']	 id:3	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['cornichons']	 id:4	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['quenelles de veau', 'quenelles']	 id:5	 quantité:400	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['cuillerées à soupe de sauce tomate', 'cuillerées']	 id:6	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['cuillerées à soupe de farine', 'cuillerées']	 id:7	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['cuillerées à soupe de vinaigre', 'cuillerées']	 id:8	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['bouillon']	 id:9	 quantité:25	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['madère']	 id:10	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['bouquet garni', 'bouquet']	 id:11	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['oignon']	 id:12	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['oeufs']	 id:13	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['vinaigre']	 id:14	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:15	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:16	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mettre	 id:o_1	 ingrédients_ralatifs:['1', '5', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:tremper	 id:o_2	 ingrédients_ralatifs:['5', '2']	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:avoir	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_4	 ingrédients_ralatifs:['14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_5	 ingrédients_ralatifs:['14']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:blanchir	 id:o_6	 ingrédients_ralatifs:['14']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rafraichir	 id:o_7	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:délayer	 id:o_8	 ingrédients_ralatifs:['13', '10', '5', '16', '15', '3', '8', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:['15', '3', '8', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:assaisonner	 id:o_10	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:porter	 id:o_11	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déposer	 id:o_12	 ingrédients_ralatifs:['4', '4', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mijoter	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:mettre	 id:o_14	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cuire	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:avoir	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:découper	 id:o_17	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:100*X	 temps:1*X*1	 recipient:1
+operation:hacher	 id:o_18	 ingrédients_ralatifs:['7', '2', '10', '8']	 nombre_opération_atomique:3*X+1+1+3*X	 temps:3*X*5+1*X*5+1*X*5+3*X*5	 recipient:1
+operation:mélanger	 id:o_19	 ingrédients_ralatifs:['2', '10', '8']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:assaisonner	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_21	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cuire	 id:o_22	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:incorporer	 id:o_23	 ingrédients_ralatifs:['1', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:égoutter	 id:o_25	 ingrédients_ralatifs:['1', '1', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:piquer	 id:o_26	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

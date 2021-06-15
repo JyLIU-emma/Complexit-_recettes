@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15124">
+  <titre>Beignets d'aubergines sauce au curry</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 aubergines moyennes</p>
+    <p>3 tomates</p>
+    <p>1/4 chou</p>
+    <p>500 g de farine</p>
+    <p>sel, poivre</p>
+    <p>persil</p>
+    <p>curry</p>
+    <p>huile pour friture</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les aubergines en rondelles et les saler
+    légèrement. Les garder de côté.Dans un plat profond, mettre la farine et ajouter de l'eau, mélanger pour
+    obtenir une pâte assez épaisse. Couper les tomates dans le sens de la longueur et le chou très finement.
+    Les ajouter à la pâte de farine. Saler et poivrer.
+    Ajouter le persil et le curry.
+    Mettre l'huile à chauffer. Tremper les rondelles d'aubergines dans la pâte et jeter dans l'huile chaude. Laisser dorer, et servir chaud.
+  ]]>
+  </preparation>
+</recette>

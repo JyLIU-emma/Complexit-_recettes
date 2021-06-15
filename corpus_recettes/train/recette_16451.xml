@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16451">
+  <titre>Filet mignon de porc à l'ananas</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 filet mignon de porc</p>
+    <p>1 gros oignon</p>
+    <p>1 boîte d'ananas en tranches (garder la boîte comme moyen de mesure)</p>
+    <p>10 cl de crème fraîche</p>
+    <p>1 cuillère à café de gingembre moulu</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir le filet dans du beurre, ajouter l'oignon émincé, du sel et du poivre.
+    Quand ils sont dorés, ajouter le jus de la boîte d'ananas plus 1/2 boîte d'eau. Laisser mijoter 30 mn.
+    Ajouter les tranches d'ananas et le gingembre. Faire réchauffer le tout en rajoutant la crème. La sauce doit être très réduite, sinon poursuivre la cuisson.
+    Servir avec du riz parfumé.
+    Très rapide à faire pour une invitation impromptue.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23401">
+  <titre>Maquereaux au vin blanc et poireaux</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 maquereaux vidés</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>500 g poireaux</p>
+    <p>100 g de beurre</p>
+    <p>1 cuillère à soupe de crème fraîche</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 200°C (thermostat 6-7).
+    Nettoyez et émincez les blancs de poireaux finement.
+    Faites fondre 75 g de beurre dans une sauteuse, mettez-y les poireaux, salez, poivrez et couvrez.
+    Laissez étuver 30 min à feu doux.
+    Disposez les maquereaux dans un plat allant au four, salez, poivrez et parsemez de noisettes de beurre.
+    Versez le vin blanc et faites cuire 25 min au four.
+    Ajoutez la crème fraîche dans la fondue de poireaux, mélangez.
+    Dressez les maquereaux dans un plat accompagnés de la fondue de poireaux, de pain grillé et de citron.
+  ]]>
+  </preparation>
+</recette>

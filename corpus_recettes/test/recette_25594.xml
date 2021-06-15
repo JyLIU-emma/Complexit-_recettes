@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25594">
+  <titre>Gâteau aux fruits confits</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 cl de lait</p>
+    <p>13 g de levure de boulanger</p>
+    <p>120 g de beurre</p>
+    <p>350 g de farine</p>
+    <p>1 pincée de sel</p>
+    <p>20 g de sucre</p>
+    <p>170 g de fruits confits</p>
+    <p>2 oeufs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Diluer la levure dans le lait et faire fondre le beurre.
+    Pétrisser la farine avec les oeufs, le sel et le sucre puis ajouter la levure et le beurre fondu.
+    Travailler la pâte jusqu'à ce qu'elle se détache des parois du saladier puis ajouter les fruits confits.
+    Couvrir la pâte d'un linge et laisser gonfler 2 heures dans un endroit tiède.
+    Préchauffer le four à 180°C (thermostat 6).
+    Placer la pâte dans un moule et enfourner pour 45 minutes de cuisson.
+  ]]>
+  </preparation>
+</recette>

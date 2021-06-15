@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165040">
+  <titre>Délicieuses verrines au mascarpone et spéculoos</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>3 œufs</p>
+    <p>75 g de sucre en poudre</p>
+    <p>250 g de mascarpone</p>
+    <p>12 spéculos</p>
+    <p>12 schokobons (chocolat Kinder) ou du chocolat en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier mélanger les jaunes d'oeufs (attention il faut conserver les blancs !) avec le sucre jusqu'à l'obtention d'un mélange mousseux et blanchit.
+    Rajouter à la préparation le mascarpone, mélanger le tout. Enfin ajouter les blancs d'oeufs que vous aurez préalablement monter en neige. Mélanger délicatement jusqu'à ce que la préparation devienne homogène.
+    Dans une verrine, émietter un spéculoos. Rajouter une bonne cuillère à soupe de la préparation (il faut cacher les spéculos émiettés). Enfin rajouter un demi schokobon à poser sur la crème (vous pouvez soit l'émietter soit poser le demi schokobon coupé dans sa longueur). Vous pouvez également parsemer la verrine de chocolat en poudre si vous n'avez pas de schokobons.Régalez vous !!Une délicieuse recette, par contre pour les gourmands il est préférable de prévoir deux verrines car ce dessert est vraiment très léger !  
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Dans un <INGRED id="1">saladier</INGRED> <OPER id="o_1">mélanger</OPER> les jaunes d'oeufs ( attention il faut conserver les blancs ! ) avec le <INGRED id="2">sucre</INGRED> jusqu'à l'obtention d'un mélange mousseux et blanchit. <OPER id="o_2">Rajouter</OPER> à la <INGRED id="4">préparation</INGRED> le mascarpone, <OPER id="o_3">mélanger</OPER> le tout. Enfin <OPER id="o_4">ajouter</OPER> les blancs d'oeufs que vous aurez préalablement <OPER id="o_5">monter</OPER> en neige. <OPER id="o_6">Mélanger</OPER> délicatement jusqu'à ce que la <INGRED id="4">préparation</INGRED> devienne homogène. Dans une verrine, <OPER id="o_7">émietter</OPER> un <INGRED id="1">spéculoos</INGRED>. <OPER id="o_8">Rajouter</OPER> une bonne cuillère à soupe de la <INGRED id="4">préparation</INGRED> ( il faut <OPER id="o_9">cacher</OPER> les <INGRED id="4">spéculos</INGRED> émiettés ). Enfin <OPER id="o_10">rajouter</OPER> un <INGRED id="2">demi</INGRED> schokobon à <OPER id="o_11">poser</OPER> sur la crème ( vous pouvez soit l'<OPER id="o_12">émietter</OPER> soit <OPER id="o_13">poser</OPER> le <INGRED id="2">demi</INGRED> schokobon coupé dans sa longueur ). Vous pouvez également <OPER id="o_14">parsemer</OPER> la verrine de <INGRED id="2">chocolat en poudre</INGRED> si vous n'avez pas de <INGRED id="5">schokobons</INGRED>. <OPER id="o_15">Régalez</OPER> vous ! ! Une délicieuse recette, par contre pour les gourmands il est préférable de <OPER id="o_16">prévoir</OPER> deux verrines car ce dessert est vraiment très léger !
+  </annotation>
+  <annotation methode="crf">
+  Dans un saladier mélanger les <INGRED>jaunes d'oeufs</INGRED> ( attention il faut conserver les <INGRED>blancs</INGRED> ! ) avec le <INGRED>sucre</INGRED> jusqu'à l'obtention d'un <INGRED>mélange</INGRED> mousseux et blanchit <INGRED>.</INGRED> Rajouter à la préparation le <INGRED>mascarpone</INGRED> <INGRED>,</INGRED> mélanger le tout <INGRED>.</INGRED> Enfin ajouter les <INGRED>blancs d'oeufs</INGRED> que vous aurez préalablement monter en neige <INGRED>.</INGRED> Mélanger délicatement jusqu'à ce que la préparation devienne homogène <INGRED>.</INGRED> Dans une verrine <INGRED>,</INGRED> émietter un spéculoos. Rajouter une bonne cuillère à soupe de la préparation ( il faut cacher les spéculos émiettés ). Enfin rajouter un <INGRED>demi</INGRED> schokobon à poser sur la <INGRED>crème</INGRED> ( vous pouvez soit l'émietter soit poser le <INGRED>demi</INGRED> schokobon coupé dans sa longueur ). Vous pouvez également parsemer la verrine de <INGRED>chocolat en poudre</INGRED> si vous n'avez pas de schokobons. Régalez vous ! ! Une délicieuse recette <INGRED>,</INGRED> par contre pour les gourmands il est préférable de prévoir <INGRED>deux</INGRED> verrines car ce dessert est vraiment très léger !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 14.8965517241379*X + 1.10344827586207</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 27*X + 5</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['œufs']	 id:1	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['sucre en poudre', 'sucre']	 id:2	 quantité:75	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['mascarpone']	 id:3	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['spéculos']	 id:4	 quantité:12	 unité:non_precis	 denombrable:True	 recipient:12*X
+ingredient:['schokobons   ou du chocolat en poudre', 'schokobons']	 id:5	 quantité:12	 unité:non_precis	 denombrable:True	 recipient:12*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mélanger	 id:o_1	 ingrédients_ralatifs:['1', '2']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:rajouter	 id:o_2	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:monter	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_6	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:émietter	 id:o_7	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rajouter	 id:o_8	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cacher	 id:o_9	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rajouter	 id:o_10	 ingrédients_ralatifs:['2', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poser	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:émietter	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poser	 id:o_13	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:parsemer	 id:o_14	 ingrédients_ralatifs:['2', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:régaler	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:prévoir	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14352">
+  <titre>Brioche salée fromage-jambon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g de beurre ou margarine</p>
+    <p>1 cuillère à café de moutarde forte</p>
+    <p>3 oeufs</p>
+    <p>100 g de farine</p>
+    <p>2 cuillères à café de levure</p>
+    <p>150 g de dés de jambon</p>
+    <p>100 g de gruyère râpé</p>
+    <p>80 g de mimolette ou de hollande</p>
+    <p>1 bouquet d'estragon (important)</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four sur thermostat 6 (180°C).
+    Ramollir le beurre.
+    Dans une terrine, verser le beurre fondu, la moutarde, sel et poivre. Ajouter les oeufs et battre le tout au fouet.
+    Mélanger la farine et la levure puis incorporer ce mélange à la préparation précédente.
+    Couper la mimolette en très petits dés. Laver et hacher l'estragon. Ajouter à la pâte les dés de jambon, de fromage, l'estragon et le gruyère râpé.
+    Verser la préparation dans un moule à cake ou à soufflé beurré.
+    Enfourner de 40 à 50 mn et servir chaud ou tiède avec une salade.
+  ]]>
+  </preparation>
+</recette>

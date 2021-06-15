@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17579">
+  <titre>Fougasse à la fleur d'oranger</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de farine</p>
+    <p>250 g de sucre</p>
+    <p>20 g de levure de boulanger</p>
+    <p>5 cl d'eau de fleur d'oranger</p>
+    <p>200 g d'huile d'olive</p>
+    <p>2 lamelles d'écorce d'orange râpée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger le tout dans un saladier pour faire une boule. Couvrir avec un torchon et laisser reposer 3 heures dans un endroit chaud.
+    Au bout de 3 heures, faire une galette de 2 ou 3 centimètres d'épaisseur. Faire des entailles sur la galette.
+    Cuire à four doux en surveillant bien. Le couteau planté dedans doit ressortir sec.
+  ]]>
+  </preparation>
+</recette>

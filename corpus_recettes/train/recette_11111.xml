@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11111">
+  <titre>Mille-feuille à la banane</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>pâte feuilletée</p>
+    <p>Pour la crème :</p>
+    <p>4 bananes</p>
+    <p>1 citron</p>
+    <p>2 cl de rhum</p>
+    <p>25 cl de crème fraîche pour les bananes</p>
+    <p>100 g de sucre</p>
+    <p>25 cl de crème fraîche pour la chantilly</p>
+    <p>200 g de carré frais </p>
+    <p>50 g de sucre Pour la décoration :</p>
+    <p>10 g de sucre glace </p>
+    <p>100 g de chocolat</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Etaler et couper la pâte feuilleté en 12 rectangle similaires, les dorer au jaune d'oeuf.
+    Les faire cuire au four à 200°C (thermostat 6-7) pendant 15-20 minutes.
+    Cuire le sucre en caramel, quand le sucre brunit, rajouter le rhum puis la crème fraiche hors feu.
+    Rajouter les bananes, faire cuire à feu doux 1 min en remuant délicatement les bananes.
+    Fouetter la crème fraîche, y rajouter délicatement le carré frais.
+    Sur les assiettes, déposer un rectangle de pâte feuilleté, mettre un peu de crème des bananes sans jus, refaire cela deux fois encore par assiette.
+    Autour du mille feuille, mettre un peu de jus, le saupoudrer de sucre glace et râper un peu de chocolat dessus.
+    Recommencer pour chaque assiette.
+    Bon appétit à vous.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23002">
+  <titre>Tartare de Flo express</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de boeuf haché bien frais</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>2 échalotes</p>
+    <p>1 gros cornichon</p>
+    <p>1 cuillère à soupe de câpres</p>
+    <p>1 gousse d'ail</p>
+    <p>1 cuillère à café de moutarde</p>
+    <p>1,5 cuillère à café de sauce Worcestershire</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher ensemble les échalotes, les câpres, le cornichon et l'ail. Mettre dans un saladier et y ajouter les autres ingrédients ; mélanger allègrement en écrasant à la fourchette avec gourmandise ! 
+     
+    Former 2 boules, les aplatir légèrement et les disposer sur assiette. 
+    Servir avec des frites et quelques rondelles de tomate... et... déguster!
+    C'est une petite recette maison sans prétention, réalisée avec tout ce que mon fils, Flo, adore. Simple, rapide et, selon Flo : c'est super bon !! un bon petit rosé de Provence bien frais
+  ]]>
+  </preparation>
+</recette>

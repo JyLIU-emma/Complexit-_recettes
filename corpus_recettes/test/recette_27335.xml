@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27335">
+  <titre>Spaghettis aux crevettes et curry</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de crevettes</p>
+    <p>un bouquet de brocolis</p>
+    <p>500 g de champignons (de Paris) </p>
+    <p>2 échalotes</p>
+    <p>20 cl de crème fraîche liquide</p>
+    <p>500 g de spaghettis</p>
+    <p>50 g de beurre</p>
+    <p>curry</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez les brocolis, coupez les têtes et mettre à cuire 5 mn dans une casserole d'eau bouillante salée. Egouttez-les. 
+    Epluchez et émincez les échalotes, les faire revenir dans une grande poêle avec du beurre, jusqu'à ce qu'ils blondissent. Réservez-les. 
+    Dans la même poêle, remettre un peu de beurre, et faire revenir les champignons coupés en lamelles, jusqu'à ce qu'ils prennent une jolie couleur. Réservez-les. 
+    Toujours dans la même poêle, remettre un peu de beurre et faire dorer les crevettes décortiquées (30 secondes de chaque côté). 
+    Remettre dans la poêle les échalotes et les champignons. Assaisonnez de sel, poivre et 2 cuillères à café de curry (ou plus selon les goûts !). 
+    Ajoutez la crème liquide et les brocolis. 
+    Faire revenir le tout à feu doux pendant 3 mn. 
+    Faire cuire les spaghettis dans l'eau bouillante salée. 
+    Servir les spaghettis et recouvrir de sauce aux crevettes et au curry.
+  ]]>
+  </preparation>
+</recette>

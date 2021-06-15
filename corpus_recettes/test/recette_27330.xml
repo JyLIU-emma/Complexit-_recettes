@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27330">
+  <titre>Purée au potiron et aux épinards</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 de potiron</p>
+    <p>250 g d'épinards</p>
+    <p>20 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyez les épinards, pelez et coupez le potiron en gros dés.
+    Mettez-les dans une cocotte-minute, mouillez d'un verre d'eau et salez.
+    Fermez la cocotte et laissez cuire 10 minutes dès la mise en rotation de la soupape.
+    Videz l'eau rendue et réduisez le tout en purée, en incorporant le beurre.
+  ]]>
+  </preparation>
+</recette>

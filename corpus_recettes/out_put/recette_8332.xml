@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="8332">
+  <titre>Roulés aux poivrons rouges, thon et Carré Frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 poivrons rouges</p>
+    <p>1 boîte de thon au naturel (150 g égoutté)</p>
+    <p>5 Carrés Frais</p>
+    <p>1 gousse d'ail</p>
+    <p>1 échalote</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>10 brins de ciboulette</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer l'ail et l'échalote. 
+    Et les mélanger avec le thon émietté,  l'huile d'olive, la ciboulette ciselée, et les Carrés frais.
+    Bien mélanger le tout, pour obtenir un appareil homogène.
+    Faire griller les poivrons sous le grill, sur un papier d'aluminium, pendant 20 min environ, en les retournant toutes les 5 min sur chaque facette. 
+    Puis les sortir, et refermer l'aluminium.
+    Leur enlever la peau (non digeste).
+    Découper les poivrons en larges lamelles, et les farcir avec le mélange.
+    Les maintenir enroulés avec un petit pic en bois.
+    Disposer dans un plat, et au moment de servir, arroser d'un filet d'huile d'olive...
+    A déguster avec un bon pain grillé.
+    Bon appétit !
+     
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Emincer</OPER> l'<INGRED id="6">ail</INGRED> et l'échalote. Et les <OPER id="o_2">mélanger</OPER> avec le <INGRED id="2">thon</INGRED> émietté, l'<INGRED id="7">huile d'olive</INGRED>, la <INGRED id="4">ciboulette</INGRED> ciselée, et les <INGRED id="1">Carrés frais</INGRED>. Bien <OPER id="o_3">mélanger</OPER> le tout, pour obtenir un appareil homogène. Faire <OPER id="o_4">griller</OPER> les <INGRED id="1">poivrons</INGRED> sous le grill, sur un papier d'aluminium, pendant 20 min environ, en les retournant toutes les 5 min sur chaque facette. Puis les <OPER id="o_5">sortir</OPER>, et <OPER id="o_6">refermer</OPER> l'aluminium. Leur <OPER id="o_7">enlever</OPER> la peau ( non digeste ). <OPER id="o_8">Découper</OPER> les poivrons en larges <INGRED id="2">lamelles</INGRED>, et les <OPER id="o_9">farcir</OPER> avec le mélange. Les <OPER id="o_10">maintenir</OPER> enroulés avec un petit pic en bois. <OPER id="o_11">Disposer</OPER> dans un plat, et au moment de servir, <OPER id="o_12">arroser</OPER> d'un <INGRED id="3">filet d'huile d'olive</INGRED>... A déguster avec un bon pain grillé. Bon appétit !
+  </annotation>
+  <annotation methode="crf">
+  Emincer l'<INGRED>ail</INGRED> et l'<INGRED>échalote</INGRED> <INGRED>.</INGRED> Et les mélanger avec le <INGRED>thon</INGRED> émietté <INGRED>,</INGRED> l'<INGRED>huile d'olive</INGRED> <INGRED>,</INGRED> la <INGRED>ciboulette</INGRED> ciselée <INGRED>,</INGRED> et les <INGRED>Carrés frais</INGRED> <INGRED>.</INGRED> Bien mélanger le tout <INGRED>,</INGRED> pour obtenir un appareil homogène <INGRED>.</INGRED> Faire griller les <INGRED>poivrons</INGRED> sous le grill <INGRED>,</INGRED> sur un papier d'aluminium <INGRED>,</INGRED> pendant 20 min <INGRED>environ</INGRED> <INGRED>,</INGRED> en les retournant toutes les 5 min sur chaque facette. Puis les sortir <INGRED>,</INGRED> et refermer l'aluminium. Leur enlever la peau ( non digeste ). Découper les <INGRED>poivrons</INGRED> en larges <INGRED>lamelles</INGRED> <INGRED>,</INGRED> et les farcir avec le <INGRED>mélange</INGRED> <INGRED>.</INGRED> Les maintenir enroulés avec un <INGRED>petit</INGRED> <INGRED>pic</INGRED> en bois <INGRED>.</INGRED> Disposer dans un plat <INGRED>,</INGRED> et au moment de servir <INGRED>,</INGRED> arroser d'un <INGRED>filet</INGRED> d'<INGRED>huile d'olive</INGRED>... A déguster avec un bon <INGRED>pain</INGRED> grillé. Bon appétit !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 12.0*X</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 22*X + 6</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['poivrons rouges', 'poivrons']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['thon au naturel', 'thon']	 id:2	 quantité:1	 unité:boîte de	 denombrable:True	 recipient:1*X
+ingredient:['Carrés Frais', 'Carrés']	 id:3	 quantité:5	 unité:non_precis	 denombrable:True	 recipient:5*X
+ingredient:['ail']	 id:4	 quantité:1	 unité:gousse d'	 denombrable:True	 recipient:1*X
+ingredient:['échalote']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:["huile d'olive", 'huile']	 id:6	 quantité:2	 unité:cuillères à soupe d'	 denombrable:True	 recipient:2*X
+ingredient:['ciboulette']	 id:7	 quantité:10	 unité:brins de	 denombrable:True	 recipient:10*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:emincer	 id:o_1	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:2*X*1	 recipient:1
+operation:mélanger	 id:o_2	 ingrédients_ralatifs:['2', '7', '4', '1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:griller	 id:o_4	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:2*X*5	 recipient:1
+operation:sortir	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refermer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enlever	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:découper	 id:o_8	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1*X*1	 recipient:1
+operation:farcir	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:2*X	 recipient:0
+operation:maintenir	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_11	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:arroser	 id:o_12	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

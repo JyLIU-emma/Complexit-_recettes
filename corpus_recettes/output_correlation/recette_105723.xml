@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="105723">
+  <titre>Risotto venere aux saint jacques</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200g de riso venere (riz noir, en vente dans les épiceries spécialisées)</p>
+    <p>1l bouillon de volaille bien dilué</p>
+    <p>10 cl de vin blance</p>
+    <p>10cl de lait de coco</p>
+    <p>1 oignon</p>
+    <p>huile d'olive</p>
+    <p>8 noix de St Jacques fraiches</p>
+    <p>piment d'espelette (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer votre bouillon de volaille (attention à bien le diluer car le riz noir absorbe beaucoup le sel)
+    Emincer l'oignon, et le faire revenir dans l'huile d'olive. Ajouter le riz noir, le laisser "nacrer" quelques minutes. Ajouter le vin blanc. Puis, procéder comme pour un risotto normal, ajouter une louche de bouillon, laisser absorber, puis une autre, jusqu'à ce que le riz soit cuit (compter environ 40mn, le riz noir reste plus ferme que le blanc). Ajouter le lait de coco, qui va donner de la douceur et du moelleux au risotto.
+    Quand le riz est presque cuit, faire cuire les  noix de St Jacques rapidement sur une poële chaude avec un peu d'huile d'olive (l'intérieur reste nacré), environ 3-4mn de chaque côté. Dans une assiette creuse, dresser les St Jacques sur le risotto, saupoudrer d'un peu de piment si vous le voulez, et servez aussitôt!Variante moins coûteuse : avec une brochette de grosses crevettes à la place des St Jacques! Pouilly fuissé
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Préparer</OPER> votre bouillon de volaille ( attention à bien le <OPER id="o_2">diluer</OPER> car le <INGRED id="1">riz</INGRED> noir absorbe beaucoup le <INGRED id="6">sel</INGRED> ) <OPER id="o_3">Emincer</OPER> l'<INGRED id="4">oignon</INGRED>, et le faire <OPER id="o_4">revenir</OPER> dans l'<INGRED id="7">huile d'olive</INGRED>. <OPER id="o_5">Ajouter</OPER> le <INGRED id="1">riz</INGRED> noir, le laisser " <OPER id="o_6">nacrer</OPER> " quelques minutes. <OPER id="o_7">Ajouter</OPER> le <INGRED id="2">vin blanc</INGRED>. Puis, <OPER id="o_8">procéder</OPER> comme pour un risotto normal, <OPER id="o_9">ajouter</OPER> une louche de <INGRED id="2">bouillon</INGRED>, laisser <OPER id="o_10">absorber</OPER>, puis une autre, jusqu'à ce que le <INGRED id="1">riz</INGRED> soit cuit ( <OPER id="o_11">compter</OPER> environ 40mn, le <INGRED id="1">riz</INGRED> noir <INGRED id="1">reste</INGRED> plus ferme que le <INGRED id="1">blanc</INGRED> ). <OPER id="o_12">Ajouter</OPER> le <INGRED id="4">lait de coco</INGRED>, qui va donner de la douceur et du moelleux au risotto. Quand le <INGRED id="1">riz</INGRED> est presque cuit, faire <OPER id="o_13">cuire</OPER> les noix de St Jacques rapidement sur une poële chaude avec un peu d'<INGRED id="4">huile d'olive</INGRED> ( l'intérieur <INGRED id="1">reste</INGRED> nacré ), environ 3 - 4mn de chaque côté. Dans une assiette creuse, <OPER id="o_14">dresser</OPER> les St Jacques sur le risotto, <OPER id="o_15">saupoudrer</OPER> d'un peu de <INGRED id="4">piment</INGRED> si vous le voulez, et servez aussitôt!Variante moins coûteuse : avec une brochette de grosses crevettes à la place des St Jacques ! Pouilly fuissé
+  </annotation>
+  <annotation methode="crf">
+  Préparer votre <INGRED>bouillon de volaille</INGRED> ( attention à bien le diluer car le <INGRED>riz</INGRED> noir absorbe beaucoup le <INGRED>sel</INGRED> ) Emincer l'<INGRED>oignon</INGRED> <INGRED>,</INGRED> et le faire revenir dans l'<INGRED>huile d'olive</INGRED> <INGRED>.</INGRED> Ajouter le <INGRED>riz noir</INGRED> <INGRED>,</INGRED> le laisser " nacrer " quelques minutes. Ajouter le <INGRED>vin blanc</INGRED> <INGRED>.</INGRED> Puis <INGRED>,</INGRED> procéder comme pour un risotto normal <INGRED>,</INGRED> ajouter une louche de <INGRED>bouillon</INGRED> <INGRED>,</INGRED> laisser absorber <INGRED>,</INGRED> puis une autre <INGRED>,</INGRED> jusqu'à ce que le <INGRED>riz</INGRED> soit cuit ( compter <INGRED>environ</INGRED> 40mn <INGRED>,</INGRED> le <INGRED>riz noir</INGRED> <INGRED>reste</INGRED> plus ferme que le <INGRED>blanc</INGRED> ). Ajouter le <INGRED>lait</INGRED> de coco <INGRED>,</INGRED> qui va donner de la douceur et du moelleux au risotto. Quand le <INGRED>riz</INGRED> est presque cuit <INGRED>,</INGRED> faire cuire les <INGRED>noix de St Jacques</INGRED> rapidement sur une poële chaude avec un peu d'<INGRED>huile d'olive</INGRED> ( l'intérieur reste nacré ) <INGRED>,</INGRED> <INGRED>environ</INGRED> 3 - 4mn de chaque côté <INGRED>.</INGRED> Dans une assiette creuse <INGRED>,</INGRED> dresser les <INGRED>St Jacques</INGRED> sur le risotto <INGRED>,</INGRED> saupoudrer d'un peu de <INGRED>piment</INGRED> si vous le voulez <INGRED>,</INGRED> et servez aussitôt!Variante moins coûteuse <INGRED>:</INGRED> avec une brochette de grosses <INGRED>crevettes</INGRED> à la place des <INGRED>St Jacques</INGRED> ! Pouilly fuissé
+  </annotation>
+  <complexite>
+    <temps>f(X) = 13.8*X + 9.2</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 9*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['riso venere', 'riso']	 id:1	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['volaille bien dilué', 'volaille']	 id:2	 quantité:1	 unité:l bouillon de	 denombrable:False	 recipient:1
+ingredient:['vin blance', 'vin']	 id:3	 quantité:10	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['lait de coco', 'lait']	 id:4	 quantité:10	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['oignon']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:["huile d'olive", 'huile']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['noix de St Jacques fraiches', 'noix']	 id:7	 quantité:8	 unité:non_precis	 denombrable:True	 recipient:8*X
+ingredient:["piment d'espelette", 'piment']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:préparer	 id:o_1	 ingrédients_ralatifs:['1', '6']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:diluer	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:emincer	 id:o_3	 ingrédients_ralatifs:['4', '7']	 nombre_opération_atomique:1+8*X	 temps:1*X*1+8*X*1	 recipient:1
+operation:revenir	 id:o_4	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:nacrer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:procéder	 id:o_8	 ingrédients_ralatifs:['2', '1', '1', '1', '1']	 nombre_opération_atomique:1	 temps:3	 recipient:0
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:absorber	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:compter	 id:o_11	 ingrédients_ralatifs:['1', '1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_13	 ingrédients_ralatifs:['1', '4', '1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:dresser	 id:o_14	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saupoudrer	 id:o_15	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

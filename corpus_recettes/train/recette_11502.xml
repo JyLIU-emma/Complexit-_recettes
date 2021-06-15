@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11502">
+  <titre>Jambalaya porc</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de riz, type Carolina</p>
+    <p>300 g d'émincé de porc</p>
+    <p>2 oignons nouveaux</p>
+    <p>1 gousse d'ail</p>
+    <p>1 poivron vert</p>
+    <p>70 cl de bouillon de poule</p>
+    <p>100 g de crevettes</p>
+    <p>1 citron vert</p>
+    <p>50 g de jambon</p>
+    <p>50 g de noix de cajou</p>
+    <p>1 cuillère à soupe de poivre vert</p>
+    <p>1 clou de girofle</p>
+    <p>Poivre, piment de Cayenne</p>
+    <p>persil</p>
+    <p>huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les oignons en rondelles fines, hachez l'ail, parez et coupez le poivron en dés d'un centimètre.  Dans une grande casserole ou un wok, faites chauffer l'huile et jetez-y l'émincé de porc que vous ferez revenir de toutes parts. 
+    Ajoutez les oignons, l'ail, le poivron, le poivre vert.Mélangez, rectifiez l'assaisonnement avec du poivre moulu et du Cayenne. Versez 20 cl de bouillon, couvrez la casserole et laissez mijoter 20 minutes à feu doux.  Ajoutez le riz et le reste du bouillon. Mélangez, couvrez et poursuivez la cuisson durant 10 minutes.
+    Ajoutez alors les crevettes et laissez mijoter encore 10 minutes sans couvercle.
+    Pendant ce temps, dans une poêle anti-adhésive, faites dorer les noix de cajou sans matière grasse. Retirez les noix et ajoutez le jambon taillé en fines lanières (elles doivent être bien croustillantes). Servez le riz, entouré des noix de cajou, des lanières de jambon et de tranches de citron vert. Parsemez quelques feuilles de persil sur le dessus du plat.
+  ]]>
+  </preparation>
+</recette>

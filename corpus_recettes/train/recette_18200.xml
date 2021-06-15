@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18200">
+  <titre>Stéphanie aux mirabelles fraîches</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>750 g de mirabelle (bien mûres !)</p>
+    <p>75 g de beurre</p>
+    <p>90 g de farine</p>
+    <p>1/2l de lait</p>
+    <p>5 œufs</p>
+    <p>125 g de sucre de canne</p>
+    <p>100 g de poudre d’amande</p>
+    <p>de la cannelle</p>
+    <p>du cognac</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les mirabelles, les dénoyauter puis les disposer au fond d'un plat creux préalablement beurré et fariné.
+    Faire fondre le beurre (au micro onde c’est le plus rapide !)
+    Verser la farine dans un saladier, faire un puits au milieu, y casser les oeufs, ajouter le lait, le beurre fondu, le sucre et la cannelle (2 bonnes cuillères à soupe).
+    Ajouter la poudre d’amande et battre au fouet (manuel) pour éviter tout grumeau (comme pour des crêpes).
+    Verser cette préparation sur les mirabelles et cuire au four th 6 (180°) pendant 50 min environ.
+    Dans un ramequin, faire un mélange de sucre, de poudre d’amande et de cannelle (juste un peu).
+    Saupoudrer ce mélange à la surface du gâteau et le passer un grill pour le faire dorer.
+    Servir tiède ou à température ambiante
+  ]]>
+  </preparation>
+</recette>

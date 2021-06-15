@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="174674">
+  <titre>Risotto aux cuisses de grenouilles à l'antillaise</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>200 g de riz rond</p>
+    <p>500 g de cuisses de grenouilles</p>
+    <p>20 cl de crème fraîche liquide</p>
+    <p>2 cuillères à café de safran antillais (jaune)</p>
+    <p>2 petits piments antillais</p>
+    <p>2 gousses d'ail</p>
+    <p>20 g de parmesan râpé</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>1 noix de beurre salé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Commencez par désosser les cuisses crues, c'est un peu long à faire mais très simple (conseil : ne cherchez pas à désosser la partie haute reliant les deux cuisses, laissez-là tomber, elle comporte trop de petits os). Quand les cuisses sont désossées, faites-les légèrement colorer dans un wok ou une sauteuse avec une noix de beurre salé. Versez le riz et laissez-le devenir translucide. Ajoutez les piments et le safran. Recouvrez d'eau et laissez le liquide s'évaporer sans cesser de remuer. Renouvelez l'opération une deuxième fois. Ensuite, ajoutez la crème fraîche pour donner le moelleux du risotto, remuez très régulièrement car elle va s'évaporer rapidement. Juste avant la fin de la cuisson, ajoutez les gousses d'ail émincées, une cuillère de safran, le sel, le poivre, et le parmesan.
+    Pensez à retirer les piments avant la dégustation ! Muscadet ou Tavel
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Commencez</OPER> par <OPER id="o_2">désosser</OPER> les <INGRED id="4">cuisses</INGRED> crues, c'est un peu long à faire mais très simple ( conseil : ne cherchez pas à <OPER id="o_3">désosser</OPER> la partie haute reliant les <INGRED id="6">deux</INGRED> <INGRED id="2">cuisses</INGRED>, laissez -là <OPER id="o_4">tomber</OPER>, elle comporte trop de <INGRED id="3">petits</INGRED> <INGRED id="2">os</INGRED> ). Quand les <INGRED id="1">cuisses</INGRED> sont désossées, faites - les légèrement <OPER id="o_5">colorer</OPER> dans un <INGRED id="1">wok</INGRED> ou une sauteuse avec une <INGRED id="10">noix de beurre salé</INGRED>. <OPER id="o_6">Versez</OPER> le <INGRED id="1">riz</INGRED> et laissez - le <OPER id="o_7">devenir</OPER> translucide. <OPER id="o_8">Ajoutez</OPER> les <INGRED id="5">piments</INGRED> et le <INGRED id="4">safran</INGRED>. <OPER id="o_9">Recouvrez</OPER> d'<INGRED id="2">eau</INGRED> et laissez le liquide s'<OPER id="o_10">évaporer</OPER> sans <OPER id="o_11">cesser</OPER> de <OPER id="o_12">remuer</OPER>. <OPER id="o_13">Renouvelez</OPER> l'opération une deuxième fois. Ensuite, <OPER id="o_14">ajoutez</OPER> la crème fraîche pour donner le moelleux du risotto, remuez très régulièrement car elle va s'<OPER id="o_15">évaporer</OPER> rapidement. Juste avant la fin de la cuisson, <OPER id="o_16">ajoutez</OPER> les <INGRED id="3">gousses</INGRED> d'<INGRED id="10">ail</INGRED> émincées, une cuillère de <INGRED id="4">safran</INGRED>, le sel, le <INGRED id="4">poivre</INGRED>, et le <INGRED id="6">parmesan</INGRED>. <OPER id="o_17">Pensez</OPER> à <OPER id="o_18">retirer</OPER> les <INGRED id="5">piments</INGRED> avant la dégustation ! Muscadet ou Tavel
+  </annotation>
+  <annotation methode="crf">
+  Commencez par désosser les <INGRED>cuisses</INGRED> crues <INGRED>,</INGRED> c'est un peu long à faire mais très simple ( conseil <INGRED>:</INGRED> ne cherchez pas à désosser la partie haute reliant les <INGRED>deux</INGRED> <INGRED>cuisses</INGRED> <INGRED>,</INGRED> laissez -là tomber <INGRED>,</INGRED> elle comporte trop de <INGRED>petits</INGRED> <INGRED>os</INGRED> ). Quand les <INGRED>cuisses</INGRED> sont désossées <INGRED>,</INGRED> faites - les légèrement colorer dans un wok <INGRED>ou</INGRED> une sauteuse avec une <INGRED>noix de beurre</INGRED> salé. Versez le <INGRED>riz</INGRED> et laissez - le devenir translucide. Ajoutez les <INGRED>piments</INGRED> et le <INGRED>safran</INGRED> <INGRED>.</INGRED> Recouvrez d'<INGRED>eau</INGRED> et laissez le liquide s'évaporer sans cesser de remuer. Renouvelez l'opération une deuxième fois. Ensuite <INGRED>,</INGRED> ajoutez la <INGRED>crème fraîche</INGRED> pour donner le moelleux du risotto <INGRED>,</INGRED> remuez très régulièrement car elle va s'évaporer rapidement <INGRED>.</INGRED> Juste avant la fin de la cuisson <INGRED>,</INGRED> ajoutez les gousses d'<INGRED>ail</INGRED> émincées <INGRED>,</INGRED> une cuillère de <INGRED>safran</INGRED> <INGRED>,</INGRED> le <INGRED>sel</INGRED> <INGRED>,</INGRED> le <INGRED>poivre</INGRED> <INGRED>,</INGRED> et le <INGRED>parmesan</INGRED>. Pensez à retirer les <INGRED>piments</INGRED> avant la dégustation ! Muscadet <INGRED>ou</INGRED> Tavel
+  </annotation>
+  <complexite>
+    <temps>f(X) = 9.69230769230769*X + 8.30769230769231</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 7*X + 6</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['riz rond', 'riz']	 id:1	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['cuisses de grenouilles', 'cuisses']	 id:2	 quantité:500	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crème fraîche liquide', 'crème']	 id:3	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['safran antillais', 'safran']	 id:4	 quantité:2	 unité:cuillères à café de	 denombrable:True	 recipient:2*X
+ingredient:['piments antillais', 'piments']	 id:5	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['ail']	 id:6	 quantité:2	 unité:gousses d'	 denombrable:True	 recipient:2*X
+ingredient:['parmesan râpé', 'parmesan']	 id:7	 quantité:20	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['noix de beurre salé', 'noix']	 id:10	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:commencer	 id:o_1	 ingrédients_ralatifs:['4', '6', '2', '3', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:désosser	 id:o_2	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:désosser	 id:o_3	 ingrédients_ralatifs:['6', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tomber	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:colorer	 id:o_5	 ingrédients_ralatifs:['1', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_6	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:devenir	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['5', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recouvrir	 id:o_9	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:évaporer	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cesser	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:renouveler	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:évaporer	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_16	 ingrédients_ralatifs:['3', '10', '4', '4', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:penser	 id:o_17	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_18	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

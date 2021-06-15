@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25643">
+  <titre>Gratin aubergine tomate parmesan</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 aubergines</p>
+    <p>1 oignon</p>
+    <p>2 gousses d'ail</p>
+    <p>1 kg de tomates</p>
+    <p>150 g de parmesan râpé</p>
+    <p>2 cuillères à soupe d'huile d'olive</p>
+    <p>huile de friture</p>
+    <p>gros sel, sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les aubergines et les couper en tranches fines. Saupoudrer de gros sel et laisser dégorger 30 minutes. Rincer et sécher soigneusement.
+    Inciser les tomates en croix à la base. Les plonger 30 sec dans de l'eau bouillante puis les égoutter. Les peler et couper la chair en dés. Peler et hacher l'ail et l'oignon.
+    Mettre les tomates, l'ail et l'oignon dans une poêle avec un fond d'huile d'olive. Assaisonner et laisser mijoter à feu doux jusqu'à ce que les légumes soient fondus et prennent la forme d'une sauce bien épaisse.
+    Faire chauffer l'huile de friture.
+    Y faire frire les tranches d'aubergines jusqu'à ce qu'elles soient bien tendres puis les égoutter sur du papier absorbant.
+    Préchauffer le four à 200°C (thermostat 6-7).
+    Dans un plat à gratin, intercaler aubergines, la purée de tomates et du parmesan râpé jusqu'à  épuisement des ingrédients. Terminer par le fromage.
+    Faire gratiner environ 20 minutes.
+    Ce gratin se déguste chaud ou froid avec une vinaigrette au citron.
+  ]]>
+  </preparation>
+</recette>

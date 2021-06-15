@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19878">
+  <titre>Manqué aux pommes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g beurre</p>
+    <p>200 g sucre</p>
+    <p>1 sachet sucre vanillé</p>
+    <p>4 oeufs</p>
+    <p>300 g farine</p>
+    <p>1 sachet levure</p>
+    <p>50 g poudre d’amande</p>
+    <p>12.5 cl de lait</p>
+    <p>2 pommes</p>
+    <p>cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre. 
+    Mélanger beurre fondu, sucre, sucre vanillé, cannelle, oeufs entiers, lait, poudre d’amande, farine et levure. Dans un moule à manqué, mettre la moitié de la pâte. Disposer les morceaux de pommes dessus, coupés en petits cubes. 
+    Mettre le reste de pâte. Cuire 50 min sur 180-200°C (thermostat 6-7). 
+    Couvrir avec du papier aluminium au bout de 35 min de cuisson.
+  ]]>
+  </preparation>
+</recette>

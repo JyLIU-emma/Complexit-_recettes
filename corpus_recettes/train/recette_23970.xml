@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23970">
+  <titre>Clafoutis au surimi</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>80 g de farine</p>
+    <p>4 oeufs</p>
+    <p>50 cl de lait écrémé</p>
+    <p>1 courgette moyenne râpée</p>
+    <p>30 g de gruyère râpé</p>
+    <p>1 cuillère à café de margarine</p>
+    <p>12 bâtonnets de surimi</p>
+    <p>sel, poivre et noix de muscade en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, mélanger la farine, les oeufs et le lait en le versant peu à peu. Saler, poivrer et ajouter une pincée de noix de muscade. 
+    Incorporez la courgette râpée, les bâtonnets de surimi coupés en petis morceaux et le gruyère râpé. 
+    Verser la préparation dans un moule à manqué (24 cm) margariné. 
+    Enfourner pour 30 minutes à four chaud (240°C). 
+    Se sert chaud ou froid.
+  ]]>
+  </preparation>
+</recette>

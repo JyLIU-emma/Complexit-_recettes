@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17474">
+  <titre>Pain de courgettes au lard et à la menthe</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 courgettes</p>
+    <p>3 oeufs</p>
+    <p>20 cl de crème fraîche</p>
+    <p>10 feuilles de menthe</p>
+    <p>lard fumé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire roussir à la poêle le lard fumé et les courgettes épluchées et coupées en petits dès. 
+    Egoutter. 
+    Dans un saladier, battre les oeufs et la crème. Saler. 
+    Ciseler les feuilles de menthe très finement. 
+    Mettre dans un plat à cake beurré. 
+    Faire cuire 45 mn au bain-marie à four moyen
+    Servir froid ou chaud. Si servi froid, accompagné d'une vinaigrette au coulis de tomate.
+  ]]>
+  </preparation>
+</recette>

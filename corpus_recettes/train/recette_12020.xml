@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12020">
+  <titre>Bricks au chèvre frais</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 petits chèvres frais</p>
+    <p>4 cuillères à café de miel</p>
+    <p>8 amandes coupées en lamelles ou en morceaux</p>
+    <p>4 feuilles de bricks</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Farcir les feuilles avec le fromage, le miel et les amandes.
+    Faire chauffer dans une poêle un fond d'huile d'olive. Lorsque l'huile est chaude,y placer les feuilles de bricks farcies.
+    Cuire 10 min et servir.
+    Se mange comme entrée ou comme plat principal, accompagné d'une salade composée. Bordeaux
+  ]]>
+  </preparation>
+</recette>

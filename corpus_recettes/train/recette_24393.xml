@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24393">
+  <titre>Quiche aux poireaux</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée ou feuilletée</p>
+    <p>250 g de poireaux</p>
+    <p>25 cl de crème fraîche</p>
+    <p>20 cl de lait</p>
+    <p>4 oeufs</p>
+    <p>50 g de beurre</p>
+    <p>noix de muscade</p>
+    <p>chapelure</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez et coupez les blancs de poireaux en tronçons.
+    Faites-les cuire dans une sauteuse couverte avec le beurre
+    et un peu d'eau environ 20 minutes.
+    Une fois cuits, travaillez-les en purée à la fourchette.
+    Etalez la pâte dans un moule, piquez-la à la fourchette.
+    Saupoudrez de chapelure et étalez la purée de poireaux.
+    Battez les oeufs avec la crème et le lait, sel, poivre et une pincée de muscade.
+    Versez sur les poireaux et saupoudrez de chapelure.
+    Faites cuire 40 min au four préchauffé à 220°C (thermostat 7-8).
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14404">
+  <titre>Beignets de pois chiches</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g pois chiches</p>
+    <p>1 oignon haché</p>
+    <p>2 gousses d'ail écrasées</p>
+    <p>25 g persil ciselé</p>
+    <p>2 piments oiseaux finement hachés</p>
+    <p>1 cuillère à soupe de coriandre ciselée</p>
+    <p>1/2 cuillère à café de cumin moulu</p>
+    <p>1/2 cuillère à café de poivre noir fraîchement moulu</p>
+    <p>2 oeufs</p>
+    <p>3 cuillères à soupe de farine</p>
+    <p>2 cuillères à café de levure chimique </p>
+    <p>huile pour friture</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un bol de verre, mettre les pois chiches, les couvrir d'eau et les laisser tremper 48 h. Changer l'eau chaque jour.
+    Egoutter les pois chiches, les mettre dans le bol d'un robot ménager avec l'oignon, l'ail, le persil, les piments oiseaux, la coriandre, le cumin, le poivre et les oeufs. Réduire en une pâte lisse. Y incorporer la farine et la levure chimique.
+    Faire chauffer l'huile dans une grande poêle. 
+    Façonner la pâte en beignets et les faire dorer par petites quantites dans l'huile chaude.
+    Servir avec une sauce tomate, selon votre goût.
+  ]]>
+  </preparation>
+</recette>

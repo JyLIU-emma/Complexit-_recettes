@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22009">
+  <titre>Omelette aux pâtes (restes)</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>reste de pâtes (natures, au fromage, à la sauce tomate...)</p>
+    <p>6 oeufs</p>
+    <p>huile</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire chauffer un peu d'huile dans une poêle, y faire réchauffer les pâtes à feu doux.
+    Battre les oeufs en omelette, saler et poivrer.
+    Les verser dans la poêle et cuire l'omelette plus ou moins en fonction de la cuisson désirée : baveuse ou bien cuite.
+  ]]>
+  </preparation>
+</recette>

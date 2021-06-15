@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23078">
+  <titre>Lotte facile à l'oseille et aux herbes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,2 kg de lotte coupée en morceaux</p>
+    <p>1 cuillère à soupe bombée de farine</p>
+    <p>sel, poivre</p>
+    <p>1 bouquet garni</p>
+    <p>2 gousses d'ail</p>
+    <p>300 g d'oseille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les morceaux de lotte dans l'huile jusqu'à ce qu'ils soient dorés puis saupoudrer de farine.
+    Laisser blondir la farine puis ajouter l'ail haché et le bouquet garni.
+    Verser 15 cl d'eau et couvrir. Laisser cuire 10 minutes avant d'incorporer l'oseille hachée.
+    Poursuivre la cuisson 15 minutes et servir chaud.
+  ]]>
+  </preparation>
+</recette>

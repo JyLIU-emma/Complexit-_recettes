@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18149">
+  <titre>Bananes grillees  au barbecue</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 grosses bananes mures (mais pas trop!)</p>
+    <p>2 sachets  de sucre vanille</p>
+    <p>4 cuillères  à café de rhum</p>
+    <p>4 boules de glace vanille(ou autre)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    coupez les bananes dans le sens de la longueur avec la peau.
+    ajoutez le sucre vanille (1 demi sachet par demi fruit).
+    placez delicatement sur la grille du barbecue.
+    cuire 3 a 5 mn .
+    faire flamber; ajoutez 1 boule de glace et servir aussitot
+     petillant tres frais!!
+  ]]>
+  </preparation>
+</recette>

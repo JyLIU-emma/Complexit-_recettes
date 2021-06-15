@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19723">
+  <titre>Tarte au bleu d'auvergne et aux noix</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>pâte feuilletée</p>
+    <p>200 g cerneaux de noix</p>
+    <p>200 g de Bleu d'Auvergne</p>
+    <p>200 g de crème fraîche</p>
+    <p>150 g de gruyère râpé</p>
+    <p>5 oeufs</p>
+    <p>1 pincée de noix de muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Réserver 15 cerneaux de noix pour la décoration. 
+    Hacher les autres trés finement puis les mélanger au Bleu préalablement réduit en pommade à la fourchette. 
+    Ajouter la crème fraîche, les oeufs et le gruyère. 
+    Assaisonner avec la noix de muscade et du poivre. 
+    Allumer le four Th 8. 
+    Beurrer un moule, le garnir avec la pâte. Recouvrir avec la préparation, glisser au four 10 à 15 mn de cuisson vive puis placer les cerneaux de noix réservés. 
+    Abaisser la chaleur Th 5 , achever la cuisson en 30 mn.
+  ]]>
+  </preparation>
+</recette>

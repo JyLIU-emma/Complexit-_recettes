@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24662">
+  <titre>Crème de truite fumée</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 truites fumées</p>
+    <p>25 cl de crème entière très froide</p>
+    <p>1 citron</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ôter la peau des truites et les débarasser de leurs arêtes.
+    Mixer finement avec le jus de citron.
+    Fouetter la crème en chantilly et l'incorporer délicatement à la purée de truite.
+    Rectifier l'assaisonnement en sel et poivre et servir à l'apéritif.
+  ]]>
+  </preparation>
+</recette>

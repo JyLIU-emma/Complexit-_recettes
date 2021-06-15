@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165181">
+  <titre>Verrine mascarpone spéculoos ananas</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de mascarpone</p>
+    <p>10 spéculoos</p>
+    <p>4 oeufs</p>
+    <p>6 cuil. à soupe de sucre</p>
+    <p>6 rondelles d'ananas</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Séparer les blancs des jaunes.
+    Mélanger le mascarpone avec les jaunes et le sucre. Monter les blancs en neige . Les ajouter délicatement à la préparation.
+     Mettre 1 spéculoos émietté dans le fond d'une verrine, ajouter un peu de mascarpone, mettre quelques morceaux d'ananas puis du mascarpone, finir par du spéculoos émietté au moment de servir.
+     Mettre au frais au moins 3 heures
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Séparer</OPER> les blancs des jaunes. <OPER id="o_2">Mélanger</OPER> le <INGRED id="4">mascarpone</INGRED> avec les jaunes et le sucre. <OPER id="o_3">Monter</OPER> les blancs en neige. Les <OPER id="o_4">ajouter</OPER> délicatement à la préparation. <OPER id="o_5">Mettre</OPER> 1 <INGRED id="2">spéculoos</INGRED> émietté dans le fond d'une verrine, <OPER id="o_6">ajouter</OPER> un peu de <INGRED id="4">mascarpone</INGRED>, <OPER id="o_7">mettre</OPER> quelques morceaux d'ananas puis du <INGRED id="4">mascarpone</INGRED>, <OPER id="o_8">finir</OPER> par du <INGRED id="2">spéculoos</INGRED> émietté au moment de servir. <OPER id="o_9">Mettre</OPER> au frais au moins 3 heures
+  </annotation>
+  <annotation methode="crf">
+  Séparer les <INGRED>blancs</INGRED> des <INGRED>jaunes</INGRED> <INGRED>.</INGRED> Mélanger le <INGRED>mascarpone</INGRED> avec les <INGRED>jaunes</INGRED> et le <INGRED>sucre</INGRED>. Monter les <INGRED>blancs</INGRED> en neige <INGRED>.</INGRED> Les ajouter délicatement à la préparation <INGRED>.</INGRED> Mettre 1 spéculoos émietté dans le <INGRED>fond</INGRED> d'une verrine <INGRED>,</INGRED> ajouter un peu de <INGRED>mascarpone</INGRED> <INGRED>,</INGRED> mettre quelques <INGRED>morceaux</INGRED> d'<INGRED>ananas</INGRED> puis du <INGRED>mascarpone</INGRED> <INGRED>,</INGRED> finir par du spéculoos émietté au moment de servir <INGRED>.</INGRED> Mettre au <INGRED>frais</INGRED> au moins 3 heures
+  </annotation>
+  <complexite>
+    <temps>f(X) = 8.66666666666667*X + 0.333333333333333</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 26*X + 5</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['mascarpone']	 id:1	 quantité:250	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['spéculoos']	 id:2	 quantité:10	 unité:non_precis	 denombrable:True	 recipient:10*X
+ingredient:['oeufs']	 id:3	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['cuil . à soupe de sucre', 'cuil']	 id:4	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['ananas']	 id:5	 quantité:6	 unité:rondelles d'	 denombrable:True	 recipient:6*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:séparer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_2	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:monter	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_5	 ingrédients_ralatifs:['2', '4', '4', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_6	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_7	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:finir	 id:o_8	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+]]>
+</operation_trouve>
+</recette>

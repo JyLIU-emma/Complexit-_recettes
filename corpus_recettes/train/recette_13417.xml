@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13417">
+  <titre>Penne aux tomates séchées</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100 g tomates séchées dans l'huile</p>
+    <p>1,5 dl crème entière</p>
+    <p>0,75 dl de bouillon</p>
+    <p>50 g de copeaux de parmesan</p>
+    <p>penne</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Egouter et couper les tomates en julienne.
+    Porter à ébullition la crème, le bouillon et les tomates. Assaisonner.
+    Cuire les penne. Mélanger.
+    Présenter avec les copeaux de parmesan dessus.
+    S'accompagne d'une salade verte. vin italien ou espagnol (léger)
+  ]]>
+  </preparation>
+</recette>

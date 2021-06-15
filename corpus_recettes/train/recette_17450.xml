@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17450">
+  <titre>Courgettes bolognaises</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de courgettes</p>
+    <p>500 g de viande hachée</p>
+    <p>400 g de coulis de tomate</p>
+    <p>ail, persil</p>
+    <p>sel et poivre</p>
+    <p>gruyère râpé ou parmesan</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les courgettes en rondelles et les faire cuire 20 mn à la vapeur.
+    Pendant ce temps, faire revenir 10 mn la viande hachée dans un peu de matière grasse . Ajouter le coulis de tomate, l'ail, le persil, le sel et le poivre. Laisser cuire encore 5 mn.
+    Mélanger le tout. Facultatif : saupoudrer de gruyère râpé ou de parmesan.
+    Aussi bon (sinon meilleur) que les spaghetti bolognaise, avec les calories en moins!
+  ]]>
+  </preparation>
+</recette>

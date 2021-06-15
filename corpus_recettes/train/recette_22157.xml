@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22157">
+  <titre>Filets de rascasse au four</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 filets de rascasse</p>
+    <p>4 tomates</p>
+    <p>80 g de fromage râpé</p>
+    <p>2 cuillères à soupe de crème fraîche épaisse</p>
+    <p>1 cuillère à soupe rase de pâte d'anchois</p>
+    <p>1 cuillère à soupe de câpres au vinaigre</p>
+    <p>1 cuillère à soupe d'oignons émincés</p>
+    <p>1 cuillère à café d'ail haché</p>
+    <p>25 g de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 210°C (thermostat 7). 
+    Beurrez un plat à four et disposez les tomates émincées dedans.
+    Salez, poivrez, et répartissez les oignons et l'ail.
+    Posez les filets de poisson dessus, poivrez et enfournez.
+    Lalissez cuire ennviron 7 min.
+    Mélangez la crème avec la pâte d'anchois et les câpres, tartinez-en les filets de poisson.
+    Parsemez de fromage et remettez au four 10 minutes.
+    Servez bien chaud.
+    Des pommes de terre vapeur iront très bien avec ce plat.
+  ]]>
+  </preparation>
+</recette>

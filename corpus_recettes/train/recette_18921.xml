@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18921">
+  <titre>Tarte aux pommes et à la noix de coco</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 pommes Golden (ou autres)</p>
+    <p>1 pâte brisée</p>
+    <p>100 g de noix de coco</p>
+    <p>1 oeuf</p>
+    <p>50 g de beurre fondu</p>
+    <p>100 g de sucre en poudre</p>
+    <p>20 g de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez les pommes, coupez les en lamelles puis les installer sur la pâte brisée que vous aurez mise dans un moule à tarte. 
+    Mélanger l'oeuf avec le sucre, le beurre fondu, la noix de coco et enfin la farine. 
+    Recouvrez la tarte de cette préparation. 
+    Cuire le tout à four chaud (210°C) pendant 40 min environ.
+    Bon marché et facile un cidre
+  ]]>
+  </preparation>
+</recette>

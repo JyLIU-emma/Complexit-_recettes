@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20808">
+  <titre>Rôti de veau au vin blanc</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de noix de veau en rôti </p>
+    <p>50 g de beurre</p>
+    <p>2 oeufs durs</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>20 cl d’eau tiède</p>
+    <p>1/2 oignon</p>
+    <p>5 cuillères à soupe d'huile</p>
+    <p>2 cuillères à soupe de vinaigre</p>
+    <p>1 cuillère à café de moutarde</p>
+    <p>un zeste de citron</p>
+    <p>persil haché</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire dorer  le rôti de chaque côté dans une cocotte avec le beurre. Assaisonner et mouiller de vin.
+    Lorsque le vin s'est évaporé, ajouter l’eau. Laisser mijoter à feu doux pendant 1 h.
+    Trancher le rôti une fois refroidi et le réserver dans un endroit frais.
+    Émietter les jaunes d’oeufs dans un bol et le mélanger avec  le persil, l’oignon ciselé, la moutarde et un peu d'écorce de citron râpée.
+    Assaisonner et verser progressivement l’huile et le vinaigre en tournant doucement et régulièrement comme pour une mayonnaise.
+    Verser la sauce sur le rôti et garnir de rondelles de citron.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26514">
+  <titre>Le Régal Aux Amandes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 blancs d'oeufs</p>
+    <p>150 g de beurre</p>
+    <p>150 g de sucre</p>
+    <p>75 g de farine</p>
+    <p>75 g d'amandes entières grossièrement pilées</p>
+    <p>2 sachets de sucre vanillé (facultatif) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 180°C. 
+    Dans un saladier, mélanger le beurre fondu, les amandes pilées puis la farine. 
+    Ajouter ensuite le sucre (et le sucre vanillé, si vous en mettez). 
+    Battre les blancs en neige fermes et les ajouter délicatement à la préparation à l'aide d'une spatule. 
+    Beurrer un moule à manquer et y verser le mélange. 
+    Enfourner puis cuire 30 mn.
+    Ce dessert est un excellent moyen d'utiliser vos blancs d'oeufs !Vous pouvez le servir nature ou accompagné d'une crème anglaise.
+    On peut en faire des variantes : noix, noisettes... un bon café
+  ]]>
+  </preparation>
+</recette>

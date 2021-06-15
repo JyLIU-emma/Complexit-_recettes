@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24001">
+  <titre>Gâteau montagnard au chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour le gâteau :</p>
+    <p>150 g de chocolat noir</p>
+    <p>125 g de sucre en poudre</p>
+    <p>100 g de beurre</p>
+    <p>2 cuillères à soupe de maïzena</p>
+    <p>100 g de poudre d'amandes</p>
+    <p>3 oeufs</p>
+    <p>confiture d'abricots</p>
+    <p>Pour le glaçage :</p>
+    <p>50 g de chocolat</p>
+    <p>1 cuillère à soupe de café soluble</p>
+    <p>50 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 150°C (thermostat 5).
+    Faire fondre 150 g de chocolat au bain-marie avec 100 g de beurre.
+    Séparer les jaunes des blancs d'oeufs puis battre 3 jaunes avec le sucre jusqu'à ce que le mélange blanchisse. Ajouter le chocolat fondu, la poudre d'amandes, saupoudrer de maïzena et bien mélanger le tout.
+    Battre les blancs en neige avec une pincée de sel dans un saladier bien frais, puis les incorporer à la pâte amandée au chocolat. Remuer la préparation jusqu'à ce qu'elle devienne bien lisse.
+    Verser le tout dans un moule à manqué beurré. Enfourner et laisser cuire 45 min à four chaud.
+    Sortir le gâteau du four le démouler puis le placer sur un plat de service. L'enduire de confiture d'abricot.
+    Dans une casserole, faire chauffer le reste du chocolat et du beurre avec une cuillère à soupe de café soluble. Recouvrir ensuite le gâteau de ce glaçage puis laisser durcir.
+    Déguster !
+  ]]>
+  </preparation>
+</recette>

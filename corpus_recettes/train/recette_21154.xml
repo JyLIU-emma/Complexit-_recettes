@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21154">
+  <titre>Gaufres de Liège</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>750 g de farine fluide</p>
+    <p>270 g de lait tiède</p>
+    <p>7 g de levure</p>
+    <p>10 à 15 g de sel</p>
+    <p>400 g de beurre ou autre matière grasse</p>
+    <p>3 œufs entiers + 2 jaunes</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>500 g de sucre perlé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer l'appareil à gaufre en mélangeant la farine, les œufs, le sel, le sucre vanillé et la levure délayée dans le lait tiède. 
+    Laisser lever à entre 30 et 45 min près d'un radiateur ou dans un autre endroit à plus ou moins 24 degrés. 
+    Incorporer le beurre pommade. 
+    Incorporer le sucre perlé. 
+    Laisser reposer minimum 30 min. 
+    Préparer des pâtons de +/- 100 g 
+    Cuire de 3 à 4 mn dans un gaufrier bien chaud.
+    Recette originale du terroir.
+    Pas besoin de graisser le moule à gaufre.C'est belge, c'est bon.
+  ]]>
+  </preparation>
+</recette>

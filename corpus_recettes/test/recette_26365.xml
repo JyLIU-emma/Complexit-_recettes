@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26365">
+  <titre>Frochettes</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 oeufs</p>
+    <p>100 g de chapelure</p>
+    <p>100 g de parmesan</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Battre les oeufs entiers, y ajouter du sel et du poivre. 
+    Mélanger les oeufs avec la chapelure et le parmesan râpé. 
+    La pâte obtenue doit être légèrement liquide. 
+    Mettre 1 cm d'huile (de préférence d'olive) dans une poêle, 
+    laisser tomber avec une cuillère un peu de pâte. 
+    Vous obtiendrez de petites galettes.
+    Ajuster la pâte en ajoutant un peu plus de fromage ou de chapelure.
+    Le parmesan peut être remplacé par du gruyère ou autre fromage.
+  ]]>
+  </preparation>
+</recette>

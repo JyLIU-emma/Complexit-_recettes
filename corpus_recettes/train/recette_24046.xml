@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24046">
+  <titre>Jambon à l'échalote (Jura)</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 tranches de jambon cuit (ou cru) fumé</p>
+    <p>80 g d'échalotes grises</p>
+    <p>50 cl de crème fraîche</p>
+    <p>15 cl de vin jaune du Jura</p>
+    <p>2 cuillères à soupe de concentré de tomate</p>
+    <p>1 pointe de piment de Cayenne</p>
+    <p>60 g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher finement les échalotes, puis les faire revenir dansune casserole sans les colorer.
+    Ajouter le concentré de tomates, la moitié du vin jaune et la crème. Assaisonner cette sauce (sel et poivre), rajouter une pointe de Cayenne, puis la laisser cuire pendant 10 mn.
+    Mettre les tranches de jambon à chauffer dans un plat au four avec le reste du vin.
+    Passer la sauce au chinois, la faire encore réduire quelques minutes pour qu'elle soit onctueuse, rectifier l'assaisonnement, verser sur les tranches de jambon et servir très chaud.
+    [NDchef: à tester avec du jambon cuit fumé du Haut-Doubs! Hmmm...] vin jaune
+  ]]>
+  </preparation>
+</recette>

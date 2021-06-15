@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26073">
+  <titre>Brownies aux éclats de chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>75 g de beurre</p>
+    <p>100 g de sucre</p>
+    <p>2 cuillères à soupe d'eau</p>
+    <p>350 g de chocolat</p>
+    <p>2 oeufs</p>
+    <p>90 g de farine</p>
+    <p>1/2 paquet de levure chimique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four Th 160°C. 
+    Beurrez un moule de 22 cm. 
+    Fondre le beurre ajoutez le sucre et l'eau. 
+    Hors du feu ajouter 175 g de chocolat. Remuez jusqu'à ce qu'ils soient fondus. Laissez refroidir un peu. 
+    Incorporez les oeufs un par un et bien mélanger. 
+    Ajoutez la farine et la levure. 
+    Coupez en morceau le chocolat restant. Les rajouter et bien remuer. 
+    Mettre au four 30 mn. 
+    Attention à ne pas trop le faire cuire. 
+    Les morceaux de chocolat rajoutés à la fin lui donne une consistance moelleuse.
+  ]]>
+  </preparation>
+</recette>

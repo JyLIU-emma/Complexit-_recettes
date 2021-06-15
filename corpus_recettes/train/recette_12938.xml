@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12938">
+  <titre>Kougelhopf sucré (Alsace)</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de farine</p>
+    <p>75 g de sucre</p>
+    <p>10 g de sel</p>
+    <p>150 g de beurre ramolli</p>
+    <p>2 oeufs</p>
+    <p>20 cl de lait tiède (attention ! pas chaud, sinon l'action de la levure ne se fera pas)</p>
+    <p>25 g de levure de bière (fraîche)</p>
+    <p>75 g de raisins secs</p>
+    <p>40 g d'amandes entières</p>
+    <p>du sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Tremper les raisins dans de l'eau tiède pour les faire gonfler.
+    Mélanger la levure à 10 cl de lait et un peu de farine pour en faire une pâte à laisser reposer jusqu'à doublement de son volume.
+    Mélanger la farine restante, le sel, le sucre, les oeufs et les 10cl de lait restants. Pétrir pendant 15 mn pour bien aérer la pâte.
+    Ajouter le beurre ramolli et bien mélanger.
+    Ajouter ensuite le levain, puis pétrir quelques minutes jusqu'à ce que la pâte se détache des bords du récipient.
+    Couvrir d'un linge et laisser reposer pendant 1h dans un endroit tempéré (près d'un radiateur par exemple).
+    Faire reprendre à la pâte son volume initial en la tapotant.
+    Ajouter les raisins et mélanger.
+    Bien beurrer le moule à kougelhopf jusque dans les cannelures. Déposer une amande dans chaque cannelure. Y mettre la pâte et laisser reposer jusqu'à ce qu'elle arrive au bord du moule.
+    Cuire 50 minutes à thermostat 7 (200-210°C). Si la pâte se colore de trop, couvrir d'un papier sulfurisé.
+    Démouler sur une grille et saupoudrer généreusement de sucre glace.
+     un Gewurztraminer ou un Crémant d'Alsace
+  ]]>
+  </preparation>
+</recette>

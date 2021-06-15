@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20916">
+  <titre>Quiche au surimi</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>une pâte brisée</p>
+    <p>120 g de surimi</p>
+    <p>125 g de crème fraîche</p>
+    <p>180 ml de lait</p>
+    <p>2 oeufs battus</p>
+    <p>2 cuillères à soupe de moutarde</p>
+    <p>2 cuillères à soupe de mayonnaise</p>
+    <p>ciboulette</p>
+    <p>jus de citron</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 200°C . 
+    Etalez la pâte dans le moule. 
+    Mixez le surimi (dans le bol d'un robot) ou coupez-le en petits morceaux. Rajoutez les différents ingrédients : la crème fraîche, le lait, les oeufs, la moutarde, la mayonnaise. Assaisonnez l'appareil obtenu avec la ciboulette, le poivre et le jus de citron. 
+    Versez sur la pâte. 
+    Enfournez dans le four chaud et laissez cuire 25 mn (la quiche doit être dorée et ferme au toucher).
+    Le surimi peut être remplacé par du saumon fumé. Pour la déco, on peut rajouter des lanières de saumon.
+  ]]>
+  </preparation>
+</recette>

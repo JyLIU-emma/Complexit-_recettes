@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26063">
+  <titre>Poule au pot à l'estragon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poule</p>
+    <p>2 branches d'estragon</p>
+    <p>2 oignons piqués de 2 clous de girofle</p>
+    <p>1 bouquet garni</p>
+    <p>30 cl de crème fraîche</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Salez et poivrez la poule, farcissez-la avec 1 branche d'estragon hachée.
+    Mettez-la dans une cocotte, couvrez d'eau, ajoutez le bouquet garni et les oignons et faites cuire 1 h 30 à petits bouillons.
+    Egouttez la poule et filtrez le bouillon de cuisson.
+    Fouettez la crème avec 30 cl de bouillon filtré et faites réduire cette sauce à feu doux jusqu'à ce qu'elle devienne onctueuse.
+    Retirez du feu et incorporez les jaunes d'oeufs et les feuilles de la 2e branche d'estragon hachées.
+    Servez la poule découpée et nappée de sauce.
+    Accompagnez de riz bien sûr ! Ou de pommes de terre vapeur, tagliatelles, purée de courgettes... pour changer !
+  ]]>
+  </preparation>
+</recette>

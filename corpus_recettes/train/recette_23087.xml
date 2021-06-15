@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23087">
+  <titre>Soupe de tomates aux oeufs pochés et au cerfeuil</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>375 g de tomates</p>
+    <p>375 g de pommes de terre</p>
+    <p>2 oignons</p>
+    <p>1 bouquet garni</p>
+    <p>6 oeufs</p>
+    <p>3 cuillères à soupe de crème</p>
+    <p>2 cuillères à soupe de vinaigre</p>
+    <p>1 bouquet de cerfeuil</p>
+    <p> sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire les tomates et les pommes de terre dans 1,5 l d'eau bouillante avec le bouquet garni, du sel et du poivre pendant 30 minutes.
+    Ôter le bouquet garni et mixer l'ensemble. Ajouter la moitié du bouquet de cerfeuil haché.
+    Pocher les oeufs dans de l'eau bouillante vinaigrée pendant 3 minutes puis les égoutter.
+    Répartir la soupe dans les assiettes, déposer un oeuf poché au centre et saupoudrer de pluches de cerfeuil.
+  ]]>
+  </preparation>
+</recette>

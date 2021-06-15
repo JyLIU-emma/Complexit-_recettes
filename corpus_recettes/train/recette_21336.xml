@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21336">
+  <titre>Tarte chocolat framboises</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>100 g de crème fraîche liquide</p>
+    <p>100 g de chocolat noir amer</p>
+    <p>100 g de beurre mou</p>
+    <p>1 cuillère à soupe de cacao</p>
+    <p>1 rouleau de pâte sablée prête à l'emploi</p>
+    <p>200 g de framboises</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 210°C (thermostat 7) et beurrez un moule à tarte de 22 cm de diamètre.
+    Etalez la pale sablée dans le moule. Piquez le fond. Recouvrez-le de papier aluminium et de haricots secs. 
+    Enfournez pour 10 minutes de cuisson, retirez les haricots secs et le papier puis poursuivre la cuisson 5 minutes.  
+    Laissez refroidir. 
+    Amenez la crème à ébullition avec le cacao. Retirez du feu et
+    ajoutez le chocolat cassé en petits morceaux. Fouettez jusqu'à ce que le chocolat soit fondu. Laissez tiédir avant d'incorporer le beurre mou. Mélangez délicatement.
+    Répartissez les framboises sur le fond de tarte. Versez la crème au chocolat sur les framboises. Décorez le dessus de la tarte de cacao en poudre et de framboises.   
+    Servez frais.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26151">
+  <titre>Terrine de porc au lard</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg d'échine de porc ou de viade à rôti sans os</p>
+    <p>250 g de foie de porc</p>
+    <p>200 g de lard gras</p>
+    <p>1 grande barde de lard</p>
+    <p>3 oeufs</p>
+    <p>1 échalote</p>
+    <p>1 gousse d'ail</p>
+    <p>25 g de sel</p>
+    <p>1 pincée de poivre</p>
+    <p>1 pincée de mélange "4 épices"</p>
+    <p>1 cuillère à soupe de cognac</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger la viande hachée : échine et lard. Assaisonner de sel, poivre, épices, échalotes et ails hachées.
+    Ajouter un à un les oeufs et le cognac. Mélanger intimement.
+    Tapisser une terrine avec les 3/4 de la barde de lard. Remplir de farce puis recouvrir de barde restante.
+    Couvrez la terrine de son couvercle ou d'un papier aluminium et mettre à cuire au bain-marie pendant 1 h 30 min thermostat 6 à 180°.
+    La terrine est cuite lorsque la lame du couteau ressort chaude et qu'il n'y a pas de jus rosé qui sort du pâté.
+  ]]>
+  </preparation>
+</recette>

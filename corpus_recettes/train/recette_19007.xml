@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19007">
+  <titre>Nouilles deux couleurs sauce à la crème et au veau</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>beurre</p>
+    <p>1 petit oignon haché</p>
+    <p>6 tranches de bacon coupées menu</p>
+    <p>250 g de veau haché</p>
+    <p>1/2 cuillère thé de sel</p>
+    <p>1/4 cuillère thé de poivre</p>
+    <p>1/8 cuillère thé d'origan sec</p>
+    <p>500 g de champignons émincés</p>
+    <p>1 tasse de crème 15 % épaisse</p>
+    <p>2 cuillères soupe de persil frais haché</p>
+    <p>175 g de nouilles aux oeufs cuites, égouttées et gardées au chaud</p>
+    <p>175 g de nouilles vertes cuites, égouttées et gardées au chaud</p>
+    <p>1/2 tasse de parmesan râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole faire fondre 1/4 tasse de beurre. 
+    Ajouter l'oignon et le bacon et faire revenir en tournant souvent pendant 6 mn.
+     
+    Ajouter le veau et cuire 5 mn en remuant constamment jusqu'à dorer. 
+    Ajouter sel, poivre et origan ainsi que les champignons et faire cuire 5 mn. 
+    Ajouter la crème, persil et mélanger. 
+    Réduire le feu et cuire 5 mn, ne pas laisser bouillir. 
+    Placer les nouilles dans un grand plat et les mélanger. 
+    Verser la sauce dessus et mélanger le tout, servir avec le parmesan.
+  ]]>
+  </preparation>
+</recette>

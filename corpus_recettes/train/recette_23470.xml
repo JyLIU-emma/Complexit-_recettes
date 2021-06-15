@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23470">
+  <titre>SALADE AU RAISIN ET ROQUEFORT</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 laitue feuille de chêne</p>
+    <p>2 petites grappes de raisin (blanc et noir) </p>
+    <p>100 g de Roquefort</p>
+    <p>10 brins de persil plat ou de coriandre selon le goût</p>
+    <p>4 tranches très fines de jambon cru</p>
+    <p>1 cuillère à soupe de vinaigre de vin</p>
+    <p>1 cuillère à soupe d'huile d'arachide</p>
+    <p>1 cuillère à soupe d'huile de noisette</p>
+    <p>sel et poivre du moulin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Lavez la salade et essorez-la. Egrappez le raisin puis lavez-le. Passez sous l'eau les brins de persil, puis épongez-les. Emiettez le Roquefort. 
+    Préparez la vinaigrette. Fouettez dans un grand saladier le vinaigre de vin avec du poivre moulu, du sel et les huiles d'arachide et de noisette. 
+    Découpez les fines tranches de jambon en quatre ou cinq lanières. 
+    Chauffez une poêle antiadhésive, sans matière grasse. Faites-y dorer rapidement les lanières de jambon en les retournant. Posez-les sur un papier absorbant pour les égoutter. 
+    Ajoutez la salade et les brins de persil dans le saladier et mélangez. 
+    Sans attendre, répartissez la salade sur les assiettes, ajoutez les grains de raisin, le Roquefort émietté et les copeaux de jambon rissolés. Servez vite.
+  ]]>
+  </preparation>
+</recette>

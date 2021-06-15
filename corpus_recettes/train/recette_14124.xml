@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14124">
+  <titre>Gâteau rhum-coco</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>90 g + 5 g de noix de coco râpée</p>
+    <p>5 cl de rhum</p>
+    <p>5 cl de jus de citron</p>
+    <p>3 oeufs</p>
+    <p>200 g de beurre mou</p>
+    <p>250 g de farine</p>
+    <p>125 g de sucre</p>
+    <p>1 sachet de levure chimique</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 200°C.Mélanger farine, levure, 1 pincée de sel, 90 g de noix de coco râpée. Battez en crème le beurre morcelé et le sucre.
+    Ajoutez les oeufs un à un en fouettant. Ajoutez par petits volumes en alternant farine, rhum et citron. Emplissez le moule.
+    Enfournez 10 mn. Baissez à 170°C, puis cuisez 25-30 mn.Démoulez, poudrez des 5 g de noix de coco restants.
+  ]]>
+  </preparation>
+</recette>

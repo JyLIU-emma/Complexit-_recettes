@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24330">
+  <titre>Simple quiche aux champignons</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>800 g de champignons r osés ou de Paris</p>
+    <p>30 g de beurre</p>
+    <p>1 citron</p>
+    <p>3 œufs </p>
+    <p>4 cuillères à soupe de crème fraîche</p>
+    <p>2 cuillères à soupe de moutarde</p>
+    <p>200 g de gruyère râpé</p>
+    <p>1 pincée de noix de muscade</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Foncer un moule à tarte avec la pâte brisée et la piquer à l’aide d’une fourchette.
+    La mettre à cuire au four à 240°C (thermostat 8)  avec des haricots secs pendant 20 min.
+    Pendant ce temps, nettoyer, essuyer et émincer les champignons puis les faire revenir à feu très doux dans une poêle beurrée.
+    Les arroser du jus d’1 citron, saler, poivrer; ajouter la moutarde et laisser cuire jusqu’à évaporation complète du jus de cuisson.
+    Battre ensuite les œufs entiers avec la crème et le gruyère râpé puis saler et poivrer le tout.
+    Sortir la pâte du four, la garnir de la préparation aux champignons puis l’enfourner 20 min à 210°C (thermostat 7).
+  ]]>
+  </preparation>
+</recette>

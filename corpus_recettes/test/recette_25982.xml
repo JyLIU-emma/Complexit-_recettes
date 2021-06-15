@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25982">
+  <titre>Lapin au four</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 lapin</p>
+    <p>2 oignons</p>
+    <p>150 g de lardons</p>
+    <p>150 g olives vertes à la mexicaine</p>
+    <p>3 verres de vin blanc</p>
+    <p>3 verres d'eau</p>
+    <p>herbes de Provence</p>
+    <p>sel, poivre</p>
+    <p>1 kg de pommes de terre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un plat, mettre les pommes de terre coupées en lamelles, ajouter les oignons émincés. Poser les morceaux de lapin dessus. Ajouter les lardons, et les olives. Verser l'eau et le vin blanc. 
+    Cuire au four, Th 200°C.
+    A mi-cuisson, retouner la viande, si besoin recouvrir en fin de cuisson d'une feuille d'aluminium.
+    Il est recommmandé de mettre des olives préparés dans une sauce relevée. vin d'alsace , vin du jura
+  ]]>
+  </preparation>
+</recette>

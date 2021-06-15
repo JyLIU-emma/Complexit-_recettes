@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12962">
+  <titre>Tarte aux poires</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>5 poires</p>
+    <p>70 g de sucre en poudre</p>
+    <p>200 g de poudre d'amandes</p>
+    <p>20 cl de crème fraîche liquide</p>
+    <p>1 jaune d'oeuf</p>
+    <p>1 cuillère à soupe d'armagnac</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C.Garnissez un moule rond à bords hauts avec la pâte. Lavez, pelez, et coupez les poires en deuxMélangez dans un bol la crème, le jaune d'oeuf, le sucre, la poudre d'amandes et l'armagnac.
+    Nappez le fond de la pâte avec la crème, puis disposez les demi-poires en fleur cote bombé sur le dessus en les enfonçant légèrement dans la crème.
+    Enfournez le tout 30 mn.
+  ]]>
+  </preparation>
+</recette>

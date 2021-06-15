@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14935">
+  <titre>Curry poisson et noix de coco de Mumbai</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 poisson entier (daurade, mulet...)</p>
+    <p>60 g de beurre</p>
+    <p>1 petit oignon émincé</p>
+    <p>1 gousse d’ail écrasée</p>
+    <p>1 cuillère à soupe de coriandre en poudre</p>
+    <p>1 cuillère à soupe de curcuma en poudre</p>
+    <p>1 cuillère à soupe de graines de moutarde en poudre</p>
+    <p>1/2 cuillère à café de gingembre frais haché</p>
+    <p>2 piments rouges, coupés en fines lamelles et épépinées ou 1 cuillère à café de paprika</p>
+    <p>30 cl de lait de coco</p>
+    <p>2 cuillères à soupe de jus de citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le beurre dans une sauteuse.
+    Faire revenir l’oignon, l’ail, le gingembre, le piment, la coriandre, le curcuma, la graine de moutarde pendant 3 mn. Ajouter le lait de coco et le jus de citron.
+    Porter à ébullition et faire épaissir la sauce à feu doux sans couvrir. Ajouter le poisson (vidé et écaillé).
+    Cuire à couvert et jusqu’à complète cuisson du poisson (environ 20 mn). Retourner le poisson une fois et remuer la sauce de temps en temps.
+    Servir avec du riz.
+    Recette proposée par l'association humanitaire KALAM : www.kalam-inde.org.
+    Photo de Manina Hatzimichali
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18960">
+  <titre>Tarte courgette - ricotta</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>7 feuilles de brick</p>
+    <p>1 pot de ricotta (250 g) </p>
+    <p>50 g de parmesan</p>
+    <p>3 courgettes</p>
+    <p>2 œufs</p>
+    <p>basilic (4 cuillères à soupe) </p>
+    <p>une pincée de muscade</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Râper les courgettes. Les faire revenir dans du beurre. Hors du feu, ajouter la ricotta, les œufs, le parmesan, le basilic et la muscade. Saler, poivrer. 
+    Dans un moule à tarte, disposer les feuilles de brick les unes sur les autres. Recouvrir de la préparation. Faire cuire 25 min.
+  ]]>
+  </preparation>
+</recette>

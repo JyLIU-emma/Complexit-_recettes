@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13109">
+  <titre>Boeuf à la moutarde</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de boeuf</p>
+    <p>500 g d'oignons</p>
+    <p>40 g de beurre</p>
+    <p>100 g de moutarde</p>
+    <p>8 cl de vin blanc</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Épluchez les oignons et coupez-les en lamelles.
+    Coupez la viande en morceaux.
+    Dans une cocotte, faites fondre le beurre et faite revenir la viande. Une fois la viande dorée, retirez-la de la cocotte et remplacez-la par les oignons.
+    Ajoutez le vin blanc. Replacez la viande sur les oignons, couvrez et laissez cuire pendant 1h30Une fois la viande cuite, mélangez la moutarde. Laissez cuire 5 minutes avant de servir. Un bon Bordeaux
+  ]]>
+  </preparation>
+</recette>

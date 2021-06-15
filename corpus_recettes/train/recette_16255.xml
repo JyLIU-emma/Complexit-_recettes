@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16255">
+  <titre>Crêpes diététiques</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de farine</p>
+    <p>2 œufs</p>
+    <p>1/2 l de lait écrémé (ou demi-écrémé)</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>1 pincée de sel</p>
+    <p>arôme ou sucre (facultatif)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans le lait, ajouter petit à petit les œufs, la farine, le sel, le sucre, l'huile).Bien mixer, puis faire dorer chaque face à la poêle, comme pour toute crêpe.Sans sucre, il est vrai que cette recette est salée, mais pour les plus gourmands, on peut toujours étaler sur les crêpes cuites un peu de confiture light !
+  ]]>
+  </preparation>
+</recette>

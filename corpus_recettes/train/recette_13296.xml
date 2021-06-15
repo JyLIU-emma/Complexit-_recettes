@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13296">
+  <titre>Boeuf braisé aux carottes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 morceau de paleron ou de bourguignon lkg</p>
+    <p>2 oignons</p>
+    <p>1 tranche de lard coupée en dés</p>
+    <p>un peu de matière grasse</p>
+    <p>1 petite boîte de concentré de tomates</p>
+    <p>laurier, thym, sauge</p>
+    <p>1 tablette de bouillon de boeuf</p>
+    <p>sel et poivre </p>
+    <p>2 gousses d'ail </p>
+    <p>6 carottes</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper la viande en morceaux égaux. La faire revenir dans une cocotte en fonte, dans laquelle vous avez fait chauffer la matière grasse.
+    Une fois les morceaux revenus de tous les côtés, les retirer et faire revenir les oignons émincés et les lardons.
+    Préparer le bouillon de boeuf avec 1/2 litre d'eau.
+    Ajouter la viande dans la cocotte, y verser le bouillon, le concentré de tomates, les carottes épluchées et coupées en tronçons, l'ail et les herbes.
+    Assaisonner avec le sel etle poivre, mélanger et laisser mijoter 1h30 à feu doux.
+    On peut y ajouter du vin blanc après l'avoir fait bouillir et flamber (pour enlever l'acidité). Bourgogne rouge
+  ]]>
+  </preparation>
+</recette>

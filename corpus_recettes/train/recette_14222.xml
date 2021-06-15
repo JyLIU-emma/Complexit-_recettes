@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14222">
+  <titre>Thon grillé marinade méditerranéenne</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 belles tranches de thon rouge</p>
+    <p>huile d'olive</p>
+    <p>jus d'un citron</p>
+    <p>cumin</p>
+    <p>gingembre</p>
+    <p>ail, sel et poivre</p>
+    <p>coriandre ou safran</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Quelques heures avant la grillade, mettre le thon dans un plat creux, puis l'arroser d'huile  d'olive et du jus de citron.
+    Presser l'ail, saupoudrer avec le cumin (une bonne cuillère à café) . Râper le gingembre frais, saler et poivrer.
+    Rajouter un peu de coriandre fraîche ou une dose de safran. Arroser souvent.
+    Faire cuire au barbecue.
+    Ne pas laisser cuire très longtemps.
+  ]]>
+  </preparation>
+</recette>

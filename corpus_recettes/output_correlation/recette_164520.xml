@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164520">
+  <titre>Gâteau rapide aux cranberries et pâtes de fruits</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>-un verre doseur pour les volumes</p>
+    <p>250 mlde farine de farine</p>
+    <p>200 ml de sucre en poudre</p>
+    <p>2/3 de sachet de levure chimique</p>
+    <p>1 pincée de sel</p>
+    <p>-3 oeufs</p>
+    <p>100 ml d'huile type isio 4</p>
+    <p>-125g de cranberries séchées</p>
+    <p>-1 verre de jus d'orange </p>
+    <p>-6 pates de fruits</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire tremper les cranberries séchées dans le jus d'orange et allumer le four thermostat 6
+    Couper les pates de fruits en lamelles de deux mm environ d'épaisseur
+    Beurrer et fariner un moule rond de votre choix , pas trop grand
+    Dans un saladier mélanger les poudres
+    puis ajouter les oeufs un par un et bien mélanger au fouet
+    ajouter ensuite l'huile et fouetter à
+    nouveau
+    Egoutter et ajouter les cranberries
+    Verser l'appareil dans le moule 
+    Disposer par dessus les lamelles de fruits confits
+    Cuire environ 30mn25 min de cuisson peuvent suffire pour un four qui chauffe bien. Servir éventuellement avec une crème anglaise en dessert. Parfait pour le thé. thé, jus de pommes ou champagne
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">tremper</OPER> les <INGRED id="8">cranberries séchées</INGRED> dans le <INGRED id="9">jus d'orange</INGRED> et <OPER id="o_2">allumer</OPER> le four thermostat 6 <OPER id="o_3">Couper</OPER> les pates de fruits en lamelles de deux mm environ d'épaisseur <OPER id="o_4">Beurrer</OPER> et <OPER id="o_5">fariner</OPER> un moule rond de votre choix, pas trop grand Dans un <INGRED id="1">saladier</INGRED> <OPER id="o_6">mélanger</OPER> les poudres puis <OPER id="o_7">ajouter</OPER> les <INGRED id="10">oeufs</INGRED> un par un et bien <OPER id="o_8">mélanger</OPER> au fouet <OPER id="o_9">ajouter</OPER> ensuite l'<INGRED id="7">huile</INGRED> et <OPER id="o_10">fouetter</OPER> à nouveau <OPER id="o_11">Egoutter</OPER> et <OPER id="o_12">ajouter</OPER> les <INGRED id="8">cranberries</INGRED> <OPER id="o_13">Verser</OPER> l'appareil dans le moule <OPER id="o_14">Disposer</OPER> par dessus les lamelles de fruits confits <OPER id="o_15">Cuire</OPER> environ 30mn25 min de cuisson peuvent <OPER id="o_16">suffire</OPER> pour un four qui chauffe bien. Servir éventuellement avec une <INGRED id="3">crème</INGRED> anglaise en dessert. Parfait pour le thé. thé, <INGRED id="9">jus</INGRED> de <INGRED id="7">pommes</INGRED> ou champagne
+  </annotation>
+  <annotation methode="crf">
+  Faire tremper les cranberries séchées dans le <INGRED>jus d'orange</INGRED> et allumer le four thermostat 6 Couper les pates de <INGRED>fruits</INGRED> en <INGRED>lamelles</INGRED> de <INGRED>deux</INGRED> mm <INGRED>environ</INGRED> d'épaisseur Beurrer et fariner un moule rond de votre choix <INGRED>,</INGRED> pas trop grand Dans un saladier mélanger les poudres puis ajouter les <INGRED>oeufs</INGRED> un par un et bien mélanger au fouet ajouter ensuite l'<INGRED>huile</INGRED> et fouetter à nouveau Egoutter et ajouter les <INGRED>cranberries</INGRED> Verser l'appareil dans le <INGRED>moule</INGRED> Disposer par dessus les <INGRED>lamelles</INGRED> de <INGRED>fruits</INGRED> confits Cuire <INGRED>environ</INGRED> 30mn25 min de cuisson peuvent suffire pour un four qui chauffe bien <INGRED>.</INGRED> Servir éventuellement avec une <INGRED>crème anglaise</INGRED> en dessert. Parfait pour le thé <INGRED>.</INGRED> thé <INGRED>,</INGRED> <INGRED>jus de pommes</INGRED> <INGRED>ou</INGRED> champagne
+  </annotation>
+  <complexite>
+    <temps>f(X) = 15.8276481149013*X + 0.172351885098743</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 551*X + 13</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['doseur']	 id:1	 quantité:non_precis	 unité:verre	 denombrable:False	 recipient:1
+ingredient:['farine de farine', 'farine']	 id:2	 quantité:250	 unité:non_precis	 denombrable:True	 recipient:250*X
+ingredient:['ml de sucre en poudre', 'ml']	 id:3	 quantité:200	 unité:non_precis	 denombrable:True	 recipient:200*X
+ingredient:['levure chimique', 'levure']	 id:4	 quantité:non_precis	 unité:sachet de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:5	 quantité:1	 unité:pincée de	 denombrable:True	 recipient:1*X
+ingredient:['-3 oeufs', '-3']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["ml d'huile type isio 4", 'ml']	 id:7	 quantité:100	 unité:non_precis	 denombrable:True	 recipient:100*X
+ingredient:['cranberries séchées', 'cranberries']	 id:8	 quantité:non_precis	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["jus d'orange", 'jus']	 id:9	 quantité:non_precis	 unité:verre de	 denombrable:False	 recipient:1
+ingredient:['-6 pates de fruits', '-6']	 id:10	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:tremper	 id:o_1	 ingrédients_ralatifs:['8', '9']	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:allumer	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:beurrer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fariner	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_6	 ingrédients_ralatifs:['1', '10', '7']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fouetter	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:egoutter	 id:o_11	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cuire	 id:o_15	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:suffire	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164989">
+  <titre>Chou pommé braisé aux chipolatas</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>-1 chou bien serré de 1 kg environ </p>
+    <p>-70 g de beurre ou margarine </p>
+    <p>-1 oignon </p>
+    <p> 1 carotte </p>
+    <p> 1 gousse d'ail</p>
+    <p> 8 chipolatas</p>
+    <p> 2 càs de vinaigre</p>
+    <p> sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    -Débarassez le chou de ses feuilles flétries. Lavez-le. Supprimez-en les côtes épaisses. Coupez-le en tranches et bouillir 10 min dans de l'eau salée. Egouttez aussitôt.-Dans une cocotte faites revenir oignon et carotte dans la margarine. Ajoutez le chou, l'ail,sel,poivre. Couvrez et laissez mijoter à feu doux 1 heure.-5 min avant de servir faites cuire doucement les chipolatas dans la margarine ou le beurre dans une poêle.- mettez le chou dans un plat creux et les chipolatas dessus. Versez 2 càs vinaigre dans la poêle restée sur le feu. Mélangez en grattant avec une cuillère en bois et versez sur les chouxLes choux mijotent très bien dans l'autocuiseur 25 min. 1 vin rouge type Cahors
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">-Débarassez</OPER> le <INGRED id="1">chou</INGRED> de ses <INGRED id="4">feuilles</INGRED> flétries. <OPER id="o_2">Lavez</OPER> - le. <OPER id="o_3">Supprimez</OPER> -en les <INGRED id="1">côtes</INGRED> épaisses. <OPER id="o_4">Coupez</OPER> - le en <INGRED id="4">tranches</INGRED> et <OPER id="o_5">bouillir</OPER> 10 min dans de l'<INGRED id="8">eau</INGRED> salée. <OPER id="o_6">Egouttez</OPER> aussitôt.-Dans une cocotte faites <OPER id="o_7">revenir</OPER> <INGRED id="3">oignon</INGRED> et <INGRED id="4">carotte</INGRED> dans la margarine. <OPER id="o_8">Ajoutez</OPER> le <INGRED id="1">chou</INGRED>, l'<INGRED id="2">ail</INGRED>, <INGRED id="7">sel, poivre</INGRED>. <OPER id="o_9">Couvrez</OPER> et laissez <OPER id="o_10">mijoter</OPER> à feu doux 1 heure.-5 min avant de servir faites <OPER id="o_11">cuire</OPER> doucement les <INGRED id="6">chipolatas</INGRED> dans la margarine ou le <INGRED id="5">beurre</INGRED> dans une poêle.- <OPER id="o_12">mettez</OPER> le <INGRED id="2">chou</INGRED> dans un plat creux et les <INGRED id="6">chipolatas</INGRED> dessus. <OPER id="o_13">Versez</OPER> 2 <INGRED id="7">càs</INGRED> <INGRED id="4">vinaigre</INGRED> dans la poêle restée sur le feu. <OPER id="o_14">Mélangez</OPER> en grattant avec une cuillère en bois et versez sur les chouxLes <INGRED id="6">choux</INGRED> mijotent très bien dans l'autocuiseur 25 min. 1 <INGRED id="3">vin rouge</INGRED> type Cahors
+  </annotation>
+  <annotation methode="crf">
+  -Débarassez le <INGRED>chou de ses</INGRED> feuilles flétries <INGRED>.</INGRED> Lavez - le <INGRED>.</INGRED> Supprimez -en les <INGRED>côtes</INGRED> <INGRED>épaisses</INGRED> <INGRED>.</INGRED> Coupez - le en tranches et bouillir 10 min dans de l'<INGRED>eau</INGRED> salée. Egouttez aussitôt.-Dans une cocotte faites revenir <INGRED>oignon</INGRED> et carotte dans la <INGRED>margarine</INGRED>. Ajoutez le <INGRED>chou</INGRED> <INGRED>,</INGRED> l'<INGRED>ail</INGRED> <INGRED>,</INGRED> <INGRED>sel</INGRED> <INGRED>,</INGRED> poivre. Couvrez et laissez mijoter à feu doux 1 heure.-5 min avant de servir faites cuire doucement les chipolatas dans la <INGRED>margarine</INGRED> <INGRED>ou</INGRED> le <INGRED>beurre</INGRED> dans une poêle.- mettez le <INGRED>chou</INGRED> dans un plat creux et les chipolatas dessus. Versez 2 càs vinaigre dans la poêle restée sur le feu <INGRED>.</INGRED> Mélangez en grattant avec une cuillère en bois et versez sur les chouxLes <INGRED>choux</INGRED> mijotent très bien dans l'autocuiseur 25 min. 1 <INGRED>vin rouge</INGRED> type Cahors
+  </annotation>
+  <complexite>
+    <temps>f(X) = 10.5882352941176*X + 4.41176470588235</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 12*X + 12</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['environ']	 id:1	 quantité:1	 unité:kg	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:2	 quantité:non_precis	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['-1 oignon', '-1']	 id:3	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['carotte']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['ail']	 id:5	 quantité:1	 unité:gousse d'	 denombrable:True	 recipient:1*X
+ingredient:['chipolatas']	 id:6	 quantité:8	 unité:non_precis	 denombrable:True	 recipient:8*X
+ingredient:['càs de vinaigre', 'càs']	 id:7	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['sel']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:-débarasser	 id:o_1	 ingrédients_ralatifs:['1', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:laver	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:supprimer	 id:o_3	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_4	 ingrédients_ralatifs:['4', '8']	 nombre_opération_atomique:1*X+1	 temps:1*X*1+1*X*1	 recipient:1
+operation:bouillir	 id:o_5	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:egoutter	 id:o_6	 ingrédients_ralatifs:['3', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:revenir	 id:o_7	 ingrédients_ralatifs:['3', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['1', '2', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_9	 ingrédients_ralatifs:['6', '5', '2', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mijoter	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:cuire	 id:o_11	 ingrédients_ralatifs:['6', '5']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:mettre	 id:o_12	 ingrédients_ralatifs:['2', '6']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:verser	 id:o_13	 ingrédients_ralatifs:['7', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_14	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24356">
+  <titre>Oeufs durs farcis à la crème de roquefort</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 œufs durs</p>
+    <p>50 g de crème fraîche</p>
+    <p>50 g de roquefort</p>
+    <p>1 pincée de paprika</p>
+    <p>1 cuillère à café de concentré de tomates</p>
+    <p>sel et poivre</p>
+    <p>quelques feuilles de laitue</p>
+    <p>olives ou cerneaux de noix pour la déco</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ecaler les œufs durs, puis les couper en 2 dans le sens de la largeur (comme pour faire des œufs mimosa).
+    Sortir les jaunes du blanc, puis les écraser à l’aide d’une fourchette.
+    Dans un bol, répéter l’opération pour le roquefort, le mélanger à la crème fraîche, et ajouter le concentré de tomate.
+    Bien mélanger le tout et saupoudrer de sel, poivre et paprika jusqu’à l’obtention d’une crème homogène.
+    Remettre cette crème à la place du jaune d’œuf et disposer les œufs farcis sur une assiette tapissée de feuilles de laitue.
+    Décorer en parsemant d’olives et de cerneaux de noix puis servir bien frais.
+  ]]>
+  </preparation>
+</recette>

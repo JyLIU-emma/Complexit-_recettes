@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22550">
+  <titre>Blanc de poulet enroulés de lard fumé</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 blancs de poulets (assez gros) </p>
+    <p>8 très fines tranches de lard fumé</p>
+    <p>champignons</p>
+    <p>crème</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Enroulez les blancs de poulet avec le lard fumé (2 tranches par personne). Faire cuire au four 20 mn (ou plus si pas assez). 
+    Dans une casserole, mettre les champignons de Paris et les faire cuire à feu doux, puis mettre 150 g de crème ; laissez mijoter. 
+    Une fois le poulet au lard cuit, versez la sauce au champignons. Dégustez !
+  ]]>
+  </preparation>
+</recette>

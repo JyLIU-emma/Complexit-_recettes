@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20648">
+  <titre>Pâte à crêpes très simple</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 tasses de farine</p>
+    <p>2 oeufs entier</p>
+    <p>2 paquets de sucre vanillé</p>
+    <p>1 pincée de sel</p>
+    <p>3 tasses de lait (ou eau) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mettre la farine, les 2 oeufs, les 2 paquets de sucre vanillé et la pincée de sel dans le bol du robot.
+     
+    Mixer le tout, en ajoutant petit à petit le lait.
+     
+    Mélanger jusqu'à ce que la pâte soit homogène, et le tour est joué! 
+     cidre
+  ]]>
+  </preparation>
+</recette>

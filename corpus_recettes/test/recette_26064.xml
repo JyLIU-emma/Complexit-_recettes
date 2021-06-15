@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26064">
+  <titre>Poulet au poivron, paprika et pommes de terre</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 belles cuisses de poulet</p>
+    <p>1 poivron rouge</p>
+    <p>2 tomates</p>
+    <p>1 gros oignon</p>
+    <p>2-3 cuillères à soupe de crème fraîche allégée</p>
+    <p>4 ou 5 pommes de terre</p>
+    <p>huile</p>
+    <p>paprika (selon votre goût) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir le poulet à l'huile (dans une cocotte en fonte par exemple), saler, poivrer. Le laisser cuire environ 1 heure. 
+    Pendant ce temps : 
+    Faire cuire à la vapeur les pommes de terre. 
+    Couper l’oignon et le poivron en fines lanières et les tomates en quartier. 
+    Quand le poulet est cuit, ajouter l’oignon, le faire dorer, et procéder de même avec le poivron, puis les tomates. 
+    Au bout de 5-10 mn, intégrer les pommes de terre coupées. 
+    Finir en incorporant la crème fraîche mélangée au paprika.
+  ]]>
+  </preparation>
+</recette>

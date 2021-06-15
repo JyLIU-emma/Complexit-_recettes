@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15415">
+  <titre>Chili con carne facile</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>50 g de beurre</p>
+    <p>2 gros oignons</p>
+    <p>2 gousses d'ail écrasées</p>
+    <p>500 g de bœuf haché</p>
+    <p>1 cuillère à café de Chili en poudre</p>
+    <p>2 cuillères à café de cumin en poudre</p>
+    <p>65 g de concentré de tomate</p>
+    <p>1 grosse boîte de haricots rouge égouttés</p>
+    <p>30 cl de bouillon de bœuf</p>
+    <p>sel, poivre, persil pour décorer</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte en fonte, faire fondre le beurre, et ensuite dorer doucement l'oignon et l’ail.
+    Incorporer le bœuf haché et laisser cuire doucement 10 min.
+    Mélanger le chili, le cumin, le concentré de tomates, et incorporer le tout au bœuf. Ajouter les haricots, le bouillon; saler et poivrer.
+    Couvrir, et laisser cuire 25 min au four (thermostat 6/180°C).
+    Si vous ne trouvez pas de Chili, vous pouvez utiliser une petite cuillère à café de poivre de Cayenne.
+    Au moment de mettre au four, vérifiez que le bouillon arrive au raz de la préparation, au besoin, rajoutez un peu d’eau.
+  ]]>
+  </preparation>
+</recette>

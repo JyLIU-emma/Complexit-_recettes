@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14415">
+  <titre>Salade merveilleuse aux légumes et au thon</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 boîte de maïs doux</p>
+    <p>1 boîte de thon</p>
+    <p>1 botte de radis</p>
+    <p>2 jeunes carottes bien tendres</p>
+    <p>2 oignons</p>
+    <p>des cornichons</p>
+    <p>de la mayonnaise</p>
+    <p>un peu de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle, faire suer dans un peu de beurre les 2 oignons et les carottes coupés en fines rondelles, pour les faire légèrement caraméliser. Poivrer, saler.
+    Verser le maïs dans un saladier, ajouter le thon. 
+    Mélanger avec les radis et les cornichons coupés en fines rondelles, ainsi que les carottes et les oignons revenus au beurre. Assaisonnez avec la mayonnaise.
+    Vous pouvez ajouter des tomates...
+    Quand j'étais petite, avec ma soeur, la salade merveilleuse de Maman était notre salade préférée !
+  ]]>
+  </preparation>
+</recette>

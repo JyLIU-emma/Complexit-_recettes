@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27171">
+  <titre>Mouton mijoté au vin blanc</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,2 kg de morceaux de moutons</p>
+    <p>3 carottes</p>
+    <p>7 oignons</p>
+    <p>1 bouquet garni</p>
+    <p>4 gousses d’ail</p>
+    <p>4 cuillères à soupe de farine</p>
+    <p>3 tomates pelées</p>
+    <p>60 cl de vin blanc</p>
+    <p>15 cl de bouillon</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et détailler les carottes en rondelles, puis écraser les gousses d’ail.
+    Peler et émincer les oignons, puis les faire revenir dans une poêle beurrée.
+    Faire chauffer un peu d’huile dans une cocotte, puis y  ajouter les morceaux de viande avec les rondelles de carottes, la fondue d’oignon et l’ail écrasé.
+    Ajouter le bouquet garni, saler, poivrer, saupoudrer de farine puis bien mélanger.
+    Laisser cuire 10 minutes à couvert sur feu modéré, puis retirer le couvercle et ajouter les tomates pelées.
+    Dans une casserole, faire chauffer le vin avec le bouillon, puis arroser la viande et laisser cuire 1 heure à couvert sur feu doux, en remuant régulièrement.
+    Goûter et rectifier l’assaisonnement si nécessaire, puis servir.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21034">
+  <titre>Boulettes de boeuf à la sauce épicée</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>750 g de boeuf haché</p>
+    <p>1 piment vert frais épépiné et haché</p>
+    <p>3 cuillères à soupe de coriandre fraîche hachée</p>
+    <p>1 cuillère à café de garam massala (mélange d'épices)</p>
+    <p>1 oeuf battu</p>
+    <p>sel, poivre</p>
+    <p>huile</p>
+    <p>Pour la sauce :</p>
+    <p>1 boîte de tomates pelées (400 g)</p>
+    <p>3 cuillères à soupe d'huile</p>
+    <p>1 bâton de cannelle de 2 cm</p>
+    <p>10 clous de girofle</p>
+    <p>1 oignon haché</p>
+    <p>2 gousses d'ail hachées</p>
+    <p>5 cm de gingembre frais haché</p>
+    <p>1 cuillère à soupe de cumin moulu</p>
+    <p>2 cuillères à soupe de grains de coriandre moulus</p>
+    <p>1 cuillère à café de piment moulu</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Commencez par préparer la sauce : faites chauffer l'huile dans une sauteuse. Faites-y dorer la cannelle et les clous de girofle 30 secondes. Ajoutez l'oignon et laissez-le suer quelques minutes.
+    Ajoutez l'ail, le gingembre, le cumin, la coriandre, le piment et laissez revenir 2 minutes à feu doux. Salez et mouillez d'un peu d'eau si le mélange devient sec.
+    Ajoutez les tomates pelées et leur jus, écrasez-les avec une cuillère en bois.
+    Couvrez et laissez mijoter sur feu doux environ 30 minutes.
+    Préparez les boulettes : malaxez la viande avec les autres ingrédients (piment, coriandre, oeuf, garam massala, sel et poivre) puis façonnez environ 20 belles boulettes. Faites-les dorer dans une poêle avec un peu d'huile sur toutes les faces.
+    Déposez-les ensuite dans la sauce tomate et laissez mijoter environ 20 minutes en remuant de temps en temps.
+  ]]>
+  </preparation>
+</recette>

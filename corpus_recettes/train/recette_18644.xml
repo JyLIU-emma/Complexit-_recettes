@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18644">
+  <titre>Petites mousses  au jambon</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de jambon</p>
+    <p>2 gros oeufs</p>
+    <p>2 cuillères à café de touche Saveur poule Maggi</p>
+    <p>2 d1 de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mixez le jambon et les autres ingrédients. Versez dans 4 ramequins beurrés et faites cuire 30 mn, au four (180°C), au bain-marie. 
+    Laissez refroidir et mettez au frigo. Servez en entrée, avec une petite salade (blé/chicon/cornichons) ou à l’apéritif, sur des toasts
+  ]]>
+  </preparation>
+</recette>

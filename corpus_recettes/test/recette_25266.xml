@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25266">
+  <titre>Soupe carotte pomme de terre à la mozzarella</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 oignons</p>
+    <p>6 pommes de terre</p>
+    <p>6 carottes</p>
+    <p>1 cube de bouillon de viande</p>
+    <p>60 g de beurre</p>
+    <p>5 cuillères à soupe d'huile</p>
+    <p>1 poivron</p>
+    <p>250 g de mozzarella</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les carottes et les pommes de terre coupées en cubes dans l'eau bouillante salée durant environ 20 minutes puis réduisez-les en purée.
+    Faites fondre les oignons émincés dans le beurre et l'huile puis ajoutez la purée. Versez 2 litres d'eau, salez, ajoutez le cube de bouillon et le poivron coupé en petits dés.
+    Cuire 15 minutes puis ajouter la mozzarella détaillée en cubes.
+    Laissez fondre dans le liquide bouillant quelques minutes puis servez.
+  ]]>
+  </preparation>
+</recette>

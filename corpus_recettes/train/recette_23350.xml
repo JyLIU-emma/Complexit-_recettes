@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23350">
+  <titre>Quesadillas</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 paquet de tortillas</p>
+    <p>1 tomate</p>
+    <p>2 oignons frais</p>
+    <p>4 jalapenos (chilis mexicains, se trouvent en conserve) </p>
+    <p>1 mozzarella</p>
+    <p>100 g de fromage de chèvre frais</p>
+    <p>100 g de cheddar ou de gouda</p>
+    <p>100 g de lard coupé en tranches fines, grillé et coupé en petits morceaux (optionnel) </p>
+    <p>1 pincée de cumin en poudre</p>
+    <p>1 cuillère à café de paprika</p>
+    <p>50 g de beurre mou</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 200°C ( Th 6 ). 
+    Mélanger les fromages râpés ou coupés en petits dés, la tomate coupée en petits dés, les oignons, les jalapenos et les épices, et éventuellement le lard. 
+    Beurrer une face de chaque tortilla. Farcir du mélange la moitié de la face non beurrée, bien étaler. Replier l'autre moitié. 
+    Disposer sur une plaque à pâtisserie. Enfourner. Au bout de 5 mn, retourner les tortillas et laisser encore 5 mn. 
+    Retirer du four et couper en morceaux.
+    Les quesadillas peuvent être dégustées avec du guacamole, de la crème ou de la salsa mexicaine.
+    Je les sers en général en amuse-gueules ou en buffet. Elles se gardent assez lontemps chaudes, enrobées dans du papier aluminium.
+  ]]>
+  </preparation>
+</recette>

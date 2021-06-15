@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13182">
+  <titre>Purée de pois chiches / hoummos (Liban)</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 grosse boîte de pois-chiches nature</p>
+    <p>4 cuillères à soupe de tahiné (crème de sésame) chez les traiteurs libanais</p>
+    <p>2 gousses d'ail</p>
+    <p>2 citrons pressés</p>
+    <p>1 petit bouquet de persil</p>
+    <p>Huile d'olive</p>
+    <p>paprika</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez l'ail, écrasez le. 
+    Faire bouillir les pois chiches 10 minutes. Les égoutter et réserver un peu d'eau du bouillon.
+    Mettre dans le bol du mixer, les pois chiches tièdes, la crème de sésame, le citron, l'ail et le sel.
+    Mixer le tout jusqu'à obtention d'une purée bien lisse. Si la purée est grumeleuse ou trop épaisse, rajouter petit à petit du bouillon de pois-chiche, jusqu'à obtention d'une purée crémeuse.
+    Verser la purée dans un plat, arrosez d'huile d'olive et mettez au centre le persil haché. Saupoudrez d'un peu de paprika.
+    Le taboulé et le hoummos constituent la base d'un mezzé qui est un succession de petits plats chauds ou froids qui servent souvent de plats uniques par leur diversité. Un mezzé peut varier de 6 à 30 spécialités différentes, toutes servies en même temps.
+  ]]>
+  </preparation>
+</recette>

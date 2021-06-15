@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25209">
+  <titre>Terrine au poivre vert</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 canard de Barbarie d'1,5 kg</p>
+    <p>500 g d'échine de porc</p>
+    <p>500 g de jambon cuit</p>
+    <p>2 échalotes</p>
+    <p>1 bouquet de persil</p>
+    <p>50 g de poivre vert</p>
+    <p>bardes de lard</p>
+    <p>2 oeufs</p>
+    <p>1 boîte de gelée au porto</p>
+    <p>sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Désosser le canard et couper les filets en fines lamelles.
+    Dans un mixeur, hacher le reste des morceaux de canard avec le jambon, les échalotes, le persil, le poivre vert et l'échine de porc.
+    Saler, puis lier le hachis de viande avec les oeufs. Bien mélanger.
+    Dans un plat à pâté ou une terrine, tapisser le fond de bardes de lard, puis du hachis de viande et enfin des lamelles de filets de canard en alternant les couches jusqu'à épuisement des ingrédients.
+    Recouvrir de bardes de lard et faire cuire 1 h 30 au four au bain-marie.
+    Sortir la terrine du four, puis verser la gelée tiède dessus.
+    Laisser refroidir au frais jusqu'au lendemain avant de déguster.
+  ]]>
+  </preparation>
+</recette>

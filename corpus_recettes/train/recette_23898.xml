@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23898">
+  <titre>Quiche au thon et aux olives vertes</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>1 boîte de thon au naturel </p>
+    <p>1/2 bocal d'olives vertes dénoyautées</p>
+    <p>3 oeufs</p>
+    <p>20 cl de crème fraîche</p>
+    <p>1 pincée de sel</p>
+    <p>1 pincée de poivre</p>
+    <p>1 pincée de muscade</p>
+    <p>100 g de gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans le fond de tarte, émietter la boîte de thon et recouvrir d'olives.
+    Dans un bol, mélanger les 3 oeufs et la crème fraîche, puis ajouter le sel, le poivre et la muscade.
+    Verser le mélange sur le thon et les olives, puis saupoudrer de gruyère râpé.
+    Faire préchauffer le four 15 mn a 240°C.
+    Enfourner la quiche 25 à 30 mn.
+  ]]>
+  </preparation>
+</recette>

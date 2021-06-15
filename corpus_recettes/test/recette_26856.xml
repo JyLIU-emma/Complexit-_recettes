@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26856">
+  <titre>Gratin de filets de merlan aux courgettes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 filets de merlan</p>
+    <p>4 échalotes</p>
+    <p>4 courgettes</p>
+    <p>2 cuillères à soupe de persil haché</p>
+    <p>10 cl de vin blanc</p>
+    <p>50 g de beurre</p>
+    <p>50 g de gruyère râpé</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 210°C (thermostat 7).
+    Saler et poivrer les filets de merlan et les réserver.
+    Peler et hacher les échalotes, puis nettoyer et détailler les courgettes en fines rondelles.
+    Beurrer le fond d'un plat à gratin, puis en tapisser le fond du hachis d'échalotes.
+    Recouvrir des filets de merlan, puis terminer par une couche de rondelles de courgettes.
+    Saler, poivrer de nouveau, puis parsemer de noisettes de beurre et saupoudrer de persil haché.
+    Terminer par une couche de gruyère râpé pour gratiner. 
+    Enfourner à four chaud et laisser cuire 20 min en arrosant d'un peu de vin blanc régulièrement, pour éviter que le poisson ne se dessèche.
+  ]]>
+  </preparation>
+</recette>

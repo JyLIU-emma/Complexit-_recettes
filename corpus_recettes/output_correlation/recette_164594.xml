@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164594">
+  <titre>Saumon au champagne et aux légumes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1 saumon entier de 2 kgs vidé</p>
+    <p>1/2 bouteille de champagne brut</p>
+    <p>2 carottes</p>
+    <p>1 blanc de poireau</p>
+    <p>3 échalotes</p>
+    <p>1 branche de céleri</p>
+    <p>10g de beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez et émincez tous les légumes, faites les étuver 5 min dans le beurre.
+    Préchauffez votre four thermostat 7 (210°C).Dans une lèchefrite, disposez la moitié des légumes. Posez le poisson dessus, glissez les légumes restants dans la cavité centrale, salez et poivrez, arrosez avec le champagne et faites cuire 30 minutes au four.
+    Laissez ensuite reposer 5 minutes dans le four éteint avant de retirer aussitot la peau.
+    Servez avec le jus de cuisson filtré.Vous pouvez ajouter de l'aneth dans le saumon. Vous pouvez également accompagner d'une timbale de riz ou augmenter la proportion de légumes. Le champagne utilisé dans la recette
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Pelez</OPER> et émincez tous les légumes, faites les <OPER id="o_2">étuver</OPER> 5 min dans le <INGRED id="1">beurre</INGRED>. <OPER id="o_3">Préchauffez</OPER> votre four thermostat 7 ( 210 ° C).Dans une lèchefrite, <OPER id="o_4">disposez</OPER> la moitié des légumes. <OPER id="o_5">Posez</OPER> le poisson dessus, glissez les légumes restants dans la cavité centrale, salez et <OPER id="o_6">poivrez</OPER>, arrosez avec le <INGRED id="2">champagne</INGRED> et faites <OPER id="o_7">cuire</OPER> 30 minutes au four. Laissez ensuite <OPER id="o_8">reposer</OPER> 5 minutes dans le four éteint avant de <OPER id="o_9">retirer</OPER> aussitot la peau. Servez avec le <INGRED id="8">jus</INGRED> de cuisson filtré. Vous pouvez <OPER id="o_10">ajouter</OPER> de l'aneth dans le saumon. Vous pouvez également accompagner d'une timbale de <INGRED id="3">riz</INGRED> ou augmenter la proportion de légumes. Le <INGRED id="2">champagne</INGRED> utilisé dans la recette
+  </annotation>
+  <annotation methode="crf">
+  Pelez et émincez tous les <INGRED>légumes</INGRED> <INGRED>,</INGRED> faites les étuver 5 min dans le <INGRED>beurre</INGRED> <INGRED>.</INGRED> Préchauffez votre four thermostat 7 ( 210 ° C).Dans une lèchefrite <INGRED>,</INGRED> disposez la moitié des <INGRED>légumes</INGRED> <INGRED>.</INGRED> Posez le <INGRED>poisson</INGRED> dessus <INGRED>,</INGRED> glissez les <INGRED>légumes</INGRED> restants dans la cavité centrale, salez et poivrez <INGRED>,</INGRED> arrosez avec le champagne et faites cuire 30 minutes au four <INGRED>.</INGRED> Laissez ensuite reposer 5 minutes dans le four éteint avant de retirer aussitot la peau. Servez avec le <INGRED>jus</INGRED> de cuisson filtré <INGRED>.</INGRED> Vous pouvez ajouter de l'<INGRED>aneth</INGRED> dans le <INGRED>saumon</INGRED> <INGRED>.</INGRED> Vous pouvez également accompagner d'une timbale de <INGRED>riz</INGRED> <INGRED>ou</INGRED> augmenter la proportion de <INGRED>légumes</INGRED> <INGRED>.</INGRED> Le champagne utilisé dans la recette
+  </annotation>
+  <complexite>
+    <temps>f(X) = 6.66666666666667*X + 3.33333333333333</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 8*X + 7</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['vidé']	 id:1	 quantité:1	 unité:kgs	 denombrable:True	 recipient:1*X
+ingredient:['champagne brut', 'champagne']	 id:2	 quantité:1/2	 unité:bouteille de	 denombrable:False	 recipient:1
+ingredient:['carottes']	 id:3	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['blanc de poireau', 'blanc']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['échalotes']	 id:5	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['céleri']	 id:6	 quantité:1	 unité:branche de	 denombrable:True	 recipient:1*X
+ingredient:['beurre']	 id:7	 quantité:10	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:peler	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:étuver	 id:o_2	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:préchauffer	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:disposer	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:poser	 id:o_5	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:poivrer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:reposer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:retirer	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

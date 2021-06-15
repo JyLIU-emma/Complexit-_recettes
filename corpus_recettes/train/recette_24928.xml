@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24928">
+  <titre>Nid d'hirondelles</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Pour la farce :</p>
+    <p>1 kg de haché porc et boeuf</p>
+    <p>2 boîtes de concentré de tomates</p>
+    <p>persil</p>
+    <p>ciboulette</p>
+    <p>2 gousses d'ail</p>
+    <p>6 oeufs cuits durs</p>
+    <p>2 tranches de pain rassis</p>
+    <p>3 échalotes émincées</p>
+    <p>Pour la sauce :</p>
+    <p>4 gros oignons émincés</p>
+    <p>1 bouteille de sauce tomate</p>
+    <p>500 g de champignons de Paris émincés</p>
+    <p>5 carottes</p>
+    <p>farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une casserole, faire revenir les oignons émincés avec les carottes coupées en dés et les champignons émincés. 
+    Verser la sauce tomate, saler et poivrer et faire cuire 30 mn à feu doux. Dans un grand saladier mélanger le haché, les échalotes, le pain émietté, l'ail, le concentré de tomates, le persil haché et la ciboulette pour obtenir une pâte homogène. Écaler les oeufs. Prendre une bonne part de la farce et creuser un trou pour y enfoncer l'oeuf. 
+    Faire une boulette avec l'ensemble. 
+    Déposer dans un plat allant au four. 
+    Couvrir de la sauce tomate. Cuire au four 1 heure à 200°C. Servir avec des frites et une salade relevéeBien presser la farce autour de l'oeuf pour ne pas que la boulette se laisse aller pendant la cuisson.
+  ]]>
+  </preparation>
+</recette>

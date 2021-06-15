@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27344">
+  <titre>Beignets aux dattes</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de semoule moyenne</p>
+    <p>5 cl d'eau chaude</p>
+    <p>2 cuillères à soupe d'eau de fleur d'oranger</p>
+    <p>150 g de dattes</p>
+    <p>1 petite cuillère à café de cannelle</p>
+    <p>5 g de levure de boulanger</p>
+    <p>1 bain de friture</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, verser la semoule. Arroser avec l'eau chaude et l'eau de fleur d'oranger. Remuer et laisser la semoule absorber le liquide.
+    Diluer la levure de boulanger dans l'eau tiède, ajouter dans la semoule et mélanger. Laisser reposer 15 minutes en remuant de temps en temps.
+    Lorsque la semoule est moelleuse, incorporer de l'eau tiède, petit à petit, jusqu'à ce qu'elle devienne un peu collante. Laisser reposer 15 minutes.
+    Faire chauffer le bain de friture.
+    Dénoyauter et hacher les dattes finement au couteau avec la cannelle.
+    Prélever des boulettes de semoule, en faire des petites galettes. Déposer 1 cuillère à café de pâte de dattes au centre, recouvrir d'une autre galette de semoule.
+    Souder les bords des beignets.
+    Faire frire dans l'huile puis égoutter.
+  ]]>
+  </preparation>
+</recette>

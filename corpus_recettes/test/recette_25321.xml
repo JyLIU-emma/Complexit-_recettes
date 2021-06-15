@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25321">
+  <titre>Soupe au cidre</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g oignons</p>
+    <p>100 g ail</p>
+    <p>50 g farine</p>
+    <p>50 g beurre</p>
+    <p>50 g saindoux</p>
+    <p>50 g huile (olive) </p>
+    <p>8 jaunes d'oeufs</p>
+    <p>1 cl vinaigre de cidre</p>
+    <p>1,5 l de cidre brut</p>
+    <p>1 dl de crème fraîche</p>
+    <p>1 l de bouillon (boeuf ou volaille) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher et hacher grossièrement ail et oignon, les faire suer dans le mélange de graisses, ajouter farine et mélanger à la cuiller (en bois) ; cuire 10 mn. 
+    Ajouter alors bouillon, cidre, 1/4 l d'eau, thym, laurier. 
+    Cuire 2 h. 
+    Délayer 8 jaunes dans le vinaigre de cidre. Ajouter la crème fraîche, bien mélanger et ajouter dans la soupe. 
+    Servez sur des croûtons ou tranches de pain passés au four
+     cidre brut
+  ]]>
+  </preparation>
+</recette>

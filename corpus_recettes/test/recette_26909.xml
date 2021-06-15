@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26909">
+  <titre>Flan aux abricots et au Grand-Marnier</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>600 g d'abricots</p>
+    <p>60 g de farine</p>
+    <p>125 g de sucre</p>
+    <p>4 oeufs</p>
+    <p>75 cl de lait</p>
+    <p>2 cuillères à soupe de Grand-Marnier</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à 150°C (thermostat 5).
+    Tamiser la farine. Ajouter le sucre et les oeufs entiers.
+    Remuer à l'aide d'un fouet jusqu'à ce que le mélange soit homogène.
+    Verser progressivement le lait dans le mélange sans cesser de remuer. Ajouter le Grand-Marnier.
+     
+    Beurrer un plat allant au four. Laver, sécher et couper les abricots en 2. Les disposer dans le plat, côté bombé sur le dessus.
+    Recouvrir de pâte et enfourner 45 minutes.
+    Vérifier la cuisson en enfonçant la lame d'un couteau dans la crème, elle doit ressortir sèche. Servir tiède ou froid.
+  ]]>
+  </preparation>
+</recette>

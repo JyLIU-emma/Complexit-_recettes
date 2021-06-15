@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17422">
+  <titre>Salade de fraises</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de fraises</p>
+    <p>1 citron</p>
+    <p>4 cuillères à soupe de sucre en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les fraises, les équeuter, les couper en deux et les mettre dans un saladier. Verser dessus le jus du citron et le sucre. Mettre au réfrigérateur et laisser macérer au minimum une heure. Déguster bien frais.On peut ajouter quelques feuilles de menthe ou de la crème liquide. Un régal.
+  ]]>
+  </preparation>
+</recette>

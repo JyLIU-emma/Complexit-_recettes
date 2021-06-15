@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13467">
+  <titre>Punch del moro</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>150 g de chocolat fondant</p>
+    <p>2 dl de café</p>
+    <p>4 cuillères à soupe de rhum</p>
+    <p>4 cuillères à soupe de sucre de canne</p>
+    <p>crème fouettée</p>
+    <p>cannelle</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer 4 verres.
+    Rompre le chocolat et le fondre avec du café chaud dans une casserole.
+    Unir le sucre et le rhum, jusqu'à obtenir un mélange onctueux. verser le composé dans les verres.
+    Ajouter  avec la creme et saupoudrer avec la cannelle.
+  ]]>
+  </preparation>
+</recette>

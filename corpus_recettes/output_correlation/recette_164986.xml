@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164986">
+  <titre>Spéculoos moëlleux</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg de farine</p>
+    <p>10 gr de cannelle</p>
+    <p>700 gr cassonade brune</p>
+    <p>4 œufs entiers</p>
+    <p>300 gr de beurre ramolli</p>
+    <p>5 gr de bicarbonate </p>
+    <p>1/2 verre d'eau</p>
+    <p>200 gr d'amandes en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Mélanger à la main tous les ingrédients dans une bassine jusqu'à obtenir une pâte plus ou moins consistante.
+    Laisser reposer toute une nuit.
+    Faire des boules aplaties de 5-6 cm de diamètre. 
+    Mettre une amande pour garnir et enfourner à 200°C 10 à 12 min
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Mélanger</OPER> à la main tous les ingrédients dans une bassine jusqu'à obtenir une <INGRED id="1">pâte</INGRED> plus ou moins consistante. Laisser <OPER id="o_2">reposer</OPER> toute une nuit. Faire des boules aplaties de 5 - 6 cm de diamètre. <OPER id="o_3">Mettre</OPER> une amande pour garnir et <OPER id="o_4">enfourner</OPER> à 200 ° C 10 à 12 min
+  </annotation>
+  <annotation methode="crf">
+  Mélanger à la main tous les ingrédients dans une bassine jusqu'à obtenir une <INGRED>pâte</INGRED> plus <INGRED>ou</INGRED> moins consistante <INGRED>.</INGRED> Laisser reposer toute une nuit. Faire des <INGRED>boules</INGRED> aplaties de 5 - 6 <INGRED>cm</INGRED> de diamètre. Mettre une amande pour garnir et enfourner à 200 ° C 10 à 12 min
+  </annotation>
+  <complexite>
+    <temps>f(X) = 1.45454545454545*X + 2.54545454545455</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 4*X + 10</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['farine']	 id:1	 quantité:1	 unité:kg de	 denombrable:False	 recipient:1
+ingredient:['cannelle']	 id:2	 quantité:10	 unité:gr de	 denombrable:False	 recipient:1
+ingredient:['cassonade brune']	 id:3	 quantité:700	 unité:gr	 denombrable:False	 recipient:1
+ingredient:['œufs entiers', 'œufs']	 id:4	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['beurre ramolli', 'beurre']	 id:5	 quantité:300	 unité:gr de	 denombrable:False	 recipient:1
+ingredient:['bicarbonate']	 id:6	 quantité:5	 unité:gr de	 denombrable:False	 recipient:1
+ingredient:['eau']	 id:7	 quantité:1/2	 unité:verre d'	 denombrable:False	 recipient:1
+ingredient:['amandes en poudre', 'amandes']	 id:8	 quantité:200	 unité:gr d'	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:mélanger	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:reposer	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:1
+operation:mettre	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:enfourner	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

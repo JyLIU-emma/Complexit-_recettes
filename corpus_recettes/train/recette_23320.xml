@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23320">
+  <titre>Quiche courgettes et saumon fumé</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1 rouleau pâte brisée</p>
+    <p>3 courgettes</p>
+    <p>2 tranches saumon fumé</p>
+    <p>3 oeufs</p>
+    <p>20 cl crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Râpez les courgettes et faites-les revenir à la poêle jusqu'à ce qu'elles aient rendu toute leur eau. 
+    Etalez la pâte brisée dans un moule à tarte. 
+    Découpez les 2 tranches de saumon fumé et tapissez-en le fond de tarte. 
+    Battez les oeufs et la crème fraîche, poivrez, attention au sel : le saumon est déjà très salé. 
+    Etalez les courgettes sur le saumon et ajoutez la préparation. 
+    Enfournez Th 7-8 pendant 45 mn environ
+    On peut utiliser de la truite fumée pour un coût moindre. rosé frais
+  ]]>
+  </preparation>
+</recette>

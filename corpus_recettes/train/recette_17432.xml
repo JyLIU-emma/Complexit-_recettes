@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17432">
+  <titre>Crumble aux fruits rouges rapide</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>800 g de fruits rouges (framboises, groseilles, cassis...) </p>
+    <p>100 g de farine</p>
+    <p>100 g de beurre tempéré, découpé en petits dés + 20 g pour le plat</p>
+    <p>100 g de cassonade en poudre</p>
+    <p>50 g de poudre d'amande</p>
+    <p>1/2 cuillère à café de cannelle en poudre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C (Th 6 ). Passez les fruits très rapidement sous un filet d'eau fraîche puis mettez-les à égoutter. Dans un saladier, mélangez la farine, la poudre d'amandes, la cannelle, la cassonade et le beurre. Ajoutez la pincée de sel. Travaillez la pâte du bout des doigts. Beurrez le plat et disposez les fruits rouges. Couvrez-les du mélange et mettez au four pendant 25 mn environ. Dégustez le crumble tiède ou froid.
+  ]]>
+  </preparation>
+</recette>

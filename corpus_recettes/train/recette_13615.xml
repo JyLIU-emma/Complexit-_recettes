@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13615">
+  <titre>Gratinée de polenta au jambon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>250 g de polenta</p>
+    <p>300 g de jambon maigre</p>
+    <p>1 boîte de tomates pelées</p>
+    <p>150 g de gruyère râpé</p>
+    <p>sel et poivre</p>
+    <p>50 g de beurre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Cuire la polenta selon les indications données sur le paquet (normalement 5 minutes pour la polenta à cuisson rapide).
+    Dans une casserole mettre le contenu de la boîte de tomates, le jambon coupé en lamelles, saler et poivrer et faire mijoter 10 minutes.
+    Beurrer un plat à gratin, y déposer une couche de polenta cuite, une couche de sauce à la tomate et jambon, une autre couche de polenta et terminer par une couche de sauce.
+    Parsemer de gruyère râpé, y déposer des noisettes de beurre. Mettre le plat sous le gril du four et laisser gratiner une dizaine de minutes.
+     vin rouge italien (Chianti)
+  ]]>
+  </preparation>
+</recette>

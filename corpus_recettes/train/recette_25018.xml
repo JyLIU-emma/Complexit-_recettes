@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25018">
+  <titre>Gratin bicolore au potimarron</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>700 g de potimarron</p>
+    <p>600 g de pommes de terre</p>
+    <p>10 cl de lait</p>
+    <p>1 oeuf</p>
+    <p>50 g de beurre</p>
+    <p>200 g de gruyère râpé</p>
+    <p>noix de muscade</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les pommes de terre et le potimarron à l'eau bouillante ou à la vapeur.
+    Eplucher chacun, écrasez les pommes de terre en purée avec un peu de lait, l'oeuf battu, sel, poivre et muscade.
+    Couper le potimarron en cubes.
+    Mélanger la purée avec les dés de potiron, verser dans un plat à gratin et saupoudrer de gruyère râpé.
+    Parsemer de noix de beurre et faire gratiner 20 min au four à 180°C (thermostat 6).
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20306">
+  <titre>Crème d'oignons</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g d'oignons</p>
+    <p>un petit fenouil</p>
+    <p>une pomme</p>
+    <p>4 tranches de pain de mie</p>
+    <p>30 cl de crème liquide</p>
+    <p>50 cl de lait</p>
+    <p>75 g de beurre</p>
+    <p>sel, poivre</p>
+    <p>un peu de muscade, et de piment</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler les oignons, et les émincer, éplucher la pomme, épépinez la et coupez la en dés. Emincer le fenouil. 
+    Faites fondre 50 g de beurre dans un faitout. Faites y revenir les oignons 5 mn sur feu doux. 
+    Ajouter la pomme et le fenouil, laisser cuire encore 5 mn. 
+    Verser la crème liquide et le lait, assaisonner. laisser cuire 15 mn. 
+    Mixer le tout. 
+    Préparer des petits croûtons avec le pain de mie, en les faisant revenir dans le reste du beurre.
+    Je rajoute de la muscade, et un peu de piment, pour rehausser le goût.
+  ]]>
+  </preparation>
+</recette>

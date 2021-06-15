@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20422">
+  <titre>Risotto au merlan et aux crevettes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de crevettes</p>
+    <p>400 g de riz</p>
+    <p>250 g de tomates pelées</p>
+    <p>100 g de beurre</p>
+    <p>4 filets de merlan</p>
+    <p>1,25 l de fumet de poisson</p>
+    <p>10 cl de vin blanc sec</p>
+    <p>2 cuillères d'huile</p>
+    <p>1 oignon</p>
+    <p>1 gousse d'ail</p>
+    <p>1 bouquet garni </p>
+    <p>persil</p>
+    <p>farine </p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Plonger les moules dans une cocotte d'eau bouillante avec le vin blanc sec pour les faire ouvrir. Ôter les coquilles et couper les moules en morceaux.
+    Piler les coquilles et les faire bouillir 15 min dans de l'eau. Passer au tamis et faire dorer avec l'ail écrasé dans 40 g de beurre et de l'huile. Arroser du jus de cuisson des crevettes et assaisonner. Laisser mijoter à feu doux pendant 10 min.
+    Fariner les filets et les faire dorer dans 20 g de beurre dans une poêle. Mouiller de vin et ajouter 100 g de crevettes et les tomates mondées et mixées
+    Incorporer le riz, les crevettes restantes et le fumet de poisson en remuant sans cesse jusqu'à ce que le riz soit bien cuit. Ôter du feu et ajouter 40 g de reste de beurre.
+    Pendant la cuisson du riz préparer les filets: les fariner et les faire cuire dans 20 g de beurre, les laisser dorer, puis mouiller avec le vin que l'on aura laissé réduire.
+    Ajouter les tomates pelées et hachées, ainsi que les crevettes qui restent. Assaisonner et laisser mijoter 15 min.
+    Recouvrir le riz de sauce tomate et y poser les filets de poisson.
+  ]]>
+  </preparation>
+</recette>

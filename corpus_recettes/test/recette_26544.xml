@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26544">
+  <titre>Soupe chinoise au porc</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour la soupe :</p>
+    <p>200 g de porc</p>
+    <p>5 oignons</p>
+    <p>1 carotte</p>
+    <p>1 filet d’eau</p>
+    <p>1 bouquet garni</p>
+    <p>vermicelle chinois</p>
+    <p>champignons chinois déshydratés</p>
+    <p>sel, poivre</p>
+    <p>Pour la sauce :</p>
+    <p>nuoc mam</p>
+    <p>vinaigre</p>
+    <p>eau</p>
+    <p>ail pilé</p>
+    <p>1 pincée de sucre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et émincer les oignons, puis détailler le porc en lamelles très fines.
+    Râper la carotte et la réserver.
+    Dans une poêle, faire revenir le porc avec les oignons, les os de la viande et la carotte.
+    Mouiller avec un peu d’eau et ajouter le bouquet garni, puis laisser cuire 1 h à la cocotte minute.
+    Pendant ce temps, mettre les champignons à tremper dans un peu d’eau pour les faire gonfler ainsi que les vermicelles dans 2 récipients distincts.
+    Couper ensuite le vermicelle et les champignons chinois puis les incorporer à la soupe.
+    Laisser cuire 10 min à feu moyen.
+    Pendant ce temps, préparer la sauce en mélangeant le vinaigre avec le nuoc-nam, l’eau, l’ail et le sucre.
+    Servir la soupe chaude avec la sauce en saucière.
+  ]]>
+  </preparation>
+</recette>

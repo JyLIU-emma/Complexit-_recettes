@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16617">
+  <titre>Fritada (Espagne)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 gros poivrons verts</p>
+    <p>1 gros poivron rouge</p>
+    <p>1 oignon</p>
+    <p>1 petite gousse d'ail</p>
+    <p>coulis de tomates fraîches</p>
+    <p>sel, poivre, persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Ajouter de l'huile d'olive dans une poêle, découper des oignons en fines lamelles ainsi que l'ail et les poivrons.
+    Faire revenir le tout à feu doux en remuant doucement.
+    Lorsque le tout est cuit, verser le coulis de tomates, ajouter le persil en petit morceau.
+    Saler et poivrer. C'est prêt!!
+    Servir avec des oeufs au plat ou de la volaille(escalopes de poulet par exemple).
+    Recette espagnole (de Navarre) vin rouge
+  ]]>
+  </preparation>
+</recette>

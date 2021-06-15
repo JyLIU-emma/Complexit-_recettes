@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22480">
+  <titre>Charlotte de l'écureuil</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 jaunes d'œufs</p>
+    <p>25 cl de lait</p>
+    <p>65 g de sucre semoule</p>
+    <p>1 gousse de vanille</p>
+    <p>50 g de noisettes hachées</p>
+    <p>75 g de beurre</p>
+    <p>35 g de sucre glace</p>
+    <p>24 boudoirs </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Porter le lait à ébullition avec la gousse de vanille coupée en deux.
+    Fouetter les oeufs avec le sucre jusqu'à ce que le mélange blanchisse puis verser le lait chaud débarrasser de la gousse.
+    Faire chauffer à feu doux jusqu’à ce que la crème épaississe et nappe la cuillère. Laisser refroidir.
+    Dans un saladier, mélanger le beurre mou avec le sucre glace, la moitié de la crème anglaise et les noisettes.
+    Beurrer un moule à charlotte et y placer les boudoirs imbibés de crème anglaise. Verser la préparation et recouvrir de boudoirs.
+    Placer une feuille de papier sulfurisé sur le moule et le tasser avec un poids. Mettre au frais pendant un journée.
+    Démouler et servir avec la crème anglaise.
+  ]]>
+  </preparation>
+</recette>

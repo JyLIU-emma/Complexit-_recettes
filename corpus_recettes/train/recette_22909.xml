@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22909">
+  <titre>Variation sur la salade tomate-mozzarella</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>3 boules de mozzarella</p>
+    <p>3 tomates</p>
+    <p>250 g de pancetta</p>
+    <p>400 g de farfalle</p>
+    <p>1 sachet de roquette</p>
+    <p>1 boîte d'olives noires dénoyautées</p>
+    <p>huile d'olive</p>
+    <p>vinaigre balsamique</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites bouillir de l'eau et salez-la. 
+    Quand l'eau bout, mettez-y les farfalles. 
+    Pendant que les farfalles cuisent, coupez la mozzarella et les tomates en dés. Hachez finement les olives. Coupez grossièrement la roquette. 
+    Mettez tous ces ingrédients dans un saladier. 
+    Quand les farfalles sont cuites, faites-les refroidir à l'eau froide. Dès qu'elles sont froides, mettez-les dans le saladier avec les autres ingrédients. 
+    Arrosez généreusement d'huile d'olive, ajoutez du vinaigre balsamique et du poivre à votre goût. 
+    Mélangez le tout, bon appétit.
+  ]]>
+  </preparation>
+</recette>

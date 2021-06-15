@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22910">
+  <titre>Tournedos de dinde en papillote</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 tournedos de dinde (peut également se faire avec du porc)</p>
+    <p>8 tranches de bacon</p>
+    <p>8 tranches de fromage fondu</p>
+    <p>8 champignons de Paris</p>
+    <p>1 bouillon de volaille</p>
+    <p>1/2 verre de vin blanc</p>
+    <p>4 cuillères à café de crème fraîche</p>
+    <p>1 bouquet garni</p>
+    <p>4 feuilles d'aluminium</p>
+    <p>2 oignons</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire 4 papillotes dans un plat allant au four, en procédant ainsi...
+    Mettre dans chaque feuille d'aluminium 1/2 oignon coupé en lamelles. 
+    Poser une tranche de bacon, une tranche de fromage fondu, le tournedos, une tranche de fromage fondu, un tranche de bacon. Ajouter les champigons coupés en quatre, le bouquet garni.
+    Verser ensuite le bouillon dans chaque papillote (bien arroser), le vin blanc et la crème fraîche. 
+    Refermer la papillote et laisser cuire une demi-heure à 200°C (pour de la dinde, mais un peu plus si vous utilisez du porc).
+    Bien vérifier que la papillote ne sèche pas.
+  ]]>
+  </preparation>
+</recette>

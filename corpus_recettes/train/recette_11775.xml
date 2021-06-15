@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11775">
+  <titre>Lapin aux tomates, champignons et lardons</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 lapin découpé</p>
+    <p>200 g de champignons de Paris</p>
+    <p>100 g de lard fumé</p>
+    <p>1 oignon</p>
+    <p>15 cl de vin blanc sec</p>
+    <p>persil</p>
+    <p>laurier</p>
+    <p>ail</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte en fonte, faire fondre 
+    les lardons puis faire colorer les 
+    morceaux de lapin.
+    Faire revenir l'oignon émincé qui doit devenir translucide. Saupoudrer d'un peu de farine. Mouiller d'un verre de vin blanc, ajouter persil
+    laurier,sel, poivre, une gousse d'ail,
+    les champignons en lamelles, une cuiller à
+    soupe de concentré de tomate.
+    Faire mijoter 50mn.
+  ]]>
+  </preparation>
+</recette>

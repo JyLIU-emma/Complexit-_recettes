@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14809">
+  <titre>Champignons au crabe</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 gros champignons de paris</p>
+    <p>12 barres de surimi</p>
+    <p>6 cuillères à café de crème fraîche</p>
+    <p>100 g de gruyère râpé</p>
+    <p>poivre et sel</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les champignons, les équeuter et mettre dans un mixer les queues, le surimi et la crème. Mixer et rectifier l'assaisonnement.Déposer les têtes de champignon dans un plat à four légèrement beurré et les remplir de la préparation, les recouvrir de gruyère râpé. Gratiner au four.
+  ]]>
+  </preparation>
+</recette>

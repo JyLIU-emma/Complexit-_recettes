@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26436">
+  <titre>Tarte aux courgettes, crabe et surimi</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>1 courgette</p>
+    <p>1 boîte de miettes de crabe</p>
+    <p>7 bâtonnets de surimi</p>
+    <p>1 boîte de crevettes roses (facultatif) </p>
+    <p>4 cuillères à café de fumet de poisson</p>
+    <p>4 oeufs</p>
+    <p>1/4 l de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle, faire rissoler la courgette coupée en rondelle dans un peu d'huile d'olive. 
+    Pendant ce temps, dans une terrine, battre les oeufs en omelette. 
+    Ajouter le fumet, le lait, les miettes de crabe, les crevettes, le surimi coupé en dés et la moitié des rondelles de courgettes. 
+    Verser le mélange sur la pâte, et disposer le reste des rondelles de courgettes sur le dessus de la tarte. 
+    Enfourner à thermostat 7 (210°C) pendant 30 à 35 min.
+  ]]>
+  </preparation>
+</recette>

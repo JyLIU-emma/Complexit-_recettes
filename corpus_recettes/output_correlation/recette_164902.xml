@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164902">
+  <titre>Cake au noisettes et chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 oeufs</p>
+    <p>180 gr de sucre</p>
+    <p>180 gr de noisettes moulues</p>
+    <p>100 gr de chocolat pâtissier</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Séparer le jaune des blancs des oeufs.
+    Mélanger le sucre avec les jaunes, battre vigoureusement jusqu'à obtention d'une mousse blanchâtre.
+    Faire fondre le chocolat avec un minimum d'eau. Une fois fondu en une pâte épaisse, laisser légèrement refroidir et mélanger avec la mousse obtenue avec les jaunes d'oeufs.
+    Battre en neige ferme les blancs d'oeufs.
+    Ajouter les noisettes moulues au mélange jaune d'oeuf, sucre et chocolat et brasser gentiement. Quand le mélange devient compact, mettre un peu de blanc en neige pour fluidifier. Finir par mettre le reste de blanc. Le brassage du mélange doit se faire de la manière la plus douce possible avec une spatule afin de ne pas faire tomber le blanc d'oeuf en neige.
+    Beurrer un moule à cake de 30 cm ou utiliser du papier sulfurisé sur les parois. Ajouter dans le moule le mélange obtenu.
+    Mettre au four (180° chaleur tournante, 200° sinon) pendant 45 minutes. Pour s'assurer de la cuisson, il est possible de planter un couteau dans le centre du cake et de le retirer, s'il ressort propre,le cake est suffisement cuit.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Séparer</OPER> le jaune des blancs des <INGRED id="3">oeufs</INGRED>. <OPER id="o_2">Mélanger</OPER> le sucre avec les jaunes, <OPER id="o_3">battre</OPER> vigoureusement jusqu'à obtention d'une mousse blanchâtre. Faire <OPER id="o_4">fondre</OPER> le <INGRED id="1">chocolat</INGRED> avec un minimum d'eau. Une fois fondu en une <INGRED id="1">pâte</INGRED> épaisse, laisser légèrement <OPER id="o_5">refroidir</OPER> et <OPER id="o_6">mélanger</OPER> avec la mousse obtenue avec les jaunes d'oeufs. <OPER id="o_7">Battre</OPER> en neige ferme les blancs d'oeufs. <OPER id="o_8">Ajouter</OPER> les <INGRED id="3">noisettes moulues</INGRED> au <INGRED id="2">mélange</INGRED> jaune d'oeuf, sucre et <INGRED id="2">chocolat</INGRED> et <OPER id="o_9">brasser</OPER> gentiement. Quand le mélange devient compact, <OPER id="o_10">mettre</OPER> un peu de <INGRED id="1">blanc</INGRED> en neige pour fluidifier. <OPER id="o_11">Finir</OPER> par <OPER id="o_12">mettre</OPER> le <INGRED id="1">reste</INGRED> de <INGRED id="1">blanc</INGRED>. Le brassage du <INGRED id="2">mélange</INGRED> doit se faire de la manière la plus douce possible avec une spatule afin de ne pas faire <OPER id="o_13">tomber</OPER> le <INGRED id="1">blanc</INGRED> d'<INGRED id="1">oeuf</INGRED> en neige. <OPER id="o_14">Beurrer</OPER> un moule à cake de 30 cm ou utiliser du papier sulfurisé sur les parois. <OPER id="o_15">Ajouter</OPER> dans le moule le <INGRED id="2">mélange</INGRED> obtenu. <OPER id="o_16">Mettre</OPER> au four ( 180 ° chaleur tournante, 200 ° sinon ) pendant 45 minutes. Pour s'assurer de la cuisson, il est possible de <OPER id="o_17">planter</OPER> un couteau dans le centre du cake et de le <OPER id="o_18">retirer</OPER>, s'il ressort propre, le cake est suffisement cuit.
+  </annotation>
+  <annotation methode="crf">
+  Séparer le <INGRED>jaune</INGRED> des <INGRED>blancs</INGRED> des <INGRED>oeufs</INGRED> <INGRED>.</INGRED> Mélanger le <INGRED>sucre</INGRED> avec les <INGRED>jaunes</INGRED> <INGRED>,</INGRED> battre vigoureusement jusqu'à obtention d'une mousse blanchâtre. Faire fondre le <INGRED>chocolat</INGRED> avec un minimum d'<INGRED>eau</INGRED> <INGRED>.</INGRED> Une fois fondu en une <INGRED>pâte</INGRED> épaisse <INGRED>,</INGRED> laisser légèrement refroidir et mélanger avec la mousse obtenue avec les <INGRED>jaunes d'oeufs</INGRED> <INGRED>.</INGRED> Battre en neige ferme les <INGRED>blancs d'oeufs</INGRED> <INGRED>.</INGRED> Ajouter les <INGRED>noisettes moulues</INGRED> au <INGRED>mélange</INGRED> <INGRED>jaune d'oeuf</INGRED> <INGRED>,</INGRED> <INGRED>sucre</INGRED> et <INGRED>chocolat</INGRED> et brasser gentiement. Quand le <INGRED>mélange</INGRED> devient compact <INGRED>,</INGRED> mettre un peu de <INGRED>blanc</INGRED> en neige pour fluidifier <INGRED>.</INGRED> Finir par mettre le <INGRED>reste</INGRED> de <INGRED>blanc</INGRED> <INGRED>.</INGRED> Le brassage du <INGRED>mélange</INGRED> doit se faire de la manière la plus douce possible avec une spatule afin de ne pas faire tomber le <INGRED>blanc d'oeuf</INGRED> en neige <INGRED>.</INGRED> Beurrer un moule à cake de 30 <INGRED>cm</INGRED> <INGRED>ou</INGRED> utiliser du papier sulfurisé sur les parois. Ajouter dans le <INGRED>moule</INGRED> le <INGRED>mélange</INGRED> obtenu <INGRED>.</INGRED> Mettre au four ( 180 ° chaleur tournante <INGRED>,</INGRED> 200 ° sinon ) pendant 45 minutes. Pour s'assurer de la cuisson <INGRED>,</INGRED> il est possible de planter un couteau dans le centre du cake et de le retirer, s'il ressort propre <INGRED>,</INGRED> le cake est suffisement cuit.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 12.0*X + 6.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 6*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['oeufs']	 id:1	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['sucre']	 id:2	 quantité:180	 unité:gr de	 denombrable:False	 recipient:1
+ingredient:['noisettes moulues', 'noisettes']	 id:3	 quantité:180	 unité:gr de	 denombrable:False	 recipient:1
+ingredient:['chocolat pâtissier', 'chocolat']	 id:4	 quantité:100	 unité:gr de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:séparer	 id:o_1	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:battre	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:fondre	 id:o_4	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:refroidir	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:mélanger	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:battre	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_8	 ingrédients_ralatifs:['3', '2', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:brasser	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_10	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:finir	 id:o_11	 ingrédients_ralatifs:['1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_12	 ingrédients_ralatifs:['1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:tomber	 id:o_13	 ingrédients_ralatifs:['1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:beurrer	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_15	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:planter	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:retirer	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

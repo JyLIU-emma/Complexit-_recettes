@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23143">
+  <titre>Tagliatelles vertes aux olives et au fenouil</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de tagliatelles vertes</p>
+    <p>2 bulbes de fenouil</p>
+    <p>100 g d'olives noires</p>
+    <p>1 poivron rouge</p>
+    <p>25 cl de crème fraîche</p>
+    <p>1 cuillère à soupe de pastis</p>
+    <p>du parmesan</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les pâtes al dente.
+    Nettoyez le fenouil et le poivron, ébouillantez-les 5 min, égouttez et émincez-les en fines lamelles.
+    Faites chauffer la crème avec les lamelles de fenouil, le pastis, environ 10 min. Assaisonnez.
+    Egouttez les pâtes, mélangez-les à la sauce au fenouil, ajoutez les olives et les lamelles de poivron.
+    Accompagnez de parmesan en copeaux ou fraîchement râpé.
+  ]]>
+  </preparation>
+</recette>

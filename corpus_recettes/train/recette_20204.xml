@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20204">
+  <titre>Pâtes aux palourdes</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de spaghetti</p>
+    <p>1 kg de palourdes fraiches</p>
+    <p>1 bouquet de persil haché</p>
+    <p>20 cl d'huile d'olive </p>
+    <p>1 filet de vin blanc sec </p>
+    <p>1 pincée de poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une poêle, faire rissoler l'ail haché dans l'huile d'olive, ajouter les palourdes, un petit filet de vin blanc et couvrez. Une fois les palourdes cuites (elles doivent êtres ouvertes), ajoutez le poivre et le persil haché. Faire cuire les spaghettis 'al dente', égouttez et assaisonnez-les avec la sauce aux palourdes. A servir très chaud.Ce plat sicilien peut aussi faire office de "primo piato" (entrée) pour les grands appétits.
+  ]]>
+  </preparation>
+</recette>

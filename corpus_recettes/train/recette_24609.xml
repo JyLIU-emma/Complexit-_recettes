@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24609">
+  <titre>Poulet aux petits pois</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g d'escalopes de poulet</p>
+    <p>1 grosse boîte de petits pois</p>
+    <p>250 g de lardons ou bacon (ou un mélange des deux) </p>
+    <p>1 boîte de dés de tomates</p>
+    <p>1 oignon</p>
+    <p>2 à 3 cuillères à soupe de sauce soja douce</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les escalopes en petits morceaux et les faire revenir 5 mn dans une sauteuse avec un peu d'huile d'olive. 
+    Les sortir et garder de côté. 
+    Faire revenir les lardons (et/ou bacon) dans la sauteuse. 
+    Ajouter l'oignon émincé. 
+    Ajouter ensuite les petits pois égouttés, les dés de tomate (avec la sauce) et la sauce soja. 
+    Si l'ensemble est un peu sec, mettre un peu d'eau. 
+    Laisser mijoter le tout environ 15 mn. 
+    Rajouter ensuite les morceaux de poulet pendant quelques minutes. 
+    Saler,  poivrer. 
+    Bon appétit!
+    Très simple, très bon et presque pas de vaisselle ;-)
+  ]]>
+  </preparation>
+</recette>

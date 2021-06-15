@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17714">
+  <titre>Fondue à la tomate</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>50 g de beurre</p>
+    <p>1 petit oignon haché</p>
+    <p>2 gousses d'ail écrasées</p>
+    <p>1 boîte (800 g) de tomates pelées</p>
+    <p>1 pincée d'origan</p>
+    <p>1 cuillère à café de paprika</p>
+    <p>2 cuillères à café de basilic haché</p>
+    <p>30 cl de vin blanc sec</p>
+    <p>sel et poivre</p>
+    <p>500 g de gruyère</p>
+    <p>cubes de baguettes ou de mie de pain pour servir</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites fondre le beurre dans le caquelon à fondue et faites revenir doucement l'oignon et l'ail. 
+    Egouttez soigneusement les tomates, puis réduisez-les en purée, ajoutez-les dans le caquelon ainsi que l'origan, le paprika, le basilic et le vin. Salez, poivrez et laissez cuire doucement 10 mn. 
+    Incorporez peu à peu le fromage et laissez cuire à feu doux jusqu'à ce qu'il soit fondu. Rectifiez l'assaisonnement et servez. 
+    Pour la dégustez, plongez-y les cubes de pain.
+  ]]>
+  </preparation>
+</recette>

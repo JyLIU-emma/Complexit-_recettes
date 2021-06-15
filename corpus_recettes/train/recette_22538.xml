@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22538">
+  <titre>Poulet  'grand-mère'</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 blancs de poulet</p>
+    <p>4 tranches de poitrine fumée</p>
+    <p>1 kg de pommes de terre</p>
+    <p>150 g de champignons émincés</p>
+    <p>1 oignons</p>
+    <p>12,5 cl de vin blanc</p>
+    <p>1 bouillon-cube de volaille</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans une cocotte, chauffer un fond d'huile et faite revenir l'oigon puis les champignons. 
+    Ajouter la poitrine fumée puis les blancs de poulet que vous faites revenir. 
+    Verser le vin blanc et ajouter le bouillon-cube. 
+    Mettez les pommes de terre épluchées et coupées en petits carrés. 
+    Fermer la cocotte et laisser cuire 10 mn après rotation.
+  ]]>
+  </preparation>
+</recette>

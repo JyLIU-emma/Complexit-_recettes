@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15135">
+  <titre>Tarte tatin aux pommes de terre et au brie</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1,5 kg de pommes de terre</p>
+    <p>1 pâte feuilletée</p>
+    <p>300 g de brie</p>
+    <p>30 g de beurre</p>
+    <p>1 jaune d'oeuf</p>
+    <p>2 cuillères à soupe d'échalote ciselée</p>
+    <p>sel, poivre</p>
+    <p>persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les pommes de terre, les faire cuire à l'eau bouillante salée 10 mn, égoutter, laisser tiédir, couper en rondelles.
+    Préchauffer le four thermostat 6 et beurrer le moule.Répartir la moitié des pommes de terre dans le moule.
+    Couper le fromage en lamelles sans enlever la croute, le répartir sur les pommes de terre et ranger le reste des pommes de terre sur le fromage.
+    Saupoudrer de l'échalote ciselée. Couvrir le plat de papier aluminium et mettre 15 mn au four.
+    Sortir le moule du four, remplacer le papier alu par la pâte feuilletée et rentrer les bords de la pâte à l'intérieur du moule.
+    Dorer la surface de la pâte avec le jaune d'oeuf et enfourner 10 mn.
+    Pour servir, retourner la tarte sur un plat et décorer avec du persil.
+  ]]>
+  </preparation>
+</recette>

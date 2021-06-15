@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18302">
+  <titre>Tartine campagnarde</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 tranche de pain de campagne</p>
+    <p>1 tranche de jambon de campagne</p>
+    <p>1 pomme de terre  à la vapeur ou bouilli</p>
+    <p>100 à 150g de reblochon</p>
+    <p>salade verte</p>
+    <p>carotte </p>
+    <p>une noix de beurre</p>
+    <p>huile</p>
+    <p>vinaigre de vin </p>
+    <p>moutarde</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire la pomme de terre à la vapeur 10 mn à la cocotte minute, puis enlever la peau.
+    Allumer le grill du four.
+    Mettre sur la tranche de pain,dans l'ordre,le beurre,la tranche de jambon, la pomme de terre coupée en rondelles fines, le reblochon, dont-on aura gratté la croûte, en fines tranches.
+    Mettez au milieu du four 7 à 8 mn, pour faire fondre le fromage.
+    Servez avec la salade et la carotte râpée avec une vinaigrette
+     vin blanc sec et fruité ou vin rouge leger
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="526">
+  <titre>Rouleaux frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>2 galettes de riz</p>
+    <p>1 carré frais</p>
+    <p>1 carotte</p>
+    <p>1 tomate</p>
+    <p>1 feuille de salade</p>
+    <p>sauce soja</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Humidifier les galettes de riz de façon à ce qu'elles puissent se rouler (30 secondes de trempage dans de l'eau froide sont suffisantes sinon ça casse!!!)
+    Râper la carotte, couper la tomate et la salade en très petits morceaux. 
+    Mélanger les crudités avec sel, poivre, sauce soja.
+    Tartiner la galette de riz avec le carré frais,
+    déposer sur le fromage le mélange de crudités puis rouler la galette de riz de manière à obtenir un boudin très compact.
+    Déguster le rouleau assaisonné d'un filet de sauce soja.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Humidifier</OPER> les <INGRED id="1">galettes de riz</INGRED> de façon à ce qu'elles puissent se <OPER id="o_2">rouler</OPER> ( 30 secondes de trempage dans de l'<INGRED id="5">eau</INGRED> froide sont suffisantes sinon ça casse ! ! ! ) <OPER id="o_3">Râper</OPER> la <INGRED id="3">carotte</INGRED>, <OPER id="o_4">couper</OPER> la <INGRED id="4">tomate</INGRED> et la <INGRED id="4">salade</INGRED> en très petits morceaux. <OPER id="o_5">Mélanger</OPER> les crudités avec sel, poivre, <INGRED id="6">sauce soja</INGRED>. <OPER id="o_6">Tartiner</OPER> la galette de <INGRED id="2">riz</INGRED> avec le <INGRED id="4">carré frais</INGRED>, <OPER id="o_7">déposer</OPER> sur le fromage le mélange de crudités puis <OPER id="o_8">rouler</OPER> la galette de <INGRED id="3">riz</INGRED> de manière à obtenir un boudin très compact. Déguster le rouleau assaisonné d'un <INGRED id="3">filet</INGRED> de <INGRED id="6">sauce soja</INGRED>.
+  </annotation>
+  <annotation methode="crf">
+  Humidifier les <INGRED>galettes</INGRED> de <INGRED>riz</INGRED> de façon à ce qu'elles puissent se rouler ( 30 secondes de trempage dans de l'<INGRED>eau</INGRED> froide sont suffisantes sinon ça casse ! ! ! ) Râper la <INGRED>carotte</INGRED> <INGRED>,</INGRED> couper la <INGRED>tomate</INGRED> et la <INGRED>salade</INGRED> en très <INGRED>petits</INGRED> <INGRED>morceaux</INGRED> <INGRED>.</INGRED> Mélanger les crudités avec <INGRED>sel</INGRED> <INGRED>,</INGRED> <INGRED>poivre</INGRED> <INGRED>,</INGRED> <INGRED>sauce soja</INGRED> <INGRED>.</INGRED> Tartiner la galette de <INGRED>riz</INGRED> avec le <INGRED>carré</INGRED> <INGRED>frais</INGRED> <INGRED>,</INGRED> déposer sur le <INGRED>fromage</INGRED> le <INGRED>mélange</INGRED> de crudités puis rouler la galette de <INGRED>riz</INGRED> de manière à obtenir un boudin très compact <INGRED>.</INGRED> Déguster le <INGRED>rouleau</INGRED> assaisonné d'un <INGRED>filet</INGRED> de <INGRED>sauce soja</INGRED> <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 7.71428571428572*X + 1.28571428571429</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 6*X + 4</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['galettes de riz', 'galettes']	 id:1	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['carré frais', 'carré']	 id:2	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['carotte']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['tomate']	 id:4	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['salade']	 id:5	 quantité:1	 unité:feuille de	 denombrable:True	 recipient:1*X
+ingredient:['sauce soja', 'sauce']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:humidifier	 id:o_1	 ingrédients_ralatifs:['1', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rouler	 id:o_2	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:râper	 id:o_3	 ingrédients_ralatifs:['3', '4', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_4	 ingrédients_ralatifs:['4', '4']	 nombre_opération_atomique:1*X+1*X	 temps:1*X*1+1*X*1	 recipient:1
+operation:mélanger	 id:o_5	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:tartiner	 id:o_6	 ingrédients_ralatifs:['2', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:déposer	 id:o_7	 ingrédients_ralatifs:['2', '4', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:rouler	 id:o_8	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

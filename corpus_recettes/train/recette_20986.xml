@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20986">
+  <titre>Gratin de coquillettes au jambon</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de coquillettes (ou autres)</p>
+    <p>2 petits cervelas (facultatif)</p>
+    <p>1 paquet d'allumettes de jambon</p>
+    <p>100 g de gruyère râpé</p>
+    <p>3 oeufs</p>
+    <p>15 cl de lait</p>
+    <p>50 cl de crème fraîche</p>
+    <p>sel, muscade </p>
+    <p>20 g de beurre</p>
+    <p>1 cuillère à soupe d'huile</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les coquillettes dans de l'eau bouillante salée et huilée, selon le temps indiqué sur le paquet. 
+    Les égoutter, les rincer ensuite à l'eau froide dans une passoire, puis les égoutter à nouveau.
+    Pendant la cuisson des pâtes, ôter la peau des cervelas, les couper en deux dans le sens de la longueur, puis en tranches fines.
+    Casser les oeufs séparément dans une tasse, puis bien les battre dans un bol avec le lait et la crème; assaisonner. 
+    Beurrer un moule et y disposer successivement les pâtes, le cervelas, les allumettes de jambon et saupoudrer de fromage râpé. 
+    Napper avec le mélange lait-crème-oeufs et disperser quelques morceaux de beurre. 
+    Faire gratiner au four préchauffé pendant 20 min à 220°C (th 7-8).
+  ]]>
+  </preparation>
+</recette>

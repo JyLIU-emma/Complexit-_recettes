@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27424">
+  <titre>Raviolis gratinés aux petits pois et curry</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>400 g de ravioli au boeuf ou aux légumes</p>
+    <p>100 g de lanières de jambon</p>
+    <p>200 g de petits pois</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>20 cl de crème fraîche</p>
+    <p>50 g de beurre</p>
+    <p>1 cuillère à café de curry</p>
+    <p>100 g de gruyère râpé</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire les raviolis à l'eau bouillante salée.
+    Les égoutter.
+    Faire fondre le beurre, ajouter le curry et le jambon.
+    Saler et laisser dorer.
+    Rajouter les petits pois, laisser mijoter 20 min.
+    Battre les jaunes d'oeufs avec la crème, verser sur les petits pois et remuer.
+    Verser cette sauce sur les raviolis, parsemer de fromage et faire gratiner sous le grill du four.
+  ]]>
+  </preparation>
+</recette>

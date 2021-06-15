@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26658">
+  <titre>Soupe de poissons au safran</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de congre</p>
+    <p>500 g de rascasse</p>
+    <p>500 g de rougets</p>
+    <p>2 oignons</p>
+    <p>2 poireaux</p>
+    <p>2 tomates</p>
+    <p>2 gousses d'ail</p>
+    <p>1 feuille de laurier</p>
+    <p>1 brin de fenouil</p>
+    <p>2 tranches de pain rassis</p>
+    <p>1 zeste d'orange</p>
+    <p>1 dose de safran</p>
+    <p>huile d'olive</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer les oignons et les poireaux finement. Les faire suer dans une cocotte à feu doux, ajouter le laurier, le fenouil, les gousses d'ail écrasées et les tomates hachées, ainsi que le zeste d'orange.
+    Mouiller de 2 l d'eau, porter à ébullition et laisser mijoter 15 minutes.
+    Saler, poivrer et ajouter les poissons coupés (écaillés et vidés) en morceaux. Laisser mijoter 15 minutes.
+    Retirer les morceaux de poisson, et passer la soupe au chinois en pressant bien pour exprimer le jus et les légumes.
+    Ajouter le safran.
+    Poser les tranches de pain coupés en croûtons au fond des assiettes, répartir les morceaux de poisson et couvrir de boouillon de cuisson.
+  ]]>
+  </preparation>
+</recette>

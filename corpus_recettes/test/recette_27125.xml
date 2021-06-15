@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27125">
+  <titre>Carottes à la carbonara</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>6 carottes de taille moyenne</p>
+    <p>2 jaunes d'oeuf</p>
+    <p>1 oignon</p>
+    <p>4 cuillères à soupe de crème fraîche</p>
+    <p>100 g de lardons fumés</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Eplucher les carottes et les couper en rondelles. 
+    Découper les oignons en petits morceaux. 
+    Mettre une noix de beurre dans une sauteuse et y faire revenir les 2 légumes durant 3 mn à feu fort. 
+    Ajouter 20 cl d'eau, baisser le feu, couvrir et laisser cuire une dizaine de minutes (vérifier que cela n'attache pas et ajouter de l'eau si nécessaire). 
+    Quand c'est cuit, ajouter les lardons ; les faire cuire 2-3 mn puis sur feu très doux ajouter les jaunes d'oeuf mélangés à la crème. 
+    Saler légèrement, poivrez. 
+    Laisser chauffer 3 mn en remuant et servir.
+    C'est plus diététique que les pâtes carbonara et fait manger facilement des carottes aux enfants ! 
+  ]]>
+  </preparation>
+</recette>

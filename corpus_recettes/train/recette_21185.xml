@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21185">
+  <titre>Escalopes de veau au jambon cru et aux herbes du sud</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 escalopes de veau (très fines)</p>
+    <p>4 tranches de jambon cru fumé</p>
+    <p>1 cuillère à café de thym</p>
+    <p>1/2 cuillère à café de romarin</p>
+    <p>1 cuillère à café de basilic haché</p>
+    <p>20 g de farine</p>
+    <p>40 g de beurre</p>
+    <p>4 échalotes</p>
+    <p>10 cl de Porto</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Aplatir les escalopes de veau : les placer entre 2 feuilles de papier sulfurisé et taper dessus à l'aide d'un rouleau à pâtisseries afin qu'elles soient fines.
+    Poser une tranche de jambon sur chaque escalopes puis saupoudrer d'herbes.
+    Rouler les escalopes sur elles-mêmes pour que le jambon soit à l'intérieur et maintenir fermé à l'aide d'un petit pic en bois.
+    Fariner et faire dorer dans le beurre avec les échalotes hachées puis verser le Porto et laisser cuire durant 30 minutes.
+  ]]>
+  </preparation>
+</recette>

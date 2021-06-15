@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167038">
+  <titre>Riz au lait PILAF</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>180 gr de riz rond</p>
+    <p>2/3 de litre de lait</p>
+    <p>1/3 de litre d'eau</p>
+    <p>100 gr de sucre</p>
+    <p>2 cuillère à souper de fleur d'oranger</p>
+    <p>5 à 15 gr de beurre demi-sel ou salé, selon les gout</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    1- dans une poële faites fondre le beurre et ajoutez y le riz. Faites roussir le riz doucement pendant 3/4 minutes tout en remuant(ne doit pas noircir ni coller).
+    2- ajoutez y l'eau (température ambiante) et remuez doucement pendants environs 5 minutes.
+    3- mettez la poële sur feu doux et ajoutez y le lait et la fleure d'oranger, pendant 25 min, continuez de remuer.
+    4- 5 à 10 minutues avant le fin de la cuisson ajoutez le sucre.
+    5- servir chaud ou froid avec une rondelle d'orange et dégustez.Une impression de légèreté en bouche qui n'en est pas...
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  1- dans une poële faites <OPER id="o_1">fondre</OPER> le <INGRED id="4">beurre</INGRED> et <OPER id="o_2">ajoutez</OPER> y le riz. Faites <OPER id="o_3">roussir</OPER> le riz doucement pendant 3/4 minutes tout en remuant(ne doit pas noircir ni <OPER id="o_4">coller</OPER> ). 2- <OPER id="o_5">ajoutez</OPER> y l'eau ( température ambiante ) et remuez doucement pendants environs 5 minutes. 3- <OPER id="o_6">mettez</OPER> la poële sur feu doux et <OPER id="o_7">ajoutez</OPER> y le <INGRED id="2">lait</INGRED> et la fleure d'oranger, pendant 25 min, <OPER id="o_8">continuez</OPER> de <OPER id="o_9">remuer</OPER>. 4- 5 à 10 minutues avant le fin de la cuisson <OPER id="o_10">ajoutez</OPER> le sucre. 5- servir chaud ou froid avec une rondelle d'orange et dégustez. Une impression de légèreté en bouche qui n'en est pas...
+  </annotation>
+  <annotation methode="crf">
+  1- dans une poële faites fondre le <INGRED>beurre</INGRED> et ajoutez y le <INGRED>riz</INGRED> <INGRED>.</INGRED> Faites roussir le <INGRED>riz</INGRED> doucement pendant 3/4 minutes tout en remuant(ne doit pas noircir ni coller ). 2- ajoutez y l'<INGRED>eau</INGRED> ( température ambiante ) et remuez doucement pendants environs 5 minutes. 3- mettez la poële sur feu doux et ajoutez y le <INGRED>lait</INGRED> et la fleure d'oranger <INGRED>,</INGRED> pendant 25 min <INGRED>,</INGRED> continuez de remuer. 4- 5 à 10 minutues avant le fin de la cuisson ajoutez le <INGRED>sucre</INGRED>. 5- servir chaud <INGRED>ou</INGRED> froid avec une rondelle d'orange et dégustez. Une impression de légèreté en bouche qui n'en est pas...
+  </annotation>
+  <complexite>
+    <temps>f(X) = 2.5*X + 7.5</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 2*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['riz rond', 'riz']	 id:1	 quantité:180	 unité:gr de	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:2	 quantité:non_precis	 unité:litre de	 denombrable:False	 recipient:1
+ingredient:['eau']	 id:3	 quantité:1/3	 unité:litre d'	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:4	 quantité:100	 unité:gr de	 denombrable:False	 recipient:1
+ingredient:["souper de fleur d'oranger", 'souper']	 id:5	 quantité:2	 unité:cuillère à	 denombrable:True	 recipient:2*X
+ingredient:['beurre demi-sel', 'beurre']	 id:6	 quantité:5	 unité:gr de	 denombrable:False	 recipient:1
+ingredient:['gout']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:fondre	 id:o_1	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:roussir	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:coller	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_6	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_7	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:continuer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:remuer	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

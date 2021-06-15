@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25202">
+  <titre>Clafoutis à l'ananas, au raisin et aux pommes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>125 g de farine</p>
+    <p>125 g de sucre</p>
+    <p>4 oeufs</p>
+    <p>sel</p>
+    <p>30 cl de lait</p>
+    <p>6 tranches d'ananas (frais ou en conserve) </p>
+    <p>2 pommes</p>
+    <p>40 grains de raisin frais</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pâte :
+    Dans un saladier, mélanger la farine, la moitié du sucre, les oeufs, une pincée de sel et le lait. 
+    Beurrer le moule. Y déposer les tranches d'ananas coupées en dés, les pommes coupées en fines lamelles et les raisins non épépinés. 
+    Verser la pâte sur les fruits et mettre dans un four chaud pendant 40 mn à 200°C . 
+    Dix minutes avant la fin de la cuisson, répartir le reste du sucre sur le gâteau. Réenfourner le clafoutis pour les dix minutes restantes. 
+    Le gâteau sera alors légèrement caramélisé.
+    Il est préférable de bien égoutter l'ananas pour éviter qu'il ne rende trop de jus pendant la cuisson.
+  ]]>
+  </preparation>
+</recette>

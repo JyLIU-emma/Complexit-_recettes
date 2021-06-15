@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25413">
+  <titre>Quiche aux épinards et au chèvre</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>un rouleau de pâte brisée</p>
+    <p>1 boîte d'épinards</p>
+    <p>3 oeufs</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+    <p>un chèvre long</p>
+    <p>sel, poivre </p>
+    <p>thym</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four thermostat 6/7 . 
+    Placer la pâte brisée dans un moule beurré et la piquer. 
+    La recouvrir de morceaux de chèvre (environ les 2/3 du fromage) que vous saupoudrez de thym. 
+    Dans un saladier, préparer la migaine : 
+    Battre les oeufs en omelette. 
+    Y incorporer la crème fraîche puis les épinards bien égouttés. 
+    Saler peu à cause du fromage et poivrer généreusement. 
+    Repartir le mélange sur la pâte et enfourner pendant une quarantaine de minutes. 
+    Cette quiche se mange chaude ou froide
+  ]]>
+  </preparation>
+</recette>

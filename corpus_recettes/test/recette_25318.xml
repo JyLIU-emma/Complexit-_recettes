@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25318">
+  <titre>Soles grillées au beurre persillé</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 soles vidées et écaillées</p>
+    <p>2 citrons</p>
+    <p>1 cuillère à soupe de persil haché</p>
+    <p>50 g de farine</p>
+    <p>75 g de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Malaxez 50 g de beurre mou avec le persil, le jus des citrons, du sel et du poivre. Formez un boudin, enroulez dans du film alimentaire et réservez au frais.
+    Salez et poivrez le soles, passez-les dans la farine.
+    Arrosez-les d'un peu de beurre fondu, et passez-les sous le grill du four, 5-6 minutes sur chaque face.
+    Sortez les soles, déposez une rondelle de beurre persillé dessus et servez. Accompagnez de riz, julienne de légumes ou pommes de terre vapeur.
+  ]]>
+  </preparation>
+</recette>

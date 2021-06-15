@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26504">
+  <titre>Gratin thon pommes de terre</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 kg de pommes de terre</p>
+    <p>400 g de thon en boîte au naturel</p>
+    <p>25 cl de lait</p>
+    <p>2 oeufs</p>
+    <p>10 cl de crème fraîche</p>
+    <p>2 cuillères à soupe de chapelure</p>
+    <p>20 g de beurre</p>
+    <p>2 cuillères à soupe de ciboulette ciselée</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Pelez et coupez les pommes de terre en rondelles épaisses. Egouttez et émiettez le thon.
+    Fouettez les oeufs en omelette avec le lait et la crème fraîche. Salez, poivrez, ajoutez la ciboulette.
+    Beurrez un plat allant au four, déposez une couche de pommes de terre au fond, puis une couche de miettes de thon. Nappez avec un peu de préparation aux oeufs.
+    Répétez l'opération jusqu'à épuisement des ingrédients. Terminez par une couche de pommes de terre + mélange aux oeufs.
+    Saupoudrez de chapelure, parsemez de noisettes de beurre et enfournez pour 40 minutes, au four à 180°C (thermostat 6).
+  ]]>
+  </preparation>
+</recette>

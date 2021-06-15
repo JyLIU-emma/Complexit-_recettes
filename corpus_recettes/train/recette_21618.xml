@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21618">
+  <titre>Terrine de maquereaux</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>2 gros maquereaux</p>
+    <p>farine</p>
+    <p>200 g de pommes de terre</p>
+    <p>beurre</p>
+    <p>10 cl de crème liquide</p>
+    <p>3 cuillères à soupe d'huile d'olive</p>
+    <p>chapelure</p>
+    <p>noisettes</p>
+    <p>sel, poivre</p>
+    <p>Pour accompagner :</p>
+    <p>sauce tomate</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer votre four à 210°C (thermostat 7).
+    Détailler les maquereaux en 2, puis leur ôter la tête et les arêtes.
+    Les rouler ensuite dans la farine, puis les plonger dans un bain d'huile de friture bien chaude et les faire frire.
+    Les égoutter et les essuyer pour en ôter l'excès d'huile, puis émietter la chair et jeter la peau.
+    Plonger ensuite les pommes de terre dans l'eau bouillante salée, les égoutter et les peler.
+    Les réduire en purée épaisse à l’aide d’un mixeur avec 10 cl de crème liquide.
+    Saler, poivrer, puis ajouter une noisette de beurre et bien mélanger.
+    Incorporer le poisson en miettes à la purée, puis arroser de 3 cuillères à soupe d'huile d’'olive.
+    Mélanger la préparation, puis la verser dans un plat à gratin beurré et recouvrir de chapelure.
+    Parsemer de noisettes de beurre puis enfourner à four chaud et laisser cuire 15 min.
+    Servir avec une sauce tomate liquide et déguster.
+  ]]>
+  </preparation>
+</recette>

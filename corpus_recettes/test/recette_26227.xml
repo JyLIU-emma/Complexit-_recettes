@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26227">
+  <titre>Petits flans de courgette en peau</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>900 g de courgettes</p>
+    <p>3 échalotes</p>
+    <p>2 gousses d’ail</p>
+    <p>3 œufs</p>
+    <p>6 cuillères à soupe de crème fraîche épaisse</p>
+    <p>30 g de beurre</p>
+    <p>1 cuillère à soupe d’huile d’olive</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver les courgettes et détailler la peau en longues lanières à l’aide d’un économe.
+    Plonger les lanières de peau dans l’eau bouillante salée pendant 1 min, les rincer sous l’eau froide, puis les égoutter.
+    Détailler ensuite la chair des courgettes en dés, puis peler et hacher l’ail et les échalotes.
+    Dans une sauteuse huilée, faire revenir les dés de courgettes avec le hachis d’ail et d’échalotes.
+    Laisser mijoter 15 min à couvert.
+    Pendant ce temps, préchauffer le four à 180°C (thermostat 6).
+    Dans un saladier, battre les œufs avec la crème, puis y ajouter les dés de courgette et bien mélanger le tout. Saler et poivrer.
+    Tapisser des ramequins beurrés de lanières de peau de courgettes puis les remplir de la préparation aux œufs.
+    Faire cuire les flans au bain-marie au four pendant 20 min.
+    A la sortie du four, les démouler et les dresser dans des assiettes.
+    Servir les flans de courgette individuellement à l’assiette, entourés de ratatouille.
+  ]]>
+  </preparation>
+</recette>

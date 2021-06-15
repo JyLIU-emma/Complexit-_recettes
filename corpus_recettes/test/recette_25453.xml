@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25453">
+  <titre>Pot-au-feu d'oie</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 oie </p>
+    <p>60 g de beurre</p>
+    <p>3 branches de thym</p>
+    <p>3 carottes</p>
+    <p>2 oignons</p>
+    <p>2 gousses d'ail</p>
+    <p>2 feuilles de laurier</p>
+    <p>40 cl de vin blanc sec</p>
+    <p>50 cl de bouillon de volaille</p>
+    <p>2 cuillères à soupe de concentré de tomates</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>clous de girofle</p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper l'oie en morceaux et les faire dorer dans le beurre avec l'oignon émincé.
+    Recouvrir de vin blanc sec et de bouillon, ajouter les carottes en rondelles, le concentré de tomates, la farine, le thym, le laurier, des clous de girofle et l’ail écrasé. 
+    Assaisonner et faire mijoter pendant 2 h.
+    Ôter les aromates du jus de cuisson et servir.
+  ]]>
+  </preparation>
+</recette>

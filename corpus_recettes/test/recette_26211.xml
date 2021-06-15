@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26211">
+  <titre>Purée au chili</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>350 g de steak haché</p>
+    <p>de la purée (maison ou non, meilleur avec de la muscade) </p>
+    <p>200 g de champignons de Paris</p>
+    <p>2 oignons</p>
+    <p>300 g de tomates pelées</p>
+    <p>du parmesan</p>
+    <p>ail</p>
+    <p>chili</p>
+    <p>cumin</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites revenir dans une poêle les oignons avec de l'huile d'olive, ajoutez ensuite les champignons, puis la viande et les épices. Faites cuire pendant environ 5 mn, ajoutez finalement les tomates avec leur jus et laissez réduire (~10 mn). 
+    Mettez alors cette préparation dans un plat allant au four, recouvrez-la de purée puis saupoudrez de parmesan, et faites gratiner au four pendant environ 10 mn.
+    Ce plat est une bonne alternative au traditionnel chili con carne !
+  ]]>
+  </preparation>
+</recette>

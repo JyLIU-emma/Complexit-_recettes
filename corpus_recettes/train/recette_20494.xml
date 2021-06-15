@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20494">
+  <titre>Poulet crémeux aux champignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 morceaux de poulet</p>
+    <p>2 oignons émincés</p>
+    <p>10 g de beurre</p>
+    <p>20 cl de vin blanc sec</p>
+    <p>1 grosse boîte de champignons</p>
+    <p>10 cl de crème fraîche épaisse</p>
+    <p>beurre</p>
+    <p>farine</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir la viande dans une cocotte avec du beurre chaud et les oignons. Saler, poivrer. Arroser de vin blanc et laisser mijoter à feu doux pendant 25 min.
+    Incorporer les champignons et continuer la cuisson pendant 10 min.
+    Retirer le poulet de la cocotte, réserver dans un plat au chaud.
+    Travailler un morceau de beurre en pommade avec un peu de farine. L'ajouter dans la cocotte, ainsi que la crème. Remuer, laisser un peu épaissir et napper le poulet de sauce.
+  ]]>
+  </preparation>
+</recette>

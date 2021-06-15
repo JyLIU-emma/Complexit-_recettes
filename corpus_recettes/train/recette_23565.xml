@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23565">
+  <titre>Pommes au miel et aux noix</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>4 pommes</p>
+    <p>100 g de miel</p>
+    <p>10 cerneaux de noix</p>
+    <p>le jus d'1 citron</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la farce des pommes avec une cuillère à soupe de miel et 6 cernaux de noix en miette.
+    Préparer les pommes : les éplucher, les vider et les arroser de jus de citron pour éviter qu'elles ne noircissent.
+    Les farcir et les déposer dans un plat allant au four.
+    Bien les caller et les arroser avec le miel restant diliué dans un demi verre d'eau.
+    Faire cuire à 180°C (thermostat 6) pendant 20 min en arrosant les pommes à mi-cuisson. Servir avec le jus de cuisson et décorer de cerneaux de noix.
+  ]]>
+  </preparation>
+</recette>

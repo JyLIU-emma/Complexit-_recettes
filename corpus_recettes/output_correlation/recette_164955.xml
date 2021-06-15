@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164955">
+  <titre>Petits pots de creme a l'absinthe</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>50cl de lait</p>
+    <p>5cl d'absinthe (ou de Pontarlier anis)</p>
+    <p>5 jaunes d'oeuf</p>
+    <p>75g de sucre</p>
+    <p>pour 8 petits ramequins (ou pas très remplis) ou 4 gros (ou bien remplis)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    - Porter le lait à ébullition.
+    Hors du feu, ajouter l'absinthe et 
+    laisser infuser 10 minutes.
+    Battre les jaunes et le sucre jusqu'à obtenir une consistance mousseuse.
+    Verser le lait chaud en filet (ou l'inverse) tout en fouetant.
+    Répartir dans les ramequins.
+    Faire cuire au bain marie à 150° pendans 35 à 40mn.Vous pouvez remplacer l'absinthe par du Pontarlier anis ou par un apéritif anisé mais le goût sera moins subtile et beaucoup plus fort, ce qui peut gêner les personne qui n'aiment pas l'anis. L'absinthe restant onéreuse, ce plat l'est en conséquence. Vous pouvez trouver de l'absinthe auprès de marchands de vins ou en grande surface depuis qu'elle n'est plus interdite.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  - <OPER id="o_1">Porter</OPER> le <INGRED id="4">lait</INGRED> à ébullition. Hors du feu, <OPER id="o_2">ajouter</OPER> l'<INGRED id="2">absinthe</INGRED> et laisser <OPER id="o_3">infuser</OPER> 10 minutes. <OPER id="o_4">Battre</OPER> les jaunes et le sucre jusqu'à obtenir une consistance mousseuse. <OPER id="o_5">Verser</OPER> le <INGRED id="3">lait chaud</INGRED> en <INGRED id="2">filet</INGRED> ( ou l'inverse ) tout en fouetant. <OPER id="o_6">Répartir</OPER> dans les ramequins. Faire <OPER id="o_7">cuire</OPER> au bain marie à 150 ° pendans 35 à 40mn. Vous pouvez <OPER id="o_8">remplacer</OPER> l'<INGRED id="2">absinthe</INGRED> par du Pontarlier anis ou par un apéritif anisé mais le goût sera moins subtile et beaucoup plus fort, ce qui peut <OPER id="o_9">gêner</OPER> les personne qui n'aiment pas l'anis. L'<INGRED id="2">absinthe</INGRED> restant onéreuse, ce plat l'est en conséquence. Vous pouvez <OPER id="o_10">trouver</OPER> de l'<INGRED id="2">absinthe</INGRED> auprès de marchands de vins ou en grande surface depuis qu'elle n'est plus interdite.
+  </annotation>
+  <annotation methode="crf">
+  - Porter le <INGRED>lait</INGRED> à ébullition <INGRED>.</INGRED> Hors du feu <INGRED>,</INGRED> ajouter l'<INGRED>absinthe</INGRED> et laisser infuser 10 minutes. Battre les <INGRED>jaunes</INGRED> et le <INGRED>sucre</INGRED> jusqu'à obtenir une consistance mousseuse. Verser le <INGRED>lait</INGRED> chaud en <INGRED>filet</INGRED> ( <INGRED>ou</INGRED> l'inverse ) tout en fouetant <INGRED>.</INGRED> Répartir dans les ramequins. Faire cuire au bain marie à 150 ° pendans 35 à 40mn. Vous pouvez remplacer l'<INGRED>absinthe</INGRED> par du Pontarlier anis <INGRED>ou</INGRED> par un apéritif anisé mais le goût sera moins subtile et beaucoup plus fort <INGRED>,</INGRED> ce qui peut gêner les personne qui n'aiment pas l'anis. L'<INGRED>absinthe</INGRED> restant onéreuse <INGRED>,</INGRED> ce plat l'est en conséquence. Vous pouvez trouver de l'<INGRED>absinthe</INGRED> auprès de marchands de vins <INGRED>ou</INGRED> en grande surface depuis qu'elle n'est plus interdite <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 6.25*X + 3.75</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 5*X + 4</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['lait']	 id:1	 quantité:50	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['absinthe']	 id:2	 quantité:5	 unité:cl d'	 denombrable:False	 recipient:1
+ingredient:["jaunes d'oeuf", 'jaunes']	 id:3	 quantité:5	 unité:non_precis	 denombrable:True	 recipient:5*X
+ingredient:['sucre']	 id:4	 quantité:75	 unité:g de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:porter	 id:o_1	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:infuser	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:battre	 id:o_4	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_5	 ingrédients_ralatifs:['3', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:répartir	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:remplacer	 id:o_8	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:gêner	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:trouver	 id:o_10	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

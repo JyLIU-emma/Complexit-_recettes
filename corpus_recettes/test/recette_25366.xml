@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25366">
+  <titre>Côtes de porc panées, sauce au raifort</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 côtes de porc</p>
+    <p>15 cl de bouillon </p>
+    <p>15 cl de vin blanc sec</p>
+    <p>60 g de beurre</p>
+    <p>100 g de raifort râpé</p>
+    <p>1 oeuf</p>
+    <p>1 cuillère à soupe d'huile</p>
+    <p>1 tasse de chapelure</p>
+    <p>1 cuillère à soupe de farine</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites fondre 30 g de beurre dans une casserole, saupoudrez la farine.
+    Remuez et mouillez avec le bouillon et le vin blanc.
+    Faites épaissir à feu doux en remuant.
+    Salez, poivrez et ajoutez le raifort.
+    Laissez cuire quelques minutes.
+    Battez l'oeuf avec l'huile.
+    Trempez les côtes dedans et passez-les dans la chapelure. 
+    Faites-les cuire à la poêle avec 30 g de beurre.
+    Une fois cuites, servez les côtes nappées de sauce au raifort.
+  ]]>
+  </preparation>
+</recette>

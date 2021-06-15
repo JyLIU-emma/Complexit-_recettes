@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22160">
+  <titre>Epinards à la crème gratinés au parmesan</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 kg d'épinards</p>
+    <p>3 belles tomates</p>
+    <p>3 échalotes</p>
+    <p>1 gousse d'ail</p>
+    <p>30 g de beurre</p>
+    <p>25 g de crème fraîche</p>
+    <p>25 g de parmesan</p>
+    <p>15 cl de bouillon</p>
+    <p>sel et poivre concassé</p>
+    <p>10 g de farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Plongez les épinards 5 minutes dans de l'eau bouillante salée. Egouttez-les soigneusement, pressez afin d'ôter l'excès de liquide.
+    Pelez et coupez grossièrement les tomates. Pelez et hachez les échalotes et l'ail puis, faites-les revenir dans une sauteuse. Saupoudrez de farine et laissez cuire jusqu'à coloration blonde. Remuez avec une cuillère en bois puis ajoutez les tomates. Laissez mijoter 15 minutes.
+    Ajoutez les épinards hachés et le bouillon puis assaisonnez. Poursuivez la cuisson durant 30 minutes avant d'incorporer la crème.
+    Préchauffez le grill du four.
+    Versez la préparation dans un plat à four beurré, saupoudrez de parmesan et faites gratiner pendant 15 minutes.
+  ]]>
+  </preparation>
+</recette>

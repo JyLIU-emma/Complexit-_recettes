@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10580">
+  <titre>Moqueca de peixe (Brésil)</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>700g de filets de poisson blanc de mer</p>
+    <p>4 tomates</p>
+    <p>2 oignons moyens émincés</p>
+    <p>3 gousses d'ail emincé </p>
+    <p>persil</p>
+    <p>poivre, sel</p>
+    <p>huile d'olive</p>
+    <p>50 cl de lait de coco</p>
+    <p>1 cuillère à soupe d'huile de "dendê" (très spécifique et typique de Bahia, cherchez dans une maison spécialisée, mais surtout ne le remplacez pas, il vaut mieux ne rien mettre si on ne le trouve pas)</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les tomates en gros morceaux et disposez-les au fond d'une casserole. Couvrez ensuite avec les oignons et l'ail, arrosez avec de
+    l'huile d'olive. Mettez ensuite les filets de poisson et un peu plus d'huile d'olive.
+    Versez le lait de coco jusqu'à ce que le poisson soit à peine couvert.
+    Allumez un feu doux et laissez bouillir.
+    Remuez de temps en temps, très délicatement pour ne pas émietter le poisson.
+    Quand il sera presque cuit (ça arrive très vite, en fonction du feu), salez, poivrez, mettez du persil et finalement une cuillère de "dendê" (pas
+    plus). Si vous trouvez qu'il manque un peu de tomate, ajoutez un peu de pulpe.
+    La moqueca doit être jaune avec le "dendê" (personnellement, j'ai du y
+    ajouter un peu de colorant).
+    Goûtez, relevez un peu plus s'il le faut et servez très chaud accompagné de riz blanc et farine de manioc.
+    Pas d'entrée, le plat est déjà assez lourd à cause du lait de coco.
+    Attention : quelques uns ne supportent pas bien le "dendê"!Vous pouvez aussi rajouter du poivron, si vous l'aimez (en dessous, avec la tomate).
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Coupez</OPER> les <INGRED id="2">tomates</INGRED> en gros morceaux et disposez - les au fond d'une casserole. <OPER id="o_2">Couvrez</OPER> ensuite avec les <INGRED id="10">oignons</INGRED> et l'<INGRED id="7">ail</INGRED>, <OPER id="o_3">arrosez</OPER> avec de l'<INGRED id="7">huile d'olive</INGRED>. <OPER id="o_4">Mettez</OPER> ensuite les <INGRED id="1">filets</INGRED> de poisson et un peu plus d'<INGRED id="7">huile d'olive</INGRED>. <OPER id="o_5">Versez</OPER> le <INGRED id="9">lait de coco</INGRED> jusqu'à ce que le poisson soit à peine couvert. <OPER id="o_6">Allumez</OPER> un feu doux et laissez <OPER id="o_7">bouillir</OPER>. <OPER id="o_8">Remuez</OPER> de temps en temps, très délicatement pour ne pas émietter le poisson. Quand il sera presque cuit ( ça arrive très vite, en fonction du feu ), <OPER id="o_9">salez</OPER>, poivrez, mettez du <INGRED id="5">persil</INGRED> et finalement une cuillère de " dendê " ( pas plus ). Si vous trouvez qu'il manque un peu de tomate, <OPER id="o_10">ajoutez</OPER> un peu de pulpe. La moqueca doit être jaune avec le " dendê " ( personnellement, j'ai du y <OPER id="o_11">ajouter</OPER> un peu de colorant ). <OPER id="o_12">Goûtez</OPER>, <OPER id="o_13">relevez</OPER> un peu plus s'il le faut et servez très chaud accompagné de riz blanc et farine de manioc. Pas d'entrée, le plat est déjà assez lourd à cause du <INGRED id="9">lait de coco</INGRED>. Attention : quelques uns ne supportent pas bien le " dendê"!Vous pouvez aussi <OPER id="o_14">rajouter</OPER> du poivron, si vous l'aimez ( en dessous, avec la tomate ).
+  </annotation>
+  <annotation methode="crf">
+  Coupez les <INGRED>tomates</INGRED> en <INGRED>gros</INGRED> <INGRED>morceaux</INGRED> et disposez - les au <INGRED>fond</INGRED> d'une casserole <INGRED>.</INGRED> Couvrez ensuite avec les <INGRED>oignons</INGRED> et l'<INGRED>ail</INGRED> <INGRED>,</INGRED> arrosez avec de l'<INGRED>huile d'olive</INGRED> <INGRED>.</INGRED> Mettez ensuite les <INGRED>filets</INGRED> de <INGRED>poisson</INGRED> et un peu plus d'<INGRED>huile d'olive</INGRED> <INGRED>.</INGRED> Versez le <INGRED>lait</INGRED> de coco jusqu'à ce que le <INGRED>poisson</INGRED> soit à peine couvert. Allumez un feu doux et laissez bouillir <INGRED>.</INGRED> Remuez de temps en temps <INGRED>,</INGRED> très délicatement pour ne pas émietter le <INGRED>poisson</INGRED>. Quand il sera presque cuit ( ça arrive très vite <INGRED>,</INGRED> en fonction du feu ) <INGRED>,</INGRED> salez <INGRED>,</INGRED> poivrez <INGRED>,</INGRED> mettez du <INGRED>persil</INGRED> et finalement une cuillère de " dendê " ( pas plus ). Si vous trouvez qu'il manque un peu de <INGRED>tomate</INGRED> <INGRED>,</INGRED> ajoutez un peu de pulpe <INGRED>.</INGRED> La moqueca doit être <INGRED>jaune</INGRED> avec le " dendê " ( personnellement <INGRED>,</INGRED> j'ai du y ajouter un peu de colorant ). Goûtez <INGRED>,</INGRED> relevez un peu plus s'il le faut et servez très chaud accompagné de <INGRED>riz</INGRED> <INGRED>blanc</INGRED> et <INGRED>farine de manioc</INGRED> <INGRED>.</INGRED> Pas d'entrée <INGRED>,</INGRED> le plat est déjà assez lourd à cause du <INGRED>lait de coco</INGRED> <INGRED>.</INGRED> Attention <INGRED>:</INGRED> quelques uns ne supportent pas bien le " dendê"!Vous pouvez aussi rajouter du <INGRED>poivron</INGRED> <INGRED>,</INGRED> si vous l'aimez ( en dessous <INGRED>,</INGRED> avec la <INGRED>tomate</INGRED> ).
+  </annotation>
+  <complexite>
+    <temps>f(X) = 8.75*X + 5.25</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 10*X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['filets de poisson blanc de mer', 'filets']	 id:1	 quantité:700	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['tomates']	 id:2	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['oignons moyens émincés', 'oignons']	 id:3	 quantité:2	 unité:non_precis	 denombrable:True	 recipient:2*X
+ingredient:['ail emincé', 'ail']	 id:4	 quantité:3	 unité:gousses d'	 denombrable:True	 recipient:3*X
+ingredient:['persil']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["huile d'olive", 'huile']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['lait de coco', 'lait']	 id:9	 quantité:50	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['huile de " dendê "', 'huile']	 id:10	 quantité:1	 unité:cuillère à soupe d'	 denombrable:True	 recipient:1*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:couper	 id:o_1	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:4*X*1	 recipient:1
+operation:couvrir	 id:o_2	 ingrédients_ralatifs:['10', '7', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:arroser	 id:o_3	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_4	 ingrédients_ralatifs:['1', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:verser	 id:o_5	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:allumer	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:bouillir	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:remuer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:saler	 id:o_9	 ingrédients_ralatifs:['5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:goûter	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:relever	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rajouter	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

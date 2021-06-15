@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15766">
+  <titre>Tarte moelleuse aux pommes</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte feuilletée</p>
+    <p>3 grosses pommes</p>
+    <p>1 oeuf</p>
+    <p>1 verre à moutarde (20 cl) de lait</p>
+    <p>3/4 verre à moutarde de farine</p>
+    <p>1/2 verre à moutarde de sucre en poudre</p>
+    <p>2 sachets de sucre vanillé</p>
+    <p>3 cuillères à soupe de rhum</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four thermostat 7 (210°C) pendant 15 mn.
+    Pendant ce temps, étaler la pâte feuilletée dans votre moule à tarte, puis piquer la pâte avec une fourchette, de façon à éviter que la pâte feuilletée ne gonfle trop à la cuisson. Couper alors les pommes en tranches pas trop fines (1/2 cm d'épaisseur), puis les disposer sur la pâte feuilletée.
+    Puis, dans un saladier, verser la farine, faire un puit, y mettre l'oeuf entier, mélanger avec un fouet.
+    Verser alors le lait peu à peu, en fouettant au fur et à mesure pour éviter les grumeaux (comme pour une pâte à crêpes)jusqu'à obtenir une pâte lisse. 
+    Y ajouter le sucre vanillé, mélanger, le rhum, mélanger, puis le sucre en poudre, bien mélanger pour que le sucre ne reste pas au fond du saladier.
+    Verser votre préparation sur la pâte feuilletée de façon à couvrir à peine les pommes. Enfourner à thermostat 7 pendant environ 40 mn.
+  ]]>
+  </preparation>
+</recette>

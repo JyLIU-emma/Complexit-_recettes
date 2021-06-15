@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19339">
+  <titre>Raviolis forestiers</titre>
+  <type>Plat principal</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>250 g de raviolis à la viande</p>
+    <p>150 g de girolles</p>
+    <p>150 g de cèpes</p>
+    <p>1 échalote</p>
+    <p>40 de beurre</p>
+    <p>sel, poivre</p>
+    <p>cerfeuil</p>
+    <p>1 cuillère à soupe de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Coupez les pieds des champignons et ôtez la partie mousseuse qui se trouve sous les chapeaux dse cèpes. 
+    Essuyez-les minutieusement et coupez-les en 2 ou en 4 selon leur grosseur. 
+    Pelez et émincez finement l'échalote. 
+    Portez à ébullition une grande quantité d'eau salée, ajoutez les raviolis et laissez cuire 5 à 10 mn. 
+    Egouttez et réservez au chaud. 
+    Pendant ce temps, faites suer les champigons à sec dans une poêle. 
+    Lorsqu'ils ont perdu toute leur eau, ajoutez l'échalote et le beurre et faites revenir 5 mn à feu moyen. 
+    Salez, poivrez et ajoutez la crème. 
+    Dressez les raviolis sur un plat de service, nappez-les de champignons à la crème et parsemez de cerfeuil ciselé.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11582">
+  <titre>Muffins aux pommes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>175 g de farine</p>
+    <p>100 g de sucre en poudre</p>
+    <p>1,5 cuilllère à café de levure</p>
+    <p>1 pincée de sel</p>
+    <p>50 g de beurre</p>
+    <p>10 cl de lait</p>
+    <p>2 petites pommes</p>
+    <p>2 oeufs</p>
+    <p>80 g de noix, noisettes ou amandes concassées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Verser dans une jatte farine, sucre, levure et sel. Pétrir du bout des doigts pour bien mêler beurre et farine et obtenir un mélange semblable à des miettes de pain.
+    Peler et évider les pommes, les couper en petits morceaux. 
+    Dans un bol, battre ensemble oeuf et lait. Verser sur le mélange de farine, incorporer pommes et fruits secs. Bien pétrir.
+    Déposer des petits monticules de pâte sur une plaque beurrée, puis cuire au four 15 à 20 min à 200°C (thermostat 6/7).
+  ]]>
+  </preparation>
+</recette>

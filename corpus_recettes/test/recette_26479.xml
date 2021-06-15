@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26479">
+  <titre>Gâteau marron chocolat</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>200 g de chocolat pâtissier</p>
+    <p>500 g de crème de marron vanillée</p>
+    <p>3 cuillères à soupe de farine</p>
+    <p>3 oeufs</p>
+    <p>Du beurre pour le moule</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le chocolat en carré. Le faire fondre au micro-onde. 
+    Mélanger la crème de marron avec le chocolat fondu puis ajouter la farine et les oeufs battus. 
+    Beurrer le moule à cake avant d'y verser la pâte. 
+    Cuire 1 heure environ à 180°C. 
+    Vérifier la cuisson en plantant une lame de couteau.
+    Ce gâteau peut s'accompagner de mousse au chocolat blanc ou noir ou les deux! Mont bazillac
+  ]]>
+  </preparation>
+</recette>

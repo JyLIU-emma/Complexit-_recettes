@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164746">
+  <titre>Cholande avec un reste de purée</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>Un reste de purée de pommes de terre pour 4 personnes</p>
+    <p>100 g de lardons fumés (allumettes)</p>
+    <p>1 oignon de belle taille ou 2 petits</p>
+    <p>30 cl de crème pas trop épaisse</p>
+    <p>50 g de gruyère rapé</p>
+    <p>une noix de beurre</p>
+    <p>5 cl d'eau</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Beurrer légèrement la plaque du four. Etaler la purée sur toute la surface de la plaque sur une hauteur de deux centimètres. Réserver.
+    Dans une poêle, faire griller les lardons sans matière grasse.
+    Ajouter les oignons, puis l'eau pour précuire un peu les oignons. Laisser évaporer.
+    Recouvrir la purée de crème, disposer les lardons et les oignons, puis disperser le gruyère rapé.Enfourner Th 6 pendant 15 à 20 mn et servir avec une salade verte !Lorsque je prépare de la purée maison, je prévois toujours une grande quantité de purée, afin de régaler ma petite famille pour le diner ! C'est une recette vosgienne !
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Beurrer</OPER> légèrement la plaque du four. <OPER id="o_2">Etaler</OPER> la purée sur toute la surface de la plaque sur une hauteur de deux centimètres. Réserver. Dans une poêle, faire <OPER id="o_3">griller</OPER> les <INGRED id="2">lardons</INGRED> sans matière grasse. <OPER id="o_4">Ajouter</OPER> les <INGRED id="5">oignons</INGRED>, puis l'eau pour précuire un peu les <INGRED id="5">oignons</INGRED>. Laisser <OPER id="o_5">évaporer</OPER>. <OPER id="o_6">Recouvrir</OPER> la purée de <INGRED id="3">crème</INGRED>, <OPER id="o_7">disposer</OPER> les <INGRED id="5">lardons</INGRED> et les <INGRED id="5">oignons</INGRED>, puis <OPER id="o_8">disperser</OPER> le <INGRED id="3">gruyère rapé</INGRED>. <OPER id="o_9">Enfourner</OPER> Th 6 pendant 15 à 20 mn et servir avec une salade verte ! Lorsque je prépare de la purée maison, je prévois toujours une grande quantité de purée, afin de <OPER id="o_10">régaler</OPER> ma petite famille pour le diner ! C'est une recette vosgienne !
+  </annotation>
+  <annotation methode="crf">
+  Beurrer légèrement la plaque du four <INGRED>.</INGRED> Etaler la <INGRED>purée</INGRED> sur toute la surface de la plaque sur une hauteur de <INGRED>deux</INGRED> centimètres. Réserver. Dans une poêle <INGRED>,</INGRED> faire griller les <INGRED>lardons</INGRED> sans <INGRED>matière grasse</INGRED>. Ajouter les <INGRED>oignons,</INGRED> puis l'<INGRED>eau</INGRED> pour précuire un peu les <INGRED>oignons</INGRED>. Laisser évaporer <INGRED>.</INGRED> Recouvrir la <INGRED>purée</INGRED> de <INGRED>crème</INGRED> <INGRED>,</INGRED> disposer les <INGRED>lardons</INGRED> et les <INGRED>oignons,</INGRED> puis disperser le <INGRED>gruyère rapé</INGRED>. Enfourner Th 6 pendant 15 à 20 mn et servir avec une salade verte ! Lorsque je prépare de la purée maison <INGRED>,</INGRED> je prévois toujours une grande quantité de <INGRED>purée</INGRED> <INGRED>,</INGRED> afin de régaler ma <INGRED>petite</INGRED> famille pour le diner ! C'est une recette vosgienne !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 15.5714285714286*X + 93.4285714285714</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = X + 9</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['reste de purée de pommes de terre', 'reste']	 id:1	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['lardons fumés', 'lardons']	 id:2	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['petits']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['crème pas trop épaisse', 'crème']	 id:4	 quantité:30	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['gruyère rapé', 'gruyère']	 id:5	 quantité:50	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['noix de beurre', 'noix']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['eau']	 id:7	 quantité:5	 unité:cl d'	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:beurrer	 id:o_1	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:etaler	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:griller	 id:o_3	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:100*X	 temps:1*X*5	 recipient:1
+operation:ajouter	 id:o_4	 ingrédients_ralatifs:['5', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:évaporer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:recouvrir	 id:o_6	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_7	 ingrédients_ralatifs:['3', '5', '5', '3']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:disperser	 id:o_8	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfourner	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:régaler	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21124">
+  <titre>Gratin de morue aux oignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>600 g de filets de morue</p>
+    <p>6 pommes de terre</p>
+    <p>3 oignons</p>
+    <p>20 cl de crème liquide</p>
+    <p>beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La veille, faites dessaler les filets de morue dans 2 l d'eau froide. Changez-la toutes les 2 ou 3 h.
+    Egouttez et placez les filets dans une marmite. Couvrez d'eau froide et portez à ébullition.
+    Laissez pocher 10 min à frémissement. Egouttez et emiettez la chair.
+    Pendant ce temps, faites cuire les pommes de terre entière. Mettez-les dans 2 l d'eau froide salée et comptez 20 min à partir de l'ébullition.
+    Egouttez, pelez-les et coupez-les en rondelles.
+    Faites suer les oignons pelés et émincés dans une poêle avec du beurre chaud. Laissez-les bien suer, puis salez et poivrez.
+    Beurrez un plat allant au four, disposez les pommes de terre eu fond en les faisant se chevaucher, puis répartissez la morue et enfin les oignons fondus. Nappez de crème liquide, salez et poivrez.
+    Faites cuire 20 min au four à 180°C (thermostat 6).
+  ]]>
+  </preparation>
+</recette>

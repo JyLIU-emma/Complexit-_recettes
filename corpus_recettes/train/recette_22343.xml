@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22343">
+  <titre>Douillons de poires aux amandes</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>4 poires</p>
+    <p>1 citron</p>
+    <p>1 rouleau de pâte feuilletée</p>
+    <p>50 g de beurre</p>
+    <p>100 g de poudre d'amandes </p>
+    <p>1 oeuf + 1 jaune</p>
+    <p>1 cuillère à soupe de rhum</p>
+    <p>2 cuillères à soupe de lait</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez et évidez les poires.
+    Citronnez-les.
+    Travaillez le beurre avec la poudre d'amandes, l'oeuf entier et le rhum.
+    Garnissez les poires de ce mélange.
+    Déposez chaque poire sur un carré de pâte feuilletée, remontez les bords pour envelopper les poires.
+    Délayez le jaune d'oeuf avec le lait et un peu de sucre.
+    Badigeonnez-en les douillons et faites-les cuire 20 min au four à 200°C (thermostat 6-7).
+    Baissez le four à 150°C (thermostat 5) et poursuivez la cuisson 20 min.
+  ]]>
+  </preparation>
+</recette>

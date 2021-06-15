@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16523">
+  <titre>Lasagnes de morue (cabillaud)</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de filet de cabillaud</p>
+    <p>1/2 cuillère à café de sel</p>
+    <p>1 cuillère à café de poivre noir</p>
+    <p> </p>
+    <p>Pour la sauce tomate :</p>
+    <p>1/2 poireau</p>
+    <p>1 cuillère à soupe de beurre</p>
+    <p>400 g de pulpe de tomates </p>
+    <p>1/2 cuillère à soupe de graines de fenouil</p>
+    <p>1 cube de bouillon de volaille ou poisson</p>
+    <p>Pour la sauce blanche :</p>
+    <p>5 dl de sauce au fromage (ou de mélange crème fraîche + fromage râpé, à défaut)</p>
+    <p>200 g de fromage râpé (gruyère, ou cheddar selon ce dont vous disposez)</p>
+    <p>200 g de lasagnes fraîches</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préparer la sauce tomate : laver et couper finement le poireau. Chauffer le beurre dans une casserole et frire le poireau doucement, sans le colorer. Ajouter les tomates, le fenouil et le cube. Cuire environ 5 mn.
+    Prparer la sauce blanche : verser la sauce au fromage dans une casserole et la cuire à couvert. Ajouter 100 g de fromage et mélanger jusqu'à ce qu'il soit fondu. Retirer la casserole du feu.
+    Verser un peu de sauce blanche dans un plat allant au four. Couvrir d'un couche de lasagne. Répartir la moitié de la sauce tomate dessus. Mettre la moitié du filet de cabillaud, un peu de sauce blanche, de lasagnes, continuer en alternant... Finir avec des lasagnes et de la sauce blanche.
+    Saupoudrer des 100 g de fromage restants. Faire gratiner au four, à mi-hauteur, pendant environ 20 mn (four chaud / 200 °C).Servir immédiatement avec de la salade.
+  ]]>
+  </preparation>
+</recette>

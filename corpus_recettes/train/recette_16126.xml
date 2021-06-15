@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16126">
+  <titre>Flan traditionnel</titre>
+  <type>Dessert</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>100 g de farine</p>
+    <p>250 g de sucre en poudre</p>
+    <p>6 oeufs</p>
+    <p>1 l de lait</p>
+    <p>1 gousse de vanille ou 1 à 2 gouttes d'extrait de vanille</p>
+    <p>1 pincée de sel</p>
+    <p>1 cuillère à soupe de sucre glace</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire bouillir le lait avec la gousse de vanille. Le laisser refroidir ensuite
+    Tapisser un moule de 28 cm préalablement beurré (ou utiliserle papier sulfurisé) de diamètre avec la pâte brisée.
+    Piquez la pâte avec une fourchette en divers endroits. Préchauffer le four à 200°C.
+    Mélanger dans une terrine la farine avec le sucre en poudre. Ajouter les oeufs préalablement battus.
+    Incorporer ensuite le lait (il faut retirer la gousse de vanille) en filet.
+    Mélanger bien jusqu'à l'obtention d'un appareil lisse et homogène.
+    Verser cette préparation sur la pâte brisée.
+    Faire cuire au four à mi-hauteur pendant 30 à 35 mn à 200°C.
+    A la sortie du four, le saupoudrer de sucre glace.
+    Ce flan peut se manger tiède ou froid. Il est très bon le lendemain.
+    Vous pouvez aussi incorporer des raisins secs dans le mélange. Ceux-ci auront du être trempés 1h dans du rhum avant.
+  ]]>
+  </preparation>
+</recette>

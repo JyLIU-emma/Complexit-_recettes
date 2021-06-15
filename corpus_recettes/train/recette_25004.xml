@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25004">
+  <titre>Champignons farcis</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>champignons à farcir (8)</p>
+    <p>3 tranches de jambon blanc</p>
+    <p>1 jaune d'oeuf</p>
+    <p>1 échalote</p>
+    <p>3 cuillerées de crème fraîche</p>
+    <p>50 g fromage râpé</p>
+    <p>persil</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Séparer les pieds des chapeaux.  
+    Hacher le jambon, battre l'oeuf.
+    Mixer les pieds et ajouter les ingrédients mélangés.
+    Faire bouillir de l'eau et y mettre les chapeaux pendant 5 mn. 
+    Mettre au four (moyen) 20 mn les chapeaux farcis avec la préparation.
+  ]]>
+  </preparation>
+</recette>

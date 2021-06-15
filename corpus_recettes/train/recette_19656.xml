@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19656">
+  <titre>Fricassée de crevettes</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>800 g de crevettes entières</p>
+    <p>1 oignon</p>
+    <p>2 cuillères à soupe d'huile (pas plus!) </p>
+    <p>1 boîte de tomates concassées</p>
+    <p>1 petite boîte de champignons</p>
+    <p>1 piment végétarien</p>
+    <p>sel, poivre</p>
+    <p>1 tranche de citron (vert de préférence) </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher l'oignon et le faire revenir dans les 2 cuillères d'huile. Une fois qu'ils ont pris de la couleur, mettre les crevettes dedans et faire revenir jusqu'à obtention d'une couleur rosée. 
+    Ajouter la boîte de tomates petit à petit, puis les champignons. Couper le piment végétarien en petits morceaux (enlever bien les pépins) et l'ajouter. Saler, poivrer et laisser revenir une dizaine de minutes à feu doux. 
+    Au moment de servir, mettre un filet de jus de citron sur les crevettes.
+    C'est vraiment délicieux ! A servir avec du riz.
+  ]]>
+  </preparation>
+</recette>

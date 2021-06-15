@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13332">
+  <titre>Lasagnes aux poireaux et au saumon</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>plaques de lasagnes</p>
+    <p>6 blancs de poireaux</p>
+    <p>2 darnes ou filets de saumon</p>
+    <p>3 tranches de saumon fumé</p>
+    <p>béchamel</p>
+    <p>gruyère rapé</p>
+    <p>beurre</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Emincer les blancs de poireaux et les faire revenir longtemps dans du beurre jusqu'à ce qu'il roussissent.
+    Pendant ce temps, passer les darnes de saumon au micro-ondes moins d'une minute de sorte à pouvoir l'émietter facilemment.
+    Beurrer un plat et y poser successivement une plaque de lasagne puis par dessus tout le saumon fumé et à nouveau une plaque de lasagne.
+    Arrêter la cuisson des poireaux et les disposer sur la dernière couche de lasagne et recouvrir de lasagne.
+    Recouvrir la couche de lasagne par le saumon émietté, le napper de béchamel et d'une dernière plaque de lasagnes.
+    Sur la dernière couche de lasagne, verser le restant de béchamel, parsemer de gruyère râpé et cuire 30 mn à four moyen / chaud (thermostat 6/7).
+    Un plat complet original que l'on peut préparer à l'avance ! vin blanc sec
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25607">
+  <titre>Soupe dite 'à l'indienne'</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>350 g de chou-fleur</p>
+    <p>350 g de pommes de terre</p>
+    <p>15 g de gingembre</p>
+    <p>4 oignons</p>
+    <p>6 gousses d'ail</p>
+    <p>1/2 l de bouillon de volaille</p>
+    <p>1 cuillère à café de curcuma</p>
+    <p>2 cuillères à café de cumin</p>
+    <p>3 cuillères à café de coriandre en poudre</p>
+    <p>sel </p>
+    <p>huile d'olive</p>
+    <p>crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Hacher l'ail et le gingembre, couper les légumes. Faites revenir ces derniers dans l'huile d'olive, couvrir avec le bouillon, cuire 25 mn à partir de l'ébullition. 
+    Rajouter de l'eau en cours de cuisson si vous souhaitez une soupe avec un peu plus de liquide.
+    Soupe originale, très bonne, assez relevée, très facile et à petit coût. vin charpenté type madiran
+  ]]>
+  </preparation>
+</recette>

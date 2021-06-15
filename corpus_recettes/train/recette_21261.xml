@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21261">
+  <titre>Tranches de Jambon au four</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 tranches de jambon d'york</p>
+    <p>1 boîte de quenelles de veau nature</p>
+    <p>1 boîte de champignons de Paris</p>
+    <p>coulis de tomates</p>
+    <p>4 cuillères à soupe de crème fraîche</p>
+    <p>gruyère râpé</p>
+    <p>noix de beurre</p>
+    <p>thym</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Beurrer un plat allant au four. 
+    Couper les quenelles en rondelles et les mettre avec les champignons dans les tranches de jambon ; les rouler et les mettre dans le plat (conserver quelques quenelles et champignons que vous ajouterez à la sauce). 
+    Ajouter la crème fraîche et le thym au coulis de tomates et mettre le tout sur les tranches de jambon ainsi que quelques quenelles et champignons. 
+    Napper le tout de gruyère râpé et mettre quelques noix de beurre. 
+    Mettre au four Th 6-7 durant 30 mn.
+  ]]>
+  </preparation>
+</recette>

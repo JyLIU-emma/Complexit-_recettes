@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25734">
+  <titre>Méli-mélo concombre cresson à la crème</titre>
+  <type>Entrée</type>
+  <niveau>Très facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 concombre</p>
+    <p>1 botte de cresson</p>
+    <p>25 cl de crème fraîche</p>
+    <p>sel, poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Peler et couper le concombre en 2 dans le sens de la longueur. L’égrainer puis le faire dégorger avec du sel pendant 1 h.
+    Le rincer sous l’eau froide, l’essuyer avec du papier absorbant pus le couper en rondelles.
+    Nettoyer ensuite le cresson et le rincer.
+    Mélanger le concombre et le cresson, assaisonner de crème, se sel et de poivre.
+  ]]>
+  </preparation>
+</recette>

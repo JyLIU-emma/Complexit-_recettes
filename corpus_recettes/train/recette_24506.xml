@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24506">
+  <titre>Couscous de poissons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1,5 kg de morceaux de poissons à chair ferme</p>
+    <p>600 g de semoule fine de couscous</p>
+    <p>2 oignons</p>
+    <p>4 tomates</p>
+    <p>3 gousses d'ail</p>
+    <p>1 feuille de laurier</p>
+    <p>1 cuillère à soupe de harissa</p>
+    <p>1 cuillère à café de cumin</p>
+    <p>1 cuillère à café de poivre moulu</p>
+    <p>1 cuillère à café de piment en poudre</p>
+    <p>10 cl d'huile</p>
+    <p>60 g de beurre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper les poissons en gros morceaux. Mixer l'ail en purée, tartiner les poissons avec cette purée. Saler et poivrer, puis les saupoudrer de cumin.
+    Laisser reposer 1 h.
+    Emincer les oignons. Peler et concasser les tomates.
+    Faire chauffer un peu d'huile dans un grand faitout, y faire revenir les oignons. Ajouter les tomates pelées, puis le piment, le sel et la harissa. Couvrir et laisser mijoter 10 minutes.
+    Ajouter 2 litres d'eau, puis les morceaux de poisson. Porter à ébullition et laisser mijoter 10 min. Egoutter le poisson et le réserver au chaud.
+    Filtrer le bouillon de cuisson au chinois en pressant bien, Réserver au chaud.
+    Mouiller la semoule de 1,5 fois son volume d'eau bouillante salée. Laisser gonfler, puis ajouter le beurre en remuant à la fourchette. Réchauffer 5 minutes à la vapeur ou au mirco-ondes.
+    Servir le couscous avec la semoule dans un plat, le poisson et les légumes dans un autre, et enfin le bouillon.
+  ]]>
+  </preparation>
+</recette>

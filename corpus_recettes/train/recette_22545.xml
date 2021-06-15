@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22545">
+  <titre>Escalopes de veau farcies au gouda et au jambon cru</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>6 escalopes de veau épaisses</p>
+    <p>6 tranches de gouda</p>
+    <p>6 tranches de jambon cru</p>
+    <p>45 g de beurre</p>
+    <p>1 cuillère à soupe bombée de moutarde</p>
+    <p>3 cuillères à soupe de crème</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper les escalopes en 2 dans l'épaisseur puis les farcir d'1 tranche de fromage et d'1 tranche de jambon.
+    Maintenir les escalopes fermées à l'aide d'un fil de cuisine ou d'un pic en bois.
+    Faire cuire les escalopes farcies dans le beurre pendant 15 minutes environ puis les débarrasser sur une assiette.
+    Verser la crème et la moutarde dans le jus de cuisson et lorsque que cette sauce est chaude, en napper les escalopes.
+  ]]>
+  </preparation>
+</recette>

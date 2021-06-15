@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24718">
+  <titre>Tarte au fromage blanc nappée de framboises</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>1 pâte brisée</p>
+    <p>200 g de fromage blanc épais</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>100 g de sucre</p>
+    <p>1 sachet de sucre vanillé</p>
+    <p>1 zeste de citron</p>
+    <p>500 g de framboises</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 180°C (thermostat 6).
+    Etalez la pâte dans un moule à tarte beurré.
+    Fouettez le fromage blanc avec les jaunes d'oeufs, les sucres et le zeste de citron.
+    Versez cette préparation sur le fond de tarte et enfournez pour 45 minutes de cuisson.
+    Conservez quelques framboises pour la décoration, mixez le reste et passez au tamis fin pour ôtez les grains du fruit.
+    Faites tiédir et versez sur la tarte refroidie. 
+    Servez bien frais, décoré de quelques framboises.
+  ]]>
+  </preparation>
+</recette>

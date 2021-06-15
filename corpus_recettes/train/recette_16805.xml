@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16805">
+  <titre>Ratatouille parmesane</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>8 belles tomates</p>
+    <p>4 gros oignons</p>
+    <p>3 courgettes</p>
+    <p>2 aubergines</p>
+    <p>1 poivron vert</p>
+    <p>5 gousses d'ail (facultatif)</p>
+    <p>150 g de parmesan râpé</p>
+    <p>huile d'olive</p>
+    <p>vinaigre de vin</p>
+    <p>sel, poivre, thym</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper en rondelles les oignons, les courgettes, les aubergines, les tomates, puis les poivrons en lanières.
+    Napper le fond d'un plat à gratin d'huile d'olive et superposer les rondelles de légumes en alternance, d'un côté à l'autre du plat. Saler, poivrer, parsemer de thym et d'ail écrasé. Ajouter sur l'ensemble un généreux filet d'huile d'olive, puis trois ou quatre cuillerées à soupe de vinaigre de vin. Disposer sur l'ensemble le parmesan râpé.Faire cuire à four chaud (thermostat 7/8), pendant 30 à 40 min. Entre Deux Mers
+  ]]>
+  </preparation>
+</recette>

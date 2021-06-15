@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17975">
+  <titre>Poulet aux germes de soja (Chine)</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>300 g de blanc de poulet</p>
+    <p>2 cuillères à soupe de sauce de soja</p>
+    <p>1 cuillère à café de sucre</p>
+    <p>1 cuillère à café de fécule de maïs</p>
+    <p>3 oignons nouveaux émincés</p>
+    <p>3 cuillères à soupe d’huile</p>
+    <p>1 cuillère à soupe de Xérès</p>
+    <p>125 g de germes de soja</p>
+    <p>1/2 bol de bouillon de poule</p>
+    <p>1 cuillère à café de fécule de maïs</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Couper le poulet en tranches, puis en fines lamelles. Les laisser mariner dans la sauce de soja, le sucre et la fécule, pendant 20 minutes.
+    Dorer les oignons dans l’huile 30 secondes, les repousser sur le côté de la poêle et faire revenir le poulet. Verser le Xérès. Ajouter les germes de soja un court instant. Mélanger le poulet et la fécule, puis laisser cuire jusqu’à épaississement.
+  ]]>
+  </preparation>
+</recette>

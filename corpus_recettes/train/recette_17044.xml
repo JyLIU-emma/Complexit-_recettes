@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17044">
+  <titre>Tarte fine (pour les amateurs de chocolat !)</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>60 g de beurre</p>
+    <p>35 g de sucre glace</p>
+    <p>15 g de poudre d'amande</p>
+    <p>1 oeuf</p>
+    <p>110 g de farine</p>
+    <p>100 g de chocolat à 70% de cacao</p>
+    <p>140 g de crème fraîche</p>
+    <p>2 cuillères à soupe de lait</p>
+    <p>30 g de sucre en poudre</p>
+    <p>sel fin</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La pâte sablée :  
+    Mettre le beurre en pommade dans un bol mélangeur, puis ajouter le sucre glace, la poudre d'amande, la moitié de l'oeuf et une pincée de sel.Mélanger rapidement, en ajoutant petit à petit la farine, et en travaillant la pâte le moins possible afin de laisser reposer au frais pendant au moins 12 h.
+    Etaler la pâte, garnir 4 moules à tartelettes, et les faire cuire au four à 180°C (th 6), pendant 10 min.
+    La crème au chocolat : Hacher finement le chocolat au couteau, et le laisser fondre doucement au bain-marie.
+    Dans une casserole, porter la crème et le sucre en poudre à frémissement, et verser ce mélange sur le chocolat fondu.Mélanger le lait et le reste de l'oeuf, puis les incorporer à la crème au chocolat.
+    Garnir de cette préparation les fonds de tarte et les enfourner à 180°C (th 6), pendant 10 min.
+    Servir tiède.
+  ]]>
+  </preparation>
+</recette>

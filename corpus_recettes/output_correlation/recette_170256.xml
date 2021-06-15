@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170256">
+  <titre>Duo de truite rose, chantilly au citron et tuile poivrée à la mimolette</titre>
+  <type>Entrée</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour les flans à la truite:</p>
+    <p>1 gros oeuf</p>
+    <p>140 g de chair de truite cuisinée ou précuite</p>
+    <p>6.5 cl de lait</p>
+    <p>7 tours de moulin à poivre (noir ou 5 baies)Pour les tuiles:</p>
+    <p>40 g de mimolette vieille</p>
+    <p>20 tours de moulin à poivre (noir ou 5 baies)Pour la chantilly au citron:</p>
+    <p>14 cl de crème liquide entière</p>
+    <p>le zeste d'1 citron</p>
+    <p>sel</p>
+    <p>Pour le dressage:</p>
+    <p>4 petites tranches de truite fumée</p>
+    <p>12 fines rondelles de concombre + 4 cure-dents en bois</p>
+    <p>brins de ciboulette</p>
+    <p>poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    La chantilly au citron:Porter la crème liquide à ébullition dans une casserole puis couper le feu. Ajouter le zeste, couvrir et laisser infuser au moins 15 min.
+    Passer au chinois pour retirer le zeste et réserver ensuite au frais de façon à ce qu'elle soit bien froide pour la monter en chantilly par la suite.
+    Les flans à la truite:Préchauffer le four à 180°C (thermostat 6). Battre l'œuf en omelette, ajouter la chaire de truite émiettée, le lait et le poivre jusqu'à ce que le mélange soit homogène.
+    Verser la préparation dans de petits moules individuels (j'ai utilisé les moules à tartelettes en silicone) et mettre à cuire environ 15 min au four, jusqu'à ce que le dessus commence à colorer et que la lame du couteau ressorte propre.
+    Laisser refroidir puis réserver au réfrigérateur.
+    Pour les tuiles:Râper la mimolette dans un saladier et ajouter le poivre. Bien mélanger.
+    Disposer une feuille de papier cuisson sur une grande plaque. Répartir le fromage râpé en quatre tas puis étaler très finement en veillant à espacer les tuiles pour qu'elles ne collent pas entre elles.
+    Mettre au four environ 5 min jusqu'à ce que le fromage soit fondu.
+    A la sortie du four, lorsque le fromage est encore souple, plier la feuille de papier cuisson de façon à donner une forme courbe à la tuile (le fromage refroidi très vite).Dressage:Monter la crème bien froide en chantilly. Lorsqu'elle est prise, ajouter un peu de sel et mélanger pour bien le répartir.
+    Dans chaque assiette, poser un flan à la truite en glissant légèrement une partie de la tuile en dessous pour la faire tenir.
+    Faire une entaille dans chaque rondelle de concombre en partant du centre et jusqu'au bord. Rouler comme pour lui donner une forme de rose et piquer avec le cure-dent. Mettre ainsi 3 rondelles par cure-dent. Poser à côté du flan.
+    Mettre une bonne cuillère à soupe de chantilly au centre de la tranche de truite fumée puis relever les bords (normalement ils doivent rester relevés). Ajouter sur l'assiette.
+    Disposer une quenelle de chantilly citron sur le flan, donner un tour de moulin un poivre par dessus et y piquer 2 brins de ciboulette.C'est prêt !
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  La chantilly au citron : <OPER id="o_1">Porter</OPER> la <INGRED id="6">crème liquide</INGRED> à ébullition dans une casserole puis <OPER id="o_2">couper</OPER> le feu. <OPER id="o_3">Ajouter</OPER> le <INGRED id="4">zeste</INGRED>, <OPER id="o_4">couvrir</OPER> et <INGRED id="12">laisser</INGRED> <OPER id="o_5">infuser</OPER> au moins 15 min. <OPER id="o_6">Passer</OPER> au chinois pour retirer le <INGRED id="7">zeste</INGRED> et réserver ensuite au frais de façon à ce qu'elle soit bien froide pour la monter en chantilly par la suite. Les flans à la <INGRED id="10">truite</INGRED> : <OPER id="o_7">Préchauffer</OPER> le four à 180 ° C ( thermostat 6 ). <OPER id="o_8">Battre</OPER> l'<INGRED id="5">œuf</INGRED> en omelette, <OPER id="o_9">ajouter</OPER> la chaire de <INGRED id="10">truite</INGRED> émiettée, le <INGRED id="1">lait</INGRED> et le <INGRED id="6">poivre</INGRED> jusqu'à ce que le <INGRED id="7">mélange</INGRED> soit homogène. <OPER id="o_10">Verser</OPER> la <INGRED id="4">préparation</INGRED> dans de <INGRED id="3">petits</INGRED> <INGRED id="2">moules</INGRED> individuels ( j'ai utilisé les <INGRED id="2">moules</INGRED> à tartelettes en silicone ) et <OPER id="o_11">mettre</OPER> à <OPER id="o_12">cuire</OPER> <INGRED id="1">environ</INGRED> 15 min au four, jusqu'à ce que le dessus commence à <OPER id="o_13">colorer</OPER> et que la lame du <INGRED id="8">couteau</INGRED> ressorte propre. Laisser <OPER id="o_14">refroidir</OPER> puis réserver au réfrigérateur. Pour les tuiles : <OPER id="o_15">Râper</OPER> la <INGRED id="5">mimolette</INGRED> dans un <INGRED id="1">saladier</INGRED> et <OPER id="o_16">ajouter</OPER> le poivre. Bien <OPER id="o_17">mélanger</OPER>. <OPER id="o_18">Disposer</OPER> une feuille de papier cuisson sur une grande plaque. <OPER id="o_19">Répartir</OPER> le <INGRED id="4">fromage râpé</INGRED> en <INGRED id="1">quatre</INGRED> tas puis <OPER id="o_20">étaler</OPER> très finement en veillant à <OPER id="o_21">espacer</OPER> les tuiles pour qu'elles ne collent pas entre elles. <OPER id="o_22">Mettre</OPER> au four <INGRED id="1">environ</INGRED> 5 min jusqu'à ce que le fromage soit fondu. A la sortie du four, lorsque le fromage est encore souple, <OPER id="o_23">plier</OPER> la feuille de papier cuisson de façon à donner une forme courbe à la tuile ( le fromage refroidi très vite).Dressage : <OPER id="o_24">Monter</OPER> la <INGRED id="2">crème</INGRED> bien froide en chantilly. Lorsqu'elle est prise, <OPER id="o_25">ajouter</OPER> un peu de <INGRED id="12">sel</INGRED> et <OPER id="o_26">mélanger</OPER> pour bien le répartir. Dans chaque assiette, <OPER id="o_27">poser</OPER> un flan à la <INGRED id="10">truite</INGRED> en glissant légèrement une partie de la tuile en dessous pour la <INGRED id="4">faire</INGRED> tenir. Faire une entaille dans chaque rondelle de <INGRED id="11">concombre</INGRED> en partant du centre et jusqu'au bord. <OPER id="o_28">Rouler</OPER> comme pour lui donner une forme de rose et <OPER id="o_29">piquer</OPER> avec le <INGRED id="12">cure</INGRED> - dent. <OPER id="o_30">Mettre</OPER> ainsi 3 rondelles par <INGRED id="12">cure</INGRED> - dent. <OPER id="o_31">Poser</OPER> à côté du flan. <OPER id="o_32">Mettre</OPER> une bonne cuillère à <INGRED id="5">soupe</INGRED> de chantilly au centre de la tranche de <INGRED id="10">truite fumée</INGRED> puis <OPER id="o_33">relever</OPER> les bords ( normalement ils doivent rester relevés ). <OPER id="o_34">Ajouter</OPER> sur l'assiette. <OPER id="o_35">Disposer</OPER> une quenelle de chantilly citron sur le flan, donner un tour de moulin un <INGRED id="14">poivre</INGRED> par dessus et y <OPER id="o_36">piquer</OPER> 2 brins de <INGRED id="9">ciboulette</INGRED>. C'est prêt !
+  </annotation>
+  <annotation methode="crf">
+  La chantilly au <INGRED>citron</INGRED> <INGRED>:</INGRED> Porter la <INGRED>crème liquide</INGRED> à ébullition dans une casserole puis couper le feu <INGRED>.</INGRED> Ajouter le <INGRED>zeste</INGRED> <INGRED>,</INGRED> couvrir et laisser infuser au moins 15 min. Passer au chinois pour retirer le <INGRED>zeste</INGRED> et réserver ensuite au <INGRED>frais</INGRED> de façon à ce qu'elle soit bien froide pour la monter en chantilly par la suite <INGRED>.</INGRED> Les flans à la truite <INGRED>:</INGRED> Préchauffer le four à 180 ° C ( thermostat 6 ). Battre l'<INGRED>œuf</INGRED> en omelette <INGRED>,</INGRED> ajouter la chaire de truite émiettée <INGRED>,</INGRED> le <INGRED>lait</INGRED> et le <INGRED>poivre</INGRED> jusqu'à ce que le <INGRED>mélange</INGRED> soit homogène <INGRED>.</INGRED> Verser la préparation dans de petits moules individuels ( j'ai utilisé les <INGRED>moules</INGRED> à tartelettes en silicone ) et mettre à cuire <INGRED>environ</INGRED> 15 min au four <INGRED>,</INGRED> jusqu'à ce que le dessus commence à colorer et que la lame du couteau ressorte propre. Laisser refroidir puis réserver au réfrigérateur. Pour les tuiles <INGRED>:</INGRED> Râper la mimolette dans un saladier et ajouter le <INGRED>poivre</INGRED>. Bien mélanger. Disposer une feuille de papier cuisson sur une grande plaque <INGRED>.</INGRED> Répartir le <INGRED>fromage</INGRED> râpé en <INGRED>quatre</INGRED> tas puis étaler très <INGRED>finement</INGRED> en veillant à espacer les tuiles pour qu'elles ne collent pas entre elles. Mettre au four <INGRED>environ</INGRED> 5 min jusqu'à ce que le <INGRED>fromage</INGRED> soit fondu. A la sortie du four <INGRED>,</INGRED> lorsque le <INGRED>fromage</INGRED> est encore souple <INGRED>,</INGRED> plier la feuille de papier cuisson de façon à donner une forme courbe à la tuile ( le <INGRED>fromage</INGRED> refroidi très vite).Dressage <INGRED>:</INGRED> Monter la <INGRED>crème</INGRED> bien froide en chantilly. Lorsqu'elle est prise <INGRED>,</INGRED> ajouter un peu de <INGRED>sel</INGRED> et mélanger pour bien le répartir <INGRED>.</INGRED> Dans chaque assiette <INGRED>,</INGRED> poser un flan à la truite en glissant légèrement une partie de la tuile en dessous pour la faire tenir <INGRED>.</INGRED> Faire une entaille dans chaque rondelle de <INGRED>concombre</INGRED> en partant du centre et jusqu'au bord. Rouler comme pour lui donner une forme de rose et piquer avec le <INGRED>cure</INGRED> - dent. Mettre ainsi 3 rondelles par <INGRED>cure</INGRED> - dent. Poser à côté du flan. Mettre une bonne cuillère à soupe de chantilly au centre de la tranche de <INGRED>truite fumée</INGRED> puis relever les bords ( normalement ils doivent rester relevés ). Ajouter sur l'assiette <INGRED>.</INGRED> Disposer une quenelle de chantilly <INGRED>citron</INGRED> sur le flan <INGRED>,</INGRED> donner un tour de <INGRED>moulin</INGRED> un <INGRED>poivre</INGRED> par dessus et y piquer 2 brins de <INGRED>ciboulette</INGRED>. C'est prêt !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 30.8571428571429*X + 5.14285714285714</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 48*X + 18</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['oeuf']	 id:1	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['chair de truite cuisinée', 'chair']	 id:2	 quantité:140	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:3	 quantité:6.5	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:['tours de moulin à poivre Pour les tuiles', 'tours']	 id:4	 quantité:7	 unité:non_precis	 denombrable:True	 recipient:7*X
+ingredient:['mimolette vieille', 'mimolette']	 id:5	 quantité:40	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['tours de moulin à poivre Pour la chantilly au citron', 'tours']	 id:6	 quantité:20	 unité:non_precis	 denombrable:True	 recipient:20*X
+ingredient:['crème liquide entière', 'crème']	 id:7	 quantité:14	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:["zeste d'1 citron", 'zeste']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['sel']	 id:9	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['truite fumée', 'truite']	 id:10	 quantité:4	 unité:tranches de	 denombrable:True	 recipient:4*X
+ingredient:['concombre']	 id:11	 quantité:12	 unité:rondelles de	 denombrable:True	 recipient:12*X
+ingredient:['cure-dents en bois', 'cure']	 id:12	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+ingredient:['ciboulette']	 id:13	 quantité:non_precis	 unité:brins de	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:14	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:porter	 id:o_1	 ingrédients_ralatifs:['6']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couper	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:1
+operation:ajouter	 id:o_3	 ingrédients_ralatifs:['4', '12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:couvrir	 id:o_4	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:infuser	 id:o_5	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:passer	 id:o_6	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:20	 recipient:0
+operation:préchauffer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:30	 recipient:0
+operation:battre	 id:o_8	 ingrédients_ralatifs:['5', '10', '1', '6', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:['10', '1', '6', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:verser	 id:o_10	 ingrédients_ralatifs:['4', '3', '2', '2', '1', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_11	 ingrédients_ralatifs:['1', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:cuire	 id:o_12	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:colorer	 id:o_13	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_14	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:râper	 id:o_15	 ingrédients_ralatifs:['5', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_16	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_17	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:disposer	 id:o_18	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:répartir	 id:o_19	 ingrédients_ralatifs:['4', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:étaler	 id:o_20	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:espacer	 id:o_21	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_22	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:plier	 id:o_23	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:monter	 id:o_24	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_25	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_26	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:poser	 id:o_27	 ingrédients_ralatifs:['10', '4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rouler	 id:o_28	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:piquer	 id:o_29	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_30	 ingrédients_ralatifs:['12']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:poser	 id:o_31	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_32	 ingrédients_ralatifs:['5', '10']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:relever	 id:o_33	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_34	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_35	 ingrédients_ralatifs:['14', '9']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:piquer	 id:o_36	 ingrédients_ralatifs:['9']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

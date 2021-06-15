@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23909">
+  <titre>Linguine aux brocolis, raisins et pignons</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>400 g de linguines (spaghetti plats)</p>
+    <p>600 g de brocolis</p>
+    <p>1 oignon</p>
+    <p>100 g de parmesan en bloc</p>
+    <p>1 poignée de raisins secs</p>
+    <p>1 poignée de pignons</p>
+    <p>5 à 10 cl d'huile d’olive</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faites cuire les brocolis à l'eau bouillante salée 5 min de manière à ce qu’ils restent un peu fermes.
+    Egouttez-les et découpez-les en petits bouquets.
+    Faites cuire les pâtes al dente à l'eau bouillante salée.
+    Pendant la cuisson des pâtes, faites colorer l'oignon haché dans l'huile chaude à la sauteuse.
+    Ajoutez les brocolis, baissez le feu et laissez-les s'attendrir en purée.
+    Ajoutez alors les pâtes égouttées, le parmesan en copeaux, les raisins secs et les pignons.
+    Mélangez et laissez quelques minutes au chaud avant de servir.
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16168">
+  <titre>Hochepot</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 botte de jeunes carottes</p>
+    <p>250 g de choux de Bruxelles</p>
+    <p>5 poireaux</p>
+    <p>6 pommes de terre à chair ferme</p>
+    <p>1 botte de navets</p>
+    <p>4 morceaux de travers de porc (spare ribs)</p>
+    <p>1 cube de bouillon de boeuf</p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Nettoyer, peler, couper et laver les légumes.
+    Faire chauffer un peu de margarine dans une grande sauteuse et y faire colorer la viande.
+    Ajouter tous les légumes et le cube de bouillon en miettes + un peu d'eau pour éviter que le fond de la casserole ne brûle.
+    Saler un peu et bien poivrer, puis couvrir et laisser cuire à feu doux à modéré en changeant la viande de place de temps à autre (une fois au dessous des légumes, une fois au-dessus).
+  ]]>
+  </preparation>
+</recette>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26378">
+  <titre>Lotte façon normande</titre>
+  <type>Plat principal</type>
+  <niveau>Difficile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1 kg de lotte</p>
+    <p>2 cuillères à soupe de farine</p>
+    <p>75 g de beurre</p>
+    <p>750 g de moules</p>
+    <p>250 g de champignons</p>
+    <p>2 échalotes</p>
+    <p>1 dl de vin blanc sec ou de cidre sec</p>
+    <p>1 pincée de sel </p>
+    <p>1 pincée de poivre</p>
+    <p>Pour la sauce :</p>
+    <p>40 g de beurre</p>
+    <p>30 g de farine</p>
+    <p>1/2 litre de jus de cuisson du poisson</p>
+    <p>2 jaunes d'oeufs</p>
+    <p>1 cuillère à soupe de jus de citron</p>
+    <p>2 cuillères à soupe de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffez le four à 200°C (Thermostat 6-7)Roulez les morceaux de lotte dans la farine.
+    Dans une poêle faites revenir le poisson dans du beurre et assaisonnez.
+    Dans le fond d'un plat beurré, disposez les échalotes préalablement hâchées et disposez dessus la lotte égouttée.
+    Faites ouvrir les moules, décoquillez-les, gardez le jus de cuisson et placez les moules dans le plat avec la lotte Faites revenir les champignons émincés dans du beurre, assaisonnez, puis ajouter au plat.
+    Imprégnez de vin et de jus de moules et mettez au four à 200°C (Thermostat 6-7) pendant 30 min.
+    Préparation de la sauce :Dans une poêle chaude, faites fondre le beurre, ajoutez la farine et faites un roux. Versez le jus de la cuisson du poisson et faites cuire 10 min environ. Ajoutez les jaunes d'oeufs battus en omelette avec le citron et la crème. Assaisonnez.
+    Servez avec du riz ou des pâtes fraîches.
+  ]]>
+  </preparation>
+</recette>

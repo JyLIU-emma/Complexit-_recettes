@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26648">
+  <titre>Lotte safranée</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>800 g de lotte coupée en morceaux</p>
+    <p>30 g de beurre</p>
+    <p>2 carottes</p>
+    <p>1 oignon</p>
+    <p>2 gousses d'ail</p>
+    <p>sel, poivre</p>
+    <p>20 cl de vin blanc</p>
+    <p>3 cuillères à soupe de coulis de tomates</p>
+    <p>1 dose de safran</p>
+    <p>20 g de crème fraîche</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler les carottes en dés, émincer l'oignon et l'ail.
+    Faire dorer la lotte dans le beurre puis ajouter les carottes ainsi que l'oignon et l'ail.
+    Arroser de vin blanc, couvrir et cuire 20 minutes.
+    Ajouter la tomate et le safran et poursuivre la cuisson 15 minutes.
+    Incorporer la crème fraîche et servir.
+  ]]>
+  </preparation>
+</recette>

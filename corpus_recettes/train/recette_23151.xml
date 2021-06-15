@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23151">
+  <titre>Gratin de chou-fleur et pommes de terre</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 chou fleur</p>
+    <p>4 grosses pommes de terre</p>
+    <p>50 g de beurre</p>
+    <p>50 g de farine</p>
+    <p>25 cl de lait</p>
+    <p>25 cl d'eau de cuisson des légumes</p>
+    <p>1 pincée de noix de muscade</p>
+    <p>100 g de gruyère</p>
+    <p>20 g de beurre pour le plat </p>
+    <p>sel et poivre </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Laver le chou, le séparer en bouquets, puis peler les pommes de terre et les détailler en rondelles.
+    Dans un grand faitout, porter de l'eau salée à ébullition et y faire cuire les pommes de terre au bout de 8 minutes. Mettre ensuite le chou.
+    Laisser cuire les légumes en veillant à ce qu'ils ne ramollissent pas trop, puis les mettre à égoutter. Récupérer 25 cl du bouillon des légumes et le réserver.
+    Préchauffer votre four à 240°C (thermostat 8).Préparer ensuite la sauce :Faire fondre le beurre dans une casserole avec la farine sans cesser de remuer. Mouiller avec le bouillon récupéré, le lait et assaisonner de sel, poivre et noix de muscade à votre convenance. Laisser mijoter 10 min, le temps que la sauce prenne, puis rectifier l'assaisonnement.Réserver 3 cuillères à soupe de gruyère râpé et incorporer le reste dans la casserole en remuant.
+    Dans un plat à gratin beurré, dresser les pommes de terre et le chou. Les recouvrir de sauce et parsemer le dessus des 3 cuillères à soupe de gruyère râpé réservées.
+    Enfourner à four chaud et laisser gratiner 10 à 15 min.
+    Servir immédiatement.
+  ]]>
+  </preparation>
+</recette>

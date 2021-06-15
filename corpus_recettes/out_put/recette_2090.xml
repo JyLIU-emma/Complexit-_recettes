@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="2090">
+  <titre>Gâteau frais</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 Carrés Frais à 0% de matière grasse</p>
+    <p>170 g de farine</p>
+    <p>150 g de sucre</p>
+    <p>170 g d'oeuf</p>
+    <p>vanille, rhum ou extrait de fleur d'oranger</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Dans un saladier, fouetter les jaunes d'oeuf et le sucre.
+    Une fois que le mélange est mousseux, incorporer les Carrés Frais. Mélanger à nouveau.
+    Verser la farine tamisée en pluie, et continuer de mélanger.
+    Monter les blancs en neige, et les incorporer délicatement au mélange.
+    Ajouter, selon votre goût, 2 cuillères à soupe de rhum, ou 2 cuillères à soupe de fleur d'oranger, ou encore 2 cuillères à soupe d'extrait de vanille.
+    Beurrer un moule à manquer, et enfourner à 180°C (thermostat 6), pendant 35 à 40 min.
+     
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Dans un saladier, <OPER id="o_1">fouetter</OPER> les jaunes d'oeuf et le <INGRED id="2">sucre</INGRED>. Une fois que le mélange est mousseux, <OPER id="o_2">incorporer</OPER> les <INGRED id="3">Carrés Frais</INGRED>. <OPER id="o_3">Mélanger</OPER> à nouveau. <OPER id="o_4">Verser</OPER> la <INGRED id="1">farine</INGRED> tamisée en pluie, et <OPER id="o_5">continuer</OPER> de <OPER id="o_6">mélanger</OPER>. <OPER id="o_7">Monter</OPER> les <INGRED id="4">blancs</INGRED> en neige, et les <OPER id="o_8">incorporer</OPER> délicatement au mélange. <OPER id="o_9">Ajouter</OPER>, selon votre goût, 2 cuillères à soupe de <INGRED id="6">rhum</INGRED>, ou 2 cuillères à soupe de fleur d'oranger, ou encore 2 cuillères à soupe d'extrait de <INGRED id="5">vanille</INGRED>. <OPER id="o_10">Beurrer</OPER> un moule à <OPER id="o_11">manquer</OPER>, et <OPER id="o_12">enfourner</OPER> à 180 ° C ( thermostat 6 ), pendant 35 à 40 min.
+  </annotation>
+  <annotation methode="crf">
+  Dans un saladier <INGRED>,</INGRED> fouetter les <INGRED>jaunes d'oeuf</INGRED> et le <INGRED>sucre</INGRED>. Une fois que le <INGRED>mélange</INGRED> est mousseux <INGRED>,</INGRED> incorporer les <INGRED>Carrés Frais</INGRED> <INGRED>.</INGRED> Mélanger à nouveau <INGRED>.</INGRED> Verser la <INGRED>farine tamisée</INGRED> en pluie <INGRED>,</INGRED> et continuer de mélanger. Monter les <INGRED>blancs</INGRED> en neige <INGRED>,</INGRED> et les incorporer délicatement au <INGRED>mélange</INGRED> <INGRED>.</INGRED> Ajouter <INGRED>,</INGRED> selon votre goût <INGRED>,</INGRED> 2 <INGRED>cuillères à soupe</INGRED> de <INGRED>rhum</INGRED> <INGRED>,</INGRED> <INGRED>ou</INGRED> 2 <INGRED>cuillères à soupe de fleur d'oranger</INGRED> <INGRED>,</INGRED> <INGRED>ou</INGRED> encore 2 <INGRED>cuillères à soupe d'extrait de vanille</INGRED> <INGRED>.</INGRED> Beurrer un moule à manquer <INGRED>,</INGRED> et enfourner à 180 ° C ( thermostat 6 ) <INGRED>,</INGRED> pendant 35 à 40 min.
+  </annotation>
+  <complexite>
+    <temps>f(X) = 7.38461538461539*X + 4.61538461538462</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 8*X + 8</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['Carrés Frais à 0 % de matière grasse', 'Carrés']	 id:1	 quantité:8	 unité:non_precis	 denombrable:True	 recipient:8*X
+ingredient:['farine']	 id:2	 quantité:170	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre']	 id:3	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oeuf']	 id:4	 quantité:170	 unité:g d'	 denombrable:False	 recipient:1
+ingredient:['vanille']	 id:5	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:["rhum ou extrait de fleur d'oranger", 'rhum']	 id:6	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:fouetter	 id:o_1	 ingrédients_ralatifs:['2']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:incorporer	 id:o_2	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:verser	 id:o_4	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:continuer	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:monter	 id:o_7	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_8	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_9	 ingrédients_ralatifs:['6', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:beurrer	 id:o_10	 ingrédients_ralatifs:['6', '5']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:manquer	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:enfourner	 id:o_12	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

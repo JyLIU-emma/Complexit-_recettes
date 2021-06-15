@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24194">
+  <titre>Saumon au foie gras, aux cèpes et au porto</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>4 morceaux de saumon </p>
+    <p>375 g de foie gras de canard </p>
+    <p>300 g de cèpes</p>
+    <p>1 salade de mâche</p>
+    <p>40 cl de Porto </p>
+    <p>25 cl de vin blanc </p>
+    <p>40 g de beurre</p>
+    <p>2 cuillères à soupe d'huile </p>
+    <p>sel et poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Découper le foie gras en 4 tranches.
+    Emincer les cèpes et les faire revenir dans le beurre. Verser le Porto et le vin et laisser cuire à petit feu durant 30 minutes.
+    Faire cuire le saumon dans l'huile puis l'égoutter et le conserver au chaud.
+    Dans la même poêle, faire cuire les tranches de foie gras jusqu'à ce qu'il soit bien doré puis le poser sur un papier absorbant.
+    Répartir la mâche dans les assiettes.
+    Disposer un morceau de saumon dessus et poser une tranche de foie gras poêlé sur chacun.
+    Ajouter les champignons tout autour et arroser de sauce.
+  ]]>
+  </preparation>
+</recette>

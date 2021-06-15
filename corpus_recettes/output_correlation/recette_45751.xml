@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45751">
+  <titre>Gâteau calisson et framboise</titre>
+  <type>Dessert</type>
+  <niveau>Difficile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>Pour le Biscuit joconde :</p>
+    <p>60 g de farine</p>
+    <p>40 g de beurre</p>
+    <p>200 g de poudre d'amandes</p>
+    <p>200 g de sucre glace</p>
+    <p>6 oeufs entiers</p>
+    <p>6 blancs d'oeufs</p>
+    <p>30 g de sucre semoule</p>
+    <p>100 g de nougatine</p>
+    <p>Pour la mousse framboise :</p>
+    <p>250 g coulis framboise ou purée</p>
+    <p>3 feuilles de gélatine</p>
+    <p>200 g de crème fouettée</p>
+    <p>Pour la mousse calissons :</p>
+    <p>150 g de crème de calissons</p>
+    <p>20 cl de lait</p>
+    <p>5 jaunes d'oeufs</p>
+    <p>2 feuilles de gélatine</p>
+    <p>30 cl de crème fouettée</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Monter au fouet les oeufs entiers avec le sucre glace, ajouter la poudre d'amande, la farine et le beurre fondu froid.
+    Monter les blancs en neige avec le sucre semoule, incorporer délicatement au mélange précédent.
+    Etaler une partie du mélange en une longue bande en parsemant de la nougatine sur une plaque et faire cuire 10 min à 200°C (thermostat 6-7) (pour le tour du gâteau).Mettre le reste de la pâte dans un moule et faire cuire 25 min à 180°C (thermostat 6).Mousse framboise :Faire tremper la gélatine, puis la faire fondre dans un peu de purée de framboises, incorporer le reste de la purée froide, puis ajouter la crème fouettée.
+    Mousse de calissons : Détendre la crème de calissons avec le lait bouillant, ajouter les jaunes et cuire comme une crème anglaise, ajouter le gélatine trempée puis pressée, refroidir et incorporer la crème fouettée.
+    Monter le gâteau :Tapisser un moule à charnière avec des bandes de biscuit à la nougatine, mettre au fond un cercle de l'autre biscuit coupé en 3, ajouter la mousse de framboise, puis mettre un autre cercle, puis la mousse de calissons, fermer avec le dernier cercle.
+    Mettre au congélateur puis décorer le dessus avec de la gelée de fruits rouges, des calissons, des framboises fraîches cristalisées.C'est long à faire mais on y arrive.J'ai "punché" chaque biscuit à l'intérieur avec de l'alcool de framboise mélangée avec du sucre de canne (voir la photo sur le forum au coin salon le 4 mars).
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  <OPER id="o_1">Monter</OPER> au fouet les <INGRED id="5">oeufs entiers</INGRED> avec le <INGRED id="1">sucre glace</INGRED>, <OPER id="o_216">ajouter</OPER> la <INGRED id="3">poudre d'amande</INGRED>, la <INGRED id="6">farine</INGRED> et le <INGRED id="2">beurre fondu</INGRED> froid. <OPER id="o_3">Monter</OPER> les <INGRED id="8">blancs</INGRED> en neige avec le <INGRED id="2">sucre semoule</INGRED>, <OPER id="o_4">incorporer</OPER> délicatement au <INGRED id="7">mélange</INGRED> précédent. <OPER id="o_5">Etaler</OPER> une partie du <INGRED id="7">mélange</INGRED> en une longue bande en parsemant de la <INGRED id="8">nougatine</INGRED> sur une plaque et <INGRED id="10">faire</INGRED> <OPER id="o_6">cuire</OPER> 10 min à 200 ° C ( thermostat 6 - 7 ) ( pour le tour du <OPER id="o_7">gâteau).Mettre</OPER> le <INGRED id="1">reste</INGRED> de la <INGRED id="7">pâte</INGRED> dans un moule et <INGRED id="4">faire</INGRED> <OPER id="o_8">cuire</OPER> 25 min à 180 ° C ( thermostat 6).Mousse framboise : Faire <OPER id="o_9">tremper</OPER> la <INGRED id="13">gélatine</INGRED>, puis la <INGRED id="14">faire</INGRED> <OPER id="o_10">fondre</OPER> dans un <INGRED id="14">peu</INGRED> de <INGRED id="14">purée</INGRED> de <INGRED id="3">framboises</INGRED>, <OPER id="o_11">incorporer</OPER> le <INGRED id="1">reste</INGRED> de la <INGRED id="5">purée</INGRED> froide, puis <OPER id="o_1216">ajouter</OPER> la <INGRED id="11">crème fouettée</INGRED>. <INGRED id="3">Mousse</INGRED> de calissons : <OPER id="o_13">Détendre</OPER> la <INGRED id="12">crème de calissons</INGRED> avec le <INGRED id="2">lait</INGRED> bouillant, <OPER id="o_1416">ajouter</OPER> les <INGRED id="13">jaunes</INGRED> et <OPER id="o_15">cuire</OPER> comme une <INGRED id="8">crème</INGRED> anglaise, <OPER id="o_1616">ajouter</OPER> le <INGRED id="13">gélatine</INGRED> trempée puis pressée, <OPER id="o_17">refroidir</OPER> et <OPER id="o_18">incorporer</OPER> la <INGRED id="11">crème fouettée</INGRED>. <OPER id="o_19">Monter</OPER> le gâteau : <OPER id="o_20">Tapisser</OPER> un moule à charnière avec des bandes de biscuit à la <INGRED id="8">nougatine</INGRED>, <OPER id="o_21">mettre</OPER> au <INGRED id="8">fond</INGRED> un cercle de l'autre biscuit <INGRED id="13">coupé</INGRED> en 3, <OPER id="o_2216">ajouter</OPER> la <INGRED id="11">mousse</INGRED> de framboise, puis <OPER id="o_23">mettre</OPER> un autre cercle, puis la <INGRED id="11">mousse</INGRED> de calissons, <OPER id="o_24">fermer</OPER> avec le dernier cercle. <OPER id="o_25">Mettre</OPER> au congélateur puis <OPER id="o_26">décorer</OPER> le dessus avec de la <INGRED id="2">gelée</INGRED> de <INGRED id="3">fruits</INGRED> rouges, des calissons, des <INGRED id="1">framboises</INGRED> fraîches cristalisées. C'est long à <INGRED id="14">faire</INGRED> mais on y arrive. J'ai " punché " chaque biscuit à l'intérieur avec de l'<INGRED id="12">alcool</INGRED> de framboise mélangée avec du <INGRED id="12">sucre</INGRED> de canne ( <OPER id="o_27">voir</OPER> la photo sur le forum au coin salon le 4 mars ).
+  </annotation>
+  <annotation methode="crf">
+  Monter au fouet les <INGRED>oeufs entiers</INGRED> avec le <INGRED>sucre glace</INGRED> <INGRED>,</INGRED> ajouter la <INGRED>poudre d'amande</INGRED> <INGRED>,</INGRED> la <INGRED>farine</INGRED> et le <INGRED>beurre fondu</INGRED> froid <INGRED>.</INGRED> Monter les <INGRED>blancs</INGRED> en neige avec le <INGRED>sucre semoule</INGRED> <INGRED>,</INGRED> incorporer délicatement au <INGRED>mélange</INGRED> précédent <INGRED>.</INGRED> Etaler une partie du <INGRED>mélange</INGRED> en une longue bande en parsemant de la nougatine sur une plaque et faire cuire 10 min à 200 ° C ( thermostat 6 - 7 ) ( pour le tour du gâteau).Mettre le <INGRED>reste</INGRED> de la <INGRED>pâte</INGRED> dans un <INGRED>moule</INGRED> et faire cuire 25 min à 180 ° C ( thermostat 6).Mousse framboise <INGRED>:</INGRED> Faire tremper la <INGRED>gélatine</INGRED> <INGRED>,</INGRED> puis la faire fondre dans un peu de <INGRED>purée</INGRED> de <INGRED>framboises</INGRED> <INGRED>,</INGRED> incorporer le <INGRED>reste</INGRED> de la <INGRED>purée</INGRED> froide <INGRED>,</INGRED> puis ajouter la <INGRED>crème fouettée</INGRED>. Mousse de calissons <INGRED>:</INGRED> Détendre la <INGRED>crème de calissons</INGRED> avec le <INGRED>lait</INGRED> bouillant <INGRED>,</INGRED> ajouter les <INGRED>jaunes</INGRED> et cuire comme une <INGRED>crème anglaise</INGRED> <INGRED>,</INGRED> ajouter le <INGRED>gélatine</INGRED> trempée puis pressée <INGRED>,</INGRED> refroidir et incorporer la <INGRED>crème fouettée</INGRED>. Monter le gâteau <INGRED>:</INGRED> Tapisser un moule à charnière avec des bandes de biscuit à la nougatine <INGRED>,</INGRED> mettre au <INGRED>fond</INGRED> un cercle de l'autre biscuit coupé en 3 <INGRED>,</INGRED> ajouter la mousse de framboise <INGRED>,</INGRED> puis mettre un autre cercle <INGRED>,</INGRED> puis la mousse de calissons <INGRED>,</INGRED> fermer avec le dernier cercle. Mettre au congélateur puis décorer le dessus avec de la <INGRED>gelée de fruits</INGRED> rouges <INGRED>,</INGRED> des calissons <INGRED>,</INGRED> des <INGRED>framboises</INGRED> fraîches <INGRED>cristalisées</INGRED> <INGRED>.</INGRED> C'est long à faire mais on y arrive <INGRED>.</INGRED> J'ai " punché " chaque biscuit à l'intérieur avec de l'<INGRED>alcool</INGRED> de framboise mélangée avec du <INGRED>sucre de canne</INGRED> ( voir la photo sur le forum au coin salon le 4 mars ).
+  </annotation>
+  <complexite>
+    <temps>f(X) = 18.0*X + 9.0</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 22*X + 20</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['farine']	 id:1	 quantité:60	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['beurre']	 id:2	 quantité:40	 unité:g de	 denombrable:False	 recipient:1
+ingredient:["poudre d'amandes", 'poudre']	 id:3	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['sucre glace', 'sucre']	 id:4	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['oeufs entiers', 'oeufs']	 id:5	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:["blancs d'oeufs", 'blancs']	 id:6	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:['sucre semoule', 'sucre']	 id:7	 quantité:30	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['nougatine']	 id:8	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['coulis framboise']	 id:9	 quantité:250	 unité:g	 denombrable:False	 recipient:1
+ingredient:['gélatine']	 id:10	 quantité:3	 unité:feuilles de	 denombrable:True	 recipient:3*X
+ingredient:['crème fouettée', 'crème']	 id:11	 quantité:200	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['crème de calissons', 'crème']	 id:12	 quantité:150	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['lait']	 id:13	 quantité:20	 unité:cl de	 denombrable:False	 recipient:1
+ingredient:["jaunes d'oeufs", 'jaunes']	 id:14	 quantité:5	 unité:non_precis	 denombrable:True	 recipient:5*X
+ingredient:['gélatine']	 id:15	 quantité:2	 unité:feuilles de	 denombrable:True	 recipient:2*X
+ingredient:['crème fouettée', 'crème']	 id:16	 quantité:30	 unité:cl de	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:monter	 id:o_1	 ingrédients_ralatifs:['5', '1', '16', '3', '6', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:['3', '6', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:monter	 id:o_3	 ingrédients_ralatifs:['8', '2', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:incorporer	 id:o_4	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:etaler	 id:o_5	 ingrédients_ralatifs:['7', '8', '10', '1', '7', '4']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:cuire	 id:o_6	 ingrédients_ralatifs:['10']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:gâteau).mettre	 id:o_7	 ingrédients_ralatifs:['1', '7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_8	 ingrédients_ralatifs:['4']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:tremper	 id:o_9	 ingrédients_ralatifs:['13', '14', '14', '14', '3', '1', '5', '16', '11']	 nombre_opération_atomique:1	 temps:60	 recipient:1
+operation:fondre	 id:o_10	 ingrédients_ralatifs:['14', '14', '14', '3']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:incorporer	 id:o_11	 ingrédients_ralatifs:['1', '5', '16', '11']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_12	 ingrédients_ralatifs:['11']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:détendre	 id:o_13	 ingrédients_ralatifs:['12', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_14	 ingrédients_ralatifs:['13', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:cuire	 id:o_15	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:20	 recipient:1
+operation:ajouter	 id:o_16	 ingrédients_ralatifs:['13', '8', '13']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:refroidir	 id:o_17	 ingrédients_ralatifs:['13', '8', '13', '11']	 nombre_opération_atomique:1	 temps:15	 recipient:0
+operation:incorporer	 id:o_18	 ingrédients_ralatifs:['11']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:monter	 id:o_19	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:tapisser	 id:o_20	 ingrédients_ralatifs:['8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_21	 ingrédients_ralatifs:['8', '8', '13', '16', '11', '11']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:ajouter	 id:o_22	 ingrédients_ralatifs:['11']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mettre	 id:o_23	 ingrédients_ralatifs:['11']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:fermer	 id:o_24	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1*X	 recipient:0
+operation:mettre	 id:o_25	 ingrédients_ralatifs:['2', '3', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:décorer	 id:o_26	 ingrédients_ralatifs:['2', '3', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:voir	 id:o_27	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

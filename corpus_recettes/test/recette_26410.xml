@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26410">
+  <titre>Langue de boeuf sauce chasseur</titre>
+  <type>Plat principal</type>
+  <niveau>Très facile</niveau>
+  <cout>Assez Cher</cout>
+  <ingredients>
+    <p>1 langue de boeuf</p>
+    <p>2 carottes</p>
+    <p>2 poireaux</p>
+    <p>céleri</p>
+    <p>persil</p>
+    <p>1 oignon piqué de clous de girofles</p>
+    <p>2 gousses d'ail</p>
+    <p>1 gros oignon</p>
+    <p>1 pot moyen de sauce tomate concentrée</p>
+    <p>1 boîte de champignons</p>
+    <p>60 cl de vin blanc sec</p>
+    <p>sel, poivre</p>
+    <p>farine</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire cuire la langue 1 h30 dans une cocotte-minute. 
+    Epluchez l'oignon et coupez le en petits morceaux. 
+    En fin de cuisson sortez la langue et épluchez-la. Faire revenir les oignons coupés dans un mélange huile - beurre. 
+    Rajouter la farine pour faire un roux. 
+    Rajouter la sauce tomate et liquéfiez avec le vin blanc. 
+    Rajouter les champignons. 
+    Salez et poivrez, et goûtez.... Couper la langues en tranches et mettre dans la sauce pendant 10 min. Servez avec des tagliatelles et bon appétit. blanc sec
+  ]]>
+  </preparation>
+</recette>

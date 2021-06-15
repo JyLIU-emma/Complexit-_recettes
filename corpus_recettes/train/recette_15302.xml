@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15302">
+  <titre>Poulet des moines</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 poulet découpé ou des morceaux de poulet choisis</p>
+    <p>1 oignon</p>
+    <p>ail</p>
+    <p>1 cuillère à soupe de moutarde</p>
+    <p>3 cuillère à soupe de crème fraîche épaisse.</p>
+    <p>2 sachets de gruyère râpé (125 g)</p>
+    <p>1/2 l de vin blanc sec</p>
+    <p>1 cuillère à café de paprika</p>
+    <p>sel</p>
+    <p>poivre</p>
+    <p>un peu de cognac</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire revenir les morceaux de poulet dans l'huile avec l'oignon, le paprika et l'ail. Attendre que les morceaux dorent.
+    Quand ils ont atteints la couleur, les flamber avec du cognac ou de la bénédictine. Puis les mettre de côté dans une assiette.
+    Mettre dans le reste de sauce 1 grosse cuillère à soupe  de moutarde, 1/2 sachet de gruyère râpé, puis mélanger pour obtenir une sauce homogène. Ajouter la crème fraîche.
+    Remettre le poulet et 1/2l de vin blanc sec. Laisser cuire 3/4 d'heure.
+    Préchauffer le four à thermostat 7/8.Mettre les morceaux de poulet dans un plat allant au four, les arroser avec la sauce, parsemer de gruyère râpé et mettre au four 1/4 d'heure.
+    Servir très chaud avec du riz. vin blanc sec
+  ]]>
+  </preparation>
+</recette>

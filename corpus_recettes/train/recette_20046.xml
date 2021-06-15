@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20046">
+  <titre>Tarte à la crème brûlée et au parfum d'amande</titre>
+  <type>Dessert</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>1 pâte sablée pur beurre</p>
+    <p>3 jaunes d'oeufs</p>
+    <p>1/2 cuillère à café d'extrait d'amande amère</p>
+    <p>65 g de sucre grêlon</p>
+    <p>1,2 dl de lait</p>
+    <p>3 dl de crème fleurette</p>
+    <p>1 cuillère à soupe d'amandes effilées</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Préchauffer le four à thermostat 6 (180°C). Piquer la pâte et l'enfourner 15 minutes.
+    Baisser le thermostat à 2 ou 3. Mettre les jaunes et le sucre dans un saladier, puis fouetter le tout jusqu'à ce que le mélange devienne pâle mais sans mousse. Délayer avec le lait puis incorporer la crème fleurette et les amandes. Laisser reposer 10 minutes à température ambiante.
+    Verser alors sur la pâte refroidie: la couche ne doit pas dépasser 1,5 cms d'épaisseur. Enfourner 40 à 45 minutes( la crème doit être prise mais tremble quand on tapote le moule).
+    Laisser refroidir au frigo. Préchauffer le grill du four et enfourner la tarte jusqu'à coloration. Semer les amandes puis le sucre.
+  ]]>
+  </preparation>
+</recette>

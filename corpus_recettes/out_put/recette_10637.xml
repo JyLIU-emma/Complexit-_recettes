@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10637">
+  <titre>Roulades de saumon aux oeufs brouillés et carré frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>8 tranches de saumon mariné</p>
+    <p>6 oeufs</p>
+    <p>1 bouquet d'aneth</p>
+    <p>Carré frais à volonté</p>
+    <p>1 laitue type Iceberg</p>
+    <p>1/2 concombre</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire des oeufs brouillés.
+    Hors du feu, incorporer les carrés frais aux oeufs, ajouter l'aneth et corriger l'assaisonnement.
+    Etaler les tranches de saumon et les garnir du mélange oeuf/carré frais. Les rouler et placer les au frais une demi-heure à une heure avant de servir.
+    Service:
+    Servir sur un lit de laitue Iceberg découpée finement, décorer de fines tranches de concombre (non épluché). Assisonner la salade d'une vinaigrette huile d'olive / balsamique.
+    Astuce:
+    Un mélange oeuf/carré frais trop liquide : le placer au frais une demi-heure avant de garnir.
+    Marche aussi avec du jambon blanc.
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire des <INGRED id="2">oeufs</INGRED> brouillés. Hors du feu, <OPER id="o_1">incorporer</OPER> les <INGRED id="7">carrés frais</INGRED> aux <INGRED id="2">oeufs</INGRED>, <OPER id="o_2">ajouter</OPER> l'aneth et <OPER id="o_3">corriger</OPER> l'assaisonnement. <OPER id="o_4">Etaler</OPER> les tranches de <INGRED id="1">saumon</INGRED> et les <OPER id="o_5">garnir</OPER> du mélange <INGRED id="2">oeuf</INGRED> / <INGRED id="8">carré frais</INGRED>. Les <OPER id="o_6">rouler</OPER> et <OPER id="o_7">placer</OPER> les au frais une demi-heure à une heure avant de servir. Service : Servir sur un lit de <INGRED id="5">laitue</INGRED> Iceberg découpée finement, <OPER id="o_8">décorer</OPER> de fines tranches de <INGRED id="1">concombre</INGRED> ( non épluché ). <OPER id="o_9">Assisonner</OPER> la salade d'une vinaigrette <INGRED id="7">huile d'olive</INGRED> / balsamique. Astuce : Un mélange <INGRED id="5">oeuf</INGRED> / <INGRED id="8">carré frais</INGRED> trop liquide : le <OPER id="o_10">placer</OPER> au frais une demi-heure avant de <OPER id="o_11">garnir</OPER>. Marche aussi avec du jambon <INGRED id="1">blanc</INGRED>.
+  </annotation>
+  <annotation methode="crf">
+  Faire des <INGRED>oeufs</INGRED> brouillés. Hors du feu <INGRED>,</INGRED> incorporer les <INGRED>carrés</INGRED> <INGRED>frais</INGRED> aux <INGRED>oeufs</INGRED> <INGRED>,</INGRED> ajouter l'<INGRED>aneth</INGRED> et corriger l'assaisonnement <INGRED>.</INGRED> Etaler les tranches de saumon et les garnir du <INGRED>mélange</INGRED> <INGRED>oeuf</INGRED> / <INGRED>carré</INGRED> <INGRED>frais</INGRED> <INGRED>.</INGRED> Les rouler et placer les au <INGRED>frais</INGRED> une demi-heure à une heure avant de servir <INGRED>.</INGRED> Service <INGRED>:</INGRED> Servir sur un lit de <INGRED>laitue</INGRED> Iceberg découpée <INGRED>finement</INGRED> <INGRED>,</INGRED> décorer de fines tranches de <INGRED>concombre</INGRED> ( non épluché ). Assisonner la salade d'une <INGRED>vinaigrette</INGRED> <INGRED>huile d'olive</INGRED> / balsamique. Astuce <INGRED>:</INGRED> Un <INGRED>mélange</INGRED> <INGRED>oeuf</INGRED> / <INGRED>carré</INGRED> <INGRED>frais</INGRED> trop liquide <INGRED>:</INGRED> le placer au <INGRED>frais</INGRED> une demi-heure avant de garnir <INGRED>.</INGRED> Marche aussi avec du <INGRED>jambon blanc</INGRED> <INGRED>.</INGRED>
+  </annotation>
+  <complexite>
+    <temps>f(X) = 9.30769230769231*X + 1.69230769230769</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 17*X + 4</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['saumon mariné', 'saumon']	 id:1	 quantité:8	 unité:tranches de	 denombrable:True	 recipient:8*X
+ingredient:['oeufs']	 id:2	 quantité:6	 unité:non_precis	 denombrable:True	 recipient:6*X
+ingredient:["bouquet d'aneth", 'bouquet']	 id:3	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['Carré frais à volonté', 'Carré']	 id:4	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['laitue type Iceberg', 'laitue']	 id:5	 quantité:1	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['concombre']	 id:6	 quantité:1/2	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:['sel']	 id:7	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+ingredient:['poivre']	 id:8	 quantité:non_precis	 unité:non_precis	 denombrable:False	 recipient:1
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:incorporer	 id:o_1	 ingrédients_ralatifs:['7', '2']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:ajouter	 id:o_2	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:corriger	 id:o_3	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:etaler	 id:o_4	 ingrédients_ralatifs:['1', '2', '8']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:garnir	 id:o_5	 ingrédients_ralatifs:['2', '8']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:rouler	 id:o_6	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_7	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:décorer	 id:o_8	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:assisonner	 id:o_9	 ingrédients_ralatifs:['7']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:placer	 id:o_10	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:garnir	 id:o_11	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

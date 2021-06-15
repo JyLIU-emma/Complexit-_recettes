@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169420">
+  <titre>Mousse au nutella et galettes bretonnes pur beurre</titre>
+  <type>Dessert</type>
+  <niveau>Moyennement difficile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>100g de Nutella</p>
+    <p>1/2 cc de jus de citron </p>
+    <p>3 à 4 blancs d'oeufs selon la taille des oeufs</p>
+    <p>4 à 6 galettes bretonnes pur beurre type St Michel .</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Faire fondre le Nutella au bain marie ou au micro-ondes. 
+    Mélanger le jus de citron aux blancs d'oeufs , monter les blancs en neige TRES ferme .
+    Réduire les galettes en poudre (en conserver un peu pour la décoration)  puis les mélanger au Nutella . Ajouter délicatement les blancs en neige à l'aide d'une spatule .
+    Disposer le mélange dans des verrines puis mettre au frais environ 8 heures . Saupoudrez de poudre de galettes avant de servir .
+    DEGUSTEZ !!!
+  ]]>
+  </preparation>
+  <annotation methode="symbolique">
+  Faire <OPER id="o_1">fondre</OPER> le <INGRED id="1">Nutella</INGRED> au bain marie ou au micro-ondes. <OPER id="o_2">Mélanger</OPER> le <INGRED id="3">jus de citron</INGRED> aux blancs d'oeufs, <OPER id="o_3">monter</OPER> les blancs en neige TRES ferme. Réduire les galettes en <INGRED id="1">poudre</INGRED> ( en conserver un peu pour la décoration ) puis les <OPER id="o_4">mélanger</OPER> au <INGRED id="1">Nutella</INGRED>. <OPER id="o_5">Ajouter</OPER> délicatement les blancs en neige à l'aide d'une spatule. <OPER id="o_6">Disposer</OPER> le mélange dans des verrines puis <OPER id="o_7">mettre</OPER> au frais <INGRED id="1">environ</INGRED> 8 heures. <OPER id="o_8">Saupoudrez</OPER> de <INGRED id="1">poudre</INGRED> de <INGRED id="1">galettes</INGRED> avant de servir. <OPER id="o_9">DEGUSTEZ</OPER> ! ! !
+  </annotation>
+  <annotation methode="crf">
+  Faire fondre le Nutella au bain marie <INGRED>ou</INGRED> au micro-ondes <INGRED>.</INGRED> Mélanger le <INGRED>jus</INGRED> de <INGRED>citron</INGRED> aux <INGRED>blancs d'oeufs</INGRED> <INGRED>,</INGRED> monter les <INGRED>blancs</INGRED> en neige TRES ferme. Réduire les <INGRED>galettes en poudre</INGRED> ( en conserver un peu pour la décoration ) puis les mélanger au Nutella. Ajouter délicatement les <INGRED>blancs</INGRED> en neige à l'aide d'une spatule <INGRED>.</INGRED> Disposer le <INGRED>mélange</INGRED> dans des verrines puis mettre au <INGRED>frais</INGRED> <INGRED>environ</INGRED> 8 heures. Saupoudrez de <INGRED>poudre</INGRED> de <INGRED>galettes</INGRED> avant de servir <INGRED>.</INGRED> DEGUSTEZ ! ! !
+  </annotation>
+  <complexite>
+    <temps>f(X) = 7.94117647058824*X + 1.05882352941176</temps>
+  <complexite>
+  <complexite>
+    <espace>f(X) = 8*X + 6</espace>
+  <complexite>
+<ingredients_trouve>
+<![CDATA[
+ingredient:['Nutella']	 id:1	 quantité:100	 unité:g de	 denombrable:False	 recipient:1
+ingredient:['cc de jus de citron', 'cc']	 id:2	 quantité:1/2	 unité:non_precis	 denombrable:True	 recipient:1*X
+ingredient:["blancs d'oeufs selon la taille des oeufs", 'blancs']	 id:3	 quantité:3	 unité:non_precis	 denombrable:True	 recipient:3*X
+ingredient:['galettes bretonnes pur beurre type St Michel', 'galettes']	 id:4	 quantité:4	 unité:non_precis	 denombrable:True	 recipient:4*X
+]]>
+</ingredients_trouve>
+<operation_trouve>
+<![CDATA[
+operation:fondre	 id:o_1	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:3	 recipient:1
+operation:mélanger	 id:o_2	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:monter	 id:o_3	 ingrédients_ralatifs:['3']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:mélanger	 id:o_4	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:5	 recipient:1
+operation:ajouter	 id:o_5	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:disposer	 id:o_6	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:mettre	 id:o_7	 ingrédients_ralatifs:['1']	 nombre_opération_atomique:1	 temps:1	 recipient:1
+operation:saupoudrer	 id:o_8	 ingrédients_ralatifs:['1', '1']	 nombre_opération_atomique:1	 temps:1	 recipient:0
+operation:deguster	 id:o_9	 ingrédients_ralatifs:[]	 nombre_opération_atomique:1	 temps:1	 recipient:0
+]]>
+</operation_trouve>
+</recette>

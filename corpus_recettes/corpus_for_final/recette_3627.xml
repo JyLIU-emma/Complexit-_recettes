@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="3627">
+  <titre>Potage vert au fromage frais</titre>
+  <type>Entrée</type>
+  <niveau>Facile</niveau>
+  <cout>Bon marché</cout>
+  <ingredients>
+    <p>500 g de brocoli</p>
+    <p>2 courgettes</p>
+    <p>2 oignons</p>
+    <p>150 g de salade de blé</p>
+    <p>4 Carrés gervais frais 0%</p>
+    <p>1 l d'eau</p>
+    <p>3 cubes de bouillon dégraissés </p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Epluchez, nettoyez, et coupez tous les légumes. 
+    Faites chauffer l'eau, et mettez les légumes coupés dans l'eau. 
+    Ajoutez les cubes dans le potage. Faites cuire pendant 25 min. 
+    Ensuite, mettez les petits gervais dans le faitout, et attendez qu'ils soient bien fondu, pour bien mixer ce délicieux potage, pauvre en calories.    
+  ]]>
+  </preparation>
+</recette>

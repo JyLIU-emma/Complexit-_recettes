@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23739">
+  <titre>Soupe de riz aux légumes et à l'agneau (Monténégro)</titre>
+  <type>Plat principal</type>
+  <niveau>Facile</niveau>
+  <cout>Moyen</cout>
+  <ingredients>
+    <p>500 g de poitrine d'agneau désossée</p>
+    <p>5 cl d'huile d'olive</p>
+    <p>3 carottes</p>
+    <p>2 branches de céleri</p>
+    <p>1 bouquet de persil frais</p>
+    <p>3 poireaux</p>
+    <p>3 oignons </p>
+    <p>2 gousses d'ail</p>
+    <p>1 poivron rouge</p>
+    <p>1 poivron vert</p>
+    <p>2 l de bouillon </p>
+    <p>200 g de riz</p>
+    <p>200 g de haricots verts</p>
+    <p>sel, poivre</p>
+  </ingredients>
+  <preparation>
+  <![CDATA[
+    Détailler l'agneau en morceaux, puis les faire revenir dans une poêle huilée.
+    Laver et épépiner les poivrons puis les détailler en fines lamelles.
+    Peler la carotte, les poireaux, les oignons et l'ail, puis les émincer.
+    Ajouter à la viande les légumes, l'ail et l'oignon, puis laisser mijoter 10 à 15 min avant de les mouiller de bouillon.
+    Porter à ébullition et laisser cuire 45 min, puis ajouter ensuite le riz et assaisonner.
+    Laisser cuire encore 20 min à feu doux à couvert et déguster.
+  ]]>
+  </preparation>
+</recette>
